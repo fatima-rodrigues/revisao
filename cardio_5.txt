@@ -1,0 +1,396 @@
+Arritmias cardíacas
+José Paulo Ladeira / Rodrigo Antônio Brandão Neto / Fabrício Nogueira Furtado
+
+
+1. Introdução
+
+Para melhor compreensão do tema, é necessária uma revisão de conceitos importantes.
+
+A - Sistema de condução elétrico intracardíaco
+O sistema de condução intracardíaco é composto pelas seguintes estruturas: nó sinusal, nó atrioventricular (AV), feixe juncional ou de His, ramos direito e esquerdo e fibras de Purkinje. Tais estruturas têm a característica intrínseca de se despolarizarem automaticamente a uma frequência própria, sendo desnecessário algum estímulo externo para gerar essa despolarização. 
+As estruturas mais superiores apresentam frequências de despolarizações automáticas mais elevadas que as estruturas mais inferiores (Figura 1). Aquela que fisiologicamente tem a maior frequência de despolarização é o nó sinusal, de cerca de 80 por minuto, fazendo que as estruturas abaixo desse nó sejam despolarizadas pelo estímulo elétrico gerado pelo próprio nó sinusal. 
+Em determinadas condições (hipercalemia, degeneração do nó sinusal, entre outras), o nó sinusal pode perder tal capacidade de despolarização automática, determinando, comumente, queda da frequência cardíaca. Isso ocorre porque, na ausência funcional desse nó, a frequência cardíaca passa a ser determinada pela estrutura do sistema de condução que tem a maior frequência de despolarização autônoma, geralmente o nó AV. Caso este não esteja ativo, a região juncional determina o ritmo cardíaco, e assim por diante. 
+Ou seja, a frequência cardíaca será determinada pela região do sistema de condução que tiver a maior frequência de despolarização, exceto em situações em que focos elétricos ectópicos (fora do sistema de condução) apresentem frequências automáticas de despolarização mais elevadas do que a do sistema de condução elétrica miocárdica, como na taquicardia ventricular ou na taquicardia atrial.
+
+ 
+Figura 1 - Estruturas do sistema de condução elétrica intracardíaca e suas frequências automáticas de despolarização
+
+B - Onda P
+A onda P compreende o registro eletrocardiográfico da despolarização atrial, determinada, fisiologicamente, pela despolarização automática do nó sinusal. A onda elétrica da repolarização atrial não é visível ao eletrocardiograma (ECG) por ocorrer, justamente, no período em que o complexo QRS é registrado, com sobreposição dos traçados. 
+O intervalo compreendido entre o início da onda P e o início do QRS é chamado PR, o qual corresponde ao atraso fisiológico na condução da onda elétrica gerada na despolarização atrial dentro do nó AV. Tal atraso pode ter a duração máxima de 0,2ms (ou 5 quadrinhos do traçado eletrocardiográfico – cada um tem duração de 0,04ms).
+
+C - Complexo QRS
+O complexo QRS representa a despolarização elétrica dos ventrículos e tem a duração fisiológica máxima de 0,12ms. A despolarização ventricular normal acontece por progressão do estímulo elétrico por meio da região juncional, dos ramos direito e esquerdo e das fibras de Purkinje, até chegar ao músculo cardíaco. Quando o QRS apresenta duração <0,12ms, é chamado de QRS estreito; quando =0,12ms, é chamado de QRS largo. 
+A importância de definir o QRS como largo ou estreito está no fato de que, quando o estímulo de despolarização ventricular progride pelos ramos direito e esquerdo, a velocidade com que a onda elétrica determina a despolarização dos 2 ventrículos é elevada, determinando o QRS de menor duração. Quando, por algum motivo (alteração metabólica, isquemia, degeneração etc.), o estímulo elétrico progride apenas por 1 dos ramos ventriculares, o ventrículo oposto é despolarizado pela propagação da onda elétrica por meio do músculo cardíaco do ventrículo já despolarizado até chegar ao outro ventrículo.
+Essa condução intramuscular ocorre de forma mais lenta do que aquela no sistema de condução através dos ramos, determinando o QRS largo. Assim, de forma genérica, este indica o bloqueio de 1 dos ramos do sistema de condução. A exceção acontece quando há um foco elétrico ectópico ventricular, pois o estímulo elétrico nasce em 1 dos ventrículos propagando-se para o outro por meio da musculatura cardíaca, mesmo com a integridade do sistema de condução.
+
+D - Onda T
+A onda T representa a repolarização elétrica ventricular. Vários fatores podem influenciar esse período, como distúrbios metabólicos e isquemia.
+
+E - Onda U
+O significado da onda U ainda é incerto e, possivelmente, representa a repolarização mais tardia das fibras de His-Purkinje. Também se associa a situações de hipocalemia. Nas Figuras seguintes, estão descritas as ondas do traçado eletrocardiográfico normal.
+
+ 
+Figura 2 - Traçado eletrocardiográfico normal
+
+ 
+Figura 3 - Papel milimetrado para traçado eletrocardiográfico
+
+ 
+Figura 4 - ECG normal 
+
+2. Arritmias
+
+A chave para a interpretação das arritmias é a análise da forma e das inter-relações da onda P, do intervalo PR e do complexo QRS. A avaliação do traçado envolve a análise da frequência, do ritmo, da origem mais constante do estímulo (marca-passo predominante) e da configuração da onda P e do QRS (estreito ou largo). 
+As arritmias cardíacas acontecem, de forma simplificada, por 3 mecanismos possíveis.
+
+A - Alteração do automatismo cardíaco
+Pode ocorrer por aceleração ou desaceleração das estruturas automáticas do coração, como o nó sinusal (taquicardia ou bradicardia sinusal), nó AV ou o próprio miocárdio. Batimentos (ou despolarizações ectópicas) podem surgir por distúrbios elétricos atriais, da junção AV ou dos ventrículos. Também são possíveis ritmos anormais, como taquicardia atrial ou ventricular.
+
+B - Distúrbios de condução atrioventricular
+A condução pode ser acelerada, como na Síndrome de Wolff-Parkinson-White (SWPW), ou lenta, como no bloqueio AV.
+
+C - Combinações de distúrbios de automatismo e de condução
+Extrassístole atrial com bloqueio AV ou taquicardia atrial com bloqueio AV 3:1 são exemplos destas combinações.
+
+3. Identificando arritmias
+
+Serão interpretadas as arritmias pela análise de um traçado eletrocardiográfico (ECG) em derivação única.
+Há vários métodos de identificação, porém o mais sistematizado se baseia na análise das respostas a estas 4 perguntas:
+
+A - 1ª pergunta: o QRS tem aparência e tamanho normais?
+Quando não é possível a identificação de um complexo QRS no traçado eletrocardiográfico, restam 2 diagnósticos: fibrilação ventricular ou assistolia, condições que demandam intervenções imediatas.
+
+a) Fibrilação ventricular
+Ritmo de origem ventricular, desorganizado, representando a despolarização caótica dos ventrículos. Essa forma de despolarização não gera contração ventricular coordenada e efetiva, determinando parada cardíaca. O tratamento imediato é a desfibrilação cardíaca.
+Critérios diagnósticos ao ECG:
+Não se identifica QRS;
+Frequência: muito elevada e caótica;
+Ritmo: desorganizado, não se identificando ondas P, complexo QRS, segmento ST ou onda T.
+ 
+Figura 5 - Fibrilação ventricular
+
+b) Assistolia 
+Representa a ausência completa de atividade elétrica cardíaca quando confirmada por meio da checagem do protocolo da linha plana (aumento do ganho, exclusão de artefato técnico, confirmação da correta colocação dos eletrodos, assim como a ligação dos cabos e a confirmação da assistolia em 2 derivações). O tratamento passa pelo uso de adrenalina, pela busca de causas associadas, entre outras medidas. O marca-passo transcutâneo ou venoso e a atropina não são mais indicados.
+Critérios diagnósticos ao ECG:
+Ausência completa de atividade elétrica ventricular; é possível a ocorrência de ondas P ou de batimentos de escape ventricular agônicos.
+No entanto, quando se identifica o QRS, é necessária a análise mais detalhada de sua duração, primeiramente pela caracterização deste em estreito ou largo. O QRS estreito (<0,12ms) demonstra o funcionamento correto do sistema de condução intraventricular, e o QRS alargado pode indicar ou não o funcionamento de 1 dos ramos do sistema de condução ou um complexo QRS determinado por batimento ectópico de origem ventricular.
+
+ 
+Figura 6 - Assistolia
+
+c) Taquicardia ventricular 
+A Taquicardia Ventricular (TV) é definida como 3 ou mais batimentos sucessivos de origem ventricular com frequência >120bpm, sendo que o QRS tem duração >0,12ms. Apesar de ter a mesma origem que a FV, o ritmo idioventricular acelerado difere desta por sua frequência menor (frequência cardíaca entre 100 e 120bpm). Na TV, o ritmo é regular, porém pode apresentar alguns períodos de irregularidade. A apresentação clínica é variável, podendo ser bem tolerada, assim como determinar instabilidade hemodinâmica e, até mesmo, parada cardiorrespiratória. 
+Tal variação na apresentação clínica depende muito da presença ou não de disfunção miocárdica e da frequência cardíaca associada. Quando a morfologia do QRS é constante, trata-se de TV monomórfica; quando ocorrem várias morfologias do QRS, há a TV polimórfica. Pode haver ondas P relacionadas à despolarização sinusal, as quais são bloqueadas pela despolarização do nó AV determinada pela TV. Também pode ocorrer condução retrógrada, gerando a onda P retrógrada após o QRS. Tal condição é de difícil diferenciação da taquicardia supraventricular com condução retrógrada. 
+O tratamento da TV depende da condição clínica. Entre os pacientes com estabilidade hemodinâmica, há tempo para a aplicação de antiarrítmicos, como amiodarona e lidocaína. Pacientes com QTc prévio normal devem receber amiodarona, enquanto aqueles com aumento do QTc devem receber lidocaína. Nas TVs com repercussão hemodinâmica (hipotensão, alteração de consciência, dor precordial e congestão pulmonar importante), a cardioversão elétrica imediata é o tratamento de escolha. 
+A TV também é considerada sustentada quando a sua duração é maior que 30 segundos ou quando, independente do seu tempo de duração, determina sintomas clínicos, e é chamada de não sustentada quando a duração é menor que 30 segundos. Uma característica que auxilia na localização do foco ectópico ventricular é a avaliação da morfologia dos complexos QRS nas derivações precordiais. Quando a TV apresenta morfologia de bloqueio do ramo direito (rsR’ em V1), o foco ectópico está no ventrículo esquerdo. Similarmente, quando a morfologia em V1 é de bloqueio do ramo esquerdo (qs), a origem da taquiarritmia é o ventrículo direito. 
+Critérios diagnósticos ao ECG:
+Frequência >100bpm;
+Ritmo: geralmente regular;
+Ondas P: normalmente não visíveis nas TVs com alta frequência, mas possivelmente presentes e dissociadas do QRS;
+QRS, segmento ST e onda T: morfologia do QRS serrilhada e bizarra, com duração >0,12ms; segmento ST e onda T geralmente opostos em polaridade com o QRS;
+Quando a TV é polimórfica, o intervalo e a morfologia do QRS variam.
+Um desafio clínico associado a essa arritmia é a diferenciação com a taquicardia supraventricular (TSV) associada a bloqueio de ramo, pois nessa condição o QRS também será alargado. Tal diferenciação tem impacto sobre qual tratamento será corretamente empregado. Os critérios de Brugada podem ser usados na tentativa de diferenciar TV de TSV. Quando não são encontrados esses critérios, a arritmia é, provavelmente, de origem supraventricular.
+1º passo:
+Ausência de complexos RS nas derivações precordiais? 
+Sim: TV;
+Não: ir para passo 2.
+2º passo:
+O intervalo entre o início do R e o nadir do S é maior do que 100ms (2,5mm)?
+Sim: TV;
+Não: ir para passo 3.
+3º passo:
+Há dissociação AV?
+Sim: TV;
+Não: ir para os critérios morfológicos (passo 4).
+4º passo:
+É sugerida a etiologia ventricular de taquicardia associada a bloqueio do ramo direito (QRS predominantemente positivo em V1) quando:
+QRS >0,14ms;
+Desvio de eixo;
+Onda QS predominante em V6;
+QRSs concordantes (positivos ou negativos) nas derivações precordiais;
+Onda R simples ou bifásica em V1.
+É sugerida a etiologia ventricular de taquicardia associada a bloqueio do ramo esquerdo (QRS predominantemente negativo em V1) quando:
+Desvio de eixo;
+QRS >0,16ms;
+QS predominantemente negativo em V6;
+QRSs concordantes (positivos ou negativos) nas derivações precordiais;
+Complexo rS em V1.
+
+ 
+ Figura 7 - Taquicardia ventricular
+
+d) Torsades de pointes (torção da ponta)
+Trata-se de uma forma de TV em que os complexos QRS aparentam estar, constantemente, mudando de eixo após cada 5 a 20 batimentos, lembrando uma forma de atividade elétrica de forma helicoidal torcida no seu eixo espacial (daí seu nome). Geralmente, é desencadeada por distúrbios metabólicos (hipomagnesemia ou hipocalemia), alargamento do intervalo QT (bradicardias) e efeito pró-arrítmico de certas drogas, como procainamida, quinidina e disopiramida, que podem alargar o intervalo QT, que, quando normal (medido do início do QRS até o final da onda T), fica entre 390 e 450ms nos homens e 460ms nas mulheres. Quando está alargado, deve-se considerar a possibilidade de indução dessa arritmia com o uso dos antiarrítmicos citados. O tratamento da arritmia envolve o uso de sulfato de magnésio, procainamida (quando a droga não foi indutora da arritmia) e marca-passo em alta frequência. 
+
+ 
+Figura 8 - Torsades de pointes
+
+e) Extrassístole ventricular 
+Alguns complexos QRS de aspecto anormal (QRS >0,12ms) podem ocorrer intercalados com complexos QRS normais em alguns pacientes. Denominados extrassístoles ventriculares (ESVs), surgem a partir de qualquer um dos ventrículos antes do próximo batimento sinusal, de forma prematura, podendo ser geradas por reentrada ou a partir de um foco automático ventricular. O intervalo entre o batimento normal prévio e a ESV, chamado intervalo de conexão, é constante quando o mecanismo é de reentrada do mesmo foco (ESVs uniformes). Quando o intervalo de conexão e a morfologia dos complexos QRS variam, geralmente as extrassístoles são originadas de vários focos (multifocais). Quando, de cada 2 batimentos, 1 é uma ESV, o ritmo é chamado de bigeminismo; quando, de cada 3 batimentos, o 3º é uma ESV, o ritmo é chamado de trigeminismo, e assim por diante. Quando uma ESV cai sobre o período vulnerável do ST, pode haver uma TV ou fibrilação ventricular. As ESVs são, geralmente, bem toleradas e raramente tratadas, exceto quando os sintomas de palpitação são importantes. 
+Critérios diagnósticos ao ECG:
+QRS com aparência aberrante (=0,12ms);
+Ritmo irregular;
+Onda P geralmente oculta pela ESV, podendo determinar a pausa compensatória.
+
+ 
+Figura 9 - ESV
+
+B - 2ª pergunta: existe onda P?
+Após a identificação do complexo QRS, deve-se tentar identificar a onda P normal. A ausência desta ou a presença de ondas P atípicas permitem o diagnóstico de várias arritmias.
+
+a) Fibrilação atrial 
+A Fibrilação Atrial (FA) é a arritmia cardíaca mais frequente, responsável por 30% das internações por alteração do ritmo cardíaco. Apresenta incidência de 0,1% na população acima de 40 anos e prevalência alta, chegando a 8% da população acima de 80 anos (Figura 10). Os portadores sem intervenção terapêutica têm até o dobro da mortalidade em relação aos não portadores. O prognóstico relaciona-se aos eventos embólicos arteriais. Um em cada 6 acidentes vasculares cerebrais isquêmicos tem a FA como causa-base. Quando é causada por valvulopatia reumática (geralmente, estenose mitral), a chance de evento embólico aumenta 17 vezes em relação à população sem FA e 5 vezes em relação à população com FA sem valvulopatia associada. O fenômeno tromboembólico decorre da formação de trombos atriais, principalmente na aurícula esquerda, que não é corretamente avaliada pelo ecocardiograma transtorácico. Com a persistência do ritmo de FA, os átrios sofrem processo de remodelação muscular, determinando a sua dilatação e favorecendo a persistência da arritmia.
+
+ 
+Figura 10 - Prevalência  
+
+Essa arritmia pode resultar de múltiplas áreas de reentrada dentro dos átrios ou de múltiplos focos ectópicos, além de ser frequentemente desencadeada por síndrome do nó sinusal, hipóxia, pressão atrial aumentada, pericardites e outras condições menos frequentes, como a ingestão de álcool. Quando há doença isquêmica miocárdica, a causa mais comum é o aumento da pressão atrial esquerda decorrente da falência miocárdica. Usualmente, a atividade elétrica atrial é muito elevada (de 400 a 700 despolarizações por minuto), determinada pela despolarização de vários pequenos seguimentos atriais e não de todo o átrio. Isso gera contração atrial desordenada e estase sanguínea, favorecendo a formação dos trombos atriais. 
+As ondas fibrilatórias têm frequência variável, e a passagem delas pelo nó AV ocorre de forma aleatória, determinando o ritmo ventricular irregular. Nem todos os estímulos que chegam ao nó AV passam para o ventrículo, podendo ser bloqueados no próprio nó. É o que determina a resposta da frequência ventricular menor do que o número de estímulos iniciados no átrio. 
+A FA, geralmente, é secundária a alguma doença subjacente cardíaca, possivelmente de forma crônica ou em paroxismos, sem outras evidências de doença cardíaca. O tratamento inicial envolve o controle da frequência cardíaca por meio de drogas que retardam a condução dentro do nó AV, determinando redução da resposta ventricular, como diltiazem, verapamil, betabloqueadores ou digoxina. A reversão fica condicionada ao tempo de existência da arritmia, pois a perda da contração mecânica efetiva dos átrios permite a formação de trombos intra-atriais pela estase sanguínea subsequente. Quando há o retorno ao ritmo sinusal e a contração mecânica atrial é restabelecida, podem ocorrer fenômenos tromboembólicos agudos, principalmente arteriais.
+Critérios ao ECG:
+Frequência atrial: normalmente, não pode ser contada, enquanto a frequência ventricular pode chegar de 160 a 180bpm;
+Ritmo: o ritmo ventricular é irregular, devido à presença de bloqueio AV fisiológico, que protege os ventrículos da imensa quantidade de impulsos atriais. Na FA, esse bloqueio é sempre inconstante;
+Ondas P: substituição das ondas P por outras denominadas de ondas F (fibrilação). Estas se apresentam muito diferentes umas das outras, na amplitude, na duração ou no formato, sem qualquer semelhança entre elas. Ocorre substituição da linha de base isoelétrica por ondulações ou serrilhado polimórfico;
+Intervalo QRS: a condução ventricular é normal, exceto se há condução aberrante intraventricular.
+
+ 
+Figura 11 - Ritmo de FA, onde não é possível identificar onda P (são visualizadas ondas F) e o intervalo R-R é irregular
+
+A sintomatologia da FA é muito variada, e esta pode ocorrer de forma assintomática, embora a maioria refira palpitação, tontura, dor torácica, fadiga, síncope e períodos de escurecimento visual. Com relação à apresentação, a FA pode ser classificada como:
+Inicial ou aguda: 1º episódio documentado com duração >30s;
+Crônica: definida quando se documenta a recorrência de FA após um episódio inicial; pode ser classificada em paroxística, persistente e permanente:
+Paroxística: resolução espontânea da arritmia com duração geralmente <7 dias e frequentemente <24 horas; geralmente, não necessita de tratamento de manutenção, exceto anticoagulação conforme comorbidades associadas;
+Persistente: demanda tratamento específico para a reversão ao ritmo sinusal, durando geralmente mais de 7 dias. É chamada de longa duração quando permanece por mais de 1 ano;
+Permanente: aquela em que houve falha nas tentativas de cardioversão química ou elétrica ou aquela em que se optou por não tentar a reversão da arritmia.
+Recorrente: história de 2 ou mais episódios de FA; se não houver sintomas incapacitantes, apenas a anticoagulação e o controle da frequência cardíaca serão necessários. Caso os sintomas sejam significativos, é necessária droga antiarrítmica para a prevenção de recorrência ou ablação.
+A FA também pode ser classificada como primária ou secundária. A FA primária não está associada a outras causas (infarto agudo do miocárdio, insuficiência cardíaca, pericardite e tromboembolismo pulmonar), pois, nesses contextos, a FA tende a resolver-se quando há controle da causa-base. A FA secundária é tida como entidade diferente da primária, pois a recorrência/persistência não é esperada. A FA isolada é encontrada em indivíduos abaixo dos 60 anos, sem sinais clínicos ou ecocardiográficos de doença cardiopulmonar associada. No entanto, a maioria dos casos associa-se a patologias cardiopulmonares.
+O manuseio tem 2 objetivos principais: controle de sintomas e prevenção de eventos cardioembólicos. A terapêutica baseada nesses 2 princípios determina redução da mortalidade quando comparada a nenhum tratamento. Para isso, o tratamento passa por 2 focos principais: reversão da arritmia e controle da resposta ventricular. A reversão do ritmo de FA para ritmo sinusal visa evitar eventos tromboembólicos e sintomatologia, além de impedir o remodelamento ventricular e a progressão para Insuficiência Cardíaca (IC) determinados pela arritmia. No entanto, os efeitos colaterais das drogas utilizadas para reversão do ritmo são maiores que os das drogas utilizadas para controle da frequência cardíaca em longo prazo, assim a melhor estratégia terapêutica na FA ainda não é definida. Um estudo mostrou a melhor tolerância ao exercício entre os pacientes mantidos em ritmo sinusal. Porém, a estratégia de controle da resposta ventricular na FA crônica associada à anticoagulação mostra os mesmos benefícios na ocorrência de complicações (IC, acidente vascular cerebral, número de internações). 
+
+ 
+Figura 12 - Estratégia terapêutica da FA 
+
+A reversão para o ritmo sinusal pode ser obtida por cardioversão farmacológica ou elétrica. O uso de antiarrítmicos é reservado a pacientes estáveis, sem grande repercussão clínica da arritmia, enquanto a cardioversão elétrica é indicada aos instáveis, independente da duração da FA, e aos casos refratários ao uso de antiarrítmicos. O índice de reversão da FA por terapêutica farmacológica é menor do que o obtido pela cardioversão elétrica que deve ser iniciada com 100 a 200J na onda monofásica ou entre 120 e 200J na onda bifásica; elevações de 100J na energia são adicionadas aos choques subsequentes até a reversão da arritmia e/ou a carga de 360J em onda monofásica e 200J em onda bifásica.
+A reversão para ritmo sinusal do 1º episódio de FA, principalmente em pacientes jovens, deve ser considerada, primordialmente pelo baixo risco de recorrência, quando:
+Átrio esquerdo <4,5 a 5cm;
+Causa reversível identificada (hipertireoidismo, pericardite, cirurgia cardíaca, tromboembolismo pulmonar).
+A escolha do fármaco para o tratamento da FA persistente depende da existência de doença cardíaca estrutural em vista dos efeitos colaterais das drogas utilizadas. A Figura 13 apresenta as opções terapêuticas.
+
+ 
+Figura 13 - Conduta medicamentosa para controle de FA persistente/paroxística
+
+Em nosso meio, é frequente o uso de digoxina associada a quinidina para controle e reversão da FA. Porém, a última Diretriz Brasileira de FA contraindica o uso de digoxina com esse objetivo e classifica como IIb o uso de quinidina com essa indicação nos pacientes sem disfunção ventricular.
+Apesar de ser rara a associação de FA e SWPW, alguns cuidados devem ser tomados no manuseio da FA nessa situação. Quando a FA se instala no portador da síndrome, em geral, ocorre alta resposta ventricular a arritmia. No entanto, há competição entre os estímulos conduzidos através do nó AV e pela via AV anômala responsável pela síndrome. Quando há o uso de drogas que determinam a redução seletiva na condução do nó AV (não atuam sobre a via anômala), há inibição da competição entre as 2 vias, causando o aumento do número de estímulos conduzidos efetivamente ao ventrículo, determinando aumento da resposta ventricular e evolução para fibrilação ventricular, já que de 300 a 400 estímulos passam por minuto pela via anômala “liberada” pelo bloqueio seletivo do nó AV. Por isso, para o controle da resposta ventricular na FA, devem-se utilizar drogas que bloqueiem tanto o nó AV como a via de condução AV anômala, como a amiodarona. Devem-se evitar betabloqueadores, bloqueadores dos canais de cálcio e digoxina.
+Há modalidades terapêuticas além da farmacológica no manuseio da FA. A ablação cirúrgica dos pontos de ectopia atrial é possível quando o paciente é submetido à revascularização miocárdica ou troca valvar. Na vigência de outras indicações de marca-passo, a aplicação de um eletrodo atrial promove a despolarização atrial coordenada. Outra possibilidade é a ablação de FA por meio de cateter ou a colocação de marca-passo AV associado à ablação do nó AV nos refratários aos tratamentos farmacológicos. 
+De forma resumida, podemos destacar as seguintes recomendações para o manuseio da FA, segundo o Consenso Europeu de FA:
+A estratégia de controle da frequência é preferida a pacientes mais idosos e pouco sintomáticos, em virtude dos efeitos pró-arrítmicos das drogas para reversão do ritmo e da prevalência elevada de FA permanente nesta faixa etária;
+A estratégia de controle de ritmo é preferida a pacientes sintomáticos, a despeito da terapêutica de controle da frequência, mesmo entre aqueles com IC sintomática;
+A estratégia de controle de ritmo é sugerida a pacientes jovens sintomáticos;
+A estratégia de controle de ritmo é sugerida a pacientes com FA secundária determinada por causa já corrigida.
+Outro ponto importante da estratégia terapêutica da FA é a terapia anticoagulante, cujo objetivo principal é reduzir a possibilidade de evento tromboembólico no manuseio da FA. Proteger o paciente de eventos cardioembólicos deve ser considerado diante dos riscos de complicações hemorrágicas do tratamento. Por isso, a indicação terapêutica varia com o grau de risco do evento. A antiagregação plaquetária com ácido acetilsalicílico e a anticoagulação oral são eficazes em reduzir o número de eventos cardioembólicos (redução de 22 e 64%, respectivamente).
+Aos pacientes com valvulopatia e FA associada a anticoagulação é fortemente recomendada.
+Na população não valvulopata, a indicação de antiagregação/anticoagulação é discutida a seguir, assim como as orientações para antiagregação/anticoagulação dos que terão a FA revertida para ritmo sinusal (Tabela 1) e para aqueles com recorrência/persistência da arritmia (Figura 14). De forma geral, todo indivíduo com FA persistente deve ter proteção contra evento cardioembólico, com estratégia definida a partir dos fatores de risco associados (CHADS – Congestive heart failure/Hypertension/Age >75 anos/Diabetes/Secondary prevention). A reavaliação contínua desses fatores ao longo da evolução do paciente com FA pode determinar mudança da estratégia protetora. A decisão de permanecer o paciente anticoagulado ou apenas antiagregado deve basear-se em alguns fatores. As Diretrizes Brasileiras de FA indicam esta classificação de risco a ser seguida:
+
+Tabela 1 - Classificação de risco indicada pelas Diretrizes Brasileiras de FA
+Categorias de risco	Terapias recomendadas
+Sem fatores de risco	Ácido acetilsalicílico 81 a 325mg
+1 fator de risco moderado	Ácido acetilsalicílico 81 a 325mg ou varfarina (RNI 2 a 3)
+Qualquer fator de risco elevado ou + de 1 fator de risco moderado	Varfarina (RNI 2 a 3)
+Fatores de risco 
+Fracos	- Sexo feminino;
+	- Idade: 65 a 74 anos;
+	- Doença coronariana;
+	- Tireotoxicose.
+Moderados	- Idade >75 anos;
+	- Hipertensão arterial;
+	- IC;
+	- FE <35%;
+	- Diabetes mellitus.
+Elevados	- Acidente vascular encefálico isquêmico/ataque isquêmico transitório;
+	- Embolia prévia;
+	- Estenose mitral;
+	- Prótese valvar.
+
+A anticoagulação aplicada à reversão do ritmo de FA para sinusal deve ser cercada de alguns cuidados. Após a reversão para ritmo sinusal, o átrio permanece sem função contrátil por um período de até semanas, favorecendo a formação de trombos atriais. Quando ocorre a recuperação mecânica atrial, há o risco de o trombo formado ser ejetado e acontecer o fenômeno embólico. Quanto maior o período em FA, maior o tempo para a recuperação mecânica. Isso explica por que a maioria dos eventos embólicos acontece até o 10º dia após a reversão da FA para ritmo sinusal. O INR-alvo na anticoagulação da FA é de 2 a 3.
+Estima-se que a FA de início recente (<48 horas) apresente pouco risco para a formação do trombo atrial, sem necessitar de anticoagulação àqueles sem cardiopatia associada ou outros fatores de risco para evento tromboembólico. Para os pacientes com tempo de FA acima de 48 horas ou por tempo indeterminado, recomenda-se a anticoagulação por 3 semanas previamente à reversão para o ritmo sinusal. Quando o ecocardiograma transesofágico está disponível, é possível identificar os que tenham trombos atriais (sensibilidade acima de 90%). Quando há trombo, é adequada a anticoagulação prévia por 3 a 4 semanas anteriormente à cardioversão, mantendo a anticoagulação por mais 4 semanas após a conversão para ritmo sinusal. Quanto aos que não têm trombos ao ecocardiograma, deve-se iniciar heparinização plena, e pode-se proceder à cardioversão e manter a anticoagulação por mais 4 semanas. Portanto, o ecocardiograma apenas permite reduzir o tempo de anticoagulação. 
+
+Tabela 2 - Anticoagulação e tempo de duração da FA
+- FA aguda (<48 horas): não anticoagular e proceder ao controle/reversão da FA;
+- FA crônica ou de duração indeterminada: proceder à anticoagulação e ao controle da frequência cardíaca; após 3 a 4 semanas com RNI entre 2 e 3, proceder à cardioversão e manter a anticoagulação por mais 3 a 4 semanas. Na vigência de ecocardiograma transesofágico negativo para trombo atrial, proceder à cardioversão e manter a anticoagulação por 3 a 4 semanas.
+
+Entre aqueles com FA permanente, persistente ou paroxística, é necessária a proteção prolongada para eventos cardioembólicos, cuja intensidade é determinada pela presença de fatores de risco que potencializam o risco do evento, que pode ser baixo, moderado ou alto, determinando o uso de ácido acetilsalicílico ou varfarina, conforme a Tabela 2. 
+Considerando aqueles com valvulopatia e FA associada, a anticoagulação é fortemente recomendada com INR-alvo entre 2 e 3 para os pacientes com alto risco de fenômeno tromboembólico (portadores de estenose mitral ou evento tromboembólico prévio).
+Recentemente, um estudo demonstrou que o dabigatrana, um inibidor da trombina, pode ser utilizado na FA como terapêutica isolada de anticoagulação, com menor risco de sangramento quando comparado com a varfarina para os pacientes com FA paroxística ou permanente.
+Entre os pacientes com contraindicação formal ao uso de anticoagulantes, a associação de ácido acetilsalicílico e clopidogrel pode ser feita, apesar de o efeito protetor para eventos embólicos ser menor do que o determinado pela varfarina.
+
+b) Flutter atrial
+Trata-se de uma arritmia desencadeada por um circuito de reentrada intra-atrial. A despolarização atrial acontece de baixo para cima e é mais bem observada nas derivações inferiores (DII, DIII e aVF). O registro de ondas “em dente de serra” da atividade atrial caracteriza o flutter atrial. Em geral, a frequência dessa atividade varia de 220 a 350 despolarizações por minuto, no entanto tais estímulos sofrem um bloqueio fisiológico no nó AV, caracterizando os ritmos de batimento atrial em relação ao ventricular 2:1, 3:1, e assim por diante. Algumas drogas, como betabloqueador, digital e verapamil, podem determinar aumento do grau de bloqueio e, até mesmo, torná-lo variável. 
+Trata-se de uma arritmia rara na ausência de patologia cardíaca que, em geral, associa-se à doença valvar mitral ou tricúspide, cor pulmonale crônico e agudo ou doença coronariana. Também é raro ocorrer por intoxicação digitálica. O tratamento preferencial para o paciente instável é a cardioversão elétrica, iniciada em 50J. O indivíduo que tolera razoavelmente a arritmia pode ter a frequência controlada com diltiazem, digital, verapamil ou betabloqueadores. A reversão pode ser atingida com quinidina, procainamida ou amiodarona, apesar de o sucesso na estratégia farmacológica ser infrequente. Após a falha terapêutica farmacológica, deve-se cardioverter eletricamente o doente.
+Embora haja poucos dados a respeito, aconselha-se o seguimento das mesmas orientações de anticoagulação definidas para a FA no manuseio do flutter, apesar de a apresentação crônica de tal patologia ser incomum.
+Critérios ao ECG:
+Frequência atrial: geralmente, em torno de 300bpm;
+Ritmo: regular, mas possivelmente irregular em caso de bloqueio AV variável;
+Onda P: as ondas atriais lembram os dentes de uma serra e são mais bem identificadas nas derivações inferiores; em graus de bloqueio 1:1 ou 2:1, pode ser difícil identificar as ondas do flutter, mas o uso de manobra vagal ou de adenosina resolve o problema. Há, ainda, a substituição das ondas P por outras denominadas de ondas F (Flutter), de aspecto pontiagudo, largas, interligadas umas às outras e de aparência semelhante;
+Intervalo PR: geralmente regular, mas pode variar;
+Intervalo QRS: geralmente, normal.
+
+ 
+Figura 14 - Flutter atrial
+
+C - 3ª pergunta: existe relação entre a onda P e o QRS?
+Ao ECG normal, todo complexo QRS é precedido de uma onda P, e o intervalo PR normal é de, no máximo, 0,2ms. Os bloqueios cardíacos são ritmos causados pela condução alterada através do nó AV. À medida que a velocidade de condução por esse nó AV diminui, o intervalo PR aumenta. Quando o bloqueio é intenso, algumas ondas P não passam para o ventrículo, e, na pior situação, nenhuma onda P chega ali. Há 3 graus possíveis de bloqueio AV.
+
+a) 1º grau
+Traduz, simplesmente, o retardo na passagem do impulso do átrio para os ventrículos, geralmente no nó AV, mas pode ser também infranodal. O intervalo é maior do que 0,2ms, e toda onda P determina um QRS. O tratamento, geralmente, é desnecessário quando não há sintomas.
+Critérios ao ECG:
+QRS: normal;
+Ritmo: regular;
+Onda P: onda normal, seguida de QRS;
+Intervalo PR: maior do que 0,2ms; geralmente, permanece constante.
+
+ 
+Figura 15 - Bloqueio AV de 1º grau
+
+b) 2º grau
+Alguns estímulos são bloqueados e outros conduzidos. Esse tipo de bloqueio é subdividido em:
+2º grau Mobitz I: também conhecido como fenômeno de Wenckebach, usualmente é causado por aumento do tônus simpático no nó AV ou ação de drogas (digital, verapamil), podendo ocorrer na região juncional; geralmente é transitório e de bom prognóstico. Caracteriza-se pelo aumento progressivo do intervalo PR, até o bloqueio total de uma onda P, repetindo o mesmo padrão ao longo do tempo. O tratamento específico raramente é necessário, a menos que estejam presentes sinais e sintomas graves.
+Critérios ao ECG:
+QRS: normal;
+Frequência: a atrial não é afetada, mas a ventricular se altera devido às ondas P bloqueadas. O intervalo da pausa elétrica é menor do que o dobro do intervalo diastólico do ciclo sinusal precedente;
+Ritmo: o ritmo atrial é regular, ao contrário do ventricular;
+Onda P: o aspecto é normal; é sucedida por QRS, exceto aquela bloqueada. Intervalos P-P são progressivamente mais curtos, até a ocorrência da pausa.
+
+ 
+Figura 16 - Bloqueio AV de 2º grau Mobitz I
+
+2º grau Mobitz II: é mais comum no feixe de His e em seus ramos. Geralmente, associa-se à lesão orgânica do sistema de condução, raramente derivado do aumento do tônus parassimpático ou da ação de drogas, com maior probabilidade de evolução para bloqueio AV total. Uma característica é não haver alargamento do intervalo PR antes da onda P, podendo haver mais de 1 batimento não conduzido no momento do bloqueio. O tratamento depende da condição clínica. Quando há repercussão hemodinâmica da bradicardia, o tratamento imediato consiste em marca-passo transcutâneo; na ausência do dispositivo ou na falha da sua captura, podem-se usar drogas adrenérgicas, como dopamina ou adrenalina em infusão contínua, para a melhora da frequência. O paciente assintomático deve receber marca-passo transcutâneo para o teste de captura elétrica que deve ser mantido desligado (ligado novamente caso o paciente se torne instável). Tal medida é necessária em virtude do risco de o indivíduo piorar o ritmo da bradicardia e tornar-se sintomático. Tanto no paciente instável quanto no estável, é aceitável atropina para melhora da frequência cardíaca, medida mais efetiva nos graus mais elevados de bloqueio AV.
+Critérios ao ECG:
+QRS: normal, quando o bloqueio ocorre no feixe de His; quando abaixo desse nível, é alargado;
+Frequência: a frequência atrial não é afetada, e a ventricular é menor que a atrial. Ausência de 1 ou mais ciclos elétricos completos P-QRS-T, traduzidos por uma pausa elétrica;
+Ritmo: o ritmo atrial é regular, enquanto o bloqueio intermitente da onda P determina resposta ventricular irregular;
+Ondas P: morfologia normal. Intervalos P-P são constantes nos ciclos de base;
+Intervalo da pausa elétrica: o dobro do intervalo diastólico do ciclo sinusal;
+Intervalo PR: pode ser normal ou alargado, porém é constante nas ondas P que são conduzidas; pode haver diminuição do PR após uma onda P bloqueada.
+ 
+Figura 17 - Bloqueio AV de 2º grau Mobitz II
+
+c) 3º grau
+Representa desconexão total entre átrios e ventrículos e pode ocorrer no nível do nó AV, no feixe de His ou nos seus ramos. No 1º caso, o ritmo que mantém a frequência ventricular é, geralmente, originado na região do nó juncional (ritmo de escape juncional), com frequência estável de 40 a 60bpm e QRS estreito. Está associado a infarto agudo do miocárdio inferior, efeito de drogas (betabloqueadores) ou dano ao nó AV, sendo de bom prognóstico. Quando o bloqueio AV acontece na região infranodal, em geral é de 2 ramos e indicativo de lesão extensa do sistema de condução intracardíaca. O ritmo de escape desse bloqueio é geralmente ventricular, com 30 a 40bpm, e o QRS, por originar-se no próprio ventrículo, é alargado, não sendo um marca-passo confiável, podendo evoluir para assistolia.
+Critérios ao ECG:
+QRS: geralmente normal; pode ser alargado, dependendo da origem do ritmo de escape;
+Ondas P: normais;
+Frequência: a atrial é normal, e a ventricular é menor que a atrial;
+Ritmo: o ritmo atrial é regular, mas pode ser irregular; o ritmo ventricular é sempre regular;
+Intervalo PR: é variável pelas independências atrial e ventricular.
+
+ 
+Figura 18 - Bloqueio AV total ou bloqueio AV de 3º grau
+
+O manuseio das bradiarritmias deve seguir as orientações da Figura 19. Quando assintomática, a bradicardia deve ser tratada de forma conservadora, buscando a reversão das possíveis causas associadas. Quando determinada por ritmo de bloqueio AV de 2º grau Mobitz II ou bloqueio AV de 3º grau, recomenda-se marca-passo transcutâneo como dispositivo de segurança para a estabilização do quadro, utilizado somente na ocorrência de desestabilização. Na bradicardia sintomática, independente da forma (bradicardia sinusal, bloqueio AV total etc.), devem-se utilizar as orientações descritas na Figura 19. Sintomas e sinais como hipotensão, choque, congestão pulmonar, tontura, dor torácica isquêmica, IC, fraqueza ou fadiga e alteração aguda da consciência definem a situação de instabilidade da bradicardia.
+
+ 
+Figura 19 - Tratamento das bradicardias sintomáticas 
+
+d) Complexos juncionais
+O tecido de condução próximo ao nó AV pode assumir a função de marca-passo do coração. Isso acontece em pacientes com frequências cardíacas baixas (de 40 a 60bpm) e complexos QRS invertidos, porém estreitos, e podem ser identificadas ondas P retrógradas nas derivações DII e DIII.
+Extrassístoles juncionais
+Trata-se de impulso elétrico com origem na junção AV que acontece antes do próximo impulso sinusal fisiológico, determinando uma despolarização atrial retrógrada, com onda P negativa nas derivações inferiores. Essa onda pode coincidir com o complexo QRS, precedê-lo ou segui-lo pela dependência do tempo de condução relativo entre o local de origem na junção e os átrios e ventrículos; quando o impulso é gerado em uma porção mais alta da junção AV, a onda P retrógrada geralmente antecede o QRS ou coincide com ele; porções mais baixas da junção podem determinar a onda P retrógrada após o QRS. Raramente é necessário tratamento.
+Critérios ao ECG:
+QRS: normal; pode ocorrer QRS alargado, indicando bloqueio de ramo;
+Ritmo: irregular;
+Ondas P: geralmente negativas nas derivações inferiores (aVF, DII e DIII), determinadas pelas despolarizações retrógradas; podem coincidir com o QRS, precedê-lo ou vir depois dele;
+Intervalo PR: geralmente menor do que 0,12ms. Pode ocorrer em bloqueio AV total.
+Escape juncional
+A junção AV pode funcionar como marca-passo cardíaco, gerando frequência de 40 a 60bpm. Em situações normais, o marca-passo sinusal predomina sobre a junção AV em virtude da frequência mais alta de despolarizações. Quando não há tal predomínio, ou seja, quando não há o estímulo do nó AV pela ordem sinusal em 1 a 1,5 segundo, o nó AV despolariza-se de forma autônoma, gerando o chamado complexo de escape juncional. Quando há uma série repetida de tais estímulos, estamos diante do ritmo de escape juncional. Trata-se de uma situação frequentemente associada à intoxicação digitálica.
+
+ 
+Figura 20 - (A) Ondas P retrógradas antes e (B) depois do QRS 
+
+Critérios ao ECG:
+QRS: normal;
+Frequência: o ritmo de escape juncional tem frequência de 40 a 60bpm;
+Ritmo: a presença de alguns complexos de escape juncional pode causar ritmo irregular, no entanto o ritmo de escape juncional geralmente é regular;
+Ondas P: pode haver a onda P retrógrada;
+Intervalo PR: geralmente é variável, porém menor do que o PR da onda sinusal;
+Intervalo QRS: normal.
+
+ 
+Figura 21 - Extrassístole juncional
+
+D - 4ª pergunta: qual é a frequência cardíaca? 
+Um grupo final de ritmos deve ser identificado com base na análise da frequência: a bradicardia e a taquicardia sinusal e a TSV.
+A frequência cardíaca do traçado eletrocardiográfico pode ser avaliada por várias formas. Uma mais trabalhosa é dividir o número 1.500 pelo número de quadrinhos existentes entre 2 ondas R de 2 complexos QRS consecutivos (passam pela fita do traçado 1.500 quadrinhos em 1 minuto); o resultado é a frequência cardíaca do traçado. Uma forma mais simples de determinar a frequência cardíaca é lembrar a regra numérica descrita na Figura 22. Ao avaliar o traçado, encontra-se uma onda R do QRS que incide sobre o início do intervalo de 200ms (5 quadrados menores). A partir desse ponto, contam-se quantos intervalos de 5 quadrinhos existem, aproximadamente, até a próxima onda R do QRS. Tal regra pré-calcula o número prévio de quadrinhos entre as ondas R de 2 QRS consecutivos, determinando a frequência. Frequências >100bpm são consideradas taquicárdicas, e <60bpm, bradicárdicas. 
+ 
+Figura 22 - Forma rápida para cálculo da frequência cardíaca
+
+a) Taquicardia sinusal
+Definida pelo aumento da frequência de despolarizações atriais, compreende uma resposta fisiológica à necessidade de aumento do débito cardíaco. Pode ser determinada por febre, exercício, ansiedade, hipovolemia e dor, devendo ser tratada a causa que a determinou e não a própria taquicardia.
+Critérios ao ECG:
+QRS: normal;
+Frequência: acima de 100bpm;
+Ritmo: regular;
+Ondas P: positivas em DII, DIII e aVF.
+
+b) Bradicardia sinusal
+Determinada pela lentidão do nó sinusal em despolarizar-se, pode acontecer devido ao efeito de determinadas drogas (betabloqueador, digital e verapamil), doença do nó sinusal ou aumento do tônus parassimpático.
+Critérios ao ECG:
+QRS: normal;
+Frequência: abaixo de 60bpm;
+Ritmo: regular;
+Ondas P: positivas em DII, DIII e aVF.
+
+ 
+Figura 23 - (A) Taquicardia sinusal; (B) bradicardia sinusal e (C) ritmo sinusal
+
+c) TSVs
+As TSVs podem ser multifocais ou uniformes e englobam as seguintes arritmias:
+Taquicardia paroxística supraventricular (TPSV): ocorre em episódios paroxísticos de taquicardia com início abrupto e duração breve (segundos) ou prolongada (horas) e pode ser abortada por manobras vagais. O mecanismo mais comumente associado é a reentrada, em geral envolvendo somente o nó AV ou este juntamente com uma via anômala acessória. Os complexos QRS são estreitos, porém podem ocorrer de forma alargada quando há bloqueio de ramo frequência-dependente, bloqueios preexistentes ou condução anterógrada aos ventrículos por via anômala extranodal, como na SWPW (feixe de Kent). A despolarização atrial é retrógrada (onda P negativa). Tal arritmia é bem tolerada em jovens, e o tratamento envolve manobra vagal, adenosina, verapamil ou betabloqueador. Deve-se ter cuidado com pacientes com QRS alargado, pois pode tratar-se de TV;
+
+ 
+Figura 24 - ECG mostrando TSV, com a indicação da onda P retrógrada
+
+Flutter e FA: já discutidos;
+Taquicardia atrial não paroxística: normalmente, é secundária a outros eventos, mais comumente à intoxicação digitálica. Seu mecanismo envolve o surgimento de um foco atrial ectópico com automatismo aumentado. É comum associar-se ao bloqueio AV variável.
+Critérios ao ECG:
+Frequência: a atrial, em geral, oscila entre 140 e 220bpm;
+Ritmo: o ritmo atrial é normalmente regular; pode haver bloqueio AV, o que determinará frequência ventricular menor;
+Ondas P: de difícil identificação, geralmente com morfologia diferente da onda P sinusal;
+Intervalo PR: normal ou prolongado;
+Intervalo QRS: normal ou alargado.
+
+4. Abordagem das taquiarritmias
+
+As taquiarritmias caracterizam-se por frequência cardíaca >100bpm e podem ser classificadas em instáveis (apresentam os mesmos critérios de instabilidade das bradicardias citados) ou estáveis:
+
+A - Taquicardias com QRS estreito (todas de origem supraventricular)
+Taquicardia sinusal, FA, flutter atrial, taquicardia atrial, taquicardia por reentrada nodal, taquicardia juncional e taquicardia AV (ortodrômica – envolvendo uma via acessória). Podem ser diferenciadas, ainda, entre as taquicardias com intervalo QRS irregular ou regular.
+
+ 
+Figura 25 - Taquicardias com QRS estreito
+
+B - Taquicardias com QRS largo (na maioria das vezes, de origem ventricular)
+TV, fibrilação ventricular e TSV com aberrância de condução intraventricular (com bloqueio de ramo antigo ou funcional).
+
+ 
+Figura 26 - Taquicardias com QRS largo
+
+C - Taquicardias pré-excitadas (de origem supraventricular)
+Taquicardia antidrômica (utiliza em sentido anterógrado uma via acessória e, em sentido retrógrado, o nó AV) e taquiarritmias atriais conduzidas por meio de uma via acessória.
+A seguir, os algoritmos para o tratamento das taquiarritmias de complexo QRS largo e estreito com intervalo regular ou irregular do QRS.
+
+
+ 
+Figura 27 - Tratamento das taquicardias com QRS estreito 
+
+ 
+Figura 28 - Tratamento das taquicardias com intervalo QRS irregular
+
+5. Resumo
+
+Quadro-resumo
+- A correta identificação do ritmo cardíaco é essencial na conduta terapêutica das arritmias; 
+- As fibrilações ventriculares/TVs devem ser sempre tratadas imediatamente com desfibrilação elétrica (choque não sincronizado); 
+- A TV, TSV e a FA instáveis devem ser tratadas com cardioversão elétrica imediata; 
+- A FA estável pode ter tratamento de 2 formas: controle do ritmo (reversão para sinusal) ou controle da frequência cardíaca (resposta ventricular);
+- Nas bradicardias sintomáticas, a aplicação do marca-passo transcutâneo está indicada; o uso de atropina pode ser empregado; 
+- Na falha da atropina ou do marca-passo, epinefrina ou dopamina podem ser utilizadas para tratar a bradicardia sintomática. 
