@@ -1,0 +1,228 @@
+Transplante de células-tronco hematopoéticas
+Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+
+1. Introdução
+O Transplante de Células-Tronco Hematopoéticas (TCTH) consiste na infusão intravenosa de Células Progenitoras Hematopoéticas (CPHs), com o objetivo de restabelecer a função medular, após a administração de altas doses de quimioterapia ou radioterapia corpórea total. O restabelecimento da função medular ocorre porque as CPHs produzem todas as células maduras que circulam no sangue (glóbulos vermelhos, glóbulos brancos e plaquetas). 
+O 1º relato de infusão intravenosa de medula óssea data de 1939, quando um paciente recebeu 18mL de medula de seu irmão como tentativa de tratamento para aplasia de medula óssea. Porém, o desenvolvimento das bases científicas atuais do TCTH iniciou-se por meio de experiências com roedores, que, após serem submetidos à radiação em doses letais, sobreviviam ao receberem infusão posterior intravenosa de medula óssea. 
+A identificação e a compreensão do sistema de histocompatibilidade humano, que está codificado no cromossomo 6, contribuíram de forma decisiva para o sucesso dos transplantes. 
+Em 1968, 3 transplantes de células-tronco, em que os doadores eram irmãos com tipagem HLA (antígeno leucocitário humano) idêntica ao do receptor, foram realizados em crianças com imunodeficiência, porém estas não receberam radioterapia ou quimioterapia prévia, somente a infusão de medula óssea. Em março de 1969, o Dr. Donnall Thomas e seu grupo realizaram, em Seattle, nos Estados Unidos, o 1º TCTH alogênico bem-sucedido, dentro de um modelo utilizado até hoje, em um paciente com leucemia que recebeu doses letais de irradiação corpórea total, seguidas da infusão de medula do irmão. 
+Atualmente, o termo transplante de medula óssea não deve ser mais utilizado, tendo em vista que a medula óssea, hoje, se configura em apenas uma das fontes de células-tronco hematopoéticas; assim, a nomenclatura correta deve ser “transplante de células-tronco hematopoéticas”.
+2. Modalidades
+Tabela 1 - Modalidades de TCTH
+Transplante alogênico	O paciente recebe CPHs de outra pessoa, que pode ser algum familiar (doador aparentado, também cha-mado transplante alogênico relacionado) ou não (doador não aparentado, chamado transplante alogênico não relacionado, selecionado por meio de banco de doadores).
+Transplante singênico	O doador é irmão gêmeo idêntico. É a modalidade mais rara de transplante, em razão da pouca frequência de gêmeos idênticos na população.
+Transplante autogênico	Utiliza as células do próprio paciente, coletadas previamente à quimioterapia. Foi empregado pela 1ª vez no final da década de 1970 para tratar adultos com linfoma. Ainda é muito utilizado em nosso meio o ter-mo autólogo, no lugar de autogênico, da denominação original em inglês autologous.
+3. Fontes de células
+Tabela 2 - Fontes de coletas de CPHs 
+Medula óssea	Diretamente na crista ilíaca posterior, por meio de múltiplas punções e aspirações da medula óssea – pro-cedimento realizado em centro cirúrgico, sob anestesia geral
+Sangue periférico	Por meio de máquinas de aférese – capazes de retirar somente as células necessárias para o transplante, retornando para o paciente os demais constituintes sanguíneos
+Sangue de cordão umbili-cal	Técnica mais recente, em que se retira, imediatamente após o parto, o sangue do cordão umbilical, rico em células progenitoras
+4. Técnicas de coleta
+A - Aspiração de medula óssea
+Por meio das cristas ilíacas posteriores, são realizadas punções para a retirada de medula óssea necessária para o transplante. O volume estimado é de 10 a 15mL/kg de peso do receptor. O índice de complicações graves é baixo, as quais ocorrem, em sua maioria, entre doadores com história de doença prévia, e metade delas pode ser atribuída à anestesia. A queixa mais frequente é de dor no local da punção, que cede com analgésicos comuns. Os doadores necessitam ser hospitalizados, mas a maioria recebe alta 24 horas após a coleta. 
+B - Células progenitoras hematopoéticas periféricas
+São coletadas com o auxílio de equipamentos de aférese, após a mobilização das CPHs da medula óssea para o sangue periférico, com a utilização de fatores estimuladores de colônias de granulócitos (GCSFs); no caso de pacientes submetidos a transplante autogênico, o fator de crescimento pode ser combinado a quimioterapia prévia. 
+ 
+Figura 1 - Máquina de aférese
+É necessário um acesso venoso com bom calibre para coletas adequadas. A maioria dos pacientes necessita de cateter de duplo lúmen. 
+As complicações mais frequentes da coleta de CPHs periféricas são relacionadas à passagem do cateter (pneumotórax) e ao efeito colateral das medicações utilizadas para a mobilização (GCSF pode provocar dor óssea, mialgia, cefaleia e febre).
+O uso de CPHs periféricas acelera a recuperação de leucócitos e plaquetas, sendo economicamente mais vantajoso do que o uso da medula óssea, diminuindo o número de dias de neutropenia, de uso de antibiótico, de suporte transfusional e dos dias de internação. Por outro lado, alguns trabalhos apontaram aumento da incidência da Doença Enxerto Contra Hospedeiro (DECH) crônica ao usarem essa fonte de células. Ainda não há estudo que comprove benefício na sobrevida global entre as 2 fontes de CPHs.
+C - Células do sangue do cordão umbilical
+A 1ª experiência bem-sucedida no uso do Sangue do Cordão Umbilical (SCU) como fonte de células para a reconstituição de medula óssea aconteceu em 1988, quando a Dra. Eliane Gluckman, na França, tratou com sucesso um portador de anemia de Fanconi, utilizando o SCU de seu irmão para reconstituir a função medular após quimioterapia mieloablativa. O SCU é coletado logo após o nascimento da criança, posteriormente processado e mantido congelado até a infusão. Apresenta como principal vantagem a pronta disponibilidade do material, que se encontra criopreservado; além disso, pela imaturidade das células de sangue do cordão, a compatibilidade HLA total não se faz necessária (termo designado como mismatch). Entretanto, a recuperação medular com essa fonte de células é mais demorada, associada à necessidade de duplos cordões pela pequena quantidade de células disponíveis.
+Tabela 3 - Condições necessárias para um TCTH ser realizado
+- O paciente estar em condições clínicas adequadas, sem disfunção grave de órgãos ou sistemas;
+- Existirem células disponíveis para a realização do procedimento (medula, SCU, células periféricas previamente congeladas ou doa-dor compatível);
+- O TCTH ser reconhecido como o melhor tratamento para a doença de base. No caso de a doença ser neoplásica, deve estar prefe-rencialmente em remissão;
+- Condições familiares, psicológicas e socioeconômicas para seguir o acompanhamento recomendado pós-transplante. 
+5. Triagem do doador
+Diferente do que acontece na maioria dos transplantes de órgãos sólidos, o grau de compatibilidade imunológica entre o doador e o paciente é crucial para o sucesso dos TCTHs. O HLA (Human Leukocyte Antigen) está codificado no braço curto do cromossomo 6, sendo o responsável por nossa identidade imunológica. O HLA segue as regras da herança mendeliana simples.
+Assim, alguém que tenha um irmão tem 25% de chance de ter um doador HLA idêntico. Quanto maior a quantidade de irmãos, maior é a chance. Atualmente, os casais têm um número cada vez menor de filhos, por isso a chance de encontrar um doador com tipagem HLA compatível aparentado também vem diminuindo. Outros fatores que devem ser considerados na procura de doador são idade, evitando doadores muito jovens ou idosos; peso, que, de preferência, deve ser igual ou maior do que o do receptor; histórico médico; condição clínica geral; sexo e paridade (quanto maior a paridade, menos indicado). Realizam-se exame clínico completo no doador, exame laboratorial, assim como tipagem sanguínea, e prefere-se que esta seja igual à do receptor, embora a diferença entre os grupos sanguíneos não seja contraindicação à doação. A investigação de doenças infecciosas por intermédio de exame sorológico é imprescindível, devendo o doador ser negativo para as doenças virais investigadas, principalmente o HIV e, de forma ideal, mas nem sempre possível, para o citomegalovírus (CMV).
+É importante uma avaliação cuidadosa em doenças ligadas à herança genética. A anemia de Fanconi, por exemplo, pode ter manifestações muito discretas em alguns pacientes. 
+Os candidatos ao transplante autogênico precisam ter suas células previamente colhidas e congeladas.
+Tabela 4 - Alternativas caso um doador HLA aparentado completamente compatível não seja encontrado
+- Busca por doadores não relacionados totalmente compatíveis (full match): possível no Brasil, pelo Registro Nacional de Doadores de Medula Óssea (REDOME);
+- Busca por doadores parcialmente compatíveis (mismatch): familiar com incompatibilidade em um único locus HLA;
+- Busca por doadores haploidênticos: familiares 50% compatíveis com o receptor;
+- Busca por SCU.
+6. Indicações
+A - Para TCTHs alogênico e singênico
+O TCTH alogênico e o singênico podem ser utilizados para tratamento de várias doenças. As principais são listadas a seguir:
+Tabela 5 - Doenças não neoplásicas e neoplásicas
+Doenças não neoplásicas
+- Anemia aplásica grave; 
+- Anemia de Fanconi;
+- Imunodeficiências primárias (Chediak-Higashi, Wiskott-Aldrich, imunodeficiência combinada severa); 
+- Osteopetrose;
+- Doenças de acúmulo (adrenoleucodistrofia, leucodistrofia metacromática infantil);
+- Talassemia major;
+- Anemia falciforme com manifestações graves e doador aparentado disponível. 
+Doenças neoplásicas 
+- Leucemia mieloide crônica resistente a ITK; 
+- Leucemia mieloide aguda em 1ª remissão com fatores de mau prognóstico ou em 2ª remissão; 
+- Leucemia linfocítica aguda em 1ª remissão com fatores de mau prognóstico ou em remissões subsequentes; 
+- Síndromes mielodisplásicas;
+- Mielofibrose.
+B - Indicações e particularidades do transplante autogênico
+O transplante autogênico tem sido pesquisado como forma de tratamento de várias neoplasias. A finalidade do TCTH autogênico é tornar factível a administração de quimioterapia em altas doses, em doenças que mostram sensibilidade ao aumento da dose dos quimioterápicos. Como a toxicidade limitante da dose dessas medicações é a mielossupressão, a reinfusão de CPHs permite doses que jamais poderiam ser administradas se não houvesse esse recurso. A complexidade e as complicações do transplante autogênico são menores quando comparadas às do TCTH alogênico. A utilização das CPHs periféricas diminuiu bastante o tempo da enxertia (“pega medular”) nesse procedimento, levando a menor número de dias de neutropenia, de mucosite, de uso de antibiótico e de internação hospitalar. 
+Tabela 6 - Doenças com tratamento eficaz por meio de TCTH autogênico 
+- Linfoma de Hodgkin em 2ª remissão;
+- Linfoma não Hodgkin agressivo em 2ª remissão;
+- Mieloma múltiplo após tratamento inicial, em resposta completa ou parcial; 
+- Neuroblastoma de alto risco;
+- Leucemia mieloide aguda: após a 1ª ou a 2ª remissão, especificamente em pacientes sem doadores compatíveis; 
+- Tumor de células germinativas em 2ª remissão.
+7. Condicionamento pré-transplante
+O condicionamento pré-transplante é o tratamento que se faz antes de infundir a CPH, que pode ser quimioterapia em altas doses e/ou irradiação corpórea total, com o objetivo de erradicar a doença residual do paciente e induzir imunossupressão que permita a “pega” das células infundidas. A irradiação corpórea total foi utilizada isoladamente como agente de condicionamento para o TCTH e, logo depois, a ciclofosfamida foi associada. Essa combinação é utilizada até hoje. 
+No caso dos transplantes autogênicos, a finalidade única do condicionamento é erradicar a doença residual. A escolha do melhor regime de condicionamento é feita conforme a doença de base do paciente. 
+O regime de condicionamento escolhido pode ser mieloablativo ou não mieloablativo (atualmente mais bem denominado intensidade reduzida). O primeiro utiliza-se de esquema quimioterápico ou radioterápico intenso, após o qual, se não há infusão de células progenitoras, o paciente não é capaz de recuperar a função medular; o segundo utiliza protocolo quimioterápico menos intenso, sendo bastante estudado em população mais idosa ou com comorbidades que limitam o transplante mieloablativo.
+8. Infusão das células progenitoras hematopoéticas
+Na maioria dos serviços que realizam TCTHs alogênico relacionado e singênico, a medula óssea ou as células progenitoras de sangue periférico são infundidas logo após a coleta, por meio do cateter venoso central. Em caso de incompatibilidade ABO entre o doador e o receptor, procede-se à remoção das hemácias da medula óssea antes de sua infusão e, algumas vezes, realiza-se plasmaférese no receptor, a fim de evitar reações transfusionais graves.
+Quando o transplante é autogênico ou de SCU, as células são congeladas, utilizando-se crioprotetores como o dimetilsulfóxido (DMSO). Para ocorrer a infusão, essas células são descongeladas à beira do leito do paciente, em “banho-maria”, e, então, administradas. Rotineiramente, utilizam-se hidrocortisona e prometazina ou difenidramina previamente, pois o DMSO pode causar reação anafilática.
+As complicações mais comuns durante e após a infusão das células são náuseas, vômitos, hematúria e dor abdominal, as quais são relacionadas à presença do DMSO no produto da infusão. Raramente, pode haver arritmia cardíaca e sintomas neurológicos, como crise convulsiva.
+Pacientes que recebem medula não congelada estão sujeitos a desenvolver reações transfusionais comuns aos outros hemocomponentes e sintomas de sobrecarga volêmica.
+As células infundidas são quantificadas pelo marcador de superfície denominado CD34. Aconselha-se que as contagens infundidas estejam acima de 3x106 células CD34 positivas por kg de peso do paciente, quando a fonte de células é o sangue periférico, e 5x106 células CD34 positivas por kg de peso do paciente, quando a fonte é a medula óssea.
+A quantificação de células CD34 tem pouco valor nos transplantes com SCU, utilizando-se o número absoluto de células nucleadas como melhor parâmetro, que deve estar acima de 2x107 células/kg de peso do receptor.
+Tabela 7 - Técnicas que ainda precisam de mais estudos para comprovar o benefício e ampliar o uso na prática clínica
+- Depleção de linfócitos T com o intuito de diminuir a incidência da DECH; 
+- Uso de quimioterápicos ou anticorpos monoclonais in vitro, o chamado purging ex vivo, na tentativa de diminuir células residuais e recidiva de doença no transplante autogênico;
+- Mobilização de maior quantidade de célula dendrítica, juntamente com as CPHs;
+- Expansão ex vivo das CPHs, principalmente aquelas obtidas de cordão umbilical.
+9. Complicações pós-TCTH
+A - Aplasia da medula óssea
+O dia da infusão da medula óssea é denominado dia zero. Os dias anteriores, quando é realizado o condicionamento, são denominados como negativos (-2, -1), e os posteriores, como positivos (+2, +3 etc.).
+Após a infusão, a medula óssea de um transplantado fica em aplasia por um período aproximado de 7 a 10 dias nos autólogos e de 14 a 21 dias nos alogênicos, períodos nos quais é maior o risco de infecções, anemia e sangramentos.
+Geralmente, as contagens de leucócitos ficam abaixo de 100 células/mm3 por volta do dia +7, dependendo do tipo de condicionamento utilizado e da doença de base. 
+Considera-se que a medula “pegou” quando as contagens de leucócitos neutrófilos se mantêm acima de 500 células/mm3 por 3 dias consecutivos, o que ocorre em média entre os dias +15 e +19 após TCTH alogênico relacionado.
+As contagens de plaquetas também costumam ficar abaixo de 10.000 células/mm3; considera-se a sua recuperação quando contagens acima de 20.000 células/mm3 são atingidas, sem a necessidade de transfusões, por mais de 7 dias. Isso acontece em torno dos dias +19 a +25.
+A recuperação da função medular é influenciada pelo tipo de transplante, número de células infundidas, tipo de condicionamento, doença de base e infecções.
+Quando as contagens de plaquetas ficam abaixo de 10.000 células/mm3 ou quando há sinal de sangramento ativo, está indicada a transfusão de plaquetas. A hemoglobina é mantida acima de 7 a 8g/dL, também com o auxílio de transfusões. Concentrados de hemácias e de plaquetas devem ser irradiados, para inativar os linfócitos, e filtrados, para diminuir o número de leucócitos – com isso, reduz-se a incidência de DECH transfusional, infecção por CMV e reações pirogênicas.
+Os fatores de estimulação de colônias de granulócitos e macrófagos também devem ser utilizados no período pós-TCTH, para acelerar a recuperação da série branca.
+B - Doença enxerto contra hospedeiro
+Todos os pacientes que receberam CPHs alogênicas provenientes da medula óssea, do sangue periférico ou do sangue do cordão umbilical estão sujeitos a desenvolver DECH, que é possível nos transplantes singênicos e, mais raramente, nos autogênicos. 
+A DECH é o resultado da principal função do sistema imunológico: o reconhecimento do próprio e do não próprio. Mesmo quando a compatibilidade do HLA é completa, a presença de antígenos menores incompatíveis, e que não são detectados pelos métodos tradicionais de tipagem, pode ser responsável pelo aparecimento da DECH, pois os linfócitos T do doador identificam os antígenos do receptor como “não próprio”.
+A ocorrência ou não da DECH depende do tipo de linfócito T do doador infundido, grau de incompatibilidade doador–receptor, interação entre linfócito T do doador e células do receptor, citocinas pró-inflamatórias e dose de progenitor de célula B do doador.
+Pacientes com doadores relacionados têm risco de cerca de 20% de desenvolver DECH, enquanto os submetidos a transplante com doadores não relacionados têm risco de até 80%.
+a) Aguda
+Tabela 8 - Manifestações agudas da DECH
+- Linfócitos T do doador reagem com aloantígenos do hospedeiro. Citocinas são importantes tanto na ativação dos linfócitos quanto na lesão tecidual; 
+- Manifesta-se a partir da “pega” do enxerto, podendo ocorrer por definição até o dia +100 pós-transplante; 
+- Fatores de risco são: doadoras do sexo feminino, com gestações prévias, doadores idosos, utilização de esquemas inadequados de imunoprofilaxia, incompatibilidade HLA, positividade para sorologia de CMV no doador e/ou receptor, intensidade do condicionamento e o uso de CPHs periféricas;
+- Os órgãos mais afetados são pele, fígado, trato gastrintestinal e sistema hematopoético; 
+- A profilaxia é feita com drogas imunossupressoras: ciclosporina, metotrexato, corticoides e tacrolimo; 
+- O tratamento é indicado de acordo com o grau de extensão da DECH: grau I não é tratada; graus II a IV são tratadas com a associação de altas doses de metilprednisolona a outros imunossupressores – ciclosporina, micofenolato de mofetila, tacrolimo, sirolimo e soro antitimocítico; 
+- Drogas em estudo: tacrolimo, anti-IL2 (daclizumabe), anti-TNF (etanercepte, infliximabe), talidomida, pentostatina, alentuzumabe;
+- Em refratários ao corticoide ou com DECH em grau avançado, a mortalidade pode chegar a 80%.
+ 
+Figura 2 - DECH cutâneo agudo grau IV
+b) Crônica
+Tabela 9 - Manifestações crônicas da DECH
+- Doenças alo e autoimune, em que os linfócitos ativados estimulam síntese de citocinas e ativam macrófagos, células NK e linfócitos B (sintetizando autoanticorpos). Funciona como doença autoimune, envolvendo vários órgãos e sistemas; 
+- Manifesta-se geralmente após os 100 dias de transplante. Envolve principalmente a pele, o fígado, o trato gastrintestinal e os pul-mões, mas também pode acometer os olhos, a mucosa oral, o sistema neuromuscular, o sistema renal, células sanguíneas (plaque-topenia) etc. O aspecto das lesões de pele lembra o líquen plano com atrofia da epiderme e fibrose focal na derme, sem inflama-ção. Ceratoconjuntivite, fotofobia e boca seca são outras manifestações da doença; 
+- O tratamento é indicado de acordo com o grau de extensão da DECH: casos limitados (pele localizada ou fígado isolado) não neces-sitam de tratamento. Casos extensos (pele de forma generalizada ou pele localizada + fígado + outro órgão) são tratados com imu-nossupressão: corticoide, ciclosporina, micofenolato e soro antitimocítico. Nas lesões de pele, pode-se utilizar psoraleno associado a radiação ultravioleta;
+- A mortalidade chega a mais de 30% nos 5 anos subsequentes ao transplante, e a principal causa é quadro infeccioso secundário a imunossupressão prolongada.
+Embora o desenvolvimento da DECH represente importante causa de morbidade e mortalidade na população de transplantados, observou-se um fenômeno interessante nesses pacientes: o efeito GVL (Graft Versus Leukemia ou enxerto contra leucemia). Os linfócitos T do doador podem reconhecer e interagir contra células tumorais residuais do hospedeiro, diminuindo as chances de recidiva da doença, pois se observou que os pacientes que receberam medula de doadores singênicos ou medula manipulada para depleção de linfócitos T têm risco menor de desenvolver DECH, mas alto risco de recidiva. É exatamente aí que reside o grande desafio do acompanhamento no pós-transplante: há necessidade de tratar a DECH, porém, ao mesmo tempo, sem anular o efeito GVL.
+C - Complicações infecciosas
+Quase todos os transplantados apresentam febre no período pós-condicionamento e são muito suscetíveis a infecções graves.
+As infecções bacterianas são as mais frequentes e acometem sítios como pulmão, cavidades paranasais e cateteres. Agentes como Staphylococcus coagulase-negativo e Staphylococcus aureus são frequentemente identificados. Os Gram negativos também são frequentes, isolando-se espécies como Enterobacter e Pseudomonas. O tratamento é iniciado de forma empírica, com antibióticos de amplo espectro, e os esquemas podem variar de acordo com o local onde o transplante é realizado, considerando-se os patógenos mais frequentes encontrados e seus padrões de sensibilidade.
+Os fungos também são agentes envolvidos nas infecções em pacientes transplantados. O uso de fluconazol profilático durante o período de neutropenia teve impacto positivo, diminuindo o número de infecções por Candida albicans, embora a incidência de outras espécies de Candida resistentes a essa profilaxia tenha aumentado, sendo, algumas vezes, necessário tratamento com anfotericina B. 
+Menos comuns, as infecções por Aspergillus invasivo, que geralmente acomete pulmões e seios paranasais, exigem tratamento sistêmico com anfotericina B ou os novos antifúngicos (voriconazol, caspofungina) e, algumas vezes, intervenção cirúrgica, com alta mortalidade. Com o uso empírico de antifúngicos em grande escala perante os quadros de neutropenia febril, tem-se observado aumento de quadros infecciosos por agentes fúngicos menos comuns, como Fusarium e zigomiceto.
+A profilaxia do Pneumocystis jirovecii é feita com 3 doses semanais de sulfametoxazol e trimetoprima; esse agente não é mais causa importante de complicações entre os transplantados. A pentamidina pode ser usada naqueles com intolerância a sulfas.
+A infecção por CMV é comum entre os submetidos a transplante alogênico, apresentando maior incidência entre o dia +28 e o +100, sendo secundária à reativação de vírus latente no organismo, primoinfecção ou reinfecção. É pouco frequente entre submetidos ao transplante autogênico. As manifestações mais importantes da doença são a pneumonia intersticial, que pode ser fatal em até 75% dos casos, e sintomas gastrintestinais (principalmente diarreia, muitas vezes acompanhada de sangramento digestivo). A identificação da atividade do CMV é obtida com testes de reação de polimerase em cadeia (PCR) ou antigenemia do vírus, que se tornam positivos precocemente, permitindo um tratamento denominado preemptivo, ou seja, antes do surgimento das manifestações clínicas da doença. Utiliza-se ganciclovir por aproximadamente 14 dias ou, em caso de resistência ou intolerância, o foscarnete.
+O vírus sincicial respiratório pode causar pneumonite intersticial grave, muitas vezes fatal. Outros vírus, como o parainfluenza e o influenza, também podem produzir complicações pulmonares, já que os tratamentos antivirais disponíveis são pouco eficazes.
+O adenovírus é associado a diarreias e cistite hemorrágica tardia. A reativação do vírus do herpes-simples e do herpes-zóster é prevenida com a administração profilática do aciclovir.
+O risco de infecções cai no 100º dia pós-infusão de células-tronco nos submetidos a TCTH autogênico e singênico e em submetidos ao TCTH alogênico que não desenvolveram DECH crônica.
+Pacientes em tratamento para DECH crônica, por sua vez, têm maior risco de infecções por agentes bacterianos encapsulados.
+D - Complicações gastrintestinais e hepáticas
+Vômito é uma complicação frequente durante e após as altas doses de quimioterapia no condicionamento. O manejo é feito com antieméticos, como a ondansetrona ou a granisetrona. Vômitos tardios podem estar associados à DECH ou à infecção por CMV.
+A mucosite ocorre em grande parte dos pacientes e acomete todo o trato gastrintestinal, de hiperemia da mucosa a ulcerações que dificultam a deglutição de saliva e alimentação, diarreia e enterorragia (Figura 3). É tratada com analgésicos tópicos e sistêmicos, higiene oral e, recentemente, terapia com laser (ação analgésica e cicatrizante) e funciona como porta de entrada para agentes infecciosos. Por vezes, o quadro é tão drástico que demanda dieta zero e introdução de nutrição parenteral total, ou até intubação orotraqueal para a manutenção das vias aéreas. 
+Diarreia é frequente no período pós-TCTH, merecendo investigação, já que pode ter múltiplas causas, desde a descamação de células provocada pela mucosite até DECH aguda e infecções por enteropatógenos bacterianos ou virais.
+A DECH hepática aguda nas formas moderada e grave tem prognóstico desfavorável, apesar do tratamento, que costuma ser intenso e prolongado, aumentando a possibilidade de complicações infecciosas.
+Todos os pacientes necessitam de suporte nutricional, utilizando-se nutrição enteral, reservando a alimentação parenteral para aqueles que não tolerarem essa via.
+A complicação hepática mais temida é a doença veno-oclusiva hepática, atualmente chamada de Síndrome da Obstrução Sinusoidal (SOS). É uma entidade clínica específica com correlação anatomopatológica, diagnosticada somente na ausência de outras causas de doença hepática. A SOS está associada à obliteração das vênulas hepáticas, com congestão centrolobular. A fisiopatologia exata dessa doença não é bem conhecida. Clinicamente, manifesta-se nos primeiros 30 dias pós-TCTH, com ganho de peso, ascite, hepatomegalia, icterícia e dor no quadrante superior direito. 
+Alguns fatores de risco foram identificados, como o tipo de condicionamento realizado e enzimas hepáticas elevadas no período pré-condicionamento.
+A heparina em infusão contínua em doses baixas e o ácido ursodesoxicólico são usados como profiláticos em alguns centros, e estudos randomizados prospectivos apontam para a eficácia do 1º método. O tratamento da SOS é basicamente de suporte, e as formas graves da doença são fatais, na maioria das vezes. Algumas drogas estão em estudo, com resultados preliminares positivos, mas ainda não manifestam benefício comprovado, sendo a profilaxia a melhor medida recomendada até o momento.
+ 
+Figura 3 - Mucosite grau III
+E - Complicações cardiopulmonares
+O pulmão é frequentemente afetado por complicações durante o TCTH e está sujeito a pneumonias bacterianas, fúngicas e virais, bronquiolite e DECH, como já descrito. Fibrose pulmonar pode ocorrer tardiamente, pelos efeitos da radioterapia ou de drogas como o bussulfano.
+A ciclofosfamida, nas doses utilizadas em regimes de condicionamento, é, por si só, cardiotóxica. Entretanto, a maioria dos que desenvolvem cardiomiopatias tem história prévia ao TCTH de utilização de antraciclinas, que são quimioterápicos com conhecido potencial cardiotóxico.
+A radioterapia na região torácica também pode provocar ou potencializar efeitos cardiotóxicos.
+F - Complicações geniturinárias
+Drogas como a ciclofosfamida têm metabólitos que podem provocar cistite hemorrágica. Hidratação adequada e uso de medicamentos como a argimesna (Uromitexan®) atenuam essa toxicidade.
+Infecções virais, como adenovírus e poliomavírus, também podem causar cistite hemorrágica, de difícil controle.
+Pode ocorrer insuficiência renal aguda associada à radioterapia e às drogas utilizadas durante o TCTH, como a ciclosporina, a quimioterapia de condicionamento e os antibióticos. Esse efeito pode ser reversível ou resultar em danos graves à função renal; a insuficiência renal crônica é descrita em alguns pacientes.
+G - Efeitos tardios
+Os efeitos tardios de um TCTH estão frequentemente relacionados a uma combinação de fatores, como a doença de base, o condicionamento utilizado, o tipo de transplante e as complicações agudas. Esses efeitos incluem:
+a) Efeitos relacionados ao processo do transplante
+DECH crônica;
+Imunodeficiência;
+Doenças linfoproliferativas;
+Rejeição do enxerto.
+b) Efeitos relacionados ao regime de condicionamento
+Disfunção pulmonar (secundária a radioterapia, quimioterapia e DECH crônica);
+Desordens oculares (catarata pós-radioterapia);
+Disfunção neuroendócrina;
+Desordens neuropsicológicas;
+Neoplasias secundárias.
+H - Disfunção imunológica
+Após o transplante, o nível de linfócitos T e B fica abaixo do normal, assim como o de imunoglobulinas. É interessante notar que parte da imunidade do doador pode ser transferida para o receptor, a chamada imunoterapia adotiva. Pacientes anti-HBsAg negativos podem tornar-se positivos caso tenham recebido medula de doador previamente imunizado contra hepatite B.
+A recuperação imunológica é progressiva, mas pode ser atrasada com a ocorrência de DECH crônica. Recomenda-se vacinar os pacientes 1 ano após o transplante, uma vez que a imunidade recebida do doador costuma durar pouco tempo e o grau de imunossupressão deixa o receptor menos suscetível a responder à imunização nesse período. Usualmente, realiza-se a vacinação para pneumococo, Haemophilus influenzae, influenza B, DT, meningococo, além de H1N1. 
+I - Rejeição do enxerto
+A rejeição aguda do enxerto, tal como acontece nos transplantes de órgãos sólidos, é pouco frequente no TCTH. Traduz-se, na maioria das vezes, no restabelecimento da hematopoese original do paciente e no desaparecimento progressivo das células do doador ou na ausência de pega medular, além de estar associada a recidiva de sua doença de base, caso esta esteja na medula óssea (como nas leucemias). É mais frequente em anemia aplástica, mas sua incidência tem diminuído com o uso de regimes de condicionamento mais intensos, como bussulfano e ciclofosfamida.
+J - Recidiva pós-transplante
+A recidiva pós-transplante tem prognóstico extremamente desfavorável e indica presença de doença resistente.
+Pacientes submetidos a transplante autogênico usualmente não têm indicação para 2º transplante e são tratados com protocolos alternativos.
+Para indivíduos com leucemia, uma das alternativas é a suspensão das drogas imunossupressoras, caso a recidiva seja precoce, tentando, assim, induzir um efeito enxerto contra a leucemia. Outra forma de tratamento é a infusão de linfócitos do doador (DLI) com a finalidade de estimular um efeito enxerto contra leucemia, que pode ocasionar nova remissão da doença. Essa alternativa tem sido utilizada com êxito na leucemia mieloide crônica e alguma resposta na leucemia mieloide aguda, mas com pouco sucesso em leucemia linfocítica aguda.
+Um 2º transplante pode ser factível se a recidiva ocorrer em 6 meses ou mais, e se o paciente tiver utilizado condicionamento sem radioterapia na 1ª vez.
+K - Neoplasias secundárias
+Pacientes submetidos a TCTH têm risco aumentado de outras neoplasias, pelo potencial carcinogênico da quimioterapia e da radioterapia utilizadas previamente. Podem ocorrer, também, doenças linfoproliferativas associadas ao vírus Epstein-Barr.
+A probabilidade de surgimento de 2ª neoplasia é de aproximadamente 6% num período de 15 anos após o TCTH.
+10. Doadores não aparentados
+Menos de 30% dos candidatos ao TCTH têm doador aparentado compatível. Para contornar essa dificuldade, surgiram os bancos de doadores de medula óssea, que são arquivos informatizados em que as tipagens HLA dos potenciais doadores podem ser pesquisadas para eventuais transplantes.
+Caso seja encontrado doador compatível, são realizados testes confirmatórios e, posteriormente, são coletadas as CPHs. Embora os bancos não estoquem a medula propriamente dita, seus custos são elevados, em razão da grande quantidade de tipagens necessárias.
+Existe um tempo de espera prolongado entre o início da identificação de um doador compatível e a coleta das células, que pode chegar a alguns meses. Durante esse período, muitos apresentam progressão da doença.
+No Brasil, a pesquisa é feita por meio do REDOME, que busca doadores compatíveis no país e no exterior.
+A indicação de TCTH com doador não aparentado deve ser cuidadosamente discutida, pois, nesse caso, os pacientes estão sujeitos a maior incidência de complicações, como infecção, rejeição e DECH, tendo o TCTH um custo maior, internação prolongada e maior mortalidade e morbidade relacionadas ao procedimento. 
+Os TCTHs com doadores aparentados com tipagem HLA parcialmente compatíveis apresentam riscos semelhantes aos dos TCTHs com não aparentados.
+- Transplante com sangue do cordão umbilical
+O SCU tem propriedades muito interessantes: menor probabilidade de induzir a DECH aguda e crônica, mesmo quando a tipagem HLA não é totalmente compatível com a do receptor; aparente manutenção do efeito enxerto contra leucemia; e menor índice de infecções por vírus como Epstein-Barr e CMV, pela menor exposição a esses agentes.
+A partir de 1992, isso fez o SCU passar a ser sistematicamente congelado, com a criação do Placental Blood Program pelo Dr. Pablo Rubinstein, no New York Blood Center. Desde então, vários centros passaram a estocar SCU congelado para a realização de transplantes, o que também passou a ser uma vantagem, pois as unidades de SCU podem ser enviadas a qualquer lugar do mundo com relativa rapidez, tornando-as uma das mais promissoras fontes celulares para TCTH na atualidade.
+A desvantagem dessa fonte é a pequena quantidade de células, sendo fator limitante para possíveis receptores de grande peso, sob o risco da falha de enxertia.
+11. Resumo
+Quadro-resumo
+- TCTH: 
+· Nome genérico que se refere à infusão de células progenitoras (de diversas fontes) após um regime quimioterápico intenso.
+- Tipos de TCTH:
+· Alogênico;
+· Relacionado;
+· Não relacionado:
+* Singênico;
+* Autogênico.
+- Fonte de células:
+· Medula óssea;
+· Sangue periférico;
+· SCU.
+- Tipo de condicionamento:
+· Mieloablativo;
+· Não mieloablativo.
+- Condições para que um TCTH seja realizado:
+· Condições clínicas adequadas do paciente (sem disfunção grave de órgãos ou sistemas);
+· Células disponíveis para a realização do procedimento (doador compatível, SCU ou células previamente congeladas);
+· Reconhecimento do TCTH como o melhor tratamento para a doença de base. No caso de a doença ser neoplásica, deve estar preferencialmente em remissão;
+· Condições familiares, psicológicas e socioeconômicas para seguir o acompanhamento recomendado pós-transplante. 
+Principais indicações
+- Doenças não neoplásicas:
+· Anemia aplásica grave;
+· Anemia de Fanconi;
+· Imunodeficiências primárias (Chediak-Higashi, Wiskott-Aldrich, imunodeficiência combinada severa);
+· Osteopetrose;
+· Doenças de acúmulo (adrenoleucodistrofia, leucodistrofia metacromática infantil);
+· Talassemia major;
+· Anemia falciforme com manifestações graves e doador aparentado disponível. 
+- Doenças neoplásicas: 
+· Leucemia mieloide crônica;
+· Leucemia mieloide aguda em 1ª remissão com fatores de mau prognóstico ou em 2ª remissão;
+· Leucemia linfocítica aguda em 1ª remissão com fatores de mau prognóstico ou em remissões subsequentes;
+· Síndromes mielodisplásicas;
+· Mielofibrose.
+Complicações do TCTH
