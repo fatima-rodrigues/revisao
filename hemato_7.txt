@@ -1,146 +1,213 @@
 Distúrbios da hemostasia primária
-Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Neste capítulo, serão abordadas as principais doenças relacionadas com o aumento da fragilidade da parede vascular (púr-pura trombótica e púrpura de Henoch-Schönlein), alterações na forma e na quantidade das plaquetas (púrpura tromboci-topênica imunológica) e, ainda, alterações quantitativas e qualitativas do fator de von Willebrand, levando à doença de mesmo nome. O tratamento, em geral, envolve corticoterapia nos primeiros casos e desmopressina na doença de von Wil-lebrand.
 
 1. Introdução
+
 Os distúrbios da hemostasia primária são resultantes destes 3 mecanismos: 
 Maior fragilidade da parede vascular; 
 Alterações quantitativas ou qualitativas das plaquetas; 
-Alteração do Fator de von Willebrand (FvW). 
+Alterações quantitativas ou qualitativas do Fator de von Willebrand (FvW).
 
-A manifestação clínica dos distúrbios da hemostasia primária mais comum é o sangramento mucocutâneo (pele, gengivorragia, epistaxe, hematêmese/melena, hematúria, menorragia) espontâneo e/ou imediatamente ao trauma, muitas vezes pequeno.
+A manifestação clínica dos distúrbios da hemostasia primária mais comum é o sangramento mucocutâneo (petéquias, gengivorragia, epistaxe, hematêmese/melena, hematúria, menorragia) espontâneo e/ou imediatamente após pequenos traumas. 
+
 - Alteração da parede vascular
-Distúrbios microvasculares, inflamatórios ou não, podem cursar com quadro de sangramento mucocutâneo: são as chamadas púrpuras não trombocitopênicas. É um diagnóstico diferencial muito importante das púrpuras trombocitopênicas, visto que a manifestação clínica é semelhante: petéquias, púrpuras, sangramento mucoso (gengivorragia ou epistaxe), e raramente apresentam sangramento digestivo ou urinário.   
-Na investigação, é importante determinar se há púrpura palpável (representa depósito de fibrina, edema ou infiltração celular) ou não, se há sinais inflamatórios (calor local, dor ou eritema) e se há alteração nos exames laboratoriais que denotem causa hematológica (contagem e função plaquetária, coagulograma). 
+Distúrbios microvasculares, inflamatórios ou não, podem cursar com quadro de sangramento mucocutâneo: são as chamadas púrpuras não trombocitopênicas. É um diagnóstico diferencial muito importante das púrpuras trombocitopênicas, visto que a manifestação clínica é semelhante: petéquias, púrpuras, sangramento mucoso (gengivorragia ou epistaxe), e raramente apresentam sangramento digestivo ou urinário.
+Na investigação, é importante determinar se há púrpura palpável (representa depósito de fibrina, edema ou infiltração celular) ou não, se há sinais inflamatórios (calor local, dor ou eritema) e se há alteração nos exames laboratoriais que denotem causa hematológica (contagem e função plaquetárias, coagulograma). 
+
+Importante
+A maior fragilidade da parede vascular leva a um distúrbio da hemostasia primária que pode ocasionar sangramento mucocutâneo, causando as púrpuras não trombocitopênicas, como púrpura trombótica, púrpura de Henoch-Schönlein, pioderma gangrenoso e eritema multiforme. 
+
 Tabela 1 - Etiologias mais frequentes das púrpuras vasculares 
 Tipos de púrpura	Causas	Exemplos
-Púrpura palpável não inflamatória	Disproteinemia	Crioglobulinemia, doença de Waldenström (depósito de imunoglobulina IgM)
-	Púrpura trombótica	Necrose pela varfarina, deficiência de proteína C e S, livedo reticularis, síndrome do anticorpo antifosfolípide
+Púrpura não inflama-tória palpável	Disproteinemia	Crioglobulinemia, doença de Waldenström (depósito de imunoglobulina IgM)
+	Púrpura trombótica	Necrose pela varfarina, deficiência de proteínas C e S, livedo reticularis, síndrome do anticorpo antifosfolípide
 	Púrpura embólica	Êmbolo de cristal de colesterol
-Púrpura inflamatória palpável ou não	Pioderma gangrenoso	Alteração do sistema imunitário
+Púrpura inflamatória palpável ou não	Pioderma gangrenoso	Alteração do sistema imunológico
 	Púrpura de Henoch-Schönlein 	Infecção das vias aéreas superiores, medicamentos, alimentos, exposição ao frio
 	Infecção	Meningococcemia, Rickettsia, sarampo
-	Eritema multiforme	Causado por infecção (Mycoplasma, adenovírus, citomegalovírus) ou medicamentos (sulfas, fenitoína, anti-inflamatórios não hormonais)
-	Poliarterite nodosa	Infecção estreptocócica (especialmente em crianças), parvovírus B19, HIV, vírus da hepatite B, tuberculose, doença intestinal inflamatória e trombose da veia cava inferior
+	Eritema multiforme	Causado por infecção (Mycoplasma, adenovírus, citomegalovírus) ou medi-camentos (sulfas, fenitoína, anti-inflamatórios não hormonais)
+Púrpura inflamatória palpável	Poliarterite nodosa	Infecção estreptocócica (especialmente em crianças), parvovírus B19, HIV, vírus da hepatite B, tuberculose, doença intestinal inflamatória e trombose da veia cava inferior
 	Vasculites associadas ao ANCA	Wegener, Churg-Strauss
-Púrpura não palpável, não inflamatória	Hipersensibilidade a medicamentos	Por depósito de imunocomplexos
-	Diminuição da integridade vascular	Púrpura senil, excesso de glicocorticoide, deficiência de vitamina C (escorbuto ou síndrome de Scurvy), doença do tecido conectivo (síndrome de Ehlers-Danlos)
-Observação: Púrpura de Henoch-Schönlein: principal causa de vasculite na infância, afeta predominantemente a população pediátrica (3 a 15 anos); 90% dos casos ocorrem em crianças menores que 10 anos; mais comum em meninos (1,8:1). A causa não é bem es-clarecida, mas acredita-se que infecções virais, bacterianas (principalmente por Streptococcus), medicamentos, alergia alimentar ou picada de insetos possam ser desencadeadores. Ocorre vasculite leucocitoclástica por depósito de complemento e imunocomplexo (à custa de IgA e C3). Manifesta-se pela tétrade clínica:
+Púrpura não inflama-tória, não palpável 	Hipersensibilidade a medica-mentos	Por depósito de imunocomplexos
+	Diminuição da integridade vascular	Púrpura senil, excesso de glicocorticoide, deficiência de vitamina C (escor-buto ou síndrome de Scurvy), doença do tecido conectivo (síndrome de Ehlers-Danlos)
+Observação: púrpura de Henoch-Schönlein – principal causa de vasculite na infância, afeta predominantemente a população pediátri-ca (3 a 15 anos); 90% dos casos ocorrem em crianças com idade abaixo de 10 anos; mais comum em meninos (1,8:1). A causa não é bem esclarecida, mas acredita-se que infecções virais, bacterianas (principalmente por Streptococcus), medicamentos, alergia ali-mentar ou picada de insetos possam ser desencadeadores. Ocorre vasculite leucocitoclástica por depósito de complemento e imu-nocomplexo (à custa de IgA e C3). Manifesta-se pela tétrade clínica:
 1 - Púrpura palpável simétrica, na ausência de plaquetopenia ou alteração da coagulação (principalmente nos membros inferiores e nádegas).
 2 - Artralgia/artrite.
 3 - Dor abdominal de intensidade variável (com ou sem sangramento digestivo).
-4 - Nefrite (glomerulonefrite aguda). 
-O diagnóstico é clínico, e a biópsia do local afetado (pele ou rim) é reservada aos casos de apresentação clínica incompleta ou atípica. É uma doença autolimitada, que necessita apenas de tratamento de suporte (ingesta de líquidos, repouso e analgesia). O uso de corticoide é reservado aos casos complicados com envolvimento renal ou não responsivos aos sintomáticos. O prognóstico é muito bom: apenas 1/3 dos casos apresenta recidiva nos 4 meses seguintes ao quadro inicial, de forma mais branda e com menor duração. A complicação com perfuração ou intussuscepção intestinal é rara, e 94% das crianças e 89% dos adultos que apresentam alteração renal evoluem com recuperação completa.
+4 - Nefrite (glomerulonefrite aguda).
+O diagnóstico é clínico, e a biópsia do local afetado (pele ou rim) é reservada aos casos de apresentação clínica incompleta ou atípi-ca. É uma doença autolimitada, que necessita apenas tratamento de suporte (ingesta de líquidos, repouso e analgesia). O uso de corticoide é reservado aos casos complicados com envolvimento renal ou não responsivos aos sintomáticos. O prognóstico é muito bom: apenas 1/3 dos casos apresenta recidiva nos 4 meses seguintes ao quadro inicial, de forma mais branda e com menor duração. A complicação com perfuração ou intussuscepção intestinal é rara, e 94% das crianças e 89% dos adultos que apresentam alteração renal evoluem com recuperação completa.
 
-Atenção
-Telangiectasia hemorrágica hereditária (doença de Rendu-Osler-Weber): trata-se de distúrbio autossômico dominante com aparecimento de vasos tortuosos, dilatados, com paredes finas, geralmente na submucosa do tubo digestivo e na mucosa respiratória. Manifesta-se com epistaxes frequentes e sangramento de mucosa oral e gastrintestinal, consequentes à malformação vascular. No exame físico, é característico o encontro de telangiectasias na face, nos dedos, na língua, nos lábios e no nariz. Parece púrpura, mas não é.
-2. Trombocitopenias
-A trombocitopenia é definida como contagem de plaquetas <150.000/mm3; as causas são várias e podem ser agrupadas em diminuição da produção, aumento da destruição (imune ou não imune) e sequestro esplênico. A identificação da etiologia é essencial para a indicação do tipo de tratamento, já que, em alguns casos, o uso de concentrados de plaquetas para transfusão pode piorar o quadro clínico.
-A trombocitopenia é causa importante de sangramento de pequenos vasos, e essas manifestações hemorrágicas estão relacionadas à sua etiologia e à contagem plaquetária: sangramento clinicamente significativo em geral não ocorre com contagem plaquetária abaixo de 10 a 20.000/mm3 e pacientes com Púrpura Trombocitopênica Idiopática (PTI) têm menor tendência a sangramento, pois, com a destruição periférica, ocorre maior produção medular, com plaquetas mais jovens circulantes e de maior poder hemostático. 
-A pseudoplaquetopenia (plaquetopenia espúria) é um diagnóstico diferencial importante: corresponde à aglutinação plaquetária in vitro, interpretada pelos contadores automáticos como plaquetopenia, geralmente relacionada ao EDTA (anticoagulante do tubo de coleta – tubo roxo). Esse diagnóstico é facilmente feito por meio da análise do esfregaço do sangue periférico ou da coleta da amostra sanguínea em tubo, contendo citrato como anticoagulante (tubo azul).
+Importante
+A telangiectasia hemorrágica hereditária (doença de Rendu-Osler-Weber) é um distúrbio autossômico dominante com o aparecimento de vasos tortuosos, dilatados, com paredes finas, geralmente na submucosa do tubo digestivo e na mucosa respiratória. Manifesta-se com epistaxes frequentes e sangramento de mucosa oral e gastrintestinal, consequentes à malformação vascular. No exame físico, é característico o encontro de telangiectasias na face, nos dedos, na língua, nos lábios e no nariz. Parece púrpura, mas não é.
+
+2. Trombocitopenia
+
+Importante
+A trombocitopenia é definida como contagem de plaquetas <150.000/mm3; as causas são várias e podem ser agrupadas em diminuição da produção, aumento da destruição (imune ou não imune) e sequestro esplênico. A identificação da etiologia é essencial para a indicação do tipo de tratamento, já que, em alguns casos (como na púrpura trombocitopênica imunológica), o uso de concentrados de plaquetas para transfusão pode piorar o quadro clínico. 
+
+A trombocitopenia é causa importante de sangramento de pequenos vasos, e essas manifestações hemorrágicas estão relacionadas à sua etiologia e à contagem plaquetária: sangramento clinicamente significativo em geral não ocorre na presença de contagens plaquetárias abaixo de 10 a 20.000/mm3, e pacientes com Púrpura Trombocitopênica Imunológica (PTI) têm menor tendência a sangramentos, pois, com a destruição periférica excessiva, há maior produção medular e consequente liberação de plaquetas mais jovens circulantes e com maior poder hemostático. 
+A pseudoplaquetopenia (plaquetopenia espúria) é um diagnóstico diferencial importante: corresponde à aglutinação plaquetária in vitro, interpretada pelos contadores automáticos como plaquetopenia, geralmente relacionada ao EDTA (anticoagulante do tubo de coleta – tubo roxo). Esse diagnóstico é facilmente feito por meio da análise do esfregaço do sangue periférico e/ou pela coleta de nova amostra sanguínea em tubo contendo citrato como anticoagulante (tubo azul).
 A plaquetopenia dilucional acontece nas transfusões sanguíneas maciças, em que o aporte transfusional chega ao correspondente a uma volemia ou próximo disso. Transfusão de 15 unidades de hemácias em 24 horas resulta na contagem plaquetária entre 47 e 100.000/mm3, e transfusão de 20 unidades pode levar à contagem entre 25 e 61.000/mm3.
 A seguir, são analisadas as formas mais frequentes de plaquetopenia, suas manifestações clínicas e tratamentos.
+
 A - Plaquetopenia por déficit de produção
 Pode ser congênita ou adquirida. A primeira é muito rara, destacando as síndromes de Wiskott-Aldrich, de Bernard-Soulier e May-Hegglin. As formas adquiridas são mais comuns e podem ser causadas por:
+
 Tabela 2 - Causas
-Doenças primárias da medula óssea	Distúrbio na produção dos megacariócitos, anemia aplástica, mielodisplasia, infiltrações me-dulares por leucemias, tumores e mielofibrose. Destaca-se, ainda, a agressão medular por quimioterapia ou radioterapia, ou ainda por outros agentes tóxicos (benzeno e álcool).
-Carência nutricional de vitamina B12 e ácido fólico	São causas importantes de plaquetopenia por déficit de produção, geralmente acompanhada de anemia e/ou leucopenia.
-Megacariopoese ineficaz	Ocorre produção medular de megacariócitos anômalos, com liberação inadequada de plaque-tas para o sangue periférico, sendo exemplo a mielodisplasia.
-Quadros infecciosos	Em especial o HIV, levando à trombocitopenia nos primeiros estágios, por reações antígeno–anticorpo e por supressão megacariocítica direta pelo vírus. A hepatite por vírus C e Epstein-Barr causam frequentemente um quadro semelhante.
+Doenças primárias da medula óssea	Distúrbio na produção dos megacariócitos, anemia aplástica, mielodisplasia, infiltrações medulares por leucemias, tumores e mielofibrose. Destaca-se, ainda, a agressão medular por quimioterapia ou radioterapia, ou ainda por outros agentes tóxicos (benzeno e álcool).
+Carências nutricionais de vitamina B12 e ácido fólico	São causas importantes de plaquetopenia por déficit de produção, geralmente acompa-nhada por anemia e/ou leucopenia.
+Megacariopoese ineficaz	Ocorre produção medular de megacariócitos anômalos, com liberação inadequada de plaquetas para o sangue periférico, sendo exemplo a mielodisplasia.
+Quadros infecciosos	Em especial o HIV, levando à trombocitopenia nos primeiros estágios, por reações antíge-no–anticorpo e por supressão megacariocítica direta pelo vírus. A hepatite por vírus C e Epstein-Barr causam frequentemente um quadro semelhante.
+
+Dica
+As deficiências de vitamina B12 e ácido fólico são importantes causas de plaquetopenia e devem sempre ser pesquisadas. Comumente são acompanhadas de anemia e leucopenia.
+
 B - Plaquetopenia por excesso de destruição 
-Púrpura trombocitopênica imunológica: destruição plaquetária por formação de anticorpos antiplaquetários ou por interação dos anticorpos com outros elementos, em que a plaqueta atua como hapteno ou, ainda, por produção ineficaz de plaquetas. Pode estar associada a outras doenças autoimunes, como Lúpus Eritematoso Sistêmico (LES), anemias hemolíticas autoimunes, quadros infecciosos virais e ingestão de drogas, ou pode ser idiopática;
+PTI: destruição plaquetária por formação de anticorpos antiplaquetários ou por interação dos anticorpos com outros elementos, em que a plaqueta atua como hapteno ou, ainda, por produção ineficaz de plaquetas. Pode estar associada a outras doenças autoimunes, como Lúpus Eritematoso Sistêmico (LES), anemias hemolíticas autoimunes, quadros infecciosos virais e ingestão de drogas, ou pode ser idiopática;
 Destruição mecânica: como na hemólise por próteses valvares cardíacas, hemangioma cavernoso, aneurisma de aorta ou aterosclerose;
-Consumo: por quadros inflamatórios ou infecciosos, como na meningococcemia, dengue hemorrágica, mononucleose, citomegalovírus, HIV e sepse; nas microangiopatias trombóticas, em que as plaquetas são consumidas em razão da trombose na microcirculação (Púrpura Trombocitopênica Trombótica – PTT –, Síndrome Hemolítico-Urêmica – SHU –, síndrome HELLP, coagulação intravascular disseminada – CIVD);
-Medicamentos: como no uso de heparina, quinidina, ácido valproico, sulfas, interferona e vacina de catapora;
+Consumo: por quadros inflamatórios ou infecciosos, como na meningococcemia, dengue hemorrágica, mononucleose, citomegalovirose, HIV e sepse; nas microangiopatias trombóticas, em que as plaquetas são consumidas em razão da trombose na microcirculação (Púrpura Trombocitopênica Trombótica – PTT –, Síndrome Hemolítico-Urêmica – SHU –, síndrome HELLP, coagulação intravascular disseminada – CIVD);
+Medicamentos: uso de heparina, quinidina, ácido valproico, sulfas, interferona e vacina de catapora;
 Púrpura aloimune: destruição plaquetária em razão de aloanticorpos (anticorpo antiplaquetário não presente no indivíduo, adquirido por transfusão ou transmissão materno-fetal, contra antígeno presente na superfície de sua plaqueta). Ocorre em indivíduos que recebem muitas transfusões de plaquetas e na púrpura aloimune neonatal;
 
  
 Figura 1 - Fatores etiológicos da trombocitopenia
-Trombocitopenia aloimune neonatal: acontece quando as plaquetas do feto contêm antígenos herdados do pai, não possuídos pela mãe. Sendo assim, há desenvolvimento de anticorpos maternos diretamente contra esses antígenos plaquetários do feto (HPA 1a ou PLA1, principalmente), o que acontece na doença hemolítica do recém-nascido. A mãe passa a produzir anticorpos específicos (IgG) que cruzam a barreira placentária e destroem as plaquetas em formação. Os recém-nascidos podem apresentar plaquetopenia leve, moderada ou severa. Deve-se manter o nível de plaquetas >30.000 a 50.000, pois a maior complicação é o sangramento intracraniano, que ocorre em 10 a 20% dos recém-nascidos acometidos, sobretudo nas primeiras 72 a 96 horas, ou ainda intraútero (25 a 50% dos casos). O quadro reverte-se em 1 a 4 semanas, período necessário para o clearance dos anticorpos maternos. Enquanto isso, devem-se transfundir plaquetas com antígenos plaquetários compatíveis com os da mãe (inclusive a própria plaqueta da mãe) e/ou administrar imunoglobulina. A transfusão será indicada se a contagem de plaqueta for <30.000 a 50.000/mm3, principalmente nas primeiras 96 horas, em que o risco de sangramento é muito alto. A taxa de recorrência nas gestações subsequentes é de 75 a 90%, sendo indicada transfusão intraútero imediatamente antes do parto e/ou infusão de imunoglobulina na mãe, associadas ou não a corticoide.
-a) Púrpura trombocitopênica imunológica/idiopática
+
+Trombocitopenia aloimune neonatal: acontece quando as plaquetas do feto contêm antígenos herdados do pai, não possuídos pela mãe. Sendo assim, há desenvolvimento de anticorpos maternos diretamente contra esses antígenos plaquetários do feto (HPA 1a ou PLA1, principalmente), semelhante ao que ocorre na doença hemolítica do recém-nascido. A mãe passa a produzir anticorpos específicos (IgG), que cruzam a barreira placentária e destroem as plaquetas em formação. Os recém-nascidos podem apresentar plaquetopenia leve, moderada ou severa. Deve-se manter o nível de plaquetas >30.000 a 50.000, pois a maior complicação é o sangramento intracraniano, que ocorre em 10 a 20% dos recém-nascidos acometidos, sobretudo nas primeiras 72 a 96 horas, ou ainda intraútero (25 a 50% dos casos). O quadro reverte-se em 1 a 4 semanas, período necessário para o clearance dos anticorpos maternos. Enquanto isso, devem-se transfundir plaquetas com antígenos plaquetários compatíveis com os da mãe (inclusive a própria plaqueta da mãe) e/ou administrar imunoglobulina. A transfusão será indicada se a contagem de plaquetas for <30.000 a 50.000/mm3, principalmente nas primeiras 96 horas, em que o risco de sangramento é muito alto. A taxa de recorrência nas gestações subsequentes é de 75 a 90%, sendo indicada transfusão intraútero imediatamente antes do parto e/ou infusão de imunoglobulina na mãe, associadas ou não a corticoide.
+
+a) Púrpura trombocitopênica imunológica
 É a causa mais comum de plaquetopenia em adultos e crianças. Trata-se de uma doença autoimune, aguda (com duração de até 3 meses), persistente (de 3 a 12 meses) ou crônica (acima de 12 meses), que cursa com destruição plaquetária imunologicamente mediada por anticorpos, à semelhança do que acontece na AIDS, no LES, nas infecções virais e nas complicações de terapias medicamentosas diversas (púrpuras trombocitopênicas imunológicas secundárias). Essas etiologias secundárias devem ser devidamente investigadas e descartadas, pois o diagnóstico de PTI é de exclusão.
+
+Importante
+A púrpura trombocitopênica imunológica é a causa mais comum de plaquetopenia, sendo seu diagnóstico de exclusão. 
+
 Patogênese
 A patogênese da PTI ainda é incerta, mas acredita-se que está relacionada:
-Ao aumento da destruição das plaquetas por anticorpos IgG produzidos por linfócitos B (pode coexistir IgM em 40% dos casos) contra os complexos glicoproteicos plaquetários IIb/IIIa e Ib/IX. As plaquetas opsonizadas após essa reação antígeno–anticorpo são fagocitadas pelo sistema reticuloendotelial, levando à destruição plaquetária, principalmente no baço; 
-À participação importante de linfócitos T-helper CD4+, tanto no estímulo da ação dos linfócitos B, quanto na possível ação citotóxica direta; 
+Ao aumento da destruição das plaquetas por anticorpos IgG produzidos por linfócitos B (podem coexistir anticorpos IgM em 40% dos casos) contra os complexos glicoproteicos plaquetários IIb/IIIa e Ib/IX. As plaquetas opsonizadas após essa reação antígeno–anticorpo são fagocitadas pelo sistema reticuloendotelial, levando à destruição plaquetária, principalmente no baço; 
+À participação importante de linfócitos T-helper CD4+, tanto no estímulo da ação dos linfócitos B quanto na possível ação citotóxica direta; 
 À diminuição da secreção de trombopoetina; fisiologicamente, em situações de plaquetopenia, essa substância encontra-se elevada, o que não ocorre na PTI.
+
 Epidemiologia
-A incidência maior é na infância, porém pode afetar virtualmente todas as faixas etárias e ambos os sexos. Em crianças, é mais frequente o aparecimento da plaquetopenia após quadro viral ou vacina (principalmente a MMR – sarampo, caxumba e rubéola), iniciando-se, geralmente, 3 semanas após a infecção, com taxa de remissão espontânea bastante alta nessa faixa etária, chegando a 80%. Infecção pelo Helicobacter pylori tem sido associada à PTI em alguns relatos. Nos adultos, acometem em geral mulheres em torno da 2ª à 4ª década de vida, ou ainda idosos; nestas situações, a remissão clínica é menos comum, com maior chance, por conseguinte, de cronicidade do quadro, mesmo com tratamento adequado.
+A incidência maior é na infância, porém pode afetar virtualmente todas as faixas etárias em ambos os sexos. Em crianças, é mais frequente o aparecimento da plaquetopenia após quadro viral ou vacina (principalmente a MMR – sarampo, caxumba e rubéola), iniciando-se, geralmente, 3 semanas após a infecção, com taxa de remissão espontânea bastante alta nessa faixa etária, chegando a 80%. Infecção pelo Helicobacter pylori tem sido associada à PTI em alguns relatos. Nos adultos, acometem em geral mulheres em torno da 2ª à 4ª década de vida ou, ainda, idosos; nessas situações, a remissão clínica é menos comum, com maior chance, por conseguinte, de cronicidade do quadro, mesmo com tratamento adequado.
+
  
-Figura 2 - Incidência de PTI por faixa etária 
-Quadros clínico e laboratorial
-A manifestação clínica é de distúrbio da hemostasia primária, destacando a presença de petéquias, geralmente ascendentes. Pode ocorrer sangramento em, virtualmente, todos os tecidos do organismo, sendo mais comum epistaxe, gengivorragia e menorragia. Idosos tendem a manifestar sangramentos mais graves, como digestivo ou urinário. O Sistema Nervoso Central (SNC) raramente apresenta fenômenos hemorrágicos potencialmente fatais, tendo em vista hiperfunção das poucas plaquetas presentes. 
-Os pacientes se encontram em bom estado geral e afebris, com ausência de esplenomegalia ou de outras alterações no exame físico, além de petéquias, púrpuras e equimoses. Diferentemente da púrpura de Henoch-Schönlein, a PTI é indolor, não palpável e não ocorre exclusiva ou principalmente nos membros inferiores.
+Figura 2 - Incidência de púrpura trombocitopênica imunológica por faixa etária 
+
+Quadro clínico e laboratorial
+A manifestação clínica é de um distúrbio da hemostasia primária, destacando-se a presença de petéquias, geralmente ascendentes. Pode ocorrer sangramento em, virtualmente, todos os tecidos do organismo, sendo mais comum epistaxe, gengivorragia e menorragia. Idosos tendem a apresentar sangramentos mais graves, como digestivo ou urinário. O Sistema Nervoso Central (SNC) raramente apresenta fenômenos hemorrágicos potencialmente fatais, tendo em vista hiperfunção das poucas plaquetas presentes. 
+Os pacientes se encontram em bom estado geral e afebris, com ausência de esplenomegalia ou de outras alterações no exame físico, além de petéquias, púrpuras e equimoses. Diferentemente da púrpura de Henoch-Schönlein, a PTI é indolor, não palpável e não ocorre de forma exclusiva ou principal nos membros inferiores.
 A contagem plaquetária pode alcançar valores abaixo de 10.000/mm3, muitas vezes com megatrombócitos circulantes (macroplaquetas), consequentes ao aumento da demanda medular, sem qualquer outra evidência de alteração no hemograma. Eventualmente, pode haver anemia ferropriva (secundária aos episódios de sangramento).
-As outras linhagens celulares estão normais, porém 10% têm anemia hemolítica autoimune associada (síndrome de Evans). 	
-A análise do sangue periférico é importante para descartar pseudoplaquetopenia e presença de células anômalas (leucemia) e de esquizócitos (sinal de microangiopatia). NA PTI, é comum ocorrer a presença de macroplaquetas.
+As outras linhagens celulares estão normais, porém 10% têm anemia hemolítica autoimune associada (síndrome de Evans). 
+
+Importante
+A manifestação clínica de púrpura trombocitopênica imunológica envolve o surgimento de petéquias ascendentes pelo corpo, podendo ocorrer epistaxe, gengivorragia e menorragia, na ausência de febre. 
+
+Importante
+A análise do sangue periférico é importante para descartar pseudoplaquetopenia e presença de células anômalas (leucemia) e de esquizócitos (sinal de microangiopatia). Na púrpura trombocitopênica imunológica, é comum ocorrer a presença de macroplaquetas.
+
 Ao mielograma, evidenciam-se linhagens celulares normais, podendo haver aumento do número de megacariócitos, muitos deles imaturos, basofílicos, com núcleo grande e não lobulado, demonstrando eritropoese acelerada e resposta medular elevada. Pode-se encontrar também número de megacariócitos normais ou diminuídos, nos casos em que estes são afetados. Logo, o mielograma não é importante para o diagnóstico da PTI, mas para a exclusão de outras doenças que afetam a medula. Deve ser solicitado em crianças (pela possibilidade de diagnóstico de leucemia aguda), idosos (pelo diagnóstico diferencial de mielodisplasia) e pacientes corticorrefratários ou recaídos. 
 Podem-se, ainda, detectar anticorpos antiplaquetários por citometria de fluxo; entretanto, a sensibilidade e a especificidade desse teste são muito baixas, não sendo utilizado para o diagnóstico.
 Não há nenhum exame laboratorial que confirme PTI, sendo diagnóstico de exclusão (sempre descartar outras doenças imunes associadas, infecções virais, principalmente hepatite C e HIV, medicamentos, síndrome do anticorpo antifosfolípide e microangiopatia).
-Tabela 3 - Patologias a serem descartadas para diagnóstico de PTI
+
+Tabela 3 - Patologias a serem descartadas para diagnóstico de púrpura trombocitopênica idiopática
 - Doenças autoimunes;
 - Anemia megaloblástica;
 - Doenças infecciosas, em especial hepatite C e HIV;
 - Agamaglobulinemia (solicitar eletroforese de proteínas e dosagem de imunoglobulinas);
-- Tireoidopatias;
+- Tireoidopatias (se sintomas de hipo ou hiperfunção tireoidiana presentes);
 - Síndrome mielodisplásica (principalmente idosos);
 - Leucemia aguda (principalmente crianças);
 - Uso de medicamentos.
+
+Pergunta
+2014 - UNICAMP
+1. Um menino de 4 anos é trazido pela mãe, que refere o surgimento de manchas avermelhadas e arroxeadas pelo corpo há cerca de 20 horas. A criança teve o diagnóstico de eritema infeccioso há 12 dias, mas já está bem. Nega outras queixas, alimenta-se bem, com vacinação atualizada. Exame físico: eutrófico, corado; inúmeras petéquias esparsas, equimoses pequenas em membros; abdome sem alterações. Hemograma: plaquetas = 19.000mm3, séries branca e vermelha sem alterações. A hipótese diagnóstica é:
+a) púrpura de Henoch-Schönlein
+b) doença de von Willebrand
+c) leucemia mieloide aguda
+d) púrpura trombocitopênica imune
+Resposta no final do capítulo
+
 Tratamento
-Considerando que nas crianças geralmente há remissão espontânea, e também em alguns poucos casos nos adultos (<10%), o início da terapia está indubitavelmente indicado apenas em 3 situações: nível plaquetário abaixo de 30.000/mm3, quadro de sangramento ativo ou previsão de intervenção cirúrgica. Outras situações podem ser levadas em conta para a indicação terapêutica objetivando plaquetometria maior, como risco de trauma (geralmente idosos ou pacientes que exercem atividade de risco), uso de medicamentos anticoagulantes ou antiagregantes e a presença de comorbidades.
+Considerando-se que nas crianças geralmente há remissão espontânea, e também em alguns poucos casos nos adultos (<10%), o início da terapia está indubitavelmente indicado apenas em 3 situações: nível plaquetário abaixo de 30.000/mm3, quadro de sangramento ativo ou previsão de intervenção cirúrgica. Outras situações podem ser levadas em conta para a indicação terapêutica objetivando plaquetometria maior, como risco de trauma (geralmente idosos ou pacientes que exercem atividade de risco), uso de medicamentos anticoagulantes ou antiagregantes e a presença de comorbidades.
 A 1ª opção terapêutica é o corticoide, para reduzir a afinidade dos macrófagos com as plaquetas marcadas por anticorpos, além de diminuir a ligação dos anticorpos à superfície das plaquetas. Quando mantida a corticoterapia por longos períodos, a produção de anticorpos diminui. 
+
+Tratamento
+O tratamento da púrpura trombocitopênica imunológica é feito com corticosteroide, utilizando-se geralmente a prednisona na dose de 1mg/kg/d. 
+
 Tabela 4 - Opções de administração do corticoide
 - Prednisona, na dose de 1mg/kg de peso/d, pelo mínimo de 4 semanas (mais utilizada);
-- Pulsos com dexametasona, 40mg/d, por 4 dias a cada 14 a 28 dias, quantas vezes forem necessárias para aumentar a contagem plaquetária (em geral de 1 a 6 vezes);
-- Pulso com metilprednisolona na dose de 30mg/kg/d, respeitando a dose máxima de 1g/d, por 3 dias, seguido da prednisona na dose já descrita. Nessa opção, obtêm-se resposta mais rapidamente, mas sem diferença na frequência ou na duração da resposta completa, sendo reservada apenas a pacientes com quadro de sangramento importante ou refratários à dose convencional de prednisona.
+- Pulsos com dexametasona 40mg/d, por 4 dias, a cada 14 a 28 dias, quantas vezes forem necessárias para aumentar a contagem pla-quetária (em geral de 1 a 6 vezes);
+- Pulso com metilprednisolona na dose de 30mg/kg/d, respeitando a dose máxima de 1g/d, por 3 dias, seguido da prednisona na dose já descrita. Nessa opção, obtêm-se resposta mais rapidamente, mas sem diferenças na frequência e/ou na duração da resposta comple-ta, sendo reservada apenas a pacientes com quadro de sangramento importante ou refratários à dose convencional de prednisona.
+
 O sangramento geralmente diminui de intensidade após o 1º dia de corticoide, mesmo antes do início da elevação plaquetária, talvez por aumento da estabilidade vascular.
 Após o início da corticoterapia, a contagem de plaquetas pode levar até 4 semanas para se elevar.
-Como alternativa à metilprednisolona a pacientes com quadro de sangramento importante ou refratários à prednisona, a imunoglobulina intravenosa é um excelente recurso terapêutico, em que há rápida elevação dos níveis plaquetários e redução precoce dos sangramentos. Tal agente atua no bloqueio dos receptores Fc dos macrófagos e na diminuição da captação de plaquetas recobertas por anticorpos. Preconiza-se dose de 400mg/kg de peso/d, por 3 a 5 dias ou 1g/kg/d por 2 dias. Espera-se resposta laboratorial em 1 a 5 dias.
-Contudo, a imunoglobulina intravenosa é uma terapêutica de alto custo, nem sempre disponível de forma imediata para uso, e seu efeito nos casos crônicos se mantém por apenas 1 a 2 semanas. Assim, reserva-se o uso a pacientes com sangramento ativo, em pré-operatório (particularmente para a esplenectomia) e para gestantes, no preparo para o parto. 
-A transfusão de plaquetas está contraindicada, recomendada apenas em caso de sangramento ativo e com risco de vida iminente (sangramentos no trato gastrintestinal ou SNC), geralmente se calculando o dobro da dose usual (enquanto dose usual de plaquetas randômicas é 1 unidade a cada 10kg, aqui se faz 2 a 3 unidades a cada 10kg de peso). Não há contraindicações para transfusões de concentrados de hemácias caso haja anemia severa sintomática associada, em razão das perdas.
-Para os casos refratários, a esplenectomia ainda é a 1ª opção, indicada aos casos em que não há resposta à prednisona, quando há dependência de altas doses do uso desta ou em caso de recidiva da doença. Deve-se aguardar pelo menos 6 meses para indicar esse procedimento, tendo em vista a chance de remissão espontânea nesse período. Entretanto, a cirurgia não é garantia de sucesso a 100% dos pacientes, tendo índice de resposta em longo prazo que varia de 60 a 90%, dependendo da série estudada.
+Como alternativa à metilprednisolona, para aqueles com quadro de sangramento importante e/ou refratário a prednisona, a imunoglobulina intravenosa é um excelente recurso terapêutico, devido à rápida elevação dos níveis plaquetários e à redução precoce dos sangramentos. Tal agente atua no bloqueio dos receptores Fc dos macrófagos e na diminuição da captação de plaquetas recobertas por anticorpos. Preconiza-se dose de 400mg/kg de peso/d, por 3 a 5 dias, ou 1g/kg/d, por 2 dias. Espera-se resposta laboratorial em 1 a 5 dias.
+Contudo, a imunoglobulina intravenosa é uma terapêutica de alto custo, nem sempre disponível de forma imediata para uso, e seu efeito nos casos crônicos se mantém por apenas 1 a 3 semanas. Assim, reserva-se o uso a pacientes com sangramento ativo, em pré-operatório (particularmente para a esplenectomia) e para gestantes, no preparo para o parto. 
+A transfusão de plaquetas está contraindicada, recomendada apenas em casos de sangramento ativo e com risco de vida iminente (sangramentos no trato gastrintestinal ou SNC), geralmente calculando-se o dobro da dose usual (enquanto dose usual de plaquetas randômicas é 1 unidade a cada 10kg, aqui se faz 2 a 3 unidades a cada 10kg de peso). Não há contraindicações para transfusões de concentrados de hemácias caso haja anemia severa sintomática associada, em razão das perdas.
+Para os casos refratários, a esplenectomia ainda é a 1ª opção, indicada aos casos em que não há resposta a prednisona, quando há dependência de altas doses do uso desta ou em casos de recidiva da doença. Deve-se aguardar pelo menos 6 meses para indicar esse procedimento, tendo em vista a chance de remissão espontânea nesse período. Entretanto, a cirurgia não é garantia de sucesso a 100% dos pacientes, tendo índice de resposta em longo prazo que varia de 60 a 90%, dependendo da série estudada.
 O anticorpo monoclonal anti-CD20 (rituximabe), responsável pela supressão de linfócitos B e, portanto, da síntese de anticorpos, vem sendo bastante estudado na tentativa de diminuir as indicações de esplenectomia, mas ainda carece de estudos que comprovem superioridade quanto à sua eficácia como 1ª linha, principalmente em longo prazo, sendo, porém, reservado aos refratários à esplenectomia ou àqueles com contraindicação cirúrgica, com boas taxas de sucesso. 
 Os análogos de trombopoetina (eltrombopague e romiplostim) são aprovados para uso em pacientes refratários às terapias anteriores; não induzem à remissão, porém melhoram a plaquetometria durante seu uso em pelo menos 50% dos casos. Ambos os medicamentos já foram lançados no Brasil.
-Descreve-se, também, que o uso do danazol, um agente anabolizante, está associado à melhora em pacientes refratários a corticoides, o mesmo acontecendo com o quimioterápico ciclofosfamida e o imunossupressor ciclosporina. Ressalta-se, porém, que estes medicamentos são de 3ª linha, apresentando respostas menores que os demais supracitados.
+Descreve-se, também, que o uso do danazol, um agente anabolizante, está associado à melhora em pacientes refratários a corticoides, o mesmo acontecendo com o quimioterápico ciclofosfamida e o imunossupressor ciclosporina. Ressalta-se, porém, que esses medicamentos são de 3ª linha terapêutica, apresentando respostas menores do que os demais supracitados.
 Prognóstico
 Nas crianças, a maior parte apresenta remissão completa (80%), enquanto nos adultos a maioria dos casos (aproximadamente 60%) regride com uso de prednisona. O prognóstico é bom na maioria dos casos, com resolução após terapêutica medicamentosa ou esplenectomia. A mortalidade relacionada à PTI é pequena (<1%) e secundária a sangramento ou infecção. 
+
  
-Figura 3 - Tratamento na PTI
+Figura 3 - Tratamento na púrpura trombocitopênica imunológica
+
 b) Púrpura trombocitopênica trombótica
-A PTT é uma microangiopatia trombótica disseminada, caracterizada pela oclusão difusa da microcirculação por microtrombos plaquetários. Estes microtrombos causam anemia hemolítica microangiopática com formação de esquizócitos. Pode resultar em isquemia do SNC e insuficiência renal aguda, e alta chance de mortalidade se não tratada rápida e adequadamente.  
-O principal mecanismo é a deficiência ou a inibição (congênita ou adquirida) da metaloproteinase ADAMTS13 (A Disintegrin And Metalloproteinase with ThromboSpondin I motif), responsável fisiologicamente pela degradação dos polímeros de alto peso do FvW (forma inicial hiperfuncionante e maior) em polímeros de baixo peso (forma final e normofuncionante). A presença de anticorpos IgG antimetaloproteinase parece ser um fenômeno habitualmente associado às formas adquiridas de PTT, permanecendo, no entanto, pouco claros os mecanismos que levam esses anticorpos inibitórios a reconhecerem o complexo enzimático, bem como a razão pela qual são produzidos. Por outro lado, as formas congênitas de deficiência da enzima parecem estar relacionadas a mutações no gene da ADAMTS13, situado no braço longo do cromossomo 9 (9q34). 
-A disfunção endotelial é o elemento desencadeante da microangiopatia, em que haverá a adesão plaquetária persistente pela presença constante dos multímeros de alto peso do FvW (já que não há ADAMTS13), originando direta e indiretamente a trombose microvascular e promovendo a formação de um trombo primariamente plaquetário na microcirculação (microangiopatia trombótica disseminada). As hemácias, ao tentar vencer o trombo plaquetário, chocam-se, o que resulta em hemólise (anemia hemolítica microangiopática) e formação dos esquizócitos. 
+A PTT é uma microangiopatia trombótica disseminada, caracterizada pela oclusão difusa da microcirculação por microtrombos plaquetários. Esses microtrombos causam anemia hemolítica microangiopática com formação de esquizócitos. Pode resultar em isquemia do SNC e insuficiência renal aguda, e alta chance de mortalidade se não tratada rápida e adequadamente.  
+O principal mecanismo é a deficiência ou a inibição (congênita ou adquirida) da metaloproteinase ADAMTS13 (A Disintegrin And Metalloproteinase with ThromboSpondin III motifs), responsável fisiologicamente pela degradação dos polímeros de alto peso do FvW (forma inicial hiperfuncionante e maior) em polímeros de baixo peso (forma final e normofuncionante). A presença de anticorpos IgG antimetaloproteinase parece ser um fenômeno habitualmente associado às formas adquiridas de PTT, permanecendo, no entanto, pouco claros os mecanismos que levam esses anticorpos inibitórios a reconhecerem o complexo enzimático, bem como a razão pela qual são produzidos. Por outro lado, as formas congênitas de deficiência da enzima parecem estar relacionadas a mutações no gene da ADAMTS13, situado no braço longo do cromossomo 9 (9q34). 
+A disfunção endotelial é o elemento desencadeante da microangiopatia, em que haverá a adesão plaquetária persistente pela presença constante dos multímeros de alto peso do FvW (já que não há ADAMTS13), originando direta e indiretamente a trombose microvascular e promovendo a formação de um trombo primariamente plaquetário na microcirculação (microangiopatia trombótica disseminada). As hemácias, ao tentarem vencer o trombo plaquetário, chocam-se, o que resulta em hemólise (anemia hemolítica microangiopática) e formação dos esquizócitos. 
 Uma lista crescente de agentes etiológicos tem sido descrita, com especial destaque para as toxinas bacterianas, vírus e fármacos, como alguns antiagregantes plaquetários – ticlopidina e clopidogrel. Todavia, somente em 15% dos casos se detecta um fator causal. 
-  
-Figura 4 - Fisiopatologia da PTT
+
  
-Figura 5 - Formação de trombos plaquetários na PTT no (A) cérebro e no (B) rim
-Essa síndrome predomina na idade adulta, com pico de incidência na 3ª década de vida e com uma razão sexo feminino:masculino de 3:2. Os dados sobre a incidência são escassos, mas parecem indicar seu aumento progressivo, com valores estimados de 3,7 casos/1.000.000/ano. 
-O quadro clínico assenta-se, sobretudo, na pêntade trombocitopenia, anemia hemolítica microangiopática (sinais de hemólise + esquizócitos), febre, disfunções neurológica e renal. Apesar da utilidade diagnóstica, a pêntade está presente em apenas 25% dos pacientes; febre, púrpura e sinais neurológicos flutuantes são encontrados em cerca de 90%. Em 40% dos casos, é identificado quadro semelhante a síndrome gripal, que antecede imediatamente o aparecimento do quadro clínico típico de PTT. A púrpura é o sinal clínico inicial em 90% dos pacientes, sendo a trombocitopenia comumente inferior a 20.000 plaquetas/µL em razão do consumo na formação dos trombos plaquetários. A anemia é de moderada a grave. A febre está sempre presente em algum momento da evolução da doença. A disfunção neurológica está presente inicialmente em 60% dos doentes, ascendendo a 90% em qualquer momento da enfermidade. Nos sinais neurológicos, tipicamente transitórios e flutuantes, predominam síndromes confusionais, alterações do campo visual, parestesias e paresias, afasia, disartria, síncope, vertigens, ataxia, paralisias centrais, convulsões e alterações do estado de consciência. Podem ainda ser observados distúrbios na condução miocárdica, associados ou não a insuficiência cardíaca, bem como infiltrados intersticiais pulmonares. Anticorpos antinucleares (ANA) são identificados em até 20% dos doentes.
+Figura 4 - Fisiopatologia da púrpura trombocitopênica trombótica
+
+ 
+Figura 5 - Formação de trombos plaquetários na púrpura trombocitopênica trombótica no (A) cérebro e no (B) rim
+
+Essa síndrome predomina na idade adulta, com pico de incidência na 3ª década de vida e com uma razão sexo feminino: masculino de 3:2. Os dados sobre a incidência são escassos, mas parecem indicar um aumento progressivo, com valores estimados de 3,7 casos/1.000.000/ano. 
+O quadro clínico assenta-se, sobretudo, na pêntade composta por trombocitopenia, anemia hemolítica microangiopática (sinais de hemólise + esquizócitos), febre, disfunções neurológica e renal. Apesar da utilidade diagnóstica, a pêntade está presente em apenas 25% dos pacientes; febre, púrpura e sinais neurológicos flutuantes são encontrados em cerca de 90%. Em 40% dos casos, é identificado quadro semelhante a síndrome gripal, que antecede imediatamente o aparecimento do quadro clínico típico de PTT. A púrpura é o sinal clínico inicial em 90% dos pacientes, sendo a trombocitopenia comumente inferior a 20.000 plaquetas/µL, em razão do consumo na formação dos trombos plaquetários. A anemia é de grau moderado a grave. A febre está sempre presente em algum momento da evolução da doença. A disfunção neurológica está presente inicialmente em 60% dos pacientes, ascendendo a 90% em qualquer momento da enfermidade. Nos sinais neurológicos, tipicamente transitórios e flutuantes, predominam síndromes confusionais, alterações do campo visual, parestesias e paresias, afasia, disartria, síncope, vertigens, ataxia, paralisias centrais, convulsões e alterações do estado de consciência. Podem ainda ser observados distúrbios na condução miocárdica, associados ou não a insuficiência cardíaca, bem como infiltrados intersticiais pulmonares. Anticorpos antinucleares (ANA) são identificados em até 20% dos pacientes.
 O aumento da desidrogenase láctica (DHL) é intenso e característico, indicando hemólise e lesão pela isquemia tecidual, e o acompanhamento dos níveis séricos de DHL é útil na avaliação da resposta ao tratamento.
-Geralmente, a insuficiência renal aguda não decorre da necrose cortical, podendo cursar com hematúria e proteinúria; acomete 40% dos pacientes, mas comumente é ligeira e transitória, e raramente torna-se crônica (ao contrário da SHU). 
-A análise do sangue periférico é fundamental para o diagnóstico da PTT. O encontro de esquizócitos >1% do total de glóbulos vermelhos, resultado da fragmentação mecânica das hemácias na microcirculação, é fator determinante da presença da microangiopatia.
+Geralmente, a insuficiência renal aguda não decorre da necrose cortical, podendo cursar com hematúria e proteinúria; acomete 40% dos pacientes, mas comumente é ligeira e transitória, e raramente torna-se crônica (ao contrário do que acontece na SHU). 
+
+Importante
+A análise do sangue periférico é fundamental para o diagnóstico da púrpura trombocitopênica trombótica. O encontro de esquizócitos >1% do total de glóbulos vermelhos, resultado da fragmentação mecânica das hemácias na microcirculação, é fator determinante da presença da microangiopatia, especialmente se associado a anemia microangiopática e desidrogenase láctica alta.
+
  
 Figura 6 - Esquizócitos 
+
 O diagnóstico da PTT é clínico. Como visto, nem sempre se encontram os 5 principais sintomas; assim, em qualquer plaquetopenia associada à presença de esquizócitos em sangue periférico, o diagnóstico de PTT deve ser lembrado, em especial se associado ao achado de anemia microangiopática e DHL alta. Infelizmente não há nenhum teste que confirme o diagnóstico. A dosagem da metaloprotease ADAMTS13 é de difícil realização, e ainda não há a padronização dos seus resultados, não tendo utilidade no diagnóstico da doença, talvez apenas no prognóstico (quanto mais severa a deficiência, pior a sobrevida, mais lenta é a recuperação das plaquetas e maior o risco de recidiva). 
+
 Tratamento
 Antes do desenvolvimento de um tratamento eficaz, o desfecho era fulminante. Atualmente, a mortalidade é inferior a 10% em caso de tratamento adequado. 
-Recomenda-se início imediato de plasmaférese, mesmo diante da suspeita diagnóstica, pois o retardo do tratamento pode comprometer consideravelmente o prognóstico. O objetivo é a retirada dos anticorpos anti-ADAMTS13 (quando presentes) e dos multímeros de alto peso, por meio da troca de grandes volumes de plasma (cerca de 40 a 60mL/kg ou volemia plasmática em cada sessão), com reposição de plasma fresco congelado normal, que contém a proteinase. A presença de depressão grave do estado de consciência não é contraindicação para plasmaférese, visto que, com tratamento eficaz, verifica-se a reversão completa do quadro neurológico.
+
+Tratamento
+O tratamento imediato da púrpura trombocitopênica trombótica é a plasmaférese, associada à introdução de prednisona 1mg/kg.
+
+Recomenda-se início imediato de plasmaférese, mesmo diante da suspeita diagnóstica, pois o retardo do tratamento pode comprometer consideravelmente o prognóstico. O objetivo é a retirada dos anticorpos anti-ADAMTS13 (quando presentes) e dos multímeros de alto peso, por meio da troca de grandes volumes de plasma (cerca de 40 a 60mL/kg ou uma volemia plasmática em cada sessão), com reposição de plasma fresco congelado normal, que contém a proteinase. A presença de depressão grave do estado de consciência não é contraindicação para plasmaférese, visto que, com tratamento eficaz, verifica-se a reversão completa do quadro neurológico.
 É possível que os sintomas neurológicos amenizem já nas primeiras horas e que o número de plaquetas e os níveis de hemoglobina comecem a elevar-se em 3 a 5 dias (porém, a normalização só é observada após semanas).
-A plasmaférese deve ser mantida, até a resolução do quadro neurológico, a normalização da contagem plaquetária e a estabilização da DHL, por pelo menos 3 dias. Cerca de 90% dos pacientes respondem ao tratamento nas primeiras 3 a 4 semanas. 
-Recomenda-se o uso de prednisona 1mg/kg, associado à plasmaférese, na tentativa de inibir a formação de mais anticorpos. Há controvérsia sobre o início imediato do corticoide ou se deve-se utilizá-lo apenas em caso de resposta inicial ruim.
+A plasmaférese deve ser mantida até a resolução do quadro neurológico, a normalização da contagem plaquetária e a estabilização da DHL, por pelo menos 3 dias. Cerca de 90% dos pacientes respondem ao tratamento nas primeiras 3 a 4 semanas. 
+Recomenda-se o uso de prednisona 1mg/kg, associado a plasmaférese, na tentativa de inibir a formação de mais anticorpos. Há controvérsia sobre o início imediato do corticoide ou se se deve utilizá-lo apenas em caso de resposta inicial ruim.
 O antiagregante plaquetário compreende tratamento adjunto que deve ser utilizado quando a contagem plaquetária ultrapassa 50.000/mm3.
 A transfusão plaquetária pode piorar os quadros neurológico e renal, sendo reservada apenas a casos de sangramento que coloquem o paciente em risco de vida.
 Em indivíduos refratários, opta-se por aumentar a troca plasmática, realizando 2 procedimentos ao dia, utilizando plasma isento de crioprecipitado (menos multímeros de alto peso), e por aumentar imunossupressão com vincristina, rituximabe, ciclosporina ou azatioprina. A esplenectomia foi considerada tratamento de 1ª linha para PTT antes do uso das aféreses e não é mais indicada. 
 Diagnóstico diferencial
 Fazem parte todas as causas de microangiopatia, ou seja, anemia secundária à hemólise por trauma mecânico microvascular, portanto, com presença de esquizócitos no sangue periférico e plaquetopenia de consumo: SHU, síndrome HELLP, vasculites e CIVD. 
+
 c) Síndrome hemolítico-urêmica 
-A SHU também é uma forma de microangiopatia trombótica disseminada com anemia hemolítica microangiopática; logo, clinicamente se apresenta com sintomas e achados laboratoriais similares à PTT. Entretanto, a diferenciação entre estas 2 entidades é de extrema importância pelo tratamento de cada uma.
-A SHU afeta principalmente crianças (95% dos casos), independente do sexo, sendo ocasional em adultos. Existe a formação de microtrombos em circulação que atingem principalmente rins, podendo causar insuficiência renal oligoanúrica. A SHU típica é associada a febre, disenteria e infecção pela Escherichia coli produtora de verotoxina (VTEC). O subtipo O157:H7 está presente em aproximadamente 80% dos casos, mas pode ser causada ainda por outros sorotipos de E. coli produtores de toxina ou por Shigella dysenteriae tipo I. Aproximadamente 15% dos pacientes que cursam com diarreia pela E. coli VTEC evoluem com SHU.
-O mecanismo fisiopatogênico exato desta entidade se mantém desconhecido, mas provavelmente se correlaciona com lesão renal vascular provocada pela toxina.
+A SHU também é uma forma de microangiopatia trombótica disseminada com anemia hemolítica microangiopática; logo, clinicamente se apresenta com sintomas e achados laboratoriais similares à PTT. Entretanto, a diferenciação entre essas 2 entidades é de extrema importância para o tratamento de cada uma.
+A SHU afeta principalmente crianças (95% dos casos), independente do sexo, sendo ocasional em adultos. Existe a formação de microtrombos em circulação, que atingem principalmente os rins, podendo causar insuficiência renal oligoanúrica. A SHU típica é associada a febre, disenteria e infecção pela Escherichia coli produtora de verotoxina (VTEC). O subtipo O157:H7 está presente em aproximadamente 80% dos casos, mas a SHU pode ser causada ainda por outros sorotipos de E. coli produtores de toxina ou por Shigella dysenteriae tipo I. Aproximadamente 15% dos pacientes que cursam com diarreia pela E. coli VTEC evoluem com SHU.
+O mecanismo fisiopatogênico exato dessa entidade se mantém desconhecido, mas provavelmente se correlaciona com lesão renal vascular provocada pela toxina.
 Os demais tipos de SHU não são associados a VTEC, podendo se correlacionar com uso de medicamentos, em especial ciclosporina, quinidina, quimioterápicos, ticlopidina e interferona.
 A maioria dos casos se apresenta com plaquetopenia, porém em níveis não tão baixos como na PTT. Sintomas neurológicos são bem menos comuns e menos severos: convulsões, coma e acidente vascular cerebral ocorrem somente em 10% dos casos. Em compensação, os microtrombos em microcirculação renal são bem mais comuns, evoluindo com insuficiência renal.
-O objetivo do tratamento inicial é manter a perfusão renal com fluidos intravenosos, ao mesmo tempo em que se evita a congestão pelo excesso de líquidos. Aproximadamente 50 a 60% dos pacientes com insuficiência renal evoluem para insuficiência renal oligúrica, necessitando de hemodiálise. Por outro lado, 90% das crianças sobrevivem com tratamento de suporte clínico. Não há benefício adicional com infusão de plasma e/ou plasmaférese, enquanto o uso de antibioticoterapia específica para os germes envolvidos é controverso. Infelizmente, em até 1/3 dos pacientes haverá prejuízo da função renal por anos após o evento inicial da SHU.
-Tabela 5 - Comparação entre PTT e SHU
+O objetivo do tratamento inicial é manter a perfusão renal com fluidos intravenosos, ao mesmo tempo em que se evita a congestão pelo excesso de líquidos. Aproximadamente 50 a 60% dos pacientes com insuficiência renal evoluem para insuficiência renal oligúrica, necessitando de hemodiálise. Por outro lado, 90% das crianças sobrevivem com tratamento de suporte clínico. Não há benefício adicional pela infusão de plasma e/ou plasmaférese, enquanto o uso de antibioticoterapia específica para os germes envolvidos é controverso. Infelizmente, em até 1/3 dos pacientes haverá prejuízo da função renal por anos após o evento inicial da SHU.
+
+Tabela 5 - Comparação entre púrpura trombocitopênica trombótica e síndrome hemolítico-urêmica
 Características	PTT	SHU
 Hemólise microangiopática	Sim	Sim
 Trombocitopenia	Severa	Moderada a severa
@@ -149,31 +216,55 @@ Gênero	Feminino	--
 Recorrência	Comum	Rara
 Infecção por E. coli	Ocasional	Presente
 Insuficiência renal aguda	Incomum	Comum
-Sintomas no SNC	Comum	Incomum
+Sintomas no SNC	Comuns	Incomuns
 Envolvimento de órgãos	Multiorgânico	Renal
 Multímeros FvW	Grandes	Pequenos
 ADAMTS13	Deficiente	Normal
+
+Pergunta
+2014 - UFRJ 
+2. Uma mulher de 28 anos, previamente hígida, queixa-se de cefaleia. Exames laboratoriais: hemoglobina = 10g/dL; he-matócrito = 34%; leucócitos = 18.500/mm3 (0/2/13/71/10/4); plaquetas = 27.000/mm3; ureia = 78mg/dL; creatinina = 2,5mg/dL; TGO = 18U/L; TGP = 45U/L; glicose = 83mg/dL; proteínas totais = 7g/dL; albumina = 4g/dL; TAP = INR 1,1; PTT relação 1. No dia seguinte, ficou sonolenta e apresentou crise convulsiva e febre alta. Foi iniciada cobertura antibiótica para meningite bacteriana. Novos exames laboratoriais mostraram piora da anemia com anisocitose, poiquilocitose e esquizócitos no sangue periférico. A contagem plaquetária atingiu 10.000/mm3, o nível sérico de desidrogenase láctica estava aumentado em 10 vezes, e havia reticulocitose. O diagnóstico mais provável e o tratamento mais eficaz, respecti-vamente, são: 
+a) púrpura trombocitopênica idiopática e corticosteroides em dose alta 
+b) púrpura trombocitopênica trombótica e plasmaférese 
+c) síndrome hemolítico-urêmica e hemodiálise associada a diuréticos 
+d) coagulação intravascular disseminada e transfusão de plaquetas
+Resposta no final do capítulo
+
 C - Plaquetopenia por sequestro esplênico
-Pacientes com esplenomegalia podem reter até 90% das plaquetas circulantes no baço. Portanto, a massa plaquetária do paciente pode ser normal, mesmo quando a contagem representa apenas 20% do valor normal. A causa mais importante desse tipo de plaquetopenia é a hepatopatia crônica com hipertensão portal e esplenomegalia congestiva.
+Pacientes com esplenomegalia podem reter até 90% das plaquetas circulantes no baço. Portanto, a massa plaquetária do paciente pode ser normal, mesmo quando a contagem representa apenas 20% do valor normal. 
+
+Dica
+A causa mais importante da plaquetopenia por sequestro esplênico é a hepatopatia crônica com hipertensão portal e esplenomegalia congestiva. 
+
 Hiperesplenismo é uma situação distinta, em que a esplenomegalia está associada ao aumento da destruição de plaquetas, leucócitos e hemácias, com aumento dos precursores medulares (citopenia, esplenomegalia e medula hipercelular). Ocorre nas citopenias autoimunes, doenças infecciosas e inflamatórias, como lúpus, esquistossomose, mononucleose, malária ou leishmaniose.
+
 D - Defeitos qualitativos das plaquetas
 Podem ser congênitos ou adquiridos e são responsáveis por quadro clínico semelhante ao das plaquetopenias.
+
 a) Defeitos congênitos
 Síndrome de Bernard-Soulier: doença autossômica recessiva em que há deficiência no complexo glicoproteico plaquetário GPIb, resultando em menor número de receptores para o FvW e defeito na adesão plaquetária. Além da alteração da função, também apresenta diminuição da contagem plaquetária;
-Tromboastenia de Glanzmann: é uma síndrome hemorrágica rara, causada por um defeito autossômico recessivo com perda do receptor de fibrinogênio (GPIIb/IIIa), resultando em déficit de agregação plaquetária; 
+Tromboastenia de Glanzmann: é uma síndrome hemorrágica rara, causada por um defeito autossômico recessivo, com perda do receptor de fibrinogênio (GPIIb/IIIa), resultando em déficit de agregação plaquetária; 
 Storage pool disease: é uma “doença do armazenamento”, ocorrendo por defeitos das reações de liberação do conteúdo dos grânulos plaquetários, levando a respostas anormais na produção de prostaglandinas ou liberação de ADPs, alterando agregação e ativação plaquetárias.
+
 b) Defeitos adquiridos
 Ingestão de ácido acetilsalicílico: liga-se de forma irreversível à cicloxigenase 2 (COX2), enzima responsável pela produção de prostaglandinas e tromboxano A2 na membrana plaquetária, levando à alteração da agregação plaquetária e ao aumento do tempo de sangramento;
 Ingestão de outros anti-inflamatórios não hormonais: inibem reversivelmente a COX e a agregação plaquetária, porém esta última de forma menos intensa;
 Tienopiridinas: a ticlopidina e o clopidogrel agem inibindo o receptor plaquetário de ADP e a sua agregação;
 Inibidores da glicoproteína IIb/IIIa: são drogas que inibem especificamente esse componente, impedindo a agregação plaquetária (abciximabe, eptifibatida e tirofibana, utilizados no tratamento da insuficiência coronariana);
-Uremia: o mecanismo exato para a alteração da função plaquetária é desconhecido. Altera a adesão, a agregação e a secreção de grânulos plaquetários. A gravidade do quadro clínico associa-se à severidade da insuficiência renal concomitante.
+Uremia: o mecanismo exato para a alteração da função plaquetária é desconhecido. Altera a adesão, agregação e secreção de grânulos plaquetários. A gravidade do quadro clínico associa-se à severidade da insuficiência renal concomitante.
+
 E - Doença de von Willebrand
+
 a) Considerações gerais
 A Doença de von Willebrand (DvW) é um distúrbio autossômico dominante (o tipo 1, forma mais comum, afetando cerca de 80% dos casos) ou recessivo (o tipo 3, mais raro), em que pode haver redução da síntese do FvW ou produção de substância alterada, ineficaz. É a coagulopatia hereditária mais frequente e raramente pode ser adquirida, em geral associada a mieloproliferações ou a tumores sólidos.
-O FvW é uma glicoproteína multimérica sintetizada nos megacariócitos e nas células endoteliais, e circula no plasma como multímeros de tamanhos variáveis. Só os multímeros de alto peso atuam na adesividade plaquetária. Desmopressina, trombina e colágeno estimulam a secreção de multímeros ultragrandes, que são clivados na circulação pela metaloprotease ADAMTS13, em multímeros menores e menos ativos.
-O FvW tem 2 funções na hemostasia: adesão plaquetária e manutenção adequada dos níveis de fator VIII, pois o FvW ligado ao fator VIII na corrente sanguínea protege este último da degradação plasmática pela proteína C e S. Assim, na sua deficiência, além de existirem distúrbios da adesividade plaquetária, pode ocorrer a redução dos níveis de fator VIII.
-Tabela 6 - Tipos de DvW
+
+Dica
+A alteração presente é a redução da síntese do fator de von Willebrand ou produção de substância ineficaz, que portanto não vai realizar as funções de adesão plaquetária e manutenção adequada dos níveis de fator VIII.
+
+O FvW é uma glicoproteína multimérica sintetizada nos megacariócitos e nas células endoteliais e circula no plasma como multímeros de tamanhos variáveis. Só os multímeros de alto peso atuam na adesividade plaquetária. Desmopressina, trombina e colágeno estimulam a secreção de multímeros ultragrandes, que são clivados na circulação, pela metaloprotease ADAMTS13, em multímeros menores e menos ativos.
+O FvW tem 2 funções na hemostasia: adesão plaquetária e manutenção adequada dos níveis de fator VIII, pois o FvW ligado ao fator VIII na corrente sanguínea protege este último da degradação plasmática pelas proteínas C e S. Assim, na sua deficiência, além de existirem distúrbios da adesividade plaquetária, pode ocorrer a redução dos níveis de fator VIII.
+
+Tabela 6 - Tipos de doença de von Willebrand
 Tipo 1	Deficiência quantitativa parcial do FvW
 Tipo 2	- Deficiência qualitativa do FvW: 
 · 2A: redução da função de ligação às plaquetas e ausência de grandes multímeros de alto peso molecular;
@@ -181,60 +272,90 @@ Tipo 2	- Deficiência qualitativa do FvW:
 · 2M: redução da função da ligação às plaquetas sem ausência de grandes multímeros de alto peso molecular;
 · 2N: redução da afinidade do fator VIII coagulante.
 Tipo 3	Deficiência quantitativa virtualmente completa do FvW
+
 A pseudodoença de von Willebrand consiste em alterações da membrana plaquetária, com excessiva avidez pelas formas multiméricas grandes, causando sua retirada precoce do plasma.
+
 b) Quadro clínico 
-Ocorre manifestação clínica de patologia da hemostasia primária: sangramento mucocutâneo, com exceção do subtipo 2N, que se comporta como hemofílico (deficiência de fator VIII), com sangramentos articulares e musculares profundos e sangramento tardio após trauma. Deve-se ter atenção para a história familiar, que pode apresentar episódios de sangramento prolongado após extração dentária, procedimentos cirúrgicos, pós-parto e sangramento menstrual excessivo.
+Ocorre manifestação clínica de patologia da hemostasia primária: sangramento mucocutâneo, com exceção do subtipo 2N, que se comporta como hemofílico (deficiência de fator VIII), com sangramentos articulares e musculares profundos e sangramento tardio após trauma. Deve-se ter atenção para a história familiar, que pode apresentar episódios de sangramento prolongado após extração dentária, procedimentos cirúrgicos, parto e sangramento menstrual excessivo.
 A perda sanguínea diminui na vigência de estrogênios ou durante a gravidez, pois essas situações aumentam a síntese de FvW.
+
 c) Diagnóstico laboratorial 
-O diagnóstico laboratorial da DvW pode ser difícil, pois o nível sérico de FvW é influenciado por diversos fatores, e os resultados dos vários testes se relacionam mal com a gravidade da situação clínica. Esse fato exige frequentemente a repetição das análises se a suspeita clínica é grande e os resultados, inconclusivos. Vários testes podem e devem ser utilizados no diagnóstico da DvW e na sua classificação, e são agrupados em 3 níveis: de rastreamento; específicos para o FvW, que permitem estabelecer o diagnóstico; e testes classificatórios, que permitem caracterizar precisamente os diferentes subtipos da doença. 
-Testes de rastreamento
+O diagnóstico laboratorial da DvW pode ser difícil, pois o nível sérico de FvW é influenciado por diversos fatores, e os resultados dos vários testes se relacionam mal com a gravidade da situação clínica. Esse fato exige frequentemente a repetição das análises se a suspeita clínica é grande e os resultados, inconclusivos. Vários testes podem e devem ser utilizados no diagnóstico da DvW e na sua classificação e são agrupados em 3 níveis: de rastreamento; específicos para o FvW, que permitem estabelecer o diagnóstico; e testes classificatórios, que permitem caracterizar precisamente os diferentes subtipos da doença. 
+Testes de rastreamento:
 Tempo de sangramento: importante na suspeita inicial de muitos casos de DvW, pois estará aumentado em todos os tipos, exceto no subtipo 2N (deficiência de fator VIII);
 Tempo de tromboplastina parcial ativada: pode ser normal ou prolongado, a depender do valor do fator VIII;
-Contagem plaquetária: estará normal, descartando outras patologias de hemostasia primária. Exceção ao subtipo 2b, em que, em razão da alta afinidade GPIb/FvW, é possível ter plaquetopenia.
-Testes específicos
+Contagem plaquetária: estará normal, descartando outras patologias de hemostasia primária. Exceção ao subtipo 2B, em que, em razão da alta afinidade GPIb–FvW, é possível haver plaquetopenia.
+Testes específicos:
 Dosagem do fator VIII plasmático: estará diminuído no subtipo 2N e no tipo 3;
-Dosagem do Ag FvW plasmático: estará diminuído nos subtipos 1 e 3, e normal ou limítrofe no tipo 2, lembrando que um grande número de fatores pode alterar os níveis plasmáticos do Ag FvW, como o sistema ABO do sangue (os indivíduos do grupo O têm níveis de FvW plasmático mais baixos que os AB); estrogênios; hormônios tireoidianos; idade e estresse;
-Atividade de cofator da ristocetina: avalia alteração funcional do FvW. A ristocetina é um antibiótico capaz de induzir a interação entre o FvW e o complexo GP Ib/IX. Logo, a determinação do cofator da ristocetina estará diminuída em todos os tipos da DvW.
-Testes classificatórios
+Dosagem do antígeno FvW plasmático: estará diminuído nos tipos 1 e 3 e normal ou limítrofe no tipo 2, lembrando que um grande número de fatores pode alterar os níveis plasmáticos do antígeno FvW, como o sistema ABO do sangue (os indivíduos do grupo O têm níveis de FvW plasmático mais baixos que os do AB); estrogênios; hormônios tireoidianos; idade; e estresse;
+Atividade de cofator da ristocetina: avalia alteração funcional do FvW. A ristocetina é um antibiótico capaz de induzir a interação entre o FvW e o complexo GPIb–IX. Logo, a determinação do cofator da ristocetina estará diminuída em todos os tipos da DvW.
+Testes classificatórios:
 Eletroforese do FvW em gel de agarose (permite a análise dos diferentes multímeros);
-Aglutinação plaquetária induzida pela ristocetina (RIPA): aumentada no subtipo 2b e diminuída nos demais tipos;
+Aglutinação plaquetária induzida pela ristocetina (RIPA): aumentada no subtipo 2B e diminuída nos demais tipos;
 O diagnóstico pré-natal da DvW já é possível por meio de análise genética.
-Tratamento
+Tratamento:
 Deve-se evitar sempre o uso de anti-inflamatórios não esteroides e anticoagulantes orais. 
-A desmopressina, um análogo sintético do hormônio antidiurético, provoca aumento dos níveis de fator VIII e FvW, mas não da pressão arterial, vasoconstrição nem contração uterina ou gastrintestinal, sendo bem tolerada pelos pacientes. Seu uso não está associado ao aumento de infecções virais, e o produto é comercializado em várias formulações (intravenosa, subcutânea ou inalatória) com custo relativamente baixo. Apresenta boa resposta terapêutica na DvW tipo 1 e resposta variável no tipo 2.
-O uso de concentrados de fator VIIIy liofilizado (contendo FvW) é preconizado para os que não respondem à desmopressina, na dose de 20 a 50U/kg, a ser repetida 3x/d enquanto for necessário.
-Agentes antifibrinolíticos, como o ácido tranexâmico ou o ácido épsilon aminocaproico e cola de fibrina, podem ser utilizados como terapêutica adjuvante durante pequenos procedimentos invasivos. 
+A desmopressina, um análogo sintético do hormônio antidiurético, provoca aumento dos níveis de fator VIII e FvW, mas não da pressão arterial, vasoconstrição nem contração uterina ou gastrintestinal, sendo bem tolerada pelos pacientes. Seu uso não está associado ao aumento de infecções virais, e o produto é comercializado em várias formulações (intravenosa, subcutânea ou inalatória), com custo relativamente baixo. Apresenta boa resposta terapêutica na DvW tipo 1 e resposta variável no tipo 2.
+
+Tratamento
+O tratamento da doença de von Willebrand é feito com desmopressina, e, para os casos não responsivos, pode-se usar fator VIII liofilizado.
+
+O uso de concentrados de fator VIII liofilizado (contendo FvW) é preconizado para os que não respondem à desmopressi-na, na dose de 20 a 50U/kg, a ser repetida 3x/d enquanto for necessário.
+Agentes antifibrinolíticos, como o ácido tranexâmico ou o ácido épsilon-aminocaproico e cola de fibrina, podem ser utili-zados como terapêutica adjuvante durante pequenos procedimentos invasivos. 
 O estrogênio pode ser utilizado em mulheres com sangramento menstrual excessivo, com boa resposta na DvW tipo 1 e resposta variável no tipo 2.
+
+Pergunta
+2012 - UERJ
+3. Com doença de von Willebrand do tipo 1, uma mulher de 29 anos tinha lesão pré-maligna de pele no pescoço, e a cirur-giã plástica temia defrontar-se com hemorragia de difícil controle ao fazer a exérese. Entretanto, ficou mais tranquila ao ler a detalhada resposta ao parecer que solicitara, no qual eram elencadas as providências necessárias ao aumento dos níveis séricos de fator de von Willebrand e melhora da hemostasia, mediante:
+a) sulfato de protamina
+b) gluconato de cálcio
+c) desmopressina
+d) fitonadiona
+Resposta no final do capítulo
+
 3. Resumo
+
 Quadro-resumo
+Introdução
 Hemostasia primária
-Elementos fundamentais	Parede vascular, plaquetas e FvW
+Elementos funda-mentais	Parede vascular, plaquetas e FvW
 Quadro clínico	Sangramento mucocutâneo espontâneo ou pós-traumas leves (petéquias, equimoses), imediatamente após o trauma, predominante no sexo feminino
-Avaliação laboratorial 	Tempo de sangramento, contagem plaquetária, teste de agregação plaquetária, dosagem do FvW e cofator de ristocetina
+Avaliação laboratori-al 	Tempo de sangramento, contagem plaquetária, teste de agregação plaquetária, dosagem do FvW e cofator de ristocetina
 Púrpura de Henoch-Schönlein
 Epidemiologia	Predomínio em crianças
-Quadro clínico	Púrpura palpável simétrica nos membros inferiores e nádegas, artralgias, artrite, dor abdominal
-Complicação	Nefrite, intussuscepção intestinal
+Quadro clínico	Púrpura palpável simétrica nos membros inferiores e nas nádegas, artralgias, artrite, dor abdominal
+Complicações	Nefrite, intussuscepção intestinal
 Diagnóstico	Quadro clínico; complementação em caso de dúvida: biópsia – vasculite leucocitoclástica, depósito de IgA/C3
 Tratamento	Autolimitado, suporte clínico, corticoide para casos complicados ou não responsivos
+Trombocitopenias
 PTI
-Epidemiologia	Causa mais comum de plaquetopenia em adultos e crianças, nessas, sendo comum após infecção viral ou vacina
+Epidemiologia	Causa mais comum de plaquetopenia em adultos e crianças, nestas sendo comum após infecção viral ou vacina
 Quadro clínico	Bom estado geral, apenas petéquias ou sangramento mucoso, sem sintomas sistêmicos
-Diagnóstico	Diagnóstico de exclusão; afastamento de outras causas de plaquetopenia: infecções virais (principalmente HIV e hepatite C), outras doenças autoimunes, medicamentos, microangiopatia e doença medular; possivelmente, anemia hemolítica associada (síndrome de Evans) em 10% dos casos e anemia ferropriva; leucometria normal; anticorpo antiplaqueta: baixas sensibilidade e especificidade
-Tratamento	Apenas se plaquetas <30.000 ou sangramento ativo; primeira linha: corticoide; em pacientes refratários: pulsoterapia com altas doses de corticoide, imunoglobulina, esplenectomia, rituximabe, azatioprina e outros imunossupressores associados ou não aos estimuladores da plaquetogênese (as crianças podem apresentar remissão espontânea em 80% dos casos)
+Diagnóstico	Diagnóstico de exclusão; afastamento de outras causas de plaquetopenia: infecções virais (principalmente HIV e hepatite C), outras doenças autoimunes, medicamentos, microangiopatia e doença medular; possivelmente, anemia hemolítica associada (síndrome de Evans) em 10% dos casos e anemia ferropriva; leucometria nor-mal; anticorpo antiplaqueta: baixas sensibilidade e especificidade
+Tratamento	Apenas se plaquetas <30.000 ou sangramento ativo; 1ª linha: corticoide; em pacientes refratários: pulsotera-pia com altas doses de corticoide, imunoglobulina, esplenectomia, rituximabe, azatioprina e outros imunossu-pressores associados ou não aos estimuladores da plaquetogênese (as crianças podem apresentar remissão espontânea em 80% dos casos)
 PTT
 Etiologia	Deficiência ou inibição da metaloprotease ADAMTS13
 Quadro clínico	Pêntade: febre, plaquetopenia, anemia hemolítica microangiopática, sintoma neurológico e insuficiência renal
-Diagnóstico	Quadro clínico + esquizócitos no sangue periférico, aumento de DHL e exclusão de outras causas de microangiopatia
+Diagnóstico	Quadro clínico + esquizócitos no sangue periférico, aumento de DHL e exclusão de outras causas de microan-giopatia
 Tratamento	Plasmaférese
-Diagnósticos diferenciais principais	CIVD, síndrome HELLP, SHU, eclâmpsia, hipertensão maligna e vasculite
+Diagnósticos dife-renciais principais	CIVD, síndrome HELLP, SHU, eclâmpsia, hipertensão maligna e vasculite
 SHU
 Etiologia	Mecanismo fisiopatogênico exato que se mantém desconhecido, mas provavelmente correlacionado com lesão renal vascular provocada por toxina produzida por E. coli ou por Shigella dysenteriae
-Quadro clínico	Pêntade: febre, plaquetopenia, anemia hemolítica microangiopática, sintoma neurológico e insuficiência renal
+Quadro clínico	Diarreia, plaquetopenia, insuficiência renal, anemia hemolítica microangiopática, febre
 Tratamento	Líquidos intravenosos
 DvW
 Epidemiologia	Coagulopatia hereditária mais frequente
 Etiologia	Redução da síntese do FvW ou produção de substância alterada
 Quadro clínico	Sangramentos mucocutâneos
-Diagnóstico	Diagnóstico laboratorial que inclui testes de rastreamento (tempo de sangramento, tempo de tromboplastina parcial ativada, contagem plaquetária), testes específicos (dosagem de fator VIII plasmático, dosagem do antígeno FvW, atividade de cofator da ristocetina), classificatórios (eletroforese, RIPA)
-Tratamento	Concentrados de fator VIIIy liofilizado, desmopressina, agentes antifibrinolíticos
+Diagnóstico	Diagnóstico laboratorial que inclui testes de rastreamento (tempo de sangramento, tempo de tromboplastina parcial ativada, contagem plaquetária), testes específicos (dosagem de fator VIII plasmático, dosagem do antígeno FvW, atividade de cofator da ristocetina) e classificatórios (eletroforese, RIPA)
+Tratamento	Concentrados de fator VIII liofilizado, desmopressina, agentes antifibrinolíticos
+
+Respostas
+1. D
+2. B
+3. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
