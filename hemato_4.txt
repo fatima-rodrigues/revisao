@@ -1,89 +1,134 @@
 Anemias pós-hemorrágicas e hiperproliferativas
-Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Neste capítulo, serão abordadas as principais causas de anemias pós-hemorrágicas decorrentes de hemorragias agu-das/crônicas (como em traumas agudos ou sangramentos gastrintestinais) e anemia hemolítica decorrente de processos autoimunes, por exemplo. Causam diminuição nos valores de hemoglobina, aumento acentuado do reticulócito e desidroge-nase láctica, aumento de bilirrubina indireta e diminuição de haptoglobina. O texto aborda, ainda, anemias decorrentes de doenças como anemia falciforme, talassemias e deficiência da enzima glicose-6-fosfato desidrogenase, que leva a hemólise da hemácia e diminuição do seu tempo médio de vida (em virtude das suas alterações estruturais) e, por conseguinte, gera anemia. As talassemias acometem mais indivíduos da região do Mediterrâneo, assim como a anemia falciforme e a deficiên-cia de glicose-6-fosfato desidrogenase (G6PD) acometem mais indivíduos negros. 
+
 1. Anemia pós-hemorrágica
+
 A anemia pós-hemorrágica apresenta 2 mecanismos:
 Perda direta de eritrócitos;
 Em sangramentos crônicos, depleção gradual dos estoques de ferro, resultando em deficiência.
 A perda aguda de sangue varia, em suas manifestações hematológicas, ao longo das horas, desde o evento sangrante até a realização dos exames, podendo ser identificadas 3 etapas: 
+
 Tabela 1 - Identificação em etapas da perda aguda de sangue
 1ª etapa
 Os primeiros sintomas estão relacionados à hipovolemia e, nesta fase inicial, os níveis de hemoglobina (Hb) detectados no exame podem se manter normais, uma vez que tanto o conteúdo plasmático quanto o celular são perdidos de maneira proporcional, e ainda não ocorreram os mecanismos compensatórios.
 2ª etapa
-Diante da liberação de vasopressina e outros peptídios, o fluido extravascular é mobilizado para o intravascular, levando a reposição volumétrica e hemodiluição. Nessa situação, evidenciam-se queda dos níveis de Hb e consequente anemia, cujo grau reflete a quantidade de sangue perdida. O processo de expansão plasmática é lento: em uma perda de 20% da volemia, são necessárias de 20 a 60 horas para restaurá-la, por exemplo.
+Diante da liberação de vasopressina e outros peptídios, o fluido extravascular é mobilizado para o intravascular, levando a reposição volumétrica e hemodiluição. Nessa situação, evidenciam-se queda dos níveis de Hb e consequente anemia, cujo grau reflete a quanti-dade de sangue perdida. O processo de expansão plasmática é lento: em uma perda de 20% da volemia, são necessárias de 20 a 60 horas para restaurá-la, por exemplo.
 3ª etapa
-Finalmente, diante do quadro de anemia e hipóxia, a produção de eritropoetina (EPO) aumenta, iniciando o estímulo da produção de eritrócitos. A reticulocitose demora de 2 a 3 dias para ser detectada, atingindo o pico em 8 a 10 dias após o quadro de hemorragia. Nesta fase, é importante o diagnóstico diferencial com anemias hemolíticas, apesar de não haver aumento dos metabólitos da Hb (bilirrubina indireta) nem redução da haptoglobina. As pessoas com reserva baixa de ferro, após manifestações hemorrágicas, não conseguem realizar eritropoese adequada, sem reticulocitose e recuperação eritrocitária no tempo esperado, necessitando de suplementação de ferro para que isso ocorra. 
+Finalmente, diante do quadro de anemia e hipóxia, a produção de eritropoetina (EPO) aumenta, iniciando o estímulo da produção de eritrócitos. A reticulocitose demora de 2 a 3 dias para ser detectada, atingindo o pico em 8 a 10 dias após o quadro de hemorragia. Nessa fase, é importante o diagnóstico diferencial com anemias hemolíticas, apesar de não haver aumento dos metabólitos da Hb (bilirrubina indireta) nem redução da haptoglobina. As pessoas com reserva baixa de ferro, após manifestações hemorrágicas, não conseguem realizar eritropoese adequada, sem reticulocitose e recuperação eritrocitária no tempo esperado, necessitando de suple-mentação de ferro para que isso ocorra. 
+
 Também poderá haver aumento transitório da leucometria e da plaquetometria e, se houver sangramento intenso, liberação de formas jovens de eritrócitos e leucócitos na corrente sanguínea. Tal fenômeno decorre da resposta medular exacerbada ao estímulo da EPO. Trata-se de quadro benigno e passageiro. 
 A 1ª conduta diante da hemorragia aguda é a restauração da volemia com cristaloides. Após a avaliação clínica, deve-se tentar quantificar o sangramento e realizar reposição de sangue para perdas >30% da volemia total. 
 Nas perdas crônicas, a conduta consiste na correção da ferropenia e na identificação da etiologia do sangramento.
+
 2. Anemias hemolíticas 
+
 - Conceitos gerais
-A anemia hemolítica compreende um grupo de patologias em que a anemia se estabelece por redução do tempo de sobrevida eritrocitário.
+As anemias hemolíticas compreendem um grupo de patologias em que a anemia se estabelece por redução do tempo de sobrevida eritrocitário.
 Se for considerada a medula óssea capaz de aumentar a eritropoese (por estímulo da EPO) em até 8 vezes para compensar as perdas ou a destruição eritrocitária, nem sempre haverá hemólise associada à anemia, já que os mecanismos compensatórios podem ser suficientes para evitar a queda dos níveis de Hb circulante. Esse mecanismo pode ser detectado pelo aumento de reticulócitos circulantes no sangue periférico, característica primordial das anemias hiperproliferativas. A anemia surge se a destruição eritrocitária ultrapassa a velocidade de eritropoese ou se a eritropoese não está aumentando proporcionalmente (como no caso de deficiência de folato associada). É exatamente com o objetivo de evitar quedas ainda maiores de Hb por falta de folato que, nas anemias hemolíticas crônicas, utilizam-se doses diárias e contínuas de ácido fólico.
 Os motivos para a redução da sobrevida eritrocitária são variados e vão de alterações estruturais da molécula da Hb, como na Anemia Falciforme (AF), passando por defeitos no esqueleto da membrana celular, como nos casos de esferocitose hereditária, chegando a mecanismos fisiopatológicos extremamente complexos, como o aumento da sensibilidade ao complemento ativado na hemoglobinúria paroxística noturna.
 A classificação das anemias hemolíticas pode ser feita em relação ao local do glóbulo afetado (intracorpusculares ou extracorpusculares) ou quanto ao local predominante da hemólise (intravasculares ou extravasculares). Com raras exceções (hemoglobinúria paroxística noturna), as hemólises intracorpusculares são congênitas e as extracorpusculares são adquiridas (Tabela 2).
+
+Importante
+Na anemia hemolítica, ocorre diminuição no tempo de sobrevida da hemácia que pode ser decorrente de alterações estru-turais na molécula de hemoglobina (anemia falciforme), da esferocitose hereditária e da hemoglobinúria paroxística notur-na.
+
 As hemólises intravasculares acontecem quando a alteração da membrana eritrocitária é muito abrupta e intensa ou há trauma direto da hemácia (microangiopatia, trauma mecânico, queimaduras), e as extravasculares, quando a lesão da membrana é menos intensa, pois o eritrócito alterado é captado pelo sistema macrofágico e levado ao baço, onde ocorrerá sua destruição, o que justifica, em muitos casos de hemólise crônica, a esplenomegalia. A presença de Hb livre no plasma e na urina e a presença de esquizócitos em sangue periférico são indicativas de hemólise intravascular. 
 As características laboratoriais da hemólise estão relacionadas aos processos de destruição globular (aumento dos níveis de desidrogenase láctica – DHL), resposta medular (aumento dos reticulócitos) e eliminação dos metabólitos da Hb (aumento da bilirrubina indireta, diminuição do nível sérico da haptoglobina). Essas alterações podem ou não ser acompanhadas de queda no nível de Hb, conforme explicado. A haptoglobina é uma proteína capaz de carrear a Hb livre, e a queda de seus níveis traduz a presença de hemólise. Porém, quando a haptoglobina é completamente saturada, a Hb livre pode estar presente no plasma e ser filtrada nos glomérulos, aparecendo na forma de hemoglobinúria. Quadros como esses são mais comuns em situação de hemólise intravascular. 
-A combinação DHL e diminuição de haptoglobina garante 90% de especificidade para o diagnóstico de anemia hemolítica.
-Um quadro de hemólise não relacionado à doença hemolítica é a reação transfusional hemolítica. Nessa situação, a transfusão de concentrados de hemácias com presença de antígenos, para os quais o receptor apresenta anticorpos (como na incompatibilidade do sistema ABO), leva à hemólise das hemácias transfundidas. Tal reação grave pode ser prevenida por meio de testes pré-transfusionais e, por isso, tem sido rara, mais associada a erros da equipe de saúde (troca de bolsas, troca de amostras, entre outros). Contudo, quadros de hemólise entre pacientes transfundidos obrigam sempre a exclusão dessa etiologia.
+
+Importante
+A combinação desidrogenase láctica aumentada (devido à destruição globular) e diminuição de haptoglobina (liga-se à hemoglobina livre proveniente da hemólise) garante 90% de especificidade para o diagnóstico de anemia hemolítica.
+
+Um quadro de hemólise não relacionado à doença hemolítica é a reação transfusional hemolítica. Nessa situação, a transfusão de concentrados de hemácias com presença de antígenos para os quais o receptor apresenta anticorpos (como na incompatibilidade do sistema ABO) leva à hemólise das hemácias transfundidas. Tal reação grave pode ser prevenida por meio de testes pré-transfusionais e, por isso, tem sido rara, mais associada a erros da equipe de saúde (troca de bolsas, troca de amostras, entre outros). Contudo, quadros de hemólise entre pacientes transfundidos obrigam sempre a exclusão dessa etiologia.
+
 Tabela 2 - Causas 
-Extravascular
+Extravasculares
 Intrínseca
 - Deficiência de enzima:
-  · Deficiência de G6PD;
-  · Deficiência de piruvatoquinase.
+· Deficiência de glicose-6-fosfato desidrogenase (G6PD);
+· Deficiência de piruvatoquinase.
 - Defeito de membrana: 
-  · Esferocitose hereditária;
-  · Eliptocitose;
-  · Xerocitose.
+· Esferocitose hereditária;
+· Eliptocitose;
+· Xerocitose.
 - Hemoglobinopatia:
-  · Síndromes falcêmicas;
-  · Talassemias;
-  · Hbs instáveis;
-  · Meta-hemoglobinemia;
-  · Hemoglobinopatia C (HbCC) e outras.
+· Síndromes falcêmicas;
+· Talassemias;
+· Hbs instáveis;
+· Meta-hemoglobinemia;
+· Hemoglobinopatia C (HbCC) e outras.
 Extrínseca
 - Anemia hemolítica autoimune;
 - Queimadura; 
 - Hiperesplenismo;
 - Infecções:
-  · Babesiose;
-  · Malária.
+· Babesiose;
+· Malária.
 - Outros:
-  · Picada de inseto;
-  · Veneno de cobra;
-  · Doença hepática.
+· Picada de inseto;
+· Veneno de cobra;
+· Doença hepática.
 Intravascular
 - Defeito em válvula cardíaca metálica (raros casos em valvas biológicas);
 - Microangiopatias:
-· Púrpura trombocitopênica trombótica, coagulação intravascular disseminada, síndrome hemolítico-urêmica, síndrome HELLP, vasculite. 
+· Púrpura trombocitopênica trombótica, coagulação intravascular disseminada, síndrome hemolítico-urêmica, síndrome HELLP, vasculi-te. 
 - Infecção:
-  · Malária grave;
-  · Toxina do Clostridium.
+· Malária grave;
+· Toxina do Clostridium.
 - Hemoglobinúria paroxística noturna;
 - Reação hemolítica aguda pós-transfusional;
 - Queimadura grave;
 - Hemólise osmótica por solução hipotônica;
 - Veneno de cobra.
+
 Tabela 3 - Alterações no paciente com hemólise
-- Anemia de início rápido;
-- Palidez;
-- Icterícia e, se hemólise crônica, história de calculose biliar;
-- Esplenomegalia;
-- Aumento de reticulócitos e da DHL e diminuição de haptoglobina;
-- A análise do sangue periférico é muito importante para orientar a investigação etiológica da hemólise.
+-	Anemia de início rápido;
+-	Palidez;
+-	Icterícia e, se hemólise crônica, história de calculose biliar;
+-	Esplenomegalia;
+-	Aumento de reticulócitos e da DHL e diminuição de haptoglobina;
+-	A análise do sangue periférico é muito importante para orientar a investigação etiológica da hemólise.
+
+Pergunta
+2012 - SES-SC
+1. São consideradas doenças que podem cursar com anemias hemolíticas, exceto:
+a) esferocitose hereditária
+b) deficiência de G6PD
+c) deficiência de piruvatoquinase
+d) doença de Wilson
+e) eritroblastopenia transitória da infância
+Resposta no final do capítulo
+
 3. Anemia falciforme
+
 A - Considerações gerais
 A AF é a doença hematológica hereditária mais comum no mundo, caracterizando-se pelo acometimento da cadeia beta da Hb, originando uma Hb anormal denominada S (HbS). A maior prevalência ocorre na África tropical e entre negros de países que participaram do tráfico de escravos.
-O padrão de herança é autossômico e codominante. Em consequência de uma mutação estrutural, haverá alteração qualitativa na Hb. A alteração molecular primária é representada pela substituição, no cromossomo 11, de 1 único aminoácido no códon 6 do gene da cadeia betaglobina: o glutamato pela valina, resultando na troca de bases. A Adenina (A) é substituída pela timina (GAG-GTG), tendo como consequência a formação da HbS, que apresenta diminuição de sua carga negativa e aumento da hidrofobicidade. Com a elevação desta, a HbS desoxigenada fica insolúvel e forma fibras polimerizadas, resultando em alteração da morfologia da hemácia (hemácia “em foice”). 
+O padrão de herança é autossômico e codominante. Em consequência de uma mutação estrutural, haverá alteração qualitativa na Hb. A alteração molecular primária é representada pela substituição, no cromossomo 11, de 1 único aminoácido no códon 6 do gene da cadeia betaglobina: o glutamato pela valina, resultando na troca de bases. A Adenina (A) é substituída pela Timina (T) – GAG-GTG –, tendo como consequência a formação da HbS, que apresenta diminuição de sua carga negativa e aumento da hidrofobicidade. Com a elevação desta, a HbS desoxigenada fica insolúvel e forma fibras polimerizadas, resultando em alteração da morfologia da hemácia (hemácia “em foice”). 
 Após a reoxigenação, o polímero se desfaz, e a célula volta ao normal. Porém, a polimerização e a despolimerização frequentes acabam provocando lesões progressivas na membrana, que inicialmente são reversíveis; contudo, após vários processos de falcização, as hemácias tornam-se definitivamente lesadas, transformando-se nas chamadas hemácias irreversivelmente falcizadas.
-As células com formato alterado (de foice) são rígidas e, com menor capacidade de deformabilidade, passam a circular com mais dificuldade pelos pequenos capilares. Quando associadas a leucócitos em número aumentado e moléculas de adesão, são responsáveis pela lentificação do fluxo, oclusão vascular e lesão de tecidos, que representam os fenômenos principais dessa doença. A formação das células falcizadas também é responsável pela hemólise crônica, pois, pelas alterações estruturais severas, ocorre a retirada da circulação dessas células pelo sistema macrofágico, com subsequente destruição. 
+As células com formato alterado (de foice) são rígidas e, com menor capacidade de deformabilidade, passam a circular com mais dificuldade pelos pequenos capilares. Quando associadas a leucócitos em número aumentado e moléculas de adesão, são responsáveis pela lentificação do fluxo, oclusão vascular e lesão de tecidos, que representam os fenômenos principais dessa doença. A formação das células falcizadas também é responsável pela hemólise crônica, pois, pelas alterações estruturais severas, ocorre a retirada da circulação dessas células pelo sistema macrofágico, com subsequente destruição.
+
+Tema frequente de prova
+A caracterização da anemia falciforme pelo acometimento da cadeia beta da hemoglobina e a consequente geração de hemácias alteradas (“em foice”) são temas frequentemente encontrados nas provas de Residên-cia Médica.
+ 
 A taxa de falcização é influenciada por vários fatores, sendo o mais importante deles a concentração de HbS intraeritrocitária. A desidratação, pela alteração dos canais iônicos, em consequência das alterações da membrana, torna a célula mais vulnerável à falcização, assim como as baixas concentrações de oxigênio e a acidose. A presença de outras Hbs no interior da hemácia pode aumentar ou reduzir esse processo (como no caso da Hb fetal – HbF). 
 A cinética da polimerização também é um fator determinante na evolução para fenômenos oclusivos vasculares. Existe um tempo entre a desoxigenação e a formação do polímero; se o tempo gasto para o processo de gelificação for menor do que o necessário para as hemácias transitarem pela microcirculação, provavelmente haverá obstrução; caso contrário, o fenômeno vaso-oclusivo será evitado. A velocidade da polimerização é influenciada pela concentração de HbS. 
 As lesões na membrana celular do eritrócito e o rearranjo dos polímeros em seu interior explicariam por que muitas células se mantêm morfologicamente alteradas mesmo após a reoxigenação. Adesões frequentes de eritrócitos e leucócitos ao endotélio levam a disfunção endotelial, com aumento da geração de trombina e ativação plaquetária, fatores que também contribuem para os fenômenos vaso-oclusivos.
-Em geral, os pais são portadores assintomáticos de 1 único gene afetado (heterozigoto), produzindo HbA e HbS (AS) – conhecidos como traço falciforme –, e cada um vai transmitir o gene alterado para a criança, que o recebe em dose dupla (homozigoto SS). A denominação “anemia falciforme” é reservada à forma da doença que ocorre nesses homozigotos SS. Além disso, o gene da HbS pode combinar-se com outras anormalidades hereditárias das Hbs, como hemoglobina C (HbC), hemoglobina D (HbD), betatalassemia, entre outros, gerando combinações também sintomáticas, denominadas, respectivamente, hemoglobinopatia SC, hemoglobinopatia SD e S-betatalassemia. No conjunto, todas essas formas sintomáticas do gene da HbS, em homozigose ou em combinação, são conhecidas como doenças falciformes. Apesar das particularidades que as distinguem e dos graus variados de gravidade, todas essas doenças têm espectro epidemiológico e de manifestações clínicas e hematológicas sobreponíveis.
+Em geral, os pais são portadores assintomáticos de 1 único gene afetado (heterozigoto), produzindo HbA e HbS (AS) – conhecidos como traço falciforme –, e cada um vai transmitir o gene alterado para a criança, que o recebe em dose dupla (homozigoto SS). A denominação “anemia falciforme” é reservada à forma da doença que ocorre nesses homozigotos SS. Além disso, o gene da HbS pode combinar-se com outras anormalidades hereditárias das Hbs, como hemoglobina C (HbC), hemoglobina D (HbD), betatalassemia, entre outras, gerando combinações também sintomáticas, denominadas, respectivamente, hemoglobinopatia SC, hemoglobinopatia SD e S-betatalassemia. No conjunto, todas essas formas sintomáticas do gene da HbS, em homozigose ou em combinação, são conhecidas como doenças falciformes. Apesar das particularidades que as distinguem e dos graus variados de gravidade, todas essas doenças têm espectro epidemiológico e de manifestações clínicas e hematológicas sobreponíveis.
+
+Pergunta
+2014 - FMUSP-RP
+2. Uma criança tem 8 anos. História da moléstia atual: portadora de anemia falciforme. Foi submetida ao tratamento de um episódio de Síndrome Torácica Aguda (STA). Como podemos prevenir a recorrência dessa complicação grave? 
+a) colocando o paciente em esquema transfusional crônico para reduzir a porcentagem de HbS e evitar a falcização das he-mácias
+b) devemos iniciar o tratamento com hidroxiureia, medicação que reduz em 50% a chance de um novo episódio de STA
+c) devemos indicar transplante alogênico de medula óssea, pois é o único tratamento curativo para anemia falciforme
+d) não há necessidade de tratamento crônico preventivo depois da resolução do quadro agudo de STA
+Resposta no final do capítulo
+
 Tabela 4 - Associação a outras hemoglobinopatias hereditárias
 1 - AF (doença SS): os indivíduos são homozigotos para o gene da HbS.
-2 - Traço falciforme (doença AS): o paciente tem 1 gene que sintetiza cadeias polipeptídicas globínicas normais (beta A) e 1 gene anormal (beta S), com produção de ambas as Hbs (A e S), predominando a hemoglobina A (HbA). Seus eritrócitos raramente falcilizam, somente sob circunstâncias específicas, como hipóxia severa. 
+2 - Traço falciforme (doença AS): o paciente tem 1 gene que sintetiza cadeias polipeptídicas globínicas normais (beta A) e 1 gene anor-mal (beta S), com produção de ambas as Hbs (A e S), predominando a hemoglobina A (HbA). Seus eritrócitos raramente falcizam, so-mente sob circunstâncias específicas, como hipóxia severa. 
 3 - AF associada a betatalassemia (S-betatalassemia):
 - S-talassemia beta0: não há produção de Hb beta pelo gene da betatalassemia;
 - S-talassemia beta+: o indivíduo produz cadeias beta normais, porém em pequenas quantidades.
@@ -91,35 +136,50 @@ Tabela 4 - Associação a outras hemoglobinopatias hereditárias
 5 - AF associada a alfatalassemia: deleção de 1 ou 2 genes da alfaglobina. Anemia hemolítica mais discreta, com menos complicações se comparada à AF.
 6 - AF associada a talassemia delta beta: condição heterozigótica combinada que constitui uma das várias deleções grandes dos genes das globinas delta e beta e permite o desvio de produção da HbF para a Hb do adulto. 
 7 - AF associada a PHHF (persistência hereditária da HbF): resulta de várias deleções grandes dos genes das globinas delta e beta que retardam o desvio da produção de HbF para a Hb do adulto. 
+
  
-Figura 1 - Padrão de herança genética. Traço falciforme: HbAS; normal: HbAA2; falciforme: HbSS
+Figura 1 - Padrão de herança genética – traço falciforme: HbAS; normal: HbAA2; falciforme: HbSS
+
  
 Figura 2 - Fisiopatologia 
 
 De modo geral, além da anemia crônica, as diferentes formas de doenças falciformes caracterizam-se por numerosas complicações que podem afetar quase todos os órgãos e sistemas, com expressiva morbidade e redução da capacidade de trabalho e da expectativa de vida.
+
 B - Diagnóstico
+
 a) Quadro clínico
 As síndromes falciformes apresentam manifestações clínicas extremamente heterogêneas, variando de pacientes praticamente assintomáticos durante toda a vida àqueles que necessitam de internação hospitalar frequente desde a infância. Em geral, quanto maior a quantidade de HbS, mais grave a doença. Os homozigotos para HbS tendem a ter quadro clínico mais grave do que os pacientes com hemoglobinopatias SC, SD etc. A associação à persistência hereditária de HbF confere melhor prognóstico à doença, pois a HbF tem maior afinidade com o oxigênio, diminuindo a polimerização.
 A doença inicia-se durante o 1º ano de vida, quando os níveis de HbF caem e as hemácias perdem a proteção dessa Hb. Inicia-se quadro de anemia hemolítica crônica, com icterícia e esplenomegalia (nos primeiros anos de vida). 
 A esplenomegalia pode persistir por toda a vida entre os pacientes com doenças mistas, como na HbSC, PHHF e S-betatalassemia, porém, em indivíduos SS, a ocorrência frequente de infartos esplênicos por obstrução dos capilares leva à chamada autoesplenectomia (ou asplenia funcional), em que o baço se transforma em órgão residual cicatricial, com pouca ou nenhuma função. Isso provoca a redução da capacidade de opsonização e o aumento da suscetibilidade a infecções por germes capsulados, como pneumococo (Streptococcus pneumoniae), Haemophilus e Salmonella sp. Os episódios de infecção também podem ser facilitados pela disfunção de IgM e IgG, além de distúrbio na fixação do complemento e da opsonização – anomalias observadas nesses pacientes.
-A hemólise crônica leva ao excesso de bilirrubina indireta, que tem como complicação comum colecistopatia calculosa por cálculos de bilirrubinato.
+
+Dica
+A hemólise crônica leva ao excesso de bilirrubina indireta, que tem como complicação comum colecistopatia calculosa por cálculos de bilirrubinato. 
+
 Retardos de crescimento e de desenvolvimento e atraso da puberdade são bastante observados entre os falciformes, mas a patogênese é pouco conhecida.
-Nos 2 primeiros anos, um quadro clínico considerado característico é a chamada “síndrome mão–pé” ou dactilite, em que ocorrem edema, calor e rubor dos dedos das mãos e dos pés por infarto ósseo, com dor intensa, que deve ser abordada de forma semelhante à das crises álgicas dos adultos. 
+Nos 2 primeiros anos, um quadro clínico considerado característico é a chamada “síndrome mão–pé” ou dactilite, em que ocorrem edema, calor e rubor dos dedos das mãos e dos pés por infarto ósseo, com dor intensa, que deve ser abordada de forma semelhante à das crises álgicas dos adultos.
+
  
 Figura 3 - Criança com dactilite
+
 A manifestação clínica mais característica é a chamada crise álgica ou vaso-oclusiva, em que as micro-obstruções vasculares, principalmente no interior dos vasos sanguíneos ósseos, levam a quadros isquêmicos difusos, com intensa dor e, eventualmente, febre baixa. Esses episódios podem durar de horas a semanas e afetam teoricamente qualquer região do corpo, todavia parecem predominar em ossos e articulações. A dor é muito intensa, geralmente incapacitante, algumas vezes necessitando de hospitalização para analgesia parenteral. Crises repetidas com necessidade de internação (>3/ano) têm correlação com pior sobrevida, sugerindo que esses episódios sejam responsáveis por lesões crônicas em órgãos-alvo. Observa-se que valor alto de Hb (>10g/dL) é um dos principais fatores de risco para crise álgica.
-As crises álgicas costumam ser deflagradas por quadros infecciosos, desidratação, exercício excessivo, mudanças bruscas na temperatura, hipóxia, estresse emocional, menstruação e ingestão de bebida alcoólica, mas muitas vezes não se encontra o motivo. Diante de um paciente com crise dolorosa, contudo, é sempre obrigatória a investigação de foco infeccioso.
+
+Importante
+As crises álgicas costumam ser deflagradas por quadros infecciosos, desidratação, exercício excessivo, mudanças bruscas na temperatura, hipóxia, estresse emocional, menstruação e ingestão de bebida alcoólica, mas muitas vezes não se encontra o motivo. Diante de um paciente com crise dolorosa, contudo, é sempre obrigatória a investigação de foco infeccioso. 
+
 As úlceras perimaleolares ocorrem pelas micro-obstruções vasculares e podem cronificar-se, pois o déficit de perfusão local é mantido. Quase sempre se desenvolvem nos tornozelos, acima dos maléolos laterais e mediais; mais raramente, surgem na região pré-tibial e no dorso do pé. O início pode ser espontâneo ou subsequente a trauma, por vezes leve, como a picada de um inseto. 
+
  
 Figura 4 - Úlceras de perna
+
 A vaso-oclusão pode alcançar tecidos mais “nobres” e levar a acidentes vasculares cerebrais, infartos pulmonares e priapismo. O acidente vascular cerebral acomete mais as crianças e tende a ser recorrente, sendo necessárias medidas de profilaxia; não é comum em adultos. Infartos pulmonares subagudos e crônicos resultam em hipertensão pulmonar e cor pulmonale, sendo, muitas vezes, causa de óbito. 
-As complicações renais mais comuns são secundárias a microinfartos renais, com hematúria dolorosa por infarto papilar; proteinúria e hipertensão (que podem ser tratadas pelo uso de inibidores da enzima conversora de angiotensina); necrose papilar; isquemia parenquimatosa que culmina em glomeruloesclerose segmentar e focal, e insuficiência renal crônica; diabetes insipidus nefrogênico e alto risco para carcinoma medular renal. 
+As complicações renais mais comuns são secundárias a microinfartos renais, com hematúria dolorosa por infarto papilar; proteinúria e hipertensão (que podem ser tratadas pelo uso de inibidores da enzima conversora de angiotensina); necrose papilar; isquemia parenquimatosa que culmina em glomeruloesclerose segmentar e focal, e insuficiência renal crônica; diabetes insipidus nefrogênico; e alto risco para carcinoma medular renal. 
 Também pode acontecer a chamada retinopatia proliferativa, similar à do diabetes mellitus, podendo levar a cegueira, além de oclusão da artéria retiniana, descolamento de retina e hemorragia, como complicações retinianas.
 Como complicação óssea, pode ocorrer a osteonecrose (necrose óssea isquêmica ou necrose asséptica) da cabeça do fêmur ou do úmero, além do favorecimento de osteomielite pela falha de perfusão óssea. Os agentes etiológicos mais frequentes da osteomielite na AF são Salmonella e Staphylococcus aureus. A hiperproliferação da medula óssea e os microinfartos ósseos podem levar a alterações crônicas, sendo a mais conhecida a espinha “em boca de peixe”, em que as vértebras apresentam aumento do espaço medular e adelgaçamento do córtex, com osteoporose. Também são citados o infarto da medula óssea (com reticulocitopenia e/ou pancitopenia) e a embolia gordurosa secundária ao infarto ósseo.
-Por sua vez, as complicações cardíacas, típicas da doença falciforme, são usualmente derivadas da circulação hiperdinâmica. Raramente, porém, ocorre crise vaso-oclusiva coronariana ocasionando isquemia miocárdica. Hipertensão pulmonar e insuficiência cardíaca congestiva são, ainda, eventos possíveis.
+Por sua vez, as complicações cardíacas, típicas da doença falciforme, são usualmente derivadas da circulação hiperdinâmica. Raramente, porém, ocorre crise vaso-oclusiva coronariana, ocasionando isquemia miocárdica. Hipertensão pulmonar e insuficiência cardíaca congestiva são, ainda, eventos possíveis.
 Finalmente, as complicações hepatobiliares são representadas pela formação de cálculos biliares, pelo permanente estado de hiperbilirrubinemia indireta. Alterações hepáticas podem, ainda, ser derivadas de vaso-oclusão naquele órgão, sobrecarga de ferro e infecções, sendo estas 2 últimas determinadas por politransfusões.
 Em resumo, os episódios repetidos e silenciosos de vaso-oclusão podem afetar virtualmente todos os órgãos. 
-Tabela 5 - Tipos de crises álgicas em pacientes com AF
+
+Tabela 5 - Tipos de crises álgicas em pacientes com anemia falciforme
 Síndromes dolorosas agudas
 - Dor aguda do tórax;
 - Colecistite;
@@ -134,6 +194,7 @@ Síndromes dolorosas crônicas
 - Necrose asséptica avascular;
 - Úlceras nos membros; 
 - Colapso do corpo vertebral.
+
 Outros tipos de “crises” que afetam tais pacientes são:
 Crise hemolítica
 Exacerbação da hemólise, com reticulocitose, diante de quadros infecciosos (em especial por Mycoplasma), crises álgicas, medicamentos e, raramente, associação da AF a deficiência de G6PD ou esferocitose hereditária. Esse diagnóstico deve ser feito a partir da exclusão de todas as causas possíveis de piora da anemia.
@@ -141,45 +202,59 @@ Crises hiper-hemolíticas
 Surgem quadros hemolíticos graves e súbitos, deflagrados por transfusão de sangue ou anemia hemolítica autoimune. A Hb pós-transfusão é inferior à Hb pré-transfusão. Mesmo que a bolsa de sangue transfundida tenha sido compatível com antígenos negativos, desencadeia-se um processo de hemólise severa, intravascular, com hemoglobinúria, alteração da função renal, queda da Hb e reticulocitopenia (mecanismo pouco conhecido, talvez por destruição também dos reticulócitos). Nessa situação, deve-se evitar transfusão, manter hidratação vigorosa e usar corticoide ou imunoglobulina.
 Crises aplásicas
 Na AF, há redução importante na sobrevida dos eritrócitos (média de 17 dias), e qualquer supressão temporária na eritropoese pode resultar em anemia grave. Na crise aplásica, ocorre diminuição intensa e transitória da proliferação medular, com consequente queda importante nos níveis de Hb. Geralmente, é precedida por episódios infecciosos, e 70% dos casos decorrem de infecção pelo parvovírus B19, sendo os demais por outros agentes infecciosos, como Salmonella, Streptococcus ou vírus Epstein-Barr. A deficiência de folato também deve ser lembrada como possível fator causal, recebendo, então, a denominação de crise megaloblástica. Os pacientes podem apresentar fadiga, dispneia, febre, infecção respiratória alta e sintomas gastrintestinais. A reticulocitopenia é marcante, com valores <1% (ou <10.000/mm3, diferenciando-se do quadro clássico de reticulocitose em falcêmico). Embora a maioria dos quadros regrida espontaneamente, a transfusão de glóbulos vermelhos deve ser considerada entre pacientes sintomáticos. Imunoglobulina intravenosa é o tratamento de escolha quando a aplasia é causada pelo parvovírus B19, que não apresenta remissão espontânea.
-Síndrome Aguda do Tórax (SAT)
-Caracteriza-se por febre, dor torácica, hipoxemia e opacidade radiológica pulmonar nova. Queda no valor da Hb e na contagem de plaquetas pode preceder a alteração radiológica. Cerca de 50% dos pacientes com AF apresentam ao menos 1 episódio de SAT no decurso da doença, sendo essa a 2ª causa mais frequente de hospitalizações desses pacientes e a principal complicação em anestesias e cirurgias. A frequência é de 8,7 eventos/100 pacientes/ano, e a mortalidade é de 4 a 9%. A etiologia é multifatorial e pode incluir infecção, embolia gordurosa, hiper-hidratação, hipoxemia, microatelectasias. Sua gravidade varia de acordo com a idade do paciente; em crianças, a manifestação clínica é mais branda, e geralmente o fator desencadeante é uma infecção; em adultos jovens, predominam eventos trombóticos pulmonares que resultam em hipoxemia, hospitalização prolongada e alta taxa de mortalidade.
-Em cerca de 1/3 dos pacientes com SAT, a radiografia simples de tórax pode estar normal inicialmente, e, dependendo da evolução, que pode variar de horas a dias, as anormalidades radiográficas podem acentuar-se como infiltrado localizado, lobar ou difuso, unilateral ou bilateral e/ou derrame pleural. Como infarto pulmonar e pneumonia nem sempre são diferenciáveis à radiografia simples de tórax e à cintilografia de ventilação–perfusão, e como a arteriografia pulmonar com contrastes hipertônicos é contraindicada àqueles com AF, pelo alto risco de induzir alteração estrutural na Hb, a tomografia computadorizada de alta resolução tem sido sugerida como bom método para detecção de microêmbolos. 
-Os principais diagnósticos diferenciais da SAT são pneumonia e doença pulmonar vaso-oclusiva. Outras condições que podem simular a doença são Síndrome de Embolia Gordurosa (SEG) e infarto ósseo. A SEG geralmente está associada a dor óssea, alteração do nível de consciência, trombocitopenia, hipocalcemia e hiperuricemia; petéquias na conjuntiva e no tórax podem reforçar o diagnóstico. Acredita-se que a dor local provocada pelo infarto ósseo, principalmente das costelas, do esterno e das vértebras, possa resultar em hipoventilação, atelectasia, hipercapnia e hipoxemia. 
+Síndrome Torácica Aguda (STA)
+Caracteriza-se por febre, dor torácica, hipoxemia e opacidade radiológica pulmonar nova. Queda no valor da Hb e na contagem de plaquetas pode preceder a alteração radiológica. Cerca de 50% dos pacientes com AF apresentam ao menos 1 episódio de STA no decurso da doença, sendo essa a 2ª causa mais frequente de hospitalizações desses pacientes e a principal complicação em anestesias e cirurgias. A frequência é de 8,7 eventos/100 pacientes/ano, e a mortalidade é de 4 a 9%. A etiologia é multifatorial e pode incluir infecção, embolia gordurosa, hiper-hidratação, hipoxemia, microatelectasias. Sua gravidade varia de acordo com a idade do paciente; em crianças, a manifestação clínica é mais branda, e geralmente o fator desencadeante é uma infecção; em adultos jovens, predominam eventos trombóticos pulmonares que resultam em hipoxemia, hospitalização prolongada e alta taxa de mortalidade.
+Em cerca de 1/3 dos pacientes com STA, a radiografia simples de tórax pode estar normal inicialmente, e, dependendo da evolução, que pode variar de horas a dias, as anormalidades radiográficas podem acentuar-se, como infiltrado localizado, lobar ou difuso, unilateral ou bilateral e/ou derrame pleural. Como infarto pulmonar e pneumonia nem sempre são diferenciáveis à radiografia simples de tórax e à cintilografia de ventilação–perfusão, e como a arteriografia pulmonar com contrastes hipertônicos é contraindicada àqueles com AF, pelo alto risco de induzir alteração estrutural na Hb, a tomografia computadorizada de alta resolução tem sido sugerida como bom método para detecção de microêmbolos. 
+Os principais diagnósticos diferenciais da STA são pneumonia, doença pulmonar vaso-oclusiva e isquemia coronariana nos pacientes mais idosos. Outras condições que podem simular a doença são Síndrome de Embolia Gordurosa (SEG) e infarto ósseo. A SEG geralmente está associada a dor óssea, alteração do nível de consciência, trombocitopenia, hipocalcemia e hiperuricemia; petéquias na conjuntiva e no tórax podem reforçar o diagnóstico. Acredita-se que a dor local provocada pelo infarto ósseo, principalmente das costelas, do esterno e das vértebras, possa resultar em hipoventilação, atelectasia, hipercapnia e hipoxemia. 
 O tratamento consiste em manter o paciente euvolêmico, oxigenoterapia sempre que paO2 = 70 a 80mmHg ou SatO2 <92%, controle da dor, terapêutica transfusional para deixar a HbS <30%, fisioterapia respiratória para evitar atelectasia, e antibioticoterapia empírica (macrolídeos e/ou quinolonas) para cobertura de Streptococcus pneumoniae, Mycoplasma pneumoniae e Chlamydophila pneumoniae.
-Para a prevenção da SAT, pacientes com AF devem receber vacinação antipneumocócica e anti-influenza. A antibioticoterapia empírica também é recomendada aos indivíduos com suspeita de pneumonia adquirida na comunidade, visando cobrir os agentes mais comuns, que podem variar de acordo com a história, o quadro clínico, a idade e a presença ou não de outras doenças de base. Hidratação com solução salina hipotônica deve ser utilizada para prevenir ou reverter a depleção de volume intravascular e diminuir a osmolaridade em crise de falcização.
-O programa transfusional crônico, visando reduzir a concentração de HbS para menos de 30%, pode ser útil na profilaxia em longo prazo, por meio de transfusão simples ou da eritrocitoaférese (procedimento que consiste na troca automatizada do volume hemático, suficiente para deixar a HbS no valor desejado). 
+Para a prevenção da STA, pacientes com AF devem receber vacinas antipneumocócica e anti-influenza. A antibioticoterapia empírica também é recomendada aos indivíduos com suspeita de pneumonia adquirida na comunidade, visando cobrir os agentes mais comuns, que podem variar de acordo com a história, o quadro clínico, a idade e a presença ou não de outras doenças de base. Hidratação com solução salina hipotônica deve ser utilizada para prevenir ou reverter a depleção de volume intravascular e diminuir a osmolaridade em crise de falcização.
+O programa transfusional crônico, visando reduzir a concentração de HbS para menos de 30%, pode ser útil na profilaxia em longo prazo, por meio da transfusão simples ou da eritrocitoaférese (procedimento que consiste na troca automatizada do volume hemático, suficiente para deixar a HbS no valor desejado). 
+
  
-Figura 5 - Raio x de paciente: infiltrado intersticioalveolar difuso bilateral
+Figura 5 - Raio x de paciente com síndrome torácica aguda: infiltrado intersticioalveolar difuso bilateral
+
+Pergunta
+2014 - UNICAMP
+3. Uma gestante de 16 anos, com 21 semanas, queixa-se de falta de ar, dor no peito e febre medida de 38°C há 2 dias. Antecedente pessoal: anemia falciforme. Exame físico: regular estado geral; peso = 46kg; PA = 130x80mmHg; FC = 120bpm; FR = 32irpm; SatO2 = 93%; ausculta cardíaca com sopro sistólico pancardíaco; ausculta pulmonar evidenciando murmúrio vesicular diminuído e estertores nas bases pulmonares; abdome com útero palpável na cicatriz umbilical; BCF = 158bpm; ausência de sangramento transvaginal; membros inferiores sem edema. Exames laboratoriais: Hb = 6,2g/dL; Ht = 21%; leucócitos = 13.800/mm3; plaquetas = 170.000/mm3. A hipótese diagnóstica e a conduta são:
+a) síndrome torácica aguda, internação
+b) síndrome gripal por H1N1, tratamento ambulatorial com oseltamivir
+c) síndrome torácica aguda, transfusão ambulatorial
+d) tromboembolismo pulmonar, anticoagulação ambulatorial
+Resposta no final do capítulo
+
 Crises de sequestração ou sequestro esplênico
-Quadro definido por redução abrupta de ao menos 2g/dL em relação ao nível basal de Hb, plaquetopenia, reticulocitose e esplenomegalia. É causado por aprisionamento de eritrócitos no baço, podendo levar a choque hipovolêmico e sendo desencadeado por quadros infecciosos. Observam-se sintomas de hipovolemia, como taquicardia, palidez, taquipneia ou até hipotensão e choque; percebe-se, também, aumento do volume abdominal com esplenomegalia e dor no hipocôndrio esquerdo. O não atendimento imediato e eficaz pode, muitas vezes, levar a óbito em poucas horas.
+Quadro definido por redução abrupta de ao menos 2g/dL em relação ao nível basal de Hb, plaquetopenia, reticulocitose e esplenomegalia. É causado por aprisionamento de eritrócitos no baço, podendo levar a choque hipovolêmico. Há associação ao parvovírus B19. Observam-se sintomas de hipovolemia, como taquicardia, palidez, taquipneia ou até hipotensão e choque; percebe-se, também, aumento do volume abdominal com esplenomegalia e dor no hipocôndrio esquerdo. O não atendimento imediato e eficaz pode, muitas vezes, levar a óbito em poucas horas.
 Afeta principalmente crianças em idade pré-escolar e pacientes com HbSC e HbS beta, em quem ainda há persistência do baço. 
-No exame laboratorial, podem-se ter Hb muito baixa (2 a 3g/dL), reticulocitose intensa e, geralmente, diminuição de leucócitos e/ou plaquetas.  
+
+Importante
+No sequestro esplênico, há retenção de eritrócitos no baço levando a hipovolemia. No exame laboratorial, podem-se ter níveis de hemoglobina muito baixos (2 a 3g/dL), reticulocitose intensa e, geralmente, diminuição de leucócitos e/ou plaquetas. 
+
 O tratamento inicial consiste na correção da hipovolemia, com reposição de cristaloides e transfusão de glóbulos vermelhos. A transfusão deve ser feita com cuidado, visto que o sangue aprisionado no baço pode entrar na circulação novamente. A recorrência do quadro na infância é comum (50%), e a mortalidade pode chegar a 15%. Não há consenso na literatura em relação à profilaxia da recorrência, que pode ser observação clínica ou esplenectomia. Nos adultos, opta-se pela observação clínica, pois os episódios tendem a ser mais leves e com menor taxa de recorrência.
 Priapismo
 O quadro é definido como ereção involuntária com duração =4 horas, sustentada e dolorosa, em virtude da vaso-oclusão que obstrui a drenagem venosa do pênis. O priapismo prolongado é uma urgência médica e requer avaliação urológica, pois, se não tratado, pode causar disfunção erétil. A média de idade é de 12 anos, e, aos 20 anos, 89% já apresentaram 1 ou mais episódios. Os pacientes devem ser orientados a reconhecer o quadro, iniciar ingesta hídrica vigorosa e analgesia via oral, urinar com frequência (a bexiga cheia pode ser um fator desencadeante) e procurar atendimento médico de urgência. Outros fatores desencadeantes são infecção, desidratação, ingestão de drogas (álcool, cocaína, maconha, psicotrópicos) e traumatismo. 
-O tratamento consiste em analgesia vigorosa e hidratação parenteral, e a não regressão imediata do quadro após a terapêutica inicial indica aspiração do corpo cavernoso e irrigação com solução salina, com ou sem alfa-adrenérgico (adrenalina, fenilefrina), a fim de prevenir a disfunção erétil. Para os casos que não respondem à irrigação, a cirurgia para colocação de shunt entre os corpos cavernoso e esponjoso deve ser considerada.
+
+Importante
+O priapismo consiste em uma urgência urológica e, se não tratado, pode levar a disfunção erétil. 
+
+O tratamento consiste em analgesia vigorosa e hidratação parenteral, e a não regressão imediata do quadro após a terapêutica inicial indica aspiração do corpo cavernoso e irrigação com solução salina, com ou sem alfa-adrenérgico (adrenalina, fenilefrina), a fim de prevenir a disfunção erétil. Para os casos que não respondem a irrigação, a cirurgia para colocação de shunt entre os corpos cavernoso e esponjoso deve ser considerada.
 Avaliação do paciente com crise álgica no pronto-socorro
-História: avaliar início (agudo ou crônico), intensidade (escala de 0 a 10), duração, localização e frequência da dor. In-vestigar fatores desencadeantes, tratamento utilizado no domicílio, data da última crise e hospitalização prévia;
-Exame físico: sinais vitais (pressão arterial, pulso, frequência respiratória, temperatura e oximetria de pulso). Avaliar lo-cal da dor, edema e mobilidade articular. Pode-se encontrar icterícia, em razão da hemólise. Procurar sinais sugesti-vos de quadro infeccioso;
-Exames complementares: raio x de tórax, hemograma com contagem de reticulócitos, hemocultura e urocultura, fun-ção renal e eletrólitos; outros exames, a depender da queixa e do exame físico;
-Analgesia
-Dor de leve a moderada intensidade: Anti-Inflamatórios Não Hormonais (AINHs), analgésicos comuns (dipirona, para-cetamol) e opioides fracos (codeína, tramadol). Deve-se ter cuidado com o uso de AINH por possíveis alterações da função renal, comuns no paciente falciforme. Sempre evitar o uso crônico, pelos mesmos motivos;
+História: avaliar início (agudo ou crônico), intensidade (escala de 0 a 10), duração, localização e frequência da dor. Investigar fatores desencadeantes, tratamento utilizado no domicílio, data da última crise e hospitalização prévia;
+Exame físico: sinais vitais (pressão arterial, pulso, frequência respiratória, temperatura e oximetria de pulso). Avaliar local da dor, edema e mobilidade articular. Pode-se encontrar icterícia, em razão da hemólise. Procurar sinais sugestivos de quadro infeccioso;
+Exames complementares: raio x de tórax, hemograma com contagem de reticulócitos, hemocultura e urocultura, função renal e eletrólitos; outros exames, a depender da queixa e do exame físico;
+Analgesia:
+Dor de leve a moderada intensidade: Anti-Inflamatórios Não Hormonais (AINHs), analgésicos comuns (dipirona, paracetamol) e opioides fracos (codeína, tramadol). Deve-se ter cuidado com o uso de AINH por possíveis alterações da função renal, comuns no paciente falciforme. Sempre evitar o uso crônico, pelos mesmos motivos;
 Dor forte: opiáceos fortes (cloridrato de morfina 0,1mg/kg em bolus; repetir a dose a cada 20 minutos, até o controle da dor ou a sedação excessiva). Evitar meperidina, pelo alto potencial de dependência dessa droga; outros opioides fortes, como metadona e oxicodona, também podem ser utilizados. Para casos de dor grave e refratária, pode-se utilizar bomba de infusão contínua de morfina.
-Hidratação: encorajar a ingesta hídrica e manter o paciente euvolêmico por meio da reposição de solução salina. Cuida-do com a hipo e a hiper-hidratação – fazer controle diário dos líquidos ingeridos e administrados, perdas e controle de peso;
-Transfusão: não diminui a duração da crise e está indicada na SAT, na crise aplásica, no sequestro esplênico e na anemia sintomática;
+Hidratação: encorajar a ingesta hídrica e manter o paciente euvolêmico por meio da reposição de solução salina. Cuidado com a hipo e a hiper-hidratação – fazer controle diário dos líquidos ingeridos e administrados, perdas e controle de peso;
+Transfusão: não diminui a duração da crise e está indicada na STA, na crise aplásica, no sequestro esplênico e na anemia sintomática;
 Tratamento das infecções: a principal causa de óbito entre crianças é a sepse por Streptococcus pneumoniae;
 Oxigenoterapia: apenas se houver hipoxemia.
-Tabela 6 - Resumo do tratamento da crise álgica
-Sempre indicado
-- Avaliação clínica minuciosa;
-- Hidratação;
-- Analgesia.
-Indicação de acordo com avaliações clínica e laboratorial
-- Transfusão;
-- Antibioticoterapia;
-- Oxigenoterapia.
-A Tabela 7 descreve os principais quadros infecciosos e patógenos relacionados em portadores de doença falciforme.
-Tabela 7 - Quadros infecciosos 
+
+Tratamento
+Na crise álgica, sempre está indicado fazer uma avaliação clínica minuciosa, hidratação e analgesia, e dependendo dessa avaliação clínica e laboratorial estão indicadas a transfusão sanguínea, a antibioticoterapia e a oxigenoterapia.
+
+A Tabela 6 descreve os principais quadros infecciosos e patógenos relacionados em portadores de doença falciforme.
+
+Tabela 6 - Quadros infecciosos 
 Quadros clínicos	Prováveis patógenos
 Bacteriemia	- Streptococcus pneumoniae;
 	- Haemophilus influenzae.
@@ -191,9 +266,11 @@ Pneumonia	- Mycoplasma pneumoniae;
 Osteomielite/artrite séptica	- Salmonella;
 	- Staphylococcus aureus;
 	- Streptococcus pneumoniae.
-Toda criança com doença falciforme que apresenta febre >38,5°C deve ser tratada, tendo em vista a possibilidade de septicemia. Recomendam-se a internação e hemoculturas e culturas de nasofaringe (procurando colonização por S. pneumoniae e possível identificação de cepas resistentes). Imediatamente, deve ser iniciada antibioticoterapia empírica utilizando-se, por exemplo, de ampicilina ou amoxicilina. Estudos evidenciam a ceftriaxona como antibiótico ideal para a maioria das infecções bacterianas na AF. Qualquer sinal de gravidade, como taquicardia, hipotensão, bacteriemia, deve ser tratado agressivamente com ceftriaxona e vancomicina.
+
+Toda criança com doença falciforme que apresenta febre >38,5°C deve ser tratada, tendo em vista a possibilidade de septicemia. Recomendam-se a internação e hemoculturas e culturas de nasofaringe (procurando colonização por S. pneumoniae e possivelmente identificando cepas resistentes). Imediatamente, deve ser iniciada antibioticoterapia empírica utilizando-se, por exemplo, de ampicilina ou amoxicilina. Estudos evidenciam a ceftriaxona como antibiótico ideal para a maioria das infecções bacterianas na AF. Qualquer sinal de gravidade, como taquicardia, hipotensão, bacteriemia, deve ser tratado agressivamente com ceftriaxona e vancomicina.
 Crianças com doença SS têm resposta imunológica normal a vacinas, sendo essas armas importantes na profilaxia das infecções na infância. Embora apresente eficácia limitada para determinados sorotipos e em menores de 4 anos, a vacinação contra pneumococo representou grande avanço na proteção da criança com AF, assim como a vacinação contra Haemophilus. É interessante também que a criança falcêmica seja submetida à imunização contra o vírus da hepatite B, em razão do risco elevado dessa infecção, relacionado às frequentes hemotransfusões. 
 Além das imunizações, o uso de penicilina oral (125mg, 2x/d, até os 3 anos, e 250mg, 2x/d, para maiores de 3 anos) de forma profilática visa, principalmente, evitar os casos de sepse por pneumococo. Há controvérsias quanto à faixa etária em que a profilaxia por penicilina deva ser descontinuada. Embora alguns estudos recomendem sua manutenção por toda a vida, demonstrou-se ser seguro suspender a penicilina oral após o 5º ano de vida.
+
 b) Investigação laboratorial  
 Os sinais de anemia hemolítica crônica são evidentes, com níveis de Hb em torno de 7 (podendo ser mais baixos, principalmente nas exacerbações hemolíticas e na associação ao gene talassêmico) e reticulócitos entre 3 e 15%.
 As alterações morfológicas do sangue periférico são características, com a presença de hemácias “em foice”, reticulocitose, eritroblastos circulantes e, quando ocorrer autoesplenectomia, presença de corpúsculos de Howell-Jolly. As hemácias são normocíticas e normocrômicas, exceto quando há alfa ou betatalassemia associada, em que são encontradas microcitose e hipocromia.
@@ -203,36 +280,43 @@ A confirmação diagnóstica é feita pela eletroforese de Hb, em que se encontram n
 Os níveis de HbF são pouco a moderadamente elevados, e os casos com HbF mais alta costumam ter quadros clínicos mais brandos.
 Exames como o teste de solubilidade da Hb e o teste de falcização são excelentes provas para triagem, porém estão positivos nos heterozigotos (traço falciforme), que são assintomáticos, não sendo importantes para o diagnóstico.
 Para o seguimento clínico dos pacientes com AF, devem ser realizados exames periódicos em que se avaliem não só a Hb, mas também o índice de hemólise (DHL, BTF – Bilirrubina Total e Frações), a resposta medular (reticulócitos) e, anualmente, se verifiquem os efeitos sobre órgãos e sistemas (avaliações cardiológica, oftalmológica, neurológica, entre outras).
+
 C - Tratamento
 Não existe tratamento específico para a AF, apenas de suporte, ou seja, o paciente deve fazer acompanhamento periódico com especialista para profilaxia e diagnóstico precoce das complicações. Exames recomendados periodicamente, além dos de sangue, são:
-Ultrassonografia de abdome, com o objetivo de encontrar cálculo biliar, para proceder à colecistectomia eletiva; 
-Ultrassonografia com Doppler transcraniana a partir dos 2 até os 16 anos, para detecção do risco de acidente vascular cerebral e inclusão no programa de transfusão crônica para profilaxia primária, quando necessário;
+Ultrassonografia de abdome, com o objetivo de encontrar cálculo biliar, para proceder a colecistectomia eletiva; 
+Ultrassonografia com Doppler transcraniano a partir dos 2 até os 16 anos, para detecção do risco de acidente vascular cerebral e inclusão no programa de transfusão crônica para profilaxia primária, quando necessário;
 Exame oftalmológico; 
 Ecocardiograma após os 15 anos, para avaliação da pressão da artéria pulmonar e função cardíaca;
 Densitometria óssea e monitorização do nível sérico de cálcio e vitamina D após os 12 anos;
 Demais exames, conforme os sintomas. 
-Os pacientes são mantidos constantemente em uso de ácido fólico para evitar a falência medular por esgotamento dos estoques da substância.
-As transfusões de concentrados de hemácias podem ser terapêuticas ou profiláticas. As transfusões terapêuticas têm indicações precisas, devendo ser utilizadas apenas quando a sintomatologia do quadro anêmico é severa, em crises aplásicas ou de sequestração, fase aguda do acidente vascular cerebral, SAT e falência aguda de múltiplos órgãos. A transfusão profilática fica reservada para profilaxia primária ou secundária de acidentes vasculares cerebrais. 
+
+Tratamento
+Não há um tratamento específico para a anemia falciforme, apenas sintomático, sendo o acompanhamento médico neces-sário, a fim de diagnosticar e prevenir complicações como cálculo biliar e acidente vascular cerebral. Além disso, os pacien-tes são mantidos constantemente em uso de ácido fólico para evitar a falência medular por esgotamento dos estoques da substância.
+
+As transfusões de concentrados de hemácias podem ser terapêuticas ou profiláticas. As transfusões terapêuticas têm indicações precisas, devendo ser utilizadas apenas quando a sintomatologia do quadro anêmico é severa, em crises aplásicas ou de sequestração, fase aguda do acidente vascular cerebral, STA e falência aguda de múltiplos órgãos. A transfusão profilática fica reservada para profilaxia primária ou secundária de acidentes vasculares cerebrais. 
 Uma complicação importante das múltiplas transfusões a que os pacientes são submetidos é a sobrecarga de ferro, portanto devem ser evitadas as que são desnecessárias. Deve-se quantificar a ferritina a cada 3 a 4 meses e iniciar tratamento de quelação do ferro com desferroxamina ou deferasirox com níveis de ferritina >1.000ng/dL, principalmente naqueles submetidos a esquema crônico de transfusão (profilaxia de acidente vascular cerebral). A sobrecarga de ferro é potencializada pelo aumento fisiológico de absorção de ferro, secundário à eritropoese ineficaz, sendo contraindicação absoluta a administração de ferro medicinal para esses pacientes. Tal hemossiderose pode ocasionar problemas graves, como insuficiências hepática, cardíaca e pancreática e endocrinopatia. Outras complicações das múltiplas transfusões são a aloimunização e a transmissão de infecção.
-A profilaxia de infecções por germes capsulados inclui o uso de vacinas contra pneumococo, Haemophilus B, hepatite B e influenza a partir dos 2 anos de vida. A utilização profilática de penicilina via oral, desde o lactente até os 5 anos, como forma de prevenção, tem sido feita rotineiramente, como a imunização para o vírus influenza. A orientação quanto aos sinais de infecção e ao uso precoce de antibióticos deve ser sempre reforçada.
-A hidroxiureia, um agente citotóxico utilizado classicamente nas mieloproliferações, revolucionou o tratamento de casos selecionados de AF, com diminuição da morbidade e aumento da sobrevida. Ela eleva a síntese de HbF, diminui o número de granulócitos e reticulócitos, aumenta o nível de óxido nítrico e diminui a aderência da hemácia à parede vascular. Deve ser considerada em pacientes com mais de 3 crises/ano, com necessidade de internação; antecedente de SAT; anemia sintomática frequente e história de outros eventos vaso-oclusivos severos. Outras indicações ainda estão sendo estudadas.
+A profilaxia de infecções por germes capsulados inclui o uso de vacinas contra pneumococo, Haemophilus B, hepatite B e influenza a partir dos 2 anos de vida. A utilização profilática de penicilina via oral, desde a fase lactente até os 5 anos, como forma de prevenção, tem sido feita rotineiramente, como imunização para o vírus influenza. A orientação quanto aos sinais de infecção e ao uso precoce de antibióticos deve ser sempre reforçada.
+A hidroxiureia, um agente citotóxico utilizado classicamente nas mieloproliferações, revolucionou o tratamento de casos selecionados de AF, com diminuição da morbidade e aumento da sobrevida. Ela eleva a síntese de HbF, diminui o número de granulócitos e reticulócitos, aumenta o nível de óxido nítrico e diminui a aderência da hemácia à parede vascular. Deve ser considerada em pacientes com mais de 3 crises/ano, com necessidade de internação; antecedente de STA; anemia sintomática frequente; e história de outros eventos vaso-oclusivos severos. Outras indicações ainda estão sendo estudadas.
 Outros medicamentos também vêm sendo estudados para o tratamento específico da AF, por intermédio de vários mecanismos de ação, como 5-azacitidina, decitabina, inalação de óxido nítrico, suplementação de magnésio e EPO. Há grande esperança no tratamento da AF com a terapia gênica em estudo.
 O transplante de células-tronco hematopoéticas é considerado alternativa nos casos mais graves, refratários aos tratamentos tradicionais, já sendo autorizado em nível de Sistema Único de Saúde para essa patologia.
-Tabela 8 - Resumo do tratamento 
+
+Tabela 7 - Resumo do tratamento 
 - Tratamento curativo: transplante alogênico de células-tronco hematopoéticas, somente em casos selecionados;
 - Ácido fólico;
 - Vacinação contra pneumococo, Haemophilus B, hepatite B e influenza;
 - Profilaxia infecciosa com penicilina oral até os 5 anos;
-- Hidroxiureia para pacientes selecionados: >3 crises graves/ano; antecedente de SAT; anemia sintomática frequente com necessidade transfusional elevada e história de outros eventos vaso-oclusivos severos;
+- Hidroxiureia para pacientes selecionados: >3 crises graves/ano; antecedente de STA; anemia sintomática frequente com necessidade transfusional elevada e história de outros eventos vaso-oclusivos severos;
 - Profilaxia primária e secundária de acidente vascular cerebral em pacientes de risco;
-- Transfusão de hemácias em situações especiais: anemia sintomática severa, crise aplásica ou de sequestração, fase aguda do acidente vascular cerebral, SAT e falência aguda de múltiplos órgãos;
+- Transfusão de hemácias em situações especiais: anemia sintomática severa, crise aplásica ou de sequestração, fase aguda do acidente vascular cerebral, STA e falência aguda de múltiplos órgãos;
 - Quelação do ferro;
 - Acompanhamento com especialista para monitorização e tratamento de complicações diversas.
+
 D - Prognóstico e sobrevida
-A sobrevida global do paciente com AF é reduzida, mas tem melhorado com acompanhamento médico e o diagnóstico precoce das complicações, imunização adequada, profilaxia antibiótica na infância, uso precoce de antibióticos em quadros infecciosos, suporte transfusional adequado e uso da hidroxiureia, quando indicado. 
+A sobrevida global do paciente com AF é reduzida, mas tem melhorado com acompanhamento médico e diagnóstico precoce das complicações, imunização adequada, profilaxia antibiótica na infância, uso precoce de antibióticos em quadros infecciosos, suporte transfusional adequado e uso de hidroxiureia, quando indicado. 
 O teste do pezinho é um exame de triagem, realizado na 1ª semana de vida (3º ao 7º dia), para rastreamento de algumas doenças congênitas, entre elas as hemoglobinopatias. Se alterado, devem ser realizados exames confirmatórios (eletroforese de Hb, no caso da AF). O teste é de extrema importância, pois medidas profiláticas podem ser instituídas precocemente, diminuindo a mortalidade e a morbidade.
-Tabela 9 - Principais causas de óbito, em ordem decrescente de frequência
-- Infecção, principalmente na infância, com SAT e falência de múltiplos órgãos;
+
+Tabela 8 - Principais causas de óbito, em ordem decrescente de frequência
+- Infecção, principalmente na infância, com STA e falência de múltiplos órgãos;
 - Acidente vascular cerebral;
 - Sequestro esplênico;
 - Tromboembolismo;
@@ -242,179 +326,276 @@ Tabela 9 - Principais causas de óbito, em ordem decrescente de frequência
 · Dactilite antes de completar 1 ano de vida;
 · Leucocitose na ausência de infecção;
 · Hb <7g/dL.
+
 E - Situações especiais
+
 a) Acidente Vascular Cerebral Isquêmico (AVCI)
-A tomografia computadorizada de crânio sem contraste deve ser realizada para descartar quadros hemorrágicos ou não isquêmicos nos pacientes sintomáticos. A ressonância é o melhor exame para a avaliação das lesões isquêmicas, que são mais comuns entre crianças de 2 a 9 anos; os quadros hemorrágicos são mais frequentes em indivíduos entre 20 e 29 anos. Isso porque, com os microinfartos de repetição na infância, ocorre a formação de pequenos aneurismas de circulação colateral peri-infarto (aneurismas de moyamoya), os quais, na vida adulta, podem se romper, levando ao acidente vascular cerebral hemorrágico. Na criança, o tratamento na fase aguda consiste em hidratação e transfusão, além de antiagregação. Na prevenção secundária, utiliza-se o programa de transfusão crônica em razão do alto risco de recidiva. O adulto deve ser avaliado para receber tPA (ativador tissular do plasminogênio recombinante) na fase aguda do AVCI; se não for possível, pode ser utilizado ácido acetilsalicílico (325mg). 
-Na infância, 25% podem ter lesões isquêmicas silenciosas, resultando em alterações cognitivas. Desta forma, está indicado o screening para toda criança com AF, por meio da ultrassonografia com Doppler transcraniana; o fluxo aumentado na artéria cerebral média ou na carótida interna (>170 a 200ms) é interpretado como alto risco de evento isquêmico, estando indicada a profilaxia primária do acidente vascular cerebral por meio do regime de transfusão crônica. A hidroxiureia está sendo estudada para essas situações. 
-A transfusão de sangue visa reduzir a concentração de HbS para menos de 30%, com benefício no programa de profilaxia do acidente vascular cerebral. A transfusão crônica pode ser feita por transfusão simples ou eritrocitoaférese (procedimento que consiste na troca automatizada do volume hemático, suficiente para deixar a HbS no valor desejado). 
+A tomografia computadorizada de crânio sem contraste deve ser realizada para descartar quadros hemorrágicos ou não isquêmicos nos pacientes sintomáticos. A ressonância é o melhor exame para a avaliação das lesões isquêmicas, que são mais comuns entre crianças de 2 a 9 anos; os quadros hemorrágicos são mais frequentes em indivíduos entre 20 e 29 anos. Isso porque, com os microinfartos de repetição na infância, ocorre a formação de pequenos aneurismas de circulação colateral peri-infarto (aneurismas de moyamoya), os quais, na vida adulta, podem se romper, levando ao AVC hemorrágico. Na criança, o tratamento na fase aguda consiste em hidratação e transfusão, além de antiagregação. Na prevenção secundária, utiliza-se o programa de transfusão crônica em razão do alto risco de recidiva. O adulto deve ser avaliado para receber rt-PA (ativador tissular do plasminogênio recombinante) na fase aguda do AVCI; se não for possível, pode ser utilizado ácido acetilsalicílico (325mg). 
+Na infância, 25% podem ter lesões isquêmicas silenciosas, resultando em alterações cognitivas. Desta forma, está indicado o screening para toda criança com AF, por meio da ultrassonografia com Doppler transcraniano; o fluxo aumentado na artéria cerebral média ou na carótida interna (>170 a 200ms) é interpretado como alto risco de evento isquêmico, estando indicada a profilaxia primária do AVC por meio do regime de transfusão crônica. A hidroxiureia está sendo estudada para essas situações. 
+
+Importante
+Devido ao risco de acidente vascular cerebral em crianças com anemia falciforme, está indicado screening com ultrassono-grafia com Doppler transcraniano, a fim de indicar ou não a transfusão sanguínea crônica como forma de evitar essa compli-cação. 
+
+A transfusão de sangue visa reduzir a concentração de HbS para menos de 30%, com benefício no programa de profilaxia do AVC. A transfusão crônica pode ser feita por transfusão simples ou eritrocitoaférese (procedimento que consiste na troca automatizada do volume hemático, suficiente para deixar a HbS no valor desejado). 
+
 b) Falência de múltiplos órgãos
 A falência de múltiplos órgãos aguda é vista mais frequentemente durante crises álgicas graves nos pacientes HbSS. A fisiopatologia não é completamente entendida, mas sabe-se que suporte transfusional com eritrocitoaférese pode reverter o quadro.
+
 c) Anestesia e cirurgia
-O risco de morbimortalidade é maior do que o da população em geral, pela presença de anemia, propensão à falcização na microcirculação, lesões de órgãos-alvo, risco de hipóxia e efeitos da asplenia (risco aumentado de infecção). São orientações no pré-operatório:
+O risco de morbimortalidade é maior do que o da população em geral, por presença de anemia, propensão à falcização na microcirculação, lesões de órgãos-alvo, risco de hipóxia e efeitos da asplenia (risco aumentado de infecção). São orientações no pré-operatório:
 Correção da anemia (manter Hb entre 8 e 10g/dL);
 Se possível, transfusão de concentrado de hemácias fenotipadas para evitar a aloimunização;
 Manutenção de oxigenação e hidratação;
 Seleção de procedimentos menos invasivos e extensos;
 Fisioterapia respiratória no pós-operatório. 
+
 d) Gravidez
 A gravidez em mulheres com AF traz uma série de riscos, tanto para a mãe quanto para o bebê. Esses riscos não são impeditivos de gravidez desejada, salvo em situações especiais. A incidência de aborto espontâneo é elevada. 
-O pré-natal é fundamental, e a paciente deve ser aconselhada a buscar acompanhamento médico logo no início da gestação. É necessário pesquisar a presença de aloanticorpos, independente da história transfusional. O acompanhamento da paciente aloimunizada deve ser meticuloso, e a amniocentese para pesquisar o desenvolvimento fetal e a concentração de bilirrubina é recomendada, para investigação de doença hemolítica do recém-nascido. Também é sugerida a administração de imunoglobulina anti-Rh, em casos selecionados. O retardo do crescimento intrauterino é frequente, assim como a prematuridade. A toxemia gravídica, SAT, infecções do trato urinário e a tromboflebite também são complicações comuns. É preciso atentar, ainda, para episódios infecciosos como infecção do trato urinário, pielonefrite e endometrite.
+O pré-natal é fundamental, e a paciente deve ser aconselhada a buscar acompanhamento médico logo no início da gestação. É necessário pesquisar a presença de aloanticorpos, independente da história transfusional. O acompanhamento da paciente aloimunizada deve ser meticuloso, e a amniocentese para pesquisar o desenvolvimento fetal e a concentração de bilirrubina é recomendada, para investigação de doença hemolítica do recém-nascido. Também é sugerida a administração de imunoglobulina anti-Rh, em casos selecionados. O retardo do crescimento intrauterino é frequente, assim como a prematuridade. Toxemia gravídica, STA, infecções do trato urinário e tromboflebite também são complicações comuns. É preciso atentar, ainda, para episódios infecciosos como infecção do trato urinário, pielonefrite e endometrite.
 Durante o trabalho de parto, a hipercinesia e o alto débito cardíaco se tornam acentuados, e a dor deve ser controlada pelo uso de narcóticos. As perdas sanguíneas devem ser repostas de acordo com a rotina obstétrica habitual, com oxigênio e hidratação de manutenção. 
 No período pós-parto, deve-se manter hidratação adequada, e é possível diminuir o risco de tromboembolismo com uso de meias elásticas e deambulação precoce. A prevenção de atelectasia é importante e, em caso de febre, deve-se diagnosticar a causa e tratá-la agressivamente. O recém-nascido deve ser submetido a testes para identificação de hemoglobinopatia, assim como de outras desordens genéticas. 
 Em caso de aborto espontâneo ou provocado, a paciente Rh negativo deve sempre receber a imunoglobulina anti-Rh. 
 O emprego de transfusões de concentrado de hemácias profilaticamente, para manter níveis hematimétricos mais altos (Hb em torno de 10g/dL) com o intuito de reduzir a incidência de complicações, como abortamento e/ou prematuridade, é discutível e, para alguns, injustificável.
+
 e) Traço falciforme 
-Os pacientes com genótipo heterozigoto apresentam uma condição hereditária benigna, não uma doença: não apresentam manifestação hematológica (valores de Hb, VCM, HCM e reticulócitos normais), crises vaso-oclusivas, riscos gestacional, cirúrgico ou anestésico adicionais em relação à população normal e têm expectativa de vida normal. Apesar de ser condição benigna, algumas complicações raras podem acontecer (Tabela 10). Pela benignidade do quadro, não se indicam rotineiramente os mesmos cuidados de vacinação ou reposição prolongada de acido fólico aplicados a indivíduos com AF. 
-Tabela 10 - Complicações raras
-Renais	A medula renal pode sofrer infartos microscópicos, o que leva à incapacidade de con-centrar a urina (hipostenúria); em infartos da papila renal, episódios de hematúria macroscópica; risco aumentado de carcinoma medular renal.
+Os pacientes com genótipo heterozigoto apresentam uma condição hereditária benigna, não uma doença: não apresentam manifestação hematológica (valores de Hb, VCM – Volume Corpuscular Médio –, HCM – Hemoglobina Corpuscular Média – e reticulócitos normais), crises vaso-oclusivas, riscos gestacional, cirúrgico ou anestésico adicionais em relação à população normal e têm expectativa de vida normal. Apesar de ser condição benigna, algumas complicações raras podem acontecer (Tabela 9). Pela benignidade do quadro, não se indicam rotineiramente os mesmos cuidados de vacinação ou reposição prolongada de acido fólico aplicados a indivíduos com AF. 
+
+Tabela 9 - Complicações raras
+Renais	A medula renal pode sofrer infartos microscópicos, o que leva à incapacidade de concentrar a urina (hipostenúria); em infartos da papila renal, episódios de hematúria macroscópica; risco aumentado de carcinoma medular renal.
 Trombose	Há risco de infarto esplênico em grandes altitudes.
-Pacientes com traço falciforme submetidos a exercícios extenuantes e prolongados (militares)	Há risco 30 vezes maior de morte súbita, provavelmente em razão de rabdomiólise, infarto do miocárdio, arritmia.
+Pacientes com traço falciforme subme-tidos a exercícios extenuantes e prolon-gados (militares)	Há risco 30 vezes maior de morte súbita, provavelmente em razão de rabdomiólise, infarto do miocárdio, arritmia.
+
 É importante o aconselhamento genético, informando que se ambos, marido e mulher, forem traço falciforme, haverá 25% de chance de seus filhos apresentarem a AF propriamente dita.
+
 4. Hemoglobinopatia C
+
 A HbCC tem herança autossômica e é resultado da substituição de 1 único aminoácido na molécula da cadeia betaglobina, trocando glutamina por lisina na posição B6. A forma homozigota da HbCC provoca o aparecimento de anemia hemolítica crônica leve, com esplenomegalia discreta, icterícia leve e colelitíase por cálculos de bilirrubinato.
 Os heterozigotos para HbAC são assintomáticos, todavia apresentam alterações morfológicas no sangue periférico (microcitose), sendo importante diagnóstico diferencial com o traço talassêmico.
 A HbC não é falcemizante, mas participa na polimerização se está junto com a HbS (HbSC). O sangue periférico mostra predomínio de hemácias “em alvo” e, ocasionalmente, células contendo cristais retangulares de HbC precipitada. O diagnóstico é confirmado pelo achado de HbS e HbC na eletroforese de proteínas.
-Os indivíduos com hemoglobinopatia SC podem apresentar as mesmas complicações que o indivíduo com AF (HbSS), mas em menor intensidade e mais tardiamente, com episódios de dor óssea ou articular, porém de intensidade leve. 
-O tratamento é meramente de suporte, com ácido fólico, transfusões (quando necessário) e tratamento sintomático das crises.
+Os indivíduos com hemoglobinopatia SC podem apresentar as mesmas complicações que os indivíduos com AF (HbSS), mas em menor intensidade e mais tardiamente, com episódios de dor óssea ou articular, porém de intensidade leve. 
+O tratamento é meramente de suporte, com ácido fólico, transfusões (quando necessário) e tratamento sintomático das crises. 
 
-Atenção
-Das doenças falciformes, essa é a forma que mais apresenta risco de retinopatia, com necessidade de consultas periódicas com oftalmologista, mesmo se não há qualquer sintoma.
+Importante
+Das doenças falciformes, a hemoglobinopatia C é a forma que mais apresenta risco de retinopatia, com necessidade de con-sultas periódicas com oftalmologista, mesmo se não há qualquer sintoma. 
+
 5. Hemoglobinas instáveis
+
 Hbs instáveis são resultantes de mutações que levam à síntese de Hb alterada, diminuindo a solubilidade da molécula no eritrócito e deixando-a com maior propensão à oxidação, o que ocasiona a sua precipitação, mesmo quando há um sistema de G6PD eficaz, culminando com lesão na membrana celular. 
 A transmissão é autossômica dominante, e a severidade varia de acordo com a quantidade de Hb mutada.
 A maioria dos pacientes mostra quadro de hemólise crônica, com icterícia, esplenomegalia, reticulocitose e colecistopatia calculosa por bilirrubinato. O início da manifestação clínica depende da cadeia globínica afetada: se cadeia alfa, o início é neonatal; se cadeia beta, após o 3º ao 6º meses de vida. Os pacientes com formas mais leves só apresentam anemia sob condições de estresse oxidativo, como infecção, febre e medicamentos. Alguns se queixam de urina escura (pigmentúria), resultado da presença de anéis pirrólicos na urina.
+
+Quadro clínico
+O quadro clínico do paciente com hemoglobinas instáveis envolve hemólise crônica, icterícia, esplenomegalia, reticulocito-se e colecistopatia calculosa por bilirrubinato.
+
 O diagnóstico é feito por meio da evidência de corpúsculos de Heinz eritrocitários, alteração no teste de precipitação de Hb instável e níveis normais de G6PD. O encontro de hemácias “mordidas” no sangue periférico também auxilia o diagnóstico (células que perderam parte da membrana lesada em passagem pelo sistema reticuloendotelial do baço).
+
  
-Figura 6 - Lâmina de sangue periférico de paciente com Hb instável: (A) hemácias “mordidas” e (B) corpúsculos de Heinz
+Figura 6 - Lâmina de sangue periférico de paciente com hemoglobina instável: (A) hemácias “mordidas” e (B) corpúsculos de Heinz
+
 O diagnóstico diferencial inclui outras formas de anemias hemolíticas, não esferocíticas, que apresentam corpúsculos de Heinz: 
 Congênitas: deficiência de G6PD, deficiência de piruvatoquinase;
 Adquiridas: meta-hemoglobinemia por intoxicação medicamentosa, doença de Wilson.
 O tratamento nem sempre é necessário, visto que a maior parte dos casos é de anemia leve. Para todos, recomenda-se o uso de ácido fólico contínuo, a utilização precoce de antibióticos nos casos de infecção e evitar medicamentos oxidantes. Nos casos em que há hemólise mais intensa e mantida, suporte transfusional; pode ser necessária a esplenectomia. O prognóstico é benigno na grande maioria dos casos.
+
 6. Talassemias
+
 A - Considerações gerais
-As talassemias são condições caracterizadas pela redução ou ausência da síntese das cadeias de globina (as cadeias deficientes são, assim, indicadas no nome da patologia, ou alfa ou beta). A síntese reduzida da cadeia globínica mutada leva à redução do conteúdo eritrocitário de Hb e, finalmente, a anemia hipocrômica e microcítica de intensidade variada. Em compensação, o excesso da cadeia globínica normal pode levar a hemólise crônica e eritropoese ineficaz.
-A Hb normal circulante de um adulto é composta por 3 principais tipos de Hb, os quais, por sua vez, apresentam sempre 2 cadeias globínicas alfa associadas a 2 cadeias globínicas de outro tipo; em média, 98% correspondem a HbA, que é formada por um tetrâmero de 2 cadeias alfa e 2 cadeias betaglobínicas, podendo ser chamada de “alfa 2 beta 2”; <3% de HbA2, formada por 2 cadeias alfa e 2 cadeias delta (alfa 2 delta 2); e <15% de HbF, com 2 cadeias alfa e 2 cadeias gama (alfa 2 gama 2). Esta HbF predomina na vida intraútero, sendo gradativamente substituída pelas HbA e A2 na vida extrauterina. 
-Tabela 11 - Tipos de Hb normal
+As talassemias são condições caracterizadas pela redução ou ausência da síntese das cadeias de globina (as cadeias deficientes são, assim, indicadas no nome da patologia, ou alfa, ou beta). A síntese reduzida da cadeia globínica mutada leva à redução do conteúdo eritrocitário de Hb e, finalmente, à anemia hipocrômica e microcítica de intensidade variada. Em compensação, o excesso da cadeia globínica normal pode levar a hemólise crônica e eritropoese ineficaz.
+A Hb normal circulante de um adulto é composta por 3 principais tipos de Hb, os quais, por sua vez, apresentam sempre 2 cadeias globínicas alfa associadas a 2 cadeias globínicas de outro tipo; em média, 98% correspondem a HbA, que é formada por um tetrâmero de 2 cadeias alfa e 2 cadeias betaglobínicas, podendo ser chamada de “alfa 2 beta 2”; <3% de HbA2, formada por 2 cadeias alfa e 2 cadeias delta (alfa 2 delta 2); e <2% de HbF, com 2 cadeias alfa e 2 cadeias gama (alfa 2 gama 2). Esta HbF predomina na vida intraútero, sendo gradativamente substituída pelas HbA e A2 na vida extrauterina. 
+
+Tabela 10 - Tipos de hemoglobina normal
 Tipos	Composição	Frequência
-HbA	alfa 2 beta 2	98%
-HbA2	alfa 2 delta 2	<3%
-HbF	alfa 2 gama 2	<15%
+HbA	Alfa 2 beta 2	98%
+HbA2	Alfa 2 delta 2	<3%
+HbF	Alfa 2 gama 2	<2%
+
 a) Alfatalassemia
-As 2 cópias do gene da alfaglobina estão localizadas no cromossomo 16, e não há substituto para esta na formação da Hb, podendo trazer repercussões desde a vida intrauterina, já que todas as Hbs contêm cadeias alfa. A deficiência de formação da alfaglobina leva, consequentemente, ao excesso relativo de cadeia beta nas crianças e nos adultos, formando a HbH (ß4), e ao excesso intraútero de globina do tipo gama, gerando a Hb de Bart (?4). O excesso de cadeia beta é capaz de formar tetrâmeros solúveis (HbH), que são instáveis e podem precipitar dentro da hemácia, gerando uma variedade de manifestações clínicas. A HbH tem alta afinidade com o oxigênio e distribui mal o O2 nos tecidos; a Hb de Bart apresenta extraordinária afinidade com o oxigênio e resulta na hidropisia fetal e na morte intrauterina ou pós-parto na alfatalassemia major, em que não há produção da cadeia alfa.
-A alfatalassemia acontece principalmente por deleção do gene, causando redução da síntese das cadeias de alfaglobina. Mas, como todas as Hbs do adulto contêm cadeias alfa, isso não modifica o percentual de distribuição das Hbs A, A2 e F. Ao mesmo tempo, a intensidade das manifestações varia de acordo com a intensidade da ausência de produção de cadeia alfa, característica ditada pela herança genética da doença, conforme a Tabela 12.
-Tabela 12 - Mutação dos genes da alfatalassemia
-- 3 genes normais e 1 gene mutado [a a/a -] ? portador silencioso ou traço alfatalassêmico (alfa+talassemia);
-- 2 genes normais e 2 mutados [a -/a - ou a a /--]? talassemia minor ou alfa zero talassemia: não existem sintomas, mas o hemograma pode apresentar anemia leve, microcítica;
-- 1 gene normal [a-/--] ? doença da HbH: anemia hemolítica, esplenomegalia, alterações esqueléticas devido a eritropoese aumentada; 
+As 2 cópias do gene da alfaglobina estão localizadas no cromossomo 16, e não há substituto para esta na formação da Hb, podendo trazer repercussões desde a vida intrauterina, já que todas as Hbs contêm cadeias alfa. A deficiência de formação da alfaglobina leva, consequentemente, ao excesso relativo de cadeia beta nas crianças e nos adultos, formando a HbH (beta-4), e ao excesso intraútero de globina do tipo gama, gerando a Hb de Bart (gama-4). O excesso de cadeia beta é capaz de formar tetrâmeros solúveis (HbH), que são instáveis e podem precipitar dentro da hemácia, gerando uma variedade de manifestações clínicas. A HbH tem alta afinidade com o oxigênio e distribui mal o O2 nos tecidos; a Hb de Bart apresenta extraordinária afinidade com o oxigênio e resulta na hidropisia fetal e na morte intrauterina ou pós-parto na alfatalassemia major, em que não há produção da cadeia alfa.
+A alfatalassemia acontece principalmente por deleção do gene, causando redução da síntese das cadeias de alfaglobina. Mas, como todas as Hbs do adulto contêm cadeias alfa, isso não modifica o percentual de distribuição das Hbs A, A2 e F. Ao mesmo tempo, a intensidade das manifestações varia de acordo com a intensidade da ausência de produção de cadeia alfa, característica ditada pela herança genética da doença, conforme a Tabela 11.
+
+Importante
+A deficiência das cadeias alfa leva a um excesso de produção de cadeias beta e globina do tipo gama intraútero, formando a hemoglobina de Bart, que leva a hidropsia fetal e morte intrauterina ou no pós-parto nas alfatalassemias major. 
+
+Tabela 11 - Mutação dos genes da alfatalassemia
+- 3 genes normais e 1 gene mutado [a a/a -] ? portador silencioso ou traço alfatalassêmico (alfa + talassemia);
+- 2 genes normais e 2 mutados [a -/a - ou a a /--] ? talassemia minor ou alfa zero talassemia: não existem sintomas, mas o hemo-grama pode apresentar anemia leve, microcítica;
+- 1 gene normal [a-/--] ? doença da HbH: anemia hemolítica, esplenomegalia, alterações esqueléticas devido a eritropoese aumenta-da; 
 - Nenhum gene normal [--,--] ? hidropisia fetal com Hb de Bart, pois a cadeia alfa não é formada, sendo incompatível com a vida extrauterina.
+
 b) Betatalassemia
 As betatalassemias são causadas mais por mutações pontuais do que por deleções e resultam na formação de cadeias beta incompletas ou até na ausência das cadeias. Os defeitos moleculares que levam a betatalassemia são múltiplos e heterogêneos. O único gene da betaglobina localiza-se no cromossomo 11, adjacente aos locais onde estão codificadas as cadeias delta e gama, capazes de substituir a cadeia beta. 
 O excesso relativo das cadeias alfa provoca diminuição da solubilidade e precipitação da Hb, levando a lesões de membrana e alteração no transporte de oxigênio. Essas lesões provocam hemólise tanto dentro da medula óssea quanto no sangue periférico e são responsáveis por uma variedade de manifestações clínicas. A intensidade destas depende da quantidade de cadeia alfaglobina em excesso.
 Quando não há síntese de cadeias beta, o subtipo é denominado “zero”, enquanto aqueles com síntese reduzida são chamados “+”. A redução na síntese de cadeias beta leva à formação de maior quantidade de HbA2 e F. 
 O traço talassêmico beta é o termo usado para os heterozigotos, que herdam 1 único gene mutado responsável pela redução da cadeia da betaglobina (ß/ß+). 
-A talassemia intermediária é o resultado da homozigose para mutações talassêmicas – os 2 alelos apresentam mutação que resulta na diminuição da síntese de cadeia beta (ß+/ß+) – ou heterozigose, com alelos não produtores de cadeia beta (ß+/ß-zero).  
-Talassemia major é o termo utilizado quando há mutação em homozigose, que resulta na ausência da síntese de cadeia globínica (ß-zero/ß-zero).
+A talassemia intermediária é o resultado da homozigose para mutações talassêmicas – os 2 alelos apresentam mutação que resulta na diminuição da síntese de cadeia beta (ß+/ß+) – ou heterozigose – com alelos não produtores de cadeia beta (ß+/ß0).  
+Talassemia major é o termo utilizado quando há mutação em homozigose, que resulta na ausência da síntese de cadeia globínica (ß0/ß0).
+
 B - Quadros clínico e radiológico
+
 a) Alfatalassemia
-As síndromes alfatalassêmicas predominam em indivíduos originários da China e do sudoeste asiático e, mais raramente, de raça negra. 
+As síndromes alfatalassêmicas predominam em indivíduos originários da China e do Sudeste Asiático e, mais raramente, de raça negra. 
 O portador silencioso (ou alfatalassemia minor) é assintomático e não manifesta nenhuma alteração hematológica. 
-O traço alfatalassêmico apresenta anemia leve, microcítica e hipocrômica, com excelente qualidade de vida e sintomatologia mínima ou ausente.
+
+Importante
+O traço alfatalassêmico apresenta anemia leve, microcítica e hipocrômica, com excelente qualidade de vida e sintomatologia mínima ou ausente. 
+
 A doença da HbH tem quadro de anemia hemolítica de intensidade variável, mas geralmente em associação à necessidade transfusional desde a infância, com esplenomegalia e alteração óssea variável pela eritropoese ineficaz. O quadro de anemia e icterícia já se manifesta logo ao nascimento, visto que há deficiência de alfaglobina para a síntese de HbF.
-Na hidropsia fetal, ocorre hepatoesplenomegalia intensa, com anemia severa (Hb 3 a 4) e insuficiência cardíaca, culminando com óbito fetal ou natimorto.
+Na hidropisia fetal, ocorre hepatoesplenomegalia intensa, com anemia severa (Hb = 3 a 4) e insuficiência cardíaca, culminando com óbito fetal ou natimorto.
+
  
-Figura 7 - Hidropsia fetal
+Figura 7 - Hidropisia fetal
+
 b) Betatalassemia 
 Os indivíduos mais afetados são os originários da costa do Mediterrâneo (italianos e gregos, principalmente) e, em grau menor, chineses, outros asiáticos e negros.
-O traço talassêmico (betatalassemia minor) pode apresentar anemia discreta, porém é assintomático. Geralmente, a suspeita é feita com hemograma de rotina.
+
+Dica
+O traço talassêmico (betatalassemia minor) pode apresentar anemia discreta, porém é assintomático. Geralmente, a suspeita é feita com hemograma de rotina. 
+
 Na talassemia intermediária, os pacientes apresentam anemia hemolítica crônica, de intensidade variável, habitualmente com pouca necessidade transfusional ao longo da vida, sendo necessário o aporte de sangue apenas em períodos de estresse. Podem apresentar eritropoese extramedular, com formação de massas nos mais diversos locais (pulmão, paravertebral), e ter deformidades ósseas de intensidade variável em consequência da eritropoese ineficaz.
 Na betatalassemia major (anemia de Cooley), os sinais geralmente são evidentes em torno do 6º mês de vida, período em que ocorre diminuição da síntese de HbF e seria esperado aumento da Hb contendo cadeia beta (HbA). Numerosos problemas clínicos acontecem a partir desse momento, como anemia hemolítica crônica intensa, falhas de crescimento e desenvolvimento, deformidades ósseas devido a eritropoese intensa, hepatoesplenomegalia, icterícia e hematopoese extramedular. Se as crianças não são tratadas, 8% morrem no 1º ano de vida por insuficiência cardíaca, inanição e infecção. A evolução clínica é modificada pela realização de terapêutica transfusional adequada, porém a sobrecarga de ferro transfusional (hemossiderose) pode ser grave, com lesões de múltiplos órgãos e redução da sobrevida, se não tratada. 
 Nas formas mais graves de talassemia, como resposta à eritropoese ineficaz, a série eritroide medular aumenta, às vezes de maneira tão intensa que pode levar à proliferação das camadas hematopoéticas de ossos chatos e longos, com deformidades ósseas severas, osteopenia e, eventualmente, fraturas patológicas.
-Tabela 13 - Principais alterações ósseas na talassemia
+
+Pergunta
+2009 - HSPM
+4. Dentre os diagnósticos diferenciais da anemia, uma manifestação clínica prevalente que envolve diferentes causas como as talassemias, é correto afirmar que:
+a) a anemia de Cooley e betatalassemia têm uma evolução clínica oligossintomática até o início da adolescência, quando o crescimento pode levar a uma maior necessidade de transfusões de hemácias
+b) a anemia de Cooley ou talassemia major ocorre quando há formação anômala das cadeias beta da hemoglobina
+c) o “teste do pezinho” pode revelar a presença da hemoglobina de Bart (gama-4) ao nascimento, sendo diagnóstico do traço betatalassêmico
+d) a anemia observada nas pessoas com traço alfatalassêmico pode ser grave, mas habitualmente responde à suplementação de doses baixas de ferro e elevadas de folato
+e) a deleção de apenas 1 gene para cadeia alfa é denominada traço silencioso porque nesses casos não são observadas alte-rações hematológicas
+Resposta no final do capítulo
+
+Tabela 12 - Principais alterações ósseas na talassemia
 - Protuberância da região frontal e das regiões malares;
 - Depressão na ponta do nariz;
 - Horizontalização dos orifícios nasais;
 - Hipertrofia dos maxilares com exposição de dentes e gengivas superiores.
+
  
 Figura 8 - Alterações ósseas 
+
 No crânio, podem-se ter, ainda, o alargamento da díploe, o desaparecimento da tábua externa e o aparecimento de estrias perpendiculares, que conferem o aspecto característico de “porco-espinho”. O exame radiológico de ossos em geral, finalmente, mostra redução do osso compacto da cortical e reabsorção das trabéculas. 
+
  
 Figura 9 - Alargamento da díploe e diminuição da tábua externa no crânio
+
  
 Figura 10 - Crânio “em porco-espinho”
+
 C - Laboratório
+
 a) Traço de alfatalassemia
 A Hb varia desde a normalidade até em torno de 10g/dL. O VCM é marcadamente baixo (entre 60 e 75fL), e a contagem eritrocitária está normal ou elevada. O esfregaço de sangue periférico mostra microcitose, hipocromia, hemácias “em alvo” e acantócitos. A contagem de reticulócitos é normal, assim como o ferro sérico.
-A eletroforese de Hb não mostra aumento de A2 ou de F, e não ocorre HbH. Trata-se de diagnóstico geralmente de exclusão, quando se afastam a deficiência de ferro, a esferocitose e a betatalassemia. Para diagnóstico de certeza, é necessária a pesquisa molecular.
+A eletroforese de Hb não mostra aumento de A2 ou de F, e não ocorre HbH. Trata-se de diagnóstico geralmente de exclusão, quando se afastam a deficiência de ferro, esferocitose e betatalassemia. Para diagnóstico de certeza, é necessária a pesquisa molecular.
+
+Importante
+No traço alfatalassêmico, o esfregaço de sangue periférico apresenta microcitose, hipocromia, hemácias “em alvo” e acan-tócitos, além de a contagem de reticulócitos ser normal, assim como o ferro sérico.
+
 b) Doença da HbH
-São pacientes com anemia hemolítica de intensidade moderada a severa, que cursam com Hb em torno de 7 a 9g/dL e que apresentam uma morfologia rica de sangue periférico, com poiquilocitose, microcitose, hipocromia, hemácias “em alvo”. Apresenta como característica as chamadas hemácias “em bola de golfe” com coloração supravital, em razão dos precipitados intraeritrocitários de HbH. A contagem de reticulócitos é elevada e, na eletroforese de Hb, é identificada a HbH.
+São pacientes com anemia hemolítica de intensidade moderada a severa, que cursam com Hb em torno de 7 a 9g/dL e que apresentam uma morfologia rica de sangue periférico, com poiquilocitose, microcitose, hipocromia, hemácias “em alvo”. Apresentam como característica as chamadas hemácias “em bola de golfe” com coloração supravital, em razão dos precipitados intraeritrocitários de HbH. A contagem de reticulócitos é elevada, e, na eletroforese de Hb, é identificada a HbH.
+
 c) Betatalassemia minor (traço)
 São indivíduos assintomáticos. Alguns cursam com anemia leve (Hb em torno de 10g/dL). Microcitose e hipocromia são marcantes, com hemácias “em alvo” vistas na análise do sangue periférico; assim, um diagnóstico diferencial importante é a anemia ferropriva. Na talassemia, o RDW é normal, o número de eritrócitos é aumentado, e a contagem de reticulócitos é normal ou pouco aumentada. Em alguns casos, pode-se encontrar esplenomegalia discreta.
+
+Importante
+Deve-se pensar em anemia ferropriva como diagnóstico diferencial para betatalassemia minor, já que há microcitose, hipo-cromia e hemácias “em alvo”.
+
 d) Betatalassemia intermediária
-A anemia é variável, geralmente em torno de 7 a 8g/dL, com VCM baixo (entre 55 e 75fL) e contagem eritrocitária normal ou elevada. O sangue periférico mostra poiquilocitose, microcitose, hipocromia, hemácias “em alvo” e pontilhado basófilo. A contagem de reticulócitos é normal ou elevada; o ferro sérico tende a ser elevado, pela absorção aumentada, que é estimulada pela eritropoese ineficaz. A eletroforese de Hb mostra aumento de A2 entre 4 e 8%, e de HbF, entre 1 e 5%. 
+A anemia é variável, geralmente em torno de 7 a 8g/dL, com VCM baixo (entre 55 e 75fL) e contagem eritrocitária normal ou elevada. O sangue periférico mostra poiquilocitose, microcitose, hipocromia, hemácias “em alvo” e pontilhado basófilo. A contagem de reticulócitos é normal ou elevada; o ferro sérico tende a ser elevado, pela absorção aumentada, que é estimulada pela eritropoese ineficaz. A eletroforese de Hb mostra aumento de A2 entre 4 e 8% e de HbF entre 1 e 5%. 
+
 e) Betatalassemia major
 Ocorre anemia severa, com hipocromia e microcitose intensas, e a Hb pode chegar a valores de 3g/dL.
 O esfregaço de sangue periférico mostra múltiplas alterações, com poiquilocitose, hipocromia muito intensa, pontilhado basófilo e eritroblastos circulantes e eritrócitos em formas bizarras. Corpúsculos de Heinz podem ser vistos, pois a cadeia alfa se precipita. Pode haver, ainda, leucocitose e reticulócitos baixos como resultado do aumento do estímulo medular e da eritropoese ineficaz.
 Praticamente não há HbA na eletroforese, as quantidades de HbA2 são variáveis, e o predomínio é de HbF.
-Tabela 14 - Talassemias: genética, clínica e laboratório
+
+Tabela 13 - Talassemias: genética, clínica e laboratório
 	Doenças	Genótipos	VCM	Hb	Eletroforese
 Alfatalassemia	Portador silencioso
-(a+ talassemia)	aa/a-	Normal	Normal	Normal; <3% de Hb de Bart ao nascimento
+(a+ talassemia)	aa/a-	Normal	Normal	Normal; <3% de Hb de Bart ao nas-cimento
 	Alfatalassemia minor 
 (a0 talassemia)	aa/- - ou a-/a-	Baixo	>10g/dL	Normal; 3 a 8% de Hb de Bart ao nascimento
 	Doença da HbH	a-/- -	Baixo	7 a 9g/dL	5 a 30% de HbH; Hb de Bart pode estar presente 
 	Hidropisia fetal (Hb de Bart)	- -/- -	Baixo	Extremamente baixa; curso fatal	HbA, A2 e F ausentes; Hb de Bart presente
 Betatalassemia	Traço talassêmico 
-(betatalassemia minor)	
-ß/ß0 ou ß/ß+	
-Baixo	
->10g/dL	HbA diminuída, HbA2 entre 3,5 e 7 e HbF aumentada; aumento de HbA2
+(betatalassemia mi-nor)	ß/ß0 ou ß/ß+	Baixo	>10g/dL	HbA diminuída, HbA2 entre 3,5 e 7 e HbF aumentada; aumento de HbA2
 	Intermediária	ß+/ß+ ou ß+/ß0	Baixo	7 a 9g/dL	
 	Major	ß0/ß0	Baixo	3 a 4g/dL	HbA ausente
-ß: produção normal de cadeia beta; ß+ -: produção de cadeia beta diminuída, mas não completamente; ß0: produção de cadeia beta completamente ausente. 
+ß: produção normal de cadeia beta; ß+: produção de cadeia beta diminuída, mas não completamente; ß0: produção de cadeia beta completamente ausente. 
+
 D - Diagnóstico diferencial
-Ocorre principalmente com a deficiência de ferro, particularmente nas formas menores. O paciente com talassemia tem VCM menor, número de hemácias por mm3 normal ou elevado, RDW normal, ferro e ferritina séricos normais ou elevados e reticulócitos normais ou aumentados. A eletroforese de Hb é o exame de eleição para o principal diagnóstico diferencial.
+Ocorre principalmente com a deficiência de ferro, particularmente nas formas menores. O paciente com talassemia tem VCM menor, número de hemácias por mm3 normal ou elevado, RDW normal, ferro e ferritina séricos normais ou elevados e reticulócitos normais ou aumentados. 
+
+Dica
+A eletroforese de hemoglobina é o exame de eleição para o principal diagnóstico diferencial entre a alfatalassemia, a betatalassemia e as anemias carenciais por deficiência de ferro. 
+
 E - Tratamento
 Nas formas heterozigóticas menores, não é necessário tratar nem realizar aporte de ácido fólico, exceto em períodos de estresse ou aumento da demanda, após perdas ou na gestação. Os pacientes podem desenvolver deficiência de ferro por perdas ou aumento de demanda, e não há contraindicações ao uso de suplementos de ferro nesses casos. 
 As formas intermediária e major devem fazer uso contínuo de ácido fólico. Na doença da HbH, devem ser evitados as drogas oxidantes e o uso de ferro medicinal.
 As formas maiores necessitam de esquemas regulares de transfusão desde a infância, para garantir crescimento e desenvolvimento adequados, bem como minimização dos efeitos ósseos e endocrinológicos da anemia severa crônica, com o objetivo de deixar a Hb entre 9 e 10g/dL.
 Indica-se esplenectomia se o hiperesplenismo eleva os requerimentos transfusionais ou se a talassemia intermediária está com Hb em nível de transfusão frequente.
 A terapêutica de quelação de ferro é essencial para as formas maiores em transfusão, assim que os níveis de ferritina ultrapassem 1.000µg/L. A sobrecarga de ferro leva a complicações graves, como disfunção endócrina e metabólica (diabetes mellitus, hipotireoidismo, hipogonadismo e retardo de crescimento). As opções terapêuticas são a desferroxamina, de administração subcutânea e preferencialmente contínua, ou ainda o deferasirox, de uso oral. 
-Na talassemia, podem acontecer, ainda, as crises aplásicas. Da mesma forma que na AF, na maioria das vezes, está relacionada com a infecção por parvovírus B19 ou deficiência de folato.
+
+Tratamento
+O tratamento é voltado para as formas intermediária e major, nas quais é necessário fazer uso contínuo de ácido fólico e, nas formas maiores, há necessidade de transfusões regulares desde a infância com quelação de ferro associada para que se evitem disfunções endócrinas e metabólicas.
+
+Na talassemia, podem acontecer, ainda, as crises aplásicas. Da mesma forma que na AF, na maioria das vezes, estão relaci-onadas com a infecção por parvovírus B19 ou deficiência de folato.
 O transplante alogênico de células-tronco hematopoéticas vem sendo realizado em casos selecionados de betatalassemia major, particularmente em crianças que ainda não desenvolveram sobrecarga de ferro, com índice de resposta em torno de 80% dos casos com sobrevida sem necessidade transfusional.
-7. Esferocitose hereditária e outras doenças da membrana eritrocitária
+
+7. Esferocitose hereditária e outras doenças da membrana eri-trocitária
+
 A - Considerações gerais
 A membrana eritrocitária executa funções altamente especializadas e apresenta estrutura básica de 2 camadas de fosfolípides e um conjunto de proteínas de membrana, possibilitando que cada proteína celular realize diferentes atividades. Essas proteínas são classificadas basicamente como periféricas, que compõem o citoesqueleto, e integrais, que ocupam toda a espessura da membrana, sendo geralmente glicoproteínas com diversas funções. 
 As proteínas do citoesqueleto são constituídas principalmente por membros da família das espectrinas e anquirinas, dispostas em sentido horizontal ou vertical, sendo responsáveis, entre outras funções, pela deformabilidade da hemácia. Por outro lado, uma função importante das proteínas integrais é o transporte de água e íons por meio das membranas. 
 A esferocitose hereditária é a anemia hemolítica por defeito de membrana mais comum, cuja incidência é da ordem de 1 em 5.000 indivíduos europeus. O padrão de herança é autossômico dominante em 75% dos casos, sendo os demais de padrão recessivo. Resulta de mutações em genes que codificam as proteínas da membrana eritrocitária (espectrinas, banda 3, anquirinas e proteína 4.2), com consequente mudança na estrutura do citoesqueleto, deixando a membrana instável e suscetível à perda de superfície por vesiculações, formando os esferócitos, que são mais rígidos, comprometendo sua passagem pelos sinusoides esplênicos, onde são captados pelo sistema reticuloendotelial e fagocitados. 
+
  
 Figura 11 - Proteínas da membrana eritrocitária
+
 B - Quadro clínico
 O diagnóstico normalmente é feito na infância, pelo quadro de anemia, icterícia e esplenomegalia, e, muitas vezes, é confundido com AF e com hepatite.
 Doença leve ocorre em 20 a 30% dos casos, situação em que não há anemia nem icterícia, pois a medula óssea compensa a hemólise, ocorrendo reticulocitose moderada e discreta esplenomegalia. Esse caso pode ser diagnosticado apenas na adolescência ou no indivíduo já adulto.
+
+Dica
+O quadro clínico clássico apresenta-se com anemia, icterícia e esplenomegalia, podendo ser confundido com anemia falci-forme ou hepatite. 
+
 De 60 a 75% dos casos são de intensidade moderada, com anemia leve a moderada, reticulocitose intensa, esplenomegalia significativa, icterícia e necessidade transfusional ocasional.
 Os casos graves são minoria e caracterizam-se por necessidade transfusional frequente, em consequência da hemólise intensa. Há citação de morte intraútero por hidropisia fetal em casos extremos. 
 Em quaisquer dessas situações, a anemia pode ser muito agravada quando há concomitância com deficiência de ácido fólico ou com infecção viral, em especial pelo parvovírus B19. A hemólise crônica leva ao quadro de colecistopatia crônica calculosa. Ao exame físico, chama a atenção a presença de esplenomegalia e icterícia.
+
 C - Laboratório
 É encontrada anemia de gravidade variável, e eventualmente pode não haver anemia.
 Reticulocitose é um achado constante, e o esfregaço de sangue periférico mostra a presença de esferócitos, podendo fazer parte de apenas um percentual dos eritrócitos ou ocupar completamente a lâmina.
- 
-Figura 12 - Sangue periférico com esferócitos (seta)
-A CHCM está elevada (sendo essa uma das raras causas de anemia hipercrômica), porém o VCM está diminuído ou normal (média entre o VCM dos esferócitos – microcíticos –, e dos reticulócitos – macrocíticos), e o RDW está elevado. Pela perda de parte de sua superfície de membrana, os esferócitos têm aumento da vulnerabilidade quando presentes em meios hipotônicos. Nessa característica, fundamenta-se o teste da curva de fragilidade osmótica, no qual os eritrócitos são expostos a soluções de cloreto de sódio cada vez menos concentradas, e faz-se um traçado da hemólise percentual a cada diluição, demonstrando que, nesse caso, começa a haver hemólise com concentrações de NaCl que não causariam esse efeito sobre eritrócitos normais. Contudo, a curva de fragilidade mostra apenas a existência de esferócitos, não a etiologia deles, podendo estar alterada, por exemplo, na anemia hemolítica autoimune.
-Portanto, o diagnóstico é feito por meio de história familiar de anemia, presença de anemia hemolítica, com esferócitos no sangue periférico e alteração da curva de fragilidade osmótica.
- 
-Figura 13 - Curva de fragilidade osmótica normal
- 
-Figura 14 - Curva de fragilidade osmótica alterada
-D - Tratamento
-Os pacientes devem permanecer constantemente em uso de ácido fólico, para garantir a resposta medular à hemólise crônica. 
-O tratamento de escolha para indivíduos que mantêm hemólise severa, com necessidade transfusional, consiste na esplenectomia. A retirada do baço não corrige o defeito da membrana, mas elimina o principal sítio de hemólise, portanto não deve ser indicada a casos de anemia leve. É recomendado, quando possível, aguardar até 4 anos para realizar a esplenectomia, pelo risco de sepse grave. É imprescindível vacinação pré-esplenectomia com antipneumococos, meningococo e Haemophilus, além de profilaxia com penicilina via oral até 5 anos após esplenectomia.
-8.	Deficiência de G6PD e piruvatoquinase
-A - Deficiência de G6PD 
-A glicose-6-fosfato (G6P), formada no início da glicólise, pode ser desviada para a via das pentoses ou shunt da hexose monofosfato. Nessa via, a G6P sofre ação da G6P desidrogenase, formando a 6-fosfogluconato e restaurando o NADPH. Este último é coenzima da glutationa redutase, que leva à regeneração do glutationa reduzida (GSH). A GSH é usada pela glutationa peroxidase na eliminação do peróxido de hidrogênio na hemácia, evitando a oxidação da membrana plasmática da hemácia, das globinas e das proteínas estruturais (já que isso causaria instabilidade celular). 
-Em resumo, essa via protege a Hb e a membrana eritrocitária do dano oxidativo dos radicais livres do O2 produzidos por infecções, drogas, toxinas, cetoacidose diabética etc. A oxidação de estruturas da membrana pode causar hemólise intravascular.
 
  
-Figura 15 - Metabolismo da G6PD
+Figura 12 - Sangue periférico com esferócitos (seta)
+
+A Concentração de Hemoglobina Corpuscular Média (CHCM) está elevada (sendo essa uma das raras causas de anemia hipercrômica), porém o VCM está diminuído ou normal (média entre o VCM dos esferócitos – microcíticos –, e dos reticulócitos – macrocíticos), e o RDW está elevado. Pela perda de parte de sua superfície de membrana, os esferócitos têm aumento da vulnerabilidade quando presentes em meios hipotônicos. Nessa característica, fundamenta-se o teste da curva de fragilidade osmótica, no qual os eritrócitos são expostos a soluções de cloreto de sódio cada vez menos concentradas, e faz-se um traçado da hemólise percentual a cada diluição, demonstrando que, nesse caso, começa a haver hemólise com concentrações de NaCl que não causariam esse efeito sobre eritrócitos normais. Contudo, a curva de fragilidade mostra apenas a existência de esferócitos, não a etiologia deles, podendo estar alterada, por exemplo, na anemia hemolítica autoimune.
+Portanto, o diagnóstico é feito por meio de história familiar de anemia, presença de anemia hemolítica, com esferócitos no sangue periférico e alteração da curva de fragilidade osmótica.
+
+ 
+Figura 13 - Curva de fragilidade osmótica normal
+
+ 
+Figura 14 - Curva de fragilidade osmótica alterada
+
+D - Tratamento
+
+Tratamento
+Os pacientes devem permanecer constantemente em uso de ácido fólico, para garantir a resposta medular à hemólise crônica. Em alguns casos (hemólise severa), é necessário esplenectomia.
+
+O tratamento de escolha para indivíduos que mantêm hemólise severa, com necessidade transfusional, consiste na esplenectomia. A retirada do baço não corrige o defeito da membrana, mas elimina o principal sítio de hemólise, portanto não deve ser indicada a casos de anemia leve. É recomendado, quando possível, aguardar até 4 anos para realizar a esplenectomia, pelo risco de sepse grave. É imprescindível vacinação pré-esplenectomia com antipneumococos, meningococo e Haemophilus, além de profilaxia com penicilina via oral até 5 anos após esplenectomia.
+
+8. Deficiência de G6PD e piruvatoquinase
+
+A - Deficiência de G6PD 
+A glicose-6-fosfato (G6P), formada no início da glicólise, pode ser desviada para a via das pentoses ou shunt da hexose monofosfato. Nessa via, a G6P sofre ação da G6P desidrogenase, formando a 6-fosfogluconato e restaurando o NADPH. Este último é coenzima da glutationa redutase, que leva à regeneração da glutationa reduzida (GSH). A GSH é usada pela glutationa peroxidase na eliminação do peróxido de hidrogênio na hemácia, evitando a oxidação da membrana plasmática da hemácia, das globinas e das proteínas estruturais (já que isso causaria instabilidade celular). 
+
+Dica
+A via da glicose-6-fosfato desidrogenase protege a hemoglobina e a membrana eritrocitária do dano oxidativo dos radicais livres do O2 produzidos por infecções, drogas, toxinas e cetoacidose diabética, sendo que a oxidação de estruturas da membrana pode causar hemólise intravascular. 
+
+ 
+Figura 15 - Metabolismo da glicose-6-fosfato desidrogenase
+
 A G6PD também atua, por meio da produção de NADH, para manter o heme na forma reduzida Fe++. Na deficiência da G6PD, a meta-Hb (heme contendo ferro na forma férrica) persiste e se precipita, formando os corpúsculos de Heinz, que se ligam à membrana, lesando-a de diversas maneiras. 
 Assim, a G6PD é necessária para a formação de NAPH e GSH, protegendo a hemácia dos efeitos oxidativos e evitando a formação de meta-Hb.
 A deficiência da G6PD é uma doença ligada ao cromossomo X, que afeta 1 a cada 100.000 pessoas na Europa, especialmente homens; cerca de 10% dos negros americanos têm a variante africana (classe III); no Brasil, 8% dos negros apresentam a deficiência. 
@@ -424,7 +605,17 @@ Existem 4 formas de manifestação clínica da deficiência:
 2 - Anemia hemolítica não esferocítica congênita: apresenta hemólise crônica de intensidade variável mesmo na ausência de agentes oxidantes, mas os quadros hemolíticos costumam ser fulminantes após a exposição a drogas.
 3 - Icterícia neonatal: pico de incidência de hemólise ocorre entre o 2º e o 4º dias de vida; há mais icterícia do que anemia; raramente a anemia é grave.
 4 - Favismo: principalmente em crianças de 1 a 5 anos. Após a ingesta de fava (5 a 24 horas), há hemólise intravascular intensa. 
-Tabela 15 - Principais medicamentos e produtos químicos que podem levar a crises hemolíticas na deficiência de G6PD
+
+Pergunta
+2012 - UFRN
+5. Uma criança estava saudável até os 5 meses, quando apresentou quadro de pneumonia grave e edema doloroso de falanges. Na ocasião, apresentou Hb = 6g/dL, VCM = 85, leucócitos = 15.600/mm3 (75% segmentados, 20% linfócitos, 5% monócitos) e plaquetas = 650.000/mm3. O diagnóstico é:
+a) talassemia
+b) esferocitose
+c) deficiência de G6PD
+d) anemia falciforme
+Resposta no final do capítulo
+
+Tabela 14 - Principais medicamentos e produtos químicos que podem levar a crises hemolíticas na deficiência de glicose-6-fosfato desi-drogenase
 Classes de medicamentos/substâncias químicas	Exemplos
 Analgésicos, anti-inflamatórios	- Ácido acetilsalicílico;
 	- Acetaminofeno;
@@ -436,7 +627,7 @@ Antimaláricos	- Hidroxicloroquina;
 	- Quinina.
 Medicamentos cardiovasculares	- Procainamida;
 	- Enalapril (maleato); 
-	- Hidralazina;
+	- Fenil-hidralazina;
 	- Quinidina;
 	- Captopril.
 Antibióticos	- Nitrofurantoína;
@@ -453,6 +644,7 @@ Sulfonas, sulfonamidas	- Dapsona;
 	- Sulfametoxazol;
 	- Sulfassalazina;
 	- Sulfametoxipirimidina;
+	- Sulfanilamida;
 	- Mesalazina.
 Outros	- Azul de metileno;
 	- Ácido ascórbico (altas doses);
@@ -461,7 +653,7 @@ Outros	- Azul de metileno;
 	- Levodopa;
 	- Prometazina; 
 	- Fitomenadiona (vitamina K1);
-	- Ácido para-aminobenzoico (lidocaína);
+	- Ácido paraminobenzoico (lidocaína);
 	- Difenidramina;
 	- Desferroxamina;
 	- Glibenclamida;
@@ -472,28 +664,43 @@ Outros	- Azul de metileno;
 	- Hidrocloreto de tolueno; 
 	- Trinitrotolueno; 
 	- Azul de toluidina.
+
 A Organização Mundial da Saúde preconiza classificar a deficiência de G6PD de acordo com a magnitude da deficiência e a severidade da hemólise:
-Tabela 16 - Classificação da deficiência de G6PD
+
+Tabela 15 - Classificação da deficiência de glicose-6-fosfato desidrogenase
 Classe I	Deficiência enzimática severa (<10% de atividade) e hemólise crônica
-Classe II	Deficiência enzimática severa, mas hemólise intermitente, geralmente associada a infecção ou a medi-camento
-Classe III	Deficiência enzimática moderada (10 a 60% de atividade), com hemólise intermitente associada a qua-dro infeccioso ou uso de medicação
+Classe II	Deficiência enzimática severa, mas hemólise intermitente, geralmente associada a infecção ou a medicamento
+Classe III	Deficiência enzimática moderada (10 a 60% de atividade), com hemólise intermitente associada a quadro infec-cioso ou uso de medicação
+
 a) Diagnóstico
 É realizado a partir do estudo quantitativo de G6PD em hemolisados e da eletroforese da enzima em acetato de celulose.
+
 b) Tratamento
+
+Tratamento
+Nas crises hemolíticas graves, podem-se realizar transfusão sanguínea e profilaxia, evitando-se o uso/consumo das substân-cias que podem desencadear os sintomas, e é a melhor recomendação para esses pacientes. 
+
 O tratamento consiste no suporte transfusional durante as crises hemolíticas graves. Na icterícia neonatal, a conduta é a mesma de qualquer doença hemolítica do recém-nascido, sendo indicadas a fototerapia e a exsanguineotransfusão, a depender dos valores de bilirrubina. A grande recomendação aos portadores dessa deficiência é a profilaxia, evitando o uso das drogas citadas e o consumo de fava. A esplenectomia é indicada apenas em casos especiais.
+
 B - Deficiência de piruvatoquinase
 A piruvatoquinase está envolvida no metabolismo da glicose e produz ATP por meio do catabolismo do fosfoenolpiruvato em lactato. 
 O ATP assegura o funcionamento da bomba de sódio e também é importante para a manutenção dos lipídios da membrana. Mantém o funcionamento da bomba Ca/Mg, evitando a calcificação da membrana plasmática. 
 O déficit de ATP leva a alterações na membrana do eritrócito, com tendência a hiper-hidratação, formação de esferócitos e destruição da célula (anemia crônica). 
 Essa deficiência é a 2ª causa mais comum de anemia hemolítica decorrente de deficiências enzimáticas, sendo a herança autossômica recessiva. 
 O quadro de hemólise crônica interfere no desenvolvimento da criança, por isso pode estar indicada a esplenectomia. 
+
 9. Hemoglobinúria paroxística noturna
-A hemoglobinúria paroxística noturna, ou doença de Marchiafava-Micheli, é uma doença clonal, adquirida e rara do tecido hematopoético, capaz de afetar todas as suas linhagens. A incidência exata não é conhecida; afeta todas as faixas etárias, particularmente adultos jovens, e incide igualmente em ambos os sexos. Caracteriza-se como doença crônica com significantes morbidade e mortalidade. No entanto, muitos pacientes têm sobrevida longa (>10 anos), e alguns casos podem entrar em remissão espontânea. Raros casos (1 a 2%) evoluem para mielodisplasia ou leucemia aguda, ou ainda para aplasia de medula.
-É resultado da mutação somática do gene PIG-A localizado no cromossomo X de uma célula-tronco pluripotencial. O produto do gene PIG-A é essencial à biossíntese de glicosil-fosfatidil-inositol (GPI), um fosfolípide necessário para que determinadas proteínas (mais de 25) possam ser fixadas à membrana celular externa. Como a âncora GPI não é sintetizada nas células defeituosas, as proteínas que dela dependem para sua expressão não aparecem na membrana celular.
-Duas proteínas que deveriam ser ancoradas na GPI são responsáveis pela inibição do sistema de complemento: CD55 e CD59. Nas deficiências destas, o quadro de anemia hemolítica intravascular paroxística (noturna em razão da acidose estabelecida durante o sono pelo excesso de CO2), leucopenia e/ou plaquetopenia é consequência da sensibilidade elevada das células à ativação do complemento (C) pela via clássica ou alternativa. 
+
+A hemoglobinúria paroxística noturna, ou doença de Marchiafava-Micheli, é uma doença clonal, adquirida e rara do tecido hematopoético, capaz de afetar todas as suas linhagens. A incidência exata não é conhecida; afeta todas as faixas etárias, particularmente adultos jovens, e incide igualmente em ambos os sexos. Caracteriza-se como doença crônica com significantes morbidade e mortalidade. No entanto, muitos pacientes têm sobrevida longa (>10 anos), e alguns casos podem entrar em remissão espontânea. Raros casos (1 a 2%) evoluem para mielodisplasia ou leucemia aguda, ou, ainda, para aplasia de medula.
+É resultado da mutação somática do gene PIG-A localizado no cromossomo X de uma célula-tronco pluripotencial. O produto do gene PIG-A é essencial à biossíntese de glicosilfosfatidilinositol (GPI), um fosfolípide necessário para que determinadas proteínas (mais de 25) possam ser fixadas à membrana celular externa. Como a âncora GPI não é sintetizada nas células defeituosas, as proteínas que dela dependem para sua expressão não aparecem na membrana celular.
+Duas proteínas que deveriam ser ancoradas na GPI são responsáveis pela inibição do sistema de complemento: CD55 e CD59. Nas deficiências destas, o quadro de anemia hemolítica intravascular paroxística (noturna em razão da acidose estabelecida durante o sono pelo excesso de CO2), leucopenia e/ou plaquetopenia é consequência da sensibilidade elevada das células à ativação do complemento (C) pela via clássica ou alternativa (Figura 16). 
 A trombose venosa e/ou arterial, outra característica da doença, acontece por ativação plaquetária, juntamente com a ativação do complemento e a formação de trombos espontaneamente. Em 30 a 40%, esses eventos são a principal causa de óbito. O evento mais descrito é a síndrome de Budd-Chiari (trombose das supra-hepáticas). 
-Os sintomas são os relacionados às citopenias: fadiga pela anemia, quadros infecciosos pela leucopenia e sangramento (raro) pela plaquetopenia; urina escura pela manhã (hemoglobinúria) e após estresse (infecção, cirurgia, exercícios vigorosos); icterícia pela hemólise; esplenomegalia leve; deficiência de ferro pela perda na urina e os relacionados à trombose.
-Tabela 17 - Situações que devem despertar suspeita de hemoglobinúria paroxística noturna
+Os sintomas são os relacionados às citopenias: fadiga pela anemia, quadros infecciosos pela leucopenia e sangramento (raro) pela plaquetopenia; urina escura pela manhã (hemoglobinúria) e após estresse (infecção, cirurgia, exercícios vigorosos); icterícia pela hemólise; esplenomegalia leve; deficiência de ferro pela perda na urina; e os relacionados à trombose.
+
+ 
+Figura 16 - Ativação do complemento e hemólise na hemoglobinúria paroxística noturna
+
+Tabela 16 - Situações que devem despertar suspeita de hemoglobinúria paroxística noturna
 - Neutropenia ou plaquetopenia associadas a hemólise;
 - Hipoplasia de medula óssea associada a hemólise;
 - Hemólise adquirida sem esplenomegalia;
@@ -501,17 +708,26 @@ Tabela 17 - Situações que devem despertar suspeita de hemoglobinúria paroxística
 - Trombose hepática ou mesentérica;
 - Dor abdominal recorrente associada às citopenias;
 - Acidente vascular cerebral ou qualquer episódio trombótico sem risco conhecido.
-Tabela 18 - Formas de fazer o diagnóstico
+
+Tabela 17 - Formas de fazer o diagnóstico
 Achados clínicos	Sintomas de citopenias, fenômenos trombóticos
 Pancitopenia	Associada à reticulocitose
-Evidência de hemólise	DHL aumentada, bilirrubina indireta e reticulócitos aumentados, diminuição da haptoglobi-na – com teste de Coombs direto negativo
+Evidência de hemólise	DHL aumentada, bilirrubina indireta e reticulócitos aumentados, diminuição da haptoglobina – com teste de Coombs direto negativo
 Evidência de hemólise intravascular	Hemoglobinemia, hemoglobinúria
-Testes indiretos da sensibilidade das células à lise pelo complemento	Testes de Ham (lise em meio ácido) e de sacarose (teste de ativação do complemento em meio de baixa força iônica); pouco utilizados na prática por sua baixa sensibilidade
-Citometria de fluxo	Deficiência de GPI detectada por redução na expressão dos antígenos CD55 e CD59 em eritrócitos e granulócitos, sendo o método diagnóstico padrão para essa patologia
+Testes indiretos da sensibilidade das células a lise pelo complemento	Testes de Ham (lise em meio ácido) e de sacarose (teste de ativação do complemento em meio de baixa força iônica); pouco utilizados na prática, por sua baixa sensibilidade
+Citometria de fluxo	Deficiência de GPI detectada por redução na expressão dos antígenos CD55 e CD59 em eri-trócitos e granulócitos, sendo o método diagnóstico padrão para essa patologia
 Biologia molecular	Estudo do gene PIG-A
-O tratamento consiste na suplementação de ácido fólico, suplementação de ferro quando comprovada a associação a carência de ferro pela perda urinária crônica e suporte transfusional nas crises hemolíticas; achava-se que alguns casos se beneficiam de corticoide em baixas doses, androgênios ou imunossupressores, porém todos já se comprovaram ineficazes. Atualmente, tem-se o anticorpo monoclonal anti-C5, inibindo a ativação final do complemento (eculizumabe), droga utilizada com ótimos resultados na diminuição da necessidade transfusional e de eventos trombóticos, apesar do custo ainda bastante elevado, sendo o único medicamento eficaz, até o momento, para essa patologia. Em casos de citopenias graves e persistentes, sem resposta à terapêutica, deve-se considerar o transplante alogênico de células-tronco hematopoéticas, apesar dos resultados de moderado sucesso.
+
+O tratamento consiste na suplementação de ácido fólico, suplementação de ferro quando comprovada a associação a carência de ferro pela perda urinária crônica e suporte transfusional nas crises hemolíticas; achava-se que alguns casos se beneficiam de corticoide em baixas doses, androgênios ou imunossupressores, porém todos já se comprovaram ineficazes. Atualmente, tem-se o anticorpo monoclonal anti-C5 inibindo a ativação final do complemento (eculizumabe), droga utilizada com ótimos resultados na diminuição da necessidade transfusional e de eventos trombóticos, apesar do custo ainda bastante elevado, sendo o único medicamento eficaz, até o momento, para essa patologia. Em casos de citopenias graves e persistentes, sem resposta à terapêutica, deve-se considerar o transplante alogênico de células-tronco hematopoéticas, apesar dos resultados de moderado sucesso.
+
 10. Anemia hemolítica autoimune
-A membrana eritrocitária, além da bicamada lipídica e das proteínas de membrana, possui várias estruturas antigênicas, que identificam os grupos sanguíneos (identificados mais de 300 antígenos). A anemia hemolítica autoimune (AHAI) é uma patologia bem caracterizada, cujo diagnóstico se baseia na demonstração da existência de hemólise, conduzindo a um grau variável de anemia. Anticorpos IgG, IgM, IgA e ativação do sistema complemento contra os antígenos eritrocitários são responsáveis por essa destruição. As AHAIs podem classificar-se em 2 grandes grupos: 
+
+A membrana eritrocitária, além da bicamada lipídica e das proteínas de membrana, possui várias estruturas antigênicas, que identificam os grupos sanguíneos (identificados mais de 300 antígenos). 
+
+Importante
+A anemia hemolítica autoimune é uma patologia bem caracterizada, cujo diagnóstico se baseia na demonstração da exis-tência de hemólise, conduzindo a um grau variável de anemia. 
+
+Anticorpos IgG, IgM, IgA e ativação do sistema complemento contra os antígenos eritrocitários são responsáveis por essa destruição. As anemias hemolíticas autoimunes (AHAIs) podem classificar-se em 2 grandes grupos: 
 1 - De acordo com a temperatura na qual a reação antígeno–anticorpo será máxima:
 Anticorpos quentes: geralmente IgG, que reage à temperatura corpórea de 37°C; representa 70 a 80% de todos os casos de AHAI;
 Anticorpos frios: geralmente IgM, que reage em temperaturas inferiores a 37°C (doença das hemaglutininas frias); constituem 20 a 30% dos casos.
@@ -520,62 +736,75 @@ Extravascular: IgG aderida ao eritrócito rapidamente reconhecida pelos receptore
 Intravascular: IgM que rapidamente ativa a via clássica do complemento, produzindo hemólise intravascular. 
 As AHAIs por anticorpos quentes podem estar associadas a doenças linfoproliferativas, colagenoses (como o lúpus eritematoso sistêmico, a artrite reumatoide e outras), infecções virais (vírus Epstein-Barr, HIV) e tumores sólidos. As AHAIs por anticorpos frios podem ser secundárias a infecções (como micoplasma, mononucleose) e linfoproliferações. Desta forma, diante de um quadro de AHAI, sempre se deve investigar um fator causal, e, em algumas situações, a AHAI pode preceder a doença à qual está relacionada, que deverá ser tratada para o controle adequado do paciente. Quando não se encontra nenhuma causa, trata-se de AHAI idiopática. 
 Inúmeras drogas podem provocar a formação de anticorpos dirigidos contra antígenos eritrocitários e, consequentemente, causar AHAI – as principais classes de medicamentos são cefalosporinas, penicilinas e derivados, AINHs e quinidina. 
-Tabela 19 - Principais mecanismos etiopatogênicos
-Adsorção da droga	A droga (exemplo: penicilina), que funciona como hapteno, liga-se fortemente às proteínas da mem-brana eritrocitária, resultando na síntese de anticorpos dirigidos contra a droga ligada às hemácias.
-Adsorção de imunocomple-xos	Os anticorpos reagem com a droga (quinidina, fenacetina, cefalosporinas de 3ª geração) para formar imunocomplexos que são adsorvidos por receptores específicos das hemácias e podem ativar o sistema do complemento e desencadear hemólise intravascular.
-Indução de autoimunidade	Drogas (alfametildopa, procainamida) alteram antígenos da superfície eritrocitária, induzindo à forma-ção de autoanticorpos, que, inclusive, apresentam reação cruzada com antígenos não alterados, em geral relacionados ao grupo sanguíneo Rh.
+
+Tabela 18 - Principais mecanismos etiopatogênicos
+Adsorção da droga	A droga (exemplo: penicilina), que funciona como hapteno, liga-se fortemente às proteínas da membrana eritrocitária, resultando na síntese de anticorpos dirigidos contra a droga ligada às hemácias.
+Adsorção de imunocomple-xos	Os anticorpos reagem com a droga (quinidina, fenacetina, cefalosporinas de 3ª geração) para formar imu-nocomplexos que são adsorvidos por receptores específicos das hemácias e podem ativar o sistema do complemento e desencadear hemólise intravascular.
+Indução de autoimunidade	Drogas (alfametildopa, procainamida) alteram antígenos da superfície eritrocitária, induzindo à formação de autoanticorpos, que, inclusive, apresentam reação cruzada com antígenos não alterados, em geral rela-cionados ao grupo sanguíneo Rh.
+
 Quando a droga é a responsável pela hemólise, na maioria das vezes, a sua suspensão é suficiente para assegurar a resolução do quadro. Quando o anticorpo tem atividade sobre outras glicoproteínas ou antígenos eritrocitários, o processo é autolimitado e requer cerca de 2 a 12 semanas para a resolução completa do quadro hemolítico após a suspensão da droga. Alguns pacientes permanecem com teste de Coombs direto positivo durante alguns dias após a interrupção do medicamento. Têm sido relatados casos de AHAI, geralmente quadros graves, secundários ao uso de drogas que interferem no sistema imunológico, como fludarabina, pentostatina, tacrolimo e alfainterferona.
 A hemoglobinúria paroxística ao frio, por sua vez, é rara, compreendendo um autoanticorpo IgG que reage ao frio (4°C) e ao calor (37°C) – anticorpo de Donath-Landsteiner. Após a exposição ao frio, constatam-se hemoglobinúria, febre, dor lombar e sintomas de anemia.
+
 A - Diagnóstico 
-Caracteristicamente, encontra-se anemia de instalação rápida, que geralmente pode colocar a vida em risco por sua severidade. Há queixas de astenia e dispneia intensa, muitas vezes podendo haver insuficiência cardíaca e quadros de hipofluxo cerebral grave. Icterícia e esplenomegalia ocorrem frequentemente e, caso o indivíduo apresente uma patologia de base, os sinais e sintomas desta podem ser confundidos com os da AHAI. Nos casos da doença das aglutininas frias, o paciente pode apresentar sintomas relacionados à aglutinação das hemácias na exposição a ambientes frios: acrocianose (coloração azulada da pele nas extremidades – dedos, orelhas e nariz –, que desaparecem após aquecimento).
+Caracteristicamente, encontra-se anemia de instalação rápida, que geralmente pode colocar a vida em risco, por sua severidade. Há queixas de astenia e dispneia intensa, muitas vezes podendo haver insuficiência cardíaca e quadros de hipofluxo cerebral grave. Icterícia e esplenomegalia ocorrem frequentemente, e, caso o indivíduo apresente uma patologia de base, os sinais e sintomas desta podem ser confundidos com os da AHAI. Nos casos da doença das hemaglutininas frias, o paciente pode apresentar sintomas relacionados à aglutinação das hemácias na exposição a ambientes frios: acrocianose (coloração azulada da pele nas extremidades – dedos, orelhas e nariz – que desaparece após aquecimento).
 Os pacientes chegam a níveis de Hb de 3 ou 4g/dL, com reticulocitose intensa e esferócitos no sangue periférico, aumento de DHL e de bilirrubina indireta e diminuição da haptoglobina. Se o estresse sobre a medula óssea for muito intenso, poderão aparecer eritroblastos na circulação periférica.
 Nos casos de hemólise intravascular, ocorre hemoglobinúria, podendo evoluir com insuficiência renal, pelo depósito de Hb livre.
 Cerca de 10% apresentam trombocitopenia imune associada (síndrome de Evans). 
 Utiliza-se o teste de antiglobulina direto (denominado antigamente Coombs direto) para detectar a presença de anticorpos ou complemento aderidos aos antígenos eritrocitários, porém pode estar negativo em aproximadamente 5% dos casos.
 O teste de Coombs indireto (Pesquisa de Anticorpos Irregulares – PAI) detecta a presença de autoanticorpos livres no plasma. Quando a titulação de autoanticorpos é elevada ou a afinidade destes com os eritrócitos é intensa, pode haver positividade inespecífica nas PAIs pré-transfusionais, e as provas cruzadas podem ser positivas a todas as unidades de hemácias testadas, sendo necessárias “manobras” imuno-hematológicas para identificar as bolsas compatíveis em caso de necessidade transfusional.
+
 B - Tratamento
-Como tratamento, sugere-se a suplementação com ácido fólico e o início do uso de prednisona 1mg/kg/d, que pode ser dividida em 2 tomadas para minimizar a intolerância. Se não houver resposta, ou em casos de anemia severa, pode-se fazer pulso com metilprednisolona intravenosa, imunoglobulina intravenosa ou imunossupressão com ciclofosfamida. A esplenectomia fica reservada aos casos mais graves, em que não há resposta clínica às drogas, ou aos de corticodependência ou recidivas frequentes. Em alguns casos refratários, pode-se lançar mão do anticorpo monoclonal anti-CD20 (rituximabe), pois, inibindo os linfócitos B, a síntese de anticorpo também é inibida.
-Nos casos de AHAI por anticorpo frio, como o mecanismo de hemólise se dá por meio da ativação do complemento, o corticoide apresenta benefício limitado, visto que atua modulando a fagocitose; a esplenectomia não está indicada, pois a destruição eritrocitária ocorre em pequena porcentagem no baço. Pode-se, ainda, proceder plasmaférese (procedimento em que ocorre a troca de plasma rico em anticorpos do paciente por plasma normal proveniente de estoques de banco de sangue), porém o tratamento recomendado nessa patologia é o uso de alquilante (clorambucila, ciclofosfamida) ou o rituximabe.
+Como tratamento, sugere-se a suplementação com ácido fólico e o início do uso de prednisona 1mg/kg/d, que pode ser dividida em 2 tomadas para minimizar a intolerância. Se não houver resposta, ou em casos de anemia severa, pode-se fazer pulso com metilprednisolona intravenosa, imunoglobulina intravenosa ou imunossupressão com ciclofosfamida. A esplenectomia fica reservada aos casos mais graves, em que não há resposta clínica às drogas, ou aos de corticodependência ou recidivas frequentes. Em alguns casos refratários, pode-se lançar mão do anticorpo monoclonal anti-CD20 (rituximabe), pois, inibindo os linfócitos B, a síntese de anticorpo também é inibida. 
+
+Tratamento
+Deve-se utilizar prednisona 1mg/kg/d, e, nos casos mais graves ou não responsivos, pode-se fazer a imunossupressão com ciclofosfamida ou utilizar imunoglobulina intravenosa. Além disso, está indicada a suplementação com ácido fólico. 
+
+Nos casos de AHAI por anticorpo frio, como o mecanismo de hemólise se dá por meio da ativação do complemento, o corticoide apresenta benefício limitado, visto que atua modulando a fagocitose; a esplenectomia não está indicada, pois a destruição eritrocitária ocorre em pequena porcentagem no baço. Pode-se, ainda, proceder a plasmaférese (procedimento em que ocorre a troca de plasma rico em anticorpos do paciente por plasma normal proveniente de estoques de banco de sangue), porém o tratamento recomendado nessa patologia é o uso de alquilante (clorambucila, ciclofosfamida) ou o rituximabe.
 A transfusão de concentrados de hemácias deve ser feita apenas nos casos com risco de morte, e serão usadas unidades que apresentem o fenótipo eritrocitário mais compatível com o do receptor, pois as provas cruzadas podem tornar-se invalidadas pela presença dos autoanticorpos.
-11.	Anemias hemolíticas microangiopáticas
-A anemia hemolítica microangiopática, ou hemólise por fragmentação, ocorre por lesão mecânica da membrana eritrocitária durante a circulação, levando a hemólise intravascular e ao aparecimento de esquizócitos, que são os achados característicos dessa síndrome no esfregaço de sangue periférico.
+
+11. Anemias hemolíticas microangiopáticas
+
+A anemia hemolítica microangiopática, ou hemólise por fragmentação, ocorre por lesão mecânica da membrana eritrocitária durante a circulação, levando a hemólise intravascular e aparecimento de esquizócitos, que são os achados característicos dessa síndrome no esfregaço de sangue periférico.
 Quando as hemácias atravessam um vaso onde houve lesão endotelial com deposição local de fibrina e agregação plaquetária no local, sofrem lesões de membrana (cisalhamento). Essa fragmentação acontece em diversas patologias, como na púrpura trombocitopênica trombótica, na síndrome hemolítico-urêmica, na coagulação intravascular disseminada – essas 3 entidades serão mais bem estudadas no capítulo de hemostasia e trombose –, na eclâmpsia, na hipertensão maligna e nas crises de esclerodermia. 
-Além das patologias descritas, o estresse de cisalhamento induzido por próteses valvares, próteses vasculares, aparelhos de circulação extracorpórea e shunts portossistêmicos pode ocasionar anemia macroangiopática, em razão do turbilhonamento não fisiológico.
+Além das patologias descritas, o estresse de cisalhamento induzido por próteses valvares, próteses vasculares, aparelhos de circulação extracorpórea e shunts portossistêmicos pode ocasionar anemia microangiopática, em razão do turbilhonamento não fisiológico.
 A chamada hemólise do corredor ocorre em atletas de alta performance (como fundistas, maratonistas, jogadores de basquete ou praticantes de judô), em que o impacto dos pés contra o chão provoca hemólise mecânica, muitas vezes com hemoglobinúria macroscópica.
+
 12. Resumo
+
 Quadro-resumo
 Anemia pós-hemorrágica
 	Quadro clínico	Laboratório	Conduta
-Hemorragia aguda	1ª fase: choque hipovolêmico	Hb/Hl normal ou pouco diminuído	Reposição volêmica
+Hemorragia aguda	1ª fase: choque hipovolêmico	Hb/Ht normais ou pouco diminuídos	Reposição volêmica
 	2ª fase: sintomas de anemia	Anemia de intensidade proporcional ao sangramento, normo/normo, reticulócito normal ou baixo	Transfusão, se necessário
 	3ª fase: sintomas de anemia	Anemia normo/normo, com reticulócito diminuído (se ferropenia associada) ou aumentado (recuperação medular)	Reposição de ferro
 Hemorragia crônica	Sintomas de anemia	Anemia hipo/micro com reticulócito baixo	Reposição de ferro e resolução do sangramento
 Anemia hemolítica  	Redução da sobrevida eritrocitária
-Alterações laboratoriais 	??Hb, ?? reticulócito, ?? DHL, ???bilirrubina indireta, ? haptoglobina
+Alterações laboratoriais 	? Hb, ?? reticulócito, ?? DHL, ?? bilirrubina indireta, ? haptoglobina
 Quadro clínico	Da síndrome anêmica, geralmente apresentando icterícia e esplenomegalia
 AF
-- Troca de Adenina (A) por Timina (T – GAG-GTG) no códon 6 do gene betaglobina (cromossomo 11) resultante na troca de glutamato por valina, formando HbS;
+- Troca de Adenina (A) por Timina (T) – GAG-GTG – no códon 6 do gene betaglobina (cromossomo 11) resultante da troca de glutamato por valina, formando HbS;
 - HbS desoxigenada tornando-se insolúvel e formando fibras polimerizadas, resultando em alteração da morfologia da hemácia (“em foice”);
-- Consequência: hemólise crônica e fenômenos vaso-oclusivos.
+- Consequência: hemólise crônica e fenômenos vaso-oclusivos;
+- Os pacientes evoluem com autoesplenectomia por múltiplos infartos esplênicos.
 Situações especiais
-Crise álgica	Manifestação clínica mais comum, desencadeada por infecção, desidratação, exercício excessivo, mudanças bruscas na temperatura, hipóxia, menstruação, ingestão de bebida alcoólica ou de forma idiopática
-Crise aplásica	??Hb, ??reticulócito: secundária à infecção por parvovírus B19 ou deficiência de folato
-Sequestro esplênico	??Hb, ?? reticulócito: comum em crianças e beta-HbS. Dor no hipocôndrio esquerdo, choque hipovolêmico, alta mortalidade
-Crise hemolítica	??Hb, ?? reticulócito: geralmente pós-fator desencadeante (infecção, frio, álcool)
-SAT	Febre, dispneia, dor torácica e alteração radiológica; causas: infecção, embolia pulmonar, infarto pulmonar
+Crise álgica	Manifestação clínica mais comum, desencadeada por infecção, desidratação, exercício excessivo, mudanças brus-cas na temperatura, hipóxia, menstruação, ingestão de bebida alcoólica, ou de forma idiopática
+Crise aplásica	? Hb, ? reticulócito: secundária à infecção por parvovírus B19 ou deficiência de folato
+Sequestro esplênico	? Hb, ?? reticulócito: comum em crianças e beta-HbS. Dor no hipocôndrio esquerdo, choque hipovolêmico, alta mortalidade
+Crise hemolítica	? Hb, ?? reticulócito: geralmente pós-fator desencadeante (infecção, frio, álcool)
+STA	Febre, dispneia, dor torácica e alteração radiológica; causas: infecção, embolia pulmonar, infarto pulmonar
 Acidente vascular cerebral	Profilaxia com transfusão crônica a pacientes de alto risco e àqueles que já tiveram 1 episódio
 Traço falciforme
 - HbAS;
-- Não apresenta crises vaso-oclusivas, mas sim expectativa de vida normal;
+- Não apresenta crises vaso-oclusivas, e a expectativa de vida é normal;
 - A medula renal pode sofrer infartos microscópicos: incapacidade de concentrar a urina (hipostenúria) se há infarto da papila renal, e episódios de hematúria macroscópica;
 - Não apresenta risco gestacional, cirúrgico ou anestésico adicional em relação à população normal;
 - Quando em grandes altitudes ou quadros infecciosos graves, tem risco de infarto esplênico. 
 Doença falciforme
-- HbSC, beta-HbS, PHHF: cursam com crises álgicas menos intensas, com esplenomegalia;
-- A AF (HbSS) evolui com autoesplenectomia por múltiplos infartos esplênicos.
+HbSC, beta-HbS, PHHF: cursam com crises álgicas menos intensas, com esplenomegalia.
+Deficiência de G6PD
 Medicamentos que desencadeiam hemólise na deficiência de G6PD
 - Antimaláricos;
-- Naftalina;
+- Naftaleno;
 - Dapsona;
 - Sulfametoxazol;
 - Sulfonas;
@@ -585,9 +814,10 @@ Medicamentos que desencadeiam hemólise na deficiência de G6PD
 - Fenil-hidralazina; 
 - Primaquina;
 - Azul de toluidina; 
-- Analgésicos (acetanilida); 
+- Analgésicos (acetaminofeno); 
 - Vitamina K em forma hidrossolúvel;
 - Ácido nalidíxico.
+AHAI
 Situações relacionadas à AHAI
 Anticorpo quente (IgG)	Doenças linfoproliferativas, colagenoses (lúpus eritematoso sistêmico, artrite reumatoide e outras), infecções virais e tumores sólidos
 Anticorpo frio (IgM)	Infecções (como micoplasma, mononucleose) e linfoproliferações
@@ -598,3 +828,15 @@ Medicamentos relacionados à AHAI
 - Fenacetina;
 - Cefalosporinas de 3ª geração;
 - Procainamida.
+
+Respostas
+1. E
+2. B
+3. A
+4. E
+5. D 
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
