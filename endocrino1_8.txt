@@ -1,15 +1,18 @@
 Osteoporose
-Leandro Arthur Diehl / Rodrigo Antônio Brandão Neto
-1. Definição 
+Leandro Arthur Diehl
+Rodrigo Antônio Brandão Neto
+
+1. Introdução 
+
+Resumo
+Neste capítulo, será apresentada a osteoporose. Há uma grande importância epidemiológica no sexo feminino. O modelo de rastreamento, suas complicações e as estratégias de tratamento devem ser de conhecimento do clínico. A osteoporo-se é o distúrbio osteometabólico mais comum. Os fatores de risco envolvidos são idade avançada (>65 anos), sexo femi-nino, raça branca, baixo peso corpóreo, história familiar de osteoporose ou fraturas de fragilidade, menopausa precoce, tabagismo, etilismo, dieta pobre em cálcio, sedentarismo, imobilização prolongada e uso de corticoides. A osteoporose não apresenta sintomas, mas representa aumento no risco de fraturas. A densitometria por raio x de dupla energia (DE-XA) é o exame padrão-ouro para o diagnóstico. Considera-se osteoporose quando o paciente apresenta escore T <-2,5DP e osteopenia com escore T entre -1 e -2,5DP. Os melhores locais para avaliação da densidade óssea são a coluna lombar e o fêmur total. A densitometria está indicada a todas as mulheres =65 anos, entre outras situações específicas. É reco-mendado repetir a densitometria óssea (DMO) a cada 1 ou 2 anos, para avaliação da densidade óssea e resposta ao tra-tamento. Em >50 anos, é recomendada a ingesta diária de ao menos 1.000 a 1.200mg de cálcio elementar e de 800 a 1.200UI/d de vitamina D3 para prevenção de osteoporose, além de atividade física regular e cessação do tabagismo e etilismo. Pelo escore FRAX® (que leva em conta a etnia do paciente ) indica-se tratamento aos indivíduos com fratura prévia de coluna ou quadril, ou com escore T <-2,5DP, ou com escore T entre -1 e -2,5DP com risco absoluto =3% de fratura de quadril ou =20% de fraturas osteoporóticas maiores em 10 anos. Para o tratamento, temos antirreabsortivos (bisfosfonatos, estrogênio, raloxifeno, tibolona, denosumabe), estimuladores da formação óssea ou anabolizantes ósseos (teriparatida), além das drogas de ação mista (ranelato de estrôncio). Os bisfosfonatos são a 1ª opção na maioria dos ca-sos. A terapia de reposição hormonal (com estrogênio ou tibolona) só está indicada para tratar aqueles com sintomas vasomotores associados ao climatério, já que eleva o risco tromboembólico. Intolerantes aos bisfosfonatos podem usar o raloxifeno, que reduz o risco de câncer de mama, mas pode piorar os sintomas do climatério, devendo ficar restrito a pacientes no pós-menopausa. Aqueles com insuficiência renal grave e intolerantes aos bisfosfonatos podem ter o benefí-cio do denosumabe. A teriparatida é o agente mais potente para aumento da massa óssea e redução de fraturas, sendo boa opção àqueles com risco de fratura extremamente alto que não estão apresentando resposta aos bisfosfonatos. E a calcitonina, por seu efeito analgésico, pode ser utilizada naqueles com dor óssea importante.
 
 Uma vez que o esqueleto é essencial para a vida terrestre, o ser humano adquiriu, durante o processo evolutivo, ossos le-ves que proporcionam rapidez, mobilidade e força suficientes para evitar fraturas, exceto nos traumas mais graves. Com o aumento da idade, ocorrem declínio da função neuromuscular e fraqueza óssea em ambos os sexos (principalmente nas mu-lheres, após a menopausa), aumentando o risco de fraturas.
-Durante muitos anos, a osteoporose foi definida como redução da massa óssea total do esqueleto, que, no entanto, era qualitativamente normal. Mais recentemente, o consenso do National Institutes of Health adotou a seguinte definição:
-
-Doença associada à fragilidade do esqueleto ósseo, caracterizada pela diminuição da densidade óssea (definida por um índice T <-2,5 desvios-padrão à densitometria óssea), com deterioração microarquitetural e risco aumentado de fraturas.
+Durante muitos anos, a osteoporose foi definida como redução da massa óssea total do esqueleto, que, no entanto, era qualitativamente normal. Mais recentemente, o consenso do National Institutes of Health adotou a seguinte definição: doen-ça associada à fragilidade do esqueleto ósseo, caracterizada pela diminuição da densidade óssea (definida por um índice T <-2,5 desvios-padrão à densitometria óssea), com deterioração microarquitetural e risco aumentado de fraturas.
 
 2. Epidemiologia
 
-A osteoporose é o distúrbio osteometabólico mais comum e acomete mais de 200 milhões de mulheres em todo o mundo (cerca de 10.000.000 no Brasil). Atinge cerca de 25% das mulheres brancas com mais de 50 anos (em São Paulo), com a pre-valência aumentando ainda mais devido à progressão da idade. 
+A osteoporose é o distúrbio osteometabólico mais comum e acomete mais de 200.000.000 de mulheres em todo o mun-do (cerca de 10.000.000 no Brasil). Atinge cerca de 25% das mulheres brancas com mais de 50 anos (em São Paulo), com a prevalência aumentando ainda mais devido à progressão da idade. 
 A prevalência crescente é acompanhada de aumento paralelo no número de fraturas. Dados do Reino Unido mostram que o risco de fraturas começa a aumentar após os 55 anos (no sexo feminino) ou após os 65 (no sexo masculino), faixa etária em que a incidência ultrapassa 1% ao ano. A redução da densidade mineral óssea evolui, muitas vezes, sem sintomas, mas aumen-ta em cerca de 2 vezes o risco de fraturas, acarretando grande morbidade e aumento da mortalidade em médio prazo. Um idoso com fratura de colo de fêmur apresenta mortalidade média de 25% ao ano. No Brasil, acredita-se que a osteoporose seja indiretamente responsável pela morte de 40.000 brasileiros por ano. 
 Outro motivo que leva a osteoporose a ser considerada problema de saúde pública é o fato de o custo associado às fratu-ras osteoporóticas ser elevado; dados recentes revelam custo anual direto de 18 bilhões de dólares. Entretanto, menos de 25% das mulheres que já sofreram fratura por osteoporose estão recebendo tratamento apropriado.
 
@@ -47,6 +50,7 @@ O RANKL liga-se ao receptor RANK, nos osteoclastos, estimulando sua diferenciaçã
 C - Mecanismos de perda óssea
 Quando ocorre desequilíbrio entre a formação e a reabsorção óssea (por hiperatividade dos osteoclastos ou por disfun-ção dos osteoblastos), ocorre perda de massa mineral óssea, levando a osteoporose.
 A densidade óssea diminuída é possível tanto por reabsorção óssea aumentada (principal achado na osteoporose pós-menopausa) como por alterações no pico de formação óssea (causando maior risco de osteoporose na vida adulta). O pico de formação é atingido no início da vida adulta (por volta dos 20 aos 30 anos) e está relacionado, principalmente, a fatores gené-ticos (responsáveis por 60 a 80% da variação do pico entre diferentes indivíduos), mas também a fatores ambientais, como a ingestão de cálcio na adolescência e o nível de impacto sobre o esqueleto (atividade física). A reabsorção óssea aumentada, por outro lado, leva a osteoporose, com perda de osso trabecular e porosidade do osso cortical (Figura 2).
+
  
 Figura 2 - (A) Osso normal e (B) com osteoporose 
 
@@ -120,6 +124,10 @@ A deficiência de vitamina D é outra causa secundária importante, extremamente co
 5. Fatores de risco
 
 A - Para desenvolvimento de osteoporose
+
+Dica
+O principal fator de risco do desenvolvimento da osteoporose é a história familiar, com mãe que apresentou fraturas vertebrais ou de colo de fêmur.
+
 O principal fator de risco de desenvolvimento de osteoporose é história familiar. De 60 a 70% das mulheres que desen-volvem osteoporose descendem de mães com história clínica de fraturas vertebrais ou de colo de fêmur. 
 Os fatores genéticos são pouco conhecidos e incluem variações do gene do receptor da vitamina D, de receptores estro-gênicos, do pró-colágeno, entre outros.
 Mulheres após os 50 anos têm risco de fratura vertebral ou de quadril 3 vezes maior e de fratura de punho 6 vezes maior que os homens da mesma faixa etária. As caucasianas e as asiáticas apresentam risco maior do que as negras e as hispânicas, pois estas últimas desenvolvem maior pico de massa óssea e têm menor perda na pós-menopausa. 
@@ -171,6 +179,9 @@ Entretanto, as consequências mais graves são as secundárias às fraturas de quadr
 
 7. Avaliação diagnóstica 
 
+Diagnóstico
+A DMO é indicada para o diagnóstico de osteoporose, pois é um método sensível, preciso, rápido e seguro. 
+
 Há vários métodos para a avaliação da massa óssea: densitometria por raio x de dupla energia (DEXA), tomografia compu-tadorizada, ressonância magnética, ultrassonografia, radiografia simples e biópsia óssea. No entanto, somente a densitometria óssea é indicada para o diagnóstico de osteoporose, pois é um método sensível, preciso, rápido e seguro.
 
 A - Densitometria mineral óssea
@@ -185,8 +196,7 @@ Osteoporose	<-2,5DP
 Osteoporose estabelecida	<-2,5DP, com presença de fratura
 
 Tabela 5 - Risco relativo de fratura para redução de 1DP no escore T
-Locais da DMO	Riscos de fratura 
-vertebral	Riscos de fratura de fêmur
+Locais da DMO	Riscos de fratura vertebral	Riscos de fratura de fêmur
 Colo do fêmur	2,6	1,8
 Coluna vertebral	1,6	2,3
 Rádio distal	1,8	1,7
@@ -196,7 +206,7 @@ Os locais mais investigados pela DMO são a coluna lombar (posteroanterior e perf
 O exame da coluna lombar na posição posteroanterior avalia o segmento de L1 a L4 e é o de melhor sensibilidade para a monitorização terapêutica (Figura 3). 
 
  
-Figura 3 - Laudo de DMO da coluna lombar, demonstrando osteoporose (escore T -2,7 em L2-L4)
+Figura 3 - Laudo de densitometria mineral óssea da coluna lombar, demonstrando osteoporose (escore T -2,7 em L2-L4)
 
 A análise do fêmur proximal envolve a medida de DMO em 3 regiões: o colo do fêmur, o trocânter maior e a região do tri-ângulo de Wards. Contudo, a área de Wards não pode ser usada para o diagnóstico, pois superestima o percentual esperado de osteoporóticos. 
 A avaliação da DMO do antebraço é realizada, principalmente, nos pacientes com hiperparatireoidismo primário, pois a perda óssea tende a afetar, predominantemente, o osso cortical, que pode ser bem avaliado na diáfise do rádio.
@@ -224,7 +234,7 @@ Osteoporose com fratura prévia
 - Cálcio;
 - Fósforo;
 - Calciúria de 24 horas;
-- 25-OH-hidroxivitamina D;
+- 25-hidroxivitamina D;
 - TSH;
 - Fosfatase alcalina;
 - Eletroforese de proteínas;
@@ -256,13 +266,16 @@ A dosagem dos marcadores bioquímicos pode ser realizada após 3 meses de início d
 
 A National Osteoporosis Foundation, nos seus últimos guidelines, de 2014, recomenda o rastreamento usando a medida de DMO nas situações apresentadas na Tabela 8. 
 
-Tabela 8 - Indicações de DMO para screening 
+Tabela 8 - Indicações de densitometria mineral óssea para screening 
 - Mulheres =65 anos e homens =70 anos, independente da presença de fatores de risco;
 - Mulheres pós-menopausa <65 anos e homens entre os 50 e os 69 anos com fatores de risco para fratura;
 - Adultos que tiveram uma fratura após os 50 anos;
 - Adultos com alguma condição (exemplo: artrite reumatoide) ou em uso de medicação (exemplo: corticoide) associada a perda de massa óssea.
 
 9. Tratamento
+
+Tratamento
+Consistem no tratamento não medicamentoso: dieta, exercícios e combate ao tabagismo; e tratamento medicamentoso: principalmente bisfosfonatos.
 
 A - Prevenção
 Inclui medidas como a otimização do pico de massa óssea no adulto jovem, por meio de atividade física e ingesta adequada de cálcio, e a restrição da perda de massa óssea, por combate ao tabagismo, etilismo e sedentarismo. 
@@ -292,25 +305,24 @@ Suplementos (uso obrigatório)	- Sais de cálcio;
 Inibidores da reabsorção óssea	- Bisfosfonatos;
 	- Estrogênio;
 	- SERMs;
-	- Denosumab.
-Estimuladores da formação óssea	- Teriparatida.
-Ação mista (inibidor da reabsorção e estimulador da formação óssea)	Ranelato de estrôncio
+	- Denosumabe.
+Estimuladores da formação óssea	Teriparatida
+Ação mista (inibidor da reabsorção e estimulador da formação ós-sea)	Ranelato de estrôncio
 
 A eficácia das diferentes drogas na prevenção de fraturas está apresentada na Tabela 10. Na maioria dos casos, a 1ª linha de tratamento será o uso dos bisfosfonatos, por sua boa eficácia na prevenção de fraturas, baixo custo e bom perfil de tole-rabilidade. 
 Um lembrete importante: sempre que se indica tratamento medicamentoso específico para osteoporose, deve-se associ-ar suplementação de cálcio e vitamina D para garantir a ingesta mínima recomendada (ao menos 800 a 1.200mg/d de cálcio elementar e ao menos 800 a 1.200UI/d de vitamina D3), bem como todas as medidas não farmacológicas já comentadas.
 
 Tabela 10 - Eficácia dos diferentes medicamentos na prevenção de fraturas
-Medicamentos	Prevenção de fraturas vertebrais	Prevenção de fraturas não 
-vertebrais
+Medicamentos	Prevenção de fraturas vertebrais	Prevenção de fraturas não vertebrais
 Cálcio + vitamina D3	+	+
 Alendronato	+	+
 Risedronato	+	+
-Ibandronato oral ou intra-venoso	+	+
+Ibandronato oral ou intravenoso	+	+
 Zolendronato intravenoso	+	+
 Estrogênio	+	+
 SERMs (raloxifeno)	+	-
 Tibolona	+	+
-Denosumab	+	+
+Denosumabe	+	+
 Teriparatida	+	+
 Ranelato de estrôncio	+	+
 Calcitonina	+	-
@@ -320,23 +332,21 @@ Fluoreto	-	-
 a) Quando iniciar o tratamento medicamentoso?
 O tratamento medicamentoso deve ser indicado não apenas com base no valor da densidade mineral óssea, medida pela densitometria, mas também pelo risco de fraturas do paciente, que pode ser medido com outras ferramentas. A American Association of Clinical Endocrinologists recomenda o tratamento da osteoporose pós-menopausa nas mulheres com escore T <-2,5DP, ou nos pacientes com escore T <-1,5DP e com fatores de risco associados, ou nas mulheres com fratura prévia por fragilidade (na coluna lombar ou no fêmur).
 Já a National Osteoporosis Foundation, no seu último consenso, de 2014, recomenda que o uso de medicamentos especí-ficos para osteoporose seja iniciado em mulheres pós-menopausadas ou homens com 50 anos ou mais, que apresentem um dos seguintes:
-- Fratura vertebral ou de quadril (clinicamente aparente ou apenas observada à radiografia);
-- Escore T <-2,5DP no colo do fêmur, quadril total, ou coluna lombar;
-- Escore T entre -1,0 e -2,5DP no colo do fêmur ou coluna lombar, com risco estimado de fratura de quadril =3% ou de al-guma fratura osteoporótica =20% em 10 anos. 
+Fratura vertebral ou de quadril (clinicamente aparente ou apenas observada à radiografia);
+Escore T <-2,5DP no colo do fêmur, quadril total, ou coluna lombar;
+Escore T entre -1,0 e -2,5DP no colo do fêmur ou coluna lombar, com risco estimado de fratura de quadril =3% ou de al-guma fratura osteoporótica =20% em 10 anos. 
 Para a estimativa do risco individual de fraturas, a National Osteoporosis Foundation sugere a adoção de um escore de ris-co, chamado escore FRAX®, que leva em conta não só o valor do escore Z, mas ainda etnia, idade, sexo, peso, altura, história prévia de fratura (pessoal ou parente de 1º grau), tabagismo, uso de corticoides, etilismo, presença de artrite reumatoide ou outra causa de osteoporose secundária (Figura 4). O escore pode ser calculado usando uma ferramenta on­line, livremente disponível em www.shef.ac.uk/FRAX/tool.jsp?lang=pt.
 Já há a possibilidade, inclusive, de calcular o risco individual de fraturas para mulheres brasileiras, clicando na opção “Bra-zil”, dentro da ferramenta FRAX®, disponível on-line. 
 Uma vantagem do escore é que ele permite o cálculo do risco de fraturas totais de colo de fêmur baseado apenas nas ca-racterísticas demográficas (etnia, idade, altura) e clínicas (presença de fatores de risco, história prévia de fratura), sem neces-sitar dados da densitometria. Dessa forma, se uma paciente já for considerada de alto risco de fraturas, já se deve considerar iniciar o tratamento específico para osteoporose e prevenção de fraturas, antes mesmo de avaliar o resultado da densitome-tria. No entanto, o acréscimo da densidade mineral óssea, obtida pela densitometria, possibilita estimativa mais acurada do risco de fraturas.
-
  
 Figura 4 - Calculadora on-line para o escore FRAX®, para brasileiras
 Fonte: http://www.shef.ac.uk/FRAX/tool.jsp.
 
 b) Bisfosfonatos
 São análogos dos pirofosfatos, organificados na matriz óssea, onde agem inibindo a reabsorção mediada por osteoclastos por estimularem a apoptose destes, levando, ainda, à diminuição indireta da atividade dos osteoblastos. Reduzem o risco de fraturas de colo de fêmur e coluna de pacientes com lesões prévias ou com fatores de risco. 
-Os bisfosfonatos orais (alendronato, risedronato, ibandronato) devem ser tomados em jejum, com 1 ou 2 copos d’água. Deve-se orientar a não ingerir alimentos ou outros medicamentos e não deitar por, no mínimo, 30 minutos, a fim de melhorar a absorção da droga e reduzir o risco de esofagite. No tratamento da osteoporose, o alendronato é usado em dose diária de 10mg ou semanal de 70mg, e o risedronato, em dose diária de 5mg ou semanal de 35mg. O ibandronato pode ser usado por via oral (150mg 1x/mês) ou intravenosa (3mg a cada 3 meses). Outra opção é o zolendronato, em dose única anual (5mg IV).
-Na prevenção da osteoporose, a pacientes com escore T >-2,5DP, mas <-1,5 ou -2DP com alto risco de fraturas, uma alter-nativa são bisfosfonatos em dose menor (metade da dose de tratamento): alendronato 5mg/d ou risedronato 2,6mg/d.
-Os efeitos adversos das drogas orais estão, principalmente, relacionados ao trato gastrintestinal, como náuseas, vômito e queimação retroesternal resultantes da inflamação da mucosa do esôfago e, raramente, ulceração esofágica. Deve-se ter cuidado com seu uso em pacientes com doenças gastroesofágicas ou em uso de anti-inflamatórios, situação em que pode ser preferível o uso de bisfosfonatos injetáveis. Os efeitos adversos mais comuns das drogas intravenosas são febre e mialgia nos primeiros dias após a administração, contornáveis com hidratação adequada e analgésicos/antitérmicos. Com o zolendronato injetável, foi descrito risco discretamente aumentado de fibrilação atrial em idosos. Outro efeito adverso temido das drogas injetáveis é a osteonecrose da mandíbula.
-
+Os bisfosfonatos orais (alendronato, risedronato, ibandronato) devem ser tomados em jejum, com 1 ou 2 copos de água. Deve-se orientar a não ingerir alimentos ou outros medicamentos e não deitar por, no mínimo, 30 minutos, a fim de melhorar a absorção da droga e reduzir o risco de esofagite. No tratamento da osteoporose, o alendronato é usado em dose diária de 10mg ou semanal de 70mg, e o risedronato, em dose diária de 5mg ou semanal de 35mg. O ibandronato pode ser usado por via oral (150mg 1x/mês) ou intravenosa (3mg a cada 3 meses). Outra opção é o zolendronato, em dose única anual (5mg IV).
+Na prevenção da osteoporose, a pacientes com escore T >-2,5DP, mas <-1,5 ou -2DP com alto risco de fraturas, uma alter-nativa são bisfosfonatos em dose menor (metade da dose de tratamento): alendronato 5mg/d ou risedronato 2,5mg/d.
+Os efeitos adversos das drogas orais estão, principalmente, relacionados ao trato gastrintestinal, como náuseas, vômito e queimação retroesternal resultantes da inflamação da mucosa do esôfago e, raramente, ulceração esofágica. Deve-se ter cuidado com seu uso em pacientes com doenças gastroesofágicas ou em uso de anti-inflamatórios, situação em que pode ser preferível o uso de bisfosfonatos injetáveis. Os efeitos adversos mais comuns das drogas intravenosas são febre e mialgia nos primeiros dias após a administração, contornáveis com hidratação adequada e analgésicos/antitérmicos. Com o zolendronato injetável, foi descrito risco discretamente aumentado de fibrilação atrial em idosos. Outro efeito adverso incomum, mas po-tencialmente grave, dos bisfosfonatos injetáveis, é a osteonecrose da mandíbula.
 
  
 Figura 5 - Osteonecrose da mandíbula por uso de bisfosfonato
@@ -356,8 +366,8 @@ São contraindicados a pacientes com doença tromboembólica, pois aumentam o risco
 e) Tibolona
 Trata-se de um esteroide sintético, com metabólitos de ação estrogênica, androgênica e progestogênica. Reduz o risco de fraturas vertebrais e não vertebrais, além de reduzir a incidência de câncer de mama e de câncer colorretal, mas seu uso em mulheres idosas se associou a risco aumentado de acidente vascular cerebral e fenômenos tromboembólicos. É considerada terapia de 2ª linha a pacientes com sintomas vasomotores associados à menopausa e com contraindicação à terapia de repo-sição hormonal. A dose proposta é de 1,25 a 2,5mg/d.
 
-f) Denosumab
-O denosumab é um anticorpo monoclonal dirigido contra o RANKL. Essa molécula é um ligante do receptor RANK, locali-zado nos osteoclastos, cuja ação é estimular a reabsorção óssea por aumento da osteoclastogênese. O bloqueio da ligação do RANKL ao seu receptor, com o uso do denosumab, reduz a osteoclastogênese e consequentemente a reabsorção óssea. Em vários estudos, essa medicação reduziu o risco de fraturas vertebrais, não vertebrais e de quadril, em mulheres pós-menopausa. Os efeitos adversos mais comuns são dor musculoesquelética, hipercolesterolemia e cistite. Reações cutâneas e hipocalcemia são incomuns, mas é melhor evitar seu uso em pacientes já portadores de hipocalcemia ou deficiência de vita-mina D, devendo-se primeiramente fazer a reposição desses elementos. Pode ser usado em pacientes com insuficiência renal grave (taxa de filtração glomerular <30mL/min), desde que se façam o uso concomitante de cálcio e vitamina D e a monitori-zação cuidadosa para detecção de eventual hipocalcemia, mais comum nessa população. O denosumab geralmente é reser-vado a intolerantes aos bisfosfonatos ou com doença renal crônica. A posologia habitual é 60mg SC, 1x/6 meses.
+f) Denosumabe
+O denosumabe é um anticorpo monoclonal dirigido contra o RANKL. Essa molécula é um ligante do receptor RANK, locali-zado nos osteoclastos, cuja ação é estimular a reabsorção óssea por aumento da osteoclastogênese. O bloqueio da ligação do RANKL ao seu receptor, com o uso do denosumabe, reduz a osteoclastogênese e consequentemente a reabsorção óssea. Em vários estudos, essa medicação reduziu o risco de fraturas vertebrais, não vertebrais e de quadril, em mulheres pós-menopausa. Os efeitos adversos mais comuns são dor musculoesquelética, hipercolesterolemia e cistite. Reações cutâneas e hipocalcemia são incomuns, mas é melhor evitar seu uso em pacientes já portadores de hipocalcemia ou deficiência de vita-mina D, devendo-se primeiramente fazer a reposição desses elementos. Pode ser usado em pacientes com insuficiência renal grave (taxa de filtração glomerular <30mL/min), desde que se façam o uso concomitante de cálcio e vitamina D e a monitori-zação cuidadosa para detecção de eventual hipocalcemia, mais comum nessa população. O denosumabe geralmente é reser-vado a intolerantes aos bisfosfonatos ou com doença renal crônica. A posologia habitual é 60mg SC, 1x/6 meses.
 
 g) Teriparatida (hormônio da paratireoide – PTH – recombinante) 
 A teriparatida é um análogo do PTH, representado pelos primeiros 34 aminoácidos da sua porção aminoterminal, retendo, entretanto, a atividade biológica da molécula intacta. O PTH, curiosamente, apresenta efeitos diferentes sobre a massa óssea, dependendo da sua concentração e da forma de administração. Enquanto doses altas de PTH aumentam a reabsorção e, ao mesmo tempo, reduzem a massa óssea (como no hiperparatireoidismo primário), doses baixas e intermitentes (como as obti-das com o uso de injeções subcutâneas desse análogo) promovem a formação óssea e o aumento da densidade mineral na coluna e no quadril. Portanto, o efeito é anabólico (estímulo à formação óssea pelos osteoblastos), diferentemente do obser-vado com os bisfosfonatos ou o estrogênio, que são anticatabólicos (redução da reabsorção óssea pelos osteoclastos). É um potente estimulador do ganho de massa óssea e, atualmente, o tratamento mais eficiente para aumentar a densidade mineral óssea e reduzir o risco de fraturas.
@@ -377,37 +387,65 @@ Tabela 11 - Características das principais drogas usadas no tratamento
 Drogas	Ações	Indicações	Efeitos adversos	Contraindicações
 Bisfosfonatos	Inibição da ação reabsorti-va dos osteoclastos	Prevenção e tratamento das várias formas de osteoporose; 1ª opção na maioria dos casos	- Orais: esofagite, dispepsia;
 - Intravenosos: mialgia, febre.	Refluxo gastroesofágico grave (drogas orais), hipocalcemia
-Estrogênio	Redução de fatores infla-matórios e inibição da reabsorção óssea	Prevenção e tratamento da osteoporose a mu-lheres com sintomas do climatério (fogachos)	Doença cardiovascular, tromboembolismo, câncer de mama (associados a progestogênios)	Tromboembolismo, tabagismo, hepatopatia, história familiar ou pessoal de câncer de mama
-SERMs (raloxi-feno)	Semelhante à do estrogê-nio	Prevenção e tratamento da osteoporose a mu-lheres com alto risco de câncer de mama	Fogachos, tromboembolis-mo	Tromboembolismo
-Denosumab	Inibição da ação reabsorti-va dos osteoclastos	Tratamento da osteopo-rose em pacientes intolerantes aos bisfos-fonatos ou com insufici-ência renal (taxa de filtração glomerular <30mL/min)	Dor muscular, cistite, hipo-calcemia, reações cutâneas no local da injeção	Hipocalcemia ou deficiência de vitamina D (fazer primeiramente a reposição)
+Estrogênio	Redução de fatores infla-matórios e inibição da reabsorção óssea	Prevenção e tratamento da osteoporose a mulhe-res com sintomas do climatério (fogachos)	Doença cardiovascular, tromboembolismo, câncer de mama (associados a progestogênios)	Tromboembolismo, tabagismo, hepatopatia, história familiar ou pessoal de câncer de mama
+SERMs (raloxi-feno)	Semelhante à do estrogê-nio	Prevenção e tratamento da osteoporose a mulhe-res com alto risco de câncer de mama	Fogachos, tromboembolismo	Tromboembolismo
+Denosumabe	Inibição da ação reabsorti-va dos osteoclastos	Tratamento da osteopo-rose em pacientes into-lerantes aos bisfosfona-tos ou com insuficiência renal (taxa de filtração glomerular <30mL/min)	Dor muscular, cistite, hipo-calcemia, reações cutâneas no local da injeção	Hipocalcemia ou deficiência de vitamina D (fazer primeiramente a reposição)
 Teriparatida	Anabólica; aumento da formação óssea	Osteoporose grave, alto risco de fraturas, falta de resposta aos bisfos-fonatos	Hipercalcemia, hipercalciú-ria, aumento do risco de osteossarcoma	Neoplasia óssea, elevação da fosfatase alcalina, doença de Paget óssea
-Estrôncio	Ação mista, anabólica e antirreabsortiva	Pacientes intolerantes aos demais medica-mentos para osteoporo-se	Raros	Insuficiência renal (taxa de filtra-ção glomerular <30mL/min) e alto risco de tromboembolismo
+Estrôncio	Ação mista, anabólica e antirreabsortiva	Pacientes intolerantes aos demais medicamen-tos para osteoporose	Raros	Insuficiência renal (taxa de filtra-ção glomerular <30mL/min) e alto risco de tromboembolismo
 Calcitonina	Inibição (fraca) da ação reabsortiva dos osteoclas-tos e analgesia óssea	Osteoporose com fratu-ra vertebral dolorosa	- Nasal: rubor facial, conges-tão nasal; 
 - Subcutânea: náuseas.	Hipocalcemia
+
+Pergunta
+2014 - AMP
+1. Uma paciente, de 66 anos, na menopausa há 16 anos, o procura preocupada com o resultado da densitometria óssea de coluna lombar mostrada na Tabela a seguir: 
+
+	IMC	Jovem adulto
+Região	(g/m2)	(%)	Escore T
+L1	0,987	87	-1,2
+L2	0,930	78	-2,2
+L3	1,053	88	-1,2
+L4	0,961	80	-2
+L1-L4	0,983	83	-1,6
+L2-L4	0,982	82	-1,8
+Com base na análise desta densitometria, assinale a alternativa correta: 
+a) a densitometria é normal
+b) a paciente tem osteopenia
+c) a paciente tem osteoporose
+d) somente há osteoporose em L2
+e) a densitometria não é um bom exame para avaliar a densidade óssea
+Resposta no final do capítulo
 
 10. Resumo
 
 Quadro-resumo
-- 	A osteoporose é o distúrbio osteometabólico mais comum, atingindo grande número de mulheres, com aumento da morbimortalidade e alto custo para manejo;
-- 	Os principais fatores de risco são idade avançada (>65 anos), sexo feminino, raça branca, baixo peso corpóreo, história familiar de osteoporose ou fraturas de fragilidade, menopausa precoce, tabagismo, etilismo, dieta pobre em cálcio, sedentaris-mo, imobilização prolongada e uso de corticoides;
+- 	A osteoporose é o distúrbio osteometabólico mais comum, atingindo grande número de mulheres, com aumento da morbi-mortalidade e alto custo para manejo;
+- 	Os principais fatores de risco são idade avançada (>65 anos), sexo feminino, raça branca, baixo peso corpóreo, história famili-ar de osteoporose ou fraturas de fragilidade, menopausa precoce, tabagismo, etilismo, dieta pobre em cálcio, sedentarismo, imobili-zação prolongada e uso de corticoides;
 - 	A osteoporose não apresenta sintomas, mas representa aumento de 1,5 a 3 vezes no risco de fraturas, principalmente em punhos, vértebras e fêmur proximal;
 - 	A fratura de colo de fêmur em idosos está relacionada com mortalidade elevada, em torno de 25% ao ano. Além disso, 1/3 dos pacientes que sofrem essa fratura torna-se dependente; 
-- 	O exame padrão-ouro para o diagnóstico de osteoporose é a DEXA. Considera-se osteoporose quando o paciente apre-senta escore T <-2,5DP e osteopenia com escore T entre -1 e -2,5DP (em comparação à média de adultos jovens do mesmo se-xo);
+- 	O exame padrão-ouro para o diagnóstico de osteoporose é a DEXA. Considera-se osteoporose quando o paciente apresenta escore T <-2,5DP e osteopenia com escore T entre -1 e -2,5DP (em comparação à média de adultos jovens do mesmo sexo);
 - 	A DMO, avaliada pelo escore T, é o melhor preditor de risco de fraturas; 
 - 	Os melhores locais para avaliação da densidade óssea, pela DMO, são a coluna lombar e o fêmur total; 
 - 	A DMO está indicada a todas as mulheres =65 anos e os homens =70 anos, bem como homens >50 anos ou mulheres pós-menopausa que apresentem fatores de risco para osteoporose, adultos com fraturas depois dos 50 anos, ou usuários de medicação ou portadores de condições associadas a baixa massa óssea;
 - 	É recomendado repetir a DMO a cada 1 ou 2 anos, para avaliação da densidade óssea e resposta ao tratamento;
 - 	Os marcadores bioquímicos podem ajudar a avaliar a eficácia do tratamento; 
-- 	Em indivíduos >50 anos, é recomendada ingesta diária de ao menos 1.000 a 1.200mg de cálcio elementar e de 800 a 1.200UI/d de vitamina D3 para prevenção de osteoporose, além de atividade física regular e cessação do tabagismo e do etilis-mo;
--	A National Osteoporosis Foundation recomenda que a decisão de iniciar tratamento específico para osteoporose seja baseada no risco individual de fratura, pelo escore FRAX®. Indica-se tratamento aos indivíduos com fratura prévia de coluna ou quadril, ou com escore T <-2,5DP, ou com escore T entre -1 e -2,5DP com risco absoluto =3% de fratura de quadril ou =20% de fraturas os-teoporóticas maiores em 10 anos pelo escore FRAX®;
-- O escore FRAX® leva em conta a etnia do paciente e já pode ser usado para calcular o risco de fratura de mulheres brasileiras, pois a ferramenta já inclui dados específicos da nossa população. Portanto, pode ser usado para decidir quais pacientes brasilei-ras são candidatas a tratamento específico para osteoporose;
-- 	As drogas usadas para tratamento são antirreabsortivos (bisfosfonatos, estrogênio, raloxifeno, tibolona, denosumab), estimuladores da formação óssea ou anabolizantes ósseos (teriparatida), além das drogas de ação mista (ranelato de estrôn-cio);
-- 	Sempre que se indica medicamento específico para tratamento de osteoporose, deve-se prescrever a reposição conco-mitante de cálcio (800 a 1.200mg/d de cálcio elementar) e vitamina D (pelo menos 800 a 1.200UI/d, ou mais), assim como as medidas não farmacológicas para prevenir quedas e fraturas;
+- 	Em indivíduos >50 anos, é recomendada ingesta diária de ao menos 1.000 a 1.200mg de cálcio elementar e de 800 a 1.200UI/d de vitamina D3 para prevenção de osteoporose, além de atividade física regular e cessação do tabagismo e do etilismo;
+-	A National Osteoporosis Foundation recomenda que a decisão de iniciar tratamento específico para osteoporose seja baseada no risco individual de fratura, pelo escore FRAX®. Indica-se tratamento aos indivíduos com fratura prévia de coluna ou quadril, ou com escore T <-2,5DP, ou com escore T entre -1 e -2,5DP com risco absoluto =3% de fratura de quadril ou =20% de fraturas osteoporóticas maiores em 10 anos pelo escore FRAX®;
+- O escore FRAX® leva em conta a etnia do paciente e já pode ser usado para calcular o risco de fratura de mulheres brasileiras, pois a ferramenta já inclui dados específicos da nossa população. Portanto, pode ser usado para decidir quais pacientes brasileiras são can-didatas a tratamento específico para osteoporose;
+- 	As drogas usadas para tratamento são antirreabsortivos (bisfosfonatos, estrogênio, raloxifeno, tibolona, denosumabe), esti-muladores da formação óssea ou anabolizantes ósseos (teriparatida), além das drogas de ação mista (ranelato de estrôncio);
+- 	Sempre que se indica medicamento específico para tratamento de osteoporose, deve-se prescrever a reposição concomitante de cálcio (800 a 1.200mg/d de cálcio elementar) e vitamina D (pelo menos 800 a 1.200UI/d, ou mais), assim como as medidas não farmacológicas para prevenir quedas e fraturas;
 - Deve-se evitar o uso de suplementos de cálcio sem vitamina D, pois o uso de cálcio isoladamente aumenta o risco de infarto agudo do miocárdio;
-- 	As drogas que reduzem a incidência de fraturas vertebrais e não vertebrais são os bisfosfonatos, o estrogênio, a tibolo-na, o denosumab, o teriparatida e o ranelato de estrôncio. A calcitonina e o raloxifeno reduzem apenas o risco de fraturas verte-brais;
+- 	As drogas que reduzem a incidência de fraturas vertebrais e não vertebrais são os bisfosfonatos, o estrogênio, a tibolona, o denosumabe, o teriparatida e o ranelato de estrôncio. A calcitonina e o raloxifeno reduzem apenas o risco de fraturas vertebrais;
 - 	Os bisfosfonatos são a 1ª opção na maioria dos casos de osteoporose e podem ser usados por via oral ou intravenosa;
-- 	A terapia de reposição hormonal (com estrogênio ou tibolona) só está indicada para tratamento àquelas com sintomas vasomotores associados ao climatério. Pode aumentar o risco de fenômenos tromboembólicos;
-- 	O raloxifeno pode ser usado em mulheres pós-menopausadas intolerantes aos bisfosfonatos, desde que estas não apre-sentem sintomas do climatério (que podem piorar com o uso da medicação). Além disso, reduz o risco de câncer de mama;
-- O denosumab pode ser uma opção nos pacientes intolerantes aos bisfosfonatos ou com insuficiência renal grave (taxa de filtra-ção glomerular <30mL/min), mas antes de usá-lo deve-se avaliar e corrigir hipocalcemia ou deficiência de vitamina D;
+- 	A terapia de reposição hormonal (com estrogênio ou tibolona) só está indicada para tratamento àquelas com sintomas vaso-motores associados ao climatério. Pode aumentar o risco de fenômenos tromboembólicos;
+- 	O raloxifeno pode ser usado em mulheres pós-menopausadas intolerantes aos bisfosfonatos, desde que estas não apresen-tem sintomas do climatério (que podem piorar com o uso da medicação). Além disso, reduz o risco de câncer de mama;
+- O denosumabe pode ser uma opção nos pacientes intolerantes aos bisfosfonatos ou com insuficiência renal grave (taxa de filtração glomerular <30mL/min), mas antes de usá-lo deve-se avaliar e corrigir hipocalcemia ou deficiência de vitamina D;
 - 	A teriparatida (PTH 1-34) é o agente mais potente para aumento da massa óssea e redução de fraturas, sendo boa opção aos pacientes com risco de fratura extremamente alto que não estão apresentando resposta aos bisfosfonatos;
 - 	A calcitonina pode ser utilizada por aqueles com dor óssea importante, já que apresenta bom efeito analgésico.
+
+Resposta
+1. B
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
