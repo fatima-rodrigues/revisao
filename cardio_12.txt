@@ -1,70 +1,108 @@
 Valvulopatias
-José Paulo Ladeira / Rodrigo Antônio Brandão Neto / Fabrício Nogueira Furtado
+José Paulo Ladeira
+Rodrigo Antônio Brandão Neto
+Fabrício Nogueira Furtado
+
+
+Resumo
+Este capítulo ilustra os achados clínicos, os métodos diagnósticos e as estratégias terapêuticas relacionadas às valvopatias. Lembrando as mais recorrentes e suas principais características, temos que a estenose aórtica pode cursar com sintomas de angina, dispneia aos esforços e síncope de esforço, que, ao exame, apresenta sopro sistólico ejetivo com irradiação para as carótidas e pulso parvus et tardus, e cujo tratamento é feito com diuréticos, digitálicos e vasodilatadores, exceto inibidores da enzima conversora de angiotensina para a forma grave e troca valvar ou valvuloplastia por cateterismo; temos que a insu-ficiência aórtica pode cursar sem sintomas, até palpitações e angina ou, ainda, com evolução para insuficiência cardíaca com dispneia e ortopneia, que a pressão arterial diastólica pode ficar mais baixa, que, ao exame, temos sopro diastólico leve, decrescente no 3º espaço intercostal, o qual, quando percebido no ápice cardíaco, é chamado sopro de Austin Flint, e que o segmento é feito nos quadros leves e moderados, sendo vasodilatadores, diuréticos e nitratos feitos para o controle dos sintomas, enquanto se aguarda a cirurgia nos casos mais sintomáticos; e temos que a estenose mitral pode cursar com dis-pneia aos esforços, ortopneia e dispneia paroxística noturna e que, ao exame, encontram-se estalido de abertura, B1 hiper-fonética e sopro diastólico ruflante. Além disso, fibrilação atrial é frequente, e o tratamento é feito com diuréticos e restri-ção de sal na congestão, valvuloplastia mitral com balão ou troca valvar.
 
 1. Estenose aórtica
+
 A - Introdução
 A Estenose Aórtica (EA) decorre de estreitamento no orifício valvar causado pela falência dos folhetos valvares em se abrirem normalmente (Figura 1). A redução desse orifício produz perda de energia na impulsão do volume sistólico, com fluxo turbulento que determina aumento do trabalho cardíaco e da pós-carga ventricular. Como consequência, surge a hiper-trofia ventricular esquerda, o principal mecanismo compensatório da estenose. O diagnóstico é confirmado por meio de história clínica e exame físico, ecocardiograma e cateterismo cardíaco. As causas principais de EA são válvula bicúspide con-gênita, EA congênita, degeneração valvar com calcificação dos folhetos sem fusão das comissuras e febre reumática. As últi-mas 2 causas são responsáveis por cerca de 70% dos casos.
- 
-Figura 1 - Válvula normal e com EA
+  
+Figura 1 - Válvula normal e válvula com estenose aórtica
+
 B - Quadro clínico
+
 a) Sinais e sintomas
-Os sinais e os sintomas clássicos da EA são angina, síncope de esforço e Insuficiência Cardíaca Congestiva (ICC), esta última a forma mais frequente de apresentação clínica. O início desses sintomas é considerado marco no seguimento do paciente, sendo a média de sobrevida pós-início dos sintomas de 2 a 3 anos com alto risco de morte súbita. A morte súbita entre indiví-duos com EA assintomática é rara: menos de 1%.  
+
+Quadro clínico
+Os sinais e os sintomas clássicos da estenose aórtica são angina, síncope de esforço e insuficiência cardíaca congestiva, esta última a forma mais frequente de apresentação clínica. O início desses sintomas é considerado marco no seguimento do paciente, sendo a média de sobrevida pós-início dos sintomas de 2 a 3 anos, com alto risco de morte súbita. A morte súbita entre indivíduos com estenose aórtica assintomática é rara: menos de 1%.  
+
 Angina: acontece em resposta à isquemia miocárdica que se desenvolve pelo aumento do consumo de oxigênio pelo mio-cárdio. Em geral, a angina associada à EA ocorre sem doença coronariana. A hipertrofia ventricular concêntrica, que acontece como resposta compensatória ao aumento da pós-carga, determina elevação da tensão transmural do miocár-dio, o que causa aumento do consumo de oxigênio, nem sempre acompanhado do aumento da oferta, determinando a angina;
 Síncope de esforço: durante o exercício físico, a resistência vascular sistêmica diminui. Pela existência da estenose, o débi-to cardíaco não consegue compensar a diminuição da resistência para manter a pressão arterial média constante, cau-sando hipofluxo cerebral e síncope;
-ICC: as falências ventriculares sistólica e diastólica esquerdas acontecem na EA concomitantemente, determinando sinto-mas de dispneia aos esforços, assim como ortopneia e dispneia paroxística noturna. Em alguns pacientes, podem ocorrer hipertensão pulmonar e insuficiência cardíaca direita. A insuficiência ventricular esquerda decorre da perda progressiva dos elementos contráteis causada pela hipertrofia concêntrica e pela isquemia miocárdica que acompanham o quadro.
+Insuficiência Cardíaca Congestiva (ICC): as falências ventriculares sistólica e diastólica esquerdas acontecem na EA conco-mitantemente, determinando sintomas de dispneia aos esforços, assim como ortopneia e dispneia paroxística noturna. Em alguns pacientes, podem ocorrer hipertensão pulmonar e insuficiência cardíaca direita. A insuficiência ventricular esquerda decorre da perda progressiva dos elementos contráteis causada pela hipertrofia concêntrica e pela isquemia miocárdica que acompanham o quadro.
+
 b) Exame físico
-Sopro sistólico de ejeção: o sopro clássico da EA é sistólico rude de ejeção, mais bem percebido no foco aórtico e com ir-radiação para as carótidas. Constitui um sinal específico, porém pouco sensível para a determinação da gravidade da le-são. No começo da doença, o sopro acontece no início da sístole, tornando-se mais tardio com a evolução. Frêmito pode ser palpado na área aórtica. Em fases tardias, o sopro perde força, com tendência a ocorrer no fim da sístole, e o frêmito pode desaparecer. Pode também ocorrer o fenômeno de Gallavardin, que é a irradiação do sopro para a área mitral, por vezes sendo esse o sopro predominante do paciente, simulando insuficiência mitral. Há ainda diminuição do sopro com a manobra de Valsalva e aumento com o agachamento;
+Sopro sistólico de ejeção: o sopro clássico da EA é sistólico rude de ejeção, mais bem percebido no foco aórtico e com ir-radiação para as carótidas. Constitui um sinal específico, porém pouco sensível para a determinação da gravidade da le-são. No começo da doença, o sopro acontece no início da sístole, tornando-se mais tardio com a evolução. Frêmito pode ser palpado na área aórtica. Em fases tardias, o sopro perde força, com tendência a ocorrer no fim da sístole, e o frêmito pode desaparecer. Pode, também, ocorrer o fenômeno de Gallavardin, que é a irradiação do sopro para a área mitral, por vezes sendo esse o sopro predominante do paciente, simulando insuficiência mitral. Há ainda diminuição do sopro com a manobra de Valsalva e aumento com o agachamento;
 Pulso carotídeo: na EA, o pulso carotídeo é tipicamente baixo e tem volume tardio quando atinge o pico de amplitude (pulso parvus et tardus). Seu achado tem relação com a gravidade da doença;
 2ª bulha cardíaca: o tempo de ejeção prolongado necessário para a progressão do volume sistólico através da válvula es-tenosada leva à 2ª bulha única. A presença de desdobramento fisiológico de B2 praticamente exclui a possibilidade de EA grave;
 Batimento apical: na EA, o ventrículo esquerdo hipertrofiado concentricamente mantém o batimento do ápice cardíaco no mesmo local, porém com intensidade aumentada;
 Outros achados: a 3ª bulha pode ser encontrada em casos avançados de insuficiência cardíaca.
+
 C - Exames diagnósticos
 a) Eletrocardiograma 
 Com a hipertrofia ventricular concêntrica, ocorrem aumento da voltagem do QRS, sobrecarga atrial esquerda e alterações da onda T e do segmento ST. No entanto, nenhum achado é sensível ou específico no diagnóstico da EA.
-  
-Figura 2 - Bloqueio do ramo esquerdo em paciente com queixa de síncopes aos esforços e episódios de dor precordial; é identificada EA grave em exames subsidiários
+
+   
+Figura 2 - Bloqueio do ramo esquerdo em paciente com queixa de síncopes aos esforços e episódios de dor precordial; é identificada estenose aórtica grave em exames subsidiários
+
 b) Radiografia de tórax
 Geralmente, a área cardíaca é normal ao exame. Pode haver abaulamento da borda cardíaca esquerda e dilatação pós-estenótica da aorta. Ocasionalmente, é possível visualizar calcificação da válvula aórtica na incidência lateral.
+
 c) Ecocardiograma
 Normalmente confirma o diagnóstico, além de quantificar a severidade. Achados de espessamento valvar, redução da mobilidade dos folhetos e hipertrofia ventricular concêntrica fecham o diagnóstico. A determinação do gradiente transvalvar e da área valvar permitem graduar melhor a severidade da doença.
-Tabela 1 - Severidade da EA
-	Fluxo (m/s)	Gradiente 
-transvalvar (mmHg)	Área valvar (cm2)
+
+Tabela 1 - Severidade da estenose aórtica
+	Fluxo (m/s)	Gradiente transvalvar (mmHg)	Área valvar (cm2)
 Normal	=1,5	<5	3 a 4
 Leve	<3	<25	>1,5
 Moderada	3 a 4	25 a 40	1 a 1,5
 Grave	>4	40	<1
+
 d) Cateterismo cardíaco
-Necessário para identificar a presença de doença coronariana associada à EA, está indicado aos que serão submetidos à troca valvar e com fatores de risco para doença coronariana, e àqueles sintomáticos, em que os exames não invasivos são inconclusivos ou quando o resultado deles é conflitante com a clínica do paciente; constitui, então, o método de escolha para a determinação da real gravidade da lesão. Está contraindicado a assintomáticos e/ou que não serão submetidos a procedi-mento cirúrgico.
+Necessário para identificar a presença de doença coronariana associada à EA, está indicado aos que serão submetidos à troca valvar e com fatores de risco para doença coronariana e àqueles sintomáticos, em que os exames não invasivos são inconclusivos ou quando o resultado deles é conflitante com a clínica do paciente; constitui, então, o método de escolha para a determinação da real gravidade da lesão. Está contraindicado a assintomáticos e/ou que não serão submetidos a procedi-mento cirúrgico.
+
 D - Tratamento
-O único tratamento efetivo para a EA severa é o alívio mecânico da obstrução valvar. A sobrevida é excelente quando o tratamento é aplicado antes do surgimento dos sintomas clássicos. Após esse surgimento, a mortalidade eleva-se acentuada-mente. Pode ser realizado por meio de troca valvar por prótese, valvuloplastia cirúrgica ou balão.
+
+Tratamento
+O único tratamento efetivo para a estenose aórtica severa é o alívio mecânico da obstrução valvar. A sobrevida é excelente quando o tratamento é aplicado antes do surgimento dos sintomas clássicos. Após esse surgimento, a mortalidade eleva-se acentuadamente. Pode ser realizado por meio de troca valvar por prótese, valvuloplastia cirúrgica ou balão. 
+
 a) Farmacológico
-Entre os pacientes com EA reumática, a profilaxia para novos surtos de febre reumática é obrigatória. Diuréticos e/ou digi-tálicos podem controlar parcialmente os sintomas congestivos, porém a troca valvar continua necessária. Os inibidores da enzima conversora de angiotensina são contraindicados na EA severa por determinarem hipotensão algumas vezes fatal, sem compensação pelo débito cardíaco aumentado quando ocorre a redução da resistência vascular sistêmica. Em casos leves e moderados, seu uso é bem tolerado para o controle dos sintomas da insuficiência cardíaca e hipertensão. Nitratos podem ser utilizados com cuidado na vigência de angina, até ser realizada a cirurgia. Betabloqueadores devem ser evitados, pois podem desencadear o agravamento da insuficiência ventricular. A profilaxia para endocardite é mandatória, independente da gravi-dade da lesão. Alguns estudos mostraram benefício na prevenção de piora da lesão aórtica com estatinas, porém os resulta-dos não conseguiram ser reproduzidos em estudos subsequentes. Atualmente, não se indica estatina exclusivamente para o tratamento da EA, mas para aqueles com dislipidemia associada a tal valvulopatia.
+Entre os pacientes com EA reumática, a profilaxia para novos surtos de febre reumática é obrigatória. Diuréticos e/ou digi-tálicos podem controlar parcialmente os sintomas congestivos, porém a troca valvar continua necessária. Os inibidores da enzima conversora de angiotensina são contraindicados na EA severa por determinarem hipotensão algumas vezes fatal, sem compensação pelo débito cardíaco aumentado quando ocorre a redução da resistência vascular sistêmica. Em casos leves e moderados, seu uso é bem tolerado para o controle dos sintomas de insuficiência cardíaca e da hipertensão. Nitratos podem ser utilizados com cuidado na vigência de angina, até ser realizada a cirurgia. Betabloqueadores devem ser evitados, pois podem desencadear o agravamento da insuficiência ventricular. A profilaxia para endocardite é mandatória, independente da gravidade da lesão. Alguns estudos mostraram benefício na prevenção de piora da lesão aórtica com estatinas, porém os resultados não conseguiram ser reproduzidos em estudos subsequentes. Atualmente, não se indica estatina exclusivamente para o tratamento da EA, mas para aqueles com dislipidemia associada a tal valvulopatia.
+
 b) Valvuloplastia aórtica por balão
-Nos casos de estenose congênita, os resultados dos procedimentos são animadores. Todavia, nas situações em que a vál-vula está calcificada, os resultados são ruins. Seis meses após o procedimento, 50% perdem qualquer benefício alcançado (reestenose e piora clínica), sendo reservado, então, a casos em que a troca cirúrgica da válvula é contraindicada pelo risco cirúrgico. Em até 20% há complicações, como acidente vascular cerebral, insuficiência aórtica e infarto agudo do miocárdio. A valvuloplastia por balão é considerada classe IIb como ponte até a troca definitiva em hemodinamicamente instáveis, que são de alto risco cirúrgico.
+Nos casos de estenose congênita, os resultados dos procedimentos são animadores. Todavia, nas situações em que a vál-vula está calcificada, os resultados são ruins. Seis meses após o procedimento, 50% perdem qualquer benefício alcançado (reestenose e piora clínica), sendo reservada, então, a casos em que a troca cirúrgica da válvula é contraindicada pelo risco cirúrgico. Em até 20% há complicações, como acidente vascular cerebral, insuficiência aórtica e infarto agudo do miocárdio. A valvuloplastia por balão é considerada classe IIb como ponte até a troca definitiva em hemodinamicamente instáveis, que são de alto risco cirúrgico.
+
 c) Troca valvar por angioarteriografia
 Já está disponível a técnica de troca valvar por via intravascular ou transtorácica. Esse procedimento é mais indicado para aqueles com EA grave e alto risco de troca valvar cirúrgica.
+
 E - Tratamento cirúrgico
 a) Troca de válvula aórtica
-A troca de válvula aórtica é indicada quando, na EA grave associada, há sintomas clássicos da doença, pois 50% morrem em 5 anos se não tratados com cirurgia. Quanto aos assintomáticos, a única indicação é para aqueles com estenose grave e disfunção ventricular (Fração de Ejeção – FE <50%). A nova válvula pode ser biológica ou mecânica. Os fatores mais relacio-nados a piores taxas de sobrevivência são ICC CF III e IV (New York Heart Association) e Fibrilação Arterial (FA) no pré-operatório. 
+A troca de válvula aórtica é indicada quando, na EA grave associada, há sintomas clássicos da doença, pois 50% morrem em 5 anos se não tratados com cirurgia. Quanto aos assintomáticos, a única indicação é para aqueles com estenose grave e disfunção ventricular (Fração de Ejeção – FE <50%). A nova válvula pode ser biológica ou mecânica. Os fatores mais relacio-nados a piores taxas de sobrevivência são ICC classes funcionais III e IV (New York Heart Association) e Fibrilação Arterial (FA) no pré-operatório. 
+
 b) Troca de válvula aórtica em doença avançada
 Geralmente, há recuperação marcante da FE após a cirurgia. Ocorre, progressivamente, melhora da hipertrofia, da função contrátil e da FE.
+
 c) Efeitos da idade
 Mesmo os mais idosos podem beneficiar-se da cirurgia. A troca valvar entre pacientes acima de 65 anos é uma das poucas condições da cirurgia cardíaca em que o procedimento cirúrgico iguala a mortalidade dos pacientes à da população em geral. Deve-se lembrar que a idade não é um fator que influencia os desfechos, mas a sintomatologia.
+
+Importante
+O quadro clínico típico é o idoso com síncope aos esforços, podendo ocorrer dor anginosa ou evolução para insuficiência cardíaca. O melhor momento para tratamento é quando a estenose aórtica é diagnosticada antes dos sintomas. 
 F - Prognóstico
 A história natural da EA é bem conhecida. Quando os sintomas surgem, a doença passa a ser fatal, com mortalidade de 75% em 3 anos. A sobrevida após o tratamento cirúrgico em 10 anos é de 75%, com maior benefício aos mais idosos. 
 
-Tabela 2 - Principais características da EA
-Quadro clínico	- Angina;
+Tabela 2 - Principais características da estenose aórtica
+Quadro 
+clínico	- Angina;
 - Dispneia;
 - Síncope de esforço.
 Propedêutica	- Sopro sistólico de ejeção com irradiação para as carótidas;
 - Pico de pulso carotídeo tardio e de amplitude reduzida.
-  
-Ecocardiograma	Folhetos aórticos espessados e imóveis, gradiente transvalvar aumen-tado e área valvar diminuída
+   
+Ecocardiograma	Folhetos aórticos espessados e imóveis, gradiente transvalvar aumentado e área valvar diminuída
+
+Vídeo
+Fonocardiograma da estenose aórtica
+ 
+
 2. Insuficiência aórtica
+
 A - Etiologia
 A Insuficiência Aórtica (IA) pode ser causada por uma variedade de alterações que afetam as cúspides ou a via de saída aórtica (Tabela 3). A febre reumática continua a ser a principal causa da doença. Doenças que acometem a via de saída tam-bém são causas comuns de IA, como síndrome de Marfan, necrose cística da túnica média, dissecção de aorta e doenças in-flamatórias. Mesmo na ausência de outra doença clínica, a hipertensão arterial sistêmica grave pode causar IA.
+
 Tabela 3 - Alterações que afetam a aorta ou a pós-carga	
 Alterações da válvula aórtica
 - Endocardite, febre reumática; 
@@ -78,34 +116,52 @@ Alterações da aorta
 Pós-carga aumentada
 - Hipertensão sistêmica; 
 - EA supravalvar. 
+
 B - Fisiopatologia
-A apresentação clínica e os achados ao exame físico dos pacientes com IA dependem da severidade e da rapidez de insta-lação da lesão. Os efeitos hemodinâmicos do quadro agudo são completamente diferentes dos da apresentação crônica.
+
+Dica
+A apresentação clínica e os achados ao exame físico dos pacientes com insuficiência aórtica dependem da severidade e da rapidez de instalação da lesão. Os efeitos hemodinâmicos do quadro agudo são completamente diferentes dos da apresen-tação crônica.
+
 a) Insuficiência aórtica crônica
 Pela sobrecarga volêmica, acontece a dilatação ventricular esquerda progressiva, determinando hipertrofia que, tempo-rariamente, mantém o débito cardíaco adequado. Com a lenta e progressiva piora da função diastólica e contrátil do ventrícu-lo, há queda progressiva do débito cardíaco com o surgimento da insuficiência cardíaca.
+
 b) Insuficiência aórtica aguda
 Quando ocorre insuficiência valvar aguda, não há tempo para a adaptação ventricular, determinando aumento da pressão hidrostática nas câmaras esquerdas, resultando em edema agudo de pulmão. A taquicardia e a vasoconstrição periférica re-flexas determinam piora da IA.
+
 C - Quadro clínico
+
 a) IA crônica 
 Por um período prolongado, os portadores são assintomáticos. Palpitações são frequentes, e angina pode ocorrer por as-sociação de doença coronariana. Quando acontece a insuficiência ventricular esquerda, surgem os sintomas de dispneia aos esforços e fadiga; nas fases mais avançadas, ortopneia e dispneia paroxística noturna. Ao exame físico, batimentos cardíacos visíveis são comuns, e o pulso apical está aumentado e desviado para baixo e à esquerda. B4 pode ocorrer pela hipertrofia ventricular, e B3 pode ser identificada na insuficiência cardíaca. O sopro característico é leve, diastólico, decrescente, mais bem ouvido no 3º espaço intercostal ao longo da borda esternal esquerda, ao fim da expiração. Na presença de doença da via de saída da aorta, o sopro pode ser mais bem avaliado na borda direita esternal. Um sopro de ejeção pode estar presente na área aórtica, devido ao estado hiperdinâmico. Ocasionalmente, um sopro diastólico pode ser ouvido no ápice cardíaco, tam-bém chamado sopro de Austin Flint. A pressão arterial sistólica está aumentada, em virtude do alto volume sistólico, e a di-astólica, diminuída em razão do retorno de parte do volume sistólico injetado na aorta de volta para o ventrículo. Com a evo-lução da insuficiência cardíaca, estreitam-se as diferenças pressóricas.
+
 b) IA aguda 
 A maior parte dos pacientes é sintomática, e a apresentação clínica depende da causa-base da insuficiência. Os motivos mais frequentes são dissecção aórtica, endocardite infecciosa e trauma. Fraqueza, dispneia e ortopneia são comuns. O início dos sintomas é súbito, e o choque surge quando a IA não é tratada. Como não há tempo para a adaptação do ventrículo es-querdo, os sinais periféricos de IA são ausentes. Estertores bilaterais são frequentes no exame pulmonar, e o pulso apical não está desviado. B3 pode estar presente, e o sopro diastólico típico é curto na duração e de difícil identificação, sendo habitual a não detecção.
+
 D - Exames diagnósticos
+
 a) Eletrocardiograma
 Nenhum achado é específico; sinais de aumento do átrio esquerdo, hipertrofia ventricular esquerda e correntes de lesão (inversão da onda T e depressão do segmento ST) são encontrados nos quadros crônicos avançados. Arritmias, incluindo a taquicardia ventricular e extrassístoles ventriculares, podem ocorrer. Na apresentação aguda, taquicardia sinusal pode ser a única alteração. Nos casos de endocardite bacteriana, a inflamação ou a formação de abscesso pode acometer o nó atrioven-tricular, resultando em bloqueio progressivo atrioventricular.
+
 b) Radiografia de tórax
 Os achados não são específicos e refletem o aumento da área cardíaca e da vascularização pulmonar. No quadro agudo, é frequente a congestão pulmonar, e pode haver alargamento da aorta ascendente na vigência de dissecção.
+
 c) Ecocardiograma
 É o método de escolha na avaliação da IA. Além de avaliar a gravidade, a técnica transesofágica pode identificar a etiologia. Ao Doppler, o fluxo anormal diastólico originado na válvula aórtica atribui alta sensibilidade e especificidade ao exame, mes-mo na ausência de sopro audível. É de grande utilidade nos quadros agudos, em que a detecção clínica do sopro não é fre-quente. Alterações estruturais da válvula aórtica podem ser identificadas ao exame, como espessamento da válvula, calcifica-ções, alterações congênitas, vegetações ou prolapso da válvula. Todas essas alterações podem ser vistas no exame transtorá-cico, porém a via transesofágica aumenta ainda mais a sensibilidade do exame em situações de difícil diagnóstico, como na endocardite ou na dissecção de aorta.
+
 d) Cateterismo cardíaco
 Antes do ecocardiograma, era o exame de eleição para a avaliação da IA. Hoje fica em plano secundário, principalmente para os casos com possibilidade de insuficiência coronariana associada. Também é útil no planejamento cirúrgico para a cor-reção de dissecção aórtica.
+
 e) Ressonância magnética
 Está indicada para a avaliação do refluxo e dos diâmetros cavitários nos casos em que o ecocardiograma é ineficiente.
+
 f) Outros achados laboratoriais
 Podem auxiliar no diagnóstico da causa da IA. Leucocitose e velocidade de hemossedimentação elevada sugerem causas inflamatórias, como endocardite ou aortite. Fator reumatoide positivo e anticorpos antinúcleo positivos sugerem doença reumatológica. A sorologia para sífilis também pode ser útil.
+
 E - Tratamento
 O tratamento depende da causa-base, da função cardíaca e da presença ou não de sintomas. IA leve ou moderada geral-mente não demanda tratamento específico, enquanto a IA aguda por dissecção de aorta é uma emergência médica.
+
 a) Forma aguda
-Quando não tratada, apresenta alta mortalidade. Geralmente, necessita de medidas agressivas de suporte, rápida aborda-gem da causa e aplicação de tratamento definitivo. Como o óbito por falência ventricular esquerda e choque é frequente entre esses pacientes, a despeito do tratamento intensivo, é indicada a intervenção cirúrgica imediata. O nitroprussiato é a droga de escolha para determinar diminuição da pré-carga e da pós-carga. Agentes inotrópicos positivos, como a dobutamina, podem ser utilizados na vigência de baixo débito cardíaco e hipotensão. Quando há instabilidade hemodinâmica, o único tratamento definitivo é a cirurgia, cujo momento depende da causa e do grau de repercussão hemodinâmica. Na endocardite infecciosa com IA grave, prefere-se o uso por 7 a 10 dias de antibióticos previamente à troca valvar, quando a condição clíni-ca do paciente permite a espera. As indicações para a cirurgia de urgência, nesse cenário, são insuficiência cardíaca classes III-IV, embolização sistêmica, bacteriemia persistente, endocardite por fungos ou formação de abscesso perivalvar.
+Quando não tratada, apresenta alta mortalidade. Geralmente, necessita de medidas agressivas de suporte, rápida aborda-gem da causa e aplicação de tratamento definitivo. Como o óbito por falência ventricular esquerda e choque é frequente entre esses pacientes, a despeito do tratamento intensivo, é indicada a intervenção cirúrgica imediata. O nitroprussiato é a droga de escolha para determinar diminuição da pré-carga e da pós-carga. Agentes inotrópicos positivos, como a dobutamina, podem ser utilizados na vigência de baixo débito cardíaco e hipotensão. Quando há instabilidade hemodinâmica, o único tratamento definitivo é a cirurgia, cujo momento depende da causa e do grau de repercussão hemodinâmica. Na endocardite infecciosa com IA grave, prefere-se o uso por 7 a 10 dias de antibióticos previamente à troca valvar, quando a condição clíni-ca do paciente permite a espera. As indicações para a cirurgia de urgência, nesse cenário, são insuficiência cardíaca classes III e IV, embolização sistêmica, bacteriemia persistente, endocardite por fungos ou formação de abscesso perivalvar.
+
 b) Forma crônica
 Nos quadros leves a moderados de IA em assintomáticos, o tratamento não é necessário. O seguimento clínico deve ser feito anualmente com o ecocardiograma. A profilaxia com antibióticos para endocardite deve ser aplicada àqueles com anormalidades estruturais da válvula. 
 Quando a febre reumática está associada, indica-se a profilaxia secundária. Qualquer evidência de hipertensão arterial deve ser prontamente tratada para não agravar o grau de insuficiência. Exercícios isométricos, esportes competitivos e esfor-ço físico exacerbado devem ser evitados. Os quadros de IA moderada a severa sintomática com função ventricular normal devem ter a válvula substituída.
@@ -117,93 +173,136 @@ Disfunção ventricular (FE <50%);
 Dilatação ventricular importante;
 Paciente submetido a revascularização miocárdica cirúrgica/cirurgia de aorta/troca de outras valvas.
 IA moderada só deverá ser submetida a tratamento cirúrgico se já houver indicação de outra cirurgia cardíaca ou de aorta proximal.
+
+Tratamento
+O quadro clínico típico é a progressão de insuficiência cardíaca. Nos quadros leves e moderados assintomáticos, não é ne-cessário o tratamento específico. Nos quadros moderados a severos com função ventricular normal, a troca valvar está indi-cada. A forma aguda da insuficiência aórtica está relaciona a dissecção aórtica e endocardite.
+
 F - Prognóstico
 Assintomáticos com IA crônica têm evolução estável ao longo dos anos, ao passo que os sintomáticos apresentam mortali-dade acima de 10% ao ano. A taxa média de progressão para a cirurgia é de 4%, e o surgimento de sintomas é a maior indica-ção para o procedimento. A mortalidade associada a sintomas de dispneia aos esforços (classes II a IV de ICC) é de 20% ao ano. Quando ocorre a troca valvar, há redução da mortalidade com sobrevida em 5 anos de 85%.
 
 Tabela 4 - Principais características da IA
 Quadro clínico	Após longo período sem sintomas, apresentação com insuficiência cardíaca ou angina
 Propedêutica	- Pressões sistólica elevada e diastólica reduzida, manifestando-se pelo aumento da pressão de pulso (pressão arterial sistólica - pressão arterial diastólica);
-- Sopro diastólico leve, decrescente, mais bem ouvido no 3º espaço intercostal ao longo da borda esternal es-querda, ao fim da expiração.
+- Sopro diastólico leve, decrescente, mais bem ouvido no 3º espaço intercostal ao longo da borda esternal esquerda, ao fim da expiração.
  
-Ecocardiograma	- Dilatação ventricular esquerda e hipertrofia com função preservada;
+Ecocardiogra-ma	- Dilatação ventricular esquerda e hipertrofia com função preservada;
 - Importante para o diagnóstico nos quadros agudos de IA.
 
+Vídeo
+Fonocardiograma da insuficiência aórtica
+ 
+
 3. Estenose mitral 
+
 A - Introdução
 A válvula mitral permite a passagem de grande quantidade de sangue do átrio esquerdo para o ventrículo esquerdo. A área seccional da válvula é de 4 a 6cm2. Surge o gradiente de pressão transvalvar assim que a área valvar cai para menos de 2,5cm2, quando, então, a pressão atrial esquerda começa a elevar-se, determinando congestão pulmonar. 
 A principal causa de Estenose Mitral (EM) é o acometimento da válvula por febre reumática, com predomínio em mulhe-res (65% dos casos), apesar de 50% não apresentarem história prévia da doença. Outras causas são extremamente raras.
+
 Tabela 5 - Diagnósticos diferenciais 
 - Mixoma atrial; 
 - Disfunção de prótese valvar; 
 - Trombo; 
 - Neoplasia; 
 - Grande vegetação bacteriana ou fúngica. 
-A febre reumática pode produzir, na fase aguda, uma pancardite. Corpos de Aschoff no pericárdio são muito específicos dessa febre. O acometimento da válvula mitral é a regra, podendo ocorrer, também, o espessamento das comissuras, cúspi-des e da cordoalha.
+
+A febre reumática pode produzir, na fase aguda, uma pancardite. Corpos de Aschoff no pericárdio são muito específicos dessa febre. O acometimento da válvula mitral é a regra, podendo ocorrer, também, o espessamento das comissuras, das cúspides e da cordoalha.
 A fibrose e a calcificação dos folhetos podem estender-se até o anel valvar. Com a progressão da estenose, surge o gradi-ente transvalvar através da válvula estenosada, associada a contração atrial.
+
 B - Quadro clínico
+
 a) Sinais e sintomas
 No início, os pacientes são, em geral, assintomáticos. É estimado que o prognóstico piore muito quando os sintomas se ini-ciam, pois a progressão de sintomas leves até disfunção severa, em média, acontece apenas de 7 a 9 anos depois.
-Em condições que aumentam o débito cardíaco, há aumento do gradiente transvalvar, com elevação da pressão do átrio esquerdo. A congestão pulmonar subsequente, desencadeada por exercício, hipertireoidismo, gravidez, FA e febre, determi-na a dispneia. Em virtude do aumento do retorno venoso na posição supina, podem ocorrer, a pacientes com doença mode-rada, ortopneia e dispneia paroxística noturna.
+Em condições que aumentam o débito cardíaco, há aumento do gradiente transvalvar, com elevação da pressão do átrio esquerdo. A congestão pulmonar subsequente, desencadeada por exercício, hipertireoidismo, gravidez, FA e febre, determi-na a dispneia. Em virtude do aumento do retorno venoso na posição supina em pacientes com doença moderada, ortopneia e dispneia paroxística noturna podem ocorrer.
 Com a progressão da doença, a pressão da artéria pulmonar aumenta, elevando, proporcionalmente, a pressão capilar pulmonar.
-A inflamação reumática valvar pode também estender-se aos átrios, causando alterações estruturais que predispõem à fi-brilação atrial e, portanto, a maior risco de eventos embólicos. Entre os pacientes em ritmo sinusal, a idade, a presença de trombo atrial, a área valvar mitral e a significativa IA são fatores que predizem maiores riscos de evento embólico.
+A inflamação reumática valvar pode também estender-se aos átrios, causando alterações estruturais que predispõem a fi-brilação atrial e, portanto, a maior risco de eventos embólicos. Entre os pacientes em ritmo sinusal, a idade, a presença de trombo atrial, a área valvar mitral e a significativa IA são fatores que predizem maiores riscos de evento embólico.
 Os pacientes ainda têm risco aumentado para endocardite infecciosa. Rouquidão, apesar de rara, pode ocorrer (sinal de Ortner) por compressão do nervo laríngeo recorrente pelo átrio esquerdo aumentado ou pela artéria pulmonar dilatada. Hemoptise pode acontecer por hipertensão venosa pulmonar, possivelmente de forma súbita, e também há a hipótese de a dor torácica decorrer da hipertensão pulmonar e da hipertrofia do ventrículo direito.
+
 b) Exame físico
 O estado geral é frequentemente inalterado, no entanto a insuficiência ventricular direita pode determinar pulso jugular elevado com ondas A e V proeminentes. O pulso apical é, em geral, normal ou diminuído por função ventricular esquerda preservada e baixa pressão de enchimento. Em decúbito lateral esquerdo, um murmúrio diastólico pode ser notado e exa-cerbado por expiração profunda, e sua intensidade tem relação com o gradiente transvalvar. A 1ª bulha é hiperfonética, com estalido de abertura e sopro diastólico perto do ápice cardíaco. No início da doença, apenas uma B1 hiperfonética pode ser percebida. Com a evolução da doença, a hiperfonese desaparece.
+
 C - Exames diagnósticos
+
 a) Eletrocardiograma
-Na fase precoce da doença, tem pouca utilidade por ser usual. Na progressão desta, surgem o aumento da onda P (onda P larga e geralmente com entalhe no ápice – forma de M) e a evolução de vários pacientes para FA. Com a piora da hipertensão pulmonar, ocorrem o desvio do eixo para a direita e onda R maior do que S em V1.
+Na fase precoce da doença, tem pouca utilidade por ser usual. Na progressão desta, surge o aumento da onda P (onda P larga e geralmente com entalhe no ápice – forma de M) e há a evolução de vários pacientes para FA. Com a piora da hiper-tensão pulmonar, ocorrem o desvio do eixo para a direita e onda R maior do que S em V1.
+
   
-Figura 3 - Eletrocardiograma demonstrando onda P ampla e achatada (sugerindo hipertrofia atrial esquerda) e extrassístoles ventricula-res isoladas em uma mulher de 40 anos, com queixa de palpitações e dispneia aos esforços; a ausência de sinais de sobrecarga ventri-cular esquerda reduz a chance de insuficiência cardíaca sistólica, reforçando a possibilidade de EM
+Figura 3 - Eletrocardiograma demonstrando onda P ampla e achatada (sugerindo hipertrofia atrial esquerda) e extrassístoles ventricula-res isoladas em uma mulher de 40 anos, com queixa de palpitações e dispneia aos esforços; a ausência de sinais de sobrecarga ventri-cular esquerda reduz a chance de insuficiência cardíaca sistólica, reforçando a possibilidade de estenose mitral
+
 b) Radiografia de tórax
 O exame da silhueta cardíaca permite identificar o aumento do átrio esquerdo (Figura 4) por meio do sinal do duplo con-torno na borda cardíaca esquerda, associado à elevação do brônquio principal esquerdo e à compressão esofágica na inci-dência posterior. O aumento do ventrículo direito pode ocupar o espaço retroesternal.
+
  
 Figura 4 - Anatomia do coração com válvula mitral anormal, mostrando aumento do átrio esquerdo
+
 A avaliação da árvore pulmonar pode evidenciar hipertensão pulmonar com proeminência das artérias pulmonares e ce-falização do fluxo pulmonar. Linhas A e B de Kerley, por sua vez, podem acontecer por transudação.
+
  
 Figura 5 - (A) Aumento do átrio esquerdo evidenciado por contraste e (B) calcificação da válvula mitral
+
 c) Ecocardiografia
-Trata-se do principal exame na avaliação da EM, por demonstrar alteração da movimentação dos folhetos e comissuras valvares, avaliação da área valvar e da repercussão hemodinâmica. É utilizado para determinar o escore de Wilkins-Block, que ajudará na decisão terapêutica entre valvuloplastia por balão ou necessidade de cirurgia aberta.
-Tabela 6 - Severidade da EM
-	Gradiente transval-var (mmHg)	Área valvar (cm2)	Pressão arteri-al sistólica atrial
+Trata-se do principal exame na avaliação da EM, por demonstrar alteração da movimentação dos folhetos e das comissuras valvares, avaliação da área valvar e da repercussão hemodinâmica. É utilizado para determinar o escore de Wilkins-Block, que ajudará na decisão terapêutica entre valvuloplastia por balão ou necessidade de cirurgia aberta.
+
+Tabela 6 - Severidade da estenose mitral
+	Gradiente transvalvar (mmHg)	Área valvar (cm2)	Pressão arterial sistólica atrial
 Normal	0	4 a 6	<30
 Leve	<5	>1,5	<30
 Moderada	5 a 10	1 a 1,5	30 a 50
 Severa	>10	<1	>50
+
 d) Cateterização cardíaca
 A avaliação indireta das pressões das câmaras esquerdas, por meio do cateter de Swan-Ganz, permite melhor julgamento da repercussão da EM e está indicada apenas aos casos em que os exames não invasivos são inconclusivos ou quando há dis-crepância entre o resultado dos exames e a clínica apresentada.
+
 D - Tratamento
+
 a) Clínico
 A profilaxia primária envolve o tratamento adequado das infecções por Streptococcus do grupo A. O tratamento iniciado dentro de 7 a 9 dias após o evento infeccioso pode prevenir a febre reumática. A profilaxia secundária de novas crises impe-de a progressão da EM e deve ser realizada, com penicilina G benzatina de 21/21 dias, de acordo com a Tabela 7.
+
 Tabela 7 - Recomendações para o tempo de prevenção secundária à febre reumática, segundo diretriz para o manejo de febre reumáti-ca da Sociedade Brasileira de Cardiologia de 2009
 Categorias	Duração	Níveis de evidência
 Febre reumática sem cardite prévia	Até 21 anos ou 5 anos após o último surto, valendo o que cobrir maior período	I-C
-Febre reumática com cardite prévia; insuficiên-cia mitral leve residual ou resolução da lesão valvar	Até 25 anos ou 10 anos após o último surto, valen-do o que cobrir maior período	I-C
+Febre reumática com cardite prévia; insuficiência mitral leve residual ou resolução da lesão valvar	Até 25 anos ou 10 anos após o último surto, valendo o que cobrir maior período	I-C
 Lesão valvar residual moderada a severa	Até os 40 anos ou por toda a vida	I-C
 Após cirurgia valvar	Por toda a vida	I-C
-Pacientes com EM têm risco aumentado para endocardite bacteriana, sendo indicada profilaxia para certos procedimen-tos, como extração dentária.
-O manuseio clínico da EM entre os pacientes em ritmo sinusal é limitado. O uso de diuréticos e a restrição sódica são indi-cados aos casos de congestão pulmonar. Digitálicos entre pacientes com ritmo sinusal não agregam benefício, exceto na pre-sença de disfunção ventricular. Betabloqueadores podem, significativamente, diminuir o débito cardíaco e a frequência, de-terminando queda do gradiente transvalvar. Apesar de lógica, a terapia com tal grupo de drogas aponta resultados conflitan-tes, ficando reservados para sintomáticos aos esforços. A anticoagulação é benéfica a casos com ritmo sinusal e evento embó-lico prévio ou portadores de átrios maiores de 55mm ao ecocardiograma (classe IIb).
+
+Dica
+Pacientes com estenose mitral têm risco aumentado para endocardite bacteriana, sendo indicada profilaxia para certos procedimentos, como extração dentária.
+
+O manuseio clínico da EM entre os pacientes em ritmo sinusal é limitado. O uso de diuréticos e a restrição sódica são indi-cados aos casos de congestão pulmonar. Digitálicos entre pacientes com ritmo sinusal não agregam benefício, exceto na pre-sença de disfunção ventricular. Betabloqueadores podem, significativamente, diminuir o débito cardíaco e a frequência, de-terminando queda do gradiente transvalvar. Apesar de lógica, a terapia com tal grupo de drogas aponta resultados conflitan-tes, ficando reservada para sintomáticos aos esforços. A anticoagulação é benéfica a casos com ritmo sinusal e evento embó-lico prévio ou portadores de átrios maiores de 55mm ao ecocardiograma (classe IIb).
 Quando há a associação de EM e FA, o tratamento oferece maiores benefícios por controlar o risco de eventos embólicos. A FA é mal tolerada nessas pessoas pela perda do enchimento ventricular esquerdo com a sístole atrial e o aumento da fre-quência cardíaca, cujo controle pode ser atingido com betabloqueadores, digitais ou bloqueadores dos canais de cálcio. A cardioversão elétrica ou química, por sua vez, deve ser aplicada com anticoagulação adequada. O uso de antiarrítmicos, como a amiodarona, após a reversão a ritmo sinusal, previne novo evento de FA em aproximadamente 70% dos pacientes por ano de reversão da arritmia. Àqueles que não mantêm ritmo sinusal é indicada a anticoagulação.
+
 b) Valvulotomia mitral com balão
-Permite a separação e a fratura dos pontos de calcificação na válvula, além de ser recomendada aos sintomáticos ou assin-tomáticos com hipertensão pulmonar, estenose moderada a severa (área valvar <1,5cm2), anatomia adequada determinada pelo ecocardiograma (escore de Wilkins-Block =8), sem trombo atrial ou refluxo mitral moderado a importante (minoria). Antes de realizar a valvotomia por balão, deve-se assegurar que não existe trombo no átrio esquerdo, que é uma contraindi-cação ao procedimento pelo risco de embolização sistêmica.
+Permite a separação e a fratura dos pontos de calcificação na válvula, além de ser recomendada aos sintomáticos ou assin-tomáticos com hipertensão pulmonar, estenose moderada a severa (área valvar <1,5cm2), anatomia adequada determinada pelo ecocardiograma (escore de Wilkins-Block =8), sem trombo atrial ou refluxo mitral moderado a importante (minoria). Antes de realizar a valvulotomia por balão, deve-se assegurar que não existe trombo no átrio esquerdo, que é uma contrain-dicação ao procedimento pelo risco de embolização sistêmica.
+
 c) Tratamento cirúrgico
 Há 3 opções cirúrgicas terapêuticas para EM: comissurotomias fechada e aberta e troca por prótese valvar. A substituição valvar é indicada a pacientes muito sintomáticos e área valvar <1,5cm2. Também se recomenda intervenção a assintomáticos com EM severa (área valvar <1,5cm2), com PAPs >50mmHg em repouso ou >60mmHg ao exercício.
+
+Importante
+Febre reumática é a principal causa de estenose mitral. Insuficiência cardíaca com fração de ejeção normal e fibrilação atrial são frequentes.
+
 E - Prognóstico
 A história natural da EM mudou em virtude das opções terapêuticas utilizadas. A febre reumática ainda é motivo de preo-cupação, e os pacientes se tornam sintomáticos após 16 anos do início da doença. Entre eles, 84% morreram por causa cardí-aca – insuficiência ventricular direita, edema pulmonar refratário, fenômenos tromboembólicos, endocardite, infarto do miocárdio e morte súbita. Com a progressão dos sintomas moderados para severos, o prognóstico piora rapidamente. E, com o tratamento clínico angiográfico e cirúrgico, é possível a melhor evolução da doença.
 
-Tabela 8 - Principais características da EM
+Tabela 8 - Principais características da estenose mitral
 Quadro clínico	Dispneia de esforço, dispneia paroxística noturna, ortopneia e cansaço em fase mais tardia
 Propedêutica	- Estalido de abertura, B1 hiperfonética, sopro diastólico ruflante;
  
 - Eletrocardiograma com aumento do átrio esquerdo ou FA; hipertrofia ventricular direita em estágios mais tardios;
 - Radiografia de tórax com sinais de aumento do átrio esquerdo e ventrículo esquerdo normal.
 Ecocardiograma	Válvulas com restrição de mobilidade, área orificial valvar reduzida demonstrada pelo ecocardiograma e gradi-ente transmitral elevado demonstrado pelo Doppler
+
+Vídeo
+Fonocardiograma da estenose mitral
+ 
+
 4. Insuficiência mitral 
+
 A - Introdução
 Qualquer alteração que cause dilatação ventricular esquerda pode determinar o desalinhamento dos músculos papilares, prejudicando a sua função e dilatando o anel valvar, causando a Insuficiência Mitral (IM). O infarto miocárdico envolvendo o músculo papilar ou a parede ventricular que o suporta pode determinar insuficiência pelo mesmo mecanismo. A ruptura da cordoalha valvar pode ocorrer, em especial, entre pacientes com hipertensão ou prolapso valvar mitral. 
 As doenças mais comuns que determinam a IM são doença reumática cardíaca e degeneração mixedematosa do prolapso valvar. A endocardite pode destruir os folhetos valvares, e a calcificação do anel valvar, prejudicar a contração sistólica do anel, causando IM. A dilatação atrial esquerda de qualquer causa também pode determinar a IM (Figura 6). Alguns casos apre-sentam vários desses fatores concomitantemente.
-A IM pode ser dividida em causas orgânicas ou funcionais, como mostra a Tabela 9. As causas orgânicas usualmente aco-metem a válvula diretamente, enquanto as funcionais têm origem atrial e deixam a válvula intacta.
+A IM pode ter suas causas divididas em orgânicas ou funcionais, como mostra a Tabela 9. As causas orgânicas usualmente acometem a válvula diretamente, enquanto as funcionais têm origem atrial e deixam a válvula intacta.
  
-Figura 6 - IM 
+Figura 6 - Insuficiência mitral 
+
 Tabela 9 - Causas orgânicas e funcionais 
 Causas orgânicas
 - Degeneração mixedematosa (Prolapso Mitral – PM);
@@ -215,33 +314,52 @@ Causas funcionais
 - Insuficiência coronariana; 
 - Cardiomiopatia hipertrófica ou dilatada; 
 - Dilatação atrial esquerda. 
+
+Pergunta
+2015 - UFPR
+1. A principal etiologia da insuficiência mitral é: 
+a) congênita 
+b) reumática 
+c) endocardite 
+d) degeneração mixomatosa 
+e) isquêmica 
+Resposta no final do capítulo
+
 Na IM crônica, a forma mais comum de apresentação, a IM piora progressivamente, de acordo com a evolução da doença de base. Nessa situação, o miocárdio é apto a adaptar-se ao refluxo valvar, sendo que o aumento da pressão atrial esquerda determina a dilatação atrial, acompanhada de hipertensão pulmonar subsequente. Como o volume de refluxo atrial retorna para o ventrículo na diástole com o volume sistólico normal atrial, há sobrecarga ventricular esquerda, que evolui com mio-cardiopatia ventricular dilatada hipertrófica excêntrica. Inicialmente, não há impacto clínico, pois o ventrículo é capaz de compensar a sobrecarga. Com a progressão da IM, a dilatação ventricular sofre desadaptação, e a insuficiência cardíaca se manifesta.
 A apresentação clínica da IM aguda é diferente, pois não há tempo para a adaptação ventricular, geralmente ocorrendo congestão pulmonar aguda por aumento das pressões atriais e pulmonares. O ventrículo esquerdo também não se adapta ao regime de pré-carga elevada, entrando em falência. A descompensação aguda de IM crônica também é possível. 
+
 B - Quadro clínico
+
 a) Sintomas e sinais
 Na IM crônica, a história em geral sugere a causa, frequentemente febre reumática, insuficiência coronariana ou miocar-diopatia. O sintoma mais comum é a dispneia progressiva, inicialmente aos esforços, progredindo para dispneia paroxística noturna e ortopneia. Também pode ocorrer edema periférico, assim como fibrilação atrial, gerando queixa de palpitação ou outros distúrbios de ritmo. Pode haver, ainda, dor torácica atípica e até crises de pânico. A IM aguda geralmente é acompa-nhada de congestão pulmonar exacerbada e súbita, com dispneia acentuada. 
+
 b) Exame físico
 IM crônica: nessa situação, a frequência cardíaca pode estar aumentada por FA ou insuficiência cardíaca. O pulso carotí-deo, em geral, é curto e de baixa amplitude. A avaliação da pressão arterial mostra essa pinçada. Sinais de insuficiência cardíaca podem estar presentes (edema periférico, ritmo de galope, congestão pulmonar), e o aumento do ventrículo esquerdo pode gerar intensificação do pulso apical. A 1ª e a 2ª bulhas são normais na vigência de hipertensão pulmonar, e a 3ª bulha pode ser observada devido à sobrecarga volêmica, mas não necessariamente caracteriza insuficiência cardí-aca. Já a 4ª bulha é rara. O sopro característico é holossistólico e mais bem observado no ápice cardíaco, com irradiação para a axila. No PM, o sopro pode ser “em crescendo” e tardio na sístole, acompanhado de estalido mesossistólico de abertura;
 IM aguda: os achados de exame físico são mais variados. Com o aumento agudo da pressão do átrio esquerdo, há equaliza-ção das pressões entre as câmaras, determinando queda do gradiente de pressão transvalvar. Surge, então, um sopro sistólico precoce e não mais holossistólico, característico da disfunção crônica da IM. A congestão pulmonar, invariavel-mente, acompanha o quadro, podendo haver sinais de insuficiência cardíaca direita;
 Doença valvar mista: pacientes com IM de etiologia reumática habitualmente podem apresentar um componente de insu-ficiência e EM (dupla lesão valvar) ou apresentá-la acompanhada de outra lesão valvar, como a IA. O curso clínico da du-pla lesão valvar é semelhante ao curso da IM, e o tratamento é semelhante. A IA pode ocorrer tanto por dilatação ventri-cular como por acometimento direto da doença de base sobre a válvula. Nessa situação, há piora da sobrecarga ventricu-lar, e a evolução para insuficiência cardíaca se acelera.
+
 c) Exames diagnósticos
 Eletrocardiograma: a IM crônica pode vir acompanhada de sinais de sobrecarga ventricular esquerda, aumento do átrio esquerdo e, mais raramente, sobrecarga ventricular direita. Pacientes com insuficiência coronariana podem apresentar isquemia miocárdica. O teste de esforço pode ser utilizado para definir a classe funcional do paciente, perdendo sensibi-lidade para o diagnóstico de doença coronariana em virtude da sobrecarga ventricular já existente;
 Radiografia de tórax: em casos de IM crônica, há o aumento do ventrículo e do átrio esquerdos. Nos quadros severos, po-dem-se identificar o aumento do ventrículo direito e a hipertensão pulmonar. Além disso, podem ocorrer sinais de con-gestão pulmonar e derrame pleural. Já na IM aguda, há poucos sinais de sobrecarga ventricular;
 Ecocardiograma: o Doppler permite a identificação do refluxo sistólico pela válvula mitral para o átrio esquerdo, confir-mando o diagnóstico, além de poder graduar a severidade da lesão. Permite, também, a avaliação anatômica da válvula para definir onde ocorre o defeito que possibilita o refluxo. A avaliação do tamanho do átrio e do ventrículo esquerdos também torna possível estimar a gravidade da lesão. Curiosamente, a IM de intensidade leve ao ecocardiograma não está relacionada ao achado de sopro ao exame físico. Um dado muito importante de estudos recentes mostra que mesmo as-sintomáticos sem tratamento devem realizar ecocardiograma. Nesses casos, um orifício valvar >40mm2 associa-se a maior mortalidade;
-Medicina Nuclear: a avaliação por cintilografia mostra a estimativa da fração de ejeção que reflui para o átrio esquerdo, permitindo avaliar o quanto do volume sistólico efetivo é atribuído ao volume que reflui para o átrio. Tal fração do volu-me sistólico está relacionada com o prognóstico. A avaliação de isquemia miocárdica por cintilografia também auxilia no manuseio da IM. No entanto, o exame angiográfico para a confirmação do diagnóstico de insuficiência coronariana é o indicado, também, para a definição desse diagnóstico;
+Medicina Nuclear: a avaliação por cintilografia mostra a estimativa da FE que reflui para o átrio esquerdo, permitindo avali-ar o quanto do volume sistólico efetivo é atribuído ao volume que reflui para o átrio. Tal fração do volume sistólico está relacionada com o prognóstico. A avaliação de isquemia miocárdica por cintilografia também auxilia no manuseio da IM. No entanto, o exame angiográfico para a confirmação do diagnóstico de insuficiência coronariana é o indicado, também, para a definição desse diagnóstico;
 Cateterismo cardíaco: raramente necessário, é mais utilizado para investigação de insuficiência coronariana e avaliação do risco cirúrgico envolvido na correção da IM. Também permite a avaliação das pressões do sistema, identificando hiper-tensão pulmonar. 
+
 C - Diagnóstico diferencial
 Como a manifestação clínica da IM é comum a outras patologias, o exame físico passa a ser de grande importância para o diagnóstico diferencial. O sopro da Insuficiência Tricúspide (IT), por exemplo, pode ser percebido no ápice cardíaco, em es-pecial se há aumento do ventrículo direito. O diagnóstico diferencial inclui o achado de aumento do sopro com a inspiração, ondas V amplas no pulso jugular, desvio do ventrículo direito e fígado pulsátil. Ambos os sopros, da IT e da IM, podem coexistir se há hipertensão pulmonar associada à IM. Nesse caso, o sopro da IT é mais bem percebido nos bordos esternais direito e esquerdo, e o sopro mitral, da IM, no ápice cardíaco.
-O sopro da EA é frequentemente confundido com a IM, em especial quando o sopro desta é atípico e se irradia para a re-gião aórtica. O sopro da EA, em geral, irradia-se para a região cervical, é acompanhado de B4 e não há mudança dinâmica do sopro com a inspiração. Outra forma de diferenciar os 2 sopros é a inalação de almitrina, potente vasodilatador, que poten-cializa o sopro aórtico e suaviza o sopro mitral.
+O sopro da EA é frequentemente confundido com a IM, em especial quando o sopro desta é atípico e se irradia para a re-gião aórtica. O sopro da EA, em geral, irradia-se para a região cervical, é acompanhado de B4, e não há mudança dinâmica do sopro com a inspiração. Outra forma de diferenciar os 2 sopros é a inalação de almitrina, potente vasodilatador, que poten-cializa o sopro aórtico e suaviza o sopro mitral.
 Um defeito no septo ventricular pode simular o sopro da IM. O paciente com esse defeito tem aumento do ventrículo di-reito, e frêmito pode ser palpado na caixa torácica. O sopro da Cardiomiopatia Hipertrófica (CH) pode ser confundido com o da IM, e os maiores achados que diferenciam tais sopros são a piora do sopro da CH na manobra de Valsalva e a diminuição do sopro da IM com essa mesma manobra.
 O sopro do PM pode ser de difícil diferenciação do sopro da CH, pois ambos se comportam da mesma forma nas manobras propedêuticas de diferenciação. No PM, em geral há estalido mesossistólico, enquanto é perceptível a hipertrofia ventricular esquerda na palpação do tórax e B4, na CH.
-O grande diagnóstico diferencial da IM aguda é o defeito de septo ventricular porque a maioria acontece na vigência do infarto do miocárdio. O frêmito palpável e o aumento do ventrículo direito são mais comuns. Outro sinal importante é que a dispneia no defeito de septo ventricular é menor do que na IM. 
+O grande diagnóstico diferencial da IM aguda é o defeito de septo ventricular, porque a maioria acontece na vigência do infarto do miocárdio. O frêmito palpável e o aumento do ventrículo direito são mais comuns. Outro sinal importante é que a dispneia no defeito de septo ventricular é menor do que na IM. 
+
 D - Tratamento
+
 a) Farmacológico
-Os vasodilatadores são úteis na IM aguda (de preferência, os parenterais) para diminuir a pressão de aorta e a impedância, favorecendo o esvaziamento ventricular e reduzindo o volume de refluxo para o átrio. A diminuição do tamanho das câmaras dilatadas também favorece a melhora do débito cardíaco. Podem ser utilizados a hidralazina e o nitroprussiato de sódio. Quanto à IM crônica, o uso de medicações tem impacto duvidoso (a pós-carga não está aumentada nessas situações, e não há a necessidade de reduzi-la), e o grupo que parece ter benefício é o de pacientes com IM secundária à disfunção do ventrícu-lo esquerdo. Em todo caso, terapia vasodilatadora está indicada a todo paciente sintomático ainda não candidato à cirurgia. Aqueles com disfunção valvar leve ou moderada, por sua vez, não se beneficiam dessas medicações em termos de mortalida-de, e, nos quadros graves, é melhor o tratamento cirúrgico.
-Digoxina: é útil na FA para o controle da frequência cardíaca; já o benefício com IM e ritmo sinusal é incerto.
-Anticoagulação oral: é indicada a pacientes com FA e EM concomitante. Quanto aos indivíduos com disfunção valvar mo-derada a severa, aumento do ventrículo e átrio esquerdos e que estejam em ritmo sinusal com função ventricular nor-mal, o benefício é incerto.
+Os vasodilatadores são úteis na IM aguda (de preferência, os parenterais) para diminuir a pressão de aorta e a impedância, favorecendo o esvaziamento ventricular e reduzindo o volume de refluxo para o átrio. A diminuição do tamanho das câmaras dilatadas também favorece a melhora do débito cardíaco. Podem ser utilizados a hidralazina e o nitroprussiato de sódio. Quanto à IM crônica, o uso de medicações tem impacto duvidoso (a pós-carga não está aumentada nessas situações, e não há a necessidade de reduzi-la), e o grupo que parece ter benefício é o de pacientes com IM secundária à disfunção do ventrícu-lo esquerdo. Em todo caso, terapia vasodilatadora está indicada a todo paciente sintomático ainda não candidato a cirurgia. Aqueles com disfunção valvar leve ou moderada, por sua vez, não se beneficiam dessas medicações em termos de mortalida-de, e, nos quadros graves, é melhor o tratamento cirúrgico.
+Digoxina: é útil na FA para o controle da frequência cardíaca; já o benefício com IM e ritmo sinusal é incerto;
+Anticoagulação oral: é indicada a pacientes com FA e EM concomitante. Quanto aos indivíduos com disfunção valvar mo-derada a severa, aumento do ventrículo e átrio esquerdos e que estejam em ritmo sinusal com função ventricular nor-mal, o benefício é incerto;
 Profilaxia com antibióticos: todos aqueles com IM necessitam de profilaxia para prevenir a endocardite bacteriana. A pro-filaxia secundária a pacientes com febre reumática também está indicada.
+
 b) Cirúrgico
 Pessoas com disfunção aguda ou severa ou descompensação da IM crônica severa necessitam de tratamento cirúrgico, caso as condições clínicas o permitam. Tais pacientes podem ser estabilizados com vasodilatadores e diuréticos. Na falha tera-pêutica das medicações, é indicado o balão intra-aórtico, pois determina redução da pressão sistólica do ventrículo esquerdo e reduz a pressão diastólica da aorta, melhorando a contratilidade ventricular. A maioria dos pacientes torna-se estável com tais medidas, o que permite o tratamento cirúrgico.
 Eventualmente, os indivíduos com IM aguda ou crônica moderadamente severa necessitam de cirurgia. O momento certo para a indicação cirúrgica é fundamental, pois os que desenvolvem sintomatologia intensa, dilatação ventricular, disfunção ventricular (FE <30%) e hipertensão pulmonar não apresentam grande melhora após a cirurgia. Por outro lado, caso sejam operados mais cedo, é bem provável a recuperação para um quadro assintomático. 
@@ -258,53 +376,87 @@ A cirurgia para a correção isolada de refluxos leves a moderados não deve ser in
 O início de sintomas de insuficiência cardíaca também deve ser considerado na decisão do tratamento cirúrgico. Alguns se tornam sintomáticos antes de desenvolverem alterações hemodinâmicas da IM.
 Outros fatores devem ser considerados na decisão do momento e do tipo da cirurgia (reparo da válvula ou substituição por material biológico ou metálico). Pacientes com ruptura da cordoalha, PM ou ruptura do músculo papilar podem ter a válvula corrigida, enquanto indivíduos com fusão da cordoalha, deformidades valvares acentuadas e endocardite infecciosa em geral necessitam de substituição da válvula. O reparo valvar é preferível por não necessitar de anticoagulação perene após a cirurgia, além de estar associado a melhor recuperação da função ventricular.
 Quando é necessária a troca da válvula, a função ventricular pode ser preservada, deixando intacto o sistema de cordoa-lhas. A escolha do material da válvula também influencia o tempo de cirurgia. As válvulas metálicas apresentam maior durabi-lidade, porém necessitam de anticoagulação perene. Já as biológicas podem ser utilizadas quando a longevidade da prótese não é uma preocupação (duração de cerca de 10 a 15 anos) ou quando tem de ser evitada a anticoagulação.
+
+Importante
+A febre reumática e a progressão do prolapso mitral são as principais causas de insuficiência mitral. A forma aguda é fre-quentemente relacionada a isquemia miocárdica.
 E - Prognóstico
 A IM crônica tem evolução semelhante à da IA e da EM crônicas. A causa da IM influencia, também, o prognóstico; pacien-tes com causa isquêmica associada têm prognóstico pior, e a degeneração valvar mixedematosa tem o melhor prognóstico. Já o da lesão associada à febre reumática tem posição intermediária. A endocardite muda o prognóstico, assim como a descom-pensação aguda de uma IM crônica. E é pior o prognóstico na IM aguda com edema pulmonar e sintomas severos.
+
 F - Prolapso da válvula mitral
 O PM é a valvulopatia mais frequente, ocorre entre 10 e 15% da população e é uma patologia associada a complicações como endocardite, fenômenos embólicos, insuficiência cardíaca e necessidade de reparo cirúrgico, além de ser causa de IM. Definido como a projeção de 1 ou mais folhetos da válvula em direção ao átrio esquerdo durante a sístole, manifesta-se por um click mesossistólico seguido de sopro sistólico tardio, mais bem percebido no ápice cardíaco da abertura. O diagnóstico definitivo é controverso, já que não há consenso sobre os critérios ecocardiográficos no método bidimensional. O tratamento do paciente assintomático é o seguimento. Já considerando aqueles com fenômenos cardioembólicos, a anticoagulação deve ser considerada, assim como a profilaxia da febre reumática nos portadores de PM.
 
-Tabela 10 - Principais características da IM 
+Tabela 10 - Principais características da insuficiência mitral 
 Quadro clínico	Dispneia ou ortopneia
 Propedêutica	Sopro sistólico apical; sopro protossistólico
-  
+   
 Ecocardiograma	Refluxo valvar mitral do ventrículo para o átrio
+
+Vídeo
+Fonocardiograma da insuficiência mitral
+ 
+
+Pergunta
+2015 - UNICAMP
+2. Um homem de 78 anos, há 2 meses queixa-se de falta de ar, com piora progressiva. Aos grandes esforços, sente quei-mação retroesternal e, em uma dessas ocasiões, sentiu tonturas, escurecimento visual e quase desmaiou, melhorando ao se deitar. Para conseguir dormir, eleva a cabeceira da cama e, mesmo assim, acorda com canseira todas as noites, melho-rando quando se senta. Refere, ainda, inchaço nas pernas. Exame físico: PA = 128x88mmHg, FC = 108bpm, em bom estado geral, com extremidades quentes, jugulares túrgidas a 45° e pulsos carotídeos diminuídos. Pulmões: murmúrio vesicular presente com estertores crepitantes nas bases. Coração: bulhas rítmicas normofonéticas, com desdobramento da 2ª bu-lha na expiração, B4 audível em mesocárdio e foco mitral e sopro sistólico paraesternal à direita, com irradiação para as carótidas. A ausculta cardíaca refere-se a:
+a) galope atrial e estenose aórtica
+b) galope atrial e insuficiência tricúspide
+c) galope ventricular e insuficiência aórtica
+d) galope ventricular e estenose aórtica
+Resposta no final do capítulo
+
 5. Estenose tricúspide e insuficiência tricúspide
+
 A - Introdução
 A frequência do acometimento valvar tricúspide (Figura 7) tem aumentado ao longo do tempo pela associação direta ao uso intravenoso de drogas, cateteres de longa permanência, dispositivos cardíacos implantáveis e pacientes imunossuprimi-dos.
- 
+
+  
 Figura 7 - Alterações na válvula tricúspide
+
 B - Etiologia e fisiopatologia
 A válvula tricúspide é composta por 3 folhetos de tamanho desigual (anterior >septal >posterior), e os músculos papilares não são tão bem definidos quanto os das câmaras esquerdas. A alteração de qualquer um dos componentes valvares pode determinar a disfunção.
+
 C - Insuficiência tricúspide
 A IT, em geral, ocorre pela dilatação do anel valvar ou pela disfunção da musculatura papilar, sendo comumente uma insu-ficiência funcional. Na maioria das vezes, é causada por doença ventricular esquerda (doença mitral), porém alterações da vasculatura pulmonar ou do ventrículo direito podem determinar a disfunção. 
 Quando a causa é reumática, quase sempre ocorre o acometimento valvar mitral associado, e a disfunção tricúspide é le-ve. A endocardite da válvula, em geral, acontece entre usuários de drogas intravenosas, e o Staphylococcus aureus é o agente mais comum, seguido de subtipos de Pseudomonas e Candida sp. 
 É importante lembrar-se de etiologia fúngica quando a vegetação é grande, podendo causar obstrução do anel valvar. A perfuração ou a ruptura da cordoalha podem determinar insuficiência valvar. Tumores carcinoides são causas das raras do-enças valvares pulmonares e/ou tricúspides. O prolapso de válvula tricúspide é visto, quase exclusivamente, em pacientes com PM, além de ser um componente frequente da anomalia de Ebstein.
-A IT de intensidade moderada pode complicar-se em até 25% dos casos de lúpus eritematoso sistêmico por hipertensão pulmonar. A endocardite de Libman-Sacks envolvendo a válvula tricúspide é muito menos comum. A síndrome antifosfolípide pode cursar com acometimento da válvula. Também pode surgir a IT como complicação tardia da troca de válvula mitral.
+A IT de intensidade moderada pode complicar-se em até 25% dos casos de lúpus eritematoso sistêmico por hipertensão pulmonar. A endocardite de Libman-Sacks envolvendo a válvula tricúspide é muito menos comum. A síndrome antifosfolípide pode cursar com acometimento da válvula. A IT também pode surgir como complicação tardia da troca de válvula mitral.
+
 D - Estenose tricúspide
 A Estenose Tricúspide (ET) é uma lesão incomum e usualmente acompanha a EM, tendo como principal causa a reumática. O acometimento isolado da válvula é raro. Além disso, pode ter etiologia congênita e surgir após tratamento com metisergida.
+
 E - Achados clínicos
+
 a) Sinais e sintomas
 O reconhecimento clínico da doença é difícil e, em geral, obscurecido pela doença associada. Os achados mais frequentes são sintomas não considerados de origem cardíaca: dor abdominal, icterícia, perda de peso e inanição. As queixas cardiológi-cas, usualmente, associam-se a outras disfunções valvares. Já a história, normalmente, é pobre, e o exame físico fornece mais dados para o diagnóstico.
+
 b) Exame físico
-Pulso venoso jugular: a pressão atrial direita pode ser estimada por meio do Pulso Venoso Jugular (PVJ). Há 3 ondas (A, C, V) ascendentes e 2 (X e Y) descendentes. A onda A e a 1ª descendente (X) são produzidas, respectivamente, por contra-ção e relaxamento atrial. A onda X é interrompida pela onda C, que é causada pela contração isovolumétrica do ventrícu-lo direito com projeção em direção ao átrio, devido ao fechamento da valva tricúspide (alguns autores acreditam que a onda C se relacione à transmissão de pressão do pulso carotídeo na sístole ventricular). A onda V representa o enchi-mento atrial passivo, estando a valva tricúspide fechada; o cume dessa onda corresponde à abertura da valva tricúspide, que acontece no momento do fechamento da valva pulmonar (2ª bulha). A doença valvar tricúspide é, tipicamente, as-sociada ao aumento da pressão venosa central, que pode ser identificado pela análise do pulso jugular. Na IT, ocorrem onda mesossistólica S e onda Y proeminente (passagem rápida de todo o sangue proveniente do retorno venoso somado ao sangue que refluiu do ventrículo direito na sístole devido à incompetência da valva tricúspide, levando a queda rápida da pressão atrial). Na ET, a onda A torna-se muito proeminente, e a Y, muito discreta (o sangue encontra dificuldade em passar do átrio para o ventrículo direito).
+Pulso venoso jugular: a pressão atrial direita pode ser estimada por meio do Pulso Venoso Jugular (PVJ). Há 3 ondas (A, C, V) ascendentes e 2 (X e Y) descendentes. A onda A e a 1ª descendente (X) são produzidas, respectivamente, por contra-ção e relaxamento atriais. A onda X é interrompida pela onda C, que é causada pela contração isovolumétrica do ventrí-culo direito com projeção em direção ao átrio, devido ao fechamento da valva tricúspide (alguns autores acreditam que a onda C se relacione à transmissão de pressão do pulso carotídeo na sístole ventricular). A onda V representa o enchi-mento atrial passivo, estando a valva tricúspide fechada; o cume dessa onda corresponde à abertura da valva tricúspide, que acontece no momento do fechamento da valva pulmonar (2ª bulha). A doença valvar tricúspide é, tipicamente, as-sociada ao aumento da pressão venosa central, que pode ser identificado pela análise do pulso jugular. Na IT, ocorrem onda mesossistólica S e onda Y proeminente (passagem rápida de todo o sangue proveniente do retorno venoso somado ao sangue que refluiu do ventrículo direito na sístole devido à incompetência da valva tricúspide, levando a queda rápida da pressão atrial). Na ET, a onda A torna-se muito proeminente, e a Y, muito discreta (o sangue encontra dificuldade em passar do átrio para o ventrículo direito).
 A Figura 8 demonstra as ondas do pulso venoso jugular normais e sua relação com o complexo QRS e o fonocardiograma.
-  
+
+   
 Figura 8 - Registro da onda pressórica do pulso venoso jugular e suas relações com o complexo QRS e o fonocardiograma
+
 Ausculta cardíaca da IT: quando o ventrículo direito é muito dilatado, a localização do sopro pode ser deslocada para a es-querda, sugerindo IM. O aumento inspiratório do sopro holossistólico no foco tricúspide é a marca dessa disfunção val-var. Quando a insuficiência ventricular direita é marcante, pode não ocorrer aumento do sopro com a inspiração. Geral-mente, não se palpa o frêmito cardíaco;
 Ausculta cardíaca da ET: um estalido de abertura da válvula tricúspide é de difícil diferenciação com relação ao estalido de abertura da válvula mitral. O sopro da ET aumenta com a inspiração, pode ser mais bem avaliado na borda esternal es-querda e, geralmente, é rude. Ambas as disfunções valvares podem determinar disfunção hepática pelo aumento da pressão venosa no território da cava inferior.
+
 F - Exames diagnósticos
+
 a) Eletrocardiograma 
 Ondas P, características de aumento atrial direito sem evidência de sobrecarga ventricular direita, sugerem ET, e a FA é frequente.
+
 b) Radiografia de tórax 
-A cardiomegalia ocorre na ET com uma borda cardíaca direita proeminente em virtude do aumento do átrio direito e dila-tação das veias cava superior e ázigo. Na IT, podem ocorrer derrame pleural e elevação do diafragma por ascite.
+A cardiomegalia ocorre na ET com uma borda cardíaca direita proeminente em virtude do aumento do átrio direito e da dilatação das veias cava superior e ázigo. Na IT, podem ocorrer derrame pleural e elevação do diafragma por ascite.
+
 c) Ecocardiograma
 O exame de escolha permite definir se existe associação entre outra doença, como o mixoma atrial, e a patologia primária da válvula. Na IT, o exame evidencia sobrecarga ventricular direita e movimentação paradoxal do septo, permitindo estimar o gradiente transvalvar. A válvula encontra-se espessada e com mobilidade diminuída na ET.
+
 d) Cateterismo cardíaco
 Na IT e na ET, é possível identificar ondas características que compõem o pulso venoso jugular.
+
 G - Tratamento
 A IT é bem tolerada na ausência de hipertensão pulmonar; quando esta ocorre, surge a insuficiência ventricular direita. A restrição de sódio e o uso de diuréticos de alça diminuem a pressão do átrio direito. O tratamento da doença associada tam-bém é importante. A ET sintomática é tratada cirurgicamente com reparo ou troca da válvula por prótese biológica ou metáli-ca, enquanto a correção cirúrgica da IT é de indicação mais difícil. Comumente, está indicada intervenção quando a valva mitral tem indicação de abordagem ou quando o paciente apresenta sintomas.
 
-Tabela 11 - Características da ET e da IT 
+Tabela 11 - Características da estenose tricúspide e da insuficiência tricúspide 
 ET
 - Onda A proeminente e onda Y reduzida no pulso venoso jugular;
 - Sopro diastólico na borda esternal esquerda que aumenta com a inspiração;
@@ -313,48 +465,93 @@ IT
 - Onda V proeminente no pulso venoso jugular;
 - Sopro sistólico na borda esternal esquerda que aumenta com a inspiração;
 - Achados característicos ao ecocardiograma.
-6. Insuficiência pulmonar e estenose pulmonar
+
+Vídeo
+Insuficiência tricúspide
  
+
+Vídeo
+Estenose tricúspide
+ 
+
+6. Insuficiência pulmonar e estenose pulmonar
+
+  
 Figura 9 - Válvula pulmonar estenosada
+
 A - Introdução
 A Insuficiência Pulmonar (IP), frequente na vigência de hipertensão pulmonar, acontece por dilatação do anel valvar pul-monar e pode ser precipitada por qualquer causa de hipertensão pulmonar. Também são causas a dilatação idiopática do tronco pulmonar e a síndrome de Marfan. A endocardite bacteriana pode determinar IP por obstrução direta do anel valvar pela vegetação. Em geral, a repercussão clínica da IP é mínima, raramente necessitando de troca valvar. O acometimento reumático da válvula é raro.
-A Estenose Pulmonar (EP), por sua vez, é de origem congênita em 95% dos casos, e a forma adquirida tem a doença cardí-aca carcinoide como causa mais comum.
+
+Dica
+A estenose pulmonar é de origem congênita em 95% dos casos, e a forma adquirida tem a doença cardíaca carcinoide como causa mais comum. 
+
 B - Sinais e sintomas
-Como na doença tricúspide, os sintomas da doença pulmonar podem ser súbitos e associados à doença de base. Pacientes com IP são frequentemente assintomáticos, exceto quando surge a hipertensão pulmonar, e indivíduos com EP também não apresentam sintomas; nestes casos, ocorrem dispneia, dor torácica e fadiga quando se eleva o gradiente transvalvar.
+
+Quadro clínico
+Como na doença tricúspide, os sintomas da doença pulmonar podem ser súbitos e associados à doença de base. Pacientes com insuficiência pulmonar são frequentemente assintomáticos, exceto quando surge a hipertensão pulmonar, e indivíduos com estenose pulmonar também não apresentam sintomas; nesses casos, ocorrem dispneia, dor torácica e fadiga quando se eleva o gradiente transvalvar.
+
 a) Pulso venoso jugular
 Onda venosa jugular – a presença de EP é sugerida por onda A proeminente na vigência de pressão venosa central nor-mal.
+
 b) Ausculta cardíaca
-Na IP, o componente pulmonar de B2 é usualmente hipofonético porque a maior parte dos pacientes tem hipertensão pulmonar. Ritmo de galope e B3 podem ser encontrados na região paraesternal esquerda. Na ausência de hipertensão pul-monar, o sopro é de baixa frequência, diastólico, com padrão crescente–decrescente, mais bem avaliado no 3º ou no 4º espaço intercostal esquerdo. O sopro de Graham-Steel ocorre na região paraesternal esquerda entre o 2º e o 3º espaços intercostais, decrescente, indicando hipertensão pulmonar intensa. Na EP, a B2 desdobra-se proporcionalmente ao grau de estenose. O sopro pode estar associado ao frêmito, e o pulso do ventrículo direito pode ser palpado.
+Na IP, o componente pulmonar de B2 é usualmente hipofonético, porque a maior parte dos pacientes tem hipertensão pulmonar. Ritmo de galope e B3 podem ser encontrados na região paraesternal esquerda. Na ausência de hipertensão pul-monar, o sopro é de baixa frequência, diastólico, com padrão crescente–decrescente, mais bem avaliado no 3º ou no 4º espaços intercostais esquerdos. O sopro de Graham-Steel ocorre na região paraesternal esquerda entre o 2º e o 3º espaços intercostais, decrescente, indicando hipertensão pulmonar intensa. Na EP, a B2 desdobra-se proporcionalmente ao grau de estenose. O sopro pode estar associado ao frêmito, e o pulso do ventrículo direito pode ser palpado.
+
 C - Exames diagnósticos
+
 a) Eletrocardiograma
 Tanto a EP quanto a IP podem demonstrar o aumento das câmaras cardíacas direitas. O bloqueio do ramo direito, o desvio do eixo para a direita e a hipertrofia ventricular direita são achados típicos. EP leve ou moderada habitualmente apresenta exame normal.
+
 b) Radiografia de tórax
 Aumento não específico do ventrículo direito e das artérias pulmonares pode ser observado na EP.
+
 c) Ecocardiograma
 Determina a natureza, o local e a severidade da estenose e da insuficiência. Além disso, identifica sinais de hipertensão pulmonar.
+
 d) Cateterismo cardíaco
 Desnecessário.
+
 D - Tratamento
 É raro que a IP necessite de tratamento específico; é melhorada com o tratamento de condições predisponentes, como a hipertensão pulmonar e a endocardite. A EP tem sido resolvida, com grande sucesso, por meio da valvuloplastia por balão. O tratamento baseia-se na severidade da doença, e os pacientes com doença moderada e severa sintomática podem ser trata-dos por essa modalidade terapêutica. 
+
 E - Prognóstico
 Geralmente, é muito bom. Quanto a pacientes com IP, pode ser influenciado por fatores como a hipertensão pulmonar.
 
-Tabela 12 - Características da IP e da EP  
+Tabela 12 - Características da insuficiência pulmonar e da estenose pulmonar  
 IP
-- Sopro diastólico na borda superior esquerda esternal que aumenta com a inspi-ração;
+- Sopro diastólico na borda superior esquerda esternal que aumenta com a inspiração;
 - Desdobramento da 2ª bulha hiperfonética no foco pulmonar;
 - Achados ecocardiográficos característicos.
 EP (Figura 9)
 - Sopro sistólico no 2º espaço intercostal esquerdo precedido de click sistólico;
 - Desdobramento da 2ª bulha hipofonética no foco pulmonar;
 - Achados ecocardiográficos característicos.
+
+Vídeo
+Estenose pulmonar
+ 
+
+Vídeo
+Insuficiência pulmonar
+ 
+
+
+Pergunta
+2015 - IFF
+3. Um senhor de 59 anos procura atendimento devido a dispneia e dor torácica. Ao exame, FC = 64bpm, PA = 100x70mmHg, pulso carotídeo tardus et parvus e ictus cordis no 5º espaço intercostal na linha hemiclavicular esquerda e propulsivo. Além disso, apresenta sopro sistólico (4+/6+) no bordo esternal esquerdo crescente–decrescente e hipofonese de 2ª bulha pelo componente A2. Qual é a causa dos seus sintomas?
+a) estenose mitral
+b) insuficiência mitral
+c) estenose aórtica
+d) insuficiência aórtica
+Resposta no final do capítulo
+
 7. Resumo
+
 Quadro-resumo
 EA
 - Sintomas de angina, dispneia aos esforços, síncope de esforço, sopro sistólico ejetivo com irradiação para as carótidas, pulso parvus et tardus; 
 - Tratamento com diuréticos, digitálicos e vasodilatadores, exceto inibidores da enzima conversora de angiotensina para EA grave e troca valvar ou valvuloplastia por cateterismo. 
 IA
-- Sem sintomas até palpitações e angina; evolução para insuficiência cardíaca com dispneia e ortopneia; pressão arterial diastóli-ca mais baixa; 
+- Sem sintomas até palpitações e angina; evolução para insuficiência cardíaca com dispneia e ortopneia; pressão arterial diastólica mais baixa; 
 - Sopro diastólico leve, decrescente no 3º espaço intercostal; quando percebido no ápice cardíaco, é chamado sopro de Austin Flint;
 - Segmento nos quadros leves e moderados; vasodilatadores, diuréticos e nitratos para o controle dos sintomas, enquanto se aguarda a cirurgia para os casos mais sintomáticos.
 EM
@@ -365,3 +562,13 @@ EM
 - Dispneia progressiva, ortopneia, edema periférico; 
 - Sopro sistólico apical; 
 - Vasodilatadores, tratamento cirúrgico para descompensações de repetição. 
+
+Respostas
+1. B
+2. A
+3. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
