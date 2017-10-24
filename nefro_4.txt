@@ -1,61 +1,92 @@
 Distúrbios do sódio
-Rodrigo Antônio Brandão Neto / Natália Corrêa Vieira de Melo / Ana Cristina Martins Dal Santo
+Rodrigo Antônio Brandão Neto
+Natália Corrêa Vieira de Melo
+Ana Cristina Martins Dal Santo
+
+Resumo
+De 85 a 90% de todo o sódio estão no extracelular, sendo o principal cátion responsável pela osmolaridade e pelo volume do extracelular. Os distúrbios dividem-se em hipernatremia (>145mEq/L) e hiponatremia (<135mEq/L). A primeira ocorre quando a concentração sérica de sódio é superior a 145mEq/L, oriunda da perda de água livre, ou incapacidade de inges-tão desta, sendo exemplo importante diabetes insipidus, que pode dividir-se em central (alteração da produção e/ou libe-ração do hormônio antidiurético) e nefrogênico (insensibilidade renal ao mesmo hormônio). Outras causas são vômitos, diarreia, fístulas, sonda nasogástrica, queimadura, sudorese excessiva, febre e exposição a altas temperaturas. No quadro clínico, há sede intensa, fraqueza muscular, irritabilidade, confusão, déficits neurológicos focais, convulsão e coma, confor-me a intensidade da hipernatremia, e o diagnóstico se faz por história clínica somada à investigação dos fatores que causam hipernatremia. O tratamento baseia-se na hidratação, por meio de soluções hipotônicas, como soro hipotônico a 0,45% (77mEq/L), sempre lembrando que a correção dos níveis plasmáticos não deve exceder 0,5mEq/L por hora, ou 12mEq/d. A hiponatremia é dada quando a concentração sérica de sódio é inferior a 135mEq/L, traduzindo um excesso de água no organismo, e pode ser dividida em hipotônica – subdividida em hipervolêmica (insuficiências cardíaca, hepática ou renal e síndrome nefrótica), hipovolêmica (diuréticos, nefropatia perdedora de sal ou Acidose Tubular Renal (ATR), diarreia, vômi-tos, hemorragia ou queimaduras) ou normovolêmica (síndrome da secreção inapropriada de hormônio antidiurético, hipo-tireoidismo, insuficiência adrenal, polidipsia primária) – e hipertônica, advinda de quadros de hiperglicemia (cetoacidose e estado hiperosmolar). O tratamento consiste na correção da hiponatremia, conforme sintomatologia. Na hiponatremia sin-tomática, 1,5 a 2mEq/L/h (3 a 4 primeiras horas), seguidos por velocidade de 0,5 a 1mEq/L, sem exceder 12mEq/L nas pri-meiras 24 horas; em edemaciados, restrição hídrica de 800 a 1.000mL/24 horas; e, na desidratação associada, soro fisioló-gico, até haver boas perfusões periférica e renal.
+
 1. Introdução
+
 Cerca de 50 a 60% do corpo humano são formados por água, com a seguinte distribuição:
 Entre 60 a 70% encontram-se no espaço intracelular;
 Entre 30 a 40% no espaço extracelular que, por sua vez, está dividido em:
-Intravascular (dentro dos vasos): 25%;
+Intravascular (dentro dos vasos – plasma): 25%;
 Espaço extravascular ou intersticial: 75%.
 O sódio é ativamente bombeado do intracelular para o extracelular pela bomba Na+-K+-ATPase. Como resultado, cerca de 85 a 90% de todo o sódio encontram-se no extracelular, tornando-o o principal cátion responsável pela osmolaridade e pelo volume do extracelular.
+Os líquidos extra e intracelulares contêm diferentes tipos de solutos, porém as concentrações de solutos dentro e fora das células são sempre as mesmas. As diferenças de concentrações são apenas transientes, pois criam uma força extrema-mente intensa para a movimentação da água através das membranas celulares. A pressão osmótica movimenta a água rapida-mente para o compartimento líquido com maior concentração de soluto, até que as concentrações se tornem novamente iguais. A pressão osmótica responsável pela movimentação da água através das membranas celulares depende do número total de partículas de soluto (osmóis) dissolvidas em solução – uma propriedade conhecida como osmolalidade. Sais de sódio, glicose e ureia são responsáveis pela maioria das partículas de soluto normalmente presentes no líquido extracelular. A os-molalidade plasmática pode ser quantificada através da fórmula a seguir:
+
+Posm = 2 x plasma [Na+] + [glicose]/18 + [ureia]/6
+(normal = 270 a 285mOsmL/kg)
+
 Um preciso mecanismo corpóreo é capaz de manter o sódio e a osmolaridade em níveis bastante estreitos. A concentra-ção plasmática de sódio (135 a 145mEq/L) reflete o balanço de água, e não o volume extracelular.
 Indivíduos normais ingerem cerca de 100 a 150mEq de Na+ diariamente, e, em geral, a mesma quantidade é excretada por dia (rins, pele e trato gastrintestinal). Após ser filtrado, 60 a 70% do sódio são reabsorvidos nos túbulos proximais, em um processo eletroneutro e isosmótico. Adicional reabsorção (25 a 30%) é feita pela alça espessa de Henle por meio do cotrans-porte Na+-K+-2Cl-, constituindo um processo ativo e eletroneutro. 
 Uma pequena porção de Na+ (5%) é reabsorvida no túbulo convoluto distal pelo cotransporte de Na+-Cl-, que é o local de ação dos tiazídicos. Uma adicional reabsorção é feita nos ductos coletores corticais e medulares.
 Os distúrbios da concentração do sódio são as alterações eletrolíticas mais frequentes encontradas na prática clínica. A hiponatremia, em particular, dependendo do critério utilizado para a sua definição, tem prevalência de 1% na população americana e de 15 a 22% em internados. A prevalência aumenta com a idade e, em pacientes com mais de 65 anos, pode chegar a 7%. A hipernatremia, por sua vez, tem incidência que varia de 0,3 a 1% em adultos internados.
+
+Dica
+A quantidade de sódio no organismo é o principal determinante do volume extracelular de água.
+
 2. Hipernatremia
+
 A hipernatremia é definida como uma concentração sérica de sódio maior que 145mEq/L. O sódio é o principal determi-nante da osmolaridade sérica e o cátion mais importante do extracelular. Em condições normais, há equilíbrio entre a osmola-ridade através das membranas (entre o extracelular e o intracelular). A resposta corpórea é o aumento da sede e a retenção máxima de água (implica urina hiperconcentrada). A concentração de sódio reflete predominantemente a condição osmótica da Água Corpórea Total (ACT), de forma que a hipernatremia é mais frequentemente causada por um estado de deficiência de água livre em relação ao sódio.
 A principal consequência fisiopatológica é a hiperosmolaridade, com desidratação celular. Isso proporciona um mecanis-mo de adaptação, que acontece durante dias, no qual as células acumulam solutos (osmóis idiogênicos), na tentativa de evitar a perda de água para o extracelular. Por isso, a correção rápida da hipernatremia pode ocasionar entrada de água nas células e edema celular, com consequências potencialmente fatais, sobretudo no Sistema Nervoso Central (SNC – rebaixamento do nível de consciência, convulsões e morte). 
+
+Dica
+Hipernatremia = déficit de água = estado hiperosmolar.
+
 A - Etiologia e fisiopatologia
-A hipernatremia é causada por um déficit relativo de água em relação ao soluto. Embora possa ser causada pela adminis-tração excessiva de sódio hipertônico, geralmente resulta da perda de água livre, a qual pode ser secundária a perdas insen-síveis pela pele e vias respiratórias, a diarreia, febre, queimaduras ou a perdas urinárias (secundárias a diabetes insipidus central ou nefrogênico ou a diuréticos osmóticos). 
+A hipernatremia é causada por um déficit relativo de água em relação ao soluto. Embora possa ser causada pela adminis-tração excessiva de sódio hipertônico, geralmente resulta da perda de água livre, a qual pode ser secundária a perdas insen-síveis pela pele e vias respiratórias, diarreia, febre, queimaduras ou a perdas urinárias (secundárias a diabetes insipidus cen-tral ou nefrogênico ou a diuréticos osmóticos). 
 A maior proteção contra o desenvolvimento de hipernatremia nas situações com aumento da perda de água livre é o au-mento da ingesta hídrica, pois o aumento da concentração de sódio estimula o centro da sede por meio dos receptores hipo-talâmicos. Logo, a hipernatremia geralmente ocorre em crianças pequenas ou em idosos que não sejam capazes de pedir por água, apesar da possibilidade de terem o centro da sede intacto e sentirem sede. As principais etiologias da hipernatremia estão descritas na Tabela 1.  
 Dentre as causas de hipernatremia, deve-se destacar o diabetes insipidus, cuja principal característica é a perda de água livre pelos rins, devido à falta do hormônio antidiurético (ADH) ou à resistência tubular ao ADH. O diabetes insipidus central é causado por alteração da produção e/ou liberação do ADH; já o diabetes insipidus nefrogênico decorre da insensibilidade renal a este. A maioria dos pacientes tem o mecanismo da sede preservado, logo apresentam, tipicamente, poliúria e poli-dipsia, com sódio apenas levemente aumentado ou no limite superior da normalidade. No entanto, pode ocorrer hipernatre-mia grave sintomática em bebês com diabetes insipidus (que não podem pedir por água) ou na presença de lesões centrais que prejudiquem ao mesmo tempo a liberação de ADH e o centro da sede. São causas do diabetes insipidus (Tabela 2):
 Central: trauma cranioencefálico, tumores do SNC, cistos, histiocitose, tuberculose, sarcoidose, aneurismas, meningite, encefalite, síndrome de Guillain-Barré e idiopático;
 Nefrogênico: congênito e adquirido (hipercalcemia, hipocalemia, doença cística medular, medicações como lítio, deme-clociclina, foscarnete e anfotericina).
 O diagnóstico de diabetes insipidus é confirmado pela presença de hipernatremia na vigência de osmolaridade urinária diminuída ou densidade urinária <1.010. 
+
+Importante
+O diabetes insipidus central é causado por alteração da produção e/ou liberação do hormônio antidiurético (trauma crani-oencefálico, tumores, sarcoidose, meningite, Guillain-Barré), enquanto o diabetes insipidus nefrogênico decorre da insen-sibilidade renal ao mesmo hormônio (hipercalcemia, doença cística medular, medicações como lítio, demeclociclina e anfo-tericina).
+
 Tabela 1 - Principais causas de hipernatremia
 Perda de água	- Perdas insensíveis: respiração e sudorese;
 	- Hipodipsia;
 	- Diabetes insipidus central e nefrogênico.
-Perda de fluido hipotônico	- Perdas renais: diurese osmótica, diuréticos de alça, fase poliúrica da necrose tubular aguda, diu-rese pós-obstrutiva;
+Perda de fluido hipotônico	- Perdas renais: diurese osmótica, diuréticos de alça, fase poliúrica da necrose tubular aguda, diurese pós-obstrutiva;
 	- Perdas gastrintestinais: vômitos, diarreia, fístulas, sonda nasogástrica;
 	- Perdas pela pele: queimadura, sudorese excessiva, febre, exposição a altas temperaturas.
 Sobrecarga de sódio	- Administração de soluções hipertônicas de sódio;
 	- Enemas ricos em sódio;
 	- Hiperaldosteronismo primário;
 	- Síndrome de Cushing.
+
 Tabela 2 - Etiologia do diabetes insipidus
-Central	- Neurocirurgias: craniofaringioma, cirurgias de acesso transesfe-noidal;
-- Traumatismo cranioencefálico;
-- Encefalopatia anóxico-isquêmica: estado pós-parada cardiorrespi-ratória, choque e síndrome de Sheehan;
-- Neoplasia: primária ou metastática;
-- Miscelânea: sarcoidose, histiocitose X, encefalite, meningite e aneurisma intracraniano.
-Nefrogênico	- Congênito;
-- Distúrbios hidroeletrolíticos:
+Central	-	Neurocirurgias: craniofaringioma, cirurgias de acesso transesfenoidal;
+-	Traumatismo cranioencefálico;
+- Encefalopatia anóxico-isquêmica: estado pós-parada cardiorrespiratória, choque e síndrome de Sheehan;
+-	Neoplasia: primária ou metastática;
+-	Miscelânea: sarcoidose, histiocitose X, encefalite, meningite e aneurisma intracraniano.
+Nefrogênico	-	Congênito;
+-	Distúrbios hidroeletrolíticos:
 · Hipercalcemia;
 · Hipocalemia.
-- Drogas: lítio; demeclociclina, estreptozocina, diurético de alça;
-- Síndrome de Sjögren;
-- Amiloidose;
-- Diurese osmótica (diabetes descompensado, manitol);
-- IRA e IRC;
-- Anemia falciforme;
-- Gravidez;
-- Intoxicação por propoxifeno.
+-	Drogas: lítio; demeclociclina, estreptozocina, diurético de alça;
+-	Síndrome de Sjögren;
+-	Amiloidose;
+-	Diurese osmótica (diabetes descompensado, manitol);
+-	Injúria Renal Aguda (IRA) e Injúria Renal Crônica (IRC);
+-	Anemia falciforme;
+-	Gravidez;
+-	Intoxicação por propoxifeno.
+
 B - Achados clínicos
 A hipernatremia pode ocasionar sede intensa, fraqueza muscular, irritabilidade, confusão, déficits neurológicos focais, convulsões e coma. A convulsão raramente é ocasionada pela hipernatremia por si só, e, muitas vezes, a sintomatologia se confunde com a da situação que levou ao aumento do sódio sérico (como acidente vascular cerebral hemorrágico). Ao exa-me físico, o paciente encontra-se desidratado.
 As alterações osmóticas desencadeadas pela hipernatremia no SNC podem ocasionar ruptura vascular, sangramento ce-rebral, hemorragia subaracnóidea e sequela neurológica permanente. Na prática clínica, encontra-se um indivíduo muito desidratado, com quadro neurológico proporcional à osmolaridade: 
-Maior que 320mOsm/L: confusão mental;
-Maior que 340mOsm/L: coma;
-Maior que 360mOsm/L: nível para apneia e morte.
+Maior do que 320mOsm/L: confusão mental;
+Maior do que 340mOsm/L: coma;
+Maior do que 360mOsm/L: nível para apneia e morte.
+
+Quadro clínico
+O quadro clínico da hipernatremia envolve sede intensa, fraqueza muscular, irritabilidade, confusão, déficits neurológicos focais, convulsão e coma, conforme a intensidade da hipernatremia. 
+
 C - Diagnóstico
 O diagnóstico é feito pela dosagem sérica do sódio (>145mEq/L). Uma completa e minuciosa propedêutica é importante na busca da causa da hipernatremia. Diarreia intensa, poliúria, medicações ingeridas e antecedentes (idosos, demenciados e acamados são especialmente sensíveis à desidratação) são exemplos de dados da história clínica que podem sugerir a etiolo-gia da hipernatremia. Outros exames complementares (além do sódio sérico) devem ser solicitados de acordo com a hipótese clínica, como:
 Medida do volume urinário e da osmolaridade urinária:
@@ -66,14 +97,29 @@ Glicemia sérica: pode diagnosticar diabetes mellitus;
 Potássio e cálcio séricos: podem ocasionar diabetes insipidus adquirido;
 Tomografia de crânio: avaliar presença de tumores, traumas, acidente vascular cerebral, que podem causar diabetes insi-pidus central.
 A grande maioria dos casos de hipernatremia se deve à desidratação com perda excessiva de água em relação ao sódio. Os pacientes geralmente estão desidratados e com a urina concentrada. Pacientes não desidratados podem ter hipernatre-mia por uso de solução com grande quantidade de sódio, como o bicarbonato de sódio.
+
+Diagnóstico
+Para o diagnóstico de hipernatremia, soma-se a história clínica à investigação dos fatores que a causam.
+
 Cabe aqui uma breve discussão sobre o diabetes insipidus, que se caracteriza por uma síndrome poliúrica com urina hipo-tônica e consequente perda de grande quantidade de água livre. Essa síndrome poliúrica é causada por redução da secreção ou da ação de vasopressina (AVP), também conhecida como ADH. 
 A polidipsia pode ser classificada como primária (dipsogênica e psicogênica), hipotalâmica ou central (decorrente de sín-tese inadequada de AVP) e nefrogênica (incapacidade de concentração urinária na presença de AVP, por resistência dos receptores renais à ação da AVP). Quando o paciente, na vigência de hipernatremia e osmolaridade plasmática aumentada, apresenta osmolaridade urinária baixa (<300mOsm/L), pode ser realizado o diagnóstico de diabetes insipidus. 
-Esse diagnóstico em pacientes sem osmolaridade plasmática aumentada é realizado por um simples teste de restrição hí-drica, seguido da administração subcutânea de 1,2mg (5 unidades) de desmopressina (1-desamino-8-D-arginina vasopressina, DDAVP), um análogo sintético da vasopressina. O objetivo é atingir, com a restrição hídrica, a osmolaridade plasmática máxi-ma, para que se possa observar a osmolaridade urinária. 
+Esse diagnóstico em pacientes sem osmolaridade plasmática aumentada é realizado por um simples teste de restrição hí-drica, seguido da administração subcutânea de 1,2mg (5 unidades) de desmopressina (1-desamino-8-D-arginina vasopressina, desmopressina – DDAVP), um análogo sintético da vasopressina. O objetivo é atingir, com a restrição hídrica, a osmolaridade plasmática máxima, para que se possa observar a osmolaridade urinária. 
 Pacientes com moderada poliúria podem iniciar a restrição hídrica na noite precedente ao teste; pacientes com grave po-liúria devem iniciar a restrição hídrica no mesmo dia do teste, permitindo observação constante. Em geral, o tempo necessá-rio para alcançar a osmolaridade urinária máxima varia entre 4 e 18 horas. O teste se inicia com medidas das osmolaridades plasmática e urinária. Toda a ingestão de líquidos é suspensa, e são obtidas medidas horárias do peso corpóreo, osmolarida-des urinária e plasmática e dosagem da AVP plasmática (opcional). Quando a osmolaridade plasmática excede 295mOsm/L, deve-se checar a osmolaridade urinária; se esta ainda é <300mOsm/L, o diagnóstico de diabetes insipidus pode ser realizado. 
-Após isso, pode ser administrado um análogo do ADH, a desmopressina (DDAVP), ao paciente; caso ele apresente aumen-to adequado da concentração urinária, o diagnóstico de diabetes insipidus central pode ser realizado. Em pacientes com dia-betes insipidus nefrogênico, não há resposta à administração do análogo do ADH, ou seja, a osmolaridade urinária alcançada no máximo da desidratação aumenta menos de 10% após a administração de DDAVP. 
+
+Importante
+O diabetes insipidus é uma síndrome poliúrica causada por redução da secreção ou da ação de vasopressina (AVP ou hor-mônio antidiurético). O diagnóstico é dado quando o paciente, na vigência de hipernatremia e osmolaridade plasmática aumentada, apresenta osmolaridade urinária baixa (<300mOsm/L).
+
+Após isso, pode ser administrado um análogo do ADH, a DDAVP, ao paciente; caso ele apresente aumento adequado da concentração urinária, o diagnóstico de diabetes insipidus central pode ser realizado. Em pacientes com diabetes insipidus nefrogênico, não há resposta à administração do análogo do ADH, ou seja, a osmolaridade urinária alcançada no máximo da desidratação aumenta menos de 10% após a administração de DDAVP. 
 O tratamento do diabetes insipidus nefrogênico pode ser feito com dieta hipossódica associada a alguns medicamentos, como os diuréticos tiazídicos e os Anti-Inflamatórios Não Esteroides (AINEs), como a indometacina. No diabetes insipidus, a osmolaridade urinária é fixa, logo o volume urinário é determinado pela necessidade de excreção de soluto. Dessa forma, se a dieta contiver menor quantidade de sódio, haverá necessidade de menor volume urinário para a manutenção da osmolari-dade plasmática e, consequentemente, redução da poliúria. Os diuréticos tiazídicos (como a hidroclorotiazida), apesar de serem agentes diuréticos, agem de forma aditiva à dieta hipossódica e causam, paradoxalmente, uma redução do volume urinário, além de agir por meio de discreta redução da volemia. A hipovolemia, causada por esses diuréticos, induz ao aumen-to da reabsorção de sódio e água no túbulo proximal, o que, consequentemente, reduz o aporte de sódio e água no ducto coletor, sensível ao ADH, o qual vai resultar em redução do débito urinário. 
-Quanto aos AINEs, sua eficácia no tratamento do diabetes insipidus nefrogênico decorre da inibição da síntese renal de prostaglandinas (que antagonizam a ação do ADH, reduzindo a capacidade de concentração urinária). Nem todos os AINEs têm a mesma eficácia terapêutica; a indometacina é um dos mais efetivos deles no tratamento do diabetes insipidus. Em crianças, o diagnóstico e o tratamento precoces são de suma importância, para evitar o retardo do desenvolvimento físico e mental que pode decorrer de repetidos episódios de hipernatremia e desidratação. Em adultos, a decisão quanto à necessidade de tratamento vai depender da tolerância individual A poliúria e polidipsia, pois, na maioria dos pacientes, o mecanismo da sede é suficiente para manter os níveis plasmáticos de sódio na faixa superior de normalidade. 
+Quanto aos AINEs, sua eficácia no tratamento do diabetes insipidus nefrogênico decorre da inibição da síntese renal de prostaglandinas (que antagonizam a ação do ADH, reduzindo a capacidade de concentração urinária). Nem todos os AINEs têm a mesma eficácia terapêutica; a indometacina é um dos mais efetivos deles no tratamento do diabetes insipidus. Em crianças, o diagnóstico e o tratamento precoces são de suma importância, para evitar o retardo do desenvolvimento físico e mental que pode decorrer de repetidos episódios de hipernatremia e desidratação. Em adultos, a decisão quanto à necessidade de tratamento vai depender da tolerância individual a poliúria e polidipsia, pois, na maioria dos pacientes, o mecanismo da sede é suficiente para manter os níveis plasmáticos de sódio na faixa superior de normalidade. 
 O tratamento do diabetes insipidus central consiste na reposição do análogo do ADH, o acetato de DDAVP. Em pacientes com consciência preservada, pode-se confiar na presença de sede excessiva como alerta para a necessidade de tratamento do diabetes insipidus, o que não ocorre se o paciente está confuso, sonolento ou comatoso. O esquema a seguir sugere a abordagem nesses pacientes.
+
+Diagnóstico diferencial
+O diagnóstico diferencial entre diabetes insipidus central, nefrogênico e outras formas de poliúria é realizado por meio da história clínica e dos testes de restrição de água e administração de hormônio antidiurético. 
+
+Tratamento
+O princípio do tratamento do diabetes insipidus central é a utilização de análogos do hormônio antidiurético (DDAVP), enquanto no diabetes insipidus nefrogênico se recomenda dieta com baixo teor de sal e proteínas, assim como o uso de tiazídicos e anti-inflamatório não hormonal.
+
 Tabela 3 - Tratamento do diabetes insipidus de origem central em pacientes internados 
 Tratamento do diabetes insipidus central – com preservação da consciência
 - Volume urinário >600mL/2h:
@@ -82,11 +128,13 @@ Tratamento do diabetes insipidus central – com preservação da consciência
 Tratamento do diabetes insipidus central – sem preservação da consciência
 - Estabelecer balanço hídrico e dosar sódio plasmático 2 a 3 vezes em 24 horas;
 - Balanço hídrico positivo:
-  · Água por gavagem;
-  · Solução glicosada a 5%.
+· Água por gavagem;
+· Solução glicosada a 5%.
 - DDAVP.
+
 D - Tratamento 
 O uso da fórmula de correção do sódio (Tabela 4) simplifica o manejo do paciente, pois permite o cálculo da variação es-perada do sódio com 1L de qualquer solução. Isso tem grande implicação, pois a taxa de queda do sódio sérico é um dos pa-râmetros mais importantes no manejo, e queda muito rápida no sódio pode ser mais grave que a própria hipernatremia. 
+
 Tabela 4 - Fórmulas importantes no manejo do sódio
 Preparações	Quantidades de sódio
 Soro glicosado	Zero
@@ -99,19 +147,20 @@ Homem idoso	Peso (kg) x 0,5
 Mulher jovem	Peso (kg) x 0,5
 Mulher idosa	Peso (kg) x 0,45
 Variação esperada no sódio sérico com 1L de qualquer solução (contendo apenas sódio)
-?Na+ estimada (déficit de sódio)	Na+ infusão - Na+ doente
+?Na+ estimada (déficit de sódio)	Na+ infusão - Na+ paciente
 (1L da solução)	ACT + 1
-?Na+ estimada (fórmula de Adrogué-Madias)	(Na+ + K+) infusão - Na+ doente
+?Na+ estimada (fórmula de Adrogué-Madias)	(Na+ + K+) infusão - Na+ paciente
 (1L da solução)	ACT + 1
-O tratamento da hipernatremia (Tabela 5) tem como objetivos:
-Interromper a perda de água livre;
-Repor a água perdida (hidratação);
-Tratar a causa-base (doença desencadeante);
-Reduzir o sódio sérico.
+
+O tratamento da hipernatremia (Tabela 5) tem, como objetivos:
+- Interromper a perda de água livre;
+- Repor a água perdida (hidratação);
+- Tratar a causa-base (doença desencadeante);
+- Reduzir o sódio sérico.
 A estimativa do déficit de água livre é importante para avaliar a quantidade de água livre necessária para a correção da concentração de sódio até valores normais (140mEq/L). No entanto, essa estimativa deve servir apenas para orientar a tera-pêutica inicial, que deve ser posteriormente ajustada, de acordo com repetidas dosagens do sódio sérico.   
 A estimativa do déficit de água livre em hipernatrêmicos pode ser feita pela fórmula a seguir. A ACT corresponde a apro-ximadamente 60% do peso em homens jovens e a aproximadamente 50% do peso de mulheres jovens, e é um pouco menor em idosos, cerca de 50% do peso de idosos e 45% do peso de idosas. 
 
-Déficit de água livre =	 [(Na+) sérico - 140] x ACT
+Déficit de água livre =	[(Na+) sérico - 140] x ACT
 	140
 
 Nesse momento, deve-se perguntar: o que prescrever ao paciente com hipernatremia?
@@ -131,25 +180,91 @@ Limite seguro para variação do sódio sérico:
 Máximo de 0,5 a 1mEq/h; ou
 Máximo de 12mEq em 24 horas.
 Prescrição: soro a 0,45%: 1.000mL, de 6/6h. Com isso, espera-se que o sódio caia 10mEq em 24 horas.
+
+Tratamento
+O tratamento da hipernatremia é feito com base no uso de soluções hipotônicas, como soro hipotônico a 0,45% (77mEq/L). Não esquecer que, para evitar edema cerebral, a correção dos níveis plasmáticos de sódio não deve exceder 0,5mEq/L por hora, ou 12mEq/d.
+
+Pergunta
+2015 - HCV
+1. Uma paciente de 52 anos é internada por cetoacidose diabética, estando em mau estado geral e confusão mental. Na avaliação clínica inicial, apresenta PA = 100x60mmHg e FC e pulso = 164bpm. Refere oligoanúria nas últimas 12 horas, com sinais de DEEC de 30%. O peso aproximado é de 65kg. São exames laboratoriais realizados na admissão: Na = 156mEq/L, K = 3,8mEq/L e glicose plasmática = 350mg/dL. Qual será o distúrbio da água e qual será a correção a ser feita para esse distúrbio específico? 
+a) hipernatremia, e a correção seria a infusão de 3.500mL de soro glicosado para corrigir a hiperosmolaridade
+b) hiponatremia, e a correção seria a administração de soro fisiológico hipertônico a 3%
+c) hipernatremia, e a correção seria a infusão de 3.500mL de soro glicosado a 5% ou solução salina hipotônica a 0,45%
+d) não existe distúrbio da água, e sim DEEC decorrente do desvio iônico provocado pela cetoacidose
+e) trata-se de um distúrbio misto: distúrbio da água – hiponatremia – e distúrbio do sódio – desidratação
+Resposta no final do capítulo
+
+Pergunta
+2014 - SANTA CASA-SP
+2. Uma criança de 5 anos está em pós-operatório de exérese de tumor do sistema nervoso central e apresenta poliúria acentuada. Os primeiros resultados de exames revelam sódio sérico de 165mEq/L e urina tipo I com densidade urinária de 1.005. A medida imediata mais adequada nesse caso é: 
+a) hidratar e iniciar desmopressina
+b) expandir com soro a 0,45% e coloide
+c) expandir em 1 hora com soro glicosado ou água destilada
+d) iniciar restrição hídrica
+e) iniciar dexametasona
+Resposta no final do capítulo
+
 Tabela 5 - Princípios do tratamento da hipernatremia
-- Paciente hipovolêmico: a prioridade é o soro fisiológico, até conseguir estabilização hemodinâmica (pressão arterial e pulso adequados);
+- Paciente hipovolêmico: a prioridade é o soro fisiológico, até conseguir estabilização hemodinâmica (pressão arterial e pulso adequa-dos);
 - Após a estabilização hemodinâmica, deve-se trocar a reposição volêmica por soro hipotônico (0,45 ou 0,22%);
 - Taxa máxima de redução do sódio sérico para evitar edema cerebral iatrogênico:
 · Máximo de 0,5 a 1mEq/L/h ou máxima de 12mEq em 24 horas.
 - Deve-se sempre calcular a variação estimada do sódio com 1L de qualquer solução a ser infundida.
+
  
 Figura 1 - Investigação da causa de hipernatremia
+
 E - Complicações 
 As complicações do tratamento estão descritas a seguir:
 Da própria hipernatremia: devido à desidratação do SNC, pode haver ruptura de vasos, levando à hemorragia do SNC;
 Correção rápida do sódio: leva a edema cerebral, convulsões e coma, por isso se deve corrigir o sódio com cautela, usan-do as fórmulas descritas;
 Excessiva quantidade de volume: edema agudo pulmonar.
+
 3. Hiponatremia
+
 A hiponatremia reflete o excesso de água em relação ao sódio, na ausência de insuficiência renal limitando a excreção de água, e na ausência de ingestão excessiva de água além dos limites de excreção, ela, em geral, se dá por estímulo do ADH, que leva à reabsorção de água livre nos túbulos coletores do néfron. É definida como sódio sérico <135mEq/L, e seus sinto-mas decorrem, sobretudo, quando há reduções agudas e rápidas da concentração plasmática de sódio e refletem as altera-ções neurológicas decorrentes do edema cerebral induzido pela instalação da hiponatremia e das respostas adaptativas das células cerebrais. Nesse caso, a queda associada da osmolaridade plasmática cria um gradiente osmótico que favorece a en-trada de água nas células, levando a edema cerebral. É o distúrbio hidroeletrolítico mais comum na prática clínica.
 A liberação de ADH costuma ser causada pela diminuição do volume circulante efetivo, que pode ser gerada por estados hipovolêmicos (por exemplo, desidratação, diarreia, sangramento), por má distribuição dos fluidos corpóreos, com extrava-samento do líquido intravascular (por exemplo, cirrose, síndrome nefrótica) ou ainda por diminuição da perfusão (por exem-plo, insuficiência cardíaca). Estas causas, apesar de fisiológicas e de serem uma tentativa do organismo de manter o compar-timento intravascular e o volume circulante efetivo, podem ser deletérias ao organismo, tanto pelas consequências da hipo-natremia per se como pela consequência dos estados edematosos na insuficiência cardíaca, na cirrose e na síndrome nefróti-ca.
+
+Dica
+Hiponatremia = excesso de água = estado hiposmolar.
+
 A - Etiologia e fisiopatologia 
-Alguns passos poderão ser úteis na busca da etiologia da hiponatremia (Tabela 6).
-Tabela 6 - Investigação da causa da hiponatremia
+
+Tabela 6 - Principais causas de hiponatremia
+Transtornos nos quais os níveis de hormônio antidiurético estão elevados
+- Depleção eficaz do volume circulante;
+- Depleção do volume verdadeiro;
+- Insuficiência cardíaca;
+- Cirrose;
+- Diuréticos tiazídicos;
+- Síndrome de secreção inapropriada de hormônio antidiurético, incluindo redefinição do padrão osmostático;
+- Alterações hormonais;
+- Insuficiência adrenal;
+- Hipotireoidismo;
+- Gravidez.
+Desordens em que os níveis de hormônio antidiurético podem estar suprimidos
+- Insuficiência renal avançada;
+- Polidipsia primária;
+- Bebedores de cerveja.
+Hiponatremia com osmolaridade do plasma normal ou elevada
+Osmolaridade plasmática elevada (osmóis eficazes)
+- Hiperglicemia;
+- Manitol.
+Osmolaridade plasmática elevada (osmóis ineficazes)
+- Insuficiência renal;
+- Intoxicação alcoólica com elevada concentração de álcool no soro.
+Osmolaridade plasmática normal
+- Pseudo-hiponatremia (artefato de laboratório);
+- Triglicérides elevados;
+- Icterícia colestática e obstrutiva (lipoproteína X);
+- Mieloma múltiplo;
+- Absorção de soluções irrigantes;
+- Sorbitol;
+- Manitol.
+
+Alguns passos poderão ser úteis na busca da etiologia da hiponatremia (Tabela 7).
+
+Tabela 7 - Investigação da causa da hiponatremia
 a) Pode ser pseudo-hiponatremia?
 b) Qual(is) medicamento(s) o paciente usa? Ele(s) pode(m) causar hiponatremia?
 c) Há sinais de aumento do volume extracelular?
@@ -159,16 +274,23 @@ f) Pode ser transtorno psiquiátrico?
 g) Sempre pensar em hipotireoidismo e insuficiência adrenal.
 h) HIV? Uso de tiazídico?
 i) Todos os itens anteriores negativos? Pode ser uma Síndrome da Secreção Inapropriada do ADH (SSIADH). Avaliar pulmão, SNC ou câncer.
+
 a) Pode ser pseudo-hiponatremia? 
-Pseudo-hiponatremia (hiponatremia isotônica) pode ocorrer em graves hipertrigliceridemias ou quando há substancial quantidade de paraproteínas no sangue (como no mieloma múltiplo). Isso só ocorre nos aparelhos de espectrofotome-tria de chama, que só detectam o sódio em fase aquosa. Tal erro não acontece nos aparelhos com eletrodos íon-específicos.
+Pseudo-hiponatremia (hiponatremia isotônica) pode ocorrer em graves hipertrigliceridemias ou quando há substancial quantidade de paraproteínas no sangue (como no mieloma múltiplo). Isso só ocorre nos aparelhos de espectrofotometria de chama, que só detectam o sódio em fase aquosa. Tal erro não acontece nos aparelhos com eletrodos íon-específicos.
+
 b) Quais medicamentos o paciente usa? 
-Na avaliação das causas de hiponatremia, uma etapa importante é detalhar todas as medicações que o paciente usa e che-car se alguma delas, ou todas, pode(m) causar hiponatremia. Se positivo, deve(m)-se suspendê-la(s) e aguardar. Algumas características em comum são:
+Na avaliação das causas de hiponatremia, uma etapa importante é detalhar todas as medicações que o paciente usa e che-car se alguma delas, ou todas, pode(m) causar hiponatremia. Se positivo, deve(m)-se suspendê-la(s) e aguardar. Algumas ca-racterísticas em comum são:
 Frequentemente, a hiponatremia é normovolêmica (SSIADH);
 O risco de hiponatremia é maior no início do tratamento (primeiras 2 semanas) e parece não depender da dose do me-dicamento;
 A normalização do sódio habitualmente acontece em 15 dias, mas pode chegar a 28 ou mais dias se houver comorbida-des;
 Fatores que aumentam o risco de hiponatremia são: idade avançada (>75 anos), sexo feminino, uso de vários medica-mentos, insuficiência renal e presença de comorbidades.
-Os principais medicamentos que podem causar hiponatremia são os descritos na Tabela 7.
-Tabela 7 - Fármacos que causam hiponatremia
+
+Dica
+As drogas utilizadas nos transtornos psiquiátricos são grandes causadoras de hiponatremia. 
+
+Os principais medicamentos que podem causar hiponatremia são os descritos na Tabela 8.
+
+Tabela 8 - Fármacos que causam hiponatremia
 - Diuréticos tiazídicos;
 - Antipsicóticos clássicos;
 - Antidepressivos tricíclicos, tetracíclicos e atípicos;
@@ -183,12 +305,15 @@ Tabela 7 - Fármacos que causam hiponatremia
 - Vincristina;
 - Nicotina;
 - Ecstasy.
+
 c) 	O paciente está com edema de membros inferiores ou em anasarca? 
 Devem-se buscar sinais de aumento do volume do espaço extracelular, isto é, se o paciente apresenta algum estado ede-matoso (ascite, edema de membros inferiores). Se positivo, estaremos diante das hiponatremias hipotônicas hipervolêmicas, cujas principais causas são insuficiência cardíaca, insuficiência hepática, insuficiência renal e síndrome nefrótica. É importante lembrar que, nesses casos, quanto menor o sódio, pior o prognóstico; a hiponatremia está apenas refletindo uma doença avançada.
+
 d) O paciente está desidratado? 
 Se o paciente tem sinais ou sintomas de desidratação ou de hipovolemia, o quadro provavelmente é de hiponatremia hi-potônica hipovolêmica. Nesse caso, deve-se fazer a avaliação por meio do local de origem em que o paciente está perdendo sódio:
-Dos rins: o sódio urinário é >20mEq/L. Exemplos: diuréticos, hiperglicemia com diurese osmótica, insuficiência adrenal, nefropatia perdedora de sal ou ATR;
+Dos rins: o sódio urinário é >20mEq/L. Exemplos: diuréticos, hiperglicemia com diurese osmótica, insuficiência adrenal, nefropatia perdedora de sal ou Acidose Tubular Renal (ATR);
 Fontes extrarrenais: o sódio urinário é <10mEq/L. Exemplos: diarreia, vômitos, hemorragia, perda de fluidos para 3º es-paço (pancreatite, obstrução intestinal, peritonite), esmagamento muscular ou queimaduras.
+
 e) Qual é a glicemia do paciente?
 Há outro soluto no sangue, causando aumento da osmolaridade (por exemplo, glicose), que ocasiona perda de sódio pela diurese osmótica juntamente com translocação de água do intra para o extracelular na tentativa de diminuir a osmolaridade plasmática. Por isso, em hiperglicemias graves, há um componente translocacional para hiponatremia. Pode-se corrigir o só-dio, pela hiperglicemia, com a seguinte fórmula:
 
@@ -196,11 +321,16 @@ Na+ corrigido = Na+ medido + variação da glicemia
 Variação da glicemia = 1,6 para cada 100mg/dL de glicemia >100mg/dL
 
 Assim, um paciente com glicemia de 800mg/dL e sódio medido de 125mEq/L terá 700mg/dL de glicemia >100mg/dL (800 - 100 = 700mg/dL). Para cada 100mg de glicemia >100, deve-se somar 1,6, portanto a variação da glicemia será 7 x 1,6 = 11,2, e o sódio corrigido = 125 + 11,2 = 136,2mEq/L.
+
 f) O paciente está normovolêmico? 
 Quando o paciente está com volemia normal (nem em estado edematoso nem desidratado/hipovolêmico), tem-se hipona-tremia hipotônica euvolêmica. Nesse caso, algumas perguntas são importantes:
 Pode ser hipotireoidismo? Se sim, deve-se pedir um TSH;
 Pode ser insuficiência adrenal? Deve-se suspeitar em pacientes com quaisquer das seguintes manifestações: dor abdomi-nal, hipotensão, vômitos, escurecimento da pele, hiponatremia acompanhada de hipercalemia. Se positivo, internar e in-vestigar;
 Pode ser transtorno psiquiátrico? Nesse caso, chama-se polidipsia primária. O paciente ingere muitos litros de água com-pulsivamente, “lavando” a medula nos rins, impedindo o mecanismo fisiológico de concentração urinária.
+
+Importante
+A hiponatremia hipotônica pode ser hipervolêmica (insuficiências cardíaca, hepática ou renal e síndrome nefrótica), hipo-volêmica (diuréticos, nefropatia perdedora de sal ou ATR, diarreia, vômitos, hemorragia, perda de fluidos para o 3º espaço ou queimaduras) ou normovolêmica (síndrome da secreção inapropriada de hormônio antidiurético, hipotireoidismo, insu-ficiência adrenal, polidipsia primária). 
+
 g) Pode ser uma SSIADH?
 Se os passos anteriores não o levaram ao diagnóstico, a maior possibilidade é de SSIADH.
 A SSIADH é uma das principais causas de hiponatremia euvolêmica, em que a volemia é mantida por meio da liberação do peptídio atrial natriurético, que mantém elevada excreção urinária de sódio, contrabalançando a tendência a hipervolemia. Por isso, na maioria dos casos, o sódio urinário é >40mEq/L. O estímulo natriurético também aumenta a uricosúria, por isso os níveis de ácido úrico são habitualmente baixos nessa síndrome, cujas principais características são: 
@@ -208,12 +338,26 @@ Hiponatremia hipotônica euvolêmica;
 Ureia e creatinina normais;
 Concentração sérica de ácido úrico baixa;
 Urina inapropriadamente concentrada e hipertônica (osmolaridade urinária entre 100 e 300mOsm/L). 
-Medicamentos como a carbamazepina e a clorpropamida são causas de SSIADH. Além de medicamentos, são 4 as suas principais causas etiológicas (Tabela 8):
+
+Tabela 9 - Critérios essenciais e suplementares para o diagnóstico de síndrome da secreção inapropriada de hormônio antidiurético
+Essencial
+- Osmolalidade plasmática abaixo de 270mOsmol/kg;
+- Concentração urinária inapropriada (>100mOsmol/kg);
+- Euvolemia clínica (ausência de edemia, hipotensão ortostática ou desidratação);
+- Ausência de doença suprarrenal, tireoidiana, pituitária, insuficiência renal ou uso de diuréticos.
+Suplementar
+- Hormônio antidiurético plasmático inapropriadamente aumentado em relação à osmolalidade plasmática;
+- Correção da concentração de sódio pouco significativa com expansão de volume e melhora após restrição hídrica;
+- Teste com sobrecarga de água (incapacidade para excretar mais de 90% de 20mL/kg de água em 4 horas e/ou falência em diluir a osmolalidade urinária abaixo de 100mOsmol/kg;
+- Teste de furosemida: infusão de 20mg IV e medição da natremia antes e depois de 1, 2, 3, 4, 5 e 6 horas.
+
+Medicamentos como a carbamazepina e a clorpropamida são causas de SSIADH. Além de medicamentos, são 4 as suas principais causas etiológicas (Tabela 10):
 Dor + pós-operatório: aumentam o risco de SSIADH e hiponatremia, especialmente devido ao uso de soluções hipotôni-cas;
 Doença do SNC: acidente vascular cerebral isquêmico e hemorrágico, hemorragia, lesões com efeito de massa, trauma, doenças inflamatórias;
 Doença pulmonar: insuficiência respiratória aguda, ventilação mecânica, tuberculose, abscesso pulmonar;
 Síndrome paraneoplásica: câncer de pulmão, mediastino, rins, linfomas, outros.
-Tabela 8 - Causas de SSIADH
+
+Tabela 10 - Causas de síndrome da secreção inapropriada de hormônio antidiurético
 Medicamentos
 - Carbamazepina;
 - Clorpropamida;
@@ -256,25 +400,41 @@ Outras
 - Idiopática;
 - Síndrome de Guillain-Barré;
 - Porfiria intermitente aguda.
+
+Tema frequente de prova
+As causas de hiponatremia estão sempre presentes nas questões de Residência Médica. 
+
+Pergunta
+2012 - IFF
+3. Um paciente de 22 anos apresenta hiponatremia e osmolaridade urinária de 80mOsm/L. Qual é a causa da hiponatre-mia?
+a) diabetes insipidus
+b) diabetes insipidus nefrogênico
+c) polidipsia psicogênica
+d) secreção inapropriada de vasopressina
+Resposta no final do capítulo
+
 B - Achados clínicos
 A hiponatremia, por si só, pode manifestar-se com:
 Sintomas sistêmicos: fraqueza, adinamia, anorexia, fadiga, vômitos, mal-estar;
 Manifestações neurológicas: costumam ser progressivas e dependem do valor do sódio sérico e da velocidade de instala-ção. Incluem sonolência, confusão, convulsões e coma. 
-
 Nas formas leves de hiponatremia (Na >125mEq/L), sintomas gerais ocorrem, como mal-estar e náuseas. Valores de sódio plasmático <120mEq/L cursam com cefaleia e obnubilação. As formas graves de hiponatremia (Na <115mEq/L) costumam induzir coma e convulsões.
 Conforme já citado, outros sinais e sintomas podem surgir de acordo com a etiologia da hiponatremia; alguns são:
 Insuficiência cardíaca: dispneia, edema de membros inferiores, hepatomegalia dolorosa, turgência jugular, B3, crepitações pulmonares;
 Insuficiência hepática: ascite, edema de membros inferiores, telangiectasias, eritema palmar, ginecomastia, circulação co-lateral;
 Diarreia aguda: desidratação, hipotensão, taquicardia.
+
+Quadro clínico
+Mal-estar, náuseas, cefaleia, obnubilação, fraqueza, adinamia, convulsões e coma estão presentes na hiponatremia, con-forme o grau desta. 
+
 C - Exames laboratoriais
 Além do sódio sérico, sódio urinário e glicemia, outros exames podem ser necessários para o diagnóstico da causa da hi-ponatremia:
 Medida direta da osmolaridade plasmática: nesse caso, temos as seguintes situações:
 Hiponatremia com osmolaridade elevada: o mais comum é o diabetes mellitus. Ocorre quando a ação osmótica de ou-tros agentes induz um fluxo de água em direção ao líquido extracelular, gerando hiponatremia dilucional, sem a exis-tência de hipo-osmolalidade. São exemplos dessas circunstâncias os estados hiperglicêmicos, a administração de solu-ções hipertônicas de manitol, sorbitol ou contrastes radiológicos iônicos;
 Hiponatremia com osmolaridade normal (pseudo-hiponatremia): nesses casos, a dosagem de sódio mostra-se diminuí-da em função da super-representação da fração não aquosa do plasma em relação ao volume plasmático total. Assim, apesar da natremia encontrar-se em valores normais, as amostras terão volume efetivo de plasma inferior ao habitual, e a extrapolação do valor obtido para o total da amostra levará a concentração falsamente baixa. Desta forma, condi-ções que elevem patologicamente os níveis de proteínas séricas (mieloma múltiplo, macroglobulinemia de Waldens-tröm, amiloidose) ou de lipídios (dislipidemias familiares) podem produzir estados de pseudo-hiponatremia;
 Hiponatremia com osmolaridade baixa: os outros diagnósticos. Nesse grupo se encontram as causas mais comuns de hi-ponatremia. Didaticamente, podem ser divididas em causas hipovolêmicas, hipervolêmicas e normovolêmicas:
- Hiponatremias hipotônicas hipovolêmicas: as hiponatremias hipotônicas hipovolêmicas instalam-se quando ocorre perda de sódio e água (por exemplo, diarreia, vômitos, sudorese excessiva, queimaduras, sangramento) e estes são repostos com fluidos inapropriadamente hipotônicos. O mesmo pode ocorrer quando a hipovolemia ocorrer por re-distribuição do líquido extracelular, como em casos de sepse e pancreatite. Como a secreção de ADH estará estimula-da, haverá retenção de água livre e consequente hiponatremia. É muito comum essa situação iatrogênica em pós-operatórios, quando frequentemente se instilam soros de manutenção hipotônicos. Além das perdas sanguíneas, o estresse cirúrgico também gera estímulo à liberação do ADH, explicando a elevada incidência de hiponatremia nesta situação, mesmo quando não há sangramento e hipovolemia evidentes. A instalação de soro de manutenção hipotôni-co com consequente hiponatremia é causa frequente de delirium pós-operatório e ocorre com maior frequência em idosos, devendo ser evitada;
- Hiponatremias hipotônicas hipervolêmicas: nesse grupo, encontram-se os estados edematosos, como a insuficiência cardíaca, a cirrose e as nefropatias. Na insuficiência cardíaca, na cirrose e na síndrome nefrótica, ocorre diminuição do volume circulante efetivo, apesar do estado edemaciado, o que estimula a secreção de ADH e explica a hipona-tremia. Já na IRA ou IRC, pode haver retenção hídrica por incapacidade de excreção de água e sódio;
- Hiponatremias hipotônicas normovolêmicas: ocorrem por excesso de água livre em relação ao sódio corpóreo total, que costuma ser normal. As causas incluem drogas (por exemplo, diuréticos tiazídicos), insuficiência adrenal, hipoti-reoidismo, SSIADH, síndrome central perdedora de sal e polidipsia psicogênica.
+Hiponatremias hipotônicas hipovolêmicas: as hiponatremias hipotônicas hipovolêmicas instalam-se quando ocorre perda de sódio e água (por exemplo, diarreia, vômitos, sudorese excessiva, queimaduras, sangramento) e estes são repostos com fluidos inapropriadamente hipotônicos. O mesmo pode ocorrer quando a hipovolemia ocorrer por redistribuição do líquido extracelular, como em casos de sepse e pancreatite. Como a secreção de ADH estará esti-mulada, haverá retenção de água livre e consequente hiponatremia. É muito comum essa situação iatrogênica em pós-operatórios, quando frequentemente se instilam soros de manutenção hipotônicos. Além das perdas sanguí-neas, o estresse cirúrgico também gera estímulo à liberação do ADH, explicando a elevada incidência de hipona-tremia nesta situação, mesmo quando não há sangramento e hipovolemia evidentes. A instalação de soro de manu-tenção hipotônico com consequente hiponatremia é causa frequente de delirium pós-operatório e ocorre com maior frequência em idosos, devendo ser evitada;
+Hiponatremias hipotônicas hipervolêmicas: nesse grupo, encontram-se os estados edematosos, como a insuficiência cardíaca, a cirrose e as nefropatias. Na insuficiência cardíaca, na cirrose e na síndrome nefrótica, ocorre diminuição do volume circulante efetivo, apesar do estado edemaciado, o que estimula a secreção de ADH e explica a hipona-tremia. Já na IRA ou IRC, pode haver retenção hídrica por incapacidade de excreção de água e sódio;
+Hiponatremias hipotônicas normovolêmicas: ocorrem por excesso de água livre em relação ao sódio corpóreo total, que costuma ser normal. As causas incluem drogas (por exemplo, diuréticos tiazídicos), insuficiência adrenal, hipoti-reoidismo, SSIADH, síndrome central perdedora de sal e polidipsia psicogênica.
 Medida direta da osmolaridade urinária: hiponatremia com urina bem diluída deve apontar para polidipsia psicogênica ou primária. É importante lembrar hiponatremia associada à baixa osmolaridade e:
 Estados edematosos: insuficiência cardíaca congestiva, cirrose e doenças renais;
 Normovolemia: medicamentos, SSIADH, hipotireoidismo, HIV, insuficiência adrenal;
@@ -289,6 +449,20 @@ Dosagem de TSH;
 Cortisol sérico basal e pós-estimulação com Cortrosina® (ACTH);
 Radiografia ou tomografia de tórax: avaliar doenças pulmonares;
 Tomografia de crânio: doenças neurológicas.
+
+Dica
+As hiponatremias hipotônicas são as mais comuns.
+
+Pergunta
+2015 - UFPR
+4. Um paciente de 82 anos, portador de transtorno do humor e hipertensão arterial essencial, em uso de fluoxetina e hidroclorotiazida, desenvolve quadro de diminuição do nível de consciência no pós-operatório de cirurgia abdominal. Con-siderando que a função renal está normal, qual é o distúrbio metabólico mais provável responsável pela alteração neuro-lógica desse paciente? 
+a) hipermagnesemia
+b) hiponatremia
+c) hipocalcemia
+d) hiperpotassemia
+e) hipopotassemia 
+Resposta no final do capítulo
+
 D - Tratamento 
 Os princípios do tratamento são: 
 Tratar a causa-base;
@@ -297,14 +471,19 @@ Outros pontos do tratamento são importantes:
 Estados edematosos: quando o paciente está assintomático do ponto de vista neurológico, o tratamento consiste em res-trição de água para 800 a 1.000mL em 24 horas. Se necessário, pode-se associar furosemida, pois a diurese induzida é hiposmolar (perde-se mais água do que sódio). A restrição hídrica isoladamente leva à correção lenta do sódio (<1,5mEq/L/d);
 Hiponatremia associada à perda de volume (desidratação): a prioridade é o soro fisiológico, até restaurar boa perfusão periférica e renal. Habitualmente, nesse caso, a hiponatremia resulta de secreção máxima de ADH induzida pela hipovo-lemia. Por isso, a restauração da volemia suprime o mecanismo básico da hiponatremia, corrigindo-a;
 SSIADH: o rim tem enorme capacidade de excretar sódio. Assim, por exemplo, em 1L de urina, há capacidade de excreção de mais de 1.000mEq de sódio. Em uma secreção inapropriada de ADH, se forem infundidos 1.000mL de soro a 3% (513mEq de sódio), facilmente o rim excretará essa carga de sódio e acabará piorando a hiponatremia devido à retenção do litro de água. Por isso, na secreção inapropriada de ADH grave, além de soro hipertônico, pode ser necessário associ-ar furosemida para aumentar a excreção de água livre.
-Tabela 9 - Princípios do tratamento da hiponatremia
+
+Tratamento
+Na hiponatremia sintomática, o tratamento é feito com 1,5 a 2mEq/L/h (3 a 4 primeiras horas), seguidos por velocidade de 0,5 a 1mEq/L, sem exceder 12mEq/L nas primeiras 24 horas; em edemaciados, restrição hídrica de 800 a 1.000mL/24 ho-ras; e, na desidratação associada, soro fisiológico, até haver boas perfusões periférica e renal.
+
+Tabela 11 - Princípios do tratamento da hiponatremia 
 - Não corrigir rapidamente o sódio sérico, para evitar a síndrome de desmielinização osmótica (como a mielinólise pontina central);
 - Variação máxima do sódio sérico: 0,5 a 1mEq/L/h ou 12mEq em 24 horas;
-- Usar a fórmula para correção do sódio. Observar que a fórmula para variação do sódio é útil tanto em hiponatremia quanto em hipernatremia;
-- Nas hiponatremias dilucionais (insuficiência cardíaca congestiva, cirrose, síndrome nefrótica, insuficiência renal), sem sinto-mas neurológicos, o tratamento é apenas a restrição hídrica;
-- Em pacientes com hiponatremia associadas à desidratação/hipovolemia, o tratamento é feito com cloreto de sódio a 0,9% até a estabilização hemodinâmica;
-- Usar soluções hipertônicas (NaCl 3%) apenas quando há sinais/sintomas no SNC (confusão, rebaixamento do nível de consciên-cia, convulsões);
+- Usar a fórmula para correção do sódio. Observar que a fórmula para variação do sódio é útil tanto em hiponatremia quanto em hiper-natremia;
+- Nas hiponatremias dilucionais (insuficiência cardíaca congestiva, cirrose, síndrome nefrótica, insuficiência renal), sem sintomas neuro-lógicos, o tratamento é apenas a restrição hídrica;
+- Em pacientes com hiponatremia associadas à desidratação/hipovolemia, o tratamento é feito com cloreto de sódio a 0,9% até a esta-bilização hemodinâmica;
+- Usar soluções hipertônicas (NaCl 3%) apenas quando há sinais/sintomas no SNC (confusão, rebaixamento do nível de consciência, convulsões);
 - Na SSIADH, pode ser necessário associar solução hipertônica a furosemida ou antagonizar o ADH com lítio ou demeclociclina.
+
 E - Complicações 
 Uma grave complicação do tratamento inadequado da hiponatremia é a desmielinização osmótica. Os grupos de maior ris-co são mulheres jovens, e os de menor risco, mulheres na pós-menopausa e homens em qualquer idade. Fatores adjacentes podem colaborar para maior dano cerebral: hipóxia, alcoolismo e estado pós-operatório. 
 As células de indivíduos com hiponatremia tentam eliminar osmóis para o extracelular, na tentativa de diminuir a osmola-ridade intracelular para se assemelhar àquela sérica. O rápido aumento iatrogênico do sódio sérico pode levar a consequên-cias graves, especialmente no SNC, resultando em perda de água da célula com o aumento do risco de mielinólise pontina central. Isso é ocasionado por variação rápida na osmolaridade celular no SNC e desmielinização de neurônios no tronco cerebral, principalmente na ponte. Os pacientes de maior risco são:
@@ -314,9 +493,10 @@ Em pós-operatório;
 Alcoolistas;
 Com doença neurológica estrutural prévia.
 Com o advento da ressonância magnética, observou-se possível desmielinização em outros locais do SNC, e esses quadros de mielinólise pontina e extrapontina passaram a constituir o que se denomina síndrome de desmielinização osmótica. As principais características dessa entidade são:
-Tabela 10 - Principais características da síndrome de desmielinização osmótica
-Quadro clínico	Tetraparesia espástica, paralisia pseudobulbar (mutismo, disartria, disfagia), labilida-de emocional, agitação, paranoia, depressão, coma, alterações pupilares, ataxia, parkinsonismo, incontinência urinária
-Curso clínico	Geralmente bifásico (com a correção rápida do sódio sérico, pode haver melhora neurológica transitória, e em 2 a 6 dias surgem os sinais de mielinólise. Eventualmen-te o curso é monofásico. As sequelas mais comuns são espasticidade, disartria e défi-cit de memória)
+
+Tabela 12 - Principais características da síndrome de desmielinização osmótica
+Quadro clínico	Tetraparesia espástica, paralisia pseudobulbar (mutismo, disartria, disfagia), labilidade emocional, agitação, paranoia, depressão, coma, alterações pupilares, ataxia, parkinsonismo, incontinência uriná-ria
+Curso clínico	Geralmente bifásico (com a correção rápida do sódio sérico, pode haver melhora neurológica transitó-ria, e em 2 a 6 dias surgem os sinais de mielinólise. Eventualmente o curso é monofásico. As sequelas mais comuns são espasticidade, disartria e déficit de memória)
 Métodos de 
 imagem	Sem correlação entre o tamanho das lesões e a gravidade da doença (a ressonância magnética tem melhor sensibilidade do que a tomografia computadorizada, e as primeiras imagens podem levar mais de 7 dias para surgir)
 Liquor	Possível aumento de proteínas
@@ -326,24 +506,53 @@ Tratamento	Apenas de suporte
 
  
 Figura 2 - Investigação da hiponatremia
+
+Pergunta
+2013 - CREMESP
+5. Distúrbios eletrolíticos associados a efeitos adversos de medicamentos são frequentes. Considere 4 pacientes caracteri-zados a seguir:
+- Paciente I: asma em uso de fenoterol;
+- Paciente II: transtorno afetivo bipolar em uso de carbonato de lítio;
+- Paciente III: cardiopatia em uso de espironolactona e captopril;
+- Paciente IV: neuralgia do trigêmeo em uso de carbamazepina.
+Hiponatremia, hipernatremia, hipocalemia e hipercalemia, estarão associadas, respectivamente, aos pacientes:
+a) III, I, IV, II
+b) I, II, III, IV
+c) IV, II, I, III
+d) II, IV, III, I
+e) IV, I, II, III
+Resposta no final do capítulo
+
 4. Resumo
+
 Quadro-resumo
 Hipernatremia
 - A hipernatremia é definida como uma concentração sérica de sódio >145mEq/L;
-- Pode ser causada pela administração excessiva de sódio hipertônico. Outras causas são: perda de água livre, a qual pode ser secundária a perdas insensíveis pela pele e pelas vias respiratórias, a diarreia, febre, queimaduras ou perdas urinárias (secun-dárias a diabetes insipidus central ou nefrogênico ou a diuréticos osmóticos);
-- O diagnóstico de diabetes insipidus é confirmado pela presença de hipernatremia na vigência de osmolalidade urinária diminuí-da ou densidade urinária <1.010;
-- A hipernatremia pode ocasionar sede intensa, fraqueza muscular, irritabilidade, confusão, déficits neurológicos focais, convul-sões e coma. Ao exame físico, o paciente encontra-se desidratado;
+- Pode ser causada pela administração excessiva de sódio hipertônico. Outras causas são: perda de água livre, a qual pode ser secundária a perdas insensíveis pela pele e pelas vias respiratórias, a diarreia, febre, queimaduras ou perdas urinárias (secundárias a diabetes in-sipidus central ou nefrogênico ou a diuréticos osmóticos);
+- O diagnóstico de diabetes insipidus é confirmado pela presença de hipernatremia na vigência de osmolalidade urinária diminuída ou densidade urinária <1.010;
+- A hipernatremia pode ocasionar sede intensa, fraqueza muscular, irritabilidade, confusão, déficits neurológicos focais, convulsões e coma. Ao exame físico, o paciente encontra-se desidratado;
 - Paciente com hipernatremia apresenta hipertonicidade e hiperosmolalidade, que podem levar à confusão mental e ao coma; 
 - A prioridade inicial do tratamento da hipernatremia é restaurar a volemia; após conseguir boa perfusão, iniciar lentamente a correção da hipernatremia;
-- A correção da hipernatremia é realizada na velocidade máxima de 12mEq em 24 horas. Correções mais rápidas levam a edema cerebral.
+- A correção da hipernatremia é realizada na velocidade máxima de 12mEq em 24 horas. Correções mais rápidas levam a edema cere-bral.
 Hiponatremia
 - A hiponatremia é definida como sódio sérico <135mEq/L, e seus sintomas decorrem, sobretudo, quando há reduções agudas e rápidas da concentração plasmática de sódio e refletem as alterações neurológicas decorrentes do edema cerebral induzido pela instalação da hiponatremia e das respostas adaptativas das células cerebrais;
-- A hiponatremia isotônica (pseudo-hiponatremia) ocorre em situações como, por exemplo, o mieloma múltiplo ou hiperdislipi-demia que aparentemente resultariam em dosagem baixas de sódio (valor diferente do real);
-- A hiponatremia hipertônica ocorre quando há, no plasma, grande quantidade de um soluto (que não o sódio) e cria um gradien-te osmótico, resultando em hiponatremia com hipertonicidade (comum em hiperglicemia);
-- A hiponatremia hipotônica hipovolêmica apresenta sinais de desidratação com perda de sódio pelos rins ou por fontes extrarre-nais (diarreia, vômitos, hemorragia, queimaduras);
-- A hiponatremia hipotônica hipervolêmica é comum em estado edematoso (ascite, edema de membros inferiores), cujas princi-pais causas são insuficiência cardíaca, insuficiência hepática, insuficiência renal e síndrome nefrótica;
-- A hiponatremia hipotônica normovolêmica tem como principal causa a SSIHAD;
-- A SSIHAD pode ter múltiplas etiologias, como: medicamentos (carbamazepina, clorpropamida, barbitúricos), doenças neuroló-gicas (trauma cranioencefálico, abscesso cerebral), doenças pulmonares (pneumonia, tuberculose) e neoplasias;
+- A hiponatremia isotônica (pseudo-hiponatremia) ocorre em situações como, por exemplo, o mieloma múltiplo ou hiperdislipidemia que aparentemente resultariam em dosagem baixas de sódio (valor diferente do real);
+- A hiponatremia hipertônica ocorre quando há, no plasma, grande quantidade de um soluto (que não o sódio) e cria um gradiente osmó-tico, resultando em hiponatremia com hipertonicidade (comum em hiperglicemia);
+- A hiponatremia hipotônica hipovolêmica apresenta sinais de desidratação com perda de sódio pelos rins ou por fontes extrarrenais (diarreia, vômitos, hemorragia, queimaduras);
+- A hiponatremia hipotônica hipervolêmica é comum em estado edematoso (ascite, edema de membros inferiores), cujas principais causas são insuficiência cardíaca, insuficiência hepática, insuficiência renal e síndrome nefrótica;
+- A hiponatremia hipotônica normovolêmica tem como principal causa a SSIADH;
+- A SSIADH pode ter múltiplas etiologias, como: medicamentos (carbamazepina, clorpropamida, barbitúricos), doenças neurológicas (trauma cranioencefálico, abscesso cerebral), doenças pulmonares (pneumonia, tuberculose) e neoplasias;
 - A correção rápida da hiponatremia pode levar a mielinólise pontina;
 - A correção da hiponatremia deve ser realizada com velocidade de 0,5 a 1mEq/L por hora; no máximo, 12mEq em 24 horas;
 - Devem-se usar fórmulas específicas para a correção tanto da hiponatremia quanto da hipernatremia.
+
+Respostas
+1. A
+2. A
+3. C
+4. B
+5. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
