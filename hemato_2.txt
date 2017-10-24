@@ -1,52 +1,88 @@
 Anemias
-Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Neste capítulo, serão abordados temas relativos à eritropoese normal, envolvendo a diferenciação e a maturação da linha-gem eritroide, bem como as alterações nesse processo levando às anemias. Estas podem ser carenciais, pela deficiência de substratos para a produção de hemácias, como é o caso de ferro, folato e vitamina B12, que compreendem as formas mais comuns de anemia, ou podem por aumento na destruição, como na anemia hemolítica. O assunto é de grande importância por ser recorrente nas questões de prova. 
+
 1. Conceitos gerais
+
 A anemia é definida como o estado em que há diminuição da concentração de hemoglobina (Hb) por unidade de sangue, abaixo da média considerada normal para a raça, o sexo, a idade do indivíduo e a altitude em que ele se encontra. Essa condição caracteriza-se pela redução da capacidade de transporte de oxigênio, resultando, nos quadros mais severos, em disfunções miocárdica e cerebral.
-Segundo os critérios da Organização Mundial da Saúde, os limites mínimos no nível do mar são de 14g/dL para homens, 12g/dL para mulheres e 11g/dL para mulheres grávidas.
-Erroneamente, considera-se a anemia uma patologia, não o sinal de uma doença de base. O raciocínio simplista de considerar a anemia uma entidade individual leva a falhas graves na realização de diagnósticos e, com isso, do tratamento. Diagnosticar a etiologia é essencial, pois, se não corrigida ou controlada, manter-se-á a anemia de forma recorrente ou com piora progressiva, como no caso da anemia secundária ao hipotireoidismo, além da progressão da patologia de base, como na deficiência de ferro por neoplasias gástricas.
+Segundo os critérios da Organização Mundial da Saúde, os limites mínimos ao nível do mar são de 14g/dL para homens, 12g/dL para mulheres e 11g/dL para mulheres grávidas.
+Erroneamente, considera-se a anemia uma patologia, e não o sinal de uma doença de base. O raciocínio simplista de considerar a anemia uma entidade individual leva a falhas graves na realização de diagnósticos e, com isso, no tratamento. Diagnosticar a etiologia é essencial, pois, se não corrigida ou controlada, manter-se-á a anemia de forma recorrente ou com piora progressiva, como no caso da anemia secundária a hipotireoidismo, além da progressão da patologia de base, como na deficiência de ferro por neoplasias gástricas.
+
+Importante
+A definição de anemia envolve uma diminuição da concentração de hemoglobina por unidade de sangue, cujos limites mí-nimos determinados pela Organização Mundial da Saúde são: 14g/dL em homens, 12g/dL em mulheres e 11g/dL em gestan-tes. 
+
 A responsabilidade médica inclui ainda desmistificar o quadro de anemia, conhecido, entre o público leigo, como “capaz de transformar-se em leucemia” ou “provocar aumento dos glóbulos brancos por queda dos vermelhos”. Esses conceitos errôneos, e muitos outros do gênero, causam enorme preocupação a pacientes e familiares, muitas vezes comprometendo a adesão e até o resultado do tratamento. 
-Alguns fatos devem ser citados no estudo da anemia: a anemia congênita é sugerida por história pessoal e familiar. A causa mais comum de anemia é a deficiência de ferro. Má alimentação pode resultar em deficiência de ácido fólico e contribuir para deficiência de ferro, mas o sangramento é muito mais comumente a causa da deficiência de ferro em adultos. O exame físico demonstra palidez. Atenção aos sinais físicos de doenças hematológicas primárias (linfadenopatia, hepatoesplenomegalia ou sensibilidade óssea), sobretudo no esterno ou na região tibial anterior. Alterações na mucosa, como língua lisa, podem sugerir anemia megaloblástica.
+Alguns fatos devem ser citados no estudo da anemia: a anemia congênita é sugerida pelas histórias pessoal e familiar. A causa mais comum de anemia é a deficiência de ferro. Má alimentação pode resultar em deficiência de ácido fólico e contribuir para deficiência de ferro, mas o sangramento é muito mais comumente a causa da deficiência de ferro em adultos. O exame físico demonstra palidez. Atenção aos sinais físicos de doenças hematológicas primárias (linfadenopatia, hepatoesplenomegalia ou sensibilidade óssea), sobretudo no esterno ou na região tibial anterior. Alterações na mucosa, como língua lisa, podem sugerir anemia megaloblástica.
+
 2. Hematopoese
+
 Hematopoese é o processo pelo qual são formados os elementos do sangue. O tecido hematopoético, localizado no adulto predominantemente na medula óssea, é originado das células-tronco hematopoéticas, que apresentam 3 propriedades:
+
 Tabela 1 - Propriedades
 Autorrenovação	Capacidade de produzir células idênticas 
 Diferenciação	Produção de todas as linhagens das células hematológicas maduras
-Plasticidade	Capacidade de transdiferenciação, ou seja, de originar outros tecidos
+Plasticidade	Capacidade de transdiferenciação, ou seja, de originar células de outros tecidos
+
 A origem da célula-tronco hematopoética (CTH) pode ser entendida relembrando os conceitos da embriogênese:
+
 Tabela 2 - Conceitos da embriogênese
 Célula-tronco totipotente (zigoto)	Capacidade de formar todos os tecidos embrionários e extraembrionários
-Célula-tronco pluripotente (blastocisto, também chamada célula-tronco embrionária)	Capacidade de formar qualquer tecido embrionário
-Célula-tronco multipotente	Capacidade de formar tecidos específicos (como neurológico, epidérmico, sanguíneo – também chamada célula-tronco adulta), mas com propriedade de plasticidade
+Célula-tronco pluripotente (blastocisto, também cha-mada célula-tronco embrionária)	Capacidade de formar qualquer tecido embrionário
+Célula-tronco multipotente	Capacidade de formar tecidos específicos (como neurológico, epidérmico, sanguí-neo – também chamada célula-tronco adulta), mas com propriedade de plastici-dade
+
 A CTH é uma célula multipotente e atualmente muito estudada, para compreensão das doenças hematológicas (pois dá origem a todo componente celular sanguíneo) e pela sua propriedade de plasticidade. Essa propriedade é fundamental para o desenvolvimento das técnicas futuras de terapia celular, que consiste na reparação, pela célula-tronco adulta, de tecidos lesados, como tecido cardíaco em chagásicos ou coronariopatas, tecido neurológico em acidente vascular cerebral e lesão medular, tecido ósseo e cartilaginoso etc. 
-A CTH adulta é de fácil aquisição, por meio da coleta da medula óssea ou, inclusive, do sangue periférico (por intermédio de técnicas adequadas de mobilização dessa célula para o sangue), diferente da célula-tronco embrionária, que para seu estudo envolve questões éticas difíceis.
+A CTH adulta é de fácil aquisição, por meio da coleta da medula óssea ou, inclusive, do sangue periférico (por intermédio de técnicas adequadas de mobilização dessa célula para o sangue periférico), diferente da célula-tronco embrionária, que para seu estudo envolve questões éticas difíceis.
 
  
 Figura 1 - Embriogênese e propriedades da célula-tronco de diferenciação e transdiferenciação 
-As células que povoam os espaços intertrabeculares da chamada “medula óssea vermelha” ou “hematopoética” são as CTHs (stem cells), em pequena quantidade, e as células derivadas da sua diferenciação e maturação, que se desenvolvem devido ao microambiente medular – constituído de vasos sanguíneos, células estromais (fibroblastos e osteoblastos, por exemplo), matriz extracelular e citocinas.  
+
+As células que povoam os espaços intertrabeculares da chamada “medula óssea vermelha” ou “hematopoética” são as CTHs (stem cells), estas em pequena quantidade, além das células derivadas da sua diferenciação e maturação, que se desenvolvem devido ao microambiente medular – constituído de vasos sanguíneos, células estromais (fibroblastos e osteoblastos, por exemplo), matriz extracelular e citocinas.  
 No processo de diferenciação celular, a CTH tem a capacidade de originar novas células, mais diferenciadas e comissionadas para uma linhagem específica, os chamados precursores mieloides e linfoides. Esses precursores, por meio de sucessivas divisões e maturação, chegam à formação dos elementos maduros que são liberados para a circulação periférica.
-Tanto o comissionamento linhagem-específico quanto a divisão e a maturação dos elementos das diferentes linhagens se devem à ação de mecanismos intracelulares e à atividade dos mediadores humorais, fatores de crescimento e citocinas (stem cell factor, fator de crescimento granulocítico, eritropoetina (EPO), trombopoetina, interleucinas e o fator de necrose tumoral, entre outros), além da ação das chamadas “moléculas de adesão medulares”. Assim, a ausência ou o excesso de alguns deles pode levar a estados patológicos.
+Tanto o comissionamento linhagem-específico quanto a divisão e a maturação dos elementos das diferentes linhagens se devem à ação de mecanismos intracelulares e à atividade dos mediadores humorais, fatores de crescimento e citocinas (stem cell factor, fator de crescimento granulocítico, eritropoetina – EPO –, trombopoetina, interleucinas e o fator de necrose tumoral, entre outros), além da ação das chamadas “moléculas de adesão medulares”. Assim, a ausência ou o excesso de algumas dessas substâncias pode levar a estados patológicos.
+
  
 Figura 2 - Hematopoese: (CFU) unidade formadora de colônia; (BFU) unidade formadora de “ninhos” de eritrócitos e megacariócitos e (GM) Granulócitos e Monócitos 
+
+Vídeo
+Diferenciação celular
+  
+
 A eritropoese engloba os mecanismos de diferenciação e maturação da linhagem eritroide e compreende os seguintes elementos que podem ser detectados na análise da medula óssea:
+
  
 Figura 3 - Eritropoese: as formas vão desde a célula-tronco até a BFU-E e não apresentam características morfológicas próprias quando visualizadas no esfregaço de sangue medular, mostrando-se apenas como células mononucleares indiferenciadas. A partir do pró-eritroblasto, já existem características morfológicas de cada elemento, e são essas características que indicam sua maturação
+
 A síntese de Hb faz parte do processo de maturação eritroblástica e começa com os eritroblastos policromáticos. Ao final da maturação, o núcleo, já sem utilidade para a célula, é extruído, dando origem ao reticulócito. 
 Os reticulócitos, portanto, são anucleados e capazes de realizar todas as atividades metabólicas de um eritrócito maduro, mas mantêm restos de material ribossômico em seu interior e têm volume celular discretamente maior que as formas maduras. Após 3 dias de permanência na medula óssea, o reticulócito cai na circulação periférica, finalizando sua maturação em mais 1 dia, e, com a perda do material ribossômico restante (retirado pelo baço), se transformará em eritrócito maduro.
+
+Importante
+A eritropoese envolve a diferenciação e a maturação da linhagem eritroide, compreendendo, na sequência, pró-eritroblasto, eritroblasto basofílico, eritroblasto policromatófilo, eritroblasto ortocromatófilo e, por fim, os reticulócitos, que já são células enucleadas e capazes de executar as atividades metabólicas de um eritrócito maduro. 
+
 Tabela 3 - Fatores necessários para que uma eritropoese completa e eficiente
 - CTH normal;
-- Fator estimulante para a síntese eritroide: principalmente EPO e IL3. A primeira é uma glicoproteína produzida no parênquima renal, pelas células justaglomerulares, por meio de mecanismo autorregulatório – uma alça de feedback, cujo estimulante principal é a hipóxia, e o nível de EPO circulante aumenta em proporção inversa à oxigenação tecidual e à massa eritrocitária. À medida que a anemia se desenvolve, o aparelho sensor dentro do rim aumenta a secreção de EPO, com aumento da síntese eritroide na medula óssea;
+- Fator estimulante para a síntese eritroide: principalmente EPO e IL-3. A primeira é uma glicoproteína produzida no parênquima renal, pelas células justaglomerulares, por meio de mecanismo autorregulatório – uma alça de feedback cujo estimulante principal é a hipó-xia, e o nível de EPO circulante aumenta em proporção inversa à oxigenação tecidual e à massa eritrocitária. À medida que a anemia se desenvolve, o aparelho sensor dentro do rim aumenta a secreção de EPO, com aumento da síntese eritroide na medula óssea;
 - Nutrientes: ferro, vitaminas B12 e B6, ácido fólico, proteínas e lipídios, entre outros.
+
 Após 100 a 120 dias na circulação, o eritrócito senil é destruído pelo sistema reticuloendotelial, principalmente no baço. Cerca de 0,8 a 1% da massa eritroide circulante é reposta diariamente. 
 A massa eritroide total do indivíduo é resultado do balanço entre produção e destruição diárias.
+
  
 Figura 4 - Controle da eritropoese 
+
 3. Composição do eritrócito
-O eritrócito é composto, essencialmente, por uma membrana envolvendo uma solução rica em eletrólitos (principalmente o potássio) e Hb. É altamente dependente de glicose como fonte de energia (ATP), e, como não existem organelas intracelulares como mitocôndrias, a produção de ATP é quase exclusiva através da glicólise. 
+
+O eritrócito é composto, essencialmente, por uma membrana envolvendo uma solução rica em eletrólitos (principalmente o potássio) e Hb. É altamente dependente de glicose como fonte de energia (ATP), e, como não existem organelas intracelulares como mitocôndrias, a produção de ATP é quase exclusiva por meio da glicólise. 
+
 A - Membrana eritrocitária
 A membrana eritrocitária é constituída por uma bicamada lipídica, na qual são inseridas proteínas transmembrana de disposição vertical (proteínas integrais, banda 3, glicoforina), que têm como base de sustentação um citoesqueleto de proteínas de disposição horizontal (malha de alfa e betaespectrinas).
 A integridade da membrana é responsável por propriedades importantes dos eritrócitos, que permitem sua passagem pelos vasos sem haver lise celular. Essas propriedades são deformabilidade, elasticidade e reestruturação do eritrócito, as quais se encontram alteradas nos defeitos de membrana (esferocitose).
+
  
 Figura 5 - Membrana do eritrócito
+
 B - Hemoglobina
 A Hb é a macromolécula presente no interior dos eritrócitos, responsável direta pelo transporte de oxigênio até os tecidos. A cor vermelha das hemácias é dada por esse pigmento, e a sua concentração no interior do corpúsculo se traduz em diferentes intensidades e padrões de pigmentação, que podem ser armas propedêuticas importantes no diagnóstico da etiologia das anemias.
 A concentração considerada normal de Hb para mulheres é de 12 a 15g/dL e, para homens, de 14 a 17g/dL.
@@ -54,52 +90,83 @@ Cada molécula da Hb é composta por 4 cadeias heme e 4 cadeias de polipeptídios d
 Hemoglobina A (HbA): 2 cadeias alfa e 2 cadeias beta;
 Hemoglobina A2 (HbA2): 2 cadeias alfa e 2 cadeias delta;
 Hemoglobina fetal (HbF): 2 cadeias alfa e 2 cadeias gama.
+
 Contudo, outros tipos de cadeias globínicas e de Hbs aparecem durante o desenvolvimento embrionário-fetal ou por mutações específicas, como no caso das talassemias e da doença falciforme.
 Cada cadeia de globina envolve 1 único núcleo contendo ferro, denominado “porção heme da molécula”. O heme contém 1 anel de protoporfirina e 1 átomo de ferro em seu estado ferroso e pode ligar-se a 1 única molécula de oxigênio. Portanto, cada molécula de Hb é capaz de ligar 4 moléculas de oxigênio. 
+
  
-Figura 6 - HbA: 4 cadeias de globina (2 alfa, 2 beta) e 4 núcleos heme
-Em um adulto normal, cerca de 98% da Hb circulante são HbA; aproximadamente 2% da Hb restante ocorrem na forma A2. Menos de 1% se apresenta na forma fetal ou F, sendo essa de maior afinidade pelo oxigênio que as formas A.
-A afinidade do oxigênio pela Hb é determinada pela pressão parcial do oxigênio (pO2), em que 50% da Hb estão saturados (P50). A P50 é normal em 27mmHg de O2, em pH = 7,4 e temperatura de 37,4°C. A afinidade do oxigênio pela Hb é modulada pelo pH, CO2, 2,3 DPG, temperatura e ferro. 
+Figura 6 - Hemoglobina A: 4 cadeias de globina (2 alfa, 2 beta) e 4 núcleos heme
+
+Vídeo
+Composição da hemoglobina
+  
+
+Em um adulto normal, cerca de 98% da Hb circulante são HbA; aproximadamente 2% da Hb restante ocorrem na forma A2. Menos de 1% se apresenta na forma fetal ou F, sendo esta de maior afinidade pelo oxigênio que as formas A.
+A afinidade do oxigênio pela Hb é determinada pela pressão parcial do oxigênio (pO2), em que 50% da Hb estão saturados (P50). A P50 é normal em 27mmHg de O2, em pH = 7,4 e temperatura de 37,4°C. 
+
 a) pH e CO2
 A acidez (excesso de prótons H+) e alta concentração de CO2 nos capilares de tecidos em metabolismo ativo promovem a liberação de O2 da Hb, pois diminuem a afinidade por esta. O efeito contrário acontece nos capilares dos alvéolos do pulmão, onde a alta concentração de O2 libera CO2 e H+ da Hb. A capacidade da Hb de liberar mais oxigênio em tecidos com muito CO2 é conhecida como efeito Bohr. 
-b) 2,3 DPG
-É produzido e destruído enzimaticamente como intermediário da glicólise nos eritrócitos e liga-se à Hb desoxigenada, diminuindo assim a afinidade desta pelo oxigênio, liberando-o para os tecidos; isso ocasiona desvio da curva de saturação da Hb para a direita.
+
+b) 2,3-DPG
+O 2,3-difosfoglicerato é produzido e destruído enzimaticamente como intermediário da glicólise nos eritrócitos e liga-se à Hb desoxigenada, diminuindo assim a afinidade desta pelo oxigênio, liberando-o para os tecidos; isso ocasiona desvio da curva de saturação da Hb para a direita.
+
 c) Ferro
 Em seu estado ferroso, é essencial para a afinidade normal da Hb ao oxigênio, pois o estado férrico (meta-Hb) tem alta afinidade pelo oxigênio, comprometendo a liberação tissular.
+
 d) Temperatura
 A hipotermia também aumenta a afinidade de oxigênio pela Hb.
+
  
-Figura 7 - Curva de dissociação da oxi-Hb em indivíduo adulto – linha preta: curva de dissociação normal (a Hb está 50% saturada, resul-tando em pO2 tecidual de 27mmHg – isto é: P50 = 27mmHg); desvio para a esquerda (linha azul): aumento da afinidade do O2 pela Hb, com menor liberação tecidual de oxigênio – ou seja, para o mesmo P50, ocorre liberação de pO2 de cerca de 15mmHg; desvio para a direita (linha vermelha): diminuição da afinidade da oxi-Hb, com maior liberação de O2 para os tecidos – a mesma P50 resulta em pO2 tecidual de cerca de 37mmHg
+Figura 7 - Curva de dissociação da oxi-Hb em indivíduo adulto – linha preta: curva de dissociação normal (a Hb está 50% saturada, resul-tando em pO2 tecidual de 27mmHg – isto é: P50 = 27mmHg); desvio para a esquerda (linha azul): aumento da afinidade do O2 pela Hb, com menor liberação tecidual de oxigênio – ou seja, para a mesma P50, ocorre liberação de pO2 de cerca de 15mmHg; desvio para a direita (linha vermelha): diminuição da afinidade da oxi-Hb, com maior liberação de O2 para os tecidos – a mesma P50 resulta em pO2 tecidual de cerca de 37mmHg
+
+Importante
+A afinidade do oxigênio pela hemoglobina é determinada pela pressão parcial de oxigênio (pO2) e é modulada pelo pH, CO2 (a acidez e a alta concentração de CO2 nos capilares de tecidos em metabolismo ativo promovem a liberação de O2 da hemoglobina), 2,3-difosfoglicerato (intermediário da glicólise, ligando-se à hemoglobina desoxigenada), temperatura (a hipotermia aumenta afinidade do oxigênio pela hemoglobina) e ferro (é no estado ferroso que a afinidade hemoglobina–oxigênio está normal). 
+
 C - Metabolismo do eritrócito
-O metabolismo do eritrócito, apesar de ser uma célula anucleada, é bastante complexo e envolve uma série de reações enzimáticas. A glicose é o substrato primário para o requerimento energético dos eritrócitos. O ATP assegura o funcionamento da bomba de sódio e o transporte de várias moléculas através da membrana, mantém a forma e a deformabilidade desta e garante a concentração de 2,3 DPG dentro da célula. 
-Uma vez que a glicose entra na célula, é fosforilada a glicose 6-fosfato (G6P) pela enzima hexoquinase (HK). A G6P é então metabolizada pela via da glicólise ou via das pentoses (VPP). 
+O metabolismo do eritrócito, apesar de ser uma célula anucleada, é bastante complexo e envolve uma série de reações enzimáticas. A glicose é o substrato primário para o requerimento energético dos eritrócitos. O ATP assegura o funcionamento da bomba de sódio e o transporte de várias moléculas através da membrana, mantém a forma e a deformabilidade desta e garante a concentração de 2,3-DPG dentro da célula. 
+Uma vez que a glicose entra na célula, é fosforilada a glicose-6-fosfato (G6P) pela enzima hexoquinase (HK). A G6P é então metabolizada pela via da glicólise ou via das pentoses (VPP). 
 A via da glicólise resulta em ATP e lactato, por meio da enzima piruvatoquinase (PK). 
-Na via das pentoses ou shunt da hexose-monofosfato, a G6P sofre ação da enzima glicose-6-fosfato desidrogenase (G6PD), formando a 6-fosfogluconato e o NADPH. Este último é coenzima da glutationa redutase, que leva à regeneração da glutationa reduzido o GSH. O GSH é usado pela glutationa peroxidase na eliminação do peróxido de hidrogênio na hemácia, evitando a oxidação da membrana plasmática da hemácia, das globinas e das proteínas estruturais (já que isso causaria instabilidade celular). 
+Na via das pentoses ou shunt da hexose-monofosfato, a G6P sofre ação da enzima glicose-6-fosfato desidrogenase (G6PD), formando o 6-fosfogluconato (6PG) e o NADPH. Este último é coenzima da glutationa redutase, que leva à regeneração da glutationa, reduzido o GSH. O GSH é usado pela glutationa peroxidase na eliminação do peróxido de hidrogênio na hemácia, evitando a oxidação da membrana plasmática da hemácia, das globinas e das proteínas estruturais (já que isso causaria instabilidade celular). 
 Em resumo, a G6PD protege a Hb e a membrana eritrocitária do dano oxidativo dos radicais livres do O2 produzidos por infecções, drogas, toxinas, cetoacidose diabética etc. A oxidação de estruturas da membrana pode causar hemólise intravascular.
 
  
-Figura 8 - Metabolismo da G6PD
+Figura 8 - Metabolismo da glicose-6-fosfato desidrogenase
+
 A G6PD também atua, por intermédio da produção de NADH, para manter o heme na forma reduzida Fe++, evitando a formação da meta-Hb (heme contendo ferro na forma férrica), que se precipita lesando a membrana eritrocitária de diversas maneiras. 
+
 4. Mecanismos adaptativos
+
 Existem mecanismos fisiológicos de adaptação à anemia:
+
 A - Aumento do débito cardíaco
 Para aumentar o aporte de oxigênio aos tecidos, o sangue circula em maior volume por minuto. Tal procedimento é chamado “efeito hipercinético da anemia”, que é consequência da queda da resistência vascular periférica e do aumento da frequência cardíaca.
-B - Aumento do 2,3 DPG (glicose difosfato) no interior da hemácia
+
+B - Aumento do 2,3-DPG no interior da hemácia
 Este metabólito reduz a afinidade da Hb pelo oxigênio, facilitando a liberação de O2 nos tecidos e minimizando os sintomas.
+
 C - Aumento da perfusão “órgão-seletiva”
 Formando shunts, para melhorar a perfusão de órgãos vitais. Na perda aguda, as maiores áreas de redistribuição são o leito vascular mesentérico e ilíaco; nas perdas crônicas, pele e rim.
+
 D - Aumento da função pulmonar
 Aumento da frequência respiratória para elevar a oxigenação sanguínea.
+
 E - Aumento da produção de eritrócito
 Mediado pela produção de EPO. A taxa da síntese desta é inversamente proporcional à concentração de Hb e estimulada pela hipóxia do tecido renal.
-Quando o sistema de adaptação da anemia está preservado, a liberação tissular de oxigênio pode ser mantida, em repouso, com valores de Hb de até 5g/dL. Sintomas se estabelecem com valores abaixo deste no indivíduo em repouso, ao esforço físico ou, ainda, nos casos de falha no sistema de adaptação.
+Quando o sistema de adaptação da anemia está preservado, a liberação tissular de oxigênio pode ser mantida, em repouso, com valores de Hb de até 5g/dL. Sintomas se estabelecem com valores abaixo desse no indivíduo em repouso, ao esforço físico ou, ainda, nos casos de falha no sistema de adaptação.
+
 5. Quadro clínico 
-Os sinais e sintomas associados à anemia se devem à deficiência do aporte tissular de oxigênio. A chamada síndrome anêmica varia em suas manifestações de acordo com a idade, o tempo de estabelecimento, a intensidade da anemia e as performances hemodinâmica e respiratória do indivíduo. Idosos com comorbidades, como insuficiência cardíaca ou doença pulmonar obstrutiva crônica, têm menos tolerância ao estado de hipóxia tissular. Pacientes cujo quadro anêmico se estabelece lentamente, como no caso da deficiência de ferro por perdas crônicas, suportam níveis mais baixos de Hb (pela adaptação feita com os mecanismos compensatórios) que aqueles em que há rápida instalação da anemia, como nas perdas agudas.
+
+Os sinais e sintomas associados à anemia se devem à deficiência do aporte tissular de oxigênio. A chamada síndrome anêmica varia em suas manifestações de acordo com a idade, o tempo de estabelecimento, a intensidade da anemia e as performances hemodinâmica e respiratória do indivíduo. Idosos com comorbidades, como insuficiência cardíaca ou doença pulmonar obstrutiva crônica, têm menor tolerância ao estado de hipóxia tissular. Pacientes cujo quadro anêmico se estabelece lentamente, como no caso da deficiência de ferro por perdas crônicas, suportam níveis mais baixos de Hb (pela adaptação feita com os mecanismos compensatórios) quando comparados àqueles em que há rápida instalação da anemia, como nas perdas agudas.
 Os sintomas mais habitualmente associados à síndrome anêmica (independente da etiologia dela) são dispneia aos esforços, de forma progressiva – até dispneia em repouso, tontura postural, vertigem, cefaleia, palpitação, síncope, astenia, diminuição dos rendimentos físico e intelectual, alteração do sono, diminuição da libido, alteração do humor, anorexia, dor torácica e descompensação de patologias cardiovasculares, cerebrais ou respiratórias de base. 
 No exame físico, encontram-se palidez da pele e das mucosas, taquicardia, aumento da pressão do pulso, sopros de ejeção sistólicos, diminuição da pressão diastólica e edema periférico leve. Nos casos mais graves, letargia, confusão mental, hipotensão arterial e arritmia cardíaca.
+
+Importante
+Os sinais e sintomas da anemia envolvem dispneia progressiva, cefaleia, vertigem, síncope, astenia. Alteração do sono, des-compensação de patologias preexistentes, além da presença de palidez cutânea e de mucosas, taquicardia, sopros sistólicos e até hipotensão arterial são evidenciados no exame físico. 
+
 A anemia causada por perda sanguínea aguda é acompanhada de sintomas de hipovolemia. De acordo com o volume de sangue perdido, a intensidade do sintoma muda e pode variar desde taquicardia até choque hipovolêmico e perda de consciência. Além disso, os reflexos de adaptação vascular à perda volumétrica aguda são mais intensos, e o quadro pode regredir apenas com reposição de volume. É importante reconhecer a diferença entre sintoma de anemia e hipovolemia, a fim de evitar transfusões de sangue desnecessárias (Tabela 4).
+
 Tabela 4 - Classificação do choque hipovolêmico
- 	Classe I	Classe II	Classe III	Classe IV
+	Classe I	Classe II	Classe III	Classe IV
 Perda (mL)	Até 750	800 a 1.500	1.500 a 2.000	>2.000
 Perda (%)	Até 15	15 a 30	30 a 40	>40
 Pressão sistólica	Normal	Normal	Diminuída	Diminuída
@@ -107,45 +174,67 @@ Pressão diastólica	Normal	Diminuída	Diminuída	Diminuída
 Frequência cardíaca	Até 100	100 a 120	120	>120
 Frequência respiratória	Normal	Normal	>20	>20
 Diurese (mL/h)	>30	20 a 30	10 a 20	0 a 10
-Extremidades	Normal	Pálida	Pálida	Fria
+Extremidades	Normais	Pálidas	Pálidas	Frias
 Nível de consciência	Alerta	Ansioso	Sonolento	Confuso
+
 A transfusão de concentrado de hemácias deve ser considerada aos pacientes das classes III e IV, pois, nos de classes I e II, pode ser feita apenas a reposição volêmica com cristaloides. O cor anêmico é possível em indivíduos previamente hígidos e acontece em razão da insuficiência cardíaca de alto débito.
+
+Pergunta
+2015 - INCA
+1. Os principais exames laboratoriais indicados para a investigação inicial das anemias são: 
+a) hemograma e VHS
+b) hemograma e reticulócitos 
+c) reticulócitos e curva de fragilidade osmótica
+d) hemograma e eletroforese de hemoglobina
+Resposta no final do capítulo
+
 6. Investigação etiológica e classificação 
-A anemia é sinal de doença, portanto nunca deve ser admitida como normal e sempre deve-se procurar uma causa.
+
+A anemia é sinal de doença, portanto nunca deve ser admitida como normal, devendo-se sempre procurar uma causa.
 A abordagem inicial do paciente com anemia deve acontecer da seguinte forma:
-História clínica completa
-Questionar quanto aos sintomas da síndrome anêmica e o tempo de evolução;
+História clínica completa:
+Questionar quanto aos sintomas da síndrome anêmica e ao tempo de evolução;
 Investigar história nutricional, incluindo ingestão alcoólica;
 Questionar sobre sintomas de doenças que, sabidamente, cursam com anemia (sangue nas fezes, dor epigástrica, artrite, características da diurese);
 Pesquisar comorbidades e medicamentos em uso;
-Investigar história familiar de anemia e origem étnica, considerando alterações hereditárias da Hb e do metabolismo do eritrócito (talassemias, anemia falciforme, deficiência de G6PD etc.);
+Investigar história familiar de anemia e origem étnica, considerando alterações hereditárias da Hb e do metabolismo do eritrócito (talassemias, anemia falciforme, deficiência de G6PD etc.).
+
 Investigar história ocupacional, à procura de exposição a agentes tóxicos. 
-Exame físico 
+Exame físico:
 Realizar exame físico completo, além de estar atento para sinais de anemia, sinais característicos de ferropenia ou deficiência de B12, icterícia (sinal de hemólise ou hepatopatia), sinais de neuropatia, esplenomegalia (hemólise ou outra doença de base) e sinais de doenças associadas como causa da anemia (adenomegalia, esplenomegalia, petéquias etc.);
 Como exames laboratoriais de triagem, devem-se solicitar:
 Hemograma: é importante para a análise dos índices eritroides, auxiliando na classificação morfológica da anemia e na avaliação dos outros componentes celulares sanguíneos;
 Contagem de reticulócito: avalia a função medular, importante na classificação funcional das anemias;
-Avaliação do esfregaço de sangue periférico: contém informações importantes quanto à alteração na produção eritroide, diferenças em tamanho e forma.
+Avaliação do esfregaço de sangue periférico: contém informações importantes quanto à alteração na produção eritroide e nos mostra diferenças no tamanho e na forma das hemácias.
+
 A - Avaliação da função medular (hemograma e contagem de reticulócitos)
 A contagem de reticulócitos é utilizada como marcador da eritropoese eficaz, pois são formas jovens da hemácia recentemente liberadas pela medula óssea. Diante do quadro de anemia, se a EPO e a função medular estão preservadas, a produção eritroide aumenta em 2 a 3 vezes o valor normal dentro de 10 dias do início da anemia. Desta forma, se o valor normal da contagem não for ampliado dessa maneira, será indicada resposta medular inadequada.
 O valor do reticulócito pode ser expresso em número absoluto ou relativo (em porcentagem). Como geralmente é referido em porcentagem, para utilizá-lo como indicador de função medular são necessários 2 ajustes: 
+
 a) Ajustar para o grau de anemia
 Na anemia, a porcentagem de reticulócitos pode estar aumentada, enquanto o número absoluto está baixo. Exemplo: em um caso em que o valor de reticulócitos é de 5%, numa contagem de eritrócitos de 1.000.000/µL, o número absoluto é de 50.000/µL; isto é, não há reticulocitose. Para corrigir esse efeito, utiliza-se o seguinte cálculo:
-% reticulócito ajustada = 	% reticulócito x hematócrito do paciente
+
+% reticulócito ajustada = 	% de reticulócitos x hematócrito do paciente
 	Hematócrito normal*
 * Hematócrito normal para o homem: 45%; para a mulher: 40%.
+
 Outra fórmula que pode ser utilizada é o cálculo do número de reticulócitos absolutos, como segue:
-Reticulócito absoluto = % de reticulócitos x contagem de hemácias/100.
+
+Reticulócito absoluto = % de reticulócitos x contagem de hemácias / 100
+
 Quando o reticulócito é expresso em número absoluto, esse cálculo não é necessário.
+
 b) Índice reticulocitário
 O reticulócito está presente na circulação pelo período de 1 a 2 dias, tempo suficiente para o catabolismo final dos resíduos de RNAs. Em situações com grande estímulo da eritropoese, o reticulócito pode sair precocemente da medula e ficar mais dias no sangue periférico, fato identificado pelo encontro de policromasia (variação de cor na análise do sangue periférico). Portanto, nessas situações, pode-se ter uma estimativa excessiva da eritropoese. Para corrigir esse efeito, utiliza-se o índice reticulocitário.
-Calcula-se, de forma prática, dividindo o reticulócito corrigido por 2 (ou o valor absoluto), pois a maioria se apresenta com hematócrito entre 20 e 30. Porém, quanto mais intensa for a anemia, mais precocemente o reticulócito cairá na circulação, e ali fica por maior tempo. Desta forma, o método correto de calcular o índice é correlacionar com o hematócrito.
+Calcula-se, de forma prática, dividindo o reticulócito corrigido por 2 (ou o valor absoluto), pois a maioria dos pacientes se apresenta com hematócrito entre 20 e 30%. Porém, quanto mais intensa for a anemia, mais precocemente o reticulócito cairá na circulação e ali ficará por maior tempo. Desta forma, o método correto de calcular o índice é correlacionar com o hematócrito.
+
 Tabela 5 - Fator de correção segundo o hematócrito para o cálculo do índice reticulocitário
 Hematócrito	Fatores de correção
 >45%	1
 30 a 45%	1,5
 20 a 30%	2
 <20%	2,5
+
 Com a avaliação dos reticulócitos, pode-se dividir a função medular em:
 Medula hipoproliferativa: apresenta contagem de reticulócito corrigida <2% ou <100.000/mm3;
 Medula hiperproliferativa: quando a contagem atinge valores =2% ou =100.000/mm3, indicando resposta medular normal à perda de sangue ou à destruição excessiva dos eritrócitos.
@@ -156,7 +245,11 @@ Falta de estímulo com diminuição de hormônios estimulantes da eritropoese – EPO 
 Doenças da célula-tronco (anemia aplástica, mielodisplasia) ou infiltração medular tumoral; 
 Supressão medular: quimioterápicos, medicamentos;
 Anemia de doença crônica secundária a processos inflamatórios, infecciosos ou neoplásicos.
-Anemias hiperproliferativas: diagnosticadas pela reticulocitose, ocorrem em razão da perda ou destruição excessiva dos eritrócitos, com resposta adequada da medula óssea. Hemólise é a destruição prematura de hemácias e pode ser de causa congênita ou adquirida. 
+Anemias hiperproliferativas: diagnosticadas pela reticulocitose, ocorrem em razão da perda ou destruição excessiva dos eritrócitos, com resposta adequada da medula óssea. Hemólise é a destruição prematura de hemácias e pode ser de causa congênita ou adquirida.
+
+Importante
+As anemias podem ser hipoproliferativas, nas quais há reticulocitopenia decorrente da baixa produção de hemácias, causa-da por carência nutritiva, diminuição de hormônios estimuladores de eritropoese nos pacientes renais crônicos, ou decor-rente de anemia aplástica/mielodisplasia e secundária a doença crônica. Também são possíveis as hiperproliferativas, nas quais há reticulocitose decorrente da perda ou destruição excessiva de eritrócitos. 
+
 Tabela 6 - Classificação fisiopatológica 
 Anemias hipoproliferativas
 - Deficiência de ferro;
@@ -170,44 +263,51 @@ Anemias hipoproliferativas
 - Infiltração medular;
 - Anemia sideroblástica;
 - Anemia aplásica;
-- Se houver leucopenia e/ou plaquetopenia associados:
-   · Deficiência de B12;
-   · Deficiência de folato;
-   · Leucemia;
-   · Anemia aplásica;
-   · Sepse;
-   · Infiltração medular tumoral.
+- Se houver leucopenia e/ou plaquetopenia associadas:
+· Deficiência de B12;
+· Deficiência de folato;
+· Leucemia;
+· Anemia aplásica;
+· Sepse;
+· Infiltração medular tumoral.
 Anemias hiperproliferativas
 - Resposta apropriada à perda sanguínea;
 - Anemias hemolíticas:
-   · Hemoglobinopatias;
-   · Anemia hemolítica imune; 
-   · Hemólise de causa infecciosa (malária, babesiose);
-   · Doenças de membrana (esferocitose hereditária, eliptocitose);
-   · Anormalidade metabólica (deficiência de G6PD);
-   · Hemólise mecânica (microangiopatia, prótese valvar cardíaca);
-   · Hemoglobinúria paroxística noturna.
+· Hemoglobinopatias;
+· Anemia hemolítica imune; 
+· Hemólise de causa infecciosa (malária, babesiose);
+· Doenças de membrana (esferocitose hereditária, eliptocitose);
+· Anormalidade metabólica (deficiência de G6PD);
+· Hemólise mecânica (microangiopatia, prótese valvar cardíaca);
+· Hemoglobinúria paroxística noturna.
 - Se houver plaquetopenia associada:
-· Anemia microangiopática: púrpura trombocitopênica trombótica, síndrome hemolítico-urêmica, HELLP, coagulação intravascular disseminada.
+· Anemia microangiopática: púrpura trombocitopênica trombótica, síndrome hemolítico-urêmica, HELLP, coagulação intravascular disse-minada.
+
 B - Avaliação da morfologia (hemograma e esfregaço do sangue periférico)
-A avaliação morfológica das anemias baseia-se, principalmente, na Hemoglobina Corpuscular Média (HCM), no Volume Corpuscular Médio (VCM) e no RDW (Red cell Distribution Width).
-O VCM (que mostra o tamanho médio dos eritrócitos) e o HCM (que mostra o valor médio de Hb nas hemácias – representada morfologicamente pela cor do eritrócito) podem ser calculados com base nos valores de hematócrito, número de eritrócitos e Hb.
+
+Dica
+A avaliação morfológica das anemias baseia-se, principalmente, na hemoglobina corpuscular média, no volume corpuscular médio e na red cell distribution width.
+
+O VCM (que mostra o tamanho médio dos eritrócitos) e a HCM (que mostra o valor médio de Hb nas hemácias – representado morfologicamente pela cor do eritrócito) podem ser calculados com base nos valores de hematócrito, número de eritrócitos e Hb.
 Segundo o VCM, a anemia pode ser:
-96fL: macrocítica;
+>96fL: macrocítica;
 80 a 96fL: normocítica;
 <80fL: microcítica.
 Segundo o HCM, a anemia pode ser:
 >31g/dL: hipercrômica;
-<31g/dL a >27g/dL: normocrômica;
+27 a 31g/dL: normocrômica;
 <27g/dL: hipocrômica.
 Com esses dados, pode-se estabelecer a classificação das anemias, segundo a morfologia, em:
+
 a) Hipocrômicas e microcíticas
 São caracterizadas por células pequenas e de coloração menos intensa, pelo pouco conteúdo de Hb, que pode ser decorrente de:
 Diminuição da disponibilidade do ferro: deficiência de ferro, anemia de doença crônica, deficiência de cobre;
 Diminuição da síntese do heme: intoxicação por chumbo, anemia sideroblástica;
 Diminuição na síntese de globinas: talassemia, outras hemoglobinopatias.
+
 b) Normocrômicas e normocíticas
-A média do tamanho e da coloração das hemácias é normal. Nessa situação, a análise do sangue periférico é importante, pois pode tratar-se de estágio inicial de anemia microcítica ou macrocítica. Pode também ocorrer pela falta de estímulo da eritropoese (insuficiência renal, endocrinopatia), da anemia de doença crônica ou das anemias por infiltração medular, entre outros. 
+A média do tamanho e da coloração das hemácias é normal. Nessa situação, a análise do sangue periférico é importante, pois pode tratar-se de estágio inicial de anemia microcítica ou macrocítica. Pode também ocorrer pela falta de estímulo da eritropoese (insuficiência renal, endocrinopatia), pela anemia de doença crônica ou pelas anemias por infiltração medular, entre outros. 
+
 c) Normocrômicas e macrocíticas
 Trata-se de hemácias grandes e de coloração normal, maiores que a média, porém com conteúdo globínico normal. Ocorre frequentemente em: 
 Anemias com metabolismo anormal do ácido nucleico – megaloblásticas por deficiência de vitamina B12 ou ácido fólico, medicamentos (zidovudina, hidroxiureia); 
@@ -225,38 +325,48 @@ Por fim, quando se analisa um quadro de anemia, deve-se ainda prestar atenção na
 
 Tabela 7 - Alterações morfológicas das hemácias no sangue periférico 
 Alterações	Descrições	Tipos de anemia	Imagens
-Poiquilocitose	Variação das formas das hemácias	Anemia ferropriva	 
+Poiquilocitose	Variação das formas das he-mácias	Anemia ferropriva	 
 Eliptócitos/ovalócitos	Hemácias elípticas e ovaladas	Eliptocitose, talassemia, deficiência de ferro, anemia megaloblástica	 
-Esferócitos	Hemácias pequenas de forma esférica e hipercorada	Anemia hemolítica autoimune, esferocitose hereditária	 
+Esferócitos	Hemácias pequenas de forma esférica e hipercorada	Anemia hemolítica autoimune, esfe-rocitose hereditária	 
 Dacriócitos	Hemácias “em lágrima”	Mielofibrose, mieloftise	 
-Leptócitos/hemácias “em alvo”
-	Células “em alvo”	Talassemia, doença hepática, hemoglobinopatias S e C, talassemia, pós-esplenectomia, deficiência de ferro	
- 
+Leptócitos/hemácias “em alvo”	Células “em alvo”	Talassemia, doença hepática, hemo-globinopatias S e C, talassemia, pós-esplenectomia, deficiência de ferro	 
 Drepanócitos	Hemácias “em foice”	Doença falciforme	--
 Acantócitos (spur cells)	Hemácias pequenas com projeções irregulares	Abetalipoproteinemia, hepatopatia alcoólica, pós-esplenectomia, má absorção	 
 Esquizócitos	Fragmentos de hemácias de
-tamanhos diferentes e com formas bizarras	Microangiopatia (púrpura trombocitopênica trombótica, síndrome hemolítico-urêmica, coagulação intravascular disseminada, vasculite, hipertensão maligna), queimadura severa, doença valvar	 
-Anel de Cabot	Figura em forma de anel observada nas anemias megaloblásticas e filamento fino, de cor vermelho-violeta, concêntrico em relação à membrana celular, que resulta de mitoses anômalas	Estado hemolítico, anemias megaloblásticas	 
-Corpúsculos de Howell-Jolly	Restos de cromatina nuclear	Pós-esplenectomia, anemia hemolítica, anemia megaloblástica	 
-Pontilhado basófilo	Granulações variáveis em número e tamanho, de cor azulada, agregados de ribossomos remanescentes	Talassemias, intoxicação por chumbo	 
-Corpúsculos de Heinz	Precipitados de Hb desnaturada que podem ser encontrados aderidos à membrana das hemácias	Indicação de lesão oxidativa: deficiência de G6PD, Hbs instáveis	 
-Corpúsculo de Pappenheimer	Depósito de ferro no eritrócito apresentando-se como pontos enegrecidos, agrupados ou localizados	Talassemias, anemia megaloblástica e hipoesplenismo	 
+tamanhos diferentes e com formas bizarras	Microangiopatia (púrpura tromboci-topênica trombótica, síndro-me hemolítico-urêmica, coagulação intravascular disseminada, vasculite, hipertensão maligna), queimadura severa, doença valvar	 
+Anel de Cabot	Figura em forma de anel observada nas anemias mega-loblásticas e filamento fino, de cor vermelho-violeta, concên-trico em relação à membrana celular, que resulta de mitoses anômalas	Estado hemolítico, anemias megalo-blásticas	 
+Corpúsculos de Howell-Jolly	Restos de cromatina nuclear	Pós-esplenectomia, anemia hemolíti-ca, anemia megaloblástica	 
+Pontilhado basófilo	Granulações variáveis em número e tamanho, de cor azulada, agregados de ribos-somos remanescentes	Talassemias, intoxicação por chumbo	 
+Corpúsculos de Heinz	Precipitados de Hb desnatura-da que podem ser encontrados aderidos à membrana das hemácias	Indicação de lesão oxidativa: deficiên-cia de G6PD, Hbs instáveis	 
+Corpúsculo de Pappe-nheimer	Depósito de ferro no eritrócito apresentando-se como pontos enegrecidos, agrupados ou localizados	Talassemias, anemia megaloblástica e hipoesplenismo	 
 Hemácias “em rouleaux”	Aglutinação das hemácias que formam verdadeiras pilhas	Hipergamaglobulinemia	 
 Eritroblastos	Hemácias nucleadas que podem aparecer no sangue periférico	Anemia aguda, hemólise	--
+
  
-Figura 9 - Análise morfológica de hemácias no sangue periférico: (A) hipocromia e microcitose; (B) esferócitos; (C) hemácias falcifor-mes; (D) esquizócitos e (E) hemácias “em alvo”
+Figura 9 - Análise morfológica de hemácias no sangue periférico: (A) hipocromia e microcitose; (B) esferócitos; (C) hemácias falcifor-mes; 
+(D) esquizócitos e (E) hemácias “em alvo”
+
+Pergunta
+2015 - UNICAMP
+2. Uma mulher de 38 anos, negra, procura atendimento com queixa de fraqueza, desânimo e inapetência há 6 meses, com piora progressiva, mas nega outras queixas. Ao exame físico, PA = 110x70mmHg, FC = 92bpm e descorada (2+/4+). Exames laboratoriais: Hb = 9g/dL; Ht = 27%; VCM = 77fL; HCM = 22pg; ferro sérico = 32µg/dL; e TIBC = 400µg/dL. A classificação morfológica e a causa da anemia são:
+a) hipocrômica, microcítica; deficiência de ferro
+b) normocrômica, normocítica; doença crônica
+c) hipocrômica, microcítica; traço talassêmico
+d) normocrômica, normocítica; doença falciforme
+Resposta no final do capítulo
+
 7. Resumo
 
 Quadro-resumo
-- Anemia: Hb abaixo da média considerada normal para a raça, o sexo, a idade e a altitude. Caracteriza-se pela redução da capa-cidade de transporte de oxigênio.
+Anemia: Hb abaixo da média considerada normal para a raça, o sexo, a idade e a altitude. Caracteriza-se pela redução da capacidade de transporte de oxigênio.
 Mecanismos adaptativos
 - Aumento do débito cardíaco;
-- Aumento do 2,3 DPG;
+- Aumento do 2,3-DPG;
 - Aumento da perfusão “órgão-seletiva”; 
 - Aumento da função pulmonar; 
 - Aumento da produção de eritrócito (? EPO).
 Quadro clínico
-Os sintomas decorrem da hipoxemia tecidual e têm maior intensidade. Quanto mais rápida a instalação do quadro, mais intensa a anemia e menor a capacidade de adaptação.  
+Os sintomas decorrem da hipoxemia tecidual e têm maior intensidade. Quanto mais rápida a instalação do quadro, mais intensa a ane-mia e menor a capacidade de adaptação.  
 Sintomas
 - Dispneia aos esforços;
 - Tontura postural;
@@ -276,3 +386,12 @@ Para eritropoese adequada
 - Estímulo adequado: EPO (consequentemente, boa função renal), hormônios (tireoidiano, androgênio, corticoide);
 - Nutrientes: ferro, vitaminas B12 e B6, proteínas, lipídios;
 - Sempre investigar a causa da anemia.
+
+Respostas
+1. B
+2. A
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
