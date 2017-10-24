@@ -1,10 +1,13 @@
 Pneumonia adquirida na comunidade
 Durval A. G. Costa
+
+Resumo
+A Pneumonia Adquirida na Comunidade (PAC) é definida como aquela que aparece em pacientes que não estão internados ou naqueles que se internam, mas é detectada antes de 48 horas da internação, sendo o principal agente etiológico o Streptococcus pneumoniae. O quadro clínico é composto por tosse, febre, expectoração e dor torácica, constituindo indica-ção de raio x de tórax para melhor elucidação diagnóstica. O tratamento é feito de forma empírica com macrolídeos e beta-lactâmicos no tratamento ambulatorial, e nos casos internados opta-se por quinolona ou betalactâmico + macrolídeo. Este capítulo possui grande importância na prática clínica, sendo por isso um tema muito cobrado nas questões de Residência Médica. 
+
 1. Introdução e definições
 
-A pneumonia é definida como um processo inflamatório (e infeccioso) do parênquima do pulmão. Ocorre, por conta dis-so, consolidação da área do parênquima pulmonar (podendo ser do lobo pulmonar ou de segmento específico). A caracterís-tica microscópica é de preenchimento dos espaços alveolares com exsudato infeccioso, cheios de células inflamatórias e fibrinas (frutos da resposta celular do organismo). 
-O broncograma aéreo é a descrição radiológica de uma imagem de preenchimento dos alvéolos com secreção, o que se apresenta com imagem radiológica diferente dos bronquíolos, que estão cheios de ar. Quando ocorre a passagem de raio x, a imagem de ar no bronquíolo é mais facilmente visualizada. Se o pulmão estivesse sem infecção, o parênquima pulmonar esta-ria cheio de ar, e os raios x passariam igualitariamente pelo parênquima e pelo brônquio, não sendo possível visualizá-lo. 
-
+A pneumonia é definida como um processo inflamatório (e infeccioso) do parênquima do pulmão. Ocorre, por conta dis-so, consolidação da área do parênquima pulmonar (podendo ser do lobo pulmonar ou de segmento específico). A caracte-rística microscópica é de preenchimento dos espaços alveolares com exsudato infeccioso, cheios de células inflamatórias e fibrinas (frutos da resposta celular do organismo). 
+O broncograma aéreo é a descrição radiológica de uma imagem de preenchimento dos alvéolos com secreção, o que se apresenta com imagem radiológica diferente dos bronquíolos, que estão cheios de ar. Quando ocorre a passagem de raio x, a imagem de ar no bronquíolo é mais facilmente visualizada. Se o pulmão estivesse sem infecção, o parênquima pulmonar estaria cheio de ar, e os raios x passariam igualitariamente pelo parênquima e pelo brônquio, não sendo possível visualizá-lo. 
 
  
 Figura 1 - Presença do broncograma aéreo: como existe condensação em um pulmão com pneumonia, a imagem não é de ar (que sai preto na radiografia normal), mas ressalta o bronquíolo ao redor, facilitando sua visualização
@@ -22,54 +25,76 @@ Resolução: recuperação da arquitetura do alvéolo.
  
 Figura 3 - Hepatização cinzenta: há bastante exsudato – observar que o alvéolo se encontra cheio de células leucocitárias (mais especi-ficamente neutrófilos)
 
-A pneumonia é dividida didaticamente em 2 tipos: a adquirida na comunidade e a hospitalar. A Pneumonia Adquirida na Comunidade (PAC) é definida como aquela que aparece em pacientes que não se encontram internados ou naqueles que se internam, mas em que a pneumonia é detectada antes de 48 horas da internação. A pneumonia hospitalar é aquela definida como após 48 horas de internação (a partir de 72 horas pós-internação). A importância desse tipo de divisão diz respeito, principalmente, à flora bacteriana a ser tratada, já que o perfil de resposta a antimicrobianos é diferente para pacientes in-ternados, pelo maior risco de resistência da bactéria do ambiente hospitalar. A pneumonia hospitalar é abordada em outro capítulo.
-A PAC (também chamada de comunitária) é responsável por grande parte das infecções de vias aéreas e é a 1ª causa de internações por doença no Brasil. Quando se considera a taxa de óbitos, ela está entre os motivos mais frequentes (as doen-ças respiratórias são a 4ª causa de óbitos no Brasil, e, entre elas, as pneumonias são a 2ª causa).
-É importante lembrar que a PAC tem características próprias para ocorrência. A 1ª característica marcante é a sazonalida-de. Ela é mais frequente nos meses frios, nos quais as doenças respiratórias aumentam como um todo (de maio a julho no Brasil). Outra especificidade é a faixa etária. A PAC mais frequentemente causa problemas nos extremos de idade, especial-mente abaixo de 5 anos e acima de 70. Nessas 2 fases, a mortalidade da doença é maior (cerca de 80% dos casos de óbitos por pneumonia são nessas 2 faixas etárias). Em contrapartida, a idade entre 5 e 49 anos é a que apresenta menores índices de mortalidade. Esses dados fazem muita diferença no momento de definir a necessidade de internação ou não para uma pneumonia, conforme será discutido mais adiante. Os dados do Brasil, no entanto, apresentam melhora dos valores de morta-lidade abaixo de 5 anos, com queda persistente em todas as regiões. Isso está relacionado à melhora da qualidade de vida da população.
+Dica
+As 4 fases da pneumonia vistas ao microscópio são: congestão e edema, hepatização vermelha, hepatização cinzenta e resolução.
+
+Tabela 1 - Classificação das pneumonias de acordo com o local de ocorrência
+Avaliação de acordo com o perfil de resistência das bactérias
+- Pneumonia Adquirida na Comunidade (PAC): pacientes que não estão internados ou naqueles que se internam, mas a detecção ocorre antes de 48 horas da internação. O perfil de resistência bacteriana é menos agressivo.
+  · 1ª causa de internações no Brasil;
+  · 2ª causa de óbitos entre as doenças pulmonares; 
+  · Mais frequente nos meses frios (maio a julho) – sazonalidade;
+  · Morbimortalidade maior acima dos 70 anos e abaixo dos 5 anos.
+- Pneumonia hospitalar: após 48 horas de internação (a partir de 72 horas pós-internação). 
 
  
 Figura 4 - Tendência brasileira a queda nas taxas de mortalidade no Brasil em crianças de 1 a 5 anos
 Fonte: RODRIGUES et al., 2011.
 
-Ao analisar a idade >70 anos, podemos perceber que os valores de mortalidade aumentaram. Entretanto, não apenas para dados brasileiros, mas também de toda a América Latina. Isso se relaciona também ao aumento de longevidade da população nessas regiões.
+Ao analisar a idade >70 anos, podemos perceber que os valores de mortalidade aumentaram. Entretanto, não apenas pa-ra dados brasileiros, mas de toda a América Latina. Isso se relaciona também ao aumento de longevidade da população nes-sas regiões.
 
  
 Figura 5 - Dados de coeficiente de mortalidade por faixa etária no Brasil, de 2001 a 2005: observar que os maiores valores correspon-dem à faixa acima de 70 anos 
 Fonte: J. Bras. Pneumol., 2009.
-	
+
 Trabalho publicado em 2013 mostrou um aumento na quantidade de pneumonias entre 2000 e 2012 no Brasil, com valor de 13% em geral e de 76% entre pacientes com idade entre 70 e 80 anos. 
-O último aspecto importante a ser considerado é a presença de comorbidades. Doença cerebrovascular, Doença Pulmo-nar Obstrutiva Crônica (DPOC), asma, diabetes, insuficiência renal e neoplasias são fatores que também aumentam a mortali-dade das PACs e devem ser considerados na avaliação de um paciente com infecção pulmonar. 
-Ainda no aspecto de definições, uma pneumonia pode ser classificada como uma inflamação/infecção apenas em lobo es-pecífico ou em consolidação em vários alvéolos, com acometimento de vários segmentos. Portanto, é dividida em:
+O último aspecto importante a ser considerado é a presença de comorbidades. Elas devem ser avaliadas em casos de PAC e podem ser fator decisivo para internação hospitalar. 
+
+Importante
+São comorbidades que aumentam a mortalidade na PAC: doença cerebrovascular, Doença Pulmonar Obstrutiva Crônica (DPOC), asma, diabetes, insuficiência renal e neoplasias. 
+
+Ainda no aspecto de definições, uma pneumonia pode ser classificada como uma inflamação/infecção apenas em lobo específico ou em consolidação em vários alvéolos, com acometimento de vários segmentos. Portanto, é dividida em:
 Pneumonia lobar: quando apenas 1 lobo é acometido. Não é a pneumonia mais comum, mas pode acontecer em algumas situações. Uma situação clássica é a pneumonia no paciente etilista (de lobo médio do hemitórax direito);
 
+ 
+Figura 6 - Pneumonia do lobo médio (que só existe no pulmão direito). No caso do etilista, a aspiração de vômito é causa frequente de pneumonia lobar nesse lobo. Nesse caso, o micro-organismo causador mais comum é a Klebsiella pneumoniae
+
+Pneumonia em vários segmentos – broncopneumonia: é a apresentação mais comum de infecção pulmonar, e, exata-mente por esse motivo, durante muitos anos, os termos “broncopneumonia” e “pneumonia” foram sinônimos. Inde-pendente do agente etiológico (discutido a seguir), esse tipo de pneumonia é o mais frequente.
 
  
-Figura 6 - Pneumonia do lobo médio (que só existe no pulmão direito). No caso do etilista, a aspiração de vômito é causa frequente de pneumonia lobar nesse lobo. Nesse caso, o microrganismo causador mais comum é a Klebsiella pneumoniae
+Figura 7 - Tipos de pneumonia: (A) lobar e (B) broncopneumonia (mais comum) 
 
-Pneumonia em vários segmentos – broncopneumonia: é a apresentação mais comum de infecção pulmonar, e, exata-mente por esse motivo, durante muitos anos, os termos “broncopneumonia” e “pneumonia” foram sinônimos. Indepen-dente do agente etiológico (discutido a seguir), esse tipo de pneumonia é o mais frequente.
+Tabela 2 - Outras classificações de pneumonias 
+Aspirativa	Por vômitos, corpos estranhos
+Biliosa	Com icterícia e alterações gastrintestinais
+De Adams	Intersticial, na maioria das vezes por vírus sincicial respiratório
+De Eaton	Por Mycoplasma
+De Friedländer	Por Klebsiella pneumoniae
+De Liebow	Por doenças do fígado
 
- 
-Figura 7 - Tipos de pneumonia: (A) lobar e (B) broncopneumonia (mais comum)
-
-Outras definições de pneumonia são feitas de acordo com o perfil da infecção: pneumonia aspirativa (por vômitos ou cor-pos estranhos) e pneumonia biliosa (acompanhada de icterícia e alterações gastrintestinais). Podem, ainda, ser utilizados epô-nimos: pneumonia de Adams (intersticial, no lactente, por vírus sincicial respiratório); pneumonia de Eaton (causada por Mycoplasma); pneumonia de Friedländer (causada por Klebsiella pneumoniae, que era conhecido como bacilo de Friedlän-der); pneumonia de Liebow (por doenças do colágeno). 
-Por último, uma pneumonia pode ser classificada baseada no agente causador. Existem bactérias que são tipicamente cau-sadoras de pneumonia, enquanto outras causam quadros diferentes e, por isso, foram classificadas como pneumonia atípica, assim nomeada porque apresentava quadros pulmonares arrastados e apresentação clínica diferente das características de uma broncopneumonia típica (tosse seca, febre baixa, entre outros). Outra característica dessas pneumonias era a má respos-ta ao tratamento com drogas que normalmente eram usadas com sucesso no tratamento de pneumonias típicas. Ainda com relação aos microrganismos causadores de pneumonia atípica, estes quase nunca eram isolados por métodos tradicionais (hemoculturas, pesquisa no escarro etc.). Deve ser lembrado que uma pneumonia por microrganismo típico pode evoluir com um quadro clínico atípico. Portanto, muito cuidado deve ser tomado na terminologia. Os microrganismos causadores desses tipos de infecção serão logo em seguida discutidos.
+Por último, uma pneumonia pode ser classificada baseada no agente causador. Existem bactérias que são tipicamente causadoras de pneumonia, enquanto outras causam quadros diferentes e, por isso, foram classificadas como pneumonia atípica, assim nomeada porque apresentava quadros pulmonares arrastados e apresentação clínica diferente das caracterís-ticas de uma broncopneumonia típica (tosse seca, febre baixa, entre outros). Outra característica dessas pneumonias era a má resposta ao tratamento com drogas que normalmente eram usadas com sucesso no tratamento de pneumonias típicas. Ainda com relação aos micro-organismos causadores de pneumonia atípica, estes quase nunca eram isolados por métodos tradicionais (hemoculturas, pesquisa no escarro etc.). Uma pneumonia por micro-organismo típico pode evoluir com um quadro clínico atípico, portanto muito cuidado deve ser tomado na terminologia. Os micro-organismos causadores desses tipos de infecção serão logo em seguida discutidos.
 
 2. Etiologia 
 
-A 1ª grande dificuldade na identificação do causador de uma pneumonia é exatamente o diagnóstico etiológico. Menos de 50% das pneumonias têm um agente etiológico identificado. Quando se fala em identificação por hemoculturas, apenas 23% são positivas em uma pneumonia. Isso significa que o tratamento, na maioria das vezes, é feito com base em suposições de qual seria o microrganismo mais comum. A partir deste momento, torna-se muito importante a coleta de características clíni-cas, epidemiológicas, radiológicas e de faixa etária para definição de qual perfil será tratado. 
-Em qualquer idade e em qualquer situação, o microrganismo mais frequente causador de pneumonia é o Streptococcus pneumoniae. Existe uma exceção apenas: recém-nascidos, em que as bactérias mais prevalentes são as do canal vaginal (Gram negativos como E. coli). O S. pneumoniae é responsável por cerca de 40% das pneumonias na população em geral. É a bactéria a ser tratada em qualquer esquema de PAC, independente da associação usada. 
-A Tabela 1 representa as bactérias que mais causam pneumonias. Na última coluna, estão as frequências dos mais comuns. Note que as bactérias que não estão com as porcentagens descritas devem apresentar valores menores do que 1%, não apre-sentados. 
+A 1ª grande dificuldade na identificação do causador de uma pneumonia é exatamente o diagnóstico etiológico. Menos de 50% das pneumonias têm um agente etiológico identificado. Quando se fala em identificação por hemoculturas, apenas 23% são positivas em uma pneumonia. Isso significa que o tratamento, na maioria das vezes, é feito com base em suposições de qual seria o micro-organismo mais comum. A partir deste momento, torna-se muito importante a coleta de características clínicas, epidemiológicas, radiológicas e de faixa etária para definição de qual perfil será tratado. 
 
-Tabela 1 - Bactérias causadoras de pneumonia
-Grupos	Agentes	Os mais frequentes (%)
+Importante
+Em qualquer idade e em qualquer situação, o micro-organismo mais frequente causador de pneumonia é o Streptococcus pneumoniae. Existe apenas 1 exceção: recém-nascidos, em que as bactérias mais prevalentes são as do canal vaginal (Gram negativos como E. coli).
+
+O S. pneumoniae é responsável por cerca de 40% das pneumonias na população em geral. É a bactéria a ser tratada em qualquer esquema de PAC, independente da associação usada. 
+A Tabela 3 representa as bactérias que mais causam pneumonias. Na última coluna, estão as frequências dos mais co-muns. Note que as bactérias que não estão com as porcentagens descritas devem apresentar valores menores do que 1%, não apresentados. 
+
+Tabela 3 - Agentes causadores de pneumonia
+Grupos	Agentes	Frequência (%)
 Bactérias aeróbias Gram positivas	- Streptococcus pneumoniae;	16 a 40
 	- Staphylococcus aureus;	1
 	- Streptococcus pyogenes.	--
 Bactérias atípicas	- Mycoplasma pneumoniae;	6 a 18
-	- Chlamydophila pneumoniae (Chlamydia pneumoni-ae);	6 a 16
+	- Chlamydophila pneumoniae (Chlamydia pneumo-niae);	6 a 16
 	- Legionella pneumophila.	4
 Bactérias aeróbias Gram negativas	- Haemophilus influenzae;	<1 (queda importante pós-vacinação)
 	- Klebsiella pneumoniae;	--
-	- Pseudomonas aeruginosa;	1 a 5
+	-	Pseudomonas aeruginosa;	1 a 5
 	- Moraxella catarrhalis.	--
 Bactérias anaeróbias (aspiração)	- Bacteroides spp.;	--
 	- Fusobacterium spp.;	--
@@ -80,9 +105,12 @@ Vírus respiratórios	- Influenza A ou B;	--
 	- Parainfluenza 1, 2 ou 3;	--
 	- Adenovírus.	--
 
-A classificação pode, ainda, ocorrer de acordo com o ambiente do paciente. Desta maneira, devem-se considerar as bac-térias mais frequentes em pacientes da comunidade (como já mostrado anteriormente), mas, em situações de internação, a flora bacteriana muda. Como a classificação de pneumonia também muda a partir de 72 horas de internação (para pneumonia hospitalar), as características específicas desse grupo serão discutidas em capítulo à parte. Seguem, na Tabela 2, as mudanças por frequência de acordo com o ambiente em que o paciente se encontra.
+A classificação pode, ainda, ocorrer de acordo com o ambiente do paciente. Desta maneira, devem-se considerar as bac-térias mais frequentes em pacientes da comunidade (como já mostrado anteriormente), mas, em situações de internação, a flora bacteriana muda. Como a classificação de pneumonia também muda a partir de 72 horas de internação (para pneumo-nia hospitalar), as características específicas desse grupo serão discutidas em capítulo à parte. Seguem, na Tabela 4, as mu-danças por frequência de acordo com o ambiente em que o paciente se encontra.
 
-Tabela 2 - Mudanças na pneumonia de acordo com o ambiente
+Importante
+Após 72 horas de internação, a pneumonia apresentada por um paciente passa a ser considerada hospitalar. 
+
+Tabela 4 - Mudanças na pneumonia de acordo com o ambiente
 PAC ambulatorial (leve)
 - S. pneumoniae;
 - M. pneumoniae;
@@ -104,18 +132,26 @@ Internados em UTI (grave)
 - S. aureus.
 * UTI: Unidade de Terapia Intensiva.
 
-A pneumonia típica deve, então, ser tratada pensando-se em Streptococcus como causador principal. Entretanto, em algu-mas situações, deve-se lembrar dos outros microrganismos. Voltando à pneumonia por bactérias atípicas, o quadro de fre-quência mostra que essas bactérias são as responsáveis pela 2ª causa de pneumonias (somando Mycoplasma, Chlamydia e Legionella). As pneumonias por Gram negativos e por vírus fecham a conta dos principais causadores. Por isso, serão, agora, discutidas as condições que facilitam essas bactérias.
+A pneumonia típica deve, então, ser tratada pensando-se em Streptococcus pneumoniae como causador principal. Entre-tanto, em algumas situações, deve-se lembrar dos outros micro-organismos. Voltando à pneumonia por bactérias atípicas, o quadro de frequência mostra que essas bactérias são as responsáveis pela 2ª causa de pneumonias (somando Mycoplasma, Chlamydophila e Legionella). As pneumonias por Gram negativos e por vírus fecham a conta dos principais causadores. Por isso, serão, agora, discutidas as condições que facilitam essas bactérias.
+
+Video
+Fisiopatologia da pneumonia
+  
 
 A - Pneumonia por bactérias atípicas
-Como já foi dito, a tendência de terminologia, atualmente, é de pneumonia por bactérias atípicas, e não pneumonia atípi-ca. Isso porque uma pneumonia com bactéria típica como S. pneumoniae pode causar quadro atípico em pacientes que não tenham resposta imunológica adequada (por exemplo, pacientes HIV positivo, idosos ou asmáticos). Entre as bactérias que causam pneumonia com tal característica, a Mycoplasma pneumoniae é a mais frequente. Esta não tem classificação definida como vírus nem como bactéria (pois não tem parede celular como as bactérias), mas ainda é considerada bactéria. Chlamydia pneumoniae e Legionella pneumophila também são causadoras frequentes. Entretanto, existem outras bactérias atípicas, como a Moraxella catarrhalis e a Coxiella burnetii, também causadoras de quadros mais arrastados. Os vírus causam quadros pulmonares muito semelhantes a essas bactérias, inclusive com imagens radiológicas semelhantes. A diferença da pneumonia viral para a bacteriana é feita pelo hemograma, como será discutido adiante.
-O perfil da pneumonia por bactérias atípicas deve ser relacionado a quadros específicos de idade e doenças associadas, conforme a Tabela 3.
+Como já foi dito, a tendência de terminologia, atualmente, é de pneumonia por bactérias atípicas, e não pneumonia atípi-ca. Isso porque uma pneumonia com bactéria típica como S. pneumoniae pode causar quadro atípico em pacientes que não tenham resposta imunológica adequada (por exemplo, pacientes HIV positivo, idosos ou asmáticos). Entre as bactérias que causam pneumonia com tal característica, a Mycoplasma pneumoniae é a mais frequente. Esta não tem classificação definida como vírus nem como bactéria (pois não tem parede celular como as bactérias), mas ainda é considerada bactéria. Chlamydophila pneumoniae e Legionella pneumophila também são causadoras frequentes. Entretanto, existem outras bac-térias atípicas, como a Moraxella catarrhalis e a Coxiella burnetii, também causadoras de quadros mais arrastados. Os vírus causam quadros pulmonares muito semelhantes a essas bactérias, inclusive com imagens radiológicas semelhantes, e a dife-renciação entre pneumonia viral e bacteriana se dá por alterações no hemograma.
 
-Tabela 3 - Pneumonias por bactérias atípicas
-Microrganismos	Condições clínicas
+Tema frequente de prova
+A diferenciação entre pneumonia viral e bacteriana e o principal agente da pneumonia por bactérias atípicas são temas frequentes nas questões de Residência.
+
+O perfil da pneumonia por bactérias atípicas deve ser relacionado a quadros específicos de idade e doenças associadas, conforme a Tabela 5.
+
+Tabela 5 - Pneumonias por agentes atípicos
+Micro-organismos	Condições clínicas
 Mycoplasma pneumoniae	- Adultos jovens (geralmente na 2ª e 3ª décadas de vida);
 - Adolescentes (já há casos na pré-adolescência, a partir dos 7 anos de idade);
 - Resolução mais rápida.
-Chlamydia pneumoniae	Idosos (acima de 65 anos)
+Chlamydophila pneumoniae	Idosos (acima de 65 anos)
 Legionella pneumoniae	- AIDS;
 - Usuário crônico de corticoides;
 - Transplantados;
@@ -123,43 +159,51 @@ Legionella pneumoniae	- AIDS;
 - Resolução lenta e arrastada.
 Moraxella catarrhalis	- DPOC;
 - Asmáticos.
-Coxiella burnetii	Contato com gado (especialmente veterinários, pós-cirurgias ou partos veterinários)
+Coxiella burnetii	Contato com gado (especialmente veterinários, pós-cirurgias ou partos veteriná-rios)
 - Influenza (A e B são os mais frequentemente ligados a infecções em humanos – H1N1 entre eles);
 - Coronavírus; 
-- Adenovírus (ou qualquer outro enterovírus).	- Infiltrados intersticiais rápidos, com quadro grave geralmente até o 3º dia (pode levar a pulmão de síndrome da angústia respiratória aguda e síndrome grave pul-monar);
+- Adenovírus (ou qualquer outro enterovírus).	- Infiltrados intersticiais rápidos, com quadro grave geralmente até o 3º dia (pode levar a pulmão de síndrome da angústia respiratória aguda e síndrome grave pulmonar);
 - Quadros de gripe com imagem pulmonar associada intersticial;
 - Adultos jovens;
 - Crianças.
 
+Importante
+Os principais agentes atípicos causadores de pneumonia são: Mycoplasma pneumoniae (acometendo principalmente adul-tos jovens e adolescentes), Chlamydophila pneumoniae (acomete mais idosos acima de 65 anos), Legionella pneumoniae (acomete mais indivíduos com AIDS, usuários crônicos de corticoides e transplantados), Moraxella catarrhalis (acomete asmáticos e indivíduos com DPOC), Coxiella burnetii (mais frequente em indivíduos que têm contato com gado) e, por fim, os vírus influenza, coronavírus e adenovírus, que também são agentes causadores e acometem, sobretudo, jovens e crian-ças.
+
  
 Figura 8 - Pneumonia por bactéria atípica, em paciente com identificação posterior de Mycoplasma: o quadro de infiltrado intersticial está presente em infecções virais também, portanto deve haver outras características para tratar como bacteriana (como alteração no leucograma ou características específicas do quadro clínico descrito)
 
-Tabela 4 - Principais diferenças entre pneumonias causadas por microrganismos típicos e atípicos
+Tabela 6 - Principais diferenças entre pneumonias causadas por micro-organismos típicos e atípicos
 	Pneumonia causada por bactéria típica	Pneumonia causada por bactéria atípica
 Causador	S. pneumoniae na maioria das vezes	- Mycoplasma pneumoniae;
 - Chlamydia pneumoniae;
 - Legionella pneumophila.
 Característica clínica	Quadro típico de tosse produtiva, febre e dor torácica; febre geralmente alta	Febre baixa, tosse seca
-Imagem radiológica	Broncograma aéreo, padrão lobar ou de broncopneumo-nia	Padrão alveolar, broncograma mais difícil de ser visto; mais difuso
-Tempo de início dos sin-tomas 	Quadro agudo, que dura horas ou poucos dias	Quadro arrastado, durando dias ou até semanas
+Imagem radiológica	Broncograma aéreo, padrão lobar ou de bron-copneumonia	Padrão alveolar, broncograma mais difícil de ser visto; mais difuso
+Tempo de início dos sintomas 	Quadro agudo, que dura horas ou poucos dias	Quadro arrastado, durando dias ou até semanas
+
+Pergunta
+2015 - UERJ
+1. Um regimento do Exército Brasileiro servindo na fronteira norte do país desenvolve um surto de pneumonia atípica. Vários recrutas apresentam, ao longo de alguns dias, febre baixa, mialgias, artralgia e tosse seca. Alguns evoluem com quadro cutâneo compatível com eritema multiforme, enquanto outros são afetados por otalgia e evidências etiológicas. O padrão clínico descrito sugere que tal regimento foi infectado por:
+a) Mycoplasma pneumoniae
+b) Legionella pneumophila
+c) Chlamydophila pneumoniae
+d) Chlamydia psittaci
+Resposta no final do capítulo
 
 B - Pneumonias por Gram negativos
-A infecção pulmonar causada por Gram negativos, normalmente, não ocorre em imunocompetentes. Geralmente, está as-sociada a uma condição de internação hospitalar, comorbidades prévias associadas (cardíacas, pulmonares, diabetes, fibrose cística). Também deve ser pensado em risco maior para institucionalizados (casas de repouso para idosos, instituição para pacientes crônicos), além de completarem a lista de situações em que se deve pensar em Gram negativos urêmicos (crônicos ou não). A Tabela 5 resume essas condições.
+A infecção pulmonar causada por Gram negativos, normalmente, não ocorre em imunocompetentes. Geralmente, está associada a uma condição de internação hospitalar, comorbidades prévias associadas (cardíacas, pulmonares, diabetes, fi-brose cística). Também deve ser pensado em risco maior para institucionalizados (casas de repouso para idosos, instituição para pacientes crônicos), além de completarem a lista de situações em que se deve pensar em Gram negativos urêmicos (crônicos ou não). 
 
-Tabela 5 - Quando pensar em infecções por bactérias Gram negativas
-- Diabetes;
-- Pacientes renais crônicos ou em uremia;
-- Pacientes com doença cerebrovascular (acidente vascular cerebral pré-vio);
-- Fibrose cística (principalmente P. aeruginosa);
-- Institucionalizados (principalmente se crônicos);
-- Etilistas (principalmente Klebsiella pneumoniae).
+Importante
+Deve-se pensar em infecção pulmonar por bactérias Gram negativas nas seguintes situações: diabéticos, pacientes renais crônicos ou em uremia, pacientes com doença cerebrovascular (AVC prévio), indivíduos com fibrose cística, institucionali-zados (principalmente crônicos) e etilistas (pensar principalmente em Klebsiella pneumoniae).
 
-O principal agente etiológico causador de infecção por Gram negativos é a Pseudomonas aeruginosa. Escherichia coli é a 2ª bactéria Gram negativa mais comum causadora de pneumonia. Em condições específicas, como em etilistas, a Klebsiella pneumoniae é bastante comum (causa frequente de pneumonia lobar por aspiração de vômitos). A pneumonia por Hae-mophilus influenzae (cocobacilo Gram negativo) tornou-se cada vez mais rara após a introdução da vacinação dessa bactéria no calendário nacional de vacinação brasileiro. A vacinação fez com que a bactéria diminuísse também a incidência em adul-tos, pois a circulação principal era em crianças. Na Tabela 7, haverá uma explicação sobre o H. influenzae e suas característi-cas, abordadas em situação especial. A Tabela 6 descreve condições específicas para pensar em alguns tipos de Gram negati-vos, além das condições gerais citadas.
+O principal agente etiológico causador de infecção por Gram negativos é a Pseudomonas aeruginosa. Escherichia coli é a 2ª bactéria Gram negativa mais comum causadora de pneumonia. Em condições específicas, como em etilistas, a Klebsiella pneumoniae é bastante comum (causa frequente de pneumonia lobar por aspiração de vômitos). A pneumonia por Hae-mophilus influenzae (cocobacilo Gram negativo) tornou-se cada vez mais rara após a introdução da vacinação dessa bactéria no calendário nacional de vacinação brasileiro. A vacinação fez com que a bactéria diminuísse também a incidência em adul-tos, pois a circulação principal era em crianças. Na Tabela 8, haverá uma explicação sobre o H. influenzae e suas característi-cas, abordadas em situação especial. A Tabela 7 descreve condições específicas para pensar em alguns tipos de Gram nega-tivos, além das condições gerais citadas.
 
-Tabela 6 - Condições para Gram negativos
-Bactérias	Frequência entre os Gram negativos (%)	Condições associadas
-Pseudomonas aeruginosa	60 a 70	- Internação hospitalar ou alta há menos de 30 dias (pneumonia hospitalar);
-		- Fibrose cística ou outra doença pulmonar com fibroectasia;
+Tabela 7 - Condições para Gram negativos
+Bactérias	Frequência entre 
+os Gram negativos (%)	Condições associadas
+Pseudomonas aeruginosa	60 a 70	-	Internação hospitalar ou alta há menos de 30 dias (pneumo-nia hospitalar);
+		-	Fibrose cística ou outra doença pulmonar com fibroectasia;
 		- Uso crônico de corticoides;
 		- Desnutrição;
 		- Uso de antibióticos de amplo espectro;
@@ -173,38 +217,52 @@ Klebsiella pneumoniae	7 a 10	- Etilistas;
 Figura 9 - Pneumonia por bactéria Gram negativa; neste caso, por Klebsiella pneumoniae, causando uma imagem de pneumonia lobar em paciente previamente etilista. Esse tipo de pneumonia também era conhecido como “pneumonia do lobo pesado”, por conta da característica lobar
 
 C - Idosos
-Os idosos merecem uma abordagem à parte, pela frequência e alta mortalidade. Nessa população, as comorbidades sem-pre associadas (diabetes, acamados, demência, insuficiência cardíaca, hipertensão, insuficiência renal crônica) complicam o tratamento e aceleram a mortalidade, principalmente acima dos 80 anos. Apesar de o S. pneumoniae ser a bactéria mais co-mum nessa idade, Gram negativos e bactérias específicas também são prevalentes. 
+Os idosos merecem uma abordagem à parte, pela frequência e alta mortalidade. Nessa população, as comorbidades sempre associadas (diabetes, acamados, demência, insuficiência cardíaca, hipertensão, insuficiência renal crônica) compli-cam o tratamento e aceleram a mortalidade, principalmente acima dos 80 anos. Apesar de o S. pneumoniae ser a bactéria mais comum nessa idade, Gram negativos e bactérias específicas também são prevalentes. 
 
 D - Outras condições que favorecem agentes etiológicos específicos
-Outras condições devem ser utilizadas para ajudar no diagnóstico etiológico e para decidir o melhor esquema de trata-mento, direcionado a esses perfis. O fato de haver risco específico para determinado microrganismo não implica necessaria-mente a infecção por aquele patógeno, mas a cobertura deve sempre ser avaliada criteriosamente. A Tabela 7 relembra essas condições.
+Outras condições devem ser utilizadas para ajudar no diagnóstico etiológico e para decidir o melhor esquema de trata-mento, direcionado a esses perfis. O fato de haver risco específico para determinado micro-organismo não implica necessa-riamente a infecção por aquele patógeno, mas a cobertura deve sempre ser avaliada criteriosamente. A Tabela 8 relembra essas condições.
 
-Tabela 7 - Condições que favorecem agentes etiológicos específicos
-	Microrganismos	Condições associadas
-Gram positivos	Staphylococcus aureus	- Bronquiectasias e outras doenças pulmonares (fibrose cística, por exemplo);
-		- Crianças nos primeiros 5 anos de vida;
-		- Usuários de drogas injetáveis (aumentam também o risco para endocardite);
-		- Associados a gripes;
-		- Em quadros radiológicos com pneumatocele (lembrar que não é patognomônico de Staphylococcus).
-	Streptococcus pyogenes	- Quadros de tonsilite purulenta associados a pneumonia sequen-cial;
-		- Crianças e adultos jovens.
+Tabela 8 - Condições que favorecem agentes etiológicos específicos
+	Micro-organismos	Condições associadas
+Gram positivos	Staphylococcus aureus	-	Bronquiectasias e outras doenças pulmonares (fibrose cística, por exemplo);
+		-	Crianças nos primeiros 5 anos de vida;
+		-	Usuários de drogas injetáveis (aumentam também o risco para endocardite);
+		-	Associados a gripes;
+		-	Em quadros radiológicos com pneumatocele (lem-brar que não é patognomônico de Staphylococcus).
+	Streptococcus pyogenes	-	Quadros de tonsilite purulenta associados a pneu-monia sequencial;
+		-	Crianças e adultos jovens.
 Gram negativos	Haemophilus influenzae	- Idosos (>65 anos);
 		- Asmáticos;
-		- DPOC (junto com S. pneumoniae, nesta população, é um dos principais causadores).
+		-	DPOC (junto com S. pneumoniae, nesta população, é um dos principais causadores).
 Anaeróbios (essencialmente os que vivem na região da orofaringe e em dentes mal cuidados)	Peptostreptococcus	- Infecções pós-aspiração de conteúdo gástrico ou de orofaringe;
-		- Pacientes com obstrução brônquica;
+		-	Pacientes com obstrução brônquica;
 		- Etilistas.
 
-Algumas condições remetem a mais de 1 tipo de perfil de bactéria. Desta maneira, presença de cavitação, por exemplo, sugere infecção por tuberculose, mas pode estar presente também nas infecções por anaeróbios e, ainda, por Staphylococ-cus aureus. Para concluir, a avaliação da etiologia de uma PAC deve incluir, além da idade, hábitos de vida, doenças associadas e fatores de risco. 
+Algumas condições remetem a mais de 1 tipo de perfil de bactéria. Desta maneira, presença de cavitação, por exemplo, sugere infecção por tuberculose, mas pode estar presente também nas infecções por anaeróbios e, ainda, por Staphylococ-cus aureus. Para concluir, a avaliação da etiologia de uma PAC deve incluir, além da idade, hábitos de vida, doenças associa-das e fatores de risco. 
  
 Figura 10 - Criança de 2 anos com quadro de pneumatoceles (setas): em casos como este, a imagem auxilia muito no diagnóstico para conhecer o causador mais frequente (Staphylococcus), apesar de não ser definidora do agente etiológico
 
-3. Diagnóstico 
+Pergunta
+2010 - ALBERT EINSTEIN
+2. Das alternativas a seguir, a que apresenta a associação correta entre característica epidemiológica e agente etiológico de pneumonia adquirida na comunidade é:
+	Características	Agentes
+a)	exposição a calefação ou ar condicionado	Pseudomonas
+b)	idosos com doença crônica	pneumococo, Haemophilus
+c)	alcoolismo, higiene oral precária	anaeróbio, bacilo Gram negativo
+d)	doença pulmonar obstrutiva crônica	Staphylococcus
+e)	bronquiectasia	Legionella
+Resposta no final do capítulo
+
+3. Diagnóstico
+
+Diagnóstico
+O diagnóstico de PAC envolve os sintomas clínicos de tosse, febre, expectoração e dor torácica, os achados radiológicos que podem evidenciar áreas de condensação ou derrame pleural e, ainda, os achados laboratoriais que evidenciam au-mento das provas inflamatórias, podendo haver, ainda, leucocitose ou leucopenia.
 
 A - Clínico
-O diagnóstico clínico inicia-se pelos sintomas clássicos de tosse, febre, expectoração e dor torácica. Esses são os mais fre-quentes de qualquer pneumonia. Entretanto, a ausência de tais sintomas não exclui a presença de pneumonia. Os quadros de pneumonia pneumocócica envolvem, ainda, laivos de sangue associados a febre, dor torácica e expectoração. Atualmente, raramente se observam esses laivos em pneumonias (provavelmente pelo fato de, na maioria das vezes, o paciente procurar tratamento no início dos sintomas).
+O diagnóstico clínico inicia-se pelos sintomas clássicos de tosse, febre, expectoração e dor torácica. Esses são os mais frequentes de qualquer pneumonia. Entretanto, a ausência de tais sintomas não exclui a presença de pneumonia. Os qua-dros de pneumonia pneumocócica envolvem, ainda, laivos de sangue associados a febre, dor torácica e expectoração. Atu-almente, raramente se observam esses laivos em pneumonias (provavelmente pelo fato de, na maioria das vezes, o paciente procurar tratamento no início dos sintomas).
 A presença de ausculta com estertores crepitantes é fator importante na somatória de dados para decretar o diagnóstico de pneumonia bacteriana. A presença de tal sinal clínico à ausculta não é patognomônica de pneumonia. É exatamente esse o problema do diagnóstico da doença: não existem sinais que sejam exclusivos, mas o somatório de sinais clínicos e sintomas é o que torna a suspeita mais forte. 
 
-Tabela 8 - Sintomas e sinais relacionados à pneumonia
+Tabela 9 - Sintomas e sinais relacionados à pneumonia
 Sintomas ou sinais	Frequência (%)
 Tosse*	82
 Febre* (geralmente >39°C)	78
@@ -220,7 +278,11 @@ Taquipneia	35
 A sintomatologia clínica não consegue ser definidora ou excluidora de PAC isoladamente. Em pacientes de baixo risco, pode até ser considerado tratamento apenas com sintomas clínicos, mas a recomendação é de uma avaliação criteriosa, em que seriam beneficiados com investigação posterior radiológica. 
 
 B - Radiológico
-Qualquer suspeita de PAC tem a sugestão de raio x de tórax pela Sociedade Brasileira de Pneumologia e Tisiologia. A esco-lha da imagem de raios x como 1ª a ser feita na investigação radiológica dá-se pelo baixo custo, disponibilidade fácil e baixa radiação. Entretanto, existem trabalhos na literatura científica que consideram que cerca de metade dos casos com diagnósti-co de pneumonia por imagem radiológica são, na verdade, negativos. Isso acontece pela baixa experiência de quem avalia os exames (geralmente médico do pronto-socorro) e pela tendência a superestimar qualquer imagem radiológica que encontre e não conheça como pneumonia. O raio x em perfil é pedido para avaliar possibilidade de imagens retrocardíacas, pneumoni-as muito difíceis de serem vistas no posteroanterior. O raio x de decúbito lateral é solicitado nos casos de derrame pleural para ajudar no diagnóstico da presença de líquido e na avaliação de septações na imagem.
+Qualquer suspeita de PAC tem a sugestão de raio x de tórax pela Sociedade Brasileira de Pneumologia e Tisiologia. A es-colha da imagem de raios x como 1ª a ser feita na investigação radiológica dá-se pelo baixo custo, disponibilidade fácil e baixa radiação. Entretanto, existem trabalhos na literatura científica que consideram que cerca de metade dos casos com diagnóstico de pneumonia por imagem radiológica são, na verdade, negativos. Isso acontece pela baixa experiência de quem avalia os exames (geralmente médico do pronto-socorro) e pela tendência a superestimar qualquer imagem radiológica que encontre e não conheça como pneumonia. O raio x em perfil é pedido para avaliar possibilidade de imagens retrocardíacas, pneumonias muito difíceis de serem vistas no posteroanterior. O raio x de decúbito lateral é solicitado nos casos de derrame pleural para ajudar no diagnóstico da presença de líquido e na avaliação de septações na imagem.
+
+
+Dica
+O raio x de tórax é o exame essencial no diagnóstico de pneumonia, sendo necessário solicitar o perfil, principalmente para avaliar lesões retrocardíacas.
 
  
 Figura 11 - Pneumonia de base do hemitórax esquerdo associada a derrame pleural: notar região com possível cisurite (líquido até na região da cisura), mostrada pela seta. Neste caso, um raio x de decúbito lateral (incidência de Laurell) é bastante útil para avaliar sep-tações e nível líquido 
@@ -232,37 +294,46 @@ A tomografia de tórax torna-se uma ferramenta cada vez mais frequente no auxílio
 Figura 12 - Corte sagital de tomografia de tórax de uma pneumatocele, dificilmente visualizada no raio x de tórax comum
 
  
-Figura 13 - Tomografia de tórax em corte coronal do mesmo paciente do raio x do derrame pleural mostrado na Figura 11: notar que foi confirmada presença de líquido na base esquerda, além da cisurite previamente demonstrada, mas sem septações visualizadas 
+Figura 13 - Tomografia de tórax em corte coronal do mesmo paciente do raio x do derrame pleural mostrado na Figura 11: notar que foi confirmada a presença de líquido na base esquerda, além da cisurite previamente demonstrada, mas sem septações visualizadas 
 
-Tabela 9 - Recomendações para avaliação radiológica na suspeita de PAC
+Tabela 10 - Recomendações para avaliação radiológica na suspeita de pneumonia adquirida na comunidade
 - Realizar raio x de tórax posteroanterior e em perfil sempre que possível;
 - Se o paciente for de baixo risco, a radiografia torna-se dispensável se clínica exuberante;
 - Não há como usar o padrão radiológico para definir o agente etiológico (apenas suspeitar);
 - Tomografia de tórax indicada para avaliar complicações e diagnóstico diferencial de neoplasias, caso mantenha dúvidas sobre a existência de condensação apenas pelo raio x;
-- Sempre que houver persistência (ou retorno) de sintomas após 6 semanas, o raio x de tórax deve ser repetido (nesse caso para ex-cluir tuberculose ou complicações). Em fumantes, mesmo com melhora inicial, o raio x deve ser repetido após 6 semanas (exclusão de imagem causada por câncer);
+- Sempre que houver persistência (ou retorno) de sintomas após 6 semanas, o raio x de tórax deve ser repetido (nesse caso para exclu-ir tuberculose ou complicações). Em fumantes, mesmo com melhora inicial, o raio x deve ser repetido após 6 semanas (exclusão de imagem causada por câncer);
 - A imagem radiológica pode persistir por até 4 semanas após o tratamento. Após 6 semanas, se houver persistência de imagem, investigação adicional deve ser feita;
 - Imagens radiológicas de derrame pleural indicam sempre a necessidade de punção se possível. A ultrassonografia pode ser utilizada nestes casos para auxiliar no ponto da punção e no diagnóstico de septações. 
 
 C - Exames laboratoriais versus diagnóstico de pneumonia adquirida na comunidade
 A conduta diante de um caso suspeito de PAC envolve a solicitação de exames que ajudem a sedimentar o diagnóstico. O hemograma, normalmente, mostra leucocitose ou leucopenia. Em idosos, pode haver apenas desvio para células jovens (chamado desvio à esquerda), com leucograma normal. Entretanto, o hemograma funciona mais como um marcador de me-lhora clínica quando o paciente se encontra em tratamento, já que pode estar alterado em outras situações infecciosas asso-ciadas. Provas inflamatórias geralmente se encontram aumentadas (PCR, alfa-1-glicoproteína, VHS). 
 Apesar de positividade de apenas 23% nas hemoculturas, tal exame deve ser solicitado na investigação de uma pneumo-nia sempre que possível (se o paciente é internado), porque caso positivo em associação a imagem pulmonar indica o prová-vel causador. Exatamente pela baixa sensibilidade, a hemocultura tem maior indicação de solicitação a pacientes com falha à terapêutica inicial e em internados por longos períodos em ambientes hospitalares.
-Função renal é um marcador de gravidade (determina fatores associados, como insuficiência renal aguda pré-renal) e au-xilia em ferramentas diagnósticas, como será discutido adiante (CURB-65). A creatinina é um marcador que pode determinar a correção da dose de antibióticos, dependendo da idade e da situação. 
-Caso o paciente esteja dispneico, a gasometria arterial e o lactato arterial serão os exames que determinarão fatores asso-ciados de gravidade, como acidose metabólica, hipoxemia e choque séptico. A gasometria arterial é indicada sempre que houver saturação periférica de oxigênio abaixo de 90%.
-A pesquisa de escarro diretamente coletado da boca (espontâneo ou por meio de sonda) não é recomendada normal-mente, já que o paciente pode apresentar colonização por bactérias que não são necessariamente causadoras da infecção vigente. Nos casos daqueles com intubação orotraqueal ou de realização de broncoscopia, a pesquisa de escarro passa a ser precioso, já que a cultura pode fazer o diagnóstico da infecção. A Tabela 10 indica as situações em que a cultura de secreção traqueal ajuda no diagnóstico, desde que avaliada a quantidade de Unidades Formadoras de Colônia (UFC):
+Função renal é um marcador de gravidade (determina fatores associados, como insuficiência renal aguda pré-renal) e auxilia em ferramentas diagnósticas, como será discutido adiante (CURB-65). A creatinina é um marcador que pode determi-nar a correção da dose de antibióticos, dependendo da idade e da situação. 
+Caso o paciente esteja dispneico, a gasometria arterial e o lactato arterial serão os exames que determinarão fatores as-sociados de gravidade, como acidose metabólica, hipoxemia e choque séptico. A gasometria arterial é indicada sempre que houver saturação periférica de oxigênio abaixo de 90%.
+A pesquisa de escarro diretamente coletado da boca (espontâneo ou por meio de sonda) não é recomendada normal-mente, já que o paciente pode apresentar colonização por bactérias que não são necessariamente causadoras da infecção vigente. Nos casos daqueles com intubação orotraqueal ou de realização de broncoscopia, a pesquisa de escarro passa a ser precioso, já que a cultura pode fazer o diagnóstico da infecção. A Tabela 11 indica as situações em que a cultura de secreção traqueal ajuda no diagnóstico, desde que avaliada a quantidade de Unidades Formadoras de Colônia (UFC):
 
-Tabela 10 - Cultura de secreção traqueal no diagnóstico
+Tabela 11 - Cultura de secreção traqueal no diagnóstico
 Considerar como positiva uma cultura se acima de (em UFC)
-Broncoscopia com lavado 
-protegido	Qualquer valor
+Broncoscopia com lavado protegido	Qualquer valor
 Broncoscopia sem lavado protegido (maioria dos broncoscópicos)	103
 Intubação orotraqueal (pacientes intubados)	104
 Secreção de traqueostomia coletada de maneira asséptica	105
 Secreção de orofaringe	Não recomendada cultura para bactérias habituais
 
-Algumas bactérias têm diagnóstico raramente identificado por culturas, hemoculturas ou culturas de secreção. Para elas, foram desenvolvidos testes específicos. É o caso da Legionella, bactéria que causa pneumonia de microrganismos atípicos, mas não cresce habitualmente em meios de cultura utilizados (necessita de meio próprio). Nessas situações, deve ser solicita-da a procura de antígenos urinários (teste de urina) para diagnóstico da Legionella.
-Da mesma forma, existe o teste urinário para pneumococo, que, nesse caso, auxilia no diagnóstico de pneumonias suspei-tas ou de quadros em que a pneumonia por pneumococo deve ser confirmada (evitando toxicidade por tratamentos múlti-plos, por exemplo). A vantagem dos testes urinários é sua rapidez no diagnóstico, comparado com sorologias (que também existem para essas bactérias), as quais demoram de 4 a 6 semanas para positivarem.
+Pergunta
+2009 - CREMESP
+3. Uma mulher de 20 anos procura atendimento médico com história de febre, calafrios e tosse há 1 dia. Está hemodi-namicamente estável, com temperatura de 37,5°C, eupneica. Apresenta estertores no terço inferior do hemitórax es-querdo e radiografia de tórax com pequeno infiltrado alveolar na base esquerda. Ela trabalha como faxineira, é solteira, nega alcoolismo e refere estar com atraso menstrual de 60 dias. O tratamento ambulatorial mais adequado é:
+a) ciprofloxacino ou claritromicina
+b) amoxicilina ou azitromicina
+c) levofloxacino ou sulfametoxazol-trimetoprima
+d) amoxicilina ou gatifloxacino
+e) levofloxacino ou azitromicina
+Resposta no final do capítulo
 
-Tabela 11 - Teste urinário
+Algumas bactérias têm diagnóstico raramente identificado por culturas, hemoculturas ou culturas de secreção. Para elas, foram desenvolvidos testes específicos. É o caso da Legionella, bactéria que causa pneumonia de micro-organismos atípicos, mas não cresce habitualmente em meios de cultura utilizados (necessita de meio próprio). Nessas situações, deve ser solici-tada a procura de antígenos urinários (teste de urina) para diagnóstico da Legionella.
+Da mesma forma, existe o teste urinário para pneumococo, que, nesse caso, auxilia no diagnóstico de pneumonias sus-peitas ou de quadros em que a pneumonia por pneumococo deve ser confirmada (evitando toxicidade por tratamentos múltiplos, por exemplo). A vantagem dos testes urinários é sua rapidez no diagnóstico, comparado com sorologias (que tam-bém existem para essas bactérias), as quais demoram de 4 a 6 semanas para positivarem.
+
+Tabela 12 - Teste urinário
 Situações em que o teste urinário de antígeno de Legionella deve ser solicitado*
 - Admissão em UTI de PAC grave;
 - Má resposta ao tratamento inicial da PAC;
@@ -271,10 +342,12 @@ Situações em que o teste urinário de antígeno de Legionella deve ser solicitado*
 - Pacientes com pneumonia grave e hiponatremia/aumento de enzimas hepáticas.
 * Sempre que o teste urinário vier positivo, enviar material para cultura em meio próprio (BCYE).
 
-A avaliação laboratorial passa, ainda, por uma criteriosa observação de possíveis derrames pleurais. Deve-se lembrar sempre que derrame pleural indica a necessidade de toracocentese diagnóstica (sempre que o derrame tiver quantidade puncionável). A função da toracocentese é enviar material para cultura e, possivelmente, identificar o causador em um der-rame pleural parapneumônico. Mais do que isso, a característica do líquido pleural diferencia os derrames em exsudatos e transudatos e direciona o diagnóstico não apenas para PAC, mas para outras doenças, como a tuberculose, por exemplo. Por último, caso o derrame pleural seja laboratorialmente confirmatório de empiema, deve ser necessariamente feita a drena-gem torácica. A Tabela 12 detalha algumas causas de transudato e exsudato.
+A avaliação laboratorial passa, ainda, por uma criteriosa observação de possíveis derrames pleurais. Derrame pleural in-dica a necessidade de toracocentese diagnóstica (sempre que o derrame tiver quantidade puncionável). A função da tora-cocentese é enviar material para cultura e, possivelmente, identificar o causador em um derrame pleural parapneumônico. Mais do que isso, a característica do líquido pleural diferencia os derrames em exsudatos e transudatos e direciona o diag-nóstico não apenas para PAC, mas para outras doenças, como a tuberculose, por exemplo. Por último, caso o derrame pleu-ral seja laboratorialmente confirmatório de empiema, deve ser necessariamente feita a drenagem torácica. A Tabela 13 detalha algumas causas de transudato e exsudato.
 
-Tabela 12 - Causas de transudato e exsudato
+Importante
+Quando há derrame pleural, é mandatória a realização de toracocentese diagnóstica (sempre que o derrame tiver quanti-dade puncionável), a fim de identificar o agente causador, bem como diferenciar os derrames em exsudatos ou transuda-tos.
 
+Tabela 13 - Causas de transudato e exsudato
 Transudato
 - Insuficiência cardíaca congestiva; 
 - Embolia pulmonar;
@@ -289,20 +362,21 @@ Exsudato
 - Pleurite urêmica;
 - Colagenoses (artrite reumatoide e lúpus eritematoso sistêmico).
 
-
 O que determina a diferenciação entre transudato e exsudato são os critérios de Light.
 
-Tabela 13 - Critérios
+Tabela 14 - Critérios
 Critérios de Light (para considerar exsudato basta 1 destes 3)
-- Dosagem de desidrogenase láctica (DHL) acima de 200UI/L no líquido pleural ou maior do que 2/3 do limite superior nor-mal para o método no soro;
+- Dosagem de desidrogenase láctica (DHL) acima de 200UI/L no líquido pleural ou maior do que 2/3 do limite superior normal para o método no soro;
 - Relação de proteínas totais no líquido pleural–soro >0,5;
 - Relação de DHL no líquido pleural–soro >0,6.
 
+Tema frequente de prova
+A diferenciação entre transudato e exsudato pelos critérios de Light está sempre presente nas provas de Residência Médi-ca.
+
 A partir do momento em que se determina um exsudato, a investigação deve ser feita para descartar empiema. Quadro clínico de saída de pus é fácil de identificar macroscopicamente numa punção, mas deve ser lembrado que nem sempre a visualização é macroscópica. 
 
-Tabela 14 - Indicação de drenagem torácica
-Indicação de drenagem torácica na pneumonia 
-(presença de qualquer um destes dados)
+Tabela 15 - Indicação de drenagem torácica
+Indicação de drenagem torácica na pneumonia (presença de qualquer um destes dados)
 - Presença de pus na cavidade pleural;
 - Dosagem de glicose menor do que 40mg/dL;
 - pH <7 no líquido pleural.
@@ -311,10 +385,10 @@ Indicação de drenagem torácica na pneumonia
 Figura 14 - Principais características e sequência de condutas frente a um derrame pleural
 
 D - Classificação diagnóstica da gravidade 
-Após discutir sobre os principais causadores e as maneiras de diagnosticar uma pneumonia, a pergunta seguinte seria: como saber qual paciente mandar para casa e qual internar? É muito fácil olhar um paciente com pneumonia em franca dis-pneia e dizer que necessita internação, mas não é sempre assim. Desta maneira, diversos protocolos para estratificação foram criados para tentar classificá-los por gravidade e dividi-los entre tratamento domiciliar (ambulatorial), hospitalar em enferma-ria ou hospitalar em terapia intensiva. 
+Após discutir sobre os principais causadores e as maneiras de diagnosticar uma pneumonia, a pergunta seguinte seria: como saber qual paciente mandar para casa e qual internar? É muito fácil olhar um paciente com pneumonia em franca dispneia e dizer que necessita internação, mas não é sempre assim. Desta maneira, diversos protocolos para estratificação foram criados para tentar classificá-los por gravidade e dividi-los entre tratamento domiciliar (ambulatorial), hospitalar em enfermaria ou hospitalar em terapia intensiva. 
 Fine et al. (1997) desenvolveram o índice de severidade de uma pneumonia, classificando pela probabilidade de óbito e indicando a internação a partir daí. Inicialmente, os autores classificam os pacientes por pontos e, posteriormente, avaliam a mortalidade.
 
-Tabela 15 - Critérios de classificação diagnóstica de gravidade
+Tabela 16 - Critérios de classificação diagnóstica de gravidade (PSI – Pneumonia Severity Index)
 Fatores demográficos
 Homens	1 ponto/ano de idade
 Mulheres	Idade -10
@@ -335,7 +409,7 @@ pO2 <60mmHg	+10
 Derrame pleural	+10
 Exame físico
 Alteração do estado mental	+20
-Frequência respiratória >30 ciclos/min	+20
+Frequência respiratória >30irpm	+20
 Pressão arterial sistólica <90mmHg	+20
 Temperatura <35°C ou >40°C	+15
 Pulso =125bpm	+10
@@ -348,23 +422,29 @@ V	>130	29,2	Internação
 
 O mais aceito atualmente é a classificação de CURB-65. Esse escore foi criado inicialmente pela Sociedade Torácica Britâ-nica, mas ficou conhecido mundialmente pela facilidade de memorização. Além disso, envolve a inicial das letras em inglês.
 
-Tabela 16 - Classificação de CURB-65
+Tabela 17 - Classificação de CURB-65
 Letras	Significados	Pontos
 C	Confusão mental	1
 U	Ureia >50mg/dL	1
-R	Frequência Respiratória =30 ciclos/min	1
+R	FR =30irpm	1
 B 	Blood – pressão arterial sistólica <90mmHg ou pressão arterial diastólica =60mmHg	1
 65	Idade =65 anos	1
 
-A principal crítica ao modelo CURB-65 é que ele não considera doenças associadas (diabetes mellitus, etilismo etc.). Existe, ainda, a versão simplificada (CRB-65), que não utiliza ureia, para locais com dificuldade da coleta desse exame. 
+Importante
+A classificação da CURB-65 é o método mais utilizado para indicação de internação de um paciente com pneumonia: con-fusão mental (C), ureia >50mg/dL (U), frequência respiratória =30irpm (R), pressão arterial sistólica <90mmHg ou diastóli-ca =60mmHg (B) e idade maior do que 65 anos. De 0 a 1 ponto, o tratamento é ambulatorial; com 2 pontos, considera-se tratamento hospitalar; e, com mais de 3 pontos, indica-se internação hospitalar. 
+
+Tema frequente de prova
+A classificação da CURB-65 é um tema frequentemente encontrado nas provas de Residência. 
+
+A principal crítica ao modelo CURB-65 é que ele não considera doenças associadas (diabetes mellitus, etilismo etc.). Exis-te, ainda, a versão simplificada (CRB-65), que não utiliza ureia, para locais com dificuldade da coleta desse exame. 
 A partir do somatório dos pontos da CURB-65, determinam-se o perfil do paciente e o tipo de tratamento (ambulatorial, hospitalar em unidade de enfermaria ou terapia intensiva).
 
  
 Figura 15 - Somatório dos pontos e conduta
 
-A indicação da internação avaliada apenas pelo CURB-65 pode deixar características de lado que influenciam a internação. Por esse motivo, a Sociedade Brasileira de Pneumologia e Tisiologia sugere que sejam usadas características multifatoriais para a avaliação de internação hospitalar, conforme a Tabela 17. 
+A indicação da internação avaliada apenas pelo CURB-65 pode deixar características de lado que influenciam a interna-ção. Por esse motivo, a Sociedade Brasileira de Pneumologia e Tisiologia sugere que sejam usadas características multifatori-ais para a avaliação de internação hospitalar, conforme a Tabela 18. 
 
-Tabela 17 - Características para avaliação de internação hospitalar
+Tabela 18 - Características para avaliação de internação hospitalar
 Condições multifatoriais que devem ser avaliadas para internação de pacientes com pneumonia
 - Avaliar a presença de doenças associadas;
 - Avaliar CRB-65 ou CURB-65;
@@ -383,9 +463,11 @@ Condições multifatoriais que devem ser avaliadas para internação de pacientes co
 - Avaliar a aceitabilidade da medicação oral;
 - Julgamento clínico.
 
-Por último, a definição do paciente com risco maior de gravidade depende de fatores associados para alto risco de morta-lidade. Aqueles que teriam indicação de UTI passam por, pelo menos, 1 destas características (consideradas como critérios maiores de gravidade):
-PAC evoluindo com choque séptico, requerendo drogas vasopressoras;
-Falência respiratória aguda, necessitando de ventilação mecânica.
+Por último, a definição do paciente com risco maior de gravidade depende de fatores associados para alto risco de mor-talidade. Aqueles que teriam indicação de UTI passam por, pelo menos, 1 destas características (consideradas como critérios maiores de gravidade):
+
+Tabela 19 - Critérios definidores de cuidado Crítico (UTI) – ao menos 1
+- PAC evoluindo com choque séptico, requerendo drogas vasopressoras;
+- Falência respiratória aguda, necessitando de ventilação mecânica.
 
 A Sociedade Brasileira de Pneumologia e Tisiologia considera, ainda, a possibilidade de UTI para pacientes que apresen-tem, pelo menos, 2 dos critérios a seguir (considerados critérios menores):
 Relação paO2–FiO2 <250;
@@ -393,22 +475,34 @@ Envolvimento de mais de 1 lobo pulmonar;
 Pressão arterial sistólica <90mmHg;
 Pressão arterial diastólica <60mmHg.
 
+Pergunta
+2013 - UFES
+4. Um paciente de 67 anos deu entrada no pronto-socorro com quadro de dispneia, tosse com secreção purulenta e febre iniciado há 1 dia. É hipertenso e dislipidêmico em uso de enalapril e sinvastatina e, ao exame físico, apresentava-se corado, hidratado, febril (38,2°C), com PA = 80x50mmHg, FC = 108bpm, FR = 32irpm, confuso no tempo, com ausculta cardíaca normal e ausculta pulmonar com estertores na base pulmonar direita. Realizada radiografia de tórax, evidencia-ram-se consolidação com broncograma aéreo na base pulmonar direita e hemograma com 17.000 leucócitos/mm3 (6% de bastões), hemoglobina e plaquetas normais. Assinale a alternativa correta quanto ao local de tratamento, ao antibió-tico a ser prescrito e à conduta de suporte inicial a ser tomada, respectivamente:
+a) tratamento hospitalar em enfermaria, meropeném e hidratação venosa
+b) tratamento ambulatorial, cefalexina e orientação de retorno hospitalar caso não haja melhora em 48 horas
+c) tratamento em UTI, ceftriaxona e azitromicina e hidratação venosa
+d) tratamento hospitalar em enfermaria, amoxicilina e hidratação venosa
+e) tratamento em UTI, levofloxacino e intubação orotraqueal
+Resposta no final do capítulo
+
 4. Tratamento
+
+Importante
+Considerando a realidade brasileira, consensos como o Infectious Disease Society of America/American Thoracic Society Consensus Guidelines on the Management of Community-Aquired Pneumonia in Adults de 2007 mostram uma realidade diferente da nossa (perfil de resistência que se espera ser maior, principalmente do pneumococo, o principal causador). Com base nessa informação, este capítulo ater-se-á a discorrer acerca das Diretrizes Brasileiras para Pneumonia Adquirida na Comunidade em Adultos Imunocompetentes (2009), último documento desse assunto publicado em consenso. Ainda que não haja trabalhos nacionais extensos a respeito de perfis de resistência, esse é o que mais se aproxima da nossa rea-lidade. Além disso, o tratamento cobrado em provas de Residência Médica é mais voltado para o consenso brasileiro do que para o americano, por razões óbvias. Não caberia, portanto, apresentar mais dados e confundir o entendimento do estudante neste momento.
+
+Novamente, deve ser lembrado que a identificação do agente etiológico é difícil na PAC. Exatamente por isso, o trata-mento, na maioria das vezes, é empírico, baseado nas características mais frequentes da população a ser tratada. O trata-mento empírico é, portanto, dirigido à bactéria a qual se espera que esteja causando a infecção, de acordo com o perfil do paciente.
+
+Tratamento
+O tratamento da PAC, na maioria das vezes, é empírico e deve ser iniciado antes das primeiras 8 horas da chegada ao serviço de saúde. No tratamento ambulatorial, utilizam-se macrolídeos e betalactâmicos; nos casos internados, opta-se por quinolo-na ou betalactâmico + macrolídeo, e, nos casos de pacientes em UTI, utiliza-se betalactâmico + quinolona ou macrolídeo quando não há risco de infecção por Pseudomonas, ou betalactâmico + quinolona quando há risco.
+
+O tratamento deve ser instituído o mais precocemente possível. Se iniciado antes das primeiras 8 horas da chegada do paciente ao hospital com a administração da 1ª dose do antibiótico, a redução da mortalidade é de 50%, em média, e mais acentuada acima de 65 anos. 
  
-Novamente, deve ser lembrado que a identificação do agente etiológico é difícil na PAC. Exatamente por isso, o tratamen-to, na maioria das vezes, é empírico, baseado nas características mais frequentes da população a ser tratada. O tratamento empírico é, portanto, dirigido à bactéria a qual se espera que esteja causando a infecção, de acordo com o perfil do paciente.
-
-Nota
-Considerando a realidade brasileira, consensos como o americano de tratamento de pneumonia de 2007 mostram uma realidade diferente da nossa (perfil de resistência que se espera ser maior, principalmente do pneumococo, o principal causador). Baseado nessa informação, este capítulo ater-se-á a discorrer acerca das Diretrizes brasileiras para pneumonia adquirida na comunidade em adultos imunocompetentes (2009), último documento desse assunto publicado em consenso. Ainda que não haja trabalhos nacionais extensos a respeito de perfis de resistência, esse é o que mais se aproxima da nossa realidade. Além disso, o tratamento cobrado em provas de Residência é mais voltado para o consenso brasileiro do que para o americano (ATS/IDSA 2007), por razões óbvias. Não caberia, portanto, apresentar mais dados e confundir o entendimento do estudante neste momento.
-
-O tratamento deve ser instituído o mais precocemente possível. Se iniciado antes das primeiras 8 horas da chegada do pa-ciente ao hospital com a administração da 1ª dose do antibiótico, a redução da mortalidade é de 50%, em média, e mais acen-tuada acima de 65 anos. 
- 
-Figura 16 - Caminhos a serem seguidos na antibioticoterapia de um paciente com PAC (de acordo com a Sociedade Brasileira de Pneu-mologia e Tisiologia)
-
+Figura 16 - Caminhos a serem seguidos na antibioticoterapia de um paciente com pneumonia adquirida na comunidade, de acordo com a Sociedade Brasileira de Pneumologia e Tisiologia
 
 A - Doses de antimicrobianos
-As doses de drogas utilizadas no tratamento de PAC estão detalhadas na Tabela 18. Foram, ainda, inseridas informações quanto ao perfil de cada droga, além de algumas características específicas.
+As doses de drogas utilizadas no tratamento de PAC estão detalhadas na Tabela 20. Foram, ainda, inseridas informações quanto ao perfil de cada droga, além de algumas características específicas.
 
-Tabela 18 - Drogas utilizadas no tratamento de PAC
+Tabela 20 - Drogas utilizadas no tratamento de pneumonia adquirida na comunidade
 Macrolídeos
 Azitromicina	500mg/d, IV ou VO
 Claritromicina	500mg, 12/12h, IV ou VO
@@ -416,7 +510,7 @@ Eritromicina	500mg, 6/6h, VO (muita intolerância, última opção terapêutica)
 Quinolonas (respiratórias)
 Levofloxacino	750mg/d, IV ou VO 
 Moxifloxacino	400mg/d, IV ou VO 
-Gemifloxacino	320mg/d (apesar da forte potência contra pneumococo – até 30 vezes mais –, está cada vez mais em desuso pela grande quantidade de rash)
+Gemifloxacino	320mg/d (apesar da forte potência contra pneumococo – até 30 vezes mais –, está cada vez mais em desuso pela grande quantida-de de rash)
 Gatifloxacino	Retirado do mercado 
 Betalactâmicos ideais para tratamentos ambulatoriais
 Amoxicilina	500mg, 8/8h, VO
@@ -428,45 +522,47 @@ Cefotaxima	1g, 8/8h, IV
 Ampicilina	2g, 6/6h, IV
 Betalactâmicos com ação anti-Pseudomonas para pacientes internados
 Cefepima	2g, 8/8h, IV
-Ceftazidima (cada vez menos potente para Pseudomonas hospitalar; só usar se flora hospitalar conhecida e sensível)	2g, 8/8h, IV
+Ceftazidima (cada vez menos potente para Pseudomonas hospi-talar; só usar se flora hospitalar conhecida e sensível)	2g, 8/8h, IV
 Betalactâmicos com ação anti-Pseudomonas para pacientes internados e anaeróbios
 Piperacilina-tazobactam	4/0,5g, 8/8h, IV
 Ampicilina-sulbactam	3g, 6/6h, IV
-Carbapenêmicos
-(indicação para pacientes com bactérias produtoras de betalactamase de espectro estendido e falha ao uso de betalactâmicos prévios)
+Carbapenêmicos (indicação para pacientes com bactérias produtoras 
+de betalactamase de espectro estendido e falha ao uso de betalactâmicos prévios)
 Imipeném	500mg, 6/6h, IV
 Meropeném	1g IV 8/8h, IV
 Ertapeném (lembrar que não tem ação contra Pseudomonas)	1g, 1x/d, IV
-Glicopeptídios
-(indicação na cobertura de Staphylococcus meticilinorresistentes; uso também em pacientes com intubação prolongada ou falha ao uso de cobertura ampla para Gram negativos)
+Glicopeptídios (indicação na cobertura de Staphylococcus meticilinorresistentes; uso também em pacientes com intuba-ção prolongada ou falha ao uso de cobertura ampla para Gram negativos)
 Vancomicina	1g, 12/12h (em pacientes graves, dose de ataque de 25mg/kg na 1ª dose)
 Teicoplanina (pouca diferença se usada por rash da vancomicina, já que é glicopeptídio) – um pouco menos nefrotóxica	- 400mg, 12/12h, 3 dias iniciais;
 - 400mg/d, após 3º dia;
 - Facilita uso, pois pode ser administrada IM ou IV.
 
-A linezolida é uma oxazolidinona que faz ampla cobertura para Gram positivos com perfil de Staphylococcus meticilinorre-sistentes e boa cobertura pulmonar. A dose de uso é de 600mg, 12/12h. Houve grande divulgação na mídia farmacêutica sobre a melhor penetração pulmonar dessa droga em comparação com a vancomicina e, ainda, sobre a menor mortalidade, já que não possui nefrotoxicidade quando comparada à última. 
-Entretanto, estudos recentes demonstram que não existe inferioridade da vancomicina em comparação à linezolida, des-de que se utilize a vancomicina na dose correta e se faça acompanhamento com vancocinemia. 
-A polimixina é uma droga que tem baixa concentração pulmonar. Entretanto, a prevalência cada vez maior de Gram nega-tivos resistentes a carbapenêmicos (Pseudomonas, Acinetobacter, Klebsiella) fez com que a droga fosse ressuscitada no uso diário, inclusive com trabalhos de uso inalatório. Existem 2 apresentações de polimixina no Brasil, a polimixina B e a polimixina E (colistina), que têm melhor penetração pulmonar. De qualquer forma, o que deve ficar marcado é que, qualquer que seja o uso, a penetração em tecido pulmonar é ruim, aumentando a mortalidade nesse perfil de paciente.
+A linezolida é uma oxazolidinona que faz ampla cobertura para Gram positivos com perfil de Staphylococcus meticilinor-resistentes e boa cobertura pulmonar. A dose de uso é de 600mg, 12/12h. Houve grande divulgação na mídia farmacêutica sobre a melhor penetração pulmonar dessa droga em comparação com a vancomicina e, ainda, sobre a menor mortalidade, já que não possui nefrotoxicidade quando comparada à última. 
+Entretanto, estudos recentes demonstram que não existe inferioridade da vancomicina em comparação à linezolida, desde que se utilize a vancomicina na dose correta e se faça acompanhamento com dosagem sérica de vancomicina (vanco-cinemia). Em pacientes graves, a vancocinemia deve ficar entre 15 e 20µg/dL para tratamento efetivo de uma infecção por Staphylococcus meticilinorresistente (MRSA).  
+A polimixina é uma droga que tem baixa concentração pulmonar. Entretanto, a prevalência cada vez maior de Gram ne-gativos resistentes a carbapenêmicos (Pseudomonas, Acinetobacter, Klebsiella) fez com que a droga fosse ressuscitada no uso diário, inclusive com trabalhos de uso inalatório. Existem 2 apresentações de polimixina no Brasil, a polimixina B e a po-limixina E (colistina), que têm melhor penetração pulmonar. De qualquer forma, o que deve ficar marcado é que, qualquer que seja o uso, a penetração em tecido pulmonar é ruim, aumentando a mortalidade nesse perfil de paciente.
 
 B - Quando pensar em infecção pulmonar causada por Pseudomonas?
-A infecção pulmonar por Pseudomonas aeruginosa é, sem dúvida, uma das principais causas de óbito na pneumonia, con-siderando, ainda, que o perfil de um paciente que apresenta pneumonia por essa bactéria já é naturalmente grave. O trata-mento de um paciente nessa situação deve incluir um betalactâmico com quinolona, de acordo com o fluxograma no início desta seção.  
-
-Tabela 19 - Fatores de risco para infecção por Pseudomonas
+A infecção pulmonar por Pseudomonas aeruginosa é, sem dúvida, uma das principais causas de óbito na pneumonia, considerando, ainda, que o perfil de um paciente que apresenta pneumonia por essa bactéria já é naturalmente grave. O tratamento de um paciente nessa situação deve incluir um betalactâmico com quinolona, de acordo com o fluxograma no início desta seção.
+  
+Tabela 21 - Fatores de risco para infecção por Pseudomonas
 - Bronquiectasias;
 - Fibrose cística;
 - Uso de antibiótico de amplo espectro por mais de 7 dias nos últimos 30 dias;
 - Internação recente (últimos 7 dias);
 - Uso de corticoide (>10mg/d de prednisona ou equivalente) cronicamente;
-- Pacientes transplantados ou em uso de quimioterapia ou imunomoduladores (interferona peguilada, azatioprina, etanercepte, rituximabe);
+- Pacientes transplantados ou em uso de quimioterapia ou imunomoduladores (interferona peguilada, azatioprina, etanercepte, rituxi-mabe);
 - Neutropênicos (<1.000/mm3).
 
-C - Outras situações a avaliar em uma pneumonia
-Diversas outras situações devem ser avaliadas em um paciente com PAC, para tentar direcionar terapêutica antimicrobia-na, como já foi dito. Assim, um paciente previamente sadio não deve receber o mesmo tipo de terapia que um institucionali-zado, ou, ainda, com uso prévio recente de antibióticos. 
+Importante
+Há algumas situações nas quais é necessário pensar em infecção pulmonar por Pseudomonas: bronquiectasia, fibrose cística, uso de antibiótico de amplo espectro por mais de 7 dias recentemente (últimos 30 dias), internação recente (últi-mos 7 dias), corticoterapia, transplantados e neutropênicos.
 
-Tabela 20 - Situações e antibióticos indicados, de acordo com o perfil do paciente
+C - Outras situações a avaliar em uma pneumonia
+Diversas outras situações devem ser avaliadas em um paciente com PAC, para tentar direcionar terapêutica antimicrobi-ana, como já foi dito. Assim, um paciente previamente sadio não deve receber o mesmo tipo de terapia que um instituciona-lizado, ou, ainda, com uso prévio recente de antibióticos. 
+
+Tabela 22 - Situações e antibióticos indicados, de acordo com o perfil do paciente
 Situações	Antimicrobianos escolhidos
-Aspiração (suspeita ou confirmada)	- Betalactâmico + clindamicina 600mg, 6/6h;
-- Betalactâmico + inibidor de betalactamase; o mais utilizado é amoxicilina-clavulanato 500/125mg, 8/8h.
+Aspiração (suspeita ou confirmada)	-	Betalactâmico + clindamicina 600mg, 6/6h;
+-	Betalactâmico + inibidor de betalactamase; o mais utilizado é amoxicilina-clavulanato 500/125mg, 8/8h.
 Aspiração em paciente institucionalizado	Discutir internação e realização de terapia anti-Pseudomonas com droga com cober-tura para anaeróbios (piperacilina-tazobactam 4/0,5g, 8/8h, por exemplo). 
 Influenza (pneumonia intersticial)	- Betalactâmico + macrolídeo (lembrar que quadros atípicos podem resultar em pneumonia intersticial);
 - Se evolução rápida para insuficiência respiratória (<24 horas), discutir uso de osel-tamivir – pneumonia viral.
@@ -474,7 +570,7 @@ Impossibilidade de uso de quinolonas:
 - Idosos (maior risco de confusão mental);
 - Uso prévio recente de quinolona;
 - Alergia descrita.	- Betalactâmico + macrolídeo: por exemplo, axetilcefuroxima 1g, 12/12h + azitromi-cina 500mg/d;
-- Caso internado: ceftriaxona 1g, 12/12h, IV, e claritromicina 500mg, 12/12h, VO (ou azitromicina 500mg/d).
+- 	Caso internado: ceftriaxona 1g, 12/12h, IV, e claritromicina 500mg, 12/12h, VO (ou azitromicina 500mg/d).
 Paciente com asma, DPOC ou com terapia anti-microbiana recente	Administrar quinolona respiratória (por exemplo, moxifloxacino 400mg/d).
 Suspeita de legionelose:
 - Hiponatremia;
@@ -482,18 +578,17 @@ Suspeita de legionelose:
 - Febre muito alta (geralmente >40°C);
 - Pneumonia grave com necessidade inicial de UTI;
 - Pacientes imunodeprimidos.	- Betalactâmico (ceftriaxona 1g, 12/12h, IV, por exemplo) + azitromicina 500mg, 1x/d, VO ou IV;
-- Pode-se substituir azitromicina por uma quinolona respiratória (por exemplo, levo-floxacino 750mg/d) associado ao betalactâmico descrito.
+-	Pode-se substituir azitromicina por uma quinolona respiratória (por exemplo, levo-floxacino 750mg/d) associado ao betalactâmico descrito.
 
 D - Definição do tempo de antimicrobianos para tratamento
 De acordo com o que já foi dito, o início precoce da terapia diminui a mortalidade. Mais do que isso, também diminui o tempo de tratamento necessário à cura da PAC tratada. Portanto, a tendência atual é tratar precocemente para tratar por menos tempo.
 Os tempos de tratamento são avaliados de acordo com o perfil do paciente:
 Ambulatorial: 7 dias em média. Com macrolídeos, 5 dias podem ser suficientes, já que existe o efeito duradouro dessa classe;
 Internado: 10 a 14 dias, dependendo da resposta à terapêutica e do momento em que se começou o tratamento (preco-cemente ou não);
-Situações especiais: tratamentos para Pseudomonas ou legionelose têm resposta mais lenta do que uma pneumonia nor-mal e, por isso, devem ser estendidos para 14 a 21 dias.
-
+Situações especiais: tratamentos para Pseudomonas ou legionelose têm resposta mais lenta do que uma pneumonia normal e, por isso, devem ser estendidos para 14 a 21 dias.
 É interessante lembrar que, quando há pacientes que têm resposta lenta ao tratamento ou retorno precoce de nova in-fecção pulmonar, são necessárias novas investigações para outras causas de infecção. 
 
-Tabela 21 - Condições associadas à resposta demorada de tratamento ou retorno precoce de infecção
+Tabela 23 - Condições associadas à resposta demorada de tratamento ou retorno precoce de infecção
 Tuberculose	Causa muito frequente de retorno precoce, principalmente se tratado com quinolonas que têm alguma ação contra o M. tuberculosis, com melhora parcial 
 Tromboembolismo pulmonar	Atelectasias, muitas vezes confundidas com imagens de infecção
 Nocardiose	Rara infecção pulmonar, com resposta e evolução lentas e diagnóstico difícil
@@ -501,18 +596,26 @@ Resistência bacteriana	Principalmente do pneumococo, podendo acontecer em uso de
 Neoplasia pulmonar	Frequente causa de febre e tosse persistentes sem melhora com antibióticos; realização de tomografia para diagnóstico e biópsia transbrônquica
 Abscessos pulmonares e/ou empiemas	Frequentes quando o paciente melhora com a terapêutica, mas retornam sintomas pós-alta; realização de tomografia de pulmão para avaliação; toracocentese sempre que possível
 
+Dica 
+O interessante não é memorizar o antimicrobiano, mas entender qual é a bactéria que se quer tratar. Quando se disser que se trata PAC num paciente de 19 anos com ceftriaxona e claritromicina, por exemplo, se saberá que a cobertura é para S. pneumoniae (ceftriaxona) e para atípicos como Mycoplasma (com claritromicina). Isso facilita o entendimento, principal-mente quando o paciente não pode usar um dos medicamentos e tem de trocá-lo, como os alérgicos. 
+
 5. Profilaxia 
 
-A profilaxia de pneumonias dá-se pela vacinação contra o principal agente causador, o pneumococo. A vacina disponível na rede pública tradicionalmente é a Pneumo 23-valente, muito questionada sobre sua efetividade. É utilizada para vacinação gratuita em pacientes com comorbidades e infecções de repetição (asmáticos, DPOC, institucionalizados), todos com indica-ção médica. Também é utilizada para pacientes HIV positivo, esplenectomizados e transplantados. Ela deve ser feita a cada 5 anos.
-Desde 2011, a rede pública oferece no calendário de vacinação da criança a vacina contra pneumococos chamada Pneu-mo 10-valente. Essa vacina, apesar de nunca ter sido utilizada em larga escala, tem a esperança de diminuir drasticamente a incidência de pneumonias em crianças, a exemplo do que já ocorre hoje com as infecções por Haemophilus influenzae, cuja vacinação já é administrada em crianças há cerca de 20 anos. 
-Na rede privada, existe, ainda, a vacina Pneumo 13-valente, com perspectiva de melhor espectro para evitar pneumonias e meningites por pneumococo. No entanto, para ser realizada, deve ser paga separadamente do calendário de vacinação oferecido pelo governo brasileiro. 
-Os cuidados para evitar pneumonias são completados por pequenos atos no dia a dia de pacientes de risco. O simples cui-dado com a cavidade oral (com assepsia bucal correta em idosos institucionalizados, por exemplo) diminui muito o risco de infecções. Dentes em mal estado de conservação são outro fator que facilita a infecção por anaeróbios e Gram negativos, além de possíveis abscessos. Portanto, a saúde bucal influencia diretamente no diagnóstico e evolução de um quadro pulmo-nar.
+A profilaxia de pneumonias dá-se pela vacinação contra o principal agente causador, o pneumococo. A vacina disponível na rede pública tradicionalmente é a pneumo 23-valente, muito questionada sobre sua efetividade. É utilizada para vacina-ção gratuita em pacientes com comorbidades e infecções de repetição (asmáticos, DPOC, institucionalizados), todos com indicação médica. Também é utilizada para pacientes HIV positivo, esplenectomizados e transplantados. Ela deve ser feita a cada 5 anos.
+Desde 2011, a rede pública oferece no calendário de vacinação da criança a vacina contra pneumococos chamada pneumo 10-valente. Essa vacina, apesar de nunca ter sido utilizada em larga escala, tem a esperança de diminuir drastica-mente a incidência de pneumonias em crianças, a exemplo do que já ocorre hoje com as infecções por Haemophilus influ-enzae, cuja vacinação já é administrada em crianças há cerca de 20 anos. 
+Na rede privada, existe, ainda, a vacina pneumo 13-valente, com perspectiva de melhor espectro para evitar pneumonias e meningites por pneumococo. No entanto, para ser realizada, deve ser paga separadamente do calendário de vacinação oferecido pelo governo brasileiro.
+
+ 
+Importante
+A profilaxia de pneumonias é feita com a vacinação contra pneumococo, através da vacina pneumo 23-valente em adultos com comorbidades como asmáticos, com DPOC, institucionalizados, HIV positivo, esplenectomizados e transplantados, devendo ser repetida a cada 5 anos.
+
+Os cuidados para evitar pneumonias são completados por pequenos atos no dia a dia de pacientes de risco. O simples cuidado com a cavidade oral (com assepsia bucal correta em idosos institucionalizados, por exemplo) diminui muito o risco de infecções. Dentes em mal estado de conservação são outro fator que facilita a infecção por anaeróbios e Gram negativos, além de possíveis abscessos. Portanto, a saúde bucal influencia diretamente no diagnóstico e evolução de um quadro pul-monar.
 
 6. Resumo 
 
 Quadro-resumo
-Definições	- É definida como aquela que aparece em pacientes que não se encontram internados ou naqueles que se inter-nam, mas é detectada antes de 48 horas da internação;
-	- Sua evolução, microscopicamente, é dividida em congestão e edema, hepatização vermelha, hepatização cin-zenta e resolução; 
+Definições	- É definida como aquela que aparece em pacientes que não se encontram internados ou naqueles que se internam, mas é detectada antes de 48 horas da internação;
+	- Sua evolução, microscopicamente, é dividida em congestão e edema, hepatização vermelha, hepatização cinzenta e resolução; 
 	- Tem diversas classificações, sendo as principais lobar e broncopneumonia.
 Epidemiologia	- É a 4ª causa de óbitos no Brasil, 2ª nas doenças respiratórias; 
 	- Ocorre principalmente em meses frios e é mais frequente nos extremos de idade.
@@ -525,3 +628,14 @@ Diagnóstico	- Sintomas clássicos são tosse, febre, expectoração e dor torácica;
 Categorização do paciente	Devemos classificar a gravidade do paciente para definição de internação ou tratamento ambulatorial.
 Tratamento	O tratamento geralmente é empírico e depende da situação do paciente. 
 Profilaxia	É feita pela vacinação e por cuidados principalmente com a cavidade oral.  
+
+Respostas
+1. A
+2. C
+3. B
+4. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
