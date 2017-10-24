@@ -1,37 +1,68 @@
 Distúrbios do cálcio
-Rodrigo Antônio Brandão Neto / Natália Corrêa Vieira de Melo / Ana Cristina Martins Dal Santo
+Rodrigo Antônio Brandão Neto
+Natália Corrêa Vieira de Melo
+Ana Cristina Martins Dal Santo
+
+Resumo
+O cálcio é um cátion predominante extracelular (8,5 a 10,5mg/dL) no organismo, com 2 funções principais: conferir inte-gridade fisiológica ao esqueleto e, no extracelular, atuar na transmissão neurológica, contração muscular e coagulação. Sua regulação envolve hormônios como paratormônio, vitamina D e calcitonina. A hipercalcemia ocorre quando o cálcio sérico é superior a 10,5mg/dL, em geral por aumento da reabsorção óssea, como no hiperparatireoidismo ou na malignidade (juntos, 90% dos casos). São outros exemplos tuberculose, sarcoidose, granulomatose de Wegener, hipertireoidismo, han-seníase, lítio etc. Pacientes crônicos podem ser assintomáticos ou evoluir com letargia, fraqueza muscular, confusão mental, anorexia, náusea, vômitos, constipação, poliúria e polidipsia, que podem levar a nefrolitíase, insuficiência renal, hiperten-são, arritmias cardíacas e até coma. Agudamente, observam-se confusão mental, psicose orgânica e letargia, que pode pro-gredir para estupor e coma. O diagnóstico é confirmado com a dosagem sérica de cálcio >10,5mg/dL, devendo-se investigar a causa-base: dosagem do paratormônio (PTH) intacto (hiperparatireoidismo), neoplasia (se PTH baixo ou no limite inferior) e dosagem de vitamina D. O tratamento divide-se em pacientes com Ca++ <14mg/dL (SF a 0,9%, 4 a 6L IV, em 24 horas; em caso de manutenção, pamidronato 90mg IV, em 4 a 6 horas, ou furosemida 20 a 40mg IV, 12/12h, até 6/6h) e pacientes graves com Ca++ >14mg/dL (SF a 0,9%, pamidronato, furosemida e calcitonina 4 a 8U/kg IM ou SC, 12/12h, por 24 horas). A hipocalcemia ocorre quando cálcio total <8,5mg/dL, oriunda de doenças como agenesia, destruição, doença autoimune da paratireoide, hiperparatireoidismo secundário, deficiência de vitamina D, raquitismo e osteomalácia, hipomagnesemia, pancreatite aguda e lise tumoral maciça. O paciente pode ter sinais de hipocalcemia aguda (tetania, parestesias perioral e de extremidades, espasmos musculares, sinais de Trousseau e Chvostek, convulsões, prolongamento do intervalo QT, hipo-tensão, arritmias) ou crônica (sinais extrapiramidais, calcificações de gânglios basais, parkinsonismo, demência, dentição anormal, pele seca, catarata). O diagnóstico baseia-se em cálcio sérico <8,5mg/dL, seguido de investigação de causa-base, em geral hipoparatireoidismo, deficiência ou metabolismo anormal da vitamina D, insuficiência renal e hipomagnesemia. O tratamento da hipocalcemia leve assintomática baseia-se na reposição de cálcio pela dieta ou por meio de carbonato ou citrato de cálcio; em casos de hipocalcemia sintomática, gluconato de cálcio 1 a 2g, em 10 a 20 minutos, em SF a 0,9%; após, reposição intravenosa de 0,5 a 1,5mg/kg/h de cálcio elementar + calcitriol 0,25 a 0,5µg/d; e, em caso de hipomagnesemia, sulfato de magnésio 2g, em SF a 0,9% 100mL, em 10 minutos.
+
 1. Introdução
+
 O adulto apresenta cerca de 1.000 a 1.500mg de cálcio, 99% em forma de hidroxiapatita no esqueleto e 1% no comparti-mento extracelular e nos tecidos moles. 
-O cálcio tem 2 papéis fisiológicos importantes no organismo. No osso, confere integridade fisiológica ao esqueleto; no compartimento extracelular, é responsável pela manutenção e pelo controle de vários processos bioquímicos.
-O cálcio é o íon que predomina no compartimento extracelular, e seus níveis séricos são mantidos por alguns hormônios reguladores, como o paratormônio (PTH), a vitamina D e a calcitonina. O objetivo desses hormônios é manter a calcemia den-tro da normalidade (8,5 a 10,5mg/dL).
-A ingestão de cálcio é de cerca de 1g/d, dos quais 300mg são absorvidos pelo intestino. O cálcio é absorvido por meca-nismo ativo por meio de metabólitos da vitamina D, principalmente a 1,25-diidroxicolecalciferol (calcitriol); e absorção passiva por mecanismo paracelular por meio de ATPase cálcio-dependente.
+O cálcio tem 2 papéis fisiológicos importantes no organismo. No osso, confere integridade fisiológica ao esqueleto; no compartimento extracelular, é responsável pela manutenção e pelo controle de vários processos bioquímicos e atua na transmissão neurológica, na contração muscular na coagulação sanguínea e como sinal intracelular.
+O cálcio é o íon que predomina no compartimento extracelular, e seus níveis séricos são mantidos por alguns hormônios reguladores, como o paratormônio (PTH), a vitamina D e a calcitonina. O objetivo desses hormônios é manter a calcemia den-tro da normalidade (8,5 a 10,5mg/dL); 50 a 60% do cálcio presente no sangue encontram-se ligados a proteínas plasmáticas ou complexados ao citrato e fosfato. O cálcio ionizado (livre) restante controla as ações fisiológicas.
+O corpo regula não só as concentrações de cálcio ionizado, como também a entrada e a saída de cálcio de seu principal sí-tio de armazenamento – os ossos –, por meio da atividade do PTH e da 1,25-diidroxivitamina D3 (1,25-(OH)2-D3). O PTH, se-cretado pelas glândulas paratireoides, consiste em um peptídio composto por 84 aminoácidos, cuja meia-vida plasmática é bastante curta (2 a 4 minutos). O colecalciferol (vitamina D3) é gerado na pele, mediante exposição à luz ultravioleta, além de ser fornecido pela dieta (principalmente derivados de leite e líquidos enriquecidos). No fígado, a vitamina D3 é hidroxilada em 25-hidroxivitamina D3 (25-(OH)D3) que, por sua vez, é hidroxilado nos rins em 1,25-(OH)2-D3 (calcitriol), cuja potência é notavelmente maior. De forma conjunta, esse sistema atua no trato gastrintestinal (GI), nos ossos e nos rins, além de manter o controle rígido das concentrações de cálcio ionizado circulante (variação <0,1mg/dL), apesar das variações significativas do suprimento de cálcio. A ingestão de cálcio é de cerca de 1g/d, dos quais 300mg são absorvidos pelo intestino. O cálcio é ab-sorvido por mecanismo ativo por meio de metabólitos da vitamina D, principalmente 1,25-diidroxicolecalciferol (calcitriol); e absorção passiva por mecanismo paracelular por meio de ATPase cálcio-dependente.
 A excreção do cálcio é realizada pelos rins, processo muito influenciado pelo PTH.
-Tabela 1 - Os hormônios reguladores apresentam o seguinte papel no controle da calcemia
-PTH	Tem secreção regulada pela calcemia, com variação inversa à sua concentração. Age nos ossos, levando a aumento da atividade de osteoclastos e, consequentemente, aumento da reabsorção óssea, portanto, aumentando a concentração sérica do cálcio. Também age nos rins, aumentando a absorção tubular distal de cálcio e a excreção renal de fósforo. Além disso, estimula a síntese de 1-alfa-hidroxilase nos túbulos proximais e, por conseguinte, a conversão de calcidiol em calcitriol.
-Vitamina D	As principais fontes são a dieta e a síntese na pele. A luz solar transforma o 7-diidroxicolesterol em pré-vitamina D, que, após a reação de isomerização, forma a vitamina D3 (colecalciferol). Após outros passos, é formado o metabólito 1,25-diidroxicolecalciferol (calcitriol), principalmente no rim. A sua principal ação é aumentar a absorção intestinal do cálcio. A vitamina D também estimula, de forma menos intensa, a absorção intestinal de fosfato. Nos rins, sua ação envolve a reabsorção tubular de fósforo. A depleção de vitamina D está associada à diminuição de reabsorção tubular de cálcio, e a sua reposição está associada ao efeito contrário. No tecido ósseo, estimula a diferencia-ção de osteoclastos (com consequente reabsorção óssea) e, nas paratireoides, age diminuindo a secreção de PTH. Por meio dessas ações, o calcitriol contribui para a manutenção da concentração plasmática de cálcio e fósforo, permitindo a mineralização do osso recém-formado e prevenindo a hipocalcemia e/ou hipofosfatemia sintomática.
+
+ 
+Figura 1 - Metabolismo do cálcio
+
+Tabela 1 - Função dos hormônios reguladores no controle da calcemia
+PTH	Tem secreção regulada pela calcemia, com variação inversa à sua concentração. Age nos ossos, levando a aumento da atividade de osteoclastos e, consequentemente, aumento da reabsorção óssea, portanto, au-mentando a concentração sérica do cálcio. Também age nos rins, aumentando a absorção tubular distal de cálcio e a excreção renal de fósforo. Além disso, estimula a síntese de 1-alfa-hidroxilase nos túbulos proxi-mais e, por conseguinte, a conversão de calcidiol em calcitriol.
+Vitamina D	As principais fontes são a dieta e a síntese na pele. A luz solar transforma o 7-diidroxicolesterol em pré-vitamina D, que, após a reação de isomerização, forma a vitamina D3 (colecalciferol). Após outros passos, é formado o metabólito 1,25-diidroxicolecalciferol (calcitriol), principalmente no rim. A sua principal ação é aumentar a absorção intestinal do cálcio. A vitamina D também estimula, de forma menos intensa, a absor-ção intestinal de fosfato. Nos rins, sua ação envolve a reabsorção tubular de fósforo. A depleção de vitamina D está associada à diminuição de reabsorção tubular de cálcio, e a sua reposição está associada ao efeito contrário. No tecido ósseo, estimula a diferenciação de osteoclastos (com consequente reabsorção óssea) e, nas paratireoides, age diminuindo a secreção de PTH. Por meio dessas ações, o calcitriol contribui para a manutenção da concentração plasmática de cálcio e fósforo, permitindo a mineralização do osso recém-formado e prevenindo a hipocalcemia e/ou hipofosfatemia sintomática.
 Calcitonina	Atua nos osteoclastos, diminuindo sua atividade e consequentemente a reabsorção óssea. Quando os níveis de cálcio aumentam agudamente, observamos aumento proporcional de sua secreção. Porém, em situação de hipocalcemia e hipercalcemia prolongada, seus efeitos são pequenos.    
+
 As alterações do cálcio podem levar a quadros de apresentação dramáticos, necessitando de cuidado de emergência, ou a quadros praticamente assintomáticos. Serão comentadas, a seguir, as alterações do cálcio e seu diagnóstico diferencial e manejo.
+
+Importante
+O PTH é hipercalcemiante (via aumento da atividade osteoclástica), a vitamina D é hipercalcemiante (via aumento da absor-ção intestinal de Ca++ e fósforo), e a calcitonina é hipocalcemiante (via inibição de atividade osteoclástica). 
+
 2. Hipercalcemia
-A hipercalcemia é definida como cálcio sérico >10,5mg/dL ou cálcio iônico acima do valor normal. Vários fatores influen-ciam a dosagem do cálcio sérico, entre eles as proteínas séricas, gamopatias monoclonais, desidratação, distúrbios do equilí-brio acidobásico, entre outros, portanto se deve ter cuidado ao avaliar paciente com achado de hipercalcemia laboratorial. A hipoalbuminemia, apesar de diminuir o cálcio total, não interfere na concentração de cálcio ionizável. A calcemia deve ser corrigida de acordo com a concentração sérica de albumina, conforme a fórmula a seguir: 
+
+Trata-se de um problema clínico relativamente comum. Essa condição ocorre quando a entrada de cálcio na circulação excede sua excreção urinária e a deposição óssea. A hipercalcemia é definida como cálcio sérico >10,5mg/dL ou cálcio iônico acima do valor normal. Vários fatores influenciam a dosagem do cálcio sérico, entre eles as proteínas séricas, gamopatias monoclonais, desidratação, distúrbios do equilíbrio acidobásico, entre outros, portanto se deve ter cuidado ao avaliar pacien-te com achado de hipercalcemia laboratorial. A hipoalbuminemia, apesar de diminuir o cálcio total, não interfere na concen-tração de cálcio ionizável. A calcemia deve ser corrigida de acordo com a concentração sérica de albumina, conforme a fór-mula a seguir: 
+
+
 Ca corrigido = Ca medido + [(4 - albumina) x 0,8]
+
 A ligação do cálcio com as proteínas é pH-dependente. A alcalose aumenta a ligação do cálcio com proteínas, portanto di-minui o cálcio ionizado. O contrário pode acontecer em quadros de acidose. Por conseguinte, em pacientes com hipoalbumi-nemia importante e distúrbios do equilíbrio acidobásico, é importante verificar o cálcio ionizado e não apenas o cálcio total.
+
 A - Etiologia e fisiopatologia
-A maioria dos casos de hipercalcemia é causada por aumento da reabsorção óssea (o cálcio da dieta e sua absorção não parecem apresentar papel predominante). A hipercalcemia do hiperparatireoidismo ou a hipercalcemia da malignidade, que juntos correspondem a mais de 90% dos casos de hipercalcemia, estão relacionados ao aumento da reabsorção óssea por mecanismos de ativação de osteoclastos, que não são completamente compreendidos.
-O hiperparatireoidismo primário é a principal causa de hipercalcemia e ocorre principalmente em ambiente ambulatorial. A maioria dos pacientes é assintomática no momento do diagnóstico. Neles, secreção aumentada de PTH e hipercalcemia decorrem da redução da sensibilidade das paratireoides ao cálcio (set point de inibição de secreção do PTH pela concentra-ção de cálcio está mais elevado) e aumento da massa dessas glândulas.
-Ocorre 1 caso a cada 500 a 1.000 pessoas. Dentro das endocrinopatias, só é menos prevalente que o diabetes mellitus e o hipotireoidismo. Em 80% dos casos, é causado por adenoma solitário de paratireoide, e, em 5%, o adenoma atinge 2 glândulas paratireoides. Em cerca de 15% dos casos, apresenta-se como hiperplasia das glândulas paratireoides, podendo ocorrer de forma esporádica ou dentro das síndromes de neoplasia endócrina múltipla. O carcinoma de paratireoide corresponde a menos de 0,5% dos pacientes.   
+A maioria dos casos de hipercalcemia é causada por aumento da reabsorção óssea (o cálcio da dieta e sua absorção não parecem apresentar papel predominante). A hipercalcemia do hiperparatireoidismo ou a hipercalcemia da malignidade, que juntos correspondem a mais de 90% dos casos de hipercalcemia, podem ocorrer por 4 mecanismos distintos:
+- Hipercalcemia osteolítica local (por aumento da atividade osteoclástica nos locais dos implantes de células malignas, em torno de 20% dos casos);
+- Hipercalcemia humoral da malignidade (por produção de um peptídio PTH-símile, em torno de 80% dos casos);
+- Por secreção de vitamina D (linfomas, em menos de 1% dos casos);
+- Por secreção ectópica de PTH (8 casos descritos na literatura até o momento).
+O hiperparatireoidismo primário é a 2ª causa de hipercalcemia e a 1ª de hipercalcemia em pacientes ambulatoriais. A maioria dos pacientes é assintomática no momento do diagnóstico. Neles, secreção aumentada de PTH e hipercalcemia de-correm da redução da sensibilidade das paratireoides ao cálcio (set point de inibição de secreção do PTH pela concentração de cálcio está mais elevado) e aumento da massa dessas glândulas. Ocorre 1 caso a cada 500 a 1.000 pessoas. Dentro das endocrinopatias, só é menos prevalente que o diabetes mellitus e o hipotireoidismo. Em 80% dos casos, é causado por ade-noma solitário de paratireoide, e, em 5%, o adenoma atinge 2 glândulas paratireoides. Em cerca de 15% dos casos, apresenta-se como hiperplasia das glândulas paratireoides, podendo ocorrer de forma esporádica ou dentro das síndromes de neopla-sia endócrina múltipla. O carcinoma de paratireoide corresponde a menos de 0,5% dos pacientes.   
 A hipercalcemia hipocalciúrica familiar, doença com herança autossômica dominante com 100% de penetrância, também apresenta hipercalcemia e hipofosfatemia, de forma semelhante ao hiperparatireoidismo primário. O achado diferenciador é a presença de calciúria relativa, causada por mutações no receptor sensor de cálcio.
-A hipercalcemia da malignidade é a etiologia mais comum da hipercalcemia em pacientes internados, e os carcinomas de pulmão e mama são responsáveis por cerca da metade dos casos. Além disso, pode acontecer por vários mecanismos:
+A hipercalcemia da malignidade é a etiologia mais comum da hipercalcemia em pacientes internados, e os carcinomas de pulmão, mama e rins são responsáveis por cerca da metade dos casos. Em geral, quando ocorre hipercalcemia de origem tumoral, a doença já é avançada e diagnosticada ou facilmente detectável. 
+Além disso, pode acontecer por vários mecanismos:
+
 Tabela 2 - Mecanismos responsáveis pela hipercalcemia da malignidade
-Produção tumoral do PTHrp	Os tumores que produzem PTHrp são, principalmente, da linhagem epidermoide, incluindo carcinoma de pulmão, cabeça e pescoço, mama, células renais, bexiga, entre outros. O PTHrp mimetiza os efeitos do PTH com hipercalcemia, hipofosfatemia, geração de AMP-cíclico e síntese de vitamina D. A produção tumoral de PTHrp é res-ponsável por cerca de 80% das hipercalcemias em pacientes com neoplasias.
-Metástases 
-osteolíticas	O PTH costuma estar normal, como o fósforo. As metástases esqueléticas liberam citocinas e outros fatores que levam à reabsorção óssea mediada por osteoclasto.
+Produção tumoral do peptídio relaci-onado ao PTH (PTHrp)	Os tumores que produzem PTHrp são, principalmente, da linhagem epidermoide, incluindo carci-noma de pulmão, cabeça e pescoço, mama, células renais, bexiga, entre outros. O PTHrp mime-tiza os efeitos do PTH com hipercalcemia, hipofosfatemia, geração de AMP-cíclico e síntese de vitamina D. A produção tumoral de PTHrp é responsável por cerca de 80% das hipercalcemias em pacientes com neoplasias.
+Metástases osteolíticas	O PTH costuma estar normal, como o fósforo. As metástases esqueléticas liberam citocinas e outros fatores que levam à reabsorção óssea mediada por osteoclasto.
 Secreção ectópica de PTH pelo tumor	É possível, mas é um evento raro.
 Linfomas	Podem apresentar hipercalcemia devido à produção aumentada de 1,25-diidroxicolecalciferol pelo tecido linfoide, que resulta em hipercalcemia por aumento da absorção intestinal de cálcio. 
+
 Doenças infecciosas granulomatosas como tuberculose, hanseníase, histoplasmose e outras doenças fúngicas, assim como condições não infecciosas granulomatosas como sarcoidose, granulomatose de Wegener e granuloma eosinofílico estão asso-ciadas com produção aumentada de 1,25-diidroxicolecalciferol e com absorção intestinal aumentada de cálcio.
 Algumas medicações são associadas à hipercalcemia. A intoxicação por vitamina D resulta em absorção intestinal de cálcio aumentada. Também o uso excessivo de álcalis é descrito como causa de hipercalcemia.
 O hipertireoidismo aumenta o turnover ósseo. A triiodotironina é descrita como fator que aumenta a atividade osteoclásti-ca e pode ser causa de hipercalcemia.
 Em pacientes com Insuficiência Renal Crônica (IRC), pode ocorrer hiperparatireoidismo terciário, com função autônoma das paratireoides, e consequente hipercalcemia. 
-A Tabela 3 resume as principais causas da hipercalcemia, e a Figura 1 apresenta um algoritmo auxiliar para o diagnóstico da causa etiológica da hipercalcemia.
+
+Dica
+Os hiperparatireoidismos primário e de malignidade (principalmente pulmão e mama) são as principais causas de hipercal-cemia.
+
+A Tabela 3 resume as principais causas da hipercalcemia, e a Figura 2 apresenta um algoritmo auxiliar para o diagnóstico da causa etiológica da hipercalcemia.
+
 Tabela 3 - Causas de hipercalcemia
 - Hipercalcemia dependente do PTH;
 - Hiperparatireoidismo primário;
@@ -49,7 +80,7 @@ Excesso de vitamina D
 Outras causas
 - Tireotoxicose;
 - Insuficiência adrenal;
-- IRA;
+- Insuficiência renal aguda;
 - IRC com doença óssea adinâmica;
 - Imobilização;
 - Feocromocitoma;
@@ -60,10 +91,22 @@ Drogas
 - Síndrome leite-álcali;
 - Diurético tiazídico;
 - Antiestrogênicos (tamoxifeno);
-- Ganciclovir.
+- Ganciclovir;
+- Lítio.
+
+Pergunta
+2015 - HCV
+1. Podemos encontrar hipercalcemia, por diminuição de excreção desse elemento, nos casos de: 
+a) suplementação oral ou intravenosa de potássio
+b) hiperplasia congênita de suprarrenal
+c) hemólise, exercícios, infecções, rabdomiólise
+d) acidose metabólica
+e) transfusão ou administração de sangue hemolisado
+Resposta no final do capítulo
 
  
-Figura 1 - Investigação da causa da hipercalcemia
+Figura 2 - Investigação da causa da hipercalcemia
+
 B - Achados clínicos
 A maioria dos pacientes com hipercalcemia leve é assintomática, e esta representa um achado incidental em exame labo-ratorial. O diagnóstico de hipercalcemia em mais da metade dos casos é feito em assintomáticos, e, na maioria das vezes, estes apresentam hiperparatireoidismo primário. Alguns pacientes com hipercalcemia crônica leve apresentam-se com mal-estar inespecífico, e outros, após a resolução da hipercalcemia, referem melhora do estado geral.  
 Em pacientes com câncer, na maioria das vezes, a apresentação é com sintomas relacionados à neoplasia, porém em al-guns a hipercalcemia é a 1ª manifestação de doença neoplásica.
@@ -73,34 +116,82 @@ Os sintomas neuropsiquiátricos são variáveis, e os pacientes apresentam desde si
 Quando a hipercalcemia é aguda, a apresentação pode ser dramática, com confusão mental, psicose orgânica e letargia, que pode progredir para estupor e coma. Alguns pacientes estão assintomáticos mesmo com calcemia em níveis de 15mg/dL, enquanto outros já se apresentam com sintomas, com calcemia de 12mg/dL, demonstrando que a apresentação de sintomas também depende da velocidade com que aparecem a hipercalcemia e outras condições, como uremia.
 A hipercalcemia pode diminuir os potenciais de ação miocárdica, o que resulta em encurtamento do intervalo QT; tam-bém é descrita miocardiopatia. Hipertensão arterial é mais frequente nesses pacientes, possivelmente por alterações renais secundárias à hipercalcemia ou vasoconstrição secundária ao cálcio.
 O quadro clínico clássico de hiperparatireoidismo descreve pacientes com profunda fraqueza muscular e miopatia, mas a maioria das séries de casos recentes relata apenas leve fraqueza muscular ou mesmo ausência de sintomas musculares. São descritos quadros reumatológicos como pseudogota, condrocalcinose e gota.
-O hiperparatireoidismo primário é associado a uma doença óssea conhecida historicamente como osteíte fibrosa cística, que se caracteriza por reabsorção subperiostal das falanges distais (Figura 2 - A), regiões distais da clavícula e regiões de es-calpo e crânio; o que forma, no crânio, uma imagem radiológica classicamente descrita como “sal e pimenta” (Figura 2 - B) e, em ossos longos, cistos ósseos e os chamados tumores marrons (Figura 2 - C).
+O hiperparatireoidismo primário é associado a uma doença óssea conhecida historicamente como osteíte fibrosa cística, que se caracteriza por reabsorção subperiostal das falanges distais (Figura 3 - A), regiões distais da clavícula e regiões de es-calpo e crânio; o que forma, no crânio, uma imagem radiológica classicamente descrita como “sal e pimenta” (Figura 3 - B) e, em ossos longos, cistos ósseos e os chamados tumores marrons (Figura 3 - C).
+
  
-Figura 2 - Alterações do hiperparatireoidismo em exames de imagem: (A) reabsorção subperiostal das falanges distais; (B) crânio em “sal e pimenta”; (C) tumor marrom na ulna distal (setas) e (D) nefrocalcinose (aumento de ecogenicidade da medula renal – setas)
-Manifestações renais, como a nefrolitíase, ocorrem em pacientes com hipercalcemia crônica e quase invariavelmente são associadas a hiperparatireoidismo primário, embora a sarcoidose possa ser associada a aumento de formação de cálculos renais. As manifestações renais mais frequentes do hiperparatireoidismo primário incluem nefrolitíase, hipercalciúria, nefro-calcinose (Figura 2 - D), IRC e redução da capacidade de concentração tubular (diabetes insipidus nefrogênico).
+Figura 3 - Alterações do hiperparatireoidismo em exames de imagem: (A) reabsorção subperiostal das falanges distais; (B) crânio em “sal e pimenta”; (C) tumor marrom na ulna distal (setas) e (D) nefrocalcinose (aumento de ecogenicidade da medula renal – setas)
+
+Manifestações renais, como a nefrolitíase, ocorrem em pacientes com hipercalcemia crônica e quase invariavelmente são associadas a hiperparatireoidismo primário, embora a sarcoidose possa ser associada a aumento de formação de cálculos renais. As manifestações renais mais frequentes do hiperparatireoidismo primário incluem nefrolitíase, hipercalciúria, nefro-calcinose (Figura 3 - D), IRC e redução da capacidade de concentração tubular (diabetes insipidus nefrogênico).
 A hipercalcemia crônica associa-se a defeito na habilidade da concentração renal, que pode induzir poliúria e polidipsia em até 20% dos casos, levando a quadro de diabetes insipidus nefrogênico. Insuficiência renal secundária pode ocorrer por diminuição da taxa de filtração glomerular causada por vasoconstrição direta e por contração de volume induzida por natriu-rese. Podem ainda acontecer nefropatia crônica intersticial por calcificação, degeneração e necrose de células tubulares, atrofia tubular, fibrose intersticial e nefrocalcinose secundários à hipercalciúria. 
-A crise hipercalcêmica é uma condição emergencial em que os pacientes se apresentam marcadamente desidratados. Anorexia, náuseas, vômitos e confusão mental ou sonolência são indicativos de gravidade da crise hipercalcêmica. Os pacien-tes, apesar de profunda desidratação, na maioria das vezes não apresentam hipotensão arterial, pois o cálcio aumenta o tônus vascular. Deve-se ainda atentar para a presença de bradiarritmias, bloqueios atrioventriculares ou de ramos e PCR.
+A crise hipercalcêmica é uma condição emergencial em que os pacientes se apresentam marcadamente desidratados. Anorexia, náuseas, vômitos e confusão mental ou sonolência são indicativos de gravidade da crise hipercalcêmica. Os pacien-tes, apesar de profunda desidratação, na maioria das vezes não apresentam hipotensão arterial, pois o cálcio aumenta o tônus vascular. Deve-se ainda atentar para a presença de bradiarritmias, hipertensão arterial, bloqueios atrioventriculares ou de ramos e PCR.
+
+Quadro clínico
+Pacientes com hipercalcemia crônica podem ser assintomáticos ou evoluir com letargia, fraqueza muscular, confusão men-tal, anorexia, náusea, vômitos, constipação, poliúria e polidipsia, que podem levar a nefrolitíase, insuficiência renal, hiper-tensão, arritmias cardíacas e até coma. Agudamente, observam-se confusão mental, psicose orgânica e letargia, que pode progredir para estupor e coma. 
+
 C - Diagnóstico e exames complementares
-O achado laboratorial de cálcio aumentado deve ser confirmado em novas dosagens ambulatoriais, e deve-se descartar a influência da hipoalbuminemia e do equilíbrio acidobásico sobre a concentração sérica do cálcio. Após a confirmação da hipercalcemia, deve-se investigar a etiologia desta. 
+O achado laboratorial de cálcio aumentado deve ser confirmado em novas dosagens ambulatoriais, e deve-se descartar a influência da hipoalbuminemia e do equilíbrio acidobásico sobre a concentração sérica do cálcio. Após a confirmação da hipercalcemia, deve-se investigar a etiologia desta. A causa do distúrbio deve ser sempre pesquisada, incluindo a dosagem de cálcio total e ionizado (este último em especial, já que o cálcio total pode sofrer alterações devido à concentração de proteí-nas plasmáticas). Existem fórmulas para a correção do cálcio total em relação à albumina sérica, como o acréscimo de 0,8 a 1mg/dL de cálcio para cada g de albumina abaixo de 3,5g/dL. Entretanto, essas fórmulas não demonstram precisão adequada. A quantificação da excreção urinária de creatinina, fósforo e cálcio é bastante útil para que se tenha mais precisão em rela-ção ao ritmo de filtração glomerular e da fração de excreção urinária dos íons. A dosagem do PTH intacto (exclui a maioria dos fragmentos biologicamente inativos) permite estabelecer o diagnóstico de hiperparatireoidismo. Se o PTH é baixo ou no limi-te inferior da normalidade, a possibilidade de neoplasia deve ser seriamente considerada. O achado de um ânion-gap sérico baixo corrobora a hipótese de mieloma múltiplo (a IgG monoclonal é carregada positivamente). A dosagem do peptídio PTH-símile pode ser feita em laboratórios de referência, assim como a dosagem de vitamina D (aumentada em casos de intoxica-ção por vitamina D e nas doenças granulomatosas) e de atividade da enzima conversora de angiotensina (elevada nas doenças granulomatosas).
+
+Dica
+Hipercalcemia com hipofosfatemia sugere hiperparatireoidismo ou de malignidade, enquanto hipercalcemia com hiperfos-fatemia sugere causa relacionada a vitamina D.
+
+No caso de hiperparatireoidismo confirmado, a ultrassonografia de pescoço e a cintilografia com tecnécio são úteis na lo-calização e detecção de adenomas de paratireoide. A ultrassonografia de rins e vias urinárias avalia a presença de urolitíase e/ou nefrocalcinose e pode caracterizar o parênquima e o tamanho dos rins, dado especialmente importante nos casos em que há insuficiência renal.
+
 Tabela 4 - Princípios para estabelecer o diagnóstico etiológico da hipercalcemia
-Verificar o PTH	Este só pode ser interpretado juntamente com a dosagem de cálcio. A presença de PTH elevado em pacientes com hipercalcemia e sem insuficiência renal faz o diagnóstico de hiperparatireoidismo primário. As únicas outras possibilidades diagnósticas são o uso de lítio ou a hipercalcemia hipocalciúrica familiar, que evolui com fração de excreção renal de cálcio menor que 1%. A concentração de PTH diminuída é compatível com as outras cau-sas de hipercalcemia.
-Verificar o peptídio relacionado ao PTH (PTHrp)	A presença de níveis elevados de PTHrp confirma o diagnóstico de hipercalcemia da ma-lignidade, porém esse é um teste diagnóstico muitas vezes não disponível na maioria dos serviços.
-Vitamina D e metabólitos	Níveis elevados de calcidiol indicam ingestão excessiva de vitamina D. A concentração de 1,25-diidroxicolecalciferol aumentada pode indicar produção desta por doenças granulo-matosas ou linfoma, ou ainda, produção renal aumentada da 1,25-diidroxicolecalciferol secundária ao hiperparatireoidismo. Deve-se observar que a produção de PTHrp não leva a aumento de secreção de vitamina D.
+Verificar o PTH	Este só pode ser interpretado juntamente com a dosagem de cálcio. A presença de PTH eleva-do em pacientes com hipercalcemia e sem insuficiência renal faz o diagnóstico de hiperparati-reoidismo primário. As únicas outras possibilidades diagnósticas são o uso de lítio ou a hiper-calcemia hipocalciúrica familiar, que evolui com fração de excreção renal de cálcio menor que 1%. A concentração de PTH diminuída é compatível com as outras causas de hipercalcemia.
+Verificar o PTHrp	A presença de níveis elevados de PTHrp confirma o diagnóstico de hipercalcemia da malignida-de, porém esse é um teste diagnóstico muitas vezes não disponível na maioria dos serviços.
+Vitamina D e metabólitos	Níveis elevados de calcidiol indicam ingestão excessiva de vitamina D. A concentração de 1,25-diidroxicolecalciferol aumentada pode indicar produção desta por doenças granulomatosas ou linfoma, ou ainda, produção renal aumentada da 1,25-diidroxicolecalciferol secundária ao hiperparatireoidismo. Deve-se observar que a produção de PTHrp não leva a aumento de secre-ção de vitamina D.
 Outras causas	A presença de níveis diminuídos de PTH, PTHrp e de vitamina D e seus metabólitos sugere outras causas de hipercalcemia, como hipertireoidismo ou doença de Paget, que devem ser investigados.
 
+Dica
+A hipercalcemia pode acarretar depleção do volume extracelular e contribui para aumentar a reabsorção proximal de cál-cio. 
+
 D - Tratamento
+
+Tema frequente de prova
+O tratamento da hipercalcemia pode estar presente em provas de Residência Médica.
+
 O tratamento da hipercalcemia depende da sua severidade. Os pacientes com hiperparatireoidismo e hipercalcemia as-sintomática leve nem sempre necessitam de tratamento cirúrgico; a maioria deles pode ser manejada clinicamente e perma-necer com densidade óssea e parâmetros bioquímicos por vezes estáveis por muitos anos. 
 O tratamento deve ser particularizado em algumas situações. Por exemplo, pacientes com sarcoidose e doenças granulo-matosas devem ser tratados com dieta pobre em cálcio, corticosteroides e tratamento específico para a causa. A dose de prednisona em pacientes com hipercalcemia sintomática e doenças granulomatosas é de 20 a 40mg/d. 
 Valores de calcemia maiores que 14mg/dL classificam a hipercalcemia como grave, que é associada, em grande número de casos, a confusão mental e necessita de atendimento imediato e agressivo. O tratamento também é recomendado de ur-gência se calcemia maior que 12mg/dL e presença de sintomas.
-A hidratação vigorosa é o 1º passo no manejo dos doentes. A hipercalcemia predispõe à desidratação, e a reposição com salina fisiológica é recomendada, frequentemente sendo necessários de 4 a 6L nas primeiras 24 horas de tratamento, depen-dendo do grau de desidratação e das comorbidades presentes, como insuficiência cardíaca e/ou renal. Um esquema reco-mendado é o de 300mL de salina fisiológica por hora, procurando manter débito urinário entre 100 e 150mL/h. 
-Os diuréticos de alça podem ser usados conjuntamente, embora sua eficácia para tratamento da hipercalcemia seja ques-tionável, podem prevenir a hiper-hidratação. A dose recomendada é de furosemida 20 a 40mg/d IV. 
-A terapia antirreabsortiva óssea é de extrema importância, e os bisfosfonatos são a droga de escolha. O início de ação des-tes últimos para diminuição da calcemia leva de 1 a 3 dias, ao contrário da salina, que diminui a calcemia em horas. O pami-dronato é atualmente o agente de escolha para o tratamento da hipercalcemia da malignidade, embora provavelmente o ácido zoledrônico o substitua como agente preferencial. Alguns autores sugerem a dose de pamidronato de 30mg, se calce-mia <12mg/dL; 60mg, se calcemia entre 12 e 13,5mg/dL e 90mg, se calcemia >13,5mg/dL, em dose única. 
+A hidratação vigorosa é o 1º passo no manejo dos pacientes, pois restaura o volume intracelular e aumenta a excreção urinária de cálcio. A hipercalcemia predispõe à desidratação, e a reposição com salina fisiológica é recomendada, frequente-mente sendo necessários de 4 a 6L nas primeiras 24 horas de tratamento, dependendo do grau de desidratação e das co-morbidades presentes, como insuficiência cardíaca e/ou renal. Um esquema recomendado é o de 300mL de salina fisiológica por hora, procurando manter débito urinário entre 100 e 150mL/h. 
+Os diuréticos de alça podem ser usados conjuntamente, pois aumentam a excreção urinária de cálcio por meio da inibição da reabsorção deste na alça de Henle. Embora sua eficácia para tratamento da hipercalcemia seja questionável, podem pre-venir a hiper-hidratação. A dose recomendada é de furosemida 20 a 40mg/d IV. 
+A terapia antirreabsortiva óssea é de extrema importância, e os bisfosfonatos são a droga de escolha atuando na inibição da reabsorção óssea resultante da atividade osteoclástica. São de absorção oral muito ruim, devendo ser utilizadas por via intravenosa. O efeito de queda na calcemia não é imediato, havendo latência de cerca de 2 a 4 dias. O nadir do efeito hipo-calcemiante dessas drogas ocorre em 4 a 7 dias após a instituição da terapia; ao contrário da salina, que diminui a calcemia em horas. O pamidronato é atualmente o agente de escolha para o tratamento da hipercalcemia da malignidade, embora provavelmente o ácido zoledrônico o substitua como agente preferencial. Alguns autores sugerem a dose de pamidronato de 30mg, se calcemia <12mg/dL; 60mg, se calcemia entre 12 e 13,5mg/dL e 90mg, se calcemia >13,5mg/dL, em dose única. 
 Outros autores sugerem dose de 90mg em dose única para todos os pacientes, que é a dose com máxima resposta em di-minuir a calcemia. A medicação é diluída em salina e deve ser usada em infusão de 2 a 24 horas (geralmente 4 a 6 horas). A normalização da calcemia ocorre em 70% dos pacientes, e a medicação não deve ser repetida pelo menos por 7 dias. A medi-cação controla a calcemia por 2 a 4 semanas, com média de 15 dias.
+
+Dica
+A furosemida inibe a reabsorção de cálcio, mas só deve ser usada após a correção da depleção do volume extracelular.
+
 O ácido zoledrônico é o bisfosfonato mais potente, de uso intravenoso e com efeito imediato. O ácido zoledrônico conse-gue a normalização do cálcio em menos de 3 dias, em 80 a 100% dos pacientes. A dose é de 4mg, infundido em 15 minutos, e pode ser repetido outras vezes, até a normalização do cálcio.
 A calcitonina apresenta vantagem de ter início terapêutico rápido, podendo ser usada no começo do tratamento, até que os efeitos dos bisfosfonatos se iniciem. Entretanto, não deve ser usada isoladamente para tratamento da hipercalcemia, devi-do ao efeito de taquifilaxia induzido pelo medicamento. 
+ Os glicocorticoides, como a prednisona na dose 20 a 40mg/d, reduzem o cálcio sérico dentro de 2 a 5 dias por diminuição da absorção intestinal de cálcio e diminuição da produção de 1,25-diidroxivitamina D por células mononucleares ativadas em pacientes com doenças granulomatosas ou portadores de linfoma. O denosumabe tem sido usado para pacientes com hiper-calcemia maligna, particularmente em resistentes aos bisfosfonatos, e atua inibindo a reabsorção óssea. Trata-se de uma op-ção para pacientes com hipercalcemia refratária ao ácido zoledrônico ou com contraindicação aos bifosfonatos, como a pre-sença de insuficiência renal grave.
 Outras medicações utilizadas para o tratamento da hipercalcemia são o nitrato de gálio, um potente agente antirreabsorti-vo. Deve ser usado por 5 dias consecutivos, na dose de 200mg/m2. Apresenta nefrotoxicidade e tem início de ação após 5 a 6 dias; por esses motivos, tem sido pouco utilizado no tratamento da hipercalcemia. A mitramicina também tem ação antirreab-sortiva. Usada por via intravenosa na dose de 25µg/kg em 3 a 6 horas de infusão. A Tabela 5 sumariza o tratamento da hiper-calcemia.
+A diálise é geralmente reservada para aqueles com hipercalcemia grave.
+
+Tratamento
+O tratamento da hipercalcemia divide-se em pacientes com Ca++ <14mg/dL (SF a 0,9%, 4 a 6L IV, em 24 horas; em caso de manutenção, pamidronato 90mg IV, em 4 a 6 horas, ou furosemida 20 a 40mg IV, 12/12h, até 6/6h) e pacientes graves com Ca++ >14mg/dL (SF a 0,9%, pamidronato, furosemida e calcitonina 4 a 8U/kg IM ou SC, 12/12h, por 24 horas).
+
+Pergunta
+2015 - UERJ
+2. Um paciente de 55 anos foi investigado devido a hipercalcemia que se mostrou PTH-dependente. Os exames de imagem revelaram aumento de uma paratireoide, e o indivíduo foi internado para realizar ressecção da glândula acometida. Após hidratação venosa com soro fisiológico a 0,9%, seu cálcio sérico permanecia elevado. Nessa situação, a redução da calcemia pode ser intensificada com o uso de:
+a) vitamina D
+b) furosemida
+c) clortalidona
+d) carbonato de lítio
+Resposta no final do capítulo
+
+Pergunta
+2015 - UFMA
+3. Um paciente de 57 anos foi trazido ao pronto-socorro por rebaixamento do nível de consciência. Familiares informam que há alguns dias ele tem apresentado náuseas, constipação e fraqueza muscular. Nas últimas 48 horas, evoluiu com con-fusão, estupor e coma. Referem, ainda, que ele perdeu muito peso nos últimos meses, teve episódio de hemoptise há 20 dias e é tabagista de 30 anos/maço. Ao exame físico, o paciente está com Glasgow 6. Exames complementares mostram ECG com intervalo QT reduzido e grave alteração de um eletrólito. Após suporte de vida inicial, qual é o melhor tratamento para a alteração aguda mais provável? 
+a) reposição venosa de potássio, preferencialmente não ultrapassando a velocidade de 20mEq/h e a concentração de 40mEq/L em veia periférica
+b) hidratação vigorosa com salina isotônica a 0,9%, podendo acrescentar furosemida após repleção volêmica e diurese abundante
+c) infusão de solução salina hipertônica a 3%, podendo acrescentar furosemida simultaneamente
+d) infusão de soro ao meio a 0,45%, podendo acrescentar água potável por sonda nasoenteral
+e) reposição de gluconato de cálcio
+Resposta no final do capítulo
+
 Tabela 5 - Tratamento da hipercalcemia
 Hipercalcemia leve a moderada (cálcio sérico <14mg/dL)
-1 - Hidratação vigorosa com soro fisiológico: 4 a 6L em 24 horas. A hidratação isoladamente já causa queda significativa da concentração sérica de cálcio.
+1 - Hidratação vigorosa com soro fisiológico: 4 a 6L em 24 horas. A hidratação isoladamente já causa queda significativa da concentra-ção sérica de cálcio.
 2 - Pamidronato: 90mg IV, durante 4 a 6 horas. A hidratação, furosemida e pamidronato conseguem normalização do cálcio em 90% dos pacientes.
 3 - Furosemida: 20 a 40mg IV de 12/12h, até de 6/6h. Iniciar apenas após caso se obtenha adequada reidratação e boa diurese.
 4 - Corticosteroides: 1mg/kg de peso de prednisona. Devem ser prescritos em linfoma, mieloma e doenças granulomatosas e evitado em outras condições.
@@ -109,23 +200,32 @@ Hipercalcemia grave (cálcio >14mg/dL)
 2 - Calcitonina: 4 a 8U/kg IM ou SC de 12/12h por 24 horas.
 
 3. Hipocalcemia
-A hipocalcemia é definida por cálcio total <8,5mg/dL ou cálcio ionizado inferior aos limites da normalidade, além de re-presentar uma condição frequentemente encontrada na Medicina. Em seu extremo, os pacientes podem apresentar-se com quadro de hiperexcitabilidade neuromuscular grave e tetania. 
-A - Etiologia e fisiopatologia
-A hipocalcemia pode ser subdividida em hipocalcemia com baixos níveis de PTH, caracterizando quadros de hipoparatire-oidismo, e hipocalcemia com PTH aumentado, o que caracteriza o hiperparatireoidismo secundário.
-No compartimento extracelular, 50% do cálcio estão sob a forma de cálcio ionizável, e o restante está ligado à albumina ou formando complexos com outros íons. Porém, essa proporção de cálcio sérico total 2:1 em relação ao cálcio ionizável pode ser alterada por condições como acidose, alcalose metabólica e hiperventilação. Por exemplo, pacientes com hiperventilação podem apresentar quadro de parestesias e contrações musculares com estímulo mínimo, estas ocasionadas pela redução transitória do cálcio ionizado.
-Tabela 6 - Principais causas de hipocalcemia
-Hipoparatireoidismo	Distúrbio clínico que se manifesta quando o montante de PTH produzido pela paratireoide é insufici-ente para manter adequado o metabolismo do cálcio. O hipoparatireoidismo pode ser causado por alteração no desenvolvimento da paratireoide, destruição das glândulas paratireoides, diminuição de função da glândula com produção alterada de PTH e alteração na ação do PTH, caracterizando os quadros de pseudo-hipoparatireoidismo. As anormalidades de desenvolvimento da paratireoide são mais comuns como parte de síndromes com malformações congênitas, por exemplo, na síndrome de DiGeorge (em que os pacientes apresentam alterações faciais, palato “em ogiva”, doença cardíaca congênita e anormalidades orofaríngeas associadas ao hipoparatireoidismo). A causa mais comum de hipoparatireoidismo, em adultos, é a retirada cirúrgica das glândulas paratireoides secundária às tireoidectomias realizadas para câncer da tireoide. Após cirurgias tireoidianas, pode ocorrer hipopara-tireoidismo transitório por edema ou hemorragia nas paratireoides e, por vezes, a síndrome do osso faminto ou hungry bone syndrome (mais comum em portadores de doença óssea, secundária a hiper-paratireoidismo grave, prévia a cirurgia), algumas vezes, secundária à hipomagnesemia pós-operatória. Outra causa é a destruição autoimune das glândulas paratireoides, podendo ocorrer isola-damente ou em associação a outras doenças autoimunes. A doença poliglandular autoimune do tipo 1 representa a principal associação de hipoparatireoidismo a outras doenças imunes, que ocorre em 80 a 90% dos casos. Devem-se lembrar ainda das doenças infiltrativas da paratireoide, como hemo-cromatose, doença de Wilson e doenças granulomatosas.
-Pseudo-hipoparatireoidismo	Também denominada síndrome de resistência ao PTH. Os pacientes, nesse caso, apresentam acha-dos laboratoriais compatíveis com hipoparatireoidismo (hipocalcemia e hiperfosfatemia), com níveis de PTH aumentados e falta de resposta dos tecidos-alvo ao PTH. A hipomagnesemia é causa de resposta alterada ao PTH em tecidos-alvo e deve ser descartada antes que possa ser feito o diagnós-tico de pseudo-hipoparatireoidismo.
-Outras causas	A hipoalbuminemia pode levar à mensuração de cálcio total diminuído, por isso a concentração de cálcio sérico deve ser ajustada para a concentração de albumina, conforme fórmula apresentada na seção sobre hipercalcemia.
 
-A Tabela 7 cita as principais causas de hipocalcemia.
+A hipocalcemia é definida por cálcio total <8,5mg/dL ou cálcio ionizado inferior aos limites da normalidade, além de re-presentar uma condição frequentemente encontrada na Medicina. Em seu extremo, os pacientes podem apresentar-se com quadro de hiperexcitabilidade neuromuscular grave e tetania. 
+
+A - Etiologia e fisiopatologia
+
+Tema frequente de prova
+As causas da hipocalcemia estão presentes em diversas questões de Residência Médica. 
+
+ A detecção de níveis séricos de cálcio anormalmente baixos por exame laboratorial é, na maioria das vezes, um evento factício, resultante da diminuição da concentração plasmática de proteínas secundária à diminuição da síntese proteica ou hemodiluição. Como o cálcio circulante se encontra tão altamente ligado às proteínas, diminuições da concentração de albu-mina sérica – como ocorre na desnutrição, doença hepática ou síndrome nefrótica – produzem reduções proporcionais dos níveis séricos de cálcio total. Nessas situações, os níveis séricos de cálcio podem ser corrigidos pela acréscimo de 0,8mg/dL para cada redução de 1g/dL de níveis de albumina sérica ocorrida abaixo de 4g/dL. Uma medida acurada dos níveis de cálcio ionizado contornará muitas dessas falhas.
+A hipocalcemia verdadeira pode ser subdividida em hipocalcemia com baixos níveis de PTH, caracterizando quadros de hipoparatireoidismo, e hipocalcemia com PTH aumentado, o que caracteriza o hiperparatireoidismo secundário. Geralmente, a hipocalcemia ocorre de forma associada a alterações da concentração do fósforo; e pode estar ainda associada a distúrbios do magnésio, já que este pode inibir a secreção do PTH.
+No compartimento extracelular, 50% do cálcio estão sob a forma de cálcio ionizável, e o restante está ligado à albumina ou formando complexos com outros íons. Porém, essa proporção de cálcio sérico total 2:1 em relação ao cálcio ionizável pode ser alterada por condições como acidose, alcalose metabólica e hiperventilação. Por exemplo, pacientes com hiperventilação podem apresentar quadro de parestesias e contrações musculares com estímulo mínimo, estas ocasionadas pela redução transitória do cálcio ionizado.
+As Tabelas 6 e 7 citam as principais causas de hipocalcemia.
+
+Tabela 6 - Principais causas de hipocalcemia
+Hipoparatire-oidismo	Distúrbio clínico que se manifesta quando o montante de PTH produzido pela paratireoide é insuficiente para manter adequado o metabolismo do cálcio. O hipoparatireoidismo pode ser causado por alteração no desenvolvimento da para-tireoide, destruição das glândulas paratireoides, diminuição de função da glândula com produção alterada de PTH e alteração na ação do PTH, caracterizando os quadros de pseudo-hipoparatireoidismo. As anormalidades de desenvolvi-mento da paratireoide são mais comuns como parte de síndromes com malformações congênitas, por exemplo, na síndrome de DiGeorge (em que os pacientes apresentam alterações faciais, palato “em ogiva”, doença cardíaca congêni-ta e anormalidades orofaríngeas associadas ao hipoparatireoidismo). A causa mais comum de hipoparatireoidismo, em adultos, é a retirada cirúrgica das glândulas paratireoides secundária às tireoidectomias realizadas para câncer da tire-oide. Após cirurgias tireoidianas, pode ocorrer hipoparatireoidismo transitório por edema ou hemorragia nas paratireoi-des e, por vezes, a síndrome do osso faminto ou hungry bone syndrome (mais comum em portadores de doença óssea, secundária a hiperparatireoidismo grave, prévia a cirurgia), algumas vezes, secundária à hipomagnesemia pós-operatória. Outra causa é a destruição autoimune das glândulas paratireoides, podendo ocorrer isoladamente ou em associação a outras doenças autoimunes. A doença poliglandular autoimune do tipo 1 representa a principal associação de hipoparatireoidismo a outras doenças imunes, que ocorre em 80 a 90% dos casos. Devem-se lembrar ainda das doen-ças infiltrativas da paratireoide, como hemocromatose, doença de Wilson e doenças granulomatosas.
+Pseudo-hipoparatire-oidismo	Também denominada síndrome de resistência ao PTH. Os pacientes, nesse caso, apresentam achados laboratoriais compatíveis com hipoparatireoidismo (hipocalcemia e hiperfosfatemia), com níveis de PTH aumentados e falta de res-posta dos tecidos-alvo ao PTH. A hipomagnesemia é causa de resposta alterada ao PTH em tecidos-alvo e deve ser descartada antes que possa ser feito o diagnóstico de pseudo-hipoparatireoidismo.
+Outras cau-sas	A hipoalbuminemia pode levar à mensuração de cálcio total diminuído, por isso a concentração de cálcio sérico deve ser ajustada para a concentração de albumina, conforme fórmula apresentada na seção sobre hipercalcemia.
+
+
 Tabela 7 - Causas de hipocalcemia
 Causas associadas a PTH diminuído
 - Agenesia da paratireoide (isolada ou associada a outras anormalidades, como na síndrome de DiGeorge);
 - Destruição da paratireoide (radiação, cirurgia, metástases e doenças infiltrativas, pós-cirurgia);
 - Doença autoimune das paratireoides (isolada ou associada à doença poliglandular autoimune tipo 1);
-- Defeitos de função da paratireoide (alterações genéticas do PTH, hipomagnesemia, síndrome do osso faminto e alteração dos receptores sensores do cálcio);
-- Causas associadas com PTH aumentado (hiperparatireoidismo secundário);
+- Defeitos de função da paratireoide (alterações genéticas do PTH, hipomagnesemia, síndrome do osso faminto e alteração dos recep-tores sensores do cálcio). 
+Causas associadas com PTH aumentado (hiperparatireoidismo secundário)
 - Deficiência de vitamina D;
 - Resistência à vitamina D (raquitismo e osteomalácia);
 - Resistência ao PTH (pseudo-hipoparatireoidismo ou hipomagnesemia);
@@ -135,11 +235,38 @@ Causas associadas a PTH diminuído
 - Metástases osteoblásticas;
 - Sepse;
 - Hiperventilação.
+Drogas
+- Inibidores da reabsorção óssea (bisfosfonatos, calcitonina, denosumabe), especialmente em deficiência de vitamina D;
+- Cinacalcete;
+- Quelantes de cálcio (EDTA, citrato, fosfato);
+- Foscarnete (devido à complexação intravascular com cálcio);
+- Fenitoína (devido à conversão da vitamina D para metabólitos inativos);
+- Envenenamento por fluoreto.
+Distúrbio do metabolismo do magnésio
+A hipomagnesemia pode reduzir a secreção de PTH ou causar resistência a este e, por conseguinte, está associada a níveis normais, de baixo ou elevado PTH.
+
 A hiperfosfatemia pode induzir o paciente à hipocalcemia, assim como a infusão de citrato é descrita como causa dessa deficiência.
 O aumento da atividade osteoblástica, também descrito como causa de hipocalcemia, é possível na chamada síndrome do osso faminto, que ocorre após a paratireoidectomia e pode ser distinguida do hipoparatireoidismo pós-operatório devido à hipofosfatemia e níveis aumentados de PTH característicos da primeira. A presença de extensas metástases osteoblásticas pode causar hipocalcemia e ocorre principalmente nos pacientes com carcinomas de próstata.
-Em pacientes gravemente doentes, a hipocalcemia também pode ocorrer, como naqueles com sepse grave. Na pancreati-te aguda, formam-se complexos de ácidos graxos com cálcio. 
+Em pacientes gravemente doentes, a hipocalcemia também pode ocorrer, como naqueles com sepse grave. Na pancreati-te aguda, formam-se complexos de ácidos graxos com cálcio. A hipocalcemia também pode ser causada por transfusões de grandes volumes de sangue utilizando hemácias previamente tratadas com quelantes de cálcio para prevenção de coagula-ção.
 Medicações também são causa de hipocalcemia: drogas antirreabsortivas como os bisfosfonatos, anticonvulsivantes, entre outros, podem ocasioná-la. 
+
+Dica
+A hipocalcemia está frequentemente relacionada a distúrbios do PTH ou vitamina D.
+
+Pergunta
+2009 - UFPE
+4. São causas de hipocalcemia crônica, exceto:
+a) hipoparatireoidismo
+b) deficiência de vitamina D
+c) pseudodeficiência de vitamina D
+d) pancreatite aguda
+Resposta no final do capítulo
+
 B - Achados clínicos
+
+Quadro clínico
+O quadro clínico da hipocalcemia é dividido em sintomas agudos (tetania, parestesias perioral e de extremidades, espasmos musculares, sinais de Trousseau e Chvostek, convulsões, broncoespasmo, prolongamento de intervalo QT, hipotensão, arrit-mias) e crônicos (sinais extrapiramidais, calcificações de gânglios basais, parkinsonismo, demência, dentição anormal, pele seca, catarata).
+
 O determinante dos sintomas é a concentração de cálcio ionizável. Portanto, em condições como alcalose metabólica, embora o cálcio total possa estar normal, os pacientes podem apresentar sintomas de hipocalcemia.
 Os sintomas dependem da severidade e da cronicidade da condição e estão relacionados principalmente com a hiperexci-tabilidade neuromuscular, além de alterações de dentes e anexos, cardíacas e oftalmológicas.
 A hipocalcemia aguda tem como marca registrada a tetania. Em casos leves, os pacientes apresentam parestesias de ex-tremidades e periorais e, em casos graves, o espasmo carpopedal, laringoespasmo e contrações musculares graves. 
@@ -148,8 +275,13 @@ Os sintomas de tetania iniciam-se usualmente com quadro de parestesias acrais. A
 Os achados clássicos de irritabilidade neuromuscular são os sinais de Trousseau e Chvostek. O primeiro consiste na indu-ção do espasmo carpopedal ao insuflar o manguito de pressão arterial acima da pressão arterial sistólica por 3 minutos. Já o sinal de Chvostek consiste na contração de músculos faciais ipsilaterais ao se percutir o trajeto do nervo facial próximo à ore-lha. 
 Convulsões, na forma de crises de ausência, focais ou crises tônico-clônicas generalizadas, podem ser a única manifesta-ção de hipocalcemia. Alterações de movimento semelhantes ao parkinsonismo, com distonias, hemibalismo e coreoatetoses podem ocorrer em 5 a 10% dos casos, assim como disartria e ataxia. Sabe-se que pacientes com hipocalcemia crônica podem apresentar calcificações de gânglios da base, mas a contribuição dessa lesão para os sintomas neuromusculares é discutível.
 Em pacientes com hipocalcemia grave, podem-se encontrar papiledema e neurite óptica, que melhoram com a correção da hipocalcemia. Alterações psiquiátricas, como labilidade emocional, ansiedade e depressão também são descritas. Cataratas e, menos frequentemente, ceratoconjuntivite podem ocorrer, mas a correção da hipocalcemia diminui sua progressão. Hipo-plasia dentária e alteração da mineralização dos dentes são manifestações crônicas associadas.
-Os pacientes podem ainda apresentar disfunção cardíaca sistólica e prolongamento do intervalo QT, com arritmias cardía-cas secundárias.
+Os pacientes podem ainda apresentar disfunção cardíaca sistólica e prolongamento do intervalo QT, com arritmias cardía-cas secundárias. A hipocalcemia prolonga a fase 2 do potencial de ação como consequência da alteração da concentração de cálcio no soro e da função dos canais de cálcio dos miócitos. O prolongamento do intervalo QT está associado a início pós-repolarização e desencadeia arritmias.
+
+ 
+Figura 4 - Eletrocardiograma com QT longo 
+ 
 As alterações esqueléticas são em grande parte dependentes da causa da hipocalcemia. E manifestações endocrinológicas autoimunes associadas, como insuficiência adrenal, podem estar presentes. 
+
 Tabela 8 - Manifestações clínicas da hipocalcemia
 Agudas
 - Irritabilidade neuromuscular (tetania); 
@@ -174,11 +306,19 @@ Crônicas
 - Catarata subcapsular;
 - Dentição anormal;
 - Pele seca.
+
+Dica
+Convém lembrar que as principais manifestações clínicas da hipocalcemia são neuromusculares. 
+
 C - Exames complementares e diagnóstico
 Pacientes com hipoalbuminemia, como os hepatopatas, podem apresentar hipocalcemia laboratorial sem apresentar esta de fato (principal causa artefatual de hipocalcemia). Para a avaliação da etiologia da hipocalcemia, devem ser dosados magné-sio e fósforo. A hipomagnesemia pode induzir resistência ou deficiência de PTH, levando à hipocalcemia. A dosagem de fósfo-ro ajuda na determinação do diagnóstico diferencial.  
 As principais causas em pronto-socorro de hipocalcemia são hipoparatireoidismo, deficiência ou metabolismo anormal da vitamina D, insuficiência renal e hipomagnesemia.
 Nos pacientes com hipoparatireoidismo, o cálcio sérico é baixo, com fósforo alto e PTH indetectável. As concentrações de 25-hidroxivitamina D e de 1,25-hidroxivitamina D são usualmente normais. Os pacientes com quadro de pseudo-hipoparatireoidismo apresentam quadro laboratorial semelhante, porém os níveis de PTH se encontram elevados.
 Os pacientes com IRC, a causa mais comum de hipocalcemia na maioria das estatísticas, apresentam fósforo elevado, com fosfatase alcalina, creatinina e PTH também elevados. Nesses casos, os níveis de 25-hidroxivitamina D estão usualmente nor-mais, mas a 1,25-hidroxivitamina D está diminuída.
+
+Diagnóstico
+No pronto-socorro, após a dosagem sérica de cálcio <8,5mg/dL, deve-se pensar em hipoparatireoidismo, deficiência ou metabolismo anormal da vitamina D, insuficiência renal e hipomagnesemia.
+
 D - Tratamento
 O tratamento depende da etiologia e da severidade da hipocalcemia. 
 Pacientes com hipocalcemia leve assintomática: com cálcio iônico acima de 3,2mg/dL ou cálcio total entre 8 e 8,5mg/dL, são usualmente assintomáticos e podem ser tratados apenas com reposição de cálcio pela dieta ou por meio de formula-ções por via oral de cálcio. O aumento em 1.000mg/d na ingesta de cálcio é usualmente suficiente para controle. A su-plementação de cálcio pode ser feita com carbonato de cálcio ou citrato de cálcio. Apesar de o citrato de cálcio apresen-tar melhor biodisponibilidade, não foi demonstrada superioridade deste em comparação ao carbonato; 
@@ -186,7 +326,25 @@ Hipocalcemia sintomática: os sintomas geralmente aparecem quando o cálcio ioniza
 Hipocalcemia crônica e hipoparatireoidismo: o objetivo do tratamento é restaurar os níveis de cálcio e fósforo para o mais próximo do normal possível, em geral para níveis de cálcio entre 8 e 8,5mg/dL. O fator limitante para restauração da cal-cemia normal é o aparecimento de hipercalciúria, o que predispõe à formação de calculose renal. Inicialmente, o paci-ente é tratado com a reposição por via oral de cálcio, em doses iniciais de 1,5 a 2g/d de cálcio elementar. A orientação dietética inclui uso de alimentos ricos em cálcio e pobres em fosfato. Essas medidas são suficientes para diminuir os ní-veis de fósforo. Caso a reposição de cálcio seja insuficiente para a correção satisfatória da calcemia e da hiperfosfatemia, é recomendada a reposição de vitamina D na dose inicial de 50.000U/d ou o equivalente em forma de calcitriol, 0,25 a 1µg/d. A calciúria deve ser mensurada rotineiramente a esses pacientes, e, em caso de níveis elevados, o uso de peque-nas doses de diuréticos tiazídicos pode ser efetivo, pois os diuréticos tiazídicos inibem a secreção de cálcio no túbulo contorcido distal e, dessa forma, reduzem a calciúria;
 Pacientes com IRC: raros pacientes em tal situação se apresentam com hipocalcemia sintomática. O principal objetivo é prevenir a doença óssea, não corrigir a calcemia.
 O objetivo inicial é usar quelante de fósforo, de preferência pelo uso do carbonato ou acetato de cálcio (o citrato aumen-ta a absorção de alumínio). A reposição de vitamina D na forma de calcitriol também é necessária na grande maioria dos ca-sos, principalmente se há hiperparatireoidismo grave associado.
+
+Tratamento
+O tratamento da hipocalcemia leve assintomática baseia-se na reposição de cálcio pela dieta ou por meio de carbonato ou citrato de cálcio; em casos de hipocalcemia sintomática, gluconato de cálcio 1 a 2g, em 10 a 20 minutos, em SF a 0,9%; após, reposição intravenosa de 0,5 a 1,5mg/kg/h de cálcio elementar + calcitriol 0,25 a 0,5µg/d; em caso de hipomagnese-mia, sulfato de magnésio 2g, em SF a 0,9% 100mL, em 10 minutos; e, na hipocalcemia crônica e no hipoparatireoidismo, reposição oral de cálcio, cálcio elementar 1,5 a 2g/d + calcitriol 0,25 a 1µg/d.
+
+Dica
+A hipocalcemia resistente ao tratamento pode ser secundária à hipomagnesemia e só melhora com a correção dos níveis séricos de magnésio. 
+
+Pergunta
+2013 - SANTA CASA-SP 
+5. Um lactente apresenta diarreia aguda, desidratação de 3º grau e acidose metabólica importante. No pronto-socorro são iniciadas expansão com soro fisiológico e, posteriormente, correção da acidose com bicarbonato de sódio. Durante a infusão de bicarbonato, a criança apresenta crise convulsiva tônico-clônica. Qual é o distúrbio eletrolítico/metabólico mais provável como desencadeador da crise?
+a) hipocalcemia
+b) hipocalemia
+c) hiponatremia
+d) hipernatremia
+e) alcalose metabólica
+Resposta no final do capítulo
+
 4. Resumo
+
 Quadro-resumo
 Hormônios reguladores do cálcio
 - O PTH tem secreção regulada pela calcemia. Age nos ossos aumentando a reabsorção óssea. Nos rins, aumenta a absorção tubular distal de cálcio e a excreção renal de fósforo;
@@ -196,18 +354,30 @@ Hipercalcemia
 - A hipercalcemia é definida como cálcio sérico >10,5mg/dL ou cálcio iônico acima do valor normal;
 - A hipoalbuminemia, apesar de diminuir o cálcio total, não interfere na concentração de cálcio ionizável;
 - O hiperparatireoidismo primário é a principal causa de hipercalcemia que ocorre principalmente em ambiente ambulatorial;
-- Neoplasias são a etiologia mais comum da hipercalcemia em pacientes internados (carcinomas de pulmão e de mama são responsáveis por cerca da metade dos casos);
+- Neoplasias são a etiologia mais comum da hipercalcemia em pacientes internados (carcinomas de pulmão e de mama são responsá-veis por cerca da metade dos casos);
 - Hipercalcemia com hipofosfatemia sugere hiperparatireoidismo ou malignidade;
 - Hipercalcemia com hiperfosfatemia sugere causa relacionada à vitamina D;
-- A maioria dos pacientes com hipercalcemia leve são assintomáticos. Quando a hipercalcemia é aguda, a apresentação pode ser dramática, com confusão mental, psicose orgânica e letargia, que pode progredir para estupor e coma;
-- O PTH deve ser dosado em todos os pacientes com hipercalemia. A presença de PTH elevado em pacientes com hipercalce-mia e sem insuficiência renal faz o diagnóstico de hiperparatireoidismo primário;
+- A maioria dos pacientes com hipercalcemia leve são assintomáticos. Quando a hipercalcemia é aguda, a apresentação pode ser dramá-tica, com confusão mental, psicose orgânica e letargia, que pode progredir para estupor e coma;
+- O PTH deve ser dosado em todos os pacientes com hipercalemia. A presença de PTH elevado em pacientes com hipercalcemia e sem insuficiência renal faz o diagnóstico de hiperparatireoidismo primário;
 - A presença de níveis elevados de PTHrp confirma o diagnóstico de hipercalcemia da malignidade (teste pouco disponível);
 - A hidratação com salina fisiológica é o tratamento inicial para pacientes com hipercalemia;
 - Os bisfosfonatos são a medicação de maior eficácia para o controle da hipercalemia, destacando o pamidronato e o ácido zoledrônico.
 Hipocalcemia
 - A hipocalcemia é definida por cálcio total <8,5mg/dL ou cálcio ionizado inferior aos limites da normalidade;
-- Nas causas de hipocalcemia temos o hipoparatireoidismo (montante de PTH produzido pela paratireoide é insuficiente para manter adequado o metabolismo do cálcio), mais comum em retirada cirúrgica das glândulas paratireoides secundária às tireoidectomias realizadas para câncer da tireoide. No pseudo-hipoparatireoidismo (síndrome de resistência ao PTH) há níveis de PTH aumentados e falta de resposta dos tecidos-alvo ao PTH. Outras causas são agenesia da paratireoide, destruição da paratireoide, doença autoimune das paratireoides, efeitos de função da paratireoide (alterações genéticas do PTH, hipomag-nesemia, síndrome do osso faminto e alteração dos receptores sensores do cálcio), deficiência de vitamina D;
-- A interpretação laboratorial da hipocalcemia depende de fatores como concentração sérica de albumina e equilíbrio acidobá-sico; 
-- Para realizar o diagnóstico diferencial das diferentes etiologias da hipocalcemia é preciso analisar outros eletrólitos, entre eles o fósforo e o magnésio;
+- Nas causas de hipocalcemia temos o hipoparatireoidismo (montante de PTH produzido pela paratireoide é insuficiente para manter adequado o metabolismo do cálcio), mais comum em retirada cirúrgica das glândulas paratireoides secundária às tireoidectomias rea-lizadas para câncer da tireoide. No pseudo-hipoparatireoidismo (síndrome de resistência ao PTH) há níveis de PTH aumentados e falta de resposta dos tecidos-alvo ao PTH. Outras causas são agenesia da paratireoide, destruição da paratireoide, doença autoimune das paratireoides, efeitos de função da paratireoide (alterações genéticas do PTH, hipomagnesemia, síndrome do osso faminto e alteração dos receptores sensores do cálcio), deficiência de vitamina D;
+- A interpretação laboratorial da hipocalcemia depende de fatores como concentração sérica de albumina e equilíbrio acidobásico; 
+- Para realizar o diagnóstico diferencial das diferentes etiologias da hipocalcemia é preciso analisar outros eletrólitos, entre eles o fósfo-ro e o magnésio;
 - O tratamento da hipocalcemia no paciente assintomático é realizado de preferência com cálcio via oral e é direcionado para a etiologia da hipocalcemia;
 - Pacientes com crise hipocalcêmica devem ser tratados com cálcio parenteral.
+
+Respostas
+1. B
+2. B
+3. B
+4. D
+5. A
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
