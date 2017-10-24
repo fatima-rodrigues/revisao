@@ -1,0 +1,377 @@
+
+Parada cardiorrespiratória
+José Paulo Ladeira[- / -]
+Rodrigo Antônio Brandão Neto[- / -]
+Fabrício Nogueira Furtado
+{+Roberto Moraes Júnior+}
+
+
+{+Resumo+}
+{+Este capítulo traz, com detalhes, o atendimento da parada cardiorrespiratória (PCR) no adulto segundo as últimas diretrizes (2015) da American Heart Association. É recomendado, agora, o uso de cadeias de sobrevivência distintas que identifiquem as diferentes vias de cuidado dos pacientes que sofrem uma PCR no hospital daqueles acometidos no ambiente extra-hospitalar. O algoritmo de suporte básico de vida no adulto foi modificado de modo a refletir o fato de que os socorristas podem acionar o serviço médico de emergência sem sair do lado da vítima, pelo telefone celular. As recomendações foram reforçadas a fim de incentivar o pronto reconhecimento da ausência de resposta, o acionamento imediato do serviço médico de emergência e o início da reanimação cardiopulmonar (RCP) somente com compressões torácicas, caso o socorrista leigo encontre uma vítima inconsciente e sem respiração efetiva. A sequência recomendada para um único socorrista treinado foi confirmada: iniciar as compressões torácicas antes das ventilações de resgate, para reduzir o tempo para a 1ª compressão (sequência C–A–B, iniciando-se com 30 compressões para, somente então, abrir as vias aéreas e aplicar 2 ventilações). Outro aspecto im-portante é a ênfase permanente na RCP de qualidade: comprimir o tórax com frequência e profundidades adequadas, permi-tir o retorno completo do tórax após cada compressão, evitar hiperventilação e minimizar as interrupções nas compressões torácicas. A velocidade recomendada para as compressões torácicas é de 100 a 120/min, enquanto a profundidade das com-pressões torácicas deve ser de 5 a 6cm. Durante as manobras de RCP no paciente com via aérea avançada, recomenda-se uma taxa de ventilação simplificada de 1 ventilação a cada 6 segundos (10 por minuto). A vasopressina não é mais recomen-dada como alternativa a epinefrina no tratamento da PCR. A angiografia coronariana deve ser realizada em caráter de emer-gência nos pacientes com PCR extra-hospitalar e suspeita de etiologia cardíaca. Todos os pacientes recuperados de PCR sem resposta adequada a comandos verbais devem ser submetidos a controle direcionado de temperatura, com temperatura-alvo entre 32 e 36° C, mantida constantemente por um período mínimo de 24 horas.+}
+
+1. Introdução
+
+Nenhuma situação clínica supera a prioridade de atendimento da parada cardiorrespiratória (PCR). A rapidez e a eficácia das intervenções adotadas são cruciais para o bom resultado do atendimento. Dados obtidos pelo DATASUS apontam que 35% das mortes no Brasil são por causas cardiovasculares, que perfazem 300.000 casos anuais. Nos Estados Unidos, estima-se que 250.000 mortes súbitas por ano ocorram por causa coronariana. A PCR é desencadeada, na sua grande maioria, por fibrilação ventricular associada a evento isquêmico miocárdico ou [-a -]distúrbio elétrico primário.
+
+{+Dica+}
+O sucesso na [-ressuscitação cardiopulmonar-]{+RCP+} depende da rapidez com que se ativa a [-nova -]cadeia de sobrevida[- (Figura 1)-], [-qu-]{+no ambient+}e [-c-]{+h+}o[-n-]s{+p+}i[-s-]t[-e-]{+alar+} [-em-]{+ou+} {+for+}a[-c-]{+ d+}e{+le.+}
+
+{+A+}s[-so-] [-rápid-]{+n+}o[- -]{+v+}a[-o si-]s[-tema-] d{+iretriz+}e{+s+} {+r+}e{+co+}me[-rgê-]n[-ci-]{+d+}a[-,-]{+m o+} [-ress-]us[-citaçã-]o {+de +}ca[-r-]d{+e+}i[-opulmon-]a[-r,-]{+s+} de{+ +}s[-fibrilaçã-]o[- p-]{+b+}re{+vivên+}c[-oce,-]{+ia+} {+di+}s[-upor-]t[-e ava-]{+i+}n[-ç-]{+t+}a[-do-]{+s+} [-d-]{+qu+}e [-v-]id{+entifiquem +}a{+s+} [-e-]{+di+}f{+erentes v+}i[-c-]a[-z-]{+s+} {+d+}e cuida{+-do +}dos p[-ó-]{+aciente+}s[---]{+ que sofrem uma +}PCR{+ no hospital daqueles acometidos no ambiente extra-hospitalar (Figura 1), uma vez que os fatores envolvidos no atendimento desses pacientes até a admissão na UTI são muito diferentes para os 2 ambientes. No extra-hospitalar, os pacientes dependem da assistência da comunidade, ao passo que, na PCR intra-hospitalar, os pacientes dependem de um sistema de vigilância adequado e da interação harmoniosa de vários departamentos e setores da institui-ção+}.
+
+
+
+[- -]
+[-Figura 1 - Cadeia da sobrevida-]
+
+
+
+
+[-E-]{+ +}
+{+Figura 1 - Cadeias de sobrevivência para o atendimento de parada cardiorrespiratória intra-hospitalar (superior) e extra-hospitalar (inferior) +}
+{+Fonte: +}m{+odificado de+} 201{+5 - American Heart Association Guidelines - Highlights.  +}
+
+{+Em 2+}0{+15+}, foi publicado o novo consenso da American Heart Association, que {+reforçou algumas recomen+}d{+ações já +}e{+xis+}te[-r-]{+n-tes e promoveu algumas mudanças, descritas a seguir:+}
+{+O algoritmo de suporte básico de vida no adulto foi modificado de modo a refletir o fato de que os socorristas podem aci-onar o serviço médico de emergência (utilizando o telefone celular, por exemplo) se+}m{+ sa+}i[-n-]{+r d+}o[-u-] [-a-]l[-gum-]a[-s-]{+do+} [-mu-]da[-nças-] [-significa-]{+ví+}ti[-v-]{+ma;+}
+{+Par+}a{+ o+}s[-,-] [-de-]s{+o+}c{+or+}ri{+s+}tas [-a s-]{+l+}e[-gu-]i[-r:-]
+[-A-]{+gos, a+} reanimação cardiopulmonar (RCP) deve ser iniciada imediatamente se a vítima não responde e não respira[-.-]{+,+} [-A-]{+sem+} {+cheg+}a{+r o pulso. De+}v{+em re+}ali{+zar somente compressões torácicas, sem ventil+}ação{+, que+} d[-o-]{+evem+} [-p-]{+ser conti-n+}u[-l-]{+ada+}s{+ até a chegada d+}o [-nã-]{+serviç+}o {+m+}é{+dico de+} {+e+}m[-a-]{+ergênc+}i{+a;  +}
+{+A +}s{+equência+} recomendada[-;-] {+par+}a [-RCP-]{+um+} [-deve-]{+único+} s[-e-]{+oco+}r{+rista+} {+tre+}in{+ado fo+}i{+ +}c{+onf+}i{+rm+}ada{+:+} i[-mediatame-]n[-te -]{+i+}c[-om-]{+iar+} as compressões torácicas[-, em vez da-] a[-ber-]{+n+}t[-ura-]{+es+} das v{+ent+}i{+l+}a{+çõe+}s [-aé-]{+de +}re[-a-]s{+gate+}, {+p+}a[-lém d-]{+r+}a re[-sp-]{+duz+}ir[-açã-]{+ +}o {+tempo p+}ar[-tifici-]a[-l;-] [-todos-]{+a 1ª+} {+c+}o{+mpre+}s[- -]s{+ã+}o{+ (sequên+}c[-orr-]i[-st-]a[-s-]{+ C–A–B+}, [-tre-]in{+ici+}a{+n+}do{+-+}s[- ou não, dev-]e[-m-] [-forne-]c[-er-]{+om+} [-as-]{+30+} com[---]pressões {+para, somente en+}t{+ã+}o{+, ab+}r[-ác-]i[-cas-]{+r+} [-à-]{+a+}s v[-ít-]i[-m-]as [-de p-]a{+é+}r{+e+}a[-da-]{+s e+} {+apli+}car[-díac-]{+ 2 ventil+}a{+ções)+};[- -]
+A ênfase no fornecimento de compressões torácicas de alta qualidade continua a ser essencial: os socorristas devem comprimir o tórax sobre uma superfície rígida, determinando depressão de 5{+ a 6+}cm no esterno, à frequência [-mínima -]de 100 {+a 120 +}compressões por minuto, permitindo o retorno do tórax à posição de repouso{+ após cada compressão+};
+Os resgatistas treinados devem fornecer ventilação assistida na relação de 2 ventilações intercaladas com 30 compressões torácicas;
+Para os socorristas leigos, o serviço de emergência deve fornecer apenas instruções de compressões torácicas quando o auxílio é telefônico. 
+
+
+{+Importante+}
+{+As novas diretrizes recomendam o uso de cadeias de sobrevivência distintas que identifiquem as diferentes vias de cuida-do dos pacientes que sofrem uma PCR no hospital daqueles acometidos no ambiente extra-hospitalar, uma vez que os fatores envolvidos no atendimento desses pacientes até a admissão na UTI são muito diferentes para os 2 ambientes.+}
+
+2. Manobras de suporte básico de vida
+
+O suporte básico de vida visa ao reconhecimento e ao atendimento de situações de emergência, como obstrução aguda de via aérea, infarto agudo do miocárdio, acidente vascular cerebral e PCR. A abordagem inicial por meio dessas manobras visa instituir as condições mínimas necessárias para manutenção ou recuperação da oxigenação e perfusão cerebral, já que é a viabilidade neurológica que define, em grande parte, o prognóstico da vítima de PCR. Disso depende o respeito às priorida-des da abordagem inicial: ABC (Airway/Breathing/Cardiovascular).
+
+A seguir, enumeram-se e discutem-se os passos que constituem o suporte básico de vida.
+
+A - Avaliar o nível de consciência (responsividade) 
+A vítima de um evento agudo precisa ser abordada rapidamente. A checagem do nível de consciência fornece, em pouco tempo, informações valiosas. Se o paciente responde ao chamado, mesmo que a resposta seja incompreensível, isso demons-tra fluxo sanguíneo cerebral suficiente para manter alguma atividade do Sistema Nervoso Central (SNC), ou seja, a situação se afasta da condição de PCR (Figura 2). 
+A checagem do nível de consciência deve ser feita por meio do chamado verbal e do contato físico com a vítima. Se não há resposta, assume-se que a função do SNC está prejudicada, por exemplo, por hipóxia (como na parada respiratória) ou baixo fluxo sanguíneo cerebral (como no choque hipovolêmico). A ausência de resposta da vítima demonstra maior probabi-lidade de condição crítica{+,+} como a PCR. 
+
+ 
+Figura 2 - Checagem do nível de consciência da vítima
+
+[-Em quaisquer das 2 condições (consciente ou inconsciente), o passo seguinte deve ser o desencadeamento do sistema de emergência, chamando por ajuda e pelo Desfibrilador Externo Automático (DEA). Essa orientação não é válida para atendi-mento de afogados e vítimas de obstrução testemunhada da via aérea, em que o resgatista deve aplicar 2 minutos de RCP antes de acionar o serviço de emergência (recomendação IIb).-]
+
+B - [-Cham-]{+Verific+}ar [-po-]r[- ajuda, pedindo o d-]es[-f-]{+p+}i[-b-]r[-il-]a[-d-]{+çã+}o[-r-] [-automá-]{+efe+}ti[-co-]
+[-O-]{+va+}
+{+Na+} [-ch-]a[-m-]{+v+}a[-d-]{+liaçã+}o d[-e emergênci-]a [-con-]{+re+}s[-titui -]p{+ir+}a[-ss-]{+çã+}o [-c-]r[-u-]{+e+}c[-ial n-]o{+mendada+} a{+n+}te[-nd-]{+r+}i{+or+}ment[-o-]{+e+}, [-pois não s-]e{+ra+} [-po-]de[- -]d[-ef-]i[-nir -]{+ca+}d{+o t+}e{+mpo+} [-i-]m[-ed-]{+u+}i[-a-]to {+long+}o[- que-] a{+o pro+}c{+ess+}o[-nt-]{+ d+}e[-c-]{+ ab+}e{+rt+}u{+ra+} [-com -]{+d+}a{+s+} v[-ít-]i[-m-]{+-+}a[-. O-]{+s+} {+aér+}e[-vento-]{+as+} [-pod-]e [-ter-]{+à+} [-s-]{+aval+}i[-d-]{+açã+}o d{+a pr+}esen[-c-]{+ç+}a{+ +}de[-ado-] [-por uma s-]{+vent+}i[-mp-]l{+ação +}es[- hi-]po[-glic-]{+ntân+}e[-mi-]a [-até-]{+(ver,+} {+o+}u[-ma-]{+vir,+} s[-i-]{+en+}t[-uaçã-]{+ir), +}o [-d-]{+qu+}e [-ext-]re[-m-]{+t+}a[- g-]r{+d+}av[-id-]a[-de,-] [-c-]o[-m-]{+ iníci+}o {+d+}a [-PC-]R{+CP+}. [-Nessa-]{+A+} [-situ-]{+reco-mend+}ação[-,-] [-o s-]{+at+}u[-p-]{+al +}or{+ien+}t{+a qu+}e{+,+} [-bási-]co[- de v-]{+ncom+}i[-d-]{+t+}a[- é fu-]n[-da-]{+te+}ment[-al-]{+e à+} [-p-]a[-r-]{+v+}a[- m-]{+li+}a{+ção do +}n[-t-]{+ív+}e[-r-]{+l+} [-as-]{+de+} con[-diçõe-]s[- mí-]{+ciê+}n{+c+}i[-m-]a[-s-]{+,+} de{+ve+} [-p-]{+s+}er[-fusão-] {+r+}e{+alizada+} [-ox-]{+aval+}i[-ge-n-]ação [-tec-]{+ráp+}id[-ual cerebr-]a[-is-] e [-mi-]o[-cárd-]{+bjet+}i[-c-]{+v+}a[-s.-] [-No-]{+da+} {+r+}e[-nt-]{+spir+}a[-nt-]{+çã+}o, [-a-]{+por+} me[-d-]i[-da-]{+o+} {+a+}p[-ri-]{+e+}n[-cip-]a[-l-]{+s+} [-qu-]{+d+}e [-permit-]{+obs+}e[- a -]r[-e-]v[-ers-]{+aç+}ão d{+iret+}a [-PCR é -]{+d+}o {+p+}ac{+i+}e[-sso-]{+nte,+} [-rá-]p[-ido -]a[-o-]{+ra+} de[-s-]fi[-b-]{+ni+}r{+ a ausênc+}i[-l-]a{+ +}d[-or-]{+e+} {+movim+}e[-lé-]{+n+}t[-ric-]o{+s+} [-(F-]{+resp+}i[-gu-]ra[- 3)-]{+tó-rios+}.[- -]
+
+{+Dica+}
+{+A presença de gasping não caracteriza ventilação espontânea e deve ser interpretada como ritmo respiratório indicativo de parada cardiorrespiratória. +}
+
+{+C - Chamar por ajuda, pedindo o desfibrilador automático+}
+{+O chamado de emergência constitui passo crucial no atendimento, pois não se pode definir de imediato o que aconteceu com a vítima. O evento pode ter sido desencadeado por uma simples hipoglicemia até uma situação de extrema gravidade, como a PCR. Nessa situação, o suporte básico de vida é fundamental para manter as condições mínimas de perfusão e oxige-nação tecidual cerebrais e miocárdicas. No entanto, a medida principal que permite a reversão da PCR é o acesso rápido ao desfibrilador elétrico (Figura 3). +}
+ 
+Figura 3 - Chamado de emergência e pedido de desfibrilador
+
+O DEA é um aparelho eletrônico portátil que desencadeia um choque elétrico com corrente contínua sobre o tórax da ví-tima, organizando o ritmo elétrico do coração, quando necessário. Tal aparelho deve estar facilmente disponível nos ambien-tes de alto risco de evento cardiovascular, como áreas hospitalares, aeroportos ou áreas de grande aglomeração de pessoas, pois o tempo de chegada até o paciente determina a sua sobrevida. 
+A necessidade do chamado precoce de ajuda e do desfibrilador justifica-se pelo fato de que cerca de 80% dos eventos de PCR extra-hospitalares são desencadeados por 2 formas de arritmias letais: a Fibrilação Ventricular (FV) e a Taquicardia Ven-tricular (TV). Tais ritmos estão presentes no início da maioria dos casos e apresentam bom índice de resposta à desfibrilação quando tratados em tempo hábil. No entanto, evoluem rapidamente para assistolia ou tornam-se progressivamente refratá-rios ao choque se tratados tardiamente.
+
+[-C-]{+D+} - Posicionar a vítima para o resgate
+A posição correta durante o atendimento é o decúbito dorsal horizontal sobre superfície rígida, em virtude da possibilida-de de massagem cardíaca. Durante o posicionamento, deve-se lembrar da necessidade de manter a coluna cervical sempre alinhada com o restante do tronco durante a mobilização. A suspeita da lesão cervical deve ser sempre lembrada quando a perda de consciência da vítima não foi presenciada ou quando a há trauma de crânio ou cervical durante a queda.
+
+[-D-]{+E+} - Posicionar-se em relação à vítima
+O posicionamento correto do resgatista é colocar-se à linha dos ombros do paciente, não importando o lado (direito ou esquerdo). Essa posição permite acesso rápido ao seg[-ui-]mento cefálico (via aérea) e ao tronco do indivíduo (massagem cardía-ca). Em caso de 2 socorristas, ambos devem posicionar-se, um de cada lado, à linha dos ombros.[-E - -]
+A[-brir-] a[-s -]v{+al+}ia{+ção do pul+}s{+o não+} [-a-]é[-re-]{+ m+}a{+i+}s {+r+}e[- -]{+comend+}a[-v-]{+d+}a[-li-]{+ p+}ar{+a+} [-s-]{+l+}e{+igos,+} {+bastand+}o [-p-]a[-ci-]{+ d+}e{+fi+}n[-t-]{+ição d+}e {+pe+}r{+da d+}e{+ con+}s[-p-]{+ciênc+}i[-ra-]
+[-N-]a {+e +}a[-val-]{+usênc+}ia[-ção-] d[-a-]{+e+} respiração {+pa+}r[-ecomend-]a{+ +}d[-a-]{+efinir+} a[-n-]{+ si+}t{+uação d+}e[-ri-]{+ PCR n+}o[-r-]{+ a+}m{+bi+}ente[-,-] e{+xt+}ra[- dedicad-]{+-h+}o[- tem-]{+s+}p[-o mu-]it[-o -]{+a+}l[-ongo-]{+ar.+} {+Par+}a[-o-] pro[-ce-]{+fi+}ss{+i+}o{+nais+} de {+s+}a[-b-]{+úd+}e[-rtura-]{+,+} [-d-]a[-s-] [-v-]{+pesqu+}i[--a-]s[- aére-]a[-s-] {+d+}e {+pulso ain+}da {+é obrig+}a[-val-]{+tór+}ia[-çã-]{+ p+}o{+r+} [-d-]a{+té+} [-presença de ventilação espontânea (ver, ouvir,-]{+10+} se[-ntir), o q-]{+g+}u[-e retardava o i-]n[-ício -]d[-a RCP. A reco-mendação atual -]o[-rienta que, após a abertura da-]s{+.+} [-vias aéreas, deve ser realizada avaliação rápida e objetiva, por m-]{+D+}e{+f+}i[-o ape-]n[-as de observação d-]i[-reta -]d[-o p-]a[-ciente, para definir-] a ausência{+,+} de[- mo-]v[-im-]e[-nto-]{+-+}s[- r-]e[-spiratórios-] [-(F-]i[-gura 4). A prese-]n[-ça de gasp-]i[-ng não -]c[-aracteriza vent-]i[-l-]a[-ção espontânea e deve se-]r [-interpretad-]a [-como-]{+RCP+} [-r-]i[-t-]m[-o r-]e[-sp-]{+d+}i[-r-]at[-ório indic-]a{+men+}t[-ivo d-]e[- PCR-].[- -]
+
+ 
+Figura 4 - Avaliação das vias aéreas
+
+[-A avaliação do pulso não é mais recomendada para leigos, bastando a definição de perda de consciência e ausência de respiração para definir a situação de PCR no ambiente extra-hospitalar. Para profissionais de saúde, a pesquisa de pulso ainda é obrigatória por até 10 segundos. Definida a ausência, deve-se iniciar a RCP imediatamente.-]F - Iniciar a reanimação cardiopulmonar (C[---]{+–+}A[---]{+–+}B)
+[-Na-]{+A+}s novas recomendações[-,-] [-indica-s-]{+r+}e{+forçam+} que a massagem cardíaca seja iniciada antes das ventilaçõe[-s, após o reconhecimento da PCR (C-A-B, em vez de A-B-C-]{+s+}, [-como er-]a{+pós+} o{+ +}r{+econhec+}i{+m+}ent[-ad-]o{+ da PCR (C-A-B+}).
+Definida a PCR (paciente apneico e inconsciente), são iniciadas imediatamente as manobras de RCP, por meio das com-pressões torácicas alternadas com as ventilações assistidas: aplica-se a sequência de 30 compressões torácicas para 2 ventila-ções assistidas, iniciando-se com as compressões. Após a compressão, deve-se permitir o retorno do tórax à posição normal. As compressões só devem ser interrompidas na chegada do DEA, da equipe de suporte avançado, ou quando são detectados movimentos espontâneos da vítima{+ (sinais de vida)+}. Para o leigo, quando não habilitado, orienta-se aplicar apenas as compres{+-+}sões torácicas, não sendo necessárias as ventilações assistidas. Para os profissionais d[-a-]{+e+} saúde, a aplicação da ventilação assis{+-+}tida ainda é [-n-]{+r+}e[---]c{+om+}e[-ssári-]{+ndad+}a. Quando a aplicação da abertura da via aérea ou da ventilação assistida não é possível, devem-se aplicar somente as compressões torácicas. 
+A localização correta do ponto de compressão torácica é muito importante para a boa eficiência da massagem cardíaca. O ponto de compressão torácica localiza-se na metade inferior do esterno (o centro do tórax – Figura 5). Nesse ponto, coloca-se a região hipotênar da mão do braço mais forte, que servirá de base para a compressão cardíaca. A outra mão deve ser colocada paralelamente sobre a primeira, mantendo os cotovelos estendidos. A compressão deve ser aplicada de forma rápi-da e forte, causando depressão de 5{+ a 6+}cm no tórax, formando um ângulo de 90° com o plano horizontal (Figura 6).
+A frequência de compressões torácicas deve {+ser +}mant{+ida d+}e[-r-] {+100 a 120 p+}o{+r+} {+minut+}o[-bj-]{+, e deve-se p+}e{+rmi+}ti[-v-]{+r +}o [-d-]{+r+}e[-, a-]{+torn+}o {+co+}m{+pl+}e[-n-]{+-to do tórax à p+}os[-,-]{+ição+} [-100-]{+inicial após cada+} compress[-õe-]{+ão. Logo, o+}s {+s+}o[-u-]{+corristas+} {+deve+}m{+ evitar +}a{+po+}i{+ar-+}s{+e+} [-p-]{+n+}o{+ tó+}r{+ax+} [-m-]{+do pac+}i{+ente e+}n[-u-]t{+re as c+}o{+mpressões+}.
+
+ 
+Figura 5 - Localização do ponto de compressão torácica
+@@ -63,126 +89,174 @@ Figura 5 - Localiza
+ 
+Figura 6 - Posicionamento correto e lado da vítima para início das compressões cardíacas
+
+{+Importante+}
+{+As novas diretrizes reforçam a ênfase permanente na RCP de qualidade: comprimir o tórax com frequência e profundidades adequadas, permitir o retorno completo do tórax após cada compressão, evitar hiperventilação e minimizar as interrupções nas compressões torácicas.+}
+
+G - Realizar a desfibrilação elétrica, se indicada
+[-Sabe-se que o ritmo mais frequente presente nos primeiros minutos da PCR extra-hospitalar é a FV. Quanto mais precoce a desfibrilação, melhores os resultados na sobrevida. Estudos demonstram que a desfibrilação precoce, quando empregada nos 3 a 4 primeiros minutos da PCR, determina a reversão do evento em até 75% dos casos. Portanto, a colocação das pás do desfibrilador sobre a vítima deve ser realizada assim que o aparelho está disponível, interrompendo as manobras de RCP para identificar o ritmo elétrico da PCR. -]
+[-O desfibrilador automático/semiautomático (Figura 7) possui um programa que lhe permite identificar e reconhecer os ritmos de FV e TV, indicando, então, o choque. Se o ritmo presente não for uma TV ou FV, o aparelho não indicará o choque, cabendo ao resgatista manter a massagem cardíaca e as ventilações até a chegada do suporte avançado, mantendo ciclos de 2 ventilações e 30 compressões torácicas, até que o DEA indique a necessidade de checar pulso.-]
+
+{+Importante+}
+{+Quanto mais precoce a desfibrilação, melhores os resultados na sobrevida. Para cada minuto de retardo do procedimento, a probabilidade de sobrevida de uma vítima de PCR em fibrilação ventricular/taquicardia ventricular sem pulso cai de 7 a 10%.+}
+
+{+Sabe-se que o ritmo mais frequente presente nos primeiros minutos da PCR extra-hospitalar é a FV. Estudos demonstram que a desfibrilação precoce, quando empregada nos 3 a 4 primeiros minutos da PCR, determina a reversão do evento em até 75% dos casos. Portanto, a colocação das pás do desfibrilador sobre a vítima deve ser realizada assim que o aparelho estiver disponível, interrompendo as manobras de RCP para identificar o ritmo elétrico da PCR. +}
+{+O desfibrilador automático/semiautomático (Figura 7) possui um programa que lhe permite identificar e reconhecer os ritmos de FV e TV, indicando, então, o choque. Se o ritmo presente não for uma TV ou FV, o aparelho não indicará o choque, cabendo ao resgatista manter a massagem cardíaca e as ventilações até a chegada do suporte avançado, mantendo ciclos de 2 ventilações e 30 compressões torácicas, até que o DEA indique a necessidade de checar pulso.+}
+{+Na PCR presenciada e com um desfibrilador externo automático prontamente disponível, este deve ser utilizado o mais rapidamente possível. Já nos adultos com tempo de PCR indeterminado ou quando o desfibrilador não estiver prontamente disponível, a RCP deve ser realizada até que se obtenha o aparelho. Uma vez aplicado e pronto para uso, a desfibrilação de+}v{+e ser tentada, caso exista indicação.  +}
+ 
+Figura 7 - D[-EA-]{+esfibrilador externo automático+}
+
+Quando indicado, o choque inicial é de 360J (monofásico) ou de 150 a 200J (na energia equivalente nos aparelhos bifási-cos). O choque bifásico é preferível em relação ao monofásico para a reversão da PCR em FV. No momento do choque, o socorrista deve certificar-se de que ninguém está em contato com a vítima. 
+[-Em vítimas atendidas após 4 a 5 minutos do evento e que não receberam suporte básico de vida e apresentam FV ou TV sem pulso, é aceitável a aplicação de 2 minutos de RCP antes da aplicação da desfibrilação.-]Imediatamente, após o choque, retoma-se a RCP por 2 minutos, quando o aparelho reavalia a necessidade de novo cho-que. Se indicado, é aplicado na mesma energia empregada, seguido de mais 2 minutos de RCP{+,+} e assim por diante, até que o sistema de emergência se encarregue do atendimento ou ocorra mudança do ritmo. Quando esta ocorre, o aparelho não indica o choque, quando se deve checar o pulso. Em caso de pulso presente, há reversão da PCR, e {+se +}deve[--se-] manter suporte ventilatório até a chegada do sistema de emergência, checando o pulso a cada 2 minutos; se ausente, as manobras de RCP devem ser mantidas por mais 2 minutos até uma nova checagem de ritmo pelo desfibrilador.
+A PCR pode ser descrita em 3 fases distintas:
+1 - Elétrica: é o início da PCR, quando a reversão da desorganização elétrica determina o Retorno da Circulação Espontâ-nea (RCE) e não houve, ainda, grande comprometimento metabólico miocárdico e sistêmico. Tal fase se estende até o 4º ou 5º minuto da PCR. A desfibrilação é o tratamento prioritário.
+2 - Hemodinâmica: já ocorre comprometimento metabólico intenso do miocárdio, que se apresenta debilitado em manter a atividade elétrica inicial da PCR (FV ou TV). Quando a desfibrilação é feita nessa fase sem a aplicação prévia de RCP para reperfusão miocárdica, há maior incidência de reversão do ritmo inicial para ritmo elétrico não associado a pulso central (atividade elétrica sem pulso ou assistolia). Para aumentar a chance de sucesso do choque nesse momento, recomenda-se a aplicação de RCP por 2 minutos antes da desfibrilação nas vítimas que não receberam RCP até o 5º minuto da PCR. Trata-se de uma tentativa de melhorar a resposta do miocárdio não perfundido ao choque (recomendação IIb). Às vítimas que receberam RCP antes do 5º minuto da PCR[-,-] a desfibrilação imediata é indicada assim que a FV/TV sem pulso é identificada.
+3 - Metabólica: é a fase de evolução final do sofrimento celular, em que a viabilidade miocárdica é terminal. Predomina a acidose metabólica láctica.
+Com a aplicação do suporte básico de vida, pode-se retardar o tempo de instalação e evolução dessas fases.
+
+ 
+Figura 8 - Suporte básico de vida para adultos	
+
+{+Vídeo+}
+{+Manobras de suporte básico de vida extra-hospitalar+}
+{+ +}
+
+{+Vídeo+}
+{+Manobras de suporte básico de vida intra-hospitalar+}
+{+ +}
+
+
+{+Importante+}
+{+O suporte básico de vida envolve: A - Avaliar o nível de consciência (responsividade) e a respiração; B - Chamar por ajuda, pedindo o desfibrilador automático; C - Posicionar a vítima para o resgate; D - Posicionar-se em relação à vítima; E - Iniciar a reanimação cardiopulmonar (C-A-B); F - Realizar a desfibrilação elétrica, se indicada.+}
+
+3. Manobras de suporte avançado de vida
+
+[-Deve-se esclarece-]{+Impo+}r[- qu-]{+tant+}e
+[-, p-]{+P+}or mais avançados que sejam os recursos disponíveis para o atendimento da [-PCR-]{+parada cardiorrespiratória+}, o suporte bá[---]sico de vida é fundamental à manutenção da perfusão e da{+s+} oxigenaç[-ão-]{+ões+} cerebral e coronariana.
+
+O suporte avançado de vida implica a presença de profissional habilitado para a realização de procedimentos de risco, como a abordagem invasiva de via aérea, a aplicação de desfibrilação e o uso de medicações. Em nosso meio, tais procedi-mentos só podem ser realizados por médico habilitado. 
+No suporte avançado, a identificação do ritmo cardíaco é feita pelas pás do monitor cardíaco, com o objetivo de poupar tempo durante o atendimento, permitindo a rápida desfibrilação, caso seja indicada. Por meio da identificação do ritmo cardí-aco pelas pás, pode-se dividir a PCR em 2 modalidades: ritmo de FV/TV sem pulso (ritmo que merece choque imediato) ou [-em -]ritmo de assistolia/atividade elétrica sem pulso (ritmo que não merece ser chocado).
+
+A - PCR em FV/TV sem pulso
+As formas mais frequentes de atividades elétricas iniciais na PCR extra-hospitalar são a FV (Figura 9) e a TV sem pulso (Fi-gura 10), em cerca de 80% dos casos. São as formas de melhor prognóstico para reversão, desde que tratadas adequadamen-te e em tempo hábil.
+
+ 
+Figura 9 - F[-V-]{+ibrilação ventricular+}
+
+ 
+Figura 10 - T[-V-]{+aquicardia ventricular+} sem pulso
+
+A FV caracteriza-se por uma atividade elétrica caótica e desorganizada do coração, com ritmo incapaz de gerar contração cardíaca eficiente, daí a ausência de pulso central nesse ritmo elétrico. A TV difere da FV por tratar-se de ritmo elétrico orga-nizado, caracterizado por complexos QRS alargados (=0,12ms), idênticos entre si, com frequência elevada e sem ondas P identificáveis ao traçado. Tal ritmo pode ou não gerar contração miocárdica efetiva (pulso). Na ausência de pulso, a TV deve ser tratada como FV.
+Identificada a FV/TV sem pulso, o tratamento inicial depende do tempo do início do evento até a identificação desse ritmo. Quando o paciente é atendido rapidamente e a FV/TV sem pulso é identificada até o 4º ou 5º minuto da PCR, a medida imedi-ata é a desfibrilação elétrica com choque único de 360J monofásico ou em energia equivalente de choque bifásico (geral-mente, entre 150 e 200J, recomendando-se energia máxima do equipamento). Quando o mesmo ritmo é identificado após o 5º minuto de PCR, 2 minutos de RCP podem ser aplicados inicialmente para, posteriormente, aplicar a desfibrilação. Isso por-que é grande a chance de evolução da FV/TV sem pulso para assistolia ou atividade elétrica sem pulso, e esse risco é significa-tivamente reduzido quando se aplica um período de RCP prévio ao choque, aumentando a chance de reversão da FV/TV sem pulso para ritmo organizado com pulso. Imediatamente após o choque, mais 2 minutos de RCP devem ser aplicados. Após tal período, avalia-se novamente o ritmo, aplicando-se o choque se necessário e assim por diante.
+A segurança durante a desfibrilação é de responsabilidade de quem manipula o aparelho. Durante a administração dos choques, alguns cuidados devem ser adotados, como o correto posicionamento das pás, a aplicação de força sobre elas e a utilização de gel condutor. Tais medidas contribuem para maior taxa de sucesso na desfibrilação (Figura 11).
+{+ +}
+ 
+Figura 11 - (A) Posicionamento correto das pás: a corrente percorre maior massa de miocárdio possível; e (B) posição errada: corte transversal
+
+No suporte avançado de vida da FV/TV sem pulso, a checagem do pulso central deve ser feita apenas quando há mudança do ritmo visando reduzir ao máximo as interrupções da RCP.
+Caso persista a FV/TV sem pulso após o 1º choque, são necessárias medidas de suporte avançado, como drogas que me-lhorem a condição hemodinâmica da PCR e medidas de auxílio no tratamento da PCR. Neste momento, são necessárias a insta-lação de um acesso venoso periférico (IV) ou intraósseo (IO)[-,-]{+ e+} a {+monitorização cardíaca por meio de eletrodos. A +}colocação de via aérea definitiva para melhor oxigenação (O2){+,+} {+ap+}e[- -]{+s+}a{+r de não+} {+ser i+}m{+periosa, deve ser c+}on{+s+}i[-to-]{+de+}r{+ada nas segu+}i[-z-]{+ntes situ+}a{+-+}ç[-ão-]{+ões:+} {+incapa+}c{+idade de ventil+}ar{+ adequa+}d[-í-]a{+mente +}c{+om +}a [-p-]{+b+}o{+lsa–valva–másca+}r{+a,+} {+víti+}m{+as d+}e{+ PCR por hipóx+}i{+a e p+}o{+ssibilidade+} de e[-l-]{+mpr+}e[-t-]{+go de capnog+}r{+afia quantitativa com f+}o{+rma +}d{+e +}o[-s-]{+nda+}. Ou seja, após o 1º choque, mantida a PCR, deve-se proceder à aplicação de Monitor, Oxigênio e acesso Venoso (MOV – Figura 12). 
+
+ 
+Figura 12 - Aplicação d{+e monit+}o{+r,+} [-MOV-]{+oxigênio e acesso venoso+} na vítima 
+
+[-Apó-]{+Ca+}s{+o o+} a{+cesso venoso+} [-i-]n[-tubaç-]ão[-,-] {+esteja dis+}p[-r-]o[-c-]{+nív+}e{+l, +}de{+ve+}-se [-à chec-]a[-ge-]{+d+}m[- pr-]i[-már-]{+n+}i{+str+}a{+r+} [-d-]a [-vi-]{+drog+}a [-aér-]{+des+}e{+jad+}a por meio da {+vi+}a[-usculta-] {+IO, s+}e[-pi-]g[-ástr-]{+u+}i[-c-]{+d+}a {+d+}e [-pulmonar (b-]a[-s-]{+c+}es{+so+} {+v+}e{+noso+} [-ápi--]ce[-s); -]{+ntr+}a{+l,+} [-chec-]{+n+}a[-gem-] {+impos+}s[-ecundár-]i{+bilid+}a[- -]de[-ve-] [-s-]{+d+}e[-r-]{+sta ou,+} [-r-]e[-a-]{+m ú+}l{+t+}i[-zad-]{+m+}a [-por me-]i[-o-]{+nstância,+} d[-e-]{+a cânula+} {+traqu+}e{+al. En+}qu[-ip-]a[-me-]nto[-s-] [-d-]{+qualqu+}e{+r+} [-c-]o[-nfi-]{+ut+}r[-maçã-]o [-(dete-]{+a+}c[-tor de CO2, capnógrafo ou detector -]es{+s+}o[-fágico), com-] p{+a+}r[-eferênci-]a a[-o-] [-c-]ap[-nógrafo. C-]{+lic+}a[-so -]{+çã+}o [-ac-]{+d+}e[-sso-] [-ven-]{+dr+}o{+ga+}s[-o-] não est{+iv+}e[-ja-]{+r+} disponível, {+a cânula traqueal +}deve[---]{+ +}se{+r+} [-adm-]{+ut+}i[-n-]{+l+}i[-str-]{+z+}a[-r -]{+d+}a{+.+}
+{+As+} droga[- de-]s{+ qu+}e[-jada-] po[-r -]{+de+}m{+ s+}e[-io-]{+r+} {+utiliza+}da{+s+} via [-IO ou da -]cânula traqueal s[-em dem-]{+ã+}o[-ra.-]{+:+} [-Recen-]{+A+}t[-eme-]{+ropi+}n[-te-]{+a+}, [-ess-]{+N+}a[- vi-]{+loxon+}a [-f-]{+(antag+}o{+n+}i{+sta+} {+o+}p[-adr-]{+i+}o[-n-]i[-za-]d[-a-]{+e),+} {+E+}p[-a-]{+inef+}r[-a uso -]{+i+}na [-PCR -]e[-m-] [-a-]{+Li+}d[-ult-]o[-s, podendo ser utiliz-]{+c+}a[-d-]{+-ín+}a [-p-]{+(ANEL). P+}ara [-inf-]{+q+}u[-são-]{+e+} [-d-]{+t+}a{+i+}s drogas[-.-] [-N-]a[- i-]{+d+}m[-possib-]i[-l-]{+n+}i[-d-]{+str+}ad[-e -]a[-b-]s{+ p+}o[-luta-]{+r+} [-d-]{+m+}e{+io+} [-est-]{+d+}a[-belecer-] {+cân+}u[-m -]{+l+}a[-cesso-] [-v-]{+t+}en{+ham +}o{+ me+}s{+m+}o [-p-]e[-ri-]f[-é-r-]{+e+}i[-co -]{+t+}o[-u-] da [-vi-]{+drog+}a I[-O-]{+V,+} [-para-]{+é+} [-a-]{+necessário+} adminis{+-+}tra[-ção-]{+r+} d{+e 2 +}a{+ 2,5 veze+}s {+a +}d[-r-]o[-ga-]s[-,-]{+e+} [-é-]{+IV+} [-a-]{+(ex+}ce[-i-]t[-á-]{+o a +}v{+asopr+}e[-l-]{+ssina,+} [-co-]{+ap+}l[-o-]{+i+}ca[-r um-]{+da+} [-c-]{+n+}a[-teter-] {+m+}e{+s+}m{+a+} [-p-]{+d+}os[-ição c-]e[-ntral-]{+)+}. [-Enquanto qu-]{+P+}a[-lque-]r{+a+} {+melh+}o[-ut-]r[-o-]{+ar+} a[-cesso-] [-p-]a{+bso+}r[-a a aplica-]ção d[-e-]{+a+} droga[-s-]{+,+} [-não-]{+a+} [-e-]{+do+}s[-tá-]{+e+} [-d-]{+v+}i[-spo-]{+a câ+}n[-íve-]{+u+}l[-,-]{+a+} deve ser {+seg+}u[-t-]i[-liza-]da [-a-]{+de+} [-cân-]u[-la-]{+m+} [-traquea-]{+bo+}l{+us+} [-para-]{+de+} [-a-]{+10mL+} [-a-]d[-mini-]{+e +}s[-t-]{+o+}r[-açã-]o [-da-]{+fi+}s[- dr-]{+i+}o[-gas.-]
+[-A-]l{+ó+}g[-umas-]{+ico+} [-dr-]{+0,9%. N+}o[-g-]{+ ent+}a[-s-]{+nto,+} [-p-]{+c+}o[-de-]m [-ser-]{+a+} [-ut-]{+possib+}ili[-za-]da{+de do u+}s{+o da+} via [-cânula-]{+IO+} [-tr-]{+p+}a[-que-]{+r+}a[-l:-] [-Va-]{+infu+}s{+ã+}o[-pr-]{+ d+}e[-ssina,-] [-At-]{+d+}ro[-pin-]{+g+}a{+s+}, [-N-]a[-lox-]{+ pri+}o[-n-]{+rid+}a{+de+} [-(a-]n[-t-]a[-gon-]{+ +}i[-s-]{+n+}t{+ub+}a{+ção+} {+f+}o[-p-]i[-o-]{+ reduz+}id[-e)-]{+a+}, [-Epi-]n[-efri-na-]{+ão+} {+s+}e[- Li-]{+n+}do{+ in+}c{+orreto ret+}a[-ín-]{+rdá-l+}a [-(VANEL).-]{+no início da+} P{+CR p+}ara [-que-]{+priorizar+} {+ou+}t{+r+}a[-i-]s {+medi+}d{+as te+}r[-og-]{+apêutic+}as{+, como+} a{+ +}d[-mini-]{+e+}s[-t-]{+fib+}r{+il+}a[-d-]{+ção e +}a[-s-] a[-tr-]{+plicação d+}a[-vé-]s d{+rog+}a{+s.+}
+{+O+} [-cân-]u[-la-]{+so+} [-t-]{+d+}e[-nha-]{+ u+}m {+vas+}o[- m-]{+pr+}es[-m-]{+s+}o{+r+} {+durant+}e[-f-]{+ o at+}e{+nd+}i{+men+}to da [-d-]{+pa+}r[-og-]a[- IV,-]{+da+} é necessá[---]rio{+,+} [-admin-]{+po+}is[-trar-] de[- 2 -]{+termin+}a [-2,5 vez-]{+m+}e[-s -]{+lhor+}a do[-se IV-] [-(exc-]{+r+}eto[- a-]{+rno+} v[-a-]{+eno+}so[-pr-]{+ +}e[-ssina,-] {+d+}a{+ +}p[-licada na m-]e{+rfu+}s[-ma d-]{+ã+}o[-se). Para-] [-melh-]{+c+}or{+on+}ar[- -]{+i+}a[- -]{+n+}a[-bsorção-]{+.+} [-da-]{+A+} dro[---]ga[-,-] a [-do-]se{+r+} [-v-]{+adm+}i{+nistrad+}a [-câ-]{+i+}n[-ul-]{+ici+}a[- d-]{+lm+}e[-v-]{+nt+}e [-s-]e[-r-]{+m+} [-seg-]{+q+}u[-id-]a[- d-]{+lqu+}e{+r+} [-u-]m[- b-]o{+da+}l[-us -]{+ida+}de [-10mL -]de [-soro fisiológico-]{+PCR+} [-0,9%.-]{+é+} [-No-]{+a+} e{+pi+}n[-ta-]{+efri+}n[-to-]{+a+}, [-com -]{+n+}a [-p-]{+d+}os[-sibilidad-]e d[-o-]{+e+} [-uso-]{+1mg IV,+} [-d-]a [-vi-]{+cad+}a [-IO-]{+3+} [-par-]a {+5 m+}in[-f-]u[-sã-]{+t+}o{+s.+} [-de-]{+A+} droga{+ +}s[-,-]{+eguinte+} [-a-]{+é+} [-p-]{+um antia+}r{+rítm+}i{+c+}o[-r-]{+, a am+}i{+o+}da[-de -]{+ro+}na{+,+} [-i-]n[-tub-]a[-ção-] [-f-]{+d+}o[-i r-]{+s+}e[-duzida, não sendo incorreto retardá-la no início da PCR para priorizar outras medidas terapêuticas, como a desfibrilação e a aplicação das drogas.-]
+[-O uso de um vasopressor durante o atendimento da parada é necessário, pois determina melhora do retorno venoso e da perfusão coronariana. As drogas a serem administradas inicialmente em qualquer modalidade de PCR são a epinefrina (1mg, a cada 3 a 5 minutos IV, ou na dose equivalente através da cânula endotraqueal – recomendação indeterminada) ou vasopres-sina em uma única dose de 40U. A vasopressina pode ser utilizada em substituição à 1ª ou à 2ª dose da adrenalina ou como droga inicial.-]
+[-A droga seguinte é a amiodarona, na dose de 300mg IV em bolus, podendo ser repetida mais 1 dose de 150mg. A manu-tenção após retorno de ritmo com pulso é -]{+ +}de [-1-]{+300+}mg[-/min por 6-] [-horas-]{+IV+} e[- 0,5mg/-]m[-in-] [-p-]{+b+}o[-r mai-]{+lu+}s{+,+} [-18 h-]{+p+}o[-ras. Em um estu-]d[-o rec-]en[-te, essa -]d[-roga se mostr-]o[-u-] s[-up-]er[-ior à lidocaína na FV/TV-] re[-fra-]{+pe+}t[-ár-]i{+d+}a[-,-] [-e-]m[- -]a[-tend-]i[-mento extra-ho-]s[-pitalar, quanto-] [-à-]{+1+} [-s-]{+d+}o[-br-]{+s+}e[-vida na-] [-a-]d[--missão-]{+e+} [-hospitalar-]{+150mg+}. [-No entanto, a-]{+A+} m[-ortalid-]a[-de i-]n{+u+}t[-ra-hospitalar -]{+e+}n{+ç+}ão [-foi-]{+após+} [-dife-]re[-n-]t[-e -]{+or+}no[-s-] [-2-]{+de+} [-g-]r[-up-]{+itm+}o[-s.-]
+[-A-] {+com pu+}l[-id-]{+s+}o[-caína-] é [-ac-]{+d+}e[-ita-] [-co-]{+1+}m[-o antiarrít-]{+g/+}mi[-c-]{+n, p+}o{+r+} [-na-]{+6+} [-d-]{+h+}o{+ra+}s[-e-]{+,+} [-d-]e [-1 a 1-]{+0+},5mg/[-kg de-]{+min,+} p[-e-]{+or mai+}s{+ 18 h+}o{+ras.+} {+Em um estu+}do [-pa-]{+re+}c[-i-]ente, [-n-]{+ess+}a d{+r+}o[-se máxim-]{+g+}a [-d-]{+s+}e [-3-]m[-g/kg. P-]o[-de-se u-]s[-a-]{+t+}r[- -]o{+u+} su{+perior à +}l{+idocaína na FV/TV re+}f{+r+}at[-o-]{+ária,+} [-d-]e[- -]m{+ +}a[-g-]{+te+}n[-és-]{+d+}i{+ment+}o {+extra-hos+}p{+it+}a[-r-]{+l+}a{+r,+} {+qu+}a{+nto à+} {+sob+}rev[-ersão -]{+i+}da [-arritmi-]{+n+}a [-qu-]a[-n-]d{+missã+}o h[-ip-]o[-magne-]s[-em-]{+p+}i{+t+}a{+lar.+} [-é d-]{+N+}o[-cum-]{+ +}enta[-da -]{+nt+}o[-u-]{+,+} [-n-]a [-t-]{+m+}or[-s-]{+t+}a{+li+}d[-es -]{+a+}de [-po-]int[-es; -]{+ra-ho+}s[-u-]{+pital+}a{+r+} [-d-]{+nã+}o[-se-] [-é-]{+foi+} d{+if+}e[- 1 a 2g IV -]{+rent+}e[-m-] [-b-]{+n+}o[-lu-]s[-.-] [-A-]{+2+} [-p-]{+g+}r{+up+}o[-cainamida não é mai-]s{+.+}
+{+A+} [-uti-]li[-za-]d{+oc+}a[- -]{+í+}na [-PCR -]p[-ara reversã-]o[- -]de [-FV/TV -]se[-m-]{+r+} [-puls-]{+c+}o[-.-]
+[-Qua-]n{+si+}d[-o ocorre a rev-]er[-são da -]a[-rritmi-]{+d+}a[-, em-] [-qu-]{+n+}a[-lquer-] [-m-]{+d+}o[-m-]{+s+}e[-nto-] d[-urant-]e {+1 +}a [-PCR-]{+1+},[- u-]{+5+}m[-a dose-]{+g/kg+} de [-manut-]{+p+}e[-nçã-]{+s+}o do [-último -]{+p+}a{+cie+}nt[-i-]{+e, n+}a[-r-rítmic-]{+ d+}o{+se+} [-util-]{+máx+}i[-z-]{+m+}a{+ +}d[-o-]{+e+} [-p-]{+3mg/kg. P+}ode[- -]{+-+}se{+ usa+}r{+,+} a[-dm-]in[-istra-]da{+,+} [-p-]o[-r 12-] {+sulf+}a{+to+} [-24-]{+de+} [-hor-]{+m+}a{+gné+}s{+io+} para [-evitar -]a re[-cidi-]v[-a-]{+ersão+} da arritmia[-.-] [-C-]{+qu+}a[-so -]n[-ã-]{+d+}o [-ten-]h{+ipom+}a[- -]{+gne+}s{+em+}i[-do -]a{+ é +}d{+ocu+}m[-i-]{+e+}n[-is-]t[-r-]ad[-o-]{+a+} [-nenh-]{+o+}u[-m-] [-a-]n[-ti-]a[-rrítmico,-] [-p-]{+t+}o{+rsa+}de[- -]s{+ d+}e[-r-] [-a-]p[-l-]{+o+}i[-cad-]{+ntes; su+}a dose [-de ataque-]{+é+} de [-lidocaína (-]1 a [-1,5mg/kg), se-]{+2+}g[-uida da infusão da-] [-dose-]{+IV+} [-d-]e[- -]m[-anuten-ção-] [-(Ta-]b[-e-]{+o+}l[-a 1)-]{+us+}.{+ +}
+
+Tabela 1 - Antiarrítmicos usados na [-FV-]{+fibrilação ventricular+}/[-TV-]{+taquicardia ventricular+} sem pulso
+Drogas	Doses de ataque	Doses de manutenção
+Amiodarona	300mg; 2ª dose de 150mg	1mg/min/6h e 0,5mg/min por mais 18 horas
+Lidocaína	1 a 1,5mg/kg; dose máxima de 3mg/kg	2 a 4mg/min
+Sulfato de magnésio*	1 a 2g	1 a 2g/h
+* Em caso de hipomagnesemia.
+
+{+Pergunta+}
+{+2013 - HSPE-SP (Baseada na prova)+}
+{+1. Na fibrilação ventricular, a proporção entre massagem cardíaca e ventilação recomendada é de: +}
+{+a) 30/2+}
+{+b) 30/1+}
+{+c) 15/2+}
+{+d) 05/2+}
+{+e) 05/1+}
+{+Resposta no final do capítulo+}
+
+B - PCR em atividade elétrica sem pulso ou assistolia
+Após a colocação das pás do desfibrilador no tórax da vítima, a identificação de qualquer atividade elétrica diferente das atividades de FV/TV sem pulso caracteriza PCR em ritmo não passível de choque (Atividade Elétrica Sem Pulso – AESP – ou assistolia).
+A AESP caracteriza-se por um ritmo elétrico que usualmente deveria estar associado a pulso central. São várias as ativida-des elétricas englobadas nessa definição (dissociação eletromecânica, pseudodissociação eletromecânica, ritmo idioventricu-lar e outros), mas o tratamento é o mesmo para tais ritmos. Na verdade, o que ocorre é que existe um fator impedindo o acoplamento entre a atividade elétrica organizada do miocárdio e a contração muscular efetiva que deveria resultar dessa atividade elétrica. Há várias causas de AESP, o que se discutirá a seguir.
+
+ 
+Figura 13 - Ritmo sinusal bradicárdico que progride para ritmo juncional, quando não associado a pulso central palpável, caracterizando a [-AESP-]{+atividade elétrica sem pulso+}
+
+O tratamento da AESP nunca deve ser realizado por meio do choque, pois já existe atividade elétrica ventricular organiza-da potencialmente capaz de gerar pulso central. O choque poderia desorganizá-la, gerando mais um problema durante o atendimento. Como as pás do desfibrilador não são mais utilizadas após a identificação do ritmo, deve-se aplicar o suporte avançado de vida (RCP, monitor, intubação e acesso venoso).
+[-Uma a-]{+A+}titude{+s+} clínica{+s+} importante{+s+} com relação à AESP [-é-]{+são+} a determinação da sua causa e a aplicação do tratamento específico. São 1[-1-]{+0+} as causas reversíveis, e {+se +}pode[--se-] denominá-las de forma simples para memorização[-,-] como [-6-]{+5+}Hs e 5Ts.
+O tratamento das causas da AESP é o fator determinante da reversão do quadro. Caso não se encontre uma dessas causas durante o atendimento, as chances de reversão da PCR se tornam muito reduzidas. A causa principal e mais frequente de AESP é a hipovolemia, a ser tratada pela administração de volume IV; o tratamento de cada uma das causas está descrito na Tabela 2. Vale lembrar que a trombólise do infarto agudo do miocárdio [-e do tromboembolismo pulmonar -]durante a PCR é um procedimento de benefício duvi{+-+}doso. No infarto, a angiografia pós-PCR está relacionada a melhor prognóstico. 
+
+Tabela 2 - Causas de [-AESP-]{+atividade elétrica sem pulso+}: [-6-]{+5+}Hs e 5Ts
+Causas	Tratamentos
+Hipovolemia	Volume
+Hipóxia	Oxigênio (intubação endotra[---]queal)
+Hipocalemia{+/hipercalemia+}	Administração de KCl[-Hipercalemia	B-]{+/b+}icarbonato de sódio 1mEq/kg
+H+ (acidose metabólica)	Bicarbonato de sódio 1mEq/kg
+[-Hipoglicemia	Glicose hipertônica-]
+Hipotermia	Reaquecimento
+Tamponamento cardíaco	Punção pericárdica (Marfan)
+Tromboembolismo pulmo[---]nar	Volume + reversão da PCR*
+Trombose coronariana	Volume + reversão da PCR[-*-]
+Pneumotórax hipertensivo	Punção torácica de alívio
+Tóxicos	Antagonista específico
+* Trombólise a critério clínico.
+
+Na PCR, a assistolia é a forma de pior prognóstico e consiste na ausência de atividade elétrica no coração, porém algumas situações determinam o erro diagnóstico. Para [-que ess-]{+di+}a[- -]{+gno+}s[-ej-]{+tic+}a{+r+} correta{+mente+}, deve-se proceder ao protocolo da linha reta, que con[---]siste em checar a conexão dos eletrodos (artefatos podem simular assistolia), aumentar o ganho do monitor cardíaco (a FV fina pode ser interpretada como assistolia num baixo ganho sobre o sinal do monitor) e, finalmente, checar o ritmo em 2 derivações. 
+Todo cuidado na identificação desse ritmo é pouco, pois, em até 10% dos identificados como assistolia, por meio das pás, o ritmo de base verdadeiro é a FV. Isso pode acontecer em virtude de o eixo elétrico resultante da FV poder ser, naquele mo-mento, perpendicular à derivação da monitorização por meio das pás, gerando um ritmo isoelétrico no monitor (assistolia), bem como por cabos ou eletrodos desconexos.
+As causas de assistolia são as mesmas da AESP, devendo-se iniciar infusão de volume e procurar tratamento adequado com base nas causas possíveis. [-O uso do marca-passo transcutâneo na assistolia não é mais indicado. -]A 1ª droga a ser adminis[---]trada na AESP e na assistolia também é um vasopressor[-.-]{+,+} [-P-]{+n+}o[-de-] {+ca+}s[-er-]{+o+} a epinefrina[- (1mg/dose-], [-a cada 3 a 5 mi-]n[-utos) ou a v-]as[-o-pr-]{+ m+}es[-sin-]{+m+}a[- (40U,-]{+s+} dose{+s+} [-única), qu-]{+r+}e[- p-]{+c+}o[-de s-]{+m+}e[-r aplica-]{+n+}da[- como 1ª -]d[-rog-]a[- ou em -]s[-ubstituição à-] [-1ª ou-]{+para+} [-à-]{+a+} [-2ª-]{+FV/TVSP+} [-dos-]e [-da epinefr-]{+AESP.+}
+
+{+D+}i[-n-]{+c+}a[-.-] 
+A {+v+}a[-tr-]{+s+}o[---]p{+ress+}ina não é mais recomendada [-n-]{+com+}o [-tr-]a{+l+}t[-am-]e{+r+}n[-to da AESP/-]a[-ssis-]t[-ol-]i{+v+}a {+à e+}p[-o-]{+inef+}r{+ina+} n[-ã-]o t[-e-]r[- b-]{+atam+}en[-efíci-]{+t+}o [-comprova-]d[-o-]{+a PCR+}.
+
+ 
+Figura 14 - Suporte avançado de vida em adultos
+
+{+Pergunta+}
+{+2015 - UFES+}
+{+2. Com relação ao manejo da parada cardiorrespiratória (PCR), assinale a alternativa incorreta:+}
+{+a) quando a monitorização com desfibrilador manual revela ritmo de Fibrilação Ventricular/Taquicardia Ventricular Sem Pulso (FV/TVSP), a prioridade deve ser a desfibrilação o mais precoce possível+}
+{+b) em qualquer ritmo de PCR, a 1ª droga a ser utilizada deve ser um vasopressor+}
+{+c) o atraso no início da administração de vasopressores para além dos primeiros 2 minutos de PCR, bem como a demora em instalar via área avançada, pode estar associado a pior prognóstico+}
+{+d) a monitorização do dióxido de carbono exalado (>10mmHg) é um indicador da qualidade de reanimação+}
+{+e) a atropina não é recomendada em caso de parada cardíaca em assistolia ou atividade elétrica sem pulso+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2014 - UFMT+}
+{+3. Com relação às novas diretrizes para a reanimação cardiopulmonar (RCP), pode-se afirmar que: +}
+{+a) a sequência de RCP em adultos tem início com a abertura da via aérea e verificação quanto à presença de respiração normal, seguida de 2 ventilações de resgate, acompanhadas de ciclos de 30 compressões torácicas e 2 ventilações+}
+{+b) o esterno adulto deve ser comprimido, no mínimo, por 2cm+}
+{+c) a atropina não é recomendada para uso de rotina no tratamento da assistolia+}
+{+d) a vasopressina é superior à adrenalina e deve ser o vasopressor de 1ª escolha+}
+{+Resposta no final do capítulo+}
+
+Tabela 3 - Atendimento inicial ao paciente com [-PCR-]{+parada cardiorrespiratória+}
+Qualidade da RCP
+- Comprimir com força >2{+ a 2,4+}pol (5{+ a 6+}cm) e rapidez ([-=-]100{+ a 120+}/min) e [-agua-]{+pe+}r[-da-]{+miti+}r o retorno total do tórax;
+- Minimizar interrupções nas compressões;
+- Evitar ventilação excessiva;
+- Alternar a pessoa que aplica as compressões a cada 2 minutos;
+- Se via aérea avançada, [-relação co-]m[-pr-]{+ant+}e[-ssão–-]{+r 1 +}ventilação {+a ca+}d{+a 6 s+}e{+gundos+} [-3-]{+(1+}0[-:2-]{+ por minuto)+};
+- Capnografia quantitativa com forma de onda:
+· Se PETCO2 (pressão parcial de dióxido de carbono ao final da expiração) <10mmHg, tentar melhorar a qualidade da RCP.
+- Pressão intra-arterial:
+· Se pressão na fase de relaxamento (diastólica) <2[-5-]0mmHg, tentar melhorar a qualidade da RCP.
+RCE
+- Pulso e pressão arterial;
+- Aumento abrupto prolongado {+da +}PETCO2 (normalmente[-,-] =40mmHg);
+- Variabilidade espontânea na pressão arterial com monitorização intra-arterial.
+Energia de choque
+Bifásica	Recomendação do fabricante (120 a 200J); se desconhecida, usar o máximo disponível (a 2ª carga e as subsequentes devem ser equivalentes e consideradas cargas mais altas)
+Monofásica	360J
+Terapia medicamentosa
+Dose IV/IO de epinefrina	1mg a cada 3 a 5 minutos
+[-Dose IV/IO de vasopressina	40 unidades (podem substituir a 1ª ou a 2ª dose de epinefrina)-]
+Dose IV/IO de amiodarona	1ª dose: bolus de 300mg; 2ª dose: 150mg
+Via aérea avançada
+- Via aérea avançada supraglótica ou intubação endotraqueal;
+- Capnografia com forma de onda para confirmar e monitorizar o posicionamento do tubo endotraqueal;
+- [-8 a -]10 ventilações por minuto, com compressões torácicas contínuas.
+Causas reversíveis
+- Hipovolemia;
+- Hipóxia;
+@@ -197,52 +271,77 @@ Causas revers
+
+O término dos esforços deve ser considerado por meio da análise de diversos fatores (tempo de PCR até o 1º atendimen-to, prognóstico do paciente, idade da vítima, doença de base etc.). 
+
+{+Pergunta+}
+{+2013 - SANTA CASA-BH+}
+{+4. Analise as seguintes afirmativas sobre o atendimento do paciente em parada cardiorrespiratória (PCR):+}
+{+I - No paciente em fibrilação ventricular que recebe desfibrilação e imediatamente apresenta ritmo sinusal ao monitor, deve-se checar o pulso para descartar Atividade Elétrica Sem Pulso (AESP).+}
+{+II - Após 4 minutos de reanimação cardiopulmonar (RCP), se houver uma linha reta no monitor durante a checagem de ritmo, deve-se administrar epinefrina e reiniciar a RCP de alta qualidade.+}
+{+III - Ao paciente em PCR que apresenta taquicardia ventricular polimórfica durante a checagem de ritmo deve-se adminis-trar choque sincronizado (cardioversão) com a carga máxima do aparelho.+}
+{+IV - Não se recomenda atualmente o uso da atropina para casos de PCR em assistolia ou AESP lenta.+}
+{+A análise permite concluir que:+}
+{+a) apenas 1 afirmativa está correta+}
+{+b) apenas 2 afirmativas estão corretas+}
+{+c) apenas 3 afirmativas estão corretas+}
+{+d) todas as afirmativas estão corretas+}
+{+Resposta no final do capítulo+}
+
+4. Cuidados após a reanimação
+
+Após a reversão da PCR, alguns cuidados são necessários para possibilitar a melhor condição para a recuperação. Recen-temente se definiu de forma padronizada a síndrome da pós-PCR; a população de sobreviventes à PCR caracteriza grupo específico de pacientes que apresentam as seguintes características: lesão neurológica por anóxia/hipóxia cerebral; isquemia generalizada sucedida por hiperperfusão tecidual; depressão miocárdica{+;+} e a causa-base da PCR. Essa população apresenta mortalidade elevada e deve ser tratada de forma agressiva, visando à sua proteção. A medida mais efetiva na redução de mortalidade, nesse grupo, é a hipotermia induzida.
+A reabordagem do ABC deve ser realizada periodicamente, principalmente ao menor sinal de deterioração clínica do [-do-]{+pa+}-{+ci+}ente. A checagem do correto posicionamento da cânula e da adequação das ventilações assegura a sua boa oxigenação. Após a reversão da PCR, o indivíduo pode ser colocado em ventilação mecânica, e a colocação de um oxímetro de pulso per{+-+}mite avaliar a adequação da sua oxigenação. 
+A verificação do correto funcionamento do acesso venoso disponível e a checagem dos dados vitais por meio de um mo-nitor de pressão arterial não invasiva, da monitorização da frequência cardíaca e do ritmo de base permitem avaliar e manipu-lar a condição hemodinâmica do paciente por meio da infusão de volume, drogas vasoativas e antiarrítmicas quando for ne-cessário. {+Nesse contexto, recomenda-se evitar e corrigir imediatamente a hipotensão (PAS <90mmHg ou PAM <65mmHg).+}
+Após a estabilização, pode-se providenciar o transporte para recursos mais adequados (UTI, sala de hemodinâmica etc.).
+{+A angiografia coronariana deve ser realizada em caráter de emergência nos pacientes com PCR extra-hospitalar e suspeita de etiologia cardíaca.+}
+Outra medida terapêutica indicada para aplicação clínica no período pós-PCR é a hipotermia induzida (temperatura cen-tral de 32 a 3[-4-]{+6+}°C[-)-] por{+,+} [-12-]{+pelo+} [-a-]{+menos,+} 24 horas[- de duração-]{+),+} nos casos de encefalopatia anóxica grave[-.-]{+,+} [-Ini-]c[-i-]a[-da -]{+r+}a{+c+}t[-é 6 ho-]{+e+}r{+iz+}a[-s após -]{+d+}a [-rever-sã-]{+com+}o[-,-] a[- hipoterm-]{+usênc+}ia de[-termina-] [-melho-]r[- -]{+es-+}p[-r-]o[-gnó-]st[-ico-]{+a+} neurológic[-o,-]{+a+} [-b-]{+ad+}e[-m-]{+quada a+} com{+and+}o{+s+} [-d-]{+v+}e[- mo-]r[-t-]{+b+}a[-l-]i[-dade-]{+s+}. [-Por outro -]{+A+}l[-a-]{+ém +}d{+iss+}o, a hipertermia deve ser evitada a todo custo, assim como a hi{+-+}perventilação.
+Embora não haja estudo específico com pacientes no período pós-ressuscitação, a recomendação de controle glicêmico a eles parece razoável, pois são grandes as evidências do seu benefício entre indivíduos em estado crítico. Falta definir os me-lhores valores de controle glicêmico para essa população.
+
+5. Fatores prognósticos
+
+[-Não -]{+Atualm+}e[-xis-]{+n+}te{+,+} {+r+}e[-xa-]{+co+}me{+nda-se+} [-l-]a[-bor-]{+v+}a[-tor-]{+l+}ia[-l-]{+r+} o[-u-] [-dia-]{+pro+}gnóstico [-que -]{+a+}p[-e-]{+ós 72 ho+}r[-mit-]a{+s+} [-pre-]d{+o térm+}i[-çã-]{+n+}o [-a-]d{+o control+}e[-quada-] d[-a -]{+ir+}e[-voluçã-]{+ci+}o[- -]{+na+}do [-paci-]{+d+}e[-n-]{+ +}te[- a-]{+m+}p[-ós rev-]er[-são d-]a{+tura.+} [-PCR,-]{+Nos+} p[-rin-]{+a+}ci[-palm-]ente{+s+} {+qu+}e{+ +}n[-tre-]{+ão+} {+for+}a[-queles-]{+m+} submetidos a [-hipot-]e[-rmia.-]{+sse+} [-N-]{+c+}o[- enta-]nt{+r+}o{+le+}, a {+avaliação +}pr[-ese-]{+og+}n[-ç-]{+óstic+}a de{+ve+} [-algun-]s{+er+} [-sin-]{+re+}a{+l+}i[-s-]{+zada+} após [-24 a -]72 horas d[-e-pois d-]o {+r+}e[-ven-]to{+rno+} [-está-]{+à+} c[-or-]{+i+}r[-e-]{+cu+}la[-ci-]{+ção esp+}on{+tânea.+}
+{+Cabe lembrar que nenhum ach+}ad{+o clínico ou ex+}a{+me+} {+isolad+}a{+mente+} p[-i-]o{+de prever com 100% de ce+}r{+teza o+} prognóstico neu{+-+}rológico[-:-]{+ após a PCR.+} A[-u-]s[-ênc-]{+s+}i[-a-]{+m,+} [-de-]{+uma+} {+p+}re[-flex-]{+visã+}o p[-upila-]r[- -]e[-m 24 horas;-]
+[-Ausên-]ci{+s+}a d[-e-]{+o+} [-r-]{+d+}e{+s+}f[-l-]e[-x-]{+ch+}o [-c-]{+p+}o[-rn-]{+d+}e[-ano-] {+s+}e[-m 24-]{+r+} [-h-]o[-ras;-]
+[-Ausênc-]{+bt+}i[-a -]d[-e-]{+a+} {+po+}r{+ m+}e[-flex-]{+i+}o de {+vá+}r[-et-]i[-r-]a{+s modali+}da{+des+} d[-o-]{+e+} e[-stí-]{+xa+}m[-ulo-]{+es+} [-dolo-]r{+ealizad+}os[-o-] em [-24 horas;-]
+[-Sem resposta m-]{+c+}o{+njun+}to[-ra-]{+.+} 
+
+{+Tab+}e[-m-]{+la+} [-2-]4 {+- Ac+}h[-or-]a{+do+}s[-;-]
+[-Sem-] [-r-]{+clínicos út+}e{+i+}s[-p-]{+ associad+}os[-t-]{+ +}a m{+au pr+}o{+gnós+}t{+ic+}o{+ neu+}r{+ológico+}
+{+- Ausênci+}a {+d+}e[-m-]{+ reflexo papilar à luz,+} 72 horas[-.-]
+
+[-T-]{+ ou m+}a[-bel-]{+is +}a{+pós+} [-4-]{+a+} {+PCR;+}
+- Pr[-i-]{+ese+}n[-cip-]{+ç+}a[-is-] [-c-]{+de estad+}o{+ +}m[-p-]{+i+}o{+clô+}n{+ico (difer+}ente[-s-] de [-suporte bás-]{+m+}i{+o+}c{+l+}o[- de v-]{+n+}i[-d-]a{+s+} [-p-]{+isol+}a[-r-]{+d+}a{+s)+} [-a-]du[-l-]{+ran+}t[-o-]{+e a+}s[-,-] [-c-]{+p+}ri[-anç-]{+meir+}as [-e-]{+72+} [-bebês-]
+[-Rec-]{+h+}o[-mend-]{+r+}a[-çõe-]s[-Com-]{+ a+}p[-onente-]{+ó+}s[-	-]{+ a PCR;+}
+{+- +}A[-d-]u[-lto-]s[-	Cr-]{+ênc+}ia{+ de o+}n[-ç-]{+d+}a[-s	Bebês*-]
+[-Re-]{+ +}co[-nh-]{+rtical do pot+}e{+n+}ci{+al so+}m[-en-]{+a+}to[-	Não re-]s[-po-]{+se+}ns[-iv-]o[- (pa-]r{+i+}a{+l+} [-t-]{+ev+}o{+ca+}d{+o N20, 24 +}a[-s-] {+72 hor+}as [-id-]a[-de-]{+pó+}s[-)-]
+[-	Sem-] [-respir-]a[-ção-]{+ PCR+} ou [-c-]o[-m-] re[-spiração -]a{+quecime+}n{+t+}o[-rmal-]{+;+}
+{+-+} [-(i-]{+Pre+}s[-to-]{+ença+} [-é,-]{+de+} a[-p-]{+c+}en{+tuad+}a[-s-] [-c-]{+reduçã+}o[-m-] [-g-]{+d+}a[-sping)	Sem-] re[-spir-]{+l+}ação [-ou ape-]{+ci+}n{+z+}a[-s -]{+–bran+}co[-m-] [-gasping-]
+[-	S-]em [-puls-]{+t+}o[- p-]{+mogr+}a[-lp-]{+fi+}a{+ +}do {+cér+}e[-m 10-]{+bro+} [-segund-]o[-s, par-]{+btid+}a {+a+}t{+é 2 h+}o[-d-]{+r+}as a{+pó+}s {+a PCR;+}
+{+- Ampla restr+}i{+ção +}da{+ +}d[-e-]{+ifu+}s{+ão+} [-(-]{+n+}a[-p-]{+ r+}e{+ssonâ+}n{+ci+}a[-s-] [-p-]{+magnétic+}a{+ cereb+}ra{+l no+} pr[-ofission-]a[-is-]{+zo+} de [-s-]{+2 +}a[-ú-]{+ 6 +}d[-e)-]
+[-Sequênc-]ia{+s após+} [-d-]a [-RC-]P[-	-]C{+R;+}
+-{+ +}A[--B-]
+[-Freq-]u{+s+}ência [-de com-]p[-r-]e{+rsist+}en[-são	No-]{+te+} [-mínimo,-]{+de+} [-100/min-]
+[-P-]r[-ofund-]{+eativ+}idade [-da c-]{+n+}o[-mpr-]{+ +}e{+l+}e[-nsão	N-]{+tr+}o[- mí-]{+e+}n[-imo, 2 pol-]{+c+}e{+falo+}g{+r+}a[-d-]{+m+}a[-s-] [-(5c-]{+a estí+}m[-)	N-]{+ul+}o{+s+} [-má-]{+e+}x[-i-]{+tre+}mo{+s,+} [-1/3-]{+72+} [-d-]{+h+}o[- diâmet-]r[-o-]{+as+} a[-ntero-]p[-o-]{+ó+}s[-terior;-] [-cerc-]a [-de 2-]{+PCR;+}
+{+-+} {+Su+}p[-ol-]{+r+}e[-gada-]s[- (5cm)	No mínim-]{+sã+}o[-, 1/3-] do{+s+} [-diâmet-]{+su+}r{+t+}o{+s+} [-ant-]{+p+}e[---]r[-opo-]{+si+}ste[-ri-]{+ntes +}o[-r;-]{+u+} [-c-]e{+stado int+}r[-c-]a{+tável+} de [-1,5 polegad-]{+m+}a{+l+} [-(4cm)-]
+[-R-]e{+pilép+}t{+ic+}o[-r-]{+ +}no [-da par-]e[-d-]{+l+}e[- -]t[-o-]r[-áci-]{+oen+}c[-a	P-]e{+falog+}r{+a+}m[-is-]{+a apó+}s[-ão-] [-d-]o re[-torno tot-]a[-l -]{+quecim+}ent[-r-]{+o.+}
+{+Obs+}e{+rvação:+} a{+u+}s[- -]{+ên+}c{+ia de m+}o{+vi+}m[-preensõ-]e[-s (qua-]nto{+s,+} a p[-r-]o[-fis-]s[-ion-]{+tur+}a[-is-] [-d-]e{+m+} [-saúd-]e[-, al-]{+x+}te[-r-]n[-ar o-]s{+ão+} [-q-]{+o+}u[-e-] {+o est+}a[-pl-]{+do m+}i{+o+}c[-am as -]{+lôni+}co[-mpr-]{+ não d+}e[-ssõ-]{+v+}e{+m +}s{+er+} {+us+}a{+dos+} [-c-]{+isol+}ada[- 2 -]m[-inutos)-]
+[-I-]{+e+}nte[-rrupções-] [-n-]{+par+}a[-s-] [-com-]pre{+v+}e[-nsõ-]{+r o r+}es[-	Minimiz-]{+ult+}a[-çã-]{+d+}o{+.+}
+{+*+} [-d-]{+Choqu+}e{+,+} [-in-]te[-rru-]{+m+}p[-çõ-]e[-s n-]{+r+}a[-s-]{+tura,+} [-c-]{+des+}o[-mp-]r[-e-]{+d+}ens[-ões-] {+me+}t[-orác-]{+aból+}icas{+,+} {+s+}e[- tent-]{+d+}ativ[-a de limitaçã-]o[- da-]s [-i-]{+a+}nter{+io+}r[-upçõ-]es [-a men-]o[-s-]{+u+} {+bloquea+}d{+or+}e[- 10 -]s{+ n+}e[-g-]u[-nd-]{+r+}o{+mu+}s[-Vi-]{+cul+}a{+res e outro+}s {+f+}a[-é-]{+to+}re[-a-]s[-	In-]{+ +}cl[-i-]{+í+}n[-açã-]{+ic+}o{+s+} d[-a cab-]e[-ça -]{+v+}e{+m+} {+s+}e[-l-]{+r consid+}e[-v-]{+r+}a[-çã-]{+d+}o{+s+} [-d-]{+c+}o{+m+} [-q-]{+c+}u[-e-]i[-xo (pr-]{+dad+}o[-fissi-]{+, p+}o[-na-]is {+po+}de{+m+} [-s-]a[-úd-]{+f+}e{+tar+} [-que-]{+os+} {+re+}su[-spei-]{+l+}t[-em -]{+a+}d[-e-]{+os+} [-tra-]{+o+}u[-ma:-] a{+ i+}nter[-io--]{+p+}r[-iz-]{+et+}ação d[-a-]{+e+} [-m-]a[-ndíbu-]l[-a)-]
+[-R-]{+guns +}e[-l-]{+x+}a[-ção co-]m[-pr-]e[-en-]s[-ão–v-]{+.+}
+
+{+P+}e{+rgu+}nt[-il-]a
+[-çã-]{+2012 - UFSC+}
+{+5. N+}o [-(-]at[-é-]{+endimento+} a [-coloc-]{+um+}a[-ção-] [-d-]{+p+}a{+ciente+} v{+ít+}i{+m+}a [-aér-]{+d+}e[-a-] {+p+}a[-vanç-]{+r+}ada[-)	30:2. Um ou 2-] [-so-]c[-or-]{+a+}r{+d+}i[-stas	30:2. Um soc-]orr[-i-]{+e+}s{+pira+}t{+óri+}a[-; 15:2.-] [-Dois-]{+(PCR),+} s{+egund+}o[-corrist-]{+ +}as [-profissio-]n{+orm+}a[-i-]s d[-e-]{+o+} [-saú-]{+A+}d[-e-]
+[-Ventil-]{+v+}a[-çõ-]{+nc+}e[-s:-]{+d+} [-qu-]{+C+}a[-n-]{+r+}d{+i+}o[- -]{+va+}s[-o-]{+-+}c[-or-]{+ula+}r{+ L+}i[-sta-]{+fe+} [-nã-]{+Supp+}o[- t-]r[-einado-]{+t+} [-e-]{+(ACLS®)+} [-não-]{+2010+} [-prof-]{+[C+}i{+r+}c[-ien-]{+ula+}t[-e	Ape-]{+io+}n[-as-]{+ 2010; 122; S685-705], é+} co[-mp-]{+r+}re[-ssões-]
+[-Ven-]t[-ilações c-]o[-m-] [-v-]{+af+}i{+rm+}a{+r+} {+que:+}
+a[-é-]{+) o supo+}r{+t+}e[-a-] avan[---]çad[-a (pr-]o[-fissionais de-] [-saúd-]e[-)	1-] [-ventilaçã-]o[- a-]{+s+} c[-a-]{+ui+}da[- 6 a 8 segun-]dos [-(8 a 10-]{+pós-PCR+} [-ve-]{+i+}nt[-ilaçõ-]e[-s/min); assínc-]{+g+}r[-on-]a[-s com c-]{+d+}o[-mpre-]s[-sõ-]{+ faz+}e[-s-]{+m+} [-to-]{+pa+}r[-ácic-]{+te d+}a[-s;-] c{+ad+}e[-rc-]{+i+}a de [-1 -]s{+obr+}e[-gu-]{+vivê+}n{+cia à PCR +}do [-p-]{+adult+}o
+[-r-]{+b) a FR da+} ventilação[-;-] [-el-]{+d+}ev[-ação-]{+e+} [-vi-]s[-ív-]e[-l-]{+r+} d[-o-]{+e+} [-tó-]{+10 a 12irpm+}
+{+c) primei+}ra[-x-]
+[-D-]{+mente d+}esfibrila[-ção	DEA/DAE assim que-]{+r+} est[-iver disponível;-]{+á+} [-m-]in{+d+}i[-miz-]{+c+}a[-çã-]{+d+}o [-d-]a[-s-] [-in-]t[-errupçõe-]{+odo+}s [-na-]{+o+}s c{+as+}o[-m-]{+s de PCR +}pre[-en-]s[-õ-]e[-s torá-]{+n+}ci[-c-]a[-s -]{+d+}a
+[-ntes-]{+d)+} [-e-]{+o+} [-dep-]{+soc+}o{+rr+}is{+ta+} d[-o choqu-]e[-; r-]{+v+}e{+ +}in[-í-]{+i+}ci{+ar +}o [-d-]{+Air Bre+}a{+thing+} [-R-]C[-P -]{+ir+}c[-omeç-]{+ul+}a[-nd-]{+ti+}o{+n (ABC),+} [-c-]{+ist+}o[-m-] [-com-]{+é, +}pr[-eensões -]ime[-d-]i[-at-]{+r+}amente {+ventil+}a[-pós-]{+r+} [-cad-]a[- ch-]o[-que-]
+[-*-] [-Excluindo--]se[- -]re[-cé-]m[--nas-]{+ +}c[-id-]o{+n+}s[-, cuja e-]t[-iop-]at[-ologi-]a[- -]da{+s+} [-PCR é qu-]a[-s-]{+pn+}e{+ia+} [-sempr-]e a{+u+}s[-fix-]{+ênc+}ia[-.-] [-Font-]{+d+}e[-:-] [-Destaq-]{+p+}u[-e-]{+l+}s{+o+} [-d-]{+c+}a[-s Di-]r[-e-]{+o+}t[-riz-]{+íd+}e[-s-]{+o+}
+{+e)+} [-d-]a [-A-]m[-eric-]a[-n H-]{+ssag+}e{+m c+}ar[-t Asso-]{+día+}c[-i-]a[-tion-] [-2010-]{+deve+} p[-a-]r{+omover um+}a [-R-]{+F+}C[-P-] {+d+}e [-Atend-]{+aprox+}im{+adam+}ent[-o-]{+e+} [-C-]{+100bpm+}
+{+Respost+}a[-rdi-]{+ n+}o[-v-]{+ fin+}a[-scu-]l[-ar-] d[-e-]{+o+} [-Emergên-]c[-i-]a[- (ACE).-]{+pítulo+}
+
+6. Resumo
+
+Quadro-resumo
+- A[- RCP-]{+s+} d{+ir+}e[-v-]{+triz+}e[- -]s[-er-] [-inici-]a[-d-]{+tu+}a[- -]i{+s reco+}me{+n+}d[-iat-]am[-ente-] {+o u+}s{+o d+}e {+c+}a{+deias de+} {+sobre+}v[-ít-]i[-m-]{+vênci+}a {+disti+}n[-ão-]{+tas+} {+ent+}re{+ o+}s{+ +}p[-o-]{+acie+}n[-d-]{+t+}e{+s+} {+qu+}e [-nã-]{+s+}o[- -]{+f+}re{+m uma PCR no ho+}spi[-r-]{+t+}a[-.-]{+l+} [-A-]{+e+} a[-va-]{+que+}l[-i-]{+es +}a[-çã-]{+c+}o[- -]{+meti+}do{+s+} p[-uls-]o{+r PCR+} n[-ã-]o [-é m-]a{+mb+}i[-s-]{+ente+} [-r-]e[-c-]{+xtra-h+}o[-mend-]{+spit+}a[-d-]{+l+}a[-;-]{+r.+}
+- A RCP deve ser iniciada imediatamente com as compressões torácicas{+,+} em vez de serem abertas as vias aéreas e ser iniciada a respi{+-+}ra[---]ção artificial{+ (sequência C–A–B)+};
+- Todos os socorristas, treinados ou não, devem fornecer as compressões torácicas às vítimas de parada cardíaca;
+- A ênfase no fornecimento de compressões torácicas de alta qualidade continua a ser essencial, à frequência [-mínima -]de 100 {+a 120 +}compres-sões/min;
+- Os resgatistas treinados devem fornecer ventilação assistida na relação de 2 ventilações intercaladas com 30 compressões torácicas;
+- Para os socorristas leigos, a aplicação de ventilações assistidas é dispensável. O serviço de emergência deve fornecer apenas instru{+-+}ções de compressões torácicas quando o auxílio for telefônico;
+- FV/TV devem ser revertidas com desfibrilação imediata;
+- A epinefrina [-ou a vasopressina são-]{+é+} [-os-]{+um+} vasopressor[-es-] aplicado[-s-] em todas as formas de PCR;
+- [-O-]{+A+} [-b-]{+hipot+}e[-n-]{+rmia t+}e[-fíc-]{+rapêut+}i[-o-]{+ca+} {+re+}d{+uz +}a {+mort+}a{+lidade en+}tr{+e +}o[-p-]{+s sobrev+}i{+ve+}n[-a-]{+tes+} [-na-]{+de PCR.+} {+Ness+}as{+ nova+}s{+ d+}i[-s-]{+re+}t[-ol-]{+r+}i{+zes, +}a {+temperatura-alv+}o{+ sit+}u{+a-se+} {+e+}n[-a-]{+tre+} [-AESP-]{+32+} [-é-]{+e+} [-qu-]{+36° C e d+}e{+ve +}s{+er man+}ti{+da c+}on[-áv-]{+stant+}e[-l;-]
+[-- A-] [-hi-]po[-t-]{+r um p+}er{+íodo +}m{+ín+}i[-a-]{+mo+} [-t-]{+d+}e{+ 24 ho+}ra{+s. +}
+{+ +}
+{+Res+}p[-êu-]{+os+}t{+as+}
+{+1. A+}
+{+2. C+}
+{+3. C+}
+{+4. A+}
+{+5. A+}
+
+{+D+}ica 
+{+Pa+}r{+a fixar o que +}e{+stu+}d{+o+}u[-z-] {+neste c+}a{+pítulo, teste seus+} {+conheci+}m{+ent+}o{+s +}r[-ta-]{+eso+}l[-i-]{+ven+}d{+o +}a[-d-]{+s qu+}e{+stões+} {+refer+}ent[-r-]e{+s+} {+a+}o[-s-] {+tema.+}
+{+Que+}s[-obr-]{+tõ+}e[-v-]{+s: pág+}i[-v-]{+na XX+}
+{+Com+}ent[-e-]{+ário+}s{+:+} [-de-]{+página+} [-PCR.-]{+XX+}
