@@ -1,127 +1,191 @@
 Anemias por deficiência de produção
-Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Neste capítulo, serão abordadas as principais causas de anemia na população, envolvendo a anemia ferropriva e a megalo-blástica, que ocorre por deficiência de vitamina B12 ou ácido fólico. A anemia ferropriva tem, como principais etiologias, a diminuição na ingesta de ferro nos alimentos, diminuição na absorção, aumento no consumo (na gestação, lactação, infância e nas parasitoses intestinais) e perdas sanguíneas (sangramento gastrintestinal), necessitando de reposição de ferro oral na forma de sulfato ferroso, na dose de 5mg/kg/d, ou reposição parenteral, utilizando-se, na grande maioria das vezes, o saca-rato de hidróxido de ferro III (Noripurum®). A anemia megaloblástica tem, como principais etiologias, a deficiência de vita-mina B12, causada por ingesta inadequada, diminuição na acidez gástrica (como na cirurgia bariátrica), diminuição de fator intrínseco, insuficiência pancreática, doenças inflamatórias intestinais e medicamentos (biguanidas), podendo ser causada, ainda, por deficiência de ácido fólico em virtude também de ingesta inadequada, alteração na absorção (como em etilistas e nas doenças inflamatórias intestinais), aumento no consumo (gestação, hemólise) e uso de certos medicamentos, como metotrexato. Ambas as deficiências precisam ser tratadas da seguinte forma: reposição parenteral de vitamina B12 1.000µg IM, 1x/d, por 1 semana; após, 1x/sem, durante 1 mês, e, por fim, 1x/mês por toda a vida, ou até o controle da doença. A reposição de folato, de 1 a 5mg/d VO, deve ser feita até a normalização do hemograma e a resolução da causa da deficiên-cia.
+
 1. Conceitos gerais
+
 A baixa resposta reticulocitária perante a anemia é sinal patognomônico das anemias por deficiência de produção ou hiporregenerativas. A faixa da normalidade no número de reticulócitos por volume de sangue varia entre 25.000 e 100.000/mm3, esperando-se contagens maiores ou iguais a 100.000/mm3 quando há regeneração medular (ou seja, nas anemias hiperproliferativas) e valores <100.000/mm3 quando não há resposta medular eficaz (no caso das anemias hipoproliferativas ou por deficiência de produção). 
+
 2. Anemia da insuficiência renal crônica
-Na Insuficiência Renal Crônica (IRC), o grau de anemia é proporcional ao grau de insuficiência renal, de modo que aproximadamente 90% da população com o clearance de creatinina <25 a 30mL/min apresentam anemia, muitas vezes com valor de hemoglobina (Hb) <10g/dL. A anemia pode, ainda, surgir mesmo com menores valores de creatinina, como 2mg/dL.
-No paciente com IRC, a anemia contribui para a piora dos sintomas relacionados à diminuição da função renal, como fadiga, depressão, dispneia e alteração cardiovascular. Também está associada ao aumento da morbimortalidade por eventos cardiovasculares e maior frequência e duração de hospitalização.
+
+Na Insuficiência Renal Crônica (IRC), o grau de anemia é proporcional ao grau de insuficiência renal, de modo que aproximadamente 90% da população com clearance de creatinina <25 a 30mL/min apresentam anemia, muitas vezes com valor de hemoglobina (Hb) <10g/dL. A anemia pode, ainda, surgir mesmo com menores valores de creatinina, como 2mg/dL.
+No paciente com IRC, a anemia contribui para a piora dos sintomas relacionados à diminuição da função renal, como fadiga, depressão, dispneia e alteração cardiovascular. Também está associada ao aumento da morbimortalidade por eventos cardiovasculares e maiores frequência e duração das hospitalizações.
 A fisiopatologia da anemia na IRC pode ser explicada por 3 mecanismos:
 1 - Diminuição da produção de eritropoetina (EPO).
 2 - Presença de produtos tóxicos metabólicos que diminuem a meia-vida do eritrócito e inibem sua produção (baixa responsividade à EPO).
 3 - Sangramentos (disfunção plaquetária), hemólise e espoliação. 
+
 Coletas de exame frequentes, associadas à perda de hemácias durante a hemodiálise, causam espoliação crônica de sangue e depleção de ferro. Mais raramente, entre pacientes com síndrome nefrótica, pode ocorrer perda de transferrina (proteína carreadora do ferro) na urina, comprometendo o ciclo do ferro e contribuindo para a anemia.
 A diálise pode contribuir para a anemia por meio de depleção de ácido fólico (dialisável no procedimento); hemólise por trauma mecânico; presença de alumínio na água do banho de diálise, que pode interferir na incorporação do ferro aos precursores eritroides, causando anemia microcítica; além da perda de pequena quantidade de sangue, que fica retido no circuito a cada sessão.
+
+Importante
+Na insuficiência renal crônica, a anemia pode ser decorrente da diminuição de eritropoetina, estar associada à presença de produtos tóxicos do metabolismo que reduzem a meia-vida do eritrócito e, ainda, ser decorrente de sangramentos, hemóli-se ou espoliação. 
+
 Na avaliação laboratorial, encontra-se anemia normocrômica e normocítica leve, na maioria dos casos com Hb em torno de 9 a 10g/dL (apesar da possibilidade, em até 30% dos casos, de anemia mais intensa, abaixo de 8g/dL), com reticulócito normal ou diminuído. Deve ser feita a dosagem do perfil completo de ferro ao diagnóstico da anemia e na monitorização durante todo o tratamento. 
-O tratamento é feito com a reposição de EPO recombinante, na dose de 150U/kg SC, 3x/sem. O valor-alvo de Hb desejado com o tratamento é de 10 a 12g/dL (nunca excedendo 13g/dL), o que ocorre em mais de 95% dos casos, o que indica que a ação dos outros mecanismos na diminuição da eritropoese é mínima. Casos de resistência à EPO decorrem de ferropenia, processo inflamatório/infeccioso associado, hiperparatireoidismo secundário à IRC ou intoxicação por alumínio. Como raros efeitos adversos da EPO, podem-se ter hipertensão arterial, crise convulsiva, eventos cardiovasculares e trombose, principalmente de fístula. 
+O tratamento é feito com a reposição de EPO recombinante, na dose de 150U/kg SC, 3x/sem. O valor-alvo de Hb desejado com o tratamento é de 10 a 12g/dL (nunca excedendo 13g/dL), o que ocorre em mais de 95% dos casos, o que indica que a ação dos outros mecanismos na diminuição da eritropoese é mínima. Casos de resistência a EPO decorrem de ferropenia, processo inflamatório/infeccioso associado, hiperparatireoidismo secundário à IRC ou intoxicação por alumínio. Como raros efeitos adversos da EPO, podem-se ter hipertensão arterial, crise convulsiva, eventos cardiovasculares e trombose, principalmente de fístula. 
 Recomenda-se a reposição de ácido fólico e ferro, com controle periódico do perfil deste, que deve manter valores de ferritina entre 200 e 500µg/L e/ou saturação de transferrina entre 20 e 50%. Para pré-dialíticos ou em diálise peritoneal, a reposição de ferro pode ser feita via oral ou parenteral; para aqueles em hemodiálise, a reposição é feita com ferro parenteral.
+
 3. Anemias das doenças endócrinas
+
 Apesar de existir um sistema interno de controle medular da produção celular, o sistema endócrino age ativamente sobre o tecido hematopoético, e seus distúrbios frequentemente se traduzem em quadros de anemia.
+
 A - Hipotireoidismo
-Pode cursar com anemia leve a moderada, geralmente normocítica e normocrômica, mas que pode ser macrocítica ou microcítica. Está associada à reticulocitopenia e à hipoplasia eritroide medular, pois os hormônios T3, T4 e rT3 potencializam o efeito da EPO sobre os precursores eritroides. É bem frequente a associação de hipotireoidismo e anemia perniciosa – que coexiste com a deficiência de vitamina B12 (macrocitose) –, tendo em vista que ambos podem ser processos autoimunes. Podem, ainda, coexistir ferropenia (microcítica) por menorragia e/ou acloridria associadas ao hipotireoidismo.
+Pode cursar com anemia leve a moderada, geralmente normocítica e normocrômica, mas que pode ser macrocítica ou microcítica. Está associada a reticulocitopenia e hipoplasia eritroide medular, pois os hormônios T3, T4 e rT3 potencializam o efeito da EPO sobre os precursores eritroides. É bem frequente a associação de hipotireoidismo e anemia perniciosa – que coexiste com a deficiência de vitamina B12 (macrocitose) –, tendo em vista que ambos podem ser processos autoimunes. Podem, ainda, coexistir ferropenia (microcítica) por menorragia e/ou acloridria associadas ao hipotireoidismo.
+
 B - Hipertireoidismo
 Anemia ocorre em 10 a 25% dos casos, por aumento do volume plasmático, diminuição da sobrevida do eritrócito e eritropoese ineficaz.
+
 C - Insuficiência adrenal
 Os glicocorticoides interagem com a EPO e aumentam a eritropoese.
+
 D - Deficiência androgênica
 Androgênios estimulam a secreção de EPO e têm efeito direto na eritropoese, enquanto estrogênios têm efeito supressivo. 
+
 E - Hiperparatireoidismo
 A causa da anemia é desconhecida. Mielofibrose com comprometimento da eritropoese é encontrada em alguns pacientes. O tratamento dessas anemias compreende apenas aquele da doença de base. Raramente são necessários outros recursos terapêuticos.
+
 4. Anemia por deficiência de ferro
+
 A - Conceitos gerais
-O ferro é um mineral essencial ao organismo humano. Sua função é a de mediador enzimático para a troca de elétrons (citocromo, peroxidases, catalases e ribonucleotídeo-redutase) e carreador de oxigênio (mioglobina e Hb). Nesta, é o componente central da molécula heme e o responsável direto por levar oxigênio até os tecidos. 
-A deficiência de ferro é a causa mais comum de anemia no mundo, e uma das doenças mais frequentes na prática médica. Sua distribuição geográfica é mais extensa nos países em desenvolvimento, em que o aporte dietético de ferro e o controle das parasitoses intestinais são insuficientes. Dados americanos revelam que de 1 a 2% dos adultos apresentam anemia ferropriva, sendo a deficiência de ferro sem anemia mais comum, acometendo 11% das mulheres e 4% dos homens. Entretanto, não existe faixa etária de maior prevalência dessa patologia, podendo ser encontrada em qualquer idade, com causas variáveis.
-Em adultos, as causas mais comuns são falta de ingestão, déficit de absorção, perdas sanguíneas ou aumento rápido da demanda (como no crescimento rápido dos adolescentes e na gestação). O desenvolvimento da deficiência de ferro e a velocidade com que ela se instala dependem da reserva individual, sendo importantes para isso o sexo, a idade e o balanço entre ingestão e perda diária.
+O ferro é um mineral essencial ao organismo humano. Suas funções são as de mediador enzimático para a troca de elétrons (citocromo, peroxidases, catalases e ribonucleotídeo redutase) e carreador de oxigênio (mioglobina e Hb). Nesta, é o componente central da molécula heme e o responsável direto por levar oxigênio até os tecidos. 
+A deficiência de ferro é a causa mais comum de anemia no mundo e uma das doenças mais frequentes na prática médica. Sua distribuição geográfica é mais extensa nos países em desenvolvimento, em que o aporte dietético de ferro e o controle das parasitoses intestinais são insuficientes. Dados americanos revelam que de 1 a 2% dos adultos apresentam anemia ferropriva, sendo a deficiência de ferro sem anemia mais comum, acometendo 11% das mulheres e 4% dos homens. Entretanto, não existe faixa etária de maior prevalência dessa patologia, podendo ser encontrada em qualquer idade, com causas variáveis.
+
+Importante
+Em adultos, as causas mais comuns de anemia por deficiência de ferro são falta de ingestão, déficit de absorção, perdas san-guíneas ou aumento rápido da demanda (como no crescimento rápido dos adolescentes e na gestação).
+
+O desenvolvimento da deficiência de ferro e a velocidade com que ela se instala dependem da reserva individual, sendo importantes para isso o sexo, a idade e o balanço entre ingestão e perda diária.
+
 B - Metabolismo do ferro e fisiopatologia da carência
 O ferro total do organismo varia entre 2 e 4g: aproximadamente 50mg/kg nos homens e 35mg/kg nas mulheres. Nos homens, 1mL de concentrado de hemácias contém, aproximadamente, 1mg de ferro, portanto 1mL de sangue total contém entre 0,5 e 0,6mg de ferro, perfazendo um total estimado de 2.100mg de ferro no sangue de um indivíduo que pesa 70kg. Entre as mulheres, a concentração é mais baixa; calcula-se encontrar aproximadamente 1.350mg de ferro, o que pode ser explicado por perda menstrual, gravidez, lactação e menor ingestão.
+
 Tabela 1 - Distribuição do conteúdo de ferro do organismo
 Ferro livre presente no plasma	Quantidade mínima, para evitar danos oxidativos
 Ferro circulante ligado à transferrina	Proteína carreadora do ferro, sintetizada no fígado
 Ligado ao heme	Formando a Hb (principal forma de apresentação orgânica do ferro)
 Ligado a outras proteínas	Mioglobina, catalases, peroxidases
-Estoques celular (ferritina) e tecidual (hemossiderina)	Entre 0,5 e 2g
+Estoques celular (ferritina) e tecidual (hemossi-derina)	Entre 0,5 e 2g
+
 Tabela 2 - Formas de como o estoque de ferro é feito 
-Ferritina	Formada pela proteína apoferritina + ferro, encontrada virtualmente em todas as células do organismo (principalmente fígado, baço e pulmões) e na corrente sanguínea, por ser hidrossolúvel. Sua dosagem sérica reflete o estoque total corpóreo, visto ser essa a forma de estoque mais abundante. É importante para disponibilizar ferro conforme a necessidade corpórea.
+Ferritina	Formada pela proteína apoferritina + ferro, encontrada virtualmente em todas as células do organis-mo (principalmente fígado, baço e pulmões) e na corrente sanguínea, por ser hidrossolúvel. Sua dosa-gem sérica reflete o estoque total corpóreo, visto ser essa a forma de estoque mais abundante. É importante para disponibilizar ferro conforme a necessidade corpórea.
 Hemossiderina	Não é hidrossolúvel, representando cerca de 25 a 30% do estoque corpóreo; nos indivíduos normais, encontra-se armazenada no sistema reticuloendotelial macrofágico e na medula óssea; porém, em condições patológicas, pode acumular-se em qualquer tecido, principalmente no fígado e no baço.
 
  
 Figura 1 - Ciclo da cinética de ferro
+
 a) Ingestão
-A dieta média nos países desenvolvidos contém aproximadamente 15mg/d de ferro. No Brasil, calcula-se que a dieta das classes B e C apresente aproximadamente 10mg/d de ferro nos alimentos. Ele está presente na forma de anéis heme (carnes, peixes, aves), sendo essa a forma mais biodisponível, e na forma de complexos de hidróxido férrico (nos vegetais) – esta ne-cessita do pH ácido do estômago para ser reduzida à forma ferrosa e poder ser adequadamente absorvida.
+A dieta média nos países desenvolvidos contém aproximadamente 15mg/d de ferro. No Brasil, calcula-se que a dieta das classes B e C apresente aproximadamente 10mg/d de ferro nos alimentos. Ele está presente na forma de anéis heme (carnes, peixes, aves), sendo essa a forma mais biodisponível, e na forma de complexos de hidróxido férrico (nos vegetais) – esta necessita do pH ácido do estômago para ser reduzida à forma ferrosa e poder ser adequadamente absorvida.
+
 b) Absorção
-Do total de ferro ingerido, 30% da forma heme e 10% da não heme são absorvidos, e o restante é eliminado nas fezes. A absorção diária no homem varia de 0,5 a 1mg/d, sendo o dobro na mulher, o que é justificado pela perda menstrual, e o quá-druplo na gestante, em razão do consumo pelo feto. A absorção pode ser ajustada de acordo com as necessidades orgânicas – na presença de deficiência de ferro, a eficácia da absorção do metal pode aumentar até 5 vezes em relação ao basal. 
-O ferro, de maneira geral, é absorvido pela borda “em escova” das células epiteliais da vilosidade intestinal, especialmente no duodeno e no jejuno proximal. Os íons ferrosos (Fe++) são absorvidos mais eficientemente do que a forma férrica (Fe+++); esta, por sua vez, necessitam da acidez gástrica para a estabilização e a ligação com a mucina. A partir de então, uma enzima, chamada redutase férrica transmembrana, converte Fe+++ em Fe++, o qual precisa atravessar a membrana apical da célula intestinal pela proteína DMT1 (transportador de metal divalente do tipo 1), saindo, assim, do lúmen intestinal e atingindo o interior celular (Figura 2).
+Do total de ferro ingerido, 30% da forma heme e 10% da não heme são absorvidos, e o restante é eliminado nas fezes. A absorção diária no homem varia de 0,5 a 1mg/d, sendo o dobro na mulher, o que é justificado pela perda menstrual, e o quádruplo na gestante, em razão do consumo pelo feto. A absorção pode ser ajustada de acordo com as necessidades orgânicas – na presença de deficiência de ferro, a eficácia da absorção do metal pode aumentar até 5 vezes em relação ao basal. 
+O ferro, de maneira geral, é absorvido pela borda “em escova” das células epiteliais da vilosidade intestinal, especialmente no duodeno e no jejuno proximal. Os íons ferrosos (Fe++) são absorvidos mais eficientemente do que a forma férrica (Fe+++); esta, por sua vez, necessita da acidez gástrica para a estabilização e a ligação com a mucina. A partir de então, uma enzima chamada redutase férrica transmembrana converte Fe+++ em Fe++, o qual precisa atravessar a membrana apical da célula intestinal pela proteína DMT1 (transportador de metal divalente do tipo 1), saindo, assim, do lúmen intestinal e atingindo o interior celular (Figura 2).
 Existem substâncias capazes de interferir na absorção do ferro, como o ácido ascórbico, que modifica a valência de férrico para ferroso e melhora a absorção, ou como os fitatos (farelos, aveia, centeio), tanatos (chás), oxalatos (uvas-passas, figo, ameixa, batatas-doces, amêndoas, tomate, chocolate, cacau), fosfatos (leite e derivados), antiácidos, cálcio e até antibióticos (tetraciclina, quinolonas), que reduzem a absorção.
 Como já citado, o duodeno e a porção superior do jejuno são os locais de máxima absorção; consequentemente, síndromes disabsortivas ou bypass dessas áreas podem levar à deficiência de ferro. 
 Uma vez no interior celular, o ferro tem 2 vias possíveis: ou é armazenado como ferritina, ou é transportado para o plasma, passando pela proteína transmembrana ferroportina, que, por sua vez, atua em conjunto com a hefaestina para nova transformação de íon ferroso em férrico.
 Atualmente, sabe-se, ainda, que a regulação da absorção é dada por uma proteína de fase aguda chamada hepcidina; sintetizada no fígado, atua diretamente na inibição da absorção de ferro, bem como diminuindo a sua liberação do interior da célula intestinal, pelo feedback negativo do seu transportador na membrana basolateral ferroportina. Logo, sua superexpressão causa aumento dos estoques de ferro associado a diminuição da absorção desse íon e de sua quantidade sérica circulante. 
-Observação
-Situações em que a hepcidina está aumentada são infecção, inflamação, aumento do estoque de ferro; situações em que estão diminuídas são hipóxia, anemia, deficiência de ferro, eritropoese inefetiva e altos níveis de EPO.
+
+Importante
+Situações em que a hepcidina (proteína que regula a absorção de ferro) está aumentada são infecção, inflamação e aumento do estoque de ferro. Situações em que está diminuída são hipóxia, anemia, deficiência de ferro, eritropoese inefetiva e altos níveis de eritropoetina. 
+
 A hepcidina e a ferroportina são reguladoras da absorção de ferro: aumentam a absorção quando os estoques estão baixos ou ausentes e quando há aumento da eritropoese (principalmente em doenças que cursam com eritropoese ineficaz: mielodisplasia, betatalassemia e anemia sideroblástica); e diminuem a absorção quando os estoques estão repletos. A hepcidina também regula a liberação de ferro pelos macrófagos que fagocitaram eritrócitos senescentes.
+
 c) Transporte do ferro
 O ferro ferroso (Fe++), absorvido pelo enterócito, pode ser armazenado na forma de ferritina ou novamente ser oxidado em férrico (Fe+++), para se ligar à transferrina e ser transportado aos diversos tecidos pela ação da hefaestina, enzima dependente de cobre. Os tecidos que necessitam de ferro possuem receptores de transferrina em quantidade proporcional às suas necessidades, pois, por meio deles, se ligam àquela e recebem o ferro.
+
  
 Figura 2 - Absorção de ferro no duodeno
+
+Pergunta
+2012 - UFF
+1. Num idoso com anemia ferropriva, frequentemente, vários parâmetros laboratoriais do metabolismo do ferro estão alterados. O mais sensível deles, aquele que traduz a perda do estoque desse oligoelemento e desponta como alteração inicial na sua deficiência, é:
+a) a diminuição da capacidade de ligação do ferro
+b) a diminuição da hemoglobina globular média
+c) a diminuição da ferritina sérica
+d) o aumento da segmentação dos neutrófilos
+e) o aumento do volume globular médio
+Resposta no final do capítulo
+
 d) Reaproveitamento do ferro
 Aproximadamente, de 20 a 25mg são liberados diariamente pelas hemácias senescentes para os macrófagos. O núcleo heme da hemácia fagocitada pelo macrófago é metabolizado, deixando o ferro livre para a circulação sanguínea através da ferroportina ou para armazenamento na forma de ferritina, a depender das necessidades do organismo.
+
 e) Perda
 Não há nenhum mecanismo de regulação da perda do ferro. Ele é perdido pelo suor e pela descamação da pele e do epitélio gastrintestinal na taxa de aproximadamente 1mg/d; na mulher, em cada ciclo menstrual, a perda é aumentada em 1 a 2mg/d.
 Nenhum mecanismo de excreção foi ainda detectado, nem pelo fígado, nem pelos rins, portanto a homeostasia fica balanceada entre uma absorção diária de 1 a 2mg e uma perda diária da mesma quantidade.
+
  
+
 Figura 3 - Homeostasia do ferro 
 
 A gravidez pode modificar tal equilíbrio, em razão do aumento da demanda de ferro de até 2 a 5mg/d. A dieta normal, geralmente, não supre essas necessidades, e o ferro medicinal é necessário durante a gravidez. Gestações repetidas, principalmente quando seguidas de amamentação, são causas frequentes de anemia ferropriva caso não haja aporte de ferro adicional.
 As perdas crônicas desequilibram o cálculo entre o aporte diário e a absorção de ferro. Deve-se pensar nesse fato como num balanço comercial: se a absorção for equivalente a 2mL de sangue ao dia (1mg), perdas acima dessa quantidade deverão ser compensadas pelo mecanismo de aumento do aproveitamento do ferro alimentar. Contudo, tal mecanismo nem sempre é suficiente, e os estoques de ferro são lentamente depletados, até que a deficiência se instale. O processo é frequente nas hipermenorreias, em que a mulher pode relatar fluxo intenso e duradouro por muitos anos e considerá-lo normal.
-A redução da absorção do ferro, como na gastrite atrófica ou na acloridria, doença celíaca e gastrite por Helicobacter pylori, levam à deficiência. Contudo, o sangramento em algum local do tubo digestivo é causa muito mais comum dessa condição. 
-Reitera-se que a causa mais frequente de deficiência de ferro em adultos é a perda de sangue, seja menstrual, nas hipermenorreias ou polimenorreias; seja digestiva, em úlceras gástricas, doenças diverticulares ou tumores do trato gastrintestinal. Patologias aparentemente não sangrantes, como a esofagite e a hérnia de hiato, podem estar relacionadas.
+A redução da absorção do ferro, como na gastrite atrófica ou na acloridria, doença celíaca e gastrite por Helicobacter pylori levam à deficiência. Contudo, o sangramento em algum local do tubo digestivo é causa muito mais comum dessa condição. 
+Reitera-se que a causa mais frequente de deficiência de ferro em adultos é a perda de sangue, seja menstrual, nas hipermenorreias ou polimenorreias, seja digestiva, em úlceras gástricas, doenças diverticulares ou tumores do trato gastrintestinal. Patologias aparentemente não sangrantes, como a esofagite e a hérnia de hiato, podem estar relacionadas.
 A hemoglobinúria crônica também pode causar deficiência de ferro, pois é possível perder acima de 1mg/d por essa via. Esse quadro pode ocorrer por hemólise mecânica, por válvulas cardíacas metálicas e por hemólise intravascular sustentada, como na hemoglobinúria paroxística noturna.
 A Tabela 3 sintetiza os fatores que levam à deficiência de ferro. 
+
 Tabela 3 - Fatores etiológicos da deficiência de ferro
 - Diminuição da oferta:
-  · Ingesta inadequada (rara);
-  · Diminuição da absorção (acloridria, gastrectomia, doença celíaca, gastrite por Helicobacter pylori, gastroplastia redutora).
+· Ingesta inadequada (rara);
+· Diminuição da absorção (acloridria, gastrectomia, doença celíaca, gastrite por Helicobacter pylori, gastroplastia redutora).
 - Aumento do consumo – necessidade:
-  · Infância (principalmente dos 6 meses aos 2 anos);
-  · Adolescência;
-  · Gravidez e lactação;
-  · Parasitose intestinal.
+· Infância (principalmente dos 6 meses aos 2 anos);
+· Adolescência;
+· Gravidez e lactação;
+· Parasitose intestinal.
 - Aumento das perdas – sangramento no trato gastrintestinal e fluxo menstrual aumentado:
-  · Pós-operatório;
-  · Doação de sangue frequente;
-  · Hemoglobinúria;
-  · Hemossiderose pulmonar idiopática; síndrome de Goodpasture e atletas.
+· Pós-operatório;
+· Doação de sangue frequente;
+· Hemoglobinúria;
+· Hemossiderose pulmonar idiopática; síndrome de Goodpasture e atletas.
 - Alterações no transporte e no metabolismo:
-  · Ausência congênita de transferrina;
-  · Perda na síndrome nefrótica.
+· Ausência congênita de transferrina;
+· Perda na síndrome nefrótica.
+
 Em geral, a falta de ingesta como causa isolada de ferropenia é rara, devendo ser um diagnóstico de exclusão, pois mesmo a quantidade de ferro em dietas de extrema pobreza é suficiente para aporte adequado de ferro, considerando-se a capacidade do organismo em aumentar a sua absorção de ferro em até 5 vezes.
+
+Vídeo
+Fisiopatologia da anemia ferropriva
+  
+
 C - Quadro clínico
 A apresentação clínica pode incluir tanto manifestações da doença de base como do próprio estado anêmico. A privação de ferro manifesta-se com sintomas em outros órgãos e tecidos, independentemente da presença ou não de anemia, como queda de cabelo, redução do rendimento intelectual e mialgia. Os sintomas evoluem de maneira gradual e incluem fadiga, taquicardia, palpitação, irritabilidade, tontura, cefaleia e intolerância aos esforços de intensidade variável. Pela instalação insidiosa e prolongada, os mecanismos adaptativos do organismo permitem tolerância de níveis bastante baixos de Hb. 
-Tabela 4 - Queixas frequentes na ferropenia 
-- Perversão do apetite (pica ou malacia): vontade de comer terra, barro, arroz cru; 
-- Pagofagia: compulsão por comer gelo, altamente específico de ferropenia;
-- Unhas quebradiças e finas;
-- Língua lisa com perda das papilas, glossite, estomatite angular (queilite angular), gastrite atrófica, diminuição da saliva. 
+
+Importante
+São queixas frequentes na ferropenia: perversão do apetite (pica – vontade de comer terra, barro, arroz cru), pagofagia (compulsão por comer gelo), unhas quebradiças e finas, língua lisa, com perda das papilas, glossite, estomatite angular, gastri-te atrófica e diminuição da saliva.
+
+
  
 Figura 4 - Língua com perda das papilas
-Tabela 5 - Manifestações clínicas muito raras
-- Disfagia: em razão do surgimento de uma membrana cricofaríngea patológica (à combinação de glossite, disfagia, membrana crico-faríngea e anemia ferropriva, chama-se síndrome de Plummer-Vinson ou síndrome Patterson-Kelly);
-- Alteração nos mecanismos de imunidade: principalmente os relacionados à imunidade celular e macrofágica; em decorrência disso, podem-se encontrar infecções do trato digestivo ou genital por Candida albicans, e não é rara a remissão dessas infecções apenas com a suplementação de ferro; 
+
+Tabela 4 - Manifestações clínicas muito raras
+- Disfagia: em razão do surgimento de uma membrana cricofaríngea patológica (a combinação de glossite, disfagia, membrana cricofa-ríngea e anemia ferropriva chama-se síndrome de Plummer-Vinson ou síndrome Patterson-Kelly);
+- Alteração nos mecanismos de imunidade: principalmente os relacionados às imunidades celular e macrofágica; em decorrência disso, podem-se encontrar infecções do trato digestivo ou genital por Candida albicans, e não é rara a remissão dessas infecções apenas com a suplementação de ferro; 
 - Coiloníquia: unhas em forma de colher (Figura 5);
 - Esclera azul: sinal raro, em que a esclera fica mais fina, deixando a coroide visível, em virtude da formação inadequada do colágeno;
 - Tríade específica para ferropenia: pagofagia, coiloníquia e esclera azul.
 
  
 Figura 5 - Coiloníquia
+
  
 Figura 6 - Queilite angular
+
 D - Laboratório
 Os achados laboratoriais acompanham a evolução do quadro clínico, pois a deficiência de ferro se instala por etapas:
-Tabela 6 - Etapas da instalação de deficiência de ferro no organismo
+
+Tabela 5 - Etapas da instalação de deficiência de ferro no organismo
 - Inicialmente, ocorre depleção dos estoques de ferro, com redução dos níveis de ferritina sérica abaixo de 30ng/mL. A ferritina é o indicador mais confiável do status do ferro no organismo, por ser menos sensível às variações distributivas do que o ferro sérico e seus indicadores de transporte. Contudo, é uma proteína “de fase aguda”, ou seja, aumenta perante quadros inflamatórios, devendo ser considerada com cautela quando há concomitância da anemia com infecções ou inflamações severas. Para dosagens de ferritina extremamente baixas (<15ng/mL), a especificidade do teste é de 99%;
-- Posteriormente, a formação dos eritrócitos continua, porém os níveis de ferro circulante e a saturação da transferrina caem, mostrando que não resta mais ferro para ser mobilizado. A Capacidade Total de Ligação do Ferro (CTLF) e a quantidade de receptor de transferrina solúvel aumentam, mostrando que os receptores do ferro estão “vazios”;
-- Outros parâmetros menos utilizados no cotidiano, porém de valor acadêmico, são: receptor de transferrina solúvel (produzido pelos eritróci-tos de forma aumentada na carência de ferro, conferindo a essas células maior capacidade de absorção do ferro) e protoporfirina eritrocitá-ria livre (reflete diretamente a substituição do ferro pelo zinco na formação do heme, estando aumentada nas ferropenias);
-- A falta de ferro para formar Hb leva à formação de hemácias com pouco conteúdo (hipocromia: hemoglobina corpuscular média baixa), que, ao se adaptarem a essa situação, alcançam volumes corpusculares mais baixos (microcitose: Volume Corpuscular Médio – VCM – baixo), re-sultando em anisocitose importante e RDW (índice de anisocitose) aumentado. Nas formas mais severas, podem ser notadas formas bizar-ras das hemácias, apresentando poiquilocitose intensa. A contagem de reticulócitos está diminuída, pois a eritropoese também está. A con-tagem de plaquetas pode elevar-se em razão do aumento da secreção de EPO pela anemia. O padrão-ouro para a avaliação direta do esto-que de ferro é a análise da medula óssea com pesquisa do ferro medular, por meio da coloração com azul da Prússia (Perls). Desta forma, é possível avaliar semiquantitativamente o estoque de ferro nos macrófagos; porém, como sua aplicabilidade é limitada, opta-se por medidas indiretas;
-- Deve-se sempre ser lembrado de investigar a causa: diante de ferropenia ou anemia ferropriva, sem causa aparente (hipermenorreia, gesta-ção, adolescência ou infância), avaliar inicialmente: endoscopia digestiva alta e colonoscopia, caso não seja identificada nenhuma anomalia; avaliar intestino delgado (exame de imagem – tomografia de abdome e cápsula endoscópica).
-Tabela 7 - Perfil laboratorial
+- Posteriormente, a formação dos eritrócitos continua, porém os níveis de ferro circulante e a saturação da transferrina caem, mos-trando que não resta mais ferro para ser mobilizado. A Capacidade Total de Ligação do Ferro (CTLF) e a quantidade de receptor de transferrina solúvel aumentam, mostrando que os receptores do ferro estão “vazios”;
+- Outros parâmetros menos utilizados no cotidiano, porém de valor acadêmico, são: receptor de transferrina solúvel (produzido pelos eritrócitos de forma aumentada na carência de ferro, conferindo a essas células maior capacidade de absorção do ferro) e protoporfi-rina eritrocitária livre (reflete diretamente a substituição do ferro pelo zinco na formação do heme, estando aumentada nas ferrope-nias);
+- A falta de ferro para formar Hb leva à formação de hemácias com pouco conteúdo (hipocromia: Hemoglobina Corpuscular Média – HCM – baixa), que, ao se adaptarem a essa situação, alcançam volumes corpusculares mais baixos (microcitose: Volume Corpuscular Médio – VCM – baixo), resultando em anisocitose importante e RDW (índice de anisocitose) aumentado. Nas formas mais severas, podem ser notadas formas bizarras das hemácias, apresentando poiquilocitose intensa. A contagem de reticulócitos está diminuída, pois a eritropoese também está. A contagem de plaquetas pode elevar-se em razão do aumento da secreção de EPO pela anemia. O padrão-ouro para a avaliação direta do estoque de ferro é a análise da medula óssea com pesquisa do ferro medular, por meio da coloração com azul da Prússia (Perls). Desta forma, é possível avaliar semiquantitativamente o estoque de ferro nos macrófagos; porém, como sua aplicabilidade é limitada, opta-se por medidas indiretas;
+- Deve-se sempre lembrar de investigar a causa: diante de ferropenia ou anemia ferropriva, sem causa aparente (hipermenorreia, gestação, adolescência ou infância), avaliar inicialmente: endoscopia digestiva alta e colonoscopia, caso não seja identificada ne-nhuma anomalia; avaliar intestino delgado (exame de imagem – tomografia de abdome e cápsula endoscópica).
+
+Importante
+Inicialmente, ocorre depleção dos estoques de ferro, com diminuição da ferritina sérica abaixo de 30ng/mL. Em seguida, os níveis de ferro circulante e a saturação de transferrina caem. Devido à falta de ferro, a formação de hemoglobina é deficiente, fazendo que o conteúdo das hemácias seja pequeno, acarretando volumes corpusculares médios mais baixos e causando anisocitose importante, o que eleva o valor do RDW.
+
+Tabela 6 - Perfil laboratorial
 Laboratório	Resultados
 Reticulócitos	Diminuídos ou normais
 Ferro sérico	Diminuído
@@ -130,7 +194,8 @@ Saturação de transferrina	Diminuída
 CTLF	Aumentada
 Transferrina	Aumentada
 Receptor de transferrina solúvel	Aumentado
-Protoporfiria eritrocitária	Aumentada
+Protoporfirina eritrocitária	Aumentada
+
 E - Diagnóstico diferencial
 Outras causas de anemia hipocrômica microcítica devem ser consideradas na avaliação clínica. Contudo, a história e o exame físico geralmente são suficientes para confirmar o diagnóstico. São diagnósticos diferenciais: 
 Anemia de doença crônica;
@@ -139,15 +204,21 @@ Anemia sideroblástica;
 Hemoglobinopatia C;
 Intoxicação por chumbo.
 É importante ressaltar que, no hipotireoidismo e na deficiência de vitamina C, existe diminuição de ferritina sem depleção dos estoques de ferro.
+
 F - Tratamento
 Além de oferecer o aporte de ferro para o tratamento da deficiência subjacente, deve-se tratar a causa, ou seja, investigar a fonte de perda sanguínea e tratá-la, já que a persistência da perda é o principal motivo de manutenção e até piora da anemia ferropriva.
 É extremamente rara a necessidade de transfusão para a correção de anemia ferropriva, pois esta é de instalação lenta, e o organismo se adapta a níveis bastante baixos de Hb. Deve ser reservada a quadros de instabilidade hemodinâmica por sangramento excessivo ou situações que apresentam sinais de isquemia tecidual/cor anêmico.
 A 1ª opção para o tratamento da anemia ferropriva é o ferro oral, pois é de custo bastante baixo, de fácil administração e sem efeitos adversos graves. O ferro parenteral, por ser mais custoso, com necessidade de infusão em ambiente hospitalar e risco de reações adversas graves e até fatais, deve ser reservado para casos especiais.
+
+Tratamento
+O tratamento da anemia por deficiência de ferro pode ser feito por meio da reposição de ferro oral ou parenteral. Na reposição oral em adultos, utiliza-se sulfato ferroso na dose de 5mg/kg/d, e, na reposição parenteral, utiliza-se na grande maioria das vezes o sacarato de hidróxido de ferro III (Noripurum®). 
+
 a) Ferro oral 
 Apesar do aparecimento de várias formas diferentes de ferro oral, o melhor tratamento para a deficiência continua a ser o sulfato ferroso. A dose preconizada para adultos é de 2 a 3mg de ferro elementar por kg/d ou 5mg de sulfato ferroso/kg/d (o comprimido contém 65mg de ferro elementar, correspondendo a 2 a 4 comprimidos de sulfato ferroso/d), tomados longe das refeições, para garantir o máximo aproveitamento. Em crianças, preconiza-se o uso de 2mg/kg/d, procurando não ultrapassar 15mg/d, para não aumentar a toxicidade.
-O principal problema no uso do sulfato ferroso são os possíveis efeitos colaterais: intolerância digestiva, com dispepsia, dor epigástrica, diarreia, constipação, gosto amargo na boca e escurecimento das fezes. Muitas vezes, conseguem-se controlar os efeitos adversos com a ingestão do medicamento junto às refeições, fracionamento ou redução da dose diária, lembrando-se, porém, que essas medidas podem reduzir o aporte terapêutico de ferro elementar em até 50%, resultando em maior tempo de tratamento. O aporte de ferro oral deverá ser mantido por, pelo menos, 4 a 6 meses após a normalização da Hb, para garantir a repleção dos estoques do mineral. Contudo, recomenda-se realizar nova dosagem de ferritina sérica após o término da reposição, para confirmar a normalização das reservas, que devem estar acima de 50ng/mL e saturação de transferrina >20% (deixando um intervalo de pelo menos 7 dias entre a última dose da medicação e a coleta do exame, já que a ingesta de suplementos de ferro é a principal causa de resultados falsamente normais de ferro sérico e ferritina). Algumas vezes, pode ser necessário manter o aporte de ferro oral por mais tempo, principalmente quando a causa da deficiência ainda não foi resolvida ou ultrapassada.
+O principal problema no uso do sulfato ferroso são os possíveis efeitos colaterais: intolerância digestiva, com dispepsia, dor epigástrica, diarreia, constipação, gosto amargo na boca e escurecimento das fezes. Muitas vezes, conseguem-se controlar os efeitos adversos com a ingestão do medicamento junto às refeições, fracionamento ou redução da dose diária, lembrando-se, porém, que essas medidas podem reduzir o aporte terapêutico de ferro elementar em até 50%, resultando em maior tempo de tratamento. O aporte de ferro oral deverá ser mantido por, pelo menos, 4 a 6 meses após a normalização da Hb, para garantir a repleção dos estoques do mineral. Contudo, recomenda-se realizar nova dosagem de ferritina sérica após o término da reposição, para confirmar a normalização das reservas, que devem estar acima de 50ng/mL e com saturação de transferrina >20% (deixando um intervalo de pelo menos 7 dias entre a última dose da medicação e a coleta do exame, já que a ingesta de suplementos de ferro é a principal causa de resultados falsamente normais de ferro sérico e ferritina). Algumas vezes, pode ser necessário manter o aporte de ferro oral por mais tempo, principalmente quando a causa da deficiência ainda não foi resolvida ou ultrapassada.
 Atualmente, existe o ferro quelato ou quelatado, superior ao sulfato ferroso quanto às queixas de intercorrências gastrintestinais, pois não ocorre liberação de íons ferro no trato gastrintestinal, como acontece com o uso de outros sais de ferro, o que pode estar relacionado ao fato de a absorção desse tipo acontecer principalmente no jejuno.
 A eficácia da reposição pode ser avaliada por meio do pico reticulocitário, que ocorre de 5 a 7 dias após o início do tratamento, e pela elevação de Hb, em 3 semanas, de pelo menos 2g/dL (0,2g/dL/d). Em casos de refratariedade ao tratamento, deve-se pensar em dose inadequada da medicação prescrita, falta de adesão, falta de absorção e persistência da causa da ferropenia.
+
 b) Ferro parenteral
 Em virtude de efeitos adversos graves (choque anafilático em 1% dos casos), a administração de ferro parenteral deve ser reservada a casos estritos:
 Na intolerância ao ferro oral, apesar da alteração da posologia ou da mudança na apresentação;
@@ -155,38 +226,64 @@ Na falta de absorção do ferro oral, como em alguns casos pós-gastrectomia;
 Na vigência de doença gastrintestinal (como as doenças inflamatórias intestinais), pois pode haver piora dos sintomas;
 Nos casos em que há perda intensa, com o ferro oral não sendo suficiente para corrigir as necessidades;
 Pacientes em hemodiálise, que apresentam perdas constantes pelo procedimento e pelo déficit de absorção intestinal.
-Atenção
-O grau de anemia não faz parte das indicações de ferro parenteral; assim, mesmo que o paciente esteja com baixos níveis de Hb, se não estiver sintomático a ponto de realizar transfusão de hemácias e não houver nenhuma contraindicação ao uso de ferro oral, opta-se por essa modalidade de reposição.
-Até pouco tempo, a única apresentação comercial de ferro parenteral no Brasil era o sacarato de hidróxido de ferro III (Noripurum®), que se encontra em formulação tanto para aplicação intramuscular quanto para infusão intravenosa após diluição, sendo preferível esta última. A administração de ferro intramuscular é dolorosa, de absorção lenta e incompleta, pode impregnar-se na região da aplicação e não é menos tóxica ou mais segura do que a outra administração, estando atualmente proscrito o seu uso rotineiro. O déficit de ferro é calculado pela determinação do decréscimo em massa de células vermelhas do sangue normal, reconhecendo que há 1mg de ferro em cada mililitro de células vermelhas do sangue.
-Já foi lançada no mercado uma apresentação de ferro para uso intravenoso, a carboximaltose férrica (Ferinject®), com maior comodidade, posologia e cálculo de dose que leva em conta somente o peso do paciente, com excelentes resultados, porém com maior custo para aquisição.
-Ferro corpóreo total entre 2 e 4g: aproximadamente 50mg/kg nos homens e 35mg/kg em mulheres. A maioria (70 a 95%) do ferro está presente em circulação da forma de Hb de hemácias. Nos homens, o volume de glóbulos vermelhos é de aproximadamente 30mL/kg, e, em mulheres, é de cerca de 27mL/kg. Assim, uma mulher de 50kg cuja Hb é de 9g/dL (75% do normal) possui um déficit de ferro de 0,25mg × 27 × 50kg = 337,5mg. A dose de ferro parenteral é o déficit de ferro e (geralmente) 1g adicional para repor os estoques de ferro e antecipar, ainda, perda maior de ferro; neste caso, 1,4g.
-Tabela 8 - Fórmula para cálculo da dose do ferro parenteral (hidróxido de ferro III)
-Dose total de hidróxido de Fe (mL) =	[peso (kg) x DHb* (g/dL) x 2,4] + reservas de Fe** (mg)
-	Apresentação de hidróxido de ferro III: 20mgFe/mL
-* DHb = diferença entre a Hb ideal para o sexo e a idade e a Hb encontrada no exame labora-torial do paciente. 
+
+Importante
+O grau de anemia não faz parte das indicações de ferro parenteral; assim, mesmo que o paciente esteja com baixos níveis de hemoglobina, se não estiver sintomático a ponto de realizar transfusão de hemácias e não houver nenhuma contraindi-cação ao uso de ferro oral, opta-se por essa modalidade de reposição. 
+
+Até pouco tempo, a única apresentação comercial de ferro parenteral no Brasil era o sacarato de hidróxido de ferro III (Noripurum®), que se encontra em formulação tanto para aplicação intramuscular quanto para infusão intravenosa após dilui-ção, sendo preferível esta última. A administração de ferro intramuscular é dolorosa, de absorção lenta e incompleta, pode impregnar-se na região da aplicação e não é menos tóxica ou mais segura do que a outra administração, estando atualmente proscrito o seu uso rotineiro. O déficit de ferro é calculado pela determinação do decréscimo em massa de células vermelhas do sangue normal, reconhecendo que há 1mg de ferro em cada mililitro de células vermelhas do sangue.
+Foi lançada no mercado uma apresentação de ferro para uso intravenoso, a carboximaltose férrica (Ferinject®), com maior comodidade e posologia e cálculo de dose que levam em conta somente o peso do paciente, com excelentes resultados, porém com maior custo para aquisição.
+
+Tabela 7 - Fórmula para cálculo da dose do ferro parenteral (hidróxido de ferro III)
+Dose total de 
+hidróxido de Fe =	[peso (kg) x DHb* (g/dL) x 2,4] + reservas de Fe** (mg)
+	Apresentação de hidróxido de ferro III: 20mg de Fe/mL
+* DHb = diferença entre a Hb ideal para o sexo e a idade e a Hb encontrada no exame laboratorial do paciente. 
 ** Reservas de Fe = 15mg/kg, com máximo de 500mg.
-Tabela 9 - Principais causas de anemia ferropriva de acordo com a faixa etária
+
+Exemplo de cálculo para uma mulher de 50kg cuja Hb é de 9g/dL: considerando-se o Hb ideal = 13g/dL, temos [50 x (4 x 2,4)] + 500 = 980mg (˜ 1g). A dose de ferro parenteral será de 1.000mg, ou seja, 50mL (ou 10 ampolas) de hidróxido de ferro III. 
+
+Tabela 8 - Principais causas de anemia ferropriva de acordo com a faixa etária
 Faixas etárias	Causas
 Crianças, adolescentes, gestantes e nutrizes	Aumento do consumo associado a menor ingesta
 Mulheres em idade fértil	Hipermenorragia
-Mulheres pós-menopausa e homens 	Doença gastrintestinal/neoplasia gastrintestinal
+Mulheres na pós-menopausa e homens 	Doença gastrintestinal/neoplasia gastrintestinal
+
 5. Anemia de doença crônica 
+
 A - Considerações gerais e fisiopatologia
 A Anemia de Doença Crônica (ADC) é a etiologia mais frequente de anemia entre indivíduos hospitalizados, pois a maioria das doenças sistêmicas crônicas se associa a quadros de anemia leve ou moderada. Nessa condição, ocorre resposta hematológica insuficiente perante as injúrias sistêmicas dos mais variados tipos, como inflamação, infecção, trauma, neoplasia, hepatopatia alcoólica, insuficiência cardíaca congestiva, diabetes, trombose, doença pulmonar obstrutiva crônica, insuficiência renal, entre outros. 
-Tabela 10 - Fisiopatologia: múltiplos mecanismos que, associados, levam ao quadro anêmico
-Distúrbio na hemostasia do ferro	É o principal mecanismo fisiopatológico; há diminuição na captação e aumento no armazena-mento pelo sistema reticuloendotelial, diminuindo o nível sérico do ferro e a disponibilização para os precursores eritroides, com consequente queda do ferro sérico e aumento dos níveis de ferritina.
-Diminuição da sobrevida e produ-ção eritrocitárias	Ocorre pela ação de interleucinas, que inibem a proliferação e a diferenciação de precursores eritroides, e pela falha da medula óssea em compensar adequadamente essa redução.
+
+Tabela 9 - Fisiopatologia: múltiplos mecanismos que, associados, levam ao quadro anêmico
+Distúrbio na hemostasia do ferro	É o principal mecanismo fisiopatológico; há diminuição na captação e aumento no armaze-namento pelo sistema reticuloendotelial, diminuindo o nível sérico do ferro e a disponibiliza-ção para os precursores eritroides, com consequentes queda do ferro sérico e aumento dos níveis de ferritina.
+Diminuição da sobrevida e produção eritrocitárias	Ocorre pela ação de interleucinas, que inibem a proliferação e a diferenciação de precursores eritroides, e pela falha da medula óssea em compensar adequadamente essa redução.
 Diminuição relativa dos níveis de EPO	Embora esta esteja pouco aumentada quando da dosagem, seu nível não é suficiente para aumentar a eritropoese, provavelmente por elevação da apoptose dos precursores eritroides.
-Estudos recentes apontam, ainda, o papel de proteínas que interferem no metabolismo celular do ferro na etiopatogenia da ADC. A hepcidina, já citada, tem sua liberação aumentada diante de quadros infecciosos e inflamatórios, particularmente com liberação de interleucina 6 (IL-6). Tal proteína provoca a retenção do ferro dentro dos macrófagos, impedindo o retorno do ferro estocado à circulação, bloqueando também a passagem daquele presente nos enterócitos para a circulação (inibe a ferroportina), os quais perdem esse metal ao sofrerem a descamação fisiológica. 
+
+Estudos recentes apontam, ainda, o papel de proteínas que interferem no metabolismo celular do ferro na etiopatogenia da ADC. A hepcidina, já citada, tem sua liberação aumentada diante de quadros infecciosos e inflamatórios, particularmente com liberação de interleucina 6 (IL-6). Tal proteína provoca a retenção do ferro dentro dos macrófagos, impedindo o retorno do ferro estocado à circulação e bloqueando também a passagem daquele presente nos enterócitos para a circulação (inibe a ferroportina), os quais perdem esse metal ao sofrerem a descamação fisiológica. 
 Acrescenta-se, ainda, o papel das interleucinas, como IL-1, IL-6, fator de necrose tumoral e alfainterferona, que são responsáveis por diminuir a responsividade da medula óssea à EPO, induzir à apoptose dos precursores eritroides e down-regulation dos receptores de EPO nos precursores eritroides, diminuir a liberação de EPO pelas células renais, alterar a expressão de receptores de transferrina e ferritina e aumentar a liberação de hepcidina.
-Aparentemente, níveis mais elevados de EPO e aumento do estímulo de eritropoese levam à redução da síntese de hepcidina e ao aumento da disponibilidade do ferro. A administração de EPO em doses maiores também pode inibir o efeito de interleucinas, particularmente a alfainterferona.
-Existe uma variante da ADC, que é a anemia relacionada a eventos agudos: trauma, infarto agudo do miocárdio, pós-cirúrgico e sepse – é a chamada “anemia do doente crítico”, que apresenta a mesma fisiopatologia de baixo ferro sérico e baixa reposta à EPO endógena.  
+Aparentemente, níveis mais elevados de EPO e aumento do estímulo de eritropoese levam à redução da síntese de hepcidina e ao aumento da disponibilidade do ferro. A administração de EPO em doses maiores também pode inibir o efeito de interleucinas, particularmente de alfainterferona.
+Existe uma variante da ADC, que é a anemia relacionada a eventos agudos: trauma, infarto agudo do miocárdio, pós-cirúrgico e sepse – é a chamada “anemia do doente crítico”, que apresenta a mesma fisiopatologia de baixo ferro sérico e baixa reposta à EPO endógena.
+
+Importante
+A hepcidina aumentada nos quadros infecciosos e inflamatórios e o aumento das interleucinas IL-1, IL-6, fator de necrose tumoral e alfainterferona, que diminuem a responsividade da medula óssea à eritropoetina, têm papel importante no de-senvolvimento da anemia de doença crônica. 
+  
  
-Figura 7 - Fisiopatologia
+Figura 7 - Fisiopatologia 
+
 B - Sinais e sintomas
 Os achados clínicos são usualmente modestos, correlacionados usualmente com a doença de base, devendo-se suspeitar do diagnóstico quando o paciente é portador conhecido de alguma patologia crônica; entretanto, a confirmação será feita somente com os achados laboratoriais.
 Deve-se investigar a coexistência de causas de deficiência nutricional concomitante, por déficit de ingesta, sangramento ou disabsorção, e observar a presença de sinais/sintomas sugestivos das carências.
 A sintomatologia é de anemia, e o quadro específico da doença de base pode dificultar o diagnóstico.
+
+Pergunta
+2012 - SES-SC
+2. Assinale a alternativa correta sobre a anemia de doença crônica:
+a) a hepcidina atua diminuindo a absorção de ferro no intestino e a liberação deste metal dos hepatócitos e macrófagos, contribuindo para a gênese da anemia de doença crônica
+b) o tratamento aumenta a sobrevida relacionada à doença de base
+c) é comumente normocítica e normocrômica, com ferro sérico baixo e ferritina sérica baixa
+d) a capacidade total de ligação do ferro está elevada
+e) os sintomas tendem a ser graves, dificultando o diagnóstico da doença de base
+Resposta no final do capítulo
+
 C - Quadro laboratorial
 A anemia é de intensidade variável. Muitos pacientes apresentam valor de Hb entre 10 e 11g/dL, mas alguns casos podem ter anemia grave, com Hb <8g/dL (até 30% dos casos). Em pacientes com esse tipo de anemia é sempre importante afastar outras causas de anemia concomitante: insuficiência renal, carência nutricional ou sangramento. A prevalência e a severidade estão relacionadas ao estágio da doença de base e à idade do paciente.
  A morfologia eritrocitária é normocítica/normocrômica, e a contagem reticulocitária está diminuída como resultado da eritropoese diminuída. Em 30% dos casos, a anemia pode ser hipocrômica e microcítica, especialmente quando em associação à anemia ferropriva.
@@ -197,13 +294,16 @@ Saturação de transferrina normal (mas em 20% dos casos pode estar diminuída);
 Dosagem de receptores de transferrina solúveis diminuída;
 Ferritina normal ou elevada, por tratar-se de proteína de fase aguda e pelo aumento dos estoques de ferro;
 Pesquisa do ferro medular revelando quantidade normal ou aumentada de ferro nos macrófagos e diminuída ou ausente nos precursores eritroides (diminuição ou ausência dos sideroblastos). 
+
 Substâncias que sugerem atividade inflamatória elevada, como a proteína C reativa, velocidade de hemossedimentação e fibrinogênio, podem estar elevadas.
 A ADC é um diagnóstico de exclusão, e sempre se devem investigar outras causas de anemia, principalmente as nutricionais.
+
 D - Diagnóstico diferencial
 A ADC é uma anemia normocítica e normocrômica, hipoproliferativa e com as demais linhagens celulares normais, tendo como principal diagnóstico diferencial a anemia da insuficiência renal. Outras situações que podem cursar com quadro semelhante são as anemias secundárias às doenças endócrinas graves: hipotireoidismo, hiperparatireoidismo, insuficiência adrenal e mesmo pan-hipopituitarismo. 
 Nas poucas vezes em que a ADC se apresenta como anemia hipocrômica e microcítica, o diagnóstico diferencial mais difícil é da anemia ferropriva. Há de ressaltar que as 2 entidades apresentam ferro sérico diminuído; na anemia ferropriva, porém, existe déficit absoluto de ferro por depleção dele; já na ADC, existe menor disponibilidade desse íon, que se encontra sequestrado nos estoques teciduais. Assim, os exames mais fidedignos para diferenciar as 2 situações são pesquisa do ferro medular, que, na carência de ferro, está ausente, e dosagem do receptor de transferrina, que está aumentada na ferropriva e diminuída na ADC. A quantificação da CTLF também é um dado importante, pois está aumentada na ferropriva e diminuída na ADC. Deve-se estar atento para o fato de que as 2 situações podem coexistir. Entretanto, na rotina clínica, lança-se mão da ferritina, que usualmente está aumentada na ADC e diminuída na anemia ferropriva.
 Outros diagnósticos diferenciais de anemia hipocrômica e microcítica: talassemia, anemia sideroblástica, deficiência de cobre, intoxicação por chumbo e hemoglobinopatia C.
-Tabela 11 - Diferenciação entre anemia ferropriva e ADC
+
+Tabela 10 - Diferenciação entre anemia ferropriva e anemia de doença crônica
 Exames laboratoriais	ADC	Anemia ferropriva	Ambas as condições
 Ferro sérico 	Reduzido	Reduzido	Reduzido
 Transferrina	Reduzida a normal	Aumentada	Reduzida
@@ -212,86 +312,117 @@ Ferritina	Normal a aumentada	Reduzida	Reduzida a normal
 Receptor de transferrina solúvel	Normal	Aumentado	Normal a aumentado
 Nível de citocinas	Aumentado	Normal	Aumentado
 Ferro medular	Aumentado	Baixo	Normal ou baixo
+
 E - Tratamento
 O tratamento é o da doença de base. A anemia tende a ser discreta e, muitas vezes, não necessita de tratamento. Em casos mais graves, ou nos quais a doença de base é de tratamento mais difícil, podem ser necessárias transfusões de concentrados de hemácias quando a oxigenação tissular é muito prejudicada. 
 Sangramento, deficiência de vitamina B12, folato e ferro devem ser corrigidos, caso presentes.
+
+Tratamento
+Na anemia de doença crônica, o tratamento deve ser da doença de base em si, uma vez que a anemia geralmente é discreta e não necessita ser tratada. 
+
 A EPO recombinante injetável, indicada a pacientes com Hb <10g/dL, apresenta boa resposta em 40 a 80% dos casos. O nível sérico de EPO <500UI/L é bom preditor de resposta. Em 2 semanas de tratamento com EPO, espera-se a elevação de, ao menos, 0,5g/dL de Hb, com a dose de EPO de 100 a 150U/kg, 3x/sem. Se não houver resposta em 6 a 8 semanas, aumentar a EPO para 300mg/kg, 3x/sem. Se não houver resposta em 12 semanas, suspender e manter apenas suporte transfusional quando necessário. 
 Deve-se fazer reposição de ferro oral concomitante para manter a ferritina >100ng/dL e a saturação de transferrina >20%. Se não houver melhora dos níveis de ferro com a apresentação oral, utilizar ferro parenteral (a hepcidina elevada diminui a absorção intestinal do ferro). De maneira geral, a reposição de ferro somente é indicada a casos de concomitância com anemia ferropriva ou refratariedade ao uso de agentes eritropoéticos por depleção férrica.
+
 6. Anemias sideroblásticas
+
 A - Considerações gerais 
 As anemias sideroblásticas, congênitas ou adquiridas, compõem um grupo heterogêneo de doenças nas quais há o comprometimento da síntese de Hb, em virtude da falha na síntese de protoporfirina, que, junto com o ferro, forma o núcleo heme da Hb. O metabolismo do heme ocorre nas mitocôndrias e, desta forma, como está deficiente, o ferro pode se acumular particularmente nas mitocôndrias dos eritroblastos e macrófagos. 
 A anemia sideroblástica hereditária mais comum é ligada ao X, de baixa incidência e de manifestação precoce. Nessa forma, há deficiência da enzima ácido aminolevulínico sintetase, necessária para a formação da protoporfirina. 
 As formas adquiridas são mais comuns e ocorrem por alcoolismo, toxicidade por drogas (cloranfenicol e agentes antituberculose), intoxicação por chumbo, deficiência de cobre e, mais frequentemente, como manifestação de uma desordem medular (clonal) em célula-tronco hematopoética, a mielodisplasia ou síndrome mielodisplásica, capaz de evoluir para leucemia aguda.
+
  
 Figura 8 - Formação do heme 
+
 B - Quadros clínico e laboratorial
-Não há sintomas clínicos além dos relacionados à anemia, que geralmente é moderada, com níveis de Hb entre 7 e 9g/dL. O diagnóstico é feito por meio do exame da medula óssea, que mostra sinais de eritropoese ineficaz (ou seja, hiperplasia eritroide medular que não se traduz em aparecimento de reticulócitos no sangue periférico) e deficiência na maturação citoplasmática. A coloração de ferro medular pelo corante azul de Prússia, ou coloração de Perls, mostra aumento generalizado nos depósitos de ferro. Em algumas situações, podem-se encontrar sideroblastos “em anel” (depósitos de ferro ao redor do núcleo do eritroblasto). Os níveis séricos de ferro, ferritina e a saturação de transferrina estão elevados, revelando a sobrecarga daquele.
+Não há sintomas clínicos além dos relacionados à anemia, que geralmente é moderada, com níveis de Hb entre 7 e 9g/dL. O diagnóstico é feito por meio do exame da medula óssea, que mostra sinais de eritropoese ineficaz (ou seja, hiperplasia eritroide medular que não se traduz em aparecimento de reticulócitos no sangue periférico) e deficiência na maturação citoplasmática. A coloração de ferro medular pelo corante azul de Prússia, ou coloração de Perls, mostra aumento generalizado nos depósitos de ferro. Em algumas situações, podem-se encontrar sideroblastos “em anel” (depósitos de ferro ao redor do núcleo do eritroblasto). Os níveis séricos de ferro e ferritina e a saturação de transferrina estão elevados, revelando a sobrecarga daquele.
+
 a) Hereditária
-A anemia aparece nos primeiros meses de vida; pode haver esplenomegalia. Apresenta microcitose e hipocromia, devendo ser diferenciada da anemia ferropriva e das talassemias. 
+A anemia aparece nos primeiros meses de vida; pode haver esplenomegalia. Apresenta microcitose e hipocromia, devendo haver diferenciação da anemia ferropriva e das talassemias. 
+
 b) Adquirida
 Tende a ser macrocítica, com subpopulação microcítica. Pode apresentar leucopenia e/ou plaquetopenia.
 No caso da intoxicação por chumbo, o pontilhado basófilo eritroide é característico, e os níveis séricos desse metal estão acima do normal.
+
  
 Figura 9 - Sideroblastos “em anel” pela coloração de Perls
+
 C - Tratamento
-Tabela 12 - Tratamento (dependente da causa-base)
+Tabela 11 - Tratamento (dependente da causa-base)
 - Quando a etiologia é secundária ao uso de drogas, a retirada delas é suficiente; 
 - Na intoxicação por chumbo, está indicada a quelação do metal pesado;
 - Na deficiência de cobre, deve ser feita a suplementação do metal;
 - No alcoolismo, deve ser orientada a suspensão da ingesta alcoólica e feita suplementação vitamínica com ácido fólico e vitamina B6;
-- Na mielodisplasia, alguns pacientes têm demonstrado resposta ao uso de piridoxina (vitamina B6, necessária para as etapas iniciais da síntese do heme), porém a maioria dos casos não responde a tal terapêutica, sendo necessário tratamento quimioterápico e, quando possível, transplante de célula-tronco hematopoética (antigamente chamado “transplante de medula óssea”);
+- Na mielodisplasia, alguns pacientes têm demonstrado resposta ao uso de piridoxina (vitamina B6, necessária para as etapas iniciais da síntese do heme), porém a maioria dos casos não responde a tal terapêutica, sendo necessário tratamento quimioterápico e, quando possível, transplante de células-tronco hematopoéticas;
 - Na forma hereditária, há ótima resposta com a reposição de piridoxina;
 - O uso de EPO pode ser eficaz em alguns casos; por sua vez, o suporte transfusional depende da sintomatologia de cada paciente e pode ser necessário por toda a vida nas displasias;
 - Por fim, os níveis de ferro devem ser monitorizados, e a quelação deve ser indicada àqueles com ferritina >1.000µg/mL.
+
 7. Anemia megaloblástica
+
 A anemia megaloblástica é um distúrbio provocado pela síntese comprometida do DNA. A divisão celular é lenta, em razão da inadequada conversão de desoxiuridilato em timidilato. O desenvolvimento citoplasmático progride normalmente, de modo que as células megaloblásticas tendem a ser grandes, com proporção aumentada de RNA e proteínas em relação ao DNA. O aspecto das células é característico, e o termo megaloblástico refere-se às anormalidades que aparecem nos núcleos celulares dos precursores eritroides, com a presença de grandes núcleos com cromatina rendilhada, traduzida no sangue periférico pelo encontro de macro-ovalócitos.
 As alterações morfológicas afetam todas as linhagens, inclusive a granulocítica e a megacariocítica, podendo ocorrer pancitopenia.
+
+Importante
 Existem 4 tipos etiológicos de anemia megaloblástica: por deficiência de cobalamina (Cbl – vitamina B12), por deficiência de folato, por drogas e por alterações variadas, que incluem síndrome mielodisplásica, formas raras de deficiências enzimáticas e doenças ainda inexplicáveis, como a síndrome de Lesch-Nyhan.
+
 A - Anemia por deficiência de vitamina B12
+
 a) Considerações gerais
 A vitamina B12 pertence à família das Cbls e atua em 2 reações importantes:
 Como metil-Cbl: coenzima da metionina sintetase, que catalisa a transferência do radical metil da metil-Cbl para a homocisteína, formando a metionina, importante na metilação de vários neurotransmissores, fosfolipídios, DNA e RNA. O grupo metil do 5-metiltetra-hidrofolato restabelece a metil-Cbl doando seu radical metil, resultando na formação do tetra-hidrofolato, importante para a síntese de timidilato;
 Como adenosil-Cbl: cofator para a conversão da metilmalonil-coenzima A em succinil-coenzima A.
+
  
-Figura 10 - Papel da metil-Cbl no metabolismo humano 
+Figura 10 - Papel da metilcobalamina no metabolismo humano 
 
 b) Fisiopatologia
 A vitamina B12 é encontrada somente em produtos de origem animal (carnes, ovos e derivados do leite), e toda aquela presente no corpo humano provém da dieta. A necessidade diária é de 2µg/d para adultos e 2,6µg/d para gestantes e lactentes. A reserva é de 2.000 a 5.000mg, a metade estocada no fígado. Portanto, desde que o consumo diário esteja entre 2 e 5µg, a carência pode levar mais de 3 anos para estabelecer-se após a instalação de um bloqueio de absorção.
-A Cbl da dieta está ligada a proteínas alimentares, precisando sofrer ação da acidez e pepsina do estômago para ser liberada e ligada à proteína R (ou haptocorrina), produzida pela saliva e pelo suco gástrico. A combinação proteína-R + B12 impede a absorção da vitamina em meio gástrico. Proteases do suco pancreático produzem meio alcalino no duodeno e liberam o ligante da B12, disponibilizando-o para ligar-se ao Fator Intrínseco (FI), secretado pelas células parietais do fundo gástrico e da cárdia. Vitamina B12 + FI são absorvidos no íleo distal (99%), por meio do complexo receptor cubilina/AMN, que é dependente de cálcio.
-Posteriormente, a Cbl é transportada através do plasma pelas trans-Cbls e estocada, principalmente no fígado. As trans-Cbls são proteínas de transporte de vitamina B12 e, até o momento, foram identificados 3 tipos dessa proteína: I, II e III, cada qual com um local de síntese diferente e variações na estrutura de glicoproteínas. Aproximadamente 90% da B12 plasmática circulam ligados às trans-Cbls, porém apenas a trans-Cbl II tem a capacidade de transportar a vitamina para o interior das células. Uma vez dentro das células, a Cbl é metabolizada em metil-Cbl e adenosil-Cbl.
+A Cbl da dieta está ligada a proteínas alimentares, precisando sofrer ação da acidez e pepsina do estômago para ser liberada e ligada à proteína R (ou haptocorrina), produzida pela saliva e pelo suco gástrico. A combinação proteína R + B12 impede a absorção da vitamina em meio gástrico. Proteases do suco pancreático produzem meio alcalino no duodeno e liberam o ligante da B12, disponibilizando-o para ligar-se ao Fator Intrínseco (FI), secretado pelas células parietais do fundo gástrico e da cárdia. Vitamina B12 + FI são absorvidos no íleo distal (99%), por meio do complexo receptor cubilina–AMN, que é dependente de cálcio.
+Posteriormente, a Cbl é transportada através do plasma pelas trans-Cbls e estocada, principalmente, no fígado. As trans-Cbls são proteínas de transporte de vitamina B12 e, até o momento, foram identificados 3 tipos dessa proteína: I, II e III, cada qual com um local de síntese diferente e variações na estrutura de glicoproteínas. Aproximadamente 90% da B12 plasmática circulam ligados às trans-Cbls, porém apenas a trans-Cbl II tem a capacidade de transportar a vitamina para o interior das células. Uma vez dentro das células, a Cbl é metabolizada em metil-Cbl e adenosil-Cbl.
 Portanto, para a absorção adequada da vitamina B12, são necessários os seguintes fatores:
 Ingesta adequada;
 Acidez gástrica;
 Proteases pancreáticas;
 Secreção de FI;
 Receptor ileal funcionante.
+
  
 Figura 11 - Absorção de B12 
-Tabela 13 - Consequências da deficiência de Cbl
-Aumento da homocisteína	Evento tóxico ao endotélio, acelerando a arteriosclerose, podendo causar tromboembolismo venoso
+
+Tabela 12 - Consequências da deficiência de cobalamina
+Aumento da homocisteína	Evento tóxico ao endotélio, acelerando a arteriosclerose, podendo causar tromboembolis-mo venoso
 Aumento de metilmalonil-coenzima A	Já que não há mais cofator para transformação em succinil-coenzima A
-Diminuição da metionina	Papel importante na neuropatia da deficiência da vitamina B12
+Diminuição da metionina	Papel importante na neuropatia da deficiência de vitamina B12
 Diminuição da formação de THF (tetra-hidrofolato)	Alteração na síntese de DNA
+
 Pela síntese inadequada de THF, ocorre eritropoese ineficaz, ou seja, a medula óssea é repleta de precursores, porém, no sangue periférico, há reticulocitopenia relativa e anemia, em consequência de hemólise intramedular por formação de precursores alterados. 
+
+Vídeo
+Absorção da vitamina B12
+ 
+
 c) Causas de deficiência
 Deficiência de ingesta
 Uma vez que a vitamina está presente em todos os alimentos de origem animal, a deficiência por ausência de ingesta é raríssima, podendo afetar os considerados vegetarianos veganos (que não ingerem ovos nem produtos lácteos).
 Deficiência de absorção
-As cirurgias de gastrectomia podem causar deficiência de B12 pela retirada da camada de mucosa produtora de FI, pela diminuição da produção do suco gástrico e pela ocorrência da chamada “síndrome da alça cega”, em que o crescimento bacteriano excessivo leva à competição pela vitamina no lúmen intestinal. Ileostomias em que a porção absorvedora de B12 é retirada também provocam carência. 
+As cirurgias de gastrectomia podem causar deficiência de B12 pela retirada da camada de mucosa produtora de FI, pela diminuição da produção do suco gástrico e pela ocorrência da chamada “síndrome da alça cega”, em que o crescimento bacteriano excessivo leva a competição pela vitamina no lúmen intestinal. Ileostomias em que a porção absorvedora de B12 é retirada também provocam carência. 
 Uma causa rara de deficiência de B12, porém frequentemente citada, é a infestação por Diphyllobothrium latum, um parasita que afeta peixes de águas frias. Essa larva atua competindo com a absorção da vitamina.
 Na pancreatite e na doença de Crohn grave, há deficiência por retardo da absorção no íleo. Outras doenças que afetam a região de absorção ileal, como tuberculose intestinal, linfoma intestinal e irradiação pélvica, também são fatores que levam à falta da vitamina.
 Há relatos também entre portadores de Helicobacter pylori, nos quais o tratamento deste corrige a deficiência da vitamina.
-Deficiência de fator intrínseco
- A causa mais comum de deficiência de B12 é a chamada anemia perniciosa, doença autoimune que dificilmente se manifesta antes da idade adulta. O FI diminui por meio de 2 mecanismos principais:
-Anticorpos antifator intrínseco: detectáveis em 70% dos pacientes com anemia perniciosa;
-Gastrite atrófica: associada ao anticorpo anticélula parietal (detectável em 90%), diminuindo a secreção do FI. A gastrite atrófica também está associada ao risco aumentado de neoplasia gástrica e tumor carcinoide gástrico, recomendando-se vigilância com endoscopia anual. 
-Geralmente, a anemia perniciosa associa-se a outras alterações imunológicas, como deficiência de IgA, vitiligo, hipotireoi-dismo e insuficiência endócrina poliglandular. 
 
-Observação
-Idosos são particularmente suscetíveis à deficiência de B12, devido à má absorção por anemia perniciosa, infecção por Helicobacter pylori, uso prolongado de medicamentos que interferem na absorção (biguanida, antiácidos, inibidor da bomba de prótons) e insuficiência pancreática.
-Causas hereditárias
-São muito raras, mas podem acontecer por secreção de FI qualitativamente deficiente, mutação do gene do receptor ileal cubilina/AMN e deficiência congênita de trans-Cbl. 
-Tabela 14 - Causas de deficiência de vitamina B12
+Deficiência de fator intrínseco
+A causa mais comum de deficiência de B12 é a chamada anemia perniciosa, doença autoimune que dificilmente se manifesta antes da idade adulta. O FI diminui por meio de 2 mecanismos principais:
+Anticorpos antifator intrínseco: detectáveis em 70% dos pacientes com anemia perniciosa, possuem 100% de especificidade;
+Gastrite atrófica: associada ao anticorpo anticélula parietal (detectável em 90%), diminuindo a secreção do FI. É mais sensível que o anticorpo antifator intrínseco, porém mais sensível. A gastrite atrófica também está associada ao risco aumentado de neoplasia gástrica e tumor carcinoide gástrico, recomendando-se vigilância com endoscopia anual. 
+
+Geralmente, a anemia perniciosa associa-se a outras alterações imunológicas, como deficiência de IgA, vitiligo, hipotireoidismo e insuficiência endócrina poliglandular. 
+
+Tema frequente de prova
+Os fatores de risco que tornam os idosos particularmente suscetíveis à deficiência de B12 são encontrados frequentemente como tema nas provas de Residência Médica.
+
+Causas hereditárias: são muito raras, mas podem acontecer por secreção de FI qualitativamente deficiente, mutação do gene do receptor ileal cubilina–AMN e deficiência congênita de trans-Cbl. 
+
+Tabela 13 - Causas de deficiência de vitamina B12
 - Anemia perniciosa;
 - Gastrectomia/cirurgia bariátrica;
 - Doença péptica;
@@ -303,101 +434,147 @@ Tabela 14 - Causas de deficiência de vitamina B12
 - Gestante vegetariana;
 - Medicamentos: biguanida, neomicina;
 - Inibidor da bomba de prótons.
+
 d) Quadro clínico 
 Há relato de sintomas relacionados à anemia, geralmente grave, podendo ocorrer também sangramentos quando se instala plaquetopenia.
 Como a síntese de DNA alterada afeta todos os tecidos com alto turnover, o estado megaloblástico produz mudanças nas mucosas, levando a glossite, assim como a outros distúrbios gastrintestinais inespecíficos, por exemplo, anorexia e diarreia. 
 Ocorre também síndrome neurológica complexa e característica chamada “degeneração combinada subaguda”, em que os nervos periféricos geralmente são os primeiros afetados, com queixas iniciais de parestesia simétrica, acometendo mais os membros inferiores do que os superiores. As colunas posteriores da medula espinal começam a sofrer lesão, e os pacientes queixam-se de alterações sensoriais mais graves, caracteristicamente com redução da propriocepção, apresentando ataxia e, nos casos mais severos, paraplegia, incontinência urinária e fecal. Em casos mais avançados, podem ocorrer alterações neuropsiquiátricas e até demência. Os sintomas neurológicos podem aparecer independentemente da anemia; na verdade, de 12 a 25% daqueles com carência de B12 podem evoluir com sintomas neurológicos exclusivamente, sem alteração hematológica.
 A reposição de folato é capaz de corrigir a anemia, porém não afeta o quadro neurológico ou há até piora deste, nos casos de deficiência de B12.
 Não é incomum, entre pacientes com anemia perniciosa, o diagnóstico de outras doenças autoimunes, como tireoidite de Hashimoto e vitiligo.
-Ao exame físico, encontram-se palidez e, às vezes, icterícia leve. Durante o exame neurológico, redução da sensação vibratória e da propriocepção pode estar presente, sendo o 1º sinal de neuropatia periférica. Constitui quadro clássico: idosa, levemente ictérica e pálida, com língua careca, mentalmente lenta e com passos largos e trôpegos.
+Ao exame físico, encontram-se palidez e, às vezes, icterícia leve. Durante o exame neurológico, redução da sensação vibratória e da propriocepção pode estar presente, sendo os primeiros sinais de neuropatia periférica. Constitui quadro clássico: idosa, levemente ictérica e pálida, com língua careca, mentalmente lenta e com passos largos e trôpegos.
 A anemia megaloblástica caracteriza-se por macrocitose com VCM, que pode chegar a 140fL. A associação à deficiência de ferro não é rara; nesse caso, o VCM pode estar normal ou até diminuído.
 No esfregaço de sangue periférico, nota-se anisopoiquilocitose acentuada, e o achado característico é a presença de macro-ovalócitos. Os neutrófilos maduros mostram hipersegmentação nuclear (5% com 5 segmentos ou mais, ou 1% com 6 segmentos ou mais – polilobócitos).
 A contagem de plaquetas e granulócitos pode estar reduzida, e os reticulócitos estão baixos.
-A morfologia eritroide medular é característica, com hiperplasia eritroide como resposta à produção vermelha ineficaz, e ocorre a presença típica de células grandes, com assincronia de maturação do núcleo e do citoplasma (já que o citoplasma continua a amadurecer, mas o núcleo, pelo defeito de síntese de ácidos nucleicos, retarda sua progressão). Na série granulocítica, além dos polilobócitos, podem ser vistos metamielócitos gigantes. A combinação macro-ovalócitos + neutrófilos hipersegmentados é patognomônica de anemia megaloblástica.
-Como resultado da eritropoese ineficaz e da destruição intramedular das células anômalas, os níveis séricos de bilirrubinas e desidrogenase láctica podem elevar-se, com aumento discreto da primeira e pronunciado da segunda.
+A morfologia eritroide medular é característica, com hiperplasia eritroide como resposta à produção vermelha ineficaz, e ocorre a presença típica de células grandes, com assincronia de maturação do núcleo e do citoplasma (já que o citoplasma continua a amadurecer, mas o núcleo, pelo defeito de síntese de ácidos nucleicos, retarda sua progressão). Na série granulocítica, além dos polilobócitos, podem ser vistos metamielócitos gigantes. A combinação macro-ovalócitos–neutrófilos hipersegmentados é patognomônica de anemia megaloblástica.
+Como resultado da eritropoese ineficaz e da destruição intramedular das células anômalas, os níveis séricos de bilirrubinas e desidrogenase láctica podem elevar-se, com aumento discreto das primeiras e pronunciado da segunda.
 O diagnóstico de deficiência de vitamina B12 é feito pela dosagem da vitamina no sangue, que deverá estar baixa, desde que o paciente não tenha recebido recentemente aporte exógeno da vitamina. É comum encontrar deficiência de B12, mas com níveis séricos normais, por terem recebido hidratação venosa ou suplementos vitamínicos contendo complexo B. A dosagem sérica da vitamina sofre várias limitações: gestantes com níveis diminuídos sem deficiência, variação individual ampla, alguns com dosagem normal diante do quadro de deficiência; portanto, em casos de dosagem normal de vitamina B12, mas com quadro clínico e hemograma altamente suspeitos, podem-se dosar homocisteína sérica e ácido metilmalônico sérico e urinário (todos estarão aumentados). Essas dosagens são atualmente o padrão-ouro para diagnóstico, tanto que valores normais desses metabólitos intermediários, mesmo com dosagens diminuídas de B12, excluem diagnóstico de anemia megaloblástica.
-O teste de Schilling, realizado como forma de evidenciar a redução da absorção da vitamina B12 administrada via oral, permite o diagnóstico diferencial entre a anemia perniciosa e as falhas de absorção que ocorrem sem relação com a falta de FI. Também consiste na dosagem urinária de Cbl marcada; apenas de importância histórica, sem utilidade prática, pela dificuldade do uso do material radioativo.
-Para o diagnóstico da anemia perniciosa, podem ser dosados o anticorpo antifator intrínseco (mais específico: 100%, porém pouco sensível: 50 a 70%), anticélula parietal (pouco sensível e específico) e dosagem sérica de gastrina (bastante sensível: 90 a 95%, mas pouco específico).
-Tabela 15 - Passo a passo do teste de Schilling
+O teste de Schilling, realizado como forma de evidenciar a redução da absorção de vitamina B12 administrada via oral, permite o diagnóstico diferencial entre a anemia perniciosa e as falhas de absorção que ocorrem sem relação com a falta de FI. Também consiste na dosagem urinária de Cbl marcada; apenas de importância histórica, sem utilidade prática, pela dificuldade do uso do material radioativo.
+
+Dica
+O teste de Schilling permite o diagnóstico diferencial entre a anemia por diminuição na absorção de vitamina B12 não asso-ciada a falta de fator intrínseco e a anemia perniciosa.
+
+Para o diagnóstico da anemia perniciosa, podem-se dosar o anticorpo antifator intrínseco (mais específico: 100%, porém pouco sensível: 50 a 70%), anticélula parietal (pouco sensível e específico) e dosagem sérica de gastrina (bastante sensível: 90 a 95%, mas pouco específico).
+
+Pergunta
+2010 - INCA
+3. Vítor tem 25 anos, é vegetariano há 10 anos e apresenta, no exame admissional para o cargo de porteiro, anemia com contagem de reticulócitos normal e volume corpuscular médio elevado. O médico do trabalho inicia investigação para:
+a) hemólise
+b) perda sanguínea crônica
+c) carência severa de ferro
+d) deficiência de cobalamina
+Resposta no final do capítulo 
+
+Tabela 14 - Passo a passo do teste de Schilling
 Passos	Interpretações
-1 - Administração de alta dose de B12 intramuscular; após ingestão de vitamina B12 via oral marcada com radioisótopo, com medição posterior da excreção urinária deste.	Como houve administração de alta dose, houve supressão de qualquer carência presente. Caso haja correta absorção de vitamina B12 radiomarcada, esta será excretada pela urina, tendo em vista o organismo não mais precisar dela. Caso não haja excreção, há algum problema de absorção.
-2 - Administração de vitamina B12 marcada e FI, com medição de excreção urinária em 24 horas.	Caso haja excreção urinária, ocorre correção de disabsorção pela administração de FI, com diagnóstico de anemia perniciosa ou gastrectomia.
-3 - Administração de B12 marcada e enzimas pancreáticas.	Se há correção de excreção urinária, há correção de absorção pela presença de enzimas pancreáticas, com diagnóstico de patologia pancreática.
-4 - Administração prévia de antibióticos via oral (cefalosporina de 1ª geração e metronidazol), com posterior ingestão de B12 marcada.	Caso haja aumento de excreção urinária, há competição na absorção pela presença de bactérias, como na síndrome da alça cega ou outras causas de hiperproliferação bacteriana.
+1 - Administração de alta dose de B12 intramuscular; após ingestão de vitamina B12 via oral marcada com radioisótopo, com medição posterior da excreção urinária deste.	Como houve administração de alta dose, houve supressão de qualquer carência presente. Caso haja correta absorção de vitamina B12 radiomar-cada, esta será excretada pela urina, tendo em vista o organismo não mais precisar dela. Caso não haja excreção, há algum problema de absor-ção.
+2 - Administração de vitamina B12 marcada e FI, com medi-ção de excreção urinária em 24 horas.	Caso haja excreção urinária, ocorre correção de disabsorção pela adminis-tração de FI, com diagnóstico de anemia perniciosa ou gastrectomia.
+3 - Administração de B12 marcada e enzimas pancreáticas.	Se há correção de excreção urinária, há correção de absorção pela presen-ça de enzimas pancreáticas, com diagnóstico de patologia pancreática.
+4 - Administração prévia de antibióticos via oral (cefalospori-na de 1ª geração e metronidazol), com posterior ingestão de B12 marcada.	Caso haja aumento de excreção urinária, há competição na absorção pela presença de bactérias, como na síndrome da alça cega ou outras causas de hiperproliferação bacteriana.
+
 e) Diagnóstico diferencial
 Deve-se, primeiramente, diferenciar a deficiência de B12 da deficiência de folato, pela semelhança dos quadros clínico e laboratorial, embora possa haver concomitância.
 Afastar também a mielodisplasia, capaz de causar alterações morfológicas medulares bem semelhantes, mas sem haver concomitantemente queda dos níveis de B12 (normais na mielodisplasia) nem quadros neurológicos associados. Pelo quadro de pancitopenia que pode acontecer, deve-se diferenciar de anemia aplásica e leucemias agudas.
+
 f) Tratamento
-Os pacientes com anemia perniciosa são tratados com aporte parenteral de vitamina B12, sugerindo o uso diário de 1.000mg IM. O esquema proposto é de 1 injeção/d por 1 semana; após, 1 injeção/sem durante 1 mês; e, depois, 1x/m por toda a vida. Pode-se, em alguns casos, utilizar a manutenção com Cbl oral de forma alternativa, 1.000mg/d, continuamente.
-Também se deve evitar o folatos antes do início da reposição da vitamina, pois podem agravar o quadro neurológico.
-O 1º sinal de resposta é sensação inespecífica de bem-estar, seguida da redução dos outros sintomas. Já no 2º dia do tratamento, há queda importante do ferro sérico, bilirrubina e desidrogenase láctica, além da normalização das alterações encontradas na medula óssea.
+Os pacientes com anemia perniciosa são tratados com aporte parenteral de vitamina B12, sugerindo o uso diário de injeção de 1.000mg IM. O esquema proposto é de 1 injeção/d por 1 semana; após, 1 injeção/sem durante 1 mês; e, depois, 1x/mês por toda a vida. Pode-se, em alguns casos, utilizar a manutenção com Cbl oral de forma alternativa, 1.000mg/d, continuamente.
+Também se deve evitar o uso de folato antes do início da reposição da vitamina, pois pode agravar o quadro neurológico.
+
+Tratamento
+O tratamento da anemia por deficiência de vitamina B12 é feito por meio da reposição parenteral no esquema de 1 inje-ção/d por 1 semana, passando para 1 injeção/sem durante 1 mês e, depois, 1x/mês, por toda a vida.
+
+O 1º sinal de resposta é sensação inespecífica de bem-estar, seguida da redução dos outros sintomas. Já no 2º dia do tratamento, há queda importante de ferro sérico, bilirrubina e desidrogenase láctica, além da normalização das alterações encontradas na medula óssea.
 Pode acontecer hipocalemia nos primeiros dias de tratamento, principalmente se a anemia é muito grave, pelo aumento da utilização para a eritropoese. 
 Espera-se aumento de contagem reticulocitária em 3 a 4 dias de tratamento, com pico entre o 7º e o 10º dias. Os neutrófilos hipersegmentados desaparecem ao redor do 10º ao 14º dia. E a normalização hematológica acontece em torno de 2 meses após o início da terapêutica. 
 Os sintomas do sistema nervoso central são reversíveis em até 12 meses, caso haja pouco tempo de evolução (menos de 6 meses), mas podem ficar sequelas permanentes caso o tratamento não seja iniciado prontamente.
+
 B - Anemia por deficiência de ácido fólico 
+
 a) Considerações gerais
 O Ácido Fólico (AF) está presente na maioria dos vegetais e das frutas (principalmente nos cítricos e nas folhas verdes) na forma de poliglutamato, sendo hidrolisado em monoglutamato no jejuno, onde é absorvido. As necessidades diárias variam entre 50 e 100µg, aumentando na gestação até 8 vezes. Os estoques corpóreos de folato alcançam cerca de 5.000µg, nível suficiente para suprir os requerimentos orgânicos por 2 a 3 meses.
-Os folatos constituem um grupo de compostos heterocíclicos nos quais o ácido pteroico está conjugado com 1 ou diversos resíduos de ácido L-glutâmico. O AF, para ser biologicamente ativo, necessita sofrer redução, passando pelas formas intermediárias de diidrofolato e THF, por meio da enzima diidrofolato redutase. Pode, ainda, ligar unidades de carbono, que inclui grupos metil (CH3), metileno (CH2), formil (-CHO-) ou formimino (-CHNH-), conferindo ao folato a função de coenzima, em diferentes sistemas enzimáticos, como carreador dessas unidades de carbono em diferentes graus de oxidação.
-Os folatos podem ser absorvidos ao longo de todo o intestino delgado, preferencialmente no jejuno. Para sua absorção, os poliglutamatos necessitam ser hidrolisados a monoglutamatos pela enzima intestinal pteroilpoliglutamato hidrolase. Uma vez absorvidos, os folatos monoglutamatos podem ser convertidos a 5-metiltetra-hidrofolato (5-metil-THF), principal forma encontrada no plasma, onde é transportado para o fígado e os tecidos periféricos via circulação porta.
+Os folatos constituem um grupo de compostos heterocíclicos nos quais o ácido pteroico está conjugado com um ou diversos resíduos de ácido L-glutâmico. O AF, para ser biologicamente ativo, necessita sofrer redução, passando pelas formas intermediárias de diidrofolato e THF, por meio da enzima diidrofolato redutase. Pode, ainda, ligar unidades de carbono, que inclui grupos metil (CH3), metileno (CH2), formil (-CHO-) ou formimino (-CHNH-), conferindo ao folato a função de coenzima, em diferentes sistemas enzimáticos, como carreador dessas unidades de carbono em diferentes graus de oxidação.
+Os folatos podem ser absorvidos ao longo de todo o intestino delgado, preferencialmente no jejuno. Para sua absorção, os poliglutamatos necessitam ser hidrolisados em monoglutamatos pela enzima intestinal pteroilpoliglutamato hidrolase. Uma vez absorvidos, os folatos monoglutamatos podem ser convertidos a 5-metiltetra-hidrofolato (5-metil-THF), principal forma encontrada no plasma, onde é transportado para o fígado e os tecidos periféricos via circulação porta.
 O folato é estocado principalmente no fígado e também é secretado na bile, onde a circulação êntero-hepática será responsável por sua reabsorção e reutilização, diminuindo as perdas orgânicas.
 A importância dessa vitamina está na participação de reações de transferência de unidades de carbono, como reações de metilação, síntese de metionina, biossíntese de purinas e formação de timidilato (fundamentais para a síntese do DNA). 
+
 b) Causas da deficiência
-A principal causa de deficiência é falha na ingesta: anoréxicos, etilismo crônico, pessoas que não ingerem frutas ou vegetais crus e aqueles que cozinham demasiadamente os alimentos (a AF é termolábil, destruído após 15 minutos de cozimento). 
+A principal causa de deficiência é falha na ingesta: anoréxicos, etilismo crônico, pessoas que não ingerem frutas ou vegetais crus e aqueles que cozinham demasiadamente os alimentos (o AF é termolábil, destruído após 15 minutos de cozimento). 
+
+Importante
 O alcoolismo crônico pode resultar em deficiência de folato por diminuição da ingesta alimentar, diminuição da circulação êntero-hepática e bloqueio da absorção pela inibição direta do álcool sobre a enzima pteroilpoliglutamato hidrolase.
+
 Raramente é vista a deficiência por déficit de absorção. O AF é absorvido no jejuno proximal, por isso a deficiência pode ocorrer principalmente entre indivíduos com síndromes disabsortivas crônicas (espru tropical). 
 Existem condições em que os requerimentos diários de folato aumentam intensamente, podendo levar aos quadros carenciais, como na gestação, nas doenças esfoliativas cutâneas crônicas e nas anemias hemolíticas. É muito importante o suplemento durante a gestação, para prevenir malformação fetal, como os defeitos de tubo neural (anencefalia e espinha bífida).
-Drogas como a fenitoína – que pode interferir na absorção do folato –, a sulfassalazina e o sulfametoxazol-trimetoprima – que são inibidores fracos da diidrofolato-redutase – e o metotrexato – que é inibidor forte da diidrofolato-redutase – levam a diminuição da síntese de DNA (diminui a síntese de timidilato) e provocam anemia megaloblástica por deficiência funcional. Paciente em esquema de hemodiálise por IRC pode apresentar deficiência de AF por este ser dialisável, logo, perdido durante as múltiplas sessões às quais é submetido.
+Drogas como a fenitoína – que pode interferir na absorção do folato –, a sulfassalazina e o sulfametoxazol-trimetoprima – que são inibidores fracos da diidrofolato redutase – e metotrexato – que é inibidor forte da diidrofolato redutase – levam a diminuição da síntese de DNA (diminui a síntese de timidilato) e provocam anemia megaloblástica por deficiência funcional. Paciente em esquema de hemodiálise por IRC pode apresentar deficiência de AF por este ser dialisável, logo, perdido durante as múltiplas sessões às quais é submetido.
+
 c) Quadros clínico e laboratorial
 O quadro é semelhante ao da deficiência de vitamina B12, com as mudanças megaloblásticas e as alterações de mucosa, porém não se apresenta quadro neurológico associado.
-Acontece também a elevação da desidrogenase láctica e das bilirrubinas, porém a dosagem de B12 é normal. O AF sérico está abaixo de 3ng/mL. Os níveis eritrocitários são mais específicos do que a dosagem no soro, contudo esse é um exame de maior complexidade e menor disponibilidade. Em caso de dúvida diagnóstica, pode-se observar aumento da homocisteína sérica e urinária, mas, diferentemente dão que ocorre na deficiência de vitamina B12, a dosagem do ácido metilmalônico está normal.
-Tabela 16 - Dosagem de metabólitos intermediários
+Acontece também a elevação da desidrogenase láctica e das bilirrubinas, porém a dosagem de B12 é normal. O AF sérico está abaixo de 3ng/mL. Os níveis eritrocitários são mais específicos do que a dosagem no soro, contudo esse é um exame de maior complexidade e menor disponibilidade. Em caso de dúvida diagnóstica, pode-se observar aumento da homocisteína sérica e urinária, mas, diferentemente do que ocorre na deficiência de vitamina B12, a dosagem do ácido metilmalônico está normal.
+
+Tabela 15 - Dosagem de metabólitos intermediários
 Achados laboratoriais	Carência de vitamina B12	Carência de AF
 Homocisteína	Aumentada	Aumentada
 Ácido metilmalônico	Aumentado	Normal
+
 d) Diagnóstico diferencial
 Obviamente, deve ser afastada a deficiência, mas deve-se considerar que doenças hepáticas crônicas, hipotireoidismo e o uso de zidovudina em portadores de AIDS podem levar ao aparecimento de anemia macrocítica.
 As mielodisplasias também devem ser descartadas. Nesse caso, a dosagem sérica de AF estará normal ou elevada.
-Tabela 17 - Diagnóstico diferencial de causas de macrocitose
+
+Tabela 16 - Diagnóstico diferencial de causas de macrocitose
 Causas comuns
 - Drogas;
 - Alcoolismo/doença hepática alcoólica;
 - Hipotireoidismo;
-- Mieloma múltiplo;
+- Mieloma múltiplo (falsa macrocitose);
 - Síndrome mielodisplásica;
 - Anemia aplásica;
 - Leucemias agudas.
+
 e) Tratamento
+
+Tratamento
+Deve-se repor ácido fólico na dose de 1mg/d até a melhora nos parâmetros do hemograma ou quando há aumento na demanda. 
+
 Utiliza-se AF oral na dose de 1mg/d (porém, a maioria das formas comerciais disponíveis no Brasil é de 2 ou 5mg), e espera-se resposta rápida, semelhante à da reposição de B12 na carência desta.
 O tratamento deverá ser continuado até a completa recuperação hematológica ou durante todo o período de aumento da demanda, quando for o caso.
+
 8. Aplasia pura da série vermelha 
+
 A - Considerações gerais
 A Aplasia Pura da Série Vermelha (APSV) descreve uma condição em que somente os precursores eritroides na medula estão praticamente ausentes.
-As formas congênitas mais frequentes são doenças crônicas, muitas vezes associadas a anomalias físicas. Essa patologia foi descrita por Joseph, Diamond e Blackfan na 1ª metade do século passado, por isso geralmente é conhecida como anemia de Blackfan-Diamond. Ocorrem lesões nas stem cells intraútero, iniciando a anemia, que já se manifesta ao nascimento.
+As formas congênitas mais frequentes são doenças crônicas, muitas vezes associadas a anomalias físicas. Essa patologia foi descrita por Joseph, Diamond e Blackfan na 1ª metade do século passado, por isso geralmente é conhecida como anemia de Diamond-Blackfan. Ocorrem lesões nas stem cells intraútero, iniciando a anemia, que já se manifesta ao nascimento.
 Nas formas adquiridas do adulto, a supressão dos precursores eritroides é mediada por linfócitos T ou por anticorpos da classe IgG. 
-Tabela 18 - Possíveis associações com APSV
+
+Tabela 17 - Possíveis associações com aplasia pura da série vermelha
 Linfoproliferações	Leucemia de linfócito large granular, leucemia linfoide crônica, mais raramente linfomas não Hodgkin
 Timomas	Investigação obrigatória em casos de APSV, presente em 5% dos casos
 Doenças autoimunes	Como o lúpus eritematoso sistêmico e a artrite reumatoide
 Drogas	Como a fenitoína, o ácido valproico, a isoniazida, a azatioprina e o cloranfenicol
 Doenças virais	Hepatite C e HIV
 Complicação dos usuários de EPO recombinante	Por meio da formação de anticorpo anti-EPO, especialmente em pacientes com IRC e, mais raramente, em doping
-Infecção pelo parvovírus B19	Caracteristicamente, curso com APSV, embora, em alguns casos, possa afetar outras linhagens (as manifestações clínicas são mais evidentes nos portadores de anemias hemolíticas crônicas, como a anemia falciforme e a esferocitose hereditária, em que a demanda medular está muito aumentada e a queda dos níveis de Hb é súbita. O parvovírus destrói os precursores eritroides e cursa com alteração morfológica característica: pró-eritroblastos gigantes na análise da medula óssea)
+Infecção pelo parvovírus B19	Caracteristicamente, cursa com APSV, embora, em alguns casos, possa afetar outras linhagens (as manifestações clínicas são mais evidentes nos portadores de anemias hemolíticas crônicas, como a anemia falciforme e a esferocitose hereditária, em que a demanda medular está muito aumentada e a queda dos níveis de Hb é súbita. O parvovírus destrói os precursores eritroides e cursa com alteração morfológica característica: pró-eritroblastos gigantes na análise da medula óssea)
+
 B - Quadros clínico e laboratorial
-Os sintomas da APSV são apenas os relacionados à anemia, exceto quando há patologia associada, como as linfoproliferações e o lúpus eritematoso sistêmico. No timoma, pode haver quadro de miastenia gravis associado à aplasia. A anemia é severa, normocítica, normocrômica, com níveis de Hb abaixo de 6g/dL e contagem de reticulócitos baixíssima (<10.000/mm3). Ao mielograma, evidenciam-se normocelularidade global da medula óssea, porém com número muito diminuído, e, às vezes, ausência virtual de precursores eritroides.
+Os sintomas da APSV são apenas os relacionados à anemia, exceto quando há patologia associada, como as linfoproliferações e o lúpus eritematoso sistêmico. No timoma, pode haver quadro de miastenia gravis associado a aplasia. A anemia é severa, normocítica, normocrômica, com níveis de Hb abaixo de 6g/dL e contagem de reticulócitos baixíssima (<10.000/mm3). Ao mielograma, evidenciam-se normocelularidade global da medula óssea, porém com número muito diminuído, e, às vezes, ausência virtual de precursores eritroides.
+
 C - Diagnóstico diferencial
 O principal diagnóstico diferencial é com a anemia aplásica, em que há queda dos precursores de todas as linhagens celulares. Deve ser afastada também a anemia hemolítica autoimune, já que nas linfoproliferações e no lúpus eritematoso sistêmico pode ocorrer a formação de autoanticorpos contra as células eritroides maduras; entretanto, o laboratório na anemia hemolítica autoimune cursa com bilirrubina indireta, reticulócitos e desidrogenase láctica aumentados. As síndromes mielodisplásicas podem levar a quadros de anemia normocítica normocrômica, mas a morfologia displásica na medula óssea é característica.
+
 D - Tratamento
+
 a) Formas adquiridas
 Se houver suspeita de ação de drogas, deve-se suspender o seu uso.
 O tratamento da patologia de base, nas formas adquiridas, é fundamental para a regressão do quadro de APSV. Particularmente no caso do timoma, a exérese do tumor está relacionada à regressão da aplasia.
 Nos casos de infecção pelo parvovírus, o quadro tende a ser autolimitado, resolvido em 2 a 3 semanas. Caso não haja resolução espontânea nesse período, deve-se utilizar a imunoglobulina intravenosa.
 Nos demais casos, a conduta inicial é feita com prednisona em doses imunossupressoras. Nos casos não responsivos nos primeiros 3 meses de tratamento, outras drogas imunossupressoras devem ser associadas: imunoglobulina, ciclosporina, ciclofosfamida, azatioprina, globulina antitimocítica ou até o rituximabe (anticorpo monoclonal anti-CD20).
+
 b) Formas congênitas (anemia de Diamond-Blackfan)
-Nas formas congênitas, existe relato de aproximadamente 50% de resposta ao uso de corticoterapia. Porém, em muitos casos, a indicação é a de transplante alogênico de célula-tronco hematopoética, ou o paciente será dependente de transfusões de hemácias por toda a vida.
+Nas formas congênitas, existe relato de aproximadamente 50% de resposta ao uso de corticoterapia. Porém, em muitos casos, a indicação é a de transplante alogênico de células-tronco hematopoéticas, ou o paciente será dependente de transfusões de concentrado de hemácias por toda a vida.
+
 9. Resumo
+
 Quadro-resumo
 Principais causas de anemia por deficiência de produção
-Deficiência nutricional	Ferro, vitamina B12 e AF: por falta de ingesta, aumento do consumo, má absorção ou perda sanguínea
+Deficiência nutricional	Ferro, vitamina B12 e AF: por falta de ingesta, aumento do consumo, má ab-sorção ou perda sanguínea
 Doença medular	Aplasia, mielodisplasia, infiltração tumoral
 Supressão medular	Medicamentos, quimioterapia, radioterapia
 Deficiência de hormônios que estimulam a eritropoese	EPO, hormônio tireoidiano, androgênios
@@ -406,7 +583,7 @@ Anemia normocítica	- Anemia de doença crônica;
 	- IRC;
 	- Deficiência mista: ferro e B12 ou folato;
 	- Doença hormonal.
-Anemia normocítica sem reticulócito	APSV
+Anemia normocítica com níveis baixíssimos de reticuló-citos 	APSV
 Anemia normocítica + pancitopenia	- Doença medular: aplasia, mielodisplasia, infiltração tumoral;
 	- Deficiência de B12 ou folato.
 Anemia macrocítica	- Alcoolismo;
@@ -422,10 +599,10 @@ Doenças endócrinas que causam anemia
 Anemias por deficiência de ferro
 Metabolismo do ferro
 Fontes	Absorção	Perda
-- Reaproveitamento do metabolismo da Hb;
-- Alimentos contendo ferro na forma heme (carnes) e não heme (vegetais e cereais).	- No duodeno e no jejuno;
-- Necessita da acidez gástrica para absorver as formas não heme;
-- Regulada pela ferroportina e hepcidina.	- Descamação da pele;
+-	Reaproveitamento do metabolismo da Hb;
+-	Alimentos contendo ferro na forma heme (carnes) e não heme (vegetais e cereais).	-	No duodeno e no jejuno;
+-	Necessita da acidez gástrica para absorver as formas não heme;
+-	Regulada pela ferroportina e hepcidina.	- Descamação da pele;
 - Descamação intestinal;
 - Menstruação.
 Causas de ferropenia
@@ -437,7 +614,7 @@ Etapas do diagnóstico de ferropenia/anemia ferropriva
 - ? Ferritina;
 - ? Ferro sérico;
 - ?? CTLF e ? saturação de transferrina;
-- ? CHCM*, ? VCM, ????RDW;
+- ? CHCM*, ? VCM, ??? RDW;
 - ? Hb.
 Quadro clínico da ferropenia
 - Pica/pagofagia;
@@ -450,28 +627,27 @@ Indicações de ferro parenteral
 - Intolerância ao ferro oral, apesar da alteração de posologia ou da mudança na apresentação;
 - Falta de absorção (alguns casos pós-gastrectomia);
 - Doença gastrintestinal (como as doenças inflamatórias intestinais), pois pode piorar os sintomas;
-- Casos de perda intensa;
+- Casos de perdas intensas de ferro;
 - Pacientes em hemodiálise.
 Anemia megaloblástica
 Resultado da alteração da síntese de DNA, formando células com morfologia anormal
 Vitamina B12
 - Disponível em alimentos de origem animal;
 - Importante nas reações de:
-   · Homocisteína: metionina (formação de tetra-hidrofolato);
-   · Metilmalonil-coenzima A: succinil-coenzima A.
+· Homocisteína: metionina (formação de tetra-hidrofolato);
+· Metilmalonil-coenzima A: succinil-coenzima A.
 Causas de deficiência de vitamina B12
 Ingestão inadequada	Vegetarianos veganos
 ? Acidez gástrica	Gastrectomia/cirurgia bariátrica, doença péptica, inibidor da bomba de prótons, Helicobacter pylori
 ? FI	Anemia perniciosa
 ? Função pancreática	Insuficiência pancreática
-? Receptor ileal	Ressecção/bypass ileal, doença de Crohn/má absorção, síndrome da alça cega, infestação por Diphyllobothrium latum, tuberculose intestinal, linfoma intestinal e irradiação pélvica
+? Receptor ileal	Ressecção/bypass ileal, doença de Crohn/má absorção, síndrome da alça cega, infestação por Diphyllo-bothrium latum, tuberculose intestinal, linfoma intestinal e irradiação pélvica
 Alguns medicamentos	Biguanida, neomicina
 Anemia perniciosa
 - A causa mais comum de deficiência de B12;
-- Doença autoimune que dificilmente se manifesta em adultos;
 - Ocorre diminuição do FI por: 
-   · Anticorpos antifator intrínseco (70%);
-   · Gastrite atrófica: associada a anticorpo anticélula parietal (90%). Alto risco de neoplasia gástrica e tumor carcinoide.
+· Anticorpos antifator intrínseco (70%);
+· Gastrite atrófica: associada a anticorpo anticélula parietal (90%). Alto risco de neoplasia gástrica e tumor carcinoide.
 - Geralmente associada a outras doenças autoimunes.
 AF
 - Disponível em vegetais e frutas crus;
@@ -482,7 +658,7 @@ Alteração de absorção	Etilismo crônico, espru tropical, doença inflamatória inte
 Aumento do consumo	Gestação, hemólise, doenças espoliativas (psoríase), hemodiálise
 Medicamentos	Fenitoína, sulfas, metotrexato
 Quadro clínico
-- Sintomas da síndrome anêmica;
+- Sintomas de síndrome anêmica;
 - Alteração de mucosa com glossite, anorexia, diarreia;
 - Casos graves: sangramento mucocutâneo pela plaquetopenia;
 - Apenas na deficiência de folato durante a gestação: defeito do tubo neural e perda fetal;
@@ -493,10 +669,20 @@ Diagnóstico
 - Sangue periférico: macro-ovalócitos, neutrófilos hipersegmentados;
 - Medula: hipercelular, células megaloblásticas;
 - Aumento de bilirrubina indireta e desidrogenase láctica;
-- Na deficiência de B12: ? nível sérico de B12, ????de homocisteína e ácido metilmalônico;
+- Na deficiência de B12: ? nível sérico de B12, ??? de homocisteína e ácido metilmalônico;
 - Na deficiência de folato: ? nível sérico de folato e ?? de homocisteína.
 Tratamento
 - Deficiência de B12: reposição parenteral = 1.000µg IM, 1x/d, durante 1 semana; após, 1x/sem, durante 1 mês; após, 1x/m durante toda a vida ou até o controle da causa;
-- Deficiência de folato: reposição de 1 a 5mg/d VO até a normalização do hemograma e a resolução da causa da deficiência;
+- Deficiência de folato: reposição de 1 a 5mg/d VO, até a normalização do hemograma e a resolução da causa da deficiência;
 - Não repor folato antes de repor B12 quando há deficiência de ambos, pois pode levar à piora dos sintomas neurológicos.
 * CHCM: Concentração de Hemoglobina Corpuscular Média.
+
+Respostas
+1. C
+2. A
+3. B
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
