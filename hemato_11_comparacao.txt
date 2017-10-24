@@ -1,0 +1,553 @@
+
+Leucemias agudas 
+Marcos Laercio Pontes Reis / Fernanda Maria Santos[- / -]
+Fábio Freire José{+ / Kelly Roveran Genga+}
+
+{+Resumo+}
+{+Este capítulo irá abordar os principais tipos de leucemias, tanto da linhagem linfoide (como a leucemia linfoide aguda) quan-to da mieloide (como a leucemia mieloide aguda). Para a sua diferenciação e seu diagnóstico, são utilizados métodos de imunofenotipagem a fim de detectar as alterações genéticas envolvidas e verificar a presença ou não do cromossomo Fila-délfia em alguns tipos de leucemias, pois este confere mau prognóstico ao paciente. O tratamento, em geral, é feito com quimioterapia individualizada para cada leucemia. +}
+
+1. Introdução
+
+A - Definição e epidemiologia
+As leucemias agudas formam um grupo heterogêneo de doenças que apresentam a proliferação de um clone maligno originado da stem cell hematopoética, com produção de células imaturas que perderam a capacidade de diferenciação, chamadas blastos. Esses blastos infiltram a medula óssea e, progressivamente, o sangue periférico, ocasionando redução na produção de células sanguíneas normais. A perda da função normal da medula óssea leva às complicações das leucemias agudas: infecções, sangramento e anemia. Se a proliferação clonal for de precursor mieloide (que origina granulócitos, eosinófilos, basófilos, monócitos, hemácias e plaquetas), a doença será chamada Leucemia Mieloide Aguda (LMA); caso os blastos tenham origem em precursor linfoide (que resultam em linfócitos B, T, células NK e plasmócitos), é denominada Leucemia Linfoide Aguda (LLA). Ambas são fatais e rapidamente progressivas se não instituída terapêutica imediata, portanto, em caso de suspeita, o hematologista deve ser consultado imediatamente.
+A incidência anual de novos casos é de cerca de 8 a 10 por 10.000 habitantes, representando cerca de 3% dos cânceres na população em geral.
+A LLA é o câncer mais comum da infância, sendo de 20 a 30% dos casos de neoplasia e 75 a 80% dos casos de leucemia, incidindo principalmente na faixa etária de 2 a 10 anos, com excelente prognóstico, alcançando 80% de índices de cura. No adulto, essa neoplasia incide a uma taxa de 20%, com prognóstico mais reservado, alcançando sobrevida em 5 anos de 50%.
+A LMA, por sua vez, representa somente cerca de 10% das leucemias em crianças menores de 10 anos e 80% em adultos, aumentando gradativamente a incidência de acordo com a idade (metade dos casos acontece em pacientes com menos de 50 anos). 
+
+B - Patogênese
+A maioria das leucemias agudas acontece “de novo”, ou seja, em consequência da mutação genética de um precursor hematopoético sem motivo aparente, resultando em proliferação maligna (sem controle) da célula anômala. Dentre as alterações genéticas envolvidas nesse processo, podem-se citar mutação em oncogene e perda de gene supressor tumoral, com alteração de processos regulatórios do controle e da diferenciação celular (Figura 1).
+Essas células perdem a capacidade de diferenciação celular, produzindo um número elevado de células imaturas (“blastos”) na medula óssea, que vão para o sangue periférico e podem infiltrar outros órgãos (sistema reticuloendotelial, Sistema Nervoso Central – SNC – e outros tecidos). 
+
+ 
+Figura 1 - Genética das leucemias
+
+A Célula-Tronco Hematopoética (CTH) dá origem, por meio de diversos estímulos, ao [-mieloide -]progenitor{+ mieloide+}; tanto este quanto a própria CTH, porém, podem sofrer mutações em seu material genético, ativando oncogene antes silencioso. Desta forma, existe parada de maturação das células (que não mais produzem células maduras, como o granulócito), aumentando somente as formas imaturas (blastos), resultando na LMA. Para a LLA o raciocínio é o mesmo, porém com células progenitoras linfoides.
+No entanto, sabe-se que alguns fatores genéticos e ambientais estão associados a “predisposição” ao aparecimento dessas neoplasias, principalmente das LMAs[-,-] {+(Tab+}e[-n-]{+la 1).+}
+
+{+Dica+}
+{+São fa+}t{+o+}re{+s de risco associados+} {+ao surgim+}e{+nto das +}le{+ucemia+}s: {+anemia de Fanconi, síndrome de Down, radiação ionizante, mielodisplasia e doenças mieloproliferativas crônicas. +}
+
+Tabela 1 - Fatores que estão associados a “predisposição” ao aparecimento de neoplasias
+Fatores genéticos	Anemia de Fanconi e síndromes de Down (trissomia 21), Patau (trissomia 13) e Klinefelter (XXY)
+Fatores ambientais	Exposição a agentes potencialmente mutagênicos, como irradiação, derivados de benzeno, solventes orgâni[---]cos, agentes alquilantes e epipodofilotoxinas (para tratamento de outras neoplasias, como etoposídeo[-,-]{+ e+} teni[---]posídeo)
+Doenças adquiridas	Mielodisplasia, doenças mieloproliferativas crônicas, hemoglobinúria paroxística noturna e anemia aplástica
+
+C - Classificação
+A distinção das linhagens celulares mieloide e linfoide pode ser feita por diferentes métodos: morfológico, citoquímico, imunofenotípico, citogenético e molecular.
+
+2. Leucemia mieloide aguda
+
+A - Morfologia celular 
+Blastos mieloides apresentam, em grande parte dos casos, citoplasma claro, abundante e frequentemente granular. Os grânulos, quando agrupados, formam os chamados bastonetes de Auer (o que é patognomônico do blasto mieloide), formando estruturas longas e fusiformes (Figura 2). 
+Encontram-se, em grande parte das LMAs, características morfológicas sugestivas da linhagem afetada (por exemplo, células de aspecto monocitoide nas leucemias mielomonocíticas ou promielócitos anômalos na Leucemia Promielocítica Aguda – LPA). Assim, de acordo com a classificação FAB (Franco-American[-o-]{+a+}-Britânica), as LMAs são divididas em:
+
+Tabela 2 - Classificação [-FAB-]{+franco-americana-britânica+} das [-LMA-]{+leucemias mieloides aguda+}s 
+M0	LMA com mínima diferenciação (nesse caso, não se consegue morfologicamente diferenciar LMA de LLA, pela ausência de diferenciação celular)
+M1	LMA sem maturação
+M2	LMA com maturação
+@@ -33,14 +49,22 @@ M4	LMA mielomonoc
+M5	LMA monocítica
+M6	Eritroleucemia
+M7	LMA megacariocítica
+
+ 
+Figura 2 - Bastonete de Auer
+
+As LMAs ditas “do meio” são de bom prognóstico (M2, M3 e M4); as demais, em contrapartida, são de mau prognóstico. 
+
+B - Citoquímica
+Colorações específicas, capazes de aproveitar a atividade enzimática celular, podem ser utilizadas para a diferenciação das linhagens celulares e foram amplamente adotadas até a difusão dos métodos de imunofenotipagem. A classificação mais difundida até hoje (FAB) foi fundamentada na utilização dos métodos citoquímicos. 
+Os blastos positivos para os métodos de Sudan Black B (SBB) e mieloperoxidase (MPO) são característicos da linhagem mieloide. 
+
+C - Imunofenotipagem
+A citometria de fluxo é um método que utiliza anticorpos monoclonais fluorescentes para analisar padrões de expressão de antígenos (Cluster of Differentiation – CDs) em populações celulares específicas. Existe um tipo de anticorpo monoclonal para cada tipo de CDs; caso haja ligação CD versus anticorpo, pela capacidade fluorescente deste, há a emissão de luz registrada por um aparelho especial, o citômetro, o qual traduz esses sinais em gráficos. Da avaliação desses gráficos, ou seja, da positividade ou negatividade dos diferentes CDs, surge o diagnóstico específico da linhagem acometida. 
+
+[-Ess-]{+Importante+}
+{+A imunof+}e{+notipagem é um+} método [-é -]mais preciso {+do +}que a citoquímica e foi incorporado ao diagnóstico, à classificação, ao prognóstico e, em alguns casos, à monitorização das leucemias agudas.{+ +}
+
+Tabela 3 - Perfil imunofenotípico básico das leucemias mieloides
+Imunofenótipos básicos mais comuns
+Blasto mieloide	CD11, CD13, CD15, CD33, HLA-DR
+@@ -48,26 +72,35 @@ Promiel
+Blasto mielomonocítico	Mieloide + CD14
+Eritroblasto	Glicoforina, espectrina, HLA-DR
+Megacarioblasto	CD41, CD42, CD61
+
+D - Citogenética 
+Leucemias são doenças que apresentam alterações cromossômicas numéricas e/ou estruturais frequentes e, muitas vezes, específicas de determinados subtipos, envolvendo genes que, uma vez alterados qualitativa ou quantitativamente, atuam como fatores de iniciação e progressão neoplásicas. Anormalidades cromossômicas caracterizadas por translocações balanceadas e por perda e ganho de cromossomos são encontradas em mais de 65% dos casos.
+A avaliação pode ser feita pelo cariótipo convencional ou pelo método FISH (hibridização fluorescente in situ), e a aplicação clínica é de contribuição diagnóstica e prognóstica, já utilizada desde a classificação MIC para LMA: Morfológica, Imunofenotípica e Citogenética. 
+Na estratificação prognóstica, os achados no estudo citogenético são divididos em cariótipo{+s+} favorável, intermediário e desfavorável (Tabela 4).  
+Como regra geral, as translocações apresentam bom prognóstico, enquanto as deleções e inversões (salvo se inversão 16) são de mau prognóstico.
+
+Tabela 4 - Estratificação de risco dos achados citogenéticos
+Riscos	Cariótipos
+Favorável	t(8;21), t(15;17), inv(16)/t(16;16)/del(16q)
+Intermediário	Normal, t(9;11), outras que não estão classificadas nos outros 2 grupos
+Desfavorável	Monossomia do 5 ou 7; del(5q), del(7q), t(6;9), anormalidade do 12p[-;-]{+,+} 17p ou 11q23; trissomia do 8 ou 13 ou cariótipo complexo (definido como mais de 3 alterações)
+
+E - Pesquisa genética molecular
+
+{+Importante+}
+{+A pesquisa genética molecular é feita por meio de PCR e tem sua importância no diagnóstico e no prognóstico do paciente, uma vez que pode ser utilizada para acompanhamento da resposta terapêutica. +}
+
+A avaliação genética molecular, por meio do método PCR (Polymerase Chain Reaction) e RT-PCR (Real-Time Polymerase Chain Reaction), detecta a fusão gênica resultante da alteração cromossômica, sendo um método mais sensível de detecção das anormalidades conhecidas. Tem importante{+s+} valor{+es+} diagnóstico e prognóstico e, em algumas situações, é utilizado para acompanhamento de resposta terapêutica. Recentemente, têm sido estudadas algumas mutações ou expressões gênicas com importância prognóstica, o que teve vital importância, em especial entre os pacientes com cariótipo normal. Observa-se que, dentre estes, alguns evoluem de forma melhor (com maior resposta à quimioterapia e sem recidiva de doença) do que ou{+-+}tros. Foi, assim, detectada por meio de pesquisa molecular a presença de mutações de mau e bom prognóstico{+s+}, justificando as diversas respostas desse grupo: 
+
+Tabela 5 - Alterações moleculares no cariótipo normal
+Mau prognóstico	Mutações FLT3 e c-Kit
+Bom prognóstico	Mutações NPM1 e CEBPA
+
+Tabela 6 - Classificação [-FAB-]{+franco-americana-britânica de leucemia+} {+mieloi+}de [-LMA-]{+aguda+}, frequência, cariótipo, prognóstico e rearranjo gênico
+Tipos	Descrições	Frequências	Cariótipos	Prognósticos	Rearranjos gênicos
+M1	Sem maturação	20%	--	Desfavorável	--
+M2	Com maturação	30%	t(8;21)	Bom	ETO/AML [-I-]{+1+}
+M3	Promielocítica e variante mi{+-+}crogranular	8%	t(15;17)	Bom	PML/RAR[- A-]{+a+}
+M4	Mielomonocítica	28%	inv(16)	Bom	CEFB/MYH11
+M5	Monocítica:
+- Sem maturação;
+@@ -75,17 +108,19 @@ M5	Monoc
+M6	Eritroleucemia	4%	--	Desfavorável	--
+M7	Megacarioblástica	<5%	t(1;22)	Desfavorável	--
+M0	Minimamente diferenciada	<5%	inv(3)	Desfavorável	--
+
+Essa classificação, que envolve características morfológicas, citoquímicas/imunofenotípicas e cariotípicas, é a mais tradicional. Entretanto, em 2008, a Organização Mundial da Saúde (OMS) reformulou os critérios e a nomenclatura da classificação da LMA, [-que -]leva{+ndo+} em conta, em especial, a alteração genética encontrada e a origem da leucemia, como se observa na Tabela 7[-:-]{+.+}
+
+Tabela 7 - Classificação das [-LMA-]{+leucemias mieloides aguda+}s (O{+rganização +}M{+undial da +}S{+aúde+}, 2008)
+LMA com anormalidades citogenéticas recorrentes
+- Este item engloba as leucemias com alterações cariotípicas clássicas, que vêm, assim, como definidoras de doença:
+·[- -]{+	+}LMA com t(8;21); RUNX1-RU{+N+}X1T1;
+·[- -]{+	+}LMA com inv(16) ou t(16;16); CBFB-MYH11;
+·[- -]{+	+}LPA com t(15;17); PML-RAR[-A-]{+a+};
+·[- -]{+	+}Outros: LMA com t(9;11), LMA com inv(3); LMA (megacarioblástica) com t(1;22), LMA com mutação gênica (NPM1, CBPA).
+LMA com displasia multilinhagem 
+(secundária a síndrome mielodisplásica – SMD – e leucemia mielomonocítica crônica – LMMC)
+São as leucemias que derivam de mielodisplasia ou das chamadas síndromes mieloproliferativas/mielodisplásicas, em que se encon{+-+}tra a LMMC. Essas entidades merecem classificação à parte, por seu curso extremamente agressivo e pouco responsivo aos tratamen{+-+}tos convencionais.
+Neoplasias mieloides relacionadas à terapia
+Aqui são englobadas as leucemias secundárias a químio ou radioterapia prévia de qualquer tipo; em especial, destacam-se os agentes alquilantes (como melfalana e ciclofosfamida) e inibidores da topoisomerase II (etoposídeo, daunorrubicina). Tal qual a LMA com displasia multilinhagem, essas neoplasias têm curso agressivo e prognóstico reservado.
+Sarcoma mieloide
+@@ -93,160 +128,255 @@ Corresponde ao exclusivo aparecimento de massa tumoral com predom
+Proliferações mieloides relacionadas à síndrome de Down
+Como a síndrome de Down confere risco aumentado para LMA na faixa etária infantil (em que classicamente predomina a LLA), a OMS optou por classificação à parte para essa entidade. Existe aumento de incidência de leucemia megacarioblástica nesse grupo.
+LMA não especificada
+Este termo engloba a LMA que não apresenta alteração cariotípica recorrente e tradicional; é basicamente a descrição da classifica[---]ção FAB antiga; por exemplo, LMA com mínima maturação (antiga M0), LMA sem maturação (antiga M1), e assim por diante. 
+
+Tabela 8 - Classificação das leucemias agudas – O{+rganização +}M{+undial da +}S{+aúde+}
+Organização Mundial da Saúde	FAB
+LMA com anomalias citogenéticas recor{+-+}rentes	-[- -]{+	+}LMA com t(8;21);	M2
+	-[- -]{+	+}LPA com t(15;17);	M3
+	-[- -]{+	+}LMA com eosinófilos anormais na medula óssea inv(16) ou t(16;16);	M4 Eo
+	-[- -]{+	+}LMA com anormalidades 11q23 (MLL).	--
+LMA com displasia de multilinhagem	- Com SMD prévia;	--
+	- Sem SMD prévia.	--
+LMA e SMD relacionadas a terapia pré{+-+}via	- Relacionada a agentes alquilantes;	--
+	- Relacionada a epipodofilotoxinas;	--
+	- Outras.	--
+Outras LMAs	- LMA minimamente diferenciada;	M0
+	- LMA sem maturação;	M1
+	- LMA com maturação;	M2
+	- Leucemia mi[-o-]{+e+}lomonocítica aguda;	M4
+	- Leucemia monocítica aguda;	M5
+	- Eritroleucemia;	M6
+	- Leucemia megacariocítica aguda;	M7
+	- Leucemia basofílica aguda;	--
+	- Pan-mielose aguda com mielofibrose.	--
+Leucemias agudas bifenotípicas
+
+F - Manifestações clínicas
+
+{+Importante+}
+{+As manifestações clínicas da leucemia mieloide aguda são decorrentes da anemia, neutropenia e plaquetopenia e envol-vem palidez cutânea, astenia, dispneia aos esforços, infecções oportunistas e sangramentos que se manifestam por meio de petéquias, equimoses e hematomas, podendo ocorrer hemorragias mais graves. +}
+
+O quadro clínico das leucemias agudas é secundário à falência medular e à infiltração orgânica pelos blastos. A ocupação medular pelos blastos leva à deficiência de produção de elementos normais do sangue, ocasionando anemia, neutropenia e plaquetopenia graves. Os sintomas associados são:
+Astenia, dispneia aos esforços, palidez cutânea, taquicardia (por anemia, podendo chegar a cor anêmico); 
+Febre e infecções oportunistas, como monilíase e micoses profundas (pela neutropenia severa e prolongada): 
+“Neutropenia febril”: é muito rara a manifestação de febre como sinal da própria leucemia, portanto, quando presente, deve ser investigada e tratada como secundária à infecção; o termo neutropenia febril é utilizado para definir a presença de febre, com temperatura oral >38,3°C (ou temperatura axilar >37,8°C), ou persistência de temperatura entre 38 e 38,3°C por mais de 1 hora. Já a neutropenia é definida por contagem de neutrófilos <500/mm3 ou entre 500 e 1.000/mm3 e com tendência a queda.
+Sangramentos: desde petéquias, equimoses e hematomas, passando por sangramentos de mucosas, até hemorragias cranianas ou pulmonares (pela plaquetopenia severa).
+Grandes contagens de leucócitos no sangue periférico, geralmente acima de 100.000/mm3, estão associadas ao aumento da viscosidade sanguínea e à síndrome de leucostase (caracterizada por lentificação e obstrução da microcirculação pelos blastos circulantes), que podem levar a insuficiência respiratória, alterações neurológicas graves (evoluindo, muitas vezes, para o coma ou o sangramento cerebral), priapismo e fenômenos trombóticos. O mecanismo ainda não é bem compreendido, pois se evidencia falha na capacidade de reduzir os efeitos da leucostase apenas por meio da remoção mecânica das células (leucoaférese), e há casos em que se instala a síndrome com contagens não tão elevadas de leucócitos. O tamanho, a deformabilidade e os receptores celulares, além da capacidade de liberação de citocinas pelas células neoplásicas, parecem estar relacionados ao quadro.
+
+{+Importante+}
+Raramente, na [-LMA-]{+leucemia mieloide aguda+}, ocorre infiltração linfonodal ou hepatoesplenomegalia; quando presentes, a 1ª suspeita diagnóstica, após descartar [-LLA-]{+leucemia linfoide aguda+}, é a leucemia da série monocítica. 
+
+A infiltração extramedular por blastos é conhecida como cloroma ou sarcoma granulocítico. Os sítios mais comuns são pele (leukemia cutis) e mucosa (hiperplasia gengival), mais frequentes na LMA de linhagem monocítica. O cloroma pode aparecer virtualmente em qualquer tecido e é também descrito atrás dos olhos e na meninge (particularmente relacionado à LMA promielocítica), epidural, ovário, intestino e mediastino. É pouco comum o seu aparecimento sem a detecção da doença medular, mas é possível (daí a classificação da OMS separadamente de sarcoma mieloide), e o tratamento é o mesmo. 
+Dor óssea, principalmente no esterno e em ossos longos, é pouco comum entre adultos com LMA e corresponde à expansão leucêmica na cavidade medular.
+As leucemias apresentam, portanto, sintomas e sinais inespecíficos, que podem simular o quadro clínico de muitas patologias: artrite reumatoide juvenil, febre reumática, lúpus eritematoso sistêmico, púrpura trombocitopênica idiopática, aplasia medular e mononucleose infecciosa, entre outras. 
+
+ 
+Figura 3 - Hiperplasia gengival por infiltração leucêmica na LMA[---]{+ +}M5
+
+ 
+Figura 4 - Leukemia cutis
+
+ 
+Figura 5 - Cloroma retro-orbitário
+
+{+Pergunta+}
+{+2011 - UFRN+}
+{+1. Uma paciente de 25 anos deu entrada na sala de reanimação do Hospital Walfredo Gurgel com quadro de confusão men-tal, febre (39°C), queda do estado geral e cansaço aos mínimos esforços, há 2 dias. Relata início súbito dos sintomas e au-sência de antecedentes dignos de nota. Ao exame físico, apresentava palidez cutâneo-mucosa, sem outras alterações. Exa-mes complementares: Hb/Ht = 8,5/26 (VCM = 85/HCM = 28); leucócitos = 20.000 (blastos = 20%; mielócitos = 0; meta-mielócitos = 0%; bastões = 3%; segmentados = 45%; eosinófilos = 2%; basófilos = 1%; linfócitos = 25%; monócitos = 4%); plaquetas = 98.000. Ureia/creatinina = 50/1,2; Na/K = 145/4,4; glicose = 98; DHL = 1.080; VHS = 110. Análise morfológica do sangue periférico com presença de 20% de blastos e bastonetes de Auer. A principal hipótese diagnóstica é:+}
+{+a) púrpura trombocitopênica trombótica+}
+{+b) síndrome hemolítico-urêmica+}
+{+c) leucemia mieloide aguda+}
+{+d) leucemia linfoide aguda+}
+{+Resposta no final do capítulo+}
+
+
+- Leucemia promielocítica aguda ou LMA[---]{+ +}M3
+De acordo com a classificação FAB, a LPA ou LMA[---]{+ +}M3 representa de 10 a 15% das LMAs. Pela classificação da OMS, é conhecida como LMA t(15;17) com a fusão gênica PML/RAR[-A-]{+a+}. É uma variante clínica e biológica distinta das LMAs. Esse tipo de leucemia apresenta morfologia celular característica, com promielócitos anormais, núcleo excêntrico e abundantes granulações no citoplasma. Caracteriza-se também pela presença de múltiplos bastonetes de Auer no citoplasma, formando feixes, dando a essas células a denominação de faggot cells (células com maços ou feixes – Figura 6).
+Os indivíduos com LPA apresentavam alta taxa de mortalidade devido à coagulopatia que lhe é característica, sendo, por isso, uma emergência médica. Tal complicação é consequente à liberação de substâncias fibrinolíticas pelos grânulos dos promielócitos, que resulta em quadro de coagulação intravascular disseminada (CIVD). Os pacientes beneficiam-se do uso do ácido transretinoico (ATRA), que leva à maturação dos blastos por ação direta no ponto de bloqueio induzido pela translocação, com diminuição dos promielócitos anômalos e consequente melhora da coagulopatia. O uso do ATRA levou a LMA t(15;17) a ser um dos subtipos mais curáveis, devendo esse medicamento ser iniciado prontamente após a suspeita diagnóstica.
+
+{+Importante+}
+{+Na leucemia promielocítica aguda, há uma coagulopatia associada em decorrência da liberação de substâncias fibrinolíticas que levam ao quadro de coagulação intravascular disseminada. +}
+
+ Nas raras situações de LPA em que não se observa tal translocação (15;17) ou seu equivalente molecular, o rearranjo PML/RAR[-A-]{+a+}, pode haver translocações variantes, como t(5;17), t(11;17) ou outras que também respondem ao ATRA, exceto a t(11;17)(q23;q22).
+
+ 
+Figura 6 - Promielócitos anômalos e faggot cells de [-LPA-]{+leucemia promielocítica aguda+}
+
+3. Leucemia linfoide aguda
+
+A - Morfologia celular
+Os blastos de linhagem linfoide, por sua vez, geralmente são de dimensões menores do que os mieloides e apresentam, em sua maior parte, citoplasma basófilo e sem granulações. Podem ser monomórficos ou pleomórficos e não apresentam grânulos ou bastonetes de Auer. A classificação morfológica das LLAs em L1, L2 e L3, muito utilizada anteriormente, é pouco específica e não fornece dados precisos sobre o subtipo leucêmico e os índices prognósticos. Deve-se destacar morfologia para a LLA L3, atualmente conhecida como LLA Burkitt, que tem vacúolos citoplasmáticos bastante característicos e prognóstico reservado (Figura 7). 
+
+Tabela 9 - Classificação [-FAB-]{+franco-americana-britânica+} de [-LLA-]{+leucemia linfoide aguda+}
+Aspectos citológicos	L1	L2	L3
+Tamanho da célula	Pequena	Grande e heterogênea 	Grande e homogênea
+Quantidade de citoplasma	Escass[-a-]{+o+}	Variável	Moderadamente abundante
+Nucléolos	Não visíveis ou pequenos 	1 ou mais presentes e grandes	1 ou mais presentes e proeminentes
+Basofilia do citoplasma	Variável	Variável	Intensa
+Vacuolização citoplasmática	Variável	Variável	Proeminente
+
+ 
+Figura 7 - {+Leucemias linfoides agudas +}(A) [-LLA -]1 e (B) [-LLA -]3
+
+B - Citoquímica
+Nas LMAs, o advento da citoquímica, por meio de colorações capazes de aproveitar a atividade enzimática celular, possibilita diferenciar as LMAs das LLAs (com exceção da LMA[---]{+ +}M0 e, algumas vezes, da M1). Os blastos linfoides são positivos para o ácido periódico de Schiff (PAS) e negativos para MPO e Sudan Black. 
+
+C - Imunofenotipagem
+A determinação do CD na LLA é fundamental para:
+Diferenciar linhagem linfocitária B da T; 
+Determinar o ponto de parada de maturação do linfócito neoplásico;
+Diferenciar da linhagem mieloide, principalmente nos casos de LMA[---]{+ +}M0 e M1 e, algumas vezes, LMA[---]{+ +}M6 e M7.
+
+[-Sã-]{+Imp+}o[- f-]{+rt+}a{+n+}t[-or-]e
+[-s-]{+A+} {+i+}mu[-it-]{+n+}o{+fenotipagem é+} importante[-s-] para definir critérios diagnósticos{+ (diferenciar as linhagens B e T+}, {+determinar o ponto de parada de maturação do linfócito envolvido e diferenciar da linhagem mieloide) e +}prognósticos e auxiliar a indicação da terapêutica.
+
+Tabela 10 - Perfil imunofenotípico das leucemias linfoides B
+Marcadores	Pró-B	B comum	Pré-B	B madura
+TdT	+	+	+	+/-
+CD19	+	+	+	+
+CD22[- -](c)	+/-	+	+	+
+CD10	-	+	+	-/+
+CD20	-	-/+	+	+
+Cµ	-	-	+	-
+SmIg	-	-	-	+
+TdT: Terminal desoxinucleotidil Transferase; CD22(c): CD22 intracitoplasmática; Cµ: Cadeia µ citoplasmática; Smlg: imunoglobulina de superfície; +/-: expressão variável, frequentemente positiva; -: ausência de expressão do antígeno; +: presença do antígeno; -/+: expres-são variável, frequentemente negativa.
+
+Tabela 11 - Perfil imunofenotípico das leucemias linfoides T
+Marcadores	T precoce ou Pró-T	T comum	T tardia
+CD7	+	+	+
+CD2	-	+	+
+CD3[- -](c)	-/+	+	+
+CD1[- -](a)	-	-/+	-
+CD3[- -](s)	-	+	+
+CD4/CD8	-	-/+	+
+
+D - Citogenética
+Na LLA, anormalidades citogenéticas são encontradas em cerca de 60 a 85% dos casos; algumas delas apresentam implicações prognósticas importantes. Em 30% dos casos das LLAs nos adultos, encontra-se a translocação entre os cromossomos 9 e 22, formando o cromossomo Filadélfia (o mesmo da LMC), conferindo mau prognóstico a esse tipo de LLA.
+
+Tabela 12 - Anormalidades citogenéticas e implicação prognóstica
+Grupos de risco	Anormalidades
+Favorável	t(12;21), (p13;q22), {+t(1;19), +}hiperdiploidia (>50 cromossomos)
+Intermediário	Normal
+Desfavorável	t(9;22), t(8;14), t([-1;19), t(-]4;11), hipodiploidia (<50 cromossomos)
+
+{+Dica+}
+{+A presença do cromossomo Filadélfia (translocação entre cromossomos 9 e 22) confere mau prognóstico à leucemia linfoi-de aguda.+}
+
+De forma semelhante às LMAs, a OMS organizou, no mesmo ano, a classificação das LLAs, mais uma vez levando em extrema consideração as alterações cariotípicas dessa doença.
+
+Tabela 13 - Classificação {+da +}O{+rganização +}M{+undial da +}S{+aúde+} para [-LLA-]{+leucemia linfoide aguda+} (2008)
+Leucemia/linfoma linfoblástico B com anormalidades citogenéticas recorrentes[-	-]
+- Leucemia/linfoma linfoblástico B com t(9;22); BCR[-/-]{+-+}ABL1;[-	-]
+- Leucemia/linfoma linfoblástico com t(v;11q23); rearranjo MLL;[-	-]
+- Leucemia/linfoma linfoblástico B com t(12;21); TEL-AML1;[-	-]
+- Leucemia/linfoma linfoblástico B com hiper/hipodiploidia;[-	-]
+- Leucemia/linfoma linfoblástico B com t(5;14); IL3-IGH;[-	-]
+- Leucemia/linfoma linfoblástico B com t(1;19); E2A-PBX1.[-- -]
+Leucemia/linfoma linfoblástico B não especificado[-;-]
+[-- -]
+Leucemia/linfoma linfoblástico T[-.-]
+
+E - Pesquisa genética molecular
+
+{+Dica+}
+{+A pesquisa genética molecular visa identificar a presença do cromossomo Filadélfia (translocação entre os cromossomos 9 e 22).+}
+
+A principal pesquisa molecular nas LLAs é da fusão gênica BCR[-/-]{+-+}ABL, correspondente à alteração cromossômica da t(9;22), que, algumas vezes, pode não ser detectada pelo método de cariótipo comum. A PCR e a RT-PCR são métodos mais sensíveis e, inclusive, utilizados para o seguimento da resposta terapêutica. Pacientes com essa alteração constituem um grupo distinto no tratamento das LLAs.
+
+F - Quadro clínico
+
+{+Importante+}
+{+Na leucemia linfoide aguda, ocorrem sintomas associados a anemia, plaquetopenia e neutropenia, como astenia, sangra-mentos e infecções oportunistas, além dos chamados sintomas B, com a presença de adenomegalia e hepatoesplenomega-lia, bem como febre, emagrecimento e sudorese noturna. +}
+
+Além do quadro clínico decorrente das citopenias (anemia, plaquetopenia e neutropenia), com fadiga, sangramentos e infecção, não é rara a ocorrência de sintomas B. Adenomegalia e hepatoesplenomegalia podem ser vistas em 50% dos pacientes ao diagnóstico. O envolvimento do SNC é comum e pode ser acompanhado por sintomas de neuropatia de par craniano, hipertensão intracraniana, crise convulsiva e sintomas meníngeos. Os locais extranodais mais acometidos são o SNC e o testículo.
+
+Tabela 14 - Definição de sintomas B
+- Febre: temperatura >38°C;
+- Emagrecimento (perda de >10% do peso corpóreo em 6 meses); 
+- Sudorese noturna.
+
+A LLA[---]{+ +}T é mais comum na infância tardia, nos adolescentes e nos adultos jovens. Além dos sintomas já citados, particularmente apresentam-se adenomegalias cervical, supraclavicular e axilar, inclusive com massa mediastinal em 50 a 75% dos casos, cuja manifestação clínica é tosse seca (Figura 8). Como complicação desse quadro, é possível haver derrame pleural, derrame pericárdico (com ou sem tamponamento), obstrução traqueal ou compressão da veia cava superior.
+O SNC e o testículo, pela presença das barreiras hematoencefálica e hematotesticular{+ respectivamente+}, são considerados “santuários”, em que a quimioterapia tem maior dificuldade para infiltração, tornando esses locais possíveis fontes de recidiva se não tratados adequadamente. A presença de infiltração meníngea ou testicular sugere uma doença mais agressiva. 
+
+ 
+Figura 8 - Massa mediastinal anterior na [-LLA--]{+leucemia linfoide aguda +}T: (A) ao raio x e (B) [-na-]{+à+} tomografia computadorizada
+
+{+Pergunta+}
+{+2012 - UFRN+}
+{+2. Uma menina de 10 anos é levada ao pediatra pela mãe, que relata que a criança apresenta, há 20 dias, palidez, linfono-domegalia cervical bilateral e dor intensa em MMII, limitando sua deambulação. Exames laboratoriais revelam hemograma com Hb = 8g/dL, VCM = 80, leucócitos = 63.000/mm3 (65% linfócitos) e plaquetas = 70.000/mm3. O diagnóstico mais pro-vável é:+}
+{+a) aplasia medular+}
+{+b) febre reumática+}
+{+c) LES+}
+{+d) LLA+}
+{+Resposta no final do capítulo+}
+
+4. Leucemia linfoide aguda na infância
+
+O pico de incidência está entre os 2 e os 5 anos, com predomínio no sexo masculino. 
+Na manifestação clínica, além dos sintomas inespecíficos de astenia, inapetência, febre e sangramento cutâneo mucoso, destaca-se a dor óssea, particularmente em ossos longos, como consequência da infiltração leucêmica do periósteo, da metáfise[-,-]{+ e+} da região articular ou, ainda, de osteonecrose asséptica por células leucêmicas. Acomete de 20 a 30% das crianças, e, em metade dos casos, é possível encontrar imagem radiológica: tarja leucêmica (imagem radiotranslúcida na região metafisária), periostite, osteólise e osteoporose. É importante salientar que a tarja leucêmica não é patognomônica da leucemia aguda e que, em casos bastante precoces (raro), o hemograma pode ser normal, com manifestação exclusiva de dor osteomuscular. Trata-se de diagnóstico diferencial importante da artrite reumatoide e da febre reumática.
+
+{+Dica+}
+Toda criança[-,-] com dor osteomuscular e alteração no hemograma[-,-] deve ser avaliada quanto à possibilidade de leucemia agu{+-+}da. 
+
+Alguns fatores prognósticos são particulares da{+s+} criança{+s+} e importantes para a decisão terapêutica, para tentar preservar aquelas de baixo risco dos efeitos tóxicos do tratamento e realizar tratamento mais agressivo nas de alto risco.
+
+Tabela 15 - Fatores prognósticos na infância
+Riscos	Fatores
+Baixo	- Hiperdiploidia ou trissomia do 4, 10 ou 17;
+	- t(12;21).
+Standard	- Leucócitos <50.000;
+	- Idade entre 1 e 9,9 anos.
+Alto	- Idade [->-]{+=+}10 anos;
+	- Leucócitos >50.000;
+	- t(1;19){+ (questionável atualmente)+};
+	- LLA[---]{+ +}T.
+Muito alto	- t(9;22) ou t(4;11);
+	- Idade <1 ano;
+	- Tempo >4 semanas para resposta à quimioterapia.
+
+5. Diagnóstico
+
+O diagnóstico das leucemias agudas é feito por meio da detecção de mais de 20% de blastos na medula óssea, pelos novos critérios da OMS (em detrimento da já antiquada classificação FAB, que considerava como ponto de corte 30% de blastos). O exame que possibilita esse diagnóstico é o mielograma. Para “medulas secas”, em que a aspiração de sangue medular durante o mielograma não é produtiva (dry tap), a infiltração deve ser confirmada pela análise histológica do tecido (biópsia de medula óssea). Esses casos têm como diagnóstico diferencial as aplasias medulares e a mielofibrose.
+Para a definição da linhagem acometida e do subtipo de leucemia, utiliza-se de imunofenotipagem, citogenética e pesquisa molecular, conforme explicado nos itens anteriores.
+Outras alterações laboratoriais frequentemente encontradas são:
+
+A - Hemograma
+Citopenias, como plaquetopenia, anemia e leucopenia;
+Leucocitose, à[-s-] custa[-s-] de blastos, promielócitos anômalos ou monócitos; 
+Eritroblastose (rara).
+
+B - Bioquímica 
+Hiperuricemia, acidose metabólica, hiperpotassemia ou hipopotassemia, hipocalcemia, hiperfosfatemia, aumento de ureia e creatinina, elevação de enzimas hepáticas, DHL aumentada (principalmente nas LLAs);
+Particularmente, na LMA promielocítica (M3): alargamento de Tempo de Protrombina (TP) e Tempo de Tromboplastina Parcial Ativada (TTPA), diminuição do fibrinogênio.
+
+C - Urinálise
+Hematúria, cilindrúria, pH ácido, cristais de urato.
+São necessários, em alguns casos, outros exames complementares, a depender dos sintomas, com o intuito de avaliar o comprometimento de outros órgãos e sistemas: 
+
+Tabela 16 - Exames complementares
+- Radiografias, ultrassonografia, tomografia e ressonância magnética;
+- Liquor com pesquisa de células neoplásicas em todas as LLAs e nas LMAs que apresentem sintoma no SNC;
+- Avaliação de fundo de olho nas suspeitas de leucostase;
+- Biópsia testicular para avaliação de infiltração em testículo;
+- Atualmente, para o correto diagnóstico e o manejo terapêutico das leucemias agudas, são imprescindíveis mielograma ou biópsia de medula óssea, imunofenotipagem e cariótipo (ao menos, pelo método convencional).
+
+{+Pergunta+}
+{+2014 - SANTA CASA-SP+}
+{+3. A respeito das leucemias linfoides na infância, assinale a alternativa correta: +}
+{+a) o critério diagnóstico é a presença de pelo menos 10% de blastos na medula óssea+}
+{+b) leucometria inicial acima de 30.000/mm3 é considerada fator independente de mau prognóstico+}
+{+c) os pacientes com síndrome de Down têm maior risco de desenvolver essa doença+}
+{+d) a contaminação do liquor com blastos do sangue periférico durante a punção lombar diagnóstica interfere no prognósti-co+}
+{+e) quanto à idade, os pacientes classificados como risco standard são aqueles que iniciam a doença com idade inferior a 1 ano ou superior a 10 anos+}
+{+Resposta no final do capítulo+}
+
+6. Prognóstico e evolução 
+
+Como em todas as neoplasias, as LMAs e as LLAs apresentam fatores prognósticos que contribuem para a decisão de terapêutica mais ou menos agressiva[-,-] e para a distinção daqueles que terão maior chance de resposta completa, sustentada ou não.
+
+{+Dica+}
+{+As leucemias de melhor prognóstico são a leucemia mieloide aguda promielocítica com t(15;17) e as leucemias linfoides agudas na infância.+}
+
+Tabela 17 - Fatores prognósticos das [-LMA-]{+leucemias mieloides aguda+}s
+Favoráveis	Desfavoráveis
+Idade <50 anos	Idade >60 anos
+Leucócitos <30.000	Leucócitos >30.000
+@@ -255,31 +385,43 @@ Citogen
+Alteração molecular (NPM1, CEBPA)	Alteração molecular: FLT3/ITD, MLL 
+LMA “de novo”	LMA secundária
+Ausência da expressão de MDR	Presença de MDR
+Observações: MDR – proteína de resistência a multidrogas, que confere maior resistência aos quimioterápicos; LMA “de novo” – sem patologia prévia que predispõe à leucemia; LMA secundária – existe previamente alguma patologia que predisponha à leu[---]cemia, como SMD, mieloproliferação crônica ou tratamento com quimioterapia/radioterapia.
+
+A idade e o performance status são os melhores preditores de mortalidade, enquanto os demais fatores são preditores de doença refratária ou recidiva precoce.
+
+Tabela 18 - Fatores prognósticos desfavoráveis na [-LLA-]{+leucemia linfoide aguda+} em adultos
+- Idade >30 anos;
+- >30.000 leucócitos na LLA[---]{+ +}B;
+- Tempo para alcançar remissão completa >4 semanas;
+- Imunofenótipo pró-B, T precoce e T madura;
+- t(9;22); t(4;11).
+
+Quanto maior o número de fatores desfavoráveis na LLA, pior a sobrevida em 3 anos, variando entre 21 e 91%.
+A taxa de remissão completa e a sobrevida livre da doença em 5 anos dependem do tipo e do subtipo da leucemia e dos fatores prognósticos, sendo as leucemias de melhor prognóstico a LMA promielocítica com t(15;17) e as LLAs na infância.
+
+ 
+Figura 9 - Performance status ECOG
+
+7. Tratamento
+
+{+Tratamento+}
+{+O tratamento das leucemias pode ser feito de forma específica, por meio de poliquimioterapia, seguindo as etapas de indu-ção da remissão, pós-remissão (intensificação/consolidação) e manutenção, ou de forma inespecífica, na qual se devem fazer uma hidratação vigorosa, prescrição de alopurinol, realização de controle diário de hemograma, eletrólitos, tempo de protrombina, tempo de tromboplastina parcial ativada e fibrinogênio.+}
+
+O tratamento de qualquer tipo de leucemia aguda baseia-se em 2 pontos extremamente importantes:
+
+A - Específico 
+É feito por meio de esquemas de poliquimioterapia, diferentes para cada tipo de leucemia. Para a escolha do tratamento adequado, é importante o diagnóstico do tipo e do subtipo da leucemia e da estratificação de risco por intermédio dos fatores prognósticos. Com isso, preservam-se dos efeitos tóxicos da quimioterapia os pacientes de baixo risco e tende-se a ser mais agressivo na tentativa de obter maior êxito naqueles de alto risco. Os esquemas geralmente compreendem 3 fases:
+
+Tabela 19 - Esquemas
+Indução da remissão	Objetiva a remissão completa, ou seja, diminuir intensamente o clone leucêmico (alcançar <5% de blastos na medula óssea), de forma que a medula volte à sua função normal.
+Pós-remissão (intensifica-ção/consolidação)	Serve para diminuir ainda mais o clone leucêmico e reduzir as chances de recidiva.
+Manutenção	Para evitar a reativação da doença residual mínima, se houver. É utilizada {+principalmente +}nas LLAs.
+
+A quimioterapia intratecal é usada para profilaxia e tratamento de infiltração do SNC. Entre portadores de leucemias agudas, toda abertura do espaço liquórico tem de ser acompanhada da infusão intratecal de quimioterápicos, pois está sendo violado um “santuário” (a quimioterapia não ultrapassa a barreira hematoencefálica, e células neoplásicas que porventura cheguem até essa barreira serão foco de recidiva se não forem tratadas). É de muita importância no tratamento das LLAs.
+Vale lembrar o importante papel do ATRA, especificamente no subtipo M3/promielocítico, transformando uma das leucemias de maior mortalidade na leucemia de melhor prognóstico atualmente.
+A radioterapia está indicada a situações específicas, não sendo amplamente utilizada.
+O Transplante de Células-Tronco Hematopoéticas (TCTH) alogênico nas leucemias agudas, de um modo geral, apresenta as seguintes indicações: pacientes cuja doença se caracteriza por alto risco[-,-] assim que entram em remissão; pacientes de qualquer risco diante da recidiva ou refratariedade da doença; e, finalmente, pacientes com LMA secundária. Por sua vez, o TCTH autólogo pode, ainda, ser utilizado na LMA de baixo risco ou na LMA de risco intermediário ou alto na ausência de doador compatível para realização de procedimento alogênico. Já na LLA, o TCTH autólogo encontra-se em desuso, pois essa modalidade de transplante apresentou resultados inferiores aos da quimioterapia isoladamente.
+
+Tabela 20 - Critérios de remissão completa para leucemias agudas
+- Menos de 5% de blastos na medula óssea por mielograma ou biópsia de medula óssea:
+· Para LMA, acrescenta-se ainda ausência de bastonetes de Auer.
+@@ -290,29 +432,43 @@ Tabela 20 - Crit
+· Plaquetas =100.000/mm3.
+- Ausência de alteração cariotípica encontrada ao diagnóstico;
+- Ausência de alteração molecular encontrada ao diagnóstico.
+
+B - Inespecífico
+A profilaxia e o tratamento das infecções são fundamentais para a sobrevivência, visto que a imunossupressão é muito severa e prolongada, tanto pela doença quanto pelo tratamento.
+É necessário um bom acesso venoso para a administração de quimioterapia, pelo risco de flebite, pelo efeito irritante das drogas e pelo risco de necrose cutânea por extravasamento de alguns quimioterápicos. A implantação de cateteres de curta (duplo lúmen) ou de longa permanência (Hickman ou port-a-cath), muitas vezes, é necessária, principalmente nos primeiros dias de tratamento quimioterápico.  
+
+Tabela 21 - Cuidados para primeiros dias de tratamento quimioterápico
+Hidratação vigorosa	Deve-se hiper-hidratar o paciente, de preferência com aproximadamente 3L/m2/d, mantendo boa diurese, utilizando-se de diurético caso necessário, objetivando débito urinário de 100mL/m2/h. Deve-se tomar o devido cuidado em se tratando de pacientes com doença cardiopulmonar prévia (por exemplo, insuficiência cardíaca congestiva), a fim de evitar sobrecarga hídrica.
+Alopurinol	Na dose de 300 a 600mg/d, serve para diminuir a síntese de ácido úrico e evitar a hiperuricemia consequente à destruição dos blastos{+ (alternativa: rasburicase)+}.
+Controle de eletrólitos e hemograma	É comum o distúrbio eletrolítico na fase inicial, devendo ser monitorizado com fre{+-+}quência nos primeiros 7 dias. A transfusão de hemocomponentes é geralmente neces{+-+}sária{+,+} pelo efeito mielo[---]tóxico das drogas; devem-se, então, transfundir hemácias de acordo com sintomas (em geral, se <7g/dL) e plaquetas se <10.000/mm3 em pacien{+-+}tes estáveis, sem sangramento ativo, ou abaixo de 20.000{+/mm3+} se em indivíduos instáveis, com uso de antibióticos ou com episódios febris.
+Controle diário de TP, TTPA e fibrino[---]gênio	Está indicado nas leucemias promielocíticas desde o início do tratamento, até que esses exames estejam normais e estáveis, sem transfusão. Recorre-se ao suporte transfusional com plasma fresco congelado e crioprecipitado, conforme necessário.
+
+É preciso suporte psicossocial eficaz, pois os pacientes, seus familiares e amigos estão perante uma doença incapacitante por longos períodos, de tratamento extenso e intenso, alto custo, muitas vezes segregante (pelo risco infeccioso, por mudan[---]ças de aparência física etc.) e que demanda cuidados específicos, sendo habitualmente necessário treinar os cuidadores em práticas de suporte.
+
+8. Complicações clínicas
+
+A - Neutropenia febril
+
+{+Dica+}
+{+Neutropenia febril corresponde a febre associada a neutrófilos <500/mm3 ou <1.000/mm3 em queda.+}
+
+Trata-se de uma síndrome febril associada a neutrófilos <500/mm3 ou <1.000/mm3 em queda. A fonte de infecção é determinada em somente 30% dos casos, geralmente associada à translocação bacteriana intestinal que ocorre pela imunossupressão e {+à +}lesão de mucosa provocada pelos quimioterápicos. Se não tratada prontamente, evolui para quadros infecciosos severos, levando a síndrome da resposta inflamatória sistêmica, choque séptico e óbito, muitas vezes, em algumas horas. A febre em paciente neutropênico é uma emergência médica.
+O predomínio de bactérias Gram negativas era claro há décadas, mas, atualmente, se observa aumento das infecções por Gram positivos, sobretudo pelo uso de cateteres intravenosos e pelo uso crescente de antibioticoterapia profilática. Agentes anaeróbios devem ser pensados em casos de infecções abdominais, abscessos dentários ou perianais, mucosite grave e sinusite. Infecções virais (herpes-simples, herpes-zóster e citomegalovírus) e fúngicas [-– -]{+(+}principalmente a aspergilose angioinvasiva e a candidemia[- –-]{+)+} também são importantes.
+Devem-se obter história e exame clínico bastante minuciosos, além de valorizar todas as queixas do paciente, uma vez que, devido à quantidade ínfima de neutrófilos, os processos inflamatórios são muito discretos, de difícil localização.
+Preconiza{+m+}-se a coleta de culturas (hemoculturas e uroculturas, além de culturas de secreções, se presentes) a fim de identificar sítios primários de infecção ou bacteriemia, e a realização d[-a-]{+e+} investigação radiológica, quando necessário. 
+A introdução d[-a-]{+e+} antibioticoterapia empírica é mandatória e deve ter início imediato, pois o retardo pode comprometer a vida do paciente. Na era pré-antibioticoterapia empírica, 75% da mortalidade dos pacientes com câncer deviam-se aos quadros infecciosos. Segue a chamada “escala antibiótica”:
+Início do quadro febril: cobertura para Gram negativos, incluindo Pseudomonas (cefalosporinas de 4ª geração – cefepima – e carbapenêmicos – imipeném ou meropeném); 
+Se houver foco provável cutâneo ou de cateter, mucosite importante, se tiverem passado 48 a 72 horas da introdução de cobertura para Gram negativos, sem redução da curva febril nem melhora clínica, ou ainda, se ocorrer instabilidade hemodinâmica já no início do quadro febril: incluir cobertura para Staphylococcus aureus com o uso de vancomicina, teicoplanina ou linezolida;
+Se houver neutropenia prolongada e persistência de febre por mais de 5 dias, apesar de antibioticoterapia de amplo espectro, deve-se ampliar cobertura empírica para fungos (Aspergillus, Candida etc.) com anfotericina B ou suas formas lipossomais, caspofungina ou voriconazol. Se o paciente permanecer instável ou com suspeita de infecção fúngica, pode-se iniciar a terapia antifúngica antes desse prazo.
+
+{+Importante+}
+Profilaxia de infecções oportunistas[-:-]
+[-P-]{+ deve se+}r[-o-]{+ +}f{+e+}i[-laxi-]{+t+}a para Pneumocystis jirovecii[-:-]{+ com+} sulfametoxazol-trimetoprima 800/160mg, 3x/sem, durante todo o tratamento[-;-]
+[-P-]{+ de leucemia, e para p+}arasitoses[-:-]{+,+} antes do início da quimioterapia, {+com +}mebendazol{+,+} por 7 dias{+,+} ou albendazol{+,+} por 3 dias.
+
+B - Síndrome de lise tumoral
+
+{+Tema frequente de prova+}
+{+A síndrome da lise tumoral, como complicação do tratamento quimioterápico para leucemia, e as consequentes altera-ções laboratoriais causadas por ela são tema frequente nas provas de Residência Médica.+}
+
+A presença em massa de blastos, em constante síntese e apoptose, pode provocar hiperuricemia, em virtude do extenso catabolismo das purinas que acompanha a rápida lise de células neoplásicas induzidas por quimioterápicos ou pela própria morte celular espontânea (síndrome de lise tumoral). Quanto maior o número de leucócitos, maior o risco de lise tumoral. São característicos da síndrome de lise tumoral: 
+Aumento dos níveis séricos de DHL, potássio, fósforo, ureia, creatinina, ácido úrico; 
+Diminuição de cálcio sérico;
+@@ -320,31 +476,38 @@ Cristais de 
+Muitas vezes, pode fazer parte dessa síndrome um quadro de CIVD, que resulta em altas taxas de mortalidade.
+Trata-se de uma emergência médica que necessita de intervenção imediata com hiper-hidratação com 3L de solução salina/m2, manutenção do débito urinário >100mL/m2/min, com uso de diuréticos se necessário e hipouricemiantes (alopurinol ou rasburicase). O controle de eletrólitos deve ser feito a cada 6 horas, até a normalização. Algumas vezes, é necessária hemodiálise para controle do quadro. A alcalinização urinária deve ser reservada para os casos de acidose metabólica, visto que pode promover a precipitação de fosfato de cálcio nos túbulos renais e nos tecidos.
+O melhor tratamento compreende prevenção, por meio da hiper-hidratação, e agentes hipouricemiantes.
+
+C - Hiperleucocitose e leucostase
+Pacientes com leucemia aguda podem apresentar o quadro inicial com contagens muito elevadas de leucócitos no sangue periférico, o que caracteriza a chamada hiperleucocitose (>100.000 leucócitos/mm3). No adulto, a hiperleucocitose pode ocorrer em 10 a 30% das LLAs e em 5 a 20% das LMAs. É mais comum entre crianças e em certas variantes das leucemias agudas (por exemplo: M3v, M4, M5 e LLA[---]{+ +}T). É também muito frequente hiperleucocitose em leucemias crônicas indolentes, como a Leucemia Mieloide Crônica (LMC) e a Leucemia Linfoide Crônica (LLC).
+Dentre os diversos [-do-]{+paci+}entes com hiperleucocitose, alguns podem manifestar uma síndrome chamada leucostase, em que há lentificação e obstrução da microcirculação pelos blastos circulantes. A viscosidade na hiperleucocitose aumenta principalmente em situações de baixo fluxo sanguíneo, daí o predomínio de manifestações em território microvascular. A leucostase está, em geral, associada a contagens elevadas de blastos, sendo mais comum nas leucemias agudas e incomum nas leucemias crônicas, como a LLC. Em geral, tem-se leucostase com >100.000 blastos/mm3 nas LMAs e >300.000 blastos/mm3 nas LLAs, porém já foram descritos casos com <50.000 blastos/mm3, apontando que outros fatores, como possível interação do blasto com a célula endotelial, devem ter seus papéis na patogênese dessa condição.
+A leucostase apresenta sintomas predominantemente nos territórios pulmonar e cerebral, sendo insuficiência respiratória e hemorragia intracerebral as principais causas de morte. No entanto, qualquer órgão pode ser afetado pela contagem excessiva de blastos.
+
+Tabela 22 - Sintomas
+Sintomas respiratórios	Dispneia aos esforços e desconforto respiratório com hipoxemia importante; deve-se evitar o uso de oxigênio [-p-]{+guiad+}o[-r-]{+ pela+} gasometria arterial, uma vez que pode ocorrer pseudo-hipoxemia por consumo de oxigênio pelos leucócitos.
+Sintomas neurológicos	Incluem de leve confusão mental e cefaleia até acidente vascular cerebral hemorrágico e coma.
+Sintomas gerais	Muitos podem ter febre pela condição, contudo sempre deve ser considerado que sua presença indica infecção e deve ser tratada como tal (outras queixas comuns são zumbido, tontura, náusea e mal-estar).
+Sintomas vasculares	Compreendem priapismo, trombose de veia renal, trombose venosa retiniana, hemorragias retinianas, isquemia coronariana.
+
+Deve-se fazer avaliação laboratorial com hemograma, funções renal e hepática, eletrólitos e coagulograma. A suspeita di[---]agnóstica deve ser feita em indivíduos com quadro neurológico ou pulmonar que apresentem contagens elevadas de blastos no sangue periférico. O exame de fundo de olho pode ser muito útil, assim como em todas as síndromes de hiperviscosidade, demonstrando dilatação e tortuosidade de veias retinianas, hemorragias retinianas, papiledema etc. 
+A leucostase é uma emergência médica e deve ser tratada como tal. A mortalidade pode ser muito alta, chegando a 34 a 40% em 1 semana em algumas séries de casos, devendo a terapêutica ser iniciada prontamente em caso de suspeita clínica. 
+O tratamento da leucostase envolve 2 fases:
+
+a) Medidas de suporte
+Hidratação vigorosa: deve-se hiper-hidratar o paciente, de preferência com aproximadamente 3L/m2/d. Também se deve manter boa diurese, podendo-se usar diuréticos se necessário, procurando manter débito urinário de 100mL/m2/h e tomar o devido cuidado em pacientes com doença cardiopulmonar de base (por exemplo, insuficiência cardíaca congê{+-+}nita), para evitar sobrecarga hídrica;
+Profilaxia de síndrome de lise tumoral: além da hiper-hidratação, é indicado alopurinol, na dose de 300 a 600mg/d{+ (má-ximo de 800mg/d)+}, para diminuir a síntese de ácido úrico e evitar a hiperuricemia consequente à destruição dos blastos;{+ rasburicase é alternativa ao alopurinol;+}
+Transfusão de hemoderivados: evitar a transfusão de concentrados de hemácias, até que a etapa número 2 tenha sido fei{+-+}ta, uma vez que a transfusão de hemácias pode piorar a viscosidade e precipitar complicações graves.
+
+b) Correção da hiperleucocitose
+Leucoaférese: é a medida de efeito mais imediato, mas nem sempre disponível em todos os centros. Consiste em sessões de aférese com retirada de blastos circulantes e reinfusão do restante do sangue. Leva a rápida redução dos níveis de blastos (20 a 50%) e está indicada na presença de leucostase. Necessita da passagem de cateter venoso central de grosso calibre para realização[-,-] caso o paciente não apresente bom acesso periférico;
+Citorredução química: o objetivo é a rápida redução das contagens de blastos. Pode ser utilizada para esse fim a hidroxiureia, agente quimioterápico antimetabólico, usada na dose de 50 a 100mg/kg/d, dividida em 3 a 4 doses (reduz 50 a 80% da contagem leucocitária em 24 a 48 horas). Pode ser iniciada prontamente no momento do diagnóstico, tendo maior sensibilidade na LMA. Na LLA, pode ser instituída, com o mesmo fim, corticoterapia com prednisona em altas doses, em geral 60mg/m2/d;
+Quimioterapia: uma vez que se tenha o diagnóstico do tipo de leucemia aguda, deve ser prontamente iniciada a indução quimioterápica com os agentes específicos indicados, o que causará a redução da carga tumoral e o alívio dos sintomas. 
+Para indivíduos com hiperleucocitose sem leucostase, é recomendada apenas a hidroxiureia. Para aqueles com leucostase, a recomendação é a leucoaférese associada [-à-]{+a+} hidroxiureia.
+
+9. Resumo
+
+Quadro-resumo
+Leucemias agudas
+Proliferação de um clone maligno originado da stem cell hematopoética, com produção de células imaturas que perderam a capacida{+-+}de de diferenciação (blastos)
+Classificação
+- LMA:
+  · M0: com mínima diferenciação;
+@@ -365,11 +528,18 @@ Classifica
+   * T precoce;
+   * T comum;
+   * T tardia.
+{+LPA ou LMA M3+}
+{+- Presença de promielócitos anômalos na morfologia; +}
+{+- Presença de t(15;17) na citogenética;+}
+{+- Presença do gene PML/RARa na pesquisa molecular;+}
+{+- Manifestações trombóticas/hemorragias secundárias a hiperfibrinólise e CIVD: alargamento de TP e TTPA, e diminuição de fibrinogê-nio;+}
+{+- Diante da suspeita, deve-se iniciar imediatamente o ATRA, pois diminui drasticamente o risco de hemorragia e a mortalidade;+}
+{+- Leucemia aguda de melhor prognóstico após o advento do ATRA (sobrevida em 5 anos de >80%).+}
+Quadro clínico
+Secundário às citopenias, podendo ter algumas particularidades
+Diagnóstico
+- Morfológico: >20% de blastos do sangue ou medula (mielograma);
+- Citoquímico{+ (pouco usado atualmente)+}:
+  · Mieloide: Sudan Black, MPO;
+  · Linfoide: PAS.
+- Imunofenotípico (resumido):
+@@ -387,12 +557,15 @@ Tratamento
+LLA na infância
+- Câncer mais comum da infância: de 20 a 30% dos casos de neoplasia e de 75 a 80% dos casos de leucemia;
+- Pico de incidência entre 2 e 5 anos;
+- Manifestação clínica importante (dor{+es+} osteomuscular e articular);
+- Ótimo prognóstico, com 80% de chance de cura.
+
+[-LPA ou LMA-M3-]
+[-- Pr-]{+R+}es[-ença de -]p[-romielócit-]os[- anôm-]{+t+}a[-lo-]s
+{+1.+} [-na-]{+C+}
+{+2.+} [-morfolog-]{+D+}
+{+3. C+}
+
+{+D+}i{+c+}a[-; -]
+[-- -]
+P[-resenç-]a[- de t(15;17) n-]{+r+}a [-citogenét-]{+f+}i[-c-]{+x+}a[-;-]
+[-- P-]r[-esença-] [-d-]o [-gen-]{+qu+}e [-PML/RARA na p-]es[-q-]{+t+}u[-isa m-]{+d+}o[-lec-]u[-lar;-]
+[---] [-Ma-]n[-if-]est[-açõ-]e[-s-] {+capí+}t[-r-]{+ul+}o[-mbó-]{+, +}t[-icas/h-]e[-morragia-]s{+te+} se[-c-]u[-ndária-]s [-a -]{+con+}h[-ip-]e[-rfibrinól-]{+c+}i[-se e CIVD: alarga-]mento{+s+} [-de TP, TTPA -]{+r+}e[- diminuiçã-]{+s+}o[- d-]{+lv+}e[- fibrinogê-]n[-i-]{+d+}o[-;-]
+[-- Diante-] [-d-]a[- -]s{+ q+}u[-sp-]e[-i-]{+s+}t[-a, dev-]{+õ+}e[---]s[-e-] [-inicia-]r[- imediatam-]e[-nt-]{+f+}e[- o ATRA, pois diminui d-]r[-asticam-]ente[- o ri-]s[-co de-] [-hemorragi-]a[-;-]
+[---]{+o+} [-Leuc-]{+t+}em[-ia -]a[-g-]{+.+}
+{+Q+}u[-da d-]e[- m-]{+stõ+}e[-lhor-]{+s:+} p[-ro-]{+á+}g[-nóst-]i[-co -]{+n+}a[-pós-] {+XX+}
+{+C+}o[- adv-]{+m+}ent[-o do ATRA (sob-]{+á+}r[-ev-]i[-da em 5 an-]os{+:+} [-de-]{+página+} [->80%).-]{+XX+}
