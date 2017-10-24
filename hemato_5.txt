@@ -1,72 +1,120 @@
 Pancitopenias
- Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+ Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Neste capítulo, serão abordadas as principais causas de diminuição de todos os elementos figurados do sangue, dando en-foque para doenças medulares como aplasia de medula e síndrome mielodisplásica, que têm suas etiologias em alterações imunológicas e alterações genéticas, respectivamente. A síndrome mielodisplásica tem um curso mais maligno, por evoluir para leucemia aguda em grande parte dos casos. 
+
 1. Introdução
-A pancitopenia caracteriza-se por quadro de diminuição de todos os elementos figurados do sangue (hemácias, leucócitos e plaquetas), que pode, ou não, estar associado a manifestações clínicas. As etiologias são variadas e vão desde as doenças congênitas com ausência de produção de glóbulos, como a anemia de Fanconi, a disceratose congênita, até o aumento de destruição e a captação esplênica, como no hiperesplenismo. As causas mais frequentes de pancitopenia incluem: 
+
+A pancitopenia caracteriza-se por quadro de diminuição de todos os elementos figurados do sangue (hemácias, leucócitos e plaquetas) que pode, ou não, estar associado a manifestações clínicas. As etiologias são variadas e vão desde as doenças congênitas com ausência de produção de glóbulos, como a anemia de Fanconi e a disceratose congênita, até o aumento de destruição e a captação esplênica, como no hiperesplenismo. As causas mais frequentes de pancitopenia incluem: 
+
 A - Drogas
 Podem estar relacionadas à dose, ao efeito sobre os precursores hematopoéticos ou aos fatores imunológicos.
+
 B - Doenças medulares
 Incluem as patologias infiltrativas, como leucemias, tumores sólidos e linfomas, e as doenças primárias da medula, como aplasia medular, mielodisplasia, mielofibrose e hemoglobinúria paroxística noturna.
+
 C - Doenças esplênicas
-Incluem esplenomegalias congestiva, tumoral, infecciosa (calazar, tuberculose) ou reacional à hipertensão portal.
+Incluem esplenomegalias congestiva, tumoral, infecciosa (calazar, tuberculose) ou reacional a hipertensão portal.
+
 D - Deficiência de fatores essenciais
 Caracteristicamente na anemia megaloblástica (deficiência de B12 e folato).
+
 E - Secundária a doenças sistêmicas
 Lúpus eritematoso sistêmico, tuberculose e micobacteriose atípica, sarcoidose e brucelose.
+
 2. Anemia aplásica
-A Anemia Aplásica (AA) consiste na diminuição da quantidade das células-tronco hematopoéticas, com substituição de grande parte do tecido hematopoético por tecido gorduroso, resultando na característica pancitopenia; pode ser congênita (doença de Fanconi, disceratose congênita) ou adquirida e apresenta 2 picos de incidência: em adultos jovens, particularmente dos 15 aos 25 anos, e após os 60 anos.
+
+A Anemia Aplásica (AA) consiste na diminuição da quantidade das células-tronco hematopoéticas, com substituição de grande parte do tecido hematopoético por tecido gorduroso, resultando na característica pancitopenia; pode ser congênita (doença de Fanconi, disceratose congênita) ou adquirida e apresentar 2 picos de incidência: em adultos jovens, particularmente dos 15 aos 25 anos, e após os 60 anos.
 Dentre as AAs adquiridas, 60% são idiopáticas, ou seja, sem motivo aparente, e 40% são secundárias. Dentre as secundárias, têm-se:
-Tabela 1 - AAs adquiridas secundárias
+
+Tabela 1 - Anemias aplásicas adquiridas secundárias
 AA transitória	Decorrente do efeito de quimioterápicos e radioterápicos para o tratamen-to de neoplasias (causa mais comum de AA)
 Agentes físicos e químicos (produzem aplasia, dependen-do da dose e do tempo)	Radiação, benzeno e derivados, arsênico e sais de ouro
 Agentes químicos (ocasionalmente produzem aplasia)	Cloranfenicol, butazona, antitireoidianos, anti-inflamatórios não hormonais e anticonvulsivantes
 Vírus	HIV, Epstein-Barr, parvovírus B19 e vírus da hepatite (HAV, HBV, HCV)
 Doenças imunes	Fasciite eosinofílica, lúpus eritematoso sistêmico, timoma, hipoimunoglo-bulinemia e doença do enxerto contra o hospedeiro
-A hipótese mais aceita para a fisiopatologia da AA é a de que vírus, medicamentos, agentes físicos ou químicos e doenças imunes sejam responsáveis pela ativação de linfócitos T e liberação de citocinas, capazes de inibir e induzir à apoptose das stem cells. Essa “autodestruição” também pode ocorrer de forma idiopática. Tal teoria é reforçada pela alta taxa de resposta da doença ao tratamento imunossupressor. Outros possíveis mecanismos fisiopatológicos são a presença de defeitos intrínsecos à própria célula-tronco, que permite maior vulnerabilidade genética; e a perturbação direta do estroma medular com a diminuição de fatores estimuladores celulares, como o fator estimulador de colônia de granulócitos. Existem, ainda, situações que podem estar associadas à AA de forma não esclarecida, como gestação e hemoglobinúria paroxística noturna. 
-A anemia de Fanconi é uma doença congênita autossômica recessiva ou ligada ao X, que se manifesta com pancitopenia de intensidade variável e anomalias congênitas, também variáveis (manchas “café com leite”, hipogonadismo, microcefalia e baixa estatura), e apresenta alto risco de desenvolver doenças malignas, como leucemia aguda, carcinoma de cabeça e pescoço e síndrome mielodisplásica (SMD). A média de idade do diagnóstico é de 6 anos, sendo diferencial importante da AA adquirida, visto que não se beneficiam de imunossupressor. As células do paciente com anemia de Fanconi exibem sensibilidade aumentada a agentes clastogênicos (como o diepoxibutano), resultando em anormalidades cromossômicas adicionais com a utilização desses agentes.
+
+A hipótese mais aceita para a fisiopatologia da AA é a de que vírus, medicamentos, agentes físicos ou químicos e doenças imunes sejam responsáveis pela ativação de linfócitos T e liberação de citocinas, capazes de inibir e induzir à apoptose das stem cells. Essa “autodestruição” também pode ocorrer de forma idiopática. Tal teoria é reforçada pela alta taxa de resposta da doença ao tratamento imunossupressor. Outros possíveis mecanismos fisiopatológicos são a presença de defeitos intrínsecos à própria célula-tronco, que levam a maior vulnerabilidade genética; e a perturbação direta do estroma medular, com diminuição de fatores estimuladores celulares, como o fator estimulador de colônia de granulócitos. Existem, ainda, situações que podem estar associadas à AA de forma não esclarecida, como gestação e hemoglobinúria paroxística noturna. 
+
+Importante
+Na anemia aplásica, há diminuição da quantidade das células-tronco hematopoéticas, com substituição de grande parte do tecido hematopoético por tecido gorduroso, com alta taxa de resposta a tratamento imunossupressor que reforça a teoria do aspecto imunológico da doença. 
+
+A anemia de Fanconi é uma doença congênita autossômica recessiva ou ligada ao X, que se manifesta com pancitopenia de intensidade variável e anomalias congênitas, também variáveis (manchas “café com leite”, hipogonadismo, microcefalia e baixa estatura), e apresenta alto risco para o desenvolvimento de doenças malignas, como leucemia aguda, carcinoma de cabeça e pescoço e síndrome mielodisplásica (SMD). A média de idade ao diagnóstico é de 6 anos, sendo importante diferencial da AA adquirida, visto que essa patologia não se beneficia do uso de imunossupressores. As células do paciente com anemia de Fanconi exibem sensibilidade aumentada a agentes clastogênicos (como o diepoxibutano), resultando em anormalidades cromossômicas adicionais com a utilização desses agentes.
+
 A - Quadro clínico e diagnóstico
-A doença é de manifestação insidiosa, na maior parte das vezes associada a sintomatologia secundária às citopenias, como febre e infecções de repetição por neutropenia, hemorragia e síndrome anêmica. Esplenomegalia e linfonodomegalia não estão associadas à patologia.
-No sangue periférico, encontra-se pancitopenia ou diminuição de ao menos 2 séries celulares, com reticulocitopenia (tendo em vista que não existe stem cell para a produção de elementos figurados do sangue). Geralmente, a anemia é normocítica e normocrômica, mas pode ser macrocítica (volume corpuscular médio <115). São critérios indicativos de AA: hemoglobina <10g/dL, contagem de plaquetas <50.000/mm3, contagem de neutrófilos <1.500/mm3 e reticulocitopenia.
+A doença é de manifestação insidiosa, na maior parte das vezes associada a sintomatologia secundária a citopenias, como febre e infecções de repetição por neutropenia, hemorragia e síndrome anêmica. Esplenomegalia e linfonodomegalia não estão associadas à patologia.
+No sangue periférico, encontra-se pancitopenia ou diminuição de ao menos 2 séries celulares, com reticulocitopenia (tendo em vista que não existe stem cell para a produção de elementos figurados do sangue). Geralmente, a anemia é normocítica e normocrômica, mas pode ser macrocítica (volume corpuscular médio <115). 
+
+Importante
+O diagnóstico da anemia aplásica é feito por meio da análise do sangue periférico, em que há diminuição de pelo menos 2 séries celulares ou pancitopenia, sendo que geralmente há hemoglobina <10g/dL, contagem de plaquetas <50.000/mm3, contagem de neutrófilos <1.500/mm3 e reticulocitopenia.
+
 Indica-se a biópsia de medula óssea (exame que confirma o diagnóstico) para avaliar a celularidade global. Nesse exame, encontra-se medula óssea hipocelular, com predomínio de tecido gorduroso, em que as células hematopoéticas restantes são morfologicamente normais, e não há infiltração medular por outras células.
 A análise do cariótipo é importante para descartar SMD hipoplásica, e a pesquisa do aumento de quebras cromossômicas induzidas pelo diepoxibutano é importante para afastar anemia de Fanconi (principalmente em crianças, adolescentes e adultos jovens).
-É essencial a avaliação com citometria de fluxo para pesquisa de hemoglobinúria paroxística noturna, pois até 30% podem apresentar concomitância das 2 doenças.
+É essencial a avaliação por meio da citometria de fluxo para pesquisa de hemoglobinúria paroxística noturna, pois até 30% dos casos podem apresentar concomitância dessas 2 doenças.
+
  
-Figura 1 - Medula óssea hipocelular, com aumento do tecido gorduroso e ausência de células anômalas ou tecido fibrótico B – classifi-cação da AA idiopática
+Figura 1 - Medula óssea hipocelular, com aumento do tecido gorduroso e ausência de células anômalas ou tecido fibrótico – classifica-ção da anemia aplásica idiopática
+
 Tabela 2 - Critérios diagnósticos 
 AA severa	- Celularidade de medula óssea <25 a 30% ou até 50% com menos de 30% de células-tronco hematopoéticas; 
 	- Ao menos 2 dos 3 critérios a seguir:
-   · Neutrófilos <500; 
-   · Plaquetas <20.000;
-   · Reticulócitos <20.000.
+· Neutrófilos <500; 
+· Plaquetas <20.000;
+· Reticulócitos <20.000.
 AA muito severa	Idêntica à AA severa, porém com neutrófilos <200
 AA não severa	Pacientes que não preenchem nenhum dos critérios anteriores
+
+Pergunta
+2007 - SUS-CE
+1. Anemia aplástica é decorrente de:
+a) deficiência das células-tronco pluripotentes
+b) lesão medular progressiva por neoplasia
+c) anormalidade citogenética na série eritrocítica
+d) mutação no gene PIG-A
+e) mutação no gene CMPL
+Resposta no final do capítulo
+
 B - Tratamento da AA idiopática
-Os casos de AA não graves, sem necessidade transfusional, não necessitam de tratamento, apenas de acompanhamento periódico. Por sua vez, para os pacientes com AA grave ou muito grave, o tratamento específico deve ser iniciado, pois somente com suporte hemoterápico e antibiótico a mortalidade chega aos 70% em 12 meses. O tratamento de escolha para pacientes com menos de 40 anos, quando houver doador HLA compatível disponível, será o transplante alogênico de células-tronco hematopoéticas. Porém, em razão das dificuldades para encontrar doadores, pode ser necessária terapêutica medicamentosa. Já àqueles acima de 40 anos, indica-se somente terapia imunossupressora.
-Indica-se o uso de globulina antitimocítica associada à ciclosporina e ao corticoide, para bloquear a ação citotóxica dos linfócitos T. A resposta é esperada em 4 a 12 semanas, podendo ser apenas parcial. Espera-se resposta em aproximadamente 60%.
-Se a neutropenia é severa e em vigência de evento infeccioso grave, pode-se utilizar fator de crescimento granulocítico associado à terapia imunossupressora para estimular exclusivamente essa população; porém, o uso isolado desse medicamento jamais deve ser preconizado, pela ausência de resposta em longo prazo. 
-A transfusão de hemocomponentes deve ser evitada sempre que possível, estando indicada somente quando há sintomas (anemia sintomática, sangramento de mucosas) ou risco de sangramento (procedimentos invasivos, traumas, plaquetopenia <10.000/mm3), pois, se o paciente for candidato ao transplante de células-tronco, o número de transfusões estará relacionado à redução na sobrevida.
-Existe risco de progressão para outras doenças clonais hematológicas, como mielodisplasia, leucemia aguda e hemoglobinúria paroxística noturna, mesmo após o tratamento.
-O prognóstico da doença tem relação direta com a sua severidade e inversa com a idade do paciente.
+
+Tratamento
+Não há necessidade de tratamento para os casos não graves de anemia aplásica, e, para os casos graves, o tratamento de escolha é o transplante alogênico de células-tronco hematopoéticas; quando este não é pos-sível, realiza-se a terapia imunossupressora. 
+
+Os casos de AA não graves, sem necessidade transfusional, não necessitam de tratamento, apenas de acompanhamento clínico periódico. Por sua vez, para os pacientes com AA grave ou muito grave, o tratamento específico deve ser iniciado, pois somente com suporte hemoterápico e antibiótico a mortalidade chega aos 70% em 12 meses. O tratamento de escolha para pacientes com menos de 40 anos, quando houver doador HLA-compatível disponível, será o transplante alogênico de células-tronco hematopoéticas. Porém, em razão das dificuldades para encontrar doadores compatíveis, pode ser necessária a terapêutica medicamentosa. A pacientes entre 40 e 60 anos, deve-se considerar o transplante de células-tronco hematopoéticas nos casos não responsivos ao tratamento imunossupressor. Já àqueles acima de 40 anos, indica-se, geralmente, somente terapia imunossupressora.
+Indica-se o uso de globulina antitimocítica associada à ciclosporina e ao corticoide (este para evitar o aparecimento da doença do soro), para bloquear a ação citotóxica dos linfócitos T. A resposta é esperada em 4 a 12 semanas, podendo ser apenas parcial. Espera-se resposta em aproximadamente 60%.
+Se a neutropenia é severa e em vigência de evento infeccioso grave, pode-se utilizar fator de crescimento granulocítico associado a terapia imunossupressora para estimular exclusivamente essa população; porém, o uso isolado desse medicamento jamais deve ser preconizado, pela ausência de resposta em longo prazo. 
+A transfusão de hemocomponentes deve ser evitada sempre que possível, estando indicada somente quando há sintomas (anemia sintomática, sangramento de mucosas) ou risco de sangramento (procedimentos invasivos, traumas), pois, se o paciente for candidato ao transplante de células-tronco, o número de transfusões estará relacionado à redução na sobrevida. 
+
+Importante
+Existe risco de progressão para outras doenças clonais hematológicas, como mielodisplasia, leucemia aguda e hemoglobinú-ria paroxística noturna, mesmo após o tratamento. O prognóstico da doença tem relação direta com a sua severidade e inversa com a idade do paciente. 
+
 3. Síndromes mielodisplásicas
-As SMDs constituem um grupo de doenças hematológicas clonais malignas caracterizadas por alterações displásicas das células da medula óssea, hematopoese ineficaz e citopenias. Podem acontecer por mutação genética “de novo” ou em consequência da exposição a agentes mutagênicos (alquilantes, radiação). A doença é frequentemente progressiva, com evolução para leucemia aguda em cerca de 30% dos pacientes. A sobrevida mediana após o diagnóstico é de cerca de 2 a 3 anos, sendo a morte secundária a complicações relacionadas à leucemia aguda ou à falência medular. Embora ocorra na infância, a maioria é idosa: apenas 25% têm idade inferior a 65 anos.
-Um dos aspectos mais importantes observados nas SMDs é a hematopoese ineficaz. Apesar da celularidade abundante e do alto turnover celular, a apoptose intramedular aumenta, em razão da displasia, resultando nas citopenias encontradas. 
+
+As SMDs constituem um grupo de doenças hematológicas clonais malignas caracterizadas por alterações displásicas das células da medula óssea, hematopoese ineficaz e citopenias. Podem acontecer por mutação genética “de novo” ou em consequência da exposição a agentes mutagênicos (alquilantes, radiação). A doença é frequentemente progressiva, com evolução para leucemia aguda em cerca de 30% dos pacientes. A sobrevida mediana dos casos de alto risco após o diagnóstico é de cerca de 2 a 3 anos, sendo a morte secundária a complicações relacionadas à leucemia aguda ou à falência medular. Embora possa ocorrer na infância, na maioria dos casos ocorre na população idosa: apenas 25% têm idade inferior a 65 anos.
+
+Importante
+Um dos aspectos mais importantes observados nas síndromes mielodisplásicas é a hematopoese ineficaz. Apesar da celularidade abundante e do alto turnover celular, a apoptose intramedular aumenta, em razão da displasia, resultando nas citopenias encontradas no sangue periférico. 
+
 A - Classificação da Organização Mundial da Saúde
+
 Tabela 3 - Classificação
 Tipos	Sangue periférico	Medula óssea
-Anemia Refratária (AR)	- Anemia; 
+Citopenia refratária com displasia unili-nhagem:
+- Anemia refratária (Hb <10g/dL);
+- Plaquetopenia refratária (plaquetas <100.000 células/mm3);
+- Neutropenia refratária (neutrófilos <1.800 células/mm3).	- Anemia; 
 - <1% blastos.	- Displasia apenas na linhagem eritroblástica;
 - <5% blastos;
 - <15% sideroblastos “em anel”.
 Anemia Refratária com Sideroblastos “em Anel” (ARSA)	- Anemia;
-- Ausência de blastos.	- Displasia apenas na linhagem eritroblástica;           
+- Ausência de blastos.	- Displasia apenas na linhagem eritroblástica;
 - <5% blastos;
 - >15% sideroblastos “em anel”.
-Citopenia Refratária com Displasia Multilinhagem (CRDM)	- Bicitopenia ou pancitopenia;
-- <1% blastos.	- Displasia em 2 ou mais linhagens;
-- <5% blastos.
-Citopenia Refratária com Displasia Multilinhagem e Sideroblastos “em Anel” (CRDMSA)	- Bicitopenia ou pancitopenia;
+Citopenia Refratária com Displasia Multilinhagem (CRDM) 	- Bicitopenia ou pancitopenia;
 - <1% blastos.	- Displasia em 2 ou mais linhagens;
 - <5% blastos;
-- >15% sideroblastos “em anel”.
+- Presença ou não de >15% sideroblastos “em anel”.
 Anemia Refratária com Excesso de Blastos - 1 (AREB-1)	- Bicitopenia ou pancitopenia;
 - <5% blastos.	- Displasia uni ou multilinhagem;
 - 5 a 9% blastos.
@@ -77,71 +125,113 @@ Anemia Refratária com Excesso de Blastos - 2 (AREB-2)	- Bicitopenia ou pancitope
 SMD inclassificável	- Neutropenia ou plaquetopenia; 
 - Blastos raros ou ausentes.	- Displasia unilinhagem;
 - <5% blastos.
-SMD com deleção (5q) isolada	- Anemia, plaquetas normais ou elevadas;
+SMD com deleção (5q) isolada	- Anemia, plaquetas normais ou eleva-das;
 - <5% blastos.	- Megacariócitos em número normal ou elevado, com núcleos unilobulados;
 - <5% blastos;
-- 5q-.
-Pela classificação da Organização Mundial da Saúde existe outra classe de doenças: as mieloproliferativas/mielodisplásicas, em que há tanto o componente proliferativo quanto o displásico. Nessa nova classificação, incluem-se leucemia mielomonocítica crônica (LMMC), leucemia mieloide crônica atípica e leucemia mielomonocítica juvenil. Vale ressaltar que, pela antiga classificação FAB (Franco-Americana-Britânica), não mais utilizada atualmente, essas doenças pertenciam ao grupo das mielodisplasias.
+- 5q- à análise citogenética.
+
+Pela classificação da Organização Mundial da Saúde existe outra classe de doenças: as neoplasias mieloproliferativas/mielodisplásicas, em que há tanto o componente proliferativo quanto o displásico. Nessa nova classificação, incluem-se leucemia mielomonocítica crônica (LMMC), leucemia mieloide crônica atípica e leucemia mielomonocítica juvenil. Vale ressaltar que, pela antiga classificação FAB (Franco-Americana-Britânica), não mais utilizada atualmente, essas doenças pertenciam ao grupo das mielodisplasias.
+
 B - Quadro clínico e diagnóstico
-A SMD é geralmente assintomática e pode manifestar sintomas relacionados às citopenias, sendo mais comuns as queixas relacionadas à síndrome anêmica, como fadiga, intolerância ao exercício, tontura ou déficit de atenção. Raramente, pode apresentar fenômenos autoimunes, como manifestações paraneoplásicas (artrite, pleurite, vasculite, miosite). 
-Há alteração importante da imunidade por vários motivos: neutropenia, disfunção de neutrófilos, linfopenia e hipogamaglobulinemia. Pode ocorrer hipergamaglobulinemia poli ou monoclonal.
+A SMD é geralmente assintomática e pode manifestar sintomas relacionados às citopenias, sendo mais comuns as queixas relacionadas à síndrome anêmica, como fadiga, intolerância ao exercício, tontura ou déficit de atenção. Raramente, podem ocorrer fenômenos autoimunes, como manifestações paraneoplásicas (artrite, pleurite, vasculite, miosite). 
+Há alteração importante da imunidade, por vários motivos: neutropenia, disfunção de neutrófilos, linfopenia e hipogamaglobulinemia. Pode ocorrer hipergamaglobulinemia poli ou monoclonal.
 No exame físico, a única situação em que se encontra esplenomegalia é na LMMC (que, por sua vez, como já dito, pertence às doenças mieloproliferativas/mielodisplásicas), podendo apresentar inclusive hepatomegalia e linfonodomegalia; as demais classes não apresentam outras alterações ao exame físico além da palidez cutâneo-mucosa e, a depender da plaquetometria, petéquias e equimoses.
 O diagnóstico é realizado por meio de vários exames. Os principais são:
+
 a) Hemograma
-Podem-se encontrar anemia (macrocítica, normocítica ou microcítica) e leucopenia à custa de neutropenia e/ou plaquetopenia. As alterações podem afetar apenas 1 ou 2 das séries, ou todas, e as alterações morfológicas dos eritrócitos variam. Na LMMC, há leucocitose com monocitose (>1.000/mm3).
+Podem-se encontrar anemia, geralmente macrocítica (porém, esta pode ser normocítica ou microcítica) e leucopenia à custa de neutropenia e/ou plaquetopenia. As alterações podem afetar apenas 1 ou 2 das séries, ou todas, e as alterações morfológicas dos eritrócitos variam. Na LMMC, há leucocitose com monocitose (>1.000/mm3).
+
 b) Mielograma
 As alterações morfológicas podem afetar 1 ou mais séries, com aparecimento de eritroblastos com falhas de hemoglobinização, elementos megaloblastoides, presença de pontes internucleares, granulócitos com falhas na segmentação nuclear (formas pseudo-Pelger-Huët), hipogranularidade, megacariócitos com núcleos hipolobulados e outras aberrações, além da presença de células imaturas (blastos). A coloração para ferro medular (Perls) é fundamental para a distinção dos sideroblastos “em anel”.
+
  
 Figura 2 - Sideroblastos “em anel”
+
 c) Imunofenotipagem
 Importante para quantificar e definir a etiologia dos blastos.
+
 d) Biópsia de medula óssea
-Trata-se do método de escolha para avaliar a celularidade medular, que geralmente está aumentada pela eritropoese ineficaz (medula hipercelular). Também pode evidenciar localização anormal de células imaturas e revelar a existência de fibrose associada. O mielograma pode ser realizado, porém sempre se devem confirmar os achados de SMD pela biópsia de medula óssea.
+Trata-se do método de escolha para avaliar a celularidade medular, que geralmente está aumentada, pela eritropoese ineficaz (medula hipercelular). Também pode evidenciar localização anormal de células imaturas e revelar a existência de fibrose associada. O mielograma pode ser realizado, porém sempre se devem confirmar os achados de SMD pela biópsia de medula óssea.
+
 e) Cariótipo
 As aberrações cromossômicas são frequentes nas mielodisplasias e se comportam como fatores prognósticos importantes. 
+
+Pergunta
+2009 - HC-ICC
+2. As anemias são classificadas pela sua causa e pelo tamanho da célula vermelha. Sobre esse assunto, assinale a afirmativa correta:
+a) a anemia por deficiência de ferro é a mais comum, geralmente é microcítica e sua principal causa é a doença crônica
+b) são características das talassemias – espectro de anemias adquiridas – as seguintes: hipocromia, normocitose e células-alvo
+c) a síndrome mielodisplásica, caracterizada por hiperplasia eritroide decorrente da eritropoese ineficaz, é macrocítica, e há aumento nos depósitos de ferro na medula
+d) a anemia megaloblástica por deficiência de vitamina B12 raramente é grave, precede os sintomas neurológicos e não causa hiperbilirrubinemia
+e) a anemia falciforme é uma doença autossômica dominante e está relacionada à produção de uma hemoglobina defeitu-osa fruto da troca de tirosina por valina na cadeia dessa proteína
+Resposta no final do capítulo
+
 C - Tratamento
-A orientação terapêutica deve levar em conta a idade do paciente, o performance status e o sistema de escore prognóstico internacional revisado (IPSS-R), que divide as mielodisplasias em risco alto, intermediário 2, intermediário 1 e baixo, por meio da pontuação de fatores como porcentagem de blastos na medula, alteração citogenética e número de citopenias. 
+A orientação terapêutica deve levar em conta a idade do paciente, o performance status e o sistema de escore prognóstico internacional revisado (IPSS-R), que divide as mielodisplasias em risco muito alto, alto risco, risco intermediário, baixo risco e risco muito baixo, por meio de um sistema de pontos que leva em conta os principais fatores prognósticos, como porcentagem de blastos na medula, alteração citogenética, número de citopenias e gravidade delas. 
 
 Tabela 4 - IPSS revisado (IPSS-R)
 Variáveis de prognóstico	0	0,5	1	1,5	2	3	4
-Citogenéticos	Muito bom		Bom		Intermediário	Ruim	Muito ruim
-% blastos	=2		2 a 5%		5 a 10%	>10%	
-Hemoglobina	=10		8 a 10	<8			
-Plaquetas	=100	50 a 100	<50				
-ANC	=0,8	<0,8					
+Citogenéticos	Muito bom	--	Bom	--	Intermediário	Ruim	Muito ruim
+% blastos	=2	--	2 a 5%	--	5 a 10%	>10%	--
+Hemoglobina (g/dL)	=10	--	8 a 10	<8	--	--	--
+Plaquetas (células/mm3)	=100	50 a 100	<50	--	--	--	--
+Número absoluto de neutrófi-los (células/mm3)	=0,8	<0,8	--	--	--	--	--
 
 Tabela 5 - Cariótipos de acordo com o risco
 Subgrupos de prognóstico citogenético	Anormalidades citogenéticas
 Muito bom	-Y, del(11q)
 Bom	Normal, del(5q), del(12p), del(20q), dupla fusão del(5q)
 Intermediário	del(7q), +8, +19, i(17q), outros clones gênicos (unitários ou duplos)
-Ruim	-7, inv(3)/t(3q)/del(3q), dupla fusão -7/del(7q), complexo: 3 anormalida-des
+Ruim	-7, inv(3)/t(3q)/del(3q), dupla fusão -7/del(7q), complexo: 3 anormalidades
 Muito ruim 	Complexo: >3 anormalidades
 
 Tabela 6 - Categorias de acordo com o IPSS-R
 Categorias de risco	Escores de risco
-Muito baixa	=1,5
-Baixa	>1,5 a 3
-Intermediária	>3 a 4,5
-Alta	>4,5 a 6
-Muito alta	>6
-Atualmente, existem vários outros modelos prognósticos que tentam, de uma forma ou de outra, a melhor avaliação possível para o correto tratamento das mielodisplasias.
-Pacientes com idade =60 anos, ótimo performance status e R-IPSS intermediário 2 ou alto, beneficiam-se de terapias agressivas; os demais devem receber quimioterapia de baixa intensidade e/ou tratamento de suporte.
+Muito baixo	=1,5
+Baixo	>1,5 a 3
+Intermediário	>3 a 4,5
+Alto	>4,5 a 6
+Muito alto	>6
+
+Atualmente, existem vários outros modelos prognósticos que tentam, de uma forma ou de outra, a melhor avaliação possível para o correto tratamento das SMDs.
+
+Tratamento
+Pacientes com idade =60 anos, bom performance status e IPSS-R intermediário ou alto beneficiam-se de terapias agressivas (quimioterápicos agressivos e transplante de células-tronco hematopoéticas); os demais devem receber quimioterapia de baixa intensidade e/ou tratamento de suporte.
+
 Tabela 7 - Avaliação do performance status
 Performance status	Definição
 0	Totalmente ativo, sem quaisquer restrições
-1	Sintomas da doença, porém cotidiano normal
-2	Fora do leito por mais de 50% do tempo, capaz de realizar autocuidado, porém incapaz de realizar atividades extras
+1	Sintomas da doença, porém com cotidiano normal
+2	Fora do leito por mais de 50% do tempo, capaz de realizar autocuidado, porém incapaz de reali-zar atividades extras
 3	No leito por mais de 50% do tempo, dependente de cuidados mais intensivos
 4	Preso ao leito, incapaz de qualquer autocuidado ou atividade
 Observação: essa escala pode ser utilizada para avaliação de qualquer estado de paciente em doenças oncológicas.
-Como terapia agressiva, entendem-se esquemas quimioterápicos agressivos e transplante de células-tronco hematopoéticas. O tratamento curativo e de escolha é o transplante alogênico, porém a maioria dos pacientes está além da 6ª década de vida, e esse procedimento é de maior risco nessa população, mesmo considerando a introdução de novas modalidades de transplante menos agressivas (como o transplante de intensidade reduzida).
+
+Como terapia agressiva, entendem-se esquemas quimioterápicos agressivos e transplante de células-tronco hematopoéticas. O tratamento curativo e de escolha é o transplante alogênico de células-tronco hematopoéticas, porém a maioria dos pacientes está além da 6ª década de vida, e esse procedimento é de maior risco nessa população, mesmo considerando a introdução de novas modalidades de transplante menos agressivas (como o transplante de intensidade reduzida).
 A terapêutica de suporte consiste em transfusões, uso de eritropoetina e fator estimulador de colônia de granulócitos, antibioticoterapia perante quadros infecciosos e quelação de ferro em politransfundidos. 
 Quimioterapia de baixa intensidade consiste em agentes indutores de maturação celular e diferenciadores, como os hipometilantes (azacitidina e decitabina) e os imunomoduladores (por exemplo, talidomida e lenalidomida), porém nenhum desses apresenta resposta curativa. Entretanto, a melhor resposta atual se dá com os primeiros agentes, que, mesmo não curando o paciente, conseguem excelente controle de citopenias na maioria dos casos.
 Deve-se destacar a síndrome do 5q-, que acomete principalmente mulheres com média de idade de 68 anos, caracterizada classicamente com plaquetose (em vez da esperada plaquetopenia). Esse grupo apresenta, frequentemente, alta necessidade de transfusão de hemácias e responde drasticamente à lenalidomida (derivada da talidomida).
+
 D - Diagnóstico diferencial
-No diagnóstico da mielodisplasia, deve-se ter o cuidado de afastar todas as situações que possam cursar com alterações displásicas das células sanguíneas, como medicamentos (tuberculostáticos, quimioterápicos, ácido valproico, antirretrovirais), alcoolismo crônico, uso de drogas, infecções virais (principalmente o HIV) e neoplasias. A deficiência de B12 e folato cursa com hiperplasia eritroide e sinais de displasia nessa série, manifestando-se como pancitopenia; logo, a dosagem do nível sérico dessas vitaminas deve ser feita de rotina. Aplasia de medula também cursa com pancitopenia, mas não apresenta displasia, e deve ser considerada diagnóstico diferencial da mielodisplasia hipocelular – rara situação em que ocorre pancitopenia + medula óssea hipocelular. O diagnóstico diferencial com as leucemias agudas é feito pela contagem de blastos no sangue e na medula, considerando-se que, na leucemia aguda, os blastos obrigatoriamente devem estar acima de 20% na medula óssea. A LMMC deve ser diferenciada das mieloproliferações crônicas, principalmente a mielofibrose e a leucemia mieloide crônica.
+No diagnóstico da mielodisplasia, deve-se ter o cuidado de afastar todas as situações que possam cursar com alterações displásicas das células sanguíneas, como medicamentos (tuberculostáticos, quimioterápicos, ácido valproico, antirretrovirais), alcoolismo crônico, uso de drogas, infecções virais (principalmente o HIV) e neoplasias.
+
+Importante
+ A deficiência de B12 e/ou folato cursa com hiperplasia eritroide e sinais de displasia nessa série, podendo manifestar-se com quadro de pancitopenia; logo, a dosagem do nível sérico dessas vitaminas deve ser feita de forma rotineira. 
+
+ Aplasia de medula também cursa com pancitopenia, mas não apresenta displasia, e deve ser considerada um importante diagnóstico diferencial dos casos de SMD hipocelular – rara situação em que ocorre pancitopenia + medula óssea hipocelular. O diagnóstico diferencial com as leucemias agudas é feito pela contagem de blastos no sangue e na medula, considerando-se que, na leucemia aguda, os blastos obrigatoriamente devem estar acima de 20% na medula óssea. A LMMC deve ser diferenciada das mieloproliferações crônicas, principalmente a mielofibrose e a leucemia mieloide crônica (Tabela 8).
+
+Tabela 8 - Diagnósticos diferenciais da síndrome mielodisplásica
+- Citopenia refratária de significado indeterminado (citopenia persistente na ausência de displasia e de alterações citogenéticas que favoreçam o diagnóstico de SMD);
+- Leucemia mieloide aguda;
+- Neoplasias mieloproliferativas crônicas;
+- Anemia aplásica;
+- Mielofibrose;
+- Infecção pelo vírus HIV;
+- Alterações nutricionais (deficiência de vitamina B12, ácido fólico e cobre e excesso de zinco);
+- Medicamentos (metotrexato, micofenolato de mofetila, ácido valproico, ganciclovir, ciclofosfamida, alentuzumabe, G-CSF).
+
 4. Resumo
+
 Quadro-resumo
 AA
 Diminuição da quantidade das células-tronco hematopoéticas, com substituição de grande parte do tecido hematopoético por tecido gorduroso
@@ -152,21 +242,30 @@ Critérios indicativos
 - Contagem de plaquetas <50.000/mm3;
 - Contagem de neutrófilos <1.500/mm3; 
 - Reticulocitopenia;
-- Biópsia de medula óssea hipocelular.
+- Medula óssea hipocelular à biópsia.
 Classificação
-Moderada	Possivelmente dependente de transfusão ou não, seguindo os critérios diagnósticos
-Grave	Neutrófilos <500/mm3, plaquetas <20.000/mm3, reticulócitos <20.000/mm3 ou celularidade da medula óssea <30%
-Muito grave	Neutrófilos <200/mm3
+Não severa	Possivelmente dependente de transfusão ou não, seguindo os critérios diagnósticos
+Severa	Neutrófilos <500/mm3, plaquetas <20.000/mm3, reticulócitos <20.000/mm3 ou celularidade da medula óssea <30%
+Muito severa	Neutrófilos <200/mm3
 Tratamento
-Suporte transfusional – o mínimo possível –, imunossupressão (ciclosporina, corticoide, globulina antitimocítica ou combinação desses) e transplante de células-tronco alogênico
+Suporte transfusional (o mínimo possível), imunossupressão (ciclosporina, corticoide, globulina antitimocítica ou combinação desses) e transplante alogênico de células-tronco hematopoéticas
 Mielodisplasia
 Doenças hematológicas clonais malignas caracterizadas por alterações displásicas das células da medula óssea, hematopoese ineficaz e citopenias
 Diagnóstico
-Citopenias + medula óssea hipercelular com sinais de displasia, muitas vezes alteração citogenética + exclusão de condições que cursam com displasia (medicamentos, alcoolismo crônico, uso de drogas, infecções virais – principalmente HIV, deficiência de B12 e folato)
+Citopenias + medula óssea hipercelular com sinais de displasia, muitas vezes alteração citogenética + exclusão de condições que cursam com displasia (medicamentos, alcoolismo crônico, uso de drogas, infecções virais – principalmente HIV – deficiências de B12 e folato)
 Tratamento
-- Considerar a idade do paciente, o performance status e o IPSS. Pode ser:
-   · Transplante de célula-tronco alogênico;
-   · Quimioterapia em altas doses;
-   · Agentes hipometilantes;
-   · Lenalidomida/talidomida;
-   · Suporte transfusional e quelação de ferro.
+- Considerar a idade do paciente, o performance status e o IPSS-R. Pode ser:
+· Transplante alogênico de células-tronco hematopoéticas;
+· Quimioterapia em altas doses;
+· Agentes hipometilantes (decitabina, azacitidina);
+· Lenalidomida/talidomida;
+· Suporte transfusional e quelação de ferro.
+
+Respostas
+1. A
+2. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
