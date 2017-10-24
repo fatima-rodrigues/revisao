@@ -1,0 +1,557 @@
+
+Diabetes mellitus - tratamento
+Leandro Arthur Diehl[- / -]{++}
+Rodrigo Antônio Brandão Neto
+{++}
+{+Resumo+}
+{+Neste capítulo, serão apresentadas as estratégias de tratamento da síndrome diabética, bem como suas metas, prevenção e controle de complicações, além de manejo da dieta, exercícios físicos e as diretrizes para o uso dos fármacos. O trata-mento do diabetes deve ser guiado por metas. As metas da Sociedade Brasileira de Diabetes (SBD) para o tratamento de adultos com Diabetes Mellitus (DM) são glicemia de jejum <100mg/dL (tolerável até 130mg/dL), glicemia pré-prandial <100mg/dL (tolerável até 130mg/dL), glicemia 2 horas após as refeições (pós-prandial) <160mg/dL (tolerável até 180mg/dL) e A1c <7% para a maioria dos adultos, devendo ser individualizada de acordo com as características do pacien-te (por exemplo, até 8 ou 8,5% para idosos). O tratamento do DM tipo 2 deve ser multifatorial, sendo importante o contro-le não apenas da glicemia, mas também dos níveis pressóricos e lipídicos, da cessação do fumo, da adoção de hábitos sau-dáveis, da antiagregação plaquetária etc. A metformina é a droga de 1ª escolha no tratamento do DM tipo 2 na grande maioria dos casos, exceto nos pacientes muito hiperglicêmicos ou muito sintomáticos, nos quais a insulina é a melhor op-ção. Pacientes com A1c <7,5%, glicemia <200mg/dL e assintomáticos são considerados portadores de manifestações leves, e o tratamento inicial são Mudanças no Estilo de Vida (MEVs) em associação a metformina. Pacientes com A1c entre 7,5 e 9% e glicemia entre 200 e 299mg/dL, sem sintomas graves, são portadores de diabetes de manifestações moderadas e devem iniciar o tratamento com MEVs, metformina e um 2º agente antidiabético. Já os pacientes com A1c >9%, glicemia >300mg/dL, perda de peso involuntária ou sintomas importantes devem ser classificados como manifestações severas, e o tratamento inicial de escolha é composto por MEVs e insulinoterapia. O tratamento do DM tipo 1 exige sempre insulina exógena, desde o diagnóstico. A automonitorização da glicemia capilar é parte importante da terapêutica do DM, útil para avaliar o controle glicêmico, guiar o ajuste do tratamento e prevenir hipoglicemias graves. Hipertensão arterial é comum nos tipos 1 e 2 com nefropatia. Diagnostica-se quando se detectam 2 medidas de PA >140x90mmHg, em dias diferentes, em pacientes com diabetes. A 1ª escolha de droga para tratamento da hipertensão em pacientes com DM são inibidores da enzima conversora de angiotensina e/ou bloqueadores do receptor da angiotensina. Estatinas reduzem o risco de even-tos cardiovasculares em diabéticos e devem ser prescritas a todos os diabéticos com risco cardiovascular elevado.+}
+{++}
+1. Introdução
+
+O tratamento do Diabetes Mellitus (DM) envolve o controle não só da glicemia, mas também dos demais fatores de risco associados (hipertensão arterial, dislipidemia, obesidade, estado inflamatório e protrombótico sistêmico etc.), visando à pre-venção de complicações crônicas micro e macrovasculares. Para o adequado manejo, é necessário conhecer as evidências suportando o tratamento intensivo, as metas e as vantagens e as desvantagens das diferentes intervenções comportamentais e medicamentosas em cada fase evolutiva do diabetes.
+
+2. Justificativas para o tratamento intensivo 
+
+Os objetivos no tratamento do DM (tanto do tipo 1 como do tipo 2) vêm mudando ao longo das últimas décadas, pelo acúmulo de evidências mostrando que o tratamento intensivo, ou seja, o controle rigoroso da glicemia visando à obtenção de níveis glicêmicos próximos dos normais{+,+} é capaz de reduzir substancialmente a incidência de complicações crônicas, especi-almente em indivíduos jovens, sem comorbidades graves, e com curta duração do diabetes. 
+Além disso, cada vez mais a literatura mostra que, além do manejo da glicemia, o paciente diabético deve ser alvo de uma abordagem multifatorial, incluindo controle adequado dos níveis pressóricos e lipídicos, orientação para perda de peso (nos pacientes com sobrepeso ou obesidade), cessação do tabagismo e uso de antiagregantes plaquetários nos pacientes de alto risco cardiovascular (a maioria dos diabéticos).
+
+A - Controle glicêmico intensivo no diabetes mellitus tipo 1
+@@ -14,7 +19,7 @@ Um marco no tratamento do DM1 foi a publica
+
+B - Controle glicêmico intensivo no diabetes mellitus tipo 2 
+Em 1998, foi publicado o United Kingdom Prospective Diabetes Study (UKPDS), o estudo mais importante avaliando o bene-fício do controle glicêmico intensivo em diabéticos tipo 2. Incluiu 3.867 adultos com DM2 recém-diagnosticado, randomizados para receber terapia intensiva (com sulfonilureia e/ou insulina, visando à obtenção de glicemia de jejum <108mg/dL) ou te-rapia convencional (com dieta apenas). Ao final de um seguimento médio de 10 anos, a A1c média foi de 7% no grupo inten-sivo e de 7,9% no convencional. Essa redução de A1c no grupo de terapia intensiva associou-se à redução de 12% no risco de qualquer evento associado ao DM e de 25% no risco de complicações microvasculares (sobretudo, retinopatia). 
+Ao contrário do observado no DM1, no DM2 o controle glicêmico intensivo não se associou à redução do risco de eventos cardiovasculares durante o estudo, embora uma discreta redução de eventos tenha sido observada n[-o grupo originalmente submetido a tratamento intensivo, n-]um seguimento de mais longo prazo (10 anos após o final do estudo).
+Um subgrupo de obesos tratados com metformina durante o UKPDS mostrou maior proteção contra eventos micro e ma-crovasculares e menor mortalidade, em comparação ao tratamento com sulfonilureias ou insulina.
+
+Tabela 1 - Redução do risco de complicações crônicas do diabetes observada com controle glicêmico rigoroso
+@@ -27,35 +32,35 @@ Complica
+Qualquer complicação crônica	-42% (em longo prazo)	--
+Qualquer evento associado ao DM	--	-12%
+
+[--]
+3. Metas
+[- -]
+As metas de tratamento devem basear-se em resultados de estudos clínicos prospectivos e randomizados, como o DCCT e o UKPDS. Esses estudos mostraram correlação entre o controle glicêmico, quantificado por determinações seriadas de A1c, e os riscos de desenvolvimento e progressão das complicações crônicas do DM (Figura 1). Níveis de A1c acima de [-6,2 a -]7[-,5-]% [-(dependendo do estudo avaliado) -]estão associados a um risco [-progressiv-]a{+u+}ment[-e m-]a[-i-]{+d+}o[-r-] de complicações crônicas{+, progressivamente maior quanto mais alta é a A1c+}.
+
+ 
+Figura 1 - [-A1-]{+Hemoglobina gli+}c{+ada+} e risco relativo de complicações microvasculares em pacientes com [-DM-]{+diabetes mellitus tipo +}1 (DCCT, 1993)
+
+O último algoritmo da Sociedade Brasileira de Diabetes (SBD), publicado em 201[-1-]{+4+}, define as metas glicêmicas recomenda-das para pacientes com DM (Tabela 2). Devem-se individualizar as metas de controle glicêmico de acordo com a faixa etária e as características do paciente. [-Torna-se necessária a adequação do tratamento àqueles com valores acima dos “toleráveis”. -]As metas da American Diabetes Association (ADA), por sua vez, são um pouco diferentes, como se observa na Tabela 3.
+
+Tabela 2 - Metas no tratamento em adultos, de acordo com a S{+ociedade +}B{+rasileira de +}D{+iabetes+} (2014)
+Parâmetros	Metas terapêuticas	Níveis toleráveis
+Glicemia de jejum	<100mg/dL	<130mg/dL
+Glicemia pré-prandial	<100mg/dL	<130mg/dL
+Glicemia pós-prandial	<160mg/dL	<180mg/dL
+A1c	Em torno de 7% na maioria dos adul{+-+}tos	Entre 7,5 e 8,5% em idosos, dependendo do estado de saúde
+
+Tabela 3 - Metas no tratamento em adultos, de acordo com a A{+merican +}D{+iabetes +}A{+ssociation+} (201[-4-]{+5+})
+Parâmetros	Metas
+Glicemias em jejum e pré-prandiais	[-7-]{+8+}0 a 130mg/dL
+Glicemia no pico pós-prandial	<180mg/dL
+A1c	<7% (individualizar)
+
+Uma forte tendência no tratamento, oficializada no guideline conjunto entre as associações europeia (European Associa-tion for the Study of Diabetes – EASD) e norte-americana (ADA) de diabetes de 2012, é a individualização das metas de A1c de acordo com as características do paciente. Em se tratando de idoso já fragilizado, com esperança de vida limitada, alto risco de hipoglicemia grave, longo tempo de duração do DM ou alto risco cardiovascular, os riscos do controle glicêmico intensivo (hipoglicemia) podem ser maiores do que os benefícios potenciais. Portanto, um nível de A1c de 7,5%, ou {+8%, ou até +}mesmo [-de -]8{+,5+}%, pode ser mais apropriado. Por outro lado, em um adulto hígido, sem comorbidades significativas, com diagnóstico re{+-+}cente de DM e co{+m boas co+}ndições sociais e psicológicas de gerir um esquema de tratamento mais intensivo, metas mais rigorosas podem ser melhores para a prevenção de complicações crônicas do DM (por exemplo, 6,5% ou mesmo 6%), desde que a obtenção des[---]sas metas não implique aumento do risco de hipoglicemias graves. Essa orientação está ilustrada na Figura 2.
+Em crianças e adolescentes, {+há cer+}ta[-mbém-] [-s-]{+divergência entr+}e [-p-]{+as rec+}o{+men+}d{+ações da SBD e da ADA. A primeira r+}e{+co+}m{+enda o+} us[-ar-]{+o de+} metas de A1c mais altas{+ em crianças e adolescentes do que em adultos+}, em razão do risco de sequelas neurológicas asso{+-+}ciadas a hipoglicemias nessa fase{+, e sugere metas diferentes dependendo da faixa etária+}: 7,5 a 8,5% em pré-escolares, <8% em escolares e <7{+ a 7+},5% em púberes. {+Já a ADA sugere a mesma meta para todos os pacientes <18 anos: A1c <7,5%, ou <7% (se este valor puder ser obtido sem hipoglicemias excessivas).+}
+Pacientes com diabetes que engravidam ou desejam engravidar devem tentar manter a A1c ainda mais baixa: <6% a partir do momento em que se começa a tentar engravidar e durante toda a gestação.
+Os testes de A1c devem ser realizados pelo menos 2 vezes ao ano em todos os diabéticos, 4 vezes ao ano (a cada 3 meses) entre os que se submeterem a alterações do esquema terapêutico ou que não estejam atingindo os objetivos recomendados com o tratamento vigente. 
+
+ 
+Figura 2 - Recomendações para individualização das metas de [-A1-]{+hemoglobina gli+}c{+ada+} de acordo com as características do paciente, con{+-+}forme ADA/EASD (2012)
+
+4. Tratamento do diabetes mellitus tipo 2
+
+@@ -83,13 +88,13 @@ Tabela 5 - Recomenda
+Restrição calórica 
+Indicada para diabéticos com obesidade ou sobrepeso. Recomenda-se a redução de 500 a 1.000kcal do gasto calórico diário previsto, com o objetivo de promover perdas ponderais de 0,5 a 1kg/semana. Devem ser evitadas dietas com menos de 1.200 (mulheres) e 1.800kcal/d (homens), exceto em situações especiais e por tempo limitado, quando até dietas com valor calórico muito baixo (menos de 800kcal/d) podem ser feitas.
+Fracionamento das refeições
+O fracionamento da dieta em 3 refeições básicas e de 2 a 3 refeições intermediárias complementares, incluída a refeição noturna (pre[---]ferencialmente alimentos como leite ou fontes de carboidratos complexos), é benéfico, principalmente naqueles em uso de sulfoni{+-+}lu[---]reias e/ou insulina, visto que a falta de alimentação durante mais de 3 a 4 horas os expõe ao risco de hipoglicemia. 
+Tipos de carboidratos
+Preferir sempre os carboidratos complexos e com maior teor de fibras, como os cereais integrais, e restringir a ingesta de carboidratos simples (amido e açúcar).
+Índice glicêmico
+Dietas baseadas em carboidratos de baixo índice glicêmico podem ter benefício modesto sobre a glicemia, mas são difíceis de manter em longo prazo.
+Uso de adoçantes
+Os adoçantes artificiais e os alimentos dietéticos podem ser recomendados, considerando o seu conteúdo calórico e de nutrientes. Aspartame, ciclamato, sacarina, acessulfame K e sucralose são praticamente isentos de calorias, enquanto a frutose tem valor calórico idêntico ao da sacarose. Os efeitos danosos dos adoçantes artificiais não têm fundamentação científica. A Organização Mundial da Saúde recomenda dentro de limites seguros, em termos de quantidade, e, do ponto de vista qualitativo, [-recomenda -]alternar os diferen[---]tes tipos.
+Alimentos diet ou light
+Vale ressaltar a importância de diferenciar alimentos diet (isentos de sacarose, quando destinados a diabéticos, mas que podem ter valor calórico elevado, por seu teor de gorduras ou outros componentes) e light (de valor calórico reduzido em relação aos alimentos convencionais). Em função dessas características, o uso de alimentos dietéticos, diet e light, deve ser orientado pelo profissional (nutri-cionista ou médico), que terá por base o conhecimento da composição do produto para incluí-lo no plano alimentar proposto.
+O termo light, em alimentos, significa redução em 25% de qualquer nutriente do produto em relação ao original, não necessariamente açúcar ou calorias.
+@@ -100,7 +105,7 @@ Deve ser estimulada em diab
+
+Quanto à composição da dieta do paciente diabético em termos de macro e micronutrientes, as principais recomenda-ções estão expostas na Tabela 6.
+
+Tabela 6 - Composição do plano alimentar do diabético [-(ADA, 2014)-]
+Componentes	Quantidades recomendadas
+Calorias totais	Dependendo das necessidades 
+Carboidratos	45 a 60% do Valor Calórico Total (VCT)* (preferir os integrais); não menos que 130g/d
+@@ -111,9 +116,9 @@ Gorduras trans	Restringir
+Proteínas	0,8 a 1g/kg/d (<0,8 se nefropatia)
+Fibras	14g a cada 1.000kcal
+Sal de cozinha	<5g/d de sal de cozinha, correspondentes a <2g/d de sódio
+Vitaminas e mine[---]rais	Em quantidade suficiente para as necessidades do indivíduo
+Antioxidantes	Suplementação de antioxidantes sem evidência de benefício clínico, não devendo ser reco{+-+}mendada
+Álcool	Moderação do consumo de álcool: no máximo 2 doses/d para homens e 1 dose/d para mu{+-+}lheres
+* Correspondente ao total de calorias ingeridas em 1 dia.
+
+C - Atividade física
+@@ -122,44 +127,43 @@ A pr
+D - Manejo da obesidade 
+Tendo em vista o frequente excesso de peso observado em diabéticos tipo 2, o tratamento agressivo da obesidade é par-te essencial do manejo. Pequenas reduções de peso (5 a 10%) associam-se a melhora significativa do controle metabóli-co/pressórico e reduzem a mortalidade. O tratamento da obesidade deve iniciar-se com a prescrição de um plano alimentar hipocalórico e o aumento da atividade física. No entanto, essas medidas usualmente não ocasionam perda de peso sustentada na maioria. Nesses casos, podem-se empregar medicamentos antiobesidade. 
+Na escolha do medicamento, levam-se em conta os possíveis fatores causais da obesidade e os eventuais efeitos colate-rais. A sibutramina aumenta o risco de doença cardiovascular em diabéticos com mais de 55 anos e está contraindicada a portadores de DM2, conforme regulamentação da Anvisa. O orlistate parece ser o medicamento mais seguro para diabéticos, podendo ser usado por até 2 a 3 anos e contribuindo para melhorar a pressão arterial, a glicemia e os níveis lipídicos.
+Outra opção é a cirurgia bariátrica, indicada para os diabéticos com Índice de Massa Corpórea (IMC) >35kg/m2 e que não conseguem um bom controle metabólico ou perda de peso com pelo menos 2 anos de tratamento clínico. A técnica mais utilizada é a de Fobi-Capella, que parece levar à remissão do DM2 (ou seja, à manutenção de níveis normais de glicemia sem o uso de medicamentos antidiabéticos por pelo menos 1 ano) em aproximadamente 70{+ a 80+}% dos casos, embora essa taxa de remis[---]são pareça ser um pouco menor entre os previamente insulinodependentes. Os efeitos benéficos da cirurgia bariátrica sobre o metabolismo dos carboidratos decorrem não só da perda de peso, mas também da modificação da secreção dos hormônios intestinais (incretinas), com aumento da secreção do peptídio glucagon-like (GLP-1) e consequente melhora da secreção de insulina. Entretanto, após 10 anos da cirurgia, cerca de metade dos pacientes que inicialmente apresentaram remissão do diabetes volta a apresentar hiperglicemia e necessitar de drogas antidiabéticas.
+Pacientes submetidos a cirurgia bariátrica necessitam de acompanhamento médico e suporte aos cuidados com estilo de vida durante toda a existência. Embora alguns estudos tenham mostrado benefício dessa cirurgia sobre os parâmetros meta-bólicos em diabéticos tipo 2 com IMC menor do que 35 (geralmente, entre 30 e 35kg/m2), as evidências ainda são fracas para recomendar esse tratamento como rotina nessa categoria, devendo esse tipo de procedimento ser restrito a ambientes de pesquisa.
+
+E - M[-u-]{+o+}d{+ific+}a[-n-]ç[-a-]{+õe+}s de estilo de vida
+Quando é possível implementar as mudanças nos hábitos de vida (dieta nutricionalmente equilibrada, atividade física re-gular e perda de 5 a 10% do peso inicial em indivíduos com excesso de peso), a redução média obtida na A1c gira em torno de 1 a 2% e, na glicemia de jejum, de 40 a 50mg/dL.
+
+5. Drogas antidiabéticas
+
+A história natural do DM2 caracteriza-se pela piora gradual e inexorável da glicemia ao longo do tempo, devida, principal-mente, à perda progressiva da secreção de insulina endógena pelas células beta[- -]pancreáticas. Por isso, geralmente há a ne-cessidade, com os anos, de aumentar a dose dos medicamentos e/ou de acrescentar outras drogas. A combinação de agentes com diferentes mecanismos de ação é útil. 
+As drogas antidiabéticas podem ser divididas em várias classes, de acordo com o seu mecanismo de ação. As principais classes de antidiabéticos disponíveis no mercado brasileiro estão expostas na Tabela 7.
+
+Tabela 7 - Mecanismos de ação das drogas antidiabéticas
+Categorias	Ações	Classes
+Secretagogos de insulina	Aumentam a secreção de insulina pelas células beta[- do -]p[-â-]{+a+}ncre{+átic+}as.	Sulfonilureias e glinidas (metiglinidas)
+Sensibilizadores da insulina	Aumentam a ação biológica da insulina nos seus tecidos-alvo.	Biguanidas (metformina) e tiazolidinedionas (pio{+-+}glitazona)
+Inibidores da alfa[---]glicosidase	Retardam a digestão e a absorção de car[---]boidra{+-+}tos no intestino delgado.	Acarbose
+Incretinomiméticos	Aumentam a secreção de insulina e redu[---]zem a secreção de glucagon em resposta às refeições (efeito incretina).	Inibidores da dipeptidil peptidase IV (DPP-IV – gliptinas) e agonistas de GLP-1
+Inibidores de SGLT2	Bloqueiam a reabsorção de glicose nos túbulos proximais renais. 	Dapagliflozina{+ e empagliflozina+}
+Insulinas	Estimulam a captação de glicose pelos tecidos e bloqueiam a secreção de glicose pelo fígado.	Insulinas humanas: NPH, regular; e análogos de insulina: glargina, detemir, lispro, asparte, glulisi{+-+}na
+
+As características das classes de drogas antidiabéticas estão resumidas na Tabela 8.
+
+Tabela 8 - Principais características das drogas antidiabéticas
+Antidiabéticos	Efeitos clínicos
+Medicamentos	Redução da glice[---]mia de jejum (mg/dL)	Redução da A1c (%)	Peso 
+corpóreo	Hipoglice[---]mia	Contraindicações
+Sulfonilureias	60 a 70	1 a 2	Aumento	Sim	DM1, gestação, insuficiência renal {+(TFG <30) +}ou hepática
+Repaglinida	20 a 30*	0,8 a 1,5	Aumento	Sim	DM1, gestação, insuficiência renal {+(TFG <30) +}ou hepática
+Nateglinida	20 a 30*	0,5 a 1	Aumento	Sim	DM1, gestação, insuficiência renal {+(TFG <30) +}ou hepática
+Metformina	60 a 70	1 a 2	Redução	Não	Insuficiência renal (Taxa de Filtração Glomeru{+-+}lar – TFG <30), doença pulmo[---]nar obstrutiva crônica [-ou-]{+grave,+} [-I-]{+i+}nsuficiência [-C-]{+c+}ardíaca [-C-]{+desc+}o[-ng-]{+m-p+}e{+n+}s[-tiv-]a[- (ICC) gr-]{+d+}a[-ve-], sepse, cirrose, alcoolismo, {+uso de +}contraste intraveno[---]so
+Pioglitazona	35 a 40	0,5 a 1,4	Aumento	Não	ICC classes III e IV, DM1, hepatite, ges[---]tação, alto risco de fraturas, hematúria
+Acarbose	20 a 30*	0,5 a 0,8	Sem efeito	Não	Doenças intestinais, insuficiência renal ou hepática
+Inibidores de DPP-IV	20 a 30*	0,6 a 0,8[--]{+	+}Sem efeito	Não	Hepatite, DM1, gestação
+Agonistas de GLP-1**	10 a 25*	0,8 a 1,2[--]{+	+}Redução	Não	DM1, insuficiência renal, gastroparesia
+Inibidores de SGLT2	20 a 30*	0,6 a 1	Redução	Não	Insuficiência renal (TFG <30 a 45)
+Insulina {++}
+(adicional)**	60 a 150	1,5 a 3,5	Aumento	Sim	Sem contraindicações
+* Atuam predominantemente na redução da glicemia pós-prandial, mas podem reduzir discretamente a glicemia de jejum em médio e longo prazos.
+** Injetáveis.
+
+@@ -167,7 +171,8 @@ A - Secretagogos de insulina
+
+a) Modo de ação 
+Sulfonilureias
+Ligam-se ao receptor das sulfonilureias (SUR1), presente no canal de potássio ATP-dependente das células beta[- -]pancreá[---]ti{+-+}cas, promovendo o fechamento dos canais de potássio ATP-dependentes; a despolarização do potencial de membrana; a abertura dos canais de cálcio voltagem-dependentes; o influxo de cálcio na célula; e a consequente exocitose de grânulos de insulina pré-formada pelas células beta. 
+{++}
+Glinidas
+Ou metiglinidas têm início de ação mais rápido, meia-vida mais curta, ligam-se num sítio diferente do mesmo receptor SUR1 nas células beta e, por causa do seu curto período de ação, são indicadas principalmente para o controle da hiperglice-mia pós-prandial. Existem 2 drogas dessa classe no Brasil: a repaglinida (derivada do ácido benzoico) e a nateglinida (derivada da fenilalanina). Têm custo um pouco mais elevado do que as sulfonilureias.
+
+@@ -175,15 +180,15 @@ b) Posologia e modo de uso
+As sulfonilureias são administradas 1 a 2x/d, em geral 30 minutos antes do café e do jantar. Já as glinidas devem ser admi-nistradas 15 minutos antes das principais refeições (1 a 3x/d). Deve-se começar com doses pequenas e progressivamente crescentes, até a obtenção do controle glicêmico adequado ou a dose máxima recomendada. As apresentações e a posologia dos principais secretagogos de insulina estão descritas na Tabela 9.
+
+Tabela 9 - Posologia, apresentação e nome comercial dos secretagogos de insulina
+Classes	Drogas{+ +}	Doses diárias (mg)	Nº de 
+do[---]ses/d	Apresen[---]tações
+(compri[---]midos)	Nomes 
+comerciais
+Sulfonilureias	Clorpropamida	125 a 750	1	250mg	Diabinese®
+	Glibenclamida	2,5 a 20	1 a 2	5mg	Daonil®, Gliben®, Diaben®, Gliben{+-+}diab®
+	Glipizida	2,5 a 20	1 a 2	5mg	Minidiab®
+	Gliclazida de ação prolonga{+-+}da	30 a 120	1	30mg	Diamicron® MR, Azukon® MR
+	Glimepirida	1 a 8	1	1, 2 e 4mg	Amaryl®, Bioglic®, Glimepil®, Azu{+-+}lix®, Betes®
+Glinidas	Repaglinida	0,5 a 16	1 a 3	0,5, 1 e 2mg	Novonorm®, Prandin®, Posprand®
+	Nateglinida	120 a 360	1 a 3	120mg	Starlix®
+
+@@ -203,22 +208,22 @@ Os secretagogos s
+
+Tabela 10 - Características de alguns secretagogos de insulina
+Drogas	Características
+Clorpropamida e glibenclamida (glibu{+-+}rida)	São metabolizadas no fígado, e seus metabólitos têm efeito hipoglicemiante e meia-vida longa, razão pela qual são as sulfonilureias com maior risco de hipoglicemias graves. Devem ser evita{+-+}das em idosos e pacientes com insuficiên[---]cia renal.
+Clorpropamida	Liga-se aos receptores de ADH nos rins, levando a retenção de líquido (efeito ADH-símile), hiponatremia e aumento da pressão arterial. Também provoca muito mal-estar em caso de ingestão de álcool durante seu uso (efeito antabuse).
+Glibenclamida	Aumenta em 2 vezes o risco de mortalidade em pacientes com infarto agudo do miocárdio, portanto deve ser prefe[---]rencialmente evitada em caso de alto risco cardiovascular. Alguns estu{+-+}dos sugerem que acelera a progressão da perda de células beta do paciente com DM2, fazendo-o precisar de reposição de insulina mais cedo do que precisaria se usasse outras sulfonilureias (por exemplo, gliclazida ou glimepirida).
+Glimepirida	Tem início de ação rápido e duração longa, mas com baixo risco de hipoglicemia, por preservar a supressão fisiológica de insulina nos períodos de jejum. Está indicada para pacientes idosos e com insuficiência renal (em baixas doses).
+Glipizida	Metabolizada extensivamente no fígado, junto com a glimepirida parece ter menor ação que a glibenclamida nos receptores SUR2 dos vasos e do coração, por isso parece conferir menor prejuízo ao pré-condicionamento isquêmico cardíaco.
+Gliclazida	Aparentemente, é a sulfonilureia mais segura do ponto de vista de risco cardiovascular, pois não se associou a aumen[---]to de eventos em pacientes de alto risco, como evidenciado pelo estu{+-+}do ADVANCE. Além disso, causa menos hipogli[---]cemias e menor ganho de peso que as demais sulfonilureias.
+
+B - Metformina
+Trata-se de um sensibilizador a insulina, pertencente ao grupo das biguanidas. Apresenta diversas vantagens quanto ao uso de outras medicações hipoglicemiantes. Não está associada ao aumento de peso, podendo até determinar diminuição de 2 a 3kg durante os primeiros 6 meses de tratamento. Reduz os níveis de triglicérides (em 10 a 15%) e do inibidor-1 do ativa-dor do plasminogênio (PAI-1), uma molécula com ação pró-trombótica, bem como a agregação plaquetária, e estimula a fibri-nólise. Foi a única medicação que determinou diminuição significativa da incidência de infarto do miocárdio e morte entre obesos com DM2, durante o estudo UKPDS. Também é capaz de evitar a progressão para DM2 entre aqueles com intolerância a glicose (redução de 31% no risco), reduz a esteatose hepática não alcoólica e é útil para o tratamento da síndrome dos ová-rios policísticos (em que estimula a ovulação e aumenta a fertilidade). Também reduz o risco de neoplasias associadas ao dia-betes (cólon, pâncreas e mama pós-menopausa) e tem baixo custo (semelhante ao das sulfonilureias) e bom perfil de segu-rança. Tradicionalmente, era indicada apenas a diabéticos com excesso de peso, mas, como tem a mesma eficácia em indiví-duos com peso normal, as diretrizes hoje a recomendam como 1ª opção de droga hipoglicemiante na maioria dos casos de DM2. É o hipoglicemiante oral mais utilizado nos Estados Unidos.
+
+a) Modo de ação
+Seu mecanismo de ação envolve a ativação, pela droga, de uma enzima hepática chamada proteinoquinase ativada pelo AMP (AMPK), um importante regulador da sinalização da insulina e do metabolismo da glicose e dos lipídios. Age diminuindo a resistência a insulina principalmente no fígado, onde reduz a gliconeogênese e a glicogenólise e, portanto, a glicemia de je-jum, além de aumentar a oxidação de ácidos graxos. Alguns estudos sugerem que pode ter ação sobre a resistência insulínica também em outros tecidos (músculos, coração), por mecanismos dependentes ou não da AMPK. {+Também há evidências mais recentes de um efeito direto da metformina no intestino delgado, contribuindo para a redução da glicemia de jejum.+}
+
+b) Posologia
+Os comprimidos de liberação simples (disponíveis nas concentrações de 500, 850 e 1.000mg; Glifage®, Dimefor®, Gluco-formin®, genéricos) devem ser tomados às refeições, preferencialmente em doses fracionadas (1 a 3x/d). A dose máxima é de 2.550mg/d (850mg em 3 tomadas). 
+Uma opção é a metformina de liberação prolongada (Glifage® XR, Metta® SR), que pode ser usada em dose única diária após o jantar ou, eventualmente, em 2 doses diárias (comprimidos de 500mg, 750mg e 1g; 500 a 2.000mg/d). Também estão disponíveis as apresentações de metformina associada a glimepirida (Meritor®, Amaryl Flex®), nateglinida (Starform®), [-ros-]{+v+}i{+lda-+}gli[---]{+p+}t[-azo-]{+i+}na ([-Avand-]{+G+}a[-m-]{+lvusM+}et®), [-v-]{+s+}i[-ld-]{+t+}agliptina ([-G-]{+J+}a[-lv-]{+n+}u[-sM-]{+m+}et®) e [-s-]{+l+}i[-t-]{+n+}agliptina ([-J-]{+Tr+}a[-num-]{+y+}e{+n+}t{+a Duo+}®). A metformina de liberação prolongada está dis{+-+}po[---]nível em associação a saxagliptina (Kombiglyze® XR).
+
+Tabela 11 - Posologia da metformina
+Tipos	Comprimidos	Dose inicial	Dose 
+@@ -232,16 +237,16 @@ c) Efic
+A metformina tem potência hipoglicemiante semelhante à das sulfonilureias: reduz a glicemia de jejum em 50 a 70mg/dL e a A1c em 1 a 2%. A eficácia máxima parece ser obtida com doses em torno de 2g/d.
+
+d) Efeitos adversos
+Os efeitos colaterais mais comuns são os gastrintestinais (em torno de 30%), como náusea, vômito, cólica, diarreia, gosto metálico e flatulência. Esses sintomas são mais comuns no início do tratamento e podem ser minimizados quando a metformi-na é iniciada em doses baixas (por exemplo, 500mg, 1 a 2x/d) e progressivamente titulada para doses maiores em intervalos de ao menos 2 semanas. Com esses cuidados, apenas 5% permanecem intolerantes à droga. A apresentação de liberação prolongada [-tem-]{+(XR,+} [-melh-]{+SR), p+}or {+sua vez, apresenta +}tolerabilidade gastrintestinal {+muito melhor do +}que as formas de absorção simples{+ e pode ser uma ótima opção aos intolerantes à metformina de absorção rápida+}.
+A metformina, quando usada isoladamente, não causa hipoglicemia, pois não aumenta a secreção de insulina endógena. Por isso, apresenta vantagens sobre as sulfonilureias para uso em pessoas com risco aumentado de hipoglicemias, como indi-víduos idosos ou com glicemias apenas discretamente elevadas. Também não causa ganho de peso, o que representa uma vantagem a diabéticos obesos. 
+Uma complicação muito temida é a acidose láctica, uma entidade rara, porém com grande mortalidade (>50%). Uma gran-de meta-análise publicada recentemente, incluindo quase 50.000 pacientes que usaram metformina, não encontrou aumento do risco de acidose láctica associado ao uso da droga. Portanto, esse risco permanece apenas teórico, respeitadas as contra-indicações – principalmente a insuficiência renal. 
+Recentemente, alguns estudos voltaram a chamar a atenção para a possibilidade de deficiência de vitamina B12 nos paci-entes que usam a metformina por mais de 6 meses; portanto, talvez seja interessante dosar os níveis séricos dessa vitamina e indicar reposição (se necessária) em usuários crônicos da droga. [-Anemia macr-]{+N+}o[-cítica,-] {+ent+}a[-ss-]{+nt+}o[-ciada a-]{+,+} deficiência clínica de B12, {+com neuropatia e/ou anemia macrocítica, +}é rara.
+
+e) Contraindicações
+É contraindicada para pacientes portadores de quaisquer condições que predisponham ao acúmulo de lactato e à acidose láctica, principalmente na insuficiência renal com TFG <30mL/min. Com TFG entre 30 e 50mL/min/1,73m2, é possível o uso, mas é mais prudente [-evit-]{+us+}ar {+um+}a dose m[-áxima-]{+enor+} ([-us-]a[-r-]{+té+} metade{+ da dose máxima+}). Outras contraindicações são insuficiência respira{+-+}tória (doença pulmonar obstrutiva crônica grave), ICC descompensada (hospitalizada), e insuficiência hepática/alcoolismo crônico. Também deve ser evitada em intercorrências agudas graves (infecções, sepse, cirurgias de grande porte). Recomen{+-+}da-se suspender a{+ metformina pel+}o menos 48 horas a[-pó-]{+nte+}s {+de +}qualquer procedimento envolvendo a aplicação de contraste nefrotóxico intravenoso. Também é contraindicada na gravidez e na lactação, embora já haja estudos relatando que possa ser segura durante a gestação.
+
+C - Tiazolidinedionas
+As tiazolidinedionas, também conhecidas como “glitazonas”, {+t+}a[-ssim como a -]m[-etfor-]{+bé+}m[-ina,-] são sensibilizadores da insulina, [-m-]as[-,-]{+sim+} [-enquant-]{+com+}o a met{+-+}formina{+. No entanto, esta+} age principalmente no fígado, {+enquanto +}o principal alvo das glitazonas é o tecido musculoesqueléti{+-+}co.
+
+a) Modo de ação
+Diminuem a resistência insulínica nos tecidos periféricos (principalmente no musculoesquelético, mas também, em menor grau, no tecido adiposo e no fígado) por meio do estímulo sobre o receptor nuclear PPAR-gama (Peroxisome Proliferator-Activated Receptor gamma), levando a aumento da expressão dos transportadores de membrana da glicose (GLUT4). Favore-cem, ainda, a diferenciação de pré-adipócitos em adipócitos pequenos, mais sensíveis à insulina (principalmente no subcutâ-neo), enquanto induzem à apoptose dos adipócitos grandes (menos sensíveis) no tecido adiposo visceral. Desta forma, redu-zem a glicemia, por estimularem a captação de glicose pelos músculos, e diminuem os níveis de ácidos graxos livres e triglicé-rides, por estimularem sua deposição no tecido adiposo periférico. Uma decorrência dessa deposição de gordura subcutânea é o ganho ponderal. Outro fenômeno observado é a conversão de partículas pequenas e densas de colesterol LDL (mais ate-rogênicas) em partículas maiores e menos densas. 
+@@ -257,12 +262,12 @@ Quando usadas isoladamente, diminuem a glicose plasm
+A pioglitazona aumenta os valores de colesterol HDL em 5 a 10% e reduz os ácidos graxos livres em 20 a 30%, além de causar modesta redução dos triglicérides, sem efeito significativo sobre o LDL.
+
+d) Efeitos adversos
+Um dos paraefeitos mais comuns das glitazonas é a retenção hídrica, com consequente edema periférico e discreta ane-mia por hemodiluição. Esse efeito, observado em cerca de 5% dos usuários, decorre da ação direta da droga sobre os túbulos coletores renais, levando à retenção de sódio. O uso de amilorida pode aliviar o edema. Outra queixa frequente é o ganho de peso, da ordem de 2 a 3kg (à custa do aumento da gordura subcutânea e da diminuição da gordura visceral), que acontece na maioria dos pacientes. O edema e o ganho de peso geralmente são maiores [-e-]n[-tre aquele-]{+o+}s que também usam insulina ou sulfonilureias{+ em associação a pioglitazona+}. A retenção de líquido pode desencadear ou descompensar uma insuficiência cardíaca (risco relativo de 2,5), razão pela qual, na Europa, é vetada a associação de uma glitazona a insulina. 
+As glitazonas não causam hipoglicemia quando usadas isoladamente. Efeitos possíveis são sinusite, faringite e mialgia e, mais raramente, hepatotoxicidade (mais comumente descrita com a troglitazona, retirada do mercado por esse motivo). Até o momento, não há casos comprovados de hepatotoxicidade fatal com rosiglitazona e pioglitazona, ao contrário do ocorrido com a troglitazona. 
+Usuários de glitazonas por mais de 12 a 18 meses apresentam, ainda, aumento do risco de fraturas em 2,5 vezes (princi-palmente no quadril e nos punhos), que foi significativo no sexo feminino, mas não no sexo masculino.
+Um efeito adverso específico da rosiglitazona, demonstrado por 2 meta-análises publicadas em 2007 e confirmado por ou-tra meta-análise de 2010, é o aumento de risco de infarto agudo do miocárdio (risco 43% maior) e de morte cardiovascular. Embora esse achado não tenha sido observado em estudos prospectivos como o RECORD, o VADT (2009) e o ACCORD (2008), a European Medicines Agency e a Anvisa suspenderam a comercialização da rosiglitazona em territórios europeu e brasileiro, respectivamente, a partir de setembro de 2010.
+A pioglitazona, por sua vez, parece se associar a redução de 16% no risco de infarto do miocárdio, acidente vascular cere-bral e morte, conforme achados do estudo PROactive.
+Um novo achado foi a divulgação, em 2011, dos resultados parciais de um grande estudo prospectivo com a pioglitazona, em que o uso crônico (por mais de 24 meses) dessa medicação esteve associado a um discreto aumento de risco de câncer de bexiga (risco relativo = 1,4). Embora esse achado [-ai-]n[-da-]{+ão+} [-precis-]{+t+}e{+nha+} s[-er-]{+ido+} confirmado{+ em outros estudos+}, a droga já teve sua co{+-+}mercialização sus[---]pensa na França devido a preocupações com a segurança do seu uso.
+
+e) Contraindicações
+As glitazonas são contraindicadas no DM1, na doença hepática em atividade e na gravidez. Essas drogas também devem ser evitadas na ICC com classe funcional III ou IV da New York Heart Association, e em mulheres pós-menopausa com alto risco de fraturas osteoporóticas. Novas contraindicações à pioglitazona são história de câncer de bexiga ou hematúria inexplicada.
+@@ -287,39 +292,41 @@ e) Contraindica
+São contraindicados àqueles com doença inflamatória intestinal, obstrução intestinal, síndromes disabsortivas, doenças hepáticas, insuficiência renal (creatinina acima de 2mg/dL), na gravidez, na lactação e a crianças abaixo dos 12 anos.
+
+E - Inibidores de dipeptidil peptidase IV (gliptinas)
+[-Correspondem a uma n-]{+Sã+}o[-va classe de-] drogas [-antidiabéticas, com ação-]{+que+} potencializa[-dor-]{+m a +}a{+ção+} dos hormônios pró-insulínicos in[---]testinais (“incretinas”).
+
+a) Modo de ação
+As drogas dessa classe estimulam a ação de hormônios intestinais conhecidos como incretinas. O efeito incretina foi pri-meiramente descrito em experiências que compararam a secreção de insulina em resposta a uma mesma sobrecarga de carboidratos administrada por 2 vias diferentes: oral e intravenosa. Esses estudos observaram que a secreção de insulina era bem maior após a administração oral dos carboidratos, embora a quantidade destes seja a mesma. A explicação para esse fenômeno foi que a passagem de carboidratos pelo tubo digestivo estimulava a secreção de hormônios intestinais, que po-tencializavam a secreção de insulina pelas células beta[- -]pancreáticas em resposta à refeição. Mais tarde, esses hormônios in{+-+}testinais, inicialmente batizados de “incretinas”, foram identificados como sendo o Glucagon-Like Peptide 1 (GLP-1, secreta[---]do pelas células “L” no íleo) e o Glucose-dependent Insulin-releasing Peptide (GIP, secretado pelas células “K” no jejuno). 
+Logo se observou que a secreção do GLP-1 estava diminuída em pacientes com DM, mas sua atividade biológica estava preservada, o que motivou pesquisas para tentar desenvolver agentes terapêuticos que resgatassem a ação fisiológica desse hormônio, já que entre seus vários efeitos se incluem estímulo à secreção de insulina, dependente dos níveis de glicose cir-culante; inibição da secreção de glucagon; retardo do esvaziamento gástrico; e redução do apetite – todos contribuindo para melhor controle glicêmico, principalmente no período pós-prandial.
+A molécula nativa de GLP-1 humano não tem uso terapêutico, já que sua meia-vida é extremamente curta (menos de 5 minutos). Uma alternativa, portanto, foi desenvolver agentes que bloqueassem a ação da enzima naturalmente responsável pela degradação do GLP-1 endógeno, conhecida como DPP-IV. Esses agentes aumentam os níveis de GLP-1 ativo em 2 a 3 vezes e são eficazes para melhorar o controle glicêmico de pacientes com DM2, em monoterapia ou associados a outras dro-gas.
+Uma ação dessas drogas observada em estudos com roedores foi o aumento da massa de células beta, por estímulo à pro-liferação/neogênese e inibição da apoptose dessas células. Se esse efeito também for comprovado em humanos, as indica-ções dessa classe de drogas poderão ser ampliadas, tendo em vista o interessante potencial de preservação da secreção endógena de insulina.
+
+b) Posologia
+Existem 4 drogas dessa classe disponíveis no mercado brasileiro: a vildagliptina, a sitagliptina, a saxagliptina e a linagliptina. A alogliptina deve se juntar a essa lista [-até-]{+em+} [-2015-]{+breve+}.
+A vildagliptina (Galvus®) é vendida em comprimidos de 50mg. A dose é de 50mg 2x/d para monoterapia ou associação a metformina ou glitazona, ou 50mg 1x/d para associação com sulfonilureia ou insulina. Também existe a apresentação de 50mg associada a 500, 850 ou 1.000mg de metformina (GalvusMet®). Não necessita de ajuste de dose na insuficiência renal crônica leve a moderada (TFG >50mL/min) e pode ser utilizada na insuficiência renal grave (TFG <50mL/min) ou em pacientes em diálise com dose corrigida (50mg/d).
+A sitagliptina (Januvia®) é comercializada na forma de comprimidos de 25, 50 ou 100mg, para uso em dose única diária. Também está disponível a associação de sitagliptina 50mg a metformina 500, 850 ou 1.000mg, que deve ser usada em 2 to-madas diárias (Janumet®). Deve ter sua dose ajustada na insuficiência renal: 50mg/d para TFG entre 30 e 50mL/min, e 25mg/d para TFG <30mL/min.
+A saxagliptina (Onglyza®) é comercializada em comprimidos de 2,5 ou 5mg, para uso em dose única diária, ou associada a metformina de liberação prolongada 500 ou 1.000mg (Kombiglyze® XR). A dose de 2,5mg é preferida em indivíduos com disfunção renal grave (TFG <50mL/min) ou em diálise.
+A droga mais recente d[-ess-]a classe é a linagliptina (Trayenta®), comercializada em comprimidos de 5mg em dose única diá[---]ria, podendo ser usada nas insuficiências renal ou hepática graves sem necessidade de ajuste de dose.{+ Também está disponível em associação a metformina (Trayenta Duo®, 2,5mg de linagliptina + 500 ou 850 ou 1.000mg de metformina).+}
+
+Tabela 12 - Apresentações e posologia dos inibidores de [-DPP--]{+dipeptidil peptidase +}IV disponíveis no Brasil
+Drogas	Apresentações	Posologias
+Vildagliptina	Comprimidos de 50mg, associados ou não a metformi[---]na	- 50mg 2x/d (café e jantar);
+- 50mg 1x/d (café) se TFG <30mL/min.
+Sitagliptina	Comprimidos de 25, 50 e 100mg, ou 50mg asso{+-+}ciados a metformina	-[- -]{+	+}100mg 1x/d, ou 50mg 2x/d;
+-[- -]{+	+}50mg 1x se TFG [-=-]{+entre+} 30 [-a-]{+e+} 50mL/min[- e-]{+;+}
+{+-+} 25mg 1x se TFG <30mL/min.
+Saxagliptina	Comprimidos de 2,5 ou 5mg, associados ou não a metformina de liberação prolongada	-[- -]{+	+}5mg 1x/d ou 2,5mg 2x/d;
+-[- -]{+	+}2,5mg 1x/d se TFG <30mL/min.
+Linagliptina	Comprimidos de 5mg{+, ou 2,5mg em associação a metformina+}	{+- +}5mg 1x/d{+;+}
+{+- 2,5mg 2x/d.+}
+
+c) Eficácia
+As gliptinas apresentam efeito preferencial sobre a glicemia pós-prandial, a exemplo das glinidas e da acarbose. Reduzem em 50mg/dL a glicemia após as refeições, em 20mg/dL a glicemia de jejum e em 0,5 a 0,8% a A1c. O efeito redutor da glice-mia parece maior entre pacientes com níveis glicêmicos mais elevados, com relatos de redução da A1c de até 1,8% entre aqueles com hiperglicemia importante. A vildagliptina e a saxagliptina, quando utilizadas em associação à insulina, promovem melhora da glicemia e da A1c, sem aumento do risco de hipoglicemias graves.
+
+d) Efeitos adversos
+As medicações são extremamente bem toleradas: não alteram o peso corpóreo, não provocam hipoglicemia e não costu-mam causar nenhum efeito adverso grave. Náuseas, cefaleia e faringite são os sintomas mais comuns em pacientes tratados com gliptina. O efeito mais preocupante observado em estudos clínicos foi a hepatotoxicidade, principalmente quando era utilizada a vildagliptina 100mg em dose única diária (cerca de 0,6%), razão pela qual essa apresentação foi retirada do merca-do. O risco dessa complicação parece menor com o uso em doses fracionadas (50mg 2x/d). Há alguns raros relatos de pan-creatite aguda associada a[- dr-]o[-ga-]{+ u+}s{+o+} de[-ssa-] [-c-]{+g+}l{+iptin+}as[-se-], mas [-nã-]{+estud+}o[- é-]{+s+} pos[-sível es-]t[-abelec-]er[- -]{+io+}re[-lação-]{+s+} {+publi+}ca[-u-]{+do+}s[-al-] {+recentem+}ent[-r-]e{+,+} {+c+}o{+m+} [-us-]{+grande númer+}o de[-ss-]{+ paci-ent+}es{+,+} {+não observara+}m{+ n+}e[-dic-]{+nhum +}a{+u+}men[---]to{+ +}s{+ignificativo+} [-e-]{+do+} [-a-]{+risco de+} pancreatite [-aguda co-]{+e+}m [-o-]{+paciente+}s [-d-]{+trat+}ados [-disp-]{+c+}o[-nív-]{+m +}e[-i-]s[- -]{+s+}a[-té o-]{+s+} m[-om-]e[-nto-]{+dicações+}.
+
+e) Contraindicações
+As gliptinas são contraindicadas [-a-]{+em+} hepatopat{+ias agud+}as (transaminases >2,5 vezes o limite superior do normal). Não fo{+-+}ram estabe[---]lecidas segurança e efetividade no tratamento com gliptinas para DM1 na gravidez, na lactação e em pacientes com menos de 18 anos, portanto e[-le-]{+ssas drogas+} deve{+m+} ser evitad[-o-]{+as nessas situações+}. 
+
+F - Agonistas de GLP-1
+A exenatida, a liraglutida e a droga mais recente dessa classe, a lixisenatida, são agonistas (análogos) do GLP-1, que apre-sentam meia-vida bem maior do que a do hormônio natural, o que possibilita uso terapêutico para controle glicêmico no DM. 
+@@ -335,32 +342,33 @@ A lixisenatida (Lyxumia
+c) Eficácia
+Essas drogas são um pouco mais potentes que os inibidores de DPP-IV para redução da glicemia, apesar de agirem no mesmo eixo. As 3 drogas reduzem a glicemia de jejum em torno de 10 a 25mg/dL, a glicemia pós-prandial em cerca de 60 a 140mg/dL, e a A1c em aproximadamente 0,6 a 1,2% (até 1,5%, em alguns estudos). 
+Outro efeito muito interessante é a redução do peso: em média, perdem-se 1,6 a 3,6kg em 6 a 12 meses com a exenatida; 2 a 3kg em 6 meses com a lixisenatida; e 6 a 8kg em 5 meses com a liraglutida (em doses mais elevadas). Portanto, podem servir como alternativa à insulinoterapia em diabéticos tipo 2 obesos com mau controle glicêmico, apesar do uso de vários hipoglicemiantes orais.
+A[-pesar de seu-] {+l+}i[-nte-]r[-ess-]a[-n-]{+glu+}t[-e efe-]i[-t-]{+da, na d+}o{+se+} de {+3mg/d, já foi a+}p[-e-]r{+ova+}da [-de-]{+nos+} [-pe-]{+E+}s{+tad+}o[-,-]{+s+} {+U+}n[-em-]{+idos+} {+par+}a [-ex-]{+tratam+}en[-a-]t{+o de obes+}ida{+de,+} {+i+}n{+clusive +}em [-a-]{+não+} [-l-]{+d+}i[-r-]a[-glu-]{+bé-+}ti{+cos, e +}d[-a-]{+eve+} s[-ão-]{+er+} aprovada{+ no Bra+}s{+il+} para [-uso-]{+a+} [-e-]m[- ob-]es[-os-]{+ma+} {+i+}n{+dicaç+}ão [-di-]a[-bé-]t{+é o próx+}i[-c-]{+mo an+}o[-s-].
+
+d) Efeitos adversos
+As queixas mais comuns dos indivíduos em uso dos agonistas de GLP-1 foram náusea e perda de apetite (mais intensas no início do tratamento), além de desconforto intestinal, pirose e cefaleia. O risco de hipoglicemia é maior entre indivíduos tra-tados com exenatida + sulfonilureia. Por isso, recomenda-se reduzir a dose de sulfonilureia pela metade quando o paciente inicia o uso de um análogo de GLP-1. O uso dessas medicações pode interferir na absorção de outros medicamentos por via oral (por exemplo: antibióticos), por retardar o esvaziamento gástrico; assim, outras medicações devem ser tomadas ao me-nos 1 hora antes da aplicação da exenatida. Também há relatos de hiperplasia de células C em ratos tratados com análogos de GLP-1, mas o significado clínico desse achado é incerto.
+Recentemente, foram descritos [-vário-]{+algun+}s casos de pancreatite aguda [-(alguns deles fatais) entr-]e{+m+} pacientes utilizando agonistas de GLP-1, mas [-é difícil atribuir uma r-]e[-lação cau-]s[-al com a droga, da-]{+tu-+}do{+s+} [-o baixo núme-]{+p+}ro[- d-]{+sp+}e[- ocorrên-]c{+t+}i[-a-]{+vo+}s[-.-] [-De qualqu-]{+post+}er[- f-]{+i+}or[-ma, -]es[-sas-] [-dr-]{+c+}o[-gas deve-]m [-se-]{+g+}r[- us-]a{+n+}d[-as-]{+e+} [-co-]{+nú+}m[- caut-]e[-la-]{+ro+} {+d+}e[-m-] pacientes [-c-]{+nã+}o[-m-] [-hi-]{+ob+}s[-tória p-]{+e+}r[-é-]v[-ia de p-]a[-nc-]r[-e-]a[-tite, e o-]{+m+} [-pacie-]n[-te deve ser ori-]en[-t-]{+hum+}a[-do-] a[- bu-]s{+so+}c[-ar atend-]i[-ment-]{+açã+}o [-mé-]d[-ic-]o {+u+}s[-e-]{+o+} de[-senvolver-] [-sintom-]a[-s su-]g[-e-]{+oni+}st[-ivo-]{+a+}s de [-pan-]{+GLP-1 +}c[-r-]{+om +}e{+ss+}a[-tite-] {+complic+}a[-guda-]{+ção+}.{+ +}
+
+e) Contraindicações
+Os agonistas de GLP-1 estão contraindicados no DM1, na cetoacidose diabética, na insuficiência renal grave ou terminal (TFG <30mL/min) ou na insuficiência hepática grave (por falta de estudos nessa população), e ainda em pacientes com distúr-bio gastrintestinal grave (gastroparesia). Outra contraindicação é a história pessoal ou familiar de carcinoma medular de tire-oide ou neoplasia endócrina múltipla tipo 2.
+
+G - Inibidores de SGLT2
+Os inibidores de SGLT2 formam a mais recente classe de drogas antidiabéticas a ingressar no mercado brasileiro, aumen-tando a excreção urinária de glicose. Seu[- único-]{+s+} representante{+s+} no Brasil[-,-] at[-é o mo-]{+ual+}ment[-o,-]{+e+} [-é-]{+são+} a dapagliflozina (Forxiga®){+ e a empagliflo-zina (Jardiance®). Nos Estados Unidos, também está disponível a canagliflozina+}.
+
+a) Modo de ação
+A{+s+} d{+rog+}a[-p-]{+s dest+}a[-glif-]{+ c+}l[-ozin-]a{+sse+} [-é um-]{+são+} bloqueador{+es+} seletivo{+s+} do cotransportador de sódio–glicose tipo 2 (SGLT2), encontrado no tú{+-+}bulo pro[---]ximal renal. Em pacientes normais, toda a glicose filtrada pelos glomérulos acaba reabsorvida nos túbulos proximais renais, o que faz que a urina seja livre de glicose, até níveis de glicemia em torno de 180 a 200mg/dL (limiar de reabsorção renal da glicose). No paciente em uso de [-dapagl-]{+um +}i[-floz-]{+nib+}i{+dor de SGLT2, +}n{+o ent+}a{+nto+}, o bloqueio de{+sse+} [-SGLT2-]{+transportador+} leva ao aumento da excreção urinária de glicose, mesmo quando o indivíduo apresenta níveis de glicemia normais (a partir de 70 a 100mg/dL de glicemia), levando à perda urinária de aproximadamente 20 a 70g de glicose por dia, o que contribui para a redução da glicemia.
+
+b) Posologia
+A dapagliflozina está disponível na forma de comprimidos de 10mg, para tomada em dose única diária. Em pacientes em uso concomitante de diuréticos ou com risco de depleção de volume, pode ser mais apropriado usar uma dose de 5mg 1x/dia. Pode ser usada em conjunto com metformina, pioglitazona, sulfonilureias ou insulina, ou combinações dessas drogas. {++}
+A [-can-]{+emp+}agliflozina [-é um-]{+está+} {+d+}i{+spo+}n{+ível em compr+}i[-b-]{+m+}ido[-r-]{+s+} de [-SGLT2-]{+10+} [-c-]o{+u 25+}m[-e-]{+g, pa+}r[-ci-]a[-liz-]{+ tom+}ad{+a em d+}o{+se+} {+ú+}n{+ica diária. P+}o{+de +}s{+er+} [-E-]{+u+}s[-t-]ad{+a com+}o[-s-] [-U-]{+mo+}n{+oterap+}i[-d-]{+a +}o[-s,-]{+u+} {+e+}m{+ +}as[- n-]{+sociaç+}ão {+a m+}e[-s-]t[-á d-]{+form+}i[-s-]{+na, +}p{+i+}o[-níve-]{+g+}l[- n-]{+itaz+}o{+na,+} [-B-]{+sulfonilu+}r{+ei+}as{+ ou +}i{+nsu+}l{+ina+}.
+
+c) Eficácia
+[-A-]{+Os+} [-dapaglifloz-]in[-a-]{+ibidores de SGLT2+} associa{+m+}-se a uma redução média de 0,6 a 1[-,0-]% da A1c, com redução de aproximadamente 20 a 30mg/dL na glicemia de jejum. Outros efeitos dessa droga são {+uma discret+}a perda de peso e {+um+}a redução da pressão arterial[-.-] [-Pac-]{+s+}i[-en-]{+s+}t{+ólica. A p+}e[-s-]{+rda+} {+d+}e[-m-] [-u-]{+pe+}so cos[---]tuma[-m-] [-pe-]{+gi+}r[-de-]{+a+}r em torno de 2 a 3kg em 24 semanas, devido ao balanço calórico negativo induzido pela glicosúria aumentada (perda de 80 a 280kcal/dia na forma de glicose). [-Co-]{+A di+}m{+inuiçã+}o [-a -]{+mé+}d[-rog-]{+i+}a [-bloqu-]{+d+}e[-ia-] [-t-]{+2 +}a{+ 6+}m[-bé-]m{+Hg+} {+n+}a {+p+}re[-ab-]s[-orç-]{+s+}ão [-de -]s[-ód-]i[-o, e-]{+stó+}l{+ic+}a [-apr-]e{+m 24 +}se{+ma+}n[-t-]a{+s+} [-efeit-]o[- diuréti-]co[- e nat-]r[-iu-]r[-ético qu-]e [-contribui -]p[-a-]{+o+}r[-a-] [-r-]{+m+}e[-dução dos -]{+ca+}n[-íve-]is[- pressóric-]{+m+}o[-s:-] [-dim-]{+a+}in[-uição -]d[-e 2 -]a [-6mmHg de press-]{+n+}ão [-sis-]t[-ólic-]{+ot+}a[- e-]{+l+}m[- 24 s-]e[-ma-]n{+te elucid+}a[-s-]{+do+}.
+
+d) Efeitos adversos
+A{+s+} d{+rog+}a[-p-]{+s dest+}a[-glif-]{+ c+}l[-ozin-]a{+sse+} não provoca{+m+} hipoglicemia se usada isoladamente. Seu uso se associa a aumento do risco de infec{+-+}ções ge[---]nitais (candidíase), especialmente no sexo feminino (3 vezes mais comum em comparação com placebo), mas a maio{+-+}ria dos casos é de pequena gravidade e responde a tratamento tópico padrão. Embora seja comum a ocorrência de infecção urinária em usuários da droga, o risco não parece diferir do observado com uso de placebo, e a maioria dos episódios é leve (cistite). Pode haver, ainda, discreta piora da TFG nas primeiras semanas de uso. Devido a seu efeito diurético, pode haver depleção e hipotensão postural (especialmente em pacientes tratados com outros diuréticos), e hipercalemia. Nos Estados Unidos, {+a dapagliflozina ainda +}não foi aprovada pelo Food and Drug Administration devido a uma preocupação com risco au{+-+}mentado de câncer de bexiga e de mama em estudos pré-clínicos, que não foi considerada importante pela Anvisa. {+Recente-mente, foram publicados relatos de casos de cetoacidose diabética euglicêmica (com glicemia abaixo de 250mg/dL) em paci-entes com DM2 e DM1 tratados com inibidores de SGLT2.+}
+
+e) Contraindicações
+[-A-]{+Os+} [-dapaglifloz-]in[-a-]{+ibidores+} [-é-]{+de SGLT2 são+} contraindicad[-a-]{+os+} na insuficiência renal grave (TFG <30mL/min, se estimada usando a equação MDRD, ou <45mL/min, se estimada usando a equação de Cockroft-Gault), [-p-]{+devid+}o{+ à p+}r{+ovável+} ineficácia{+ hipoglicemiante dessas drogas nessa situação+}. Também [-é-]{+são+} contraindicada{+s+} no diabetes tipo 1, na gestação e a pacientes pediátricos, por falta de estudos nessas populações.
+
+H - Associações
+A associação de medicamentos com diferentes mecanismos de ação (por exemplo: um secretagogo de insulina + um sen-sibilizador da insulina) geralmente atinge efeito aditivo na redução da glicemia e da A1c. Além disso, poucos conseguem per-manecer bem controlados, do ponto de vista glicêmico, usando apenas 1 medicação, em razão da própria história natural do DM2, que cursa com resistência a insulina duradoura desde o início do quadro (muitas vezes, iniciando-se décadas antes do diagnóstico do diabetes) e deficiência de secreção de insulina progressiva com os anos. Por essa razão, associar diferentes medicamentos (com diferentes mecanismos de ação) em diferentes fases do DM2 (quando mais de 1 defeito do metabolismo glicídico está presente) é uma estratégia interessante para um bom controle durante todo o acompanhamento.
+@@ -368,34 +376,43 @@ As associa
+Eventualmente, entre pacientes de controle mais difícil, podem ser necessárias 3 ou mais drogas diferentes para atingir as metas de tratamento (sulfonilureia + metformina + glitazona, ou metformina + sulfonilureia + inibidor de DPP-IV). Entretanto, quando mais de 2 drogas passam a ser necessárias, é interessante considerar a adição de insulina como 3º ou 4º agente, tendo em vista boa eficácia, baixo custo e boa tolerabilidade. Muitos autores sugerem que, se for necessário adicionar uma 3ª medicação para o controle do diabetes, provavelmente será melhor adicionar a insulina, em comparação com um 3º agente hipoglicemiante oral. Nesse caso, deve-se optar por uma insulina de ação basal, geralmente NPH antes de deitar, com o obje-tivo de reduzir a glicemia de jejum.
+
+Tabela 13 - Comparação da potência hipoglicemiante de diferentes abordagens terapêuticas
+Terapias	Reduções [--]potenciais da A1c
+MEVs	1 a 2%
+Monoterapia (nateglinida ou acarbose)	0,5 a 1%
+Monoterapia (demais drogas)	1 a 2%
+Associação de drogas orais	2 a 3,5%
+Insulina com ou sem drogas orais	Ampla
+
+{+Pergunta+}
+{+1. A respeito dos antidiabéticos orais, assinale a alternativa correta:+}
+{+a) as sulfonilureias são compostos secretagogos de insulina, com forte potencial para hipoglicemia, mas neutras com rela-ção ao ganho de peso+}
+{+b) as glinidas, como a repaglinida, têm como ação primária a sensibilização das células hepáticas e musculares à ação da insulina, além de diminuir o pré-condicionamento isquêmico cardíaco+}
+{+c) as tiazolidinedionas, como a pioglitazona, podem piorar quadros de insuficiência cardíaca; devido a seu potencial de retenção de líquido, podem diminuir a velocidade de perda de células betapancreáticas+}
+{+d) os inibidores da dipeptidil peptidase IV diminuem o tempo de ação do GLP1 na circulação, desta forma não predispondo à hipoglicemia+}
+{+e) a metformina tem baixo potencial para hipoglicemia, mas tende a fazer retenção de líquidos e ganho de peso+}
+{+Resposta no final do capítulo+}
+{++}
+6. Diretrizes para o tratamento farmacológico do diabetes melli{+-+}tus tipo 2
+{++}
+{+Tratamento+}
+{+O paciente com DM tipo 2 sempre receberá um fármaco antidiabético com base em seu quadro clínico e nível glicêmico. +}
+
+O DM2 é uma doença evolutiva e resulta de 2 defeitos básicos: resistência a insulina e deficiência de secreção desta. As-sim, seu tratamento tem de ser dinâmico e adaptado à fase da doença. 
+MEVs devem ser orientadas e reforçadas em todas as consultas, em qualquer fase do DM2, entretanto o paciente com di-abetes não deve ser tratado apenas com essa medida, estando sempre indicado o uso de pelo menos 1 droga antidiabética, desde o diagnóstico da doença, mesmo que o controle glicêmico não esteja ruim.
+O algoritmo do tratamento do DM2, publicado pela SBD em 2014, orienta a escolha da droga inicial para controle do dia-betes, de acordo com o nível glicêmico e o quadro clínico do paciente.
+De maneira geral, uma regra interessante é basear a escolha da droga na apresentação clínico-laboratorial do paciente. A SBD sugere a classificação do paciente com diabetes tipo 2 em “fases”, ou “etapas” da progressão da doença (Figura 3). A Etapa 1 seria o período inicial do DM2, quando há hiperglicemia discreta, obesidade e predomínio da resistência a insulina – nessa fase, drogas que não aumentam a secreção de insulina e não provocam ganho de peso seriam a melhor indicação (met-formina, inibidores da DPP-IV). Na Etapa 2, já há diminuição da secreção endógena de insulina e níveis mais elevados de glico-se – nessa fase, a indicação de um secretagogo (sulfonilureia ou glinida) seria interessante, em associação à metformina já em uso. Na Etapa 3, geralmente após 10 anos ou mais do diagnóstico do DM, a capacidade de secreção de insulina já está muito comprometida, e o paciente não consegue mais manter bom controle apenas com drogas orais – é quando surge a indicação para iniciar insulina (NPH noturna: bedtime) associada aos antidiabéticos orais. Finalmente, na Etapa 4, o paciente apresenta franca deficiência de insulina, necessitando de reposição de insulina exógena em esquemas mais intensificados (basal-bolus), de maneira semelhante ao que acontece no DM1.
+
+Tabela 14 - Escolha do tratamento inicial do [-DM-]{+diabetes mellitus tipo +}2 
+Etapa 1 - Conduta inicial conforme a condição clínica atual
+Manifestações leves + A1c <7,5%	Manifestações moderadas + A1c entre 7,5 e 9%	Manifestações severas + A1C >9% ?	Hospitalização se glicemia >300mg/dL
+?	?	?	?
+Glicemia <200mg/dL + sinto{+-+}mas leves ou ausentes + au{+-+}sência de outras doenças agudas concomi[---]tantes	Glicemia entre 200 e 299mg/dL + ausência de crité-rios para manifestação grave[--]	Glicemia >300mg/dL ou perda de peso importante ou sinto-mas graves e significativos	Cetoacidose diabética e estado hiperosmolar ou doença grave intercorrente ou comorbidade
+MEVs +	?
+Metformina em monoterapia	Metformina em terapia com-binada com um 2º agente antidiabético	Insulinoterapia parcial ou inten[---]siva, conforme o caso	Após a alta: início da terapia ambulatorial conforme essas recomendações
+Fonte: [-A-]{+a+}lgoritmo da SBD, 2014.	[- -]
+
+ 
+Figura 3 - Escolha do antidiabético no [-DM-]{+diabetes mellitus tipo +}2 de acordo com a etapa da doença (S{+ociedade +}B{+rasileira de +}D{+iabetes+}, 2014)
+
+A - Escolha da 1ª medicação
+Na grande maioria (pelo menos, nos primeiros anos de DM), o predomínio é de resistência a insulina, evidenciada por obesidade androide, hipertensão arterial e dislipidemia. Pelo seu bom perfil de eficácia (redução da resistência a insulina, redução do peso), segurança (risco nulo de hipoglicemia) e baixo custo, a metformina (na dose de 1.500 a 2.000mg/d) é a medicação de escolha para uso como 1ª opção à maioria dos pacientes com DM2. 
+@@ -441,7 +458,7 @@ A recomenda
+a) Usar um 3º agente oral, com mecanismo de ação diferente, durante 2 ou 3 meses; se não for obtido controle adequa-do, iniciar insulinoterapia.
+b) Iniciar ou intensificar insulinoterapia. 
+
+Tabela 16 - Tratamento inicial do [-DM-]{+diabetes mellitus tipo +}2 (S{+ociedade +}B{+rasileira de +}D{+iabetes+}, 2014)
+Etapa 1 - Conduta inicial conforme a situação clínica atual
+Manifestações leves	Manifestações moderadas	Manifestações severas	Descompensações severas ou 
+intercorrências
+@@ -450,9 +467,9 @@ Glicemia <200mg/dL + sintomas leves ou ausentes + aus
+Qualquer glicemia entre 200 e 300mg/dL + ausên-cia de critérios para manifestação severa	A1c >9% +
+Qualquer glicemia >300mg/dL, ou perda de peso importante, ou sinto-mas graves e significativos	Cetoacidose diabética ou estado hiperosmolar ou doença grave intercorrente ou comorbidade grave
+MEVs +
+Metformina (500 a 2.000mg/dL); se não atingir A1c <7% em 4 a 6 semanas, associ-ação de 2ª droga	Metformina (500 a 2.000mg/d) + 2ª droga antidiabética	Início imediato de insulinoterapia	Início de terapia conforme o algoritmo e o con{+-+}trole glicêmico após a alta 
+Etapa 2 - Adicionar ou modificar o 2º agente conforme o nível da A1c
+Opções terapêuticas podem ser consideradas: sulfonilureias, glinidas, pioglitazona, inibidores da DPP-IV, agonistas de GLP-1 ou inibido[---]res de SGLT2.
+Etapa 3 - Adicionar um 3º agente ou intensificar o tratamento insulínico
+Sem uso de insulina	Já em uso de insulina
+Adicionar um 3º antidiabético oral com diferente mecanismo de ação. Se em 1 mês não atingir as metas de A1c <7%, glicemia de jejum <100mg/dL ou pós-prandial <160mg/dL, iniciar insulinização (basal).	
+@@ -466,7 +483,7 @@ A - Caracter
+a) Modo de ação
+A ligação da insulina aos seus receptores, nos diversos tecidos-alvo, tem efeito estimulador do anabolismo e inibidor do catabolismo (Tabela 17).
+
+Tabela 17 - Efeitos biológicos {+da insulina+}
+Efeitos anabólicos
+- Estímulo à captação de glicose pelos tecidos (fígado, musculoesquelético, tecido adiposo) pela maior expressão do transportador de membrana da glicose (GLUT4);
+- Estímulo à síntese de glicogênio (glicogênese) no fígado e no musculoesquelético;
+@@ -494,7 +511,7 @@ Insulina su
+Insulinas humanas
+Correspondem a moléculas de insulina idênticas à endógena humana (51 aminoácidos, em 2 cadeias peptídicas – A e B – unidas por 2 pontes dissulfeto). A insulina humana pura, cristalina, é conhecida como regular. Outra insulina humana é a NPH (Neutral Protamine Hagedorn), que recebeu a adição de zinco e de algumas proteínas para retardar a sua absorção e prolongar a sua ação farmacológica.
+Análogos de insulina
+Correspondem a moléculas que sofreram alguma modificação na sua composição básica (pela troca ou adição/retirada de alguns aminoácidos), a fim de obter perfis diferenciados de tempo de ação. Incluem as insulinas lispro, asparte, glulisina, detemir[- e-]{+,+} glargina{+ e degludeca+}.
+
+Tabela 19 - Características principais das insulinas basais e de bolus
+Características	Insulina basal	Insulina de bolus
+@@ -503,29 +520,35 @@ Dura
+Picos de ação	Pouco pronunciado	Pronunciado
+Ajustes de dose	De acordo com a glicemia pré-prandial	De acordo com a glicemia pós-prandial
+Tipos	- Intermediária: NPH;
+- Prolongadas: glargina[- e-]{+,+} detemir{+, degludeca+}.	- Rápida: regular;
+- Ultrarrápidas: lispro, asparte e glulisina[-.-]{+;+}
+{+-+} {+Inalável.+}
+
+Uma classificação mais detalhada das insulinas quanto ao seu início e à duração de ação pode ser vista na Tabela 20 e na Figura 5.
+
+Tabela 20 - Comparação entre o perfil de ação das diferentes preparações de insulina
+Classificações	Tipos de ação	Preparações de insulina	Início da ação (h)	Picos de ação (h)	Durações de ação (h)
+Rápidas ou prandi[---]ais	Ultrarrápida	{+Inalável*	<0,25	0,5 a 1	2 a 3+}
+{+	Ultrarrápida	+}Asparte, lispro e glulisina	<0,25	0,5 a 1,5	[-4-]{+3+} a [-6-]{+5+}
+	Rápida	Regular	0,5 a 1	2 a 3	5 a 8[--]
+Basais	Intermediária	NPH	2 a 4	4 a 10	10 a 18[--]
+	Prolongada	Detemir	2 a 4	6 a 8	18 a 22[--]
+	[-Prolongada-]	Glargina	2 a 4	Sem pico	20 a 24
+{+		Degludeca	1 a 3	Sem pico	40 a 42+}
+{+* Ainda indisponível no mercado brasileiro.+}
+
+ 
+Figura 5 - Tempo de ação das insulinas 
+
+c) Características específicas de alguns tipos 
+A insulina de ação rápida (regular) deve ser aplicada de 30 a 45 minutos antes das refeições. Já os análogos de insulina de ação ultrarrápida (asparte, lispro, glulisina) podem ser aplicados 15 minutos antes, durante ou até 15 a 20 minutos após a refeição{+, assim como a ultrarrápida inalável (ainda não disponível no Brasil)+}. {+A insulina inalável é contraindicada a pacientes com doença pulmonar obstrutiva crônica (asma ou DPOC grave), pois aumenta o risco de broncoespasmo.+}
+A NPH pode ser misturada, na mesma seringa, com insulinas de ação rápida ou ultrarrápida, para facilitar a sua aplicação. Inclusive, existem apresentações comerciais com diferentes proporções de insulina intermediária (do tipo NPH) com insulinas rápidas e ultrarrápidas, na forma de frascos ou refis (as chamadas “pré-misturas”). 
+A glargina e a detemir não podem ser misturadas com outros tipos de insulina no mesmo refil ou seringa, pois isso deter-minará mudanças no perfil da sua absorção no tecido subcutâneo. Além disso, associam-se a risco menor de hipoglicemias noturnas em comparação com a NPH, com o mesmo grau de controle glicêmico.
+A detemir costuma provocar ganho de peso menor em comparação a doses similares da glargina, mas geralmente há a ne-cessidade de dose maior de detemir para obter o mesmo controle glicêmico. É possível que alguns indivíduos fiquem contro-lados com apenas 1 injeção diária de detemir, enquanto outros exigem 2 aplicações para adequada cobertura basal. Em geral, quanto maior a dose de detemir, maior parece ser a duração da sua ação (que pode variar de 12 a 24 horas em diferentes indivíduos e com diferentes dosagens).
+{+A degludeca é o análogo de ação mais prolongada atualmente disponível. Deve ser aplicada 1 vez por dia para uso como insulina basal. Suas vantagens são risco diminuído de hipoglicemias noturnas (em comparação com outras insulinas basais) e a maior flexibilidade no horário de administração, pois, devido à sua longa meia-vida, o paciente pode fazer a aplicação da de-gludeca em horário diferente do horário habitual, desde que haja um intervalo de ao menos 8 horas entre 2 aplicações su-cessivas, sem prejuízo ao seu controle glicêmico.+}
+
+B - Prescrição
+{++}
+a) Doses no DM2 
+Para recém-diagnosticados com DM2 e com péssimo controle, exigindo insulinoterapia plena já no início do tratamento, a dose inicial de insulina recomendada é de 0,3 a 0,6UI/kg/d. Entretanto, geralmente a dose final de insulina necessária para bom controle glicêmico costuma ficar na faixa de 0,5 a 1,5UI/kg/d (em alguns casos, até 2UI/kg/d). A dose média (em unidades por quilo de peso) costuma ser significativamente maior entre aqueles com DM2 do que entre aqueles com DM1, pela impor-tância da resistência a insulina no 1º grupo. Considera-se resistência severa quando o paciente necessita de mais que 2,5UI/kg/d, ou 200UI/d.
+
+@@ -547,7 +570,7 @@ No DM1, a dose inicial varia com a apresenta
+
+d) Esquemas de aplicação no DM1
+A terapia insulínica convencional consiste em 1 a 2 doses de NPH por dia, associada ou não à regular. Esse esquema, muito utilizado no passado, está sendo abandonado por não permitir, na maioria dos casos, controle glicêmico adequado. Além disso, a aplicação de NPH antes do jantar pode resultar em pico de ação dessa insulina entre as 2 e as 4 horas da manhã, com consequente hipoglicemia na madrugada. Em muitos pacientes, é necessária a aplicação da insulina de ação rápida antes do jantar e da de ação intermediária ou prolongada antes de dormir.
+O tratamento intensivo, em geral mais eficiente, consiste na administração subcutânea diária de 2 ou mais doses de insuli-na de ação intermediária ou de 1 a 2 doses de insulina prolongada – glargina[- ou-]{+,+} detemir {+ou degludeca +}(papel da insulina basal), associada a insulina rápida (regular) ou ultrarrápida (lispro, asparte[- ou-]{+,+} glulisina{+ ou inalável+}) antes das refeições (papel da insulina de bolus, ou pran[---]dial). Esse tratamento mais fisiológico obtém níveis de glicemia mais próximos do normal, com menor risco de hipoglicemia. Aproximadamente metade a 2/3 da dose diária total é usada como insulina basal (em 1 a 2 injeções/dia), e o restante 1/3 a metade da dose diária total, como insulina de bolus para a cobertura das excursões glicêmicas pós-prandiais (Figura 7).
+
+ 
+Figura 7 - Níveis de insulina plasmática durante as 24 horas do dia: (A) paciente não diabético, com secreção endógena normal de insu-lina, e (B) paciente diabético em insulinoterapia basal-bolus, com glargina (basal) e lispro (bolus)
+@@ -575,6 +598,7 @@ Por exemplo: um paciente que aplica NPH + regular no caf
+As misturas podem ser feitas:
+No momento da aplicação, pelo próprio paciente, aspirando as 2 diferentes preparações insulínicas, nas doses prescritas, em uma mesma seringa, para aplicar ambas em única injeção subcutânea;
+Pelo fabricante, disponibilizando frascos com pré-misturas, ou seja, 2 insulinas diferentes (geralmente, NPH + insulina rá-pida ou ultrarrápida) em proporções fixas. Estão disponíveis, no mercado, pré-misturas contendo 10, 15, 20, 25, 30 e 50% de insulina rápida ou ultrarrápida.
+{++}
+ 
+Figura 8 - Horário de ação das insulinas administradas na forma de misturas, no café da manhã e no jantar 
+
+@@ -598,96 +622,88 @@ O diagn
+Estudos mais recentes, usando aparelhos de monitorização contínua de glicose capilar, sugerem que o efeito Somogyi, na verdade, não ocorre (pelo menos, não em adultos).
+
+Tabela 22 - Exemplos de fenômeno do alvorecer e efeito Somogyi
+	Fenômeno do [--]alvorecer	Efeito Somogyi
+Glicemia às 22 horas	110	110
+Glicemia às 3 horas	110	40
+Glicemia às 8 horas	180[--]{+	+}200
+Conduta	Aumento da insulina basal notur[---]na	Diminuição da insulina basal noturna
+
+9. Controle das comorbidades
+
+A - Hipertensão arterial sistêmica 
+Hipertensão arterial é muito comum entre diabéticos tipo 2 (presente em 40% já no diagnóstico do DM), enquanto nos di-abéticos tipo 1 tipicamente se associa à presença de nefropatia.
+O tratamento rigoroso da hipertensão arterial sistêmica, independente do tipo de droga, retarda a progressão da lesão de órgãos-alvo. Os níveis de pressão arterial atingidos são mais importantes, para a prevenção de comorbidades, do que o tipo de droga utilizada para o seu controle.
+A Pressão Arterial (PA) sempre deve ser avaliada em 3 posições (deitado, sentado e em pé), para detectar possível varia-ção pressórica associada a neuropatia autonômica. Quando houver valor pressórico elevado[- (considerando-se elevada PA >140x80mmHg em diabéticos)-], este deverá ser confirmado em pelo menos 2 ocasiões, em dias diferentes. {++}
+O limiar para diag[---]nóstico e tratamento da hipertensão em diabéticos[-, proposto pela ADA,-] foi alterado recentemente: era 130x80mmHg e pas-sou a ser 140x80mmHg[-,-] {+(+}p[-o-]{+ara a SBD) e 140x90mmHg (para a ADA e também para a Amer+}i[-s-]{+can+} {+H+}e{+art A+}s{+socia+}t[-ud-]{+i+}o{+n). E+}s{+sa modifi-cação no valor+} {+p+}re{+ssórico para diagnósti+}c{+o e tratam+}ent{+o da hip+}e{+rtensão arterial foi devida à publicação de estudo+}s [-(-]como o ACCORD[-)-]{+, que+} falharam em demonstrar benefícios clínicos (maior preven[---]ção de eventos cardiovasculares ou renais) com o controle mais rigoroso da PA sistólica (<120mmHg) em comparação com uma faixa mais alta (entre 130 e 135mmHg). Além disso, o tratamento da hipertensão visando a um controle mais rigoroso da pressão arterial sistólica se associou à necessidade de mais drogas anti-hipertensivas e a risco significativamente mais alto de efeitos adversos do tratamento (síncope, hiperca{+-+}lemia, hipotensão).[--]
+[-Além-] [-das-]{+No+} [-m-]e[-did-]{+nt+}a[-s-]{+nto,+} [-a-]{+pode-+}s{+e bu+}s[-o-]c[-i-]a[-das-]{+r+} {+um+}a[-os-] [-hábi-]{+me+}t[-os-]{+a+} de [-vida,-]{+PA+} [-o-]{+mais+} [-tr-]{+b+}a[-t-]{+ix+}a[-mento-] {+(<130x80+}m{+mHg) +}e[-di-]{+m +}ca[-mento-]so[- deve-]{+s+} se[-r ini-]{+le+}ci{+on+}ado{+s,+} {+es+}p[-r-]ec[-oce-]{+i-al+}mente em [-di-]{+p+}a[--béti-]c[-os, p-]{+i+}e[-lo al-]{+n+}t[-o ri-]{+e+}s[-co-] [-c-]{+m+}a[-rd-]i[-ova-]s[-cular.-] [-P-]{+j+}o[-rta-]{+ve+}n[-to-]{+s+}, [-o-]{+desde+} {+q+}u[-so-]{+e+} [-d-]e{+sses+} {+v+}a[-nti-hip-]{+lor+}e{+s p+}r[-t-]e[-n-]s{+sór+}i[-v-]{+c+}os [-e-]s[-tá-]{+ejam+} {+obt+}i[-ndica-]do{+s+} [-a-]{+sem+} {+mui+}to[-d-]{+s efeit+}os {+advers+}os d[-i-]{+o tr+}a[-bé-]t[-ic-]{+a-ment+}o[-s-] {+anti-+}hipertens{+iv+}o[-s-].
+As drogas de 1ª escolha para tratamento da hipertensão de diabéticos são aquelas que agem no eixo renina–angiotensina: Inibidores da Enzima Conversora de Angiotensina (IECAs) ou Bloqueadores do Receptor da Angiotensina (BRAs). Os IECAs têm boa tolerabilidade, além de retardar a evolução da [-nefr-]{+d+}o[-p-]{+enç+}a[-ti-]{+ ren+}a{+l do+} diab[-é-]{+e+}t[-ica-]{+es+}. Portanto, estão indicados {+p+}a[- di-]{+r+}a[-béticos-] hipertensos e {+também para di+}a{+béticos+} normotensos com {+au+}m[-i-]{+ento da ex+}cr{+eçã+}o[-alb-]{+ +}u[-m-]{+r+}in[-ú-]{+á+}ria [-ou prot-]{+d+}e{+ album+}in[-úri-]a. Outras vantagens da classe incluem a ausência de efeitos adversos lipídicos, o efeito protetor contr[-a eventos cardiovasculares em diabéticos de alto risco e o potencial de prevenir o apareci-m-]{+a ev+}ento{+s+} [-de -]{+car+}di{+ov+}a[-bet-]{+scular+}es em [-pac-]{+d+}i[-en-]{+abé+}t[-e-]{+ico+}s de {+alto +}risco, [-p-]{+e +}o[-r-] au{+-+}mento da sensibilidade [-a-]{+à+} insulina. Não devem ser utilizados em gestantes, indivíduos com estenose bilateral de artérias renais ou {+hipercalemia, e devem ser evitados ou usados com muita cautela nos pacientes com doença renal crônica grave (+}creatini{+-+}na >3mg/dL{+)+}.
+Os BRAs são bem tolerados e previnem a progressão da [-nefr-]{+d+}o[-p-]{+enç+}a[-ti-]{+ ren+}a{+l do+} diab[-é-]{+e+}t[-ica-]{+es+}, sendo boa opção [-à-]{+para os +}que[-l-]{+ apr+}es[- co-]{+en-tara+}m intolerância aos IECAs (tosse ou [-reações -]a[-lér-]{+n+}gi[-c-]{+oedem+}a[-s-]). Além disso, há evidências de que os BRAs, assim como os IECAs, prote{+-+}gem contra even[---]tos cardiovasculares diabéticos de alto risco. Não se deve associar IECA + BRA, pelo risco aumentado de efeitos adversos (insuficiência renal e hipercalemia).
+Os diuréticos são, classicamente, a 2ª opção. O uso de tiazídicos associa-se à diminuição de eventos cardiovasculares. Em doses baixas (12,5 a 25mg/d de hidroclorotiazida ou clortalidona), produzem aumento discreto da glicemia, sem importância clínica, mas se deve evitá-los em doses maiores do que estas. A indapamida parece interferir menos na glicemia. [-A-]{+N+}os pacien-tes com insuficiência renal (TFG <30mL/min/1,73m2[-, ou creatinina >2,5mg/dL-]) ou ICC, devem-se preferir os diuréticos de alça (furosemida). 
+Os bloqueadores dos canais de cálcio também são boa opção terapêutica, capazes de reduzir a incidência de infarto do miocárdio e morte cardiovascular e retardar a progressão da doença renal. Entretanto, aumentam o risco de internações por ICC e devem ser usados com cautela em associação a betabloqueadores, pelo risco de bloqueio atrioventricular. As últimas diretrizes da SBD sugerem vantagens da associação de IECA ou BRA a bloqueadores dos canais de cálcio, que justificam a ado-ção dessa combinação como 1ª escolha no diabético. Essa orientação se baseia principalmente nos resultados do estudo AC-COMPLISH, que comparou a associação de IECA + tiazídico com a combinação de IECA + anlodipino e encontrou redução significativa do risco de eventos cardiovasculares graves e doença renal no 2º grupo, tanto em diabéticos como em não dia-béticos. Portanto, anlodipino seria a melhor opção de 2ª droga, em associação a IECA ou BRA (1ª opção).
+O uso de betabloqueadores é eficaz na prevenção secundária de infarto agudo do miocárdio, arritmias e na regressão de hipertrofia ventricular. Apesar da piora do controle glicêmico, induzida pela droga, o atenolol reduziu o risco de doença ma-crovascular e microvascular entre diabéticos de risco leve a moderado, em que foi equivalente ao captopril. Lembrar que essa classe de droga pode mascarar e prolongar a hipoglicemia. 
+A maioria dos diabéticos requer 3 ou mais medicações para o adequado controle da pressão arterial. Em pacientes refra-tários a múltiplas medicações, deve-se considerar a pesquisa de causas de hipertensão secundária.
+O resumo das recomendações da ADA para o tratamento da hipertensão em diabéticos está apresentado na Tabela 23.
+
+Tabela 23 - Recomendações para manejo da hipertensão arterial em diabéticos (A{+merican +}D{+iabetes +}A{+ssociation+}, 201[-4-]{+5+})
+Diagnóstico 
+- Avaliar a pressão arterial em todas as consultas;
+- Diagnosticar hipertensão se há 2 medidas de PA =140x[-8-]{+9+}0mmHg.
+Tratamento não farmacológico
+Restrição de sódio (dieta DASH) e álcool, perda de peso, cessação do tabagismo e atividade física a todos os pacientes
+Tratamento farmacológico
+- Iniciar medicação anti-hipertensiva, com MEVs, [-a-]{+em+} todos os diabéticos com PA =140x[-8-]{+9+}0mmHg;
+- Pelo menos [-1-]{+uma+} das medicações anti-hipertensivas deve ser oferecida ao deitar, para redução da pressão arterial noturna.
+Escolha das drogas
+- 1ª opção: iniciar IECA ou BRA;
+- 2ª opção: associar bloqueador dos canais de cálcio (anlodipino) ou diurético: tiazídico (em baixas doses), ou furosemida em caso de insuficiência renal ou cardíaca;
+- 3ª opção: associar betabloqueadores.
+Objetivo do tratamento
+PA <140x[-8-]{+9+}0mmHg
+
+B - Dislipidemias
+[-E-]{+A+}s[-t-]{+ dislipidemi+}as devem ser pesquisadas [-ativamente -]e tratadas agressivamente em diabéticos, dado o seu alto risco de eventos ate[---]ros{+-+}cleróticos. O perfil lipídico deve ser avaliado pelo menos anualmente[-.-]{+,+} [-A-]{+e+} [-manu-]t[-ençã-]o[- -]d[-e-]{+os+} [-nívei-]{+o+}s [-gl-]{+d+}i[-cêm-]{+abét+}icos [-a-]de[-quados -]{+ve+}m{+ receb+}e[--lho-]r[-a-] o[- pe-]r[-f-]i[-l-]{+entações+} [-li-]p[-ídico,-]{+ara+} [-enqu-]{+m+}ant[-o-]{+er+} {+há+}b[-e-]{+i+}t[-abl-]o[-queadore-]s {+d+}e [-t-]{+v+}i{+d+}a[-zí-]{+ sau+}d{+áve+}i[-co-]s{+,+} [-em alta-]{+vi+}s[- -]{+an+}do[-ses-]{+ à+} p{+revençã+}o{+ +}de[-m-] [-pi-]{+event+}o{+s ca+}r{+diovascul+}ar[- -]es{+. +}
+{+O u+}s{+o d+}e [-p-]e[-rf-]{+stat+}i[-l. A-]{+na+}s [-m-]e[-ta-]s{+tá bem+} [-l-]i[-pí-]{+n+}dica[-s-]{+do+} [-em-]{+aos+} diabéticos[-,-] [-re-]com[-endad-]{+ +}a{+lto ri+}s{+co+} [-p-]{+d+}e[-la-] [-ADA, podem s-]e[-r -]v[-is-]{+en+}t[-a-]{+o+}s [-n-]{+c+}a[- T-]{+rdiov+}a[-be-]{+scu+}la[- 24-]{+res+}.[--]
+[--]
+[-Tab-]{+ A int+}e[-l-]{+nsid+}a{+de+} [-24-]{+do+} {+trata+}-{+mento com+} [-M-]e{+sta+}t{+in+}as [-li-]{+de+}p[-í-]{+en+}d{+e da classif+}ica{+ção de ri+}s{+co+} [-p-]{+c+}ar{+diovascul+}a{+r+} {+d+}o paciente{+.+} [-diabético (A-]D[-A, 2014)-]
+[-Parâm-]e[-tros	M-]{+fin+}e[-ta-]{+-+}s[--]
+[-Col-]e{+ do+}s[-t-]e[-rol LDL	--] [-<100-]{+“+}m[-g/-]{+o+}d[-L;-]
+[-	- S-]e{+rada”+} d[-o-]e[-nça-] [-at-]e[-ro-]s[-cleró-]{+ta+}ti[-c-]{+n+}a c{+omo aque+}l[-ínic-]a {+ca+}p[-révi-]a[-:-]{+z+} [-<70mg/-]d[-L.-]
+[-C-]{+e reduzir o c+}olesterol [-H-]{+L+}DL[-	--] [->40mg/dL (homens);-]
+[-	- >50mg/dL (mulheres).-]
+[-Triglicérides	<150mg/-]d[-L-]
+[-Observação: se não for p-]o[-ssível atingir as metas-] p[-ropost-]a[-s des-]c[-r-]i[-tas, t-]ent[-ar reduzir -]e[-m-] [-p-]e[-lo -]m[-enos-] 30 a [-4-]{+5+}0% [-o colesterol LDL -]em relação ao basal[-.-]
+[--]
+[-Entre-]{+;+} {+p+}a[-queles com triglicé-]r{+a +}i[-de-]s[- >400mg/dL-]{+so+}, pode{+m+}-se usar{+:+} [-o cole-]{+sin-va+}st[-erol -]{+ati+}n[-ão-]{+a+} [-HDL-]{+20+} [-como-]{+a+} {+40+}m[-edi-]{+g/+}d[-a substituta do colesterol LDL, visto que este não pode ser calculado pela fórmula de Friedwald. Pacientes com dislipidemia mista (aumento tanto do LDL quanto dos triglicérides), em geral, devem ser tratados, em 1º lugar, do aumento do LDL (mais aterogênico). A ADA recomen-da que a ordem de prioridades para tratamento da dislipidemia diabética seja a apresentada na Figura 9.-]
+[--]
+[- -]
+[-Figura 9 - Ordem das prioridades no tratamento da dislipidemia diabética-]
+[--]
+[-MEVs (redução do consumo de gorduras saturadas, gorduras trans e colesterol; perda de peso e atividade física) devem ser recomendadas a todos os diabéticos com dislipidemia. O tratamento não farmacológico pode levar a grande redução dos triglicérides, elevação modesta do HDL e redução de 15 a 25mg/dL no LDL. O tratamento medicamentoso, por sua vez, deve ser iniciado mais precocemente em diabéticos que em não diabéticos. -]
+[-Estatinas (sinvastatina, atorvastatina ou rosuvastatina) são os agentes de 1ª escolha na maioria das situações, visto que o LDL (ou o colesterol não HDL) é o objetivo primário da terapia. Devem-se prescrever as estatinas em dose suficiente para reduzir o LDL até as metas. Caso não seja possível a obtenção dos níveis de LDL propostos, pode-se associar ezetimiba (redu-ção adicional do LDL de 15 a 20%, associado a estatina) ou resinas de troca, ou ainda usar como objetivo substituto redução de 30 a 40% do LDL. Vários estudos já comprovaram a redução de eventos coronarianos e morte cardiovascular com o uso de estatinas em diabéticos, independentemente do nível inicial de LDL (exemplos: HPS, CARDS). -]
+[-De forma geral, as estatinas devem ser prescritas a todos os diabéticos em prevenção secundária (ou seja, portadores de doença aterosclerótica prévia), independentemente do nível de colesterol, e também aos diabéticos em prevenção primária, com alto risco cardiovascular ou que não atinjam o alvo terapêutico com a terapia não farmacológica. As indicações para iní-cio de estatinas-], [-de acordo com a SBD (2014) e -]a[- ADA (2014), es-]t[-ão exp-]o[-stas na Tabela 25.-]
+[--]
+[-Tabela 25 - Indicações pa-]r{+v+}a[- e-]statina[-s a diabéticos-]
+[-	ADA,-] [-20-]1[-4	SBD, 2-]0[-14-]
+[-Prevenção-] [-secundári-]a[-	Pacientes-] [-co-]{+20+}m[- -]{+g/+}d{+ +}o[-ença-]{+u+} [-ca-]r[-di-]o{+su+}vas[-cul-]{+t+}a[-r prév-]{+t+}i{+n+}a [-(independente-]{+5 a+} {+10mg/+}d[-o-]{+.+} [-nív-]{+Dos+}e{+ “a+}l{+ta”+} de [-LDL)	P-]{+est+}a[-c-]{+t+}i[-e-]n[-tes-]{+a,+} [-c-]{+por outr+}o[-m-] {+la+}do{+, é d+}e{+fi-+}n[-ç-]{+id+}a c[-ardi-]o[-v-]{+mo +}a[-sc-]{+q+}u{+e+}la[-r-] {+ca+}p[-révi-]a{+z+} [-(in-]de[-p-]{+ r+}e[-n-]d[-ente-]{+uzir+} [-d-]o [-nível de -]coles[---]terol[-)-]
+[-Prevenção-]{+ LDL+} p[-ri-]{+las+}má[-r-]{+t+}i[-a	- Pa-]c[-ient-]{+o +}e[-s-]{+m+} [->4-]{+5+}0{+%+} [-an-]o{+u mai+}s e{+m relação+} [-1-]{+ao basal; para+} {+iss+}o[-u-]{+,+} {+pode+}m[-a-]{+ ser ut+}i{+lizada+}s [-f-]ator[-e-]{+va+}s{+tatina+} {+40 a 80mg/+}d[-e-] [-risc-]o{+u+} [-ca-]r[-di-]o{+su+}vas[-cul-]{+t+}a[-r (-]{+t+}in{+a 20 a 40mg/+}d[-epe-]{+. As i+}nd{+icaçõ+}e[-nte-]{+s+} d[-o nív-]e[-l-] [-d-]e{+statinas+} [-LDL);	--]{+em+} [-P-]{+p+}acientes [->40 -]{+di+}a[-n-]{+bétic+}os{+,+} {+d+}e [-1 -]{+acord+}o[-u-] {+co+}m{+ +}a[-i-]s [-fa-]{+úl+}t[-ore-]{+ima+}s d{+ir+}e[- -]{+t+}ri{+ze+}s[-co-] c[-ardi-]o[-vasc-]{+nj+}u[-l-]{+nt+}a[-r-]{+s+} [-(indepen-d-]ent{+r+}e [-do-]{+a+} [-nível-]{+ADA+} [-d-]e [-LDL);-]
+[-	- P-]a[-ci-]{+ Am+}e{+rica+}n[-tes <40-] {+He+}a[-nos-]{+rt+} [-c-]{+Ass+}o[-m múlt-]{+c+}i[-plos f-]at{+i+}o[-res-]{+n (2015),+} {+po+}de{+m+} {+se+}r{+ v+}is[-co;	- P-]{+t+}a[-cie-]{+s +}n[-t-]{+a Tab+}e[-s-]{+la+} [-<-]{+2+}4[-0 -]{+.+}
+{++}
+{+Tabel+}a[-nos-] [-com-]{+24+} [-LDL-]{+-+} [->130mg/-]{+In+}d[-L, -]{+ic+}a[-p-]{+çõ+}es[-ar-] d[-o-]{+e+} [-tra-]{+es+}ta[-men-]t[-o -]{+i+}n[-ão-]{+as+} [-f-]{+p+}ar[-m-]a[--cológic-]{+ +}o[-;-]
+[-	--]{+s+} [-P-]{+p+}acientes {+diabéti+}co[-m LDL per-]s[-istentemente-] [->100mg-]{+(ADA+}/[-dL-]{+AHA+}, {+2015)+}
+{+Id+}a[-p-]{+d+}e[-s-]{+	F+}a[-r do -]t{+o+}r[-atam-]e[-nto-]{+s+} [-não-]{+de+} [-fa-]r[-macológ-]i{+s+}co[-.	--] [-Pa-]c{+ard+}i[-ente-]{+ova+}s[- -]c{+ular*	D+}o[-m-]{+se+} [-LDL-]{+de+} [-p-]e[-rsi-]st[-en-]{+a+}t{+ina r+}e{+co+}men[-te >100mg/-]d[-L, -]a[-pes-]{+d+}a[-r-]{++}
+{+Abaixo+} d[-o-]{+e 40+} [-trat-]a[-me-]n[-t-]o{+s	-+} {+Ne+}n[-ão-]{+hum;+}
+{+-+} [-f-]{+F+}a{+tores de +}r[-macológ-]i{+s+}co[-.-]
+[--]
+[-Em-] p[-aci-]{+res+}entes{+;+}
+{+-+} [-c-]{+D+}o[-m hip-]e[-rtrigli-]{+nça +}c[-e-]{+a+}r[-i-]d[-em-]i{+ov+}a[-,-]{+scular+} [-de-]{+pré+}v{+ia.	- N+}e{+nhu+}m{+a;+}
+-[-se-] {+M+}o[-ri-]{+d+}e[-nta-]r{+ada ou+} [-inici-]al[-men-]t[-e -]a[-s-]{+;+}
+{+-+} [-M-]{+Alta.+}
+E[-Vs -]{+ntr+}e [-a-]{+40+} [-obt-]e{+ 75 a+}n[-çã-]o{+s	-+} [-d-]{+N+}e[- bo-]{+nhu+}m{+;+}
+{+-+} [-con-]{+Fa+}t[-r-]o[-l-]{+r+}e[- glicêmico (o-]s [-triglicéri-]de{+ ri+}s{+co+} {+pr+}e[-levam--]se[- -]n[-a pr-]{+t+}es{+;+}
+{+- Do+}ença {+car+}d[-e h-]i{+ovascular +}p[-e-]r[-glicem-]{+év+}ia{+.	-+} {+Mod+}e{+rada;+}
+{+-+} [-cos-]{+Al+}t[-um-]a[-m reduzir-]{+;+}
+{+-+} {+Alta.+}
+{+A+}c[-ons-]i{+ma +}de[-r-]{+ 75 +}a[-velme-]n[-te-]{+os	-+} [-q-]{+Nenh+}u{+m;+}
+{+- F+}a[-nd-]{+t+}o[- -]{+r+}es[-ta-] [-é-]{+de+} [-co-]r[-rig-]i[-da). Algun-]s{+co+} [-hi-]p[-oglic-]{+res+}e[-mia-]ntes{+;+}
+{+-+} [-p-]{+D+}o[-d-]e[-m ajud-]{+nç+}a[-r-] {+c+}a[- -]r[-e-]d[-uz-]i[-r -]{+ovascul+}a{+r+} [-t-]{+p+}r{+év+}i[-glic-]{+a.	- Mod+}er[-i-]{+a+}d[-emi-]a[-:-]{+;+}
+{+-+} {+Mo+}de[- 10 -]{+rad+}a [-15% c-]o[-m-]{+u+} a{+lta;+}
+{+-+} [-me-]{+Al+}t{+a.+}
+{+* Os +}f{+at+}or[-mina -]e{+s+} de [-15 a 25% -]{+ris+}co[-m-] {+c+}a[-s t-]{+rd+}i[-az-]o[---]{+vascu+}l[-id-]{+ar +}in{+clu+}e[-di-]{+m c+}o[-na-]{+le+}s[-. En-]t[-r-]e[-tant-]{+r+}o{+l LDL >100mg/dL+}, [-qua-]{+hiperte+}n[-d-]{+sã+}o a[- t-]r[-iglic-]{+t+}eri[-demi-]a{+l,+} [-é mui-]t[-o -]a[-lt-]{+b+}a{+gismo+} [-(-]e[-sp-]{+ ob+}e[-c-]{+s+}i{+d+}a[-l-]{+de.+}
+{++}
+{+E+}m{+ paci+}ente[- -]s{+ com triglicérid+}e{+s+} >[-1.0-]{+5+}00mg/dL[-)-], {+po+}de[-ve--]{+ +}se{+r+} [-i-]n[-i-]{+e+}c[-iar a t-]e{+ssá+}r[-ap-]i[-a far-mac-]o[-lógica, em-] [-c-]o[-nj-]{+ +}u[-nt-]{+s+}o [-com-]{+de+} {+fibr+}a{+to+}s [-MEVs, -]para [-reduzir o-]{+a+} {+p+}r[-isc-]{+evençã+}o de pancreatite aguda[-.-]{+,+} [--]
+[-Se-]{+mas+} [-f-]{+nã+}o[-r-] [-nece-]s[-sária-]{+e+} [-a-]{+deve+} [-as-]{+e+}s[-o-]{+que+}c[-iação-]{+er que+} a {+hip+}e[-sta-]{+r+}t{+rigliceridem+}i[-n-]a[-s,-] {+po+}de[-ve--]{+ +}se[- p-]r{+ s+}e[-fe-]{+cundá+}ri{+a ao mau cont+}r{+ole+} {+glicêmic+}o{+,+} [-f-]en{+tã+}o{+ é +}f[-ibr-]{+und+}a{+men+}t[-o-]{+al+} [-(m-]a[-is-] [-s-]{+obt+}e[-gur-]{+nçã+}o[-)-] {+d+}e [-e-]{+ní+}v{+e+}i[-tar o-]{+s+} g[-enf-]{+l+}i[-broz-]{+cêm+}i[-la-]{+cos+} [-(-]a[-ssoci-]{+dequ+}ado{+s.+} [-à-]{+A+} m{+a+}io{+ria do+}s{+ pac+}i[-t-]e[- -]{+nt+}e{+s+} [-rabd-]{+c+}om{+ d+}i[-ó-]{+s+}li[-se -]{+pid+}em[- assoc-]ia[-ção).-] [-També-]m[- -]{+i+}s[-e-]{+ta+} [-reco-]{+(au+}men[-da-]{+to+} {+t+}a[- mo-]n[-i-]to[-rizaçã-]{+ d+}o [-c-]{+LDL q+}u[-id-]a{+nto +}dos[-a-] {+triglicéri+}d[-a-]{+e+}s{+) tem+} tr[-an-]{+iglicéride+}s{+ +}a[-min-]{+b+}a[-s-]{+ixo d+}e[-s-]{+ 500mg/dL+} e {+dev+}e[-nzimas-] [-mu-]s[--cular-]e[-s (CPK-]{+r+} t[-o-]{+ra+}ta{+da, em 1º +}l[-).-]{+ugar,+} [-N-]{+c+}o{+m+} e[-n-]{+s+}ta[-n-]t[-o, -]{+i+}n[-ão-]{+as+} [-há-]{+para a+} {+r+}e[-vi-]d[-ências-]{+ução+} d[-e-]{+o+} [-que-]{+LDL+} {+(m+}a{+is+} {+a+}ter[-ap-]{+ogên+}i[-a -]co[-mbinada-]{+). A+} [-(est-]a[-t-]{+ssoc+}i[-n-]a{+ção+} [-+-]{+de+} fibrato[-,-]{+s+} ou [-estatina + -]ácido nicotíni[---]co[-,-] [-ou-]{+a+} estatina{+,+} [-+ ezetim-]{+v+}i[-b-]{+s+}a[-) co-]n[-fira-]{+do+} [-alguma-]{+à+} [-p-]r[-ot-]e{+du+}ção [-cardiovascular -]adicional[-,-] [-em-]{+do+} {+ris+}co[-mp-]{+ c+}ar[-açã-]{+di+}o[- -]{+v+}a[-o u-]s[-o iso-]{+cu+}la[-do-]{+r,+} [-de-]{+é+} {+g+}e[-st-]{+r+}a{+lmen+}t{+e +}in{+efic+}a{+z+} e[-m-] [-altas-]{+não+} d[-os-]e{+ve +}s[-,-]{+er+} p[-o-]r[-tanto g-]e{+sc+}r[-almen-]{+i+}t[-e-]{+a+} [-nã-]{+com+}o[- é-] r[-ec-]o[-me-]{+ti+}n[-dad-]a.
+
+C - Antiagregação plaquetária
+O ácido acetilsalicílico, na dose de 75 a 162mg/d, é útil para prevenção de doença cardiovascular em alguns subgrupos de diabéticos. Seu benefício está bem estabelecido para os de prevenção secundária, mas há muitas controvérsias, atualmente, sobre seu emprego em diabéticos em prevenção primária de doença cardiovascular, pois seu uso, nessa população de menor risco cardiovascular, pode trazer mais riscos (hemorragia digestiva) do que benefícios, segundo alguns estudos recentes.
+O ácido acetilsalicílico não aumenta o risco de hemorragia retiniana ou vítrea em pacientes com retinopatia diabética, en-tretanto é contraindicado a menores de 21 anos, pelo risco de síndrome de Reye, e a pacientes com alergia à droga, tendên-cia a hemorragias, uso de anticoagulantes, hemorragia gastrintestinal recente e doença hepática em atividade. Além disso, não foi estudado entre aqueles com menos de 30 anos, razão pela qual a ADA não o recomenda a jovens.
+Entre aqueles com alergia ou intolerância (principalmente gástrica), podem-se usar outros antiagregantes plaquetários, sendo a 1ª opção o clopidogrel (75mg/d). O uso de formulações de ácido acetilsalicílico de liberação entérica não reduz o risco de hemorragia gastrintestinal. A associação a outros antiagregantes não parece produzir benefício adicional (exceto no 1º ano após a revascularização do miocárdio, quando a associação a clopidogrel está bem indicada). As indicações de antia-gregantes plaquetários em diabéticos estão expostas na Tabela 2[-6-]{+5+}.
+
+Tabela 2[-6-]{+5+} - Indicações de antiagregante plaquetário no [-DM-]{+diabetes mellitus+} (S{+ociedade +}B{+rasileira de +}D{+iabetes+}, 2014)
+Prevenção secundária	- Usar ácido acetilsalicílico em todos os pacientes com DM1 ou DM2 em prevenção secundária (ou seja, com doença cardiovascular prévia), na ausência de contraindicações;
+	- Na contraindicação, considerar outros antiagregantes, como o clopidogrel ou a ticlopidina.
+Prevenção primária	- Usar no DM1 ou DM2 com risco de eventos >10% em 10 anos, na ausência de fatores de risco para sangramen{+-+}to. Esse grupo inclui, principalmente:
+· Homens >50 anos, com pelo menos mais 1 fator de risco adicional;
+· Mulheres >60 anos, com pelo menos mais 1 fator de risco adicional.
+	- Considerar no DM com risco intermediário (risco de doença cardiovascular entre 5 e 10% em 10 anos), na au{+-+}sência de fatores de risco para sangramento. Esse grupo inclui pacientes mais jovens e os mais velhos sem ou{+-+}tros fatores de ris[---]co para doença cardiovascular;
+	- Não usar no DM com risco baixo (<5% em 10 anos). Esse grupo inclui homens <50 anos e mulheres <60 anos sem qual[---]quer outro fator de risco para doença cardiovascular;
+	- Usar o julgamento clínico e avaliar caso a caso.
+
+D - Outros cuidados
+Todos os pacientes com DM devem receber vacinação anti-influenza anualmente, no início do inverno, a partir dos 6 me-ses. Além disso, a vacina antipneumocócica está indicada, pelo menos 1 vez na vida, a todos os portadores de DM >2 anos, devendo ser repetida em condições de imunossupressão (idade avançada, síndrome nefrótica).{+ A vacinação contra hepatite B também é recomendada a todos os adultos diabéticos.+}
+Higiene dental adequada e cuidados odontológicos frequentes também são indicados, visto que os diabéticos apresentam maior risco de doença dental ou periodontal. 
+Pacientes com DM1 devem ter avaliados sua função tireoidiana e o nível de autoanticorpos (anti-TPO e anti-Tg), no diag-nóstico do diabetes e a cada 1 a 2 anos, já que disfunções da tireoide são muito comuns nessa população (17 a 30%). 
+Doença celíaca [-tamb-]é{+ u+}m{+a+} [-é-]{+comorbidade+} comum [-e p-]{+n+}o[-de-] [-ser-]{+DM1,+} encontrada em 1 a 6% dos pacientes com DM1. Portanto, deve ser investi[---]gada com a coleta de anticorpos antiendomísio em todo indivíduo com DM1 e sintomas sugestivos (diarreia, perda de peso, déficit de crescimento, desnutrição).
+
+10. Acompanhamento
+
+@@ -722,7 +738,15 @@ Quadro-resumo
+- 	O tratamento do DM1 deve ser feito, preferencialmente, com esquemas de insulinoterapia intensificada (basal-bolus), se possível desde o início do DM; 
+- 	A insulinoterapia intensiva do tipo basal-bolus com contagem de carboidratos é mais fisiológica e obtém melhor controle glicêmico, com mais flexibilidade das refeições e menos hipoglicemias; 
+- 	A automonitorização da glicemia capilar é parte importante da terapêutica do DM, útil para avaliar o controle glicêmico, guiar o ajuste do tratamento e prevenir hipoglicemias graves; 
+- 	Hipertensão arterial é comum em DM2 e DM1 com nefropatia. Diagnostica-se quando se detectam 2 medidas de PA >140x[-8-]{+9+}0mmHg, em dias diferentes, em pacientes com diabetes;
+- 	[-O-]{+A+} m[-an-]e[-jo da hipertensão ar-]t[-eri-]a[-l em-] d[-iabétic-]o[-s-] [-deve ser fei-]t[-o com medidas não fa-]r[-macológic-]a[-s + medic-]{+t+}amento[-s-] {+d+}a[-nti--]{+ +}hipertens[-ivos, desde o seu diagnóstic-]{+ã+}o[-,-] em pacientes {+diabéti+}co[-m-]{+s é a+} PA [-=-]{+<+}140x[-8-]{+9+}0mmHg;
+- A 1ª escolha de droga para tratamento da hipertensão em pacientes com DM são IECAs e/ou BRAs. Bloqueadores dos canais de cálcio (anlodipino), diuréticos tiazídicos (ou de alça se insuficiência renal crônica ou ICC) e betabloqueadores também podem ser utilizados se necessário para a obtenção dos níveis pressóricos desejados;
+- 	Estatinas reduzem o risco de eventos cardiovasculares em diabéticos e devem ser prescritas a todos os [-pac-]{+d+}i[-en-]{+abé+}t[-e-]{+ico+}s [-já p-]{+c+}o{+m +}r[-t-]{+isco c+}a{+r+}d{+i+}o[--re-]{+va+}s{+cular+} {+eleva+}d{+o (ex+}e{+mplo:+} doença {+c+}a[-te-]r{+di+}o{+va+}sc{+u+}l[-e-]{+a+}r[-ót-]{+ prév+}i[-c-]a [-c-]{+ou mú+}l[-ín-]{+t+}i[-ca (-]p{+los fato+}re[-v-]{+s d+}e[-nção-] {+ri+}s[-e-]c[-undá-]{+o ca+}r{+d+}i{+ovascul+}a{+r+})[-,-]{+. A+} [-indepen-]d{+os+}e[-nt-]{+ +}e [-d-]o [-nível-]{+tipo+} de [-LDL. T-]{+estati-n+}a[-mbém-] de[-v-]{+pend+}em [-s-]{+da idad+}e[-r-]{+ do+} p[-res-]{+a+}c[-r-]i{+en+}t[-as-]{+e+} [-para-]{+e+} d[-iabé-tic-]o[-s-] se[-m-]{+u grau+} d[-o-]e[-nça-] {+risco c+}a[-te-]r{+di+}o{+va+}sc{+u+}l[-e-]{+a+}r[-ó-]{+. +}
+{++}
+{+Respos+}t{+a+}
+{+1. C+}
+{++}
+{+D+}ica[- p-]{++}
+{+Pa+}r[-évi-]a[-,-] [-m-]{+fix+}a[-s-]{+r o+} que [-apr-]es[-en-]t[-em perfil -]{+u+}d[-e alto risc-]o{+u+} [-(>40 a-]n[-o-]{+e+}s{+te+} [-+ 1 f-]{+c+}a{+pí+}t{+ul+}o[-r-]{+,+} [-d-]{+test+}e [-ri-]s{+eus +}co[-), i-]n[-d-]{+h+}e[-pend-]{+cim+}ent[-e d-]o{+s+} [-nív-]{+r+}e{+so+}l[- d-]{+v+}e[- LDL, -]{+nd+}o[-u-] [-n-]a{+s +}que[-l-]{+stõ+}es [-com LDL pe-]r[-sist-]e[-nt-]{+f+}e[-m-]{+r+}ente{+s+} a[-cima das-]{+o+} {+te+}m{+a.+}
+{+Qu+}e{+s+}t[-a-]{+õe+}s{+:+} [-(>100mg/dL), a-]p[-es-]{+ágin+}a[-r-] [-d-]{+XX+}
+{+C+}o[- trata-]ment[-o não fa-]{+á+}r[-mac-]{+i+}o[-ló-]{+s: pá+}gi[-co.-]{+na+} {+XX+}
