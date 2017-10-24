@@ -1,0 +1,139 @@
+
+Hematúria e proteinúria isoladas
+Rodrigo Antônio Brandão Neto[- / -]
+Natália Corrêa Vieira de Melo[- / -]
+Ana Cristina Martins Dal Santo
+
+{+Resumo+}
+{+Quando um paciente apresenta hematúria, é importante que ocorra diferenciação entre origem urológica e glomerular. A glomerular apresenta colocação amarronzada (“de coca-cola”), sem coágulos. Dentro das causas glomerulares, temos nefro-patia por IgA, púrpura de Henoch-Schönlein, doença de Alport e doença do adelgaçamento da membrana basal. Na nefropa-tia por IgA, a hematúria ocorre concomitantemente a infecção no trato respiratório superior, além de hipertensão e edema periférico serem raros (diferenciando-se da glomerulonefrite pós-estreptocócica). O diagnóstico é feito por biópsia renal (em casos mais graves), com depósitos mesangiais de IgA, presentes também em alças capilares; a IgA sérica pode elevar-se em 50% dos casos, e o complemento sérico é normal. Já a doença de Alport possui herança ligada ao X, em que o paciente tem hematúria glomerular, surdez neurossensorial e insuficiência renal progressiva. A proteinúria isolada é definida como a presença de proteinúria no sedimento urinário, em valores >150g/dia e <3g/dia, sem outras alterações e sem doença renal ou urológica prévias, podendo ser classificada como intermitente (exercício intenso, proteinúria postural ou ortostática, febre e insuficiência cardíaca congestiva) ou persistente (glomerulonefrite proliferativa mesangial, glomeruloesclerose seg-mentar e focal e nefropatia diabética). +}
+
+1. Hematúria
+
+Diante de paciente com hematúria, é importante diferenciar se a origem é urológica ou glomerular. As causas urológicas são responsáveis pela maior parte dos casos de hematúria e incluem nefrolitíase, infecção do trato urinário baixo (cistite, uretrite e prostatite), tumores e trauma. A hematúria de origem nas vias urinárias baixas (pelve renal, bexiga, uretra) possui coloração vermelho-viva e coágulos. A hematúria de origem glomerular tem características peculiares: coloração amarronza-da (ou “de coca-cola”) da urina e ausência de formação de coágulos. Essas características a distinguem da hematúria de ori-gem urológica. As causas de hematúria urológica não fazem parte do objetivo deste capítulo, já as principais causas glomeru-lares de hematúria isolada serão detalhadas a seguir.
+
+{+Importante+}
+{+Convém lembrar que hematúria glomerular possui urina de coloração amarronzada (“de coca-cola”), sem a formação de coágulos.+}
+
+ 
+Figura 1 - Causas gerais de hematúria
+@@ -11,9 +19,16 @@ Figura 1 - Causas gerais de hemat
+- Particularidades das principais causas de hematúria isolada
+
+a) Nefropatia por IgA (doença de Berger)
+
+{+Tema frequente de prova+}
+{+A nefropatia por IgA é a causa de hematúria mais frequentemente cobrada nas questões de Residência Médica.+}
+
+É a forma mais frequente de [-GN-]{+glomerulonefrite+} idiopática no mundo e pode variar de casos leves a formas graves, com evo{+-+}lução para in[---]suficiência renal crônica. No Brasil, é a 3ª mais frequente das glomerulopatias primárias diagnosticadas por bióp{+-+}sia renal, correspondendo a cerca de 20% dos casos, no entanto, provavelmente, é muito mais habitual no país, tendo em vista que casos leves de hematúria isolada não são submetidos à biópsia renal. {+Pode variar de casos leves a graves, com evo-lução para insuficiência renal crônica, sendo responsável por cerca de 10% dos pacientes que evoluem para diálise no mun-do. +}A nefropatia por IgA é a principal responsável pelos casos de hematúria macroscópica de origem glomerular. Pode aco-meter qualquer idade, mas é mais comum entre a 2ª e a 3ª décadas de vida e no sexo masculino (2:1). Acomete, preferenci-almente, brancos e asiáticos e é relativamente rara em negros. Pode ocorrer como doença primária, às vezes associada à púrpura de Henoch-Schönlein, e, ocasionalmente, ser secundária à doença hepática (principalmente cirrose alcoólica), es-pondilite anquilosante, psoríase, síndrome de Reiter, doença de Crohn, doença celíaca, dermatite herpetiforme, infecção pelo HIV, entre outras doenças.
+Clinicamente, os pacientes podem manifestar apenas hematúria assintomática (detectada na urina tipo I) ou hematúria macroscópica com ou sem proteinúria. A apresentação clínica mais comum (40 a 50% dos casos), a forma clássica em crianças e jovens, é como hematúria macroscópica recorrente com duração de 2 a 6 dias, algumas vezes associada à infecção de vias aéreas superiores. É importante notar que, no caso da nefropatia por IgA, o episódio de hematúria se dá de forma concomi-tante à infecção de vias aéreas superiores (amigdalite, faringites) e não 1 a 2 semanas após, como ocorre na [-G-]{+glomerulonefrite pós-estreptocócica.+}
+
+{+Importante+}
+N[-PE-]{+a nefropatia por IgA, hematúria ocorre concomitantemente a infecção no trato respiratório superior, além de hiperten-são e edema periférico serem raros (diferenciando-se da glomerulonefrite pós-estreptocócica)+}.
+
+Ao mesmo tempo em que a nefropatia por IgA pode evoluir de forma benigna, outras vezes pode cursar com hipertensão, síndrome nefrítica e/ou nefrótica e perda progressiva de função renal, com evolução para doença renal terminal. Fatores que indicam pior prognóstico são:
+Idade avançada ao início dos sintomas;
+Ausência de hematúria macroscópica;
+@@ -22,12 +37,17 @@ Protein
+Sexo masculino;
+Creatinina sérica elevada (>2,5mg/dL) ao diagnóstico;
+Biópsia com fibrose tubulointersticial, atrofia tubular, formação de crescentes, glomeruloesclerose e proliferação intensa.
+O diagnóstico é feito por biópsia renal, que mostra depósitos mesangiais de IgA à imunofluorescência, e pode haver tam-bém depósitos em alças capilares. Presença de C3 também é frequente, e deve-se acrescentar que IgA também pode estar presente na histologia de lesões de pele destes pacientes. É comum proliferação mesangial associada, e, raramente, pode haver formação de crescentes extracapilares. No entanto, a biópsia renal só deve ser indicada aos casos de proteinúria >500mg/d, síndrome nefrítica e insuficiência renal; os casos de hematúria isolada têm normalmente evolução benigna, por isso não devem ser submetidos à biópsia. Apenas 30 a 50% dos pacientes têm aumento sérico de IgA. O complemento sérico é caracteristicamente normal na nefropatia por IgA. O tratamento é de valor duvidoso. 
+
+{+Diagnóstico+}
+{+O diagnóstico da nefropatia por IgA é realizado por biópsia renal (em casos mais graves) com depósitos mesangiais de IgA, presentes também em alças capilares; IgA sérica pode elevar-se em 50% dos casos, e o complemento sérico é normal.+}
+
+A maioria dos pacientes não necessita, porém aqueles com proteinúria >0,5g/d podem ter benefícios com corticosteroi{+-+}des (prednisona 1 a 2mg/kg). Em indivíduos com perda de função renal, óleo de peixe e, de forma mais comum, ciclofosfami{+-+}da podem ser utilizados para o tratamento.
+
+Tabela 1 - Nefropatia por IgA
+- É a forma mais frequente de [-GN-]{+glomerulonefrite+} idiopática no mundo e pode variar de casos leves a formas graves, com evolução para insuficiência renal crônica;
+- É a principal responsável pelos casos de hematúria macroscópica de origem glomerular;
+- À [-MO-]{+microscopia óptica+}, há proliferação mesangial e depósitos mesangiais de IgA na imunofluorescência;
+- A apresentação clínica mais comum é hematúria macroscópica recorrente;
+- Não consome complemento.
+
+@@ -35,30 +55,62 @@ b) P
+A púrpura de Henoch-Schönlein é clinicamente definida como uma síndrome vasculítica de pequenos vasos. Entre as ma-nifestações comuns, estão a púrpura, a urticária, a dor abdominal, o sangramento gastrintestinal ou a intussuscepção (sobre-tudo em crianças), as artralgias ou artrite e a glomerulonefrite. Pode ser precipitada por medicamentos, bem como por infec-ções estreptocócicas ou virais. Em geral, trata-se de um distúrbio autolimitado. Entretanto, há casos raros (sobretudo em adul-tos) em que a glomerulonefrite evolui para insuficiência renal. As recidivas podem ocorrer em até 1/3 dos pacientes. Acredi-ta-se que esta represente uma variação sistêmica da nefropatia por IgA, embora na grande maioria das vezes ocorra em cri-anças. Além do acometimento renal, as principais características da púrpura de Henoch-Schönlein são:
+
+Tabela 2 - Principais características da púrpura de Henoch-Schönlein
+Artralgias	Punhos, joelhos e tornozelos; [-a-]r[-t-]{+a+}r[-i-]{+amen+}te{+,+} [-é r-]ar[-a-]{+trite+}
+Vasculite leucocitoclástica de pe{+-+}quenos vasos	Com depósitos cutâneos de IgA
+Pele	Púrpura palpável, especialmente nos membros inferiores (costuma iniciar com rash perimaleolar, evoluindo para pernas, coxas e, eventualmente, nádegas)
+Sinais e sintomas abdominais	Dor difusa, diarreia, vômitos e, eventualmente, melena ou enterorragia
+
+O tratamento é semelhante ao da nefropatia por IgA. Corticosteroides são reservados para formas mais graves da doença.
+
+c) Doença de Alport
+A doença de Alport é uma causa rara de hematúria glomerular em crianças, é uma síndrome genética, de herança [-domi-nante,-] ligada ao X. Além da hematúria glomerular (com cilindros hemáticos e dismorfismo eritrocitário), pode cursar com surdez neuros{+-+}sensorial, anormalidades oftalmológicas e insuficiência renal progressiva. É primariamente decorrente de alte[---]ração da mem{+-+}brana basal, secundária a mutações nos genes que codificam as proteínas da família do colágeno tipo IV. A alte[---]ração histológi{+-+}ca característica da síndrome é apenas visualizada à [-ME-]{+microscopia eletrônica+} e consiste na separação da lâmina densa da [-MBG-]{+mem-brana basal glomerular+}, pro[---]duzindo aparência laminada. Não há tratamento específico para a síndrome atualmente. 
+
+{+Importante+}
+{+A doença de Alport possui herança ligada ao X, em que o paciente apresenta hematúria glomerular, surdez neurossensorial e insuficiência renal progressiva. +}
+
+d) Doença do adelgaçamento da membrana basal
+É uma doença genética[-,-] comum, de herança autossômica dominante e geralmente diagnosticada por exames de rotina em crianças. Manifesta-se, na maioria das vezes, como hematúria microscópica isolada, mas pode apresentar também proteinúria discreta. O prognóstico é excelente, e a biópsia renal geralmente não é indicada. Se a biópsia for realizada, a [-MO-]{+microscopia óptica+} será geral[---]mente normal, mas a [-ME-]{+microscopia eletrônica+} mostrará redução da espessura da membrana basal. Também não tem tratamento específico.{+ +}
+
+2. Proteinúria isolada
+
+A proteinúria isolada é definida como a presença de proteinúria no sedimento urinário, {+em valores acima de 150g/dia e abaixo de 3g/dia, +}sem outras alterações e sem do[---]ença renal ou urológica prévias, e pode ser classificada como intermitente ou persistente. {+É, portanto, um diagnóstico feito por exame de urina. +}A forma persistente pode corres[---]ponder à fase inicial de diversos processos patológicos como [-GN-]{+glomerulonefrite+} proliferativa mesangial, {+glomeruloesclerose segmentar e focal (+}GESF{+)+} e nefropatia diabética. A forma intermitente geralmente reflete alterações apenas funcionais, não representando processos patológicos propriamente ditos. As formas mais comuns de proteinúria isolada intermitente são exercício intenso, proteinúria postural ou ortostática, febre e insuficiência cardíaca congestiva.
+{+A microalbuminúria é definida como a excreção de 30 a 300mg de albumina/dia (equivalente à relação albumina–creatinina urinária entre 0,03 e 0,3). Esse parâmetro também é utilizado para identificar o risco de desenvolvimento de ne-fropatia em pacientes diabéticos, assim como risco cardiovascular em hipertensos.+}
+{+O achado de outras proteínas urinárias, que não a albumina, tem significado fisiopatológico próprio. Assim, a proteinúria tubular, constatada pelo achado urinário de beta-2-microglobulina, Retinol Binding Protein (RBP) ou de outras proteínas de baixo peso molecular, é característica de doenças com comprometimento tubulointersticial, de natureza primária ou secun-dária à glomerulopatias (como GESF). Além de seu papel diagnóstico em relação ao tipo de proteinúria presente, os marcado-res de proteinúria tubular são clinicamente úteis como de mau prognóstico em diversas doenças, como na própria GESF e no transplante renal.+}
+
+{+Importante+}
+{+A proteinúria intermitente é vista em exercício intenso, proteinúria postural, febre e insuficiência cardíaca congestiva, enquanto a proteinúria persistente é encontrada na fase inicial da glomerulonefrite proliferativa mesangial, glomeruloes-clerose segmentar e focal e nefropatia diabética. +}
+
+{+A proteinúria encontrada em estados de hiperprodução de proteínas, particularmente cadeias leves de globulinas, filtra-das pelo glomérulo, é característica de paraproteinemias e deve ser pesquisada adequadamente, já que as proteínas não são detectadas por testes laboratoriais que detectam somente albumina.+}
+{+O achado de pequenas quantidades de albumina também pode ocorrer em certas situações funcionais, não patológicas, como febre ou estados hiperadrenérgicos, sendo denominada proteinúria funcional, que também pode ser desencadeada pela posição ortostática e deambulação, quando é chamada de ortostática.+}
+{+Quanto à indicação de biópsia renal em proteinúria assintomática, geralmente não está indicada, sobretudo se a proteinú-ria é inferior a 1g/dia.+}
+
+{+Tabela 3 - Formas de apresentação de hematúria+}
+{+Hematúria microscópica assintomática	- Nefropatia da membrana basal fina;+}
+{+- Nefropatia da IgA;+}
+{+- Glomerulonefrite membranoproliferativa;+}
+{+- Síndrome de Alport.+}
+{+Hematúria macroscópica recorrente	- Nefropatia da membrana basal fina;+}
+{+- Nefropatia da IgA;+}
+{+- Síndrome de Alport.+}
+{+Proteinúria assintomática	- GESF;+}
+{+- Glomerulonefrite membranosa.+}
+
+{+Pergunta+}
+{+2014 - SANTA CASA-BH+}
+{+1. A hematúria pode ser monossintomática ou estar associada a várias doenças. De acordo com seus conhecimentos sobre hematúria, assinale a afirmativa correta: +}
+{+a) a presença de células G1 no sedimento urinário não tem valor preditivo para determinar se a hematúria é glomerular ou não glomerular+}
+{+b) hematúria associada a coágulos sanguíneos indica lesão do trato urinário inferior+}
+{+c) hipercalciúria e hiperuricosúria idiopáticas não aparecem como causas de hematúria monossintomática em crianças+}
+{+d) a causa mais comum de hematúria em crianças é a glomerulonefrite pós-infecciosa+}
+{+Resposta no final do capítulo+}
+
+3. Resumo
+
+Quadro-resumo
+Hematúria isolada
+Hematúria de origem nas vias urinárias baixas (pelve renal, bexiga, uretra)	Coloração vermelho-viva e coágulos
+Hematúria de origem glomerular	Coloração amarronzada (ou “de coca-cola”) da urina e ausência de formação de coá[---]gulos
+Nefropatia por IgA (doença de Berger)	- Forma mais frequente de [-GN-]{+glomerulonefrite+} idiopática no mundo;
+	- Principal responsável pelos casos de hematúria macroscópica de origem glomerular;
+	- Apresentação clínica mais comum: hematúria macroscópica recorrente com duração de 2 a 6 dias, algumas vezes associada à infecção de vias aéreas superiores;
+	- Imunofluorescência: depósitos mesangiais de IgA;
+@@ -69,14 +121,22 @@ P
+	- Pele: púrpura palpável, especialmente nos membros inferiores;
+	- Sinais e sintomas abdominais.
+Doença de Alport	- Síndrome genética, de herança dominante, ligada ao X;
+	- Hematúria glomerular, surdez neurossensorial, anormalidades oftalmológicas e insuficiên{+-+}cia renal progressiva;
+	- M[-E-]{+icroscopia eletrônica+}: separação da lâmina densa da [-MBG-]{+membrana basal glomerular+}, produ{+-+}zindo aparência laminada.
+Doença do adelgaçamento da membra[---]na basal	- Doença genética comum, de herança autossômica dominante;
+	- Hematúria microscópica isolada ou com proteinúria discreta;
+	- M[-E-]{+icroscopia eletrônica+} mostrará redução da espessura da membrana basal;
+	- Prognóstico excelente.
+Proteinúria isolada
+Definição	Proteinúria no sedimento urinário, sem outras alterações e sem doenças renal ou urológica prévias
+Forma persistente	Fase inicial de diversos processos patológicos como [-GN-]{+glomerulonefrite+} proliferativa mesangial, GESF e nefropa{+-+}tia diabética
+Forma intermitente	- Geralmente, alterações apenas funcionais, não representando processos patológicos propriamente ditos;
+	- Causas: exercício intenso, proteinúria postural ou ortostática, febre e insuficiência cardíaca congestiva.
+
+{+Resposta+}
+{+1. B+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
