@@ -1,8 +1,4 @@
-diff --git a/cardio_5.txt b/cardio_5.txt
-index fcb6ba9..56a46f3 100644
---- a/cardio_5.txt
-+++ b/cardio_5.txt
-@@ -1,28 +1,38 @@
+
 Arritmias cardíacas
 José Paulo Ladeira[- / -]
 Rodrigo Antônio Brandão Neto[- / -]
