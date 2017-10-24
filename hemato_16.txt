@@ -1,180 +1,264 @@
 Hemoterapia
-Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Neste capítulo, são abordados os principais temas relacionados aos processos de coleta e cuidados com o sangue, além de indicações e contraindicações das transfusões de sangue e hemoderivados. Não existe valor ideal de hemoglobina para indicação transfusional, sendo que esta depende dos sintomas de anemia (fadiga fácil, taquicardia, tontura postural, dispneia aos esforços, cefaleia, dor torácica) ou, nos casos de perda sanguínea aguda, como em politrauma, acidentes por armas ou cirurgias, depende estritamente dos sintomas da hipovolemia e do hipofluxo (taquicardia, hipotensão, confusão mental e diminuição da diurese). Essas ressalvas são feitas porque o procedimento de transfusão de sangue e hemoderivados não está isento de risco, podendo causar complicações e reações severas como coagulopatia dilucional, coagulação intravascular disseminada, hipotermia, acidose, reação hemolítica aguda (por incompatibilidade ABO), reação febril não hemolítica, contaminação bacteriana do sangue doado, injúria pulmonar aguda relacionada a transfusão (TRALI) e reações alérgicas.  
 
 1. Introdução
-Em uma breve análise histórica das transfusões sanguíneas, há registros de que, em 1667, Jean Baptiste Denis transfundira sangue de animais em humanos com resultados trágicos, levando à proibição dos experimentos com transfusões pela Faculdade de Medicina de Paris e determinando o abandono dessa prática por cerca de 130 anos. Em 1818, James Blundell retomou os estudos, realizando a 1ª transfusão de humanos com sangue humano. Só em 1907 ocorreu a 1ª transfusão ABO compatível, com a descoberta desses grupos sanguíneos por Karl Landsteiner, em 1901. O sistema Rhesus só foi descoberto em 1940, por Levine e Landsteiner.
-O advento da AIDS, nos anos 1980, iniciou um período de intenso desenvolvimento e crescimento da disciplina de hemoterapia em ritmo acelerado em todo o mundo, proporcionando grandes investimentos em pesquisas e o desenvolvimento de infraestrutura para a segurança transfusional, a ponto de torná-la, hoje, uma especialidade médica autônoma.
+
+Em uma breve análise histórica das transfusões sanguíneas, há registros de que, em 1667, Jean-Baptiste Denis transfundira sangue de animais em humanos com resultados trágicos, levando à proibição dos experimentos com transfusões pela Faculdade de Medicina de Paris e determinando o abandono dessa prática por cerca de 130 anos. Em 1818, James Blundell retomou os estudos, realizando a 1ª transfusão de humanos com sangue humano. Só em 1907 ocorreu a 1ª transfusão ABO compatível, com a descoberta desses grupos sanguíneos por Karl Landsteiner, em 1901. O sistema Rhesus só foi descoberto em 1940, por Levine e Landsteiner.
+O advento da AIDS, nos anos 1980, iniciou um período de intenso desenvolvimento e crescimento da disciplina de Hemoterapia em ritmo acelerado em todo o mundo, proporcionando grandes investimentos em pesquisas e o desenvolvimento de infraestrutura para a segurança transfusional, a ponto de torná-la, hoje, uma especialidade médica autônoma.
+
 2. Indicações de transfusões
+
 A coleta de sangue pode ser feita de forma manual ou automatizada. Na forma manual, a bolsa de sangue total coletada é fracionada por meio de centrifugação e separada em concentrado de hemácias, plaquetas, plasma e crioprecipitado. Na coleta automatizada, utiliza-se a máquina de aférese para realizar coleta seletiva de concentrado de hemácias ou plaquetas.
+
 Tabela 1 - Princípios consideráveis na decisão clínica de transfundir um paciente
 - Natureza da anemia: aguda ou crônica, uma vez que os pacientes crônicos se adaptam melhor aos estados anêmicos;
 - Sintomas atenuados pela transfusão e a possibilidade de indicar terapêuticas alternativas (exemplos: eritropoetina, ferro, ácido fólico e vitamina B12);
 - Planejamento de programas de autotransfusão sempre que possível;
 - Discussão do risco–benefício, visto que 10% das transfusões apresentam reações, algumas vezes fatais.
+
 A indicação da transfusão deve basear-se principalmente em critérios clínicos, evitando, sempre que possível, adotar limites exclusivamente laboratoriais (exemplo: nível de hemoglobina abaixo de 10g/dL).
+
+Vídeo
+Componentes celulares do sangue e indicações para transfusão
+  
+
 A - Concentrado de hemácias
+
 a) Rendimento
 Adultos: 1 unidade de concentrado de hemácias eleva os níveis de hemoglobina em 1 a 1,5g/dL, e os de hematócrito, em 3 a 4%;
 Crianças: dose de 10 a 15mL/kg.
+
 b) Indicações
+
+Importante
+A indicação de transfusão é feita com base nos sintomas clínicos do paciente, como fadiga, taquicardia, dispneia aos esforços, cefaleia, hipovolemia e hipofluxo, associados a hipotensão, confusão mental e diminuição da diurese.
+
 Não existe valor ideal de hemoglobina para indicação transfusional. A indicação depende dos sintomas de anemia (fadiga fácil, taquicardia, tontura postural, dispneia aos esforços, cefaleia, dor torácica). Jovens, em geral, apresentam sintoma com hemoglobina inferior a 7g/dL (hematócrito = 21%), ao passo que idosos com doença cardiovascular habitualmente toleram bem níveis de até 8g/dL.
 Anemias carenciais necessitam de transfusão apenas em casos excepcionais, pois é possível recuperar a massa eritrocitária com reposição vitamínica, e é maior a tolerância a baixos valores de hemoglobina.
 Em situações de perda sanguínea aguda, como em politrauma, acidentes por armas ou cirurgias, a indicação transfusional depende estritamente dos sintomas da hipovolemia e do hipofluxo (taquicardia, hipotensão, confusão mental e diminuição da diurese).
 São aceitáveis as transfusões de concentrado de hemácias também nas seguintes situações de anemia crônica:
 Adultos
+
 Tabela 2 - Indicação de concentrado de hemácias a adultos
 Valores de hemoglobina	Indicações de transfusão
 Hb >10g/dL	Não indicada
 Hb <7g/dL	Indicada, de acordo com sintomas
 Hb = 7 a 10g/dL	Indicada, de acordo com idade, performance cardiorrespiratória e sintomas
 Observação: quanto a pacientes >65 anos ou com doença cardiorrespiratória, considerar transfusão quando Hb <8g/dL.
+
 Tabela 3 - Situações especiais
 Pacientes em perioperatório	Além das orientações anteriores, deve-se considerar a perda cirúrgica prevista.
 Pacientes críticos	Obedecem às orientações anteriores, utilizando parâmetros mais objetivos para caracterizar “sintoma” ou baixa oxigenação tecidual, como lactato, taxa de extração de oxigênio (indicado se >0,3) e oferta de O2 (se <10 a 12/kg/min).
 Pacientes com anemia falciforme	Raramente é indicada transfusão quando hemoglobina >7g/dL, exceto no caso de esquema de hipertransfusão para profilaxia secundária de acidente vascular cerebral, crise de sequestro esplênico, crise aplástica, síndrome torácica aguda, priapismo recorrente ou preparo cirúrgico com anestesia geral.
-As transfusões para manutenção do nível de hemoglobina acima de 9g/dL e/ou do hematócrito de 27% são aceitáveis nas seguintes situações:
-Portadores de coronariopatia instável;
-Portadores de talassemia major, em que está indicado esquema de hipertransfusão com quelação de ferro associada, para que não haja comprometimento do crescimento e desenvolvimento.
+
+Importante
+As transfusões para manutenção do nível de hemoglobina acima de 9g/dL e/ou do hematócrito de 27% são aceitáveis nas situações de portadores de coronariopatia instável e em portadores de talassemia major, em que está indicado esquema de hipertransfusão com quelação de ferro associada, para não haver comprometimento do crescimento e desenvolvimento.
+
 Crianças
 Sintomas associados à anemia do Recém-Nascido (RN): taquipneia, taquicardia, dispneia, períodos de apneia, períodos de hipoatividade, diminuição do ganho de peso.
+
 Tabela 4 - Indicação de concentrado de hemácias a crianças
 RNs e lactentes com idade inferior a 4 meses
 - Perda aguda de sangue >15% da volemia;
 - Hb <7g/dL (Ht = 20%) em neonatos estáveis, mas com sintomas de anemia;
 - Hb <10g/dL, sintoma de anemia e necessidade de O2 <35% em máscara ou cateter; ou CPAP (pressão positiva contínua em vias aéreas) ou ventilação mecânica com pressão aérea média de 6cmH2O;
-- Hb <12g/dL e necessidade de maior quantidade de O2 que o mencionado;
+- Hb <12g/dL e necessidade de maior quantidade de O2 do que o mencionado;
 - Hb <15g/dL em pacientes com doença cardíaca cianótica ou doença pulmonar severa ou sob oxigenação de membrana extracorpórea.
 Crianças acima de 4 meses 
 - Sangramento intraoperatório >15% da volemia;
 - Perda aguda não responsiva a outras terapêuticas;
 - Hb <8g/dL:
-   · Perioperatório;
-   · Anemia crônica com sintoma.
+· Perioperatório;
+· Anemia crônica com sintoma.
 - Hb <13g/dL: doença pulmonar grave ou oxigenação de membrana extracorpórea;
-- Programas de transfusão crônica, como betatalassemia major, anemia de Blackfan-Diamond.
+- Programas de transfusão crônica, como betatalassemia major, anemia de Diamond-Blackfan.
 
 Pacientes com anemia falciforme seguem as orientações dos adultos.
-As transfusões não devem ser indicadas para:
-Aumentar a sensação de bem-estar dos pacientes;
-Promover melhor cicatrização de feridas cirúrgicas;
-Expandir o volume intravascular quando a capacidade de oxigenação estiver adequada;
-Profilaticamente (na ausência de sintomas).
+
+Importante
+As transfusões não devem ser indicadas para aumentar a sensação de bem-estar dos pacientes, promover melhor cicatrização de feridas cirúrgicas, expandir o volume intravascular quando a capacidade de oxigenação estiver adequada ou profilaticamente (na ausência de sintomas). 
+
+Pergunta
+2014 - FMUSP-RP
+1. Uma criança de 9 meses foi admitida no serviço de urgência. História da moléstia atual: palidez cutânea grave e icterícia. A mãe refere que a criança tem o diagnóstico prévio de betatalassemia major. Exame físico: anemia grave (Hb = 4,2g/dL), icterícia e baço palpável a 3cm do rebordo costal esquerdo. A conduta mais indicada para o tratamento é:
+a) devido à gravidade do caso e como a esplenomegalia é responsável pela anemia, deve-se realizar imediatamente a esplenectomia e depois transfundir a paciente
+b) devido à gravidade da anemia, deve-se transfundir a criança e depois submetê-la a esplenectomia para manter o nível de hemoglobina estável
+c) deve-se colocá-la em esquema transfusional crônico, mantendo hemoglobina pré-transfusional entre 9 e 10g/dL
+d) deve-se transfundir a paciente sempre que a hemoglobina está abaixo de 7g/dL e não colocá-la em esquema transfusional crônico devido ao risco de sobrecarga de ferro
+Resposta no final do capítulo
+
 B - Plaquetas
+
 a) Rendimento
 Uma unidade de concentrado de plaquetas randômicas usualmente aumenta a contagem plaquetária de um adulto de 70kg em 5x109/L (5.000/mL). Pessoas com febre, esplenomegalia, sangramento e uso de determinados medicamentos apresentam menor rendimento plaquetário. 
-A dose utilizada é de 1 unidade a cada 10kg de peso, esperando aumento plaquetário em torno de 30.000 a 50.000. Nesta modalidade de transfusão, cada plaqueta randômica provém de um doador de sangue, havendo possibilidades de exposição antigênica e formação de aloanticorpos, em associação ao maior risco de reação transfusional.
-Podem-se, ainda, obter plaquetas por aférese, em que, por meio da máquina de aférese, centrifuga-se o sangue do paciente, separando as plaquetas em concentração elevada, formando a bolsa de aférese plaquetária. A vantagem desse hemocomponente é o alto rendimento plaquetário por meio de única doação, associado à menor exposição do receptor a antígenos de outros doadores e menor chance de reação transfusional. A dose de plaquetas por aférese é de 1 unidade, tendo em vista que esta equivale de 6 a 8 plaquetas randômicas.
+A dose utilizada é de 1 unidade a cada 10kg de peso, esperando aumento plaquetário em torno de 30.000 a 50.000/mm3. Nessa modalidade de transfusão, cada plaqueta randômica provém de um doador de sangue, havendo possibilidade de exposição antigênica e formação de aloanticorpos, em associação ao maior risco de reação transfusional.
+Podem-se, ainda, obter plaquetas por aférese, em que, por meio da máquina de aférese, centrifuga-se o sangue do paciente, separando as plaquetas em concentração elevada, formando a bolsa de aférese plaquetária. A vantagem desse hemocomponente é o alto rendimento plaquetário por meio de única doação, associado a menor exposição do receptor a antígenos de outros doadores e menor chance de reação transfusional. A dose de plaquetas por aférese é de 1 unidade, tendo em vista que esta equivale de 6 a 8 plaquetas randômicas.
+
 b) Indicação
 Uso profilático
+
+Importante
+O uso profilático de plaquetas deve ser feito nos casos de deficiência de produção, pacientes com febre ou outra coagulopatia que levem à redução do número plaquetário; pré-cirúrgicos ou em procedimento invasivo; em cirurgia do sistema nervoso central ou cirurgia oftalmológica, por exemplo. 
+
 Tabela 5 - Uso profilático de plaquetas
 Situações	Contagem plaquetária (/mm3)
 Deficiência de produção (aplasia, pós-quimioterapia ou radioterapia)	<10.000
-Paciente com febre, outra coagulopatia ou medicamentos que levem à plaquetopatia	<20.000
+Paciente com febre, outra coagulopatia ou medicamentos que levem a plaquetopatia	<20.000
 RN de termo com instabilidade ou com fator de risco para sangramento ou RN prematuro	<50.000
 RN de termo clinicamente estável	<20.000
 Pré-cirúrgico ou procedimento invasivo	<50.000
-Cirurgia do Sistema Nervoso Central (SNC), oftalmológica	<100.000
+Cirurgias do Sistema Nervoso Central (SNC) e oftalmológica	<100.000
 Plaquetopatia congênita ou adquirida pré-cirúrgica ou procedimento invasivo	Independente da contagem plaquetária
+
 Tabela 6 - Uso terapêutico de plaquetas
 - Contagem plaquetária <50.000/mm3 a pacientes com sangramento ativo;
 - Contagem plaquetária <100.000/mm3 a RNs doentes e com sangramento ativo; 
 - Púrpura trombocitopênica imunológica associada a sangramento com risco de morte;
 - Suspeita ou presença de defeitos qualitativos plaquetários na existência de sangramento ativo.
+
 Uso não indicado
-A transfusão de plaquetas é contraindicada profilaticamente na púrpura trombocitopênica idiopática, na púrpura trombocitopênica trombótica, na síndrome hemolítico-urêmica, na síndrome HELLP e na trombocitopenia associada à heparina. Em todas essas situações, deve ser utilizada apenas se há sangramento com risco de vida. Também não é utilizada profilaticamente na coagulação intravascular disseminada (CIVD) ou na transfusão maciça de sangue e no bypass cardiopulmonar (na ausência de sangramento ativo). 
+
+Importante
+A transfusão de plaquetas está contraindicada profilaticamente na púrpura trombocitopênica idiopática, na púrpura trombocitopênica trombótica, na síndrome hemolítico-urêmica, na síndrome HELLP e na trombocitopenia associada a heparina. Em todas essas situações, deve ser utilizada apenas se há sangramento com risco de vida. Também não é utilizada profilaticamente na coagulação intravascular disseminada ou na transfusão maciça de sangue e no bypass cardiopulmonar (na ausência de sangramento ativo).
+
+A transfusão de plaquetas é contraindicada profilaticamente na púrpura trombocitopênica idiopática, na púrpura trombocitopênica trombótica, na síndrome hemolítico-urêmica, na síndrome HELLP e na trombocitopenia associada a heparina. Em todas essas situações, deve ser utilizada apenas se há sangramento com risco de vida. Também não é utilizada profilaticamente na coagulação intravascular disseminada (CIVD) ou na transfusão maciça de sangue e no bypass cardiopulmonar (na ausência de sangramento ativo). 
+
 c) Refratariedade plaquetária
 O termo designa uma situação na qual as transfusões plaquetárias deixam de ser eficazes, traduzidas pela ausência de resposta clínica aos pacientes que recebem as transfusões e/ou que não aumentam a contagem de plaquetas no sangue periférico, sendo uma complicação apresentada por 5 a 15% dos receptores crônicos de plaquetas.
 As causas que levam à refratariedade podem ser imunológicas (40%) e não imunológicas (60%). As principais causas não imunes são infecções graves e septicemias, sobretudo se acompanhadas de febre, uso de antibióticos (vancomicina) e antifúngicos (anfotericina B), grandes esplenomegalias, hemorragias ativas e CIVD.
 A refratariedade imunológica é causada pela aloimunização contra antígenos HLA de classe I, presentes em todas as células nucleadas e nas plaquetas, ou contra antígenos plaquetários específicos (HPAs). Decorre da transfusão repetida de concentrado de plaquetas ou de outros hemocomponentes. A refratariedade também pode resultar do uso de plaquetas ABO-incompatíveis. 
 Uma vez estabelecida a causa das transfusões ineficazes, as condutas a serem adotadas baseiam-se no tratamento da causa clínica ou na transfusão de plaquetas HLA-compatíveis com o receptor.
+
 C - Plasma fresco congelado
+
 a) Posologia
 A dose terapêutica de plasma a ser administrada nas coagulopatias é de 10 a 20mL/kg, levando-se em conta o quadro clínico e a doença de base. A frequência da administração depende da vida média de cada fator a ser reposto. 
 O Tempo de Protrombina (TP) e o Tempo de Tromboplastina Parcial Ativada (TTPA) devem ser realizados antes e depois da transfusão.
+
 b) Indicações
-O Plasma Fresco Congelado (PFC) é administrado para corrigir sangramentos decorrentes de anormalidades nos fatores de coagulação, quando a terapia específica não está disponível. 
+
+Importante
+A transfusão de plasma fresco congelado está destinada aos casos de sangramento ativo ou necessidade de procedimentos invasivos, nos casos de púrpura trombocitopênica trombótica ou na síndrome hemolítico-urêmica. O plasma fresco congelado é administrado para corrigir sangramentos decorrentes de anormalidades nos fatores de coagulação, quando a terapia específica não estiver disponível. 
+
 Tabela 7 - Critérios aceitáveis para indicação
-- Sangramento ativo ou necessidade de procedimentos invasivos a pacientes com deficiência de fatores de coagulação, documentados por TP ou TTPA prolongado (desde que não haja o fator deficiente liofilizado);
+- Sangramento ativo ou necessidade de procedimentos invasivos a pacientes com deficiência de fatores de coagulação, documentada por TP ou TTPA prolongado (desde que não haja o fator deficiente liofilizado);
 - Protocolos de suporte transfusional em transfusão maciça;
 - Reversão em caráter de emergência (sangramento ativo, pré-operatório ou procedimento invasivo) do efeito de anticoagulantes orais;
 - Plasmaférese para púrpura trombocitopênica trombótica ou síndrome hemolítico-urêmica;
-- Em alguns casos de deficiência de antitrombina III, na vigência de fenômenos trombóticos com necessidade de heparinização.
+- Em alguns casos de deficiência de antitrombina, na vigência de fenômenos trombóticos com necessidade de heparinização.
+
 c) Contraindicações
-O PFC não deve ser utilizado meramente como expansor de volume, pois as soluções coloides ou cristaloides são produtos mais seguros para expansão volumétrica. Não deve ser usado também para reverter coagulopatia provocada por dicumarínicos, quando não há sangramento ativo ou programação cirúrgica de emergência, independente do INR (razão normalizada internacional); também não deve ser usado como fonte proteica.
+O Plasma Fresco Congelado (PFC) não deve ser utilizado meramente como expansor de volume, pois as soluções coloides ou cristaloides são produtos mais seguros para expansão volumétrica. Não deve ser usado também para reverter coagulopatia provocada por dicumarínicos, quando não há sangramento ativo ou programação cirúrgica de emergência, independente do INR (razão de normatização internacional); também não deve ser usado como fonte proteica.
+
 Tabela 8 - Outros preparos de plasma e suas indicações
 Plasma comum (plasma normal ou plasma simples)	Plasma cujo congelamento ocorreu mais de 8 horas após coleta do sangue total que lhe deu origem. É utilizado pela indústria para síntese de hemoderivados (albumina, fator VIII liofilizado, fator IX liofilizado).
 Plasma isento do crioprecipitado	É o plasma do qual foi retirado, em sistema fechado, o crioprecipitado. Utilizado de forma controversa, em casos de púrpura trombocitopênica trombótica refratária à plasmaférese convencional.
+
 D - Crioprecipitado
+
 a) Posologia
 Uma unidade de crioprecipitado para cada 10kg de peso.
+
 b) Indicações
 CIVD com nível de fibrinogênio <100mg/dL e sangramento ativo (coagulopatias de consumo);
 Hipofibrinogenemia (<100mg/dL) ou disfibrinogenemia congênita nos sangramentos ativos ou nos procedimentos invasivos/cirúrgicos; 
 Reposição terapêutica da deficiência do fator XIII, em situações clinicamente significativas; 
 Apenas em raríssimas situações, nas quais não há disponibilidade de fatores liofilizados, o crioprecipitado pode ser utilizado como forma de reposição de fator VIII ou do fator de von Willebrand. 
+
 c) Contraindicações
 O crioprecipitado não deve ser usado no tratamento de pacientes com deficiências de outros fatores que não fator VIII, fibrinogênio, fator de von Willebrand ou fator XIII.
+
 Tabela 9 - Descrição dos hemocomponentes
 Hemocomponentes	Volumes	Validade	Armazenamento
 Concentrado de hemácias	200 a 250mL	35 a 42 dias (depende do conservante)	2 a 6°C
-Concentrado de plaquetas	- Randômica: 50 a 70mL;
-- Por aférese: 200 a 400mL.	3 a 5 dias	20 a 24°C sob agitação constante
+Concentrado de plaquetas	-	Randômica: 50 a 70mL;
+-	Por aférese: 200 a 400mL.	3 a 5 dias	20 a 24°C sob agitação constante
 PFC	200 a 250mL	1 a 2 anos	-20 a -30°C
 Crioprecipitado	10 a 15mL	1 a 2 anos	-20 a -30°C
+
 E - Hemoderivados
+
 a) Concentrados de fator VIII e fator IX
-Podem ser provenientes do plasma ou por tecnologia recombinante de linhagem de células de hamster, estabilizados com albumina humana. Por serem altamente purificados e sem risco de transmissão de doenças, são o tratamento de escolha para hemofilia A (fator VIII) e hemofilia B (fator IX). A meia-vida do fator VIII é de 12 horas, e a do fator IX, 24 horas. O grande risco desses hemoderivados, após exposição crônica, é a formação de autoanticorpos (inibidores), bem mais comuns contra o fator VIII que quanto ao fator IX.
+Podem ser provenientes do plasma ou por tecnologia recombinante de linhagem de células de hamster, estabilizados com albumina humana. Por serem altamente purificados e sem risco de transmissão de doenças, são o tratamento de escolha para hemofilia A (fator VIII) e hemofilia B (fator IX). A meia-vida do fator VIII é de 12 horas, e a do fator IX, 24 horas. O grande risco desses hemoderivados, após exposição crônica, é a formação de autoanticorpos (inibidores), bem mais comuns contra o fator VIII do que contra o fator IX.
+
 b) Concentrado de complexo protrombínico 
 O concentrado de complexo protrombínico contém fatores II, VII, IX e X, além de proteínas C e S. Faz parte do arsenal terapêutico para pacientes com inibidor de fator VIII; porém, pela quantidade de fatores de coagulação, tem o importante risco de induzir trombose, especialmente em pacientes no pós-operatório, imobilizados ou com disfunção hepatocelular. Existe ainda o complexo protrombínico ativado, que deve ser utilizado para os mesmos fins.
+
 c) Concentrado de fator VIIa recombinante
-Licenciado para tratar pacientes com hemofilia A com inibidor ou pacientes com inibidor adquirido de fator VIII. Pode, ainda, ser aplicado em sangramentos na presença de doença hepática ou tromboastenia de Glanzmann.
+Licenciado para tratar pacientes com hemofilia A com inibidor ou pacientes com inibidor adquirido de fator VIII. Pode, ainda, ser aplicado em sangramentos na presença de doença hepática, tromboastenia de Glanzmann e deficiência congênita de fator VII.
+
 3. Autotransfusão
+
 A - Recuperação intraoperatória de sangue
 Trata-se de um procedimento que possibilita, com o uso de máquinas especiais (cell savers), a aspiração do sangue perdido no campo operatório ou nos drenos cirúrgicos, sua lavagem e reinfusão no paciente, minimizando e, muitas vezes, eliminando o uso de transfusões alogênicas. Está indicado para cirurgias que apresentam grande perda sanguínea (como cirurgia cardíaca, transplante hepático e aneurisma de aorta torácica).
 Não é permitida a recuperação intraoperatória quando existem riscos de veicular ou disseminar agentes infecciosos e/ou células neoplásicas. O sangue resgatado no intraoperatório não pode ser transfundido em outros pacientes e deve ser utilizado em até 4 horas da coleta.
+
 B - Hemodiluição normovolêmica
 A hemodiluição normovolêmica é a coleta de sangue antes ou imediatamente depois da indução anestésica com reposição simultânea de volume com cristaloides e/ou coloides. O volume de sangue colhido dependerá do hematócrito inicial e da perda estimada no intraoperatório. 
 As unidades obtidas devem permanecer na sala de cirurgia durante todo o transcorrer do ato cirúrgico e devem ser transfundidas antes de completarem 8 horas da coleta.
 Qualquer paciente pode beneficiar-se dessa técnica, exceto aqueles com incapacidade de compensar a perda do hematócrito com aumento do débito cardíaco (insuficiências cardíaca e renal graves, por exemplo). 
+
 C - Autotransfusão pré-depósito (doação autóloga)
+
+Dica
+Na doação autóloga, coleta-se uma bolsa de sangue dias antes de procedimentos cirúrgicos com grandes perdas sanguíneas, como os ortopédicas e os vasculares. 
+
 O procedimento de doação autóloga pré-operatória requer a aprovação do médico hemoterapeuta e do médico do paciente. Este coleta bolsa de sangue total dias antes da cirurgia, e esta fica estocada para seu uso exclusivo. Está indicado para cirurgias com perda sanguínea que, invariavelmente, resultam em transfusão sanguínea, como:
 Prostatectomia;
 Mastectomias;
 Cirurgias ortopédicas;
 Cirurgias vasculares de médio porte.
 Não é autorizada a coleta de sangue em caso de quadro clínico instável, doenças cardíacas, como angina instável, hipertensão não controlada, insuficiência cardíaca descompensada e cardiopatias restritivas, processos inflamatórios presentes, existência de infecção ativa ou tratamento antimicrobiano e anemia com hemoglobina <11g/dL.
+
 4. Manipulação de hemocomponentes
+
 Visando ao melhor rendimento na transfusão e com menor risco de reações transfusionais, pode-se lançar mão de alguns procedimentos, conforme listado na Tabela 10. Ratifica-se que os procedimentos não são mutuamente exclusivos (por exemplo, um mesmo hemocomponente, se necessário, pode ser irradiado e filtrado).
+
+Importante
+Para reduzir o risco de reações transfusionais, os hemocomponentes podem ser irradiados e passam por um processo de lavagem para a retirada de proteínas plasmáticas e processos de filtração para a retirada de leucócitos. 
+
 Tabela 10 - Indicação de procedimentos especiais
 Procedimentos	Métodos	Indicações
-Irradiação 	Exposição ao césio-137 na dose de 25Gy (inviabiliza linfócitos, prevenindo a reação do enxerto contra hospedeiro transfusional)	- Receptores de unidades doadas por parentes de 1º grau;
-		- Submetidos ao transplante de células-tronco hematopoéticas;
-		- RNs prematuros de peso <1.200g;
-		- Transfusão intrauterina;
-		- Pacientes em quimioterapia e/ou em uso de imunossupressão.
-Lavagem	Centrifugação com 1 a 3L de solução fisiológica para retirada de proteínas plasmáticas	- História de reação alérgica grave ou não responsiva à pré-medicação com anti-histamínico;
-		- Transfusão intrauterina.
+Irradiação 	Exposição ao césio-137 na dose de 25Gy (inviabiliza linfócitos, prevenindo a reação do enxerto contra hospedeiro transfusional)	-	Receptores de unidades doadas por parentes de 1º grau;
+		-	Submetidos ao transplante de células-tronco hematopoéticas;
+		-	RNs prematuros de peso <1.200g;
+		-	Transfusão intrauterina;
+		-	Pacientes em quimioterapia e/ou em uso de imunossupressão.
+Lavagem	Centrifugação com 1 a 3L de solução fisiológica para retirada de proteínas plasmáticas	-	História de reação alérgica grave ou não responsiva à pré-medicação com anti-histamínico;
+		-	Transfusão intrauterina.
 Hemácia pobre em leucócito	Redução de 70 a 80% dos leucócitos por meio do filtro de microagregados ou lavagem	Prevenção de reação febril não hemolítica
-Hemácia/plaqueta leucodepletada	Redução de 99% dos leucócitos por meio de filtros de leucócitos (filtros de 3ª geração)	- Prevenção de reação febril não hemolítica;
-		- Prevenção de aloimunização leucocitária e refratariedade plaquetária em politransfundidos;
-		- Prevenção de transmissão de doenças que utilizam o leucócito como vetor (exemplo: citomegalovírus – CMV – em pacientes com sorologia anti-CMV negativa – principalmente prematuros e transplantados);
-		- Transfusão intrauterina.
+Hemácia/plaqueta leucodepletada	Redução de 99% dos leucócitos por meio de filtros de leucócitos (filtros de 3ª geração)	-	Prevenção de reação febril não hemolítica;
+		-	Prevenção de aloimunização leucocitária e refratariedade plaquetária em politransfundidos;
+		-	Prevenção de transmissão de doenças que utilizam o leucócito como vetor (exemplo: citomegalovírus – CMV – em pacientes com sorologia anti-CMV negativa – principalmente prematuros e transplantados);
+		-	Transfusão intrauterina.
 Observação: componentes acelulares (plasma e crioprecipitado) não necessitam ser irradiados; quanto a pacientes oncológicos, transplantados de órgãos sólidos, medicados com análogos de purina (fludarabina) e com imunodeficiência celular congênita, a irradiação não é mandatória pela legislação brasileira, mas é recomendada pela literatura internacional; por sua vez, pacientes HIV positivo não necessitam receber componente irradiado.
+
 5. Procedimentos especiais
+
 A - Sangria terapêutica
-Consiste em extrações de sangue com fins terapêuticos, visando à redução da massa eritrocitária ou da sobrecarga de ferro. O sangue extraído não pode ser utilizado para transfusão alogênica, e o volume a ser retirado é determinado pelo médico, de acordo com a finalidade terapêutica.
-Indicações
-Pacientes não anêmicos com sobrecarga de ferro e hemossiderose/hemocromatose;
-Pacientes com poliglobulia (eritrocitose secundária) sintomática; 
-Pacientes com policitemia vera com hematócrito >55%.
+Consiste em extrações de sangue com fins terapêuticos, visando à redução da massa eritrocitária ou da sobrecarga de ferro. O sangue extraído não pode ser utilizado para transfusão alogênica, e o volume a ser retirado é determinado pelo médico, de acordo com a finalidade terapêutica. 
+
+Importante
+As principais indicações de sangria terapêutica incluem pacientes não anêmicos com sobrecarga de ferro e hemossiderose/hemocromatose, pacientes com poliglobulia (eritrocitose secundária) sintomática e pacientes com policitemia vera com hematócrito >55%.
+
 B - Exsanguineotransfusão
+
+Importante
+A exsanguineotransfusão é utilizada em crianças com doença hemolítica do recém-nascido que não respondem ao tratamento com fototerapia ou que apresentam encefalopatia decorrente da hiperbilirrubinemia.
+
 A doença hemolítica do recém-nascido é uma patologia em que ocorre hemólise do feto ou neonato por anticorpos maternos. A causa mais comum é a incompatibilidade Rh ou ABO, podendo acontecer o mesmo com outros grupos sanguíneos. 
 No tratamento, utiliza-se de 1ª linha a fototerapia, sendo a exsanguineotransfusão reservada para casos sem resposta à fototerapia ou nos quais já existam sinais da encefalopatia pela hiperbilirrubinemia. 
 A exsanguineotransfusão é feita por cateterismo da veia umbilical, por onde é realizada troca de 2 volemias, com reposição de sangue total reconstituído (hemácias compatíveis com a mãe e PFC compatível com o bebê), preferencialmente colhido há menos de 5 dias. Com esse procedimento, retiram-se de 25 a 45% do valor da bilirrubina e trocam-se cerca de 85% dos eritrócitos do bebê. As hemácias devem ser irradiadas, lavadas e leucodepletadas.  
 As complicações relacionadas ao procedimento são infecção, enterocolite necrosante, trombose de veia umbilical, arritmia, coagulopatia dilucional, plaquetopenia, hipocalcemia e hipercalemia, sobrecarga volêmica, hipovolemia e embolia gasosa.
+
 C - Transfusão maciça
 É definida como transfusão de 1 volemia ou mais, num intervalo de 24 horas. Ocorre em situações de trauma (principalmente de bacia, SNC, pescoço e ferimentos múltiplos), grandes cirurgias (transplante hepático e aneurisma de aorta), complicação obstétrica e hemorragia digestiva alta.
 A principal manifestação clínica diante da perda sanguínea maciça é a hipovolemia. A depender do volume da perda, têm-se diferentes sinais do choque hipovolêmico. Tentando padronizar o volume de perda e a conduta a ser tomada perante a hipovolemia, o Comitê do Trauma da Sociedade Americana de Cirurgiões criou a classificação a seguir:
+
 Tabela 11 - Classificação do choque hipovolêmico
 	Classe I	Classe II	Classe III	Classe IV
 Perda (mL)	Até 750	De 800 a 1.500	De 1.500 a 2.000	>2.000
@@ -186,81 +270,120 @@ Diurese (mL/h)	>30	De 20 a 30	De 10 a 20	De 0 a 10
 Extremidades	Normais	Pálidas	Pálidas	Frias
 Nível de consciência	Alerta	Ansioso	Sonolento	Confuso
 
-A 1ª conduta frente à perda sanguínea maciça é garantir acesso venoso calibroso, manter o paciente aquecido e colher exames: hemograma, TP, TTPA, tempo de trombina, fibrinogênio, tipagem sanguínea, bioquímica e gasometria. Inicia-se a ressuscitação volêmica com cristaloides ou coloides aquecidos a 40°C, sendo a transfusão sanguínea indicada quando há perda estimada superior a 30 a 40% da volemia ou quando não há resposta à ressuscitação com cristaloides. O restabelecimento urgente da volemia é essencial para a prevenção da falência de múltiplos órgãos que, depois de instalada, dificilmente é reversível. A mortalidade de pacientes submetidos à transfusão maciça é de 45 a 50%.
+A 1ª conduta frente à perda sanguínea maciça é garantir acesso venoso calibroso, manter o paciente aquecido e colher exames: hemograma, TP, TTPA, tempo de trombina, fibrinogênio, tipagem sanguínea, bioquímica e gasometria. Inicia-se a ressuscitação volêmica com cristaloides ou coloides aquecidos a 40°C, sendo a transfusão sanguínea indicada quando há perda estimada superior a 30 a 40% da volemia ou quando não há resposta à ressuscitação com cristaloides. O restabelecimento urgente da volemia é essencial para a prevenção da falência de múltiplos órgãos, que, depois de instalada, dificilmente é reversível. A mortalidade de pacientes submetidos à transfusão maciça é de 45 a 50%.
 Deve-se preferir a transfusão ABO compatível, visto que a tipagem sanguínea demora de 10 a 15 minutos para ser feita. Em urgência extrema, os primeiros 2 a 4 concentrados de hemácias devem ser do tipo O, até que se obtenha a tipagem do paciente. O grupo Rh negativo deve ser reservado a mulheres em idade fértil e crianças. Mulheres na menopausa e homens podem receber tipo O+, em razão da dificuldade em obter sangue do tipo O-. 
+
 D - Complicações da transfusão maciça
+
+Importante
+As principais complicações de transfusões maciças incluem a coagulopatia dilucional, com redução de fatores de coagulação, a coagulação intravascular disseminada, a hipotermia, a toxicidade ao citrato (presente na solução anticoagulante dos hemoderivados), hipercalemia e acidose. 
+
 a) Coagulopatia dilucional 
 A ressuscitação inicial com 5 concentrados de hemácias é suficiente para desencadear a coagulopatia dilucional, que consiste na diminuição de fatores de coagulação em virtude da perda e diluição sanguínea com hemácias, aumentando a suscetibilidade ao sangramento. Desta forma, deve-se monitorizar o coagulograma frequentemente (de preferência, a cada 5 a 7 unidades de hemácias transfundidas). Para INR >1,5, iniciar a reposição de PFC ou, se a velocidade de infusão de hemácias for muito rápida, 1 unidade de PFC a cada 1 a 2 de hemácias. 
-A plaquetopenia ocorre geralmente após a troca de 2 volemias, devendo-se monitorizar e transfundir sempre que o número de plaquetas for inferior a 75.000/mm3 ou, se a velocidade de infusão de hemácias for muito rápida, transfundir 1 unidade de plaquetas para cada 10kg de peso, a cada 10 a 15 concentrados de hemácias transfundidas. Indivíduos com politrauma grave devem ser conduzidos de forma diferente: em estudos recentes, observou-se grande impacto na mortalidade com a introdução precoce de concentrado de hemácia, PFC e plaquetas. Isso se deve ao fato de que esses pacientes já chegam ao centro de atendimento hospitalar com coagulopatia grave, em consequência de hipotermia, lesão tecidual extensa, lesão muscular, consumo de fatores de coagulação e fibrinogênio. Desta forma, recomenda-se, já no início da ressuscitação volêmica, a transfusão de concentrado de hemácia, PFC e plaquetas, à proporção de 1:1:1.
+A plaquetopenia ocorre geralmente após a troca de 2 volemias, devendo-se monitorizar e transfundir sempre que o número de plaquetas for inferior a 75.000/mm3 ou, se a velocidade de infusão de hemácias for muito rápida, transfundir 1 unidade de plaquetas para cada 10kg de peso, a cada 10 a 15 concentrados de hemácias transfundidos. Indivíduos com politrauma grave devem ser conduzidos de forma diferente: em estudos recentes, observou-se grande impacto na mortalidade com a introdução precoce de concentrado de hemácias, PFC e plaquetas. Isso se deve ao fato de que esses pacientes já chegam ao centro de atendimento hospitalar com coagulopatia grave, em consequência de hipotermia, lesão tecidual extensa, lesão muscular, consumo de fatores de coagulação e fibrinogênio. Desta forma, recomenda-se, já no início da ressuscitação volêmica, a transfusão de concentrado de hemácias, PFC e plaquetas, à proporção de 1:1:1.
+
 b) Coagulação intravascular disseminada 
 Complicação que acontece em razão do excesso de exposição do fator tecidual, a depender do local (principalmente, SNC), da extensão da lesão e da estase sanguínea (duração do choque). A CIVD resulta em trombose microvascular, levando a falência de múltiplos órgãos e sangramento difuso (em razão da hiperfibrinólise e do consumo dos fatores de coagulação). Após sua instalação, a mortalidade é de 70%. 
-Para o diagnóstico, adotam-se como parâmetros o alargamento excessivo de TP e TTPA, a diminuição excessiva da contagem plaquetária e o consumo de fibrinogênio. O tratamento é feito com transfusão de crioprecipitado, plaquetas e PFC, em caso de sangramento.
+Para o diagnóstico, adotam-se como parâmetros o alargamento excessivo de TP e TTPA, a diminuição excessiva da contagem plaquetária e o consumo de fibrinogênio. O tratamento é feito com transfusão de crioprecipitado, plaquetas e PFC, em caso de sangramento (sempre em associação ao tratamento da causa primária da CIVD). 
+
 c) Hipotermia
 Em virtude da perda sanguínea e do choque, há diminuição importante da temperatura corpórea que, associada à infusão de grande quantidade de cristaloides e hemocomponentes, pode gerar hipotermia grave, com arritmia e óbito. A hipotermia também diminui a atividade de fatores de coagulação e da função plaquetária, contribuindo para a coagulopatia. Deve-se manter o paciente aquecido com manta térmica e infundir solução cristaloide, solução coloide e hemácias aquecidas a 40°C em aquecedores especiais para esse fim.
+
 d) Toxicidade do citrato 
-Os hemocomponentes contêm o citrato como solução anticoagulante, um quelante do cálcio, impedindo a coagulação do sangue após sua coleta e durante sua conservação. Infusão de grande volume de hemocomponente, principalmente em pacientes com dificuldade de metabolizar o citrato (hepatopatia aguda ou crônica, hipotermia e hipotensão severa e prolongada), pode resultar em quadro de intoxicação pelo excesso de citrato, com hipocalcemia e alcalose metabólica. 
+Os hemocomponentes contêm o citrato como solução anticoagulante, um quelante do cálcio, impedindo a coagulação do sangue após sua coleta e durante sua conservação. Infusão de grande volume de hemocomponentes, principalmente em pacientes com dificuldade de metabolizar o citrato (hepatopatia aguda ou crônica, hipotermia e hipotensão severa e prolongada), pode resultar em quadro de intoxicação pelo excesso de citrato, com hipocalcemia e alcalose metabólica. 
 A alcalose metabólica decorre do fato de que, no metabolismo hepático, cada mmol/L de citrato gera 3mEq de bicarbonato. Desta forma, em pacientes com insuficiência hepática ou renal (quando não há eliminação adequada do excesso de bicarbonato), pode ocorrer alcalose metabólica, com hipocalemia, que se manifesta com arritmia e vasodilatação com piora do sangramento e da hipotensão.  
 Para corrigir essas complicações, são recomendadas a monitorização frequente do cálcio iônico, pH e potássio, e deve ser feita a reposição com cloreto ou gluconato de cálcio, para manter níveis acima de 1,13mmol/L, e com cloreto de potássio nos casos de hipocalemia.
+
 e) Hipercalemia e acidose 
 A acidose/hipercalemia, nas situações de perda sanguínea maciça, decorre da má perfusão periférica. A transfusão de hemocomponentes com mais de 14 a 21 dias de estocagem tem maior quantidade de K+ consequente à lise celular, porém pode ser realizada sem gerar impacto clínico negativo, uma vez que o excesso de K+ é perdido pela urina, entra nas células e é diluído com a reposição de cristaloides. Deve-se ter cuidado apenas nos casos de exsanguineotransfusão em RNs ou em transfusão maciça na presença de insuficiência renal grave, quando se devem utilizar hemácias com menos de 5 dias de estocagem ou hemácias lavadas, para retirar o excesso de K+.
 Para o sucesso terapêutico nas transfusões maciças, são fundamentais o restabelecimento rápido da perfusão periférica, a prevenção da coagulopatia e a resolução rápida da causa do sangramento. 
+
 6. Reações transfusionais
+
 A - Imediatas
+
+Importante
+As reações imediatas a transfusões de sangue ocorrem nas primeiras horas de transfusão e são: reação hemolítica aguda (por incompatibilidade ABO), reação febril não hemolítica, contaminação bacteriana do sangue doado (manifestada por febre, calafrios, hipotensão e choque), TRALI, reação alérgica (que se apresenta por prurido, urticária, angioedema e choque anafilático), sobrecarga volêmica e hipotensão.
+
 Ocorrem dentro das primeiras 24 horas após a transfusão, mas, em geral, durante o procedimento ou nas primeiras 4 horas. As Tabelas a seguir apresentam as principais reações transfusionais imediatas:
+
 Tabela 12 - Reação hemolítica aguda
 Definição	Há aloanticorpos no soro do receptor que reagem contra os antígenos das hemácias do doador, provocando hemólise.
 Incompatibilidade ABO	Esse é o quadro mais grave, ocorrendo em 1 a cada 12.000 transfusões, por erros logísticos (troca de bolsas ou de amostras). Como os anticorpos anti-A e anti-B são IgM e têm alto potencial de ativação do sistema complemento, o resultado é intensa hemólise intravascular que se inicia logo após a transfusão. Os primeiros 30mL de sangue transfundidos já são suficientes para desencadear reação hemolítica, com repercussão clínica grave, inclusive óbito. Quase todas as hemácias infundidas são imediatamente hemolisadas. O sistema complemento é hiperativado, produzindo fatores quimiotáticos para neutrófilos (C3a, C5a), que liberam citocinas pró-inflamatórias e ativam o sistema de coagulação, provocando CIVD.
-Sinais e sintomas	Febre (elevação da temperatura em pelo menos 1°C em relação à temperatura pré-transfusão), calafrio, mal-estar, ansiedade, taquidispneia, dor lombar, taquicardia, flush facial, hemoglobinúria, choque, oligúria e insuficiência renal aguda (necrose tubular aguda por hemoglobinúria + ação de citocinas) e sinais de CIVD (sangramento microvascular e falência de múltiplos órgãos), com letalidade em torno de 40%. Os sintomas geralmente acontecem no início da transfusão.
-Conduta	Suspende-se imediatamente a transfusão; realiza-se hidratação vigorosa para manter o débito urinário >100mL/h, com o objetivo de reduzir a lesão renal, terapia de suporte respiratório e hemodinâmico.
-Prevenção	Pronta identificação após coleta de amostra para tipagem sanguínea do receptor, dupla checagem de bolsa e identificação do receptor.
+Sinais e 
+sintomas	Febre (elevação da temperatura em pelo menos 1°C em relação à temperatura pré-transfusão), calafrio, mal-estar, ansiedade, taquidispneia, dor lombar, taquicardia, flush facial, hemoglobinúria, choque, oligúria e insuficiência renal aguda (necrose tubular aguda por hemoglobinúria + ação de citocinas) e sinais de CIVD (sangramento microvascular e falência de múltiplos órgãos), com letalidade em torno de 40%. Os sintomas geralmente acontecem no início da transfusão.
+Conduta	Suspende-se imediatamente a transfusão; realiza-se hidratação vigorosa para manter o débito urinário >100mL/h, com o objetivo de reduzir a lesão renal, terapia de suportes respiratório e hemodinâmico.
+Prevenção	Faz-se uma pronta identificação após coleta de amostra para tipagem sanguínea do receptor, dupla checagem de bolsa e identificação do receptor.
+
 Tabela 13 - Reação febril não hemolítica
 Definição	- É a mais frequente das complicações pós-transfusionais, ocorrendo de 1 a cada 30 ou 100 transfusões (0,3 a 1%), ainda mais comum após a transfusão de plaquetas. São 2 os mecanismos principais: 
 · Aloimunização contra antígenos HLA de leucócitos (presentes no concentrado de hemácias ou plaquetas); 
-· Formação de citocinas pelos leucócitos da bolsa infundida (eventualmente, essa produção também pode ser feita pelas plaquetas), entre elas o pirogênio endógeno e a interleucina l.
+· Formação de citocinas pelos leucócitos da bolsa infundida (eventualmente, essa produção também pode ser feita pelas plaquetas), entre elas o pirogênio endógeno e a interleucina 1.
 Sinais e sintomas	Calafrios, evoluindo com hipertermia (elevação da temperatura em pelo menos 1°C em relação à temperatura pré-transfusão) e mal-estar. Em geral, a manifestação acontece ao final da transfusão ou até 4 horas após.
 Conduta	Embora a evolução seja benigna, recomenda-se a suspensão imediata da transfusão para averiguar a possibilidade de reação hemolítica aguda ou contaminação bacteriana. Antipiréticos devem ser prescritos para a febre, e meperidina 25 a 50mg, para os tremores.
 Prevenção	Recomenda-se pré-medicação com antipiréticos (paracetamol ou dipirona), ou a transfusão de hemácias pobres em leucócitos (hemácias leucodepletadas).
+
 Tabela 14 - Contaminação bacteriana
-Definição	Complicação potencialmente grave que pode ocorrer em razão da contaminação do sangue doado no momento da coleta, da manipulação ou da estocagem (o sistema fechado de bolsa dupla ou tripla reduziu drasticamente essa complicação. A maioria das bactérias não resiste à temperatura de armazenamento do concentrado de hemácias (4°C), exceto a Yersinia enterocolitica. Por isso, essa bactéria é o agente etiológico mais comum da sepse por transfusão de hemácias. No concentrado de plaquetas, a chance de contaminação é bem maior, por ser armazenado em temperaturas mais próximas da temperatura ambiente – 22°C)
+Definição	Complicação potencialmente grave que pode ocorrer em razão da contaminação do sangue doado no momento da coleta, da manipulação ou da estocagem (o sistema fechado de bolsa dupla ou tripla reduziu drasticamente essa complicação. A maioria das bactérias não resiste à temperatura de armazenamento do concentrado de hemácias (4°C), exceto a Yersinia enterocolitica. Por isso, essa bactéria é o agente etiológico mais comum da sepse por transfusão de hemácias. No concentrado de plaquetas, a chance de contaminação é bem maior, por ser armazenado em temperaturas mais próximas da temperatura ambiente, ao redor de 22°C)
 Sinais e sintomas	Calafrios, febre (elevação da temperatura em pelo menos 1°C em relação à temperatura pré-transfusão), hipotensão e choque
 Conduta	Interrupção imediata da transfusão, coleta da amostra do receptor e da bolsa para hemocultura, introdução de antibiótico e suporte clínico
 Prevenção	Assepsia adequada na coleta, esterilidade na manipulação e cuidados na estocagem
-Tabela 15 - Injúria pulmonar aguda relacionada à transfusão (TRALI)
+
+Tabela 15 - Injúria pulmonar aguda relacionada à transfusão 
 Definição	Complicação grave, presente em 1 a cada 5.000 transfusões, sendo a principal causa de mortalidade relacionada ao procedimento no Reino Unido. A patogênese depende de aloanticorpos do plasma do doador que reagem contra os leucócitos do receptor, induzindo-os à agregação e adesão no endotélio alveolar, liberando citocinas e aumentando a permeabilidade vascular. Pode ocorrer também reação entre anticorpo do doador e mediador lipídico de neutrófilo do receptor e, raramente, anticorpo do receptor contra leucócitos do doador.
 Sinais e sintomas	Febre, calafrios, taquidispneia, hipóxia, cianose, hipotensão arterial, edema pulmonar e aparecimento de infiltrados difusos ao raio x de tórax. O quadro pode agravar-se e transformar-se em síndrome da angústia respiratória aguda, com hipoxemia grave e óbito (o diagnóstico diferencial com sobrecarga volêmica é feito pela pressão capilar pulmonar normal).
-Conduta	Suporte ventilatório e hemodinâmico, muitas vezes com necessidade de ventilação mecânica. Evitar uso de diurético, pois o paciente é hipovolêmico e geralmente hipotenso. A administração de corticoide não apresenta benefício comprovado. Contudo, com suporte intensivo adequado, a maioria se recupera bem após 48 a 96 horas.
-Prevenção	Ainda não há consenso sobre a melhor forma de prevenção da TRALI. Sugerem-se utilizar componentes plasmáticos apenas de indivíduos do sexo masculino, pois as mulheres são expostas a diferentes antígenos HLA durante a gestação, com maior chance de formação de anticorpos antileucócitos.
+Conduta	Suportes ventilatório e hemodinâmico, muitas vezes com necessidade de ventilação mecânica. Evitar uso de diurético, pois o paciente é hipovolêmico e geralmente hipotenso. A administração de corticoide não apresenta benefício comprovado. Contudo, com suporte intensivo adequado, a maioria se recupera bem após 48 a 96 horas.
+Prevenção	Ainda não há consenso sobre a melhor forma de prevenção da TRALI. Sugerem-se utilizar componentes plasmáticos apenas provenientes de indivíduos do sexo masculino, pois as mulheres são expostas a diferentes antígenos HLA durante a gestação, com maior chance de formação de anticorpos antileucócitos.
+
 Tabela 16 - Reação alérgica
 Definição	Alergia aos componentes (proteínas) do plasma. Apresenta incidência relativamente alta, comparável à da reação febril não hemolítica. Obviamente, é mais comum na transfusão de PFC e plaquetas, mas também pode acontecer com a transfusão de concentrado de hemácias. Os pacientes com quadros alérgicos mais graves são aqueles que apresentam deficiência hereditária de IgA (1 a cada 900 brasileiros). Esses indivíduos geralmente possuem anticorpos anti-IgA que reagem com a IgA do plasma transfundido.
 Sinais e sintomas	Compreendem manifestações alérgicas de intensidade variável, desde prurido, urticária, angioedema e broncoespasmo leve até choque anafilático (raro, com uma incidência de 1 a cada 150.000 transfusões).
 Conduta	Interromper a transfusão e administrar anti-histamínicos associados ou não a corticoide; em caso de choque anafilático, associar adrenalina. É a única reação transfusional que permite continuar a transfusão após o controle do sintoma (em caso de manifestação alérgica leve).
+
 Tabela 17 - Sobrecarga volêmica
 Definição	Hipervolemia que ocorre quando o paciente é incapaz de compensar a expansão do volume sanguíneo infundido (geralmente, pacientes com insuficiência cardíaca e insuficiência renal)
 Sinais e sintomas	Cefaleia, dispneia, hipoxemia, taquicardia, edema pulmonar e hipertensão arterial sistólica
 Conduta	Interrupção da transfusão, elevação do decúbito, suporte ventilatório e diuréticos
 Prevenção	Infusão do concentrado de hemácias lentamente na velocidade de 2 a 4mL/kg/h (com cuidado para não exceder 4 horas)
+
 Tabela 18 - Hipotensão
-Definição	Após a transfusão de plaquetas e hemácias ocorre a geração de bradicinina pela ativação das vias das cininas secundária ao contato do plasma com superfícies artificiais (filtro de leucócitos). Pacientes medicados com inibidores da enzima conversora da angiotensina já têm níveis mais elevados de bradicinina e, quando transfundidos com filtro de leucócitos bedside, podem desenvolver essa reação.
+Definição	Após a transfusão de plaquetas e hemácias ocorre a geração de bradicinina pela ativação das vias das cininas secundária ao contato do plasma com superfícies artificiais (filtro de leucócitos). Pacientes medicados com inibidores da enzima conversora de angiotensina já têm níveis mais elevados de bradicinina e, quando transfundidos com filtro de leucócitos bedside, podem desenvolver essa reação.
 Sinais e sintomas	Compõem-se de hipotensão, dor abdominal e eritema facial.
 Conduta	Cessar transfusão, infundir cristaloides e adotar posição de Trendelenburg.
 Prevenção	Evitar filtro de leucócitos bedside e preferir filtragem pré-estocagem, quando o filtro estiver indicado.
-Tabela 19 - Condutas a serem tomadas
+
+Tabela 19 - Condutas a serem tomadas nos casos de reações transfusionais
 - Interrupção imediata da transfusão;
 - Exame dos rótulos das bolsas e de todos os registros pertinentes, para verificar se houve algum erro na identificação do paciente ou das bolsas transfundidas;
 - Coleta de novas amostras de sangue do receptor, as quais, apropriadamente rotuladas, devem ser rapidamente remetidas ao serviço de hemoterapia, junto com a bolsa que estava sendo transfundida, ainda que esta já esteja vazia. Serão repetidas as provas pré-transfusionais do receptor e da bolsa, prova antiglobulina direta, prova cruzada maior com o resíduo da unidade, pesquisa de anticorpos irregulares e de sinais de hemólise e cultura para bactérias da bolsa e do paciente.
+
 Todas as informações relativas à reação devem ser registradas no prontuário, e toda unidade envolvida em uma reação transfusional deve ser descartada.
+
 B - Tardias
+
 Tabela 20 - Reações tardias
 Reações	Mecanismos	Quadros clínicos	Tratamentos	Prevenção
 Reação hemolítica tardia	Hemólise extravascular por antígeno incompatível, em indivíduo previamente sensibilizado; antígenos mais comuns: Rh D, outros antígenos Rh, Kell, Duffy	Anemia hemolítica 2 a 10 dias após a transfusão, de leve a moderada intensidade, com febre, icterícia, reticulocitose e Coombs direto positivo	Monitorização do hematócrito; nova transfusão, se necessário	Transfusão de hemácias fenotipadas (negativas para o antígeno em questão)
-DECH transfusional	“Enxertia” do linfócito do doador em receptor com imunodeficiência celular ou com HLA semelhante (parente de 1º ou 2º grau), resultando em agressão tecidual pelo linfócito enxertado	A depender do tecido lesado: rash cutâneo (pele), diarreia, aumento de bilirrubina direta (trato gastrintestinal), aplasia (medula óssea)	Imunossupressão (mortalidade de 90%)	Irradiação de hemocomponentes celulares (hemácias e plaquetas)
+Doença enxerto contra hospedeiro transfusional	“Enxertia” do linfócito do doador em receptor com imunodeficiência celular ou com HLA semelhante (parente de 1º ou 2º grau), resultando em agressão tecidual pelo linfócito enxertado	A depender do tecido lesado: rash cutâneo (pele), diarreia, aumento de bilirrubina direta (trato gastrintestinal), aplasia (medula óssea)	Imunossupressão (mortalidade de 90%)	Irradiação de hemocomponentes celulares (hemácias e plaquetas)
 Doenças infecciosas*	Utilização de sangue contaminado com hepatites B e C, HIV, HTLV, sífilis, doença de Chagas, malária, doença de Creutzfeldt-Jakob, citomegalovirose, parvovírus B19	A depender do agente transmitido	Da doença adquirida	Triagens clínica e sorológica, uso racional do sangue, transfusão de hemocomponente filtrado para prevenir infecções que utilizam o leucócito como vetor (CMV)
-Púrpura pós-transfusional	Reação do anticorpo do receptor contra antígeno plaquetário do doador; possivelmente decorrente da transfusão de qualquer hemocomponente (principalmente hemácia)	Plaquetopenia importante de 5 a 10 dias após a transfusão, com ou sem manifestação de sangramento e duração autolimitada de 1 a 3 semanas	Se plaquetopenia severa ou sangramento ativo, administração de imunoglobulina	Uso de hemácias lavadas e plaquetas HPA1 negativas (antígeno plaquetário mais comumente envolvido)
+Púrpura pós-transfusional	Reação do anticorpo do receptor contra antígeno plaquetário do doador; possivelmente decorrente da transfusão de qualquer hemocomponente (principalmente hemácia)	Plaquetopenia importante que surge entre 5 e 10 dias após a transfusão, com ou sem manifestação de sangramento e duração autolimitada de 1 a 3 semanas	Se plaquetopenia severa ou sangramento ativo, administração de imunoglobulina	Uso de hemácias lavadas e plaquetas HPA1 negativas (antígeno plaquetário mais comumente envolvido)
 Aloimunização	Produção de aloanticorpos contra antígenos presentes na membrana das hemácias e/ou leucócitos e/ou plaquetas, principalmente
-antígenos HLA	Refratariedade plaquetária e hemólise tardia	Transfusão de hemocomponentes compatíveis	Uso de hemácia/plaqueta leucodepletada
-Hemossiderose	Acúmulo de ferro nos tecidos, decorrente de múltiplas transfusões (1mL de hemácia contém 1mg de ferro)	A depender da quantidade de ferro acumulado e do órgão acometido: escurecimento da pele; insuficiências hepática, cardíaca, pancreática	Quelação de ferro em pacientes cronicamente transfundidos	Uso racional do sangue
-* A triagem sorológica nas bolsas de sangue coletadas é feita para HIV, HCV, HBV (anti-HBc e AgHBs), sífilis (teste treponêmico e não treponêmico), HTLV e Chagas. A pesquisa de malária é feita apenas nas regiões endêmicas.
+antígenos HLA	Refratariedade plaquetária e hemólise tardia	Transfusão de hemocomponentes compatíveis	Uso de hemácias/plaquetas leucodepletadas
+Hemossiderose	Acúmulo de ferro nos tecidos, decorrente de múltiplas transfusões (1mL de hemácia contém 1mg de ferro)	A depender da quantidade de ferro acumulado e do órgão acometido: escurecimento da pele; insuficiências hepática, cardíaca e pancreática	Quelação de ferro em pacientes cronicamente transfundidos	Uso racional do sangue
+* A triagem sorológica nas bolsas de sangue coletadas é feita para HIV, HCV, HBV (anti-HBc e HBsAg), sífilis (teste treponêmico e não treponêmico), HTLV e Chagas. A pesquisa de malária é feita apenas nas regiões endêmicas.
+
+Pergunta
+2014 - HCV
+2. Sobre hemoderivados, é correto afirmar que: 
+a) TRALI é uma complicação muito comum após transfusão de plasma fresco 
+b) a chamada estratégia restritiva – transfusão de concentrado de hemácias em pacientes críticos estáveis com hemoglobina <7 – tem sido associada a diminuição da mortalidade 
+c) a reposição de hemoderivados agressiva, incluindo reposição de plasma fresco de 40mL/kg e metas de hemoglobina de 10 no paciente crítico, tem sido associada a redução da mortalidade 
+d) tromboelastografia e estratégia restritiva de concentrado de hemácias com meta de hemoglobina = 11 têm sido associadas a melhores desfechos de mortalidade 
+e) pacientes críticos instáveis com doença cardíaca isquêmica aguda devem ter metas de hemoglobina = 6,5 devido ao elevado efeito trombótico transfusional 
+Resposta no final do capítulo
+
 A triagem sorológica dos vírus HIV, HCV e HBV pode ser feita pelo método ELISA, para pesquisa de anticorpos, ou pelo NAT, para a detecção molecular de ácidos nucleicos. A técnica do NAT ainda não é uma realidade amplamente disponível no SUS do Brasil.
+
 Tabela 21 - Janela imunológica e risco residual por doença
 Agentes	Janela imunológica (dias)*	Risco residual (por doação)**
 	ELISA	NAT	ELISA	NAT
@@ -271,10 +394,17 @@ HBV	45	39	1:220.000	1:500.000
 ** Risco residual: risco de transmissão de um agente infeccioso por transfusão sanguínea no período de janela imunológica.
 
 7. Resumo
+
 Quadro-resumo
-Indicação de plaqueta profilática
+Indicação de transfusão de concentrado de hemácias
+- Pacientes com sinais e sintomas de síndrome anêmica independente do valor de Hb;
+- Geralmente quando Hb <7g/dL (em adultos).
+Indicação terapêutica de transfusão de concentrado de plaquetas
+- Plaquetas <50.000 na presença de sangramento ativo;
+- Portadores de plaquetopatias congênitas na presença de sangramento ativo (independente da contagem plaquetária).
+Indicação profilática de transfusão de concentrado de plaquetas
 - Se <10.000: pacientes estáveis, com plaquetopenia por deficiência de produção (aplasia, pós-quimioterapia, radioterapia);
-- Se <20.000: pacientes com plaquetopenia por deficiência de produção, mas com febre, outra coagulopatia ou medicamento que leve à plaquetopatia; RN de termo clinicamente estável;
+- Se <20.000: pacientes com plaquetopenia por deficiência de produção, mas com febre, outra coagulopatia ou medicamento que leve a plaquetopatia; RN de termo clinicamente estável;
 - Se <50.000: pré-cirúrgico ou pré-procedimento invasivo; RN prematuro; RN de termo com instabilidade ou risco de sangramento;
 - Se <100.000: cirurgia de SNC ou oftalmológica;
 - Independente da contagem de plaquetas: plaquetopatia congênita ou adquirida pré-cirúrgica ou procedimento invasivo.
@@ -283,8 +413,8 @@ Indicação de PFC
 - Tratamento da coagulopatia dilucional da transfusão maciça;
 - Reversão em caráter de emergência (sangramento ativo, pré-operatório ou procedimento invasivo) do efeito de anticoagulantes orais;
 - Plasmaférese para púrpura trombocitopênica trombótica ou síndrome hemolítico-urêmica;
-- Em alguns casos de deficiência de antitrombina III e necessidade de heparinização.
-Uso não indicado do PFC
+- Em alguns casos de deficiência de antitrombina e necessidade de heparinização.
+Uso não indicado de PFC
 - Como expansor de volume;
 - Para reverter coagulopatia provocada por dicumarínico quando não há sangramento ativo ou programação cirúrgica de emergência, independente do INR;
 - Como fonte proteica.
@@ -300,3 +430,38 @@ Complicações da transfusão maciça
 - Hipotermia;
 - Toxicidade provocada pelo citrato: hipocalcemia, alcalose;
 - Hipercalemia, acidose.
+Principais hemoderivados
+- Concentrado de fator VIII;
+- Concentrado de fator IX;
+- Complexo protrombínico;
+- Concentrado de fator VII.
+Tipos de autotransfusão
+- Recuperação intraoperatória de sangue;
+- Hemodiluição normovolêmica;
+- Doação autóloga.
+Procedimentos especiais em Hemoterapia
+- Hemocomponentes filtrados;
+- Hemocomponentes irradiados;
+- Lavagem de hemácias;
+- Plasmaférese;
+- Sangria terapêutica;
+- Exsanguineotransfusão.
+Reações transfusionais imediatas
+- Imunológicas: reação hemolítica aguda; TRALI, reação alérgica;
+- Não imunológicas: reação febril não hemolítica, sobrecarga volêmica, hipotensão.
+Reações transfusionais tardias
+- Infecção por HBC, HVC, HIV, sífilis, Chagas ou outros;
+- Hemossiderose;
+- Púrpura pós-transfusional;
+- Doença enxerto contra hospedeiro transfusional;
+- Reação hemolítica tardia;
+- Aloimunização.
+
+Respostas
+1. C
+2. B
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
