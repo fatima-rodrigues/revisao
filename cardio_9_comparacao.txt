@@ -1,0 +1,521 @@
+
+Insuficiência cardíaca congestiva
+José Paulo Ladeira[- / -]
+Rodrigo Antônio Brandão Neto[- / -]
+Fabrício Nogueira Furtado
+
+{+Resumo+}
+{+Neste capítulo, discutiremos a abordagem de uma síndrome clínica complexa, que representa um grave problema de saúde pública em todo o mundo, com elevadas taxas de morbidade e mortalidade. A Insuficiência Cardíaca (IC), além do desafio que impõe aos profissionais de saúde, representa a 3ª patologia cardiológica mais frequente nas provas. É uma síndrome caracterizada pela incapacidade do coração de suprir as necessidades metabólicas dos tecidos e que pode ocorrer por déficit contrátil (forma sistólica) ou por déficit de relaxamento ventricular (forma diastólica). As principais manifestações são dispneia e fadiga, além da intolerância aos esforços, retenção de fluidos com consequente congestão pulmonar e edema de membros inferiores. O diagnóstico é clínico e baseia-se na história e nos achados do exame físico. O tratamento depende da classe funcional, e o controle ou a eliminação dos fatores de risco são essenciais para evitar a progressão da doença. O tratamento farmacológico utiliza Inibidor da Enzima Conversora de Angiotensina (IECA) indicado em qualquer estágio; betabloqueador para reduzir a mortalidade e o risco de internação nas classes II, III e IV; diuréticos são sintomáticos clássicos aqui; restrição de sódio; digital (para tratamento sintomático, além de controle da resposta ventricular em pacientes com fibrilação atrial); antagonistas da aldosterona indicados na forma avançada (NYHA III e IV), associada ao tratamento-padrão com diurético, digital, IECA e betabloqueador. O uso das medicações inotrópicas parenterais deve ser limitado à forma grave, principalmente em caso de choque cardiogênico, pois se associam a aumento de mortalidade em médio e longo prazos.+}
+1. Introdução
+
+A Insuficiência Cardíaca (IC) é um grande problema de saúde pública, particularmente nos países desenvolvidos e em al[---]guns em desenvolvimento, como o Brasil, além de uma das principais causas de internação e óbito em todo o mundo. Nos últimos anos, tem havido melhor entendimento da sua fisiopatologia, o que, associado a diversos estudos randomizados com grande número de indivíduos, permitiu o desenvolvimento de novas opções terapêuticas. O termo ICC, referente à Insufici[---]ência Cardíaca Congestiva, está sendo abandonado, pois nem todos os pacientes apresentam quadro de congestão.
+Nos Estados Unidos, acomete cerca de 5 milhões de pessoas, e, a cada ano, são diagnosticados 500.000 novos casos. É a causa principal de 12 a 15 milhões de consultas, 6,5 milhões de diárias hospitalares e 300.000 óbitos ao ano. Acomete princi[---]palmente idosos, pois de 6 a 10% das pessoas acima de 65 anos têm IC e 80% dos hospitalizados por IC têm mais de 65 anos.
+No Brasil, não existem estudos epidemiológicos, porém se estimam cerca de 6,4 milhões de portadores de IC. Em 2000, houve quase 400.000 internações e 26.000 óbitos por ela, sendo a principal causa de internação hospitalar na população acima dos 60 anos, números superiores aos das pneumonias domiciliares (DATASUS). Entre 2000 e 2007, houve redução no número de internações, com manutenção da porcentagem de morte creditada à IC durante a internação – em torno de 6%. 
+O prognóstico é reservado. Metade falece em 4 anos, e, em casos mais graves (classe funcional IV), metade falece no pe[---]ríodo de 1 ano. Apesar dos avanços no tratamento de tais casos, não tem sido observada melhora nas taxas de mortalidade no decorrer dos anos.
+
+2. Definições
+
+A IC é uma síndrome complexa que resulta de qualquer anormalidade estrutural ou funcional que prejudique o enchi[---]mento ventricular ou a ejeção do sangue. Também se caracteriza pela incapacidade do coração de suprir as necessidades metabólicas do organismo, e diferentes estruturas cardíacas podem estar acometidas e determiná-la. É possível, ainda, que ocorra não por mau funcionamento cardíaco, mas por excessiva demanda metabólica tecidual, como acontece na anemia, na sepse, no beribéri, na doença de Paget e nas fístulas arteriovenosas, situações em que a IC é dita de alto débito.
+Por definição, para o estudo da IC, o grande marcador é a presença de baixo débito cardíaco por disfunção miocárdica ventricular, já que essa é a forma mais frequente de apresentação. Suas principais manifestações são dispneia e fadiga, além de intolerância aos esforços, retenção de fluidos com consequente congestão pulmonar e edema dos membros inferiores. 
+A disfunção pode ocorrer por predomínio de dificuldade para relaxamento miocárdico (IC diastólica) ou de déficit contrá[---]til (IC sistólica). São exemplos de doenças que causam IC diastólica: isquemia miocárdica, miocardiopatia hipertensiva, miocar[---]diopatia hipertrófica e as doenças infiltrativas do miocárdio (amiloidose, sarcoidose). A última Diretriz Brasileira de IC reco[---]menda o uso dos termos IC com Fração de Ejeção (FE) preservada e IC com FE reduzida para a caracterização dos referidos tipos de IC.
+Já a dilatação ventricular e a consequente disfunção sistólica representam, em grande parte, a via final comum de diferen[---]tes miocardiopatias, como as miocardiopatias isquêmica, hipertensiva (fase dilatada), chagásica e dilatada idiopática.
+O acometimento ventricular, muitas vezes, é heterogêneo, com maior prejuízo de 1 dos ventrículos, o que dá origem às denominações de IC direita ou esquerda. Na maior parte dos casos, há acometimentos mistos diastólico e sistólico, direito e esquerdo.
+
+[-P-]{+Diagnóstic+}o
+{+Pela insuficiência ca+}r{+díaca congestiva+} ser um quadro sindrômico, o diagnóstico não pode basear-se em achado único de exame físico ou laboratorial. Para o diagnóstico clínico, são necessários ao menos 2 sinais maiores ou 1 sinal maior associado a 2 menores, conforme os critérios de Framingham modificados (Tabela 1), e quando esses sintomas/sinais não podem ser atribuídos a outras causas.
+
+{+Importante+}
+{+A insuficiência cardíaca é definida pela incapacidade do coração de suprir as necessidades metabólicas do organismo. Pode resultar de qualquer anormalidade estrutural/funcional que prejudique o enchimento ventricular ou a ejeção do sangue. Além disso, pode ocorrer por demanda metabólica tecidual excessiva – insuficiência cardíaca de alto débito (anemia, sepse, beribéri, doença de Paget e fístulas arteriovenosas). +}
+
+Tabela 1 - Critérios de Framingham modificados
+Critérios maiores
+- Dispneia paroxística noturna;
+@@ -32,34 +45,46 @@ Crit
+- FC >120bpm.
+
+ 
+Figura 1 - I[-C-]{+nsuficiência cardíaca+} de alto débito por beribéri
+
+3. Fisiopatologia
+
+A partir de uma injúria ao coração, levando ao estado de baixo débito cardíaco, diversos mecanismos são ativados para compensarem a queda do débito cardíaco por aumento de inotropismo e cronotropismo, mantendo a pressão arterial à custa de vasoconstrição arterial periférica e de retenção de sódio e água. Esses mecanismos visam garantir as perfusões cerebral, cardíaca e renal. Os sistemas ativados foram desenvolvidos, do ponto de vista filogenético, para proteger o organismo de estados hipovolêmicos agudos (desidratação e hemorragia) e representam, no caso da disfunção ventricular, mecanismos desadaptativos, pois, quando mantidos em estimulação prolongada (semanas/meses), levam ao remodelamento ventricular, perpetuando e colaborando para a piora progressiva.
+Mesmo procurando melhorar o débito cardíaco, esses mecanismos também podem ser deletérios. A persistência de um regime de pressão cronicamente elevado nas câmaras cardíacas acaba causando hipertrofia e dilatação miocárdica, além de elevação das pressões nos átrios e nas circulações sistêmica e pulmonar. A taquicardia e o aumento da contratilidade podem desencadear isquemia do miocárdio, e o aumento da pré-carga agrava a congestão pulmonar. A vasoconstrição excessiva eleva demasiadamente a pós-carga, dificultando o esvaziamento cardíaco, além de prejudicar a perfusão dos demais órgãos. Há, também, elevação dos níveis de vasopressina, responsável pela absorção de água livre de sódio, podendo gerar hipona[---]tremia{+, marcador da severidade da IC e de prognóstico. Também pode ser utilizada, quando revertida, como indicador de compensação do quadro de IC+}.
+Várias são as alterações neuro-hormonais associadas à fisiopatologia da IC. Algumas promovem vasoconstrição e retenção de sódio e água, como a hiperatividade do sistema nervoso simpático, a estimulação do sistema renina–angiotensina–aldosterona e a liberação de arginina–vasopressina. Outros mecanismos compensatórios promovem vasodilatação, natriurese e diurese por meio da ação de peptídios natriuréticos (BNPs), de algumas prostaglandinas e da bradicinina. Embora interajam continuamente, as ações vasoconstritoras e retentoras de sódio superam as ações vasodilatadoras e natriuréticas, resultando em aumento da resistência vascular periférica e na retenção de sódio e água.
+Há tempos é reconhecida a deficiência da vasodilatação periférica que se manifesta ao exercício entre os pacientes com IC. Neles foram demonstrados níveis de endotelina plasmática de 2 a 5 vezes mais elevados do que em pacientes normais, com significado expressivo de mau prognóstico. As endotelinas determinam ação vasoconstritora potente, retenção de sódio e água, ativação simpática e do sistema renina–angiotensina–aldosterona, além de estímulo proliferativo sobre os músculos lisos, miócitos cardíacos e fibroblastos. Tal conjunto de alterações caracteriza a disfunção endotelial da IC.
+Do ponto de vista macroscópico, o termo remodelação ventricular refere-se às modificações da forma e do tamanho do coração, que passa a aumentar de volume e de massa e a adquirir forma esférica. Do ponto de vista tecidual, representa a morte de cardiomiócitos por necrose e apoptose, sendo substituídos por fibroblastos e tecido colágeno. Os miócitos restan[---]tes sofrem hipertrofia excêntrica.
+As citocinas compõem um grupo heterogêneo de proteínas com pequeno peso molecular, que se caracterizam por exer[---]cer seus efeitos localmente por ação autócrina ou parácrina. Duas classes de citocinas estão relacionadas na fisiopatologia da IC: citocinas vasoconstritoras e inotrópicas positivas (endotelinas) e citocinas pró-inflamatórias vasodepressoras (TNF-alfa, IL-6 e IL-1b). 
+
+4. História natural 
+
+A IC é uma doença progressiva. O que perpetua o quadro é a contínua ativação dos sistemas citados, portanto tal progres[---]são está diretamente relacionada à deterioração da função e da estrutura cardíacas, que pode acontecer sem uma nova agressão ao coração. Com o tempo, os sinais e as consequências funcionais tornam-se progressivamente mais intensos, e os indivíduos podem manifestar sintomas aos mínimos esforços e mesmo ao repouso. 
+
+{+Dica+}
+São causas de descompensação da [-IC-]{+insuficiência cardíaca+}: excesso de ingestão de líquidos e de sódio, interrupção do tratamento, embolia pulmonar, arritmias, isquemia coronariana, infecções, trauma (acidental ou cirúrgico), anemia, hipotireoidismo ou hipertireoidismo, entre outras.{+ +}
+Nos casos mais graves, apresenta taxa de mortalidade superior à da maior parte das neoplasias malignas. A morte pode acontecer por progressão da disfunção ventricular ou por eventos súbitos (taquicardia ventricular, fibrilação ventricular). São também causas de morte desses indivíduos infecções, embolia pulmonar e bradiarritmias.
+
+5. Quadro clínico
+
+O diagnóstico é clínico e baseia-se em achados de história e exame físico. Queixa de dispneia progressiva é relatada com mais frequência, em geral notada, inicialmente, aos grandes esforços e progredindo para pequenos esforços ou mesmo ao repouso. 
+O edema pulmonar manifesta-se, inicialmente, por meio de acúmulo de líquido no compartimento intersticial, progredin[---]do para espaços alveolares e vias aéreas. O paciente passa a apresentar ortopneia, que aparece minutos após se deitar, tipi[---]camente quando ainda está acordado. Embora seja característico, tal sintoma é inespecífico.
+O paciente em evolução pode apresentar tosse em virtude da congestão pulmonar, sendo seca e de predomínio noturno. Posteriormente, há dispneia paroxística noturna, que surge horas após deitar-se. Trata-se de um sintoma com boa especifici[---]dade para o diagnóstico.
+A propedêutica pulmonar revela estertores crepitantes inspiratórios, e sibilos podem ocorrer por congestão peribrônqui[---]ca. Em quadros de edema pulmonar mais avançado, o edema alveolar atinge brônquios de grande calibre, causando crepita[---]ções grosseiras inspiratórias e expiratórias. 
+O edema nos membros inferiores é outra queixa comum, inicialmente na região perimaleolar, depois ascendendo pela região pré-tibial, chegando à raiz da coxa. Tal edema é, em geral, simétrico, depressível e mole, com predomínio à tarde e melhorando à noite. Isso acontece pela redistribuição do fluxo sanguíneo durante o sono em decúbito dorsal. Entre acama[---]dos, acontece, principalmente, na região sacral. Eventualmente, pode haver ascite e derrame pleural.
+A fadiga é uma queixa frequente, mas não completamente explicável. A presença de galope com B3, ictus globoso e dis[---]tensão venosa jugular aumenta a chance do diagnóstico em, respectivamente, 24, 16,5 e 8,5 vezes. A presença de quaisquer desses achados deixa a probabilidade do diagnóstico em 80%, e a presença dos 3 achados virtualmente define a IC.
+Palpitação, outra queixa comum, aparece, em especial, aos esforços e pode tanto refletir o estado de hiperatividade sim[---]pática que busca melhorar o débito cardíaco como ser consequente de taquiarritmias ou bradiarritmias.
+Alguns outros sintomas estão listados na Tabela 2. Pacientes com IC (tanto diastólica quanto sistólica) podem apresentar sintomas de baixo débito (pele fria, pulsos finos, tempo de enchimento capilar prolongado, rebaixamento do nível de consci[---]ência, dor abdominal, oligúria) e congestivos (dispneia, ortopneia, edema de membros inferiores, hepatomegalia, ascite e aumento da pressão venosa central). A intensidade dos sintomas e de alguns sinais (persistência de estase jugular e de 3ª bulha) está associada a pior prognóstico.
+
+{+Diagnóstico+}
+{+O diagnóstico de insuficiência cardíaca é clínico. Exames subsidiários auxiliam na identificação de fatores associados e no estadiamento da síndrome. Trata-se de uma doença progressiva. +}
+
+  
+Figura 2 - Sugestão de diagnóstico de [-IC-]{+insuficiência cardíaca+}
+
+A última Diretriz Brasileira para o manejo de IC, publicada em 20[-09-]{+12+}, sugere algumas características clínicas para a diferen[---]ciação entre ICs sistólica e diastólica. 
+
+Tabela 2 - Características da [-IC-]{+insuficiência cardíaca+} de [-FE-]{+fração de ejeção+} reduzida em comparação à de [-FE-]{+fração de ejeção+} normal
+	Características	FE normal	FE reduzida
+Epidemiologia	Sexo feminino	+++	+
+	Idade >65 anos	+++	+
+Sintomas	Dispneia	+++	+++
+@@ -70,14 +95,16 @@ Sintomas	Dispneia	+++	+++
+	Sinais de hipervolemia	+++	++
+	Hipertensão arterial	+++	+
+	Fibrilação atrial	+++	++
+Ecocardiogra[---]ma	FE <45 a 50%	-	+++
+BNP	>1.000pg/mL	+	+++
+	400 a 1.000pg/mL	+++	+
+
+Tabela 3 - Classificação funcional da New York Heart Association [-(NYHA) -]para [-IC-]{+insuficiência cardíaca+} 
+I	Ausência de dispneia aos esforços habituais
+II	Dispneia aos esforços habituais
+III	Dispneia aos pequenos esforços
+IV	Dispneia ao repouso
+
+Tabela 4 - Possíveis achados clínicos 
+Geral
+- Emagrecimento; 
+@@ -105,170 +132,287 @@ Altera
+- 4ª bulha; 
+- Sopro de insuficiência mitral; 
+- Outros sopros cardíacos (valvopatias). 
+
+Uma classificação muito utilizada é a do Consenso Brasileiro de IC e do Consenso Europeu, cujos estágios funcionais apre[---]sentam boa correlação com a classificação clínica da NYHA.
+
+Tabela 5 - Estágios da [-IC-]{+insuficiência cardíaca+} crônica do adulto{+ segundo os Consensos Brasileiro e Europeu+}
+Estágios	Descrições	Fatores etiológicos (exemplos)
+A (paciente de alto risco)	Pacientes com alto risco de IC pela pre[---]sença de condições clínicas associadas ao desenvolvimento dessa enfermidade e que não apresentam nenhuma altera[---]ção funcional ou estrutural do pericárdio, miocárdio ou de valvas cardíacas e nunca apresentaram sinais ou sintomas	Hipertensão sistêmica, coronariopatia, diabetes mellitus, histórico de cardiotoxi[---]cidade, tratamento por droga ou abuso de álcool, histórico pessoal de febre reumá[---]tica, histórico familiar de cardiomiopatia 
+B (disfunção ventricular assintomáti[---]ca)	Pacientes que já desenvolveram cardio[---]patia estrutural sabidamente associada à IC, mas que nunca apresentaram sinais ou sintomas	Hipertrofia ventricular esquerda ou fibro[---]se, dilatação ventricular esquerda ou hipocontratilidade, valvulopatia ou infarto agudo do miocárdio 
+C (IC sintomática)	Pacientes com sintomas prévios ou pre[---]sentes de IC associados a cardiopatia estrutural subjacente	Dispneia ou fadiga por disfunção ventricu[---]lar esquerda sistólica, assintomáticos sob tratamento para prevenção de IC 
+D (IC refratária)	Pacientes com cardiopatia estrutural e sintomas acentuados de IC em repouso, apesar de terapia clínica máxima, e que requerem intervenções especializadas 	Hospitalizados por IC ou que não podem receber alta, hospitalizados esperando por transplante, pacientes em casa sob tratamento de suporte intravenoso ou sob circulação assistida, pacientes em unida[---]de especial para o manejo da IC 
+
+Do ponto de vista terapêutico, é de maior utilidade a classificação que avalia o estágio evolutivo da doença e a presença ou não de anormalidade estrutural do coração (pericárdica, miocárdica sistólica ou diastólica, ou valvular), pois o tratamento varia com a evolução. 
+
+Tabela 6 - Classificação e tratamento por estágios 
+Classes	Alteração estru[---]tural	Sintomas de IC	Tratamentos
+A	Ausente	Ausentes	Controle/eliminação de fatores de risco; introdução de Inibidor d[-e-]{+a+} Enzima Conversora d[-a-]{+e+} Angiotensina (IECA)
+B	Presente	Ausentes	Todas {+as medidas +}de A + betabloqueador 
+C	Presente	Presentes	Todas {+as medidas +}de B + restrição de sal + diurético + digital se disfunção sistólica
+D	Presente	Presentes	Todas {+as medidas +}de C + medidas especiais
+
+Na classe A, estão os pacientes com alto risco de IC (Hipertensão Arterial Sistêmica – HAS –, diabetes mellitus, insuficiência coronariana, alcoolismo, febre reumática), mas sem alteração estrutural cardíaca ou sintomas. Na classe B, estão aqueles com alteração estrutural cardíaca, mas sem sintomas (hipertrofia ou dilatação ventricular esquerda). Na classe C, estão os pacien[---]tes com alteração estrutural e sintomas prévios ou recorrentes de IC. E, na classe D, estão aqueles com alteração estrutural cardíaca severa e sintomas intensos, a despeito da terapia clínica máxima.
+A síndrome cardiorrenal é uma condição clínica em que há interação entre a piora da função cardíaca e a redução do cle[---]arance renal e vice-versa. Nessa condição, o tratamento fica limitado pela piora da função renal e as formas de apresentação clínica [-vari-]{+englob+}am [-de -]lesão renal aguda, piora crônica da função renal por IC, agressões renais determinando descompensação cardíaca ou piora de ambos os órgãos por agressão secundária, como sepse. Adaptações neuro-hormonais, perfusão renal reduzida, congestão venosa renal e disfunção ventricular direita estão envolvidas na fisiopatologia.
+
+{+Pergunta+}
+{+2015 - UFPR+}
+{+1. Um homem de 58 anos iniciou, há 4 dias, dispneia e palpitação durante atividades físicas habituais. É diabético, em uso de metformina após o jantar. Realizou raio x de tórax, cujo resultado mostrou aumento da área cardíaca. Foi aventada a hipótese diagnóstica de insuficiência cardíaca. Qual é a classe funcional desse paciente, pela classificação da New York Heart Association (NYHA)? +}
+{+a) classe III+}
+{+b) classe I para classe II+}
+{+c) classe IV+}
+{+d) classe II para classe III+}
+{+e) classe II+}
+{+Resposta no final do capítulo+}
+
+6. Exames complementares
+
+A - Exames gerais
+Os exames subsidiários podem identificar fatores relacionados à IC ou à sua piora. Os exames iniciais na avaliação incluem hemograma completo, eletrólitos (incluindo cálcio e magnésio), perfil lipídico, função renal, glicemia e funções hepática e tireoidiana. Sorologia para Chagas deve ser solicitada quando há epidemiologia sugestiva. A radiografia de tórax pode revelar aumento da área cardíaca e da trama vascular pulmonar; na IC diastólica, essa área costuma ser normal. A presença de índice cardiotorácico >0,5 é sensível para o diagnóstico, mas, quando >0,6, a especificidade diagnóstica é maior. Deve ser realizado na avaliação inicial de todos os pacientes.
+O ECG pode trazer pistas tanto da etiologia da IC (áreas de necrose e isquemia sugerem miocardiopatia isquêmica, en[---]quanto bloqueio do ramo direito associado a BDAS – bloqueio divisional anterossuperior – sugere doença de Chagas) quanto da causa de descompensação (taquiarritmias, bradiarritmias, isquemia), assim como a radiografia de tórax faz parte da avalia[---]ção inicial de todos os pacientes. 
+
+B - Ecocardiograma
+Exame muito importante para a avaliação de IC, o ecocardiograma pode determinar se há ou não dilatação dos ventrículos, avaliar tanto a função sistólica quanto a diastólica, medir a espessura ventricular e oferecer informações sobre o pericárdio e o funcionamento valvar. Os achados ecocardiográficos não levam a diagnóstico (que é clínico), mas oferecem informações valiosas para caracterização da síndrome, definição etiológica, avaliação prognóstica e seguimento. 
+A principal medida da função do ventrículo esquerdo é a FE; quando abaixo de 45 a 50%, há prejuízo da função sistólica (alguns autores definem a disfunção quando a FE é menor do que 55%). Entretanto, a interpretação da FE apresenta baixa reprodutibilidade entre diferentes observadores, além de estar prejudicada após um episódio de Infarto Agudo do Miocárdio (IAM) ou na presença de insuficiência mitral.
+A ecocardiografia com estresse com dobutamina é útil na investigação de isquemia e na avaliação da viabilidade miocárdi[---]ca. A detecção de um miocárdio hibernante (músculo miocárdico viável, porém não funcionante, geralmente por isquemia relativa da região) pode influenciar a terapia e tem implicações prognósticas. Há controvérsias na literatura quanto à necessi[---]dade da avaliação de isquemia em todos com IC, mas, na maioria dos casos, não se recomenda avaliação sistemática da vitali[---]dade miocárdica a esses mesmos pacientes. Nos Estados Unidos, onde a porcentagem dos casos de IC secundária à miocardi[---]opatia isquêmica é extremamente elevada, tal avaliação é recomendada da seguinte forma:
+Pacientes com Doença Arterial Coronariana (DAC) definida e angina: a intervenção cirúrgica demonstra benefício de for[---]ma inequívoca, portanto se recomenda a estratificação invasiva com cineangiocoronariografia;
+Pacientes com DAC sem angina: podem ter benefício com a revascularização, mas a literatura não define a melhor estra[---]tégia de estratificação (cintilografia/ecocardiograma com estresse ou cateterismo cardíaco);
+Pacientes com DAC jamais avaliada: caso apresentem dor torácica, mesmo atípica, a estratificação deve ser realizada com cineangiocoronariografia; quanto àqueles sem dor torácica, é recomendada a cineangiocoronariografia a jovens para avaliar anormalidades congênitas de coronárias; em outros grupos, a abordagem é duvidosa.
+A Diretriz Brasileira de 20[-09-]{+12+} recomenda a seguinte abordagem:
+Classe I: coronariografia ao paciente com IC e angina típica;
+Classe IIa: coronariografia ao paciente com IC sem angina, mas com fatores de risco para doença coronariana ou IAM pré[---]vio;
+Avaliação não invasiva para isquemia a pacientes com IC sem angina típica, mas com fatores de risco para doença corona[---]riana ou IAM prévio;
+Avaliação não invasiva para viabilidade a pacientes com IC com doença coronariana e candidatos a revascularização;
+Classe IIb: angiotomografia de coronárias a pacientes com IC sem angina, mas com fatores de risco para doença coronaria[---]na ou IAM prévio.
+
+C - Medicina Nuclear
+A Medicina Nuclear fornece medida acurada da função ventricular, principalmente do ventrículo esquerdo. Permite, também, a investigação de isquemia, que pode ser tanto a causa como um fator de piora da contratilidade miocárdica.
+
+D - Ressonância nuclear magnética
+A ressonância nuclear magnética permite medida mais acurada e reprodutível dos volumes cardíacos, da espessura da pa[---]rede e da função ventricular, além de detectar espessamento pericárdico e necrose miocárdica. A ressonância com espec[---]troscopia possibilita, inclusive, a medida da reserva energética muscular. 
+Está indicada aos pacientes com suspeita clínica de cardiomiopatias específicas (restritivas, infiltrativas, de depósito, mio[---]cardite, displasia do ventrículo direito e hemocromatose) e é útil na delimitação de áreas de infarto prévio com a técnica de realce tardio, além da possibilidade de avaliar a presença de isquemia.
+
+E - Teste ergométrico
+O teste ergométrico é pouco útil para o diagnóstico, no entanto o resultado de exame normal, com carga máxima em indi[---]víduo sem tratamento, torna-o improvável. Sua principal indicação é a avaliação da capacidade funcional do paciente, o que tem implicações prognósticas. Um pico de VO2 <10mL/kg/min identifica indivíduos de alto risco para má evolução da IC, en[---]quanto valores superiores a 18mL/kg/min definem indivíduos com baixo risco.
+
+F - Marcadores hormonais
+Com relação aos indivíduos com dispneia aguda no pronto-socorro, marcadores hormonais têm demonstrado utilidade pa[---]ra a avaliação da etiologia da dispneia. A concentração de peptídio atrial natriurético e de peptídio natriurético tipo B (BNP) aumenta em formas mais avançadas ou crônicas de IC, e o uso em particular do último foi estudado para diferenciar quadros cardíacos de pulmonares em unidades de emergência.
+Valores de BNP superiores a 100pg/mL apresentam sensibilidade, especificidade e valor preditivo de, respectivamente, 90, 76 e 83% para a definição da IC descompensada como causa da dispneia. O BNP revelou-se a melhor variável isolada para o diagnóstico em dados de história, exame físico e exames complementares. Quanto maiores seus valores, maior a probabili[---]dade do diagnóstico final de IC; quando maiores que 400pg/mL, têm grande valor preditivo positivo e, se menores que 100pg/mL, valor preditivo negativo. Um estudo europeu demonstrou que valores menores que 80pg/mL têm valor preditivo negativo de 98% para o diagnóstico de IC descompensada.
+Outros exames podem ser realizados para o diagnóstico de dispneia aguda, como marcadores de isquemia aguda (tropo[---]nina e CK-MB) e outros.
+
+ 
+Figura 3 - I[-C-]{+nsuficiência cardíaca+} chagásica
+
+{+Importante+}
+São considerados marcadores clínicos de mau prognóstico{+ na insuficiência cardíaca+}: hiponatremia (reflete hiperativação do sistema renina–angiotensina), hiperuricemia (reflete hiperativação do estresse oxidativo), hipoalbuminemia, hipocolesterolemia e linfopenia (marcadores de desnutrição), anemia (geralmente, com perfil de doença crônica), elevação de catecolaminas e, mais recen[---]temente, elevação do [-B-]{+peptídio natriurético cerebral.+}
+
+{+Pergunta+}
+{+2015 - U+}N{+AER+}P
+{+2+}.{+ Sobre a cardiopatia chagásica, assinale a alternativa que não está relacionada com pior prognóstico:+}
+{+a) tromboembolismo+}
+{+b) insuficiência cardíaca classe III da NYHA+}
+{+c) alterações eletrocardiográficas+}
+{+d) reativação da infecção+}
+{+e) sinal de Romaña+}
+{+Resposta no final do capítulo+}
+
+G - Biópsia endomiocárdica
+Não existe recomendação de biópsia endomiocárdica a todos com diagnóstico de IC; deve ser considerada àqueles com doença de mais de 3 meses de evolução, dilatação ventricular e arritmias ventriculares novas e bloqueio atrioventricular (BAV) de 2º e 3º graus, sem resposta ao tratamento usual. Também pode ser considerada àqueles com suspeita clínica de doenças infiltrativas, alérgicas ou restritivas de causa desconhecida.
+
+7. Tratamento
+
+{+Tratamento+}
+No tratamento, os níveis de relevância das atitudes terapêuticas podem ser classificados de acordo com a qualidade dos trabalhos científicos e a concordância clínica que as sustentam. Assim, as atitudes terapêuticas dividem-se conforme a classe evolutiva da doença e a relevância clínica no seu uso.{+ +}
+
+A - Medidas não farmacológicas
+Controle dos fatores de risco: toda patologia que possa contribuir, direta ou indiretamente, para a progressão da cardio[---]patia ou para o agravamento dos sintomas deve ser identificada e tratada. Incluem-se, aqui, hipertensão, diabetes e disli[---]pidemias, todas [-as -]patologias relacionadas ao desenvolvimento de aterosclerose e, portanto, geradoras potenciais de is[---]quemia e necrose miocárdica. A HAS e o diabetes mellitus podem, ainda, causar perda de função renal, piorando os sin[---]tomas;
+Dieta: todo cardiopata necessita de aconselhamento dietético, a fim de evitar tanto obesidade quanto caquexia. Nos casos de anorexia intensa, refeições pequenas e frequentes podem ajudar a ingerir o equivalente às suas necessidades calóri[---]cas, evitando a desnutrição. Uma dieta laxante contribui para a prevenção de obstipação intestinal e do consequente es[---]forço para evacuar;
+Ingestão de sal: uma dieta com 2 a 3g é um objetivo atingível, desde que não comprometa a ingesta hídrica e os pacientes não estejam hiponatrêmicos. Esse nível de ingestão é facilmente atingido, evitando a adição de sal aos alimentos após o seu preparo e não utilizando alimentos habitualmente salgados. A redução estrita (menos que 2g/d) não é recomendada;
+Ingestão de líquidos: na maioria dos casos, pode ser liberada de acordo com a vontade do paciente. Entre sintomáticos com risco de hipervolemia, recomenda-se a restrição hídrica de 1.000 a 1.500mL/d;
+Ingestão de álcool: o álcool deprime a contratilidade miocárdica e pode precipitar arritmias. Sua ingestão deve ser minimi[---]zada. Em caso de cardiomiopatia alcoólica, é necessária a abstinência total;
+Tabagismo: deve ser totalmente desestimulado. Os adesivos de nicotina podem ser utilizados com segurança, assim como a abordagem multidisciplinar para o abandono do cigarro;
+Atividade física: diferentemente do que se acreditava, um programa de exercícios planejado e adaptado a cada caso é de grande ajuda no controle dos sintomas e na melhora psicológica;
+Atividade sexual: sua manutenção contribui para aumentar a autoestima e a qualidade de vida. Classes funcionais III e IV devem evitar o uso de sildenafila por 24 horas após a utilização de nitratos;
+Vacinação: entre os pacientes com IC, recomenda-se a vacinação contra gripe (anual) e pneumonia (a cada 5 anos e a cada 3 anos àqueles com IC avançada).
+
+B - Tratamento farmacológico 
+
+a) IECAs
+São inibidores específicos da Enzima Conversora d[-a-]{+e+} Angiotensina 1 (ECA), responsável pela conversão d[-a-]{+e+} angiotensina 1 em angiotensina 2. O mecanismo de ação ainda não é completamente elucidado; seu efeito benéfico na IC e na HAS, aparen[---]temente, resulta da supressão do sistema renina–angiotensina–aldosterona, embora não haja na literatura correlação consis[---]tente entre níveis de renina e resposta à droga. A ECA é idêntica à bradicininase, assim os IECAs podem aumentar os níveis séricos de bradicininas e prostaglandina E2, que podem ter, também, papel no tratamento da IC e da HAS. O uso dos IECAs e o seu nível de evidência são indicados a todos com disfunção sistólica sintomática ou assintomática – classe I/NE:A.
+Tais medicamentos determinam melhora clínica, aliviam sintomas e reduzem a mortalidade e o número de hospitalizações. Não há evidência clínica da superioridade de uma droga do grupo dos IECAs sobre a outra. Devem ser preferidos quando comparados a antagonistas d[-e-]{+os+} receptores d[-a-]{+e+} angiotensina e vasodilatadores de ação direta (hidralazina e nitratos). Indivíduos com reações severas à droga (angioedema, insuficiência renal aguda anúrica), pressão arterial sistólica <80mmHg, estenose bilateral da artéria renal e hipercalemia (K >5,5mEq/dL) não devem fazer uso. A introdução deve ser feita em doses baixas, com aumento progressivo de acordo com a tolerância, e a dose-alvo deve ser determinada pelos estudos clínicos em que ocorreu benefício terapêutico, como 150mg/d para o captopril. Quando há intolerância por parte do [-do-]{+paci+}ente, a dose atingida deve ser mantida, sem grande prejuízo da melhora em sobrevida e morbidade. Quando há tosse, os IECAs podem ser substitu[---]ídos por antagonistas d[-e-]{+os+} receptores d[-a-]{+e+} angiotensina. A opção para quem desenvolve disfunção renal é a associação de hidra[---]lazina a{+o+} nitrato.
+A dose inicial de captopril para IC, em pacientes com pressão arterial normal ou baixa (já em uso de doses apropriadas de diuréticos), é de 6,25 a 12,5mg, 3x/d. Entre os demais, o tratamento pode ser iniciado na dose de 25mg, 3x/d.
+A dose-alvo é de 150mg/d, atingida em alguns dias com monitorização cuidadosa de pressão arterial, sintomas e função renal. Eventualmente, alguns podem necessitar de doses maiores.
+A dose inicial de enalapril recomendada pela literatura é de 5mg/d, e a dose-alvo, de 20 a 40mg/d. Outros IECAs que po[---]dem ser usados para o tratamento da IC são ramipril e lisinopril.
+
+Tabela 7 - I[-ECA-]{+nibidores da enzima conversora de angiotensina+} e uso em [-IC-]{+insuficiência cardíaca +}
+Drogas	Doses iniciais	Doses máximas
+Captopril	6,25mg, 3x/d	50mg, 3x/d
+Enalapril	2,5mg, 2x/d	20mg, 2x/d
+Lisinopril	2,5 a 5mg, 1x/d	20 a 40mg, 1x/d
+Ramipril	1,25 a 2,5mg, 1x/d	10mg, 1x/d
+
+Angioedema de face e ocasionalmente o de glote são relatados em qualquer tempo da terapêutica. Na maioria das vezes, o envolvimento restringe-se a face e lábios, porém o envolvimento de língua, glote e laringe pode causar a obstrução das vias aéreas. Neutropenia e até agranulocitose são relatadas com o uso do captopril, cerca de 3 meses após o início de seu uso, contudo não parecem ser causadas por outros IECAs. A piora da função renal é descrita na literatura, principalmente entre pacientes suscetíveis ({+com +}alteração renal prévia e hipovolêmicos), e reversível após a descontinuação da medicação. O uso dessa classe farmacológica [-e-]n[-tre-]{+os+} {+p+}a[-qu-]{+ci+}e[-l-]{+nt+}es com creatinina >3,5mg/dL deve ser realizado com extremo cuidado.
+Cerca de 1% d{+os p+}a[-qu-]{+ci+}e[-l-]{+nt+}es {+avaliados +}em estudos c[-línic-]o{+m u+}s{+o de IECA+} apresenta hipercalemia (K+ >5,7mg/dL), efeito observado em 3,8% dos pacien[---]tes com IC. No entanto, na maioria dos casos, não é necessária a interrupção da medicação.
+Tosse é descrita com a medicação em 2,2 a 10% dos casos, presumivelmente[-,-] atribuída à degradação das bradicininas. Em geral, resolve-se com a descontinuação da medicação ou a troca do fármaco por outro da mesma classe. Trata-se do efeito colateral mais comum observado com o uso dessa classe de medicamentos.
+
+b) Diuréticos
+Os diuréticos formam o único grupo de medicações que controla, efetivamente, a retenção hídrica, determinando a me[---]lhora sintomática mais precocemente do que as outras drogas. Deve-se utilizar, de preferência, o diurético de alça (furosemi[---]da), pois os tiazídicos têm ação diurética pouco potente, principalmente entre pacientes com clearance de creatinina abaixo de 30mL/min. Não devem ser utilizados isoladamente para controle da IC; são associados ao uso de IECA, betabloqueadores e digoxina. Os efeitos adversos incluem perda de eletrólitos (magnésio e potássio), hipotensão e uremia. Estão indicados apenas aos sintomáticos com sinais e sintomas de congestão. A introdução àqueles com disfunção ventricular, porém assintomáticos ou hipovolêmicos, está contraindicada (classe III).{+ A associação a clortalidona ou hidroclorotiazida pode ser realizada nos pacientes refratários ao uso de diurético de alça para controle da congestão.+}
+
+Tabela 8 - Principais diuréticos utilizados no tratamento 
+Drogas	Doses iniciais	Doses máximas
+Furosemida	20 a 40mg, 1 a 2x/d	Atingir peso seco (até 200mg/d).
+Bumetanida (comprimidos de 1mg)	0,5 a 1mg, 1 a 2x/d	Atingir peso seco (até 10mg/d).
+
+c) Betabloqueadores
+A ativação simpática e os níveis plasmáticos elevados de noradrenalina desempenham papel primordial na progressão da disfunção ventricular e no prognóstico da IC. Há 3 betabloqueadores aprovados para uso em IC: carvedilol, succinato de me[---]toprolol e bisoprolol, que devem ser prescritos a pacientes com IC estável com disfunção sistólica. A internação motivada por descompensação da IC não é o melhor momento para iniciar a prescrição dessa classe farmacológica. Entretanto, após a esta[---]bilização, tais medicações podem ser iniciadas em enfermaria, de forma segura e de fácil monitorização.{+ Não devem ser utilizados betabloqueadores sem efeito intrínseco sobre os receptores beta, como atenolol ou propranolol.+}
+Ao iniciá-los, podem ser necessários o aumento da dose de diuréticos e o emprego de restrição hídrica, pois pode haver piora clínica. São iniciados em doses baixas, e, em ambiente ambulatorial, o aumento é realizado a cada 2 semanas. Os efeitos colaterais e as interações são semelhantes aos demais da classe. Bloqueiam receptores beta-adrenérgicos, dependendo da droga utilizada. Há redução da mortalidade e do risco de internação naqueles com IC classes II, III e IV,[- aliviando os sintomas tanto de portadores como de não portadores-]. Devem ser utilizados em todos os indivíduos com IC por falência ventricular esquerda, exceto naqueles com contraindicação ou intolerância. Para o início do tratamento, os pacientes não devem apre[---]sentar retenção hídrica importante nem ter recebido inotrópicos positivos intravenosos recentemente. Aqueles com hiper-reatividade brônquica, bradicardia sintomática ou BAV avançado também não devem receber a droga.
+Quanto aos assintomáticos, há evidência de benefício apenas entre aqueles com disfunção ventricular pós-infarto.
+A dose inicial deve ser baixa, com aumento progressivo, conforme há tolerância à medicação. O peso deve ser acompa[---]nhado, pois o betabloqueador determina retenção hídrica, a ser tratada com diuréticos. A dose a ser atingida é a determinada pelos estudos clínicos de cada droga, com demora na resposta terapêutica em cerca de 8 a 12 semanas. 
+O uso de betabloqueador pode determinar 4 tipos de complicações: retenção hídrica (geralmente assintomática), fadiga ({+que +}geralmente[-,-] melhora em 4 a 6 semanas), bradicardia/BAV e hipotensão.
+
+Tabela 9 - Principais betabloqueadores 
+Medicações	Doses iniciais	Doses máximas
+Carvedilol	3,125mg, 2x/d	25mg, 2x/d
+Succinato de metoprolol	6,25mg, 2x/d	200mg, 1x/d
+Bisoprolol	1,25mg, 1x/d  	10mg, 1x/d
+
+d) Digitálicos
+A digoxina e a digitoxina, glicosídeos cardíacos com efeito inotrópico positivo, inibem a Na-K-[-atep-]{+ATP+}ase, determinando au[---]mento de sódio e cálcio intracelular. A medicação reduz a atividade simpática e estimula a ação vagal, diminuindo a frequên[---]cia cardíaca e retardando a condução do estímulo elétrico no nó atrioventricular. Entre pacientes com falência cardíaca leve a moderada, a digoxina reduziu os sintomas e diminuiu a necessidade de hospitalização, sem, no entanto, causar qualquer impacto na sobrevida. Houve pequena diminuição no risco de morte por causa cardíaca, mas também houve aumento no número de mortes por outras causas.
+As indicações de digital em IC são pa{+ra os pa+}cientes com disfunção sistólica sintomática, a{+pesar da +}te[-n-]{+rapê+}u{+tica otimiz+}a[-n-]d{+a c+}o{+m IECA/diurético/betabloqueador. Proporcionam atenuação de+} sintomas[-,-]{+ e+} melhora[-ndo-] {+d+}a quali[---]dade de vida e contribu[-indo-]{+em+} para diminuir o número de internações (evidência nível II){+, além+} {+d+}e p[-a-]{+e+}r[-a-]{+mitirem o+} control[-ar-]{+e+} {+d+}a resposta ventricu[---]lar {+e+}n{+tre +}aqueles com fibrilação atrial, sendo droga de 1ª escolha no subgrupo com IC.
+O uso parenteral deve ser limitado a situações em que é necessária rápida digitalização para o controle clínico, principal[---]mente em arritmias supraventriculares agudas.
+A terapia é iniciada na dose usual de 0,125 a 0,250mg/d; pacientes com mais de 70 anos ou alteração da função renal po[---]dem utilizar menores doses. Raramente se recorre a {+doses +}maiores que 0,25mg/d, e não há necessidade de dose de ataque. Podem ser utilizados em associação a betabloqueadores e IECA para maior alívio de sintomas ou controle de resposta ventricular entre os portadores de fibrilação atrial. 
+A intoxicação digitálica pode manifestar-se com desorientação, confusão mental, alterações visuais, diarreia, náuseas, vô[---]mitos e arritmias cardíacas (ritmos ectópicos, reentrada e BAV)[-,-]{+.+} [-e-]{+O+} {+risc+}o [-s-]{+d+}e[-u-] [-r-]i[-s-]{+ntoxi+}c{+açã+}o é maior em algumas situações clínicas (hipoca[---]lemia, hipomagnesemia e hipotireoidismo) e durante o uso de algumas medicações (quinidina, verapamil, espironolactona e amiodarona). [-Na s-]{+Q+}ua{+ndo+} [-p-]{+ocor+}re[-se-]{+ a i+}n[-ç-]{+toxic+}a{+ção+}, é importante descontinuar a medicação, e a correção de hipomagnesemia e de hipocalemia é de extre[---]ma importância. O anticorpo antidigoxina é indicado a arritmias severas. Já outras medidas, como marca-passo temporário, são indicadas conforme cada caso.
+
+e) Antagonistas da aldosterona
+Além da retenção de sódio e água e da perda de potássio e magnésio, a aldosterona estimula a produção de fibroblastos e aumenta as fibroses miocárdica e perivascular, provocando disfunção ventricular e diminuição da complacência arterial. Por[---]tanto, seu bloqueio apresenta efeitos hemodinâmicos favoráveis e interfere na progressão da lesão miocárdica. Estudos com espironolactona demonstraram que doses entre 12,5 e 50mg melhoram a sintomatologia e diminuem a taxa de mortalidade. 
+São indicadas a pacientes com IC avançada (NYHA III e IV), associada ao tratamento-padrão com diurético, digital, IECA e betabloqueador. Os níveis séricos de potássio e creatinina devem ser controlados antes do tratamento e durante, devendo-se reduzir a dose em 50%, caso os níveis de potássio estejam entre 5 e 5,5mEq/L, e suspender a medicação se superam 5,5mEq/L. Não há estudos que revelem sua eficácia entre assintomáticos. O uso da espironolactona é indicado para:
+Tratamento do hiperaldosteronismo primário: em curto prazo para preparação cirúrgica ou em longo prazo aos pacientes com hiperaldosteronismo idiopático – nível de evidência II;
+Estados edematosos associados [-à-]{+a+} cirrose hepática – nível de evidência II;
+Tratamento da hipertensão essencial em associaç[-ões-]{+ão+} a outras medicações – nível de evidência II;
+Tratamento da IC classe funcional 3 ou 4 ou com FE <35% – nível de evidência II.
+
+f) Antagonistas do{+s+} receptor{+es+} d[-a-]{+e+} angiotensina II
+Os antagonistas d[-a-]{+e+} angiotensina II (ATII) apresentam-se como alternativa ao uso de IECAs e realizam bloqueio do sistema renina–angiotensina–aldosterona, porém sem inibição das cininases, o que lhes confere menores efeitos adversos. Quando comparados aos IECAs, são inferiores em relação aos benefícios no manuseio da IC. No entanto, podem ser utilizados como opção terapêutica na intolerância aos IECAs.
+As 2 drogas desse grupo estudadas para o tratamento da IC são a valsartana e a losartana. A primeira, que apresenta me[---]lhores resultados, é iniciada na dose de 40mg, 2x/d, e deve-se dar a maior {+dose +}possível tolerada, até 320mg/d. Já a dose-alvo da losartana é de 25 a 100mg, 1x/d.
+Não há benefícios adicionais ao acrescentar rotineiramente os [-i-]{+a+}n[-ibid-]{+tag+}o[-re-]{+nista+}s d[-a-]{+e+} ATII a doses adequadas de IECA, sendo dele[---]téria tal associação. E, apesar de os antagonistas Z da ATII não provocarem tosse, como os IECAs, a incidência de hipotensão, o prejuízo na função renal e a hipercalemia são semelhantes aos induzidos por esses últimos inibidores. Tal associação é aceitá[---]vel apenas entre aqueles que permanecem sintomáticos mesmo com terapia otimizada (classe IIa).
+
+Tabela 10 - Principais [-i-]{+antago+}ni[-bi-]{+stas +}d{+a angi+}o[-r-]{+t+}e{+n+}s[- d-]{+in+}a [-AT-]II[- -]
+Medicamentos	Doses diárias (mg)
+Losartana	50 a 100
+Valsartana	80 a 320
+Candesartana	8 a 32
+
+g) Nitratos e hidralazina 
+O estudo Vasodilator-Heart Failure Trial (V-HeFT) demonstrou que a combinação de nitratos e hidralazina diminui a morta[---]lidade, embora não diminua o número de hospitalizações. É indicada àqueles com contraindicações a IECA e [-i-]{+a+}n[-ibid-]{+tag+}o[-re-]{+nista+}s d[-a-]{+e+} ATII (classe I) e àqueles {+nas class+}e[-m-]{+s+} [-CF-]{+funcionais+} III[---]{+ e +}IV em uso de terapia já otimizada (classe IIa), principalmente afrodescendentes (classe I). A dose-alvo de hidralazina é de 200 a 300mg/d, em doses divididas em 3 a 4 doses ao longo do dia, e Monocordil®[-,-] 40mg, 4x/d.
+Para os pacientes com descompensação aguda de IC, os nitratos parenterais são drogas sintomáticas importantes. Essas medicações diminuem a congestão pulmonar e melhoram a perfusão coronariana, sendo seu mecanismo principal a diminui[---]ção da pré-carga pelo seu efeito venodilatador. 
+A nitroglicerina intravenosa é iniciada na dose de 5µg/min e pode ser titulada a cada 3 a 5 minutos até a resposta deseja[---]da. Pode-se diluir um frasco de 50mg em 500mL de água destilada em frasco de vidro ou soro fisiológico a 5% em frasco es[---]pecial, o que fornece uma solução de 100µg/mL. Pode-se iniciar com 3 a 6mL/h dessa solução em bomba de infusão. A meia-vida sérica da nitroglicerina é de, aproximadamente, 3 minutos.
+
+{+Pergunta+}
+{+2014 - UFES+}
+{+3. Assinale o subgrupo dos vasodilatadores que, na insuficiência cardíaca, produz predominantemente venodilatação, reduzindo a pré-carga e diminuindo pressões de enchimento ventricular, por mecanismo vasodilatador que parece relacionado à liberação de óxido nítrico, com consequente ativação da guanilciclase e aumento na síntese de GMP cíclico na musculatura lisa:+}
+{+a) inibidores da enzima conversora de angiotensina II+}
+{+b) hidralazina +}
+{+c) nitroprussiato de sódio+}
+{+d) antagonista dos receptores de angiotensina II+}
+{+e) nitratos+}
+{+Resposta no final do capítulo+}
+
+h) Antagonistas de cálcio
+Os antagonistas de cálcio não são recomendados ao tratamento da IC sistólica, especialmente o diltiazem e o verapamil, pois são depressores miocárdicos e aumentam a probabilidade de bloqueio cardíaco quando associados a betabloqueadores. Porém, alguns estudos demonstraram a segurança dos antagonistas de 3ª geração, como anlodipino e felodipino (nos pacien[---]tes), e {+estes +}podem ser considerados no tratamento de hipertensão e [-de -]angina associadas à IC.
+
+i) Antiarrítmicos
+Em geral, os antiarrítmicos não são recomendados ao tratamento da IC, e o uso crônico d[-e su-]a maioria {+deles +}foi associado a au[---]mento da mortalidade. Uma exceção é a amiodarona, que demonstrou perfil de segurança adequado entre os portadores de IC. A dose de manutenção desse antiarrítmico varia entre 100 e 200mg/d. 
+A monitorização eletrocardiográfica contínua revela que 90% apresentam algum tipo de arritmia, sendo frequentes a ex[---]trassistolia ventricular multifocal e mesmo a taquicardia ventricular não sustentada. Contudo, os mecanismos predisponentes incluem a própria disfunção ventricular, a isquemia miocárdica, a hiperatividade simpática e os níveis elevados de catecola[---]minas, estando a melhora da arritmia condicionada ao controle da IC.
+Indica-se o uso de antiarrítmicos para a prevenção de choques recorrentes em portadores de cardiodesfibrilador implan[---]tável, aos pacientes com taquicardia supraventricular ou ventricular sustentada sintomática, e a medicação de escolha é a amiodarona. Quando associada aos betabloqueadores no manuseio da IC, seu benefício parece ser reduzido.
+Verapamil, quinidina, propafenona e sotalol estão contraindicados àqueles com disfunção sistólica.
+
+j) Antitrombóticos
+Indivíduos com IC têm risco aumentado de eventos tromboembólicos devido a estase venosa, dilatação cardíaca e, prova[---]velmente, aumento da atividade pró-coagulante. Os poucos estudos existentes não mostraram que o uso de agentes anti[---]trombóticos no tratamento crônico da IC diminuiu a incidência de complicações. Já entre os agudamente descompensados, com necessidade de internação e restrição ao leito, estudos randomizados e controlados indicam que o uso de heparina reduz o risco de tromboembolismo venoso. 
+
+[-k)-]{+C -+} Tratamento cirúrgico{+ +}
+
+A cirurgia de troca valvar mitral pode ser considerada aos pacientes com insuficiência mitral grave secundária e refratária ao tratamento clínico otimizado. Outro[-s-] procedimento[-s-] a considerar [-são-]{+é+} a reconstrução do ventrículo esquerdo na presença de grande área fibrótica durante cirurgia de revascularização miocárdica. A aneurismectomia do ventrículo esquerdo tam[---]bém está indicada aos sintomáticos com terapia otimizada, arritmia ventricular refratária ou tromboembolismo.
+
+{+Importante+}
+{+O tratamento da insuficiência cardíaca envolve medidas não farmacológicas e farmacológicas. São drogas que alteram significativamente a mortalidade, nesta ordem: inibidores da enzima conversora de angiotensina, betabloqueadores, bloqueadores dos receptores de angiotensina e a combinação nitrato–hidralazina. Enquanto diuréticos melhoram mais rapidamente os sintomas da insuficiência cardíaca, os digitálicos não são indicados para assintomáticos. +}
+
+{+Pergunta+}
+{+2015 - UFES+}
+{+4. Assinale a alternativa incorreta sobre o tratamento farmacológico da insuficiência cardíaca crônica:+}
+{+a) bisoprolol, carvedilol e metoprolol estão indicados na insuficiência cardíaca com disfunção sistólica+}
+{+b) Inibidor da Enzima Conversora de Angiotensina (IECA) está indicado para disfunção assintomática e sintomática do ventrículo esquerdo+}
+{+c) a espironolactona está indicada a pacientes sintomáticos com disfunção sistólica do ventrículo esquerdo, classes funcionais III e IV da New York Heart Association (NYHA), associada ao tratamento-padrão+}
+{+d) a hidralazina pode ser usada em afrodescendentes em classes funcionais III a IV da NYHA em terapêutica otimizada+}
+{+e) a digoxina deve ser usada em pacientes com Fração de Ejeção do Ventrículo Esquerdo (FEVE) <60% associada aos diuréticos para melhora dos sintomas+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2013 - CREMESP+}
+{+5. Várias drogas são recomendadas no tratamento da insuficiência cardíaca por disfunção sistólica do ventrículo esquerdo. O aumento da sobrevida tem sido documentado com as drogas a seguir, exceto:+}
+{+a) espironolactona+}
+{+b) inibidores da enzima conversora de angiotensina+}
+{+c) betabloqueadores+}
+{+d) digoxina+}
+{+e) hidralazina associada a nitrato+}
+{+Resposta no final do capítulo+}
+
+8. Insuficiência cardíaca diastólica
+
+Poucos assuntos na Medicina são tão controversos como o da IC diastólica. Muitos com IC sem alteração de FE ao ecocar[---]diograma são rotulados como portadores de IC diastólica. No entanto, é frequente, ao longo da investigação clínica, encontrar outros diagnósticos que justifiquem a dispneia. Cerca de 20 a 40% têm função ventricular preservada, sendo sua sintomatolo[---]gia secundária ao comprometimento da função de relaxamento ventricular. Várias condições estão associadas à disfunção diastólica, incluindo as miocardiopatias restritiva, hipertrófica e infiltrativa. Entretanto, a maioria não apresenta uma doença miocárdica identificável.
+A IC associada à função sistólica preservada é mais frequente em mulheres idosas, a maioria delas com hipertensão arteri[---]al. O envelhecimento está associado à perda das propriedades elásticas do coração e dos grandes vasos, o que causa aumen[---]to da pressão sistólica e da rigidez miocárdica. Além disso, os idosos apresentam, habitualmente, doenças que podem com[---]prometer a função diastólica de forma adicional, como coronariopatia, diabetes, estenose aórtica e fibrilação atrial.
+
+A - Diagnóstico
+O ecocardiograma com Doppler é o método mais utilizado na avaliação do relaxamento ventricular. Todavia, diversas con[---]dições podem torná-lo impreciso, entre elas a volemia, a frequência cardíaca e a presença de regurgitação mitral. A avaliação da função diastólica ecocardiográfica requer exame bem mais detalhado {+do +}que o habitual. 
+
+{+Diagnóstico+}
+Na prática, o diagnóstico {+da insuficiência cardíaca +}é obtido quando o paciente apresenta sintomas e sinais típicos de [-IC-]{+insuficiência cardíaca+} e [-FE-]{+fração de ejeção+} normal. O padrão-ouro para o diagnóstico seria o estudo hemodinâmico, o qual não é possível rotineiramente.
+B - Tratamento
+Há muito pouca evidência sobre como tratar a disfunção diastólica, pois os pacientes foram excluídos de quase todos os grandes estudos de IC. Estudos anteriores sugeriam os betabloqueadores e os bloqueadores dos canais de cálcio como as drogas de escolha, mas a metodologia falha de tais estudos não permite conclusões. 
+
+{+Tratamento+}
+De modo geral, o tratamento {+da insuficiência cardíaca +}baseia-se no controle da pressão arterial, da frequência cardíaca e da isquemia miocárdica. 
+
+Um estudo recente sugere que a valsartana, um antagonista de ATII, apresenta benefício adicional. A Tabela 11 apresenta os fármacos mais utilizados nessa condição clíni[---]ca.
+
+Tabela 11 - Tratamento farmacológico da [-IC-]{+insuficiência cardíaca+} diastólica
+Medicamentos	Ações
+Betabloqueador	Diminui a frequência cardíaca e aumenta o tempo de diástole. 
+IECA	Melhora o relaxamento e diminui hipertensão e hipertrofia ventricular. 
+Verapamil	Idem ao betabloqueador; há possível melhora funcional em pacientes com hipertrofia miocárdica. 
+Diuréticos	Podem ser necessários em caso de retenção de fluidos, mas devem ser utilizados com cuidado. 
+
+{+Pergunta+}
+{+2014 - FMJ+}
+{+6. Quais são as manifestações clínicas da insuficiência cardíaca diastólica e como confirmar esse diagnóstico?+}
+{+a) sinais e sintomas de insuficiência cardíaca direita, presença da 3ª bulha na ausculta e solicitação de eletrocardiograma e raio x de tórax+}
+{+b) dispneia relacionada aos esforços, presença da 4ª bulha na ausculta e solicitação de ecocardiograma transtorácico+}
+{+c) síncope relacionada com esforços, presença de 4ª bulha na ausculta e solicitação de angiotomografia cardíaca+}
+{+d) dor precordial atípica para insuficiência coronariana, presença da 3ª bulha na ausculta e solicitação de ecocardiograma transtorácico+}
+{+e) cansaço e fadiga (sem dispneia), presença de 4ª bulha na ausculta e solicitação de raio x de tórax+}
+{+Resposta no final do capítulo+}
+
+9. Insuficiência cardíaca descompensada
+
+A avaliação do paciente que chega [-ao-]{+à+} [-departamento de e-]{+E+}mergência[-s-] com dispneia e suspeita de IC deve passar por histó[---]ria clínica e exame físico detalhados, além de alguns exames laboratoriais. 
+A história clínica deve incluir duração dos sintomas, tipo de dispneia, grau de limitação funcional, presença de ortopneia e dispneia paroxística noturna, sintomas associados (febre, tosse, expectoração, dor torácica pleurítica ou precordial, hemopti[---]se, dor abdominal, sintomas urinários etc.), número de internações prévias, tempo de duração da doença, se já existe diag[---]nóstico prévio de IC, comorbidades (Doença Pulmonar Obstrutiva Crônica – DPOC –, asma, HAS, câncer, doença cerebrovas[---]cular, insuficiência renal, cirrose, insuficiência coronariana, outras doenças cardíacas etc.), medicações em uso, medidas não farmacológicas, grau de adesão ao tratamento, tabagismo, etilismo, uso de drogas e fatores de risco para tromboembolismo pulmonar. 
+O exame físico deve avaliar o grau de dispneia, cianose, palidez, perfusão periférica, pressão arterial e frequência cardía[---]ca, presença de estase jugular, avaliação de estridor laríngeo, ausculta pulmonar cuidadosa (crepitações difusas ou localiza[---]das, sibilos, roncos, derrame pleural, pneumotórax etc.), ictus e frêmitos, ausculta cardíaca (sopros, atritos, abafamento de bulhas, {+surgimento +}B3 e B4 etc.), avaliação de congestão hepática, edema de membros inferiores ou sacral no caso de pacientes acama[---]dos e sinais de trombose venosa profunda.
+
+{+Diagnóstico+}
+Na maioria dos casos, o diagnóstico no serviço de emergência pode ser realizado apenas com história e exame físico. No entanto, alguns exames complementares são importantes tanto para o diagnóstico como para a avaliação da gravidade e do prognóstico. 
+
+A radiografia de tórax pode mostrar área cardíaca aumentada, sinais de congestão pulmonar, derrame pleural, pneumotó[---]rax, condensações pulmonares localizadas e hiperinsuflação pulmonar. O ECG, por sua vez, pode mostrar sinais de isquemia miocárdica, sobrecargas ventriculares, arritmias e sinais de pericardite. A oximetria de pulso e a gasometria arterial também são úteis. A avaliação da função renal, de eletrólitos e do hemograma pode identificar fontes de descompensação, como insuficiência renal, distúrbios hidroeletrolíticos, anemia e infecção. Marcadores de lesão miocárdica podem ser úteis se utili[---]zados de acordo com a clínica. O D-dímero também pode ser utilizado para descartar tromboembolismo pulmonar como cau[---]sa de descompensação, apesar de poder apresentar resultado falso positivo nas classes avançadas de IC. Estase jugular e B3, embora tenham alta especificidade para identificar altas pressões de enchimento ventricular, apresentam sensibilidades de, respectivamente, apenas 30 e 24%, para o diagnóstico de IC no serviço de emergência. A combinação de crepitações pulmo[---]nares, edema de membros inferiores e estase jugular teve 100% de especificidade, mas somente 58% de sensibilidade para diagnosticar real congestão pulmonar identificada pela pressão encunhada de artéria pulmonar =22mmHg em 43 pacientes avaliados. 
+Nos últimos anos, foi avaliado o papel dos BNPs no diagnóstico de IC. Alguns estudos mostraram a acurácia diagnóstica de tais peptídios naqueles que chegam ao pronto-socorro com queixa de dispneia. Foram identificados 4 tipos desses peptídios: 
+1 - Peptídio natriurético atrial (ANP).
+2 - Peptídio natriurético cerebral (ou tipo B – BNP).
+3 - Peptídio natriurético tipo C (CNP).
+4 - Peptídio natriurético tipo D. 
+Todos são secretados em resposta a estresse hemodinâmico, particularmente ao aumento da pressão intracardíaca e ao estiramento das fibras miocárdicas. O mais estudado e, provavelmente, mais útil no diagnóstico é o BNP. Sua acurácia diagnós[---]tica no principal estudo que o avaliou (valor de corte = 100pg/mL) foi de 81,2%, com sensibilidade de 90%, especificidade de 73%, valor preditivo positivo de 75% e valor preditivo negativo de 90%. A acurácia de uma abordagem diagnóstica incluindo a avaliação clínica ou BNP acima de 100pg/mL ou ambos foi de 81,5%. Desta forma, a adição de um BNP positivo (maior que 100pg/mL) aumenta a acurácia diagnóstica no pronto-socorro pelo julgamento clínico de 74 para 81,5%. 
+O BNP aumenta tanto na IC por disfunção sistólica como na IC por disfunção diastólica, todavia não há como diferenciar es[---]ses 2 tipos com base no valor do BNP. Como diagnóstico, já foi incorporado pelo Consenso Europeu de IC, contudo ainda não existe consenso quanto ao seu uso para diagnóstico e prognóstico e como medida da resposta terapêutica. Além disso, sua disponibilidade ainda se restringe a poucos centros brasileiros.
+
+A - Classificação de risco 
+O prognóstico dos pacientes com IC descompensada pode ser avaliado por meio de alguns parâmetros. Recentemente, foi desenvolvido um modelo de predição clínica, de fácil uso e aplicável no pronto-socorro pelo médico[---]{+ +}assistente. O escore de risco prediz mortalidade em 30 dias e 1 ano, e os preditores foram idade, pressão arterial sistólica, frequência respiratória, sódio sérico, hemoglobina (apenas para mortalidade em 1 ano), nitrogênio ureico, doença cerebrovascular associada, de[---]mência, DPOC, cirrose e câncer. O escore de risco desenvolvido a partir do estudo está descrito na Tabela 12.
+
+Tabela 12 - Escore de risco (mortalidade) para [-IC-]
+[-	-]{+insuficiência cardíaca+}
+Número de pontos
+Variáveis	Mortalidade em 30 dias	Mortalidade em 1 ano
+Idade (anos)	+ Idade (nº de anos)	+ Idade (nº de anos)
+FR (mínimo de 20, máximo de 45irpm)*   	+ Frequência (irpm)	+ Frequência (irpm)
+@@ -288,7 +432,9 @@ Cirrose	+ 25	+ 35
+Câncer	+ 15	+ 15
+Hemoglobina <10g/dL	Não se aplica	+ 10
+* Deve-se considerar o limite superior ou inferior indicados, caso o valor obtido esteja acima ou abaixo desse limite. 
+
+O escore de risco para mortalidade em 30 dias é calculado somando todos os fatores (exceto hemoglobina, só adicionada para a avaliação do risco em 1 ano) e subtraindo os pontos atribuídos ao valor da pressão arterial sistólica (valores elevados são protetores). As categorias de risco foram divididas de acordo com aumentos de 30 pontos no escore, correspondendo a aumentos unitários no desvio-padrão, conforme ilustra a Tabela 13.
+
+Tabela 13 - Mortalidade de acordo com o escore de risco
+Categorias de risco	Escores	Mortalidade em 30 dias*	Mortalidade em 1 ano*
+Muito baixo	=60	0,64% 	2,7% 
+@@ -299,7 +445,8 @@ Muito alto	>150	50% 	74,7%
+* Os valores representam a mortalidade da coorte de validação.
+
+Tal escore pode ser útil na decisão quanto a internação hospitalar em enfermaria ou UTI, observação no pronto-socorro, encaminhamento ambulatorial e alta do pronto-socorro. Entretanto, por tratar-se de um estudo recente, ainda não há dados sobre sua utilização para esse fim. Outro estudo demonstrou que variáveis com PA <110x70mmHg e creatinina >2mg/dL foram preditoras de evolução desfavorável. A Tabela 14 mostra algumas indicações de internação hospitalar sugeridas por Stevenson e Braunwald.
+
+Tabela 14 - Indicações sugeridas para internação de pacientes com [-IC-]{+insuficiência cardíaca+} descompensada
+- Arritmias assintomáticas; 
+- Múltiplas descargas de desfibrilador implantável; 
+- Síncope; 
+@@ -322,11 +469,12 @@ Tabela 14 - Indica
+· Queda rápida no sódio sérico para <130mEq/L;
+· Aumento de creatinina, pelo menos, 2 vezes o basal ou >2,5mg/dL;
+· Sintomas persistentes de congestão em repouso, a despeito de repetidas visitas ambulatoriais.
+
+{+Importante+}
+A internação é necessária, muitas vezes, durante os episódios de descompensação da [-IC-]{+insuficiência cardíaca+}. De modo geral, a [-IC-]{+forma+} descompen[---]sada pode apresentar-se de 3 formas: [-1 - IC -]aguda[-. -]
+[-2 - IC-]{+,+} crônica agudizada[-. -]
+[-3-] [-- IC-]{+e+} refratária. 
+
+O 1º passo no manejo é determinar o motivo da descompensação.
+
+Tabela 15 - Possíveis fatores para a descompensação
+Fatores cardiovasculares
+- Isquemia ou infarto;
+@@ -354,27 +502,35 @@ Fatores relacionados ao sistema de sa
+- Falta de acesso à atenção primária;
+- Falta de acesso às medicações efetivas para ICC;
+- Tratamento farmacológico inadequado (subdoses ou negligência em prescrever intervenções terapêuticas eficazes).
+
+{+Importante+}
+A abordagem inicial depende do grau e do tipo de descompensação da IC. De forma geral, podem-se classificar os pacien[---]tes que chegam ao pronto-socorro em 4 subgrupos distintos, de acordo com o grau de congestão e o de perfusão tecidual[-.-]{+: “seco e quente”, “úmido e+} {+quente”, “úmido e frio” e “seco e frio”.+}
+
+A Tabela 16 especifica esses grupos e sugere a conduta.
+
+Tabela 16 - Proposta terapêutica de acordo com a apresentação
+	Perfis de paciente	Terapêuticas propostas
+Grupo 1	Sem congestão e boa perfusão periférica – “seco e quente”	Há o ajuste de medicações pela via oral para objetivos de redução de mortali[---]dade e manutenção de estado volêmico estável.
+Grupo 2	Congestão, mas boa perfusão peri[---]férica – “úmido e quente”	Necessidade de introdução ou aumento das doses de diuréticos, assumindo que já estejam usando IECA. Em casos mais complexos, associação de vasodilatado[---]res parenterais (nitroglicerina) e/ou nesiritida. Inotrópicos não são geralmente necessários e podem ser deletérios. Observação curta no pronto-socorro ou internação em casos mais graves.
+Grupo 3	Congestão e alteração da perfusão periférica – “úmido e frio”	Geralmente, necessidade de suspensão de IECAs e betabloqueadores, particu[---]larmente entre aqueles com hipotensão sintomática. Muitas vezes, vasodilata[---]dores parenterais suficientes, devido à elevada resistência vascular periférica presente em tais pacientes. Inotrópicos parenterais podem ser necessários por curto período para estabilização, embora se associem a taquiarritmias, hipo[---]tensão, isquemia, até aumento da mortalidade em longo prazo. 
+Grupo 4	Alteração da perfusão periférica sem congestão – “seco e frio”	Este pequeno subgrupo pode apresentar-se com poucos sintomas, e é possível o uso isolado de vasodilatadores ou a associação a inotrópicos parenterais. Reposição volêmica pode ser necessária. 
+
+A grande maioria dos que chegam ao pronto-socorro por descompensação da IC o faz por falta de adesão ao tratamento farmacológico ou às medidas dietéticas. Essas pessoas se apresentam, na maioria das vezes, com piora da congestão, mas mantendo boa pressão arterial e perfusão, e nem sempre têm dispneia em repouso. Geralmente, já apresentam o diagnóstico de IC e recebem algum tipo de tratamento ambulatorial. Nesses casos, muitas vezes um diurético de alça intravenoso associa[---]do a captopril oral é medida suficiente para diminuir a congestão e melhorar a sintomatologia. 
+Após um período de observação e avaliação de outras causas potenciais de descompensação, devem receber orientações não farmacológicas adequadas, aumento da dose de diuréticos, reavaliação da prescrição com introdução ou ajuste de outras drogas (IECA, digoxina, bloqueadores d[-a-]{+e+} angiotensina, espironolactona, nitratos) e consulta ambulatorial precoce para acom[---]panhamento. Entretanto, alguns se apresentam muito congestos e dispneicos em repouso e não respondem satisfatoriamente às medidas iniciais, necessitando de internação em enfermaria e, algumas vezes, UTI. Neste caso, está indicado o uso de diuré[---]ticos parenterais e vasodilatadores, de preferência[-,-] de forma parenteral. Já os inotrópicos parenterais também podem ser úteis, levando [-à-]{+a+} melhora sintomática, apesar de o uso prolongado de tais medicações se associar a aumento de mortalidade em longo prazo. 
+Os pacientes que chegam com edema agudo pulmonar necessitam de diuréticos, nitratos, morfina e, eventualmente, dro[---]gas vasoativas.
+
+B - Drogas inotrópicas parenterais
+Os inotrópicos tradicionais atuam [-at-]{+po+}r[-avés-]{+ meio+} do aumento do AMPc intramiocárdico, permitindo maior entrada de cálcio nas células e aumentando o acoplamento actina–miosina. Agem via ativação de receptores beta-adrenérgicos (dopamina e dobu[---]tamina) ou via inibição da fosfodiesterase cardíaco-específica tipo III (milrinona e anrinona) e são administrados parenteral[---]mente.
+O uso de inibidores da fosfodiesterase entre pacientes sem hipotensão e hipoperfusão tecidual foi associado ao aumento de complicações e à tendência a aumento de mortalidade. Mesmo a dobutamina está associada ao aumento da frequência cardíaca e de arritmias.
+Deve-se ressaltar, no entanto, que, embora os benefícios limitados das infusões de inotrópicos não justifiquem os riscos na maioria dos pacientes com IC descompensada, os inotrópicos podem salvar pessoas com choque cardiogênico, estando indicados àqueles com hipoperfusão periférica e adequado volume intravascular. A dobutamina é um agonista betasseletivo e o agente de escolha para pacientes com pressão arterial sistólica acima de 80mmHg, podendo, entretanto, exacerbar a hipo[---]tensão e provocar taquiarritmias. A taquicardia e o aumento da resistência vascular periférica, ocasionados pela dopamina, podem aumentar a isquemia miocárdica. Em algumas situações, a associação das 2 drogas pode ser benéfica. Em casos de hipotensão refratária, a norepinefrina pode ser necessária para manter a pressão de perfusão tecidual.
+
+Tabela 17 - Doses das drogas mais usadas na [-IC-]{+insuficiência cardíaca+} descompensada
+Drogas	Doses
+Furosemida	- Bolus: 20 a 80mg (máximo{+:+} 600mg/d);
+	- Infusão contínua: ataque de 0,1.
+Nitroglicerina	Inicial: 5 a 10µg/min
+Nitroprusseto	- Inicial: 0,3 a 0,5µg/kg/min;
+	- Usual: 3 a 5[- -]µg/kg/min.
+Nesiritida	- Ataque: 2µg/kg;
+	- Manutenção: 0,01µg/kg/min.
+Dopamina	1 a 20µg/kg/min
+@@ -384,32 +540,65 @@ Milrinona	- Ataque: 50
+Noradrenalina	1 a 30µg/min (recomendado pelo Advanced Cardiovascular Life Support, mas se podem usar doses mais altas) 
+Levosimendana	- Ataque: 24µg/kg em 10 minutos;
+	- Manutenção.
+
+A levosimendana, medicação relativamente recente no manejo da IC aguda, apresenta vantagens em relação às outras drogas inotrópicas por permitir melhora do relaxamento diastólico, ao contrário dos inotrópicos, que agem por via adrenérgi[---]ca, comprometendo o relaxamento diastólico. Causa, também, vasodilatação por meio da abertura de canais de potássio. Por essas ações inotrópicas e vasodilatadoras, a medicação aumenta o débito cardíaco sem aumentar o consumo miocárdico de oxigênio. 
+Outro mecanismo associado é o melhor aproveitamento no sarcômero do cálcio disponível para a contração miocárdica. A levosimendana mostrou-se superior à dobutamina em pacientes com IC grave descompensada e, ao contrário da dobutamina, principalmente, e da nesiritida em 2º lugar, parece não ter associação importante a aumento de mortalidade em médio e longo prazos. A dose de ataque recomendada é de 12 a 24µg/kg infundidos em 10 minutos, seguida por dose de manutenção de 0,1 a 0,2µg/kg/min por 24 horas. Essa dose é titulada conforme a resposta clínica e a tolerância.
+
+C - Outras medidas 
+Balão intra-aórtico: modo de suporte circulatório mais amplamente utilizado que pode aumentar o débito cardíaco em até 30%. Está indicado no choque cardiogênico e no edema pulmonar que não respondem ao tratamento-padrão. Na IC as[---]sociada à isquemia miocárdica, atua como ponte até a coronariografia diagnóstica e/ou terapêutica;
+Bomba de fluxo contínuo: dispositivo de bombeamento sanguíneo que trabalha em paralelo ao ventrículo, capaz de gerar, por princípio centrífugo, débito independente do apresentado. Pode ser utilizad[-o-]{+a+} de forma isolada ou associada ao balão intra-aórtico;
+Ventrículo artificial: utilizado, principalmente, como ponte para transplante, na síndrome pós-cardiotomia e, ocasional[---]mente, como alternativa ao transplante cardíaco;
+Coração artificial: dispositivo implantável que tem sido utilizado como ponte para transplante. Observa-se melhora impor[---]tante da função ventricular após período prolongado de circulação assistida, que permite, eventualmente, a remoção do sistema;
+Tratamento cirúrgico:
+Revascularização miocárdica: a revascularização do paciente com IC crônica pode ser útil no controle dos sintomas, des[---]de que a disfunção do ventrículo esquerdo não seja irreversível. A identificação de miocárdio viável pode ser feita com cintilografia com tálio ou ecocardiografia de estresse, mas é necessário critério na escolha do paciente potencial, pois a mortalidade cirúrgica é alta e não existem estudos mostrando que a cirurgia é melhor do que o tratamento clí[---]nico otimizado;
+Cirurgia para insuficiência mitral: a regurgitação mitral de grau variável no ventrículo dilatado pode ocorrer na IC. A plastia da valva mitral tem sido realizada com baixa mortalidade e potencial de melhorar sintomas, assim como as vari[---]áveis de função ventricular;
+Transplante cardíaco: é a única abordagem cirúrgica efetiva no tratamento da IC refratária, embora beneficie poucas pessoas a cada ano. As indicações atuais baseiam-se na identificação de pessoas com grave prejuízo funcional, como indicado por um VO2 inferior a 10mL/kg (menos de 50% do esperado){+,+} ou [-p-]{+d+}e[-la-] dependência contínua de inotrópicos. Outras indicações menos comuns são angina e arritmias ventriculares graves, refratárias a outras opções terapêuticas.
+
+{+Pergunta+}
+{+2012 - UFPE+}
+{+7. São fatores precipitantes da insuficiência cardíaca aguda, exceto:+}
+{+a) ingestão excessiva de sal e água +}
+{+b) uso de cocaína +}
+{+c) tabagismo +}
+{+d) consumo excessivo de álcool +}
+{+Resposta no final do capítulo+}
+
+10. Resumo
+
+Quadro-resumo
+- A IC é uma síndrome caracterizada pela incapacidade do coração de suprir as necessidades metabólicas dos tecidos; 
+- Pode ocorrer por déficit contrátil (IC sistólica) ou por déficit de relaxamento ventricular (IC diastólica); 
+- As principais manifestações são dispneia e fadiga, além d[-a-]{+e+} intolerância aos esforços, retenção de fluidos{+,+} com consequente congestão pulmonar{+,+} e edema de membros inferiores;
+- A partir de uma injúria (hipertensão, infarto do miocárdio etc.), uma série de mecanismos fisiopatológicos neuro-humorais é ativada, como na ativação do eixo renina–angiotensina–aldosterona; esses mecanismos determinam a progressão da disfunção ventricular; 
+- O diagnóstico é clínico e baseia-se na história e nos achados do exame físico; 
+- O ecocardiograma não define o diagnóstico de IC, mas fornece informações significativas sobre a função ventricular e as possí[---]veis causas; 
+- A principal medida da função do ventrículo esquerdo é a FE, considerando{+-se+} prejuízo da função sistólica quando a FE é inferior a 55%;
+- O tratamento depende da classe funcional; o controle ou a eliminação dos fatores de risco são essenciais para evitar a progres[---]são da IC; 
+- O tratamento farmacológico utiliza:
+· IECA (indicado em qualquer estágio funcional da IC);
+· Betabloqueador (seu uso reduz a mortalidade e o risco de internação entre naqueles com IC classes II, III e IV, melhorando os sintomas tanto de portadores como de não portadores de ICC. Deve ser utilizado em todos com IC por falência ventricular es[---]querda, exceto entre aqueles com contraindicação ou intolerância à droga);
+· Diuréticos (único grupo de medicações que controla efetivamente a retenção hídrica; determinam a melhora sintomática mais precocemente do que as outras drogas);
+{+· Digital (as indicações do uso de digital em IC são tratamento sintomático, atenuando sintomas, melhorando a qualidade de vida e contribuindo para diminuir o número de internações, além de controle da resposta ventricular em pacientes com fibrilação atrial, sendo a droga de 1ª escolha nesse subgrupo com IC). +}
+{+- O tratamento não farmacológico é constituído por:+}
+{+· Dieta adequada;+}
+· Restrição de sódio;
+· [-Dig-]{+Ev+}ita[-l-]{+r+} [-(-]{+t+}a[-s indic-]{+b+}a[-ções do uso de di-]gi[-tal em IC -]s[-ã-]{+m+}o [-tratam-]e[-nto-] [-sintomá-]{+e+}ti[-co, atenuando s-]{+l+}i[-ntoma-]s[-, -]m[-elhorand-]o{+;+}
+{+·+} [-a qu-]{+Re+}ali[-d-]{+z+}a[-de-]{+ção+} de [-vid-]a[- e con-]t[-r-]i[-bu-]{+v+}i[-n-]d[-o par-]a[- diminuir o número -]de[- internaçõe-]s[-,-] [-além de controle da respo-]{+fí+}s[-ta ventr-]ic[-ul-]a[-r em-]{+s;+}
+{+·+} [-p-]{+M+}a[-cie-]n{+u+}te[-s com fibri-la-]{+n+}ção [-atrial, sen-]d[-o-]{+e+} a[- -]{+tivi+}d[-rog-]a[- -]de [-1ª e-]s[-colha n-]e[-sse subgr-]{+x+}u[-po-]{+al;+}
+{+·+} {+Va+}c{+inaçã+}o[-m IC)-].[- -]
+- Os antagonistas da aldosterona são indicados àqueles com IC avançada (NYHA III e IV), associad[-a-]{+os+} ao tratamento-padrão com diurético, digital, IECA e betabloqueador;
+- O uso das medicações inotrópicas parenterais deve ser limitado a IC grave, principalmente em caso de choque cardiogênico, pois se associa[-m-] a aumento de mortalidade em médio e [-em -]longo prazos.
+
+{+Respostas+}
+{+1. E+}
+{+2. E+}
+{+3. E+}
+{+4. E+}
+{+5. D+}
+{+6. B+}
+{+7. C+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
