@@ -1,35 +1,42 @@
 Transplante renal
 Ana Cristina Martins Dal Santo
 
+Resumo
+A diálise e o transplante renal são as opções atuais para o tratamento daqueles com insuficiência renal crônica avançada. O transplante está indicado quando há insuficiência renal crônica em fase terminal, estando o paciente em diálise ou mesmo em fase pré-dialítica com Taxa de Filtração Glomerular (TFG) <20mL/min. As contraindicações absolutas envolvem portado-res de neoplasias malignas, doença pulmonar crônica avançada, doença cardíaca grave, vasculopatia periférica grave e portadores de cirrose hepática. Alguns critérios para exclusão de um doador vivo incluem clearance de creatinina <80mL/1,73m2, proteinúria >300mg/d, calculose renal, múltiplos cistos renais, incompatibilidade ABO, hipertensão arterial sistêmica sem controle, diabetes mellitus etc. As drogas imunossupressoras usadas após o transplante têm, como principais alvos, linfócitos T, na tentativa de evitar a rejeição aguda (alto risco nos 3 primeiros meses após o transplante). A rejeição pode ser classificada como hiperaguda (resposta humoral), aguda (resposta celular), ou nefropatia crônica. Quanto ao risco de infecção, a principal infecção pós-transplante renal (após 1º ou 3º mês) é por citomegalovírus. Já no quesito cirúrgico, as principais complicações são tromboses de vasos renais (obstrução de uma artéria ou veia do rim transplantado), linfoce-le (coleções de linfa próximas ao órgão transplantado), fístula urinária (vazamento de urina para fora do sistema urinário), hematoma e hemorragia. O paciente transplantado também possui contraindicação de vacinas vivas atenuadas: varicela-zóster, influenza intranasal, BCG, sarampo, caxumba, rubéola, poliomielite oral, febre amarela e varíola. 
+
 1. Introdução
 
-A ideia do transplante de órgãos é muito antiga na humanidade. No entanto, foi no século XX, com o aprimoramento das técnicas cirúrgicas, que ocorreu, efetivamente, a realização dos enxertos. Nos anos 1960, as tentativas de transplante renal iniciaram-se em Paris e Boston, quando os pesquisadores e médicos Dr. Murray e Merril transplantaram, com sucesso, o rim de uma vítima fatal de acidente em seu irmão gêmeo univitelino, sendo o 1º transplante renal com doador vivo e boa evolução.
+A ideia do transplante de órgãos é muito antiga na humanidade. No entanto, foi no século XX, com o aprimoramento das técnicas cirúrgicas, que ocorreu, efetivamente, a realização dos enxertos. Nos anos 1960, as tentativas de transplante renal iniciaram-se em Paris e Boston, quando os pesquisadores e médicos Dr. Murray e Merril transplantaram, com sucesso, o rim de uma vítima fatal de acidente em seu irmão gêmeo univitelino, sendo o 1º transplante renal com doador falecido e boa evolução.
 Um pouco antes, em 1950, foi descoberto um sistema antigênico expresso na superfície das células, denominado HLA – antígeno leucocitário humano (principal sistema de histocompatibilidade em humanos).
-A diálise e o transplante renal são as opções atuais para o tratamento de pacientes com insuficiência renal crônica avançada. Um transplante renal bem-sucedido melhora a qualidade de vida e reduz o risco de mortalidade para a maioria dos pacientes, quando comparado com a diálise. No entanto, é preciso acompanhamento regular após o transplante, devido ao tratamento com imunossupressores, o que torna o paciente suscetível a infecção, neoplasia e doença cardiovascular. 
+A diálise e o transplante renal são as opções atuais para o tratamento de pacientes com insuficiência renal crônica avan-çada. Um transplante renal bem-sucedido melhora a qualidade de vida e reduz o risco de mortalidade para a maioria dos pacientes, quando comparado com a diálise. No entanto, é preciso acompanhamento regular após o transplante, devido ao tratamento com imunossupressores, o que torna o paciente suscetível a infecção, neoplasia e doença cardiovascular. 
 
 2. Tipos de transplante
 
-- Autoenxerto: transplante em que o doador e receptor são a mesma pessoa. Por exemplo: enxertos de pele;
-- Isoenxerto: transplante realizado em indivíduos geneticamente idênticos, como o transplante entre gêmeos univitelinos;
-- Aloenxerto: transplante em que doador e receptor são de uma mesma espécie, mas geneticamente distintos;
-- Xenoenxerto: transplante em que doador e receptor são de espécies distintas.
+Autoenxerto: transplante em que o doador e receptor são a mesma pessoa. Por exemplo: enxertos de pele;
+Isoenxerto: transplante realizado em indivíduos geneticamente idênticos, como o transplante entre gêmeos univitelinos;
+Aloenxerto: transplante em que doador e receptor são de uma mesma espécie, mas geneticamente distintos;
+Xenoenxerto: transplante em que doador e receptor são de espécies distintas.
 Há uma classificação com relação a doador/receptor:
-- Doador vivo parente: doador geneticamente relacionado ao receptor;
-- Doador vivo não parente: doador relacionado ao receptor, por meio de laços afetivos (exemplo: marido e mulher);
-- Doador falecido.
+Doador vivo parente: doador geneticamente relacionado ao receptor;
+Doador vivo não parente: doador relacionado ao receptor, por meio de laços afetivos (exemplo: marido e mulher);
+Doador falecido.
 
 3. Sistema HLA
 
-A 1ª barreira ao transplante de órgãos é a incompatibilidade no sistema sanguíneo ABO; depois, segue-se, em importância, a compatibilidade HLA. O sistema antígeno leucocitário humano (HLA) é sinônimo do complexo principal de histocompatibilidade humano (MHC). Assim, num transplante renal com ABO compatível, os antígenos tissulares que compõem o sistema HLA são o principal alvo molecular da rejeição.
+A 1ª barreira ao transplante de órgãos é a incompatibilidade no sistema sanguíneo ABO; depois, segue-se, em importân-cia, a compatibilidade HLA. O sistema antígeno leucocitário humano (HLA) é sinônimo do complexo principal de histocompati-bilidade humano (MHC). Assim, num transplante renal com ABO compatível, os antígenos tissulares que compõem o sistema HLA são o principal alvo molecular da rejeição. 
+Todo paciente que será submetido a transplante renal deverá ser submetido a um rastreamento preliminar. A tipagem te-cidual é realizada para determinar o grau de compatibilidade HLA entre doador e receptor. Esse grau de compatibilidade produz um efeito importante sobre o resultado e pode afetar a seleção do receptor. Uma prova cruzada (exame de crossma-tch) também é realizada entre o doador e o receptor, para detectar sensibilidade prévia com anticorpos dirigidos contra os antígenos do doador, no receptor. Um resultado positivo na prova cruzada geralmente impede o transplante, pois está associ-ado a alto risco de rejeição hiperaguda.
+
+Dica
+Independente do grau de sensibilização do receptor, o teste fundamental para verificar se o receptor tem anticorpos pré-formados contra o doador é a prova cruzada.
 
 4. Indicações
 
 O transplante renal estará indicado quando houver insuficiência renal crônica em fase terminal, estando o paciente em diálise ou mesmo em fase pré-dialítica com Taxa de Filtração Glomerular (TFG) <20mL/min.
-O transplante renal preemptivo pode ser oferecido a todos os candidatos a transplante renal, mas particularmente a diabéticos (para reduzir a incidência de complicações vasculares, cardíacas, oculares e neurológicas próprias do diabetes) e em crianças (para evitar prejuízo no crescimento, osteodistrofia renal e, principalmente, pelas dificuldades dialíticas).
+O transplante renal preemptivo pode ser oferecido a todos os candidatos a transplante renal, mas particularmente a dia-béticos (para reduzir a incidência de complicações vasculares, cardíacas, oculares e neurológicas próprias do diabetes) e em crianças (para evitar prejuízo no crescimento, osteodistrofia renal e, principalmente, pelas dificuldades dialíticas).
 
 5. Contraindicações 
 
-Tabela 1 - Contraindicações absolutas
+Tabela 1 - Contraindicações absolutas 
 - Portadores de neoplasias malignas (ou já tratados, com menos de 2 anos de seguimento);
 - Portadores de doença pulmonar crônica avançada;
 - Portadores de doença cardíaca grave sem indicação de tratamento cirúrgico ou intervencionista;
@@ -44,7 +51,7 @@ Tabela 2 - Contraindicações relativas
 - Portadores de doença neuropsiquiátrica;
 - Portadores de anomalias urológicas e/ou disfunção vesical grave.
 
-Tabela 3 - Contraindicações temporária
+Tabela 3 - Contraindicações temporárias
 - Portadores de infecção em atividade ou com tratamento incompleto;
 - Transfusão sanguínea recente (<15 dias);
 - Perda recente de enxerto por causa imunológica;
@@ -54,9 +61,11 @@ Observação: a idade do paciente não constitui contraindicação para o recebimento
 
 6. Doadores de rim
 
-O doador para transplante renal pode ser vivo relacionado (parente), vivo não relacionado (não parente) ou doador cadáver. Preferencialmente, os transplantes renais deveriam ser realizados com órgãos obtidos de doadores falecidos.
-No Brasil, a lei permite a doação de órgãos até o 4º grau de consanguinidade e doação entre cônjuges e filhos ou pais adotivos, porém com necessidade de autorização judicial. 
-A idade não é uma contraindicação absoluta para doação. O doador vivo deve ser adulto (dando-se preferência para doadores acima de 30 anos), e, em geral, a idade máxima não deve ser superior a 70 anos.
+O doador para transplante renal pode ser vivo relacionado (parente), vivo não relacionado (não parente) ou doador cadá-ver. Preferencialmente, os transplantes renais deveriam ser realizados com órgãos obtidos de doadores falecidos.
+No Brasil, a lei permite a doação de órgãos até o 4º grau de consanguinidade e doação entre cônjuges e filhos ou pais ado-tivos, porém com necessidade de autorização judicial. 
+A idade não é uma contraindicação absoluta para doação. O doador vivo deve ser adulto (dando-se preferência para doa-dores acima de 30 anos), e, em geral, a idade máxima não deve ser superior a 70 anos.
+- Rins de doadores de critérios expandidos 
+Na tentativa de incentivar e facilitar os transplantes de órgãos oriundos de doadores mortos, em 2002, novas políticas e procedimentos foram desenvolvidos para desembaraçar a alocação dos rins com características de doadores desfavoráveis. Esses rins de doadores de critérios expandidos (Expanded Criteria Donor – ECD) são definidos como sendo rins associados a um índice mais alto de perda do enxerto, como resultado de uma combinação de fatores do doador, entre os quais idade avançada, história de hipertensão, morte por acidente vascular encefálico e elevações dos níveis de creatinina no momento da recuperação do rim. Embora as taxas de sobrevida de enxerto após 1, 3 e 5 anos sejam menores para os rins ECD do que para os não ECD (81%, 67% e 51%, respectivamente, para receptores de rins ECD, em comparação aos 90%, 81% e 68% para receptores de rins não ECD), é consenso entre a maioria dos pacientes e médicos que receber um rim confere melhora signi-ficativa da qualidade de vida, em comparação à permanência na diálise.
 
 Tabela 4 - Critérios de exclusão de um doador vivo para transplante renal
 - Clearance de creatinina <80mL/1,73m2;
@@ -74,126 +83,205 @@ Tabela 4 - Critérios de exclusão de um doador vivo para transplante renal
 - Outras infecções graves;
 - Câncer;
 - Vício em drogas.
-Observação: parentes de portadores de doença renal policística só serão considerados candidatos a doador se apresentarem ultra-sonografia renal e tomografia renal normal e se tiverem mais do que 30 anos. 
+Observação: parentes de portadores de doença renal policística só serão considerados candidatos a doador se apresentarem ultrassono-grafia renal e tomografia renal normal e se tiverem mais do que 30 anos. 
 Critérios para priorização de receptores
 - Ausência de via de acesso para tratamento dialítico;
 - Doador criança (menor de 12 anos) para receptor criança (menor de 12 anos).
+
 7. Imunologia do transplante
 
 Em um transplante renal ABO compatível (grupos sanguíneos compatíveis), os antígenos do sistema HLA são os principais alvos moleculares da rejeição. Há 2 classes de antígenos HLA expressos na superfície das células: 
-- Classe I: 3 antígenos de classe I codificados por 3 loci distintos e expressos na membrana das células, chamados HLA A, B e C;
-- Classe II: igualmente, 3 antígenos de classe II bem definidos HLA-DR, DQ e DP.
+Classe I: 3 antígenos de classe I codificados por 3 loci distintos e expressos na membrana das células, chamados HLA A, B e C;
+Classe II: igualmente, 3 antígenos de classe II bem definidos HLA-DR, DQ e DP.
 Tanto os antígenos da classe I como os da classe II são codificados na mesma região do genoma, situado no braço curto do cromossoma 6 humano.
-Há um exame necessário antes do transplante, além da compatibilidade ABO e HLA: a prova cruzada de linfócitos (crossmatch) entre doador e receptor (realizada com linfócitos totais, linfócitos T + antiglobulina humana e com linfócitos B) deve ser negativa para aloanticorpos específicos contra o doador. No caso de prova cruzada positiva contra linfócitos B, deve-se afastar a possibilidade da presença de anticorpos anti-HLA classe I. Prova cruzada positiva causada exclusivamente por autoanticorpos não contraindica o transplante. 
+Há um exame necessário antes do transplante, além da compatibilidade ABO e HLA: a prova cruzada de linfócitos (cross-match) entre doador e receptor (realizada com linfócitos totais, linfócitos T + antiglobulina humana e com linfócitos B) deve ser negativa para aloanticorpos específicos contra o doador. No caso de prova cruzada positiva contra linfócitos B, deve-se afastar a possibilidade da presença de anticorpos anti-HLA classe I. Prova cruzada positiva causada exclusivamente por auto-anticorpos não contraindica o transplante. 
 
 8. Drogas imunossupressoras 
 
-A terapia imunossupressora de indução (no momento do transplante) e de manutenção (após o transplante) é administrada a quase todos os receptores de transplante renal, para ajudar a prevenir a rejeição aguda e a perda do aloenxerto renal. Embora um nível adequado de imunossupressão seja necessário para atenuar a resposta imunológica ao enxerto, o nível de imunossupressão crônica é reduzido lentamente para ajudar a reduzir o risco global de infecção e malignidade. Esses riscos estão diretamente correlacionados com o grau de imunossupressão geral. O objetivo da terapia de indução é diminuir a incidência de rejeição aguda imediata pós-transplante, como veremos a seguir. 
+A terapia imunossupressora de indução (no momento do transplante) e de manutenção (após o transplante) é administra-da a quase todos os receptores de transplante renal, para ajudar a prevenir a rejeição aguda e a perda do aloenxerto re-nal. Embora um nível adequado de imunossupressão seja necessário para atenuar a resposta imunológica ao enxerto, o nível de imunossupressão crônica é reduzido lentamente para ajudar a reduzir o risco global de infecção e malignidade. Esses ris-cos estão diretamente correlacionados com o grau de imunossupressão geral. O objetivo da terapia de indução é diminuir a incidência de rejeição aguda imediata pós-transplante, como veremos a seguir. Uma imunossupressão inadequada resulta na rejeição do órgão transplantado, enquanto uma imunossupressão excessiva pode levar a imunodeficiência, infecção e, possi-velmente, desenvolvimento de malignidade.
 As drogas imunossupressoras têm como principais alvos os linfócitos T.
 Há uma combinação de imunossupressores a fim de bloquear a resposta imune em vários níveis e minimizar a toxicidade.
-Atualmente, há um regime de manutenção que consiste em terapia de imunossupressão tripla com um inibidor da calcineurina (ciclosporina ou tacrolimo), um antimetabólito (azatioprina, micofenolato de mofetila ou micofenolato de sódio) e prednisona. Sirolimo ou everolimo são utilizados por alguns centros de transplante em regimes terapêuticos triplos, frequentemente em vez do inibidor de calcineurina ou do antimetabólito, além do inibidor da calcineurina em baixa dosagem sem um antimetabólito.
-Há uma série de questões importantes a considerar quando se decide sobre o regime imunossupressor de manutenção para administração em um paciente em particular:
-- O risco de perda do enxerto e rejeição aguda é mais alto nos 3 primeiros meses após o transplante. Como resultado, a imunossupressão deve estar no seu grau mais elevado durante esse período;
-- A ocorrência de efeitos colaterais mais graves da terapia imunossupressora (infecções e malignidade) correlaciona-se com a quantidade total de imunossupressão. Portanto, é essencial que a imunossupressão seja reduzida lentamente, para um nível de manutenção por 6 a 12 meses pós-transplante;
-- Agentes imunossupressores devem ser escolhidos, em parte, com base em características específicas do paciente.
 
-9. As medicações e os seus principais efeitos colaterais
+Dica
+As drogas imunossupressoras têm como principais alvos os linfócitos T, na tentativa de evitar a rejeição aguda (alto risco nos 3 primeiros meses após o transplante). 
+
+As principais classes de imunossupressores incluem os corticosteroides, antimetabólitos (como azatioprina, micofenolato de mofetila e ácido micofenólico), inibidores de calcineurina (como ciclosporina e tacrolimo) e inibidores de TOR (alvo da rapamicina, de target of rapamycin), como sirolimo. Além das medicações orais à base de anticorpo monoclonal (anticorpos anti-CD25 – isto é, daclizumabe e basiliximabe – e OKT3), as preparações com anticorpos policlonais (ATGAM – globulina antitimócito – e RATG – globulina antitimócito de coelho, também chamada timoglobulina) podem ser usadas para prevenir ou tratar a rejeição.
+
+Tabela 5 - Fármacos imunossupressores
+Classes	Fármacos
+Corticosteroides	Prednisona
+Antimetabólitos	- Azatioprina;
+- Micofenolato de mofetila;
+- Ácido micofenólico.
+Inibidores de calcineurina	- Ciclosporina; 
+- Tacrolimo.
+Inibidor de TOR 	Sirolimo
+Anticorpos policlonais	- ATGAM;
+- RATG.
+Anticorpos monoclonais	- OKT3;
+- Anti-CD25:
+  · Basiliximabe;
+  · Daclizumabe.
+- Anti-CD20:
+  · Rituximabe;
+  · Campath-1H.
+ATGAM: globulina antitimócito; RATG: globulina antitimócito de coelho; TOR: alvo da rapamicina.
+
+Atualmente, há um regime de manutenção que consiste em terapia de imunossupressão tripla com um inibidor da calci-neurina (ciclosporina ou tacrolimo), um antimetabólito (azatioprina, micofenolato de mofetila ou micofenolato de sódio) e prednisona. Sirolimo ou everolimo são utilizados por alguns centros de transplante em regimes terapêuticos triplos, fre-quentemente em vez do inibidor de calcineurina ou do antimetabólito, além do inibidor da calcineurina em baixa dosagem sem um antimetabólito.
+Há uma série de questões importantes a considerar quando se decide sobre o regime imunossupressor de manutenção para administração em um paciente em particular:
+O risco de perda do enxerto e rejeição aguda é mais alto nos 3 primeiros meses após o transplante. Como resultado, a imunossupressão deve estar no seu grau mais elevado durante esse período;
+A ocorrência de efeitos colaterais mais graves da terapia imunossupressora (infecções e malignidade) correlaciona-se com a quantidade total de imunossupressão. Portanto, é essencial que a imunossupressão seja reduzida lentamente, para um nível de manutenção por 6 a 12 meses pós-transplante;
+Agentes imunossupressores devem ser escolhidos, em parte, com base em características específicas do paciente.
+
+9. Medicações e seus principais efeitos colaterais
 
 A - Corticosteroides 
-
+Os corticosteroides produzem efeitos imunossupressores e anti-inflamatórios significativos, bloqueando a expressão de várias citocinas, dentre as quais as mais importantes são as interleucinas 1 (IL-1) e 2 (IL-2).
 Hipertensão, diabetes, úlceras gástricas, hiperlipidemia, osteoporose, miopatia, ganho de peso, catarata e insônia.
 
 B - Inibidores da calcineurina 
-Trata-se de drogas que aumentam significativamente a sobrevida dos transplantes renais.
-- Ciclosporina: nefrotoxicidade (aguda e crônica), hipertensão, hipercalemia, hipomagnesemia, hiperuricemia, hiperlipidemia, hirsutismo, hiperplasia gengival, ginecomastia;
-- Tacrolimo: como a ciclosporina, porém o diabetes mellitus é mais comum.
+Trata-se de drogas que aumentam significativamente a sobrevida dos transplantes renais. A principal desvantagem desses fármacos está principalmente relacionada à sua toxicidade não imune, sobretudo nefrotoxicidade. O principal efeito é a vaso-constrição intrarrenal, que acarreta isquemia intrarrenal e toxicidade celular tubular renal.
+Ciclosporina: nefrotoxicidade (aguda e crônica), hipertensão, hipercalemia, hipomagnesemia, hiperglicemia, hiperurice-mia, hiperlipidemia, hirsutismo, hiperplasia gengival, ginecomastia;
+Tacrolimo: como a ciclosporina, porém o diabetes mellitus é mais comum.
 
-C - Antimetabólicos
-- Azatioprina: mielossupressão (citopenias);
-- Micofenolato de mofetila: diarreia, náuseas e dor abdominal;
-- Sirolimo: proteinúria, hiperlipidemia, pneumonite, inibição da cicatrização.
+C - Antimetabólicos (ou antiproliferativos)
+A azatioprina é um análogo de purina incorporado ao DNA celular, onde inibe a síntese de nucleotídeos de purina. O mi-cofenolato de mofetila é um inibidor reversível da inosina monofosfato desidrogenase, uma enzima limitante de velocidade essencial à síntese de novo das purinas nos linfócitos. Como os linfócitos contam exclusivamente com a via da síntese de novo das purinas, em vez da via de salvamento de produção de nucleotídeos de purina, são bastante suscetíveis aos efeitos do micofenolato de mofetila. 
+Azatioprina: mielossupressão (citopenias);
+Micofenolato de mofetila: diarreia, náuseas e dor abdominal;
+O micofenolato de mofetila, em geral, é usado como substituto da azatioprina, por apresentar maiores potência e especifi-cidade em termos de efeito sobre os linfócitos.
+
+D - Inibidores de TOR
+O sirolimo é um novo agente imunossupressor com atividade imunossupressora exclusiva, em comparação aos outros fármacos já descritos. Embora o sirolimo se ligue a uma proteína de ligação citoplasmática similar àquela ligada pelo tacrolimo, o complexo fármaco–proteína de ligação não se fixa à calcineurina. Em vez disso, o complexo formado tem como alvo a prote-ína TOR, comprometendo a capacidade das citocinas previamente sintetizadas de ativar as células T a entrarem no ciclo de divisão celular. Droga de escolha em casos de transplantados com câncer, o sirolimo, além de tudo isso, envolve proteinúria, hiperlipidemia, hipertrigliceridemia, trombocitopenia leve, pneumonite e inibição da cicatrização.
+
+E - Anticorpos mono e policlonais
+ Os anticorpos mono e policlonais são úteis para terapias de curta duração, que podem ajudar a iniciar ou induzir a imu-nossupressão, ou a tratar a rejeição.
+Os produtos à base de anticorpos policlonais atualmente comercializados são o ATGAM e o RATG. Esses agentes são usa-dos sobretudo para induzir imunossupressão ou tratar a rejeição. Seu modo de ação primário está relacionado à depuração dos linfócitos no sistema reticuloendotelial ou envolve a lise subsequente à ligação dos anticorpos às células T. As reações alérgicas constituem o problema mais comum. Além disso, como esses agentes são muito potentes, pode haver excesso de imunossupressão. É necessário monitorizar as contagens de linfócitos totais para identificar a dose terapêutica ideal. São agentes geralmente administrados em doses diárias, por 1 ou 2 semanas.
+As preparações à base de anticorpos monoclonais representam um avanço em relação às preparações à base de anticor-pos policlonais. O anticorpo anti-OKT3 foi o 1º a ser aprovado para uso no transplante clínico, especificamente dirigido contra o complexo do antígeno CD3 encontrado em todas as células T humanas maduras. Trata-se de um agente bastante efetivo e potente, administrado diariamente, por 7 a 14 dias. É particularmente útil para indução de imunossupressão ou tratamento da rejeição. Seu principal efeito colateral é a síndrome da liberação aguda de citocinas, que pode ser uma condição muito grave em alguns, com necessidade de ventilação mecânica. Ainda que esse efeito colateral seja incomum, os pacientes devem ser monitorizados atentamente, em particular após as primeiras doses.
+Foram desenvolvidos anticorpos monoclonais anti-CD25. Dois desses agentes, o daclizumabe e o basiliximabe, são anticor-pos monoclonais murinos amplamente humanizados dirigidos contra o sítio do receptor da IL-2. Foi comprovado que são bastante efetivos para diminuir a incidência da rejeição aguda, desde que administrados imediatamente antes e logo depois do transplante do enxerto. Seus efeitos colaterais são negligíveis. As terapias mais modernas que usam anticorpos dirigidos contra células B incluem 2 anticorpos monoclonais anti-CD20: rituximabe e campath-1H, ambos promissores em termos de tratamento da rejeição vascular. Além disso, podem ser úteis na indução da imunossupressão, particularmente em pré-sensibilizados, embora seu uso em casos de transplante ainda não tenha sido aprovado.
 
 10. Complicações pós-transplante
 
 A - Rejeição
 É mediada imunologicamente e envolve respostas humoral e celular.
-- Rejeição hiperaguda (resposta humoral): mediada por anticorpos pré-formados oriundos de sensibilização prévia contra antígenos do doador. Ocorre nas primeiras 24 horas pós-transplante ou até mesmo durante a cirurgia. É quando o receptor apresenta anticorpos dirigidos contra o rim transplantado antes mesmo do transplante, causando a perda rápida e irreversível do órgão. Nesse tipo de rejeição, os anticorpos reagem com células endoteliais dos vasos do enxerto, ativam os sistemas do complemento e da coagulação, fazem migrações polimorfonucleares e há a criação de trombo, gerando destruição do endotélio e obstrução vascular;
-- Rejeição aguda (resposta celular): ocorre a partir do 3º dia após o transplante, podendo acontecer a qualquer momento no curso do pós-transplante, sendo mais comum nos 3 primeiros meses. O sistema imune do receptor, por meio dos linfócitos T, entra em contato com os antígenos do doador e “reconhece” os antígenos do outro. Nesse tipo de rejeição, ocorrem um sinal gerado por meio do receptor da célula T durante o alorreconhecimento e um 2º sinal (ou sinal 2) coestimulatório adicional antígeno-inespecífico, eficiente para a ativação dos linfócitos T. É o tipo mais comum de rejeição precoce e a única para a qual existe tratamento efetivo;
-- Rejeição ou nefropatia crônica: é o desgaste do rim que ocorre ao longo da evolução do transplante, levando a perda funcional lenta e progressiva do rim transplantado. A presença de proteínas na urina pode ser um indicador dessa situação.
+Rejeição hiperaguda (resposta humoral): mediada por anticorpos pré-formados oriundos de sensibilização prévia contra antígenos do doador. Ocorre nas primeiras 24 horas pós-transplante ou até mesmo durante a cirurgia. É quando o recep-tor apresenta anticorpos dirigidos contra o rim transplantado antes mesmo do transplante, causando a perda rápida e ir-reversível do órgão. Nesse tipo de rejeição, os anticorpos reagem com células endoteliais dos vasos do enxerto, ativam os sistemas do complemento e da coagulação, fazem migrações polimorfonucleares e há a criação de trombo, gerando destruição do endotélio e obstrução vascular;
+Rejeição aguda (resposta celular): ocorre a partir do 3º dia após o transplante, podendo acontecer a qualquer momento no curso do pós-transplante, sendo mais comum nos 3 primeiros meses. O sistema imune do receptor, por meio dos lin-fócitos T, entra em contato com os antígenos do doador e “reconhece” os antígenos do outro. Nesse tipo de rejeição, ocorrem um sinal gerado por meio do receptor da célula T durante o alorreconhecimento e um 2º sinal (ou sinal 2) co-estimulatório adicional antígeno-inespecífico, eficiente para a ativação dos linfócitos T. É o tipo mais comum de rejeição precoce e a única para a qual existe tratamento efetivo;
+Rejeição ou nefropatia crônica: é o desgaste do rim que ocorre ao longo da evolução do transplante, levando a perda fun-cional lenta e progressiva do rim transplantado. A presença de proteínas na urina pode ser um indicador dessa situação.
 
-B - Aumento da creatinina sérica
-Quase todos os pacientes têm uma TFG diminuída em comparação com a função renal normal. Razões para a modesta diminuição da TFG incluem transplante de rim único, lesão isquêmica (especialmente no caso de rins de doadores falecidos) e uso de inibidores da calcineurina, que causam vasoconstrição. As possíveis causas do aumento da creatinina incluem:
-- Pré-renal (depleção de volume devido a vômitos ou diarreia);
-- Pós-renal (obstrução);
-- Nefrotoxicidade dos inibidores de calcineurina;
-- Rejeição;
-- Recorrência de glomerulonefrite;
-- Necrose tubular aguda, por sepse ou nefrotoxinas;
-- Nefrite intersticial induzida por drogas;
-- Infecção;
-- Estenose da artéria renal.
+B - Disfunção do transplante renal
+Quase todos os pacientes têm uma TFG diminuída em comparação com a função renal normal. Razões para a modesta di-minuição da TFG incluem transplante de rim único, lesão isquêmica (especialmente no caso de rins de doadores falecidos) e uso de inibidores da calcineurina, que causam vasoconstrição. As possíveis causas do aumento da creatinina incluem:
+
+Tabela 6 - Causas de disfunção do transplante renal
+Categorias	Causas
+Estrutural	- Compressão extrínseca (acúmulo de líquidos);
+- Obstrução ureteral (cálculo, cicatriz, massa);
+- Obstrução uretral (próstata, estreitamento).
+Vascular	Estenose arterial renal
+Depleção de volume	- Insuficiência cardíaca;
+- Diuréticos;
+Parenquimatosa renal	- Rejeição aguda;
+- Rejeição crônica;
+- Glomerulonefrite recorrente.
+Fármacos	- Inibidores da enzima conversora de angiotensina;
+- Bloqueadores do receptor de angiotensina II;
+- Antibióticos;
+- Inibidores de calcineurina;
+- Anti-inflamatórios não hormonais.
 
 C - Função retardada do enxerto
-Ocorre por necrose tubular aguda, principalmente em doadores falecidos. Os principais fatores predisponentes são doador idoso, tempo de isquemia fria >24 horas (tempo entre a retirada do órgão do doador e a colocação no receptor), condições hemodinâmicas do doador e receptor, preservação do órgão.
+Ocorre por necrose tubular aguda, principalmente em doadores falecidos. Os principais fatores predisponentes são doa-dor idoso, tempo de isquemia fria >24 horas (tempo entre a retirada do órgão do doador e a colocação no receptor), condi-ções hemodinâmicas do doador e receptor e preservação do órgão.
 
 D - Infecções
 As infecções são a principal causa de morte após o transplante renal e são mais prováveis entre o 1º e o 3º mês após o transplante, devido a altas doses de drogas imunossupressoras para evitar as rejeições:
-- Infecção por citomegalovírus (CMV);
-- Infecção por Epstein-Barr;
-- Infecções fúngicas (candidíase e aspergiloses);
-- Infecções parasitárias (pneumocistose, estrongiloidíase e toxoplasmose).
+Infecção por citomegalovírus (CMV);
+Infecção por Epstein-Barr;
+Infecções fúngicas (candidíase e aspergiloses);
+Infecções parasitárias (pneumocistose, estrongiloidíase e toxoplasmose).
+
+ 
+Figura 1 - Infecções após transplante renal
 
 a) Infecções virais
-Os vírus do grupo Herpesviridae são os responsáveis pelas infecções que constituem a principal causa isolada de morbidade e mortalidade entre os transplantados. A capacidade de latência permite que, na ausência de replicação viral ativa, o indivíduo mantenha a condição de infecção crônica latente. A introdução do tratamento imunossupressor desestabiliza esse estado de latência, favorecendo a replicação viral.
+Os vírus do grupo Herpesviridae são os responsáveis pelas infecções que constituem a principal causa isolada de morbida-de e mortalidade entre os transplantados. A capacidade de latência permite que, na ausência de replicação viral ativa, o indi-víduo mantenha a condição de infecção crônica latente. A introdução do tratamento imunossupressor desestabiliza esse estado de latência, favorecendo a replicação viral.
 
 b) Infecção por citomegalovírus
 É o patógeno que representa maior ameaça aos receptores de transplante de órgãos sólidos. Encontram-se evidencias de infecção em 2/3 dos receptores. Pode infectar vários tecidos e órgãos, e suas manifestações clínicas são diversas, mas as principais são febre e leucopenia. 
 Observamos 3 tipos de infecção por CMV: primoinfecção, reativação viral e superinfecção viral.
-- Infecção primária: 1 episódio de infecção por CMV que ocorre em indivíduo com sorologia anti-CMV previamente negativa. Geralmente, ocorre positivação da sorologia (IgM e IgG) anti-CMV e da antigenemia para CMV;
-- Infecção secundária, que pode ser dividida em:
-  · Reativação: quando a cepa viral latente se manifesta clinicamente; 
-  · Reinfecção: quando o indivíduo portador de infecção latente por determinada cepa do CMV é infectado com uma 2ª cepa do mesmo vírus. Esta também é denominada superinfecção. Ocorre em indivíduos com sorologia IgG anti-CMV positiva, em geral com positivação da sorologia IgM anti-CMV e/ou elevação do título sérico de IgG anti-CMV.
-Outros testes que evidenciam a presença viral (como a pesquisa da antigenemia para antígeno CMV pp65) também costumam ficar positivos.
-- Infecção latente: persistência viral, de forma latente, em diversos tecidos do hospedeiro. Os indivíduos tipicamente apresentam sorologia IgG anti-CMV positiva. Os demais testes (IgM e antigenemia para antígeno CMV pp65) são negativos;
-- Infecção ativa (ou CMV doença): manifestações clínicas secundárias à infecção pelo CMV, primária ou secundária. 
+Infecção primária: 1 episódio de infecção por CMV que ocorre em indivíduo com sorologia anti-CMV previamente negati-va. Geralmente, ocorre positivação da sorologia (IgM e IgG) anti-CMV e da antigenemia para CMV;
+Infecção secundária, que pode ser dividida em:
+Reativação: quando a cepa viral latente se manifesta clinicamente; 
+Reinfecção: quando o indivíduo portador de infecção latente por determinada cepa do CMV é infectado com uma 2ª cepa do mesmo vírus. Esta também é denominada superinfecção. Ocorre em indivíduos com sorologia IgG anti-CMV positiva, em geral com positivação da sorologia IgM anti-CMV e/ou elevação do título sérico de IgG anti-CMV.
+Outros testes que evidenciam a presença viral (como a pesquisa da antigenemia para antígeno CMV pp65) também cos-tumam ficar positivos.
+Infecção latente: persistência viral, de forma latente, em diversos tecidos do hospedeiro. Os indivíduos tipicamente apre-sentam sorologia IgG anti-CMV positiva. Os demais testes (IgM e antigenemia para antígeno CMV pp65) são negativos;
+Infecção ativa (ou CMV doença): manifestações clínicas secundárias à infecção pelo CMV, primária ou secundária. 
 O diagnóstico baseia-se na detecção precoce dos antígenos virais e nos estudos sorológicos. 
+Está comprovado que a incidência e a gravidade da doença causada por CMV são diminuídas pela profilaxia oral com gan-ciclovir ou valganciclovir, cujos cursos são iniciados no momento do transplante e mantidos por cerca de 12 semanas. Se houver desenvolvimento da doença causada por CMV, o tratamento com administração de doses altas de ganciclovir ou vala-ciclovir por via intravenosa aliado à redução da medicação imunossupressora promove controle efetivo.
 
 c) Infecção pelo vírus Epstein-Barr (EBV)
-Tem relação com doenças linfoproliferativas pós-transplante, principalmente em crianças.
+Tem relação com doenças linfoproliferativas pós-transplante, principalmente em crianças. Os receptores soronegativos de órgãos soropositivos devem receber pelo menos 3 meses de profilaxia antiviral (como ganciclovir, aciclovir ou valganciclovir).
 
-d) Infecção fúngica
+d) Poliomavírus 
+A maioria dos receptores de transplante abriga uma infecção latente com a cepa BK do poliomavírus. Esse vírus é adquiri-do na infância por quase todas as pessoas e aparentemente permanece latente nos rins e no trato geniturinário. Com a imu-nossupressão crônica, o vírus pode ser reativado e causar progressiva nefropatia fibrótica e inflamatória que resulta na perda gradual da função renal. Também favorece o surgimento de nefrite intersticial aguda viral. Outra consequência é a obstrução ureteral. Essa infecção resulta em quadro clínico que se assemelha ao de uma rejeição crônica ou nefropatia acrônica do aloenxerto. 
+
+e) Infecção fúngica
 A grande maioria é causada por Candida spp., seguida de Aspergillus e Cryptococcus.
 
-e) Infecções parasitárias
-- Pneumocystis jirovecii;
-- Strongyloides stercoralis;
-- Toxoplasma gondii.
+f) Infecções parasitárias
+Pneumocystis jirovecii;
+Strongyloides stercoralis;
+Toxoplasma gondii.
+
+g) Infecções do trato urinário
+As estratégias profiláticas são empregadas de modo rotineiro, para a prevenção das infecções pós-operatórias do trato urinário. Pacientes com anormalidades estruturais ou problemas funcionais na bexiga são particularmente de alto risco. O trimetoprima-sulfametoxazol é comumente prescrito como regime de dose diária com duração de 3 a 6 meses, o qual tam-bém fornece profilaxia efetiva contra a pneumonia causada por Pneumocystis e as infecções produzidas por Nocardia. 
+ 
+ h) Parvovírus B19
+ O parvovírus B19 é o agente etiológico do eritema infeccioso altamente contagioso (5ª doença). A infecção produzida por esse vírus é comum na infância. Aos 15 anos, metade dos adolescentes apresenta anticorpos antiparvovírus B19 específicos. No decorrer da fase adulta, a incidência da doença é menor.
+O parvovírus B19 comprovadamente infecta as células progenitoras eritroides humanas localizadas na medula óssea. No paciente imunossuprimido, a falha em desenvolver anticorpos protetores após a infecção pode resultar na infecção persis-tente pelo B19 e em uma anemia severa resultante de aplasia pura de hemácias. 
+
+Dica
+A principal infecção pós-transplante renal (surge após 1º ou 3º mês) se dá por citomegalovírus.
 
 11. Complicações cirúrgicas
 
-- Tromboses de vasos renais (obstrução de uma artéria ou veia do rim transplantado);
-- Linfocele (coleções de linfa próximas ao órgão transplantado);
-- Fístula urinária (vazamento de urina para fora do sistema urinário);
-- Hematoma e hemorragias;
-- Ruptura renal.
+Tromboses de vasos renais (obstrução de uma artéria ou veia do rim transplantado);
+Linfocele (coleções de linfa próximas ao órgão transplantado);
+Fístula urinária (vazamento de urina para fora do sistema urinário);
+Hematoma e hemorragias;
+Ruptura renal.
+
+Dica
+A principal causa de morte no pós-transplante renal é doença cardiovascular.
 
 12. Neoplasias
 
 Alguns tipos de tumores aparecem com mais frequência em quem é transplantado renal, já que o sistema imunológico fica menos ativo com o uso de medicamentos, entre eles os tumores de pele e linfomas.
 
 13. Vacinação 
-
 Os pacientes não devem receber quaisquer vacinas vivas atenuadas após o transplante. Estas incluem:
-- Varicela-zóster;
-- Influenza intranasal;
-- BCG;
-- Sarampo;
-- Caxumba;
-- Rubéola;
-- Poliomielite oral;
-- Febre amarela;
-- Varíola.
-Vacinas inativadas são consideradas seguras.  
+Varicela-zóster;
+Influenza intranasal;
+BCG;
+Sarampo;
+Caxumba;
+Rubéola;
+Poliomielite oral;
+Febre amarela;
+Varíola.
+Vacinas inativadas são consideradas seguras.
+  Importante
+Convém memorizar estas vacinas vivas atenuadas: varicela-zóster, influenza intranasal, BCG, sarampo, caxumba, rubéola, poliomielite oral, febre amarela e varíola; em inúmeras doenças, incluindo após o transplante, o paciente não deve tomá-las.
+
+Dica
+A glomeruloesclerose segmentar e focal é a mais frequente de todas as doenças recorrentes pós-transplante.
+
+Pergunta
+2011 - UFC 
+1. Um receptor de transplante renal cadáver possui creatinina sérica de 1,9mg/dL. Uma coleção perienxerto renal assin-tomática é aspirada, e o nível de creatinina é de 2mg/dL. Qual é o diagnóstico mais provável?
+a) linfocele
+b) hematoma
+c) urina
+d) abscesso
+e) hidrocele
+Resposta no final do capítulo
 
 14. Resumo
 
@@ -209,4 +297,12 @@ Quadro-resumo
 - As principais complicações no pós-transplante são as rejeições e infecções;
 - Há rejeições celulares e humorais;
 - A principal infecção ocorre por CMV;
-- Outra complicação é o desenvolvimento de câncer pelos pacientes com terapia imunossupressora. Os principais são de pele e linfomas.
+- Outra complicação é o desenvolvimento de câncer pelos pacientes com terapia imunossupressora. Os principais são de pele e linfo-mas.
+
+Resposta
+1. A
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
