@@ -1,0 +1,201 @@
+Neoplasias mieloproliferativas (não LMC)
+Marcos Laercio Pontes Reis / Fernanda Maria Santos / Fábio Freire José
+
+1. Introdução
+De acordo com a classificação revista em 2008 pela Organização Mundial da Saúde (OMS), as doenças mieloides crônicas do adulto são divididas em: síndromes mielodisplásicas (SMDs), neoplasias mieloproliferativas (NMPs), superposição SMD/NMP e neoplasias mieloides associadas à eosinofilia e a anormalidades do PDGF (fator de crescimento derivado de plaquetas). Destaca-se que todas são doenças crônicas, e não mais se tratará aqui de doenças agudas, vistas em capítulos anteriores.
+A categoria “NMPs”, por sua vez, inclui 4 doenças clássicas: Leucemia Mieloide Crônica (LMC), Policitemia Vera (PV), Trombocitemia Essencial (TE) e mielofibrose (MF) primária, também chamada metaplasia mieloide agnogênica. Existem, ainda, outras doenças menos comuns também inclusas nesse grupo: leucemia neutrofílica crônica, leucemia eosinofílica crônica, mastocitose e NMP não classificável.
+As NMPs crônicas são doenças clonais da célula-tronco hematopoética, caracterizadas pela presença histológica de hiperproliferação de 1 ou mais linhagens mieloides (granulocítica, megacariocítica ou eritrocítica), com proeminente leucocitose, trombocitose e/ou eritrocitose periférica.
+Com a nova revisão da OMS, os critérios diagnósticos dessas doenças também mudaram, destacando o papel cada vez mais importante da biologia molecular por meio da pesquisa tanto do gene de fusão BCR-ABL (no caso da LMC) quanto das recém-descobertas mutações do gene tirosinoquinase Janus-quinase 2 (JAK2) e do receptor de trombopoetina (MPL), agora marcadores clonais definitivos para PV (principalmente), TE e MF (que, em conjunto, são denominadas NMPs BCR-ABL negativas). A mutação JAK2 é fundamental para o diagnóstico das demais NMPs BCR-ABL negativas, pois é específica para linhagem mieloide (e ausente na linfoide), além de estar presente em, virtualmente, todos os pacientes com PV e em, pelo menos, 50% daqueles com TE e MF.
+Neste capítulo, serão discutidas as doenças mieloproliferativas crônicas, PV, TE e MF. A LMC, por sua complexidade e avanços atuais, será discutida em capítulo específico.
+2. Policitemia vera
+O termo policitemia indica aumento de sangue, mais especificamente da massa de eritrócitos, e pode ser tanto primária (causada por mutações nos progenitores mieloides, ou seja, a causa está primariamente na medula óssea) como secundária (causada por fatores que atuam nos progenitores mieloides – o principal exemplo é a eritropoetina).
+A PV é uma doença clonal maligna do sistema hematopoético, com proliferação principalmente do setor eritrocitário, mas também do granulocítico e do megacariocítico, cuja manifestação mais proeminente é o aumento da massa eritrocitária e a elevação persistente do hematócrito. Raramente evolui para MF, mielodisplasia ou leucemia aguda e é a mais comum das doenças mieloproliferativas após a LMC. Sua incidência estimada é levemente maior entre os homens (2,8/100.000 homens e 1,3/100.000 mulheres), sendo comum entre judeus, em quem se verifica, inclusive, tendência familiar. A faixa etária de surgimento é, em média, de 60 anos; entretanto, pode ocorrer em adultos jovens e, muito raramente, em crianças.
+Etiologicamente, a PV desenvolve-se da transformação de única célula-tronco hematopoética, com vantagem de crescimento seletiva, que gradualmente se transforma no principal precursor mieloide. As colônias eritroides derivadas da medula óssea desenvolvem-se na ausência de eritropoetina endógena, revelando o caráter autossômico da proliferação. Assim, a PV se distingue fisiopatologicamente das eritrocitoses secundárias, que ocorrem, em geral, por elevação da eritropoetina.
+Tabela 1 - Causas de poliglobulia secundária
+Secreção inapropriada de eritropoetina
+- Carcinoma renal;
+- Hepatocarcinoma;
+- Hemangioblastoma;
+- Fibroide uterino.
+Secreção apropriada de eritropoetina
+- Doença pulmonar crônica;
+- Shunt cardiopulmonar;
+- Apneia do sono;
+- Obesidade mórbida;
+- Grandes altitudes;
+- Doença vascular renal;
+- Alteração da hemoglobina (Hb): meta-hemoglobinemia, intoxicação por monóxido de carbono, cobalto.
+A - Quadro clínico
+A PV pode ser totalmente assintomática e diagnosticada em exames de rotina. Entretanto, o diagnóstico pode ser obtido por meio de complicações tromboembólicas (30%) ou hemorrágicas, já que os pacientes, por motivos pouco conhecidos, têm maior incidência desses 2 fenômenos (principalmente trombóticos arteriais). Várias apresentações de tromboembolismo podem estar presentes, como acidente vascular encefálico, ataque isquêmico transitório, infarto do miocárdio, isquemia digital, trombose venosa profunda, trombose das veias supra-hepáticas (desencadeando a síndrome de Budd-Chiari), trombose do seio cavernoso e doença tromboembólica pulmonar, fazendo que a prevenção de tais eventos seja um dos pilares básicos do manuseio da PV.
+Sangramentos leves podem ocorrer em cerca de 25% dos pacientes. Deve-se ter atenção especial para as hemorragias gastrintestinais prolongadas (úlceras pépticas devido ao aumento da viscosidade na microcirculação e à basofilia, e consequente hiper-histaminemia), que podem dificultar o diagnóstico da PV pela queda do hematócrito.
+Em 30 a 40% ocorrem sintomas gerais e inespecíficos, como cefaleia, tontura, fraqueza e sudorese. Uma queixa típica dos pacientes com PV é o prurido aquagênico generalizado (principalmente após o banho), em cerca de 40% dos casos. Queixas neurológicas, como vertigem, diplopia, escotomas e déficit neurológico transitório também podem estar relacionadas ao diagnóstico.
+Existe, ainda, o clássico sintoma da eritromelalgia, que consiste na sensação de queimação de pés e mãos, acompanhada de eritema, palidez ou cianose, com pulsos palpáveis. A eritromelalgia, associada à parestesia acral (de extremidades), é patognomônica da trombose microvascular que ocorre na PV e na TE, geralmente associada à plaquetometria >400.000/mm3. Em casos mais severos, pode resultar em necrose isquêmica de digitais com amputação. 
+ 
+Figura 1 - Eritromelalgia: eritema na mão direita
+Outras manifestações podem ser verificadas, como equimoses e lesões urticariformes. Ainda fazem parte da investigação a avaliação fundoscópica com sinais de hipertensão arterial, dilatação vascular retiniana e/ou presença de hemorragia e ingurgitamento vascular.
+Ao exame físico, nota-se o aparecimento de esplenomegalia, pletora e, em alguns casos, hepatomegalia, eritromelalgia, lesões urticariformes e escoriações pelo prurido. 
+B - Características laboratoriais
+Encontra-se elevação da massa eritrocitária com altos valores de Hb/hematócrito em quase todos os pacientes, com exceção daqueles que apresentam ferropenia por sangramento digestivo crônico ou pelo próprio consumo na eritropoese excessiva. Nessas situações, encontra-se desproporção entre os níveis de Hb/hematócrito com hipocromia e microcitose. A contagem de reticulócitos pode estar ligeiramente elevada. Neutrofilia ocorre em 60% dos casos, ocasionalmente com presença de mielócitos e metamielócitos no sangue periférico (desvio à esquerda). Basofilia também pode ocorrer em 2/3 dos casos. A contagem plaquetária está aumentada em cerca de 50%, podendo chegar a mais de 1.000.000/mL. 
+Frequentemente, a paO2 (pressão parcial arterial de oxigênio) é levemente diminuída. Níveis abaixo de 63mmHg são encontrados em mais de 10%, acompanhados também pelos níveis de saturação de O2, complicando o diagnóstico diferencial de policitemia secundária à hipóxia. Não é incomum o encontro de hiperuricemia, devido ao alto turnover celular.
+A medula óssea é, caracteristicamente, hipercelular, com hiperplasia nas 3 séries mieloides (eritrocitária, leucocitária e plaquetária). Alterações do cariótipo são observadas na minoria dos pacientes, principalmente 20q, trissomia dos cromossomos 8 e 9 e 13q. Entretanto, a pesquisa por biologia molecular da mutação JAK2 possui um alto valor preditivo negativo; não é exagero dizer que, virtualmente, todos com PV carregam essa mutação.
+Assim, o diagnóstico de PV deve ser feito pela presença de quadros clínico e laboratorial sugestivos, análise da medula óssea (mielograma e biópsia de medula óssea) e pesquisa de JAK2.
+Tabela 2 - Diferenças entre policitemias primária e secundária 
+Achados clínicos	PV	Poliglobulia secundária
+Leucocitose	+	-
+Trombocitose	+	-
+Saturação de O2	Discretamente ?	Bastante ?
+Vitamina B12	?	Normal
+FA leucocitária	?	Normal
+Medula óssea	Pan-hiperplasia 	Hiperplasia eritroide
+Nível de eritropoetina	Normal ou suprimido	?
+C - Critérios diagnósticos
+Antigamente, os critérios diagnósticos mais aceitos eram do Polycythemia Vera Study Group, que considerava como fatores diagnósticos a presença de esplenomegalia, a exclusão de outras causas de eritrocitose e os valores de leucócitos e plaquetas. 
+Atualmente, porém, têm-se os critérios da OMS de 2008, em que a pesquisa do JAK2 se firma como um dos métodos diagnósticos essenciais para PV.
+Tabela 3 - Critérios diagnósticos de PV (OMS, 2008)
+Critérios maiores
+1 - Hb >18,5g/dL (homens) e >16,5g/dL (mulheres) ou Hb >17g/dL (homens) ou 15g/dL (mulheres), se observado aumento sus-tentado de =2g/dL da Hb basal do paciente. 
+2 - Presença da mutação JAK2. 
+Critérios menores
+1 - Mieloproliferação das 3 linhagens mieloides na medula óssea (pan-mielose).
+2 - Níveis subnormais de eritropoetina sérica. 
+3 - Crescimento de colônias eritroides endógenas in vitro.
+PV = 2 critérios maiores e 1 menor ou o 1º critério maior e 2 menores.
+D - Tratamento
+O objetivo do tratamento é a resolução dos achados clínicos (sintomas), físicos (esplenomegalia, eritromelalgia) e laboratoriais (alteração do hemograma, hiperuricemia), além da diminuição da taxa de complicações em longo prazo: eventos trombóticos, hemorragias, transformação hematológica e desenvolvimento de outras neoplasias. As recomendações terapêuticas devem basear-se na análise de vantagens e desvantagens de cada opção, bem como na estratificação dos pacientes quanto ao risco de trombose, conforme descrito a seguir:
+Alto risco: idade =60 anos ou episódio trombótico anterior;
+Baixo risco: nenhum dos itens anteriores.
+a) Flebotomia
+É a principal forma terapêutica da PV e, provavelmente, a melhor terapia inicial para a maioria. Geralmente, há grande tolerância para a retirada de 450 a 500mL a cada 4 dias. Essa prática pode resultar em deficiência de ferro, que não deve ser corrigida, pois levaria a novo aumento de hematócrito. 
+b) Hidroxiureia
+Trata-se de um medicamento antimetabólico que inibe a síntese do DNA. Utilizado na PV para suplementar a flebotomia em pacientes de alto risco, evita eventos tromboembólicos por conseguir tanto níveis mais estáveis de hematócrito (menores do que 45 ou 42%) quanto efetivo controle na quantidade de plaquetas (mantendo-as em torno de 400.000/µL). Antigamente, era atribuído potencial leucemogênico à hidroxiureia, fato não confirmado pelos trabalhos mais atuais. Apresenta efeito teratogênico e deve ser usado com cuidado nas mulheres em idade fértil.
+c) Ácido acetilsalicílico
+Estudos clássicos europeus estabeleceram os benefícios do uso de ácido acetilsalicílico em baixas doses (100mg/d) para pacientes com PV, com diminuição do risco de morte por infarto agudo do miocárdio e acidente vascular cerebral, sem aumento de episódios hemorrágicos (o que não acontece em doses maiores, em que o risco hemorrágico presente suplanta os benefícios protetores). O uso do ácido acetilsalicílico reduz consideravelmente o sintoma de eritromelalgia.
+Vale destacar que a doença de von Willebrand adquirida é uma complicação possível nas mieloproliferações crônicas, principalmente quando há plaquetometria >1.000.000/mm3. Os candidatos ao uso de ácido acetilsalicílico devem ser rastreados para exclusão dessa complicação por meio da pesquisa do cofator de ristocetina que, se abaixo de 30%, contraindica o medicamento pelo alto risco de sangramento.
+d) Fósforo radioativo e agentes alquilantes
+Ambas as modalidades terapêuticas são eficazes em diminuir o número de episódios tromboembólicos, mas são desencorajadas pelo alto potencial oncogênico.
+e) Alfainterferona
+Do ponto de vista biológico, suprime a proliferação de progenitores hematopoéticos com efeito inibidor nas células progenitoras de fibroblastos e de antagonista do fator de crescimento plaquetário, que podem estar envolvidos na evolução da PV para MF.
+Estudos mostram bons índices de resposta, que, em alguns casos, podem chegar a 60%, com grande eficácia na redução do tamanho do baço e muito importante no controle do prurido. Entretanto, é um medicamento de alto custo e com alto grau de intolerância por efeitos colaterais (dores no corpo, cefaleia, depressão, síndrome flu-like, ou seja, sintomas semelhantes a resfriados ou gripes). Por tudo isso, associado a resultados inferiores em relação à hidroxiureia, deve ser reservado como 2ª linha para refratários ou intolerantes ao uso de hidroxiureia e para mulheres em idade fértil, uma vez que não apresenta teratogenicidade.
+f) Anagrelida
+Corresponde a um inibidor da proliferação e da maturação de megacariócitos, que provoca queda no número de plaquetas; é, então, útil somente no controle da trombocitemia em pacientes com PV, sem efeito na esplenomegalia ou no controle da série vermelha.
+Tabela 4 - Indicação terapêutica, segundo o risco de eventos trombóticos 
+Riscos	Manuseios terapêuticos indicados
+Baixo 	Baixas doses de ácido acetilsalicílico + flebotomia
+Alto 	Baixas doses de ácido acetilsalicílico + flebotomia + hidroxiureia
+E - Prognóstico e sobrevida
+A média de sobrevida dos pacientes tratados é maior do que 15 anos, e a mortalidade é de 1,6 a 1,7 vez maior do que indivíduos não doentes de mesmo sexo e idade, revelando a característica indolente da patologia. As principais causas de óbito são: 
+Transformação para MF, num risco relativo de 15,2 em 10 anos; 
+Evolução para mielodisplasia ou leucemia aguda, de forma variável, a depender do tratamento instituído, com taxa de 2,4% (nenhum citotóxico) a 17% (=2 citotóxicos); 
+Eventos trombóticos, com frequência de 3,4/100 pacientes/ano. 
+Outras complicações possíveis ao diagnóstico e durante a evolução são:
+Desenvolvimento de outras neoplasias: diretamente relacionado ao tipo de tratamento utilizado;
+Hemorragias: particularmente gastrintestinais, resultando raramente em óbito. Complicações em menos de 3% dos casos e relacionadas à alta contagem de plaquetas ou ao uso de altas doses de ácido acetilsalicílico.
+3. Trombocitemia essencial 
+Trata-se de uma doença clonal mieloproliferativa que envolve, primariamente, a linhagem megacariocítica, caracterizada pela elevação sustentada do número de plaquetas com tendência à trombose e à hemorragia.
+A - Epidemiologia
+As taxas de incidência anuais variam de 0,59 a 2,5 casos/100.000 indivíduos ao ano, aproximadamente 2 vezes maior em mulheres. Embora a média da idade ao diagnóstico seja de 60 anos, cerca de 20% têm idade inferior a 40 anos. Os raros casos observados na infância constituem, provavelmente, trombocitemia hereditária.
+B - Quadro clínico
+Metade dos pacientes é assintomática, e a outra metade apresenta sintoma “vasomotor” ou eventos trombo-hemorrágicos.  
+Os eventos trombóticos incluem isquemia cerebral transitória, acidente vascular cerebral, oclusão da veia ou artéria retiniana, infarto agudo do miocárdio, embolia pulmonar, trombose da veia porta, trombose venosa profunda, isquemia digital – em casos graves, com necrose da polpa digital. 
+Os sintomas vasomotores incluem cefaleia, síncope, dor torácica atípica, parestesias de extremidades, alterações visuais transitórias, livedo reticularis e eritromelalgia. Alguns estudos correlacionam esses fenômenos à ativação plaquetária mediada por tromboxano. 
+Os eventos hemorrágicos são menos frequentes que os trombóticos e podem ocorrer espontaneamente ou após trauma. As principais manifestações consistem em sangramento cutâneo, mucoso ou do tubo digestivo, mais frequentemente observadas com contagem de plaquetas superiores a 1.000.000/µL ou em pacientes em uso de altas doses de ácido acetilsalicílico ou anti-inflamatório não hormonal. Esse fato pode correlacionar-se não somente a uma alteração da função plaquetária, mas também à deficiência adquirida do fator de von Willebrand, pois o grande número de plaquetas circulantes apresenta ação redutora proteolítica na concentração plasmática dos grandes multímeros desse fator. Existe, assim, uma relação inversamente proporcional entre os níveis de fator de von Willebrand e a contagem plaquetária. Logo, o uso de ácido acetilsalicílico em plaquetas acima de 1.000.000/µL pode resultar em sangramento importante, devendo ser realizada a dosagem do fator de von Willebrand e cofator de ristocetina para avaliar se há contraindicação ao uso.
+C - Critérios diagnósticos
+A TE deve ser sempre diferenciada de trombocitose reativa e de outras mieloproliferações clonais que causam trombocitose, o que é importante, pois há o risco de eventos trombóticos somente nas trombocitoses primárias. 
+Tabela 5 - Causas de trombocitose reativa
+- Doenças infecciosas ou inflamatórias; 
+- Neoplasias;
+- Anemia ferropriva, anemia hemolítica, sangramentos agudos;
+- Esplenectomia. 
+Classicamente, descrevia-se uma série de critérios, que por muitos anos auxiliou o diagnóstico dessa patologia, estabelecidos também pelo Polycythemia Vera Study Group. Atualmente, porém, com o advento da pesquisa da mutação JAK2, em 50% dos casos de TE, os critérios foram revisados pela OMS em 2008.
+Tabela 6 - Critérios diagnósticos de TE (OMS, 2008)
+- Plaquetas acima de 450.000/µL;
+- Proliferação megacariocítica com morfologia madura. Nenhuma ou pouca proliferação granulocítica ou mieloide; 
+- Demonstração de JAK2 ou MPL; se JAK2 negativo, deve ser excluída outra causa de plaquetose;
+- Sem critérios diagnósticos da OMS para LMC, PV, MF, mielodisplasia ou outra neoplasia mieloide.
+Observação: são necessários todos os 5 critérios diagnósticos.
+
+Observação
+A doença permanece como diagnóstico de exclusão.
+D - Prognóstico e tratamento
+A TE pode ser considerada um processo mieloproliferativo benigno com expectativa de vida normal, em que o risco de eventos trombóticos, transformação para MF ou leucemia mieloide aguda num período de 15 anos é de 17, 4 e 2%, respectivamente. Portanto, o tratamento de indivíduos sintomáticos deve ser dirigido para a redução da morbidade associada aos sintomas vasomotores, complicações trombóticas e hemorrágicas. Como 1º passo, deve-se classificar o paciente em alto ou baixo risco para trombos:
+Alto risco: idade =60 anos ou episódio trombótico anterior;
+Baixo risco: nenhum dos itens anteriores.
+O 2º passo é definir a melhor opção terapêutica – são as mesmas que na PV, com algumas poucas variações no arsenal e na administração.
+a) Ácido acetilsalicílico
+Constitui a terapia antiagregante plaquetária padrão, funcionando como protetor para eventos trombóticos. As manifestações vasomotoras são facilmente controladas com baixas doses (80 a 100mg/d). Está também indicado na profilaxia secundária de eventos trombóticos, porém, entre pacientes com plaquetose acima de 1.000.000/µL, é contraindicado, devido ao aumento de eventos hemorrágicos pela comum associação com doença de von Willebrand adquirida, situação que sempre deve ser excluída nesses casos pela pesquisa do cofator de ristocetina (cujo normal é estar acima de 30%), antes da introdução do medicamento.
+b) Hidroxiureia
+É o agente citorredutor de escolha para pacientes de alto risco, com ação tanto na redução de plaquetas quanto na atividade antitrombótica, utilizado com o objetivo de manter a contagem plaquetária <400.000/mm3. O efeito na proliferação celular não é específico para plaquetas, resultando em supressão da eritropoese e granulopoese, que, por sua vez, implicam, respectivamente, em anemia e leucopenia. 
+c) Anagrelida
+Este potente inibidor, uma quinazolina inibidora da enzima nucleotídeo-fosfodiesterase cíclica, é capaz ainda de inibir a proliferação e a maturação de megacariócitos, juntamente com a trombopoese. Não existem efeitos diretos nas demais séries hematológicas. A droga é considerada teratogênica e não deve ser administrada a grávidas. Pacientes resistentes à hidroxiureia respondem à anagrelida em 68% dos episódios, só recomendada em casos de falha ou intolerância ao outro agente. Não há efeito leucemogênico observado em trabalho prospectivo de 7 anos, mas há maior risco de transformação em MF quando comparado com a hidroxiureia. 
+d) Alfainterferona
+É um agente citorredutor ativo sem ação mutagênica ou teratogênica. Além do efeito mielotóxico direto, seu uso na TE é justificado pelo antagonismo ao PDGF, substância responsável pela proliferação dos megacariócitos. É bastante eficiente nessa patologia, com resposta geral de cerca de 84%; contudo, os efeitos colaterais bastante frequentes (febre e sintomas gripais), associados à via de administração subcutânea diariamente, impedem a boa adesão ao fármaco.
+e) Pipobromana
+Derivado da piperazina, estruturalmente classificado como um agente alquilante, é um medicamento com taxa global de resposta na diminuição plaquetária e na atividade antitrombótica de cerca de 95%. Porém, apresenta risco de indução de leucemia com o uso em longo prazo, além de ser um medicamento novo e pouco disponível na maioria dos países. 
+Tabela 7 - Manuseio atual de acordo com o risco de trombose
+Estratificações de risco	Condutas
+Baixo	Baixa dose de ácido acetilsalicílico (se sintoma vasomotor)
+Baixo, porém com extrema trombocitose (acima de 1.000.000/µL)	Baixa dose de ácido acetilsalicílico (se cofator de ristocetina >30%)
+Alto	Baixa dose de ácido acetilsalicílico + hidroxiureia
+Como a maior parte dos pacientes com TE tem expectativa de vida normal, com baixa taxa de complicação, o tratamento citorredutor com medicamentos potencialmente tóxicos deve ser reservado àqueles que efetivamente precisam, ou seja, os de alto risco. Por fim, em extrema trombocitose com episódios trombóticos, pode-se proceder à plaquetaférese, com redução temporária dos níveis plaquetários.
+4. Mielofibrose
+A MF (também conhecida como metaplasia mieloide agnogênica, mieloesclerose e osteoesclerose) é uma NMP de caráter crônico e de etiologia desconhecida, caracterizada por esplenomegalia, sangue periférico com quadro leucoeritroblástico e presença de hemácias “em lágrima” (dacriócitos – Figura 2), além de medula óssea com variado grau de fibrose, hematopoese extramedular e sintomas constitucionais. A presença de fibrose na medula óssea não é suficiente para definir essa entidade, pois inúmeras outras doenças malignas e não malignas podem apresentar esse mesmo achado.
+É uma doença rara, com incidência estimada em 0,5 caso/100.000 habitantes ao ano. A idade média para o diagnóstico é de 50 a 69 anos, com ligeiro predomínio no sexo masculino e sobrevida média de 3 anos em cerca de 52% dos casos. 
+A fisiopatologia dessa doença ainda não é compreendida; acredita-se que primeiramente ocorra uma mutação somática na célula hematopoética pluripotente, seguida da proliferação anômala de fibroblastos, induzida por citocinas e fatores de crescimento liberados por megacariócitos. Logo, a fibrose medular é uma reação aos megacariócitos dismórficos e clonais.
+Inicialmente, há uma fase hipercelular da patologia, de duração variável, caracterizada por poliglobulia, leucocitose e/ou plaquetose, sendo o diagnóstico definitivo, algumas vezes, de difícil realização. Apenas posteriormente a doença evolui para uma fase hipocelular fibrótica.
+Anormalidades cromossômicas podem ser detectadas em 50 a 60% dos casos, nenhuma delas específica da MF, mas as mais comuns são deleção do 20q, deleção do 13q e anormalidades do cromossomo 8.
+ 
+Figura 2 - Dacriócito
+A - Quadro clínico
+A sintomatologia é de instalação insidiosa e, em aproximadamente 20% dos casos, o diagnóstico é obtido pelo achado incidental de esplenomegalia ao exame físico ou pela ultrassonografia. 
+As primeiras queixas estão relacionadas à anemia e constituem fraqueza, fadiga, palpitações e dispneia aos esforços. A esplenomegalia pode ser bastante volumosa, exteriorizando-se por sensação de massa no flanco esquerdo e por efeitos compressivos nas vísceras ocas abdominais, ocasionando sensação de plenitude gástrica e saciedade precoce. Manifestações hemorrágicas (relacionadas à plaquetopenia e à disfunção plaquetária) são reveladas por petéquias e equimoses. Nas fases mais avançadas da doença, aparecem sintomas gerais importantes, como sudorese noturna, astenia progressiva, perda de peso, palidez, icterícia, edema e dores ósseas. A incidência de evento arterial ou venoso é semelhante à da TE e menor que na PV. Os fatores de risco são idade avançada, leucocitose e presença da mutação JAK2.
+Tecido de eritropoese extramedular pode ocorrer em qualquer sítio, mas é mais comum no baço (esplenomegalia) e no fígado (hepatomegalia). Também pode ser encontrado no pulmão, no sistema nervoso central, no canal medular (inclusive com síndrome de compressão medular), no trato gastrintestinal, na pleura, no pericárdio etc.
+Ao hemograma, observa-se anemia, em geral normocítica e normocrômica, com anisocitose e poiquilocitose importantes, além do achado das hemácias “em lágrimas” ou dacriócitos (provenientes da hematopoese extramedular). Podem ser encontrados leucopenia, número normal de leucócitos ou leucocitose. Desvio à esquerda até algumas células blásticas, juntamente com a presença de eritroblastos (precursores de hemácias), configura o quadro de reação leucoeritroblástica, uma característica marcante da doença. Plaquetas podem estar normais ou diminuídas em número, e a trombocitose é rara. Frequentemente, há alteração da morfologia das plaquetas e de sua função. 
+
+ 
+Figura 3 - Reação leucoeritroblástica: células eritroides e granulocíticas imaturas
+A contagem de CD34 no sangue periférico (marcadores de células hematopoéticas precursoras) é 90 vezes maior que em uma pessoa saudável, sendo utilizada como diagnóstico diferencial de outras mieloproliferações crônicas, que não LMC. Alguns estudos mostram que esse achado tem valor prognóstico, ao passo que outros não o conseguem comprovar.
+O aspirado de medula óssea é geralmente “seco” (ou seja, sem saída de material para análise, devido ao grau de fibrose), com biópsia de medula óssea revelando, comumente, extremos graus de fibrose ou expressiva hiperplasia megacariocítica na fase hipercelular.
+A mutação JAK2 pode ser encontrada em 50% dos casos, mas o seu significado clínico, quanto ao impacto na evolução e sobrevida, ainda é incerto.
+Outras alterações laboratoriais geralmente presentes são hiperuricemia, pela alta taxa de renovação celular, aumento de DHL, pela eritropoese inefetiva, e aumento da fosfatase alcalina, pelos comprometimentos hepático e ósseo.
+A fibrose medular e a reação leucoeritroblástica não são patognomônicas de MF, visto que podem ocorrer em outras situações: câncer com metástase medular, doenças autoimunes (lúpus eritematoso sistêmico, esclerodermia), hiperparatireoidismo e osteodistrofia renal.
+Tabela 8 - Critérios diagnósticos para MF (OMS, 2008)
+Critérios maiores
+1 - Proliferação megacariocítica e atipia, acompanhada tanto por fibrose reticulínica quanto colágena, ou, na ausência da pri-meira, as mudanças megacariocíticas devem ser acompanhadas por aumento de celularidade medular, proliferação granulo-cítica e, geralmente, diminuição da eritropoese. 
+2 - Demonstração da mutação JAK2 ou MPL.
+3 - Sem critérios diagnósticos para LMC, PV, SMD ou outra neoplasia mieloide. 
+Critérios menores
+1 - Leucoeritroblastose.
+2 - Aumento de DHL. 
+3 - Anemia. 
+4 - Esplenomegalia palpável. 
+Todos os 3 critérios maiores e, ao menos, 2 critérios menores.
+B - Prognóstico
+Em comparação com as demais NMPs, a MF tem prognóstico pior, com sobrevida média de 6 anos e risco de 30% de evolução para leucemia mieloide aguda. Consequentemente, são necessários índices prognósticos que orientem a decisão terapêutica.
+Tabela 9 - Escore prognóstico para MF (International Prognostic Scoring System)
+Fatores prognósticos
+- Hb <10g/dL;
+- Leucócitos =25.000/mL;
+Fatores prognósticos
+- Blasto circulante =1%;
+- Idade >65 anos.
+Risco	Número de fatores	Sobrevida (meses)
+Baixo 	0	135
+Intermediário 1	1	95
+Intermediário 2	2	48
+Alto	=3	27
+C - Tratamento
+No momento, o único tratamento considerado potencialmente curador para MF é o transplante de células-tronco hematopoéticas alogênico. Deve ser indicado a pacientes de alto risco, com idade abaixo de 55 anos. É possível obter sucesso em até 62% dos casos.
+O tratamento medicamentoso, por sua vez, é paliativo e importante no controle dos sintomas. Terapia convencional inclui preparações de androgênios, prednisona, fatores estimuladores da eritropoese e danazol (esteroide sintético), associação de baixas doses de talidomida e prednisona, alcançando doses regulares e resultados no controle de sintomas sistêmicos da anemia, trombocitopenia e esplenomegalia, com respostas aproximadas de 20%. A lenalidomida, um análogo da talidomida, tem se revelado droga de boa resposta nesses mesmos casos. Por sua vez, a hidroxiureia ainda é o atual fármaco de escolha para controle de esplenomegalia, leucocitose e trombocitose. Ainda há pesquisa de um 3º componente derivado da talidomida, a pomalidomida, que, segundo estudos preliminares, pode ter boa resposta na MF, em especial se comprovadamente positivo para JAK2. 
+A esplenectomia está indicada a pacientes que não respondem à terapia medicamentosa e persistem com esplenomegalia importante e sintomas mecânicos, infarto esplênico recorrente, anemia dependente de transfusões frequentes ou plaquetopenia refratária. A mortalidade relacionada ao procedimento chega a 24%, e a morbidade pode alcançar taxas de 46%, sendo as principais causas: sangramento de difícil controle no intraoperatório, infecção ou eventos trombóticos (por trombocitose no pós-operatório). Alguns estudos relatam que a transformação leucêmica em pacientes com MF esplenectomizados pode chegar a 16%. Irradiação do baço também pode ser feita em indivíduos que não podem realizar a esplenectomia, com benefício transitório (3 a 6 meses) quanto a sintomas de compressão mecânica ou citopenias.
+Locais de eritropoese extramedular com sintomas importantes, como derrame pleural, ascite e compressão medular, podem ser irradiados para alívio do sintoma.
+Medicamentos ainda em estudo são inibidores do TNF-alfa (etanercepte), inibidores da mutação JAK2 e bortezomibe (antineoplásico); e permanece a procura por alguma droga que possa interferir na evolução natural da doença.
+5. Resumo
+Quadro-resumo
+Neoplasias	Manifestações clínicas	Complicações	Diagnóstico	Tratamentos	Prognósticos
+PV	Prurido aquagênico, eritromelalgia	Eventos tromboembólicos (raro sangramento)	Hb >18,5g/dL (homem) ou >16,5g/dL (mulher) + JAK2 positivo + pan-mielose + dosagem de eritropoetina diminuída ou normal	- Baixo risco: flebotomia + ácido acetilsalicílico;
+- Alto risco (>60 anos ou trombose prévia): flebotomia + hidroxiureia + ácido acetilsalicílico.	Baixo risco de transformação hematológica (MF e leucemia aguda), sobrevida longa
+TE	Sintoma vasomotor	Evento tromboembólico, hemorragia	Plaquetas >450.000/mm3 + JAK2 positivo + hipercelularidade medular (principalmente de megacariócitos) + exclusão de plaquetose reacional, LMC, PV, MF, mielodisplasia ou outra mieloproliferação	- Baixo risco: ácido acetilsali-cílico – se sintoma vasomo-tor ou plaquetas >1.000.000, após descartar doença de von Willebrand; 
+- Alto risco (>60 anos ou trombose anterior): hidroxiu-reia + ácido acetilsalicílico.	Bom/baixo risco de transformação hematológica (MF e leucemia aguda)
+MF	Sintomas sistêmicos, de compressão mecânica pela esplenomegalia e de anemia	Estado hipercatabólico, hepatoesplenomegalia maciça com hipertensão portal, outros sintomas de eritropoese extramedular, a depender do local acometido, infecção, transformação leucêmica	- ? megacariócitos + fibrose medular + JAK2 ou MPL positivo + exclusão de LMC, PV e SMD;
+- Leucoeritroblastose + esplenomegalia + ?DHL + anemia.	- Tratamento curativo: transplante de medula óssea;
+- Tratamento paliativo: androgênio, danazol, eritropoetina e transfusões (anemia); talidomida com prednisona, lenalidomida (sintomas sistêmicos, anemia, plaquetopenia); esplenectomia ou radioterapia esplênica (refratários); radioterapia de tecido sintomático de eritropoese extramedular (exemplo: compressão medular).	Possivelmente bastante ruim, a depender dos fatores prognósticos, com sobrevida de 26 meses entre os pacientes de alto risco
