@@ -1,5 +1,10 @@
 Métodos complementares diagnósticos em Nefrologia
-Natália Corrêa Vieira de Melo / Ana Cristina Martins Dal Santo 
+Natália Corrêa Vieira de Melo
+Ana Cristina Martins Dal Santo 
+
+Resumo
+Em Nefrologia, métodos complementares são muito utilizados para o diagnóstico de diversos distúrbios do trato urinário. O primeiro deles é a análise da urina, capaz de apresentar informações sobre odor, cor e aspecto, pH, densidade, hemoglobi-na, presença de compostos como bilirrubina, nitritos, glicose, corpos cetônicos, proteínas e sedimento urinário. Outro mé-todo é a taxa de filtração glomerular, considerada o melhor índice de função renal. Seu cálculo baseia-se no clearance de creatinina, dado por várias fórmulas, sendo a mais conhecida a de Cockcroft-Gault, em que clearance = (140 - idade em anos) x peso (kg)/72 x creatinina plasmática (mg/dL) x (0,85, se mulher). Quanto aos métodos de imagem, podem-se utilizar a ultrassonografia (1º método de imagem usado na investigação do aparelho urinário), com ou sem Doppler, a tomografia computadorizada, a ressonância magnética, a uretrocistografia miccional, a urografia excretora e arteriografia renal, usados conforme a hipótese diagnóstica.
+
 1. Introdução
 
 Os métodos complementares são de grande utilidade para o diagnóstico de distúrbios dos rins e do trato urinário, pois a história e o exame físico, muitas vezes, não são suficientes para o diagnóstico preciso dessas enfermidades. 
@@ -9,6 +14,9 @@ Normalmente, no exame físico os rins não podem ser palpados, no entanto, rins au
 
 A análise de amostra de urina, também conhecida como “biópsia renal sem agulha” e “espelho do rim”, é um dos princi-pais exames em Nefrologia, pois é de simples execução, baixo custo, acessível e muito elucidativo. A nomenclatura da urináli-se varia nas diversas regiões do Brasil, podendo ser chamada de urina I, EAS (Elementos Anormais e Sedimentos), EQU (Exame Qualitativo de Urina) e sumário de urina.
 Por meio da urinálise, faz-se a avaliação qualitativa de certos constituintes químicos e do sedimento urinário. A urina utili-zada para exame deve ser recém-emitida, preferencialmente sem cateterismo vesical, pela manhã. Para a coleta de urina na mulher, a genitália deve ser cuidadosamente limpa; e deve-se evitar a coleta em dias próximos do início ou fim do período menstrual, ocasião que poderá ocorrer contaminação com hemácias. Em homens e mulheres, o jato miccional inicial deve ser desprezado, coletando-se o jato intermediário. A amostra pode ser avaliada no máximo 120 minutos após a coleta, desde que mantida durante esse período sob refrigeração (2 a 8°C).
+
+Tema frequente de prova
+A análise da urina está presente em diversas questões de Residência Médica. 
 
 A - Cor e aspecto
 A 1ª análise da urina refere-se à coloração e ao aspecto, o que já pode indicar algumas patologias:
@@ -54,6 +62,9 @@ Glicosúria pode ocorrer devido à incapacidade do rim para reabsorver glicose fil
 A maior parte das fitas usa o método glicose oxidase/peroxidase, que normalmente detecta níveis baixos de glicose uriná-ria (50mg/dL). Como o limiar renal de glicose é de 160 a 180mg/dL, a presença de glicosúria geralmente indica glicemia >210mg/dL. A presença de grande quantidade de corpos cetônicos, ácido ascórbico e metabólitos da fenazopiridina (Pyri-dium®) pode alterar a reação.
 Além de ocorrer em pacientes com aumento da glicemia (diabetes mellitus, gestação), a glicosúria pode estar presente em casos de lesão tubular (em que a reabsorção de glicose não é adequada), como na glicosúria renal ou na síndrome de Fanco-ni, um defeito primário de reabsorção do túbulo proximal que consiste em glicosúria, fosfatúria (hipofosfatemia sérica), uri-cosúria, acidose tubular renal e aminoacidúria.
 
+Dica
+A glicosúria geralmente surge com glicemias a partir de 210mg/dL.
+
 e) Corpos cetônicos
 Acetoacetato e acetona podem aparecer na urina de pacientes em jejum prolongado, cetoacidose diabética ou alcoólica, e geralmente são detectados com a reação de nitroprussiato. Entretanto, o beta-hidroxibutirato, principal corpo cetônico (80%), não é detectado pela reação com nitroprussiato.
 
@@ -67,6 +78,9 @@ Normalmente, são filtrados pelos glomérulos de 170 a 180L de plasma diariamente,
 Dos 150mg de proteínas excretadas diariamente, 30 a 50mg são compostos pela proteína de Tamm-Horsfall (mucoproteí-na formada na porção espessa da alça de Henle e na porção inicial do túbulo distal), e, o restante, por globulinas e albumina (menos de 30mg/d).
 Em geral, as proteinúrias ocorrem por lesão tubular ou glomerular, porém existem situações em que ocorre proteinúria transitória, sem lesão tubular ou glomerular, como infecção urinária, febre, exposição ao frio ou calor, exercício físico, postu-ral (proteinúria ortostática) e convulsões. As proteínas glomerulares se acompanham de perda predominante de albumina; já as tubulares, de perdas de proteínas de baixo peso molecular, como a beta-2-microglobulina, proteína transportadora de retinol, lisozima, cadeias leves de imunoglobulinas etc.
 
+Importante
+A proteinúria acontece por lesão tubular (proteínas de baixo peso molecular) ou glomerular (albumina), infecção urinária, febre, exposição ao frio ou calor, exercícios físico e postural (proteinúria ortostática) e convulsões.
+
 a) Determinação qualitativa 
 Há diferentes métodos para detecção de proteína na urina. Os resultados podem ser expressos em g/dL ou em cruzes (zero a ++++), de acordo com a intensidade da reação. De forma geral, traços de proteinúria são equivalentes a 10 a 150mg/24h; 1+ corresponde a cerca de 200 a 500mg/24h; 2+ correspondem a 500 a 1.500mg/24h; 3+ a 2 a 5g/24h; e 4+ a proteinúria de 7g ou mais em 24 horas. É importante ressaltar que, para a interpretação correta desses resultados, deve-se levar em conta o valor da densidade urinária, pois, em situação de fluxo urinário elevado (urina diluída, com densidade baixa), a concentração de proteína é baixa, podendo não ser detectada pelos métodos habituais.
 
@@ -78,7 +92,7 @@ c) Albuminúria
 A quantificação de albumina urinária é usada para screening e acompanhamento de nefropatia diabética. A interpretação dos valores encontrados deve ser realizada da seguinte forma:
 Até 30mg/d: normoalbuminúria;
 30 a 300mg/d: microalbuminúria;
-Maior que 300mg/d: macroalbuminúria.
+Maior do que 300mg/d: macroalbuminúria.
 
 F - Sedimento urinário
 O exame microscópico do sedimento urinário pode indicar a presença de nefropatia e, muitas vezes, a natureza e a ex-tensão das lesões. A seguir, serão especificadas as substanciais e células normalmente presentes no sedimento urinário e as indicativas de patologias renais.
@@ -90,20 +104,24 @@ Leucócitos e hemácias podem ser provenientes tanto dos rins como de qualquer par
 A hematúria pode ser transitória ou persistente. Hematúria transitória é relativamente comum em jovens e podem ocor-rer após exercício ou relação sexual. Pode indicar também processos infecciosos do trato urinário (cistite ou prostatite). Já na hematúria persistente, o número de hemácias (hematúria) pode indicar tanto lesão glomerular (hematúria alta) como do trato urinário inferior (hematúria baixa); sugere-se complementar a investigação com a pesquisa de dismorfismo eritrocitário. Na hematúria de origem glomerular, encontra-se um grande número de hemácias dismórficas, pois essas células têm a forma alterada ao passarem pela barreira glomerular; o mesmo não ocorre na hematúria baixa (Figura 1). Adicionalmente, na he-matúria de origem glomerular, a urina tem coloração amarronzada (ou “de coca-cola”), sem formação de coágulos. Essas ca-racterísticas auxiliam na distinção da hematúria de origem glomerular daquela de origem nas vias urinárias baixas, que possui coloração vermelho-viva e com coágulos.
 
  
-Figura 1 - Dimorfismo eritrocitário, as setas indicam acantócitos
+Figura 1 - Dimorfismo eritrocitário; as setas indicam acantócitos
 
 A presença de hematúria associada à proteinúria sugere doença glomerular; já a presença de hematúria isolada pode ser encontrada em casos de litíase, tumores, doença renal policística, mas pode também estar presente em algumas doenças glomerulares, como nefropatia por IgA, doença da membrana basal glomerular fina e síndrome de Alport.
+
+Importante
+Na hematúria persistente, deve-se complementar a investigação com pesquisa de dismorfismo eritrocitário, onde, na ori-gem glomerular, há hemácias dismórficas (alteradas ao passarem pela barreira glomerular); o mesmo não ocorre no trato urinário baixo.  
+
 A leucocitúria reflete infecção ou inflamação do trato urinário, portanto pode estar presente em quadros de infecção do local, pielonefrite, glomerulonefrites, nefrite intersticial aguda, entre outros. A presença de eosinófilos na urina tem sido considerada um marcador na nefrite intersticial alérgica.
 
 b) Cilindros
 Os cilindros, elementos do sedimento urinário de grande importância na distinção entre nefropatia primária e doença do trato urinário baixo, são normalmente formados por uma matriz proteica, em que se podem aglutinar células e gotículas de gordura. Principais tipos de cilindros:
 
-Tabela 1 - Principais tipos de cilindros
-Hialinos	Compostos principalmente por mucoproteína de Tamm-Horsfall, sem inclusões. Clinicamente, possuem pouco significa-do, podendo ser fisiológicos (Figura 2 - A).
+Tabela 1 - Principais tipos de cilindros 
+Hialinos	Compostos principalmente por mucoproteína de Tamm-Horsfall, sem inclusões. Clinicamente, possuem pouco significado, podendo ser fisiológicos (Figura 2 - A).
 Leucocitários	Compostos por mucoproteína de Tamm-Horsfall e leucócitos. Aparecem na inflamação intersticial.
-Hemáticos	Compostos por mucoproteína de Tamm-Horsfall e hemácias. A presença desse tipo de cilindro no exame do sedimento urinário é patognomônica de doença glomerular (Figura 2 - B).
-Celula-res/epiteliais	Compostos por mucoproteína de Tamm-Horsfall e células epiteliais descamadas. A presença de cilindros epiteliais re-nais é indicativa de lesão tubular.
-Granulosos	Cilindros epiteliais com fragmentos de células que se desintegraram. Podem ser fisiológicos ou estar associados a qua-dro de lesão tubular, como a NTA.
+Hemáticos	Compostos por mucoproteína de Tamm-Horsfall e hemácias. A presença desse tipo de cilindro no exame do sedi-mento urinário é patognomônica de doença glomerular (Figura 2 - B).
+Celula-res/epiteliais	Compostos por mucoproteína de Tamm-Horsfall e células epiteliais descamadas. A presença de cilindros epiteliais renais é indicativa de lesão tubular.
+Granulosos	Cilindros epiteliais com fragmentos de células que se desintegraram. Podem ser fisiológicos ou estar associados a quadro de lesão tubular, como a NTA.
 Céreos	Cilindros muito largos, que refletem a fase final da dissolução dos cilindros epiteliais. Estão associados à estase urinária e ocorrem nos estágios finais de doença renal crônica.
 Gordurosos	Cilindros hialinos impregnados de gotículas de gordura, também chamados de corpos lipoides. Ocorrem em casos de síndrome nefrótica.
 
@@ -115,57 +133,103 @@ Cristais de estruvita (fosfato amoníaco-magnesiano) são incomuns e podem estar r
  
 Figura 2 - Sedimento urinário: (A) cilindro hialino; (B) cilindro hemático; (C) cristal de ácido úrico e (D) cristal de oxalato de cálcio
 
-Tabela 2 - Padrões urinários associados a diferentes doenças renais
+Tabela 2 - Padrões urinários associados a diferentes doenças renais 
 Padrão urinário	Doença renal sugerido por padrão
 Hematúria com células dismórficas vermelhas do sangue e diferentes graus de albuminúria	Glomerulonefrite proliferativa (por exemplo, nefropatia por IgA, ANCA-associado a vasculite, nefrite lúpica)
-Albuminúria com hematúria mínima ou inexistente	Glomerulopatia não proliferativa (por exemplo, diabetes, amiloidose, nefropatia membrano-sa, glomeruloesclerose segmentar focal, alterações mínimas)
-Presença de células granulares e epiteli-ais	NTA em um paciente com lesão renal aguda subjacente
+Albuminúria com hematúria mínima ou ine-xistente	Glomerulopatia não proliferativa (por exemplo, diabetes, amiloidose, nefropatia mem-branosa, glomeruloesclerose segmentar focal, alterações mínimas)
+Presença de células granulares e epiteliais	NTA em um paciente com lesão renal aguda subjacente
 Piúria isolada	Infecção (bacteriana, micobactérias) ou doença tubulointersticial
-Exame de urina normal ou quase nor-mal, com mínima proteinúria	- Na presença de lesão renal aguda: azotemia pré-renal, NTA, hipercalcemia, obstrução uriná-ria, doenças vasculares com isquemia glomerular (por exemplo, esclerose sistêmica, hiper-tensão maligna) ou doença vascular extraglomerular (por exemplo, embolia colesterol, poli-artrite nodosa);
-	- Na presença de doença renal crônica: nefropatia isquêmica, nefrosclerose hipertensiva, obstrução urinária.
+Exame de urina normal ou quase normal, com mínima proteinúria	- Na presença de lesão renal aguda: azotemia pré-renal, NTA, hipercalcemia, obstrução urinária, doenças vasculares com isquemia glomerular (por exemplo, esclerose sistê-mica, hipertensão maligna) ou doença vascular extraglomerular (por exemplo, embo-lia colesterol, poliartrite nodosa);
+	- Na presença de doença renal crônica: nefropatia isquêmica, nefrosclerose hipertensi-va, obstrução urinária.
+
+Dica
+A presença de hemácias dismórficas, cilindros hemáticos, proteinúria e/ou lipidúria é sugestiva de doença glomerular. 
+
+Pergunta
+2014 - IOG
+1. A respeito da avaliação do exame parcial de urina, qual é a alternativa correta? 
+a) a identificação de cristais de oxalato de cálcio no exame do sedimento urinário é um dado patognomônico de doença renal 
+b) a presença de cilindros hemáticos traz forte sugestão de doença glomerular renal 
+c) a presença de eritrócitos, independente de eventuais alterações morfológicas, não permite a determinação do possível foco do sangramento do trato urinário 
+d) a leucocitúria é quase sempre indicativa de infecção urinária, afastando a possibilidade de doenças granulomatosas re-nais como a sarcoidose 
+e) chama-se microalbuminúria excreção de albumina <100mg, identificável pelas tiras reagentes mais sensíveis 
+Resposta no final do capítulo
 
 3. Avaliação da função renal
+
 A Taxa de Filtração Glomerular (TFG) é o produto da média de filtração de cada néfron (unidade funcional do rim), multi-plicado pelo número total de néfrons em ambos os rins. A TFG normal em adultos é de cerca de 130mL/min/1,73m2 em ho-mens e de 120mL/min/1,73m2 em mulheres, no entanto varia consideravelmente de acordo com idade, sexo, dieta, massa muscular, peso e uso de medicamentos. Com o objetivo de padronizar a função renal para diferentes tamanhos de rim, a TFG é, habitualmente, ajustada para área corpórea total de 1,73m2 (área corpórea média de adultos jovens). No entanto, mesmo após ajuste para área corporal total, a TFG é cerca de 8% maior em homens do que em mulheres e declina com a idade. 
 Indivíduos normais começam a perder função renal após os 20 e 30 anos. Em média, há redução de 10% do ritmo de fil-tração glomerular por década; ou 0,75mL/min/ano, após a 4ª década de vida. Se não houver nenhuma lesão renal, homens com 70 anos, em geral, terão um clearance de creatinina em torno de 70mL/min/1,73m2; mulheres, um pouco menos. É im-portante ressaltar que, apesar da redução progressiva da função renal que ocorre com o envelhecimento, a creatinina cos-tuma permanecer constante ou apenas discretamente aumentada, devido à perda de massa muscular concomitante. Logo, um discreto aumento de creatinina já pode corresponder a uma perda moderada de função renal, como pode ser observado na Figura 3.
-Reduções na TFG podem ser não só decorrentes de diminuição no número de néfrons, mas também de redução da fun-ção individual de cada néfron, devido a alterações fisiológicas ou hemodinâmicas. A perda de néfrons pode ser inicialmente compensada pelo aumento da função dos néfrons remanescentes, de modo que não haja alteração da TFG. Portanto, pode haver dano renal significativo antes que a TFG seja reduzida. 
+Reduções na TFG podem ser não só decorrentes de diminuição no número de néfrons, mas também de redução da fun-ção individual de cada néfron, devido a alterações fisiológicas ou hemodinâmicas. A perda de néfrons pode ser inicialmente compensada pelo aumento da função dos néfrons remanescentes, de modo que não haja alteração da TFG. Portanto, pode haver dano renal significativo antes que a TFG seja reduzida. A TFG estável não implica necessariamente doença estável. Os sinais de progressão da doença devem ser investigados, incluindo alteração do sedimento urinário, aumento na excreção de proteína ou elevação na pressão sanguínea. Alguns pacientes com doença renal podem passar despercebidos porque eles têm uma TFG normal.
+
+Dica
+A taxa de filtração glomerular é considerada o melhor índice de função renal. 
 
  
 Figura 3 - Relação entre a creatinina sérica e o clearance de creatinina em homens com 70kg e 35, 65 e 85 anos
 
+Tema frequente de prova
+Questões envolvendo taxa de filtração glomerular e sua classificação na doença renal estão sempre presentes nas provas de Residência Médica. 
+
 - Medida da taxa de filtração glomerular
 A TFG não pode ser medida diretamente, mas por meio do clearance urinário de um marcador de filtração ideal (que é li-vremente filtrado e não é secretado, nem reabsorvido). A inulina foi a 1ª substância a ser descrita como marcador ideal e continua a ser o padrão-ouro, com o qual outros marcadores são comparados. No entanto, a medida do clearance de inulina é a infusão contínua da mesma, além disso, o método laboratorial para sua dosagem é caro e de difícil realização. Por isso, o clearance de inulina não é utilizado na prática clínica, permanecendo como ferramenta de pesquisa. 
 A creatinina é o principal marcador de filtração utilizado na prática clínica para medida da TFG. A creatinina é um produto do metabolismo proteico, e sua geração é proporcional à idade, sexo, raça e tamanho do corpo. A creatinina é gerada num ritmo constante e liberada na circulação, porém é influenciada pela atividade física, ingesta e catabolismo proteicos. No rim, é livremente filtrada no glomérulo e secretada nos túbulos. Algumas medicações, como a cimetidina e a trimetoprima, inibem a secreção tubular de creatinina e reduzem o seu clearance. Logo, essas medicações causam aumento da creatinina sérica sem afetar a TFG. Por outro lado, a creatinina pode ser eliminada por secreções intestinais e degradada na luz do intestino. Quan-do a TFG está reduzida, a sua excreção por essa via é aumentada. Antibióticos podem destruir a flora intestinal e, consequen-temente, impedir a eliminação de creatinina por essa via, levando a aumento da sua concentração sérica, sem afetar a TFG. 
-Sistematicamente, o clearance de creatinina superestima a TFG devido à sua secreção tubular. Quando a TFG está reduzi-da, a quantidade de creatinina secretada pelo túbulo pode ser até maior do que a quantidade filtrada no glomérulo. O clea-rance de creatinina em adultos pode ser estimado através de uma das 2 primeiras fórmulas a seguir, ou medido de forma direta por meio da 3ª fórmula:
+Sistematicamente, o clearance de creatinina superestima a TFG devido à sua secreção tubular, pois a relação existente en-tre os níveis de creatinina e a TFG é não linear. As alterações da concentração sérica de creatinina são lentas para refletir as alterações agudas de função renal. Quando a TFG está reduzida, a quantidade de creatinina secretada pelo túbulo pode ser até maior do que a quantidade filtrada no glomérulo. O clearance de creatinina em adultos pode ser estimado através de uma das 2 primeiras fórmulas a seguir, ou medido de forma direta por meio da 3ª fórmula:
 
 a) 1ª (mais recomendada)
-
 Equação MDRD (Modification of Diet in Renal Disease Study), disponível na maioria dos computadores de bolso (palmtops), entretanto é complexa e de difícil uso no dia a dia.
 
 Clearance de creatinina estimado em mL/min/1,73m2 =
-186 x (Cr plasma)-1,154 x (idade)-0,203 x (0,742, se mulher) x (1,210, se ne-gro)
+186 x (Cr plasma)-1,154 x (idade)-0,203 x (0,742, se mulher) x (1,210, se negro)
 
 b) 2ª (mais usada)
 Equação de Cockcroft-Gault:
 
 Clearance de creatinina estimado em mL/min = 
-(140 - idade em anos) x peso (kg)	x (0,85, se mulher)     
-72 x creatinina plasmática (mg/dL) 	
+(140 - idade em anos) x peso (kg)
+
+72 x creatinina plasmática (mg/dL)
 
 c) 3ª (eventualmente usada)
 Em indivíduos muito idosos, muito magros ou obesos, as fórmulas descritas podem subestimar ou superestimar a função renal. Logo, para a obtenção de uma medida mais precisa, deve-se optar pela avaliação direta do clearance de creatinina na urina de 24 horas, que pode ser calculado, em mL/min, por meio da fórmula a seguir:
 
 Clearance de creatinina em mL/min =
 Creatinina urinária (mg/dL) x volume urinário (mL)
+
 Creatinina plasmática (mg/dL) x tempo (minutos)
 
 O valor do clearance de creatinina é influenciado pelo status nutricional, pela ingesta proteica e pela massa muscular, por isso não é muito acurado para medida da função renal em idosos e crianças. A produção de creatinina e sua excreção urinária reduzem com a idade, em proporção à redução de peso e massa muscular que ocorre com o envelhecimento. Por isso, a creatinina não aumenta com o tempo, apesar de redução progressiva da função renal. Quando o clearance de inulina, que é mais fidedigno, é comparado ao de creatinina, percebe-se que o clearance desta subestima a TFG em idosos, e esse efeito é ainda maior se o clearance de creatinina é estimado por meio da fórmula de Cockroft-Gault. A equação MDRD é considerada mais acurada que a de Cockroft-Gault, de forma geral, no entanto, em idosos com mais de 70 anos, ela superestima a função renal. Na verdade, nem a equação MDRD nem a de Cockroft-Gault são validadas nessa população, e a acurácia dessas fórmu-las nesses idosos permanece duvidosa. 
 Em crianças, a medida do clearance de creatinina pode ser feita de forma direta, a partir da urina de 24 horas, por meio da 3ª fórmula. Pode-se ainda estimar o clearance pela fórmula de Schwartz, baseada em creatinina sérica, idade, altura e, em adolescentes, no gênero do paciente, conforme descrito a seguir:
+
 Clearance de creatinina estimado em mL/min =
 k x altura (cm)
+
 Creatinina plasmática (mg/dL)
 
 A constante k é diretamente proporcional ao componente muscular corpóreo e varia com a idade. O valor é de 0,33 para bebês que nasceram prematuros, durante o 1º ano de vida; 0,45 para bebês que nasceram a termo, durante o 1º ano de vida; 0,55 para crianças de ambos os sexos e adolescentes do sexo feminino; e de 0,7 para adolescentes do sexo masculino.
 Mais recentemente surgiu um novo marcador da TFG, o iohexol, um agente de contraste não iônico e sem marcação radi-oativa, que fornece uma medida acurada, não nefrotóxica, mesmo diante de níveis extremamente baixos de TFG (<10mL/min).
+
+Dica
+A fórmula de Cockroft-Gault e a equação de MDRD calculam a taxa de filtração glomerular sem que haja coleta de urina; contudo, a precisão é baixa em idosos, obesos e pacientes com função renal próxima do normal. 
+
+Dica
+A depuração renal de inulina é o padrão-ouro de medida da taxa de filtração glomerular. 
+
+Depuração de ureia
+Embora a ureia no sangue também varie inversamente com a TFG, em geral é menos útil do que a creatinina do soro, uma vez que o coque pode mudar de forma independente da TFG. A taxa de produção de ureia não é constante e pode aumentar com uma dieta rica em proteínas e a presença de hemorragia, trauma ou terapia de glicocorticoides. Cerca de 40 a 50% de ureia do filtrado é reabsorvida passivamente, sobretudo no túbulo proximal. Assim, quando a depleção de volume está asso-ciada a aumento de sódio proximal e reabsorção de água, há um aumento paralelo da reabsorção da ureia. 
+
+Marcadores endógenos para estimar a TFG
+Creatinina sérica: a medida da concentração sérica de creatinina constitui o método mais comum para determinar o ní-vel de função renal. A concentração de creatinina pode ser usada para estimar a TFG, pois varia inversamente com a função renal. Em mulheres, a concentração normal varia de 0,6 a 1mg/dL e, nos homens, de 0,8 a 1,3mg/dL. A princi-pal limitação dos níveis séricos é a insensibilidade a diminuições leves a moderadas da função renal, contudo a creati-nina pode superestimar a TFG;
+Cistatina C: é uma proteína livremente filtrada pelo glomérulo e não reabsorvida, independente de massa muscular, se-xo, raça ou superfície corpórea.
+
+Pergunta
+2011 - UCPEL
+2. Em atendimento primário, o paciente hipertenso deve ser submetido aos seguintes exames subsidiários: exame de urina de rotina (tipo I), dosagem do potássio sérico, glicemia de jejum, hematócrito, perfil lipídico, eletrocardiograma e dosagem de creatinina. Um dos métodos amplamente utilizados para um referencial apropriado da função renal é a fórmu-la da DCE (Depuração da Creatinina Endógena) de Cockcroft-Gault. Assinale a alternativa que corresponda à DCE de um hipertenso masculino de 55 anos, com 92kg e 1,5mg/dL de creatinina sérica:
+a) 75,4mL/min
+b) 62,6mL/min
+c) 72,4mL/min
+d) 68,5mL/min
+e) 24,4mL/min
+Resposta no final do capítulo
 
 4. Métodos de imagem
 
@@ -178,30 +242,46 @@ Por meio da ultrassonografia fetal, é possível obter algumas informações indiret
 Embora seja menos sensível que a TC para a detecção de massas renais, a ultrassonografia pode ser útil na diferenciação entre cistos renais simples e complexos e tumores renais sólidos. Também pode ser utilizada para screening e diagnóstico de doença renal policística. 
 A ultrassonografia também pode ser utilizada em pacientes com pielonefrite aguda, que não estejam respondendo ade-quadamente ao tratamento, com o objetivo de afastar complicações como obstrução do trato urinário, abscesso perinefrético ou outras complicações da pielonefrite. Adicionalmente, é utilizada de forma frequente para avaliar a presença de nefropatia crônica. São sinais de nefropatia crônica no exame: aumento da ecogenicidade cortical, perda da diferenciação corticomedu-lar e redução de tamanho renal (Figura 4 - C). 
 A ultrassonografia também pode ser utilizada para diagnosticar nefrolitíase (cálculos renais – Figura 4 - D) e para guiar a biópsia renal. 
+
+Dica
+A ultrassonografia é o 1º método de imagem usado na investigação do aparelho urinário. 
+
  
 Figura 4 - Aspecto ultrassonográfico de (A) rim normal; (B) rim com hidronefrose moderada; (C) rim com nefropatia parenquimatosa crônica e (D) presença de cálculo renal em polo superior do rim
 
 A ultrassonografia com Doppler permite avaliar a vasculatura renal e estimar possíveis estenoses vasculares. É usada prin-cipalmente para o diagnóstico de trombose da veia renal, infarto renal e estenose da artéria renal. Também é utilizado para obter o índice de resistência, cujo valor normal é <0,7. Quando elevado pode indicar doença vascular ou arteriosclerose, NTA, obstrução do fluxo urinário ou rejeição aguda de rim transplantado. Por ser um exame não invasivo, é utilizada na tria-gem inicial quando se suspeita de estenose da artéria renal.
 O exame permite visualização nítida da bexiga cheia de urina, e, embora permita identificar tumores da bexiga, a TC é mais confiável para esse fim.
 
+Diagnóstico
+O diagnóstico padrão-ouro para trombose de veia renal é a venografia renal seletiva, porém procedimentos menos invasi-vos estão sendo cada vez mais utilizados, incluindo a tomografia computadorizada com contraste, a ressonância magnética e a ultrassonografia com Doppler.
+
 B - Tomografia computadorizada
 A TC é frequentemente utilizada para a obtenção de informações complementares à ultrassonografia e tem a vantagem de ser mais sensível do que essa, porém tem a desvantagem de ser mais custosa e de necessitar, com frequência, da utilização de contraste iodado, o que pode precipitar reações anafiláticas e nefropatia por contraste, principalmente nos pacientes com alteração prévia da função renal. A Figura 5 - A mostra o aspecto tomográfico de rins normais.
 A TC pode diferenciar as estruturas sólidas daquelas com conteúdo líquido, sendo uma técnica útil para a avaliação do tipo e da extensão dos tumores renais ou de outras massas que deformam o trato urinário normal. Para mais informações, pode ser administrado contraste por via intravenosa. A TC pode ainda ajudar a determinar se um tumor se estendeu além do rim (Figura 5 - B). A TC também é capaz de evidenciar hidronefrose e diagnosticar a causa e altura da obstrução do trato urinário de forma mais precisa e sensível que a ultrassonografia (Figura 5 - C); do mesmo modo, é mais sensível para o diagnóstico de doença renal policística em estágios iniciais.
-Adicionalmente, a TC sem contraste é o padrão-ouro para o diagnóstico de nefrolitíase (Figura 5 - D) e deve ser utilizada quando se suspeita desse diagnóstico e a ultrassonografia não evidenciou a presença de cálculos. Além disso, a angiotomogra-fia renal é capaz de realizar um estudo anatômico preciso da vasculatura renal e confirmar estenoses sugeridas pela ultrasso-nografia com Doppler. 
+Adicionalmente, a TC helicoidal sem contraste é o padrão-ouro para o diagnóstico de nefrolitíase (Figura 5 - D) e deve ser utilizada quando se suspeita desse diagnóstico e a ultrassonografia não evidenciou a presença de cálculos. Além disso, a angi-otomografia renal é capaz de realizar um estudo anatômico preciso da vasculatura renal e confirmar estenoses sugeridas pela ultrassonografia com Doppler. 
+
+Dica
+A tomografia computadorizada é o padrão-ouro na investigação do aparelho urinário. 
+
  
 Figura 5 - Aspecto tomográfico de (A) rins normais; (B) carcinoma renal à direita (seta); (C) hidronefrose à esquerda (seta) e (D) cálculo renal à direita (seta)
+
+Dica
+A tomografia computadorizada mostra cálculos muito melhor do que a ressonância magnética. 
 
 C - Ressonância nuclear magnética
 A RNM é mais custosa que a TC, mas tem a vantagem de não utilizar contraste iodado e poder, por isso, ser usada em indi-víduos alérgicos a iodo. Além disso, tem a vantagem adicional de não submeter o paciente à radiação ionizante, o que a torna mais segura do que a TC para gestantes e crianças. Utiliza-se ainda a RNM como ferramenta diagnóstica auxiliar quando a TC não é suficiente para o diagnóstico. 
 A angiorressonância é útil para a avaliação das artérias renais em casos suspeitos de hipertensão renovascular com este-nose da artéria renal (Figura 6 - A), com acurácia similar à da TC, no entanto pode superestimar o tamanho da estenose e produz pouca informação funcional. Também é o padrão-ouro para o diagnóstico de trombose de veia renal.
 A RNM pode ainda ser útil no diagnóstico diferencial de nódulos renais. Por exemplo, a presença de necrose e hemorra-gia no interior do nódulo, evidenciada pela RNM, sugere o diagnóstico de tumor de Wilms ou de carcinoma de células renais (Figura 6 - B). Por outro lado, a presença de gordura no nódulo renal é sugestiva de angiomiolipoma. No entanto, calcificações no interior do nódulo são mais bem evidenciadas na TC do que na RNM.  
 Por meio da urorressonância (RNM com reconstrução do trato urinário), é possível não só evidenciar alterações congêni-tas ou adquiridas no trato urinário, mas também, se houver obstrução do trato urinário, demonstrar a altura e o grau (Figura 6 - C), entretanto traz pouca informação funcional. 
-A RNM é contraindicada em caso de paciente portador de doença renal crônica avançada, com ClCr <30mL/min/1,73m2, pelo risco de Fibrose Sistêmica Nefrogênica (FSN) – doença rara e altamente debilitante que se caracteriza por extenso es-pessamento e endurecimento da pele associado a pápulas eritematosas que coalescem em placas amarronzadas com aspecto de “casca de laranja”. Pode haver contraturas nas regiões articulares, levando o paciente progressivamente à dependência de cadeira de rodas. As extremidades distais são as áreas mais frequentemente afetadas, seguidas pelo tronco. As lesões são tipicamente simétricas. 
+A RNM é contraindicada em caso de paciente portador de doença renal crônica avançada, com clearance de creatinina <30mL/min/1,73m2, pelo risco de Fibrose Sistêmica Nefrogênica (FSN) – doença rara e altamente debilitante que se caracte-riza por extenso espessamento e endurecimento da pele associado a pápulas eritematosas que coalescem em placas amar-ronzadas com aspecto de “casca de laranja”. Pode haver contraturas nas regiões articulares, levando o paciente progressiva-mente à dependência de cadeira de rodas. As extremidades distais são as áreas mais frequentemente afetadas, seguidas pelo tronco. As lesões são tipicamente simétricas. 
 O quadro de FSN desenvolve-se após a administração intravenosa de gadolínio para realização de RNM ou angiorresso-nância, angiografias ou angio-TC e que, concomitantemente, apresentem doença renal na fase moderada – estágio IV (clea-rance de creatinina <30mL/min/1,73m2) – ou grave – estágio V (<15mL/min/1,73m2) –, especialmente naqueles que necessi-tam de diálise. A causa do desenvolvimento da FSN nos pacientes com insuficiência renal após o uso de gadolínio não é total-mente compreendida, contudo biópsias teciduais de casos de FSN detectam gadolínio nessas amostras. O quadro é progressi-vo e rápido (cerca de 2 a 12 semanas após administração), podendo o paciente ficar confinado a cadeira de rodas em poucas semanas, devido a contraturas, fraqueza muscular e artralgias. Ainda não existe um tratamento reconhecidamente eficaz para a FSN.
 
+Dica
+A ressonância magnética não utiliza radiação ionizante, sendo preferida em gestantes e crianças. 
 
  
-Figura 6 - RNM: (A) estenose do óstio da artéria renal direita (seta); (B) grande carcinoma de células renais no polo superior do rim esquerdo e (C) cálculo não oclusivo em ureter distal direito (seta)
+Figura 6 - Ressonância nuclear magnética: (A) estenose do óstio da artéria renal direita (seta); (B) grande carcinoma de células renais no polo superior do rim esquerdo e (C) cálculo não oclusivo em ureter distal direito (seta)
 
 D - Urografia excretora
 A UE era o principal método diagnóstico por imagem para doenças do trato urinário, antes do desenvolvimento da ultras-sonografia, da TC e da RNM. É capaz de fornecer informação detalhada acerca da anatomia pielocalicial e do tamanho e forma renal, e é muito útil na detecção de cálculos renais. No entanto, tem a desvantagem de necessitar da administração de con-traste iodado, o que pode precipitar reações anafiláticas em alérgicos a iodo e nefropatia por contraste em suscetíveis. Por isso, tem sido frequentemente substituída pela ultrassonografia, um método não invasivo, que não utiliza contraste e que pode fornecer imagens tanto quanto ou até mais detalhadas que a UE.
@@ -212,9 +292,9 @@ O exame considerado padrão-ouro para o diagnóstico de estenose da artéria renal 
 Atualmente, a arteriografia renal tem sido menos utilizada para o diagnóstico de afecções vasculares renais devido à dis-ponibilidade de métodos não invasivos e igualmente úteis para o diagnóstico, como a TC e a RNM. Por outro lado, a arteriogra-fia tem sido cada vez mais utilizada para o tratamento de estenose da artéria renal por angioplastia, com ou sem colocação de stent (Figura 7).
 Também é útil em determinadas configurações, como em paciente com suspeita de poliarterite nodosa; muitas vezes é por meio dela que é feito o diagnóstico dessa desordem, demonstrando múltiplos aneurismas e oclusão em artérias menores (Figura 8).
 
-
  
 Figura 7 - Aspecto arteriográfico de (A) estenose da artéria renal esquerda e (B) da correção da estenose após colocação de stent em artéria renal esquerda
+
  
 Figura 8 - Arteriografia renal em grande poliarterite nodosa com as setas vermelhas mostrando microaneurismas característicos e as setas amarelas demonstrando oclusões abruptas de pequenas artérias
 
@@ -228,44 +308,57 @@ A uretrocistografia miccional é um estudo radiológico contrastado capaz de avali
 H - Urografia retrógrada
 Na urografia retrógrada, um contraste similar ao utilizado na urografia intravenosa é introduzido diretamente através de endoscópio (aparelho de visualização) ou de cateter até o ureter. Essa técnica fornece boas imagens da bexiga, dos ureteres e da porção inferior dos rins quando os resultados da urografia intravenosa são insatisfatórios. A urografia retrógrada também é útil na investigação de obstrução ureteral ou na avaliação de paciente alérgico a contrastes intravenosos. As desvantagens são o risco de infecção e a necessidade de anestesia.
 
+Dica
+O método de escolha para o diagnóstico de uropatia obstrutiva é a ultrassonografia.
+
 5. Biópsia renal
 
 A biópsia renal geralmente é realizada via percutânea e guiada por ultrassonografia (Figura 9) e é, habitualmente, indicada para definição diagnóstica, prognóstica e terapêutica, quando não é possível chegar a tais conclusões com exames menos invasivos. As principais situações em que a biópsia renal é indicada são:
 Investigação de síndrome nefrótica (de rotina em adultos e apenas em casos atípicos em crianças);
 IRA (apenas se as causas pré-renais e pós-renais para a IRA e a NTA tiverem sido excluídas);
 Doença sistêmica (como vasculites e lúpus eritematoso sistêmico) com acometimento renal.
-No entanto, a biópsia renal apresenta algumas contraindicações: múltiplos cistos renais, rim único, pielonefrite aguda, ne-oplasia renal, uremia, diátese hemorrágica, obesidade mórbida e hipertensão arterial não controlada.
+No entanto, a biópsia renal apresenta algumas contraindicações: múltiplos cistos renais, rim único, pielonefrite aguda, ne-oplasia renal, uremia, diátese hemorrágica, obesidade mórbida e hipertensão arterial não controlada. 
 
  
 Figura 9 - (A) Aspecto ultrassonográfico de biópsia renal percutânea – as setas vermelhas mostram a agulha de biópsia – e (B) agulha e fragmento de biópsia renal percutânea
 
 Tabela 3 - Imagenologia em Nefrologia 
 Estudos de análise de imagem	Usos
-Radiografia de abdome	Determinação do tamanho e formato dos rins; detecção de nefrolitíase (radiopaco) e nefro-calcinose
-Ultrassonografia e TC	Determinação do tamanho e formato dos rins; detecção de obstrução urinária e cálculos radiolucentes; distinção entre cistos simples e complexos; avaliação inicial da doença renal policística; avaliação de massas renais
-Pielografia intravenosa 	Determinação do tamanho e formato dos rins, bem como de sua anatomia caliciforme; diagnóstico de rim esponjoso medular e necrose papilar; detecção do sítio e causa da obs-trução
-Análises com radionuclídeos	Detecção de obstrução urinária e vazamento de urina; exame para detecção de estenose arterial renal; avaliação do fluxo arterial renal
-Arteriografia renal	Detecção de estenose arterial renal; avaliação em busca de evidências de vasculite; distin-ção de massas vasculares ou sólidas
+Radiografia de abdome	Determinação do tamanho e formato dos rins; detecção de nefrolitíase (radiopaco) e nefrocalcinose
+Ultrassonografia e TC	Determinação do tamanho e formato dos rins; detecção de obstrução urinária e cálcu-los radiolucentes; distinção entre cistos simples e complexos; avaliação inicial da doença renal policística; avaliação de massas renais
+Pielografia intravenosa 	Determinação do tamanho e formato dos rins, bem como de sua anatomia calicifor-me; diagnóstico de rim esponjoso medular e necrose papilar; detecção do sítio e causa da obstrução
+Análises com radionuclídeos	Detecção de obstrução urinária e vazamento de urina; exame para detecção de este-nose arterial renal; avaliação do fluxo arterial renal
+Arteriografia renal	Detecção de estenose arterial renal; avaliação em busca de evidências de vasculite; distinção de massas vasculares ou sólidas
 Cistouretrografia	Detecção de refluxo vesicoureteral
 Pielografia retrógrada ou anterógrada	Determinação do sítio de obstrução; colocação de stent uretral
 RNM	Detecção de massa renal; detecção de trombose venosa renal
 
 6. Resumo
+
 Quadro-resumo
 - Os exames complementares para o diagnóstico de distúrbios dos rins e do trato urinário incluem análise da urina, exames de sangue que refletem a função renal, métodos de diagnóstico por imagem e biópsia renal;
 - 	A análise de amostra de urina, também conhecida como urina I, EAS e sumário de urina, é um dos principais exames em Nefrologia, pois é de simples execução, barato, acessível e muito elucidativo;
 - 	Por meio da urinálise, faz-se a avaliação qualitativa de certos constituintes químicos e do sedimento urinário;
 - 	A presença de glicosúria geralmente indica glicemia superior a 210mg/dL;
 - 	A presença de urina vermelha, com reação negativa para hemoglobina na fita, pode representar a excreção de pigmentos após a ingestão de medicamentos (fenazopiridina, rifampicina), alimentos (beterraba) ou a presença de porfiria;
-- 	Em geral, as proteinúrias são causadas por lesão tubular ou glomerular, porém existem situações em que ocorre proteinúria transitória sem lesão tubular ou glomerular, como infecção urinária, febre, exposição ao frio ou calor, exercício físico, postura (protei-núria ortostática) e convulsões;
+- 	Em geral, as proteinúrias são causadas por lesão tubular ou glomerular, porém existem situações em que ocorre proteinúria transitória sem lesão tubular ou glomerular, como infecção urinária, febre, exposição ao frio ou calor, exercício físico, postura (pro-teinúria ortostática) e convulsões;
 - 	As células encontradas no sedimento urinário podem provir de descamação do epitélio do trato urinário ou dos elementos celulares do sangue (eritrócitos, linfócitos, neutrófilos);
 - 	Os cilindros são elementos do sedimento urinário de grande importância na distinção entre nefropatia primária e doença do trato urinário baixo, normalmente formados por uma matriz proteica, que pode aglutinar-se em células e gotículas de gordura;
-- Cristais de estruvita são incomuns e podem estar relacionados à litíase associada a infecções por bactérias produtoras de uréase (Kle-bsiella, Proteus);
-- O clearance de creatinina em adultos pode ser estimado por meio de 2 equações: MDRD (mais recomendada, porém muito complexa) e de Cockroft-Gault (mais utilizada). O clearance de creatinina pode ainda ser medido diretamente na urina de 24 horas;
+- Cristais de estruvita são incomuns e podem estar relacionados à litíase associada a infecções por bactérias produtoras de uréase (Klebsiella, Proteus);
+- O clearance de creatinina em adultos pode ser estimado por meio de 2 equações: MDRD (mais recomendada, porém muito comple-xa) e de Cockroft-Gault (mais utilizada). O clearance de creatinina pode ainda ser medido diretamente na urina de 24 horas;
 - A ultrassonografia é uma técnica não invasiva, que não utiliza contraste iodado e pode gerar boas imagens mesmo quando a função renal está diminuída, porém é operador-dependente. Pode evidenciar obstrução do trato urinário, massas renais, nefropatia crônica e nefrolitíase;
 - A ultrassonografia com Doppler permite avaliar a vasculatura renal e estimar possíveis estenoses vasculares;
 - A TC é frequentemente utilizada para a obtenção de informações complementares à ultrassonografia, mas tem as desvantagens de ser mais custosa e de frequentemente necessitar da utilização de contraste iodado. É útil para a avaliação do tipo e da extensão dos tumores renais e é o padrão-ouro para o diagnóstico de nefrolitíase; 
 - A angiotomografia renal é capaz de realizar um estudo anatômico preciso da vasculatura renal e confirmar estenoses sugeridas pela ultrassonografia com Doppler;
-- A RNM tem as vantagens de não utilizar contraste iodado e de não irradiar o paciente, e pode ser empregada para avaliar as artérias renais em casos suspeitos de hipertensão renovascular. É contraindicada em caso de ClCr <30mL/min, pelo risco de fibrose sistêmica nefrogênica; 
-- A arteriografia renal é o padrão-ouro para o diagnóstico de estenose da artéria renal, no entanto é um exame invasivo e utiliza con-traste iodado. Atualmente, tem sido menos utilizada para o diagnóstico de afecções vasculares renais devido à disponibilidade de mé-todos não invasivos, porém, tem sido cada vez mais utilizada para o tratamento de estenose da artéria renal por angioplastia, com ou sem colocação de stent;
+- A RNM tem as vantagens de não utilizar contraste iodado e de não irradiar o paciente, e pode ser empregada para avaliar as artérias renais em casos suspeitos de hipertensão renovascular. É contraindicada em caso de clearance de creatinina <30mL/min, pelo risco de fibrose sistêmica nefrogênica; 
+- A arteriografia renal é o padrão-ouro para o diagnóstico de estenose da artéria renal, no entanto é um exame invasivo e utiliza con-traste iodado. Atualmente, tem sido menos utilizada para o diagnóstico de afecções vasculares renais devido à disponibilidade de métodos não invasivos, porém, tem sido cada vez mais utilizada para o tratamento de estenose da artéria renal por angioplastia, com ou sem colocação de stent;
 - A biópsia renal é útil na investigação causal da síndrome nefrótica, da insuficiência renal aguda de causa indeterminada e de doenças sistêmicas com acometimento renal. 
+
+Respostas
+1. B
+2. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
