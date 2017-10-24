@@ -1,0 +1,104 @@
+
+Visão geral das neoplasias hematológicas
+Fernanda Maria Santos / Marcos Laercio Pontes Reis[- / -]
+Fábio Freire José{+ / Kelly Roveran Genga+}
+
+{+Resumo+}
+{+Neste capítulo, serão fornecidas as bases para o entendimento das neoplasias hematológicas, com base na hematopoese e nas suas alterações (mutações), levando às neoplasias mieloides, como a leucemia mieloide aguda, e às neoplasias linfoides, como as leucemias linfoides agudas e os linfomas (Hodgkin e não Hodgkin).+}
+
+1. Introdução
+
+Existe uma larga variedade de neoplasias do tecido hematopoético, que inclui leucemias, linfomas, neoplasia de células plasmáticas, neoplasias mieloproliferativas, tumor histiocítico e neoplasia de células dendríticas.
+A classificação das neoplasias hematológicas foi atualizada pela Organização Mundial da Saúde em 2008 e leva em consideração aspectos clínicos, histológicos, histoquímicos, citogenéticos e moleculares.
+Esta introdução objetiva apenas sistematizar as neoplasias hematológicas, com o intuito de facilitar a compreensão das patologias mais comuns.
+@@ -10,31 +14,40 @@ Esta introdu
+ 
+Figura 1 - Hematopoese
+
+{+Importante+}
+Seguindo a hematopoese fisiológica, podem-se classificar as neoplasias hematológicas em mieloides ou linfoides, e cada uma delas pode ser subdividida em aguda ou crônica, a depender da proporção de células morfológicas e imunofenotipicamente imaturas na medula óssea. 
+
+2. Neoplasias mieloides
+
+Resultam de alterações no precursor mieloide. O tipo de mutação resulta nos mais variados fenótipos, com capacidade de maturação da célula neoplásica e taxa de proliferação distintas.
+
+{+Importante+}
+{+As principais neoplasias mieloides são: leucemia mieloide aguda, policitemia vera, trombocitemia essencial, leucemia mieloi-de crônica, leucemia mielomonocítica, leucemia mielomonocítica juvenil e leucemia mieloide crônica atípica.+}
+
+Tabela 1 - Principais tipos de neoplasia com origem em precursor mieloide 
+	Tipos	Características diagnósticas
+Neoplasia mieloide aguda	Leucemia mieloide aguda	=20% de células imaturas na medula óssea, com características mieloides
+Neoplasia mieloide crônica	Neoplasia mieloproliferativa crônica (policitemia vera, trombocitemia essencial, mielofibrose, leucemia mieloide crônica)	Hipercelularidade medular + geralmente hipercelularidade periférica de 1 ou mais linhagens
+Síndrome mieloproliferati{+-+}va/mielodisplásica 	Leucemia mielomonocítica crônica, leucemia mielomono{+-+}cítica juvenil, leucemia mieloide crônica atípica	Não classificada nas anteriores
+
+3. Neoplasias linfoides
+
+Podem resultar de alteração em células da linhagem linfoide B, linfoide T ou{+,+} ainda{+,+} linfoide NK. A classificação da neoplasia linfoide é determinada pelo ponto da maturação do linfócito em que ocorreu a alteração, sendo, basicamente, dividida em linfoproliferação de células precursoras (imaturas) e linfoproliferação de células maduras. 
+
+{+Importante+}
+{+Há 2 tipos de neoplasia linfoides: as de células precursoras imaturas (leucemia linfoide aguda B ou T, linfo-ma linfoblástico B ou T) e neoplasia de células maduras (não Hodgkin e Hodgkin).+}
+
+Neoplasia de células precursoras: a alteração neoplásica ocorre em uma célula linfoide precursora B ou T, originando 4 tipos de linfoproliferação;
+
+Tabela 2 - Principais tipos de neoplasia com origem em precursor linfoide 
+	Características diagnósticas
+Leucemia linfoide aguda B	=20% de células imaturas na medula óssea, com característica linfoide B ou T, respectiva{+-+}mente
+Leucemia linfoide aguda T	
+Linfoma linfoblástico B	Adenomegalias com estudo anatomopatológico e imuno-histoquímico demonstrando células linfoides imaturas B ou T, respectivamente, com <20% de células imaturas na medula óssea
+Linfoma linfoblástico T	
+
+Neoplasia de células maduras: 
+ Linfoma Não Hodgkin (LNH): a maturação dos linfócitos acontece nos órgãos linfoides e depende da exposição a antígenos. Os estágios de maturação do linfócito acontecem em diferentes locais da estrutura linfoide (zona marginal, zona de manto, centro germinativo). A cada estágio da maturação, os linfócitos ganham ou perdem marcadores de superfície, conhecidos como CD (Cluster of Differentiation), por meio dos quais é possível identificar o ponto de maturação no qual aquele linfócito se encontra e dar nome ao linfoma. O processo de maturação dos linfócitos B resultará na formação dos plasmócitos, para síntese de anticorpos, e o processo de maturação dos linfócitos T[- resultará-]{+,+} na síntese de linfócito T-helper, supressor e citotóxico. Desta forma, pode-se entender a classificação morfológica e imuno-histoquímica dos LNHs maduros:
+
+Tabela 3 - Principais tipos
+LNH B maduro
+@@ -57,17 +70,28 @@ LNH T/NK maduro
+- Linfoma/leucemia de células T do adulto;
+- Linfoma de grandes células anaplásico.    
+
+Linfoma de Hodgkin{+ (LH)+}: também é uma neoplasia linfoide B madura, com origem no centro germinativo, que se diferencia do LNH por apresentar a célula de Reed-Sternberg ou suas variantes – célula neoplásica de morfologia particular; tem comportamento clínico distinto, acometendo diferentes faixas etárias e com melhor resposta terapêutica.
+
+Histologicamente, divide-se nos seguintes tipos (Tabela 4):
+
+Tabela 4 - Divisões 
+- Predominância linfocítica nodular;
+- L[-infoma de -]H[-odgkin-] clássico:
+· Esclerose nodular;
+· Rico em linfócitos;
+· Depleção linfocitária;
+· Celularidade mista.  
+
+{+Pergunta+}
+{+2012 - SANTA CASA-SP +}
+{+1. Uma criança de 7 anos é internada com história de febre há 30 dias, emagrecimento, dor óssea nos membros com piora progressiva e dor articular. O exame físico revela mucosas descoradas, palidez cutânea acentuada e discreta hepatoesple-nomegalia. O hemograma revela pancitopenia. Qual dos exames a seguir deve ser priorizado para a elucidação do diagnós-tico?+}
+{+a) radiografia de ossos longos+}
+{+b) mielograma+}
+{+c) cintilografia óssea+}
+{+d) sorologia para parvovírus+}
+{+e) sorologia para leishmaniose+}
+{+Resposta no final do capítulo+}
+
+4. Resumo
+
+Quadro-resumo
+@@ -78,12 +102,20 @@ Classifica
+   · Histoquímicos;
+   · Citogenéticos;
+   · Moleculares.
+- São dividid[-o-]{+a+}s em:
+   · Neoplasias mieloides;
+   · Neoplasias linfoides:
+      * Aguda{+s+};
+      * Crônica{+s+}.
+- Neoplasia mieloide:
+· Deve-se a alterações no precursor mieloide, sendo a leucemia mieloide aguda a única do tipo aguda, e a síndrome mielodisplási{+-+}ca, a neoplasia mieloproliferativa crônica e a síndrome mieloproliferativa as neoplasias mieloides crônicas. 
+- Neoplasia linfoide:
+· Deve-se a alterações em células de linhagem linfoide B, linfoide T ou ainda linfoide NK, sendo sua classificação decorrente do ponto da maturação do linfócito em que ocorre a alteração. Pode, assim, ser de células precursoras, ou seja, leucemia linfoide aguda B e leucemia linfoide aguda T, ou de células maduras, ou seja, LNH e [-l-]{+LH.  +}
+
+{+Resposta+}
+{+1. B+}
+
+{+D+}i[-n-]{+ca+}
+{+Para +}f[-om-]{+ix+}a{+r o+} {+que estu+}d{+ou nest+}e [-H-]{+capítul+}o{+, teste seus conhecimentos resolven+}d{+o as questões referentes ao tema.+}
+{+Questões: pá+}g[-k-]in[-.-]{+a XX+}
+{+Comentários:+} {+página+} {+XX+}
