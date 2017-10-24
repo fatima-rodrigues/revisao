@@ -1,10 +1,23 @@
 Hipertensão pulmonar
-José Paulo Ladeira / Rodrigo Antônio Brandão Neto / Fabrício Nogueira Furtado
+José Paulo Ladeira
+Rodrigo Antônio Brandão Neto
+Fabrício Nogueira Furtado
+
+
+Resumo
+Como definição para a hipertensão pulmonar, esboçada neste capítulo, não podemos esquecer o aumento no repouso da pressão sistólica pulmonar, frequentemente acompanhada de aumento da resistência vascular e diminuição do débito cardí-aco, o que determina a sobrecarga ventricular direita. A hipertensão pulmonar pode aparecer na provas de Residência Mé-dica como via final comum de várias patologias pulmonares primárias e de doenças sistêmicas, por isso atentar-se para a sua etiologia é muito importante. O quadro clínico não é específico, o que dificulta o diagnóstico no seu início. Os sintomas mais comuns são dispneia aos esforços, síncope e dores torácicas. Nas fases mais tardias, ocorre insuficiência cardíaca direita. O tratamento baseia-se em oxigenoterapia, diuréticos e vasodilatadores pulmonares como bloqueadores dos canais de cálcio. Alternativas terapêuticas recentes são o sildenafila e o bosentana.
 
 1. Introdução
+
 A Hipertensão Pulmonar (HP) é um estado patológico em que a pressão sistólica pulmonar é elevada ao repouso (PAPm >25mmHg) ou ao exercício (PAPm >30mmHg). A elevação desses valores frequentemente é acompanhada de aumento da resistência vascular e diminuição do débito cardíaco. Na essência, a HP é resultado da redução do calibre dos vasos pulmona-res e/ou do aumento do fluxo sanguíneo pulmonar. Os valores normais da pressão sistólica pulmonar são de 20 a 30mmHg, com pressões diastólicas de 12 a 16mmHg. A resistência vascular pulmonar reflete a área do diâmetro dos vasos pulmonares e da superfície pulmonar total. Vários processos de doença podem alterar o diâmetro dos vasos e determinar a HP.
+
+Importante 
+A hipertensão pulmonar é resultado da redução do calibre dos vasos arteriais pulmonares e/ou do aumento do fluxo san-guíneo para esse território. Lesões do tecido pulmonar são a principal causa (doença pulmonar obstrutiva crônica/fibrose pulmonar).
+
 2. Etiologia e fisiopatologia 
+
 As etiologias específicas estão descritas na Tabela 1, de acordo com a causa-base que as determina. Doenças intrínsecas pulmonares, como vasculites, constituem porção importante das causas de HP. Também nessa categoria está a HP primária, que acomete o dobro de mulheres em relação aos homens, não tem causa definida e pode representar a via final comum de várias doenças. 
+
 Tabela 1 - Classificações
 HP arterial
 - Idiopática; 
@@ -27,96 +40,165 @@ HP associada à doença pulmonar trombótica e/ou embólica
 - Tromboembolismo pulmonar de artérias proximais e/ou distais; 
 - Embolia pulmonar não trombótica (tumor, parasitas, corpo estranho). 
 Miscelânea
-Sarcoidose, linfangiomatose pulmonar, compressão ganglionar dos vasos pulmonares, tumores, mediastinite fibro-sante etc.
+Sarcoidose, linfangiomatose pulmonar, compressão ganglionar dos vasos pulmonares, tumores, mediastinite fibrosante etc.
+
+Pergunta
+2014 - HPM-MG
+1. No tocante à hipertensão pulmonar, é incorreto afirmar que:
+a) a artrite reumatoide é causa de hipertensão pulmonar pela obliteração do leito vascular pulmonar
+b) a hipertensão portal é uma das causas de hipertensão pulmonar
+c) caracteriza-se por elevação da pressão venosa pulmonar e falha ventricular esquerda
+d) HIV é causa rara
+Resposta no final do capítulo
+
 De forma simplificada, 3 mecanismos contribuem para o surgimento da HP: 
 Vasoconstrição hipóxica;  
 Diminuição da área da superfície do leito vascular pulmonar;
 Sobrecarga de pressão/volume no ventrículo direito. 
 No entanto, em muitos pacientes, há mecanismos sobrepostos. Um aspecto importante é a busca por causas tratáveis. Vale lembrar que o diagnóstico de HP primária é sempre de exclusão.
-O grupo mais comum de patologias que determinam a HP é o que afeta, diretamente, o parênquima pulmonar, como a DPOC e as fibroses. Geralmente, os sintomas associados a tais doenças são precoces e aparecem antes de HP grave, levando ao diagnóstico também precoce. A hipóxia e a hipercapnia decorrentes da alteração da relação ventilação–perfusão causadas por obstrução e perda dos elementos vasculares pulmonares são as principais consequências e sustentam a piora progressi-va. A hipoxemia determina vasoconstrição e menor resposta aos vasodilatadores endógenos. Mudanças crônicas na arquite-tura tecidual, assim como a hiperviscosidade associada à poliglobulia, também contribuem. A DPOC é a causa mais importante de HP não reversível.
-As patologias do átrio esquerdo e do território venoso pulmonar, comumente, também resultam em HP. Lesões das válvu-las aórtica ou mitral, cardiomiopatias e insuficiência coronariana podem determinar elevação das pressões nas câmaras es-querdas. A hipertensão atrial esquerda é transmitida aos vasos pulmonares e às câmaras direitas, pois a pressão da artéria pulmonar deve elevar-se para permitir o fluxo sanguíneo anterógrado por meio da árvore vascular pulmonar. Doenças da caixa torácica, como cifoescoliose, doenças neuromusculares, apneia do sono e fibrose pleural representam pequena porção das causas de HP, a qual é determinada pela hipóxia crônica dessas condições clínicas associadas à hipoventilação.
+O grupo mais comum de patologias que determinam a HP é o que afeta, diretamente, o parênquima pulmonar, como a DPOC e as fibroses. Geralmente, os sintomas associados a tais doenças são precoces e aparecem antes de HP grave, levando ao diagnóstico também precoce. A hipóxia e a hipercapnia decorrentes da alteração da relação ventilação–perfusão causadas por obstrução e perda dos elementos vasculares pulmonares são as principais consequências e sustentam a piora progressi-va. A hipoxemia determina vasoconstrição e menor resposta aos vasodilatadores endógenos. Mudanças crônicas na arquite-tura tecidual, assim como a hiperviscosidade associada a poliglobulia, também contribuem. A DPOC é a causa mais importante de HP não reversível.
+As patologias do átrio esquerdo e do território venoso pulmonar, comumente, também resultam em HP. Lesões das válvu-las aórtica ou mitral, cardiomiopatias e insuficiência coronariana podem determinar elevação das pressões nas câmaras es-querdas. A hipertensão atrial esquerda é transmitida aos vasos pulmonares e às câmaras direitas, pois a pressão da artéria pulmonar deve elevar-se para permitir o fluxo sanguíneo anterógrado por meio da árvore vascular pulmonar. Doenças da caixa torácica como cifoescoliose, doenças neuromusculares, apneia do sono e fibrose pleural representam pequena porção das causas de HP, a qual é determinada pela hipóxia crônica dessas condições clínicas associadas à hipoventilação.
 Tromboembolismo pulmonar e anemia falciforme resultam, em último caso, em obstrução mecânica da luz dos vasos pul-monares, mas não em anormalidades intrínsecas per se.
-De forma genérica, as diferentes categorias determinam lesão vascular endotelial. Uma vez iniciadas, as alterações endo-teliais geram reatividade vascular diminuída, ativação trombótica e proliferação de células musculares lisas, fibroblastos e perpetuação da inflamação. Ao longo do tempo, tais alterações perpetuam-se, aumentando a pressão da artéria pulmonar por diminuição da vasodilatação regional e da formação de trombos. 
+De forma genérica, as diferentes categorias determinam lesão vascular endotelial. Uma vez iniciadas, as alterações endo-teliais geram reatividade vascular diminuída, ativação trombótica e proliferação de células musculares lisas e fibroblastos e perpetuação da inflamação. Ao longo do tempo, tais alterações perpetuam-se, aumentando a pressão da artéria pulmonar por diminuição da vasodilatação regional e da formação de trombos. 
+
 3. Diagnóstico
-Na história clínica, alguns dados auxiliam na elucidação etiológica. O uso de drogas anorexígenas, intravenosas, crack ou cocaína pode apontar a causa. A história de trombose venosa profunda ou história familiar de trombofilias aumenta o grau de suspeita para causa tromboembólica. O acometimento paralelo do fígado, da pele ou das articulações aponta para uma causa associada ao colágeno. São critérios essenciais para o diagnóstico: 
+
+Na história clínica, alguns dados auxiliam na elucidação etiológica. O uso de drogas anorexígenas, intravenosas, crack ou cocaína pode apontar a causa. A história de trombose venosa profunda ou história familiar de trombofilias aumentam o grau de suspeita para causa tromboembólica. O acometimento paralelo do fígado, da pele ou das articulações aponta para uma causa associada ao colágeno. São critérios essenciais para o diagnóstico: 
 Sobrecarga ventricular direita;
 Aumento da intensidade do componente pulmonar da 2ª bulha cardíaca;
 Onda A jugular elevada;
 Evidência eletrocardiográfica de hipertrofia ventricular direita;
 Pressões da artéria pulmonar elevadas ao ecocardiograma ou à cateterização cardíaca.
+
+Diagnóstico
+O diagnóstico de hipertensão pulmonar envolve sobrecarga ventricular direita, aumento da P2, onda A jugular elevada, evidência eletrocardiográfica de hipertrofia ventricular direita e pressões da artéria pulmonar elevadas ao ecocardiograma ou à cateterização cardíaca.
+
 4. Quadro clínico
+
 A - Sinais e sintomas
 Um dos maiores problemas da HP, a demora no diagnóstico precoce, ocorre porque os sintomas podem ser inespecíficos e variam de indivíduo para indivíduo. Em geral, só aparecem quando os valores pressóricos pulmonares estão de 3 a 4 vezes maiores que o normal. Os sintomas mais comuns são dispneia aos esforços, síncope e dores torácicas inespecíficas (muscu-loesqueléticas, pleuríticas ou anginosas). Muitas vezes, a piora dos sintomas clínicos é atribuída à progressão da doença de base, como a DPOC, e não à da HP, permitindo o avanço desta por meses ou anos. Sintomas mais tardios aparecem na falência ventricular direita com edema periférico, ascite e fadiga.
+
 B - Exame físico
-Os achados de exame físico podem ser agudos ou indicar a causa da HP. Aumento da intensidade do componente pulmo-nar da 2ª bulha não está sempre presente. Um estalido de abertura pode ser ouvido como consequência da interrupção da abertura da válvula pulmonar. Pode ocorrer, com frequência, um sopro mesossistólico pulmonar. Em situações extremas, pode-se palpar o batimento do ventrículo direito na borda esternal esquerda. Outros achados, como insuficiência tricúspide e pulmonar, pressão venosa jugular elevada, ascite, refluxo hepatojugular, hepatomegalia, fígado pulsátil e edema periférico, são variáveis, e a severidade deles se correlaciona com a gravidade da HP.
+Os achados de exame físico podem ser agudos ou indicar a causa da HP. Aumento da intensidade do componente pulmo-nar da 2ª bulha não está sempre presente. Um estalido de abertura pode ser ouvido como consequência da interrupção da abertura da válvula pulmonar. Pode ocorrer, com frequência, um sopro mesossistólico pulmonar. Em situações extremas, pode-se palpar o batimento do ventrículo direito na borda esternal esquerda. Outros achados, como insuficiências tricúspide e pulmonar, pressão venosa jugular elevada, ascite, refluxo hepatojugular, hepatomegalia, fígado pulsátil e edema periférico, são variáveis, e a severidade deles se correlaciona com a gravidade da HP.
 Nem sempre é fácil ouvir o sopro da insuficiência tricúspide, mesmo em pacientes com insuficiência moderada ou severa. Além disso, com o aumento da pressão do átrio direito, a variação respiratória desse sopro pode estar ausente, falseando o diagnóstico de insuficiência mitral. Diferentemente desta, o sopro da insuficiência tricúspide não é audível na axila.
 Achados do parênquima pulmonar ou de sopros diastólicos de estenose mitral facilitam a pesquisa etiológica por indica-rem a provável causa da HP. Cianose e baqueteamento digital geralmente indicam cardiopatias congênitas, na ausência de patologia pulmonar. Um sopro sistólico ou contínuo nos campos pulmonares indica HP tromboembólica ou estenose congêni-ta da artéria pulmonar. Artrite, rash cutâneo ou outras alterações de pele podem indicar doenças reumatológicas de base.
 Rigorosamente, o mecanismo do hipocratismo digital (baqueteamento) permanece desconhecido, porém diversas teorias foram propostas para explicar a sua patogenia. A presença de shunts intra ou extrapulmonares permitiria a liberação para a periferia de substâncias vasodilatadoras. A hipóxia tissular poderia explicar o hipocratismo digital em pacientes com doenças cardíacas cianóticas, porém muitas doenças pulmonares cursam com acentuada hipoxemia, sem baqueteamento digital, e, inversamente, este pode estar presente com paO2 arterial preservada. Ações neurogênicas poderiam contribuir, sendo o melhor exemplo o alívio imediato do baqueteamento após vagotomia, em portadores de carcinoma brônquico, mesmo sem ressecção da lesão primária. Hipocratismo hereditário não é raro, o que levou à postulação de que fatores genéticos poderi-am atuar em casos de aparecimento mais tardio. A teoria atualmente mais aceita para a patogenia do hipocratismo digital envolve a liberação de fatores de crescimento vascular, o que resulta na neoformação de capilares nas extremidades. A pre-sença de hipoxemia e a estase de plaquetas potencializam a sua liberação, bem como o aumento da perfusão periférica, o que poderia explicar a associação a diversos dos fatores descritos. 
+
+Pergunta
+2007 - UERJ
+2. A presença de baqueteamento digital em um paciente com hipertensão arterial pulmonar é um achado que deve inicialmente ser interpretado como dado contra o diagnóstico de:
+a) bronquite crônica
+b) cardiopatia congênita
+c) síndrome de Eisenmenger
+d) hipertensão pulmonar primária
+Resposta no final do capítulo
+
 5. Exames diagnósticos
+
 A - Eletrocardiografia 
-A eletrocardiografia (ECG) frequentemente aponta anormalidades que sugerem hipertrofia ventricular direita, como o aumento das forças elétricas nas derivações precordiais e inversão de onda T no precórdio. Os achados mais sugestivos de sobrecarga direita crônica são desvio do eixo para a direita e relação R–S >1 em V1, bloqueio do ramo direito completo ou incompleto e onda P pulmonale. Os achados da ECG têm alta especificidade, porém baixa sensibilidade, ainda menor entre pacientes com hipertrofia biventricular. Não é incomum a interpretação errônea de isquemia anterior aguda. Geralmente, essas alterações ocorrem em casos avançados, podendo ser a ECG normal em casos iniciais ou moderados, assim como a radi-ografia de tórax.
+A eletrocardiografia (ECG) frequentemente aponta anormalidades que sugerem hipertrofia ventricular direita, como o aumento das forças elétricas nas derivações precordiais e a inversão de onda T no precórdio. Os achados mais sugestivos de sobrecarga direita crônica são desvio do eixo para a direita e relação R–S >1 em V1, bloqueio do ramo direito completo ou incompleto e onda P pulmonale. Os achados da ECG têm alta especificidade, porém baixa sensibilidade, ainda menor entre pacientes com hipertrofia biventricular. Não é incomum a interpretação errônea de isquemia anterior aguda. Geralmente, essas alterações ocorrem em casos avançados, podendo ser a ECG normal em casos iniciais ou moderados, assim como a radi-ografia de tórax.
 As alterações à ECG podem ser revertidas quando há melhora da HP.
- 
-Figura 1 - ECG demonstrando desvio do eixo elétrico para a direita, ondas P apiculadas, ondas R dominantes em V1 e S profundas em V6 e inversão de onda T em DII, DIII, aVf, V1 a3, demonstrando sinais de sobrecarga ventricular direita em mulher portadora de estenose mitral por febre reumática
+
+  
+Figura 1 - Eletrocardiograma demonstrando desvio do eixo elétrico para a direita, ondas P apiculadas, ondas R dominantes em V1 e S profundas em V6 e inversão de onda T em DII, DIII, aVF, V1A3, demonstrando sinais de sobrecarga ventricular direita em mulher porta-dora de estenose mitral por febre reumática
+
 B - Radiografia de tórax
 A radiografia de tórax pode auxiliar na suspeita diagnóstica de HP. Infelizmente, as alterações sugestivas da doença ocor-rem tardiamente em seu curso. Isso é válido para sinais como a proeminência de vasos pulmonares proximais, assim como o preenchimento do espaço retroesternal pelo ventrículo direito na projeção lateral. Congestão venosa e aumento do átrio esquerdo e da área cardíaca dirigem a pesquisa etiológica para causas de câmaras esquerdas. Hiperinsuflação sugere DPOC, enquanto cifose ou escoliose podem indicar causas restritivas para HP. Vale lembrar que a radiografia normal não afasta a possibilidade de HP, mesmo em estágios avançados da doença.
- 
-Figura 2 - Raio x evidenciando aumento do tronco da artéria pulmonar em paciente com HP e cardiomegalia associadas
+
+  
+Figura 2 - Raio x evidenciando aumento do tronco da artéria pulmonar em paciente com hipertensão pulmonar e cardiomegalia associ-adas
+
 C - Testes de função pulmonar
 Os testes de função pulmonar podem ser totalmente normais entre pacientes com doenças intrínsecas dos vasos pulmo-nares ou apresentar padrões característicos de doenças obstrutivas ou restritivas. O exame é necessário nas suspeitas de doença pulmonar parenquimatosa, obstrução de via aérea ou doença neuromuscular. A doença pulmonar intersticial severa causa HP, que pode gerar um distúrbio restritivo leve, confundindo o diagnóstico.
+
 D - Cintilografia pulmonar
 O exame de ventilação–perfusão pode não apontar a causa-base. A fase de perfusão é diagnóstica no tromboembolismo pulmonar. Na HP primária, a cintilografia é normal ou mostra pequenas falhas de captação subsegmentar. Como o tratamento cirúrgico pode ser curativo nas causas tromboembólicas, a cintilografia deve fazer parte da pesquisa etiológica em todos com HP de origem indefinida. 
+
 E - Ecocardiograma
 O exame bidimensional com Doppler, extremamente útil não só para o diagnóstico, mas também para o seguimento da HP, avalia a pressão da artéria pulmonar valendo-se da insuficiência tricúspide por meio da equação de Bernoulli. O valor da HP tem importância prognóstica, pois seu aumento se associa a aumento da mortalidade. 
 Pode demonstrar o achatamento do septo ventricular na sístole e na diástole (em forma de D); quando presente somente nesta última, a causa pode ser sobrecarga volêmica sem HP. A HP pura do ventrículo direito resulta em concavidade do septo interventricular direcionada ao ventrículo esquerdo. Este, em geral, é pequeno e com função sistólica preservada. Tais alte-rações são reversíveis com a melhora da HP, assim como a dilatação ventricular direita.
 O exame também é essencial para evidenciar ou excluir causas de câmaras esquerdas, como estenose mitral, insuficiência ventricular esquerda e causas congênitas. A análise do Doppler pode sugerir refluxo tricúspide importante, mesmo na ausên-cia de sopro audível.
+
 F - Arteriografia pulmonar e cateterismo cardíaco
-A cateterização das câmaras cardíacas direitas é o exame padrão-ouro para estabelecer o diagnóstico, quantificar e carac-terizar a HP, e está indicada quando o ecocardiograma não oferece informações significativas. A angiografia pulmonar confir-ma HP primária e diagnostica causa tromboembólica de grandes vasos pulmonares. As alterações podem evidenciar dilatação da árvore pulmonar e paradas abruptas do enchimento vascular por contraste. Outra utilidade do cateterismo é a avaliação da resposta vascular ao uso de vasodilatadores, como nitroprussiato de sódio, prostaciclina ou óxido nítrico. Quedas maiores de 20% do valor inicial sugerem boa resposta clínica.
+A cateterização das câmaras cardíacas direitas é o exame padrão-ouro para estabelecer o diagnóstico, quantificar e carac-terizar a HP e está indicada quando o ecocardiograma não oferece informações significativas. A angiografia pulmonar confir-ma HP primária e diagnostica causa tromboembólica de grandes vasos pulmonares. As alterações podem evidenciar dilatação da árvore pulmonar e paradas abruptas do enchimento vascular por contraste. Outra utilidade do cateterismo é a avaliação da resposta vascular ao uso de vasodilatadores, como nitroprussiato de sódio, prostaciclina ou óxido nítrico. Quedas maiores de 20% do valor inicial sugerem boa resposta clínica.
+
 G - Tomografia computadorizada e ressonância nuclear magnética 
-A Tomografia Computadorizada (TC) e a Ressonância Nuclear Magnética (RNM) do tórax podem fornecer informações úteis quanto a doenças do parênquima e de muitas outras condições que causam HP. A TC do mediastino indica alterações características na mediastinite fibrosante por histoplasmose, em que linfonodos calcificados podem comprimir veias e artérias pulmonares. Similarmente, a RNM pode evidenciar tumores do mediastino, alterações de fluxo sanguíneo e tumores intra-arteriais pulmonares. Pode, também, evidenciar o êmbolo na árvore pulmonar com precisão próxima à da angiografia.
+A Tomografia Computadorizada (TC) e a Ressonância Nuclear Magnética (RNM) de tórax podem fornecer informações úteis quanto a doenças do parênquima e muitas outras condições que causam HP. A TC do mediastino indica alterações carac-terísticas na mediastinite fibrosante por histoplasmose, em que linfonodos calcificados podem comprimir veias e artérias pulmonares. Similarmente, a RNM pode evidenciar tumores de mediastino, alterações de fluxo sanguíneo e tumores intra-arteriais pulmonares. Pode, também, evidenciar o êmbolo na árvore pulmonar com precisão próxima à da angiografia.
+
 H - Biópsia pulmonar
-A biópsia pulmonar não é frequentemente necessária para confirmar a causa da HP. No entanto, em algumas situações de etiologia obscura, pode evidenciar partículas impactadas de material pulverizado na árvore arterial pulmonar pelo uso de drogas intravenosas ou de outras doenças vasculares pulmonares. Quando há apenas hipertrofia da túnica muscular média dos vasos pulmonares, a HP é reversível; quando ocorrem arterite e áreas de necrose, é, usualmente, irreversível. 
- 
+A biópsia pulmonar não é frequentemente necessária para confirmar a causa da HP. No entanto, em algumas situações de etiologia obscura, pode evidenciar partículas impactadas de material pulverizado na árvore arterial pulmonar pelo uso de drogas intravenosas ou evidenciar outras doenças vasculares pulmonares. Quando há apenas hipertrofia da túnica muscular média dos vasos pulmonares, a HP é reversível; quando ocorrem arterite e áreas de necrose, é, usualmente, irreversível. 
+
+  
 Figura 3 - Biópsia pulmonar mostrando arteríola com material embolizado no seu interior, em recanalização
+
 I - Outros testes diagnósticos
 Como a etiologia é variável, outros exames, como marcadores reumatológicos ou eletroforese de hemoglobina, podem ser necessários. Segue um algoritmo para investigação diagnóstica e etiológica da HP. 
+
  
 Figura 4 - Investigação 
+
 6. Tratamento da hipertensão pulmonar secundária
+
 A HP cuja causa é identificada é mais bem tratada com o controle da doença subjacente. Em casos como a estenose mitral, a valvoplastia por balão ou o tratamento cirúrgico podem reverter completamente a doença. Em outras situações, seus efei-tos crônicos podem ser irreversíveis, já que, mesmo após a correção da causa-base, pode haver HP residual. Em causas de cardiopatia congênita, o transplante duplo (coração–pulmão) pode tratar totalmente a HP.
-Aparentemente, a maior parte dos agentes utilizados para a vasodilatação da artéria pulmonar na HP primária não tem sur-tido efeito satisfatório, provavelmente por falta de reatividade vascular, em especial quando a hipóxia é tratada com oxigênio. Tal medida parece ser a mais eficaz em reduzir a HP nesses casos. E, nas formas secundárias, tais medicações também podem surtir efeito. 
-Nas causas de origem torácica ou neuromuscular, a HP pode ser controlada completamente com a administração de oxi-gênio à pressão positiva (CPAP ou BiPAP), assim como na apneia do sono (perda de peso com efeito similar neste último). A correção cirúrgica de obstrução da via aérea também reverte a HP.
-A revascularização miocárdica e a correção valvar determinam reversão da HP por disfunção ventricular miocárdica ou valvar, assim como a pericardiectomia para a pericardite constritiva e a ressecção tumoral para os tumores intracardíacos. A mediastinite fibrosante, quase sempre associada à histoplasmose, normalmente é refratária a qualquer tratamento. 
+Aparentemente, a maior parte dos agentes utilizados para a vasodilatação da artéria pulmonar na HP primária não tem sur-tido efeito satisfatório, provavelmente por falta de reatividade vascular, em especial quando a hipóxia é tratada com oxigênio. Tal medida parece ser a mais eficaz em reduzir a HP nesses casos. 	Nas causas de origem torácica ou neuromuscular, a HP pode ser controlada completamente com a administração de oxigênio à pressão positiva (CPAP ou BiPAP), assim como na apneia do sono (perda de peso com efeito similar neste último). A correção cirúrgica de obstrução da via aérea também re-verte a HP.
+A revascularização miocárdica e a correção valvar determinam reversão da HP por disfunção ventricular miocárdica ou valvar, assim como a pericardiectomia para a pericardite constritiva e a ressecção tumoral para os tumores intracardíacos. A mediastinite fibrosante, quase sempre associada a histoplasmose, normalmente é refratária a qualquer tratamento. 
 A situação clínica em que o tratamento é bem definido é a da doença tromboembólica. A tromboendarterectomia, para pacientes selecionados, reverte quase totalmente a HP, apesar de estar associada a alta mortalidade no pós-operatório. 
-A reversão da HP é acompanhada da reversão do tamanho e da função ventricular ao ecocardiograma. Após 1 mês da ci-rurgia, há melhora da função ventricular esquerda e a quase normalização das câmaras direitas. A normalização da HP acon-tece dentro de 1 ano.
+A reversão da HP é acompanhada da reversão do tamanho e da função ventricular ao ecocardiograma. Após 1 mês da ci-rurgia, há melhora da função ventricular esquerda e quase normalização das câmaras direitas. A normalização da HP acontece dentro de 1 ano.
+
+Quadro clínico 
+Na hipertensão pulmonar secundária, além de controle da causa-base, a correção da hipóxia (oxigênio suplementar) favore-ce o controle evolutivo da hipertensão pulmonar. E, na forma primária, apesar de não proporcionar melhora evolutiva, a suplementação com oxigênio também é necessária. 
+
 7. Tratamento da hipertensão pulmonar primária
+
 A - Glicosídeos cardíacos
 O valor da digoxina na recuperação da função ventricular direita não é comprovado, embora a droga seja bastante utiliza-da. O risco de intoxicação sobrepõe-se ao seu benefício, principalmente em se tratando de hipoxêmicos e daqueles em uso de diuréticos, nos quais hipocalemia é frequente.
+
 B - Oxigênio
 Entre os hipoxêmicos com HP primária ou secundária, a oxigenoterapia é mandatória, e, quanto àqueles de etiologia inde-finida, o benefício não é estabelecido. Porém, muitas vezes, durante o exercício, os pacientes apresentam hipoxemia, sendo necessária, de qualquer forma, a suplementação. Pessoas com insuficiência ventricular direita e hipóxia devem receber su-plementação contínua.
+
 C - Diuréticos
 O edema periférico e a congestão hepática podem acompanhar a HP e apresentam melhora com o uso de diuréticos, cor-rendo o risco de redução intensa da pré-carga ventricular e disfunção cardíaca aguda; daí o uso criterioso dessa medicação. O controle bioquímico deve ser rigoroso pelo risco de potencialização de eventos fatais como a hipóxia.
+
 D - Anticoagulação
 A anticoagulação por período prolongado é indicada àqueles com causa tromboembólica da HP e destinada aos demais casos quando o seu emprego se associa a redução de mortalidade. A HP primária predispõe a trombose in situ na árvore pulmonar, e os pacientes com HP severa, geralmente, são sedentários ou restritos ao leito, o que aumenta o risco de fenô-menos trombóticos.
+
 E - Vasodilatadores
-Os vasodilatadores mais efetivos são os bloqueadores de canais de cálcio. Nenhuma droga disponível tem ação seletiva na árvore pulmonar, e os efeitos sistêmicos podem levar a hipotensão severa. O objetivo do tratamento é reduzir a pós-carga ventricular direita e a HP, melhorando o débito cardíaco. Cerca de 25% têm resposta com nifedipino (de 30 a 240mg/d) ou diltiazem (de 120 a 900mg/d). Em alguns casos, a hipertrofia ventricular direita diminui; em outros, há melhora do débito cardíaco sem redução da HP. A classe funcional desses pacientes melhora, porém é incerto o efeito na sobrevida. 
-Testes com prostaciclinas intravenosas têm sido eficazes em identificar os pacientes que respondem ao tratamento oral com bloqueadores de canais de cálcio. Outros, como acetilcolina, óxido nítrico inalatório e adenosina, são agentes úteis de curta duração para determinar a reatividade vascular durante o cateterismo de câmaras direitas. Quando é definida a respos-ta do paciente a vasodilatadores que podem ser titulados, troca-se por agentes de mesma classe de longa duração. Devem ser introduzidos gradativamente e mantidos na dose máxima tolerada. Independente da droga, o uso deve ser feito de forma monitorizada, pois os efeitos colaterais do tratamento, como a hipotensão, podem ser fatais. Com frequência, a monitorização com cateter de Swan-Ganz é utilizada para o ajuste fino das drogas.
+Os vasodilatadores mais efetivos são os bloqueadores dos canais de cálcio. Nenhuma droga disponível tem ação seletiva na árvore pulmonar, e os efeitos sistêmicos podem levar a hipotensão severa. O objetivo do tratamento é reduzir a pós-carga ventricular direita e a HP, melhorando o débito cardíaco. Cerca de 25% têm resposta com nifedipino (de 30 a 240mg/d) ou diltiazem (de 120 a 900mg/d). Em alguns casos, a hipertrofia ventricular direita diminui; em outros, há melhora do débito cardíaco sem redução da HP. A classe funcional desses pacientes melhora, porém é incerto o efeito na sobrevida. 
+Testes com prostaciclinas intravenosas têm sido eficazes em identificar os pacientes que respondem ao tratamento oral com bloqueadores dos canais de cálcio. Outros, como acetilcolina, óxido nítrico inalatório e adenosina, são agentes úteis de curta duração para determinar a reatividade vascular durante o cateterismo de câmaras direitas. Quando é definida a respos-ta do paciente a vasodilatadores que podem ser titulados, troca-se por agentes de mesma classe de longa duração. Devem ser introduzidos gradativamente e mantidos na dose máxima tolerada. Independente da droga, o uso deve ser feito de forma monitorizada, pois os efeitos colaterais do tratamento, como a hipotensão, podem ser fatais. Com frequência, a monitorização com cateter de Swan-Ganz é utilizada para o ajuste fino das drogas.
+
 F - Prostaciclina
 Pacientes com HP podem ser mais bem tratados com medicações de curta duração, como a prostaciclina intravenosa (PGI2 – epoprostenol), administrada durante a monitorização com o cateter de Swan-Ganz. Esse agente é útil devido à sua meia-vida curta (de 3 a 5 minutos), e sua infusão contínua tem tido resultados satisfatórios em pacientes com HP primária, como melhora na sobrevida e na classe funcional. Além disso, pode ser aplicada por via central em infusão contínua. A apre-sentação farmacológica para uso inalatório (iloprosta) ou subcutâneo já está disponível. Até o momento, compreende o tra-tamento mais efetivo na HP de origem vascular intrínseca.
+
 G - Transplante
 Apesar de a experiência com transplante aumentar, algumas causas, como a HP associada a tromboembolismo, apresen-tam melhora após o tratamento cirúrgico da artéria pulmonar. Os resultados com transplante pulmonar também têm demons-trado benefício, com sobrevida de 95% dos casos em 1 ano e de 50% em 5 anos, e só se aplicam àqueles em que a causa secundária não incide sobre o novo órgão transplantado.
+
 H - Outras formas de tratamento
 Em pacientes com forame oval patente, a sobrevida na vigência de HP parece ser maior devido ao shunt direito–esquerdo. Assim, a septostomia atrial por cateter ou cirúrgica pode ser aplicada em alguns casos que aguardam transplante.
-I - Antagonistas do receptor de endotelina
-Melhoram a tolerância ao exercício e o débito cardíaco e diminuem a pressão da artéria pulmonar por bloquearem a ação vasoconstritora dessa substância. São exemplos o bosentana e o sitaxentana.
+
+I - Antagonistas dos receptores de endotelina
+Melhoram a tolerância ao exercício e o débito cardíaco e diminuem a pressão da artéria pulmonar por bloquearem a ação vasoconstritora dessa substância. São exemplos a bosentana e a sitaxentana.
+
 J - Inibidores de fosfodiesterase
-O mais conhecido é o sildenafila, na dose de 20mg, de 8/8h. Melhora a oxigenação arterial e a capacidade ao exercício e diminui a resistência vascular pulmonar e a pressão da artéria pulmonar.
+O mais conhecido é a sildenafila, na dose de 20mg, de 8/8h. Melhora a oxigenação arterial e a capacidade ao exercício e diminui a resistência vascular pulmonar e a pressão da artéria pulmonar.
+
 8. Prognóstico
+
 A causa-base da HP é o principal determinante da evolução da doença. Quando o tratamento da causa é possível e efeti-vo, a HP apresenta melhora sensível na sobrevida. O prognóstico varia de indivíduo para indivíduo, dependendo do tempo de diagnóstico e da intensidade da doença. O grau de reatividade vascular presente também determina o prognóstico.
-A sobrevida entre pacientes com HP primária depende de vários fatores e é de difícil previsão. A causa mais frequente de morte é a insuficiência ventricular direita em 2/3 dos casos, seguida de morte súbita e pneumonia, e a sobrevida média é de 10 anos. Pacientes com pressão da artéria pulmonar média acima de 85mmHg têm sobrevida de 1 ano, contra 4 anos entre aqueles com pressão de 50mmHg. Índice cardíaco e pressão do átrio direito também são preditores de mortalidade. As clas-ses funcionais de insuficiência cardíaca congestiva I e II têm sobrevida de 5 anos, enquanto classes funcionais III e IV apresen-tam sobrevida entre 6 e 30 meses.
+A sobrevida entre pacientes com HP primária depende de vários fatores e é de difícil previsão. A causa mais frequente de morte é a insuficiência ventricular direita em 2/3 dos casos, seguida de morte súbita e pneumonia, e a sobrevida média é de 10 anos. Pacientes com pressão da artéria pulmonar média acima de 85mmHg têm sobrevida de 1 ano, contra 4 anos entre aqueles com pressão de 50mmHg. Índice cardíaco e pressão do átrio direito também são preditores de mortalidade. As clas-ses funcionais de insuficiência cardíaca congestiva I e II têm sobrevida de 5 anos, enquanto as classes funcionais III e IV apre-sentam sobrevida entre 6 e 30 meses.
+
 9. Resumo
+
 Quadro-resumo
-- A elevação da pressão da artéria pulmonar determina a sobrecarga ventricular direita, geralmente por redução do calibre das arteríolas pulmonares e/ou aumento do fluxo sanguíneo pulmonar; 
+- A elevação da pressão da artéria pulmonar determina a sobrecarga ventricular direita, geralmente por redução do calibre das arterío-las pulmonares e/ou aumento do fluxo sanguíneo pulmonar; 
 - A HP é via final comum de várias patologias pulmonares primárias, assim como de doenças sistêmicas; 
 - O quadro clínico não é específico, o que dificulta o diagnóstico no seu início; dor torácica, dispneia aos esforços e síncope. Nas fases mais tardias, ocorre insuficiência cardíaca direita; 
-- O tratamento baseia-se em oxigenoterapia, diuréticos e vasodilatadores pulmonares como bloqueadores de canais de cálcio. Alternativas terapêuticas recentes são o sildenafila e o bosentana. 
+- O tratamento baseia-se em oxigenoterapia, diuréticos e vasodilatadores pulmonares como bloqueadores dos canais de cálcio. Alterna-tivas terapêuticas recentes são a sildenafila e a bosentana. 
+
+Respostas
+1. C
+2. D
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
