@@ -1,0 +1,572 @@
+
+Hepatites virais
+Carolina dos Santos Lázari[- / -]
+Durval A. G. Costa
+
+{+Resumo+}
+{+Neste capítulo sobre hepatites virais, serão abordados os tipos da doença, bem como seus agentes causadores e suas implicações clínicas. A hepatite A é causada pelo vírus da hepatite A (HAV), apresentando uma forma aguda com quadro de febre, anorexia, náuseas, vômitos, diarreia, mialgia e mal-estar, podendo evoluir para icterícia, com colúria, acolia fecal, dor no hipocôndrio direito e hepatomegalia. Esse subtipo não se cronifica, porém está associado a maior número de casos de hepatite fulminante. A hepatite B é causada pelo vírus da hepatite B (HBV), cuja forma aguda causa sintomas semelhantes aos da hepatite A, porém esse subtipo pode evoluir para formas crônicas que podem desenvolver cirrose hepática e hepatocarcinoma. E a hepatite C é causada pelo vírus da hepatite C (HCV) e geralmente não causa sintomas quando se tem a infecção, além de ser o subtipo que mais cronifica e mais associado à cirrose hepática e/ou hepatocarcinoma, pois seu diagnóstico é mais tardio e, por vezes, acidental.+}
+
+1. Introdução
+
+O termo “hepatite” refere-se à inflamação do parênquima hepático, caracterizada por infiltrado inflamatório local, que provoca lesão tecidual, com necrose hepatocelular. Pode ser provocada por diversos agentes infecciosos, seja com acometi[---]mento exclusivo do fígado, seja como parte de uma infecção sistêmica. Neste capítulo, são discutidas as hepatites virais, isto é, causadas por vírus que apresentam tropismo específico pelo fígado (hepatotrópicos), tornando esse órgão o alvo central do acometimento da doença. Os principais agentes dessa categoria são chamados vírus hepatotrópicos A, B, C, D e E.
+As hepatites virais apresentam características epidemiológicas, clínicas e laboratoriais semelhantes, porém com importan[---]tes particularidades. São de distribuição universal, e a magnitude dos diferentes tipos varia de região para região. No Brasil, também há grande variação regional na prevalência de cada hepatite. Sua grande importância está no número de indivíduos atingidos, na possibilidade de complicações das formas agudas e na morbimortalidade relacionada à cronificação.
+As hepatites medicamentosas não são abordadas neste capítulo e não são objetivo desta abordagem em um livro de do[---]enças infecciosas. Alguns pormenores do uso de medicações, como a indicação de transplantes na associação com acetami[---]nofeno na hepatite A, são discutidos durante o capítulo. 
+
+2. Hepatite A
+
+O [-V-]{+v+}írus da [-H-]{+h+}epatite A ([-V-]HA{+V+}) é um picornavírus, cujo material genético é constituído por uma molécula de RNA de fita sim[---]ples. É desprovido de envelope, estrutura que habitualmente se relaciona com a variabilidade genética e antigênica do vírus. Desta forma, há apenas 1 sorotipo, o que permite que a primoinfecção (imunização natural) e a vacinação (imunização artifici[---]al) confiram imunidade protetora permanente diante de novas exposições.
+
+A - Patogênese
+A aquisição do vírus ocorre por ingestão de partículas virais infectantes, presentes em água ou alimentos contaminados, ou, até mesmo, contato direto ou compartilhamento de fômites com o indivíduo doente.
+Uma vez ingeridas, as partículas virais invadem a mucosa do trato gastrintestinal e ganham a circulação portal, iniciando o 1º período de viremia. A seguir, atingem o fígado, onde iniciam o processo de replicação viral no interior dos hepatócitos, levando a intensa necrose hepatocelular. A presença do vírus e a lesão tissular levam a inflamação local – refletida pelo infil[---]trado inflamatório linfomonocitário – com repercussão sistêmica, que resulta nos sintomas prodrômicos da doença.
+À medida que aumenta o número de hepatócitos acometidos por edema e necrose – o que se traduz pela elevação de transaminases –, ocorre a desorganização das lâminas celulares que compõem a arquitetura hepática, com consequente co[---]lestase – refletida pela elevação de bilirrubinas e enzimas canaliculares. 
+Se o grau de lesão hepática é tal que a massa de hepatócitos remanescentes é insuficiente para o cumprimento das fun[---]ções metabólicas do fígado, surgem os sinais de insuficiência hepática aguda: coagulopatia resultante do déficit de produção de fatores plasmáticos de coagulação e encefalopatia consequente da incapacidade do fígado de processar os produtos ni[---]trogenados oriundos do metabolismo, que permanecem circulantes e terminam por se tornarem neurotóxicos.
+
+
+{+Importante+}
+{+A infecção pelo HAV se dá pela ingestão de água, alimentos contaminados ou, ainda, pelo compartilhamento de talheres, copos ou utensílios pessoais do paciente.+}
+
+A replicação viral nos hepatócitos permite que novas partículas infectantes sejam liberadas na bile e ganhem novamente a luz intestinal, por onde são eliminadas com as fezes, tornando o indivíduo infectado fonte de novas infecções.
+Com o estabelecimento da resposta imune específica contra o [-V-]HA{+V+}, são produzidos anticorpos neutralizantes protetores. Assim, interrompe-se a viremia e, a seguir, a replicação viral no fígado, com resolução completa da lesão tecidual. Não há cronificação da infecção por [-V-]HA{+V+} nem relatos de sequela hepática permanente após a infecção aguda.
+
+B - Epidemiologia
+Como dito, a principal via de transmissão do [-V-]HA{+V+} é a fecal-oral, por contato inter-humano ou por meio de água e alimen[---]tos contaminados. A grande quantidade de vírus presente nas fezes dos indivíduos infectados contribui para a transmissão, visto que o [-V-]HA{+V+} é bastante estável no meio ambiente. O indivíduo infectado apresenta eliminação fecal de partículas virais de 2 semanas antes a 2 semanas após o surgimento da icterícia, com diminuição progressiva. Durante todo esse período, é fonte de transmissão para novas infecções.
+Logo, a disseminação da doença está relacionada com a infraestrutura de saneamento básico e os aspectos ligados às con[---]dições de higiene. Em regiões com estrutura de saneamento precária, as pessoas são expostas ao [-V-]HA{+V+} em faixas etárias me[---]nores, apresentando formas subclínicas ou anictéricas, que ocorrem, mais frequentemente, nas crianças em idade pré-escolar. Em tais populações, surtos são menos comuns, em virtude da exposição precoce, com infecção inaparente, que re[---]sulta em imunidade protetora permanente. Em populações com melhores condições de saneamento, o momento da primoin[---]fecção é mais tardio e há maior proporção de casos sintomáticos. 
+
+ 
+Figura 1 - Prevalência da hepatite A pelo mundo. É importante conhecer a sorologia de hepatite de qualquer pessoa no Brasil, já que se torna recomendável (pela alta endemicidade no país) a vacinação de pessoas com sorologia negativa (só disponível na rede privada para a maior parte da população)
+
+A suscetibilidade é universal, exceto para os previamente imunizados (vacinação ou infecção pregressa). Contatos domici[---]liares e institucionais de pacientes infectados têm risco aumentado de aquisição da infecção, dada a possibilidade de trans[---]missão inter-humana ou contágio em fonte comum.
+Na maioria dos casos, a doença é autolimitada e de caráter benigno, e a insuficiência hepática aguda grave acontece em menos de 1% dos casos. Esse percentual é maior em indivíduos com mais de 65 anos. Via de regra, os mais velhos apresentam doença sintomática e de resolução mais lenta. 
+De acordo com os dados do estudo de base populacional das infecções por vírus das hepatites A, B e C nas capitais do Bra[---]sil, em andamento desde 2005 sob financiamento do Ministério da Saúde e com resultados divulgados anualmente, a preva[---]lência da exposição à infecção pelo [-V-]HA{+V+} (IgG positiva), referente ao conjunto das capitais do Brasil, foi de 39,5%. O percentual de expostos ao [-V-]HA{+V+} na faixa etária de 5 a 9 anos foi de 27% e de 44,1% para o grupo de 10 a 19 anos. Os resultados indicam associação inversa entre o nível socioeconômico e a prevalência de anti-[-V-]HA{+V+} total, bem como a redução das prevalências nas faixas etárias de crianças e adolescentes, implicando um aumento do número de indivíduos suscetíveis à doença.
+
+C - Formas clínicas
+
+{+Importante+}
+{+A hepatite A pode apresentar-se de forma assintomática (geralmente em crianças <6 anos) ou sintomática, com uma fase prodrômica com febre, anorexia, náuseas, vômitos, diarreia, mialgia e mal-estar, a qual pode evoluir para resolução ou para icterícia, com colúria, acolia fecal, dor no hipocôndrio direito e hepatomegalia.+}
+
+As manifestações clínicas dependem da idade de aquisição da infecção. Quanto menor a idade, menor a probabilidade do desenvolvimento de formas sintomáticas. Em crianças <6 anos, menos de 10% dos infectados desenvolvem a forma ictérica. Quando sintomáticas, as crianças tendem a apresentar sintomas inespecíficos, que nem sempre levam ao diagnóstico de he[---]patite aguda.
+À medida que avança a idade, aumenta a probabilidade de manifestações clínicas da doença. Cerca de 76 a 97% dos adul[---]tos são sintomáticos; destes, de 40 a 70% desenvolvem icterícia.
+A insuficiência hepática aguda, ou hepatite fulminante, acontece em menos de 1% dos casos de hepatite A. É mais fre[---]quente em adultos, com risco bastante aumentado acima dos 65 anos. Praticamente inexiste entre crianças, em que a lesão hepática é mais branda e são raras as formas ictéricas.
+De acordo com a Associação Americana para Estudos sobre Doenças Hepáticas, define-se insuficiência hepática aguda como o surgimento de sinais de falência hepática funcional, representada por coagulopatia (INR – índice internacional norma[---]lizado >1,5) e encefalopatia, em pacientes com doença hepática aguda de menos de 26 semanas de evolução, que não apre[---]sentem cirrose hepática preexistente. A hepatite A responde por cerca de 4% das etiologias de insuficiência hepática aguda.
+Em indivíduos sintomáticos, a hepatite A manifesta-se, inicialmente, por uma fase prodrômica, em que ocorrem febre, anorexia, náuseas, vômitos, diarreia, mialgia e mal-estar. Essa fase dura alguns dias e pode ser seguida da resolução do quadro ou do surgimento de icterícia, que é acompanhada por colúria, acolia fecal, dor no hipocôndrio direito e hepatomegalia. Habi[---]tualmente, no início da fase ictérica, desaparecem os sintomas constitucionais da fase prodrômica.
+
+{+ +}
+{+Figura 2 - +}A fase de convalescência da hepatite A é marcada por regressão gradual da icterícia. A intolerância alimentar e a fadiga podem durar meses para se resolverem completamente. Até 10% dos indivíduos apresentam recorrência da icterícia e osci[---]lação das transaminases por até 6 meses após a infecção aguda
+
+{+Dica+}
+{+Não há cronificação na hepatite A+}.
+
+D - Diagnóstico
+
+{+Diagnóstico+}
+{+O diagnóstico de hepatite A é feito com base no quadro clínico e nas sorologias que detectam anticorpos específicos contra o HAV. Laboratorialmente, elevam-se as enzimas hepáticas, juntamente com a bilirrubina total.+}
+
+A alteração laboratorial mais importante da hepatite A aguda é a elevação de transaminases que, em geral, estão maiores que 3 vezes o limite superior da normalidade, podendo atingir marcas tão altas quanto 5.000. Apesar de a sua alteração estar diretamente relacionada com a lesão hepatocelular, o nível de elevação não é fator prognóstico e não faz parte dos critérios de definição de hepatite fulminante ou de indicação de transplante hepático. 
+Concomitantemente, eleva-se a bilirrubina total à custa da fração direta. Esta tem maior importância prognóstica, pois re[---]flete diretamente a desorganização da arquitetura hepática resultante da necrose e pode agravar o dano neurológico. Está incluída nos critérios do King’s College Hospital para indicação de transplante na insuficiência hepática aguda.
+O fator mais importante na determinação de gravidade da hepatite aguda é o tempo de protrombina. Sinais de coagulopa[---]tia, com atividade de protrombina inferior a 40% e/ou INR superior a 1,5, refletem disfunção hepática importante. O paciente deve ser internado para monitorização do coagulograma, bem como de sinais de encefalopatia (inclusive os mais precoces, detectados por testes psicométricos e edema cerebral em exames de imagem). O fator V de Leiden também deve ser solici[---]tado em pacientes com alteração de coagulograma, pois é um critério isolado de indicação de transplante hepático em paci[---]entes com encefalopatia, de acordo com os critérios de Clichy.
+O hemograma pode apresentar alterações inespecíficas, como leucopenia ou leucocitose com linfocitose e presença de linfócitos atípicos em alguns casos.
+O diagnóstico específico de hepatite A é feito por testes sorológicos, habitualmente imunoenzimáticos, que se baseiam na detecção de anticorpos específicos contra o [-V-]HA{+V+}. O 1º anticorpo a ser produzido é o da classe IgM, que já pode ser detecta[---]do de 5 a 10 dias antes do surgimento da icterícia, sendo, portanto, marcador de infecção aguda. A seguir, inicia-se a produ[---]ção de IgG, que permanece ao longo da vida como memória imunológica protetora. A IgM desaparece ao final da fase aguda, com duração máxima de 6 meses. Isto é, a presença de IgG positiva isoladamente significa infecção pregressa por [-V-]HA{+V+}. 
+
+Tabela 1 - Hepatite A: interpretação dos resultados sorológicos
+Anti-[-V-]HA{+V+} total	Anti-[-V-]HA{+V+} IgM	Interpretações
+(+)	(+)	Infecção recente pelo [-V-]HA{+V+}
+(+)	(-)	Infecção passada pelo [-V-]HA{+V+}
+(-)	(-)	Ausência de contato com o [-V-]HA{+V+}, não imune
+
+{+ +}
+{+Figura 3 - Tempo de aparecimento dos marcadores na hepatite A+}
+
+E - Tratamento
+
+{+Tratamento+}
+{+O tratamento é feito com sintomáticos e suporte clínico (hidratação oral, principalmente), uma vez que não há tratamento medicamentoso específico para hepatite A.+}
+
+Não há tratamento antiviral específico para hepatite A. Recomendam-se suporte clínico e medicações sintomáticas, prin[---]cipalmente hidratação oral e antieméticos. A dieta deve ser leve e com baixo teor lipídico, e o paciente deve ser orientado a não ingerir bebida alcoólica em nenhuma quantidade, a fim de evitar um novo fator de lesão hepática.
+A internação é recomendável quando o paciente apresenta sinais de lesão hepática grave, como altos níveis de bilirrubi[---]nas, alargamento do coagulograma e alteração de estado mental. Na ausência desses sinais, é necessária somente quando o indivíduo é muito sintomático, especialmente se apresenta vômitos intensos que dificultem a ingesta hídrica. Caso fique in[---]ternado, lembrar que o vírus da hepatite exige que haja precaução de contato, pelo risco de transmissão fecal-oral.
+Pacientes com qualquer sinal de evolução para insuficiência hepática aguda – INR >1,5 e alteração do nível de consciência – devem ser transferidos a um serviço de referência de transplante hepático, pois, caso preencham os critérios estabelecidos para indicação de transplante, são incluídos em lista como prioridade.
+
+{+Importante+}
+{+São sinais de lesão hepática grave: altos níveis de bilirrubinas, alargamento do coagulograma e alteração de estado mental.+}
+
+Tabela 2 - Critérios de indicação de transplante na insuficiência hepática aguda – critérios do King’s College Hospital
+- Indivíduos que ingeriram acetaminofeno:
+· pH do sangue arterial <7,3 (independente do grau de encefalopatia);
+@@ -56,16 +100,23 @@ Tabela 2 - Crit
+· Duração da icterícia >7 dias antes do início da encefalopatia;
+· TPT >50s, INR >3,5;
+· Concentração sérica de bilirrubina >17,5mg/dL.
+
+Tabela 3 - Critérios de Clichy
+- Se há encefalopatia, independente do grau, está indicado transplante se fator V:
+[-   -]· Inferior a 30% em >30 anos;[-   -]
+· Inferior a 20% em <30 anos.
+
+F - Prevenção
+A prevenção da hepatite A é feita, essencialmente, por medidas básicas de higiene e, principalmente, ao evitar ingestão de água não tratada e alimentos potencialmente contaminados.
+Os indivíduos devem separar seus utensílios em domicílio e aumentar os cuidados de higiene em sanitários, em virtude da eliminação fecal do vírus. Pacientes internados devem ser mantidos em isolamento de contato para evitar a disseminação inter-humana do vírus entre os demais internos.
+
+{+Dica+}
+{+A hepatite A é frequentemente associada a baixa condição sanitária, e as principais medidas para evitar a transmissão são de saneamento básico eficaz.+}
+
+A hepatite A é uma doença imunoprevenível. A vacina disponível de vírus inativado deve ser administrada a crianças com idade superior a 12 meses, em 2 doses, com intervalo de 6 meses. É indicada, ainda, para adultos em situação de risco, como profissionais de saúde, profissionais que lidam com lixo e águas contaminadas, viajantes a áreas endêmicas e homens que fazem sexo com homens.
+A vacina ainda não está disponível no calendário básico do Programa Nacional de Imunizações. Na rede pública, é distribu[---]ída nos Centros de Referência para Imunobiológicos Especiais (CRIEs), para algumas indicações específicas. Para as demais indicações, o paciente deve ser orientado a procurar um serviço privado.
+
+Tabela 4 - Indicações de vacina de hepatite A nos C[-RIE-]{+entro+}s {+de Referência+} {+para+} {+Imunobiológicos Especiais+}
+- Portadores de hepatopatias crônicas (qualquer etiologia);
+- Coagulopatias e hemoglobinopatias;
+- Crianças menores de 13 anos com HIV/AIDS;
+@@ -73,106 +124,160 @@ Tabela 4 - Indica
+- Trissomias;
+- Imunodepressão terapêutica ou por doença imunodepressora;
+- Candidatos a transplante e transplantados de órgão sólido ou medula óssea; doadores (cadastrados em programas de transplantes).
+
+{+Pergunta+}
+{+2012 - UNICAMP+}
+{+1. Uma mulher, de 23 anos, trabalha como técnica de laboratório de microbiologia e parasitologia. Procura atendimento queixando-se de fraqueza, febre e náuseas há 10 dias. Refere estar mais amarelada, com escurecimento da urina há 2 dias. Carteira de vacinação adequada para a atividade profissional. Exame físico: FC = 112bpm, PA = 96x62mmHg, FR = 32irpm, ictérica (4+/4+); abdome distendido, fígado palpável a 3cm do rebordo costal direito, doloroso, com superfície lisa, baço não percutível e não palpável; flapping presente. Exames laboratoriais: bilirrubina total = 32mg/dL, bilirrubina direta = 28mg/dL, AST = 1.832UI/L, ALT = 2.242UI/L. A hipótese diagnóstica é:+}
+{+a) hepatite A+}
+{+b) hepatite B+}
+{+c) hepatite C+}
+{+d) colangite esclerosante+}
+{+Resposta no final do capítulo+}
+
+3. Hepatite B
+
+O [-V-]{+v+}írus da [-H-]{+h+}epatite B ([-V-]HB{+V+}) pertence à família hepadnavírus e possui morfologia esférica, envolta por um envelope lipo[---]proteico, que, por sua vez, envolve um nucleocapsídeo icosaédrico dentro do qual está o material genético composto por DNA.
+Na corrente sanguínea do indivíduo infectado, é encontrado tanto na forma de partículas virais íntegras infectantes quan[---]to na forma de partículas não infectantes esféricas ou tubulares compostas por proteínas de superfície de seu envelope, desprovidas de material genético. A presença destas últimas tem importância diagnóstica.
+
+A - Patogênese
+A aquisição do [-V-]HB{+V+} ocorre por via parenteral, contato com sangue e outros fluidos de indivíduos infectados, de maneira horizontal ou vertical. Uma vez na corrente sanguínea, as partículas infectantes ganham os hepatócitos, onde integram seu DNA ao genoma celular, e iniciam sua replicação intracelular, que libera novas partículas infectantes no microambiente hepá[---]tico e na corrente sanguínea, além de partículas não infectantes antigênicas, de papel crucial no desenvolvimento da resposta imune do hospedeiro.
+
+{+Importante+}
+{+A infecção pelo HBV se dá pelo contato com sangue ou fluidos corpóreos de portadores da doença, podendo ocorrer de forma horizontal ou vertical.+}
+
+A lesão hepática na hepatite B aguda é bastante semelhante à descrita para a hepatite A. A necrose hepatocelular ocorre tanto pela presença e replicação quanto por mecanismos imunomediados de citotoxicidade desencadeada pelas células do infiltrado linfomonocitário presente no fígado. Portanto, quanto maiores a amplitude e a especificidade da resposta imune arquitetada pelo hospedeiro, maior a magnitude das manifestações clínicas na fase aguda. Esses indivíduos apresentam, por conseguinte, maior probabilidade de clareamento viral e cura ao fim da fase aguda. Os incapazes de gerar resposta imune efetiva no decorrer da fase aguda apresentam formas oligo ou assintomáticas, porém, com maior frequência, evoluem para a cronificação da infecção.
+No fígado infectado, o antígeno do capsídeo viral (core) – HBcAg – está presente nos hepatócitos e pode, inclusive, ser vi[---]sualizado por técnicas de imuno-histoquímica. Esse antígeno não é liberado na corrente sanguínea, no entanto estimula a produção de anticorpos específicos – anti-HBc IgM e IgG – que podem ser detectados no soro do indivíduo.
+O antígeno detectável em sangue periférico, que reflete a presença do [-V-]HB{+V+}, é o antígeno de superfície presente no enve[---]lope – HBsAg. Sua detecção indica presença do vírus. Está sempre presente na fase aguda e permanece positivo nos indiví[---]duos que não debelam a infecção e se tornam crônicos. Há um 2º antígeno que pode estar presente no sangue periférico: o HBeAg, uma proteína não estrutural que reflete replicação viral. Está presente na fase aguda até o encerramento da replica[---]ção e, na fase crônica, quando há infecção ativa replicante.
+As imunoglobulinas de classe IgM direcionadas contra antígenos do core viral (anti-HBc IgM) são as de produção mais pre[---]coce, portanto são marcadores de infecção aguda, podendo, eventualmente, surgir em reagudizações durante a fase crônica. A seguir, inicia-se a produção de anti-HBc IgG, que permanece positivo durante toda a vida do indivíduo, como um marcador de contato pregresso com o vírus. 
+A interrupção da replicação viral ao final da fase aguda ou durante a fase crônica é marcada pela produção do anticorpo anti-HBe.
+Com o encerramento da replicação, caso o indivíduo consiga obter uma resposta imune eficaz contra o [-V-]HB{+V+}, ocorre o cla[---]reamento viral, com o desaparecimento do antígeno de superfície HBsAg e surgimento de anticorpos anti-HBs, considerados, em última análise, marcadores de cura da infecção. Sua persistência confere imunidade protetora a novas infecções por [-V-]HB{+V+}. É, também, o anticorpo produzido mediante a vacinação anti-[-V-]HB{+V+} e, portanto, responsável pela imunização ativa artificial do indivíduo.
+
+{+ +}
+{+Figura 4 - Fisiopatologia da hepatite B: o que determina a capacidade de exterminar o vírus é a resposta celular, mediada por CD4 e CD8. Como o recém-nascido e a criança nos primeiros anos de vida têm pouca resposta celular específica, a doença tem maior chance de cronificar quando adquirida nessas idades. Em compensação, 95% dos adultos que se infectam evoluem para cura +}
+{+Fonte: New England Journal of Medicine, 2004. +}
+
+Tabela 5 - Hepatite B aguda: significado dos marcadores sorológicos
+Marcadores	Significados
+HBsAg	É o 1º marcador a aparecer no curso da infecção pelo [-V-]HB{+V+}. Pode, eventualmente, aparecer antes do quadro de icterícia na doença. Na hepatite aguda, cai para níveis indetectáveis em até 24 semanas.
+Anti-HBc IgM	É um marcador de infecção recente, encontrado no soro até 32 semanas após a infecção.
+Anti-HBc IgG	É um marcador de longa duração, presente nas infecções agudas e crônicas. Representa contato prévio com o vírus.
+HBeAg	É um marcador de replicação viral. Sua positividade indica alta infecciosidade.
+Anti-HBe	Surge após o desaparecimento do HBeAg e indica o fim da fase replicativa.
+Anti-HBs	É o único anticorpo que confere imunidade ao [-V-]HB{+V+}. Está presente no soro após o desaparecimento do HBsAg, sendo indicador de cura e imunidade. Está presente isoladamente em pessoas vacinadas.
+
+[-Tabela 6 - He-]{+Im+}p[-atite B c-]{+o+}r[-ônic-]{+t+}a[-: sig-]n[-ificado d-]{+te+}
+{+Sã+}o[-s-] marcadores sorológicos[-Marca-]{+ +}d[-or-]e[-s	S-]{+ hepat+}i[-g-]{+te B crô+}ni[-fi-]ca[-dos-]{+: +}HBsAg[-	S-]{+ (s+}ua presença por mais de 24 semanas indica hepatite crônica[-.-]{+), +}HBeAg[-	N-]{+ (n+}a infecção crônica, está presente enquanto ocorre replicação viral[-.-]
+[-A-]{+) e a+}nti-HBe[-	S-]{+ (s+}ua presença sugere redução ou ausência de replicação viral, exceto nas cepas com mutação pré-core [-(-]{+– +}não produtoras da proteína “e”).
+
+ 
+Figura [-2-]{+5+} - Curso sorológico da hepatite B aguda
+
+
+ 
+Figura [-3-]{+6+} - Curso sorológico típico da infecção crônica pelo [-VH-]{+vírus da hepatite +}B
+
+B - Epidemiologia
+Estima-se que mais de 2 bilhões de pessoas no mundo estejam infectadas pelo [-V-]HB{+V+} e que cerca de 360 milhões sofram de infecção crônica por esse agente. A endemicidade da infecção é considerada alta nas partes do mundo onde, pelo menos, 8% da população são HBsAg positivo. Nessas áreas, 70 a 90% da população geralmente apresentam evidências sorológicas de infecção prévia pelo [-V-]HB{+V+}. 
+
+ 
+Figura [-4-]{+7+} - A prevalência e a distribuição da hepatite B estão largamente arraigadas a fatores específicos ligados a algumas ra[---]ças/populações. Desta forma, encontra-se uma prevalência mais aumentada em asiáticos (e seus descendentes, como Groelândia e extremo norte da América) e em algumas populações indígenas e seus descendentes (faixa da América do Sul e África)
+
+A transmissão do [-V-]HB{+V+} ocorre por via parenteral e, sobretudo, pela via sexual, sendo considerada uma doença sexualmen[---]te transmissível. A transmissão vertical (materno-infantil) também é causa frequente de disseminação do vírus. O período de transmissibilidade inicia-se de 2 a 3 semanas antes dos primeiros sintomas e dura enquanto está presente o HBsAg, ou seja, é permanente nos portadores crônicos. 
+A suscetibilidade à infecção pelo [-V-]HB{+V+} é universal, exceto para os previamente imunizados (infecção pregressa ou vacina[---]ção). São considerados em maior risco de aquisição de [-V-]HB{+V+} os indivíduos sexualmente ativos adeptos de práticas desprotegi[---]das, profissionais de saúde, recém-nascidos de mães HBsAg positivo e contatos sexuais e domiciliares não imunizados de por[---]tadores crônicos de [-V-]HB{+V+}.
+De maneira semelhante às outras hepatites, as infecções causadas pelo [-V-]HB{+V+} são habitualmente anictéricas. Apenas 30% dos indivíduos apresentam a forma ictérica da doença, reconhecida clinicamente. Cerca de 5 a 10% dos indivíduos adultos infectados cronificam. Caso a infecção se dê por transmissão vertical, o risco de cronificação dos recém-nascidos de gestantes com evidências de replicação viral (HBeAg reagente e/ou [-V-]HB[- -]{+V-+}DNA >104) é de cerca de 70 a 90% e entre 10 e 40% nos casos sem evidências de replicação do vírus. Cerca de 70 a 90% das infecções ocorridas em menores de 5 anos cronificam, e 20 a 25% dos casos crônicos com evidências de replicação viral evoluem para doença hepática avançada (cirrose e hepatocarci[---]noma).
+A mortalidade varia de acordo com a endemicidade da região, visto que se relaciona com as complicações da hepatite crônica e a incidência de hepatocarcinoma.
+[-No Brasil, os estudos realizados a partir da década de 1990 indicam mudanças na endemicidade da infecção pelo vírus B. Isso se deve, provavelmente, à instituição da vacinação universal contra hepatite B para menores de 1 ano, em 1998, e a posterior ampliação desta para menores de 20 anos, a partir de 2001. Essa tendência vem sendo confirmada, mais recente-mente, pelo estudo de base populacional das infecções por vírus das hepatites A, B e C nas capitais do Brasil. Os resultados sugerem baixa endemicidade (menor que 1%) da infecção pelo VHB no conjunto das capitais de cada macrorregião e do Dis-trito Federal. A soroprevalência do marcador de exposição ao VHB (anti-HBc total), referente ao conjunto das capitais do Brasil, foi de 7,4%. O percentual de expostos ao VHB na faixa etária de 10 a 19 anos foi de 1,1% e de 11,6% para o grupo de 20 a 69 anos. Para todas as regiões, verificou-se um aumento da positividade do anti-HBc total com a idade. Em relação ao sexo, os homens apresentaram maior probabilidade de exposição ao VHB em todas as regiões e no Distrito Federal, exceto na região Norte. À exceção do Sudeste, nas demais regiões observou-se uma maior oportunidade de exposição ao VHB para indivíduos com piores condições socioeconômicas. A transmissão sexual foi relevante nas regiões Norte, Nordeste, Centro-Oeste e Sul, sendo que, nesta última, a transmissão sanguínea também se destacou. Para o marcador HBsAg, a prevalência global foi de 0,37, de 0,055% na faixa etária de 10 a 19 anos e de 0,6% para os grupos de 20 a 69 anos.-]
+C - Formas clínicas
+
+{+Importante+}
+{+A hepatite B apresenta-se sob a forma aguda ou crônica. Na fase aguda, os sintomas são febre, anorexia, náuseas, vômitos, diarreia, mialgia e mal-estar, e a fase crônica geralmente se apresenta assintomática, pois as manifestações clínicas surgem na fase avançada da doença e decorrem da cirrose hepática ou hepatocarcinoma.+}
+
+A forma aguda da hepatite B é bastante semelhante à descrita para a hepatite A. Em geral, os sintomas prodrômicos não são tão expressivos, e o quadro se resolve em torno de 20 a 30 dias após seu início. A negativação do HBsAg deve ocorrer em até 6 meses após o diagnóstico da infecção aguda; caso contrário, o indivíduo se torna um portador crônico do [-V-]HB{+V+}.
+A hepatite B crônica ocorre em 5 a 10% dos indivíduos que adquirem a infecção na idade adulta e é definida pela persis[---]tência do HBsAg por mais de 6 meses após a aquisição do vírus, associada à evidência de replicação viral – HBeAg positivo e/ou [-V-]HB{+V+}-DNA positivo (por técnicas de biologia molecular, como a PCR – Polymerase Chain Reaction) – e a sinais de atividade inflamatória hepática (elevação de transaminases e/ou atividade necroinflamatória demonstrada por biópsia hepática).
+A forma crônica é assintomática na maioria dos casos, e as manifestações clínicas surgem apenas em fases avançadas da doença como consequência da cirrose hepática, que se desenvolve em 20 a 25% dos doentes. Nesse momento, podem ocor[---]rer ascite, varizes esofágicas, fenômenos hemorrágicos e encefalopatia, consequentes da disfunção hepática progressiva.
+Um indivíduo pode permanecer cronicamente infectado pelo [-V-]HB{+V+}, porém sem replicação viral ou atividade inflamatória hepática. Nesse caso, o HBeAg desaparece, e, em seu lugar, surge o anti-HBe, marcador de fim da replicação. O [-V-]HB{+V+}-DNA não é detectável em sangue periférico. As transaminases são normais, demonstrando ausência de inflamação hepática. Esse indi[---]víduo é classificado como portador crônico inativo.
+Existirá uma maior chance de se tornar portador crônico se ocorrer a infecção pelo vírus B por meio de transmissão verti[---]cal. Enquanto apenas 5% dos indivíduos que adquirem o HBV durante a fase aguda (geralmente por relação sexual) se tornam crônicos, caso um recém-nascido tenha transmissão de sua mãe, o risco de cronicidade sobe assustadoramente para 90%. 
+
+{+Dica+}
+{+De 90 a 95% das infecções por hepatite B evoluem para cura, sendo maior a chance de cronificação se for adquirida por transmissão vertical ou ainda nos primeiros anos de vida.+}
+
+O portador crônico recém-nascido que cresce e se desenvolve em conjunto com o [-V-]HB{+V+} tem um risco maior de hepato[---]carcinoma (independente de apresentar cirrose previamente). Neste caso, divide-se a doença em fases (do portador crôni[---]co):
+
+Tabela [-7-]{+6+} - Doença em fases
+Fase de imunotolerância (pode durar de 15 a 35 anos)
+Trata-se de período com altos valores de carga viral de HBV no sangue, sem, no entanto, haver “despertar” imunológico. O HBV se integra com o genoma hepatocelular, facilitando erros de metabolismo do DNA e, consequentemente, hepatocarcinoma. Nesta fase, as transaminases estão normais (afinal, não há reconhecimento pelo sistema imunológico do vírus como agressor), e exis[---]tem altos valores de carga viral, HBsAg e HBeAg.
+Fase de imunoclearance (imunoeliminação que dura até 15 anos)
+Nesta fase, ocorre reconhecimento pelo sistema celular imunológico do HBV, com inflamação hepática na tentativa de eliminá-lo. Enquanto se apresentarem nesta fase, 15% dos pacientes, por ano, conseguem imunoeliminação e soroconversão para anti-HBe. As transaminases estão aumentadas, mas há diminuição da carga viral de hepatite B em relação à fase anterior, e pode haver agressão, até mesmo, fulminante.
+Fase não replicativa (após 40 anos de evolução)
+Nesta fase, a carga viral de [-V-]HB{+V+} é negativa e todos os pacientes se soroconvertem para anti-HBe. Quanto mais tempo o paciente com hepatite crônica demora a chegar até esta fase, maior o risco de cirrose e hepatocarcinoma.
+
+Um portador crônico inativo pode voltar a apresentar hepatite crônica. Para isso, o vírus desenvolve uma mutação que lhe capacita replicar-se, mesmo na presença de anti-HBe – denominada mutação pré-core, por localizar-se na região que antece[---]de a região codificadora do antígeno do core no genoma viral. O anti-HBe persiste positivo, porém o [-V-]HB{+V+}-DNA volta a ser de[---]tectável e, a seguir, elevam-se novamente as transaminases. 
+A retomada da replicação pode resultar em uma agudização da hepatite crônica, com icterícia e outros sinais semelhantes aos presentes na fase aguda, e até mesmo ascite e encefalopatia, dependendo do grau de lesão hepática preexistente. Esse período de agudização é chamado de flare.
+A hepatite fulminante ocorre em cerca de 1% das infecções agudas, o que representa até 12% das etiologias de insufici[---]ência hepática aguda. Em geral, ocorre em até 8 semanas após o início dos sintomas. Os critérios diagnósticos são os mesmos relatados para a hepatite A.
+
+D - Diagnóstico
+
+{+Diagnóstico+}
+{+O diagnóstico de hepatite B é feito com base na sorologia específica para a detecção de antígenos e anticorpos do HBV. +}
+
+As alterações laboratoriais inespecíficas presentes na hepatite B aguda são indistinguíveis das descritas para a hepatite A. 
+Na fase crônica, ocorrem oscilação de transaminases e alteração progressiva de coagulograma e albumina, à medida que evolui a disfunção hepática após o estabelecimento da cirrose. Pacientes cirróticos com esplenomegalia podem apresentar plaquetopenia e até pancitopenia, por hiperesplenismo.
+O diagnóstico específico de hepatite B baseia-se na detecção sérica dos antígenos e anticorpos relacionados ao [-V-]HB{+V+}, con[---]forme já descrito. A Tabela [-8-]{+7+} traz as possíveis combinações de marcadores e seu significado diagnóstico.
+
+Tabela [-8-]{+7+} - Marcadores de infecção p{+el+}o{+ ví+}r{+us da hepatite+} [-VH-]B
+Perfis	HBsAg	Anti-HBc IgM	Anti-HBc IgG	HBeAg	Anti-HBe	Anti-HBs
+Hepatite B aguda	+	+	+/-	+	-	-
+Cura	-	-	+	-	+/-	+
+Hepatite B crônica	+	-	+	+	-	-
+Portador inativo	+	-	+	-	+	-
+Vacinação	-	-	-	-	-	+
+
+E - Tratamento 
+
+{+Tratamento+}
+{+Para a hepatite B aguda, não há tratamento medicamentoso específico, apenas sintomáticos e suporte clínico. Na fase crônica, faz-se um tratamento com moduladores imunológicos (alfainterferona) e antivirais análogos de nucleosídeo ou nucleotídeo (lamivudina, adefovir, telbivudina, entecavir e tenofovir), a fim de evitar a progressão da doença hepática para cirrose ou hepatocarcinoma.+}
+
+Assim como na hepatite A, na hepatite B aguda é recomendado apenas suporte clínico e sintomático. A introdução de an[---]tivirais nessa fase é indicada apenas na hepatite fulminante, situação em que o paciente deve ser transferido para um serviço de referência em transplante hepático e pode ser considerada a terapia antiviral com lamivudina ou tenofovir. A indicação de transplante prioritário obedece aos mesmos critérios descritos para a hepatite A (King’s College ou Clichy).
+Na hepatite B crônica, o principal objetivo do tratamento é reduzir o risco de progressão da doença hepática e de seus desfechos primários, especificamente cirrose, hepatocarcinoma e, consequentemente, óbito. Sua indicação depende da intensidade da replicação viral – refletida pela detecção quantitativa do [-V-]HB{+V+}-DNA – e da atividade necroinflamatória eviden[---]ciada pela elevação de transaminases e/ou biópsia hepática. 
+O resultado ideal desejado após a terapia é a perda sustentada do HBsAg, com ou sem soroconversão para anti-HBs. Isso está associado à completa remissão da atividade da hepatite crônica. Tal resultado dificilmente é obtido, e outros desfechos devem ser perseguidos em pacientes com HBeAg reagente e não reagente. Nos pacientes com HBeAg reagente, a sorocon[---]versão para anti-HBe é um desfecho satisfatório, por estar associado a um melhor prognóstico. Nos HBeAg reagente que não obtêm soroconversão e naqueles com HBeAg não reagente, a manutenção da supressão do [-V-]HB{+V+}-DNA é a desejável.
+A dosagem de transaminases (ALT e AST) deve ser realizada para orientação do seguimento e para decisão terapêutica: quando a ALT e/ou a AST estiverem normais, estará indicad[-o-]{+a+} a sua monitorização a cada 3 meses. Por outro lado, quando alteradas, indicam a necessidade de iniciar o tratamento. Em pacientes que apresentem o HBeAg reagente, a carga viral ([-V-]HB{+V+}-DNA) não é critério de definição para início de tratamento, pois há alta probabilidade de o resultado do exame ser superior a 105 cópias/mL ou >2.000UI/mL, sendo desnecessário, portanto, realizá-lo nesse momento. Em pacientes com HBeAg rea[---]gente não cirróticos, a biópsia é facultativa, devendo, entretanto, ser recomendada a pacientes maiores de 40 anos, princi[---]palmente do sexo masculino, independente das aminotransferases.
+As drogas disponíveis em nosso meio para o tratamento da hepatite B crônica são moduladores imunológicos – alfainter[---]ferona – e antivirais análogos de nucleosídeo ou nucleotídeo – lamivudina, adefovir, telbivudina, entecavir e tenofovir. A escolha das drogas obedece a critérios específicos e deve ser feita para cada paciente.
+
+Tabela [-9-]{+8+} - Critérios de indicação de terapia em indivíduos nunca tratados, com HBeAg reagente, não cirróticos
+- Pacientes que apresentem transaminases alteradas, independentemente de outros critérios;
+- Pacientes com biópsias que apresentem atividade inflamatória e fibrose =A2 e/ou =F2 (segundo a classificação de METAVIR), independentemente das transaminases.
+
+ [- -]
+Figura [-5-]{+8+} - Indivíduos nunca tratados, com HBeAg reagente, não cirróticos 
+Fonte: Ministério da Saúde.
+
+Tabela [-10-]{+9+} - Critérios de indicação de terapia em indivíduos nunca tratados, com HBeAg não reagente, não cirróticos
+Transaminases normais
+[-V-]HB{+V+}-DNA =104 cópias/mL ou =2.000UI/mL, independentemente da biópsia hepática
+Transaminases alteradas
+[-V-]HB{+V+}-DNA =103 ou =200UI/mL e <104 cópias/mL ou <2.000UI/mL e biópsia demonstrando atividade inflamatória e/ou fibrose =A2 e/ou =F2; ou [-V-]HB{+V+}-DNA =104 cópias/mL, independentemente da biópsia hepática
+
+ 
+Figura [-6-]{+9+} - Indivíduos nunca tratados, com HBeAg não reagente, não cirróticos
+
+Tabela 1[-1-]{+0+} - Algumas vantagens do uso de interferona versus inibidores da transcriptase reversa análogos de nucleosídeos (lamivudina, tenofovir, adefovir e entecavir)
+Interferona	Inibidores análogos nucleosídeos
+Tempo de tratamento pré-definido (6 meses em mé[---]dia)	Uso pelo resto da vida, na maioria das vezes
+Não cirróticos	Possível uso em cirróticos
+Pacientes abaixo de 40 anos com melhor resposta	Qualquer idade
+
+Entre os inibidores da transcriptase reversa análogos de nucleosídeos, a lamivudina continua sendo até hoje a droga que mais rapidamente produz queda de carga viral de [-V-]HB{+V+} (isso tem importância, por exemplo, em uma gestante [-V-]HB{+V+}, com repli[---]cação viral alta, para diminuir o risco de transmissão intraútero). Entretanto, a chance de resistência viral à lamivudina é alta, chegando a 80% após 2 anos de uso da medicação. Por esse motivo, dá-se preferência atualmente ao esquema de uso com tenofovir, pela melhor barreira genética, naqueles pacientes que tiverem indicação dessa classe de medicamentos para tra[---]tamento. O tenofovir, que também é utilizado no tratamento de pacientes HIV positivo, é muito relacionado ao risco de alte[---]rações da função renal e perda de cálcio ósseo. Por se tratar de uma droga com uso contínuo pelo resto da vida, a monitori[---]zação dessas alterações deve ocorrer. O entecavir fica reservado para casos de resistência a lamivudina ou necessidade de associações.
+
+{+Importante+}
+{+A lamivudina, apesar de ser a droga que reduz de forma mais rápida a carga viral do HBV, tem sido substituída por+} {+tenofovir por apresentar resistência viral a sua ação.+}
+
+Tabela 1[-2-]{+1+} - Critérios de indicação de terapia em indivíduos nunca tratados, cirróticos, com HBeAg reagente ou não reagente e não cirró[---]ticos 
+I	Pacientes com HBeAg reagente têm indicação de tratamento, independentemente das transaminases, [-V-]HB{+V+}-DNA ou classificação de Child-Pugh.
+II	Pacientes com cirrose Child-Pugh B e C têm indicação de tratamento, independentemente da condição do HBeAg, da carga viral e das transaminases.
+III	Pacientes com HBeAg não reagente, com cirrose Child-Pugh A, têm indicação de tratamento quando as transaminases estiverem alteradas e/ou [-V-]HB{+V+}-DNA =103 cópias/mL (200Ul/mL).
+
+ 
+Figura [-7-]{+10+} - Indivíduos nunca tratados, cirróticos, com HBeAg reagente ou não reagente
+
+Pacientes cirróticos devem receber, ainda, medidas para controle das manifestações da disfunção hepática, como: 
+Restrição de sódio;
+Diuréticos, para manejo da ascite; 
+@@ -181,7 +286,8 @@ Propranolol e escleroterapia endosc
+Monitorização para peritonite bacteriana espontânea e profilaxia antibiótica em casos selecionados;
+Monitorização com exames de imagem e alfafetoproteína para carcinoma hepatocelular.
+Os cirróticos devem, ainda, ser avaliados para possível inclusão em lista de transplante hepático. No Brasil, a inclusão em lista obedece a critérios mínimos, estabelecidos e publicados em Portaria nº 541 do Ministério da Saúde, de 14 de março de 2002.
+
+Tabela 1[-3-]{+2+} - Critérios de inclusão em lista de transplante hepático
+- Cirrose hepática Child-Pugh A, desde que tenham apresentado 1 das seguintes complicações:
+· Hemorragia digestiva alta, secundária à hipertensão portal, em 2 ou mais episódios que tenham requerido transfusão de sangue;
+· Síndrome hepatopulmonar com manifestações clínicas;
+@@ -189,124 +295,255 @@ Tabela 13 - Crit
+- Cirrose hepática Child-Pugh B ou C, independente de complicações;
+- Carcinoma hepatocelular restrito ao fígado, com nódulo único de até 5cm, ou com até 3 nódulos de 3cm cada. O estadiamento por mapeamento ósseo e tomografia de tórax é obrigatório;
+- Forte suspeita de doença maligna, sem massa tumoral identificada, com alfafetoproteína acima de 250ng/mL, ou acima de 100ng/mL, com aumento progressivo em 3 dosagens séricas consecutivas.
+
+A distribuição de fígado de doadores falecidos passou a seguir um critério de gravidade a partir de 30 de junho de 2006, segundo a Portaria nº 1.160 do Ministério da Saúde, publicada em 29 de maio do mesmo ano. O critério adotado é o MELD (Model for End-stage Liver Disease), que possibilita a avaliação prognóstica em 3 meses e utiliza, em seu cálculo, parâmetros laboratoriais (bilirrubina, creatinina e {+razão normatizada internacional – +}INR). Para {+a +}inclusão em lista, o MELD mínimo é 6.
+
+{+Tema frequente de prova+}
+{+O critério de gravidade seguido na distribuição de fígado de doadores falecidos é um tema frequente nas provas de Residência Médica.+}
+
+{+Tabela 13 - Classificação de Child-Pugh +}
+{+Indicadores	Pontos+}
+{+	1	2	3+}
+{+Albumina	>3,5g%	3 a 3,5g%	<3g%+}
+{+Bilirrubina 	<2mg%	2 a 3mg%	>3mg%+}
+{+Ascite	Ausente	Discreta	Tensa+}
+{+Grau de encefalopatia	Não	Leve	Grave+}
+{+Tempo de protrombina	>75%	50 a 74%	<50%+}
+{+Classe	Pontos+}
+{+A	5 a 6+}
+{+B	7 a 9+}
+{+C	10 a 15+}
+
+F - Prevenção
+A prevenção da transmissão de [-V-]HB{+V+} está ligada a medidas que evitam a exposição parenteral ao vírus, dentre as quais se destacam controle de bancos de sangue, esterilização de instrumental, redução de danos em usuários de drogas intraveno[---]sas, proteção individual de profissionais de saúde e proteção sexual por meio do uso de preservativos.
+A hepatite B é, também, imunoprevenível. Encontra-se disponível a vacina recombinante, que estimula a produção isolada de anti-HBs, capaz de produzir imunidade protetora e duradoura. Sua eficácia está acima de 95% após 3 doses.
+Tal vacina faz parte do calendário básico de vacinação brasileiro, com a 1ª dose feita ainda na maternidade e mais 2 doses com 1 e 6 meses de idade. Está disponível gratuitamente na rede pública até os 19 anos e em qualquer faixa etária para indi[---]cações específicas, como comunicantes domiciliares de portadores do [-V-]HB{+V+}; portadores de hepatite C e outras hepatopatias crônicas; portadores de neoplasias e transplantados de órgão sólido ou medula óssea; politransfundidos (hemofilia, hemoglo[---]binopatias) e usuários de hemodiálise; portadores de HIV (sintomáticos e assintomáticos); expostos a risco ocupacional e acidente com material biológico, entre outras. 
+Aqueles (especialmente profissionais de saúde e imunodeprimidos) que fizerem as 3 doses de vacina contra a hepatite B e não apresentarem soroconversão vacinal (indicada por anti-HBs acima de 10mIU/mL) deverão ser submetidos a revacina[---]ção. Caso eventualmente ainda não apresentem soroconversão vacinal e tiverem contato com o [-V-]HB{+V+} (por exemplo, por meio de acidente perfurocortante com paciente HBV replicante), deverão fazer imunoglobulina para evitar riscos de transmissão. A soroconversão ocorre em cerca de 95% das pessoas que realizam as doses da vacina.
+A transmissão da hepatite B de mãe para filho ocorre em cerca de 90% dos casos em que a gestante é HBsAg e HBeAg re[---]agente, e em 10% dos casos em que é apenas HBsAg reagente. Embora exista documentação de infecção intraútero, o mo[---]mento principal da contaminação da criança é o parto, vaginal ou cirúrgico. Assim, a imunização do recém-nascido de mãe positiva para HBsAg, precocemente após o parto, tem impacto na transmissão vertical e confere proteção em, praticamente, 100% dos casos quando administrada nas primeiras 12 a 24 horas de vida. A vacinação isolada nas primeiras 12 horas após o nascimento é altamente eficaz na prevenção da transmissão vertical do [-V-]HB{+V+}; é possível que a adição de imunoglobulina confi[---]ra uma pequena proteção adicional. 
+De acordo com o Manual dos Centros de Referência para Imunobiológicos Especiais (Ministério da Saúde – 2006), a imu[---]noglobulina humana anti-hepatite B (HBIg) deve ser feita preferencialmente nas primeiras 12 a 24 horas de vida para recém-nascidos de qualquer peso ou idade gestacional, filhos de mãe HBsAg reagente. A dose da imunoglobulina é 0,5mL intramus[---]cular (IM) no músculo vasto lateral, e a vacina (HB) deve ser feita, simultaneamente, na dose de 0,5mL, IM{+,+} no músculo vasto lateral do outro membro. O aleitamento materno não é contraindicado para filhos de mãe HBsAg reagente, se eles tiverem recebido imunoprofilaxia adequada.
+
+{+Pergunta+}
+{+2013 - PUC-RS+}
+{+2. Um homem, de 25 anos, usuário de drogas ilícitas, apresenta quadro clínico-laboratorial de hepatite B aguda com boa evolução. Segundo os traçados do Gráfico a seguir, que representam a cinética dos marcadores imunológicos sorológicos do HBV desde o momento do contágio, qual alternativa melhor representa o traçado da replicação viral na fase aguda e a autoimunidade adquirida, respectivamente?+}
+{+ +}
+{+a) A e B+}
+{+b) A e E+}
+{+c) B e D+}
+{+d) B e E+}
+{+e) C e D+}
+{+Resposta no final do capítulo+}
+
+4. Hepatite C
+
+A hepatite C é uma inflamação hepática, na maior parte das vezes crônica, de etiologia infecciosa viral e transmissão pa[---]renteral. 
+O [-V-]{+v+}írus da [-H-]{+h+}epatite C ([-V-]HC{+V+}) é um vírus RNA da família Flaviviridae, envelopado, com tropismo por hepatócitos. Seu geno[---]ma é constituído por uma fita única de RNA de, aproximadamente, 9.600 bases de nucleotídeos de comprimento.
+O [-V-]HC{+V+} apresenta intensa variabilidade genética, o que resultou em sua atual classificação em 6 genótipos distintos. Além disso, a população viral de um mesmo indivíduo infectado por um único genótipo é formada por grupos genotipicamente distintos, que constituem as quasiespécies. Tal característica é essencial para a cronificação da infecção, pois permite ao vírus evadir dos mecanismos imunológicos do hospedeiro.
+
+A - Patogênese
+
+{+Dica+}
+{+A transmissão do vírus da hepatite C se dá por via parenteral, por meio do contato com sangue de indivíduos infectados.+}
+
+A infecção pelo [-V-]HC{+V+} é de aquisição parenteral, e, por via hematogênica, o vírus alcança o fígado, onde inicia a replicação no hepatócito, desencadeando lesão celular/tecidual e inflamação hepática. 
+Apesar do efeito citopático direto do vírus e de sua interação com o sistema imunológico do hospedeiro, ambos determi[---]nantes de lesão hepatocelular, a magnitude de necrose de hepatócitos durante a infecção primária raramente determina um quadro clínico de hepatite aguda, como descrito para as hepatites A e B. Praticamente inexiste hepatite fulminante. Em geral, o diagnóstico é estabelecido na fase crônica.
+Vários mecanismos têm sido associados à persistência da infecção crônica pelo [-V-]HC{+V+}, relacionados à capacidade do vírus em inibir uma resposta imune eficaz do hospedeiro que seja capaz de induzir o clareamento viral ainda no decorrer da infec[---]ção aguda. 
+A imunidade humoral contra o [-V-]HC{+V+} é detectável no soro entre 7 e 31 semanas após a infecção. No entanto, os anticorpos produzidos são direcionados, principalmente, ao envelope do vírus, que apresenta alta variabilidade genética e antigênica. Isso implica incapacidade da imunidade humoral específica de desenvolver anticorpos neutralizantes contra todas as [-quasi-]es[---]pécies da população viral do indivíduo infectado. Em relação à imunidade celular, o [-V-]HC{+V+} caracteriza-se por uma baixa antige[---]nicidade. Essas características, em conjunto, possibilitam que o vírus “escape” ao sistema imune, favorecendo a cronificação da infecção.
+A lesão tecidual contínua gerada pela atividade inflamatória persistente na infecção crônica desencadeia mecanismos de reparação baseados em fibrose. A expansão da fibrose hepática, sobretudo nos espaços-porta, determina a morbidade da doença, em virtude da disfunção hepática progressiva e do estabelecimento de hipertensão portal.
+
+{+ +}
+{+Figura 11 - História natural da hepatite C, cuja evolução é acelerada conforme outras características associadas, como o uso de álcool, coinfecção com HIV ou vírus da hepatite C. Se não houver tais fatores, leva cerca de 30 anos para chegar ao estágio de cirrose ou hepatocarcinoma+}
+{+ +}
+B - Epidemiologia
+A hepatite C apresenta alta prevalência e grande morbidade associada, que a tornam problema de saúde pública mundial. A estimativa mais recente da Organização Mundial da Saúde (OMS) é de uma prevalência global de 3%, o que representa mais de 170 milhões de pessoas infectadas. Em países desenvolvidos, a prevalência é semelhante à global e, em países em desen[---]volvimento, pode chegar a 10%. 
+
+ 
+Figura [-8-]{+12+} - Prevalência d{+o vírus da hepatit+}e [-VH-]C pelo mundo: notar que, apesar de o Brasil ter prevalência entre 2,5 e 4,9% (controverso), existe um país de fronteira com valores bem acima de 10% (Bolívia). Apesar de a O{+rganização +}M{+undial da +}S{+aúde+} considerar intermediária a endemicidade no país, estima-se uma taxa nacional em torno de 1,38%, colocando o país com baixa endemicidade
+
+Para o anti-[-V-]HC{+V+}, o resultado global da prevalência, segundo o estudo de base populacional das infecções por vírus das he[---]patites A, B e C nas capitais do Brasil, foi de 1,38%. O percentual de expostos ao [-V-]HC{+V+} na faixa etária de 10 a 19 anos foi de 0,75 e de 1,56% para o grupo de 20 a 69 anos. Assim, constatou-se que a endemicidade da infecção pelo [-V-]HC{+V+} é baixa, dife[---]rentemente dos parâmetros da OMS, que considera o país como de intermediária endemicidade. Outras informações rele[---]vantes apontadas pelo inquérito dizem respeito à maior positividade para o anti-[-V-]HC{+V+} associada a situações de extrema pobre[---]za e ao aumento da idade. Demonstrou-se, ainda, que o uso de drogas injetáveis e inaladas e o uso de seringa de vidro em algum momento da vida foram associados à infecção pelo {+HC+}V{+.+}
+
+{+Dica+}
+{+A prevalência de +}HC{+V no Brasil gira em torno de 1,38% e tem grande tendência a cronificação+}.
+
+A infecção pelo [-V-]HC{+V+} tem grande tendência à cronificação, em razão de fatores relacionados ao vírus e ao hospedeiro. A maioria das infecções agudas é assintomática, e acima de 70% evoluem para cronicidade. Dentre os fatores de risco associa[---]dos à evolução crônica, destacam-se grande quantidade de partículas virais no inóculo da transmissão, genótipo viral 1, coin[---]fecção com [-V-]HB{+V+}, modo de transmissão transfusional ou vertical, extremos de idade e estado de saúde debilitado no momento da aquisição do vírus. A tendência à cronificação é um fato oposto ao que ocorre com o [-V-]HB{+V+} isoladamente, em que se tem valores de até 95% de cura da infecção. 
+A transmissão do [-V-]HC{+V+} é parenteral, sobretudo pelo contato com sangue contaminado. Como se trata de um vírus de des[---]crição recente (final da década de 1980), com métodos diagnósticos disponíveis apenas a partir do início dos anos 1990, hou[---]ve grande disseminação por hemotransfusões, hemodiálise, uso de instrumental não esterilizado, compartilhamento de agu[---]lhas e seringas em serviços de saúde e campanhas de vacinação em massa. Atualmente, no Brasil, com o controle adequado nessas situações, a transmissão tem se limitado a usuários de drogas intravenosas e exposição percutânea (consultórios odon[---]tológicos, podólogos, manicures etc. que não obedecem às normas de biossegurança). É importante ressaltar que, em per[---]centual significativo de casos (cerca de 50%), não é possível identificar a via de infecção.
+Os acidentes com material biológico em profissionais de saúde são fontes potenciais de transmissão, porém a incidência de transmissão por essa via tem pouca importância epidemiológica. A transmissão sexual é pouco frequente, com menos de 3% em parceiros estáveis. Ocorre, em especial, entre pessoas com múltiplos parceiros e prática sexual de risco (sem uso de preservativo), e a coexistência de alguma doença sexualmente transmissível, inclusive o HIV, facilita essa transmissão.
+A transmissão vertical é rara em comparação à hepatite B. Entretanto, já se demonstrou que gestantes com carga viral de [-V-]HC{+V+} elevada ou coinfectadas pelo HIV apresentam maior risco de transmissão da doença para os recém-nascidos. A transmis[---]são acontece em 2 a 4% das mães negativas para HIV e pode chegar a 17% nas coinfectadas. 
+Dos pacientes cronicamente infectados, cerca de 20% evoluem para cirrose hepática, em média após 20 a 30 anos de in[---]fecção. Esta velocidade de evolução para cirrose aumenta bastante em coinfectados com HIV ou hepatite B. Dos que evoluem para cirrose, 1 a 4% ao ano recebem diagnóstico de carcinoma hepatocelular. Há relatos esporádicos de carcinoma hepatoce[---]lular em indivíduos infectados pelo [-V-]HC{+V+} não cirróticos.
+
+C - Diagnóstico
+
+{+Diagnóstico+}
+{+O diagnóstico de hepatite C é feito geralmente na fase crônica da doença, por meio do achado de RNA viral por PCR, uma vez que a positividade das sorologias não determina se a infecção é pregressa que evoluiu para cura ou se é infecção crônica.+}
+
+O diagnóstico de hepatite C geralmente é obtido na fase crônica, acidentalmente{+,+} em candidatos à doação de sangue ou indivíduos em que se detecta elevação de transaminases em exames de rotina ou de investigação de outras patologias. Em casos mais raros, o diagnóstico é estabelecido durante investigação etiológica de ascite de surgimento recente.
+A sorologia identifica apenas os anticorpos totais contra o vírus e não distingue IgM de IgG. Assim, não é possível discernir entre infecção crônica e contato pregresso com cura (que representa uma minoria dos casos). Portanto, todos os indivíduos com sorologia positiva para [-V-]HC{+V+} devem ser submetidos à pesquisa de RNA viral em sangue periférico por técnicas de biologia molecular (habitualmente, PCR), para confirmação da infecção crônica.
+Existem 2 tipos de PCR para [-V-]HC{+V+} disponíveis:
+
+Tabela 14 - Tipos de PCR para [-VHC-]
+[-PCR qualitativa	Faz apenas detecção do -]vírus[-.-] [-Serve-]{+da+} {+he+}pa[-ra conf-]{+t+}i[-rmar s-]{+t+}e [-a-]{+C+}
+{+PCR+} [-sorologi-]{+qu+}a[- pos-]{+l+}it[-iva (-]a[-n-]ti{+vo	+}-[-VHC)-] [-repres-]{+D+}e[-n-]t[-ava pr-]e[-sen-]{+c+}ç[-a-]{+ão+} viral [-ou -]apenas[- resposta prévia à cura. Deverá ser solicitada-]{+,+} sem[-pre-] qu[-e houver -]anti[--VHC positivo para con-]fi[-rm-]{+c+}ação[-.-]{+;+}
+{+-+} [-S-]{+M+}e[-u-]{+nor+} limite de detecção{+;+}
+{+-+} [-tem maior sensibilidade que a PCR quantitativa (50 cópias, no mínimo). Atualmente tem sido abandonada em detrimento à quantitativa, pois o limite de detecção mínimo desta é o mesmo. -]
+[-PCR quantitativa	Serve para quantificar quanto de vírus está presente no paciente. Esse dado é importante para se ter noção da evo-lução do vírus d-]{+Nã+}o [-paci-]e[-n-]{+xis+}te[-.-] [-Entret-]{+m+}a[-nto,-]{+is+} {+n+}a [-p-]r[-incipal-]{+ede+} [-uti-]{+púb+}li[-zação d-]{+c+}a[- -]{+.+}
+PCR quantitativ[-a é-]{+o	-+} {+Qu+}a[-val-]{+ntif+}i[-ar -]c[-om-]{+açã+}o [-o-]{+de 20+} [-pa-]c{+óp+}i[-en-]{+as a+}t[-e-]{+é+} [-r-]{+10 milhõ+}es[-ponde-]{+;+}
+-[-rá-] {+Ex+}a[-o-]{+me+} [-tr-]at{+u+}a{+l+}ment[-o-]{+e+} [-(q-]u[-an-]t[-o ma-]i[-or -]{+liz+}a{+do+} [-c-]{+p+}ar[-g-]a [-v-]{+conf+}ir[-al, -]m[-elho-]{+a+}r [-a-]{+HCV+} [-r-]e[-s-]{+m +}p[-ost-]a[-) e dete-]c[-tar se há qu-]{+i+}e[-da d-]{+nt+}e[- víru-]s [-n-]{+c+}o{+m+} [-s-]an[-gue-]{+ti-HCV+} [-quand-]{+p+}o[- -]s[-e -]i[-n-]{+t+}i[-c-]{+vo;+}
+{+- Aval+}ia[-m-]{+ção+} {+d+}a[-s-] [-d-]r[-oga-]{+e+}s[- -]p{+ost+}a[-ra-]{+ de+} tratamento.
+
+Confirmada a infecção, deve ser [-r-]{+f+}e[-al-]i[-zad-]{+t+}a avaliação clínico-laboratorial do grau de hepatopatia crônica. Nos consensos mais recentes, a biópsia hepática tem sido recomendada para todos os portadores crônicos de [-V-]HC{+V+}, para determinação da magnitude da atividade necroinflamatória no tecido hepático, que tem importância prognóstica e na indicação de tratamento.
+Outro exame solicitado é a genotipagem de hepatite C. Esse vírus apresenta 6 genótipos diferentes (numerados de 1 a 6), que possuem importância porque determinam resposta de tratamento. No Brasil, o genótipo mais comum é o 1, cuja resposta ao tratamento é pior que o genótipo 2, por exemplo (por isso, genótipo 1 trata-se por mais tempo que genótipo 2). Os genó[---]tipos são subdivididos, ainda, em subtipos, indicados por letras (1a, 1b etc.). O genótipo mais prevalente mundialmente é o do tipo 1. 
+ 
+Figura [-9-]{+13 - Investigação laboratorial para hepatite C +}
+
+{+ +}
+{+Figura 14+} - Distribuição de genótipos de hepatite C pelo mundo. Note-se que, apesar de haver prevalência, as populações apresentam diferentes genótipos em cada região. Como o tratamento difere dependendo do genótipo, o exame de genotipagem de vírus C faz parte da rotina na condução da doença
+
+{+Dica+}
+{+Nos casos de hepatite C, deve ser solicitada a genotipagem do vírus, que se subdividem em 1, 2, 3, 4, 5 e 6, determinando o tratamento a ser feito.+}
+
+A biópsia estadia a lesão hepática, com base na intensidade da fibrose e do desarranjo arquitetural do fígado e, ainda, da atividade necroinflamatória portal/septal, periportal/perisseptal e parenquimatosa. São avaliados, também, marcadores etio[---]lógicos e presença de depósitos, como esteatose e depósito de ferro. A classificação histológica de hepatites crônicas mais utilizada, e adotada pelo Ministério da Saúde para diretrizes oficiais de tratamento, é a da Sociedade Brasileira de Patologia, que avalia os aspectos citados e lhes atribui escores que vão de zero a 4, sendo que o 4 representa o pior estágio evolutivo. Outras classificações utilizadas são METAVIR e ISHAAK.
+Caso não seja indicado tratamento, a biópsia deve ser repetida a cada 3 a 5 anos para seguimento da evolução da lesão hepática, ou sempre que houver alterações persistentes de transaminases. Mesmo que o paciente não tenha indicação de tratamento medicamentoso, deve passar em consulta a cada 3 meses, para realização de transaminases. Se houver aumento persistente de transaminases, a biópsia deve ser adiantada (antes de 3 anos). 
+Por que não tratar todo paciente independente da biópsia? A resposta é simples: os tratamentos existentes atualmente são repletos de efeitos colaterais, e ainda com respostas baixas. A liberação de novas drogas nos próximos 2 a 5 anos (já em fase III) deve mudar as indicações de tratamento e o perfil de resposta, com menos efeitos colaterais.
+
+D - Tratamento
+[-Os principais crité-]{+	+}
+{+T+}r[-ios histop-]at[-ológicos p-]a[-ra a i-]{+me+}n[-dicaçã-]{+t+}o
+[- de-]{+O+} tratamento da hepatite C [-crôn-]{+é fe+}i{+to +}c[-a-]{+om+} s[-ã-]o{+fosbuvir,+} {+dacl+}a[- in-]t{+asvir +}e[-n-]{+ +}si{+meprevir, to+}d[-a-]{+os +}de {+a+}d{+ministr+}a{+ção+} [-f-]{+v+}i[-b-]{+a o+}r{+al, nã+}o[-se-] {+hav+}e[- -]{+nd+}o [-gr-]{+m+}a[-u-]{+is+} [-d-]{+m+}e[- -]d{+icaçõ+}es[-arranjo-] [-arqu-]i[-t-]{+nj+}et{+áveis +}u[-ra-]{+ti+}l[- do fíg-]{+iz+}ad[-o.-]{+as+} [-O-]{+no+} tratamento [-está in-]d[-ic-]a{+ +}do[- s-]e{+nça.+} [-esse-]{+São+} {+usad+}as[-pecto-] [-r-]{+g+}e[-c-]{+ralm+}e[-b-]{+nt+}e po[-ntuação-]{+r+} [-=-]{+1+}2[-,-] [-d-]{+s+}e[- -]{+m+}a[-cordo-]{+nas+} [-co-]{+e, e+}m a{+lguns+} c[-l-]as{+o+}s[-ific-]{+, 24 sem+}a[-çã-]{+nas.+}
+
+{+O tratament+}o da [-Soci-]{+h+}e[-d-]{+p+}a[-d-]{+tit+}e {+C no +}Brasil[-eira-] [-d-]{+sofr+}e{+u+} [-Pat-]{+c+}o{+mp+}l[-ogi-]{+et+}a[-, o-] [-q-]{+m+}u[-e signific-]{+d+}a[- prese-]nça [-de-]{+a+} [-se-]p{+ar+}t[-os f-]i[-b-]r[-osos-] [-entr-]{+d+}e {+julh+}o[-s-] {+d+}e[-spaços-porta-]{+ 2015+}.[-N-]{+ C+}o{+m+} [-q-]{+a p+}u[-e-]{+blicação+} d[-iz-]{+o novo+} [-res-]p[-ei-]{+ro+}to{+colo+} [-à ativida-]de [-inflama-]t[-ó-]r[-i-]a[-, o -]{+t+}a[-sp-]{+m+}e[-c-]{+n+}to d[-e mai-]o[-r-] {+M+}i[-mportâ-]n[-c-]i[-a prognó-]st{+ér+}i[-c-]{+o d+}a {+Saúd+}e[-m-]{+,+} [-rel-]a[-ção à-]{+s+} [-p-]{+d+}rog[-ressão par-]a[- fi-bro-]s[-e é-] a{+té+} [-i-]{+e+}n[-flamaç-]{+t+}ão [-peripor-]{+u+}t[-a-]{+i+}l[-/per-]i{+zada+}s[-sept-]{+ for+}a[-l,-]{+m+} com[- -]p[-res-]{+l+}e[-nç-]{+t+}a[- d-]{+m+}e[- -]n[-ecros-]{+t+}e [-“-]{+r+}e[-m saca-boc-]{+tir+}ad[-o”-]{+as+} {+(int+}e[- ag-]r{+f+}e[-ssã-]{+r+}o[- à-]{+na+} p{+egui+}la[-c-]{+d+}a{+,+} [-lim-]{+r+}i[-t-]{+b+}a{+viri+}n{+a, +}te[- do -]l[-ó-]{+aprevir, +}b[-u-l-]o[- h-]{+c+}ep[-át-]{+rev+}i[-co-]{+r)+}. [-Quand-]{+Nã+}o [-esta-]{+há+} [-obté-]m[- gradu-]a[-ção =2, pode--]{+i+}s[-e-] [-c-]{+dr+}o[-n-]{+ga+}s{+ +}i[-d-]{+nj+}e[-r-]{+táveis p+}ar{+a+} tratamento{+.+} [-de p-]{+M+}a[-c-]i[-ente-]s [-que a-]{+im+}p{+o+}r[-ese-]{+ta+}nte[-m-]{+,+} [-fibr-]o[-se-] {+tr+}a[-ind-]{+t+}a[- e-]m[- -]e[-s-]{+n+}t[-adi-]o [-1.-]
+[-O tratamento disponível baseia-se na combinação de alfainterferona, um modulador imunológico, com ribavirina, um anti-viral. Devem ser administrados conjuntamente a pacientes que preencham critérios histopatológicos, por um período de 24 (genótipos 2 e 3) a 48 semanas (genótipo 1). Com a entrada de uma 3ª classe de medicamentos para tratamento, os inibidores de protease, o tratamento para o genótipo 1 foi completamente transformado, conforme discutido adiante. -]
+[-Existe uma apresentação de alfainterferona conjugada a uma molécula de polietilenoglicol, denominada interferona pe-guilada (Peg-IFN). Essa é a interferona utilizada atualmente no tratamento da hepatite C. A manipulação molecular determina modificações no perfil farmacocinético da droga, com possibilidade de que seja administrada somente 1 vez a cada semana, e melhor resposta terapêutica. A despeito de sua superioridade, essa droga está disponível na rede pública apenas para o ge-nótipo 1 e para coinfectados pelo HIV, por questões de custo.-]
+[-O objetivo do tratamento é a resposta virológica sustentada, isto é, VHC-RNA negativo ao final do tratamento e 24 semanas (6 meses) após sua suspensão. A carga viral deve ser quantificada na 4ª e na 12ª semanas de tratamento (respectivamente, resposta virológica rápida e Resposta Virológica Precoce – RVP), pois apresentam bons valores preditivos para a resposta sustentada.-]
+[- -]
+[-Figura 10 - Tratament-]{+c+}o{+m+} [-da hep-]a[-tite C-]{+s+} [-crô-]n[-ica a p-]o[-rt-]{+v+}a[-dore-]s d{+r+}o[- -]g[-enótipo 1 (que não sej-]a[-m F3 ou F4), genótipo-]s [-2, 3, 4 e 5 do VHC, aci-]m[-a de 18 an-]os[- -]
+[-A in-]t[-erfe-]ro[-na pode ind-]u[-zir-] ef[-eitos adversos hematológ-]ic[-os (leu-]{+á+}c[-open-]ia [-e plaq-]{+m+}u[-etopen-]i[-a), me-]t[-abólic-]o[-s-] [-(hi-]{+su+}per[-glicem-]i[-a), au-t-]o[-imunes (ti-]r[-eoidite-], {+com m+}a[-rtr-]i[-t-]{+s d+}e[-)-] {+90% d+}e p{+os+}si[-qu-]{+b+}i[-átr-]{+l+}i[-cos-]{+dade+} [-(-]de[-p-]{+ +}res[-são, -]p{+o+}s{+ta v+}i[-c-]{+r+}o[-se),-]{+lógica+} [-q-]{+s+}u{+st+}e[- -]{+nta+}d[-evem-]{+a+} [-s-]{+(t+}er[- -]mo[-ni-]{+ u+}t[-or-]{+il+}izado{+ em HCV +}s{+inônimo+} [-d-]{+para c+}ura[-nte-]{+).+} {+D+}o{+s+} [-trat-]{+medic+}amento[-. O-]{+s+} [-pri-]{+a+}n[--c-]{+t+}i[-pal-]{+gos,+} [-efeit-]o {+úni+}co[-lat-]{+ qu+}e[-ral-] {+ain+}da {+pode se+}r{+ ut+}i[-bavir-]{+l+}i[-n-]{+z+}a{+do+} é a {+rib+}a[-nem-]{+v+}i{+rin+}a, [-s-]e[-guida por-]{+m+} [-toxi-]c{+omb+}i[-dade re-]na[-l. Tod-]{+çã+}o[-s-] [-esses-]{+com+} [-efeit-]os [-sã-]{+nov+}o[- mai-]s [-hab-]{+med+}i[-tu-]{+c+}a[-i-]{+mento+}s{+,+} em c[-irróti-co-]{+a+}s[-, -]o{+s+} [-qu-]{+d+}e[-,-] {+b+}a[-lgum-]{+ix+}a[-s-] [-vez-]{+r+}es[-, im-]pos[-sibili-]ta {+p+}o[- tratam-]{+ssív+}e[-nto-]{+l+} {+(+}d[-e t-]{+i+}a{+bét+}i{+co+}s{+,+} [-indivídu-]o{+be+}s[-.-]
+[-N-]os [-paci-]{+ou g+}en{+ó+}t{+ipo 3). Ap+}es{+ar+} [-com-]{+de+} [-co-]{+a+}in[-fecção HIV-VHC, o-]{+da+} {+se+}r[-i-]{+ pa+}s[-co-]{+sível+} de [-evol-]u{+tiliza+}ção para [-h-]{+g+}e[-pa-]{+nó+}t{+ip+}o[-c-]{+ 4, +}a[-rc-]{+ +}in{+terfer+}o[-m-]{+n+}a [-é-]{+peguilada+} [-m-]{++ rib+}a{+v+}i[-o-]r[-,-]{+ina em+} ass[-im c-]o[-m-]{+ciaçã+}o a [-ev-]{+n+}o[-luçã-]{+v+}o{+s+} [-pa-]{+t+}ra[- cirr-]{+tament+}os[-e-] [-é-]{+tende+} [-m-]a[-is-] {+se+}r[-á-]{+ +}p{+ouco util+}i{+za+}da[-.-] [-Em-]{+e+} [-caso-]{+de+}s[- -]{+apare+}c[-om-]{+er. N+}o {+genó+}t[-a-]i[-s-]{+po 3+}, a [-indi-]{+asso+}c{+i+}ação de {+in+}t{+e+}r{+feron+}a[-tam-]{+ p+}e{+guilada + ribaviri+}n[-to-]{+a+} {+tamb+}é{+m+} po{+de se+}r u[-m-]{+sada. O+} p[-e-]r[-í-]{+incipal m+}o[-d-]{+tiv+}o p{+a+}r[-olong-]a[-do-] [-(-]a[-té 72-] [-se-]m{+ud+}an{+ç+}a[-s),-] [-d-]{+é +}a[-d-]{+ melhor+}a {+n+}a p[-i-]or[- r-]{+c+}e[-spos-]{+n+}ta[- -]{+g+}e{+m+} [-a-]{+de+} [-m-]{+p+}a[-ior -]c[-ha-]{+ie+}n[-c-]{+t+}e{+s+} [-d-]{+qu+}e [-n-]{+s+}ão [-c-]{+tratad+}o[-n-]s{+ +}e[-guir-]{+ tem+} resposta [-vi-]{+ao t+}r{+atament+}o[-lógic-]{+. Vej+}a [-s-]{+a evol+}u{+ção com a+}s[-t-]{+ difer+}ent[-a-]{+es +}d{+rogas na Figur+}a{+ 15+}.
+
+ 
+Figura 1[-1 - Observe que a maior diferença no coinfectado com HIV é o tempo de tratamento, que pode ser estendido a 72 semanas nos genótipos 1, 4 e 5 (que apresentam pior resposta ao tratamento)-]
+[-O tratamento da hepatite C recebe atualmente uma nova classe de medicamentos, os inibidores de protease (de uma ma-neira que lembra muito o tratamento nos primórdios do HIV). Duas novas drogas foram licenciadas dentro desta 1ª onda de inibidores de protease para uso no Brasil, o boceprevir e o telaprevir. Trata-se de inibidores da serina-protease NS3-NS4A do VHC – enzima essencial na fase pós-tradicional da replicação viral. -]
+[-Embora essas drogas tenham demonstrado grande potência para a interrupção da replicação do VHC, o desenvolvimento de resistência é precoce caso sejam usadas isoladamente. Deste modo, os estudos de fase 2 e 3 foram feitos com a droga em associação com a atual terapia padrão, baseada em alfainterferona 2a ou 2b peguilada e ribavirina. Os resultados desses estu-dos demonstraram superioridade estatisticamente significativa da terapia tríplice contendo boceprevir e também com es-quemas contendo telaprevir, tanto para tratamento inicial quanto para retratamento. A proporção de resposta virológica sustentada, obtida com a associação de boceprevir e de telaprevir, foi praticamente o dobro dos insatisfatórios 40% atingidos anteriormente com Peg-IFN e ribavirina para o genótipo 1. -]
+[-Essas drogas têm como principal inconveniente o alto custo e a intolerância pela grande quantidade de comprimidos em associação ao tratamento existente (Peg-IFN e ribavirina). Entretanto, entre os pacientes que as tolerarem, elas mudarão o panorama da resposta virológica sustentada na hepatite C.-]
+[-Em 2013, o Programa Nacional para a Prevenção e o Controle das Hepatites Virais determinou as bases para uso destes Inibidores de Protease (IPs). Como o programa fornece as medicações gratuitamente para a população que necessita (pelo SUS), o custo foi o principal bloqueador de uso para todos os pacientes. Por isso, foi determinado pelo governo brasileiro que só teriam direito a uso de IPs os pacientes que tivessem maior risco de óbito por complicações da hepatite C em pouco tem-po, pois teriam baixa resposta com as drogas até então liberadas (interferona e ribavirina) e alto risco de complicações. Atu-almente, o uso de inibidores de protease está restrito a pacientes com classificação METAVIR F3 e F4. Pacientes com classifi-cação F2 que realizaram a última biópsia hepática há mais de 5 anos também podem ser elegíveis ao tratamento com inibido-res de protease, dado o risco de evolução para F3. -]
+[-Tabela 15 - Recomendações do Ministério da Saúde para uso de IPs-]
+[-Telaprevir (TVR)-]
+[-- Pacientes com cirrose hepática compensada (classificação histológica METAVIR F4 ou evidências menos invasivas de cirrose) e pacien-tes METAVIR F3 nulos de resposta a tratamento prévio com Peg-IFN + ribavirina (PR);-]
+[-- Pacientes com classificação METAVIR F3.-]
+[-Boceprevir (BOC)-]
+[-- Pode ser considerado para pacientes com fibrose avançada (METAVIR F3 e F4/cirrose), de acordo com critérios de individualização de tratamento, com base em relatório médico detalhado, relação risco–benefício e autorização dos Comitês Estaduais (como tem custo maior por maior tempo de tratamento com o medicamento, é preterido em relação ao TVR). Por este motivo, as indicações são:-]
+[-· Antecedente de doença dermatológica grave que, na opinião do médico, possa contraindicar o uso de TVR por 12 semanas (isso por-que o maior efeito colateral do TVR é o rash cutâneo, que pode ocorrer);-]
+[-· Situações atuais que, de acordo com o estágio clínico, possam dificultar-]{+5+} [-a-]{+-+} [-a-]{+E+}v[-a-]{+o+}l[-ia-]{+u+}ção [-de farmacodermia dura-]n[-te -]o tratamento [-co-]m[- TVR, ta-]{+ed+}i[-s -]c[-o-]{+a+}m{+ent+}o[- p-]so[-rí-]{+ d+}a[-se-] {+h+}e[-x-]{+pati+}te[-n-]{+ C+}
+
+{+A+}s[-a,-] [-p-]{+n+}o[-rfiri-]{+v+}a{+s+} [-cutân-]{+m+}e{+dic+}a{+ções+} [-tard-]a[-,-]{+gem em+} {+o+}u[-r-]t[-icá-]r[-ia,-]{+os+} [-l-]{+s+}í[-qu-]{+tios d+}e[-n-] {+re+}pl{+ic+}a[-n-]{+çã+}o [-e-]{+do+} [-v-]{+HCV. São el+}as[-c-]{+: sofosb+}u[-l-]{+v+}i[-te-]{+r,+} {+da+}c[-u-]{+la+}t[-âne-]a[-;-]
+[-·-]{+svir+} [-Do-]e[-nças-] [-p-]{+sim+}e{+p+}r{+ev+}i[-anais-]{+r. O+} [-(-]{+so+}f[-í-]{+o+}s[-t-]{+b+}u[-las-]{+vir é+} [-o-]u{+m+} [-tr-]{+anál+}o[-mb-]{+g+}o[-se-] [-h-]{+nucl+}e[-m-]o[-rr-]{+tíde+}o{+ inib+}id[-á-]{+o+}r{+ da pol+}i{+mer+}a{+se do HCV. O+} {+sime+}pr[-é-]{+e+}vi[-a)-]{+r+} [-que,-]{+é+} [-na-]{+um+} [-op-]ini[-ã-]{+bid+}o{+r+} d[-o-]{+e+} {+prot+}e{+a+}s[-p-]e[-ci-]{+ de 2ª geração. O d+}a{+c+}l[-is-]{+a+}ta{+svir+}, po{+r +}s[-s-]{+u+}a{+ vez, é u+}m [-p-]i{+nibid+}or[-ar-] d[-urant-]e [-as 12-]{+NS5A.+} [-s-]{+Ag+}em{+ diret+}a{+me+}n[-as-]{+te no ciclo+} de {+reprod+}u[-s-]{+çã+}o do [-T-]{+HC+}V[-R-]{+,+} [-(-]{+imp+}e[-ssa -]{+d+}ind{+o a sua repl+}icação [-é porqu-]e{+m+} {+loc+}a{+is+} d[-o-]{+ife+}r[- a-]{+e+}n[-al é-]{+tes.+} [-um-]{+A+} [-efeit-]{+p+}o[- c-]{+s+}ol{+ogi+}a[-teral-] [-i-]m[-p-]{+elh+}or[-tante d-]o{+u+} {+m+}u[-s-]{+it+}o [-d-]e{+m+} [-TVR);-]
+[-· Inte-]r{+el+}aç[-õe-]{+ão ao+}s [-medic-]{+trat+}amentos{+ +}a{+ntigo+}s{+:+}
+{+-+} [-c-]{+S+}o[-m -]{+f+}o{+sb+}u[-t-]{+vi+}r[-as-]{+:+} [-d-]{+comp+}r{+imid+}o[-gas-] [-qu-]{+d+}e [-não possa-]{+400+}m{+g+} [-ser-]{+–+} [-substituí-]d[-as -]o[-u -]s[-usp-]e[-nsas-] d[-urant-]e [-as -]1[-2-]{+cp/d;+}
+{+-+} [-sem-]{+D+}a[-n-]{+clat+}as{+vir:+} [-de us-]{+c+}o[- -]{+mprimi+}do [-TVR.-]
+[-O-]{+de+} [-trata-]{+60+}m[-ent-]{+g – d+}o{+se+} [-é-]{+de+} {+1cp/+}d{+;+}
+{+- S+}i{+mep+}re[-c-]{+v+}i{+r: c+}o[-na-]{+mprimi+}do de [-acordo-]{+150mg+} [-c-]{+– d+}o[-m-]{+se+} [-a-]{+de+} {+1cp/d.+}
+{+Obse+}r{+v+}e[-sp-]{+ +}os[-ta-] [-c-]l[-íni-]{+o+}ca[-, dada-]{+is+} [-c-]o[-m-]{+nde+} [-o-]{+essa+}s [-o-]{+d+}r[-gan-]og[-ram-]as a[- se-]g[-uir-]{+em+}:[- -]
+[-Figura 12 - TVR -]
+
+ 
+Figura 1[-3-]{+6+} - [-B-]O[-C-]
+[-Em-] {+mec+}a{+nis+}m[-b-]{+o de ação d+}os {+nov+}os [-trat-]{+medic+}amentos[-,-] [-é im-]p{+ara +}o{+ t+}r{+a+}ta{+me+}nt[-e que -]o {+da he+}pa[-c-]{+t+}i[-en-]te [-faça-]{+C+} [-a-]{+é+} {+mu+}i[-nges-]t[-ã-]o [-de-]s[-t-]e[-s -]me[-dic-]{+lh+}a[-me-]nt[-os com-]{+e+} [-gr-]a[-nde-]{+o+} qu[-antidad-]e [-de-]{+já+} [-g-]{+oc+}or[-du-]r[-a (21g) a-]{+eu+} c[-ada t-]om[-ada,-] o {+“co+}que[- pod-]{+t+}e{+l”+} d[-ificultar-]{+o HIV.+} {+Sã+}o [-trat-]{+medic+}amento[-.-]{+s+} [-Co-]{+que age+}m[-o-] [-v-]{+em loca+}is{+ diferen+}t[-o-]{+es+}, {+bl+}o[-s -]{+quea+}n{+d+}o[-v-]{+ a replicaçã+}o{+ viral+}
+
+{+O+}s tratamentos [-são-]{+para+} [-difíc-]{+h+}e{+pat+}i{+te C +}s{+erão+}, [-c-]{+n+}a[-ros-] [-e co-]m[- c-]{+ai+}o[-mpl-]{+r+}i[-c-]a[-ções-] [-pos-]{+da+}s[-í-]{+ +}ve[-i-]{+ze+}s, [-o-]{+de+} [-qu-]{+12 s+}e{+manas+} [-d-]e[-v-]{+, +}e{+m+} {+algun+}s[-er-] c[-uid-]a[-d-]{+s+}os[-am-]{+, 24 s+}e{+ma+}n[-te-]{+as.+} [-e-]{+O+}s{+ efei+}t[-u-dad-]o{+s+} {+col+}a[-n-]te{+rai+}s d[-e-]{+as+} {+n+}o[-ferecer -]{+v+}a{+s+} [-p-]{+dr+}o{+ga+}s{+ +}s[-ibilidad-]e [-d-]{+r+}e[- -]{+s+}tr[-atame-]{+i+}n[-to.-]{+gem+} [-Tod-]a[-s-] {+náuse+}as [-c-]o[-n-]{+ca+}si[-der-]{+on+}a[-çõe-]{+i+}s [-f-]e{+ vôm+}it[-a-]{+o+}s{+.+} [-para a-]{+A+} [-hep-]a[-tite B crô-]n{+em+}i[-c-]a{+,+} {+qu+}e[-m-] [-r-]e[-lação -]{+r+}a[-o-] {+u+}m[-anejo-] d[-a cirr-]os[-e-] [-he-]p[-át-]{+r+}i{+n+}c{+ip+}a{+is+} e[- à-]{+feito+}s [-indi-]c{+ol+}a[-çõ-]{+t+}e{+rai+}s d[-e-]{+os+} tra[-nspl-]{+t+}a{+me+}nt[-e-]{+os+} [-hepá-]{+an+}t{+er+}i[-c-]o[- -]{+re+}s{+, n+}ão [-válida-]{+é +}s{+er+} t[-a-]{+ão co+}m[-bé-]{+u+}m [-para a h-]{+n+}e[-patit-]{+ss+}e [-C.-]
+[-Ou-]t[-r-]{+ip+}o[-s-] [-me-]d[-ic-]{+e trat+}amento[-s para-]{+.+} [-o-]{+Os+} tratamento{+s+} [-da hepatite C e-]s[-t-]ão [-atualme-]{+i+}n[-te l-]{+d+}i[-ber-]{+c+}ados [-for-]a [-do Bra-]s{+egu+}i[-l.-]{+r,+} [-Sã-]{+p+}o{+r+} [-i-]{+ge+}n{+ót+}i{+po.+}
+
+{+Ta+}b{+ela 15 - Ind+}i{+ca+}dores [-de -]p[-r-]o[--tease-]{+r+} [-d-]{+g+}e[- 2ª -]{+nótip+}o{+ +}
+{+Ge+}n[-da-]{+ótipo+} {+1	Regim+}e [-ou-]t{+e+}ra[-s -]{+pêuti+}c[-lass-]{+o 	T+}e[-s.-]{+mpo+}
+{+Monoinfecção+} {+HCV	+}Sofosbuvir[-,-]{+ ++} simeprevir [-e daclatasvir-]{+*	12+} s[-ão -]{+em+}a[-lgu-]n{+a+}s
+[- d-]{+M+}o[-s -]no[-v-]{+infecção HCV	Sofosbuvir + daclatasvir *	12 semanas +}
+{+Cirrose Child-Pugh B e C, paciente experimentado com BOC/TEL ou coinfecção HIV/HCV	Sofosbuvir + daclatasvir *	24 semanas+}
+{+Genótipo 2	Regime terapêutico	Tempo+}
+{+Único 	Sofosbuvir + ribavirina	12 semanas+}
+{+Genótipo 3	Regime terapêutico	Tempo+}
+{+Interferona peguilada autorizada	Sofosbuvir + interferona peguilada + ribavirina	12 semanas+}
+{+Interferona peguilada contraindicada	Sofosbuvir + daclatasvir	12 semanas+}
+{+* Os estudos não mostram superioridade no tratamento ao associar ribavirina a essas condições, no entanto esta pode ser usada na associação de sofosbuvir + daclatasvir caso o paciente seja cirrótico, diabético ou obeso.+}
+
+{+Para qualquer paciente com hepatite C, os exames que devem ser solicitados logo na 1ª consulta e durante todo o acompanhamento estão listados a seguir, de acordo com o Protocolo de Tratamento de Hepatite C do Ministério da Saúde de 2015.+}
+
+{+Tabela 16 - Exames para acompanhamento de portadores de hepatite C+}
+{+Anti-HAV, HBsAg, anti-HBc, anti-HIV	Para determinar a imunização e coinfecções+}
+{+Beta-HCG	A cada 6 meses (mulheres em idade reprodutiva)+}
+{+Endoscopia digestiva alta	A cada 6 a 12 meses, conforme o diagnóstico de cirrose +}
+{+Biópsia hepática 	A cada 3 a 5 anos+}
+{+Elastografia hepática	Individualização +}
+{+Hemograma, coagulograma, sódio/potássio/ureia/creatinina, clearance de creatinina, AST/TGO (aspartato aminotransferase), ALT/TGP (alanina aminotransferase), fosfatase alcalina/gamaglutamiltransferase/bilirrubina total e frações, glicemia de jejum, proteína total/albumina, urina tipo I	A cada 3 a 6 meses+}
+{+TSH/T4L	A cada 12 meses ou conforme tratamento instituído +}
+{+HCV-RNA quantitativo (carga viral)	Na confirmação do diagnóstico, no pré-tratamento e durante após o tratamento, conforme a modalidade escolhida+}
+{+Lipídios (colesterol total e frações, triglicérides), ferritina/ferro sérico/saturação de transferrina	A cada 12 meses+}
+
+{+O tratamento com as drogas novas também mudou e está indicado nas seguintes situações:+}
+
+{+Tabela 17 - Indicações de tratamento – protocolo de julho de 2015 do Ministério da Saúde+}
+{+- Coinfecção com o HIV, independente do grau de fibrose hepática;+}
+{+- Manifestações extra-hepáticas com acometimento neurológico motor incapacitante, porfiria cutânea, líquen plano grave com envolvimento de mucosa;+}
+{+- Crioglobulinemia com manifestação em órgãos-alvo (olhos, pulmão, sistema nervoso periférico e central), glomerulonefrite, vasculites e poliarterite nodosa;+}
+{+- Sinais clínicos ou evidências ecográficas sugestivas de cirrose hepática (varizes de esôfago, ascite, alterações da morfologia hepática compatíveis com cirrose)+}
+{+- Insuficiência hepática e ausência de carcinoma hepatocelular, independente da necessidade de transplante hepático;+}
+{+- Insuficiência renal crônica;+}
+{+- Púrpura Trombocitopênica Idiopática (PTI);+}
+{+- Pós-transplante de fígado e de outros órgãos sólidos;+}
+{+- Linfoma, gamopatia monoclonal, mieloma múltiplo e outras doenças hematológicas malignas;+}
+{+- Fibrose hepática avançada (METAVIR F3 +}o{+u F4);+}
+{+- Bióp+}s{+ia+} [-m-]{+h+}e[-d-]{+pát+}ica{+ co+}m{+ r+}e[-n-]{+sul+}t{+ad+}o[-s-] [-que-]{+METAVIR F2+} pr[-om-]e{+sen+}te[-m-] [-au-]{+há +}m[-ent-]a[-r-]{+is+} [-a-]{+de 3+} [-ch-]an[-c-]{+os.+}
+
+{+D+}e[- d-]{+ve-s+}e [-t-]{+obse+}r{+v+}a[-tam-]{+r qu+}e[-nto-] [-C-]{+a+} [-(pri-]{+qua+}n[-c-]{+t+}i[-p-]{+d+}a[-lm-]{+d+}e[-nt-]{+ d+}e pa[-ra g-]{+ci+}en[-ó-]t[-i-]{+es que +}po{+de+} [-1)-]{+ser+} {+tr+}a[- 100%, -]{+t+}a[-lém -]d[-e-]{+a+} {+aum+}en[-cur-]t[-ar -]o{+u+} {+ba+}s{+tant+}e[-u-]{+.+} {+A in+}te[-mp-]{+nçã+}o [-e-]{+é+} [-d-]{+qu+}e [-dispens-]{+haj+}a[-r o-] {+a+}u[-so d-]{+m+}e[- i-]nt[-e-]{+o +}r[-f-]e[-ron-]a[-,-]{+l+} [-cuj-]{+n+}o{+s+} [-i-]{+tratame+}n[-c-]{+t+}o[-nv-]{+s d+}e[-ni-]{+ h+}e[-n-]{+pati+}te [-é-]{+C+} [-ser-]{+no+} {+Bras+}i[-njetáve-]l. 
+
+E - Prevenção
+
+{+Dica+}
+{+Na fase aguda da hepatite C, pode-se fazer um tratamento com interferona, a fim de evitar a cronificação da doença.+}
+
+As medidas de prevenção de exposição listadas para a hepatite B são também válidas para a hepatite C, sobretudo o con[---]trole de bancos de sangue e a esterilização de instrumentos. A via sexual é menos importante na hepatite C. Casais estáveis sorodiscordantes devem ser orientados quanto ao uso de preservativo de maneira opcional. A proteção sexual é mais rele[---]vante em indivíduos com múltiplos parceiros e para relação sexual entre homens.
+O tratamento com interferona quando o diagnóstico é obtido na fase aguda – situação mais frequente em acidentes com material biológico – pode ser indicado para prevenir a cronificação. É recomendado a todos os pacientes assintomáticos com PCR positivo na 3ª semana após a exposição, e aos sintomáticos com PCR positivo, 12 semanas após a exposição.
+Não há imunoprofilaxia de hepatite C nem forma de prevenir a transmissão vertical. Não existe consenso se gestantes têm risco diminuído de transmissão por via de parto alta (cesárea) ou baixa (parto normal), mesmo em pacientes com carga viral alta (ao contrário do que já é estabelecido no HIV). 
+
+{+Pergunta+}
+{+2010 - UFF+}
+{+3. Um paciente de 30 anos procura o serviço de emergência queixando-se de náuseas, vômitos e febre baixa há 7 dias. Há 4 dias, apresentou colúria e, no dia seguinte, notou aparecimento de icterícia. Na investigação, foram pesquisados marcadores virais de hepatite. O resultado compatível com a fase aguda de hepatite viral é:+}
+{+a) anti-HAV IgM negativo, anti-HAV IgG positivo+}
+{+b) HBsAg positivo, anti-HBc IgM negativo, HBeAg positivo+}
+{+c) HBsAg positivo, anti-HBc IgM negativo, HBeAg negativo+}
+{+d) anti-HCV negativo e RNA HCV positivo+}
+{+e) HBsAg positivo, anti-HBc IgM negativo, DNA HBV positivo+}
+{+Resposta no final do capítulo +}
+
+5. Hepatite D
+
+A hepatite D, causada pelo [-V-]{+v+}írus da [-H-]{+h+}epatite [-D-]{+d+}elta ([-V-]HD{+V+}), pode apresentar-se como infecção assintomática, sintomática ou até com formas graves. O [-V-]HD{+V+} é um vírus defectivo, satélite do [-V-]HB{+V+}, dependente do HBsAg para replicação. A infecção delta crônica é a principal causa de cirrose hepática em crianças e adultos jovens em áreas endêmicas da Itália, da Inglaterra e na região amazônica do Brasil. 
+
+ 
+Figura 1[-4-]{+7+} - Observa-se que{+,+} apesar de o [-VHD-]{+vírus da hepatite delta+} depender do [-VH-]{+vírus da hepatite +}B para replicação, ele não está aumentado em todos os locais de alta pre[---]valência de{+ste+} [-VHB-]{+último+}. No Brasil, a região amazônica, apesar da vacinação contra o [-VH-]{+vírus da hepatite +}B, ainda apresenta altos índices de coinfecção, prova[---]velmente por pessoas mais velhas não vacinadas previamente contra o [-VH-]{+vírus da hepatite +}B
+
+Devido à sua dependência funcional em relação ao [-V-]HB{+V+}, o vírus delta tem mecanismos de transmissão idênticos a ele. A transmissão vertical pode ocorrer e depende da replicação do [-V-]HB{+V+}. Os portadores crônicos inativos são reservatórios impor[---]tantes para a disseminação do [-V-]HD{+V+} em áreas de alta endemicidade de infecção pelo [-V-]HB{+V+}.
+O tratamento da hepatite D envolve tratamento da hepatite B, podendo-se usar interferona ou inibidores da transcriptase reversa. No entanto, pela rápida evolução para cirrose por essa coinfecção, os pacientes muitas vezes só conseguem ter indi[---]cação de transplante ou medidas de suporte para cirrose avançada.
+
+{+Dica+}
+{+O vírus da hepatite delta é defectivo, ou seja, só existe se existir o HBV. Portanto, a principal prevenção é controlar o HBV, que tem vacina. +}
+
+6. Hepatite E 
+
+O [-V-]{+v+}írus da [-H-]{+h+}epatite E ([-V-]HE{+V+}) é de transmissão fecal-oral, o que favorece a disseminação da infecção nos países em desen[---]volvimento, onde a contaminação dos reservatórios de água mantém a cadeia de transmissão da doença. A transmissão inter[---]pessoal não é comum. Em alguns casos, não são identificados os fatores de risco. A doença é autolimitada e pode apresentar formas clínicas graves, especialmente em gestantes.
+
+ 
+Figura 1[-5-]{+8+} - A endemicidade da hepatite E está diretamente relacionada a precárias condições sanitárias e indicadores de miséria ex[---]trema. Ocasionalmente, surtos são descritos em populações em condições sub-humanas de sobrevivência
+Fonte: Centers for Disease Control and Prevention.
+
+A hepatite E deve ser pensada sempre que há condições muito ruins de higiene associadas a quadros de gravidade hepá[---]tica e diarreia. A baixa solicitação de exames de sorologia (não disponíveis na rede pública) faz que os casos no Brasil talvez sejam muito subnotificados. 
+
+7. Em gestantes 
+
+O perfil das hepatites em gestantes leva à necessidade de medidas e cuidados específicos, já citados durante o capítulo. Com o objetivo de reunir e consolidar os dados sobre o assunto, temos a Tabela 1[-6-]{+7+}. 
+
+Tabela 1[-6-]{+8+} - Principais considerações das hepatites em gestantes
+	Vacinas durante a gestação	Tratamento na gestação	Parto	Pós-parto
+Hepatite A	- Disponível vacina para IgG e IgM negativos;
+-[- -]{+	+}Sem contraindicações na gestação.	É sintomátic[-a-]{+o+}, como na não gestante.	IgM positivo no mo[---]mento do parto pode levar a risco de trans[---]missão. Nesse caso, pode ser discutida cesárea.	-[- -]{+	+}Apesar de existente a imuno[---]globulina contra a hepatite A, não é usada (não disponível normalmente); 
+-[- -]{+	+}A amamentação pode transmi[---]tir, pelo contato próximo com secreções orais da mãe.
+Hepatite B	- Disponível vacina para anti-HBs e HBsAg negati[---]vos;
+-[- -]{+	+}Sem contraindicações na gestação.	Pode ser introduzido trata[---]mento para evitar trans[---]missão no 3º trimestre, se carga viral alta. Não usar interferona. 	Não faz diferença a via de parto, já que a imunoglobulina será dada ao recém-nascido. 	- Fazer imunoglobulina contra hepatite B além da vacina; 
+- Não há contraindicações para amamentação.
+Hepatite C	Não existe vacina.	Não pode ser feito na ges[---]tação, por teratogenicidade das drogas. 	Discutível. Atualmente existe tendência à cesárea.	-[- -]{+	+}O leite não transmite hepatite C; 
+-[- -]{+	+}Se houver fissuras na mama, pode haver transmissão. Expli[---]car à mãe que decidir ama[---]mentar.
+Hepatite D	Não existe vacina.	Não existe tratamento efetivo apenas para hepati[---]te D.	Pode ser transmitida intraparto. Discutir via cesárea. 	Aparentemente, é transmitida pelo leite.
+Hepatite E	Não existe vacina.	É sintomático, como na não gestante.	A recomendação é semelhante à da hepa[---]tite A.	Pode ser transmitida por secre[---]ções orais da mãe durante a amamentação. 
+
+8. Resumo
+
+Quadro-resumo
+Vírus	Características dos vírus	Transmissão	Cronificação	Tratamentos	Prevenção
+A	RNA
+Picornaviridae	Fecal-oral (2 sema[---]nas antes do início até 2 semanas após)	Não (e raramen[---]te causa seque[---]las hepáticas)	Cuidados com hidratação, sem medidas específicas	Vacina (2 doses) indica[---]da se IgG negativo ou para crianças a partir de 1 ano na rede privada
+B	DNA
+Hepadnaviridae	Parenteral, horizon[---]tal (sexual), vertical (transmissão mater[---]no-fetal)	Sim (10% casos); maioria evoluin[---]do para cura	Indicado para hepatite ful[---]minante, hepatite crônica em algumas situações e feito com Peg-IFN ou inibido[---]res análogos de nucleosídeos	Vacina (3 doses)
+C	RNA
+Flaviviridae
+6 genótipos diferentes	Parenteral (sangue, tatuagens, alicates de unha); sexual (1%)	Sim (>70%); rara hepatite fulmi[---]nante	Peg-IFN + ribavirina a de[---]pender da lesão hepática (genótipo e carga viral de[---]terminam tempo de trata[---]mento) 	Sem vacina específica
+D	Defectivo, dependente de [-V-]HB{+V+} para replicação	Mesma da hepatite B	Sim	Tratamento em conjunto com a hepatite B	Sem vacina específica (o bloqueio do [-V-]HB{+V+} com vacina impede sua transmissão)
+E	Estruturalmente similar ao calicivírus	Fecal-oral	Não	Cuidados com hidratação	Sem vacina específica
+
+{+Respostas+}
+{+1. A+}
+{+2. D+}
+{+3. D+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
