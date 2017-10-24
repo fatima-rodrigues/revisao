@@ -1,40 +1,53 @@
 Linfomas 
-Marcos Laercio Pontes Reis / Fernanda Maria Santos / Fábio Freire José
+Marcos Laercio Pontes Reis / Fernanda Maria Santos
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Neste capítulo, serão abordados, de forma abrangente, os principais tipos, manifestações clínicas e tratamentos de cada um dos linfomas. A principal divisão classifica-os em Hodgkin e não Hodgkin, sendo os primeiros caracterizados por uma prolife-ração anormal de linfócitos B do centro germinativo, associada à presença de células de Reed-Sternberg e ao vírus Epstein-Barr, causando adenomegalias indolores e respondendo ao tratamento com quimioterapia + radioterapia. Os linfomas não Hodgkin podem ser decorrentes de proliferações anômalas de linfócitos T, linfócitos B e células reticulares, acometendo linfonodos, mas podendo surgir em qualquer região que tenha a presença dessas células. Possuem tipos agressivos, como o linfoma linfoblástico e o de Burkitt, sendo o tratamento preconizado o uso de poliquimioterapia associada ou não a radiote-rapia e anticorpos monoclonais como o rituximabe, a depender do tipo histológico do linfoma.
 
 1. Introdução
+
 Os linfomas são tumores sólidos com origem no tecido linfoide normal, geralmente em linfonodos, e incluem várias apresentações, que cursam com quadros clínico, morfológico e imuno-histoquímico bastante diversos. Apresentam cerca de 55.000 casos novos e 25.000 mortes por ano nos Estados Unidos e são responsáveis por 4% de todas as mortes relacionadas a neoplasias malignas.
-Os linfomas são classicamente divididos em não Hodgkin ou Hodgkin, com base em achados clínico-patológicos. O diagnóstico do Linfoma de Hodgkin (LH) se baseia no encontro da célula de Reed-Sternberg ou suas variantes, o que não ocorre no Linfoma Não Hodgkin (LNH).
+Os linfomas são classicamente divididos em Hodgkin ou não Hodgkin, com base em achados clínico-patológicos. O diagnóstico do Linfoma de Hodgkin (LH) se baseia no encontro da célula de Reed-Sternberg ou suas variantes, o que não ocorre no Linfoma Não Hodgkin (LNH).
+
+Vídeo
+Linfomas
+  
+
 2. Abordagem do paciente
+
 Independente do tipo de linfoma, a abordagem inicial é a mesma:
 História clínica detalhada e exame físico minucioso;
 Exame diagnóstico;
 Exames de estadiamento;
 Estratificação de risco.
-
 A manifestação clínica mais comum é o surgimento de adenomegalias indolores com consistência de borracha, que podem ser localizadas (em estadios precoces) ou disseminadas (em estadios avançados). Todos os tecidos do organismo apresentam células linfoides; desta forma, pode-se desenvolver linfoma em qualquer órgão (linfoma extranodal), como ovário, testículo, tireoide, pálpebra, fígado, pulmão etc. Por isso, história e exame físico detalhados são muito importantes.
-Sintomas B são manifestações sistêmicas que podem acompanhar as adenomegalias e têm importância prognóstica. São eles:
-Tabela 1 - Sintomas B
-Emagrecimento	Perda de mais de 10% do peso nos últimos 6 meses
-Febre	Temperatura >38°C, geralmente vespertina, persistente ou recorrente no último mês
-Sudorese noturna	Recorrente no último mês
-Para diagnosticar o tipo de linfoma, utiliza-se o exame histopatológico da região acometida e, para determinar o subtipo, imprescindível para a decisão terapêutica e a determinação prognóstica, é necessário o exame de imuno-histoquímica do mesmo material. O exame de punção por agulha fina não permite a análise histológica, o que muitas vezes compromete o diagnóstico do tipo e do subtipo de linfoma, não sendo encorajado como exame diagnóstico. A decisão do local a ser biopsiado é difícil, pelo risco de material inadequado ou resultado não conclusivo. Quando há adenomegalia palpável, opta-se por biopsiar o maior gânglio, com a seguinte ordem de preferência: supraclavicular, cervical, axilar ou inguinal. A biópsia excisional é recomendada sempre que possível. Outras características dos linfonodos que devem sugerir a realização de biópsia para investigação são tamanho >2cm (em adultos) e 1cm (em crianças) e presença de linfonodos aderentes aos planos profundos, de crescimento progressivo e permanente (a partir de 30 dias).
+
+Importante
+Sintomas B nos linfomas são manifestações sistêmicas que podem acompanhar as adenomegalias e têm importância prognóstica. São eles: emagrecimento (perda de mais de 10% do peso nos últimos 6 meses), febre (temperatura >38°C, geralmente vespertina, persistente ou recorrente no último mês) e sudorese noturna (recorrente no último mês). 
+
+Para diagnosticar o tipo de linfoma, utiliza-se o exame histopatológico da região acometida, e, para determinar o subtipo, imprescindível para a decisão terapêutica e a determinação prognóstica, é necessário o exame de imuno-histoquímica do mesmo material. O exame de punção por agulha fina não permite a análise histológica, o que muitas vezes compromete o diagnóstico do tipo e do subtipo de linfoma, não sendo encorajado como exame diagnóstico. A decisão do local a ser biopsiado é difícil, pelo risco de material inadequado ou resultado não conclusivo. Quando há adenomegalia palpável, opta-se por biopsiar o maior gânglio, com a seguinte ordem de preferência: supraclavicular, cervical, axilar ou inguinal. A biópsia excisional é recomendada sempre que possível. Outras características dos linfonodos que devem sugerir a realização de biópsia para investigação são tamanho >2cm (em adultos) e 1cm (em crianças) e presença de linfonodos aderentes aos planos profundos, de crescimento progressivo e permanente (a partir de 30 dias).
 O estadiamento cumpre 3 objetivos principais: auxiliar na seleção da terapêutica, assegurar a identificação de todas as áreas acometidas para reavaliação pós-tratamento e ter valor prognóstico. 
-Tabela 2 - Exames utilizados para o estadiamento
+
+Tabela 1 - Exames utilizados para o estadiamento
 - Tomografia computadorizada de pescoço, tórax, abdome e pelve (do Sistema Nervoso Central – SNC – apenas se há sintoma que a justifique);
-- Biópsia de medula óssea: realizada na crista ilíaca posterior (unilateral no LNH, bilateral no LH), avalia se há comprometi-mento medular por meio da análise histológica. O mielograma faz análise apenas citológica e não é indicado para estadia-mento de linfoma; 
-- Cintilografia com gálio ou, preferencialmente, PET scan: avaliam a infiltração tumoral e não só a dimensão dos linfonodos, complementando o estadiamento inicial, sendo importantes no controle pós-radioterapia ou quimioterapia;    
+- Biópsia de medula óssea: realizada na crista ilíaca posterior (unilateral no LNH, bilateral no LH), avalia se há comprometimento medular por meio da análise histológica. O mielograma faz análise apenas citológica e não é indicado para estadiamento de linfo-ma; 
+- Cintilografia com gálio ou, preferencialmente, PET scan: avaliam a infiltração tumoral e não só a dimensão dos linfonodos, comple-mentando o estadiamento inicial, sendo importantes no controle pós-radioterapia ou quimioterapia;    
 - Liquor: alguns linfomas agressivos tendem a comprometer o SNC, estando indicado esse exame como parte do estadiamento em casos selecionados, como nos pacientes HIV positivo (pela maior chance de infiltração no SNC) e naqueles em que há acometimento da linha média facial (oronasofaringe, anel de Waldeyer, cavidades paranasais, olhos, pela proximidade com SNC);
-- Endoscopia digestiva alta: linfomas de orofaringe (anel de Waldeyer) podem também acometer o estômago, estando a en-doscopia indicada nesse caso;
+- Endoscopia digestiva alta: linfomas de orofaringe (anel de Waldeyer) podem também acometer o estômago, estando a endoscopia indicada nesse caso;
 - Hemograma e bioquímica completa;
-- Realizados os exames, o paciente pode ser classificado conforme a extensão da doença em estadios de I a IV (Tabela 3).
+- Realizados os exames, o paciente pode ser classificado conforme a extensão da doença em estadios de I a IV (Tabela 2).
+
  
 Figura 1 - Cintilografia com gálio, evidenciando captação anômala na região da coxa esquerda até a região inguinocrural
+
  
 Figura 2 - PET scan antes (A) e depois (B) do tratamento
-Tabela 3 - Estadiamento dos linfomas: sistema de Ann Arbor
+
+Tabela 2 - Estadiamento dos linfomas: sistema de Ann Arbor
 Estadios	Descrições
 I	Envolvimento de apenas 1 região linfonodal ou estrutura linfoide, ou envolvimento de 1 sítio extranodal (IE)
-II	Envolvimento de mais de 1 região linfonodal ou estrutura linfoide, ou envolvimento localizado de 1 sítio extranodal contíguo e 1 ou mais regiões linfonodais (IIE) do mesmo lado do diafragma
+II	Envolvimento de mais de 1 região linfonodal ou estrutura linfoide, ou envolvimento localizado de 1 sítio extra-nodal contíguo e 1 ou mais regiões linfonodais (IIE) do mesmo lado do diafragma
 III	Envolvimento de regiões linfonodais acima e abaixo do diafragma
 IV	Envolvimento de sítio extranodal não contíguo ao linfonodo acometido (exemplos: fígado e medula óssea)
 A	Ausência de sintomas B
@@ -45,63 +58,96 @@ X	Doença bulky: massa mediastinal acima de 1/3 do diâmetro intratorácico máximo 
 
  
 Figura 3 - Estadiamento pelo sistema de Ann Arbor: os pontos coloridos caracterizam-se como acometimento linfomatoso
+
 A estratificação de risco é feita por meio da pontuação de fatores prognósticos, que variam de acordo com o tipo de linfoma (Hodgkin ou não Hodgkin), importante no planejamento terapêutico.
+
 3. Linfoma de Hodgkin
+
 A - Introdução
+
+Importante
+O linfoma de Hodgkin é uma doença causada por uma proliferação anormal de linfócitos B do centro germinativo, caracteri-zando-se pela presença das células de Reed-Sternberg. Está associada a agentes infecciosos como o Epstein-Barr e tem chan-ces aumentadas em parentes de 1º grau de indivíduos com a doença e naqueles em estado de imunossupressão. 
+
 É uma doença proliferativa que tem origem no linfócito B do centro germinativo e se caracteriza, histopatologicamente, pela presença das células de Reed-Sternberg, imersas em substrato celular característico, de aspecto inflamatório.
 Representa 10% de todos os linfomas e 0,6% de todas as neoplasias do adulto. Observa-se curva bimodal de incidência, caracterizada por baixa ocorrência na infância, rápida elevação com pico em torno dos 20 anos, platô ao longo da meia-idade e novo pico após a 5ª ou 6ª década. Há maior incidência em homens que em mulheres e em brancos que em negros.
+
  
 Figura 4 - Curva bimodal de distribuição dos casos 
+
 B - Etiologia
-Tabela 4 - Fatores relacionados ao desenvolvimento
-Agentes infecciosos	O fator etiológico mais estudado na doença de Hodgkin é o vírus Epstein-Barr. O antecedente de mononucleose infecciosa, confirmado por testes sorológicos, confere risco 3 vezes maior para o aparecimento do LH. As células da doença clássica contêm o vírus Epstein-Barr em cerca de 50% dos casos.
-Fator genético	O risco de LH é maior entre parentes de 1º grau de indivíduos com a doença, devido à suscetibili-dade genética e à exposição ambiental comum dos membros da família. A agregação familiar de incidência é 3 a 5 vezes maior em parentes de 1º grau quando comparado com a população geral. Gêmeos idênticos têm risco ainda maior.
+
+Tabela 3 - Fatores relacionados ao desenvolvimento
+Agentes infecciosos	O fator etiológico mais estudado na doença de Hodgkin é o vírus Epstein-Barr. O antecedente de mononu-cleose infecciosa, confirmado por testes sorológicos, confere risco 3 vezes maior para o aparecimento do LH. As células da doença clássica contêm o vírus Epstein-Barr em cerca de 50% dos casos.
+Fator genético	O risco de LH é maior entre parentes de 1º grau de indivíduos com a doença, devido à suscetibilidade genéti-ca e à exposição ambiental comum dos membros da família. A agregação familiar de incidência é 3 a 5 vezes maior em parentes de 1º grau quando em comparação com a população geral. Gêmeos idênticos têm risco ainda maior.
 Imunossupressão	Existe incidência bastante aumentada do LH na população imunossuprimida por transplante de órgão sólido, transplante de células-tronco hematopoéticas, HIV e doença autoimune.  
+
 C - Histopatologia, classificação e características clínicas
 As células de Reed-Sternberg (RS) são grandes, binucleadas ou multinucleadas, com nucléolo evidente e eosinofílico, e o citoplasma é abundante, sendo também eosinofílico (Figura 5); tradicionalmente, é descrita como “olho de coruja”. Tais células estão sempre localizadas em um fundo de células inflamatórias abundantes, de forma que a massa tumoral é constituída de somente 1 a 2% de células neoplásicas (as células RS), com 99% de reação inflamatória.
-  
-Figura 5 - Célula RS
-Muitas classificações diferentes, baseadas na morfologia e no comportamento clínico do LH, já foram utilizadas; a mais recente é a formulada pela Organização Mundial da Saúde (OMS/WHO) em 2008. As principais alterações em relação à classificação de Rye e REAL (até então, a mais aceita) são a definição de que, sendo uma neoplasia linfoide, a terminologia correta deve ser LH (e não doença de Hodgkin); e a definição de 2 tipos principais de LH: a forma de predomínio linfocítico nodular e a forma clássica, que inclui os subtipos ricos em linfócitos, celularidade mista, depleção linfocitária e esclerose nodular. A subclassificação do LH clássico baseia-se na diferença da composição do tecido inflamatório que acompanha as células RS.
-Tabela 5 - Classificação
+
+Dica
+As células de Reed-Sternberg são descritas como “olho de coruja” e estão imersas em um conteúdo inflamatório com ape-nas 1 a 2% de presença de células neoplásicas. 
+
+ 
+Figura 5 - Célula de Reed-Sternberg
+
+Muitas classificações diferentes, baseadas na morfologia e no comportamento clínico do LH, já foram utilizadas; a mais recente é a formulada pela Organização Mundial da Saúde (OMS/WHO) em 2008. As principais alterações em relação às classificações de Rye e REAL (até então, a mais aceita) são a definição de que, sendo uma neoplasia linfoide, a terminologia correta deve ser LH (e não doença de Hodgkin); e a definição de 2 tipos principais de LH: a forma de predomínio linfocítico nodular e a forma clássica, que inclui os subtipos ricos em linfócitos, celularidade mista, depleção linfocitária e esclerose nodular. A subclassificação do LH clássico baseia-se na diferença da composição do tecido inflamatório que acompanha as células RS.
+
+Tabela 4 - Classificação
 - Predominância linfocítica nodular;
 - LH clássico:
 · Esclerose nodular;
 · Rico em linfócitos;
 · Depleção linfocitária;
 · Celularidade mista.  
+
 a) Predominância linfocítica nodular
-A principal característica morfológica do subtipo PLN (Predominância Linfocítica Nodular) é que não possui a célula RS clássica, mas sim uma variante, conhecida como célula “em popcorn” com vesículas, núcleo polilobulado e nucléolo periférico e pequeno. O tecido inflamatório de fundo contém muitos linfócitos, principalmente linfócitos B, também histiócitos, eosinófilos, plasmócitos e neutrófilos. 
+A principal característica morfológica do subtipo PLN (Predominância Linfocítica Nodular) é que não encontramos a célula RS clássica, mas sim uma variante, conhecida como célula “em popcorn”, com vesículas, núcleo polilobulado e nucléolo periférico e pequeno. O tecido inflamatório de fundo contém muitos linfócitos, principalmente linfócitos B, e, também, histiócitos, eosinófilos, plasmócitos e neutrófilos. 
 É um tipo distinto do LH clássico, inclusive pela epidemiologia, pois o pico de incidência é maior em adultos entre 30 e 50 anos, predominantemente do sexo masculino. Representa aproximadamente 5% dos casos de LH.
 Setenta e cinco por cento dos casos são classificados como estadio I ou II, sendo os linfonodos periféricos as regiões mais acometidas. É bastante raro o acometimento mediastinal (2 a 7%), esplênico (8%) e, mais ainda, o envolvimento medular (1 a 2%). Pouco comum é o encontro de sintomas B ao diagnóstico (6 a 15%). Sua evolução é bastante lenta e apresenta alta taxa de recidiva, mas tem ótima resposta terapêutica. 
+
 b) Esclerose nodular
 Subtipo histológico mais comum, corresponde a cerca de 70% dos casos de LH clássico. Apresenta células lacunares e bandas de colágeno que, caracteristicamente, separam o tecido linfoide em nódulos. Acomete, em geral, adolescentes e adultos jovens. Geralmente, tal subtipo histológico envolve os linfonodos cervicais inferiores, supraclaviculares e mediastinais e, em cerca de 70% dos casos, é diagnosticado ainda em estágio limitado (estadio I ou II).
+
  
 Figura 6 - Bandas de colágeno separando nodulações no linfonodo no subtipo esclerose nodular
+
 c) Celularidade mista
-Correspondem a até 25% dos casos de LH nos 2 extremos de idade (crianças e idosos) e são mais comumente associados a estágios avançados ao diagnóstico, sintomas constitucionais e imunodeficiência. A celularidade mista passa a ser o principal tipo histológico quando ocorre associação de LH e HIV. As clássicas células RS são facilmente encontradas com fundo celular composto de linfócitos, eosinófilos, células plasmáticas e histiócitos.
+Corresponde a até 25% dos casos de LH nos 2 extremos de idade (crianças e idosos) e é mais comumente associado a estágios avançados ao diagnóstico, sintomas constitucionais e imunodeficiência. A celularidade mista passa a ser o principal tipo histológico quando ocorre associação de LH e HIV. As clássicas células RS são facilmente encontradas com fundo celular composto de linfócitos, eosinófilos, células plasmáticas e histiócitos.
+
 d) Depleção linfocitária
 Há 2 tipos histológicos descritos: fibrose difusa e fibrose reticular. Em qualquer uma delas, as células RS são esparsas e de difícil achado. Geralmente, são encontrados em pacientes idosos e também entre os HIV positivo, que apresentam, ao diagnóstico, sintomas sistêmicos e estadiamento avançado, sendo o subtipo mais raro existente (menos de 1% dos casos). O envolvimento abdominal é bastante comum, logo icterícia e hepatoesplenomegalia podem ser a apresentação inicial, com envolvimentos linfonodal e mediastinal pouco frequentes. 
+
 e) Rico em linfócitos
 Corresponde a cerca de 5% dos LHs clássicos, que contêm, em tecido inflamatório, muitos linfócitos e poucos neutrófilos e eosinófilos. A apresentação clínica habitualmente é em estadio precoce, raramente acometendo o mediastino, com predomínio em homens e em idosos. Trata-se de um subtipo histológico de bom prognóstico, com baixa taxa de recidiva.
-D - Manifestações clínicas e laboratoriais
-A apresentação clínica mais comum é o aparecimento de adenomegalias indolores (em 60% dos casos cervicais ou supraclaviculares; nos demais casos, axilares ou inguinais), de consistência de borracha. O paciente pode referir dor na região acometida após a ingestão de álcool, mesmo em pequena quantidade (tal queixa é bastante rara – <10% –, mas, se presente, é bastante específica de LH). A doença geralmente progride de forma contígua, isto é, cervical, supraclavicular, axilar e mediastinal, retroperitoneal, inguinal.
-A 2ª forma de apresentação mais comum é a massa mediastinal, detectada por raio x em virtude de sintomas respiratórios (tosse seca, dispneia, dor torácica, rouquidão, pneumonite obstrutiva, até síndrome da veia cava superior) ou durante investigação de prurido intratável (outra queixa inespecífica que se pode correlacionar com LH). O baço pode estar envolvido em 25%, e a medula óssea, infiltrada em 15% dos casos. Áreas extraganglionares raramente são afetadas no LH, incluindo pele, SNC e trato gastrintestinal; se envolvidos, devem suscitar a associação da doença ao HIV ou ao diagnóstico de LNH.
-Um terço dos pacientes apresentará sintomas B ao diagnóstico. Há uma particularidade bastante rara, mas específica do LH, que é a febre de Pel-Ebstein, caracterizada por períodos de dias ou semanas de febre alta, separados por intervalos afebris de mesma duração.
-O prurido, apesar de não ter valor prognóstico e, por este motivo, não ser considerado sintoma B, é um sintoma importante, pois pode ser precoce ou inclusive preceder o diagnóstico de linfoma em meses, devendo ser sinal de alerta para pessoas com queixa de prurido difuso sem motivo aparente. 
 
-Tabela 6 - Alterações inespecíficas encontradas na avaliação laboratorial
-- Hemograma: anemia de doença crônica, ou seja, normocítica/normocrômica; podem estar presentes anemia hemolítica, leucocito-se com neutrofilia e/ou eosinofilia (sinal indireto de atividade de doença), linfopenia, plaquetas em número normal, aumentado ou diminuído;
+D - Manifestações clínicas e laboratoriais
+
+Importante
+Adenomegalias indolores cervicais ou supraclaviculares são a principal manifestação de linfoma de Hodgkin, seguida de presença de massa mediastinal que causa sintomas respiratórios (tosse seca, dispneia, síndrome da veia cava superior).
+
+A apresentação clínica mais comum é o aparecimento de adenomegalias indolores (em 60% dos casos, cervicais ou supraclaviculares; nos demais casos, axilares ou inguinais), de consistência de borracha. O paciente pode referir dor na região acometida após a ingestão de álcool, mesmo em pequena quantidade (tal queixa é bastante rara – <10% –, mas, se presente, é bastante específica de LH). A doença geralmente progride de forma contígua, isto é, cervical, supraclavicular, axilar e mediastinal, retroperitoneal, inguinal.
+A 2ª forma de apresentação mais comum é a massa mediastinal, detectada por raio x em virtude de sintomas respiratórios (tosse seca, dispneia, dor torácica, rouquidão, pneumonite obstrutiva, até síndrome da veia cava superior) ou durante investigação de prurido intratável (outra queixa inespecífica que pode se correlacionar com LH). O baço pode estar envolvido em 25%, e a medula óssea, infiltrada em 15% dos casos. Áreas extraganglionares raramente são afetadas no LH, incluindo pele, SNC e trato gastrintestinal; se envolvidos, devem suscitar a associação da doença ao HIV ou ao diagnóstico de LNH.
+
+Importante
+Um terço dos pacientes apresentará sintomas B ao diagnóstico. Há uma particularidade bastante rara, mas específica do linfoma de Hodgkin, que é a febre de Pel-Ebstein, caracterizada por períodos de dias ou semanas de febre alta, separados por intervalos afebris de mesma duração. 
+
+O prurido, apesar de não ter valor prognóstico e, por esse motivo, não ser considerado sintoma B, é um sintoma importante, pois pode ser precoce ou inclusive preceder o diagnóstico de linfoma em meses, devendo ser sinal de alerta para pessoas com queixa de prurido difuso sem motivo aparente. 
+
+Tabela 5 - Alterações inespecíficas encontradas na avaliação laboratorial
+- Hemograma: anemia de doença crônica, ou seja, normocítica/normocrômica; podem estar presentes anemia hemolítica, leucocitose com neutrofilia e/ou eosinofilia (sinal indireto de atividade de doença), linfopenia, plaquetas em número normal, aumentado ou di-minuído;
 - Hipoalbuminemia;
-- DHL (desidrogenase láctica) aumentada; 
+- Desidrogenase láctica (DHL) aumentada; 
 - Velocidade de hemossedimentação (VHS) aumentada (sendo o principal fator inespecífico correlacionado com atividade de doença).
+
 E - Evolução e prognóstico
-Alguns fatores estão diretamente relacionados ao prognóstico, a depender do estadiamento clínico (Tabelas 3, 5 e 7), os quais se separam 2 grupos: de prognóstico favorável ou desfavorável. A estratificação de risco é importante para determinar a intensidade do tratamento e reavaliar, após o término, a efetividade da terapêutica instituída.
-Tabela 7 - Fatores de mau prognóstico
+Alguns fatores estão diretamente relacionados ao prognóstico, a depender do estadiamento clínico (Tabelas 2, 4 e 6), os quais se separam em 2 grupos: de prognóstico favorável ou desfavorável. A estratificação de risco é importante para determinar a intensidade do tratamento e reavaliar, após o término, a efetividade da terapêutica instituída.
+
+Tabela 6 - Fatores de mau prognóstico
 Estadios precoces (I e II)
 - Bulky mediastinal;
 - =4 regiões linfonodais acometidas;
 - >50 anos;
-- VHS >50 ou VHS >30 se associado a sintoma B.
+- VHS >50 ou VHS >30 se associada a sintoma B.
 Estadios avançados (III e IV)
 - Estadio IV; 
 - Sexo masculino;
@@ -110,23 +156,48 @@ Estadios avançados (III e IV)
 - Contagem de leucócitos >15.000;
 - Contagem de linfócitos <600/µL ou 8% do total de leucócitos;
 - Hemoglobina <10,5g/dL.
-Para pacientes em estadio precoce, a presença de apenas 1 fator de mau prognóstico o classifica como desfavorável. Nos estadios avançados, quanto maior o número de fatores de mau prognóstico, pior a sobrevida em 5 anos, variando de 84% para aqueles com nenhum fator a 42%, se 5 ou mais fatores estiverem presentes. 
+
+Para pacientes em estadio precoce, a presença de apenas 1 fator de mau prognóstico o classifica como desfavorável. Nos estadios avançados, quanto maior o número de fatores de mau prognóstico, pior a sobrevida em 5 anos, variando de 84% para aqueles com nenhum fator a 42% se 5 ou mais fatores estiverem presentes. 
 Com as opções terapêuticas atuais, é possível alcançar até 94% de sobrevida em 10 anos, o que torna o LH a doença onco-hematológica com maior taxa de cura da atualidade.
+
 F - Tratamento
-O estadiamento clínico correto é fundamental para a orientação terapêutica. O uso da terapia combinada (quimioterapia + radioterapia) tem o objetivo de alcançar maior sobrevida global e sobrevida livre de doença, com a menor toxicidade possível, pois utiliza inferior quantidade de quimioterapia, diminuído campo irradiado e menor dose de radioterapia (o LH é um dos tumores mais sensíveis à radioterapia). 
-Tabela 8 - Estadiamento clínico
-Estadio precoce favorável	A proposta é de 2 a 4 ciclos de quimioterapia + radioterapia da região linfonodal acometi-da (involved field). O uso de radioterapia exclusiva apresenta maior taxa de recidiva quando em comparação com o da terapia combinada. 
+
+Tratamento
+O tratamento do linfoma de Hodgkin é feito com base no estadio clínico do paciente e utiliza um esquema combinado de quimioterapia + radioterapia que potencializa a terapêutica e aumenta a sobrevida. 
+
+O estadiamento clínico correto é fundamental para a orientação terapêutica. O uso da terapia combinada (quimioterapia + radioterapia) tem o objetivo de alcançar maior sobrevida global e sobrevida livre de doença, com a menor toxicidade possível, pois utiliza inferior quantidade de quimioterapia, diminuído campo irradiado e menor dose de radioterapia (o LH é um dos tumores mais sensíveis a radioterapia). 
+
+Tabela 7 - Estadiamento clínico
+Estadio precoce favorável	A proposta é de 2 a 4 ciclos de quimioterapia + radioterapia da região linfonodal acometida (involved field). O uso de radioterapia exclusiva apresenta maior taxa de recidiva quando em comparação com o da terapia combinada. 
 Estadio precoce desfavorável	A proposta é de 2 a 6 ciclos de quimioterapia + radioterapia involved field.
 Estadio avançado	Atualmente, preconizam-se 6 ciclos de quimioterapia + radioterapia somente na lesão bulky, ou se houver lesão residual. A realização de 8 ciclos de quimioterapia mostrou resultados semelhantes a 6 ciclos, porém, com maior toxicidade, devendo-se delimitar, até o presente momento, como 6 o número máximo de quimioterapias.
-Mesmo nos casos refratários (ou seja, resistentes à quimioterapia) ou nas recaídas (que responderam ao tratamento inicial, no entanto, voltaram a apresentar a doença), a chance de cura ainda chega a 50% com tratamento adequado. A proposta, nesse caso, é quimioterapia de resgate (com drogas quimioterápicas diferentes do tratamento anterior) seguida do transplante de células-tronco hematopoéticas autólogo. 
+
+Mesmo nos casos refratários (ou seja, resistentes a quimioterapia) ou nas recaídas (que responderam ao tratamento inicial e, no entanto, voltaram a apresentar a doença), a chance de cura ainda chega a 50% com tratamento adequado. A proposta, nesse caso, é quimioterapia de resgate (com drogas quimioterápicas diferentes das do tratamento anterior), seguida do transplante de células-tronco hematopoéticas autólogo. 
 O papel do transplante de células-tronco hematopoéticas alogênico (de doador) se limita aos casos refratários a todas as terapias prévias, com resultados bem menos promissores (aproximadamente, 10 a 15% de resposta).
 Como a maior parte dos pacientes com LH com PLN apresenta-se em estadio precoce favorável e tem evolução e prognóstico muito bons, o tratamento pode ser menos agressivo, com base em radioterapia exclusiva. Para os estadios precoces desfavoráveis e avançados, o tratamento é semelhante ao do LH clássico.
+
 G - Linfoma de Hodgkin e HIV
 Nos pacientes em que ocorre infecção pelo HIV, o LH se apresenta com maior frequência de sintomas B, diagnóstico de doença em estadiamento avançado com maior incidência de infiltração de medula óssea e/ou extranodal. Quase universalmente, encontra-se coinfecção com vírus Epstein-Barr. Os subtipos histológicos mais incidentes são a celularidade mista e a depleção linfocitária, deixando de ser o LH clássico esclerose nodular. Apesar da melhora dos resultados da quimioterapia após uso de terapia antirretroviral de alta potência (HAART, ou TARV, em português), o prognóstico é pior do que no HIV negativo, denotando doença extremamente agressiva.
+
+Pergunta
+2010 - FMUSP-RP
+1. Um homem de 22 anos, previamente hígido, há 2 meses apresenta adenomegalia cervical bilateral e adenomegalia su-praclavicular esquerda, febre diária e perda de peso. Procurou serviço médico, onde foi realizada biópsia de gânglio cervical, e o anatomopatológico mostrava células de Reed-Sternberg, tomografias sem outros acometimentos ganglionares ou de órgãos extranodais e hemograma sem alterações. O diagnóstico, o estadiamento e o tratamento são, respectivamente:
+a) linfoma de Hodgkin – esclerose nodular – estadio IIB – quimioterapia e radioterapia
+b) linfoma de Hodgkin – predomínio linfocitário; estadio IIA – quimioterapia
+c) linfoma de Hodgkin – zona do manto; estadio IIB – quimioterapia e radioterapia
+d) linfoma de Hodgkin – folicular; estadio IIA – radioterapia
+Resposta no final do capítulo
+
 4. Linfoma não Hodgkin
+
+Importante
+O linfoma não Hodgkin caracteriza-se por uma proliferação anômala de linfócitos T, linfócitos B ou células reticulares que estão em estágios variados de maturação. Ocorre principalmente nos linfonodos, mas pode acometer qualquer região que tenha a presença dessas células. 
+
 A - Introdução
 Os LNHs se caracterizam por proliferações clonais de células do sistema imunológico (linfócitos T, linfócitos B ou células reticulares) em diferentes estágios de maturação, geralmente com origem em linfonodos, mas podendo originar-se de qualquer parte do corpo que contenha tais células. Apresentam, assim, ampla variedade histológica, imuno-histoquímica e clínica.
+
 B - Epidemiologia
+
 a)	Do ponto de vista epidemiológico, os LNHs correspondem a:
 6ª neoplasia mais diagnosticada;
 6ª principal causa de óbito por câncer;
@@ -135,27 +206,35 @@ Homens são mais acometidos que mulheres;
 Aumento anual de 3% na incidência;
 Incidência aumentando logaritmicamente com a idade; 
 Incidência dos diversos tipos diferindo geograficamente. Por exemplo: linfoma T/NK nasal tem maior incidência no sul da Ásia e em partes da América Latina; ATLL (leucemia/linfoma de células T do adulto) é mais comum no sul do Japão e no Caribe.
+
 b) Causas do aumento de incidência:
 Melhoria do diagnóstico; 
 AIDS;
 Exposição ambiental;
 Advento de terapias imunossupressoras.
+
 C - Etiologia
-A etiologia é multifatorial: exposição ocupacional a pesticidas e herbicidas, além de radiação ionizante em altas doses, pode ser fator etiológico. 
-Existem alguns agentes infecciosos relacionados já bem definidos (Tabela 9).
-Tabela 9 - Agentes infecciosos relacionados 
+
+Tema frequente de prova
+A característica multifatorial da etiologia do linfoma não Hodgkin é tema frequentemente encontrado nas provas de Residência Médica.
+
+Existem alguns agentes infecciosos relacionados já bem definidos (Tabela 8).
+
+Tabela 8 - Agentes infecciosos relacionados 
 Agentes infecciosos	Tipos de LNH
 HTLV-1 (vírus humano linfotrópico T)	ATLL
 Vírus Epstein-Barr	Linfoma de Burkitt, linfoma primário do SNC, linfomas relacionados à imunossupressão e linfoma T/NK nasal
-Helicobacter pylori	Linfoma MALT (Mucosa-Associated Lymphoid Tissue) do estômago
+Helicobacter pylori	Linfoma MALT (Mucosa-Associated Lymphoid Tissue) de estômago
 Borrelia sp.	Linfoma B cutâneo
 Chlamydia psittaci	Linfoma MALT ocular
 HIV	Linfoma difuso de grandes células B e linfoma de Burkitt
-Vírus da hepatite C	Linfoma da zona marginal esplênico
+Vírus da hepatite C	Linfoma esplênico da zona marginal 
 Herpes-vírus humano tipo 8	Linfoma primário de efusão 
+
 Investiga-se ainda a presença de incidências familiares aumentadas de LNH. Doenças imunossupressoras, congênitas ou adquiridas também são relacionadas ao aumento da incidência.
 Em cerca de 50% dos linfomas de células B, podem-se identificar anormalidades cromossômicas, geralmente translocações. Pelo menos em 3 entidades (linfoma de Burkitt, linfoma folicular e linfoma do manto), translocações distintas estão presentes na maioria dos casos, o que parece constituir eventos críticos no desenvolvimento da doença. 
-Tabela 10 - Principais alterações cromossômicas dos linfomas de células B
+
+Tabela 9 - Principais alterações cromossômicas dos linfomas de células B
 Neoplasias	Translocações	Consequências
 Burkitt 	t(8;14)	Ativação do c-Myc 
 MALT 	t(11;18)	Redução da apoptose
@@ -163,129 +242,173 @@ MALT 	t(11;18)	Redução da apoptose
 Folicular 	t(14;18)	Ativação do bcl-2 
 Difuso de grandes células B 	t(3;14)	Doença extranodal 
 Linfoblástico 	t(1;14)	Ativação do tal-1/SCL 
-Manto 	t(11;14)	Ativação do bcl-1 (ciclina D1)
+Do manto 	t(11;14)	Ativação do bcl-1 (ciclina D1)
+
 D - Quadro clínico
-A manifestação clínica depende muito do tipo de linfoma e do local acometido. Tipicamente, manifesta-se como adenomegalia indolor, confluente e de aumento progressivo; sintomas B estão presentes em 25 a 40%, principalmente nos linfomas agressivos; outros sintomas sistêmicos são menos comuns (<10%) e sem valor prognóstico, como fadiga, mal-estar e prurido. O tecido linfoide da orofaringe (anel de Waldeyer) pode estar envolvido, em geral, em associação ao trato gastrintestinal. A hepatoesplenomegalia é bem mais comum no LNH do que no LH, principalmente nos linfomas indolentes. 
-A história e o exame físico completos são fundamentais para detectar evidências de envolvimento extranodal (mais frequente no trato gastrintestinal, mas também no SNC, testículo, pulmão, pele e medula óssea), sendo essa infiltração extranodal bem mais comum que no LH, com incidência em torno de 35% dos casos.
-O performance status é de valor prognóstico muito importante e influi na decisão terapêutica, devendo ser documentado. As 2 escalas mais utilizadas são a de Karnofsky e o ECOG (Eastern Cooperative Oncology Group – Tabela 11).
-Tabela 11 - Escala de performance status do ECOG 
+
+Quadro clínico
+O quadro clínico do linfoma não Hodgkin depende do tipo de linfoma e do local onde se apresenta, podendo causar, como sintomas principais, adenomegalia indolor, febre, sudorese noturna e emagrecimento. Podem ocorrer ainda fadiga, mal-estar, prurido cutâneo e hepatoesplenomegalia.
+
+A manifestação clínica depende muito do tipo de linfoma e do local acometido. Tipicamente, manifesta-se como adeno-megalia indolor, confluente e de aumento progressivo; sintomas B estão presentes em 25 a 40%, principalmente nos linfomas agressivos; outros sintomas sistêmicos são menos comuns (<10%) e sem valor prognóstico, como fadiga, mal-estar e prurido. O tecido linfoide da orofaringe (anel de Waldeyer) pode estar envolvido, em geral em associação ao trato gastrintestinal. A hepatoesplenomegalia é bem mais comum no LNH do que no LH, principalmente nos linfomas indolentes. 
+A história e o exame físico completos são fundamentais para detectar evidências de envolvimento extranodal (mais frequente no trato gastrintestinal, mas também no SNC, testículo, pulmão, pele e medula óssea), sendo essa infiltração extranodal bem mais comum do que no LH, com incidência em torno de 35% dos casos.
+O performance status é de valor prognóstico muito importante e influi na decisão terapêutica, devendo ser documentado. As 2 escalas mais utilizadas são a de Karnofsky e a do ECOG (Eastern Cooperative Oncology Group – Tabela 10).
+
+Tabela 10 - Escala de performance status do ECOG 
 Performance status	Definições
 0	Sem restrições, é assintomático.
 1	Exerce as atividades habituais, com restrição aos grandes esforços.
 2	É capaz apenas de autocuidado, não exercendo atividades habituais.
 3	É restrito ao leito >50% do dia e tem auxílio para autocuidado.
 4	É limitado ao leito, totalmente dependente.
+
 Complicações possíveis como manifestação inicial do linfoma, que necessitam de rápida identificação e tratamento, caracterizando emergência médica, são:
-Tabela 12 - Emergências médicas
-- Síndromes compressivas: compressão medular, síndrome da veia cava superior, obstrução da via aérea superior (em geral por massa mediastinal), obstrução ou intussuscepção intestinal, obstrução ureteral;
+
+Tabela 11 - Emergências médicas
+-	Síndromes compressivas: compressão medular, síndrome da veia cava superior, obstrução da via aérea superior (em geral por massa mediastinal), obstrução ou intussuscepção intestinal, obstrução ureteral;
 - Tamponamento pericárdico;
 - Hipercalcemia, particularmente na ATLL;
 - Meningite linfomatosa ou lesão com efeito de massa no SNC; 
 - Lise tumoral em linfomas de alto turnover (Burkitt e linfoblástico); 
 - Hiperviscosidade em linfoma linfoplasmocítico; 
 - Anemia ou plaquetopenia autoimune severas – habitualmente, associadas ao linfoma linfocítico. 
+
 E - Classificação 
-A classificação dos LNHs é motivo de controvérsia em toda a história da Medicina, justamente pela ampla variedade histológica que essa patologia oferece. Debates desde a década de 1970 propuseram 6 novas classificações e, por um período, 4 delas chegaram a ser utilizadas em todo o mundo ao mesmo tempo. Posteriormente, após uma tentativa de consenso, conseguiu-se uma unificação da classificação chamada Working Formulation que, por muitos anos, foi a mais utilizada. Na década de 1990, houve ainda a classificação REAL. Atualmente, é usada a classificação da OMS, que considera aspectos morfológicos, imunofenotípicos, genéticos e clínicos.
-Tabela 13 - Classificação da OMS resumida
+A classificação dos LNHs é motivo de controvérsia em toda a história da Medicina, justamente pela ampla variedade histológica que essa patologia oferece. Debates desde a década de 1970 propuseram 6 novas classificações e, por um período, 4 delas chegaram a ser utilizadas em todo o mundo ao mesmo tempo. Posteriormente, após uma tentativa de consenso, conseguiu-se uma unificação da classificação chamada Working Formulation, que, por muitos anos, foi a mais utilizada. Na década de 1990, houve, ainda, a classificação REAL. Atualmente, é usada a classificação da OMS, que considera aspectos morfológicos, imunofenotípicos, genéticos e clínicos.
+
+Tabela 12 - Classificação da Organização Mundial da Saúde resumida
 Neoplasias linfoides B
 Neoplasias de células B precursoras
 1 - Linfoma/leucemia linfoblástico.
-Neoplasias de células B periféricas 
+Neoplasias de células B maduras 
 1 - Leucemia linfoide crônica, leucemia pró-linfocítica, linfoma linfocítico. 
 2 - Linfoma linfoplasmocítico.
 3 - Linfoma de células do manto.
 4 - Linfoma folicular (graus: I, células pequenas; II, misto; III, células grandes).
-5 - Linfoma da zona marginal.
-A - Extranodal (tipo MALT).
-B - Nodal. 
-6 - Linfoma esplênico da zona marginal.
-7 - Tricoleucemia.
-8 - Plasmocitoma/mieloma múltiplo.
-9 - Linfoma difuso de grandes células B.
-10 - Linfoma de Burkitt.
+5 - Linfoma da zona marginal:
+A - Extranodal (tipo MALT – linfoma de tecido linfoide associado à mucosa).
+B - Nodal (subtipos gástrico e não gástrico).
+C - Esplênico.
+6 - Tricoleucemia.
+7 - Plasmocitoma/mieloma múltiplo.
+8 - Linfoma difuso de grandes células B.
+9 - Linfoma de Burkitt.
 Neoplasias de células T e NK (Natural Killer)
 Neoplasias de células T precursoras
-1 - Linfoma/leucemia linfoblástica.
-Neoplasias de células T periféricas
+1 - Linfoma/leucemia linfoblástico.
+Neoplasias de células T maduras
 1 - Leucemia pró-linfocítica T.
 2 - Linfoma de células T/NK.
 3 - Micose fungoide e síndrome de Sézary.
 4 - Linfoma T periférico.
 5 - Linfoma angioimunoblástico.
 6 - Linfoma angiocêntrico.
-7 - Linfoma intestinal (associado ou não à enteropatia).
+7 - Linfoma intestinal (associado ou não a enteropatia).
 8 - ATLL.
 9 - Linfoma de grandes células anaplásico.    
 
-Além da classificação histológica, podem-se agrupar os pacientes em apresentações clínicas comuns de sobrevida semelhante. Assim, os LNHs são agrupados em linfomas indolentes, agressivos e muito agressivos, classificação esta extremamente importante para a programação terapêutica.
-Os linfomas indolentes têm crescimento lento e acometem principalmente os idosos. Os pacientes podem apresentar-se com poucos sintomas por vários anos, mesmo após o diagnóstico, sendo comuns, por esse motivo, a apresentação em estadios avançados (estadio III ou IV) e o envolvimento do sangue e da medula óssea. Como o curso é lento, a sobrevida é de vários anos, mesmo se não tratado. Pode-se, inclusive, observar ocasional regressão espontânea em alguns casos. Entretanto, a cura em tais situações é menos provável do que entre os pacientes com formas agressivas de linfoma, pois a taxa de recidiva é muito alta. Os linfomas indolentes correspondem a, aproximadamente, 40% dos diagnósticos de LNH.
+Além da classificação histológica, podem-se agrupar os pacientes em apresentações clínicas comuns de sobrevida semelhante. Assim, os LNHs são agrupados em linfomas indolentes, agressivos e muito agressivos, classificação essa extremamente importante para a programação terapêutica.
+Os linfomas indolentes têm crescimento lento e acometem principalmente os idosos. Os pacientes podem se apresentar com poucos sintomas por vários anos, mesmo após o diagnóstico, sendo comuns, por esse motivo, a apresentação em estadios avançados (estadio III ou IV) e o envolvimento do sangue e da medula óssea. Como o curso é lento, a sobrevida é de vários anos, mesmo se não tratado. Pode-se, inclusive, observar ocasional regressão espontânea em alguns casos. Entretanto, a cura em tais situações é menos provável do que entre os pacientes com formas agressivas de linfoma, pois a taxa de recidiva é muito alta. Os linfomas indolentes correspondem a, aproximadamente, 40% dos diagnósticos de LNH.
 Por sua vez, os linfomas agressivos atingem qualquer idade, geralmente adultos, apresentando-se com massa de rápido crescimento. O envolvimento do sangue e da medula óssea, ao contrário, é menos comum, e, caso não haja tratamento, a sobrevida é curta, com duração de meses.
 Finalmente, os LNHs altamente agressivos acometem crianças e adultos jovens, com crescimento tumoral extremamente rápido; consequentemente, o estadio ao diagnóstico também é avançado. É comum o envolvimento inicial da medula óssea e do SNC, com sobrevida de semanas se não há tratamento.
-A seguir, estão descritos os principais representantes de cada tipo clínico de linfoma:
-Linfomas indolentes (sobrevida de anos): linfoma linfocítico, linfoplasmocítico, folicular, MALT, micose fungoide;
-Linfomas agressivos (sobrevida de meses): linfoma do manto, grandes células B, anaplásico, angiocêntrico T/NK; 
-Linfomas altamente agressivos (sobrevida de semanas): linfoma linfoblástico, Burkitt.
+
+Importante
+Os principais tipos de linfoma são indolentes (sobrevida de anos), que incluem os linfomas linfocítico, linfoplasmocítico, folicular, MALT, micose fungoide; agressivos (sobrevida de meses), que compreendem os linfomas do manto, de grandes células B, anaplásico, angiocêntrico T/NK; e, por fim, os altamente agressivos (sobrevida de semanas), envolvendo o linfoma linfoblástico e o de Burkitt.
+
 Segue a descrição das formas histopatológicas mais frequentes:
-a) LNH difuso de grandes células B 
+
+a)	LNH difuso de grandes células B 
+
+Dica
+O tipo difuso de grandes células B é o mais comum de linfoma não Hodgkin, tratado com poliquimioterapia + rituximabe.
+
 É a neoplasia linfoide mais comum e corresponde a 25% de todos os linfomas. A incidência aumenta com a idade, com mediana ao diagnóstico de 64 anos e predomínio no sexo masculino. Apresenta-se como massa de rápido crescimento, com diagnóstico em estadio avançado em 60% dos casos. O acometimento extralinfonodal ocorre em 40%, sendo o local mais comum o trato gastrintestinal, mas pode acometer qualquer tecido: pele, testículo, SNC, ovários, osso, tireoide, amígdalas etc. A medula óssea pode estar envolvida em até 30% dos casos ao diagnóstico. É agressiva, com taxa de sobrevida em 4 anos de 53 a 94%, de acordo com os fatores prognósticos e o tratamento. A associação de poliquimioterapia ao rituximabe (anticorpo monoclonal anti-CD20) melhorou em 15% as taxas de remissão completa e sobrevida.
+
 b) Linfoma folicular
-É o linfoma indolente mais comum (20% dos LNHs e 70% dos LNHs indolentes) de células B. Ocorre, sobretudo, em idosos (mediana de idade ao diagnóstico de 60 anos), com discreto predomínio nas mulheres, com linfadenopatia generalizada, indolor e, muitas vezes, extensa. O comprometimento de órgãos que não linfonodos ou medula óssea é incomum. Em 60 a 70%, a medula óssea está acometida ao diagnóstico. Histologicamente, é subclassificado pela OMS em graus I, II ou III (predomínio de células pequenas, mistas ou grandes, respectivamente), sendo essa divisão de importante valor prognóstico, pois o grau III é de evolução mais rápida e com menor sobrevida. Pode evoluir para formas rapidamente progressivas (linfoma de células B difuso), de prognóstico mais reservado. A sobrevida de 8 a 12 anos é comum, mesmo sem indicação terapêutica.
+É o linfoma indolente mais comum (20% dos LNHs e 70% dos LNHs indolentes) de células B. Ocorre, sobretudo, em idosos (mediana de idade ao diagnóstico de 60 anos), com discreto predomínio nas mulheres, com linfadenopatia generalizada, indolor e, muitas vezes, extensa. O comprometimento de órgãos que não linfonodos ou medula óssea é incomum. Em 60 a 70% dos casos, a medula óssea está acometida ao diagnóstico. Histologicamente, é subclassificado pela OMS em graus I, II ou III (predomínio de células pequenas, mistas ou grandes, respectivamente), sendo essa divisão de importante valor prognóstico, pois o grau III é de evolução mais rápida e com menor sobrevida. Pode evoluir para formas rapidamente progressivas (linfoma de células B difuso), de prognóstico mais reservado. A sobrevida de 8 a 12 anos é comum, mesmo sem indicação terapêutica.
+
 c) Linfoma MALT
 O MALT é um linfoma indolente de células B, que pode ser dividido em 3 classes: nodal, esplênico e extranodal, sendo o último o mais comum. O linfoma MALT extranodal pode se desenvolver em inúmeros tecidos: estômago, intestino, glândulas salivares, tireoide, pulmões, anexos oculares, pele etc., sendo o quadro clínico dependente do local acometido.
 O linfoma MALT é localizado, na maior parte dos casos, com longos períodos de remissão, muitas vezes, apenas com tratamento cirúrgico ou radioterápico, mas apresenta alta taxa de recidiva e potencial de disseminação e transformação em linfoma agressivo ao longo dos anos.
-Evidências sugerem que esse linfoma é originado de prolongada e excessiva proliferação linfoide por estimulação antigênica crônica por vírus, bactérias ou doença autoimune.
-O linfoma MALT gástrico é o principal representante dessa classe de LNH, associado ao Helicobacter pylori em mais de 90% dos casos. Os sintomas são semelhantes aos da úlcera e do adenocarcinoma gástrico (com dispepsia inespecífica, epigastralgia e síndrome consumptiva), e o aspecto endoscópico pode ser de gastrite inespecífica a úlcera péptica, pólipo e adenocarcinoma, localizadas principalmente no antro ou de padrão multifocal. A biópsia permite fazer o diagnóstico. Alguns linfomas MALT gástricos, quando localizados, curam-se com a erradicação do Helicobacter pylori (60 a 70%); a radioterapia é reservada aos casos refratários ao tratamento antimicrobiano, mas com doença localizada, e aos casos em que a pesquisa de H. pylori é negativa. A quimioterapia concomitante está indicada apenas na presença de doença avançada. A cirurgia é indicada apenas quando há complicações (obstrução ou perfuração). O paciente com linfoma MALT tem prognóstico, na maior parte das vezes, muito bom. 
+
+Dica
+Evidências sugerem que o linfoma MALT é originado de prolongada e excessiva proliferação linfoide por estimulação antigênica crônica por vírus, bactérias ou doença autoimune, sendo o tipo gástrico o mais comum, associado ao H. pylori.
+
+O linfoma MALT gástrico é o principal representante dessa classe de LNH, associado ao Helicobacter pylori em mais de 90% dos casos. Os sintomas são semelhantes aos da úlcera e do adenocarcinoma gástrico (com dispepsia inespecífica, epigastralgia e síndrome consumptiva), e o aspecto endoscópico pode ser de gastrite inespecífica a úlcera péptica, pólipo e adenocarcinoma, localizados principalmente no antro ou de padrão multifocal. A biópsia permite fazer o diagnóstico. Alguns linfomas MALT gástricos, quando localizados, curam-se com a erradicação do Helicobacter pylori (60 a 70%); a radioterapia é reservada aos casos refratários ao tratamento antimicrobiano, mas com doença localizada, e aos casos em que a pesquisa de H. pylori é negativa. A quimioterapia concomitante está indicada apenas na presença de doença avançada. A cirurgia é indicada apenas quando há complicações (obstrução ou perfuração). O paciente com linfoma MALT tem prognóstico, na maior parte das vezes, muito bom. 
+
 d) Linfoma linfoblástico 
-Pode ter origem em célula B ou T. Trata-se de um espectro linfomatoso da leucemia linfoide aguda, ou seja, a célula que dá origem às 2 doenças é a mesma (linfócito imaturo – linfoblasto), mas a manifestação clínica é diferente:
-Tabela 14 - Manifestação clínica
+Pode ter origem em célula B ou T. Trata-se de um espectro linfomatoso da leucemia linfoide aguda, ou seja, a célula que dá origem às 2 doenças é a mesma (linfócito imaturo – linfoblasto), mas as manifestações clínicas são diferentes:
+
+Tabela 13 - Manifestações clínicas
 - No Linfoma Linfoblástico (LL), há aumento de gânglios linfáticos, caracteristicamente do mediastino, e na medula óssea há menos de 25% de blastos; 
-- Na leucemia, podem existir adenomegalias, mas há mais de 25% de blastos na medula óssea. O LL-T (linfócitos T intratímicos imaturos) ocorre, predominantemente, em adultos jovens, adolescentes e crianças. É 2 vezes mais frequente em homens e tem, como característica clínica mais importante, o aparecimento de adenomegalia difusa e de massa mediastinal, muitas vezes com derrame pleural e pericárdico associados;   
-- No LL-B, é menos comum o envolvimento mediastinal, sendo mais frequente o acometimento extranodal. Juntamente com a LLA-B, perfaz o tipo de câncer mais comum da infância; 
+- Na leucemia, podem existir adenomegalias, mas há mais de 25% de blastos na medula óssea. O LLT (linfócitos T intratímicos imatu-ros) ocorre, predominantemente, em adultos jovens, adolescentes e crianças. É 2 vezes mais frequente em homens e tem, como ca-racterística clínica mais importante, o aparecimento de adenomegalia difusa e de massa mediastinal, muitas vezes com derrames pleural e pericárdico associados;   
+- No LL B, é menos comum o envolvimento mediastinal, sendo mais frequente o acometimento extranodal. Juntamente com a LLA B, perfaz o tipo de câncer mais comum da infância; 
 - Ambos apresentam alto risco de infiltração no SNC; 
-- Tanto o LL-B como o T apresentam envolvimento precoce de medula óssea e evoluem rapidamente para LLA, devendo ser trata-dos como uma leucemia aguda. Os poucos que conseguem manter a doença na fase linfomatosa alcançam alta taxa de cura.
+- Tanto o LL B como o T apresentam envolvimento precoce de medula óssea e evoluem rapidamente para LLA, devendo ser tratados como uma leucemia aguda. Os poucos que conseguem manter a doença na fase linfomatosa alcançam alta taxa de cura.
+
 e) Linfoma de Burkitt 
 Consiste em um linfoma morfologicamente formado por pequenas células não clivadas. Observam-se 3 formas clínicas distintas:
-Tabela 15 - Formas clínicas
+
+Tabela 14 - Formas clínicas
 Endêmica	Principalmente entre crianças africanas, com comprometimento mandibular ou intra-abdominal, sendo considerado endêmico nessa região, onde é comum o encontro de evidências de infecção pelo vírus Epstein-Barr
 Esporádica	Mais frequente na África e na América, envolvendo mais comumente o intestino, o retroperitônio e os ovários
-Em associação à imunodefici-ência	Mais comum entre adultos e pacientes HIV positivo (entre estes, acomete aqueles com alto valor de CD4 e sem infecção oportunista)
-É considerado o linfoma de crescimento mais rápido, que pode dobrar o volume das massas em 24 horas, com habitual envolvimento extranodal, principalmente intra-abdominal, SNC e medula óssea. Em vista da velocidade de crescimento exacerbada, é comum apresentar, ao diagnóstico, sinais de lise tumoral espontânea (alto valor de DHL, ácido úrico e disfunção renal), e o prognóstico pode ser muito comprometido se o tratamento não é iniciado o mais rápido possível. A taxa de cura com as opções terapêuticas atuais chega a 80%. 
+Em associação a imunodefici-ência	Mais comum entre adultos e pacientes HIV positivo (entre estes, acomete aqueles com alto valor de CD4 e sem infecção oportunista)
+
+É considerado o linfoma de crescimento mais rápido, que pode dobrar o volume das massas em 24 horas, com habitual envolvimento extranodal, principalmente intra-abdominal, SNC e medula óssea. Em vista da velocidade de crescimento exacerbada, é comum apresentar, ao diagnóstico, sinais de lise tumoral espontânea (alto valor de DHL e ácido úrico e disfunção renal), e o prognóstico pode ser muito comprometido se o tratamento não é iniciado o mais rápido possível. A taxa de cura com as opções terapêuticas atuais chega a 80%. 
+
  
-Figura 7 - Criança com LNH Burkitt
+Figura 7 - Criança com linfoma não Hodgkin Burkitt
+
+Tema frequente de prova
+Nas provas de Residência, aparece com frequência como tema a habitual associação do linfoma de Burkitt e soropositivida-de para HIV, principalmente nos pacientes com CD4 alto e sem infecção oportunista.
+
 f) Linfoma do manto
 Corresponde a 7% dos LNHs. O diagnóstico é feito em estadio avançado em 70% dos casos, sendo bastante frequente o envolvimento extranodal, como a medula óssea, o baço e o trato gastrintestinal, principalmente o intestino e o anel de Waldeyer. É um subtipo de linfoma de prognóstico ruim, com sobrevida em 5 anos entre 25 e 50%, de acordo com os fatores prognósticos.
+
 g) Micose fungoide
 É um linfoma de células T cutâneo que geralmente leva a variado quadro clínico dermatológico, incluindo placas, nódulos e/ou eritrodermia esfoliativa generalizada. Quando ocorre a leucemização desse linfoma (pela presença de células de Sézary, de núcleos convolutos e cerebriformes), dá-se o nome de síndrome de Sézary. A sobrevida média desse tipo de linfoma é de cerca de 10 anos, caracterizando-se como doença indolente, podendo variar até 1 ano, de acordo com estadiamentos mais avançados.
+
  
 Figura 8 - Placas elevadas e eritematosas, cuja biópsia resultou em infiltração difusa por linfócitos T, típicos de micose fungoide
+
  
 Figura 9 - Eritrodermia difusa em micose fungoide
 
  
 Figura 10 - Células de Sézary
+
 h) Leucemia/linfoma de células T do adulto 
-Rara nos países ocidentais, é a forma mais comum de linfoma na Ásia e é causada pelo vírus HTLV-1. A ATLL pode ter comportamento extremamente agressivo, mas algumas apresentações clínicas podem ter curso mais indolente. De maneira geral, esta patologia não pode ser curada apresentando as seguintes formas clínicas:
-Tabela 16 - Formas clínicas
-ATLL aguda	Apresenta-se na forma leucêmica com elevada contagem leucocitária à custa de linfócitos cujo núcleo tem aspecto “de flor” (flower cells), rash cutâneo, linfadenomegalia generalizada, visceromegalia, sintomas constitucionais, aumento de DHL e hipercalcemia. A sobrevida pode variar de algumas semanas a 1 ano.
-ATLL linfomatosa	Caracterizado, como o nome indica, por proeminente linfonodomegalia, porém sem envolvi-mento de sangue periférico. Hipercalcemia é menos frequente que na forma aguda; em con-trapartida, o estadiamento ao diagnóstico é usualmente avançado. A sobrevida varia no mes-mo período que na fase aguda.
-ATLL crônica	Apresenta quadro clínico mais protraído, com sobrevida mais longa, podendo, entretanto, transformar-se para a fase aguda agressiva. Pode haver lesões de pele e linfocitose sem linfó-citos atípicos no sangue periférico. Nesta forma, não há hipercalcemia.
-ATLL indolente/smoldering	Quadro bastante lento, caracterizado apenas por imunofenotipagem com células neoplásicas em pequena quantidade, usualmente abaixo de 5%. Como as demais apresentações, pode se tornar agressiva.
+Rara nos países ocidentais, é a forma mais comum de linfoma na Ásia e é causada pelo vírus HTLV-1. A ATLL pode ter comportamento extremamente agressivo, mas algumas apresentações clínicas podem ter curso mais indolente. De maneira geral, essa patologia não pode ser curada, apresentando as seguintes formas clínicas:
+
+Tabela 15 - Formas clínicas
+ATLL aguda	Apresenta-se na forma leucêmica com elevada contagem leucocitária à custa de linfócitos cujo núcleo tem aspecto “de flor” (flower cells), rash cutâneo, linfadenomegalia generalizada, visceromegalia, sintomas constitucionais, aumento de DHL e hipercalcemia. A sobrevida pode variar de algumas se-manas a 1 ano.
+ATLL linfomatosa	Caracterizado, como o nome indica, por proeminente linfonodomegalia, porém sem envolvimento de sangue periférico. Hipercalcemia é menos frequente que na forma aguda; em contrapartida, o estadi-amento ao diagnóstico é usualmente avançado. A sobrevida varia no mesmo período que na fase aguda.
+ATLL crônica	Apresenta quadro clínico mais protraído, com sobrevida mais longa, podendo, entretanto, transformar-se na fase aguda agressiva. Pode haver lesões de pele e linfocitose sem linfócitos atípicos no sangue periférico. Nesta forma, não há hipercalcemia.
+ATLL indolente/smoldering	Quadro bastante lento, caracterizado apenas por imunofenotipagem com células neoplásicas em pequena quantidade, usualmente abaixo de 5%. Como as demais apresentações, pode se tornar agres-siva.
+
  
-Figura 11 - Flower cells típicas de leucemia linfoma de células T do adulto: forma leucêmica
+Figura 11 - Flower cells típicas de leucemia/linfoma de células T do adulto: forma leucêmica
+
 F - Diagnóstico, exames complementares e prognóstico
+
+Diagnóstico
+O diagnóstico de leucemia é feito com base no quadro clínico, associado à distribuição celular histológica obtida pela imuno-histoquímica que permite a confirmação e a definição diagnóstica. 
+
 É possível diagnosticar alguns linfomas por meio da imunofenotipagem de sangue, medula ou líquidos cavitários, quando a doença está leucemizada ou ocupando espaços como pleura ou pericárdio. Contudo, a distribuição celular histológica com auxílio da imuno-histoquímica ainda tem função preponderante na definição diagnóstica da doença.
 Deve-se proceder ao estadiamento anatômico, conforme o sistema de Ann Arbor, por meio dos exames complementares. 
-Tabela 17 - Exames auxiliares
+
+Tabela 16 - Exames auxiliares
 Hemograma	Apresenta sinais inespecíficos, como anemia de doença crônica, leucopenia e plaquetopenia (por infiltração medular da doença).
-Funções	Trata-se da renal e da hepática.
+Funções	Compreendem a renal e a hepática.
 DHL	É um preditor independente de sobrevida.
 Beta-2-microglobulina	Está relacionada à massa tumoral.
 Dosagem de cálcio sérico	Está possivelmente elevada principalmente na ATLL.
 Dosagem de ácido úrico sérico	Está possivelmente elevada em linfomas de alto turnover e indicativa de lise tumoral.
 Eletroforese de proteínas	Alguns linfomas podem cursar com síntese de proteína monoclonal, inclusive com síndrome da hiperviscosidade (particularmente o linfoma linfoplasmocítico).
-Sorologias para vírus das hepatites C e B, e HIV	Alguns linfomas podem cursar com estas alterações sorológicas (Tabela 18), que, inclusive, têm implicação terapêutica. A sorologia positiva para vírus da hepatite B exige cuidados aos pacientes que são submetidos à quimioterapia.
+Sorologias para vírus das hepatites C e B, e HIV	Alguns linfomas podem cursar com estas alterações sorológicas (Tabela 17), que, inclusive, têm implicação terapêutica. A sorologia positiva para vírus da hepatite B exige cuidados aos pacientes que são submetidos a quimioterapia.
+
 Alguns fatores prognósticos são utilizados na tentativa de predizer a sobrevida em caso de LNHs agressivos, submetidos ao tratamento convencional.
-Tabela 18 - Índice prognóstico internacional para LNH
+
+Tabela 17 - Índice prognóstico internacional para linfoma não Hodgkin
 Fatores de mau prognóstico
 - Idade >60 anos;
 - DHL aumentada;
@@ -297,23 +420,45 @@ Baixo risco	0 a 1	73%
 Intermediário baixo	2	51%
 Intermediário alto	3	43%
 Alto risco	4 a 5	26%
-Esse índice pode ser adaptado de acordo com a idade (indivíduos >60 anos têm sobrevida pior), o subtipo histológico (o folicular considera a hemoglobina também como fator importante) ou o uso de anticorpo monoclonal – anti-CD20 no tratamento do linfoma de grandes células B (a estratificação é feita em muito bom, bom e ruim, e a sobrevida em 4 anos varia entre 55 e 94%). 
+
+Esse índice pode ser adaptado de acordo com a idade (indivíduos >60 anos têm sobrevida pior), o subtipo histológico (o folicular considera a hemoglobina também como fator importante) ou o uso de anticorpo monoclonal anti-CD20 no tratamento do linfoma de grandes células B (a estratificação é feita em prognóstico muito bom, bom e ruim, e a sobrevida em 4 anos varia entre 55 e 94%).
+
+Pergunta
+2009 - INCA 
+2. Márcio, de 32 anos, procurou atendimento médico devido a febre e perda ponderal. No exame clínico, verificou-se a existência de uma massa abdominal, que os exames de imagem mostraram localizar-se na região retroperitoneal, com plano de clivagem nos ureteres. A investigação confirmou, por biópsia da massa, o diagnóstico de linfoma de Burkitt. Dois dias após tratamento quimioterápico com esquema CHOP, evoluiu com diminuição do débito urinário. Os exames laborato-riais demonstraram ureia sérica = 180mg/dL e creatinina sérica = 4,5mg/dL. O EAS demonstrou pH = 5, densidade = 1.015 e 10 piócitos por campo. A urina de 24 horas evidenciou sódio urinário = 26mmol/L, fração de excreção de sódio = 1,4% e relação ao ácido úrico urinário/creatinina urinária = 1,2. A ultrassonografia demonstrou rins com dissociação corticossinusal preservada e importante dilatação ureteropielocalicial à direita. Os exames realizados permitem afirmar que a piora da função renal de Márcio foi causada por: 
+a) obstrução ureteral 
+b) insuficiência pré-renal 
+c) nefropatia hiperuricêmica 
+d) nefrotoxicidade pelo quimioterápico
+Resposta no final do capítulo
+
 G - Linfoma não Hodgkin e HIV
 Nos pacientes HIV positivo, os LNHs ocorrem a uma frequência 23 a 353 vezes maior que a esperada na população HIV negativo, constituindo, assim, a 2ª neoplasia mais comum nesse grupo, só perdendo para o sarcoma de Kaposi. Apesar de o uso de antirretrovirais altamente ativos (HAARTs) ter mudado a história natural da AIDS e a incidência das neoplasias nessa população, a ocorrência de LNH ainda se mantém alta, quando comparada com a população HIV negativo. 
-Em contraste com o sarcoma de Kaposi, que tem maior incidência em homossexuais, o LNH não tem predileção por comportamento de risco, acometendo todas as faixas etárias, especialmente homens. O risco de desenvolvimento do linfoma correlaciona-se diretamente com a intensidade e o tempo de imunossupressão (CD4 <100/mm3) e com a alta carga viral; configura-se, então, em um evento tardio na evolução da doença. Exceção se faz ao linfoma de Burkitt, que habitualmente acomete indivíduos mais jovens e com contagem de CD4 relativamente alta (ao redor de 200/mm3).
+Em contraste com o sarcoma de Kaposi, que tem maior incidência em homens que fazem sexo com homens (HSHs), o LNH não tem predileção por comportamento de risco, acometendo todas as faixas etárias, especialmente homens. O risco de desenvolvimento do linfoma correlaciona-se diretamente com a intensidade e o tempo de imunossupressão (CD4 <100/mm3) e com a alta carga viral; configura-se, então, em um evento tardio na evolução da doença. Exceção se faz ao linfoma de Burkitt, que habitualmente acomete indivíduos mais jovens e com contagem de CD4 relativamente alta (ao redor de 200/mm3).
 Esses linfomas são histologicamente heterogêneos e quase sempre derivados de células B. 
-Tabela 19 - Tipos mais comuns de linfomas 
+
+Tema frequente de prova
+O fato de o linfoma não Hodgkin ser a 2ª neoplasia mais comum entre pacientes HIV positivo é tema frequente nas provas de Residência Médica. 
+
+Tabela 18 - Tipos mais comuns de linfomas 
 - LNH sistêmico, com destaque para o difuso de grandes células B e suas variantes imunoblástica e plasmoblástica (acomete a cavidade oral) e o linfoma de Burkitt; 
-- Linfoma de efusão primária: apresenta-se como derrame pleural, pericárdico ou ascite, sem massa associada, diagnos-ticado por imunofenotipagem desses líquidos; 
+- Linfoma de efusão primária: apresenta-se como derrames pleural e pericárdico ou ascite, sem massa associada, diagnosticado por imunofenotipagem desses líquidos; 
 - Linfoma primário de SNC.  
+
 Em quaisquer de suas formas, o curso é extremamente agressivo e de acometimento extranodal frequente. O tratamento do linfoma concomitante com esquema antirretroviral HAART é fundamental.
+
 H - Tratamento
-A orientação terapêutica depende mais do tipo histológico que do estadiamento clínico e baseia-se em esquemas de poliquimioterapia associados ou não a anticorpos monoclonais ou radioterapia. 
-Para algumas formas específicas de linfoma (difuso de grandes células B e folicular), um dos anticorpos monoclonais já desenvolvidos, denominado rituximabe (anticorpo monoclonal anti-CD20 – marcador de linfócito B), mostra resultados comprovadamente benéficos quando associado à quimioterapia, com aumento da taxa de resposta, da sobrevida livre de doença e da sobrevida global. Outros anticorpos monoclonais vêm sendo estudados para o tratamento de linfomas B e linfomas T.
+
+Tratamento
+O tratamento do LNH depende do tipo histológico e é feito com esquemas de poliquimioterapia, podendo associar-se a radioterapia ou a anticorpos monoclonais (rituximabe). 
+
+A orientação terapêutica depende mais do tipo histológico do que do estadiamento clínico e baseia-se em esquemas de poliquimioterapia associados ou não a anticorpos monoclonais ou radioterapia. 
+Para algumas formas específicas de linfoma (difuso de grandes células B e folicular), um dos anticorpos monoclonais já desenvolvidos, denominado rituximabe (anticorpo monoclonal anti-CD20 – marcador de linfócito B), mostra resultados comprovadamente benéficos quando associado à quimioterapia, com aumento das taxas de resposta, sobrevida livre de doença e da sobrevida global. Outros anticorpos monoclonais vêm sendo estudados para o tratamento de linfomas B e linfomas T.
 Nos linfomas indolentes, observa-se baixa fração de proliferação celular neoplásica; logo, apesar do curso lento, em sua maioria são doenças incuráveis (formando, assim, o clássico “paradoxo dos linfomas não Hodgkin” – embora sejam indolentes e de curso arrastado, dificilmente respondem ao tratamento de forma definitiva). Mesmo após o tratamento e a aparente remissão, as chances de recidivas repetidas são enormes. Por isso, muitas vezes é possível adotar uma conduta expectante chamada watch and wait (olhe e espere), por meio da qual, após o diagnóstico de linfoma indolente, o paciente é mantido sem tratamento, até a presença de sintomatologia (astenia, sintomas B), disfunção orgânica (como compressão renal por massa provocando insuficiência renal, compressão medular, hepatopatia etc.), citopenias ou progressão da doença (aumento de massas previamente pequenas e assintomáticas). O tratamento pode ser radioterápico ou cirúrgico para linfomas indolentes sintomáticos em estadio precoce, a depender do tipo de linfoma, ou quimioterápico para aqueles em estadio avançado. Nos linfomas T cutâneos (micose fungoide), pode-se optar por tratamento tópico com esteroides ou quimioterapia, bem como quimioterapia ou radioterapia nos estadiamentos mais avançados.
-Por sua vez, os linfomas agressivos apresentam alta taxa de proliferação celular, tornando-os mais sensíveis à ação quimioterápica e com potencial chance de cura. Em estadios mais localizados, pode-se optar por poucos ciclos de quimioterapia em associação à radioterapia de campo acometido (3 ciclos de quimioterapia contendo antracíclico e, se linfoma B, rituximabe) ou mais ciclos de quimioterapia e sem radioterapia – apenas para casos que não apresentem doença bulky. A radioterapia exclusiva apresenta altas taxas de recidiva, não sendo encorajada. Nos estadios avançados, é imperioso o tratamento quimioterápico completo (6 ciclos contendo antracíclico e, se linfoma B, rituximabe, sendo associada à radioterapia apenas em situações especiais). A taxa de remissão completa e a sobrevida livre de doença dependem do tipo de linfoma, do escore prognóstico e do tratamento utilizado.
-Finalmente, os linfomas altamente agressivos têm extrema sensibilidade ao tratamento quimioterápico pela altíssima taxa de proliferação celular, sendo neoplasias potencialmente curáveis. Destaca-se que esses linfomas têm incidência importante de infiltração extranodal no SNC, necessitando, na grande maioria dos protocolos, de quimioterapia profilática ou terapêutica intratecal.
-Por fim, no tratamento de recidivas destas doenças, o raciocínio é semelhante ao do LH: deve-se proceder à terapia de salvamento com protocolos de quimioterapia não utilizados, com preferência ao transplante de células-tronco hematopoéticas autólogo (agressivos) e alogênico (indolentes e muito agressivos).
+Por sua vez, os linfomas agressivos apresentam alta taxa de proliferação celular, tornando-os mais sensíveis à ação quimioterápica e com potencial chance de cura. Em estadios mais localizados, pode-se optar por poucos ciclos de quimioterapia em associação a radioterapia de campo acometido (3 ciclos de quimioterapia contendo antracíclico e, se linfoma B, rituximabe) ou mais ciclos de quimioterapia e sem radioterapia – apenas para casos que não apresentem doença bulky. A radioterapia exclusiva apresenta altas taxas de recidiva, não sendo encorajada. Nos estadios avançados, é imperioso o tratamento quimioterápico completo (6 ciclos contendo antracíclico e, se linfoma B, rituximabe, sendo associados à radioterapia apenas em situações especiais). A taxa de remissão completa e a sobrevida livre de doença dependem do tipo de linfoma, do escore prognóstico e do tratamento utilizado.
+Finalmente, os linfomas altamente agressivos têm extrema sensibilidade ao tratamento quimioterápico, pela altíssima taxa de proliferação celular, sendo neoplasias potencialmente curáveis. Destaca-se que esses linfomas têm incidência importante de infiltração extranodal no SNC, necessitando, na grande maioria dos protocolos, de quimioterapia profilática ou terapêutica intratecal.
+Por fim, no tratamento de recidivas dessas doenças, o raciocínio é semelhante àquele utilizado para o LH: deve-se proceder à terapia de salvamento com protocolos de quimioterapia não utilizados, com preferência ao transplante de células-tronco hematopoéticas autólogo (agressivos) e alogênico (indolentes e muito agressivos).
+
 I - Evolução e prognóstico 
 De modo geral, os linfomas com melhor prognóstico são aqueles com:
 Histologia favorável;
@@ -324,20 +469,23 @@ Idade <60 anos;
 Estadios menos avançados (I ou II);
 Bom performance status;
 DHL normal.
+
 5. Diferenças clínicas
-Tabela 20 - Diferenças entre LH e LNH
+
+Tabela 19 - Diferenças entre linfoma de Hodgkin e linfoma não Hodgkin
 Características	LH	LNH
-Estágio e grau	Processo localizado, expansão contígua; estadiamento importante	Sistêmico desde o início; grau de maior importância
-Massa tumoral	Células neoplásicas <1%, maioria das células inflamatórias	Células neoplásicas são a maioria das células
+Estágio e grau	Processo localizado, expansão contígua; estadi-amento importante	Sistêmico desde o início; grau de maior importância
+Massa tumoral	Células neoplásicas <1%, maioria das células inflamatórias	Células neoplásicas equivalendo à maioria das células
 Deficiência imunológica	Imunidade celular	Imunidade humoral (bacteriana)
 Envolvimento do trato gastrintestinal e anel de Waldeyer	Raro	Comum
 Envolvimento da medula óssea	5 a 15%	Até 50%
 Envolvimento extranodal	10%	40% 
-Envolvimento mediastinal	50% (70% mulheres jovens)	10 a 20%
-Envolvimento infradiafragmático	Incomum (exceto idosos com sintomas B)	Comum
+Envolvimento mediastinal	50% (70% em mulheres jovens)	10 a 20%
+Envolvimento infradiafragmático	Incomum (exceto em idosos com sintomas B)	Comum
 Infiltração hepática	Incomum	Comum (linfomas foliculares)
 
 6. Resumo
+
 Quadro-resumo
 - Diagnóstico de linfoma:
 · Histologia da região acometida (biópsia) + exame de imuno-histoquímica.
@@ -359,12 +507,21 @@ LH
 - LH clássico:
 · Esclerose nodular: subtipo mais comum;
 · Rico em linfócitos: comum entre idosos;
-· Depleção linfocitária: comum entre idosos e HIV positivos, com comum acometimento abdominal;
+· Depleção linfocitária: comum entre idosos e pacientes HIV positivo, com comum acometimento abdominal;
 · Celularidade mista: principal tipo associado ao HIV.
 LNH
 - Fatores de mau prognóstico:
-   · Idade >60 anos;
-   · DHL aumentada;
-   · ECOG =2;
-   · Estadio clínico III ou IV;
-   · =1 sítio extranodal.
+· Idade >60 anos;
+· DHL aumentada;
+· ECOG =2;
+· Estadio clínico III ou IV;
+· =1 sítio extranodal.
+
+Respostas
+1. A
+2. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
