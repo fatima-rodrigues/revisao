@@ -1,0 +1,477 @@
+Doenças sexualmente transmissíveis
+Rodrigo Antônio Brandão Neto / Ralcyon F. A. Teixeira[- / -]
+Durval A. G. Costa / Carolina dos Santos Lázari
+
+{+Resumo+}
+{+Neste capítulo, sobre doenças sexualmente transmissíveis, serão abordados os principais tipos de Doenças Sexualmente Transmissíveis (DSTs), bem como os tratamentos indicados para cada uma delas. Dentre as DSTs abordadas, tem-se a sífilis, causada pelo Treponema pallidum, cuja manifestação inicial é com um cancro duro, e seu tratamento é feito com penicilina benzatina, 2.400.000UI IM, dose única. Outra doença presente neste capítulo é o cancro mole, que se apresenta como lesão ulcerada de base mole, rasa, com bordas irregulares, envolta por halo eritematoso, constituindo um importante diag-nóstico diferencial com sífilis primária. Além dessas 2 causas de DSTs, o texto aborda outras, como a donovanose, o linfo-granuloma venéreo e o herpes genital. Há um enfoque no tratamento sindrômico dessas doenças (síndrome da úlcera geni-tal, síndrome do corrimento uretral e síndrome do corrimento vaginal), uma vez que a presença de DSTs aumenta o risco de infecção concomitante pelo HIV. +}
+
+1. Sífilis adquirida
+
+A - Introdução e definições
+Trata-se de uma doença infecciosa, de transmissão sexual e, eventualmente, transplacentária (representando, na criança, a síndrome da sífilis congênita). A doença caracteriza-se por longos períodos de silêncio clínico e pela capacidade de atingir múltiplos sistemas orgânicos. Além disso, apresenta evolução crônica, sujeita a surtos de agudização e períodos de latência.
+
+{+Dica+}
+A sífilis é uma doença de notificação compulsória quando durante a gestação ou quando congênita. 
+
+[-No Brasil, o-]{+O+}s casos de sífilis [-congênita di-]{+m+}a[-g-]n[-os-]t[-icados-]{+êm+} aument[-aram bastante de 2010 a 2012. O g-]o[-ver-]{+ +}no [-b-]{+B+}rasil[-eiro-] [-justifica esse aume-]n[-t-]o{+s+} [-como uma me-]{+ú+}l[-hor-]{+t+}i[-a n-]{+m+}os [-testes-]{+5+} [-di-]a[-g-]n[-óstic-]os[-. O-]{+,+} [-fat-]o [-é -]que [-esse -]p[-e-]r[-fil d-]e[- -]{+o+}c{+up+}a[-s-]{+ +}o[-s-] [-(-]con[-gêni-]t[-o) c-]r[-esceu em n-]o[-tificações -]{+l+}e[-m 34%-] [-só-]{+da+} d{+o+}e[- 2010 -]{+nç+}a[- 2011-]. Algumas medidas estão sendo tomadas para melhorar o diagnóstico, que inclui a testagem rápida de sífilis, oferecida junto com a testagem rápi{+-+}da de HIV em centros de testagem anônima. O aumento de triagem pré-natal ainda é meta para o diagnóstico durante a gesta{+-+}ção e tratamento a tempo de evitar transmissão vertical da doença. 
+
+B - Etiologia
+O agente etiológico é o Treponema pallidum, espiroqueta de transmissão predominantemente sexual ou materno-fetal, podendo produzir, respectivamente, forma adquirida ou congênita da doença. Sua transmissão sexual acontece por contato direto com lesões abertas e fluidos genitais. As transfusões de sangue contaminado também são via de transmissão. O Trepo-nema é capaz de penetrar na pele e nas mucosas íntegras, porém a penetração é facilitada quando há solução de continuida-de na pele ou mucosa.
+@@ -16,52 +25,86 @@ Figura 1 - Espiroqueta vista 
+C - Classificação segundo o Ministério da Saúde
+A sífilis pode ser classificada de acordo com o tempo de evolução e com o tipo de transmissão. O Ministério da Saúde clas-sifica, portanto, de acordo com a Tabela a seguir:
+
+Tabela 1 - Classificação da sífilis segundo o Ministério da Saúde [-do Brasil-]
+Sífilis adquirida
+Recente	Menos de 1 ano de evolução, também subdividida em tempo
+	Primária	Lesão única em paciente que nunca teve lesão antes
+	Secundária	Lesões em mãos (mais comum) em paciente com lesão primária anterior
+	Latente precoce (ou re{+-+}cente)	Sem lesões visíveis, mas com exame confirmando até 1 ano depois da lesão inicial
+Tardia	Mais de 1 ano desde a lesão inicial 
+	Latente 
+tardia	Quando o exame descobre a infecção, mas há mais de 1 ano desde a lesão inicial
+	Terciária	Infecção em Sistema Nervoso Central (SNC) descoberta (ocorre depois de muitos anos da lesão primária)
+Sífilis congênita
+Transmitida necessariamente pela mãe. Pode ser dividida em 2:
+Recente	Quando é descoberta até o 2º ano de vida da criança[-.-]
+Tardia	Quando é descoberta após o 2º ano de vida da criança[-.-]
+
+Como a lesão primária não é dolorosa (veja descrição das manifestações clínicas), essa classificação é muito complicada de ser feita no dia a dia, porque o paciente não sabe contar que teve lesão inicial (por ser indolor e, na mulher, pela localização da lesão). Por esse motivo, muitas vezes, os casos são considerados como sífilis latente tardia do ponto de vista de tratamento, para não haver risco de o tratamento não ser efetivo.
+
+D - Achados clínicos 
+
+a) Sífilis primária[-	-]
+Aparece no ponto de inoculação do Treponema, após o período de incubação médio de 10 a 21 dias, e se caracteriza por lesão ulcerada, rósea, de fundo limpo, sem fenômenos inflamatórios, bordas infiltradas e duras; geralmente, é única, indolor ou pouco dolorosa, mesmo quando manipulada.
+Por serem indolores, os cancros localizados fora do alcance da visão do paciente podem passar despercebidos. Há possibi-lidade de ocorrências em sítios extragenitais, com as mesmas características, exceto por evolução crônica, presença frequen-te de dor (principalmente o cancro perianal) e com tamanho geralmente maior. As localizações extragenitais mais importan-tes são a anal, a retal com ou sem proctite, a oral e a mamária.
+É acompanhada de adenopatia satélite, que é caracterizada pela presença de linfadenomegalia regional não supurativa, móvel, indolor e múltipla. Tal adenopatia não é acompanhada de fenômenos inflamatórios na pele suprajacente aos linfono-dos acometidos.
+
+{+Importante+}
+{+A adenopatia pode ser o 1º sinal visível na sífilis primária. Como a úlcera pode não ser percebida, o diagnóstico deve ser lembrado em casos de adenopatia inguinal. +}
+
+As lesões, também denominadas cancro duro, tendem à cura espontânea, mesmo sem tratamento, e não costumam deixar cicatrizes.
+
+ 
+Figura 2 - Lesão de sífilis primária em pênis (cancro duro): apesar de (A) ter apresentação sangrante, na maioria das vezes, é visualiza-da apenas ulcerada (B), mas sem sangramento vivo. Devem-se, ainda, lembrar as lesões de apresentação única e indolor
+
+{+Pergunta+}
+{+2014 - UFRN+}
+{+1. Um homem de 35 anos, heterossexual, teve contato sexual há 30 dias. Apresenta lesão exulcerada com base infiltrada, indolor, de secreção serossanguinolenta não purulenta no dedo indicador da mão direita com evolução de 10 dias. O prová-vel diagnóstico clínico é:+}
+{+a) cancro mole +}
+{+b) leishmaniose tegumentar americana +}
+{+c) cancro duro extragenital +}
+{+d) herpes-simples+}
+{+Resposta no final do capítulo+}
+
+b) Sífilis secundária
+
+[-Ca-]{+Impo+}r{+t+}a[-c-]{+n+}te
+[-ri-]{+A +}s[-t-]{+íf+}i[-cam-]{+lis s+}e{+cu+}n[-te,-]{+dária+} aparece de 6 a 8 semanas após o surgimento do cancro duro{+, causando lesões denominadas roséolas+}.
+
+ As lesões representam reação dos te[---]cidos à presença do Treponema, veiculado por via linfática e hematogênica. São, ain{+-+}da, usualmente acompanhadas de micro[---]poliadenopatia generalizada, e, ocasionalmente, há artralgias, febre baixa, cefaleia e adinamia. É raro haver comprometimen[---]tos hepático e ocular, como uveíte.
+As lesões, também denominadas roséolas, são caracterizadas pela presença de máculas eritematosas, ovaladas ou arre-dondadas, isoladas e/ou confluentes, levemente descamativas, que acometem todo o tegumento, incluindo as regiões palmo-plantares (roséola sifilítica ou sifílides papulosas), localização altamente sugestiva do diagnóstico. 
+As lesões mucosas podem ocorrer na cavidade oral, especialmente na língua e na face interna dos lábios. São ricas em Treponema e muito contagiosas. Nas mucosas, podem ocorrer, ainda, lesões elevadas em platô e de superfície lisa (placas mucosas).
+Nas regiões perianais, extremamente úmidas, as lesões sofrem maceração de sua superfície, com formação de pápulas hi-pertróficas, que são ricas em Treponema e ocorrem, principalmente, em regiões de dobras ou atrito. Os pacientes podem, também, apresentar alopecia mais evidente no couro cabeludo e nas porções distais das sobrancelhas, a chamada alopecia “em clareira”.
+A doença cursa com manifestações inespecíficas, como cefaleia, mal-estar, artralgias por vezes proeminentes e, raramen-te, febre. 
+Lesões viscerais acontecem em cerca de 2% dos pacientes com sífilis secundária, com comprometimento gástrico simu-lando linfoma com infiltração extensa; hepatites, principalmente com colestase; síndrome nefrótica, principalmente na forma de nefrite membranosa e glomerulonefrite por imunocomplexos, todas tendendo a transitoriedade. Pode haver, ainda, miosi-te, neurite de nervo vestibulococlear e anormalidades oculares, como uveíte e coriorretinite.
+
+{+Dica+}
+{+Em lesões de pele com descamação em extremidades, palmas das mãos e plantas dos pés, deve ser investigada sífilis.+}
+
+ 
+Figura 3 - A característica de lesões nas palmas das mãos e nas plantas dos pés é muito indicativa de sífilis secundária, principalmente se associada a úlceras descamativas; é o que faz diagnóstico diferencial com outras infecções que podem causar úlceras pelo corpo (como varicela ou herpes-simples disseminado)
+
+  
+Figura 4 - As lesões de pele da sífilis secundária são ricas em Treponema, e um eventual exame direto nas lesões encontra a espiroque-ta. Nessa fase, também são encontrados os maiores valores de VDRL. Lembrar que, no diagnóstico diferencial com varicela e herpes-simples, os 2 últimos não acometem a palma da mão e a planta do pé
+
+{+Pergunta+}
+{+2012 - UNICAMP+}
+{+2. Uma mulher de 23 anos, sexualmente ativa, desenvolve, ao longo de 3 dias, exantema difuso, eritematodescamativo, não pruriginoso, com acometimento de regiões palmares e plantares. Após 2 dias, apresenta perda visual rápida no olho esquerdo, acompanhada de dor retro-ocular e borramento dos bordos da papila no exame de fundo de olho. Exames labo-ratoriais: VDRL sérico = 1/64, FTA-ABS sérico reagente, sorologia para HIV negativa. A conduta é:+}
+{+a) penicilina benzatina em dose única+}
+{+b) penicilina benzatina 1 vez por semana por 3 semanas +}
+{+c) coleta de liquor e, se padrão inflamatório, penicilina cristalina por 10 a 14 dias+}
+{+d) coleta de liquor e, se padrão inflamatório, penicilina benzatina por 10 a 14 dias+}
+{+Resposta no final do capítulo+}
+
+c) Sífilis latente (recente e tardia)
+É a forma da sífilis adquirida em que não se observam sinais e sintomas clínicos e, portanto, tem diagnóstico obtido por meio de testes sorológicos. Sua duração é variável, e seu curso pode ser interrompido por sinais e sintomas da forma secun-dária ou terciária.
+
+d) Sífilis terciária
+Surge após períodos extremamente variados de latência e pode ocorrer em até 25 a 40% dos pacientes. Clinicamente, o quadro dermatológico caracteriza-se por lesões nodulares, noduloulceradas e gomas, que podem ocorrer em pele, ossos e órgãos internos e correspondem histologicamente a granulomas. Quando ocorrem nas mucosas, as lesões podem produzir alterações na língua, constituindo a glossite intersticial crônica, e provocar perfurações no palato e destruição do septo nasal cartilaginoso e de áreas ósseas adjacentes. As lesões podem, ainda, se apresentar serpiginosas, o que vem se tornando raro com o advento da penicilina.
+
+{+Importante+}
+{+A sífilis terciária aparece depois de um período de latência variado e acomete múltiplos órgãos e sistemas, como pele, sistema cardiovascular (causando insuficiência aórtica e aneurisma aórtico), sistema nervoso central (causando neurossífi-lis) e medula espinal (tabes dorsalis).+}
+
+A sífilis cardiovascular apresenta incidência de 10%, e suas principais manifestações são insuficiência aórtica e aneurismas de aorta torácica e abdominal, que raramente evoluem com dissecção e estenose do óstio da coronária, resultando em qua-dros de angina. O aparecimento é tipicamente insidioso, ocorrendo de 15 a 30 anos após a infecção inicial do paciente.
+A neurossífilis representa uma incidência de 8%, podendo ser assintomática ou apresentar quadros de meningite sifilítica aguda, encefalomalácia com afasias e hemiplegias, tabes dorsalis e demência paralítica. A neurossífilis precoce não apresenta sinais de doença, e o diagnóstico baseia-se no liquor com pleocitose e VDRL positivo. Os pacientes podem apresentar menin-gite sintomática com sintomas clássicos de irritação meníngea, podendo, ainda, cursar com lesões isquêmicas em coluna ver-tebral. Outra forma de acometimento é a sífilis neurovascular, com aparecimento de arterite e que pode se apresentar como acidente vascular cerebral isquêmico.
+Pacientes com formas tardias de neurossífilis podem apresentar-se com quadro demencial progressivo, associado ao apa-recimento de paresias, disartria, tremores e, em alguns casos, com as pupilas de Argyll Robertson, mais comuns na tabes dor-salis.
+@@ -74,7 +117,6 @@ Amolecimento;
+Supuração; 
+Ulceração; 
+Cicatrização.
+
+A Figura 5 representa um caso de sífilis tardia com goma sifilítica.
+
+  
+@@ -87,27 +129,33 @@ No paciente HIV positivo, a principal caracter
+Outro problema no HIV é o controle de tratamento, pela dúvida entre cicatriz sorológica, reinfecção ou reservatório de Treponema no SNC não pesquisado (vide parte diagnóstica).
+
+  
+Figura 6 - Mão e pé de paciente com AIDS, VDRL 1/1, conhecimento de sífilis primária há 5 anos, tratamento prévio, mas que reativou lesões como sífilis secundária. A investigação de infecção escondida no [-SNC-]{+sistema nervoso central+} é essencial nesse perfil de paciente
+
+{+Dica+}
+{+Na sífilis no paciente imunodeprimido, as lesões principais são as de pele, apresentando-se como lesões difusas ou na forma de goma sifilítica. +}
+
+F - Exames complementares
+Na sífilis primária:
+Exame de campo escuro ou pesquisa direta: tal exame, que exige técnica específica de coleta para microscopia em campo escuro, é indicado para material de lesão ulcerada suspeita. Pode ser positivo em material das placas mucosas da fase secundária. A sensibilidade é de 70 a 95%;
+Pesquisa direta com material corado: pode ser realizada a impregnação pela prata de Fontana e coloração pelo Giemsa. Essa pesquisa pode aumentar a sensibilidade do exame em campo escuro.
+
+Provas sorológicas:
+
+a) Testes antigênicos não treponêmicos
+
+Provas de floculação (VDRL)
+Os testes não treponêmicos baseiam-se na presença de reatividade do soro a um antígeno cardiolipina–lecitina. O teste mensura anticorpos IgG e IgM. O VDRL (Venereal Disease Research Laboratory) e a reação de Wassermann, ou sua variante RPR (Rapid Plasma Reagin), são exames qualitativos e quantitativos, importantes para o diagnóstico e o seguimento pós-terapêutico, devendo ser solicitados na suspeita do diagnóstico de sífilis. Podem ser utilizados em quaisquer de suas fases, para todos os portadores de Doença Sexualmente Transmissível (DST) e na rotina do pré-natal.
+O VDRL torna-se reativo a partir da 2ª semana após o aparecimento do cancro (sífilis primária) e, em regra, está mais ele-vado na fase secundária da doença. Os títulos começam a diminuir a partir do 1º ano de evolução da doença. Instituído o tratamento correto, uma queda para 1/4 dos valores iniciais é esperada em 6 meses, e a maioria dos casos apresenta negati-vação entre 9 e 12 meses, podendo permanecer, ainda, com títulos baixos por longos períodos de tempo, ou até por toda a vida.
+Assim, títulos baixos podem significar doença recente ou muito antiga, tratada ou não. A anamnese, o exame físico e a re-petição periódica dos testes não treponêmicos (2 títulos baixos em intervalo de 30 dias excluem sífilis recente), ou a realiza-ção de provas de sorologia treponêmica qualitativas, ajudam a esclarecer dúvidas. As provas treponêmicas, se negativas, ex-cluem sífilis em atividade; se positivas, a dúvida pode permanecer, sendo recomendável repetir o tratamento.
+Pacientes com 3 dosagens de títulos sucessivamente baixos (=1/8), sem qualquer indício de reinfecção, apresentam, pro-vavelmente, “memória” sorológica. O paciente pode receber alta, e a ele deve ser avisado que, por muito tempo, ou até por toda a vida, apresentará sorologia não treponêmica reativa
+
+{+Importante+}
+{+O VDRL é um teste não treponêmico que mensura anticorpos IgM e IgG no soro, contra um antígeno cardiolipina-lecitina+}.
+
+O teste rápido para sífilis tem resultado em até 15 minutos. É um teste não treponêmico, e sua principal finalidade é reali-zar triagem. A sua importância, neste capítulo, é, que a partir de 2012, o SUS assumiu esse teste para ser realizado junto com a triagem de HIV, nos casos de gestantes. Haverá treinamento de profissionais em todo o Brasil para que esse teste entre na rotina de consultas do pré-natal. Entretanto, exames de falso positivo podem ocorrer (é feito para ter alta sensibilidade) e, nesse caso, os demais exames podem ser realizados para confirmação (apesar de poder ser usado para uma conduta de emergência).
+
+Provas de fixação de complemento (Wassermann)
+Possuem as mesmas características do VDRL. Reações falsas positivas podem ocorrer nas seguintes situações:
+
+Tabela 2 - Possíveis causas de reações de falso positivo de VDRL[-	-]
+ No sangue
+- Infecções virais e vacinações;
+- Hanseníase;
+@@ -121,13 +169,16 @@ No l
+- Tumores cerebrais.
+
+b) Testes treponêmicos
+
+{+Dica+}
+{+Os testes treponêmicos utilizam a imunofluorescência, sendo qualitativos e importantes na confirmação da sífilis, e incluem o FTA-ABS e o ELISA. +}
+
+TPI (prova de imobilização do Treponema);
+RPCF (prova de fixação de complemento com proteína de Reiter); 
+FTA-ABS{+ (fluorescent treponema antibody absorption)+}; 
+MHA-TP (micro-hemaglutinação{+ para Treponema pallidum+}): apresenta sensibilidade semelhante ao FTA-ABS e é de execu{+-+}ção tecnicamente mais simples;
+ELISA (teste imunoenzimático).
+Os testes treponêmicos, feitos por imunofluorescência, como o FTA-ABS [-(fluorescent treponema antibody absorption) -]ou o MHA-TP[- (micro-hemaglutinação para Treponema pallidum)-], são qualitativos e importantes para a confirmação da infecção. Em geral, tornam-se reativos a partir do 15º dia da infecção. Os anticorpos treponêmicos tendem a permanecer no soro por período de tempo maior do que os não treponêmicos ou lipídicos e têm diminuição de títulos, em resposta à terapia, muito mais lenta. Não servem, portanto, para o acompanhamento. Podem ocorrer resultados falsos positi{+-+}vos em algumas situações, como hanseníase, malária, mononucleose, leptospirose e lúpus eritematoso sistêmico.
+
+G - Diagnóstico de neurossífilis
+O 1º passo é determinar se o paciente apresenta ou não sífilis, que pode ser confirmada por meio da presença de testes não treponêmicos e treponêmicos positivos, que ocorrem, virtualmente, em todos os casos de neurossífilis recente, mas podem ser negativos em tabes dorsalis e outras formas tardias. 
+@@ -135,6 +186,10 @@ O diagn
+Todos os pacientes portadores de HIV com VDRL e FTA-ABS positivos no sangue têm indicação de punção liquórica, já que existe risco de evolução para sífilis terciária com aumento de 19 vezes em relação à população em geral.
+
+H - Avaliação das sorologias para controle de tratamento
+
+{+Importante+}
+{+O FTA-ABS é um teste que fica positivo pelo resto da vida, não podendo, portanto, ser utilizado para avaliar resposta ao tratamento da sífilis. Deve-se utilizar, para isso, o VDRL, entretanto este também pode demorar a diminuir, dificultando a avaliação da terapêutica empregada. +}
+
+A principal dificuldade de tratamento na sífilis é, sem dúvida, o exame que poderia ser utilizado para confirmar o trata-mento. Como o FTA-ABS fica positivo pelo resto da vida, ele não pode ser usado para indicar resposta ao tratamento. Nor-malmente, o que se usa é a titulação de VDRL para o controle de tratamento. Entretanto, em diversas situações, o VDRL de-mora a diminuir. Em geral, para sífilis latente, demora entre 3 e 6 meses para queda de VDRL. 
+No caso de sífilis no SNC, demoraria entre 6 e 12 meses para se avaliar resposta ao tratamento e mudança do VDRL. Nesse caso, há melhora do liquor (queda de proteína e celularidade é um padrão indireto de melhora). 
+No paciente HIV positivo, a redução do VDRL pode demorar até 18 meses para acontecer, independente do local da in-fecção inicial. Isso é importante, porque, muitas vezes, a ansiedade do médico leva a tratamentos novos indiscriminados. 
+@@ -142,7 +197,7 @@ A regra b
+Apesar de se dizer que pacientes com títulos acima de 1/4 não podem ser ditos como falsos positivos, alguns mantêm títu-los altos (mas menores do que o valor pré-tratamento) pelo resto da vida. 
+
+I - Diagnóstico diferencial 
+O diagnóstico diferencial de sífilis depende muito do estágio da doença. Quando a lesão é de sífilis primária, o diagnóstico diferencial se restringe apenas a doenças sexualmente transmissíveis (com exceção à doença de Behçet, que pode causar lesões genitais). Entretanto, quando se fala de sífilis secundária, pode-se confundir com diversas outras doenças dermatológi-cas. Muitas vezes, o paciente procura o dermatologista por conta de manchas ou exantemas na suspeita de alergia, mas trata-se de sífilis secundária. A Tabela a seguir exemplifica as doenças diferenciais[-:-]{+.+}
+
+Tabela 3 - Exemplos de doenças diferenciais
+Sífilis primária
+@@ -164,12 +219,16 @@ S
+- Condiloma acuminado;
+- Alopecia areata/tricotilomania.
+
+{+  +}
+{+Figura 7 - Curso da sífilis se não tratada+}
+
+J - Tratamento 
+
+{+O tratamento depende da fase da doença e é feito da seguinte forma: na sífilis primária, utiliza-se penicilina benzatina, 2.400.000UI IM profunda, em dose única; na secundária, utiliza-se penicilina benzatina, 2.400.000UI IM profunda (2 ou 3 doses, com intervalo de 1 semana entre elas, 1 em cada glúteo); e, na forma terciária, utiliza-se penicilina benzatina 7.200.000UI IM profunda, administrada em 3 doses de 2.400.000UI por semana.+}
+
+a) Sífilis recente 
+Primária: penicilina benzatina, 2.400.000UI, IM profunda, em dose única;
+Secundária e latente recente: penicilina benzatina, 2.400.000UI, IM profunda (2 ou 3 doses, com intervalo de 1 semana entre elas, 1 em cada glúteo).
+
+Nos casos de alergia a penicilina, os esquemas alternativos recomendados são:
+Doxiciclina: 100mg, 12/12h, VO, por 15 dias;
+Tetraciclina: 500mg, 6/6h, VO, por 15 dias;
+@@ -192,9 +251,10 @@ O tratamento em gestantes segue os crit
+
+Tabela 4 - Diferenças
+- O tratamento preferencial é com penicilina benzatina (a dose dependerá do tempo de duração, se é recente ou tardia);
+- Nos casos de alergia a penicilina, deve ser tentada a dessensibilização, e, caso não seja possível, há indicação de uso de estearato de eritromicina (nunca estolato de eritromicina). No entanto, nesse caso, não há passagem placentária da droga e o recém-nascido é con{+-+}siderado e tratado como sífilis congênita;
+- Caso o tratamento seja realizado no último mês da gestação (últimas 4 semanas antes do parto), também se considera o recém-nascido como sífilis congênita;
+- Deve-se acrescentar que, após a dose terapêutica inicial, em alguns casos, pode surgir a reação febril de Jarisch-Herxheimer, com a exacerbação das lesões cutâneas, geralmente exigindo apenas cuidados sintomáticos; há involução espontânea em 12 a 48 horas. Não se justifica a interrupção do esquema terapêutico. Essa reação não significa hipersensibilidade à droga; entretanto, todo pacien[---]te com sífilis submetido a tratamento com penicilina deve ser alertado quanto à possibilidade de desenvolver tal reação{+;+}
+{+- A dessensibilização com penicilina é feita com a paciente internada, colocando-se pequenas doses diárias injetáveis e controlando efeitos colaterais, até que se chegue à dose pretendida+}.
+
+2. Cancro mole
+
+@@ -205,17 +265,21 @@ B - Etiologia
+Doença produzida por bacilo Gram negativo denominado Haemophilus ducreyi.
+
+C - Achados clínicos
+
+{+Importante+}
+{+O cancro mole apresenta-se como lesão ulcerada de base mole, rasa, com bordas irregulares, envolta por halo eritematoso e recoberta por exsudato necrótico e purulento. As lesões são dolorosas e têm odor fétido.+}
+
+Apresenta período de incubação curto, que varia de 3 a 5 dias, surgindo, posteriormente, lesão ulcerada de base mole, rasa, com bordas irregulares, envolta por halo eritematoso vivo e recoberta por exsudato necrótico e purulento. As lesões são dolorosas, geralmente múltiplas, com apresentação em número, formas e tamanhos variados, devido à sua característica de autoinoculação. A borda é irregular, apresentando contornos eritematoedematosos e fundo irregular recoberto por ex-sudato necrótico, amarelado, com odor fétido que, removido, revela tecido de granulação com sangramento fácil.
+Nos homens, as lesões localizam-se, principalmente, junto ao frênulo, sulco balanoprepucial, glande e face interna do prepúcio. Nas mulheres, acomete, preferencialmente, a região do fórnice vaginal e pequenos e grandes lábios.
+Em 30 a 50% dos casos, ocorre enfartamento ganglionar regional, formando o chamado “bubão”; 2/3 destes evoluem com flutuação e fistulização, com drenagem de material purulento, caracteristicamente através de um único orifício. São unilate-rais na maioria dos casos.
+As lesões não evoluem para cura espontânea e, geralmente, deixam pequena cicatriz após a cura.
+
+  
+Figura [-7-]{+8+} - Lesões genitais de cancro mole
+
+ 
+Figura [-8-]{+9+} - Lesões de cancro mole em prepúcio e glande
+{+Importante+}
+No caso do cancro mole, deve-se lembrar que as lesões têm aspecto mais raso e são muito dolorosas, com a base mole e irregular. Além disso, pode haver mais de 1 lesão, e existe cicatriz residual, o que não ocorre na sífilis.
+
+D - Diagnóstico diferencial
+@@ -226,14 +290,13 @@ Herpes genital infectado;
+Leishmaniose tegumentar americana;
+Paracoccidioidomicose;
+Cancro misto de Rollet (cancro mole e duro).
+
+Como o principal diferencial do cancro mole é com a sífilis, a Tabela a seguir mostra as principais diferenças entre as 2 do-enças:
+
+Tabela 5 - Principais diferenças entre as doenças
+	Cancro mole	Cancro duro (sífilis)
+Agente causador	Haemophilus ducreyi	Treponema pallidum
+Número de lesões	Única ou várias	Única
+Tipo de lesão	Dolorosa, fundo sujo, base mole, rasa e irregular	Indolor, crostosa, endurecida, com aspecto mais pro{+-+}fundo
+Normalmente vista	Sim, por conta da dor	Não (por ser indolor, muitas vezes, é imperceptível)
+
+E - Exames complementares 
+@@ -259,17 +322,21 @@ C - Achados cl
+Os sinais e os sintomas iniciais traduzem-se por prurido intrauretral, disúria, eritema e edema do meato uretral, seguido de fluxo uretral mucoso que, rapidamente, torna-se mucopurulento, de cor amarelo-esverdeada, com eliminação de secre-ção de forma abundante e espontânea ou à mais leve pressão. Caso a infecção atinja a uretra posterior, o quadro clínico pode estar acompanhado de urgência miccional e polaciúria.
+Nas mulheres, o quadro não apresenta exuberância clínica como nos homens e é composto por disúria, urgência urinária e, menos frequentemente, secreção amarelada. Nesse grupo, ocorrem, com maior frequência, uretrites pouco sintomáticas e, por esse motivo, semanas após a uretrite, pode haver casos de artrite gonocócica.
+As principais complicações nos homens são traduzidas por balanopostite, particularmente em indivíduos com excesso de prepúcio, que se apresentam com grande edema, intenso eritema e grande quantidade de secreção purulenta; litrites, por infecção nos canais e glândulas de Littré; cowperites; prostatite; epididimite; e, raramente, estenose de uretra (habitualmen-te, após múltiplos episódios de uretrite).
+
+{+Importante+}
+{+Os sintomas clínicos da uretrite gonocócica incluem disúria, prurido intrauretral, com eritema e edema do meato, com saída de secreção mucopurulenta de cor amarelo-esverdeada e abundante. +}
+
+Nas mulheres, as principais complicações são bartolinite, salpingite, gravidez tubária, esterilidade e doença inflamatória pélvica. As pacientes podem, ainda, apresentar peri-hepatite, que é a denominada síndrome de Fitz-Hugh-Curtis.
+A Figura [-9-]{+10+} mostra o corrimento típico na uretrite gonocócica quando se realiza a expressão peniana.
+
+ 
+Figura [-9-]{+10+} - Corrimento típico na uretrite gonocócica
+
+D - Exames complementares
+Pesquisa direta por exame bacterioscópico com material corado pelo Gram e cultura em meio de Thayer-Martin modifi-cado (exame de escolha).
+
+E - Diagnóstico diferencial
+[-      -]É importante lembrar que o diagnóstico diferencial entre uretrites gonocócicas e não gonocócicas é, muitas vezes, difícil, já que nem sempre o corrimento existe na uretrite gonocócica. Isso significa que, na dúvida, o tratamento das uretrites mais frequentes deve ser feito (vide a seguir). As uretrites não gonocócicas podem ser de diferentes etiologias, a exemplo de:
+
+a) Bacteriana 
+Chlamydia trachomatis;
+@@ -294,14 +361,27 @@ f) Traum
+Pelo hábito comum de expressão da glande para evidenciar secreção (“ordenha”).
+
+F - Tratamento
+
+{+Tratamento+}
+{+O tratamento da uretrite gonocócica é feito com ceftriaxona, na dose única de 250mg. +}
+
+A principal medicação utilizada para o tratamento de gonorreia é a ceftriaxona, na dose única de 250mg. São opções pos-síveis, ainda:
+Cefixima: 400mg, dose única, VO;
+Ciprofloxacino: 500mg, dose única, VO (cautela ao utilizar a droga em jovens); há relatos de resistência importante da Neisseria gonorrhoeae a essa droga em vários países do mundo nos últimos anos (desde 2007 até 2010). Por esse motivo, seu uso tem sido desaconselhado para tratamento de gonorreia; 
+Ofloxacino: 300mg VO, 2x/d, por 7 dias;
+Eritromicina: 500mg VO, 6/6h, durante 7 dias.
+
+A abordagem sindrômica de pacientes com corrimento uretral causado por uretrite não gonocócica ou gonocócica de-pende da possibilidade da realização de bacterioscopia. Caso não seja possível, tanto uretrite não gonocócica quanto gonor-reia devem ser tratadas. Se a bacterioscopia apresenta diplococos Gram negativos, trata-se clamídia e gonorreia; caso diplo-cocos Gram negativos estejam ausentes, trata-se apenas clamídia.
+
+{+Pergunta+}
+{+2013 - SANTA CASA-SP +}
+{+3. Um homem de 24 anos procura o serviço de atenção primária (sem laboratório) com queixa de corrimento uretral abundante há 2 dias, pior no período da manhã, de aspecto purulento. Relata relação sexual com parceira eventual sem uso de preservativo. Ao exame: saída de secreção esbranquiçada pela uretra, sem nenhuma outra alteração. Segundo o Ministério da Saúde e por meio da abordagem sindrômica, o médico deve:+}
+{+a) realizar aconselhamento para uso de preservativo, tratar com ciprofloxacino 500mg e azitromicina 1g, ambos via oral dose única, e notificar o caso de uretrite não gonocócica após o isolamento do agente etiológico+}
+{+b) tratar com penicilina benzatina 2.400.000UI IM; azitromicina 1g VO dose única e realizar a coleta de teste não treponê-mico e treponêmico para a notificação de caso confirmado+}
+{+c) convocação da parceira sexual; notificação compulsória do caso de corrimento uretral masculino, tratar com penicilina benzatina 2.400.000UI IM; azitromicina 1g VO dose única+}
+{+d) realizar aconselhamento para uso de preservativo, tratar com ciprofloxacino 500mg e azitromicina 1g, ambos VO dose única, e notificar o caso de corrimento uretral masculino+}
+{+e) oferecer realização de teste rápido para a detecção de infecção pelo HIV e aconselhar o uso de preservativo. Tratar com ceftriaxona 250mg IM, dose única+}
+{+Resposta no final do capítulo+}
+
+4. Linfogranuloma venéreo
+
+A - Introdução
+@@ -311,6 +391,10 @@ B - Etiologia
+Tem como agente etiológico a Chlamydia trachomatis, espécie sorológica e biologicamente distinta das outras espécies de Chlamydia. Os sorotipos responsáveis são L1, L2 e L3.
+
+C - Achados clínicos 
+
+{+Importante+}
+{+O linfogranuloma venéreo, em seu estágio primário, é indolor, podendo se apresentar como pápula, ulceração superficial, involuindo sem deixar cicatriz. No estágio secundário, ocorre disseminação linfática, apresentando gânglios firmes, doloro-sos, móveis e que rapidamente se aderem à pele, a qual se torna eritematoedematosa e descamativa. Quando a ruptura ocorre, há vários pontos de drenagem de secreção purulenta.+}
+
+O linfogranuloma venéreo é, eminentemente, uma doença do tecido linfático, uma vez que a infecção genital provoca lin-fangite e linfadenite supurativa, com eventual disseminação do processo inflamatório para o tecido adjacente. Os linfonodos acometidos aumentam de volume, com formação de abscessos necrosantes, que, por sua vez, coalescem, rompem-se e for-mam fístulas que drenam grande quantidade de material purulento. Como consequência, fibroses e cicatrizes superpõem-se, com aparecimento de isquemia, ulceração e, em casos avançados, linfedema. De maneira geral, seu curso clínico pode ser dividido em 3 estágios:
+
+a) Estágio primário
+@@ -323,7 +407,7 @@ Os g
+Manifestações sistêmicas inespecíficas podem acontecer, como febre, mal-estar, anorexia, cefaleia, artralgias, emagreci-mento, sudorese noturna e hepatoesplenomegalia. Também podem acontecer manifestações dermatológicas, incluindo eri-tema nodoso, eritema polimorfo, urticária e exantema maculopapular.
+
+ 
+Figura 1[-0-]{+1+} - Estágio secundário 
+
+c) Estágio terciário – síndrome anogenital
+Também chamada fase de sequelas, com grandes variações, que, em geral, são resultados de lesões progressivas, hiper-tróficas e necróticas. Ocorre, principalmente, com as mulheres, uma vez que a drenagem linfática se faz, preferencialmente, para o retroperitônio. 
+@@ -340,6 +424,7 @@ E - Diagn
+Deve ser obtido com outras causas de úlceras genitais, com ou sem linfadenopatia inguinal, como cancroide, sífilis primá-ria, herpes genital e donovanose. Doença da arranhadura do gato e infecções bacterianas associadas à linfangite também devem ser ressaltadas no diagnóstico diferencial.
+
+F - Tratamento
+
+Escolha: doxiciclina, 100mg VO, 12/12h, por 21 dias; 
+Opção: eritromicina (estearato), 500mg VO, 6/6h, por 21 dias.
+
+@@ -349,18 +434,23 @@ A - Introdu
+É uma doença de evolução progressiva e crônica, de localização genital, ocasionando lesões granulomatosas e destrutivas. Os mecanismos de transmissão são pouco conhecidos, e a contagiosidade é baixa. O período de incubação é de 30 dias a 6 meses. É pouco frequente, sendo mais comum em climas tropicais e subtropicais.
+
+B - Etiologia
+Causada por Klebsiella granulomatis (anteriormente, denominada Calymmatobacterium granulomatis), bactéria Gram ne-gativa que se cora com maior intensidade nas extremidades do que no centro. Nas lesões, tais micro{+-o+}rganismos são encon{+-+}tra[---]dos no interior de macrófagos, sob a forma de pequenos corpos ovais denominados corpúsculos de Donovan. São corados com relativa facilidade pelos métodos de Giemsa, Leishman e Wright.
+
+C - Achados clínicos
+O período de incubação varia de 30 dias a 6 meses. A doença inicia-se por lesão nodular, única ou múltipla, de localização subcutânea, que evolui produzindo ulceração bem definida, com fundo granulomatoso, de crescimento lento e que sangra com muita facilidade. A partir desse ponto, as manifestações clínicas estão diretamente ligadas às respostas tissulares do hos-pedeiro, originando formas localizadas ou extensas e, até mesmo, lesões viscerais por disseminação hematogênica.
+Comumente, as formas ulcerosas são as de maior dimensão, com secreção abundante e de crescimento por expansão, por meio de autoinoculação
+
+{+Importante+}
+{+As formas ulcerosas da donovanose são geralmente aquelas de maior dimensão, com secreção abundante e de cresci-mento por expansão, por meio de autoinoculação+}. 
+
+{+ +}As ulcerações podem progredir para as formas ulcerovegetantes, em que ocorre abundante tecido de granulação no fundo da lesão. As lesões vegetantes, por serem quase desprovidas de secreção, são, habitualmente, pe[---]quenas e bem delimi{+-+}tadas.
+As manifestações com linfedema acontecem, quase sempre, após formas ulcerativas, que promovem alterações linfáticas obstrutivas que determinam fenômenos de estase. São encontradas, principalmente, na genitália feminina e são excepcionais em pacientes do sexo masculino.
+As localizações extragenitais podem ocorrer dependendo das práticas sexuais do paciente ou por extensão do foco inicial por autoinoculação. Há relatos de localizações nas gengivas, axilas, parede abdominal etc.
+As formas sistêmicas são encontradas, em geral, em áreas endêmicas, tendo sido descritas manifestações ósseas, articula-res, hepáticas, esplênicas, pulmonares e outras.
+A Figura 1[-1-]{+2+} mostra lesões típicas de donovanose, com quadro de destruição importante de tecidos e formação de granu-loma.
+
+  
+Figura 1[-1-]{+2+} - Lesões típicas 
+
+D - Diagnóstico diferencial
+Cancro mole na sua forma fagedênica;
+@@ -375,6 +465,7 @@ E - Exames complementares
+O diagnóstico é estabelecido por meio da demonstração dos corpúsculos de Donovan, em esfregaço de material proveni-ente da lesão suspeita ou cortes tissulares. O material para o exame de esfregaço deve ser, preferencialmente, oriundo de parte do material destinado para exame histopatológico. Caso o material seja proveniente da lesão suspeita, sua coleta deve ser realizada em área de lesão livre de infecção secundária e com granulação ativa. O exame histopatológico é indicado para casos duvidosos e para afastar malignidade. Para a visualização dos corpúsculos de Donovan, tanto no esfregaço, como no material de biópsia, são necessárias colorações específicas, como de Giemsa (corpúsculos coram-se de maneira bipolar, de forma mais intensa na periferia do que no centro), coloração pela prata (em que os corpúsculos se coram em negro) ou com azul de toluidina (para microscopia eletrônica).
+
+F - Tratamento
+
+Escolha: doxiciclina 100mg VO, 12/12h;
+Opções: 
+Azitromicina: 1g VO, 1x/sem;
+@@ -397,7 +488,7 @@ Ao final da infec
+As infecções podem ser recorrentes, e 60 a 90% dos pacientes apresentam novos episódios nos primeiros 12 meses, por reativação dos vírus. A recorrência das lesões pode associar-se a episódios de febre, exposição à radiação ultravioleta, trau-matismos, menstruação, estresse físico ou emocional, antibioticoterapia prolongada e imunodeficiência. O quadro clínico das recorrências é menos intenso do que o da primoinfecção e é precedido de pródromos característicos, como aumento de sensibilidade no local, prurido, “queimação”, mialgias e “fisgadas” em pernas, quadris e região anogenital.
+
+ 
+Figura 1[-2-]{+3+} - Vesículas típicas em lesão peniana por herpes-vírus
+
+D - Exames complementares
+O diagnóstico, na maioria das vezes, pode ser realizado unicamente com a inspeção. Os procedimentos complementares que podem ser realizados incluem:
+@@ -405,17 +496,17 @@ O diagn
+Tabela 6 - Procedimentos complementares que podem ser realizados
+Citodiagnóstico	O citodiagnóstico de Tzanck pode ser útil. Sua positividade é refletida pela multinucleação e balonização celulares. A utilização da coloração pelo Papanicolaou permite a observação de inclusões citopáticas virais.
+Biópsia	Não indicada rotineiramente, permite realizar, com maior segurança, o diagnóstico por meio da identificação dos corpúsculos de inclusão. 
+Cultura	O isolamento do vírus em cultura de tecido é a técnica mais específica para a detecção da infecção herpética. A sensibilidade varia de acordo com o estágio da lesão, sendo progres{+-+}sivamente menor em lesões vesiculosas, pustu[---]losas, ulceradas e crostosas. 
+
+E - Diagnóstico diferencial
+Deve ser feito com cancro mole, sífilis, linfogranuloma venéreo, donovanose e ulcerações traumáticas.
+
+F - Tratamento
+
+Vários medicamentos foram utilizados para o tratamento das infecções herpéticas, mas nenhum deles provou ser comple-tamente eficaz na erradicação do vírus. Não existe tratamento que proporcione cura definitiva. Pode-se valer de tratamento sintomático com limpeza da lesão, uso de analgésicos e anti-inflamatórios no herpes genital. No 1º episódio, podem ser utili-zados:
+Aciclovir: 400mg VO, 8/8h, por 7 a 10 dias; ou 200mg VO, 4/4h, por 7 a 10 dias;
+Valaciclovir: 1g VO, 12/12h, por 7 a 10 dias;
+Fanciclovir: 250mg VO, 8/8h, por 7 a 10 dias.
+
+Nas recorrências de herpes genital, o tratamento deve ser iniciado, de preferência, com o aparecimento dos primeiros pródromos.
+Aciclovir: 400mg VO, 8/8h, por 5 dias; ou 200mg VO, 4/4h, por 5 dias; 
+Valaciclovir: 500mg VO, 12/12h, por 5 dias; 
+@@ -431,6 +522,15 @@ Les
+- Exame direto para campo escuro;
+- Raspagem de fundo da lesão para pesquisar K. granulomatis e células de inclusão viral.
+
+{+Pergunta+}
+{+2015 - INCA+}
+{+4. A Organização Mundial da Saúde (OMS) estima que ocorram, a cada ano, 333 milhões de casos novos de doenças sexu-almente transmissíveis curáveis em pessoas de 15 a 49 anos. Sobre DST, assinale a alternativa correta: +}
+{+a) a sífilis tem, como agente etiológico, o Haemophilus ducreyi, que provoca lesão ulcerada na fase primária da doença recente+}
+{+b) donovanose ou granuloma inguinal é uma doença crônica e progressiva, cujo agente etiológico é Chlamydia trachomatis – sorotipos L1, L2 e L3+}
+{+c) no herpes genital primário, surgem exulcerações dolorosas, que se tornam vesiculares, coalescem e, ao se romperem, dão origem a exulcerações, com a posterior formação de crostas e cicatrização+}
+{+d) a tricomoníase vaginal é causada pelo Trichomonas vaginalis, sendo a via sexual a principal forma de transmissão. Há corrimento vaginal, branco-acinzentado, geralmente em pequena ou moderada quantidade, de odor fétido, mais acentua-do depois do coito e no período menstrual, sem sinais de processo inflamatório+}
+{+Resposta no final do capítulo+}
+
+7. Infecção pelo HPV
+
+Apesar de ser uma doença sexualmente transmissível, o papilomavírus humano (HPV) será apenas brevemente citado nes-te capítulo, pois já é normalmente relatado em outras partes (especialmente em Ginecologia). O papilomavírus possui diver-sos tipos diferentes de vírus, todos denominados com números. A maioria dos que causam alterações na pele levam a verru-gas, nem todas de DST. Por exemplo, a verruga vulgar (muito comum nos dedos das crianças) é causada por papilomavírus. No ponto de vista de lesões verrucosas genitais, o HPV é importante porque se relaciona muito a câncer de colo de útero em mulheres, câncer de cólon em homens que fazem sexo com homens (HSH) e câncer peniano em homens. São, hoje, também responsabilizados por outros tipos de tumores, como de orofaringe, por exemplo. 
+@@ -453,12 +553,14 @@ C
+Cisto verrugoso	60
+Papilomatose laríngea	6, 11
+
+[-Cons-]{+D+}i[-derando o -]c[-âncer de colo de útero (motivo pelo qu-]a
+[-l o HPV fic-]{+D+}o[-u ma-]is [-famoso), 2 -]são os tipos principais {+de HPV +}relacionados com [-a-]{+o câncer+} d{+e c+}o{+lo d+}e[-nça:-] {+úter+}o[-s-]{+:+} subtipos 16 e 18[-.-]{+;+} [-C-]{+c+}onsiderando os princi{+-+}pais causadores de verrugas genitais, são citados os subtipos 6 e 11.[- -]
+
+O tratamento da verruga por HPV é feito com queimadura, usando ácido tricloroacético, hidrogênio ou outras formas. Em pacientes com grandes verrugas, a exérese cirúrgica é necessária. Entretanto, atualmente, muito se discute a profilaxia para HPV, feita com vacina. 
+A vacina contra o HPV é comercializada na rede privada e entrou no programa nacional de vacinação brasileiro em 2014 para crianças de 11 a 13 anos do sexo feminino. Atualmente, ela é recomendada para crianças acima de 9 anos. Duas vacinas são comercializadas no Brasil (Gardasil® e Cervarix®) e protegem contra os vírus 16 e 18 (principais causadores de câncer) e os vírus 6 e 11 (principais causadores de verrugas genitais). São indicadas até os 26 anos. 
+Atualmente, existe tendência a indicar a vacina também para meninos e vacinar mesmo mulheres que já tiverem exame colpocitológico com HPV; neste último caso, porque a vacina poderia proteger contra outros tipos de vírus não contaminados ainda.
+
+8.[-	-]{+ +}Abordagem sindrômica 
+
+O Ministério da Saúde propõe que as DSTs sejam abordadas de maneira sindrômica, isto é, na impossibilidade de diagnós-tico etiológico imediato, que o paciente receba tratamento empírico de acordo com a síndrome clínica, para que não seja perdida a oportunidade de tratamento de sua afecção e haja interrupção da cadeia de transmissão.
+O tratamento imediato das DSTs tem importância epidemiológica não somente na transmissão delas próprias, mas também na transmissão do HIV. A infecção genital ativa facilita tanto a transmissão quanto a aquisição do vírus por via sexual. O pacien-te infectado pelo HIV apresenta maior quantidade de partículas virais em seus fluidos genitais quando tem uma infecção geni-tal ativa, em virtude da maior replicação viral e de microssangramentos provocados pela coinfecção, o que facilita a transmis-são do vírus. 
+@@ -466,13 +568,23 @@ O paciente HIV negativo com DST tem maior predisposi
+A seguir, recomendações feitas pelo Ministério da Saúde para a abordagem sindrômica das DSTs:
+
+ 
+Figura 1[-3-]{+4+} - Abordagem sindrômica das úlceras genitais
+
+{+Pergunta+}
+{+2014 - PUC-RS+}
+{+5. Uma mulher procura atendimento com queixa de úlcera genital há 2 semanas. Não tem história ou evidência de lesões vesiculosas. De acordo com a abordagem sindrômica das doenças sexualmente transmissíveis, preconizada pelo Ministério da Saúde do Brasil, o tratamento recomendado nesse caso compreende:+}
+{+a) aciclovir e doxiciclina+}
+{+b) aciclovir e ceftriaxona+}
+{+c) ceftriaxona e azitromicina+}
+{+d) ciprofloxacino e azitromicina+}
+{+e) penicilina G benzatina e azitromicina+}
+{+Resposta no final do capítulo+}
+
+ 
+Figura 1[-4-]{+5+} - Abordagem sindrômica dos corrimentos uretrais 
+
+ 
+Figura 1[-5-]{+6+} - Abordagem sindrômica dos corrimentos vaginais
+
+9. Resumo 
+
+@@ -486,7 +598,7 @@ S
+	Diagnóstico	- Primária: campo escuro, VDRL (causas de falso positivo), FTA-ABS (diferença em relação ao VDRL);
+		- Neurossífilis: liquor.
+	Tratamento	- Sífilis recente: 
+· Primária: penicilina benzatina, 2.400.00{+0+}UI, IM profunda, em dose única;
+· Secundária e latente recente: penicilina benzatina, 2.400.000UI, IM profunda (2 ou 3 doses, com intervalo de 1 semana entre elas, 1 em cada glúteo).
+		- Sífilis tardia (latente tardia, cutânea e cardiovascular):
+· Penicilina benzatina, 7.200.000UI, IM profunda, administrada em 3 doses de 2.400.000UI por se-mana.
+@@ -501,7 +613,7 @@ etiologia	- Haemophilus ducreyi;
+	Diagnóstico	Coleta de pus com Gram (bacilos Gram negativos em fila em conjunto com cocos Gram positivos – satelitismo)
+	Tratamento	- Cuidados locais: lavagem frequente com água e sabão;
+		- Azitromicina, 1g VO, dose única; ou ciprofloxacino, 500mg VO, 12/12h, por 3 dias; 
+		[- -]- Gestantes: ceftriaxona, 250mg, dose única, IM; eritromicina, 500mg VO, 6/6h, por 15 dias; e doxici-clina, 100mg VO, 12/12h, por 10 dias.
+Uretrite 
+gonocócica	Clínica e 
+etiologia	- Neisseria gonorrhoeae;
+@@ -529,4 +641,16 @@ cl
+		- Características de recorrência em 60 a 90%.
+	Diagnóstico	Biópsia e cultura
+	Tratamento	Pouca eficácia dos antivirais existentes
+HPV	Características	Avaliação das principais características desse vírus e sua relação com cânceres
+
+{+Respostas +}
+{+1. C+}
+{+2. C+}
+{+3. D+}
+{+4. C+}
+{+5. E+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
