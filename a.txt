@@ -1,5 +1,8 @@
 Anatomia e fisiologia cardíaca básica
-José Paulo Ladeira / Victor Ales Rodrigues
+José Paulo Ladeira
+Victor Ales Rodrigues
+Resumo
+O objetivo deste capítulo é revisar os principais aspectos da anatomia e da fisiologia cardíacas. Essa etapa é fundamental para um conhecimento mais consolidado das diversas patologias cardiológicas. Conceitos fundamentais serão discutidos como os sons fisiologicamente auscultados no coração, sendo a B1 relacionada ao fechamento das válvulas atrioventriculares mitral e tricúspide, e a B2, ao fechamento da valva aórtica e da valva pulmonar e sendo seu desdobramento, durante a inspiração, considerado fisiológico. Deve-se lembrar que o coração é revestido pelo pericárdio e sua parede é formada pelo endocárdio, miocárdio e epicárdio e que cada parte terá seus processos patológicos distintos que serão vistos nos próximos capítulos. O conhecimento das valvas cardíacas e o exame clínico relacionado são cruciais na identificação das patologias valvares. O conhecimento das artérias coronárias auxiliará no estudo das síndromes coronarianas e na interpretação do eletrocardiograma correspondente à lesão. Por fim, julgamos que a compreensão do sistema elétrico é o 1º passo para iniciar um estudo mais cauteloso das arritmias cardíacas.
 
 1. Introdução
 
@@ -9,8 +12,16 @@ Para iniciar o livro de Cardiologia, é importante relembrar alguns pontos básico
 
 A - Visão geral
 O coração é uma bomba dupla, de sucção e pressão, autoajustável, cujas porções trabalham conjuntamente para impulsionar o sangue para todos os órgãos e tecidos. O lado direito recebe o sangue venoso através da Veia Cava Superior (VCS) e da Veia Cava Inferior (VCI), bombeando-o, posteriormente, através do tronco pulmonar, fazendo-o ser oxigenado nos pulmões. O lado esquerdo recebe sangue arterial dos pulmões através das veias pulmonares, bombeando-o, posteriormente, para a aorta, de onde será distribuído a todo o corpo.
-São 4 as câmaras do coração: Átrio Direito (AD), Átrio Esquerdo (AE), Ventrículo Direito (VD) e Ventrículo Esquerdo (VE). Os átrios recebem e bombeiam o sangue aos ventrículos. O sincronismo de bombeamento das 2 bombas atrioventriculares cardíacas (câmaras direita e esquerda) constitui o chamado ciclo cardíaco, o qual se inicia com a diástole, que é o período em que há o relaxamento e o enchimento ventricular, e termina com a sístole, que é o período de contração muscular e esvaziamento dos ventrículos.
+São 4 as câmaras do coração: Átrio Direito (AD), Átrio Esquerdo (AE), Ventrículo Direito (VD) e Ventrículo Esquerdo (VE). Os átrios recebem e bombeiam o sangue aos ventrículos. 
+
+Vídeo
+Localização das veias cavas
+ 
+
 Os 2 sons fisiologicamente auscultados no coração são produzidos pelo estalido de fechamento das válvulas que normalmente impedem o refluxo de sangue durante as contrações cardíacas. O 1º som dá-se com o fechamento das válvulas atrioventriculares (mitral e tricúspide), sendo grave e denominado de 1ª bulha cardíaca (B1). O 2º som é gerado com o fechamento das válvulas semilunares (pulmonar e aórtica) e é denominado de 2ª bulha cardíaca (B2).
+
+Dica
+O sincronismo de bombeamento das 2 bombas atrioventriculares cardíacas (câmaras direita e esquerda) constitui o chamado ciclo cardíaco, o qual se inicia com a diástole, que é o período em que há o relaxamento e o enchimento ventricular, e termina com a sístole, que é o período de contração muscular e esvaziamento dos ventrículos.
 
 B - Localização anatômica
 Está localizado no mediastino, que é a cavidade central do tórax. Estende-se de forma oblíqua da 2ª costela até o 5º espaço intercostal, situa-se acima do diafragma, anterior à coluna e posterior ao esterno, e está rodeado parcialmente pelos pulmões. Dois terços estão à esquerda do eixo mediano e o outro terço à direita. O vértice cardíaco encontra-se entre a 5ª e a 6ª costelas, local onde se pode fazer a palpação do “choque da ponta” ou ictus cordis.
@@ -22,19 +33,19 @@ a) Ápice
 Situa-se no 5º espaço intercostal esquerdo, a aproximadamente 9cm do plano mediano; é imóvel durante o ciclo cardíaco, além de ser o local de máximo som de fechamento da valva mitral.
 
 b) Base 
-Voltada posteriormente em direção aos corpos das vértebras T6-T9, separada delas pelo pericárdio, pelo seio pericárdico oblíquo e pela aorta, recebe as veias pulmonares nos lados direito e esquerdo da sua porção atrial esquerda e VCS e VCI nas extremidades superior e inferior da sua porção atrial direita.
+Voltada posteriormente em direção aos corpos das vértebras T6-T9, separada delas pelo pericárdio, pelo seio pericárdico oblíquo e pela aorta, recebe as veias pulmonares nos lados direito e esquerdo da sua porção atrial esquerda e a VCS e VCI nas extremidades superior e inferior da sua porção atrial direita.
 
 c) Faces 
 
-Tabela 1 - Quatro faces do coração
+Tabela 1 - As 4 faces do coração
 Esternocostal (anterior)	É formada principalmente pelo VD.
 Diafragmática (inferior)	É formada principalmente pelo VE e parte do VD.
 Pulmonar direita	É formada principalmente pelo AD.
 Pulmonar esquerda	É formada principalmente pelo VE; forma a impressão cardíaca do pulmão esquerdo.
 
-d) Margens 
-
-Tabela 2 - Quatro margens do coração
+d) Margens
+ 
+Tabela 2 - As 4 margens do coração
 Direita	Ligeiramente convexa e formada pelo AD, estende-se entre a VCS e a VCI.
 Inferior	Oblíqua, quase vertical, é formada principalmente pelo VE.
 Esquerda	É quase horizontal e formada principalmente pelo VE e por uma pequena parte da aurícula esquerda.
@@ -42,23 +53,22 @@ Superior	Formada pelos átrios e aurículas direitos e esquerdos em vista anterior
 
 3. Revestimento e parede cardíaca
 
-Há uma membrana fibrosserosa que envolve todo o coração e o início dos seus grandes vasos chamada pericárdio (Figura 1), a qual tem a característica de ser semelhante a um saco fechado contendo o coração. É formado por 2 camadas: a externa, chamada pericárdio fibroso, mais resistente, constituída por tecido conjuntivo denso e que tem por função fixar o coração ao diafragma e aos grandes vasos; e uma camada interna, chamada pericárdio seroso, mais delicada e que, por sua vez, possui 2 lâminas – parietal, que reveste internamente o pericárdio fibroso, e visceral, que recobre o coração e os grandes vasos. Entre as 2 lâminas existe a cavidade pericárdica, que contém certa quantidade de líquido e permite a movimentação do coração dentro do tórax.
+Há uma membrana fibrosserosa que envolve todo o coração e o início dos seus grandes vasos chamada pericárdio (Figura 1), a qual tem a característica de ser semelhante a um saco fechado contendo o coração. É formado por 2 camadas: a externa, chamada pericárdio fibroso, mais resistente, constituída por tecido conjuntivo denso e que tem por função fixar o coração ao diafragma e aos grandes vasos; e uma camada interna, chamada pericárdio seroso, mais delicada e que, por sua vez, possui 2 lâminas – parietal, que reveste internamente o pericárdio fibroso, e visceral, que recobre o coração e os grandes vasos. Entre as 2 lâminas existe a cavidade pericárdica, que contém certa quantidade de líquido e permite a movimentação do coração dentro do tórax. Quando ocorre de forma aguda o acúmulo de líquido nesse espaço, pode ocorrer também o tamponamento cardíaco, pois a membrana serosa do pericárdio não se distende, determinando o aumento da pressão intracavitária e o impedimento do enchimento ventricular adequado na diástole. 
  
-
 Figura 1 - Pericárdio
 
 Já a parede do coração é formada por 3 camadas (Figura 2):
 
 Tabela 3 - Formação da parede cardíaca
-Endocárdio	Camada interna, de fina espessura (endotélio e tecido conjuntivo subendotelial), que atua como revestimento íntimo do coração, inclusive de suas valvas
-Miocárdio	Camada intermediária, helicoidal e espessa, formada por músculo cardíaco
-Epicárdio	Camada externa, fina espessura (mesotélio) e formada pela lâmina visceral do pericárdio seroso
+Endocárdio	Camada interna, de fina espessura (endotélio e tecido conjuntivo subendotelial), que atua como revestimento íntimo do coração, inclusive de suas valvas	A endocardite é caracterizada pela infecção desse componente do tecido cardíaco, principalmente nas áreas em que recobre as válvulas cardíacas.
+Miocárdio	Camada intermediária, helicoidal e espessa, formada por músculo cardíaco	A miocardite aguda é a inflamação desse tecido muscular, geralmente associada à perda de força contrátil.
+Epicárdio	Camada externa, de fina espessura (mesotélio) e formada pela lâmina visceral do pericárdio seroso	As pericardites são caracterizadas pela inflamação dessas lâminas, podendo cursar com derrame pericárdico.
 
  
 Figura 2 - Pericárdio e parede cardíaca
 
 A - Câmaras cardíacas
-São 4 as câmaras cardíacas (Figura 3), sendo 2 átrios e 2 ventrículos, separados por 1 septo e por 2 valvas atrioventriculares. De forma geral, o sangue chega ao coração nos átrios (do pulmão através do AE e do corpo através do AD) e é ejetado dele pelos ventrículos (para o pulmão pelo VD e para o restante do corpo pelo VE).
+São 4 as câmaras cardíacas (Figura 3), sendo 2 átrios e 2 ventrículos, separados por 1 septo e por 2 valvas atrioventriculares. De forma geral, o sangue chega ao coração nos átrios (do pulmão através do AE e do corpo através do AD) e é ejetado dele pelos ventrículos (para o pulmão através de VD e para o restante do corpo através do VE).
 
 a) Átrio direito
 Recebe o sangue venoso da VCS, da VCI e do seio coronariano. A aurícula direita é uma bolsa muscular cônica que se projeta como uma câmara adicional, aumentando a capacidade do átrio, enquanto se superpõe à aorta ascendente. No AD há, ainda, 2 estruturas muito importantes que serão tratadas mais à frente: o nó sinusal e o nó atrioventricular. Seu interior é formado por uma parede posterior lisa e fina e uma parede anterior muscular rugosa, formada pelos músculos pectíneos, que auxiliam na contração atrial.
@@ -67,10 +77,20 @@ b) Ventrículo direito
 Responsável pelo bombeamento do sangue na circulação pulmonar, recebe o sangue venoso do AD, que repassa ao ventrículo através da valva tricúspide, deságua no tronco da artéria pulmonar por meio da valva pulmonar e possui em seu interior elevações musculares chamadas trabéculas cárneas. Os chamados músculos papilares começam a contrair antes da contração ventricular, tensionando estruturas chamadas cordas tendíneas. Esse mecanismo é o responsável pela abertura e pelo fechamento das válvulas.
 
 c) Átrio esquerdo
-Recebe o sangue arterial, proveniente das veias pulmonares direitas e esquerdas, e deságua no VE, separado pela valva mitral. Seu interior possui uma parte maior com paredes lisas e uma aurícula muscular menor, contendo músculos pectíneos. Sua parede é também um pouco mais espessa que a do AD.
+Recebe o sangue arterial, proveniente das veias pulmonares direita e esquerda, e deságua no VE, separado pela valva mitral. Seu interior possui uma parte maior com paredes lisas e uma aurícula muscular menor, contendo músculos pectíneos. Sua parede é também um pouco mais espessa que a do AD.
 
 d) Ventrículo esquerdo
 Responsável pelo bombeamento do sangue para o corpo, recebe o sangue arterial do AE, que passa ao VE através da valva mitral, e deságua na aorta pela valva aórtica. O VE forma o ápice do coração, suas paredes são até 3 vezes mais espessas que as do VD, as trabéculas cárneas são mais finas e numerosas, e os músculos papilares, maiores que os do VD. Vale lembrar que a pressão arterial é muito maior na circulação sistêmica do que na circulação pulmonar, por isso o VE trabalha mais do que o VD.
+
+Pergunta
+2014 - UFPR
+1. O átrio direito é a câmara cardíaca que normalmente recebe o sangue venoso sistêmico. Nessa câmara, encontra-se a valva de Eustáquio, que se relaciona com: 
+a) veia cava inferior 
+b) crista terminalis 
+c) veia cava superior 
+d) seio coronário 
+e) junção atrioventricular direita 
+Resposta no final do capítulo
  
 Figura 3 - Estruturas cardíacas 
 
@@ -78,22 +98,23 @@ B - Valvas cardíacas
 As valvas são formadas, basicamente, de tecido conjuntivo e têm a função de garantir o sentido unidirecional do sangue, ou seja, impedem o refluxo sanguíneo nas 4 cavidades cardíacas. As valvas são formadas também por válvulas, espécie de folhetos das valvas, que variam de acordo com a localização (Figuras 4, 5 e 6).
 
 a) Valva mitral
-Possui 2 válvulas e permite o fluxo sanguíneo entre o AE e o VE.
+Possui 2 válvulas e permite o fluxo sanguíneo entre o AE e o VE. É a mais frequentemente acometida na febre reumática.
 
 b) Valva tricúspide
 Possui 3 válvulas e permite o fluxo sanguíneo entre o AD e o VD. 
 Essas 2 valvas (mitral e tricúspide) são fixadas a cordas tendíneas provenientes de músculos papilares e promovem a sustentação, permitindo que as válvulas resistam a maiores pressões, também impedindo o prolapso.
 
 c) Valva aórtica
-Possui 3 válvulas e permite o fluxo sanguíneo de saída do VE em direção à aorta.
+Possui 3 válvulas e permite o fluxo sanguíneo de saída do VE em direção à aorta. Nos idosos, é comum a apresentação clínica de insuficiência cardíaca e/ou síncope quando há estenose severa dessa válvula.
 
 d) Valva pulmonar
 Possui 3 válvulas e permite o fluxo sanguíneo de saída do VD em direção à artéria pulmonar. 
 Ao contrário das outras 2, as valvas aórtica e pulmonar não têm cordas tendíneas para sustentá-las. São menores, e a pressão sobre elas é inferior à metade da exercida nas valvas atrioventriculares.
- 
+
+  
 Figura 4 - Valvas cardíacas
 
- 
+  
 Figura 5 - Focos de ausculta cardíaca
 
 Tabela 4 - Valvas cardíacas e exame clínico
@@ -105,27 +126,46 @@ Pulmonar	Valva
 pulmonar	2º espaço intercostal esquerdo, junto ao esterno	É o foco em que se têm condições ideais para análise de desdobramentos, patológico ou fisiológico, da 2ª bulha pulmonar.
 Aórtico acessório	Valva aórtica	Entre o 3º e o 4º espaços intercostais esquerdos, próximo ao esterno	Trata-se do melhor local para perceber fenômenos acústicos de origem aórtica.
 
- 
+  
 Figura 6 - Valvas cardíacas (corte transversal)
+
+Pergunta 
+2009 - UFSC
+2. Analise as alternativas a seguir e assinale a correta:
+a) a B1 está relacionada ao fechamento das valvas mitral e tricúspide
+b) os componentes audíveis ao desdobramento patológico da B2 na área pulmonar são o mitral e o tricúspide, que estão separados na expiração
+c) os componentes audíveis no desdobramento fisiológico da B2 na área aórtica são o aórtico e o pulmonar, que estão separados na expiração
+d) o desdobramento patológico da B2 na área pulmonar caracteriza-se pelo seu desdobramento na inspiração, enquanto na expiração se torna único
+e) o desdobramento constante da B2 na área pulmonar caracteriza-se por apresentar desdobramento na inspiração e na expiração, mantendo o mesmo grau de desdobramento, ou seja, sem variabilidade, o que não acontece com o desdobramento fixo
+Resposta no final do capítulo
 
 C - Coronárias
 As artérias coronárias são os primeiros ramos da aorta e suprem o miocárdio e o epicárdio. As artérias coronárias direita e esquerda originam-se dos seios da aorta correspondentes na região proximal da parte ascendente da aorta e seguem por lados opostos do tronco pulmonar (Figura 7).
 
 a) Artéria coronária direita
-Origina-se do seio direito da aorta, seguindo no sulco coronariano. Próximo de sua origem, emite o ramo do nó sinoatrial (suprindo-o, depois emitindo o ramo do nó atrioventricular). Na sua porção posterior, dá origem ao grande ramo interventricular posterior, que, por sua vez, envia os chamados ramos interventriculares septais.
+Origina-se do seio direito da aorta, seguindo no sulco coronariano. Próximo de sua origem, emite o ramo do nó sinoatrial (suprindo-o, depois emitindo o ramo do nó atrioventricular). Na sua porção posterior, dá origem ao grande ramo interventricular posterior, que, por sua vez, envia os chamados ramos interventriculares septais. Nas síndromes isquêmicas agudas dessa coronária, são comuns distúrbios do ritmo cardíaco (bradicardia sinusal, bloqueios atrioventriculares), além do acometimento da parede inferior e do ventrículo direito.
 
 b) Artéria coronária esquerda 
-Origina-se do seio esquerdo da aorta, seguindo no sulco coronariano. Na extremidade superior do sulco interventricular anterior, divide-se em 2 ramos, o anterior e o circunflexo. O ramo interventricular anterior segue até o ápice do coração e, em muitas pessoas, origina o ramo diagonal. A artéria circunflexa origina a artéria marginal esquerda.
+Origina-se do seio esquerdo da aorta, seguindo no sulco coronariano. Na extremidade superior do sulco interventricular anterior, divide-se em 2 ramos, o anterior e o circunflexo. O ramo interventricular anterior segue até o ápice do coração e, em muitas pessoas, origina o ramo diagonal. A artéria circunflexa origina a artéria marginal esquerda. Nas síndromes isquêmicas agudas dessa coronária, são comuns a disfunção ventricular aguda do VE e arritmias como taquicardia ventricular.
 
  
 Figura 7 - Artérias coronárias 
+
+Vídeo
+Fonograma e curvas das câmaras cardíacas
+ 
+ 
+
 
 4. Sistema elétrico 
 
 O sistema de condução do coração é constituído basicamente de fibras musculares especializadas para a transmissão de impulsos elétricos, sendo representado por nó sinoatrial, feixes de condução atrial, nó atrioventricular, feixe atrioventricular com seus ramos e fibras de Purkinje (Figura 8). Os estímulos são gerados ritmicamente, resultando na contração coordenada dos átrios e dos ventrículos.
 O nó sinoatrial localiza-se na parte superior do AD, no contorno anterolateral de junção da VCS. Os estímulos gerados por ele se propagam pelos feixes de condução atrial (anterior, médio e posterior) até o nó atrioventricular, que os retransmite. Este último está situado abaixo do endocárdio atrial direito, na parte do septo interatrial imediatamente acima do óstio do seio coronariano. O feixe atrioventricular dirige-se para a parte membranácea do septo interventricular e em seguida se divide nos ramos direito e esquerdo, propagando-se até as paredes dos respectivos ventrículos.
 A frequência de geração e a velocidade de condução são aumentadas pelo sistema simpático e inibidas pelo parassimpático. Isso acontece para atender às demandas ou conservar energia.
-Os nós sinoatrial e atrioventricular são supridos pelos ramos nodais da artéria coronária direita, o que justifica a maior incidência de bloqueios da condução atrioventricular nas síndromes coronarianas agudas dessa coronária; já os feixes são supridos pelos ramos septais da artéria coronária esquerda, o que justifica a presença frequente de bloqueios de ramos agudos nas síndromes coronarianas agudas dessa artéria. A oclusão de qualquer artéria, com consequente infarto do tecido nodal, pode exigir a inserção de um marca-passo cardíaco artificial.
+Os nós sinoatrial e atrioventricular são supridos pelos ramos nodais da artéria coronária direita, o que justifica a maior incidência de bloqueios da condução atrioventricular nas síndromes coronarianas agudas dessa coronária; já os feixes são supridos pelos ramos septais da artéria coronária esquerda, o que justifica a presença frequente de bloqueios de ramos agudos nas síndromes coronarianas agudas dessa artéria. 
+
+Dica
+A oclusão de qualquer artéria, com consequente infarto do tecido nodal, pode exigir a inserção de um marca-passo cardíaco artificial. 
 
  
 Figura 8 - Sistema elétrico do coração
@@ -145,9 +185,14 @@ Parte da VCS.
  
 Figura 9 - Grandes vasos 
 
+Vídeo
+Estruturas cardíacas e focos de ausculta
+ 
+
 6. Ciclo cardíaco
 
-O ciclo cardíaco pode ser dividido em 2 fases: sístole e diástole. A alternância entre elas é que determina o esvaziamento e o enchimento subsequente do coração. A contração (sístole) e o relaxamento (diástole) podem ser isométricos, quando ocorrem alterações na pressão intraventricular sem modificação no comprimento das fibras musculares. O ciclo inicia-se no nó sinoatrial com uma despolarização que leva à contração do átrio. Durante esse tempo, o fluxo sanguíneo no interior dos ventrículos é passivo, mas a contração atrial aumenta o seu enchimento em cerca de 20%. A sístole ventricular ocasiona o fechamento das valvas atrioventriculares (1ª bulha cardíaca), sendo a contração isométrica até que as pressões intraventriculares se tornem suficientes para abrir as valvas pulmonar e aórtica, quando se inicia a fase de ejeção. O volume de sangue ejetado é conhecido como volume de ejeção. Ao final desta fase ocorrem o relaxamento ventricular e o fechamento das valvas pulmonar e aórtica (2ª bulha cardíaca). Após o relaxamento isovolumétrico, as pressões ventriculares diminuem mais do que as pressões atriais, o que leva à abertura das valvas atrioventriculares e ao início do enchimento ventricular diastólico. Todo o ciclo, então, se repete na sequência de outro impulso a partir do nó sinoatrial.
+O ciclo cardíaco pode ser dividido em 2 fases: sístole e diástole. A alternância entre elas é que determina o esvaziamento e o enchimento subsequente do coração. A contração (sístole) e o relaxamento (diástole) podem ser isométricos, quando ocorrem alterações na pressão intraventricular sem modificação no comprimento das fibras musculares. O ciclo inicia-se no nó sinoatrial com uma despolarização que leva à contração do átrio. Durante esse tempo, o fluxo sanguíneo no interior dos ventrículos é passivo, mas a contração atrial aumenta o enchimento ventricular em cerca de 20% ao final da diástole. A sístole ventricular ocasiona o fechamento das valvas atrioventriculares (1ª bulha cardíaca), ocorrendo uma contração isométrica até que as pressões intraventriculares se tornem suficientes para abrir as valvas pulmonar e aórtica, quando se inicia a fase de ejeção. O volume de sangue ejetado é conhecido como volume sistólico. Ao final dessa fase ocorrem o relaxamento ventricular e o fechamento das valvas pulmonar e aórtica (2ª bulha cardíaca). Após o relaxamento isovolumétrico, as pressões ventriculares diminuem mais do que as pressões atriais, o que leva à abertura das valvas atrioventriculares e ao início do enchimento ventricular diastólico. Todo o ciclo, então, se repete na sequência de outro impulso a partir do nó sinoatrial.
+
  
 Figura 10 - Relação entre eventos elétricos e mecânicos do ciclo cardíaco
 
@@ -155,7 +200,7 @@ Figura 10 - Relação entre eventos elétricos e mecânicos do ciclo cardíaco
 
 Quadro-resumo
 - O coração é uma bomba dupla, de sucção e pressão, autoajustável, cujas porções trabalham conjuntamente para impulsionar o sangue para todos os órgãos e tecidos;
-- É dividido em 4 câmeras:
+- É dividido em 4 câmaras:
 · AD;
 · AE;
 · VD;
@@ -185,3 +230,12 @@ Quadro-resumo
 · Direita;
 · Esquerda.
 - O sistema elétrico de condução dos impulsos cardíacos é constituído, basicamente, de fibras musculares especializadas.
+
+Respostas
+1. A
+2. A
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
