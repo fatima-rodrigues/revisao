@@ -1,0 +1,630 @@
+
+Distúrbios do potássio
+Rodrigo Antônio Brandão Neto[- / -]
+Natália Corrêa Vieira de Melo[- / -]
+Ana Cristina Martins Dal Santo
+
+{+Resumo+}
+{+O potássio é o principal cátion intracelular do corpo humano, em concentrações de 150mEq/L no intracelular e de 3,5 a 5mEq/L no extracelular. Desempenha importante função na contratura muscular, sendo as células musculares o principal reservatório desse íon no organismo. Alguns hormônios contribuem para o controle, como insulina, adrenalina e aldostero-na (o principal). A hipercalemia é o distúrbio em que a concentração sérica de potássio atinge valores >5mEq/L, causada por carga excessiva de potássio (ingestão ou infusão intravenosa, liberação endógena de K+), translocação de potássio do intra-celular para o extracelular e excreção urinária diminuída. Os principais sintomas estão ligados ao miocárdio (extrassístoles, arritmias e parada cardiorrespiratória) e músculos periféricos (fraqueza muscular, fadiga, insuficiência respiratória aguda), além dos hormonais (aumento de insulina e aldosterona). Com diagnóstico feito pela dosagem sérica de potássio (>5mEq/L), associada a eletrocardiograma alterado (ondas T apiculadas, onda P achatada e prolongada, elevação de ST, alargamento do complexo QRS), o tratamento é feito por medidas que promovam a estabilização elétrica da membrana celular (gluconato de cálcio a 10% 10mL IV de 2 a 5 minutos, com monitorização cardíaca contínua; repetir após 5 minutos, em caso de persistên-cia de alteração no eletrocardiograma), medidas que promovem translocação do potássio para o intracelular (beta-2-adrenérgico agonista inalatório 10 gotas até 4/4h + bicarbonato de sódio intravenoso 1mEq/kg IV, em 1 a 2 horas, até 4/4h + solução polarizante ou glicoinsulinoterapia 10UI IV em bolus, com 50mL de glicose a 50%) e medidas que promovem aumen-to da excreção de potássio (Sorcal® 15 a 30g diluídas em 100mL de manitol 10 a 20% via oral ou retal até 4/4h + furosemida 20 a 40mg IV + terapia dialítica). A hipocalemia ocorre quando a concentração sérica de potássio fica inferior a 3,5mEq/L, por redução da ingestão de potássio, hipocalemia por redistribuição ou aumento da excreção (urinária, fecal ou sudorese). No quadro clínico, há mialgia, fraqueza muscular, paralisia flácida, insuficiência respiratória, rabdomiólise, poliúria, noctúria, polidipsia, bradicardia sinusal, bloqueio atrioventricular e taquicardia/fibrilação ventricular. Outra vez o diagnóstico se ba-seia na concentração sérica <3,5mEq/L de potássio, associada a alterações no eletrocardiograma (achatamento da onda T, presença de ondas U, depressão do segmento ST, arritmias). O tratamento pode ser feito pela via oral se a hipocalemia é leve/moderada e o paciente vive manifestações clínicas secundárias a hipocalemia (KCl xarope a 10% 10 a 20mL, 2 a 4x/d, ou KCl comprimido – Slow-K® – 1 a 2cp, 3 a 4x/d); já a reposição intravenosa deve ser realizada a incapazes de se alimentar, ou conjuntamente com a terapia oral em portadores de hipocalemia grave sintomática (KCl a 19,1% IV; cada 1mL tem 2,5mEq de potássio, devendo-se repor de 5 a 10mEq/h).+}
+
+1. Introdução aos distúrbios hidroeletrolíticos
+
+Os distúrbios relacionados aos eletrólitos são muito comuns, não sendo característicos de qualquer especialidade. Além da frequência e da abrangência, é importante que todos os estudantes e médicos saibam lidar com a situação, por vários fatores:
+O distúrbio eletrolítico pode ser a consequência de algo grave não claramente exposto (por exemplo, hiponatremia em paciente com câncer de pulmão);
+O distúrbio eletrolítico, por si só, pode causar a morte do paciente (por exemplo, diabético que usa captopril e se apre-senta com potássio = 8mEq/L);
+O tratamento inadequado do distúrbio eletrolítico pode levar o paciente a sequelas ou morte (por exemplo, paciente com sódio sérico = 108mEq/L, e é prescrita solução de sódio concentrada; o sódio sobe para 120mEq/L em 3 horas, causando mielinólise pontina central).
+Neste capítulo, descreveremos [-6-]{+2+} situações: hipercalemia[-, hipocalemia, hipernatremia, hiponatremia, hipercalcemia-] e hi[---]pocal[-c-]emia.
+
+2. Distúrbios do potássio
+
+O corpo humano é rico em potássio, com cerca de 50mEq/kg de peso, entretanto esse íon é predominantemente intrace-lular (cerca de 98%); é o principal cátion intracelular do organismo. O restante está no extracelular, que, por sua vez, é man-tido em rigorosa faixa de normalidade (3,5 a 5mEq/L). Essa relação do potássio intracelular (cerca de 150mEq/L) para o extra-celular é essencial para o equilíbrio elétrico das membranas em repouso. Assim, a regulação da sua distribuição interna deve ser extremamente eficiente, uma vez que pequenas mudanças no equilíbrio entre o potássio intra e extracelular podem resultar num aumento potencialmente fatal na concentração plasmática desse íon. 
+O K+ desempenha importante função na contratura muscular, daí a razão de as células musculares serem o principal re-servatório desse íon no organismo.
+A membrana celular é altamente permeável ao potássio, pois contém uma infinidade de canais desse elemento. A saída constante de potássio da célula mantém a membrana com potencial de repouso negativo (em torno de -70mV), isto é, polari-zada. O principal regulador do potássio na célula é a bomba de Na+-K+-ATPase, localizada na membrana celular que, às custas da energia obtida pela hidrólise do ATP, libera 3 íons Na+ para o extra e captura 2 íons K+ para o intracelular. A Na+-K+-[-atep-]{+ATP+}ase joga o potássio de volta para o interior da célula, contra um forte gradiente elétrico, mantendo o gradiente de potássio transmembrana (150mEq/L ? 4mEq/L). {+Essa enzima é modulada por diferentes fatores, incluindo hormônio tireoidiano, cate-colaminas, insulina e drogas como os digitais.+}
+{+ +}
+{+Tabela 1 - Fatores moduladores da distribuição do potássio corpóreo+}
+{+- Concentração plasmática de potássio;+}
+{+- Insulina;+}
+{+- Catecolaminas;+}
+{+- Aldosterona;+}
+{+- Exercício;+}
+{+- Dieta;+}
+{+- Hiperosmolaridade;+}
+{+- pH extracelular;+}
+{+- Taxa de renovação celular;+}
+{+- Doenças crônicas.+}
+
+Por modificarem o potencial de repouso, a hipercalemia e a hipocalemia podem alterar a eletrofisiologia cardíaca, ao mo-dificar a propriedade dos canais de sódio e dos próprios canais de potássio, interferindo no automatismo, na velocidade de condução e má refratariedade das fibras cardíacas, podendo provocar taquiarritmias e bradiarritmias. Em um indivíduo hígido, a calemia é mantida dentro da faixa adequada por mecanismos fisiológicos, apesar da grande variação da quantidade de po-tássio ingerida e excretada diariamente. 
+Numa alimentação normal, consomem-se entre 40 e 150mEq/d de potássio, cuja ingestão produz um pequeno aumento transitório da calemia, logo tamponado pelas células (seu principal reservatório). Alguns hormônios contribuem para que essa entrada de potássio nas células ocorra de forma rápida e eficaz: a insulina e a adrenalina. Após 6 a 8 horas, o potássio restan-te começa a ser eliminado pelos rins, por ação do principal hormônio regulador de potássio: a aldosterona.
+O equilíbrio corpóreo de potássio é mantido pela fina regulação entre ingestão e excreção. Cerca de 40 a 120mEq/d são excretados através dos rins (90% do total), do trato gastrintestinal e da pele. Apenas nos casos em que a Taxa de Filtração Glomerular (TFG) está substancialmente comprometida (menor que 30%), a eliminação fecal ganha maior importância, po-dendo chegar a excretar até 60% do potássio corpóreo, embora os mecanismos sejam pouco conhecidos.
+Em suma, em condições normais, o rim é o responsável pela concentração sérica de potássio. O íon é livremente filtrado pelo glomérulo (cerca de 800mEq/d) e logo reabsorvido no túbulo contorcido proximal e na alça ascendente espessa de Henle (em média, 80 a 95% da carga filtrada). No túbulo, a reabsorção é passiva, junto com o sódio e a água; na alça espessa de Henle, há um transportador específico (Na+-K+-2Cl-), o que permite que a quantidade de potássio que chega aos túbulos distais seja semelhante à quantidade ingerida. Nesse momento, a excreção ou a reabsorção do íon dependem da quantidade sérica de potássio e dos seus estoques celulares.
+Deste modo, menos de 10% da carga filtrada chegam ao início do túbulo distal, local principal no ajuste fino da homeos-tase do potássio. 
+O controle rápido da concentração plasmática de potássio ocorre pela redistribuição do íon entre os compartimentos in-tra e extracelulares. Por isso, o equilíbrio acidobásico é fator de suma importância no balanço do potássio. Estados de acidose são acompanhados pela saída de potássio do compartimento intracelular para o extracelular, enquanto o oposto ocorre em situações de alcalose. A insulina e as catecolaminas também promovem a entrada de potássio para o compartimento intrace-lular.
+
+Tabela [-1-]{+2+} - Causas de aumento da excreção de potássio
+Hipercalemia	Por si só, independente da aldosterona, estimula a perda renal de potássio.
+Aldosterona	Hormônio produzido pela zona glomerulosa da adrenal em resposta à hipercalemia, au-mento de renina e de angiotensina II. Nos túbulos coletores corticais, por meio das células principais, estimula a reabsorção de sódio e aumenta a excreção de potássio e hidrogênio.
+Fluxo urinário	Quanto maior é o débito urinário nos ductos coletores, maior é a excreção de potássio.
+Aporte de sódio aos segmentos distais do néfron	Quanto mais sódio chega a esses segmentos, maior é a sua reabsorção, que, por conse-quência, aumenta a excreção de potássio.
+Alcalose	Nessa situação, há aumento da excreção de potássio, de forma compensatória à redução da excreção de hidrogênio, que ocorre a fim de compensar a alcalose.
+
+{+Importante+}
+{+O potássio pode redistribuir-se entre os compartimentos extra e intracelular, de acordo com o estado acidobásico, insulina, aldosterona e estímulo endógeno. +}
+
+A - Hipercalemia
+
+a)[-	-]{+ +}Causas
+A elevação do potássio é um problema comum na prática médica, potencialmente letal. O potássio entra no corpo por meio de ingestão oral de infusão intravenosa, é armazenado nas células e, em seguida, é excretado na urina. As principais causas de hipercalemia são maior liberação de potássio das células e, na maioria das vezes, excreção urinária de potássio reduzida. O gradiente de potássio do intracelular para o extracelular é responsável pela excitabilidade nervosa e muscular, inclusive do miocárdio. Pequenas alterações no potássio sérico podem implicar profunda alteração na condução e na excita-bilidade do coração, o que pode alterar a função e o ritmo cardíacos e causar parada cardiorrespiratória (PCR).
+Dos distúrbios eletrolíticos, a hipercalemia é um dos mais graves e possivelmente letais, pois uma rápida alteração na con-centração do potássio pode gerar consequências imediatas e ameaçadoras à vida.
+A hipercalemia é definida como concentração sérica de potássio maior que 5mEq/L. As etiologias e os mecanismos que levam a esse distúrbio serão discutidos a seguir.
+
+b) Etiologia e fisiopatologia
+A hipercalemia pode ter 3 origens: 
+{+- +}Carga excessiva de potássio: ingestão ou infusão intravenosa, liberação endógena de K+;
+{+- +}Translocação de potássio das células para o meio extracelular;
+{+- +}Excreção urinária diminuída.  
+Destes 3 mecanismos, a excreção urinária diminuída precisa estar presente em casos de hipercalemia crônica, já que a elevação plasmática de K+ não se sustentaria em situações de excreção normal.
+A hipercalemia, em geral, deve-se à liberação de potássio das células ou à prejudicada excreção renal (Tabela [-2-]{+3+}). 
+
+Tabela [-2-]{+3+} - Causas de hipercalemia
+[---]{+Carga+} [-A-]{+ex+}c{+ess+}i{+va +}d[-os-]e [-me-]{+po-+}t[-aból-]{+áss+}i[-ca;-]{+o	+}- [-Deficiê-]{+Fo+}n[-cia d-]{+t+}e{+s+} [-i-]{+exóge+}n{+a+}s[-u-]{+: a+}li{+me+}n[-a -]{+t+}o[-u-]{+s+} [-hipe-]r[-gl-]ic{+os +}em[-ia;-]
+[---] [-Die-]{+po+}t[-a-]{+ássio+} (raramente causa{+m+} hipercalemia isoladamente)[-;-]
+[---]{+,+} [-M-]{+supl+}e[-dica-]men{+-+}t[-o-]{+açõe+}s[-:-] [-Anti-Inflamatóri-]o[-s-]{+ral+} [-Nã-]o{+u+} [-Es-]{+in+}t[-e-]r[-oid-]{+av+}e{+no+}s[- (AINEs)-]{+a+}, [-An-]{+subs+}t[-agon-]i[-s-]t[-a-]{+uto+}s do[-s-] [-Receptore-]s[- d-]a{+l,+} [-A-]{+sa+}ng[-iot-]{+u+}e[-nsina II-] [-(ARAs-II),-]{+em+} [-b-]e{+s+}t[-abl-]oque[--adores-], [-diurétic-]{+ge+}o[-s-]{+fagia,+} [-p-]{+s+}o{+l+}u[-pad-]{+çã+}o[-res-] de [-p-]{+C+}o[-táss-]{+ll+}i[-o-]{+ns;+}
+{+	- Fontes endógenas: hemólise, exercício excessivo, lise tumoral, sangramentos digestivos, rabdomiólise+}, {+estados catabólicos.+}
+{+Aumento da saída de potássio do intracelular – translocação de potássio	- Menor disponibilidade de insulina;+}
+{+	- Diminuição da atividade adrenérgica: uso de betabloqueadores;+}
+{+	- Diminuição do pH extracelular (acidose metabólica);+}
+{+	- Paralisia periódica hipercalêmica;+}
+{+	- Uso de bloqueadores neuromusculares (succinilcolina) ou de arginina;+}
+{+	- Uso excessivo de digital e outras substâncias que inibem a Na+-K+-ATPase;+}
+{+	- Pseudo-hipercalemia.+}
+
+{+Diminuição da excreção de potássio	- Insuficiência renal crônica ou aguda;+}
+{+	- Defeito seletivo na secreção distal de potássio;+}
+{+	- Alteração do sistema renina–angiotensina–aldosterona: drogas (+}Inibidores da Enzima Conversora de Angio{+-+}tensina [-(-]{+– +}IECAs[-)-]{+ ¬–+}, [-s-]{+bloq+}u{+eadores dos rece+}p{+tores de angiotensina, Anti-Inflamatórios Não Esteroides ¬– AINEs –, inibidores de ca+}l{+cin+}e{+urina (tacroli+}m{+o, ciclosporina), heparina, lítio, antagonistas da aldosterona), hipoaldos-t+}e{+ro+}n{+ismo, diuré+}t{+icos poupad+}o{+re+}s de potássio, intoxicação digitálica[-,-]{+;+}
+{+	-+} [-succ-]{+Dim+}in{+u+}i[-l-]{+ção da se+}c{+reçã+}o[-li-]{+ adre+}na[-,-]{+l+} [-h-]{+d+}e[-p-]{+ +}a{+ldoste+}r[-i-]{+o+}na[-,-]{+:+} {+hipoaldos+}t{+e+}r{+on+}i{+s+}m[-et-]o{+ +}prim[-a-]{+ário+}, {+insufi+}ci{+ên+}c[-lospor-]i{+a adre+}na{+l*+}, {+hi+}pe[-nt-]{+r-pl+}a[-mid-]{+s+}i[-n-]a[-;-]
+[---] [-H-]{+adr+}e[-mó-]{+na+}l{+ congên+}i[-se;-]
+[---]{+ta,+} [-H-]{+h+}ipoaldosteronismo hiporreninêmico ([-A-]{+a+}cidose [-T-]{+t+}ubular [-R-]{+r+}enal [-– ATR – -]tipo IV);
+{+	+}- [-Iatrog-]{+Ps+}e[-n-]{+udo-h+}i{+po+}a[- (a-]{+l+}d[-mini-]{+o+}st{+e+}r[-açã-]o[- i-]n[-traveno-]{+i+}s[-a-]{+mo:+} [-exc-]{+r+}es{+i+}s{+tênc+}i[-v-]a {+à ação +}d[-e-]{+a+} [-p-]{+ald+}o[-tás-]s[-i-]{+ter+}o[-)-]{+na+};
+{+	+}- [-Insufic-]{+H+}i[-ênc-]{+pervolem+}ia [-ad-]{+c+}r[-e-]{+ô+}n{+ic+}a[-l-] [-(do-]{+em paci+}en[-ça d-]{+t+}e{+s+} [-Ad-]di[-s-]{+alític+}o[-n)-]{+s+};
+{+	+}- [-Ins-]{+Bloq+}u[-fic-]{+e+}i[-ên-]{+o dos +}c[-i-]a[- Re-]na[-l-]{+is+} [-Agu-]d[-a (IRA);-]
+[---]{+e+} [-In-]s[-uf-]{+ód+}i{+o das +}c{+élulas pr+}i[-ê-]nci{+p+}a{+is:+} [-Ren-]a{+mi+}l[- C-]{+o+}r[-ôn-]i[-c-]{+d+}a{+,+} [-(IRC): ge-]{+t+}r{+i+}a[-lme-]nte[- ava-]{+re+}n[-çada-]{+o+}, [-co-]{+tri+}m[- cl-]e[-a-]{+top+}r{+im+}a[-nce-] [-d-]e [-cr-]{+p+}e[-a-]{+n+}t{+am+}i[-n-]{+d+}ina{+;+}
+{+	-+} [-<15mL/-]{+Di+}min[-;-]
+[---]{+uição do+} [-P-]a{+po+}r[-al-]{+te d+}is[-i-]{+t+}a{+l+} [-p-]{+d+}e[-ri-]{+ s+}ódi[-ca-]{+o:+} [-hi-]{+de+}p{+l+}e[-rca-]{+ção do vo+}l[-ê-]{+u+}m{+e c+}i{+r+}c{+ul+}a[-;-]
+[---]{+nte+} [-Ps-]e[-ud-]{+fetiv+}o[--h-]{+.+}
+{+* Insuf+}i[-per-]c{+iênci+}a[-l-]{+ adr+}e{+nal pri+}m{+ár+}ia[-;-]
+[---]{+, com+} [-Rab-]d{+estruiçã+}o[-m-]{+ +}i[-ól-]{+nfecc+}i{+o+}s[-e;-]
+[---]{+a+} [-Sín-]d[-rome-]{+a+} {+a+}d{+r+}e[- -]{+na+}l[-ise-] {+(+}tu[-mo-]{+be+}r[-a-]{+cu+}l[-;-]
+[-- Estad-]os{+e,+} [-h-]{+m+}i[-per-]c{+ob+}a{+c+}t[-aból-]{+er+}i[-c-]os[- (ex-]e[-mplo:-] [-se-]{+atí+}p[-se);-]
+[---]{+ica,+} H{+IV, c+}i[-per-]{+t+}o[-s-]m[-ol-]{+eg+}a{+loví+}r{+us).+}
+
+{+D+}i[-d-]{+c+}a
+[-de-]{+A+} [-(-]hiper[-n-]{+c+}a[-tr-]{+l+}emia[-,-] [-hip-]{+deve-s+}e{+ a ca+}rg[-li-]{+a ex+}ce[-m-]{+ss+}i{+v+}a[-);-]
+[---] [-Ex-]{+d+}e[-rcício-] [-fí-]{+potás+}si[-c-]o{+,+} {+lib+}e[-xtenuante;-]
+[-- T-]ra[-nsfus-]{+ç+}ão de [-hem-]{+pot+}á[-c-]{+ss+}i{+o d+}as[-;-]
+[---] [-U-]{+células ou exc+}re[-t-]{+ção r+}e{+nal p+}r[-oj-]eju[-no-]{+dic+}a[-n-]{+d+}a[-stomose-].
+
+Deve-se sempre estar atento à possibilidade de uma pseudo-hipercalemia (falso aumento sérico do potássio), que se deve a vários fatores, como:
+Coleta inadequada: uso de scalp fino, garroteamento firme, vácuo do tubo seco e longo tempo entre a coleta e o proces-samento do exame. Sempre que possível, deve-se colher uma nova amostra, seguindo o rigor técnico da coleta;
+Aumento do número de células: leucocitose importante, poliglobulia ou trombocitose. A dosagem deve ser repetida usando-se amostra de sangue fresco heparinizado colhido cuidadosamente para evitar hemólise.
+Não sendo pseudo-hipercalemia, deve-se buscar a causa do aumento de potássio. Alguns passos são importantes e devem ser seguidos:
+Quais medicamentos o paciente usa? 
+Uma minuciosa história medicamentosa é importante e não deve ser esquecida. Os medicamentos que mais comumente podem causar hipercalemia estão na Tabela [-3-]{+4+}:
+
+Tabela [-3-]{+4+} - Fármacos que causam hipercalemia
+Balanço externo
+- Redução da excreção de potássio:
+[-  -]· Bloqueio do canal epitelial de sódio: amilorida, triantereno, trimetoprima, pentamidina[-  -]{+;+}
+· Bloqueio da síntese de aldosterona: IECAs, inibidores de renina, AINEs, inibidores da cicloxigenase-2, tacrolimo, heparina;[-  -]
+· Bloqueio do receptor de aldosterona: espironolactona;[-  -]
+· Bloqueio da Na+-K+-ATPase do néfron distal: ciclosporina.
+Balanço interno
+- Redução da captação celular de potássio:
+[-  -]· Bloqueio beta-adrenérgico Na-seletivo: propranolol, timolol, nadolol etc.;[-  -]
+· Inibição da Na+-K+-ATPase: digitálicos (intoxicação);[-  -]
+· Inibição da liberação de insulina: somatostatina.
+- Transferência de potássio do intra para o extracelular:
+[-  -]· Lise celular: cocaína, estatinas (rabdomiólise); quimioterápicos (lise tumoral).
+- Agentes despolarizantes: succinilcolina.
+
+{+Importante+}
+{+As drogas comumente associadas a hipercalemia são digitálicos, espironolactona, betabloqueadores, inibidores da enzima conversora de angiotensina e ciclosporina. +}
+
+Qual é a função renal? 
+A função renal reduzida é uma das principais causas de hipercalemia, especialmente quando está associada a outros fato-res (por exemplo, uso de IECA). Tanto a I{+njúria +}R{+enal +}A{+guda (IRA)+} quanto a I{+njúria Renal Crônica (I+}RC{+)+} podem cursar com au{+-+}mento sérico de potássio. Entretanto, na IRC só costuma haver hipercalemia quando o clearance de creatinina está muito baixo (<15mL/min).
+
+{+Dica+}
+{+É raro ocorrer hipercalemia sem disfunção renal. +}
+
+O paciente está acidótico? 
+A acidose metabólica promove deslocamento do potássio do intracelular para o extracelular em troca de íons hidrogênio, como fenômeno tampão do sistema acidobásico do organismo. Em geral, o potássio volta ao normal com a normalização do pH. Entretanto, se o potássio é normal em um paciente com acidose grave, espera-se que diminua à medida que se corrige a acidose. Nesse caso, é prudente planejar a reposição do potássio mais precocemente. 
+Há algum indício de hemólise, lise tumoral ou rabdomiólise? 
+@@ -88,11 +129,13 @@ Deple
+A redução do fluxo sanguíneo distal, que é decorrente da redução do fluxo sanguíneo efetivo (como pode ocorrer na in-suficiência cardíaca, na cirrose ou na nefropatia perdedora de sal), também pode levar à hipercalemia.
+A hipercalemia pode estar ocorrendo devido ao hipoaldosteronismo? 
+O hipoaldosteronismo tem, como principais causas em adultos, o hipoaldosteronismo hiporreninêmico e o uso de diuréti-cos poupadores de K+. Na 1ª situação, há diminuição da produção de aldosterona, dificultando a excreção tubular distal de potássio. Já nos casos de hipercalemia provocada pelo uso de drogas que inibem a aldosterona, como a espironolactona, deve-se atentar para o tempo de recuperação da secreção de K+ após a sua suspensão. O efeito máximo da espironolactona ocorre em 48 a 72 horas e persiste pelo mesmo período. Deve-se suspeitar de hipoaldosteronismo em pacientes cronica-mente hipercalêmicos que não sejam portadores de insuficiência renal avançada, nem de condições que causem redução do volume circulante efetivo (como a insuficiência cardíaca avançada) e que não estejam em uso de diuréticos poupadores de potássio. 
+Nos pacientes com suspeita de hipoaldosteronismo, deve-se inicialmente investigar o uso de medicamentos que prejudi-quem a liberação de aldosterona, como A[-nti-Inflamatórios Não Hormonais (A-]IN[-H-]{+E+}s[-)-], IECAs, ciclosporina e heparina. Na ausência de uso de todos eles, devem-se investigar outras causas de hipoaldosteronismo, como insuficiência adrenal primária (doença de Addison) e o hipoaldostero{+-+}nismo hiporreninêmico (que pode ocorrer em portadores de nefropatia diabética e nefrite intersticial crônica). 
+
+Tabela [-4-]{+5+} - Causas mais comuns de hipoaldosteronismo{+ +}
+Destruição da adrenal	Denominada doença de Addison. Pode ser de etiologia autoimune (mais comum nos Estados Unidos) ou por invasão e destruição da glândula (mais comum no Brasil) devido à tuberculose, aos fungos e aos vírus. Os sintomas são vagos, como fraqueza, perda de peso, dor abdominal. Ao exame físico, podem-se notar escurecimento da pele (causada por aumento de conteúdo de melanina na pele, devido à alta concentração de ACTH) e hipotensão postural.
+Hipoaldosteronismo hiporreni-nêmico	Também denominada A{+cidose Tubular Renal (A+}TR{+)+} tipo IV, ocorre em virtude da destruição das célu{+-+}las produtoras de renina (células granulares na parede da arteríola aferente), que faz parte do apare{+-+}lho justaglomerular, causando diminuição da aldosterona. As causas principais são diabetes mellitus, nefropatias intersticiais, nefropatias causadas por anti-inflamatórios, anemia falciforme.  
+
+Tabela [-5-]{+6+} - Causas de deficiência e resistência de aldosterona
+Deficiência de aldosterona
+- Primário:
+· Insuficiência adrenal primária;
+@@ -102,8 +145,8 @@ Defici
+- Hipoaldosteronismo hiporreninêmico:
+· Doença renal, na maioria das vezes nefropatia diabética;
+· Expansão de volume, como na glomerulonefrite aguda;
+· Inibição da angiotensina, como IECAs, A{+ntagonistas dos +}R{+eceptores da +}A{+ngioten+}s{+ina II (ARA+}-II{+)+}, direta ou inibidores da renina;
+· AIN[-H-]{+E+}s;
+· Ciclosporina;
+· Infecção pelo HIV;
+· Alguns casos de uropatia obstrutiva.
+@@ -116,31 +159,75 @@ Resist
+· Pentamidina.
+- Doença tubulointersticial;
+- Pseudo-hipoaldosteronismo.
+
+ 
+Figura 1 - Investigação de hipoaldosteronismo
+
+Há deficiência de insulina, hiperglicemia e/ou hiperosmolalidade?
+A insulina promove a entrada de potássio nas células, logo, em condições normais, a ingestão de glicose (que estimula a secreção endógena de insulina) minimiza o aumento de potássio sérico induzido pela ingestão concomitante de potássio na dieta. No entanto, no diabetes mellitus descontrolado, a combinação de deficiência de insulina com a hiperosmolaridade in-duzida pela hiperglicemia frequentemente leva à hipercalemia, mesmo que o paciente tenha seus estoques depletados pelas perdas primárias de potássio na urina.
+O aumento da osmolaridade leva a elevação do movimento osmótico da água das células para o extracelular, o que é acompanhado pelo movimento do potássio para o extracelular. Além da hiperglicemia, pode ocorrer hipercalemia decorren-te da hiperosmolaridade relacionada à administração de manitol hipertônico e à hipernatremia, principalmente em portado-res de insuficiência renal. 
+A hipercalemia é iatrogênica? 
+A iatrogenia é uma causa muito frequente de hipercalemia em internados (reposição incorreta e excessiva de potássio), principalmente em portadores de insuficiência renal. 
+Dieta rica em potássio, de forma isolada, raramente causa hipercalemia, mas pode ter papel importante se associada à in-suficiência renal e/ou ao uso de medicamentos retentores de potássio. Também pode ocorrer hipercalemia na paralisia pe-riódica hipercalêmica (doença autossômica dominante em que ocorre paralisia periódica hipercalêmica geralmente precipi-tada por repouso após exercício físico, jejum, exposição ao frio ou ingestão de pequenas quantidades de potássio); e na ure-terojejunostomia (cirurgia de derivação urinária, em que a hipercalemia é provavelmente precipitada pela reabsorção jejunal do potássio excretado na urina).
+
+{+Dica+}
+{+As principais causas de hipercalemia são redistribuição, insuficiência adrenal e insuficiência renal. +}
+
+{+Pergunta+}
+{+2012 - UEL +}
+{+1. Assinale a alternativa que indica corretamente uma causa de hiperpotassemia (hipercalemia):+}
+{+a) diurese osmótica+}
+{+b) cetoacidose diabética+}
+{+c) diurético potente (exemplo: furosemida)+}
+{+d) necrose tecidual+}
+{+e) hiperaldosteronismo+}
+{+Resposta no final do capítulo+}
+
+c) Achados clínicos
+A hipercalemia (definida como concentração sérica de potássio >5mEq/L) pode causar sintomas inespecíficos, porém, na maioria das vezes, os pacientes são assintomáticos. Os tecidos mais suscetíveis são o miocárdio e os músculos periféricos. As consequências são:
+Miocárdio (distúrbios da condução cardíaca): extrassístoles, arritmias e PCR (mais comumente por fibrilação ventricular ou assistolia). A toxicidade cardíaca da hipercalemia pode ser aumentada por hipocalcemia, hiponatremia, acidemia e rapi-dez da elevação do K+;
+Musculoesquelético (resultante de mudanças na junção neuromuscular): fraqueza muscular, fadiga e, raramente, paralisia flácida ascendente e insuficiência respiratória aguda[-.-]{+; não costuma ocorrer até que a concentração de K+ exceda 8mEq/L;+}
+Hormonais e renais: há um aumento da insulina e aldosterona, como forma de proteção, para estimular a entrada do po-tássio nas células e aumentar a excreção tubular distal desse íon.
+
+{+Quadro clínico+}
+{+Os principais sintomas de hipercalemia estão relacionados ao miocárdio (extrassístoles, arritmias e parada cardiorrespirató-ria) e músculos periféricos (fraqueza muscular, fadiga, insuficiência respiratória aguda), e também podem ser hormonais e renais (aumento de insulina e aldosterona). +}
+
+d) Exames complementares
+O eletrocardiograma (ECG) pode sugerir hipercalemia mesmo antes do resultado laboratorial. As principais alterações es-tão delineadas na Tabela [-6-]{+7+}. A onda T apiculada é um achado proeminente e, se não tratada, pode levar a progressiva altera-ção elétrica do miocárdio, com consequentes arritmias letais.
+Entretanto, não há firme correlação entre a concentração de potássio sérica e a alteração do ECG. Isso depende mais da velocidade de instalação da hipercalemia do que do valor absoluto da concentração de potássio. Assim, um paciente com IRA pode ter alterações significativas de ECG com potássio de 6 ou 7mEq/L; já indivíduos com IRC podem ter ECG normal com potássio sérico = 8mEq/L.
+
+Tabela [-6-]{+7+} - Alterações progressivas do [-ECG-]{+eletrocardiograma+} na hipercalemia 
+- Onda T apiculada ({+“+}em tenda{+”+});
+- Achatamento da onda P;
+- Prolongamento do intervalo PR;
+- Alargamento do intervalo QRS;
+- Ritmo idioventricular;
+- Formação de onda sinusoidal;
+- Fibrilação ventricular ou assistolia.
+
+{+Vídeos+}
+{+Onda T apiculada (“em tenda”)+}
+{+  +}
+
+{+Achatamento da onda P+}
+{+  	+}
+
+{+Prolongamento do intervalo PR+}
+{+  	+}
+
+{+Alongamento do intervalo QRS+}
+{+  	+}
+
+{+Ritmo idioventricular+}
+{+  	+}
+
+{+Formação de onda sinusoidal+}
+{+  	+}
+
+{+Fibrilação ventricular +}
+{+  	+}
+
+As correlações entre os níveis de potássio e as alterações eletrocardiográficas na hipercalemia estão explicitadas na Tabe-la [-7-]{+8+}. Deve-se enfatizar que essa correlação não é perfeita.
+Outros exames devem ser solicitados, de acordo com a suspeita clínica:
+Função renal, gasometria e urina tipo I: possível sugestão de causa renal para hipercalemia;
+Glicemia, cetonúria: suspeita de cetoacidose diabética;
+@@ -148,12 +235,13 @@ Exames de fun
+Creatinofosfoquinase: quando muito aumentada, sugestão de rabdomiólise;
+Perfil hemolítico: suspeita de hemólise;
+Gradiente transtubular de potássio (TTKG): em certas circunstâncias, é importante saber se o rim mantém a capacidade de excretar potássio, o que é facilmente avaliado por esse gradiente:
+
+TTKG =	K+ na urina/K+ plasma
+	Osmolaridade urina/osmolaridade plasma
+
+Em indivíduos normais, os rins são capazes de excretar >200mEq de potássio ao dia em vigência de hipercalemia. Por isso, o TTKG normal esperado, na presença de hipercalemia, é >10, que representa capacidade normal do rim de excretar potás-sio. Quando o TTKG está <10, especialmente <5, na vigência de hipercalemia, os túbulos distais não estão funcionando corre-tamente, provavelmente por deficiência de aldosterona.
+
+Tabela [-7-]{+8+} - Correlações entre os níveis de potássio e as alterações eletrocardiográficas na hipercalemia
+Níveis séricos	Apresentação ECG
+3,5 a 5	Normal	 
+5,5 a 6	Ondas T altas	 
+@@ -163,7 +251,14 @@ N
+	Fibrilação ventricular	
+
+ 
+Figura 2 - E[-CG-]{+letrocardiograma+}
+
+{+Diagnóstico+}
+{+O diagnóstico de hipercalemia baseia-se na dosagem sérica de potássio (>5mEq/L), porém a repercussão clínica estará mais associada à velocidade da instalação do quadro. O eletrocardiograma revela ondas T “em tenda”, intervalo PR prolongado, onda P achatada e prolongada, elevação de ST e alargamento do complexo QRS (achados ocorrem de forma progressiva).+}
+
+{+Dica+}
+{+Não se deve esquecer de descobrir a causa da hipercalemia, devendo-se, então, solicitar função renal, gasometria e urina tipo I, glicemia, cetonúria, exames de função adrenal, creatinofosfoquinase e perfil hemolítico.+}
+
+e) Tratamento 
+O tratamento depende de algumas variáveis, como a gravidade e a velocidade de instalação da hipercalemia, a condição clínica do paciente (idosos e cardiopatas são mais suscetíveis a arritmias) e se há ou não alteração de ECG. De acordo com a severidade da hipercalemia, a terapêutica pode incluir:
+Medidas que não alteram o potássio sérico, mas promovem a estabilização elétrica da membrana celular;
+@@ -173,82 +268,138 @@ Corre
+Sobre essas medidas terapêuticas, algumas observações são importantes:
+Medidas que não alteram o potássio sérico, mas promovem a estabilização elétrica da membrana celular
+O cálcio intravenoso, na forma de gluconato ou cloreto de cálcio a 10%, antagoniza diretamente os efeitos da hipercale-mia na membrana celular, restaurando a excitabilidade da membrana e, assim, evitando o surgimento de arritmias potencial-mente fatais. O efeito se inicia minutos após a administração, porém tem duração de ação curta (30 a 60 minutos), por isso a administração só está indicada quando há alterações eletrocardiográficas secundárias à hipercalemia, não devendo ser pres-crita “profilaticamente”. A dose inicial de gluconato de cálcio é de 1.000mg (10mL da solução a 10%) intravenosos em 2 a 5 minutos, com monitorização cardíaca contínua. No caso da utilização de cloreto de cálcio, a dose inicial é de 500 a 1.000mg (5 a 10mL da solução de cloreto de cálcio a 10%) infundidos por via intravenosa em 2 a 3 minutos, também com monitorização cardíaca contínua. A dose de ambas as formulações de cálcio pode ser repetida após 5 minutos, caso persistam as alterações eletrocardiográficas. Atenção para indivíduos em uso de digitálicos, pois a hipercalcemia pode potencializar a toxicidade des-sas drogas; esses pacientes devem receber o cálcio em infusões mais lentas, de 20 a 30 minutos.
+
+{+Importante+}
+{+O uso de gluconato de cálcio no tratamento da hipercalemia é limitado aos pacientes com alteração no eletrocardiograma, pois ele antagoniza efeitos de membrana cardíaca, impedindo arritmias, entretanto não retira o K+ do organismo. +}
+
+{+Tratamento+}
+{+O tratamento da hipercalemia em pacientes com alteração no eletrocardiograma é feito com gluconato de cálcio a 10% 10mL IV de 2 a 5 minutos, com monitorização cardíaca contínua; repetir após 5 minutos, em caso de persistência de altera-ção no eletrocardiograma+}
+
+{+Importante+}
+{+Pacientes em uso de digitálicos têm contraindicação relativa ao uso de cálcio, pois ele aumenta toxicidade cardíaca aos digi-tálicos. Se necessário para tratamento de hipercalemia, realiza-se infusão lenta (de 20 a 30 minutos).+}
+
+Medidas que promovem a translocação do potássio do extracelular para o intracelular
+Essas medidas não reduzem o pool corpóreo de potássio, mas dão tempo para que as terapias capazes de remover o ex-cesso de potássio do corpo possam agir. Essas medidas são usadas primariamente em 3 situações: pacientes com hipercalemia e alterações eletrocardiográficas; pacientes com potássio sérico >6,5 a 7mEq/L e pacientes com potássio sérico <6,5mEq/L, porém aumentando rapidamente. As medidas incluem:
+Beta-2-adrenérgico agonista inalatório: os beta-2-agonistas aumentam o transporte de potássio do extra para o intrace-lular, principalmente por meio do aumento da atividade da bomba Na+-K+-[-atep-]{+ATP+}ase do músculo esquelético. Além dis[---]so, são eficazes no tratamento da hipercalemia, reduzindo o potássio sérico em 0,5 a 1,5mEq/L; porém age somente após 90 minutos na forma de inalação e não há resposta em 20 a 30% dos pacientes;
+Bicarbonato de sódio intravenoso: o aumento do pH pela infusão de bicarbonato de sódio leva ao aumento da saída de íons hidrogênios das células, como parte do efeito tampão. A saída de hidrogênio das células é acompanhada da en-trada de potássio para manutenção da eletroneutralidade. No entanto, a administração de bicarbonato de sódio não está recomendada se a hipercalemia não é acompanhada de acidose metabólica. O bicarbonato tem pouca eficácia quando há IRC, podendo causar sobrecarga de volume, já que, para cada 1mEq de bicarbonato, há 1mEq de sódio. Deve-se também ter muito cuidado em caso de hipertensão arterial. Tanto na insuficiência renal quanto na hiperten-são arterial o bicarbonato de sódio pode levar a edema agudo pulmonar se administrado rapidamente e em volumes excessivos. A dose recomendada é de 1mEq/kg (ou 1mL/kg de solução a 8,4%) IV, em 1 a 2 horas, até de 4/4h. Outra opção, se o paciente tolera volume, é a administração de solução bicarbonatada isotônica (por exemplo, 150mL de bicarbonato de sódio a 8,4% em 1L de solução glicosada a 5%), de forma intravenosa, em 2 a 4 horas. Não se deve administrar bicarbonato de sódio hipertônico (solução a 8,4%) de forma rápida, pois o aumento abrupto da osmolari-dade plasmática pode causar a saída de água acompanhada de potássio das células, o que dificultaria a correção da hipercalemia;
+Solução polarizante ou glicoinsulinoterapia (glicose + insulina): a administração de insulina reduz a concentração sérica de potássio por aumentar o seu transporte do extra para o intracelular, principalmente por meio do estímulo da Na+-K+-ATPase do músculo esquelético e hepatócitos, de forma semelhante ao mecanismo de ação dos beta-2-agonistas. Habitualmente, administra-se glicose com a insulina para evitar o desenvolvimento de hipoglicemia, no entanto, pode-se administrar apenas insulina, se a glicemia é maior que 250mg/dL. Um dos modos mais comuns de uso da solução polarizante consiste na administração de 10U{+I+} de insulina regular em 500mL de soro glicosado a 10% em 60 minutos. Outra forma possível de uso dessa solução consiste na administração de 10UI de insulina regular em bolus, seguida de 50mL de glicose a 50%. Esse último esquema é mais eficaz na redução de potássio, no entanto é mais comum hipogli-cemia. O efeito da insulina começa em 10 a 20 minutos e dura de 4 a 6 horas. Na maioria dos pacientes, a concentra-ção sérica de potássio cai de 0,5 a 1,2mEq/L com a solução polarizante.  
+
+{+Importante+}
+{+Medidas que promovem a translocação do potássio do extracelular para o intracelular são usadas em pacientes com hiper-calemia e alterações no eletrocardiograma; potássio sérico >6,5 a 7mEq/L; e potássio sérico <6,5mEq/L, em rápido aumen-to.+}
+
+{+Tratamento+}
+{+O tratamento da hipercalemia com medidas que promovem a translocação do potássio extracelular para o intracelular en-volve beta-2-adrenérgico agonista (fenoterol ou salbutamol) inalatório 10 gotas até 4/4h + bicarbonato de sódio intraveno-so (se acidose metabólica associada) 1mEq/kg (ou 1mL/kg de solução a 8,4%) IV, em 1 a 2 horas, até 4/4h + solução polari-zante ou glicoinsulinoterapia (glicose + insulina) 10UI IV em bolus, com 50mL de glicose a 50%.+}
+
+{+Dica+}
+{+Sempre se deve avaliar a glicemia do paciente recebendo tratamento com insulina para hipercalemia, devido ao alto risco de hipoglicemia. +}
+
+Medidas que promovem diminuição do pool corpóreo de potássio por meio do aumento da excreção de potássio 
+As medidas que promovem a translocação de potássio do extracelular para o intracelular só reduzem a concentração sé-rica de forma transitória. Logo, na maior parte dos casos, é necessária terapia adicional com o objetivo de remover o excesso de potássio corpóreo; exceto em pacientes com hipercalemia reversível, resultante do aumento da saída de potássio das células, como ocorre na acidose metabólica. As 3 principais medidas para redução do potássio corpóreo são os diuréticos, as resinas trocadoras de cátions e a diálise e encontram-se detalhadas a seguir:
+Diuréticos: os de alça, como a furosemida (Lasix®), e os tiazídicos aumentam a excreção de potássio na urina, principal-mente quando combinados com hidratação venosa com solução salina, a qual mantém o aporte e o fluxo distal de só-dio; têm efeito limitado em pacientes com função renal comprometida;
+Resinas trocadoras de cátions: a principal resina trocadora de cátion disponível no Brasil é o poliestirenossulfonato de cálcio (Sorcal®). No intestino, as resinas trocadoras de cátions se ligam ao potássio. Cada grama de resina pode ligar-se a até 1mEq de potássio. A resina (Sorcal®) não é absorvida e costuma causar constipação, e recomenda-se diluir com um laxante (manitol ou sorbitol). A diarreia osmótica promovida pelo manitol também pode contribuir para a redução do potássio. A via preferencial é a oral, pois tem maior eficácia, mas, se houver vômitos, pode-se fazer via retal como enema de retenção. Nesse caso, dobra-se a dose;
+Métodos dialíticos (diálise peritoneal ou hemodiálise): a diálise é indicada se as medidas descritas não são suficientes para a correção efetiva da hipercalemia. A hemodiálise é a modalidade dialítica preferida para a correção da hiperca-lemia porque a sua taxa de remoção de potássio é[-,-] várias vezes[-,-] maior que a da diálise peritoneal. A hemodiálise pode remover de 25 a 50mEq/h de potássio.  
+
+{+Tratamento+}
+{+O tratamento da hipercalemia com medidas que reduzem o potássio corpóreo envolve resinas de troca de cátions (Sorcal®) 15 a 30g diluídas em 100mL de manitol a 10 a 20% via oral ou retal até 4/4h + furosemida 20 a 40mg IV + terapia dialítica (hemodiálise ou diálise peritoneal).+}
+
+Correção de causas potencialmente reversíveis de hipercalemia 
+Diversos fatores podem causar ou agravar a hipercalemia, logo, deve-se tentar resolver esses fatores com o objetivo de corrigi-la, os quais incluem o uso de inibidores do sistema renina–angiotensina–aldosterona e as causas reversíveis de IRA, como hipovolemia, uso de AIN[-H-]{+E+}s e obstrução do trato urinário. No entanto, essas causas nem sempre podem ser revertidas rapidamente e sua correção nem sempre é suficiente para a normalização do potássio sérico. Por isso, quando o paciente apresenta hipercalemia moderada a grave, não se devem adiar as medidas que causam aumento da excreção do potássio. 
+O manejo desse distúrbio está resumido na Tabela [-8-]{+9+}.
+
+Tabela [-8-]{+9+} - Tratamento da hipercalemia
+	Leve[-*-]{+ – +}5 a 6{+*+}	Moderada[-*-]{+ – +}6,1 a 7{+*+}	Grave[-*-]{+ – +}>7{+*+}
+Diuréticos: furosemida, 1mg/kg IV (até de 4/4h)	Sim	Sim	Sim
+Resina (Sorcal®): 30g diluídos em 100mL de manitol a 10 ou 20% (8/8 a 4/4h); po[-de--]s{+sív+}e{+l+} d[-obr-]{+uplic+}a[-r-]{+ção+} {+d+}a dose, se necessário, via oral (preferência) ou via retal (se houver vômitos)	Sim	Sim	Sim
+Inalação com beta-2-agonista: fenoterol, 10 gotas, até de 4/4h	Sim	Sim	Sim
+Solução polarizante: insulina regular: 10U IV + 50g de glicose (SG a 10%: 500mL) até 4/4h; cuidado com hipoglicemia; de-vem-se realizar glicemias capilares (dextrose) de horário	--	Sim	Sim
+Bicarbonato de sódio: 1mEq/kg IV lento, de até 4/4h	--	Possível	Possível
+Diálise: hemodiálise como o tipo mais eficaz	--	Possível	Possível
+Observação: o tratamento baseia-se muito mais nas alterações do ECG do que nos níveis séricos de potássio. É preciso ter cuidado com elevações muito rápidas no potássio sérico, o que pode ser mais importante do que um valor absoluto e isolado do potássio.
+* Potássio sérico: em mEq/L.
+
+Tabela [-9-]{+10+} - Complicações do tratamento
+- Hipoglicemia ou hiperglicemia (solução polarizante);
+- Sobrecarga de volume e edema pulmonar (bicarbonato de sódio);
+- Diarreia (Sorcal® + manitol) ou constipação (Sorcal®).
+
+Tabela 1[-0-]{+1+} - Características clínicas
+- Os sinais e sintomas são comuns e tendem a ocorrer somente quando o potássio sérico é superior a 7mEq/L; sintomas podem incluir fraqueza muscular e arritmias ventriculares;
+- Existem 2 principais mecanismos de hipercalemia:
+[-  -]· Liberação de potássio aumentou a partir de células (por exemplo, a hiperglicemia grave, rabdomiólise, succinilcolina); [-  -]
+· Excreção de potássio na urina reduzida, na maioria das vezes devido a hipoaldosteronismo ou insuficiência renal.
+- Pseudo-hipercalemia, que, na maioria das vezes, devido à hemólise da amostra de sangue, é a causa mais comum de aumento do potássio sérico e deve ser excluída. Outras causas são garrote muito apertado durante a coleta, leucocitose e trombocitose. Este não reflete a verdadeira hipercalemia e não produz alterações eletrocardiográficas.
+
+Tabela 1[-1-]{+2+} - Manifestações no [-ECG-]{+eletrocardiograma+}
+- Variações existentes na relação entre o potássio sérico e as alterações de ECG; as alterações do ECG são mais comuns com eleva[---]ções agudas e menos comum com elevações crônicas (por exemplo, doença renal crônica);
+- Resultados de ECG:
+· Ondas T pontiagudas;
+· PR prolongado e intervalos QRS e ondas P pequenas;
+· Perda da onda P, mais prolongamento do intervalo QRS (padrão “sine wave”), e atraso na condução que pode se manifestar como ramo ou bloqueio nodal atrioventricular.
+- Consequências: fibrilação ventricular ou assistolia.
+
+Tabela 1[-2-]{+3+} - Tratamento para hipercalemia com alteração eletrocardiográficas
+- Confirmar se existe mesmo hipercalemia (excluir pseudo-hipercalemia);
+- Estabilizar as membranas cardíacas com cálcio: 
+[-  -]· Gluconato de cálcio deve ser administrado em alterações eletrocardiográficas significativas (por exemplo, o alargamento do com[---]ple{+-+}xo QRS ou perda de ondas P, mas não ondas T pontiagudas sozinho) ou em arritmias graves por possível hipercalemia.
+- Tratamento com cálcio pode ser repetido após 5 minutos se alterações eletrocardiográficas persistirem; paciente deve estar em mo{+-+}nitor cardíaco ao receber cálcio. Observação: o cálcio pode exacerbar a toxicidade da digoxina;
+- Submeter crianças {+a +}gluconato de cálcio (solução a 10%) de 0,5mL/kg.
+
+Tabela 1[-3-]{+4+} - Tratamentos para deslocar potássio intracelular
+- Oferecer insulina e glicose para pacientes hipercalêmicos com alterações eletrocardiográficas ou potássio sérico =6,5 a 7mEq/L;
+- Insulina e glicose: bolus intravenoso de insulina regular de 10U{+I+} com 50mL de solução de glicose a 50%; em crianças, insulina regu[---]lar 0,2U{+I+}/g de glicose + glicose 1g/kg, com tempo de início de 10 a 20 minutos;
+- Agonistas beta-adrenérgicos: fenoterol ou salbutamol 10 gotas via inalatória até a cada 4 horas (dose habitual);
+- Bicarbonato de sódio (somente na presença de acidose metabólica): bicarbonato de sódio 8,4% 0,5 a 1mEq/kg infundidos em 5 minu{+-+}tos, podendo ser repetido em 30 minutos (dose habitual).
+
+Tabela 1[-4-]{+5+} - Remo[-v-]{+ção d+}e[-r-] potássio
+- Resinas de troca de cátions: Sorcal® 15 a 30g diluídas em 100mL de manitol 10 a 20% via oral ou retal, até de 4/4h (dose habitual); 
+- Diurético: fornece apenas efeito limitado em curto prazo; furosemida 20 a 40mg IV; dose pediátrica de 1 a 2mg/kg IV; dose maior pode ser necessária com insuficiência renal;
+- Terapia dialítica (hemodiálise ou diálise peritoneal): pode ser usada quando as medidas indicadas anteriormente não são suficien[---]tes.
+
+{+Tema frequente de prova+}
+{+O tratamento da hipercalemia é um tema presente em todas as provas de Residência Médica.+}
+
+{+Pergunta+}
+{+2015 - UFG+}
+{+2. Uma paciente com doença renal crônica, anúrica, em hemodiálise há 5 anos, procura a Emergência com queixas de fraqueza muscular generalizada e incapacidade para deambulação. A avaliação laboratorial evidencia creatinina = 5mg/dL, ureia = 120mg/dL, potássio = 7,5mEq/L, pH = 7,34 e bicarbonato = 22. O eletrocardiograma apresenta ondas T apicula-das e achatamento da onda P. A conduta para reduzir mais rapidamente a concentração plasmática de potássio, nessa paciente, é a administração:+}
+{+a) intravenosa de gluconato de cálcio+}
+{+b) intravenosa de diurético de alça+}
+{+c) por nebulização de agonista beta-2-adrenérgico+}
+{+d) oral e por enema retal de resina de troca+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2014 - HSPE+}
+{+3. Um pediatra recebe, no pronto-socorro, uma criança letárgica e edemaciada, trazida no colo da mãe. Ela relata a piora no estado geral nas últimas 24 horas e relaciona a piora à ausência na sessão de hemodiálise que deveria ter sido realiza-da anteontem, quando a família estava viajando. Ela conta que a criança é hipertensa e que faz hemodiálise há 3 anos. Ela usa, entre outras medicações, o Sorcal® (poliestirenossulfonato de cálcio). O exame físico está normal, exceto pelo ede-ma e por leve taquicardia. O pediatra solicita análise bioquímica (eletrólitos, função renal, gasometria) e um eletrocardi-ograma (ECG). O ECG mostra ritmo sinusal, com QRS estreito, porém onda T apiculada em todas as derivações. A análise bioquímica demorará cerca de 1 hora para ser realizada. Frente a esse quadro, assinale a alternativa que apresenta a conduta imediata mais adequada:+}
+{+a) administrar, imediatamente, gluconato de cálcio e bicarbonato de sódio intravenosos, realizar inalação com salbutamol e acionar a equipe de Nefrologia para sessão de diálise de urgência+}
+{+b) administrar dose dobrada do Sorcal® via retal e aguardar o resultado da bioquímica solicitada+}
+{+c) simplesmente aguardar o resultado da bioquímica solicitada para tomar uma conduta dirigida+}
+{+d) administrar insulina regular endovenosa e Sorcal® via retal, além de acionar equipe de hemodiálise+}
+{+e) apenas solicitar hemodiálise+}
+{+Resposta no final do capítulo+}
+
+B - Hipocalemia
+Existe considerável diferença entre o potássio intracelular (140mEq/L) e o extracelular (3,5 [-e-]{+a+} 5mEq/L). Esse gradiente é responsável pela excitabilidade nervosa e muscular, que inclui o miocárdio. Pequenas alterações no potássio sérico podem implicar profunda alteração na condução e na excitabilidade do coração, alterar a função e o ritmo cardíacos e causar PCR.
+A hipocalemia é definida como uma concentração sérica de potássio <3,5mEq/L e é um problema clínico comum. O potás-sio entra no corpo por ingestão oral ou infusão intravenosa, posteriormente é armazenado, em grande parte, nas células e é excretado na urina (e em menor quantidade no trato gastrintestinal e no suor). Logo, tanto a ingestão reduzida de potássio quanto a translocação do potássio para dentro das células e, mais frequentemente, o aumento das perdas na urina (ou trato gastrintestinal ou suor) podem levar à redução dos níveis séricos de potássio. 
+É frequente a coexistência de hipocalemia e alcalose metabólica. Em parte, explica-se isso pelo fato de a hipocalemia au-mentar a reabsorção tubular proximal de bicarbonato e estimular a produção e a excreção de ácido pelo túbulo distal (o túbulo distal aumenta a reabsorção de potássio em troca da excreção de hidrogênio). Da mesma forma, a hipocalemia pode se associar à intolerância a glicose (dificulta a secreção de insulina pelo pâncreas) e dificultar a reabsorção de água pelos ductos coletores (a hipocalemia pode levar ao diabetes insipidus nefrogênico).
+
+a) Etiologia e fisiopatologia
+As principais causas de hipocalemia são [-(T-]{+redução d+}a[-b-]{+ ingestão de potássio via dieta ou fluidos infundidos, movimentação do potássio para o intrac+}el{+ular (hipocalemi+}a [-15-]{+por redistribuição+})[-:-] {+e aumento da excreção, urinária, fecal ou via sudorese.+}
+Diminuição da ingestão: isoladamente, é causa rara. É necessária ingestão de 0,5 a 1mEq/kg/d para a reposição dos níveis basais de potássio, em indivíduos normocalêmicos, o que é facilmente obtido com a alimentação normal, que contém de 40 a 120mEq/d. O rim é capaz de reduzir a excreção diária de potássio até um mínimo de 5 a 25mEq/d, quando há de-pleção corpórea de potássio. No entanto, apesar de ser causa rara de forma isolada, a ingestão reduzida pode contribuir para a severidade da depleção corpórea de potássio quando superimposta a outras causas, como terapia diurética;
+Translocação do extracelular para o intracelular: o gradiente normal de distribuição do potássio entre as células (que con-têm 98% do total de potássio) e o fluido extracelular é mantido pela Na+-K+-ATPase presente na membrana celular. Entre-tanto, em algumas situações, ocorre aumento da entrada de potássio dentro das células, o que resulta em hipocalemia transitória. As principais situações em que ocorre esse aumento da translocação de potássio do extra para o intracelular e consequente hipocalemia estão descritas a seguir:
+Alcalose metabólica: tanto a metabólica quanto a respiratória podem promover aumento da entrada de potássio nas cé-lulas, com consequente hipocalemia. Nessas situações, íons hidrogênio saem das células para minimizar a alteração de pH extracelular, o que requer a entrada de potássio nas células para manter a eletroneutralidade;  
+Uso de medicações como insulina, beta-2-adrenérgicos, teofilina, catecolaminas, cafeína: essas medicações podem, por diferentes mecanismos, aumentar a translocação de potássio do extra para o intracelular.
+Paralisia periódica hipocalêmica: é um distúrbio neuromuscular raro, na maior parte dos casos hereditário e autossômico dominante. Envolve ataques de fraqueza muscular ou paralisia alternados com períodos de função muscular normal. Os ataques normalmente começam na adolescência, mas podem vir antes dos 10 anos, variar de diários a anuais e durar de algumas horas a vários dias. Durante um ataque de fraqueza muscular, o nível sérico de potássio é baixo, porém, entre os ataques, é normal. Não há diminuição da quantidade de potássio total do organismo. O potássio flui da corrente sanguí-nea para as células musculares durante os ataques. Os níveis de insulina podem afetar o distúrbio em algumas pessoas porque aumentam o fluxo de potássio para as células. A fraqueza afeta com mais frequência os músculos dos braços e das pernas, mas pode, algumas vezes, afetar os músculos dos olhos ou os envolvidos na respiração e na deglutição (o que pode ser fatal). Ainda que a força muscular seja inicialmente normal entre os ataques, estes podem, eventualmente, cau-sar fraqueza muscular progressiva e persistente. Os ataques ainda podem ser desencadeados pela ingestão de alimentos ricos em carboidratos, {+e +}ocorrem, geralmente, após o sono ou o repouso e são raros durante período de exercício, em{+-+}bo[---]ra o repouso após esse período possa desencadeá-los; 
+Hipotermia e tireotoxicose: podem aumentar a translocação de potássio do extra para o intracelular, levando à hipocale-mia;
+Tratamento de anemia megaloblástica: há grande risco de hipocalemia no início do tratamento, devido à síntese celular maciça e à consequente translocação do potássio do extra para o intracelular;
+Perdas pelo trato gastrintestinal: perdas de secreção gástrica ou intestinal por qualquer causa estão associadas a perda gastrintestinal de potássio e possível hipocalemia. São exemplos de perdas gastrintestinais que podem causar hipocale-mia:
+Perdas gastrintestinais altas, acima do piloro (vômitos, alta drenagem de sonda nasogástrica e fístula gástrica): podem causar hipovolemia e alcalose, levando ao hiperaldosteronismo secundário que, associado à bicarbonatúria, pode ocasionar grande perda urinária de potássio. O suco gástrico eliminado contém alta concentração de HCl e, por isso, ocorre elevação do bicarbonato sérico e da carga filtrada de bicarbonato, assim como hipovolemia e hiperaldostero-nismo secundário. O excesso de bicarbonato excede a capacidade de reabsorção tubular e, como resultado, há au-mento de bicarbonato de sódio e água no túbulo distal, aumentando a excreção de potássio;
+Perdas gastrintestinais baixas, abaixo do piloro (diarreia, ureterossigmoidostomia, fístula biliar, pancreática ou entéri-ca): são perdas ricas em potássio, diretamente pelo trato gastrintestinal. Apresentam acidose metabólica associada e não alcalose, pois também perdem líquido rico em bicarbonato.
+Perdas renais: explicam a maioria dos casos de hipocalemia crônica. Geralmente o aumento da perda urinária ocorre por condições associadas ao excesso de mineralocorticoides ou aumento do fluxo urinário de água e de sódio no túbulo dis-tal. São causas de perdas renais de potássio: 
+Medicamentos: diuréticos de alça, diuréticos tiazídicos e inibidores da anidrase carbônica (acetazolamida) podem cau-sar hipocalemia. Os diuréticos agem antes do túbulo coletor, por isso causam aumento do aporte de sódio a esse segmento do néfron, o que é importante fator estimulante da excreção urinária de potássio. O aumento da aldoste-rona, pela redução da volemia, também estimula essa excreção, além disso, o aumento do fluxo hídrico no néfron dis-tal, por ação dos diuréticos, mantém um gradiente favorável para a excreção de potássio. O grau de hipocalemia é do-se-dependente e, na presença de ingestão de potássio relativamente constante, toda a perda de potássio irá ocorrer durante as primeiras 2 semanas de tratamento; após esse período, estabelece-se um novo equilibro do potássio, no qual a ingestão equivale às perdas. No caso dos inibidores da anidrase carbônica, o principal fator caliurético é a bi-carbonatúria, pois o bicarbonato não é reabsorvido no néfron distal e leva com ele o potássio, de forma a manter a eletroneutralidade da urina. O perigo da hipocalemia associada aos diuréticos está, em grande parte, associado ao ris-co de arritmias fatais;{+ uso de beta-2-agonista. +}
+
+{+Dica+}
+{+Os principais medicamentos que levam a hipocalemia são diuréticos de alça e tiazídicos, anfotericina B, aminoglicosídeos e penicilina G.+}
+
+Poliúria: o aumento do fluxo de água no néfron distal aumenta a secreção de potássio no túbulo coletor, pois mantém um gradiente favorável à secreção desse íon;
+Excesso de mineralocorticoides: está presente em diversos distúrbios, como hiperaldosteronismo primário, doença de Cushing ou hiper-reninismo causado por estenose de artéria renal ou tumor secretor de renina. Além da hipocalemia, também leva a alcalose metabólica, hipertensão arterial e hipernatremia leve. Em diversas doenças renais, particu-larmente doenças tubulointersticiais, como nefrite intersticial crônica ou obstrução do trato urinário, a reabsorção de sódio e água está prejudicada, levando a aumento de sódio no túbulo distal e consequente hiperaldosteronismo se-cundário, com aumento na excreção de potássio;
+Hiperaldosteronismo primário: há aumento da concentração sérica da aldosterona, devido à sua liberação descontro-lada por tumor da adrenal (adenoma ou adenocarcinoma) ou pela hiperplasia adrenal idiopática. O excesso de aldos-terona estimula o túbulo coletor a reabsorver sódio à custa da excreção de potássio e bicarbonato, o que leva à hipo-calemia e à alcalose metabólica associadas à hipertensão (tríade clássica do hiperaldosteronismo primário); 
+@@ -256,38 +407,62 @@ Hipertens
+Hipercortisolismo: a síndrome de Cushing é outra causa de hipocalemia por perda renal de potássio, pois, quando em altos níveis plasmáticos (como os presentes na síndrome), o cortisol apresenta efeito mineralocorticoide e é capaz de causar hipocalemia de forma semelhante à da aldosterona;  
+ATRs: nas ATRs tipos I e II, ocorre espoliação de potássio com consequente hipocalemia. Na ATR tipo I (distal), há um de-feito na secreção do hidrogênio no túbulo coletor, por isso o potássio é secretado em excesso associado à reabsorção do sódio, para manter a eletroneutralidade. Na ATR tipo II (proximal), ocorre bicarbonatúria, que estimula a excreção de potássio;
+Doenças tubulares hereditárias: as síndromes de Bartter, de Gitelman e de Liddle são causas de espoliação de potássio, com consequente hipocalemia. A síndrome de Bartter caracteriza-se por um defeito hereditário do carreador Na+-K+-2Cl- da membrana luminal da porção ascendente da alça de Henle, e seus efeitos são semelhantes aos que ocorrem na intoxicação por diurético de alça: hipocalemia, alcalose metabólica, hipovolemia e poliúria. Na síndrome de Gitel-man, o defeito hereditário encontra-se no carreador luminal Na-Cl do túbulo contorcido distal, e seus efeitos são se-melhantes ao da intoxicação por diuréticos tiazídicos. Na síndrome de Liddle, ocorre hiperfuncionamento do túbulo coletor responsivo à aldosterona, por isso o resultado desse defeito é semelhante ao do hiperaldosteronismo: hiper-tensão, hipocalemia e alcalose metabólica. No entanto, nessa síndrome, os níveis de aldosterona são baixos, por isso se considera que seja causa de pseudo-hiperaldosteronismo; 
+Hipomagnesemia: é um achado relativamente frequente em pacientes com hipocalemia, sendo encontrado em 40% dos casos. É uma causa isolada de depleção de potássio com efeito caliurético, o que justifica a refratariedade à repo-sição de cloreto de potássio (KCl) para correção da hipocalemia em alguns pacientes[-;-]{+,+} sendo necessária a correção da hipomagnesemia na presença de hipocalemia;
+Anfotericina B, aminoglicosídeos e penicilina G: a anfotericina B aumenta a permeabilidade luminal do túbulo coletor ao potássio, aumentando a sua secreção tubular. A administração de aminoglicosídeo pode cursar com tubulopatia pro-ximal e consequente perda urinária de potássio. A penicilina G em altas doses pode cursar com perda urinária de po-tássio, que é excretado em conjunto com os ânions penicilinatos (carga negativa), de forma a manter a eletroneutrali-dade da urina;
+Uso de “cola de sapateiro” (tolueno): leva à produção do metabólito hipurato, que, quando em grande quantidade no túbulo coletor, funciona como um ânion não reabsorvido, por isso, carreia consigo o potássio.
+Perda de potássio pela sudorese{+: +}Geralmente é pequena, porém em estados de produção de suor excessivo crônico, esta perda pode se tornar significati[---]va, podendo inclusive predispor à rabdomiólise[-.-]{+;+}
+Diálise[-A-]{+: a+} concentração de potássio do banho de diálise de pacientes em programa de diálise é baixa, com o objetivo de remover o excesso de potássio. Porém, esta perda pode ser excessiva, principalmente em situações de redução na in{+-+}gestão ou de perdas gastrintestinais. Além disso, pacientes com acidemia importante e depleção de potássio total podem apresentar con[---]centração plasmática normal por movimento do potássio para fora da célula. No entanto, quando se cor{+-+}rige a acidose na he[---]modiálise aguda, o potássio retorna à célula e a concentração sérica cai profundamente, mesmo sem a retirada do íon pela diálise.
+
+T{+em+}a[-b-]{+ fr+}e{+quente de prova+}
+{+As causas da hipoca+}l{+emi+}a [-15-]{+estão+} [---]{+sempre+} [-R-]{+pres+}e{+ntes na+}s{+ q+}u[-mo-]{+estões+} d[-a-]{+e Re+}s{+idência Médica. +}
+
+{+Pergunta+}
+{+2015 - HIVS+}
+{+4. São+} causas de hipocalemia{+, exceto: +}
+{+a) vômitos +}
+{+b) desnutrição +}
+{+c) uso de diuréticos tiazídicos e de alça +}
+{+d) insuficiência renal aguda +}
+{+e) hiperaldosteronismo primário+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2014 - SANTA CASA-BH+}
+{+5. Sobre a hipocalemia, assinale a alternativa incorreta: +}
+{+a) manifestações eletrocardiográficas típicas são depressão do segmento ST e presença de onda U+}
+{+b) tratamento de hipovitaminose B12, anfotericina B e acetazolamida podem causar redução do potássio sérico+}
+{+c) clinicamente, em casos moderados e graves, cursa com rigidez muscular+}
+{+d) o uso de digitálicos predispõe a arritmia na vigência de hipocalemia+}
+{+Resposta no final do capítulo+}
+
+{+Tabela 16 - Resumo das causas de hipocalemia +}
+- Diminuição da ingestão;
+- Translocação do extracelular para o intracelular: 
+[-  -]· Alcalose metabólica; [-  -]
+· Uso de medicações.
+- Paralisia periódica hipocalêmica;
+- Hipotermia e tireotoxicose;
+- Tratamento de anemia megaloblástica;
+- Perdas pelo trato gastrintestinal:
+[-  -]· Altas, acima do piloro;[-  -]
+· Baixas, abaixo do piloro.
+- Perdas renais: 
+[-  -]· Medicamentos; [-  -]
+· Poliúria;[-  -]
+· Hiperaldosteronismo primário;[-  -]
+· Hipertensão renovascular;[-  -]
+· Hipercortisolismo;[-  -]
+· ATRs;[-  -]
+· Doenças tubulares hereditárias;[-  -]
+· Hipomagnesemia;[-  -]
+· Anfotericina B, aminoglicosídeos e penicilina G;[-  -]
+· Uso de “cola de sapateiro” (tolueno).
+
+{+Importante+}
+{+Em pacientes diabéticos em cetoacidose diabética, não se deve esquecer de dosar o K+, pois a insulinoterapia é realizada concomitantemente com a hidratação intravenosa, exceto quando o paciente apresenta hipocalemia (K <3,3mEq/L). É preciso lembrar que o tratamento da cetoacidose costuma evoluir com hipocalemia, o que torna fundamental a reposi-ção, usualmente realizada com 25 a 50mEq de potássio inicialmente, sendo posteriormente reavaliada a necessidade de nova reposição, conforme os níveis séricos de potássio. +}
+
+b) Achados clínicos
+As manifestações clínicas dependem de:
+
+Intensidade da hipocalemia: raramente há qualquer manifestação com potássio <3mEq/L;
+Velocidade de instalação da hipocalemia: na paralisia periódica hipocalêmica, há manifestações mais graves para uma mesma concentração sérica de potássio porque a instalação é abrupta;
+Doença de base: cardiopatia prévia, principalmente isquêmica, idade avançada e uso de digital aumentam o risco de com-plicações da hipocalemia. 
+@@ -296,7 +471,11 @@ Mialgia, fraqueza muscular, podendo evoluir para tetraplegia fl
+Rabdomiólise: pode levar à mioglobinúria e insuficiência renal;
+Distúrbios renais: a hipocalemia pode levar a uma série de alterações renais, em geral reversíveis com a reposição de po-tássio. Essas alterações incluem poliúria e nictúria, por redução da capacidade de concentração urinária, aumento da produção renal de amônia, aumento da reabsorção renal de bicarbonato e nefropatia hipocalêmica (que pode contribuir para a poliúria). Hipocalemia pode ainda causar polidipsia, que pode contribuir para poliúria; 
+Distúrbios do ritmo cardíaco: são decorrentes das alterações na excitabilidade de membrana secundárias à hipocalemia. Vários tipos de arritmia podem ser vistos na hipocalemia, incluindo bradicardia sinusal, taquicardia atrial e juncional pa-roxística, bloqueio atrioventricular e fibrilação e taquicardia ventricular. Hipocalemia pode causar alterações caracterís-ticas no ECG, que serão detalhadas a seguir. Há maior risco de arritmias se a hipocalemia se associar ao uso de diuréticos, à liberação de epinefrina induzida pelo estresse, ao uso de digitais, ao uso de drogas que prolonguem o intervalo QT e à hipomagnesemia.
+
+{+Quadro clínico+}
+{+O paciente apresenta quadro conforme a intensidade e a velocidade de instalação da hipocalemia; os sintomas incluem mialgia, fraqueza muscular, paralisia flácida, insuficiência respiratória, rabdomiólise, poliúria, noctúria, polidipsia, bradi-cardia sinusal, bloqueio atrioventricular e taquicardia/fibrilação ventricular. +}
+
+Tabela 1[-6-]{+7+} - Principais distúrbios atribuídos à hipo[-pot-]{+c+}a[-ss-]{+l+}emia
+- Fraqueza muscular ou paralisia;
+- Rabdomiólise;
+- Arritmias cardíacas;
+@@ -312,10 +491,12 @@ Tabela 16 - Principais dist
+- Piora da acidificação urinária;
+- Aumento da reabsorção de bicarbonato;
+- Constipação ou íleo paralítico.
+
+c) Exames complementares
+Exames complementares podem ser úteis para:
+Avaliar repercussão da hipocalemia no coração: não existe uma boa correlação entre a hipocalemia e alterações de ECG. Isso significa que um paciente com potássio de 2,8mEq/L pode ter proeminente onda U; já outro indivíduo com potássio de 2mEq/L pode não tê-la. De forma geral, as alterações eletrocardiográficas podem ser sutis, mas devem ser pronta-mente reconhecidas (Tabela 1[-7-]{+8+}).
+
+Tabela 1[-7-]{+8+} - Alterações progressivas do [-ECG-]{+eletrocardiograma+} na hipocalemia
+- Achatamento da onda T;
+- Ondas U (concavidade para baixo ao final da onda T);
+- Depressão do segmento ST;
+@@ -323,9 +504,10 @@ Tabela 17 - Altera
+- Prolongamento do intervalo QU (início do QRS ao final da onda U);
+- Arritmias (principalmente em cardiopatias e uso de digitálicos);
+- Atividade elétrica sem pulso ou assistolia.
+
+A explicação das correlações entre os níveis de potássio e as alterações eletrocardiográficas na hipocalemia está na Tabe-la 18. Deve-se acrescentar que essa correlação não é perfeita e depende mais da velocidade de instalação da hipocalemia do que dos valores absolutos de potássio sérico.
+
+Tabela 1[-8-]{+9+} - Correlações entre os níveis de potássio e as alterações eletrocardiográficas na hipocalemia
+Níveis séricos	Apresentação ECG
+3,5 a 5	Normal	 
+2,5 a 3,5	Maior amplitude da onda U, depressão do segmento ST	 
+@@ -333,27 +515,33 @@ N
+<1,5	Prolongamento do complexo QRS, onda U superposta à onda T	 
+
+ 
+Figura 3 - [-Um a-]{+A+}umento na amplitude das ondas U, que ocorrem no final da onda T[-,-] [-são-]{+–+} característico[-s-] de hipocalemia
+
+Diagnosticar outros distúrbios metabólicos: como glicemia (diabetes mellitus), sódio, magnésio, cálcio, função renal;
+Diagnosticar a causa da hipocalemia (Figura 4):
+TTKG: espera-se que, em situações de hipocalemia, os rins sejam capazes de reabsorver mais de 90% do potássio filtra-do (excretar <15mEq/d). A hipocalemia com um TTKG >4 sugere que a depleção de potássio é de causa renal;
+
+TTKG =	K+ na urina/K+ plasma
+	osmolaridade urina/osmolaridade plasma
+
+Acidose metabólica: sugere perda de potássio pelo trato gastrintestinal (diarreia), cetoacidose diabética com extrema espoliação de potássio, uso de anfotericina B, doença tubular proximal (ATR tipo II com bicarbonatúria, fosfatúria, aminoacidúria e caliurese) ou ATR tipo [-1-]{+I+} (dificuldade para excretar H+);
+Alcalose metabólica: sugere uso de diurético, vômitos, síndromes com hiperaldosteronismo ou síndromes raras (Bart-ter, Liddle ou Gitelman);
+Sistema renina–angiotensina–aldosterona: as combinações entre os valores determinados para atividade de renina plasmática e aldosterona sérica levam aos diagnósticos prováveis indicados na Tabela [-19-]{+20.+}
+
+{+Diagnóstico+}
+{+O diagnóstico da hipocalemia está associado à dosagem sérica de potássio <3,5mEq/L, além de alterações no eletrocardi-ograma (achatamento da onda T, ondas U, depressão do segmento ST, prolongamento do intervalo PR, arritmias, que po-dem evoluir para atividade elétrica sem pulso ou assistolia)+}.
+
+Tabela [-19-]{+20+} - Combinações entre a atividade de renina plasmática e aldosterona sérica e os possíveis diagnósticos
+Atividade de renina plasmática	Aldosterona sérica	Possíveis diagnósticos
+Elevada	Elevada	Hiperaldosteronismo secundário (estenose de artéria renal, hipovolemia, ou na rara síndrome de Bartter)
+Suprimida	Elevada	Hiperaldosteronismo primário (produção autônoma de al{+-+}dos[---]terona)
+Suprimida	Baixa	Hiperfunção do néfron distal (síndrome de Liddle) ou na rara deficiência da enzima 11-beta-hidroxiesteroide desidroge{+-+}nase
+
+ 
+Figura 4 - Exames complementares e hipocalemia (excreção urinária de potássio em 24 horas) 
+
+d) Tratamento 
+Inclui o tratamento da doença de base e a reposição do potássio[- (Tabelas 20 e 21)-]. O grau de depleção de potássio corpóreo é variável, mas, como regra geral, para cada 1mEq/L de redução na concentra[---]ção sérica há um déficit corpóreo total de 200 a 400mEq. Isso tem uma implicação: após a correção da concentração sérica do potássio, podem ser necessários vários dias de reposição para recompor os estoques corpóreos do íon (no compartimento intracelular).
+O potássio pode ser reposto via oral se a hipocalemia é leve e o paciente se encontra estável e sem manifestações clínicas secundárias à hipocalemia. O potássio oral pode ser administrado na forma líquida ou de comprimidos de liberação lenta. Deve-se evitar a administração de mais de 20 a 25mEq por via oral, para evadir o surgimento de desconforto gastrintestinal. Três sais estão disponíveis para reposição do potássio: KCl, fosfato de potássio e bicarbonato de potássio. O uso de KCl é o mais recomendado para reposição, apresentando a vantagem, na alcalose metabólica, de repor Cl- que muitas vezes está também depletado e auxiliar na elevação dos níveis de potássio plasmáticos mais rapidamente. Porém, em se tratando de acidose metabólica, o uso de bicarbonato de potássio ou citrato de potássio parecem ser mais adequados para correção do potássio e também da acidemia.
+A reposição intravenosa deve ser realizada em pacientes incapazes de se alimentar, ou de forma conjunta com a terapia oral em portadores de hipocalemia grave sintomática. Em veias periféricas, o potássio deve ser administrado a uma concen-tração de 20 a 40mEq/L. Podem-se utilizar concentrações de até 60mEq/L em veia periférica, no entanto soluções tão con-centradas podem ser bastante dolorosas. 
+O KCl deve ser diluído, para reposição inicial, em soro fisiológico, pois o soro glicosado pode levar a uma queda adicional transitória do potássio sérico, pela liberação de insulina secundária à administração de glicose, o que pode agravar os sinto-mas do paciente. Àqueles que não tolerem altas quantidades de volume e apresentem hipocalemia grave sintomática, po-dem-se administrar soluções mais concentradas (100 a 400mEq/L) em veia central. Na maioria dos casos, são utilizadas con-centrações de 100 a 200mEq/L em veia central. 
+@@ -362,8 +550,28 @@ As prepara
+KCl xarope a 10%: 15mL têm 20mEq de potássio. Dose usual: de 10 a 20mL após as refeições, 2 a 4x/d;
+KCl comprimido (Slow-K®): 1 comprimido tem 600mg de KCl, o que equivale a 8mEq de potássio. Dose usual: 1 a 2 com-primidos após as refeições, 3 a 4x/d;
+KCl a 19,1%, intravenoso: cada 1mL tem 2,5mEq de potássio, logo 1 ampola de 10mL tem 25mEq de potássio. 
+{+Algumas regras básicas devem ser lembradas ao realizar a reposição:+}
+{+- Uso da via oral, sobretudo se o potássio está acima de 3mEq/L;+}
+{+- Sem soluções intravenosas de potássio muito concentradas, pelo risco de flebite;+}
+{+- Concentração máxima em veia periférica de 40mEq/L;+}
+{+- Concentração máxima em acesso venoso central de 60mEq/L;+}
+{+- Velocidade ideal de reposição de 5 a 10mEq/h;+}
+{+- Velocidade máxima de reposição de 20 a 30mEq/h;+}
+{+- Evitar reposição em solução glicosada, pois aumenta a secreção de insulina e pode piorar a hipocalemia; todavia, algumas situações não permitem outro tipo de reposição;+}
+{+- Como o déficit corpóreo costuma ser importante, a reposição deve ser mantida por dias a semanas.+}
+
+{+Tratamento+}
+{+A reposição oral de potássio é feita com KCl xarope a 10% 10 a 20mL após as refeições, 2 a 4x/d, ou KCl comprimido (Slow-K®) 1 a 2cp após as refeições, 3 a 4x/d. Já a reposição intravenosa é feita com KCl a 19,1% IV; cada 1mL tem 2,5mEq de potássio, devendo repor de 5 a 10mEq/h (não correr em solução glicosada). +}
+
+Além da reposição de potássio e da correção, se possível, da causa-base da hipocalemia, devem ser dosados os níveis de magnésio dos portadores de hipocalemia. Hipomagnesemia pode ser responsável por hipocalemia refratária à suplementação de potássio, logo o magnésio deve ser reposto, como já citado. 
+
+{+Dica+}
+{+A correção da hipomagnesemia é essencial para o sucesso da reposição de potássio na hipocalemia. +}
+
+{+Importante+}
+{+A dosagem de potássio na urina pode auxiliar na diferenciação das perdas renais ou perdas extrarrenais. No caso das per-das renais, é necessária a avaliação da volemia, da pressão arterial e do pH sanguíneo.+}
+
+Tabela 2[-0-]{+1+} - Princípios da reposição de potássio
+- Sempre que possível, a via oral é a prioridade, pois é mais segura;
+- Evitar usar potássio intravenoso quando a concentração sérica está acima de 3mEq/L;
+- Soluções de potássio muito concentradas devem ser evitadas na administração periférica, pois podem causar flebite e são muito dolorosas;
+@@ -372,15 +580,17 @@ Tabela 20 - Princ
+- Concentração recomendada em veia central: 100 a 200mEq/L;
+- Concentração máxima em veia central: 200 a 400mEq/L;
+- Velocidade ideal para reposição de potássio: 5 a 20mEq/h;
+- Velocidade máxima para reposição de potássio: 40 a 100mEq/h – deve ser utilizada apenas se o paciente apresenta paralisia ou ar{+-+}ritmias graves secundárias à hipocalemia; 
+- Em situações de hipocalemia, evitar repor potássio em soluções com glicose (glicose estimula liberação de insulina, funcionando como polarizante, o que pode paradoxalmente piorar a hipocalemia);
+- Após a normalização do potássio, continuar a reposição via oral por vários dias a semanas, já que o déficit corpóreo é grande.
+
+Tabela 2[-1-]{+2+} - Preparações de potássio intravenoso: sugestão de prescrição
+- Em veia periférica: máximo de 16mL do KCl a 19,1% (40mEq de potássio) diluído em 1.000mL de soro (a 0,9 ou 0,45%);
+- Deixar em bomba de infusão: 125 a 250mL/h = 5 a 10mEq/h;
+- Em veia central: máximo de 80 a 160mL (200 a 400mEq de potássio) diluído em 1.000mL de soro (a 0,9 ou 0,45%). Recomendado de 40mL (100mEq de potássio) diluídos em 1.000mL de soro;
+- Deixar a solução recomendada (100mEq/L) em bomba de infusão: 50 a 200mL/h = 5 a 20mEq/h;
+- Pode-se infundir o KCl mais rápido que 20mEq/h, no entanto o médico deve estar ciente de que, quanto mais rápida a infusão, maior o risco de hipercalemia iatrogênica. Outro fator é que uma infusão rápida de KCl leva a perdas excessivas do íon pela urina e diminui a recomposição dos estoques do potássio. Muito raramente, necessita-se infundir o KCl a 30mEq em 1 hora. Isso acon[---]tece em paci{+-+}entes instáveis, com hipocalemia grave e arritmias recidivantes. Após essa reposição rápida, recomenda-se a infu[---]são a taxas mais seguras.
+
+e) Complicações 
+Hipercalemia iatrogênica;
+Sobrecarga de volume e edema pulmonar;
+@@ -388,23 +598,41 @@ Flebite;
+Hipoventilação;
+Rabdomiólise (pode levar a mioglobinúria e insuficiência renal);
+Arritmias e PCR.
+
+3. Resumo
+
+Quadro-resumo
+[-- -]O K+ desempenha importante função na contratura muscular, daí a razão de as células musculares serem o principal reservató[---]rio desse íon no organismo, sendo o rim o responsável pela concentração sérica de potássio. 
+Hipercalemia
+- A hipercalemia é definida como concentração sérica de potássio >5mEq/L;
+- {+Os sinais e sintomas são raros e tendem a ocorrer apenas quando o potássio no soro é superior a 7mEq/L; sintomas podem incluir fraqueza muscular e arritmias ventriculares;+}
+{+- Há 2 mecanismos principais de hipercalemia:+}
+{+ · Liberação de potássio pelas células (por exemplo, hiperglicemia grave, rabdomiólise, succinilcolina);+}
+{+ · Excreção de potássio na urina reduzida, na maioria das vezes por hipoaldosteronismo ou insuficiência renal.+}
+{+- +}Causas de hipercalemia: acidose metabólica, dieta, medicamentos (AINEs, ARA-II, betabloqueadores, diuréticos poupadores de potássio, IECA, suplementos de potássio, intoxicação digitálica, succinilcolina, heparina, trimetoprima, ciclosporina, pentamidi[---]na), hemólise, hipoaldosteronismo hiporreninêmico (A[-cidose Tubular Renal – A-]TR [-– -]tipo IV), iatrogenia (administração intrave[---]nosa excessiva de potássio), insufi{+-+}ciência adrenal (doença de Addison), IRA, [-insuficiência renal crônica-]{+IRC+} (geralmente avançada, com clearance de creatinina <15mL/min), paralisia periódica hipercalêmica, pseudo-hipercalemia, rabdomiólise, síndrome de lise tumoral, estados hipercatabólicos (exemplo: sepse), hiperos{+-+}molaridade (hipernatremia, hiperglicemia), exercício físico ex[---]tenuante;
+- Pseudo-hipercalemia (falso aumento sérico do potássio) pode ocorrer por coleta inadequada ou aumento do número de células (leucocitose importante, poliglobulia ou trombocitose);
+- Na hipercalemia, os pacientes são assintomáticos na maioria das vezes; os tecidos mais suscetíveis são o miocárdio (distúrbios da condução cardíaca) e o musculoesquelético (fraqueza muscular, fadiga e, raramente, paralisia flácida ascendente e insufici[---]ência respiratória aguda);
+- O ECG pode sugerir hipercalemia mesmo antes do resultado laboratorial. As alterações decorrentes da hipercalemia no ECG inclu{+-+}em: onda T apiculada, achatamento da onda P, prolongamento do intervalo PR, alargamento do intervalo QRS, ritmo idio[---]ventricu{+-+}lar, formação da onda sinusoidal, fibrilação ventricular e assistolia;
+- Em pacientes com hipercalemia associada a alteração eletrocardiográfica, o cálcio intravenoso é utilizado para estabilizar ele[---]tri{+-+}camente o miocárdio; não dá para reduzir a concentração sérica de potássio;
+- O bicarbonato de cálcio só é utilizado na hipercalemia em condições que cursem com acidose;
+- O tratamento da hipercalemia inclui medidas que deslocam o potássio do meio extracelular para o intracelular, como a solução polarizante, e medidas que diminuem o potássio sérico, como as resinas e a diálise.
+Hipocalemia
+- A hipocalemia é definida como uma concentração sérica de potássio <3,5mEq/L e é um problema clínico comum;
+- A ingestão reduzida de potássio, a translocação do potássio para dentro das células e, mais frequentemente, o aumento das perdas na urina (ou trato gastrintestinal ou suor) podem levar à hipocalemia;
+- Outras causas são: paralisia periódica hipocalêmica, hipotermia e tireotoxicose, tratamento de anemia megaloblástica, perdas renais (medicamentos, poliúria, hiperaldosteronismo primário, hipertensão renovascular, hipercortisolismo, ATRs, doenças tu[---]bula{+-+}res hereditárias, hipomagnesemia, anfotericina B, aminoglicosídeos e penicilina G, uso de tolueno);
+- Nas hipocalemias mais graves (<3mEq/L), podem surgir: mialgia, fraqueza muscular, podendo evoluir para tetraplegia flácida, rabdomiólise, distúrbios renais e do ritmo cardíaco;
+- A hipocalemia pode cursar com alterações na excitabilidade muscular;
+- A presença de ondas U, achatamento de onda T e depressão do segmento ST podem ocorrer na hipocalemia;
+- Na hipocalemia deve-se tratar a doença de base, além da reposição do potássio.
+
+{+Respostas+}
+{+1. D+}
+{+2. C+}
+{+3. A+}
+{+4. D+}
+{+5. C+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
