@@ -1,0 +1,15 @@
+1) Criar o txt na pasta "revisao"
+
+2) Colocar o texto inicial nesse arquivo
+
+3*) git status -> ve se alterou
+
+4) git add . && git commit -m "new commit" && git push origin master
+
+5) Colocar o texto final no mesmo arquivo
+
+6*) git status -> ve se alterou
+
+7) git add . && git commit -m "new commit" && git push origin master
+
+8) git diff --word-diff-regex=. HEAD^^ NOME_DO_ARQUIVO >> NOME_DO_ARQUIVO_DE_SAIDA.txt
