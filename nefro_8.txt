@@ -1,33 +1,53 @@
 Síndrome nefrítica
-Rodrigo Antônio Brandão Neto / Natália Corrêa Vieira de Melo / Ana Cristina Martins Dal Santo
+Rodrigo Antônio Brandão Neto
+Natália Corrêa Vieira de Melo
+Ana Cristina Martins Dal Santo
+
+Resumo
+A síndrome nefrítica aguda clássica caracteriza-se pelo surgimento agudo de hematúria, proteinúria não nefrótica (<3,5g/1,73m2/24h), edema e hipertensão arterial, geralmente acompanhados de oligúria. Nela, a hematúria é glomerular, com dismorfismo eritrocitário (acantócitos) e cilindros hemáticos no sedimento urinário. Suas principais complicações são hipertensão, sobrecarga de volume, hipercalemia e acidose metabólica, e suas causas podem ser divididas em: mediada por imunocomplexo (como glomerulonefrite pós-infecciosa, nefropatia por IgA ou nefrite lúpica), induzida por anticorpo (como doença antimembrana basal glomerular) e pauci-imune (como vasculites ANCA-associadas). Seu principal representante é a glomerulonefrite pós-estreptocócica, sendo os estreptococos do grupo A responsáveis pela erisipela, escarlatina, febre reumática e glomerulonefrite. Possui quadro clínico clássico, com edema, hematúria e hipertensão. O diagnóstico ocorre com a história clínica de infecção de orofaringe ou pele, somada a quadro nefrítico, com complemento (C3 e CH50) consu-mido, além de ASLO/anti-DNAse B positivos. A microscopia óptica mostra glomerulonefrite proliferativa difusa com prolife-ração endocapilar e inúmeros neutrófilos, enquanto na imunofluorescência há depósito granular grosseiro de C3, IgG e IgM, junto à parede capilar e ao mesângio. O tratamento é de suporte, com manejo sintomático da hipertensão, retenção de fluidos, e, em alguns casos de insuficiência renal, menos de 5% dos casos podem evoluir com glomerulonefrite rapidamente progressiva.
+
 1. Introdução 
+
 A síndrome nefrítica aguda clássica (ou glomerulonefrite – GN – difusa aguda) caracteriza-se pelo surgimento agudo de hematúria, proteinúria não nefrótica (<3,5g/1,73m2/24h), edema e hipertensão arterial, geralmente acompanhados de oligú-ria (Tabela 1). Esses sinais e sintomas são decorrentes de processo inflamatório agudo glomerular, que pode ocorrer de forma idiopática ou secundária a diversas doenças sistêmicas (como infecções, vasculites e colagenoses). 
-A hematúria é de origem glomerular, tendo por isso características peculiares: presença de dismorfismo eritrocitário (principalmente na forma de acantócitos) e cilindros hemáticos no sedimento urinário, coloração amarronzada (ou cor “de coca-cola”) da urina e ausência de formação de coágulos. A hipertensão arterial e o edema generalizado são decorrentes da retenção volêmica secundária à inflamação glomerular. 
+A hematúria é de origem glomerular, tendo por isso características peculiares: presença de dismorfismo eritrocitário (principalmente na forma de acantócitos) e cilindros hemáticos no sedimento urinário, coloração amarronzada (ou cor “de coca-cola”) da urina e ausência de formação de coágulos. A hipertensão arterial e o edema generalizado são decorrentes da retenção volêmica secundária à inflamação glomerular. As principais complicações são hipertensão, sobrecarga de volume, hipercalemia e acidose metabólica. Os pacientes podem apresentar 1 ou mais desses agravantes. A diminuição da taxa de filtração glomerular observada causa retenção acentuada de sais e água, com consequente desenvolvimento de hipertensão e edema. O paciente pode ter crise hipertensiva aguda acompanhada de insuficiência cardíaca congestiva, edema cerebral e edema pulmonar.
+
+Importante
+Na síndrome nefrítica, a hematúria é glomerular, tendo dismorfismo eritrocitário (acantócitos) e cilindros hemáticos no sedimento urinário, com ausência de formação de coágulos.
+
+As formas mais comuns de GN manifestada como síndrome nefrítica podem ser classificadas, com base nos respectivos mecanismos patológicos subjacentes, em 3 categorias: mediada por imunocomplexo (como GN pós-infecciosa, nefropatia por IgA ou nefrite lúpica), induzida por anticorpo (como doença anti-MBG – Membrana Basal Glomerular) e pauci-imune (como vasculites ANCA-associadas na ausência de imunodepósitos glomerulares detectados por imunofluorescência). 
+O curso clínico das doenças glomerulares individuais pode variar. Exemplificando, a GN Pós-Estreptocócica (GNPE) costu-ma ser aguda e autolimitada; a nefropatia por IgA é intermitente e crônica; e a doença anti-MBG e a vasculite ANCA-associada apresentam início rápido e são progressivas, levando ao desenvolvimento de insuficiência renal em estágio terminal dentro de um curto período, caso não sejam tratadas.
+ 
 Tabela 1 - Características 
 - Hematúria dismórfica;
 - Edema;
 - Hipertensão arterial sistêmica;
 - Proteinúria não nefrótica (<3,5g/1,73m2/24h);
 - Oligúria.
+
 As causas de síndrome nefrítica aguda são muito variadas (Tabela 2): 
+
 Tabela 2 - Causas de síndrome nefrítica aguda
 Pós-infecciosas	Pós-infecção estreptocócica, infecções virais, endocardite, abscessos viscerais
 Deposição de complexos imunes	Lúpus Eritematoso Sistêmico (LES), nefropatia por IgA e Henoch-Schönlein
 Vasculites sistêmicas	Granulomatose de Wegener, poliangiite microscópica
-Deposição de anticorpos	Doença de Goodpasture (anticorpos anti-MBG – Membrana Basal Glomerular)
+Deposição de anticorpos	Doença de Goodpasture (anticorpos anti-MBG)
 Idiopáticas
 A apresentação da doença decorre de 2 fatores presentes na síndrome nefrítica aguda
-Expansão de volume extracelu-lar	Deve-se à intensa inflamação glomerular. Podem surgir hepatomegalia, turgência jugular, edema periorbitário e de membros inferiores, hipertensão arterial e mesmo edema agudo pulmonar.
+Expansão de volume extracelular	Deve-se à intensa inflamação glomerular. Podem surgir hepatomegalia, turgência jugular, edema periorbitário e de membros inferiores, hipertensão arterial e mesmo edema agudo pulmonar.
 Doença de base	Nesse caso, podem predominar os achados da própria doença (por exemplo, hemorragia alveolar, doença pulmonar, vasculite sistêmica).
+
 2. Exames complementares na síndrome nefrítica aguda
+
 A - Urina tipo I
 Proteinúria: leve a moderada; não costuma chegar a níveis nefróticos;
 Hematúria: presente em quase 100% dos casos. Como a origem é glomerular, costuma haver dismorfismo eritrocitário e cilindros hemáticos;
 Leucocitúria: frequente, habitualmente com urocultura estéril.
+
 B - Bioquímica, eletrólitos e gasometria
 Aumento de ureia e creatinina como regra, embora não haja correlação entre a gravidade da sintomatologia (por exem-plo, hipertensão, edema pulmonar) e os níveis séricos das escórias nitrogenadas;
 Hipercalemia comum possivelmente grave;
 Acidose de grau variado também comum.
+
 C - Complemento sérico
 O complemento sérico pode ser útil na diferenciação da causa da síndrome nefrítica aguda.
 As causas de síndrome nefrítica aguda que cursam com complemento consumido incluem:
@@ -41,34 +61,66 @@ Vasculites sistêmicas;
 Doença de Berger (nefropatia por IgA);
 Púrpura de Henoch-Schönlein;
 Doença de Goodpasture (anticorpos anti-MBG).
+
+Importante
+Lembrar que a proteinúria na síndrome nefrítica não é tão pronunciada (<3,5g/24h), enquanto a hematúria é quase sempre evidente (com dismorfismo), e o complemento é consumido (na maior representante: glomerulonefrite pós-infecciosa).
+
 D - Exames direcionados à causa da glomerulonefrite difusa aguda
 Dosagem de crioglobulinas no sangue e/ou sorologia para hepatites B e C;
 FAN e autoanticorpos (anti-DNA dupla fita, anti-Sm, entre outros);
 Antiproteinase 3 (c-ANCA) e antimieloperoxidase (p-ANCA);
 Anti-MBG;
 Outros: conforme suspeita clínica (hemoculturas e/ou ecocardiograma para endocardite, entre outros).
+
+ Tabela 3 - Testes sorológicos e associações com síndrome nefrítica
+Doenças	Associações	Testes sorológicos
+GNPE	Faringite, impetigo	ASLO
+Endocardite	Sopro, febre	Hemocultura, C3 diminuídos
+Shunt	Hidrocefalia tratada	Hemocultura, C3 diminuídos
+Abscesso	História	Hemocultura, C3 e C4 normais
+Glomerulopatia da IgA	Infecções respiratórias	IgA sérica aumentada
+Lúpus eritematoso sistêmico	Artrite, rash malar	FAN/anti-DNA, C3 e C4 diminuídos
+
 3. Princípios do tratamento
+
 Sempre que possível, deve-se tratar a causa-base com:
 Corticoide e ciclofosfamida: vasculites associadas ao ANCA, LES;
 Antibioticoterapia: endocardite;
 Plasmaférese: doença de Goodpasture, vasculites ANCA-relacionadas.
 O suporte clínico é essencial, sobretudo na GNPE, já que a inflamação renal é autolimitada. O suporte clínico na síndrome nefrítica aguda inclui o manejo adequado da pressão arterial, da hipervolemia e da insuficiência renal. 
+
 4. Causas de síndrome nefrítica aguda
+
 A - Glomerulonefrite pós-estreptocócica
+
+Tema frequente de prova
+De todas as doenças glomerulares com síndrome nefrítica, a pós-estreptocócica é muito prevalente nas questões de Resi-dência Médica. 
+
 A GNPE é causada por cepas nefritogênicas de Streptococcus, principalmente beta-hemolíticos do grupo A. É uma doença que acomete preferencialmente crianças em idade pré-escolar e escolar, com pico de incidência por volta dos 7 anos, e adultos jovens; o sítio da infecção estreptocócica pode ser tanto a pele quanto a orofaringe. Geralmente é autolimitada.
+
+Dica
+Os estreptococos do grupo A são responsáveis por erisipela, escarlatina, febre reumática e glomerulonefrite.
+
 O sexo masculino geralmente é 2 vezes mais acometido, embora alguns autores relatem que, quando o processo é secun-dário à estreptococcia cutânea, não há predomínio de sexo. 
-A GNPE geralmente é precedida por infecção da orofaringe ou da pele por certas cepas “nefritogênicas” dos estreptoco-cos beta-hemolíticos dos grupos A, C e G. As cepas ditas nefritogênicas mais relacionadas a infecções respiratórias são as dos sorotipos 1, 4, 12 e 25, e a infecção de pele está mais relacionada aos sorotipos 2, 42, 49, 56 e 60.
-Os casos subclínicos são mais frequentes do que aqueles com síndrome nefrítica aguda (hematúria, edema e hipertensão). Os pacientes podem ainda apresentar, comumente, sintomas gastrintestinais (dor abdominal, náuseas) e dor lombar bilateral (por intumescimento da cápsula renal). A hematúria glomerular, como é o caso, tem habitualmente cor acastanhada e não apresenta coágulos, ao contrário da hematúria proveniente das vias urinárias baixas, que é vermelho-viva e com coágulos. A hipertensão arterial ocorre em até 70% dos casos, é volume-dependente e pode raramente evoluir para complicações graves como encefalopatia hipertensiva e edema agudo pulmonar. A função renal é comprometida em até metade dos casos.
+A GNPE geralmente é precedida por infecção da orofaringe ou da pele por certas cepas “nefritogênicas” dos estreptoco-cos beta-hemolíticos dos grupos A, C e G. As cepas ditas nefritogênicas mais relacionadas a infecções respiratórias são as dos sorotipos 1, 4, 12 e 25, e a infecção de pele está mais relacionada aos sorotipos 2, 42, 49, 56 e 60. 
+Os casos subclínicos são mais frequentes do que aqueles com síndrome nefrítica aguda (hematúria, edema e hipertensão). Os pacientes podem ainda apresentar, comumente, sintomas gastrintestinais (dor abdominal, náuseas) e dor lombar bilateral (por intumescimento da cápsula renal). A hematúria glomerular, como é o caso, tem habitualmente cor acastanhada e não apresenta coágulos, ao contrário da hematúria proveniente das vias urinárias baixas, que é vermelho-viva e com coágulos e pode persistir por mais de 1 ano. A hipertensão arterial ocorre em até 70% dos casos, é volume-dependente e pode rara-mente evoluir para complicações graves como encefalopatia hipertensiva e edema agudo pulmonar. A função renal é com-prometida em até metade dos casos.
 A fisiopatologia é a deposição de imunocomplexos nos rins. A lesão glomerular é induzida quando os imunocomplexos cir-culantes, compostos por antígeno estreptocócico e anticorpo dirigido contra esse antígeno, depositam-se no mesângio e no subendotélio do glomérulo.
 Os achados anatomopatológicos principais são:
 Glomérulos aumentados de tamanho devido à hipercelularidade (infiltração maciça de monócitos e polimorfonucleares);
 Raramente os pacientes podem evoluir para formação de crescentes (GN rapidamente progressiva);
-Imunofluorescência: depósito granular, grosseiro de C3, IgG e IgM, junto à parede capilar e ao mesângio;
-Microscopia eletrônica: depósitos subepiteliais, eletrodensos, ao longo da MBG, lembrando humps de camelos.
-O diagnóstico é sugerido pela presença de síndrome nefrítica aguda cerca de 1 a 2 semanas após infecção estreptocócica de orofaringe ou 2 a 3 semanas após infecção de pele (período de latência). O painel de anticorpos anti-Streptococcus costu-ma ser positivo em 95% dos pacientes pós-faringite e 85% pós-infecção de pele (ASLO; anti-hialuronidase; anti-DNAse e anti-estreptoquinase). A ASLO é o melhor indicador de infecções estreptocócicas de orofaringe, e o anti-DNAse, de infecções cutâneas. Complemento consumido é regra durante a fase aguda (complemento total e C3 diminuído em cerca de 90% dos casos com retorno a níveis normais entre 2 e 8 semanas a contar dos primeiros sinais de nefropatia).
+A microscopia óptica mostra GN proliferativa difusa com proliferação endocapilar proeminente e inúmeros neutrófilos;
+À imunofluorescência, depósito granular, grosseiro de C3, IgG e IgM, junto à parede capilar e ao mesângio;
+À microscopia eletrônica, depósitos subepiteliais, eletrodensos, ao longo da MBG, lembrando humps de camelos.
+A biópsia renal está indicada apenas para casos que apresentem história natural diferente da esperada.
+O diagnóstico é sugerido pela presença de síndrome nefrítica aguda cerca de 1 a 2 semanas após infecção estreptocócica de orofaringe ou 2 a 3 semanas após infecção de pele (período de latência). O painel de anticorpos anti-Streptococcus costu-ma ser positivo em 95% dos pacientes pós-faringite e 85% pós-infecção de pele (ASLO; anti-hialuronidase; anti-DNAse B e antiestreptoquinase). A ASLO é o melhor indicador de infecções estreptocócicas de orofaringe, e o anti-DNAse, de infecções cutâneas. Complemento consumido é regra durante a fase aguda (complemento total e C3 diminuído em cerca de 90% dos casos com retorno a níveis normais entre 2 e 8 semanas a contar dos primeiros sinais de nefropatia).
+
+Diagnóstico
+O diagnóstico de glomerulonefrite pós-estreptocócica ocorre pela história clínica de infecção de orofaringe ou pele, so-mado a quadro nefrítico, com complemento (C3 e CH50) consumido, além de ASLO/anti-DNAse B positivos. 
+
 Os principais diagnósticos diferenciais são outras GNs que cursam com síndrome nefrítica e hipocomplementenemia, co-mo outras GNs pós-infecciosas (como a da endocardite bacteriana), a nefrite lúpica e a GNMP. Além da púrpura de Henoch-Schönlein e da doença de Berger (doenças com complemento normais).
-Felizmente a doença costuma ser autolimitada, com normalização da pressão arterial e recuperação da função renal em semanas. A proteinúria e a hematúria podem demorar mais tempo para normalizar. O tratamento é de suporte com manejo sintomático da hipertensão, retenção de fluidos, e, em alguns casos de insuficiência renal, menos de 5% dos casos podem evoluir com GN rapidamente progressiva. A antibioticoterapia para tratamento da infecção estreptocócica não previne o surgimento da GNPE, por isso não deve ser usada de forma profilática, como na febre reumática, sendo reservada apenas para os casos que apresentem infecção estreptocócica ativa. A biópsia renal não deve ser realizada em todos os casos de GNPE, só naqueles com aspectos atípicos, que possam sugerir outras doenças que não a GNPE. As indicações de biópsia renal estão resumidas na Tabela 3.
-Tabela 3 - Indicações de biópsia renal na GNPE
+Felizmente a doença costuma ser autolimitada, com normalização da pressão arterial e recuperação da função renal em semanas. A proteinúria e a hematúria podem demorar mais tempo para normalizar. O tratamento é de suporte com manejo sintomático da hipertensão, retenção de fluidos, e, em alguns casos de insuficiência renal, menos de 5% dos casos podem evoluir com GN rapidamente progressiva. A antibioticoterapia para tratamento da infecção estreptocócica não previne o surgimento da GNPE, por isso não deve ser usada de forma profilática, como na febre reumática, sendo reservada apenas para os casos que apresentem infecção estreptocócica ativa. A biópsia renal não deve ser realizada em todos os casos de GNPE, só naqueles com aspectos atípicos, que possam sugerir outras doenças que não a GNPE. As indicações de biópsia renal estão resumidas na Tabela 4.
+
+Tabela 4 - Indicações de biópsia renal na glomerulonefrite pós-estreptocócica
 - Idade <2 ou >12 anos;
 - Oligúria por mais de 1 semana;
 - Hematúria macroscópica por mais de 3 semanas;
@@ -79,12 +131,66 @@ Tabela 3 - Indicações de biópsia renal na GNPE
 - Hematúria microscópica por mais de 2 anos;
 - Evidências clínicas ou sorológicas de doenças sistêmicas;
 - Evidência clínica de GN rapidamente progressiva.
+
+Importante
+A microscopia óptica mostra glomerulonefrite proliferativa difusa com proliferação endocapilar e inúmeros neutrófilos, enquanto na imunofluorescência há depósito granular grosseiro de C3, IgG e IgM, junto à parede capilar e ao mesângio.
+
+Pergunta
+2014 - UFRN
+1. Um menino de 7 anos é internado com quadro confirmado de glomerulonefrite difusa aguda pós-estreptocócica. En-contra-se em bom estado geral, com pressão arterial acima do percentil 95, sem cefaleia ou vômitos, 2kg acima do seu peso seco, FC = 120bpm e afebril. Seu peso na admissão é de 27kg. Nesse momento, a conduta a ser adotada é: 
+a) dieta hipossódica, restrição hídrica de 1.000mL/d, penicilina procaína 400.000UI, hidroclorotiazida e nifedipino
+b) dieta hipossódica, restrição hídrica de 540mL + perdas insensíveis, penicilina benzatina 600.000UI e furosemida 
+c) dieta assódica, restrição hídrica de 500mL + diurese do dia anterior, penicilina benzatina 1.200.000UI e furosemida 
+d) dieta assódica, sem restrição hídrica, penicilina G cristalina 100.000UI/kg/d, nifedipino e captopril 
+Resposta no final do capítulo
+
+Pergunta
+2013 - INCA
+2. Com relação à glomerulonefrite pós-estreptocócica (GNPE), pode-se afirmar que: 
+a) surge, em média, 48 horas após uma faringite por cepa nefritogênica de Streptococcus beta-hemolítico do grupo A
+b) o sedimento urinário é nefrítico, com eritrócitos dimorfos, cilindros hemáticos, às vezes, cilindros leucocitários e protei-núria na faixa subnefrótica 
+c) 90% apresentam proteinúria na faixa nefrótica, que pode se manifestar apenas quando ocorrem regressão da nefrite aguda e recuperação do fluxo sanguíneo renal e da taxa de filtração glomerular 
+d) a manifestação clínica clássica é a síndrome nefrítica totalmente desenvolvida, com coexistência de febre reumática na maioria dos casos
+Resposta no final do capítulo
+
 B - Glomerulonefrite aguda infecciosa, não pós-estreptocócica 
 A GN aguda infecciosa é uma GN mediada por imunocomplexos. Diversos outros agentes infecciosos, além do Streptococ-cus beta-hemolítico do grupo A, podem estar relacionados ao seu desenvolvimento. Estes incluem agentes causadores de infecções bacterianas além de vírus e parasitas. As infecções bacterianas mais comumente relacionadas são as prolongadas, como a endocardite bacteriana, abscessos viscerais, empiemas cavitários e osteomielite. No caso da endocardite, diversas bactérias podem estar envolvidas no desenvolvimento da GN, sendo as mais comuns Staphylococcus aureus, Streptococcus viridans e Staphylococcus epidermidis.
 O diagnóstico baseia-se na presença de manifestações extrarrenais da infecção crônica, como sinais de embolia séptica periférica na endocardite bacteriana. Há sintomas sistêmicos como febre, emagrecimento, artralgias e anemia. Clinicamente, a GN aguda pós-infecciosa se manifesta com síndrome nefrítica aguda associada à hipocomplementenemia (consumo de C3 e de C4). 
 Os achados histológicos da GN são semelhantes aos da GNPE ou GNMP: hipercelularidade e depósitos imunes na parede capilar glomerular. É rara a formação difusa de crescentes. 
-O controle da infecção, na maioria das vezes, acarreta resolução rápida do quadro, com retorno da função renal à linha de base ou próximo a ela 
+O controle da infecção, na maioria das vezes, acarreta resolução rápida do quadro, com retorno da função renal à linha de base ou próximo a ela. 
+
+Pergunta
+2012 - HECI
+3. Sobre a glomerulonefrite difusa aguda:
+(  ) A forma mais comum é a pós-estreptocócica, e aqui o provável antígeno desencadeante da lesão renal se relaciona a cepas nefritogênicas do Streptococcus beta-hemolítico do grupo A, tendo como porta de entrada a pele ou a orofaringe.
+(  ) O EAS evidencia hematúria, proteinúria e piúria. Há retenção de escórias, e o complemento sérico (C3) está aumenta-do nas primeiras semanas, confirmando o diagnóstico.
+(  ) Oligoanúria por mais de 48 a 72 horas, hematúria macroscópica e/ou retenção de escórias por mais de 4 semanas são algumas alterações que indicam a biópsia renal.
+(  ) A criança com glomerulonefrite difusa aguda deve ser mantida internada até a completa normalização das alterações clínicas e laboratoriais decorrentes da doença. 
+Assinale a sequência correta:
+a) V, V, F, F
+b) F, F, F, V
+c) V, F, V, F
+d) F, F, V, F
+e) F, F, F, F 
+Resposta no final do capítulo
+
+Pergunta
+2008 - UFF
+4. Uma menina de 8 anos foi internada há 4 semanas com edema, hipertensão e oligúria. Na ocasião, os exames laborato-riais apresentavam alterações no EAS (>100 hemácias/campo), ureia = 80mg/dL e creatinina = 1,5mg/dL. Diagnosticou-se glomerulonefrite difusa aguda pós-infecciosa. A doença evoluiu com hipertensão de difícil controle, oligúria e hematúria, quando foram solicitados novos exames complementares, que revelaram:
+- EAS = 60 hemácias/campo, proteína (++/4+);
+- Proteinúria de 24 horas = 1,1g/dL;
+- C3 = 40mg/dL (ref.: 77-195);
+- Creatinina = 2,6mg/dL.
+Considerando a hipótese de indicação de biópsia renal, assinale a alternativa correta:
+a) deve ser realizada, devido à elevação dos níveis de creatinina
+b) não deve ser realizada, pois a hematúria pode persistir por até 2 meses
+c) não deve ser realizada, visto que a proteinúria não está em níveis nefróticos
+d) deve ser realizada, em razão do baixo nível de complemento
+e) não deve ser realizada, já que a glomerulonefrite difusa aguda ocorreu há menos de 3 meses, e os exames podem per-sistir anormais durante o período
+Resposta no final do capítulo
+
 5. Resumo
+
 Quadro-resumo
 Síndrome nefrítica aguda clássica (ou GN difusa aguda)	- Hematúria dismórfica;
 	- Proteinúria não nefrótica (<3,5g/1,73m2/24h);
@@ -108,8 +214,8 @@ GNPE	- Causada por cepas nefritogênicas de Streptococcus, principalmente beta-he
 	- Fisiopatologia: deposição de imunocomplexos nos rins;
 	- Glomérulos aumentados de tamanho devido à hipercelularidade;
 	- Imunofluorescência: depósito granular, grosseiro de C3, IgG e IgM;
-	- Microscopia eletrônica: depósitos subepiteliais, eletrodensos, ao longo da MBG, lembrando humps de camelos;
-	- Complemento total e C3 diminuído em cerca de 90% dos casos com retorno a níveis normais entre 2 e 8 semanas a contar dos primeiros sinais de nefropatia;
+	- Microscopia eletrônica: depósitos subepiteliais, eletrodensos, ao longo da MBG, lembrando humps de came-los;
+	- Complemento total e C3 diminuído em cerca de 90% dos casos com retorno a níveis normais entre 2 e 8 se-manas a contar dos primeiros sinais de nefropatia;
 	- ASLO é o melhor indicador de infecções estreptocócicas de orofaringe, e o anti-DNAse, de infecções cutâneas;
 	- Costuma ser autolimitada, com normalização da pressão arterial e recuperação da função renal em semanas. Proteinúria e hematúria podem demorar mais tempo para normalizar.
 GN aguda infecciosa, não pós-estreptocócica	- GN mediada por imunocomplexos;
@@ -117,3 +223,14 @@ GN aguda infecciosa, não pós-estreptocócica	- GN mediada por imunocomplexos;
 	- Clínica: síndrome nefrítica aguda associada à hipocomplementenemia;
 	- Achados histológicos da GN são semelhantes aos da GNPE ou GNMP: hipercelularidade e depósitos imunes na parede capilar glomerular;
 	- O controle da infecção, na maioria das vezes, acarreta resolução rápida do quadro, com retorno da função renal à linha de base ou próximo a ela.
+
+Respostas
+1. C
+2. B
+3. C
+4. A
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
