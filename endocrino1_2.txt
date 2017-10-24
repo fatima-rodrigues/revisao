@@ -1,0 +1,192 @@
+Diabetes mellitus - diagnóstico
+ Leandro Arthur Diehl / Rodrigo Antônio Brandão Neto
+
+1. Testes diagnósticos empregados
+
+Os procedimentos empregados para o diagnóstico de Diabetes Mellitus (DM) são: 
+Glicemia de jejum: medida da glicose no sangue venoso (soro ou plasma), após jejum de 8 a 12 horas; 
+Teste de Tolerância a Glicose (TTG, TTOG ou GTT): após a administração (oral) de glicose anidra (75g, ou 1,75mg/kg para crianças) ou de dose equivalente de dextrose (82,5g), diluída em 250 a 300mL de água, ingerida em até 5 minutos, sen-do coletado sangue para a mensuração da glicemia nos tempos zero e 120 minutos após a ingestão;
+Glicemia casual: medida de glicose no sangue venoso, colhida a qualquer momento do dia, independentemente de o paci-ente ter se alimentado ou não. É aceita como método diagnóstico de DM apenas em indivíduos sintomáticos, ou seja, com sintomas característicos de diabetes (perda de peso involuntária, polidipsia, poliúria etc.);
+Hemoglobina glicada (A1c): reflete a média das glicemias dos últimos 3 meses. Foi aceita como mais um método diagnósti-co para DM em 2010, pelas associações europeia e norte-americana de diabetes, e em 2011, pela Sociedade Brasileira de Diabetes (SBD).
+Pela sua praticidade e pelo baixo custo, a medida da glicemia de jejum é o procedimento mais utilizado para fazer o diag-nóstico de DM. A A1c, embora possa ser usada como método diagnóstico adicional, deve, preferencialmente, ser confirmada com alguma medida de glicemia, visto que a sua correlação com esta é boa, mas tem limitações. Além disso, não são todos os métodos laboratoriais para a dosagem de A1c que servem para o diagnóstico de diabetes.
+O uso de tiras reagentes de glicemia capilar ou glicosúria não é adequado para o diagnóstico de DM, assim como a glice-mia venosa pós-prandial não tem utilidade para esse fim.
+
+A - Quando realizar o TTG?
+O TTG deve ser realizado em pacientes com glicemia de jejum limítrofe (100 a 125mg/dL) ou naqueles com alto risco de DM (Tabela 1). Glicemia >140mg/dL, 2 horas após 75g de glicose oral, constitui fator de risco importante para eventos cardio-vasculares, mesmo com glicemia de jejum normal (<100mg/dL). Essa situação é particularmente frequente entre aqueles com mais de 60 anos. 
+A indicação é obrigatória a todos aqueles com glicemia de jejum alterada (entre 100 e 125mg/dL), uma vez que vários es-tudos mostram que em torno de 5 a 25% dos indivíduos com glicemia de jejum nessa faixa já são diabéticos (diagnosticados apenas por meio do TTG). Apesar de ser mais trabalhoso e dispendioso, o TTG é mais sensível, pois detecta tanto as alterações da glicemia de jejum como aquelas da glicemia pós-prandial, por isso deve ser o teste de escolha para o diagnóstico em paci-entes com alto risco de diabetes (Tabela 2).
+
+Tabela 1 - Situações em que se indica o TTG
+- Todos os pacientes com glicemia de jejum alterada (entre 100 e 125mg/dL);
+- Indivíduos >45 anos em investigação de síndrome metabólica;
+- Indivíduos com 2 ou mais fatores de risco para DM (Tabela 2);
+- Puérperas que apresentaram diabetes gestacional (testar novamente com 6 a 12 semanas de puerpé-rio). 
+
+Tabela 2 - Fatores de risco para diabetes tipo 2
+- Sedentarismo; 
+- Familiar de 1º grau com DM; 
+- Hipertensão arterial (PA =140x90mmHg);
+- HDL <35mg/dL ou triglicérides >250mg/dL; 
+- Diabetes gestacional prévio ou história de ter dado à luz recém-nascido com peso >4kg; 
+- História de abortos de repetição ou mortalidade perinatal (possivelmente associada a diabetes gestacional não diagnosti-cado); 
+- Intolerância a glicose ou glicemia de jejum alterada prévia; 
+- Síndrome dos ovários policísticos; 
+- Outras condições associadas à resistência insulínica (exemplo: obesidade severa com acantose nigricans); 
+- História de doença cardiovascular; 
+- Uso de medicações com potencial de elevar a glicemia (glicocorticoides etc.). 
+
+B - Considerações sobre a A1c 
+A HbA1c (ou simplesmente A1c) é formada por uma reação de glicação não enzimática irreversível entre a glicose sanguí-nea e a hemoglobina. Sua dosagem mostrou-se capaz de avaliar o risco de desenvolvimento de muitas das complicações crô-nicas do DM, do mesmo modo que as determinações de colesterol podem predizer o risco de desenvolvimento de doença cardiovascular. 
+Tradicionalmente, a A1c tem sido considerada representativa da média ponderada global das glicemias médias diárias (in-cluindo glicemias de jejum e pós-prandial) durante os últimos 2 a 3 meses. Entretanto, sabe-se que as glicemias mais recentes (do último mês) são as maiores determinantes do valor da A1c, determinando em torno de 50% do seu valor.
+A seguir, a Tabela 3 demonstra a relação entre níveis de A1c e glicemia média, com base nos resultados do estudo ADAG (A1c-Derived Average Glucose), especificamente desenhado para avaliar a correlação entre esses 2 parâmetros. 
+
+Tabela 3 - Correspondência entre a A1c (%) e a glicemia média estimada nos últimos 3 meses, de acordo com o ADAG (2008)
+Nível de A1c (%)	Glicemia média (mg/dL)
+5	97
+6	126
+6,5	140
+7	154
+8	183
+9	212
+10	240
+11	269
+12	298
+
+Um comentário importante sobre o uso da A1c para o diagnóstico de diabetes é com relação ao método laboratorial utili-zado para a sua dosagem. Os únicos aceitos para uso no diagnóstico do diabetes são aqueles certificados por um programa americano de certificação de qualidade do teste de A1c – o National Glycohemoglobin Standardization Program – e rastreá-veis para os métodos utilizados no clássico estudo Diabetes Control and Complications Trial (DCCT), de 1993. 
+As diretrizes da American Diabetes Association (ADA) e da SBD recomendam que os laboratórios clínicos emitam laudos de exames contendo tanto a unidade habitual da A1c, em porcentagem (por exemplo: 7%), como o valor de glicemia média es-timada (estimated Average Glucose – eAG) correspondente (por exemplo: 154mg/dL). Essa medida visa facilitar o entendi-mento do significado da A1c por médicos e pelos próprios pacientes diabéticos, ressaltando a sua importância como ferra-menta indispensável para a obtenção do controle glicêmico adequado.
+A eAG dos últimos 3 meses também pode ser calculada a partir dos valores de A1c, usando a fórmula a seguir:
+
+eAG = 28,7 x A1c - 46,7
+
+A A1c deve ser medida rotineiramente durante o acompanhamento de todos os pacientes com DM, para documentar o grau de controle glicêmico: pelo menos 2 vezes ao ano em pacientes bem controlados, e 4 vezes ao ano em pacientes com mau controle ou em ajuste do tratamento.
+Vários fatores podem interferir no resultado do exame de A1c; os mais importantes estão descritos na Tabela 4:
+
+Tabela 4 - Fatores que podem interferir na leitura da A1c
+Fatores causadores de redução da A1c
+- Anemias hemolíticas;
+- Hemoglobinopatias*;
+- Comprometimento da medula óssea por radiação, fibrose, toxinas, tumores;
+- Deficiência de ácido fólico e vitaminas B6 e B12;
+- Hipertireoidismo;
+- Queimaduras graves;
+- Leucemia, mieloma múltiplo;
+- Anemia da insuficiência renal;
+- Intoxicação por chumbo;
+- Excesso de vitaminas C e E;
+- Presença de hemoglobina carbamilada, na insuficiência renal;
+- Deficiência de ferro;
+- Presença de hemoglobina acetilada, devido ao uso de doses elevadas de salicilatos;
+- Poliglobulia.
+* A influência das hemoglobinopatias depende do método laboratorial utilizado para a dosagem da A1c.
+
+2. Diagnóstico de diabetes e de outros estados de tolerância a glicose
+
+A evolução da normoglicemia para o DM2 ocorre ao longo de um período de tempo variável, durante o qual o indivíduo frequentemente passa por estágios intermediários de alterações da glicemia. Essas alterações intermediárias da glicose plas-mática, que ainda não preenchem os critérios diagnósticos de diabetes, recebem o nome de “pré-diabetes” e podem ocorrer no jejum, excesso após uma carga de carboidratos (pós-prandial), ou em ambos os momentos. 
+Antigamente, havia as categorias “glicemia de jejum alterada”, para os pacientes com glicemia de jejum entre 100 e 125/dL, e “tolerância diminuída a glicose”, para aqueles com glicemia 2 horas após TTG entre 140 e 199mg/dL. Atualmente, ambas as categorias foram englobadas na denominação comum “pré-diabetes”, que inclui os 2 estados intermediários citados.
+A importância dessas alterações discretas da glicemia está no risco aumentado que os pacientes com pré-diabetes apre-sentam de progressão para DM (4 a 12% ao ano) e de doença cardiovascular. Segundo alguns estudos, há maior risco de os indivíduos com alteração da glicemia pós-prandial evoluírem para diabetes e doença cardiovascular.  
+Os critérios diagnósticos para diabetes e pré-diabetes estão expostos na Tabela 5. É importante frisar que, se o paciente tem critérios discordantes (por exemplo, glicemia de jejum na faixa de pré-diabetes, mas glicemia pós-teste de tolerância oral na faixa de diabetes), o diagnóstico será a alteração mais grave (no exemplo, o paciente terá diabetes e não pré-diabetes).
+
+Tabela 5 - Valores de glicose plasmática (mg/dL) para o diagnóstico de DM e pré-diabetes (de acordo com a SBD, 2014)
+Categorias	Jejum*	2 horas após 75g de glicose	Casual**	A1c (%)
+Glicemia normal	<100	<140	--	<5,7
+Pré-diabetes 	100 a 125	140 a 199	--	5,7 a 6,4
+DM	=126	=200	=200 com sintomas clássicos***	=6,5
+* O jejum é definido como a falta de ingestão calórica por, no mínimo, 8 horas.
+** A glicemia plasmática casual é definida como aquela realizada a qualquer hora do dia, sem ser observado o intervalo desde a última refeição.
+*** Os sintomas clássicos de DM incluem poliúria, polidipsia e perda inexplicável de peso.
+Observação: a positividade de quaisquer dos parâmetros diagnósticos descritos confirma o diagnóstico de diabetes. Na ausência de hiperglicemia inequívoca, os resultados devem ser confirmados com a repetição dos testes. 
+
+3. Rastreamento (screening) populacional
+
+Medidas de prevenção do DM são provavelmente eficazes em reduzir o impacto desfavorável sobre a morbimortalidade, principalmente pelo fato de que algumas ações simples são capazes de evitar complicações cardiovasculares. Ainda assim, há controvérsias quanto à necessidade de exames de screening ou rastreamento. A ADA recomenda o screening a pacientes com risco elevado de DM, enquanto a US Preventive Services Task Force e a SBD não tomam posição definitiva sobre o assunto. 
+A ADA recomenda a coleta de glicemia de jejum a todos os adultos a partir dos 45 anos (pelo menos 1 vez a cada 3 anos). Entretanto, se o paciente apresentar mais algum fator de risco para DM, o screening deverá ser iniciado mais cedo, realizado com maior frequência ou utilizando métodos mais sensíveis (como o TTG, em vez da glicemia de jejum isolada), conforme orientações expostas na Tabela 6. Além disso, em pacientes com sinais ou sintomas sugestivos de hiperglicemia descompen-sada (Tabela 7), a avaliação laboratorial deverá ser, obviamente, imediata. 
+
+Tabela 6 - Indicações de screening para DM em indivíduos assintomáticos, conforme recomendações da ADA (2014)
+1 - Todos os adultos com excesso de peso (IMC >25kg/m2) e que apresentam ao menos 1 fator de risco para DM:
+- Sedentarismo;
+- Familiar de 1º grau com DM;
+- Hipertensão arterial (PA =140x90mmHg);
+- HDL <35mg/dL ou triglicérides >250mg/dL;
+- Diabetes gestacional prévio ou história de ter dado à luz recém-nascido com peso >4kg;
+- Intolerância a glicose ou glicemia de jejum alterada prévia;
+- Síndrome dos ovários policísticos;
+- Outras condições associadas à resistência insulínica (exemplo: obesidade severa com acantose nigricans);
+- História de doença cardiovascular*. 
+2 - Na ausência dos fatores de risco citados, em todos os indivíduos =45 anos (usando glicemia de jejum). 
+3 - Se os resultados são normais, o exame deve ser repetido pelo menos a cada 3 anos**.
+* Outros possíveis fatores de risco para DM são: história de abortos de repetição ou mortalidade perinatal (possivelmente associada a diabetes gestacional não diagnosticado); uso de medicações com potencial de elevar a glicemia – glicocorticoides etc.
+** Considerar repetições mais frequentes do exame (a cada 6 a 12 meses) ou utilização do TTG (em vez de glicemia de jejum) em grupos de alto risco (glicemia de jejum alterada ou tolerância diminuída a glicose prévias, com piora progressiva dos níveis glicêmicos; presença de complicações crônicas compatíveis com DM – retinopatia, neuropatia; hipertensão arterial ou doença coronariana). 
+
+Tabela 7 - Sintomas sugestivos de DM que indicam avaliação imediata da glicemia
+1 - Poliúria e polidipsia. 
+2 - Perda de peso significativa e involuntária. 
+3 - Letargia, cansaço, desânimo. 
+4 - Infecções de repetição (dermatites, balanopostites, vulvovaginites). 
+5 - Incontinência urinária, nictúria e enurese noturna. 
+6 - Sinais e sintomas de doença aterosclerótica: insuficiência vascular periférica, doença cardiovascular, acidente vascular cerebral. 
+7 - Neuropatia periférica, disfunção erétil. 
+8 - Quadro clínico compatível com complicações crônicas de DM. 
+
+O exame de escolha para o rastreamento de DM é a glicemia de jejum, por seu baixo custo e sua praticidade. Entretanto, em situações de alto risco, pode ser preferível o TTG, mais sensível.
+
+4. Pré-diabetes
+
+Tendo em vista o alto risco de progressão dos pacientes com pré-diabetes para o diabetes (5 a 6 vezes maior do que na população geral), torna-se óbvia a importância de implementar estratégias com o potencial de reduzir essa progressão, visan-do à prevenção.
+Recomenda-se, para a prevenção de DM, a todos os pacientes, com ou sem alterações de glicemia de jejum, a adoção de estilo de vida saudável, com dieta balanceada e exercícios físicos regulares. A restrição energética moderada, com base no controle de gorduras saturadas, acompanhada de atividade física moderada, como caminhada rápida, 30 minutos por dia, 5 dias por semana (num total de 150 minutos/semana), associada a perda de 7% de peso corpóreo, mostrou boa eficácia em prevenir a evolução de pré-diabéticos para o DM2, com redução do risco de DM2 da ordem de 58% em um período de 4 a 6 anos. 
+Alguns medicamentos também demonstraram reduzir o risco de evolução para DM em pacientes de alto risco, em vários estudos (Tabela 8). Esses medicamentos, portanto, poderiam ser utilizados quando houvesse impedimento ou falência das medidas modificadoras do estilo de vida. 
+A SBD recomenda que, além das mudanças de estilo de vida, o uso de metformina poderia ser considerado aos jovens com risco moderado/alto de DM2 (especialmente obesos <65 anos), desde que não haja contraindicação para a medicação. A ADA também recomenda que o uso de metformina seja considerado, em conjunto com as mudanças de estilo de vida, aos pacientes com pré-diabetes de mais alto risco, especialmente aqueles com IMC >35kg/m2, <60 anos, mulheres com diabetes gestacional prévio, além de hiperglicemia mais severa ou progressiva, apesar das modificações de estilo de vida. 
+
+Tabela 8 - Intervenções capazes de reduzir o risco de progressão para diabetes em indivíduos de alto risco (pré-diabéticos)
+Intervenções	Redução de risco
+Mudanças de estilo de vida	58%
+Metformina	31%
+Acarbose	25%
+Pioglitazona	72%
+Orlistate	37%
+Inibidores da enzima conversora de angiotensina/bloqueadores do receptor da angiotensina	26%
+
+Tabela 9 - Condutas recomendadas no pré-diabetes
+Condutas recomendadas	Pacientes pré-diabéticos
+Mudanças de Estilo de Vida (MEVs)	Todos
+MEVs + metformina	Pré-diabéticos com risco mais elevado de progressão para o diabetes, especialmente obesos jovens ou com diabetes gestacional prévio, ou na falha de MEVs
+
+5. Diabetes mellitus gestacional (rastreamento e diagnóstico)
+
+Há muitas controvérsias na literatura sobre a melhor forma de rastreamento e diagnóstico do Diabetes Gestacional (DG).  
+
+A - Recomendações nacionais (SBD/FEBRASGO, 2008)
+As últimas diretrizes da SBD para o diagnóstico de DG foram lançadas em 2008, em esforço conjunto com a Federação Brasileira das Associações de Ginecologia e Obstetrícia (FEBRASGO), finalmente unificando as recomendações de endocrino-logistas e obstetras, anteriormente diferentes em vários aspectos.
+De acordo com essas diretrizes, o rastreamento de DM na gestação deve ser feito com a coleta de glicemia de jejum em todas as pacientes na 1ª consulta de pré-natal. Entre aquelas com glicemia inicial <85mg/dL, o rastreamento é considerado negativo e a glicemia de jejum deve ser repetida após a 20ª semana. Pacientes com glicemias alteradas nos primeiros trimes-tres da gestação (antes de 24 semanas) tendem a ser consideradas, atualmente, portadoras de diabetes tipo 2 (pré-gestacional).
+Caso a glicemia de jejum seja =85mg/dL, a paciente deve ser submetida à confirmação do diagnóstico, usando o TTG (75g), com coleta de glicemia a zero e aos 120 minutos, entre a 24ª e a 28ª semanas de gestação. Caso a glicemia de 2 horas após a sobrecarga de glicose seja =140mg/dL, está definido o diagnóstico de DG. Se a 1ª glicemia de jejum for =110mg/dL, entretan-to, o TTG poderá ser dispensado, bastando, para confirmar o diagnóstico, uma 2ª glicemia de jejum no mesmo nível (Figura 1). 
+Quanto às gestantes com maior risco de DM gestacional (mais velhas, com história prévia de alterações glicêmicas ou que deram à luz recém-nascidos macrossômicos), o rastreamento pode ser feito mais precocemente. O diagnóstico deve ser rea-lizado conforme os critérios da Tabela 10.
+
+ 
+Figura 1 - Recomendações para rastreamento e diagnóstico do DG (SBD e FEBRASGO, 2008)
+
+Tabela 10 - Critérios diagnósticos (SBD e FEBRASGO, 2008) 
+- Glicemia de jejum =110mg/dL em, pelo menos, 2 medidas (o valor de corte de 100mg/dL, utilizado para adultos em geral, não foi ainda validado na gestação);
+- Glicemia 2 horas após 75g de glicose (TTG) =140mg/dL; 
+- Glicemia ao acaso =200mg/dL em pacientes com sintomas típicos. 
+Observação: basta 1 dos 3 critérios para o diagnóstico.
+
+B - Recomendações internacionais (2010)
+Em março de 2010, foi publicado na Diabetes Care um consenso da International Association of Diabetes and Pregnancy Study Groups (IADPSG), contendo novas recomendações para o diagnóstico do DG, com base em resultados de estudos pros-pectivos recentes que demonstraram aumento de risco de complicações maternas e fetais a partir de valores glicêmicos mais baixos que os classicamente utilizados para detecção de DG (Tabela 11). Acredita-se que a adoção desses novos critérios, usando valores de corte bem mais baixos de glicemia, pode aumentar em 2 ou até 3 vezes o número de gestantes identifica-das com DG. Esses novos critérios, dada a sua melhor sensibilidade e o grande potencial para reduzir complicações da DG, são atualmente os preferidos para o diagnóstico desta, tendo sido adotados pela ADA e pela SBD.
+
+Tabela 11 - Critérios diagnósticos da IADPSG
+- Glicemia de jejum =92mg/dL; 
+- Glicemia 1 hora após 75g de glicose (GTT) =180mg/dL; 
+- Glicemia 2 horas após 75g de glicose (GTT) =153mg/dL. 
+Observação: basta 1 dos 3 critérios para o diagnóstico.
+
+C - Acompanhamento pós-gestacional
+Após o término da gravidez, as pacientes com DG devem ser submetidas a um novo TTG, entre a 6ª e a 12ª semanas de puerpério, para reavaliação. Na maioria dos casos, há reversão para a tolerância normal a glicose após o término da gestação, mas vários estudos prospectivos mostram que o risco de evolução para DM2 é extremamente alto, de 17 a 63% dentro de 5 a 16 anos, razão pela qual essas pacientes merecem orientações para prevenção de DM2 e acompanhamento cuidadoso.
+
+6. Resumo 
+
+Quadro-resumo
+- 	O rastreamento do diabetes é recomendado a pacientes com mais de 45 anos ou com fatores de risco para o desenvolvi-mento da doença; 
+- 	O diagnóstico de DM é definido por: glicemia de jejum =126mg/dL, glicemia 2 horas após TTG =200mg/dL, A1c =6,5% ou glicemia ocasional =200mg/dL em paciente com sintomas clássicos de diabetes (poliúria, polidipsia). Glicemia capilar e glicosúria não servem para o diagnóstico;
+- A positividade de quaisquer dos parâmetros diagnósticos descritos confirma o diagnóstico de diabetes. Na ausência de hiperglice-mia comprovada, os resultados devem ser confirmados com a repetição dos testes;
+- 	Deve-se solicitar TTG com 75g de glicose a todos os pacientes com glicemia de jejum limítrofe (entre 100 e 125mg/dL), visto que até 25% desses indivíduos já são diabéticos (com predominância de hiperglicemia pós-prandial); 
+- 	O TTG também está bem indicado a indivíduos de alto risco de diabetes (presença de vários fatores de risco, história fami-liar, DM gestacional prévio, síndrome metabólica, pré-diabetes); 
+- 	Glicemia de jejum entre 100 e 125mg/dL ou glicemia 2 horas após TTG entre 140 e 199mg/dL, na ausência de critérios que confirmem diabetes, são consideradas pré-diabetes, com alto risco de evolução para DM; 
+- 	A principal medida para a prevenção do aparecimento de diabetes em pacientes pré-diabéticos é a alteração dos hábitos de vida (redução de risco de 58%), embora o uso de metformina possa ser considerado em pacientes de mais alto risco (obesos jovens ou mulheres com histórico de DG). 

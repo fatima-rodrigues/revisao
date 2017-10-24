@@ -1,0 +1,176 @@
+Diabetes mellitus - fisiopatologia e classificação
+[- -]Leandro Arthur Diehl[- / -]
+Rodrigo Antônio Brandão Neto
+
+[-1-]{+Resumo+}
+{+Neste capítulo, serão apresentados o conceito, a epidemiologia e a classificação da síndrome diabética, de elevada preva-lência e grave problema de saúde pública no Brasil+}. {+O Diabetes Mellitus (+}D{+M) é uma afecção decorrente da d+}efi{+ciência de produção e/ou da ação da insulina +}n{+o corpo, levando a um estado de h+}i{+perglicemia, que acomete em torno de 13% da popula+}ção{+ adulta brasileira, aumentando com a idade e associada à obesidade. O DM pode ser classificado em tipo 1, tipo 2, gestacional e outros específicos (como MODY ou decorrente de pancreatite), sendo os 2 primeiros os mais frequentes. O tipo 1 é mais comum em crianças e adolescentes e tem, como causa, a destruição das células betapancreáticas, associa-da a fatores autoimunes e de sintomatologia mais exuberante, com risco de cetoacidose diabética. O tipo 2 é mais preva-lente em adultos a partir dos 40 anos, com grande associação a acúmulo de gordura visceral e tendo, como importante mecanismo fisiopatológico, o aumento da resistência periférica a insulina. É frequentemente assintomático no início, sem tendência a cetoacidose. A forma gestacional associa-se a alterações na tolerância a insulina, afetando sobretudo gestantes com idade mais avançada, com excesso de peso e história familiar de DM. É um quadro que pode iniciar-se na gestação e perdurar no período pós-parto.+}
+
+{+1. Introdução+}
+
+O Diabetes Mellitus (DM) é uma síndrome complexa, decorrente da deficiência de insulina, associada ou não à incapacida-de desta de exercer adequadamente seus efeitos (resistência insulínica). Sua principal característica é o metabolismo anor-mal dos carboidratos (hiperglicemia), mas também estão comumente presentes distúrbios do metabolismo dos lipídios (disli-pidemia) e das proteínas (catabolismo muscular). [-Co-]{+É i+}m{+p+}o[- -]{+r+}t[-od-]a{+nte+} {+fri+}s[-índ-]{+a+}r[-om-]{+ qu+}e[-,-] o diabetes [-p-]{+nã+}o{+ é uma única +}d{+o+}e{+nça, mas um grupo+} {+he+}ter{+ogêneo+} d[-iv-]e[-r-]{+ di+}s[-a-]{+túrbio+}s {+m+}et[-io-]{+abó+}l[-og-]i[-a-]{+co+}s[-,-] {+que apre+}sen[-d-]{+ta a hiperglicemia com+}o {+car+}a{+cterística comum.+}
+{+O+}s {+2 +}principais{+ tipos do DM são+}:
+{+1 - +}DM tipo 1 (antigamente conhecido como “diabetes juvenil” ou “diabetes insulinodependente”);
+{+2 - +}DM tipo 2 (antigamente conhecido como “diabetes do adulto” ou “diabetes não insulinodependente”). 
+O diabetes tipo 2, causa mais comum de diabetes (correspondendo a aproximadamente 90% dos casos), está associado, na maioria, a outros problemas clínicos, como hipertensão arterial, dislipidemia, excesso de peso e disfunção endotelial (síndro-me metabólica), acarretando um importante aumento do risco de eventos cardiovasculares.
+
+{+Vídeo +}
+{+Glicorregulação hepática+}
+{+ +}
+
+
+2. Epidemiologia
+
+Nas últimas décadas, tem ocorrido um notável aumento do número de casos {+de DM +}em todo o mundo. Em 1985, havia 30 milhões de adultos diabéticos no mundo; esse número aumentou para 120 milhões em 1997, 173 milhões em 2002, 246 milhões em 2007, 366 milhões em 2011 e 38[-2-]{+7+} milhões em 201[-3-]{+4+} – a previsão é de 592 milhões por volta do ano 2035. Dois terços desses indivíduos viverão em países em desenvolvimento.
+Cerca de 12 milhões de brasileiros são diabéticos. A prevalência de diabetes entre adultos brasileiros ainda não é bem es-tabelecida, mas deve ficar na ordem de 7,4 a 13,5%, dependendo do estudo usado como referência. Essa prevalência é ainda maior nas faixas etárias mais avançadas (17 a 21% dos indivíduos entre 60 e 69 anos). No entanto, também tem ocorrido au-mento da prevalência de DM2 entre crianças e adolescentes.
+Grande parte do aumento na prevalência de diabetes é devida à elevação do número de casos de diabéticos tipo 2, em paralelo à epidemia de obesidade, bem como ao envelhecimento populacional, ao sedentarismo e à urbanização. Entretanto, além do aumento do número de casos de diabetes tipo 2, as últimas décadas têm presenciado um aumento de 3% ao ano no número de casos de diabetes tipo 1 entre pessoas com menos de 15 anos (especialmente, crianças com menos de 5 anos). No Brasil, a incidência de DM1 é intermediária: em torno de 7 casos por 100.000 crianças/ano.
+Um problema preocupante com relação ao diabetes tipo 2 é que 30 a 60% dos portadores da doença não sabem do seu diagnóstico, já que muitas vezes o DM é oligossintomático{+,+} ou mesmo assintomático. Além disso, boa parte dos que sabem ter a doença não faz o tratamento correto, por falta de informação ou de condições sociais ou econômicas que garantam o acompanhamento médico. Com isso, aumentam vertiginosamente os riscos de complicações agudas e crônicas do DM (Tabela 1). Estima-se um atraso médio de cerca de 8 anos entre o surgimento da hiperglicemia e o diagnóstico, na população geral.
+
+Tabela 1 - Classificação das complicações do diabetes
+Categorias	Complicações
+@@ -24,29 +33,29 @@ Agudas	- Cetoacidose diab
+Crônicas macrovasculares	- Doença arterial coronariana;
+	- Acidente vascular cerebral isquêmico;
+	- Insuficiência arterial periférica.
+Crônicas microvasculares	- [-Nefr-]{+D+}o[-p-]{+enç+}a[-ti-]{+ ren+}a{+l do+} diab[-é-]{+e+}t[-ica-]{+es+};
+	- Retinopatia diabética;
+	- Neuropatia diabética.
+
+A Tabela 2 ilustra o evidente impacto do problema representado pelo DM e suas complicações sobre a saúde pública.
+
+Tabela 2 - Impacto do diabetes na saúde pública
+Internação hospitalar	É a 6ª maior causa de internação hospitalar como diagnóstico primário, presente em 30 a 50% de ou[---]tras causas primárias de internação, como cardiopatia isquêmica, insuficiência cardíaca, colecistopati[---]as, acidente vascular cerebral e hipertensão arterial.
+Síndrome coronariana aguda	Dos que se internam em unidades coronarianas, 30% são portadores de DM. 
+Amputações de membros inferiores	É a principal causa de amputações não traumáticas de membros inferiores. 
+Cegueira	Também é a principal causa de cegueira adquirida em adultos. 
+Doença renal em estágio terminal	Nos países desenvolvidos, é a principal causa de doença renal em estágio terminal, respon{+-+}dendo por cerca de 40 a 50% dos casos. 
+Mortalidade	É a 3ª maior causa de mortalidade no Brasil, segundo dados do Ministério da Saúde divul{+-+}gados em 2010.
+
+3. Classificação 
+
+A classificação do DM baseia-se, atualmente, na sua etiologia, não sendo mais recomendado o uso dos termos “DM insuli-nodependente (IDDM)” e “DM não insulinodependente (NIDDM)”. A Sociedade Brasileira de Diabetes, em concordância com a American Diabetes Association[- (ADA)-], classifica a doença, hoje, em 4 grandes grupos (Tabela 3).
+
+Tabela 3 - Tipos de [-DM-]{+diabetes mellitus+}, segundo a A{+merican +}D{+iabetes +}A{+ssociation+}
+- DM1;
+- DM2;
+- DM gestacional (DG); 
+- Outros tipos (específicos)[-.-] {+de DM.+}
+
+ 
+Figura 1 - Estrutura da ilhota pancreática, responsável pela secreção de insulina no indivíduo normal
+@@ -61,8 +70,18 @@ C
+Célula épsilon (<1)	Grelina
+* Dados derivados do estudo de ilhotas de ratos. A massa das ilhotas de Langerhans corresponde a cerca de 1 a 2% da massa do pân-creas, sendo os demais 98 a 99% da massa do órgão constituídos pela parte exócrina (ductos e ácinos pancreáticos).
+
+{+Pergunta+}
+{+2014 - AMP+}
+{+1. Quanto à classificação etiológica do diabetes mellitus, assinale a alternativa correta:+}
+{+a) o diabetes tipo 1 dá origem habitualmente a uma deficiência absoluta de insulina+}
+{+b) o diabetes tipo 2 está relacionado à destruição das células betapancreáticas+}
+{+c) os diabetes MODY 1 e MODY 2 estão relacionados a formas incomuns de diabetes de mediação imune+}
+{+d) a acromegalia está relacionada ao diabetes por defeitos genéticos na ação da insulina+}
+{+e) a síndrome de Down e a síndrome de Turner estão frequentemente associadas ao diabetes+}
+{+Resposta no final do capítulo+}
+
+A - Diabetes mellitus tipo 1 
+O DM1 é causado pela destruição das células beta[- -]pancreáticas (responsáveis pela secreção de insulina), com consequen-te redução da capacidade secretora de insulina e deficiência severa (em geral, absoluta) desse hormônio. Responde por 5 a 10% dos casos de DM. 
+
+a) Quadro clínico 
+Os pacientes são geralmente magros (embora a presença de obesidade não descarte a possibilidade de DM1) e apresen-tam tendência a cetoacidose. A hiperglicemia costuma ter início abrupto e atingir níveis elevados (>300mg/dL). A forma rapi-damente progressiva, com instalação dos sintomas em poucos dias, quadro clínico exuberante e rápida evolução para cetoa-cidose, é comumente observada em crianças e adolescentes (embora também possa ocorrer em adultos). Em adultos, é mais frequentemente observada uma forma de progressão mais lenta, em que a instalação da hiperglicemia e o desenvolvimento dos sintomas são mais insidiosos (algumas semanas). Também é descrita, em adultos, a forma de DM1 de instalação gradual, em que o paciente pode cursar com hiperglicemia moderada, oligossintomática, inclusive com boa resposta a hipoglicemian-tes orais por vários meses/anos, devido à perda mais lenta da massa de células beta. Essa forma lentamente progressiva, com quadro clínico inicial bastante semelhante ao do diabetes tipo 2, é conhecida como diabetes autoimune latente do adulto, que responde por, aproximadamente, 15% dos casos novos de DM em adultos, cuja presença é sugerida pelo aparecimento de altos títulos de autoanticorpos contra antígenos das células beta. Entretanto, com o tempo, todos, eventualmente, preci-sam de insulina exógena para manter a normoglicemia e prevenir a cetoacidose.
+@@ -73,9 +92,9 @@ O diagn
+c) Etiologia 
+O DM1, em cerca de 90% dos casos, é de etiologia autoimune, com surgimento de resposta imune celular anormal contra antígenos das células beta, infiltração de linfócitos T no pâncreas e destruição citotóxica das células beta nas ilhotas de Lange-rhans (parte endócrina do pâncreas, que corresponde a 1% da massa do órgão). A autoimunidade, nesses casos, pode ser confirmada em laboratório pela presença de autoanticorpos dirigidos contra antígenos das células beta, como a antidescar-boxilase do ácido glutâmico (anti-GAD), o anti-ilhota (ICA), a antitirosina fosfatase (anti-IA2) e a anti-insulina.
+A presença de 1 ou mais desses autoanticorpos, em níveis aumentados num indivíduo diabético, define o diabetes tipo 1 autoimune, ou diabetes tipo 1A (imunomediado). O DM1A tem forte ligação com o sistema HLA (principalmente com o gene DQB) e praticamente só ocorre em portadores de HLA-DR3 e/ou DR4. Alguns alelos de HLA de alto risco para DM1A foram identificados, como o DQA1*0301 e o DQB1*0302. Da mesma forma, identificou-se o DQB1*0602 como um alelo protetor contra o desenvolvimento de DM1A. 
+Em alguns pacientes, entretanto (especialmente asiáticos e afrodescendentes), o DM1 pode ocorrer na ausência de auto-anticorpos e sem evidência de doença autoimune. Nessa forma, a história natural é de uma doença progressiva, com hipergli-cemia acentuada{+, tendência a cetoacidose+} e necessidade {+precoce +}de insulina [-para pr-]e[-v-]{+xóg+}en[-ção de cetose-]{+a+}. Esses indivíduos são classificados como DM1B, ou DM1 idiopático, e respondem por cerca de 10% dos casos de DM1.
+
+Tabela 5 - Etiologias do [-DM-]{+diabetes mellitus tipo +}1
+DM1A (autoimune)	DM1B (idiopático)
+90% dos casos de DM1	10% dos casos de DM1
+Mais comum em caucasianos	Mais comum em japoneses e afrodescendentes
+@@ -83,6 +102,10 @@ Destrui
+Presença de autoanticorpos	Ausência de autoanticorpos
+Forte correlação com o HLA	Genética desconhecida
+
+{+Vídeo+}
+{+Patogênese do DM tipo 1+}
+{+ +}
+
+B - Diabetes mellitus tipo 2 
+O DM2 é responsável pela maioria dos casos de DM (90 a 95%) e tem fisiopatologia complexa e multifatorial, com contri-buição de fatores genéticos e ambientais (envelhecimento e obesidade visceral). 
+
+@@ -93,31 +116,41 @@ b) Diagn
+O diagnóstico de DM2, na maioria dos casos, é feito a partir dos 40 anos (85 a 90% do total de casos), embora esteja ocor-rendo cada vez mais frequentemente em pessoas mais jovens (especialmente obesos). Em países onde a obesidade infantil é um problema extremamente comum, como os Estados Unidos, atualmente cerca de metade dos casos de diabetes que se iniciam na adolescência é do tipo 2.
+
+c) Fisiopatologia 
+A fisiopatologia envolve a resistência tecidual à ação da insulina (principalmente no fígado, no tecido musculoesquelético e no tecido adiposo) e graus variados de deficiência de secreção de insulina. Geralmente, o paciente apresenta resistência a esta por anos ou décadas antes de começar a manifestar glicemia alterada. Nessa fase, a única alteração laboratorial possível é a hiperinsulinemia compensatória. 
+
+D[-e fato, -]{+ic+}a
+{+A+} hiperglicemia {+no diabetes +}só surge quando, {+depois, e +}além{+,+} da resistência insulínica, [-o paciente pas-]s[-a a ap-]{+u+}r{+g+}e[-sent-]{+ +}a[-r-] deficiência (relativa ou ab{+-+}soluta) de secreção de insulina[-, tornando-o-] incapaz de compensar {+ess+}a resistência[- a esta-].[- -]
+
+Outros defeitos fisiopatológicos comuns no DM2 são a deficiência do hormônio intestinal GLP-1 e a secreção excessiva ou desregulada de glucagon, que colaboram para a hiperglicemia.
+O risco de DM2 é determinado por uma combinação de fatores genéticos e ambientais. Os genéticos foram comprovados por estudos que mostraram, por exemplo, que a concordância para DM em pares de gêmeos monozigóticos foi de 90 a 100% (quando um deles apresentava DM2), comparado a cerca de 40 a 50% (quando um dos gêmeos apresentava DM1). Além disso, familiares de 1º grau de pacientes com DM2 frequentemente apresentam resistência a insulina e hiperinsulinemia, mesmo com peso e glicemia normais. A genética do DM2 parece ser complexa. Os fatores ambientais associados ao DM2, por sua vez, já foram bem estudados e incluem envelhecimento, grande ingestão calórica, obesidade (principalmente quando o acúmulo de gordura acontece na região abdominal), sedentarismo e baixo peso ao nascer.
+A Tabela 6 apresenta as principais características que distinguem o DM1 do DM2.
+
+Tabela 6 - Características do [-DM-]{+diabetes mellitus tipo +}1 e [-d-]{+tip+}o [-DM-]2
+DM1	DM2
+- Predomínio em <20 anos;	- Predomínio em >40 anos;
+- Deficiência absoluta de insulina (na maioria dos casos, por des-truição autoimune);	- Resistência à ação da insulina associada aos graus variados de deficiência de secreção;  
+- Indivíduos magros;	- Indivíduos geralmente obesos, sedentários, hipertensos;
+- Início subagudo, com sintomas de hiperglicemia acentuada (poliú[---]ria, polidipsia, polifagia, perda de peso);	- Início insidioso, muitas vezes assintomático;
+- Tendência a cetoacidose;	- Descompensação típica: estado hiperosmolar;
+- Herança associada ao HLA.	- Herança poligênica.
+
+{+Vídeo+}
+{+Patogênese do DM tipo 2+}
+{+ +}
+
+
+C - Diabetes mellitus gestacional 
+O DG compreende qualquer anormalidade de tolerância a glicose, de magnitude variável, que seja detectada pela 1ª vez durante a gravidez, podendo ou não persistir após o parto. Inclui, portanto, desde os casos de DG verdadeiro (ou seja, anor-malidade do metabolismo dos carboidratos associada à resistência insulínica própria da gestação, acarretada pelos grandes níveis de hormônios contrainsulínicos – lactogênio placentário, progesterona etc. – e que costuma ter fim com o parto) até os casos de DM preexistentes, não previamente diagnosticados (geralmente, oligossintomáticos ou assintomáticos de DM2) e encontrados incidentalmente nos exames de rotina realizados durante o pré-natal (pré-gestacional). 
+O diagnóstico inclui desde alterações limítrofes da glicemia (as quais, fora da gestação, seriam rotuladas apenas como pré-diabetes: glicemia de jejum alterada e tolerância diminuída a glicose) até hiperglicemias severas compatíveis com o diabetes propriamente dito. 
+O DG é visto em cerca de 1 a 14% das gestações, sendo mais comum entre gestantes de maior idade (>25 anos), com ex-cesso de peso, história familiar de DM, baixa estatura (<1,50m) e/ou pertencendo a minorias étnicas de alto risco para DM. É importante rastrear e tratar precocemente todos os casos, mesmo que cursem com hiperglicemia leve e sem sintomas, em razão do impacto que a glicemia alterada representa para a mãe e para o feto (especialmente macrossomia fetal e aumento da mortalidade perinatal). Mulheres com DG apresentam risco elevado de um novo DG em gestação subsequente e de DM2 em longo prazo, o que justifica o acompanhamento e o aconselhamento, com vistas à prevenção do diabetes.
+
+D - Outros tipos 
+Essa categoria engloba uma grande gama de patologias distintas que, juntas, correspondem a cerca de 1 a 2% dos casos de DM na população. Dentre as principais etiologias específicas de DM, podemos citar o diabetes monogênico (tipo MODY – Maturity[- -]{+-+}Onset Diabetes of the Young), o diabetes mitocondrial e o diabetes secundário a doenças pancreáticas (pancreatite crônica) ou ao uso de medicações tóxicas para o pâncreas (pentamidina, vácor) ou drogas que interferem na ação (glicocorti-coides, hormônio de crescimento, niacina, clozapina, olanzapina, inibidores de protease) ou na secreção da insulina (diazóxi-do, betabloqueadores, tiazídicos, fenitoína, octreotida). 
+O diabetes tipo MODY é monogênico, com padrão de herança autossômico dominante, que pode variar de quadros de hi-perglicemia muito leve e sem necessidade de tratamento (MODY 2) a quadros mais severos, de difícil tratamento (MODY 1, MODY 3). Os tipos mais comuns são o MODY 2 e o MODY 3. 
+O diabetes mitocondrial é transmitido da mãe para a prole e deve ser suspeitado quando há diabetes de início na 3ª ou na 4ª década de vida, associado a surdez neurossensorial bilateral desde a infância, com padrão de herança materna. 
+A Tabela 7 apresenta as principais causas específicas de DM.
+
+Tabela 7 - Etiologias específicas d{+o diabet+}e{+s+} [-DM-]{+mellitus+}
+Defeitos genéticos da célula beta
+- MODY 1 - fator hepatocítico nuclear 4-alfa (HNF4-alfa, cromossomo 20);
+- MODY 2 - glicoquinase (cromossomo 7);
+@@ -125,7 +158,7 @@ Defeitos gen
+- MODY 4 - fator promotor da insulina 1 (IPF1, cromossomo 13);
+- MODY 5 - fator hepatocítico nuclear 3-beta (HNF3-beta, cromossomo 17);
+- MODY 6 - neuro D1/BETA2 (cromossomo 2);
+- Diabetes mitocondrial (mutação A3243G no DNA mitocondrial, síndrome de ME[---]LAS);
+- Mutações do KCNJ11 (subunidade Kir6.2 dos canais de potássio das células beta);
+- Defeitos na conversão de pró-insulina em insulina;
+- Mutações no gene da insulina. 
+@@ -148,8 +181,7 @@ Outras s
+Formas incomuns de DM imunomediado
+- Anticorpos anti-insulina;
+- Anticorpos antirreceptores de insulina (resistência à insulina tipo B);
+[-Forma mais comum de DM-]{+-+} [-imunomediado-]Síndrome “do homem rígido” (stiff-person syndrome; anticorpos anti-GAD)[-   -]{+.+}
+DM associado a outras doenças endócrinas
+- Síndrome de Cushing;
+- Feocromocitoma;
+@@ -187,10 +219,18 @@ Infec
+4. Resumo 
+
+Quadro-resumo
+- O DM é uma síndrome caracterizada por alterações do metabolismo dos carboidratos, lipídios e proteínas, que se associa a risco ele{+-+}vado de complicações crônicas macrovasculares (coronariopatia, acidente vascular cerebral, insuficiência arterial peri[---]férica) e micro{+-+}vasculares (nefropatia, retinopatia, neuropatia), acarretando grande morbimortalidade; 
+- O DM é a maior causa de cegueira adquirida em adultos, de amputação não traumática de membros inferiores, uma das mai[---]ores causas de doença renal em estágio terminal (juntamente com a hipertensão arterial), a 6ª maior causa de internação e a 3ª maior causa de mortalidade no Brasil;
+- Nas últimas décadas, tem ocorrido um notável aumento na prevalência de DM2 (associado a obesidade, sedentarismo, dieta inade{+-+}quada e envelhecimento populacional), mas também se observa aumento do número de casos de DM1 (especialmente em crianças <5 anos);
+- O DM pode ser classificado em 4 grandes grupos: DM1, DM2, DG e outros tipos (DM secundário);
+- O DM1 caracteriza-se por deficiência severa de insulina, com necessidade de reposição de insulina exógena. Noventa por cento dos casos devem-se à autoimunidade contra células beta[- -]pancreáticas (DM1A), enquanto 10% ocorrem na ausência de evidên[---]cias de au{+-+}toimunidade (DM1B, ou idiopático); 
+- O DM2 é causado pela combinação de fatores genéticos (risco familiar) e ambientais (obesidade central). Sua fisiopatologia envolve {+geralmente uma combinação de +}resistência [-a-]{+à+} insulina [-+ graus variad-]{+c+}o[-s de-]{+m+} deficiência de{+ +}s[-t-]{+ecreção de insulin+}a{+ em graus variados+};
+- Outros tipos somam 1 a 2% dos casos de DM. As principais causas de DM secundário são DM monogênico (MODY, DM mito[---]condrial), doenças pancreáticas (pancreatite crônica), uso de medicamentos (corticoides, niacina, olanzapina, inibidores de protease) e endocri{+-+}nopatias (Cushing, acromegalia, hipertireoidismo).
+
+{+Resposta+}
+{+1. A+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: pagina XX+}
