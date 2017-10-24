@@ -1,27 +1,44 @@
 Interpretação do hemograma
-Fernanda Maria Santos / Marcos Laercio Pontes Reis / Fábio Freire José
+Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+Este capítulo irá abordar os valores e achados de um hemograma normal, bem como de suas principais alterações, como anemias (carenciais ou por deficiência de produção), leucopenias, dando enfoque às causas de neutropenia como defici-ência de produção (supressão ou aplasia de medula) ou carenciais por deficiência de folato e vitamina B12. Serão aborda-das, também, as leucocitoses que ocorrem especialmente nos quadros infecciosos, abordando conjuntamente as principais alterações no leucograma, com desvios à esquerda em decorrência do aumento de células imaturas (bastonetes) no san-gue. 
+
 1. Análise do hemograma
-O hemograma corresponde a um conjunto de testes laboratoriais que estabelece os aspectos quantitativos e qualitativos dos elementos celulares do sangue: eritrócitos (eritrograma), leucócitos (leucograma) e plaquetas (plaquetograma). Deve ser colhido em tubo contendo anticoagulante EDTA (tampa roxa) e pode ser feito manualmente (contagem de glóbulos no microscópio, centrifugação para o hematócrito – Ht –, colorímetro para a hemoglobina – Hb – e análise do sangue periférico) ou de forma automatizada (contadores eletrônicos). A contagem de eritrócitos, leucócitos e plaquetas, de forma automatizada, é feita basicamente por meio de leitor óptico que interpreta o volume (tamanho) e a complexidade (granulação) de cada célula. Mesmo os contadores mais modernos não dispensam a microscopia, pois, quando apresentam dúvidas (alertadas pelo aparelho como bandeiras ou flags) na identificação das células, elas precisam ser esclarecidas.
+
+O hemograma corresponde a um conjunto de testes laboratoriais que estabelece os aspectos quantitativos e qualitativos dos elementos celulares do sangue: eritrócitos (eritrograma), leucócitos (leucograma) e plaquetas (plaquetograma). Deve ser colhido em tubo contendo anticoagulante EDTA (tampa roxa) e pode ser feito manualmente (contagem de glóbulos no microscópio, centrifugação para o hematócrito – Ht –, colorímetro para a hemoglobina – Hb – e análise do sangue periférico) ou de forma automatizada (contadores eletrônicos). A contagem de eritrócitos, leucócitos e plaquetas de forma automatizada é feita basicamente por meio de leitor óptico que interpreta o volume (tamanho) e a complexidade (granulação) de cada célula. Mesmo os contadores mais modernos não dispensam a microscopia, pois, quando apresentam dúvidas (alertadas pelo aparelho como bandeiras ou flags) na identificação das células, elas precisam ser esclarecidas.
+
 2. Eritrograma
+
 A - Contagem de eritrócitos 
 Determinação do número de eritrócitos por mm3 de sangue.
+
 Normal: 
-Homem: 4.400.000 a 6.000.000/mm3;
-Mulher: 3.900.000 a 5.400.000/mm3.
+- Homem: 4.400.000 a 6.000.000/mm3;
+- Mulher: 3.900.000 a 5.400.000/mm3.
+
 Pode-se ter anemia com contagem normal ou aumentada de eritrócitos, esta última situação especialmente nas talassemias.
+
 B - Dosagem de hemoglobina
 Determinação da quantidade total de Hb por meio da lise das hemácias e da determinação do valor por espectrofotometria. 
+
 Normal: 
-Homem: 14 a 18g/dL;
-Mulher: 12 a 16g/dL.
-Em crianças com idade entre 6 e 14 anos, têm-se em média 12g/dL e, em gestantes e crianças entre 6 meses e 6 anos, média de 11g/dL. 
+- Homem: 14 a 18g/dL;
+- Mulher: 12 a 16g/dL.
+
+Em crianças com idade entre 6 e 14 anos, têm-se, em média, 12g/dL e, em gestantes e crianças entre 6 meses e 6 anos, média de 11g/dL. 
 É importante destacar que esses valores são uma média mundial, podendo haver variedades geográficas e populacionais.
-Quando abaixo do valor normal para idade, sexo e altitude, diz-se estar diante de quadro de anemia; quando acima, trata-se de poliglobulia, que pode ser primária (no caso das doenças mieloproliferativas crônicas, em especial a policitemia vera) ou secundária (aumento da eritropoetina em situações de hipoxemia crônica ou tumores produtores de eritropoetina).
+Quando a Hb está abaixo do valor normal para idade, sexo e altitude, estamos diante de quadro de anemia; quando acima, trata-se de poliglobulia, que pode ser primária (no caso das doenças mieloproliferativas crônicas, em especial a policitemia vera) ou secundária (aumento da eritropoetina em situações de hipoxemia crônica ou tumores produtores de eritropoetina).
+
+
+
 C - Hematócrito
 É a proporção que o volume da massa eritrocitária ocupa na amostra de sangue, estabelecida pela relação percentual entre a massa eritrocitária e o plasma (Figura 1). Pode ser determinado diretamente, por centrifugação, ou indiretamente, pelo cálculo: 
-Ht = E/VCM*
-* E = Eritrócitos; VCM = Volume Corpuscular Médio.
-Com a apropriada correção de unidades.
+
+Ht = E x VCM/10*
+* E = Número de eritrócitos (x 106 / µL); VCM = Volume Corpuscular Médio (ft).
+
  
 Figura 1 - Hematócrito 
 
@@ -32,79 +49,112 @@ Normal:
 Valores abaixo do normal podem significar anemia ou hemodiluição, enquanto aqueles acima do normal podem corresponder a poliglobulia ou a desidratação. Indivíduos desidratados com Ht normal podem estar anêmicos.
 
 D - Volume corpuscular médio
-Refere-se à média do volume de uma população de eritrócitos. Pode ser obtido diretamente por impedância elétrica ou dispersão óptica, ou indiretamente, pelo cálculo:
-VCM = Ht/E
-Tabela 1 - VCM
+Refere-se à média do volume de uma população de eritrócitos. Pode ser obtido diretamente, por impedância elétrica ou dispersão óptica, ou indiretamente, pelo cálculo:
+
+VCM = 10 x Ht (%) / E 
+
+Tabela 1 - Volume corpuscular médio
 Normal	80 a 96fL (normocítica)
-Valores abaixo do normal (<80fL)	Microcitose, significando alteração na síntese de Hb (alteração da maturação citoplasmática), consequente à diminuição da disponibilidade de ferro (anemia ferropriva), da síntese de cadeia globulínica (talassemias) ou da síntese do heme
-Valores acima do normal (>96fL)	Macrocitose, decorrente de alteração do metabolismo de ácidos nucleicos (anemia megaloblástica), alteração na maturação dos eritrócitos (anemias megaloblásticas), reticulocitose (anemias hemolíticas, hemorragias agudas), entre outros
+Valores abaixo do normal (<80fL)	Microcitose, significando alteração na síntese de Hb (alteração da maturação citoplasmática), conse-quente à diminuição da disponibilidade de ferro (anemia ferropriva), da síntese de cadeia globulínica (talassemias) ou da síntese do heme
+Valores acima do normal (>96fL)	Macrocitose, decorrente de alteração do metabolismo de ácidos nucleicos (anemia megaloblástica), alteração na maturação dos eritrócitos (anemias megaloblásticas), reticulocitose (anemias hemolíti-cas, hemorragias agudas), entre outros
+
 O VCM pode estar falsamente aumentado (sem macrocitose) pela presença de paraproteínas ou crioglobulinas, que provocam aglutinação de hemácias (hemácias “em rouleaux” ou hemácias empilhadas).
+
 E - Hemoglobina corpuscular média
 Hemoglobina Corpuscular Média (HCM) é a média do conteúdo (em peso) de Hb em uma população de eritrócitos. Pode ser obtida por método automático por meio da derivação do VCM e da Concentração de Hemoglobina Corpuscular Média (CHCM) pelo laser ou pelo cálculo:
 
-HCM = Hb/E
+HCM = Hb x 10 / E
 
 F - Concentração de hemoglobina corpuscular média
 A CHCM corresponde à média das concentrações internas de Hb de uma população de eritrócitos, sendo responsável pela cor deles. Atualmente é um índice menos utilizado do que o HCM, sendo obtido de forma direta, a laser, e de forma indireta, pelo cálculo:
-CHCM = HCM/VCM
-Como HCM = Hb/E e VCM = Ht/E, então:
-CHCM = Hb/Ht 
+
+CHCM = Hb x 10 / Ht 
 
 O conteúdo de Hb em um eritrócito depende do seu volume e da concentração de Hb dentro dele; portanto, pode haver aumento de HCM com CHCM normal (na macrocitose), sem caracterizar hipercromia, ou diminuição de HCM com CHCM normal (na microcitose), sem caracterizar hipocromia.
-Tabela 2 - CHCM
+
+Tabela 2 - Concentração de hemoglobina corpuscular média
 Normal	32 a 36g/dL (normocrômica)
-Hipercromia (CHCM >36g/dL)	Eritrócito concentrado por diminuição do “continente”: esferócito, trepanócito (falciforme), esquizócito (hemácias fragmentadas) e equinócito (insuficiência renal)
+Hipercromia (CHCM >36g/dL)	Eritrócito concentrado por diminuição do “continente”: presença de esferócitos, drepanócitos (anemia falciforme), esquizócitos (hemácias fragmentadas) e equinócitos (insuficiência renal, por exemplo)
 Hipocromia (CHCM <32g/dL)	Por diminuição do conteúdo, pela diminuição da síntese de Hb: ferropenia, talassemia e anemia de doença crônica
+
 G - Red cell distribution width 
 O Red cell Distribution Width (RDW) é um coeficiente que revela numericamente a variação de volume dos eritrócitos (grau de anisocitose). Logo, quanto maior a variação das células entre si, maior o RDW. É bastante importante na classificação e no diagnóstico das anemias, pois é o 1º índice a ser alterado nas anemias carenciais, auxiliando na suspeita da presença de fragmentos celulares e de aglutinação.
 
-Atenção
-Valores abaixo do normal não têm significado clínico. Valores acima do normal indicam alteração na maturação eritrocitária ou fragmentação eritrocitária. Via de regra, anemias carenciais por ferro, folato e B12 estão associadas a RDW elevado.
+Importante
+Valores de Red cell Distribution Width (RDW) abaixo do normal não têm significado clínico. Valores acima do normal indicam alteração na maturação eritrocitária ou fragmentação eritrocitária. Via de regra, anemias carenciais por ferro, folato e B12 estão associadas a RDW elevado.
+
 Além dos valores hematimétricos mencionados, alguns contadores automáticos fornecem histogramas ou citogramas que possibilitam a avaliação do VCM e da CHCM de forma gráfica, possibilitando a identificação de pequenas subpopulações, ou seja, populações eritroides com tamanhos e cores diferentes.
-  
-Figura 2 - Histograma de volume eritrocitário: dupla população eritroide durante tratamento de anemia ferropriva, uma mi-crocítica (deficiência de ferro), outra normocítica (população normal) 
+
+ 
+Figura 2 - Histograma de volume eritrocitário: dupla população eritroide durante tratamento de anemia ferropriva, uma microcítica (deficiência de ferro), outra normocítica (população normal) 
+
 VCM e CHCM são medidas que representam uma população de glóbulos e, portanto, não dão ideia de divergência de cor ou de tamanho dos eritrócitos, sendo necessária a complementação com a análise do sangue periférico.
 Os índices hematimétricos mencionados, associados à contagem de reticulócitos e à análise do sangue periférico, concluem o raciocínio clínico para o diagnóstico etiológico das anemias. 
-Tabela 3 - Classificação morfológica das anemias, considerando VCM e RDW
-	RDW normal	RDW >14,5
-VCM <80fL	- Talassemia;
-- Anemia de doença crônica.	- Anemia ferropriva;
-- S-betatalassemia;
-- Microangiopatia.
-VCM normal	- Anemia de doença crônica;
-- Insuficiência renal crônica;
-- Hipotireoidismo;
-- Hemodiluição da gravidez;
-- Hemorragia aguda.	- Deficiências mistas (B12, folato + ferro);
-- Anemia sideroblástica;
-- Síndrome mielodisplásica;
-- Anemia falciforme;
-- Esferocitose hereditária.
-VCM >96fL	- Anemia aplástica;
-- Medicamentos;
-- Alcoolismo;
-- Hepatopatia;
-- Hipotireoidismo.	- Anemia megaloblástica;
-- Hemólise;
-- Síndrome mielodisplásica.
 
-Algumas alterações morfológicas da série eritrocítica podem estar descritas no hemograma após a análise do sangue periférico.
+Tabela 3 - Classificação morfológica das anemias, considerando volume corpuscular médio e red cell distribution width
+RDW normal	RDW >14,5
+VCM <80fL	-	Talassemia;
+-	Anemia de doença crônica.	-	Anemia ferropriva;
+-	S-betatalassemia;
+-	Microangiopatia.
+VCM normal	-	Anemia de doença crônica;
+-	Insuficiência renal crônica;
+-	Hipotireoidismo;
+-	Hemodiluição da gravidez;
+-	Hemorragia aguda.	-	Deficiências mistas (B12, folato + ferro);
+-	Anemia sideroblástica;
+-	Síndrome mielodisplásica;
+-	Anemia falciforme;
+-	Esferocitose hereditária.
+VCM >96fL	-	Anemia aplástica;
+-	Medicamentos;
+-	Alcoolismo;
+-	Hepatopatia;
+-	Hipotireoidismo.	-	Anemia megaloblástica;
+-	Hemólise;
+-	Síndrome mielodisplásica.
+
+Importante
+O RDW é importante na investigação e avaliação das anemias, uma vez que é o 1º parâmetro a se alterar nas anemias carenciais.
+
+Idealmente, as principais alterações morfológicas da série eritrocítica devem estar descritas no hemograma após a análise do sangue periférico.
+
+Pergunta
+2014 - HAC
+1. Analise as afirmativas a seguir: 
+I - A velocidade de hemossedimentação pode estar aumentada nas anemias que alteram as formas dos eritrócitos como a esferocitose e a falciforme. 
+II - As anemias ferropênicas são resultantes de deficiência da síntese hemoglobínica pela elevada incorporação da molécula de ferro na formação da estrutura do heme. 
+III - As proliferações linfoides agudas caracterizam-se pelo elevado número de blastos mieloides no sangue periférico e na medula óssea, e as proliferações linfoides crônicas apresentam linfócitos com menor grau de diferenciação. 
+Está(ão) correta(s):
+a) I, II 
+b) I, III
+c) II, III 
+d) I, II, III 
+e) nenhuma das anteriores
+Resposta no final do capítulo
+
 3. Leucograma
+
 O sistema imune é um complexo e dinâmico sistema que promove a defesa contra infecções por bactérias, vírus, fungos, protozoários e outros parasitas, além de células neoplásicas, rejeição de células, órgãos e tecidos. Os leucócitos são as principais células do sistema imune e atuam tanto de forma direta (neutrófilos, linfócito T citotóxico, células NK) quanto de forma indireta, pela produção de anticorpos (linfócitos B).
-A contagem global dos leucócitos pode ser feita de forma manual, por meio da câmara de Neubauer, ou automatizada; por sua vez, a contagem diferencial pode ser feita pela análise microscópica do sangue periférico ou também de forma automatizada. Para amostras normais, o método automático é mais preciso, porém, para amostras alteradas, apenas a microscopia pode identificar células imaturas e sinais de displasia, avaliar atipias linfocitárias e outras alterações morfológicas. Os valores de referência para o leucograma variam de acordo com a idade do paciente. 
+A contagem global dos leucócitos pode ser feita de forma manual (por meio da câmara de Neubauer) ou de forma automatizada. A contagem diferencial pode ser feita pela análise microscópica do sangue periférico ou, também, de forma automatizada. Para amostras normais, o método automático é mais preciso, porém, para amostras alteradas, apenas a microscopia pode identificar células imaturas e sinais de displasia e avaliar atipias linfocitárias e outras alterações morfológicas. Os valores de referência para o leucograma variam de acordo com a idade do paciente. 
 Para fins práticos, os leucócitos são classificados em 2 grandes grupos:
 Polimorfonucleares (granulócitos): neutrófilos, eosinófilos e basófilos;
 Mononucleares: monócitos e linfócitos.
+
 O aumento ou a diminuição de leucócitos deve levar em conta:
 1 - A capacidade de produção medular e/ou linfonodal.
-2 - Se há causa evidente para tal resposta (patógeno, trauma, neoplasia ou inflamação crônica) ou se é aumento primário (neoplasia hematológica).
-- Contagem diferencial
-O número global de leucócitos deve ser sempre avaliado em conjunto com os valores absolutos (e não com os relativos) de cada subtipo leucocitário e com as possíveis alterações morfológicas. Valores relativos (%) podem levar a erros de interpretação. Por exemplo, em um paciente com leucócitos totais = 2.000/mm3, linfócitos = 60% e neutrófilos = 40%, tem-se uma linfocitose; porém, analisando-se os valores absolutos (linfócitos = 1.200 e neutrófilos = 800), observa-se neutropenia. Muitas vezes, a contagem global de leucócitos está normal, mas o diferencial está alterado. Por exemplo, em um indivíduo com leucócitos = 8.700/mm3, mas com eosinófilos = 1.400/mm3, a contagem global está normal, mas existe eosinofilia.
-Atenção
-Nunca observe somente os valores relativos; analise, tam-bém, os valores absolutos.
-Da mesma forma que os eritrócitos, os leucócitos podem ser representados por citogramas, relacionando volume (tamanho) e complexidade (granulação).
-  
+2 - Se há causa evidente para tal resposta (patógeno, trauma, neoplasia ou inflamação crônica) ou se o aumento é primário (neoplasias hematológicas, por exemplo).
+Contagem diferencial
+O número global de leucócitos deve ser sempre avaliado em conjunto com os valores absolutos (e não com os relativos) de cada subtipo leucocitário e com as possíveis alterações morfológicas. Valores relativos (%) podem levar a erros de interpretação. Por exemplo, em um paciente com leucócitos totais = 2.000/mm3, linfócitos = 60% e neutrófilos = 40%, tem-se uma linfocitose; porém, analisando-se os valores absolutos (linfócitos = 1.200 e neutrófilos = 800), observa-se a presença de neutropenia. Muitas vezes, a contagem global de leucócitos está normal, mas o diferencial está alterado. Por exemplo, em um indivíduo com leucócitos = 8.700/mm3, mas com eosinófilos = 1.400/mm3, a contagem global está normal, mas existe eosinofilia.
+
+Importante
+Nunca observar somente os valores relativos de leucócitos; analisar, também, os absolutos, pois valores relativos podem levar a erros de interpretação. 
+
+Da mesma forma que os eritrócitos, os leucócitos podem ser representados por citogramas, relacionando volume (tama-nho) e complexidade (granulação).
+
+ 
 Figura 3 - Citograma de leucócitos: (A) monócitos; (B) linfócitos; (C) neutrófilos e (D) eosinófilos
+
 Tabela 4 - Valores normais para o adulto
 Leucócitos	4.400 a 11.000/mm3
 Neutrófilos	1.600 a 6.600/mm3
@@ -112,135 +162,219 @@ Linfócitos	1.200 a 3.500/mm3
 Monócitos	0 a 400/mm3
 Eosinófilos	0 a 400/mm3
 Basófilos	0 a 100/mm3
+
 A - Leucocitose
 Leucocitose é o aumento na contagem de leucócitos, usualmente maior que 11.000/mm3, geralmente à custa do aumento isolado de linhagem única: neutrófilo, eosinófilo, basófilo, linfócito ou monócito.
-  
+
+ 
 Figura 4 - Granulocitopoese
+
 a) Neutrofilia 
 O pool de neutrófilos total é dividido em pool marginal, que fica aderido ao endotélio, e pool circulante. A contagem de neutrófilos obtida no hemograma reflete apenas o pool circulante.
 A neutrofilia é o aumento acima de 7.000/mm3 da contagem de neutrófilos (somatório de segmentados + bastonetes). Pode ser primária (nas doenças mieloproliferativas crônicas) ou secundária. 
 Dentre as causas secundárias, têm-se o tabagismo (pode cursar com neutrofilia discreta), quadros infecciosos agudos (principalmente bacterianos), inflamação crônica (artrite, vasculite, doença inflamatória intestinal), liberação de citocinas (grande queimado, trauma), estresse (exercício, estresse psíquico), medicamentos (adrenalina, corticoide), asplenia, reacional a neoplasias não hematológicas, infarto agudo do miocárdio.
 São definições importantes:
-Desvio à esquerda: aumento da quantidade de bastonetes >700/µL. Quanto mais intenso o desvio, maior o aumento das formas imaturas, que aparecem de forma escalonada (bastão >metamielócito >mielócito >promielócito). Ocorre em resposta ao processo infeccioso bacteriano agudo, grandes queimados, politrauma etc.; 
+Desvio à esquerda: aumento da quantidade de bastonetes >700/µL. Quanto mais intenso o desvio, maior o aumento das formas imaturas, que aparecem de forma escalonada (bastão >metamielócito >mielócito >promielócito). Ocorre, por exemplo, em resposta a um processo infeccioso bacteriano agudo, nos grandes queimados, politraumatizados etc.; 
+
  
 Figura 5 - Aparecimento de formas imaturas – desvio à esquerda
 
-Reação leucemoide: quando há leucocitose intensa (>50.000/mm3), com desvio à esquerda escalonado. É um processo benigno, reacional. Os aspectos úteis para fazer a distinção entre leucemia e reação leucemoide incluem a presença de granulações tóxicas e vacuolização citoplasmática e a preponderância de células mais maduras (na reação leucemoide, por sua vez, neutrófilos hipogranulares e número desproporcional de mieloblastos podem ocorrer em muitas leucemias);
+Importante
+Nos desvios à esquerda, há um aumento das formas imaturas celulares, como bastonetes, ocorrendo principalmente em resposta a um processo infeccioso bacteriano agudo. Sua avaliação é importante na suspeita de infecção. 
+
+Reação leucemoide: quando há leucocitose intensa (>50.000/mm3), com desvio à esquerda escalonado. É um processo benigno, reacional. Os aspectos úteis para fazer a distinção entre leucemia e reação leucemoide incluem a presença de granulações tóxicas e vacuolização citoplasmática e a preponderância de células mais maduras (entretanto, neutrófilos hipogranulares e número desproporcional de mieloblastos podem ocorrer em alguns casos). Nas leucemias, há predomínio de células imaturas, como promielócitos e mieloblastos;
 Desvio à direita: também conhecido como neutrófilo hipersegmentado (Figura 6), caracterizado pela presença de mais de 3% de neutrófilos com 5 ou mais lóbulos, ou mais de 1% com 6 ou mais lóbulos. Principais causas: anemia megaloblástica, infecções crônicas, insuficiência renal crônica, uso de altas doses de corticoide, mielodisplasia e medicamentos (hidroxiureia);
+
  
 Figura 6 - Neutrófilo hipersegmentado: 5 segmentos
+
+Importante
+A hipersegmentação neutrofílica, chamada de desvio à direita, ocorre geralmente na anemia megaloblástica, nas infecções crônicas e nos pacientes com insuficiência renal crônica. Nesse caso, há a presença de 3% de neutrófilos com 5 ou mais lóbulos, ou mais de 1% com 6 ou mais lóbulos.
+
 Reação leucoeritroblástica: leucocitose com desvio à esquerda e eritrócitos imaturos no sangue periférico (eritroblastos). Ocorre nas situações em que há infiltração medular por outro tecido: fibrose (mielofibrose), câncer metastático ou solicitação extrema da medula (sangramento agudo grave ou hemólise intensa);
 Granulações tóxicas: correspondem a grânulos grosseiros presentes nos neutrófilos em processos infecciosos agudos ou estados inflamatórios graves.
+
 b) Linfocitose
 Trata-se do aumento da contagem de linfócitos acima dos valores de referência para a idade (>4.000/mm3 em indivíduos com mais de 12 anos). 
-A 1ª causa a ser investigada é infecção viral. Se houver atipia evidente, devem-se investigar mononucleose, citomegalovirose, caxumba, adenovírus e herpes-vírus tipo 6 humano. Se a atipia for menos pronunciada, pensar em rubéola, hepatites, dengue, HIV (durante o período de soroconversão), sarampo, catapora ou hantavírus. As linfocitoses reacionais a vírus podem chegar a 100.000 linfócitos/mm3, principalmente em crianças, e são transitórias, com duração de aproximadamente 3 semanas. Algumas infecções bacterianas (pertussis, sífilis, tuberculose) e por protozoários (toxoplasmose) também podem apresentar linfocitose.
-Outras causas de linfocitose reacionais são medicamentos (reação de hipersensibilidade), situações de estresse (infarto do miocárdio, traumatismos, epilepsia), tabagismo e pós-esplenectomia.
-Atenção
-Se morfologia alterada, suspeite de leucemia linfoide aguda ou outra linfoproliferação neoplásica.
-Em casos persistentes, sem etiologia definida, principalmente em idosos, deve ser avaliada a morfologia. Muitas vezes, é difícil distinguir uma população linfoide policlonal e benigna de elementos monoclonais malignos, como nas leucemias e linfomas, devendo-se utilizar da imunofenotipagem para excluir linfoproliferação crônica clonal. 
+A 1ª causa a ser investigada é infecção viral. Se houver atipia evidente, deve-se investigar mononucleose, citomegalovirose, caxumba, adenovírus e herpes-vírus tipo 6 humano. Se a atipia for menos pronunciada, pensar em rubéola, hepatites, dengue, HIV (durante o período de soroconversão), sarampo, catapora ou hantavírus. As linfocitoses reacionais a vírus podem chegar a 100.000 linfócitos/mm3, principalmente em crianças, e são transitórias, com duração de aproximadamente 3 semanas. Algumas infecções bacterianas (pertussis, sífilis, tuberculose) e por protozoários (toxoplasmose) também podem apresentar linfocitose.
+Outras causas de linfocitoses reacionais são medicamentos (reação de hipersensibilidade), situações de estresse (infarto do miocárdio, traumatismos, epilepsia), tabagismo e pós-esplenectomia.
+
+Dica
+Na linfocitose, em caso de morfologia alterada, deve-se suspeitar de leucemia linfoide aguda ou outra linfoproliferação neo-plásica. Nesses casos, deve-se utilizar da imunofenotipagem para excluir linfoproliferação crônica clonal.
+
+Em casos persistentes, sem etiologia definida, principalmente em idosos, deve ser avaliada a morfologia dos linfócitos. Muitas vezes, é difícil distinguir uma população linfoide policlonal e benigna de elementos monoclonais malignos, como nas leucemias e linfomas, devendo-se utilizar da	 imunofenotipagem para excluir linfoproliferação crônica clonal. 
 Uma linfocitose persistente, mas policlonal, de caráter benigno, tem sido descrita em mulheres jovens e fumantes e pode ser acompanhada de esplenomegalia leve. Na morfologia, encontram-se linfócitos binucleados.
-Observação
-Falsa linfocitose: eritroblastos são contados como linfócitos em muitos aparelhos, em razão do tamanho, do núcleo e da ausência de grânulos. Em anemias hemolíticas severas ou situações de estresse medular, em que há eritroblastos circulantes em grande quantidade, pode-se encontrar “linfocitose”.
+
+Importante
+Na falsa linfocitose, os eritroblastos são contados como linfócitos em muitos aparelhos, em razão do tamanho, do núcleo e da ausência de grânulos. Em anemias hemolíticas severas ou situações de estresse medular, em que há eritroblastos circulantes em grande quantidade, pode-se encontrar “linfocitose”. 
+
 c) Plasmocitose
 A presença de plasmócitos no sangue periférico é patológica e pode ser reacional (infecção, medicamento, imunização ou doenças imunes) ou neoplásica (mieloma múltiplo, macroglobulinemia de Waldenström ou leucemia de células plasmocitárias).
+
 d) Monocitose
 O monócito é uma célula também fagocitária, mais eficaz na destruição de fungos, vírus e parasitas. Crianças de até 2 anos respondem às doenças infecciosas com monocitose precoce, além de neutrofilia.
 A monocitose é definida como contagem >800/µL e tem, como principais causas:
+
 Tabela 5 - Principais causas da monocitose
-Reacional	Gestantes, recém-nascidos, asplenia, doenças granulomatosas (tuberculose, sarcoidose), doenças infecciosas (sífilis, brucelose, malária, febre tifoide, infecções fúngicas), doenças inflamatórias crôni-cas (artrite reumatoide, lúpus eritematoso sistêmico, colite ulcerativa, Crohn), raros carcinomas
-Clonal	Mieloproliferação crônica, LMA M4 (mielomonocítica) ou M5 (monocítica), histiocitose maligna
+Reacional	Gestantes, recém-nascidos, asplenia, doenças granulomatosas (tuberculose, sarcoidose), doenças infecciosas (sífilis, brucelose, malária, febre tifoide, infecções fúngicas), doenças inflamatórias crônicas (artrite reuma-toide, lúpus eritematoso sistêmico, colite ulcerativa, Crohn), raros carcinomas
+Clonal	Mieloproliferação crônica, Leucemia Mieloide Aguda (LMA) M4 (mielomonocítica) ou M5 (monocítica), histio-citose maligna
+
 e) Eosinofilia
 Definida como contagem acima de 500/mm3, independente da contagem global de leucócitos, podendo ser primária (doenças hematológicas – mieloproliferação crônica, síndrome hipereosinofílica) ou secundária, esta última mais comum.
-A eosinofilia secundária é encontrada em quadros alérgicos (rinite, asma, urticária), reação a drogas, infecção parasitária (escabiose e parasitas intestinais), doenças cutâneas (pênfigo), infecção fúngica (coccidioidomicose), deficiência de corticoide (Addison) e associada em alguns casos de linfomas (15% em Hodgkin e 5% em não Hodgkin).
+A eosinofilia secundária é encontrada em quadros alérgicos (rinite, asma, urticária), reação a drogas, infecção parasitária (escabiose e parasitas intestinais), doenças cutâneas (pênfigo), infecção fúngica (coccidioidomicose), deficiência de corticoide (Addison) e associada a alguns casos de linfomas (15% em Hodgkin e 5% em não Hodgkin).
 A eosinofilia secundária a parasitas se deve à estimulação da resposta linfocitária Th2, que libera IL-4 e IL-5 e é diretamente proporcional ao grau de invasão tecidual. 
+
 Tabela 6 - Parasitas responsáveis
-Nematódeos intesti-nais	Necator americanus, Ancylostoma duodenale e Strongyloides stercoralis – todos podem fazer ciclo pulmonar e causar síndrome de Loeffler, com eosinofilia intensa (a eosinofilia é proporcional à magni-tude da infestação)
+Nematódeos intestinais	Necator americanus, Ancylostoma duodenale e Strongyloides stercoralis – todos podem fazer ciclo pulmonar e causar síndrome de Loeffler, com eosinofilia intensa (a eosinofilia é proporcional à mag-nitude da infestação)
 Nematódeos teciduais	Toxocara canis (larva migrans) e Trichinella spiralis
+
 Os helmintos, como Taenia e Ascaris, que estão em contato apenas com o lúmen intestinal, não cursam com eosinofilia. O mesmo ocorre com parasitas unicelulares, como Giardia e Entamoeba (ameba).
+
 f) Basofilia
-Definida como mais de 200/mm3, é comumente encontrada em neoplasias mieloproliferativas e outras doenças hematológicas malignas, mas também pode ser detectada em reações inflamatórias ou alérgicas (inclusive colite e artrite reumatoide), endocrinopatia (mixedema, administração de estrogênio) e alguns quadros infecciosos (viral, tuberculose, helmintos). 
+Definida como contagem com mais de 200/mm3, é comumente encontrada em neoplasias mieloproliferativas e outras doenças hematológicas malignas, mas também pode ser detectada em reações inflamatórias ou alérgicas (inclusive colite e artrite reumatoide), endocrinopatia (mixedema, administração de estrogênio) e alguns quadros infecciosos (viral, tuberculose, helmintos). 
+
 B - Leucopenia
 Consiste na diminuição da contagem de leucócitos a valores abaixo da referência para idade e raça. Indivíduos da raça negra podem apresentar variação étnica da contagem de leucócitos, revelando leucopenia à custa de neutropenia, que não possui significado clínico.
-A leucopenia pode resultar de baixa produção medular (de causa primária ou secundária), de elevada utilização (consumo), de marginalização excessiva do pool circulante ou de hiperesplenismo. Da mesma forma que a leucocitose, geralmente ocorre por diminuição em uma única linhagem.
+
+Importante
+A leucopenia pode resultar de baixa produção medular (de causa primária ou secundária), de elevada utilização (consumo), de marginalização excessiva do pool circulante ou de hiperesplenismo. Da mesma forma que a leucocitose, geralmente ocorre por diminuição em uma única linhagem. 
+
 a) Neutropenia
-É definida como valores abaixo de 1.500 neutrófilos/mm3 de sangue. A prevalência de neutropenia é maior entre indivíduos da raça negra (4,5%) do que da branca (0,39%), conforme já dito, sem significado patológico. É também conhecido o termo “neutropenia benigna familiar” ou “leucopenia benigna familiar”, que apresenta maior prevalência em sul-africanos, judeus iemenitas, indianos ou árabes jordanianos, e reflete situação de neutropenia/leucopenia sem maior incidência de quadros infecciosos.
+É definida como valores abaixo de 1.500 neutrófilos/mm3 de sangue. A prevalência de neutropenia é maior entre indivíduos da raça negra (4,5%) do que da branca (0,39%), conforme já dito, sem significado patológico. É também conhecido o termo “neutropenia benigna familiar” ou “leucopenia benigna familiar”, que apresenta maior prevalência em sul-africanos, judeus iemenitas, indianos ou árabes jordanianos e reflete situação de neutropenia/leucopenia sem maior incidência de quadros infecciosos.
+
+Diagnóstico
+A neutropenia é definida como valores menores do que 1.500 neutrófilos/mm3 de sangue.
+
 O risco de infecção é inversamente proporcional à contagem de neutrófilos, sendo maior se os valores estão abaixo de 500 neutrófilos/mm3. Pode ser classificada, quanto à gravidade, em: 
 Leve: 1.000 a 1.500 neutrófilos/mm3;
 Moderada: 500 a 1.000 neutrófilos/mm3;
 Grave: <500 neutrófilos/mm3.
 Quanto à causa, classifica-se em adquirida e hereditária. Dentre as adquiridas, a neutropenia pode ocorrer por: 
-Diminuição da síntese
+Diminuição da síntese:
 Doenças medulares: aplasia, leucemias, infiltração por linfomas ou outras neoplasias;
 Supressão das células precursoras de granulócitos: quimioterápicos; agranulocitose por medicamentos (dipirona, cloranfenicol, sulfonamidas, clorpromazina, metiltiouracila e fenilbutazona); agentes tóxicos ambientais (benzeno);
 Deficiências nutricionais: cobre, B12 e folato. 
 A toxicidade medicamentosa pode ser dose-dependente (quimioterápicos) ou não (sulfonamidas, antitireoidianos, anticonvulsivantes, anti-histamínicos, alguns antimicrobianos).
-Por sua vez, a agranulocitose é definida por ausência virtual de granulócitos (<200/mm3) e contagem normal de eritrócitos e plaquetas. Em 70% dos casos, está relacionada ao uso de medicamentos (excluídos os mielossupressores) – os mais importantes são os antitireoidianos e a clozapina. Outros medicamentos relacionados à agranulocitose são sulfas, dipirona, inibidores da enzima conversora de angiotensina, dapsona, anti-inflamatórios não hormonais, bloqueador H2 e clomipramina. Os indivíduos mais suscetíveis a essa patologia são mulheres, aqueles com mais de 50 anos e pacientes com doença autoimune. O tratamento é a suspensão da droga responsável pelo quadro, e, após essa medida, a neutropenia se resolve em 1 a 3 semanas (em média, 12 dias). Nos pacientes com infecção secundária à neutropenia, além da antibioticoterapia de amplo espectro, pode ser associado fator de crescimento de granulócito (GCSF), o qual acelera a recuperação.
+Por sua vez, a agranulocitose é definida por ausência virtual de granulócitos (<200/mm3) e contagem normal de eritrócitos e plaquetas. Em 70% dos casos, está relacionada ao uso de medicamentos (excluídos os mielossupressores) – os mais importantes são os antitireoidianos e a clozapina. Outros medicamentos relacionados à agranulocitose são sulfas, dipirona, inibidores da enzima conversora de angiotensina, dapsona, anti-inflamatórios não hormonais, bloqueador H2 e clomipramina. Os indivíduos mais suscetíveis a essa patologia são mulheres, aqueles com mais de 50 anos e pacientes com doença autoimune. O tratamento é a suspensão da droga responsável pelo quadro, e, após essa medida, a neutropenia se resolve em 1 a 3 semanas (em média, 12 dias). Nos pacientes com infecção secundária à neutropenia, além da antibioticoterapia de amplo espectro, pode ser associado fator de crescimento de granulócito (G-CSF), o qual acelera a recuperação.
 Aumento da utilização ou da destruição:
 Quadros infecciosos por certos agentes bacterianos: febre tifoide e paratifoide, Mycobacterium tuberculosis, por rickéttsia, vírus (hepatite A, mononucleose, rubéola, caxumba, sarampo, dengue, hepatite C, HIV), protozoários (malária, calazar) e fungos (histoplasmose) podem cursar, em algum momento da infecção, com neutropenia, por aumento da utilização de neutrófilos. Indivíduos com baixa reserva medular ou desnutridos também podem apresentar neutropenia diante de quadros bacterianos agudos, que tipicamente cursariam com neutrofilia;
 Doenças imunes: neutropenia autoimune isolada ou associada a outros quadros sistêmicos, como lúpus eritematoso sistêmico, artrite reumatoide, síndrome de Felty, neutropenia aloimune neonatal; 
 Sequestro esplênico: hiperesplenismo.
+
+Importante
+A neutropenia pode ocorrer por diversas causas, como diminuição da síntese nas doenças medulares, na supressão das células precursoras de granulócitos e nas deficiências nutricionais (cobre, folato e vitamina B12). Pode ocorrer, ainda, por aumento na utilização ou na destruição, como nos quadros infecciosos por Mycobacterium tuberculosis, em doenças autoi-munes e no sequestro esplênico. 
+
 Existem muitas causas para a neutropenia. Por isso, o raciocínio deve basear-se na história clínica, no exame físico e em outros achados do hemograma. Na suspeita de doença medular, devem-se avaliar também o mielograma e/ou a biópsia de medula óssea.
-As neutropenias hereditárias são raras, destacando-se as síndromes de Kostmann, de Chediak-Higashi e de Shwachman-Diamond.
+As neutropenias hereditárias são raras, destacando-se as síndromes de Kostmann, Chédiak-Higashi e Shwachman-Diamond.
+
 b) Linfopenia
 É definida como contagem linfocitária <1.000/mm3 de sangue em adultos; em crianças, varia de acordo com a idade e o sexo.
+
 Tabela 7 - Causas
-Baixa produção	Desnutrição proteico-calórica (principal causa de linfopenia), imunodeficiência, deficiência de zinco. As imunodeficiências linfopênicas congênitas podem ser seletivas (apenas B ou T) ou com-binadas (B e T).
-Aumento na destruição	Quimioterapia e radioterapia, alteração de vasos linfáticos, síndrome de Wiskott-Aldrich, quadro inflamatório crônico (doenças autoimunes, particularmente no lúpus), infecções virais (HIV, sa-rampo, poliomielite, influenza, varicela-zóster). O HIV causa linfocitopenia seletiva do subtipo T CD4.
+Baixa produção	Desnutrição energético-proteica (principal causa de linfopenia), imunodeficiência, deficiência de zinco. As imunodeficiências linfopênicas congênitas podem ser seletivas (apenas B ou T) ou combinadas (B e T).
+Aumento na destruição	Quimioterapia e radioterapia, alteração de vasos linfáticos, síndrome de Wiskott-Aldrich, quadro inflamatório crônico (doenças autoimunes, particularmente no lúpus), infecções virais (HIV, sarampo, poliomielite, influenza, varicela-zóster). O HIV causa linfocitopenia seletiva do subtipo T CD4.
+
 Também pode decorrer de situações perdedoras de linfócitos, como nas enteropatias perdedoras de proteínas e na insuficiência cardíaca congestiva grave:
+
 Tabela 8 - Causas que podem também decorrer de situações perdedoras de linfócitos
 Redistribuição	Diante de eventos estressantes, como infecções, queimados e trauma, em resposta à elevação de corticoide, ocorre desvio do linfócito do sangue periférico para os tecidos (a mesma situação acontece diante dos quadros de doença granulomatosa disseminada – tuberculose, sarcoidose).
-Mecanismo incerto	Compreende doença de Hodgkin, insuficiência renal, câncer, síndrome de Felty, infecção bacteria-na aguda no idoso
+Mecanismo incerto	Compreende doença de Hodgkin, insuficiência renal, câncer, síndrome de Felty, infecção bacteriana aguda no idoso.
+
 c) Monocitopenia
 Contagem de monócitos abaixo de 100/mm3 de sangue. De escasso valor clínico, exceto na leucemia de células cabeludas (neoplasia de células B).
+
 d) Eosinopenia
 Contagem abaixo de 20/mm3, ocorre em quadros de infecções agudas com neutrofilias acentuadas. É bastante útil para o diagnóstico de casos de abdome agudo e ocorre também quando em uso de corticoide e epinefrina.
+
 e) Basopenia
 De pouca aplicabilidade clínica.
+
+Pergunta
+2006 - FMUSP-RP
+2. Uma mulher de 40 anos é internada por fraqueza intensa há 15 dias. Refere passado de febre reumática, tendo sido submetida a implante de prótese mitral biológica há 12 anos. Há 6 meses foi submetida a esplenectomia após acidente automobilístico. Está descorada, ictérica e com sopro sistólico mitral. Há um aumento dos níveis de bilirrubina indireta e DHL (desidrogenase láctica) e presença de hemoglobina livre na urina. O hemograma mostra hemoglobina de 8,2g/dL, VCM de 97fL, 11.500 leucócitos/mm3, 730.000 plaquetas/mm3, e, no esfregaço de sangue periférico, é provável o encontro de:
+a) eritrócitos em rouleaux e em lágrima
+b) sideroblastos em anel e eritrócitos em alvo
+c) neutrófilos hipersegmentados e eritroblastos ortocromáticos
+d) esquizócitos e corpos de Howell-Jolly
+e) acantócitos e granulações tóxicas
+Resposta no final do capítulo
+
 4. Plaquetograma
-Como os demais, a contagem plaquetária pode ser feita por meio de contagem direta (câmara de Neubauer), indireta (microscopia) ou automatizada. O valor normal é de 140.000 a 450.000/mm3, porém já há artigos mais atuais que consideram o valor mínimo normal de plaquetas de 100.000/mm3.
+
+Como os demais, a contagem plaquetária pode ser feita por meio de contagem direta (câmara de Neubauer), indireta (microscopia) ou automatizada. O valor normal é de 140.000 a 450.000/mm3, porém já há artigos mais atuais que consideram o valor mínimo normal de plaquetas como 100.000/mm3.
 Para valores abaixo do normal, deve-se excluir contagem plaquetária errônea que denote resultados menores do que a real contagem plaquetária:
 Plaquetopenia espúria: agregados de plaquetas em razão de coleta traumática ou lenta, demora na homogeneização do tubo, devendo-se proceder a coleta mais adequada. Pode-se ter comumente, ainda, como causa de plaquetopenia espúria, a aglutinação de plaquetas induzida pelo EDTA. Nesses casos, deve-se colher nova amostra em citrato de sódio (tubo de tampa azul);
 Presença de macroplaquetas: alguns contadores automáticos contam macroplaquetas como hemácias.
+
 Confirmada a plaquetopenia pelo contador automático, por meio de coleta adequada em EDTA e citrato e análise do sangue periférico, deve-se pensar em: 
 Diminuição da produção: deficiência de vitamina B12 ou ácido fólico, aplasia de medula, mielodisplasia, infiltração da medula por neoplasia, efeito de medicamentos e agentes tóxicos ou infecciosos (rubéola, varicela, parvovírus, hepatite C, vírus Epstein-Barr, HIV);
 Excesso de destruição ou consumo: microangiopatia, destruição imune, coagulação intravascular disseminada, púrpura trombocitopênica imune, púrpura trombocitopênica trombótica e infecção;
 Hiperesplenismo.
+
 As falsas plaquetoses são bem menos comuns e decorrem, principalmente, da presença de fragmentos eritrocitários, encontrados em microangiopatias (esquizócitos), e do aquecimento indevido da amostra ou da microcitose extrema.
 Confirmada a plaquetose, devem-se excluir quadros infecciosos, inflamatórios ou neoplásicos e, ainda, a ferropenia. Na ausência dessas causas, deve-se investigar mieloproliferação crônica. Não é possível distinguir plaquetose primária ou secundária por meio do valor das plaquetas. Entretanto, essa diferenciação por investigação faz-se de extrema necessidade, tendo em vista que as plaquetoses primárias acarretam maior risco de trombose, o que não ocorre nas plaquetoses de causas secundárias.
+
+Tabela 9 - Principais causas de trombocitopenia
+Falsa trombocitopenia	Pseudo-trombocitopenia
+Induzida por drogas	Heparina, sulfas, vancomicina, piperacilina-tazobactam, ampicilina, naproxeno, inibidores de glicoproteína IIb/IIIa
+Infecções	HIV, hepatite C, EBV, H. pylori
+Álcool	Hiperesplenismo
+Deficiência vitamínica	Vitamina B12, ácido fólico, cobre
+Gravidez 	Trombocitopenia gestacional, síndrome HELLP
+Microangiopatia	Coagulação intravascular disseminada, púrpura trombocitopênica trombótica/síndrome hemolítico-urêmica
+Outras	Anemia aplásica, hemoglobinúria paroxística noturna, trombocitopenias congênitas
+
 5. Hemograma nas leucemias agudas
+
 O hemograma nas leucemias agudas é bastante variado.
-A anemia é achado frequente e de intensidade variável, e o valor da Hb pode variar entre 3 e 16g/dL. É normocrômica e normocítica, com reticulócito normal ou diminuído. Eritroblastos podem ou não estar presentes no sangue periférico.
+A anemia é achado frequente e de intensidade variável, e o valor da Hb pode variar entre 3 e 16g/dL. É normocrômica e normocítica, com reticulócitos normais ou diminuídos. Eritroblastos podem ou não estar presentes no sangue periférico.
 Plaquetopenia está presente em mais de 90% dos casos, sendo o valor inferior a 50.000/mm3 encontrado em 50% dos casos.
 Os leucócitos são bastante variáveis: a contagem pode estar elevada em 50 a 60% dos casos, normal em 20 a 30% ou diminuída em 20 a 30%. Hiperleucocitose (>100.000/mm3) acontece apenas em 20% dos casos.
 Desta forma, o hemograma na leucemia aguda pode variar de pancitopenia a discreta plaquetopenia, sem alteração de leucócitos e hemácias, ou até anemia com plaquetopenia e hiperleucocitose.
 Na maior parte das vezes, encontram-se blastos no sangue periférico, que são células neoplásicas de aspecto imaturo (núcleo com cromatina frouxa e, algumas vezes, nucléolo evidente), podendo conter grânulos (blasto mieloide) ou não (sugestivo de blasto linfoide). A presença de bastonetes de Auer (grânulo bastante evidente em forma de bastão) é patognomônica de blasto mieloide. 
-Leucemias na fase inicial, ou aquelas que cursam com pancitopenia, podem não apresentar blasto em sangue periférico, apenas na análise da medula óssea (hemograma aleucêmico), o que ocorre em 10% dos casos. A distinção entre blasto mieloide e linfoide deve sempre contar com o auxílio de exame citoquímico e imunofenotipagem, pois a imunofenotipagem consegue definir exatamente qual linhagem (mieloide ou linfoide), bem como qual fase celular, está sendo prejudicada. Além disso, existem leucemias bifenotípicas (presença dos 2 clones, mieloide e linfoide, ou linfoide B e T), que só conseguem ser caracterizadas pela imunofenotipagem, apresentando pior prognóstico e necessitando de terapia mais agressiva.
-O hiato leucêmico é a presença de células maduras e imaturas, sem precursores intermediários, característica da leucemia mieloide crônica. 
+Leucemias na fase inicial, ou aquelas que cursam com pancitopenia, podem não apresentar blasto em sangue periférico, apenas na análise da medula óssea (hemograma aleucêmico), o que ocorre em 10% dos casos. A distinção entre blasto mieloide e linfoide deve sempre contar com o auxílio de exame citoquímico e imunofenotipagem, pois esta consegue definir exatamente qual linhagem (mieloide ou linfoide), bem como qual fase celular, está sendo prejudicada. Além disso, existem leucemias bifenotípicas (presença dos 2 clones, mieloide e linfoide, ou linfoide B e T), que só conseguem ser caracterizadas pela imunofenotipagem, apresentando pior prognóstico e necessitando de terapia mais agressiva.
+O hiato leucêmico é a presença de células maduras e imaturas, sem precursores intermediários, característica da Leucemia Mieloide Crônica (LMC). 
  
 Figura 7 - Mieloblasto com grãos e bastonete de Auer
+
 6. Hemograma nas asplenias
-Entre os pacientes com hipoesplenia ou asplenia (anemia falciforme, esplenectomia), as características do hemograma são (Tabela 9):
-Tabela 9 - Características do hemograma
-Série vermelha	Presença de corpúsculos de Howell-Jolly, corpos de Heinz, células “em alvo” e acantócitos, sendo o baço o principal local de remoção de hemácias envelhecidas e anômalas
-Série branca	No pós-operatório imediato da esplenectomia, leucocitose à custa de neutrofilia, período que dura apro-ximadamente 1 a 2 semanas, seguido de linfocitose e monocitose discretas e persistentes
+
+Entre os pacientes com hipoesplenia ou asplenia (anemia falciforme, esplenectomia), as características do hemograma são (Tabela 10):
+
+Tabela 10 - Características do hemograma
+Série 
+vermelha	Presença de corpúsculos de Howell-Jolly, corpos de Heinz, células “em alvo” e acantócitos, sendo o baço o principal local de remoção de hemácias envelhecidas e anômalas
+Série branca	No pós-operatório imediato da esplenectomia, leucocitose à custa de neutrofilia, período que dura aproxi-madamente, 1 a 2 semanas, seguido de linfocitose e monocitose discretas e persistentes
 Plaquetas	No pós-operatório imediato, plaquetose importante, muitas vezes alcançando valores superiores a 1.000.000/mm3, inclusive com risco de trombose (sendo recomendado o uso de antiagregante plaquetário profilático), de forma transitória, com duração que varia entre alguns meses e 2 anos
+
  
 Figura 8 - Alterações da série eritrocítica na asplenia: (A) corpúsculos de Howell-Jolly; (B) hemácias “em alvo”; (C) corpúsculos de Heinz e (D) acantócitos
+
 7. Resumo
+
 Quadro-resumo
 Abaixo do normal	Valor normal	Acima do normal
-Anemia: por falta de produção, perda ou destruição excessiva	Hb: 12 a 16g/dL (mulher); 14 a 18g/dL (homem)	Poliglobulia: secundária (síntese aumentada de eritropoetina por hipoxemia ou tumor) ou primária (mieloproliferação crônica)
-Microcitose: anemia ferropriva, talassemia, anemia de doença crônica, deficiência de cobre, intoxicação por chumbo	- VCM: 80 a 96fL;
-- Normocitose: se anemia – anemia de doença crônica, insuficiência renal crônica, hipotireoidismo, anemia carencial mista.	Macrocitose: anemia megaloblástica, medicamentos, mielodisplasia, alcoolismo, hepatopatia, hipotireoidismo
+Anemia: por falta de produção, perda ou destruição excessiva	Hb: 12 a 16g/dL (mulher); 14 a 18g/dL (homem)	Poliglobulia: secundária (síntese aumentada de eri-tropoetina por hipoxemia ou tumor) ou primária (mieloproliferação crônica)
+Microcitose: anemia ferropriva, talassemia, anemia de doença crônica, deficiência de cobre, intoxicação por chumbo	-	VCM: 80 a 96fL;
+-	Normocitose: se anemia – anemia de doença crônica, insuficiência renal crônica, hipotireoidismo, anemia ca-rencial mista.	Macrocitose: anemia megaloblástica, medicamentos, mielodisplasia, alcoolismo, hepatopatia, hipotireoi-dismo
 Hipocromia: anemia ferropriva, talassemia, anemia de doença crônica	CHCM: 32 a 36g	Hipercromia: esferocitose
-Clínica: sem significado clínico	RDW: 11 a 14,5%	Anemia ferropriva, microangiopatia
-Neutropenia: por doença medular (aplasia, leucemias, infiltração por linfomas ou outras neoplasias); supressão das células precursoras de granulócitos (quimioterápicos); agranulocitose (medicamentos como dipirona, cloranfenicol, sulfonamidas, clorpromazina, metiltiouracila e fenilbutazona); agentes tóxicos ambientais (benzeno); deficiências nutricionais (B12 e folato)	Neutrófilos: 1.600 a 6.600/mm3	Neutrofilia: 
-- Primária: neoplasia mieloproliferativa;
-- Secundária: tabagismo, quadros infecciosos agudos (principalmente bacterianos), inflamação crônica (artrite, vasculite, doença inflamatória intestinal), liberação de citocinas (grande queimado, trauma, infarto agudo do miocárdio), estresse (exercício, estresse psíquico), medicamentos (adrenalina, corticoide), asplenia e reacional a neoplasias não hematológicas.
-Linfopenia: desnutrição proteico-calórica, imunodeficiência, deficiência de zinco; quimioterapia e radioterapia, alteração de vasos linfáticos, síndrome de Wiskott-Aldrich, quadro inflamatório crônico (doenças autoimunes), infecções virais (HIV, sarampo, poliomielite, influenza, varicela-zóster); enteropatias perdedoras de proteínas; insuficiência cardíaca congestiva grave; eventos estressantes (infecções, queimados e trauma), doença granulomatosa disseminada (tuberculose, sarcoidose); doença de Hodgkin, insuficiência renal, câncer, infecção bacteriana aguda no idoso	Linfócitos: 1.200 a 3.500/mm3	Linfocitose: 
-- Primária: linfoproliferação clonal aguda ou crônica;
--	Secundária: infecção viral, outras infecções (pertussis, sífilis, tuberculose, toxoplasmose), medicamentos (reação de hipersensibilidade), situações de estresse (infarto do miocárdio, traumatismos, epilepsia), tabagismo e pós-esplenectomia;
--	Linfocitose atípica: mononucleose, citomegalovirose, caxumba, toxoplasmose, adenovírus e herpes-vírus tipo 6 humano.
-Eosinopenia (<20/mm3): infecções agudas com neutrofilias acentuadas; uso de corticoide e epinefrina	Eosinófilos: 0 a 400/mm3	Eosinofilia:
-- Primária: doenças hematológicas, mieloproliferação crônica, síndrome hipereosinofílica;
-- Secundária: quadros alérgicos (rinite, asma, urticária), reação a drogas, infecções parasitárias (Strongyloides, Toxocara canis, larva migrans, Ancylostoma e escabiose), doenças cutâneas (pênfigo), infecção fúngica (coccidioidomicose), deficiência de corticoide (Addison) e em associação a linfomas.
+RDW diminuído: sem significado clínico	RDW: 11 a 14,5%	RDW aumentado: anemia ferropriva, microangiopatia
+Neutropenia: por doença medular (aplasia, leucemias, infiltração por linfomas ou outras neoplasias); supressão das células precursoras de granulócitos (quimioterápi-cos); agranulocitose (medicamentos como dipirona, cloranfenicol, sulfonamidas, clorpromazina, metiltiouracila e fenilbuta-zona); agentes tóxicos ambientais (benze-no); deficiências nutricionais (B12 e folato)	Neutrófilos: 1.600 a 6.600/mm3	Neutrofilia: 
+-	Primária: neoplasia mieloproliferativa;
+-	Secundária: tabagismo, quadros infecciosos agudos (principalmente bacterianos), inflamação crônica (artrite, vasculite, doença inflamatória intestinal), liberação de citocinas (grande queimado, trauma, infarto agudo do miocárdio), estresse (exercício, estresse psíquico), medicamentos (adrenalina, cor-ticoide), asplenia e reacional a neoplasias não he-matológicas.
+Linfopenia: desnutrição energético-proteica, imunodeficiência, deficiência de zinco; quimioterapia e radioterapia, altera-ção de vasos linfáticos, síndrome de Wis-kott-Aldrich, quadro inflamatório crônico (doenças autoimunes), infecções virais (HIV, sarampo, poliomielite, influenza, varicela-zóster); enteropatias perdedoras de proteínas; insuficiência cardíaca conges-tiva grave; eventos estressantes (infecções, queimados e trauma), doença granuloma-tosa disseminada (tuberculose, sarcoido-se); doença de Hodgkin, insuficiência renal, câncer, infecção bacteriana aguda no idoso	Linfócitos: 1.200 a 3.500/mm3	Linfocitose: 
+-	Primária: linfoproliferação clonal aguda ou crônica;
+-	Secundária: infecção viral, outras infecções (pertus-sis, sífilis, tuberculose, toxoplasmose), medicamen-tos (reação de hipersensibilidade), situações de es-tresse (infarto do miocárdio, traumatismos, epilep-sia), tabagismo e pós-esplenectomia;
+-	Linfocitose atípica: mononucleose, citomegaloviro-se, caxumba, toxoplasmose, adenovírus e herpes-vírus tipo 6 humano.
+Eosinopenia (<20/mm3): infecções agudas com neutrofilias acentuadas; uso de corti-coide e epinefrina	Eosinófilos: 0 a 400/mm3	Eosinofilia:
+-	Primária: doenças hematológicas, mieloproliferação crônica, síndrome hipereosinofílica;
+-	Secundária: quadros alérgicos (rinite, asma, urticá-ria), reação a drogas, infecções parasitárias (Strongyloides, Toxocara canis (larva migrans), An-cylostoma e escabiose), doenças cutâneas (pênfigo), infecção fúngica (coccidioidomicose), deficiência de corticoide (Addison) e em associação a linfomas.
+
+Respostas
+1. E
+2. D
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
