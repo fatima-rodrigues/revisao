@@ -1,12 +1,23 @@
 Diagnóstico diferencial da dor torácica
-Rodrigo Antônio Brandão Neto / José Paulo Ladeira
+Rodrigo Antônio Brandão Neto
+José Paulo Ladeira
+
+
+Resumo
+No diagnóstico diferencial de dor torácica, devem ser avaliados o quadro clínico do paciente e já tomadas me-didas como monitorização cardíaca, obtenção de acesso venoso e oxigênio suplementar. Enquanto se realiza o exame físico e se pergunta sobre a história clínica, deve ser realizado eletrocardiograma (ECG) de 12 deriva-ções com resultado em, no máximo, 10 minutos da entrada no pronto-socorro. Essas medidas visam estabele-cer um diagnóstico para o paciente dentro do quadro de dor torácica: infarto agudo do miocárdio, pericardite, dissecção aguda de aorta, tromboembolismo pulmonar, dor esofágica e dispepsia e dor osteomuscular ou psicogênica.
 
 1. Introdução
-A dor torácica, principalmente no contexto da sala de emergência, pode ser de diagnóstico problemático, pois, embora na maioria dos casos apresente etiologias benignas, pode estar associada a patologias graves potencialmente fatais e de rápida evolução.
+
+A dor torácica, principalmente no contexto da sala de emergência, pode ser de diagnóstico problemático, pois, embora, na maioria dos casos, apresente etiologias benignas, pode estar associada a patologias graves potencialmente fatais e de rápi-da evolução.
 O diagnóstico diferencial das patologias que podem evoluir com dor torácica é vasto, e torna-se quase impossível realizar uma investigação complementar a todas essas possibilidades. Assim, a avaliação inicial a partir da história e do exame físico é importante para a triagem dos potencialmente graves. De forma mais específica, também é importante descartar as síndro-mes coronarianas agudas, o tromboembolismo pulmonar (TEP) e a dissecção de aorta. 
-As síndromes coronarianas representam cerca de 20% dos pacientes com dor torácica que procuram os serviços de emergência. Embora a minoria se apresente na forma de síndromes instáveis, esses indivíduos são os que apresentam a maior dificuldade na diferenciação de outras causas benignas. 
+
+Importante
+As síndromes coronarianas representam cerca de 20% dos pacientes com dor torácica que procuram os serviços de emer-gência. Embora a minoria se apresente na forma de síndromes instáveis, o quadro desses indivíduos é o que apresenta a maior dificuldade na diferenciação de outras causas benignas. 
+
 2. Epidemiologia
+
 Um estudo relativamente recente, com cerca de 400 pacientes, descreveu as causas de dor torácica em diferentes servi-ços de emergência. Os resultados estão especificados na Tabela 1. 
+
 Tabela 1 - Resultados do estudo  
 Causas	Prevalência (%)
 Dor osteomuscular	36
@@ -18,15 +29,17 @@ Outras causas cardíacas	3,8
 Psiquiátricas	8
 Pulmonares 	5
 Outras 	16
-A dor musculoesquelética é o principal motivo de procura por dor torácica em serviços de emergência, representando 36% das causas, em que a osteocondrite é responsável por 13% dos casos. Cerca de 60% dos casos de dor torácica não têm doença pulmonar, cardíaca ou mesmo gastrintestinal como causa-base. Considerando as gastrintestinais, menos de 20% da-queles com dor torácica apresentam uma causa que pode ter evolução potencialmente desfavorável. A prevalência de doen-ça cardíaca é relativa à idade; em pacientes com menos de 35 anos, apenas 7% têm causas cardíacas como motivo da dor. Porém, entre aqueles com mais de 40 anos e em especial aqueles acima de 50 anos, essas causas podem ter prevalência de até 50%. A Tabela 2 descreve as principais causas de dor torácica, e a Tabela 3, de dor torácica e sua apresentação clínica.
+
+A dor musculoesquelética é o principal motivo de procura por dor torácica em serviços de emergência, representando 36% das causas, em que a osteocondrite é responsável por 13% dos casos. Cerca de 60% dos casos de dor torácica não têm doença pulmonar, cardíaca ou mesmo gastrintestinal como causa-base. Considerando as gastrintestinais, menos de 20% da-queles com dor torácica apresentam uma causa que pode ter evolução potencialmente desfavorável. A prevalência de doen-ça cardíaca é relativa à idade; em pacientes com menos de 35 anos, apenas 7% têm causas cardíacas como motivo da dor. Porém, entre aqueles com mais de 40 anos e em especial aqueles acima de 50 anos, essas causas podem ter prevalência de até 50%. A Tabela 2 descreve as principais causas de dor torácica, e a Tabela 3, causas de dor torácica e sua apresentação clínica.
+
 Tabela 2 - Causas de dor torácica
 Dor óssea e neuromuscular
 - Lesões costais (fraturas/trauma/neurites);
 - Osteocondrite (síndrome de Tietze);
 - Neurite intercostal (herpes-zóster); 
-- Outras causas de dor osteomuscular;
-- Refluxo gastroesofágico.
+- Outras causas de dor osteomuscular.
 Doenças gastroesofágicas
+- Refluxo gastroesofágico;
 - Espasmo esofágico;
 - Úlcera péptica e dispepsia;
 - Ruptura de esôfago. 
@@ -46,140 +59,210 @@ Outras causas
 - Pancreatite;
 - Cólica biliar;
 - Abscesso subfrênico.
+
 Tabela 3 - Causas de dor torácica e características clínicas da sua apresentação
 Sistemas	Síndromes	Descrição clínica	Características distintas
-Cardíaco	Angina	Pressão torácica retroesternal, queimação ou peso, irradiação ocasional para pesco-ço, mandíbula, epigástrio, ombros ou membro superior esquerdo	Precipitação por exercício, tempo frio ou estresse emocional; duração de 2 a 10 minutos
+Cardíaco	Angina	Pressão torácica retroesternal, queimação ou peso, irradiação ocasional para pescoço, mandí-bula, epigástrio, ombros ou membro superior esquerdo	Precipitação por exercício, tempo frio ou estresse emocional; duração de 2 a 10 minutos
 	Angina em repouso ou instável	A mesma da angina, porém possivelmente mais intensa	Geralmente <20 minutos, com menor tolerância para o esforço
-	IAM	A mesma da angina, porém possivelmente mais intensa	Início súbito, =30 minutos; associação a dispneia, fraqueza, náuseas e vômi-to
+	IAM	A mesma da angina, porém possivelmente mais intensa	Início súbito, =30 minutos; associação a dispneia, fraqueza, náuseas e vômito
 	Pericardite	Dor aguda e pleurítica agravada com mudanças na posição, de duração variável	Atrito pericárdico
-Vascular	Dissecção aórtica	Dor excruciante, lacerante, de início abrup-to, na parte anterior do tórax frequente-mente se irradiando para o dorso	Dor muito intensa, refratária; geral-mente em um contexto de hiperten-são ou de um distúrbio subjacente do tecido conjuntivo (síndrome de Mar-fan)
-	Embolismo pulmonar	Início súbito de dispneia e dor, geralmente pleurítica, com infarto pulmonar	Dispneia, taquipneia, taquicardia e sinais de insuficiência cardíaca direita
+Vascular	Dissecção aórtica	Dor excruciante, lacerante, de início abrupto, na parte anterior do tórax frequentemente se irra-diando para o dorso	Dor muito intensa, refratária; geralmen-te em um contexto de hipertensão ou de um distúrbio subjacente do tecido con-juntivo (síndrome de Marfan)
+	Embolismo pulmonar	Início súbito de dispneia e dor, geralmente pleu-rítica, com infarto pulmonar	Dispneia, taquipneia, taquicardia e sinais de insuficiência cardíaca direita
 	Hipertensão pulmonar	Pressão torácica subesternal, exacerbada pelo esforço	Dor associada a dispneia e sinais de hipertensão pulmonar
 Pulmonar	Pleurite/pneumonia	Dor pleurítica, geralmente breve, sobre a área envolvida	Dor pleurítica e lateral à linha média, associada a dispneia
 	Traqueobronquite	Desconforto em queimação, na linha média	Localização na linha média, associada a tosse
-	Pneumotórax espontâneo	Início súbito de dor pleurítica unilateral, 
+	Pneumotórax espontâ-neo	Início súbito de dor pleurítica unilateral, 
 com dispneia	Início abrupto de dispneia e dor
-Gastrintestinal	Refluxo esofágico	Desconforto em queimação subesternal e epigástrico, de 10 a 60 minutos 	Agravado por refeições pesadas e aliviado por antiácidos
-	Úlcera péptica	Queimação epigástrica ou subesternal prolongada	Aliviada por antiácidos ou por alimen-tos
-	Doença da vesícula biliar	Dor prolongada epigástrica ou no quadran-te superior direito	Não provocada ou após as refeições
+Gastrintestinal	Refluxo esofágico	Desconforto em queimação subesternal e epi-gástrico, de 10 a 60 minutos 	Agravado por refeições pesadas e alivia-do por antiácidos
+	Úlcera péptica	Queimação epigástrica ou subesternal prolonga-da	Aliviada por antiácidos ou por alimentos
+	Doença da vesícula biliar	Dor prolongada epigástrica ou no quadrante superior direito	Não provocada ou após as refeições
 	Pancreatite	Dor epigástrica e subesternal prolongada intensa	Fatores de risco que incluem álcool, hipertrigliceridemia e medicações
-Musculoesquelético	Costocondrite (síndrome de Tietze)	Início súbito de dor intensa e fugaz	Reprodução pela pressão sobre a articulação afetada; possíveis edema e inflamação no local
-	Doença do disco cervical	Início súbito de dor fugaz	Possivelmente reproduzida pelo mo-vimento do pescoço
-Infeccioso	Herpes-zóster	Dor em queimação prolongada com distri-buição em dermátomo	Rash vesicular, com distribuição para o dermátomo
-Psicológico	Síndrome do pânico	Aperto torácico ou dolorimento comumen-te acompanhado por dispneia e durando 30 minutos ou mais, sem relação ao es-forço ou ao movimento	Frequentemente, outras evidências de distúrbios emocionais
+Musculoesquelé-tico	Costocondrite (síndrome de Tietze)	Início súbito de dor intensa e fugaz	Reprodução pela pressão sobre a articu-lação afetada; possíveis edema e infla-mação no local
+	Doença do disco cervical	Início súbito de dor fugaz	Possivelmente reproduzida pelo movi-mento do pescoço
+Infeccioso	Herpes-zóster	Dor em queimação prolongada com distribuição em dermátomo	Rash vesicular, com distribuição para o dermátomo
+Psicológico	Síndrome do pânico	Aperto torácico ou dolorimento comumente acompanhado por dispneia e durando 30 minu-tos ou mais, sem relação ao esforço ou ao mo-vimento	Frequentemente, outras evidências de distúrbios emocionais
+
 3. Quadro clínico
-Pacientes que se apresentam no serviço de emergência com quadro de dor torácica que potencialmente pode represen-tar causa fatal devem ser levados imediatamente para a sala de emergência, com o desfibrilador à disposição para uso even-tual. As medidas iniciais para a estabilização incluem monitorização cardíaca, obtenção de acesso venoso e oxigênio suple-mentar. Durante o exame físico e a tomada da história, deve ser realizado eletrocardiograma (ECG) de 12 derivações com resultado em, no máximo, 10 minutos da entrada no pronto-socorro. 
+
+Pacientes que se apresentam no serviço de emergência com quadro de dor torácica que potencialmente pode represen-tar causa fatal devem ser levados imediatamente para a sala de emergência, com o desfibrilador à disposição para uso even-tual. As medidas iniciais para a estabilização incluem monitorização cardíaca, obtenção de acesso venoso e oxigênio suple-mentar. Durante o exame físico e a tomada da história, deve ser realizado eletrocardiograma (ECG) de 12 derivações, com resultado em, no máximo, 10 minutos da entrada no pronto-socorro. 
+
 A - Dor torácica cardíaca por isquemia 
-A história e o exame físico são bons recursos para o diagnóstico das síndromes coronarianas. As características da dor an-ginosa são dor em pressão, aperto, constritiva ou em peso, com duração usual de alguns minutos, e a localização é usualmen-te retroesternal, podendo ocorrer, ainda, no ombro, no epigástrio, na região cervical e no dorso. A dor pode irradiar-se eventualmente para membros superiores (direito, esquerdo ou ambos), ombro, mandíbula, pescoço, dorso ou região epigás-trica. Os fatores desencadeantes mais frequentes são o esforço físico e o estresse emocional. É aliviada, caracteristicamente, com o repouso ou o uso de nitratos. Vale salientar que cerca de 1/3 dos pacientes com síndrome coronariana aguda não apresenta dor anginosa típica, particularmente idosos ou diabéticos. Em algumas situações, podem acontecer os chamados sintomas equivalentes de isquemia, como desconforto torácico, dispneia, broncoespasmo e diaforese.
-A dor torácica pode ser classificada em 3 subtipos:
-1 - Angina típica: dor característica, provocada por esforço e aliviada com nitrato ou repouso. 
-2 - Angina atípica: 2 das características citadas na angina típica. 
-3 - Dor torácica não cardíaca: 1 ou nenhuma das características citadas. 
+A história e o exame físico são bons recursos para o diagnóstico das síndromes coronarianas. As características da dor an-ginosa são dor em pressão, aperto, constritiva ou em peso, com duração usual de alguns minutos, e a localização é usualmen-te retroesternal, podendo ocorrer, ainda, no ombro, no epigástrio, na região cervical e no dorso. A dor pode irradiar-se eventualmente para membros superiores (direito, esquerdo ou ambos), ombro, mandíbula, pescoço, dorso ou região epigás-trica. Os fatores desencadeantes mais frequentes são o esforço físico e o estresse emocional. É aliviada, caracteristicamente, com o repouso ou o uso de nitratos. 
+
+Importante
+Cerca de 1/3 dos pacientes com síndrome coronariana aguda não apresenta dor anginosa típica, particularmente idosos ou diabéticos. Em algumas situações, podem acontecer os chamados sintomas equivalentes de isquemia, como desconforto torácico, dispneia, broncoespasmo e diaforese.
+
+Dica
+A dor torácica pode ser classificada em 3 subtipos: angina típica, com dor característica, provocada por esforço, e aliviada com nitrato ou repouso; angina atípica, com 2 das características citadas na angina típica; e dor torácica não cardíaca, com 1 ou nenhuma das características citadas. 
 Outros fatores que sugerem a possibilidade do diagnóstico são a idade e a presença de fatores de risco para doença co-ronariana, como diabetes, tabagismo, dislipidemia e hipertensão arterial. As Tabelas 4 e 5 descrevem a possibilidade, em porcentagem, do diagnóstico de angina estável em pacientes com e sem fatores de alto risco de doença cardiovascular. 
+
 Tabela 4 - Pacientes sem fatores de alto risco
-Idade	Dor não 
-anginosa	Angina atípica	Angina típica
+Idade	Dor não anginosa	Angina atípica	Angina típica
 	Homem	Mulher	Homem	Mulher	Homem	Mulher
 30 a 39	4	2	34	12	76	26
 40 a 49	13	3	51	22	87	55
 50 a 59	20	7	65	31	93	73
 60 a 69	27	14	72	51	94	86
+
 Tabela 5 - Pacientes com fatores de alto risco
-Idade	Dor não 
-anginosa	Angina atípica	Angina típica
+Idade	Dor não anginosa	Angina atípica	Angina típica
 	Homem	Mulher	Homem	Mulher	Homem	Mulher
 35	3 a 35	1 a 19	8 a 59	2 a 39	30 a 88	10 a 78
 45	9 a 47	2 a 22	21 a 70	5 a 43	51 a 92	20 a 79
 55	23 a 59	4 a 25	45 a 79	10 a 47	80 a 95	38 a 82
 65	49 a 69	9 a 29	71 a 86	20 a 51	93 a 97	56 a 84
+
 A dor anginosa pode ser reproduzida também pela estenose aórtica, que apresenta a tríade de síncope, angina e dispneia ou sintomas de insuficiência cardíaca. Os pacientes podem apresentar, nas 2 situações, sopro sistólico no foco aórtico e so-brecarga ventricular esquerda. O diagnóstico é confirmado por ecocardiograma. 
+
 B - Pericardite
-Os pacientes apresentam-se com dor de característica pleurítica no hemitórax esquerdo, com piora durante a respiração, ao deitar ou ao deglutir. Há melhora quando o paciente se senta ou se inclina para a frente. A apresentação típica engloba dor torácica respiratoriodependente, alterações ao ECG como supradesnivelamento do segmento ST ou infradesnivelamento de PR em várias derivações e presença de derrame pericárdico. 
+Os pacientes apresentam-se com dor de característica pleurítica no hemitórax esquerdo, com piora durante a respiração, ao deitar ou deglutir. Há melhora quando o paciente se senta ou se inclina para a frente. A apresentação típica engloba dor torácica respiratoriodependente, alterações ao ECG como supradesnivelamento do segmento ST ou infradesnivelamento de PR em várias derivações e presença de derrame pericárdico. 
 Os pacientes podem, ainda, apresentar febre, e o quadro frequentemente é precedido por gripe. A dor é, em geral, mais aguda do que a da angina e tem caráter contínuo. Indivíduos com miocardite podem apresentar, ao ECG, aumento da duração do intervalo QRS e sintomas de insuficiência cardíaca. 
+
 C - Dissecção aguda de aorta
 A dissecção aguda de aorta é relativamente rara, embora apresente alto potencial de letalidade. A dissecção sempre deve ser considerada possibilidade em pacientes com dor torácica no serviço de emergência e surge como dor torácica abrupta e de forte intensidade em 73%, com característica principalmente de pontadas agudas. Pode ser acompanhada por insuficiên-cia cardíaca, principalmente secundária à insuficiência aórtica aguda, ou por sangramento para o saco pericárdico com tam-ponamento e choque. Dependendo da extensão da dissecção, pode ocorrer oclusão arterial aguda de membros ou renal e mesentérica.
 Os pacientes costumam estar agitados, e é descrita a migração da dor seguindo o trajeto da aorta. Podem apresentar tam-bém assimetria de pulsos e hipertensão arterial significativa, valorizando-se diferenças acima de 15mmHg entre cada mem-bro. Cerca de 90% apresentam histórico de hipertensão arterial, doenças do tecido conectivo, como as síndromes de Marfan e Ehlers-Danlos ou sífilis. Sintomas autonômicos, como diaforese e palidez cutânea, também são comuns. A confirmação do diagnóstico deve ser realizada com tomografia de tórax, e, na sala de emergência, pode ser utilizado o ecocardiograma tran-sesofágico.
+
 D - Tromboembolismo pulmonar
-Tipicamente, há dor em 2/3 dos casos, que pode ser pleurítica e costuma ser súbita. Dispneia e taquicardia são sintomas comuns e podem acompanhar o quadro. O uso de escores clínicos, como o de Wells e Geneva, ajuda na definição de risco de doença tromboembólica e facilita a investigação. Os critérios de Wells estão citados na Tabela 6.
-Tabela 6 - Probabilidade de TEP (critérios de Wells) 
+Tipicamente, há dor em 2/3 dos casos, que pode ser pleurítica e costuma ser súbita. Dispneia e taquicardia são sintomas comuns e podem acompanhar o quadro. O uso de escores clínicos, como os de Wells e Geneva, ajuda na definição de risco de doença tromboembólica e facilita a investigação. Os critérios de Wells estão citados na Tabela 6.
+
+Tabela 6 - Probabilidade de tromboembolismo pulmonar (critérios de Wells) 
 Achados clínicos	Pontos
 Sintomas clínicos de doença tromboembólica	3
-Outro diagnóstico menos provável que TEP	3
+Outro diagnóstico menos provável do que TEP	3
 FC >100bpm	1,5
 Imobilização ou cirurgia nas últimas 4 semanas	1,5
 TEP ou Trombose Venosa Profunda (TVP) prévios	1,5
 Hemoptise	1,5
 Malignidade	1,5
+
 Alta probabilidade: escore >6;
 Moderada probabilidade: escore de 2 a 6;
 Baixa probabilidade: escore <2.
 Outras causas de dor torácica pulmonar incluem o pneumotórax espontâneo, que se apresenta com dor torácica localiza-da no dorso ou nos ombros, acompanhada de dispneia, e que pode ter evolução para pneumotórax hipertensivo, em que há insuficiência respiratória e colapso cardiovascular; a percussão torácica se encontra timpânica; o murmúrio vesicular está abolido do lado do pneumotórax; a traqueia pode estar desviada; e há, ainda, a hipótese de estase jugular. 
 A pneumonia e outras doenças parenquimatosas, principalmente as que se apresentam com envolvimento pleural, cur-sam com dor, que geralmente tem piora ventilatória. O diagnóstico diferencial principal, nesses casos, passa pelas dores oste-omusculares e pelas neurites intercostais, que também apresentam tais características.  
+
 E - Dor esofágica e dispepsia
 Pacientes com refluxo gastroesofágico podem apresentar desconforto torácico, comumente em queimação, algumas ve-zes como sensação opressiva, retroesternal ou subesternal, podendo irradiar-se para pescoço, braços e dorso. Frequente-mente se associa a regurgitação alimentar. 
 O espasmo esofágico pode apresentar melhora com o uso de nitratos, causando dificuldade na diferenciação com sín-dromes coronarianas. Pacientes com úlcera péptica apresentam dor localizada na região epigástrica ou no andar superior do abdome, mas, algumas vezes, pode ser referida na região subesternal ou retroesternal. Habitualmente, ocorre após uma refeição, melhorando com antiácidos. 
 A ruptura de esôfago acontece após trauma local ou vômitos intensos, principalmente após ingestão alcoólica aguda. A dor é intensa, retroesternal ou no andar superior do abdome, geralmente acompanhada de um componente pleurítico à esquerda. O diagnóstico pode ser sugerido pela presença de pneumomediastino, e em torno de 1/3 apresenta enfisema subcutâneo.
-F - Dor osteomuscular e psicogênica
+
+F - Dores osteomuscular e psicogênica
 Conforme já discutido, a dor osteomuscular, em geral, apresenta características pleuríticas desencadeadas ou exacerba-das pelos movimentos dos músculos e/ou articulações que participam da respiração. A palpação cuidadosa das articulações ou dos músculos envolvidos quase sempre reproduz ou desencadeia a dor referida. Geralmente, a dor é contínua e com duração de horas a semanas. Frequentemente se localiza em área específica, o que facilita a diferenciação com outros qua-dros. 
-As dores por causas psicogênicas são comuns nos serviços de emergência e podem apresentar qualquer padrão, mas cos-tumam ser difusas, de localização imprecisa, podendo estar associadas a utilização abusiva de analgésicos sem melhora sinto-mática, e representam cerca de 30% dos casos de dor torácica em serviços de emergência, portanto, significativamente mais frequentes do que as causas cardíacas. 
+
+Dica
+As dores por causas psicogênicas são comuns nos serviços de emergência e podem apresentar qualquer padrão, mas cos-tumam ser difusas, de localização imprecisa, podendo estar associadas a utilização abusiva de analgésicos sem melhora sin-tomática, e representam cerca de 30% dos casos de dor torácica em serviços de emergência, sendo, portanto, significativa-mente mais frequentes do que as causas cardíacas. 
+
 4. Exames complementares
+
 Dependem da hipótese diagnóstica. Em geral, a abordagem visa excluir doença coronariana, sendo absolutamente funda-mental ECG em, no máximo, até 10 minutos, contados da chegada. Será normal na maioria dos casos com dor torácica. Ainda assim, cerca de 5% dos indivíduos com ECG normal apresentam síndrome coronariana aguda. Por isso, outros dados de histó-ria são necessários para a exclusão precisa desse diagnóstico.
-A sensibilidade do ECG para o diagnóstico de IAM é de pouco mais de 50%. Assim, a necessidade de exames seriados e de observação com monitorização é imperiosa àqueles com essa suspeita. Recomenda-se realizar um 2º exame com intervalo de, no máximo, 3 horas após o 1º ou a qualquer momento, em caso de recorrência da dor torácica ou de surgimento de ins-tabilidade clínica.
+
+Importante
+A sensibilidade do eletrocardiograma para o diagnóstico de infarto agudo do miocárdio é de pouco mais de 50%. Assim, a necessidade de exames seriados e de observação com monitorização é imperiosa àqueles com essa suspeita. Recomenda-se realizar um 2º exame com intervalo de, no máximo, 3 horas após o 1º ou a qualquer momento, em caso de recorrência da dor torácica ou de surgimento de instabilidade clínica.
 Os pacientes com dor torácica suspeita de doença cardíaca podem ser subdivididos nos seguintes grupos: 
+
 A - IAM
-Pacientes em que o ECG demonstra supradesnivelamento de ST ou aparecimento de bloqueio do ramo esquerdo novo. 
+Pacientes em que o ECG demonstra supradesnivelamento do segmento ST ou aparecimento de bloqueio do ramo esquer-do novo. 
+
 B - Isquemia aguda provável
 Pacientes com alta probabilidade de eventos adversos; devem apresentar pelo menos 1 dos critérios a seguir:
 Instabilidade clínica: definida pela presença de hipotensão, arritmia ou edema pulmonar;
 Dor torácica anginosa típica em repouso e com alterações isquêmicas no ECG;
 Enzimas cardíacas elevadas.
+
 C - Isquemia aguda possível
 Pacientes com probabilidade média de eventos adversos e dor anginosa típica com pelo menos 1 das seguintes caracterís-ticas:
 Dor que se iniciou em repouso, mas ausente no momento;
 Dor em esforço de início recente; 
 Dor torácica com esforço “em crescendo”.
+
 D - Dor provavelmente não isquêmica
 Pacientes com dor sem características de isquemia coronariana; tanto a história clínica como o ECG e os marcadores car-díacos não sugerem doença coronariana.
+
 E - Dor definitivamente não isquêmica
 Paciente com forte evidência de outra etiologia para a dor;
-O uso de nitrato sublingual e a observação da resposta da dor a essa manobra não são suficientes para confirmar nem ex-cluir a hipótese de doença coronariana. Ainda assim, alguns autores o valorizam, pois a resposta da dor torácica a ele aumenta a chance de doença coronariana, mas não apresenta acurácia suficiente para confirmar nem para descartar o diagnóstico, o que torna opcional a manobra. 
-Em casos de suspeita diagnóstica de doença coronariana, os marcadores laboratoriais são importantes; os mais sensíveis e específicos são as troponinas (incluindo troponina T e I), que apresentam sensibilidade acima de 95% e especificidade em torno de 94% para o diagnóstico de IAM. Outra vantagem desse exame é que alguns estudos demonstraram correlação prog-nóstica entre a sua elevação e a mortalidade por IAM. Sua coleta deve ser realizada já na admissão e após 6 e 12 horas do início da dor. A troponina começa a elevar-se em 4 horas, com pico em 12 a 48 horas, e permanece aumentada por 10 a 14 dias. Portanto, tal marcador perde sensibilidade para o diagnóstico de reinfarto, mas permite a identificação de infarto ocor-rido dentro do prazo descrito (7 a 10 dias). Deve-se ressaltar que a especificidade das troponinas diminui entre aqueles com insuficiência renal, miocardite e TEP. 
+O uso de nitrato sublingual e a observação da resposta da dor a essa manobra não são suficientes para confirmar nem ex-cluir a hipótese de doença coronariana. Ainda assim, alguns autores valorizam-no, pois a resposta da dor torácica a ele aumenta a chance de doença coronariana, mas não apresenta acurácia suficiente para confirmar nem descartar o diag-nóstico, o que torna opcional a manobra. 
+Em casos de suspeita diagnóstica de doença coronariana, os marcadores laboratoriais são importantes; os mais sensíveis e específicos são as troponinas (incluindo troponinas T e I), que apresentam sensibilidade acima de 95% e especificidade em torno de 94% para o diagnóstico de IAM. Outra vantagem desse exame é que alguns estudos demonstraram correlação prog-nóstica entre a sua elevação e a mortalidade por IAM. Sua coleta deve ser realizada já na admissão e após 6 e 12 horas do início da dor. A troponina começa a elevar-se em 4 horas, com pico em 12 a 48 horas, e permanece aumentada por 10 a 14 dias. Portanto, tal marcador perde sensibilidade para o diagnóstico de reinfarto, mas permite a identificação de infarto ocor-rido dentro do prazo descrito (7 a 10 dias). Deve-se ressaltar que a especificidade das troponinas diminui entre aqueles com insuficiência renal, miocardite e TEP. 
 A mioglobina, por sua vez, é o marcador mais precoce disponível: altera-se em 2 a 3 horas após o infarto, com pico entre 6 e 12 horas e normalização em 24 horas. Sua maior utilidade é descartar precocemente necrose miocárdica, com valor pre-ditivo negativo, em 4 horas após o início da dor, de quase 100%. Entretanto, o exame é inespecífico e necessita de confirma-ção com dosagem de troponinas e/ou CK-MB.
 A CK-MB é sensível para o diagnóstico de IAM e deve ser utilizada para a definição de infarto quando a troponina não está disponível. Além disso, auxilia o diagnóstico de reinfarto, pois a troponina permanece elevada por longos períodos.
 Os exames de imagem, como radiografia e tomografia de tórax, são úteis para o diagnóstico de pneumonia, pneumotórax, entre outras condições cardiopulmonares. A tomografia de tórax apresenta boa sensibilidade para doenças pleurais, do pa-rênquima e da vasculatura pulmonar, além de grande utilidade para o diagnóstico de embolia pulmonar, com estudos recen-tes com sensibilidade próxima a 95%, e para dissecção de aorta. 
-Em quem a suspeita de doença coronariana persiste, pode-se lançar mão de testes não invasivos, como o teste de esforço, ecocardiograma com estresse farmacológico ou cintilografia miocárdica. O teste de esforço apresenta sensibilidade de 68% para o diagnóstico, com especificidade de 77%. É, usualmente, considerado positivo quando ocorre depressão do segmento ST maior que 1mm 60 a 80ms após o final do QRS (ponto J). Todavia, não é útil quando o ECG de repouso apresenta alterações que dificultem a sua interpretação, como bloqueios de ramo e sobrecarga ventricular esquerda severa.
+Em quem a suspeita de doença coronariana persiste, pode-se lançar mão de testes não invasivos, como o teste de esforço, ecocardiograma com estresse farmacológico ou cintilografia miocárdica. O teste de esforço apresenta sensibilidade de 68% para o diagnóstico, com especificidade de 77%. É, usualmente, considerado positivo quando ocorre depressão do segmento ST maior do que 1mm 60 a 80ms após o final do QRS (ponto J). Todavia, não é útil quando o ECG de repouso apresenta altera-ções que dificultem a sua interpretação, como bloqueios de ramo e sobrecarga ventricular esquerda severa.
 Os exames de cintilografia miocárdica apresentam sensibilidade e especificidade maiores do que o teste de esforço, sen-do indicados, principalmente, a situações que dificultem a interpretação do teste de esforço, como valvulopatia aórtica ou bloqueio do ramo esquerdo. 
 O ecocardiograma de estresse físico ou com dobutamina ou dipiridamol também é útil para o diagnóstico na suspeita de doença coronariana, com desempenho diagnóstico semelhante ao dos exames de cintilografia miocárdica. Permite, ainda, o diagnóstico de pericardite, TEP e dissecção de aorta, principalmente na sala de emergência.
 A tomografia computadorizada de coronárias avalia a carga de placas de ateroma, representada pela calcificação corona-riana, e pode avaliar as obstruções coronarianas por meio da angiografia não invasiva. Uma meta-análise publicada recente-mente mostrou o papel independente dos escores de cálcio coronariano na predição de eventos clínicos. O exame apresenta sensibilidade alta para o diagnóstico de doença coronariana próxima de 95%, mas sua especificidade é relativamente baixa – corresponde a apenas 66%. Além disso, não é útil àqueles já com diagnóstico dessa doença. Recentemente, o uso de tomo-grafia com multidetectores, que pode, com menor quantidade de contraste, avaliar as vascularizações pulmonar, coronariana e aórtica, tem sido advogado em serviços de emergência, mas ainda é discutível. 
-Os pacientes com dissecção de aorta representam desafio diagnóstico importante. A radiografia pode mostrar aumento do mediastino, sinal do cálcio (separação da calcificação da íntima de mais de 1cm da borda do arco aórtico) e derrame pleu-ral (em geral, à esquerda), mas, em cerca de 15%, não há qualquer alteração radiográfica. O ECG também apenas apresenta sinais inespecíficos com hipertrofia do ventrículo esquerdo. O diagnóstico deve ser confirmado em situações graves e que não possam ser removidas da sala de emergência com ecocardiograma transesofágico. Nos casos em que podem ser removi-dos, o exame de escolha é a tomografia helicoidal ou a ressonância magnética. Raramente pode ser necessária a aortografia, principalmente quando existem vísceras mal perfundidas ou a necessidade de intervenção percutânea.
+Os pacientes com dissecção de aorta representam desafio diagnóstico importante. A radiografia pode mostrar aumento do mediastino, sinal do cálcio (separação da calcificação da íntima de mais de 1cm da borda do arco aórtico) e derrame pleu-ral (em geral, à esquerda), mas, em cerca de 15%, não há qualquer alteração radiográfica. O ECG também apenas apresenta sinais inespecíficos com hipertrofia do ventrículo esquerdo. O diagnóstico deve ser confirmado com ecocardiograma transe-sofágico em situações graves e em pacientes que não possam ser removidos da sala de emergência. Nos casos em que podem ser removidos, o exame de escolha é a tomografia helicoidal ou a ressonância magnética. Raramente pode ser necessária a aortografia, principalmente quando existem vísceras mal perfundidas ou a necessidade de intervenção percutânea.
 A dissecção de aorta pode ser classificada com relação ao local e ao tempo de evolução.
-Quanto ao local
-Dissecção proximal: caso acometa a aorta ascendente (tipos I e II de DeBakey e tipo A de Stanford). Cerca de 65% têm dissecção da aorta ascendente;
-Dissecção distal: não acomete a aorta ascendente (tipo III de DeBakey e tipo B de Stanford). A dissecção da aorta des-cendente ocorre em 20%.
-Quanto à evolução
-Aguda: menos de 2 semanas do início dos sintomas (2/3 dos doentes);
-Crônica: mais de 2 semanas do início dos sintomas (1/3 dos doentes).
+Quanto ao local:
+Dissecção proximal: caso acometa a aorta ascendente (tipos I e II de DeBakey e tipo A de Stanford). Cerca de 65% têm dissecção de aorta ascendente;
+Dissecção distal: não acomete a aorta ascendente (tipo III de DeBakey e tipo B de Stanford). A dissecção de aorta des-cendente ocorre em 20%.
+Quanto à evolução:
+Aguda: menos de 2 semanas do início dos sintomas (2/3 dos pacientes);
+Crônica: mais de 2 semanas do início dos sintomas (1/3 dos pacientes).
+
 Tabela 7 - Métodos complementares para o diagnóstico da dissecção aguda de aorta
 Ecocardiograma transtorácico 
 Com sensibilidade de 63 a 96% e especificidade de 59 a 85%, tem melhor acurácia para as dissecções proximais.
 Ecocardiograma transesofágico
 Sensibilidade de 98 a 99%; apresenta baixa especificidade, mas é o método de eleição a pacientes graves na sala de emergência.
 Tomografia helicoidal
-Com sensibilidade de 83 a 100% e especificidade de 87 a 100%, identifica a laceração intimal e complicações como derrame pleural e pericárdico, entre outras. 
+Com sensibilidade de 83 a 100% e especificidade de 87 a 100%, identifica a laceração intimal e complicações como derrames pleural e pericárdico, entre outras. 
 Ressonância magnética
 Tem acurácia diagnóstica de quase 100%, mas é de pouca disponibilidade no Brasil.
+
 Essa classificação da dissecção de aorta é importante com relação ao tratamento, pois a dissecção proximal necessita de intervenção cirúrgica imediata, enquanto indivíduos com dissecção de aorta abdominal são manejados clinicamente, exceto nas seguintes condições:
 Dor recorrente ou persistente, apesar do tratamento;
 Expansão precoce;
 Complicações isquêmicas periféricas;
 Ruptura. 
 Todos devem ter pressão arterial controlada com betabloqueador e vasodilatador, de preferência nitroprussiato. 
-Pacientes com dor torácica potencialmente associada à doença grave devem ser tratados com prioridade nos serviços de emergência. A instituição de unidades específicas nesses serviços para o manejo tem demonstrado melhora da sobrevida, pois permite estabelecer protocolos e acionar rapidamente intervenções necessárias, como trombólise e angioplastia para indivíduos com supradesnivelamento do segmento ST e exames subsidiários de emergência para dissecção de aorta, entre outras medidas.
+Pacientes com dor torácica potencialmente associada a doença grave devem ser tratados com prioridade nos serviços de emergência. A instituição de unidades específicas nesses serviços para o manejo tem demonstrado melhora da sobrevida, pois permite estabelecer protocolos e acionar rapidamente intervenções necessárias, como trombólise e angioplastia para indivíduos com supradesnivelamento do segmento ST e exames subsidiários de emergência para dissecção de aorta, entre outras medidas.
+
  
-Figura 1 - Atendimento do doente com dor torácica, sugerido pelo American College of Emergency Physicians
+Figura 1 - Atendimento do paciente com dor torácica, sugerido pelo American College of Emergency Physicians
+
+Pergunta
+2011 - HSPE-SP (Baseada na prova)
+1. Um homem de 60 anos, com antecedente de hipertensão arterial sistêmica, começou a apresentar quadro de dor torá-cica em aperto de início súbito com irradiação para o dorso, com sudorese associada. Apresenta PA medida no membro superior direito de 250x130mmHg e ausência de pulso do membro superior esquerdo. Quais são as principais hipóteses diagnósticas?
+a) tromboembolismo pulmonar
+b) infarto agudo do miocárdio
+c) pneumotórax espontâneo 
+d) pancreatite aguda
+e) dissecção aguda de aorta
+Resposta no final do capítulo
+
+Pergunta
+2008 - HSPM-SP
+2. Uma mulher de 65 anos, há 3 horas com dor precordial irradiada para a região dorsal, nega tabagismo, diabetes ou disli-pidemia. Refere hipertensão arterial grave, com controle irregular. PA = 170x120mmHg; FC = 90bpm (rítmicos); sopro diastólico em foco aórtico. O eletrocardiograma é normal. É provável que essa paciente apresente, no exame físico:
+a) diminuição de murmúrio vesicular no hemitórax esquerdo
+b) edema e dor em uma das panturrilhas
+c) assimetria na palpação dos pulsos
+d) dor à palpação de gradeado costal
+e) egofonia e respiração soprosa em hemitórax
+Resposta no final do capítulo
+
+Pergunta
+2011 - SES-SC
+3. Em pacientes com hipertensão diastólica que apresentem sopro tipo insuficiência aórtica, deve-se suspeitar de:
+a) endocardite infecciosa
+b) pericardite constritiva
+c) dissecção aguda aórtica
+d) cardiomiopatia hipertrófica
+e) infarto agudo do miocárdio
+Resposta no final do capítulo
+
 5. Resumo
+
 Quadro-resumo
 - Dor torácica na sala de emergência é uma entidade clínica que exige cuidado no seu manejo, pois causas potencialmente fatais podem ser confundidas com outras de evolução benigna; 
-- A dissecção de aorta, o TEP e a síndrome coronariana aguda são as patologias que cursam com dor torácica e maior risco de mortalidade; 
+- A dissecção de aorta, o TEP e a síndrome coronariana aguda são as patologias que cursam com dor torácica e maior risco de mortalida-de; 
 - A causa mais frequente é a dor musculoesquelética; 
 - Idealmente, os pacientes com causa de dor torácica aguda de origem não definida devem ser avaliados em unidades de dor torácica para esclarecimento efetivo da causa, conforme protocolos institucionais. 
+
+Respostas
+1. E
+2. C
+3. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
