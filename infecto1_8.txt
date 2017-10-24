@@ -1,15 +1,23 @@
 Infecção hospitalar
 Durval A. G. Costa
+
+Resumo
+Este capítulo aborda o tema infecção hospitalar, definida como aquela que ocorre a partir de 72 horas da internação do paciente (ou seja, passadas as primeiras 48 horas), em ambiente hospitalar. As principais infecções hospitalares são as in-fecções do trato urinário, as pneumonias e as infecções do cateter venoso central. As primeiras estão relacionadas com o uso prolongado de sonda vesical, sendo os principais agentes causadores E. coli e Proteus sp., e o tratamento é feito com cefalosporina de 4ª geração até que se tenha o resultado do antibiograma. As pneumonias hospitalares estão associadas à ventilação mecânica e à intubação orotraqueal, sendo causadas principalmente por Pseudomonas aeruginosa e Staphylo-coccus aureus, com tratamento empírico com base no perfil da flora hospitalar, até que se tenha o resultado de culturas. Por fim, as infecções do cateter venoso são causadas sobretudo por Staphylococcus coagulase-negativos e Staphylococcus aureus, e o tratamento depende do resultado da cultura do cateter e da hemocultura.
+
 1. Introdução
 
 A Infecção Hospitalar (IH) poderia ser facilmente definida como aquela que acontece com o paciente no ambiente hospi-talar. Apesar dessa definição simplista, a IH merece capítulo à parte porque traz diversas características específicas. As princi-pais são:
 
 Tabela 1 - Principais características 
-Perfil microbiológico	O paciente no ambiente hospitalar entra em contato com microrganismos que sofrem, ininterrupta-mente, ação de antibióticos. Portanto, a colonização de pele e mucosas tende a acontecer com bacté-rias de perfil mais agressivo e baixa suscetibilidade aos antimicrobianos comumente utilizados na comunidade.
-Perfil da população internada	O paciente internado apresenta-se naturalmente debilitado (seja por uma cirurgia, seja por um tumor, seja por qualquer outra doença associada). A implicação prática é que a resposta imunológica não é tão efetiva quanto a de um paciente comunitário.
-Mecanismos iatrogênicos de invasão	O paciente hospitalar é normalmente invadido de diversas formas em nome de um tratamento clínico ou cirúrgico. Além de cortes de cirurgia, sondas, drenos e acessos centrais, deve-se lembrar que um simples acesso pode levar a uma IH como uma flebite. A simples quebra da barreira natural de prote-ção que temos (a pele) é grande causa de infecção dentro do hospital.
+Perfil microbiológico	O paciente no ambiente hospitalar entra em contato com micro-organismos que sofrem, inin-terruptamente, ação de antibióticos. Portanto, a colonização de pele e mucosas tende a aconte-cer com bactérias de perfil mais agressivo e baixa suscetibilidade aos antimicrobianos comu-mente utilizados na comunidade.
+Perfil da população internada	O paciente internado apresenta-se naturalmente debilitado (seja por uma cirurgia, seja por um tumor, seja por qualquer outra doença associada). A implicação prática é que a resposta imuno-lógica não é tão efetiva quanto a de um paciente comunitário.
+Mecanismos iatrogênicos de invasão	O paciente hospitalar é normalmente invadido de diversas formas em nome de um tratamento clínico ou cirúrgico. Além de cortes de cirurgia, sondas, drenos e acessos centrais, deve-se lem-brar que um simples acesso pode levar a uma IH como uma flebite. A simples quebra da barrei-ra natural de proteção que temos (a pele) é grande causa de infecção dentro do hospital.
 
-Para fins de denominação, uma infecção nosocomial é definida como aquela que ocorre a partir de 72 horas da interna-ção (ou seja, passadas as primeiras 48 horas). A partir desse momento, a flora bacteriana passa a ser a hospitalar, e o risco de falha em tratamentos voltados para microrganismos comunitários é muito grande. 
+Para fins de denominação, uma infecção nosocomial é definida como aquela que ocorre a partir de 72 horas da interna-ção (ou seja, passadas as primeiras 48 horas), ou mesmo após a alta do paciente, quando puder ser relacionada com a inter-nação ou com os procedimentos hospitalares. A partir desse momento, a flora bacteriana passa a ser a hospitalar, e o risco de falha em tratamentos voltados para micro-organismos comunitários é muito grande. 
+
+Importante
+A infecção hospitalar é aquela que ocorre após 72 horas da internação, passadas as 48 horas iniciais, podendo ainda ser considerada após a alta do paciente, quando a afecção pode ser relacionada com a internação ou com procedimentos hospitalares.
+
 Qualquer infecção adquirida no ambiente hospitalar após o período de 48 horas iniciais é considerada hospitalar. Desta forma, uma conjuntivite que aparece após 1 semana de internação é considerada IH, por exemplo. As principais infecções nesse ambiente são as do trato urinário, as pneumonias nosocomiais e as infecções de cateteres venosos – as quais serão abordadas neste capítulo. Apesar de a infecção de sítio cirúrgico ser importante do ponto de vista de ocorrer apenas em ambientes cirúrgicos, esse não é o foco aqui, e sim apenas as mais frequentes. 
 
 2. Infecção do trato urinário
@@ -17,7 +25,11 @@ Qualquer infecção adquirida no ambiente hospitalar após o período de 48 horas in
 A infecção do trato urinário em ambiente hospitalar (ITUH) é a mais prevalente entre as IHs. Cerca de metade destas são de ITUH (entre 45 e 55%). Em geral, a ITUH é apenas coadjuvante no motivo da internação e, com bom tratamento, evolui para cura. Entretanto, aumenta a mortalidade em extremos de idade (crianças e idosos internados) e com o tempo de internação (entre 2 dias e 1 semana), além de ser a principal causa de sepse por Gram negativos no ambiente hospitalar.  
 
 A - Cateter vesical e biofilme
-Grande herói e principal vilão dentro do hospital, o cateter vesical é indispensável em casos de controle de diurese de pacientes graves e em diversas outras situações. Entretanto, sem dúvida é o principal causador de bacteriúrias assintomáticas e ITUH aos pacientes que necessitam do seu uso. 
+Grande herói e principal vilão dentro do hospital, o cateter vesical é indispensável em casos de controle de diurese de pacientes graves e em diversas outras situações. 
+
+Importante
+O cateter vesical é o principal causador de bacteriúrias assintomáticas e infecção do trato urinário em ambiente hospitalar (ITUH) aos pacientes que necessitam do seu uso, uma vez que está associado à formação de biofilme. 
+
 A questão que justifica e envolve infecção em cateteres (vesicais ou sanguíneos) é a formação de biofilme. A partir do momento em que o cateter é inserido, inicia-se um processo de colonização em torno da superfície deste. Com o tempo, o cateter se encontra totalmente colonizado e um verdadeiro “túnel” de bactérias se forma ao seu redor. Essas bactérias ficam em simbiose com o contato com os tecidos, mas em determinado momento a quantidade delas aumenta tanto que passam a ser infectantes. Esse mecanismo é o chamado quorum sensing, o momento em que a infecção propriamente dita se inicia. 
 
  
@@ -36,7 +48,11 @@ Tabela 2 - Indicações para sondas vesicais de demora
 - Pacientes que devem permanecer imóveis (fraturas complexas, paciente gravíssimos imobilizáveis).
 
 B - Agentes etiológicos mais frequentes
-As ITUHs apresentam perfil microbiológico bem diferente das comunitárias. Deve-se lembrar que, na comunidade, 70 a 85% das ITUs são causadas por Escherichia coli. Em institucionalizados (casas de repouso, por exemplo), esse número cai para 50%, com aumento de outros Gram negativos. No paciente hospitalar, esse número ainda é menor (30 a 40% causadas por E. coli). 
+As ITUHs apresentam perfil microbiológico bem diferente das comunitárias. Deve-se lembrar que, na comunidade, 70 a 85% das infecções do trato urinário são causadas por Escherichia coli. Em institucionalizados (casas de repouso, por exemplo), esse número cai para 50%, com aumento de outros Gram negativos. No paciente hospitalar, esse número ainda é menor (30 a 40% causadas por E. coli). 
+
+Importante
+Os principais agentes causadores de ITUH são E. coli em 40 a 50% dos casos, Proteus sp., Pseudomonas aeruginosa, Klebsiel-la sp., Enterobacter sp., Enterococcus faecalis e Candida spp.
+
 No ambiente hospitalar, entretanto, outras bactérias são persistentemente causadoras de ITUH, principalmente as entero-fermentadoras (Proteus, Providencia, Klebsiella, Morganella, Serratia, entre outras). Bactérias Gram positivas, relacionadas às fezes (como Enterococcus) e ao uso prolongado de cateteres vesicais (como Staphylococcus coagulase-negativo), deixam de ser sugestivas de contaminação e passam a ser consideradas como infectantes nessa população. A incidência de infecções fúngicas por Candida é assustadora, principalmente entre os sedados e com longos períodos em UTI. 
 No entanto, a E. coli ainda é a principal causa de infecção. 
 
@@ -59,83 +75,91 @@ ITUH
 * Quando consideradas as ITUHs apenas relacionadas ao cateter vesical de demora, as infecções por Candida spp. passam a ser a 2ª causa de infecção (até 30% desses pacientes), atrás apenas da E. coli.
 
 C - Bacteriúria assintomática
-A definição de bacteriúria assintomática é difícil desde aquela que ocorre na comunidade até aquela em um paciente em ambiente hospitalar, com doença grave, em que o resultado de um exame de urina deixa dúvidas sobre a existência de uma bactéria causadora de infecção ou apenas colonizante. Por isso, critérios foram adotados para tentar minimizar esses erros frequentes e a ansiedade do médico em tratar bactérias não infectantes. O critério mais utilizado é o do CDC (Centers for Disease Control and Prevention), que ajuda a guiar claramente o diagnóstico.
+A definição de bacteriúria assintomática causa complicações. Desde aquela que ocorre na comunidade até aquela em um paciente em ambiente hospitalar, com doença grave, o resultado de um exame de urina pode deixar dúvidas sobre a existên-cia de uma bactéria causadora de infecção ou apenas colonizante. Por isso, critérios foram adotados para tentar minimizar esses erros frequentes e a ansiedade do médico em tratar bactérias não infectantes. O critério mais utilizado é o do CDC (Centers for Disease Control and Prevention), que ajuda a guiar claramente o diagnóstico.
 
 Tabela 4 - Bacteriúria assintomática em ambiente hospitalar
 - Paciente que teve cateter urinário de demora até 7 dias antes da cultura suspeita de bacteriúria assintomática;
-- Cultura de urina positiva, que significa mais do que 105 microrganismos por mL de urina;
-- Não mais do que 2 espécies de microrganismos ao mesmo tempo; 
+- Cultura de urina positiva, que significa mais do que 105 micro-organismos por mL de urina;
+- Não mais do que 2 espécies de micro-organismos ao mesmo tempo; 
 - Paciente sem febre, sem qualquer clínica de urgência miccional, disúria ou dor suprapúbica.
 
 D - Diagnóstico 
+
+Diagnóstico
+Para o diagnóstico de ITUH, levam-se em conta a clínica do paciente, o número de procedimentos invasivos realizados e os antibióticos já utilizados. Sendo assim, são considerados critérios que consideram a presença ou ausência da sonda vesical de demora, ou o tempo de sua retirada e as manifestações clínicas apresentadas (febre, desconforto suprapúbico, urgência miccional, aumento da frequência miccional e disúria).
+
 Os critérios diagnósticos de uma ITUH relacionam-se ao estado clínico do paciente, ao número de invasões presentes e ainda aos antibióticos previamente utilizados. Esses fatores associados aumentam o risco de seleção para bactérias multirre-sistentes e falha do tratamento clínico empírico. Portanto, o 1º ponto é a definição de ITUH. Muitas vezes, um paciente crítico apresenta febre não esclarecida, e uma alteração de exame de urina pode ser o único indício de infecção. 
 É essencial que o internado tenha, além do exame de urina tipo I, uma cultura coletada adequadamente. Quando se fala em coleta adequada, é imprescindível que aqueles com sondagem vesical de demora tenham a sonda trocada antes da coleta (desde que não tenham condições que impeçam a troca). 
 A presença de nitritos no exame de urina é outro fator que ajuda no diagnóstico de uma provável ITUH. Entretanto, a pre-sença de bactérias não significa, necessariamente, a infecção em atividade, lembrando que colonizações no perfil de paciente hospitalar são frequentes, principalmente se sondado, pela presença do biofilme.
-Existem diferentes critérios para a definição de ITU hospitalar. O CDC possui um protocolo generalista utilizado amplamen-te. No Brasil, existe um protocolo feito pelo Centro de Vigilância Epidemiológica (CVE), que retrata de maneira mais adequada a realidade local. Por esse motivo, apresentaremos os critérios daqui, com o CVE. O primeiro quadro relata critérios para pacientes que se encontram em uso de sonda vesical de demora ou não, utilizando como diagnóstico urinário a associação de resultado de cultura apenas:
+Existem diferentes critérios para a definição de ITUH. O CDC possui um protocolo generalista utilizado amplamente. No Brasil, existe um protocolo feito pelo Centro de Vigilância Epidemiológica (CVE), que retrata de maneira mais adequada a rea-lidade local. Por esse motivo, apresentaremos os critérios daqui, com o CVE. O primeiro quadro relata critérios para pacientes que se encontram em uso de sonda vesical de demora ou não, utilizando como diagnóstico urinário a associação de resultado de cultura apenas:
 
-Tabela 5 - 1º critério de definição de ITU hospitalar pelo CVE 
+Tabela 5 - 1º critério de definição de infecção do trato urinário hospitalar pelo Centro de Vigilância Epidemiológica 
 Critério 1a (associado a sonda vesical)
 - Paciente com sonda no momento da coleta da urocultura e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconhecida:
-  · Febre (=38°C);
-  · Desconforto suprapúbico;
-  · Dor ou desconforto no ângulo costovertebral.	Cultura de urina com =105 UFC/mL com, no máximo, 2 espécies de microrganismos
-- Paciente com sonda vesical removida até 48 horas antes da coleta da urocultu-ra e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconheci-da:
-- Febre (=38°C);
-- Desconforto no ângulo costovertebral;
-- Urgência miccional;
-- Aumento da frequência miccional;
-- Disúria.	
+· Febre (=38°C);
+· Desconforto suprapúbico;
+· Dor ou desconforto no ângulo costovertebral.	Cultura de urina com =105UFC/mL com, no máximo, 2 espécies de micro-organismos
+- Paciente com sonda vesical removida até 48 horas antes da coleta da uro-cultura e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconhecida:
+· Febre (=38°C);
+· Desconforto no ângulo costovertebral;
+· Urgência miccional;
+· Aumento da frequência miccional;
+· Disúria.	
 Critério 1b
 - Paciente sem sonda vesical e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconhecida:
-  · Febre (=38°C);
-  · Desconforto suprapúbico;
-  · Dor e desconforto no ângulo costovertebral;
-  · Urgência miccional;
-  · Aumento da frequência miccional;
-  · Disúria.	Cultura de urina com =105 UFC/mL com, no máximo, 2 espécies de microrganismos
+· Febre (=38°C);
+· Desconforto suprapúbico;
+· Dor e desconforto no ângulo costovertebral;
+· Urgência miccional;
+· Aumento da frequência miccional;
+· Disúria.	Cultura de urina com =105UFC/mL com, no máximo, 2 espécies de micro-organismos
 
 O 2º critério envolve outros métodos urinários para auxiliar no diagnóstico, como fita urinária ou avaliação de piúria:
 
-Tabela 6 - 2º critério de definição de ITU hospitalar pelo CVE 
+Tabela 6 - 2º critério de definição de infecção do trato urinário hospitalar pelo Centro de Vigilância Epidemiológica
 Critério 2a (associado a sonda vesical)
-- Pacientes com sonda vesical no momento da coleta da urocultura e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconhecida:
-  · Febre (=38°C);
-  · Desconforto suprapúbico;
-  · Dor ou desconforto no ângulo costovertebral.	- Análise de urina com pelo menos 1 dos seguintes:
-  · Teste em fita urinária positivo para esterase leucocitária e/ou nitrato;
-  · Piúria (=10 leucócitos/campo ou =10.000 leucóci-tos/mL);
-  · Microrganismos identificados em coloração de Gram.
-- Paciente com sonda vesical removida 48 horas antes da coleta da urocultura e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconhecida:
-  · Febre (=38°C);
-  · Desconforto suprapúbico;
-  · Dor ou desconforto no ângulo costovertebral;
-  · Urgência miccional;
-  · Aumento da frequência miccional;
-  · Disúria.	Cultura de urina com =103 e =105 UFC/mL com, no máximo, 2 espécies de microrganismos
+- Pacientes com sonda vesical no momento da coleta da urocultura e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reco-nhecida:
+· Febre (=38°C);
+· Desconforto suprapúbico;
+· Dor ou desconforto no ângulo costovertebral.	- Análise de urina com pelo menos 1 dos seguintes:
+· Teste em fita urinária positivo para esterase leucocitária e/ou nitrato;
+·	Piúria (=10 leucócitos/campo ou =10.000 leucócitos/mL);
+·	Micro-organismos identificados em coloração de Gram.
+- Paciente com sonda vesical removida 48 horas antes da coleta da uro-cultura e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconhecida:
+· Febre (=38°C);
+· Desconforto suprapúbico;
+·	Dor ou desconforto no ângulo costovertebral;
+· Urgência miccional;
+· Aumento da frequência miccional;
+· Disúria.	Cultura de urina com =103 e =105UFC/mL com, no máximo, 2 espécies de micro-organismos
 Critério 2b
 - Paciente sem sonda vesical e pelo menos 1 dos seguintes sinais ou sintomas sem outra causa reconhecida:
-  · Febre (=38°C);
-  · Desconforto suprapúbico;
-  · Dor ou desconforto no ângulo costovertebral;
-  · Urgência miccional;
-  · Aumento da frequência miccional;
-  · Disúria.	- Análise de urina com pelo menos 1 dos seguintes:
-  · Teste em fita urinária positivo para esterase leucocitária e/ou nitrato;
-  · Piúria (=10 leucócitos/campo ou =10.000 leucóci-tos/mL);
-· Microrganismos identificados em coloração de Gram.
-	Cultura de urina com =103 e =105 UFC/mL com, no máximo, 2 espécies de microrganismos
+· Febre (=38°C);
+· Desconforto suprapúbico;
+·	Dor ou desconforto no ângulo costovertebral;
+· Urgência miccional;
+·	Aumento da frequência miccional;
+· Disúria.	- Análise de urina com pelo menos 1 dos seguintes:
+·	Teste em fita urinária positivo para esterase leucocitária e/ou nitrato;
+·	Piúria (=10 leucócitos/campo ou =10.000 leucócitos/mL);
+·	Micro-organismos identificados em coloração de Gram.
+	Cultura de urina com =103 e =105UFC/mL com, no máximo, 2 espécies de micro-organismos
 
-Atenção
-Os critérios diagnósticos são diferentes em pacientes sondados ou não. Também diferem para crianças, neste caso, por conta da manei-ra da coleta e da dificuldade de definição da sintomatologia clínica.
+Dica
+Os critérios diagnósticos de ITUH são diferentes em pacientes sondados ou não. Também diferem para crianças, neste caso, por conta da maneira da coleta e da dificuldade de definição da sintomatologia clínica.
 
-E - Tratamento 
+E - Tratamento
+
+Tratamento
+O tratamento da ITUH é empírico até que se tenha o resultado do antibiograma e deve ser feito com uma cefalosporina de 4ª geração, focando principalmente em bactérias Gram negativas.
+
 O tratamento deve respeitar a flora bacteriana de cada hospital. A cobertura deve focar, principalmente, bactérias Gram negativas (enterofermentadoras na sua grande maioria), mas com espectro mais resistente do que no âmbito comunitário. Desta forma, a droga de escolha empírica até o resultado do antibiograma deve ser sempre uma cefalosporina de 4ª geração, no mínimo.
 A presença maciça de candidúrias faz que a cobertura possa ser introduzida de acordo com a gravidade do paciente e o ambiente (se em unidade crítica), mesmo sem o resultado definitivo da cultura, mas com urina I com presença de leveduras e forte indício de infecção por Candida sp. 
 
-  
-Figura 2 - Introdução de antibioticoterapia empírica até o resultado da cultura em ITUH
+ 
+Figura 2 - Introdução de antibioticoterapia empírica até o resultado da cultura em infecção do trato urinário em ambiente hospitalar
 
-Tabela 7 - Tratamentos para ITUH
+Tabela 7 - Tratamentos para infecção do trato urinário em ambiente hospitalar
 1 - Espectro amplo: paciente mais grave
 - Cefepima, 2g IV 8/8h, ou piperacilina/tazobactam 4/0,5g 8/8h + vancomicina 1g IV 12/12h;
 - Discutir antifúngico: fluconazol 100mg IV 12/12h se leveduras em urina I;
@@ -143,10 +167,10 @@ Tabela 7 - Tratamentos para ITUH
 - Se já em cobertura difusa, mas mantendo sinais de infecção urinária, trocar sonda vesical de demora e solicitar exame de imagem (ultrassonografia/tomografia) para procurar abscessos renais.
 2 - Hospitalar, mas com cobertura mais leve
 - Cefepima, 1g IV 8/8h; ou
-- Piperacilina/tazobactam 4/5g 8/8h;
+- Piperacilina/tazobactam 4/0,5g 8/8h;
 - Mudança de antibiótico de acordo com o resultado da cultura ou a evolução do paciente.
-Outras medidas para tratamento
-- Trocar sonda vesical de demora (obrigatório se ITUH por fungos);
+Dicas úteis para o tratamento de ITUH
+- Trocar sonda vesical de demora (OBRIGATÓRIO se ITUH por fungos);
 - Retirar sonda vesical de demora o mais precocemente possível;
 - Não deixar sonda vesical de demora com retorno acima do nível do paciente (alto risco de refluxo urinário e manutenção de infecção);
 - Dar preferência para antibióticos com ótima eliminação urinária (facilita tratamento).
@@ -155,7 +179,7 @@ Outras medidas para tratamento
 
 A - Introdução
 Trata-se de uma das infecções mais frequentes no âmbito de cuidados críticos como as UTIs. Em alguns países da Europa, é a principal causa de mortalidade em pacientes graves. No Brasil, existem poucos dados. Os trabalhos localizados de grandes serviços de terapia intensiva mostram sua prevalência em 2º lugar, atrás apenas das ITUs.  
-Sem dúvida, a pneumonia hospitalar (PNMH) é mais frequente nos extremos de idade, com alta mortalidade especialmen-te entre idosos acima de 70 anos (mais de 60% nessa faixa etária). Pacientes com comorbidades (diabetes mellitus, asma, Do-ença Pulmonar Obstrutiva Crônica – DPOC –, doenças reumatológicas ou neurológicas) apresentam também risco aumentado de ocorrência da PNMH, e uma vez com este perfil de pneumonia, apresentam mortalidade maior que da população em ge-ral. A mortalidade por PNMH, mais especificamente associada à ventilação mecânica, está em torno de 50%. Existe ainda o aspecto do aumento de custo da internação, pela necessidade de suporte mais aumentado e ainda maior tempo de interna-ção.
+Sem dúvida, a pneumonia hospitalar (PNMH) é mais frequente nos extremos de idade, com alta mortalidade especialmen-te entre idosos acima de 70 anos (mais de 60% nessa faixa etária). Pacientes com comorbidades (diabetes mellitus, asma, Do-ença Pulmonar Obstrutiva Crônica – DPOC –, doenças reumatológicas ou neurológicas) apresentam também risco aumentado de ocorrência da PNMH, e uma vez com este perfil de pneumonia, apresentam mortalidade maior que da população em ge-ral. A mortalidade por PNMH, mais especificamente associada à ventilação mecânica, está em torno de 50%. Existe ainda o aspecto do aumento de custo da internação, pela necessidade de suporte mais aumentado e ainda maior tempo de interna-ção. Em crianças abaixo de 5 anos, e especialmente em lactentes, também é fonte importante de mortalidade, como nas pneumonias adquiridas na comunidade. 
 
 Tabela 8 - Fatores de risco mais frequentes 
 - Idade >50 anos (com a maior mortalidade entre idosos acima de 70 anos);
@@ -170,16 +194,19 @@ Procedimentos invasivos que envolvam manipulação das vias aéreas devem ser evita
 B - Definições 
 A PNMH é definida como ocorrida após 48 horas de internação hospitalar. Essa definição é muito simples. Entretanto, po-dem-se subdividir os tipos, a fim de avaliar risco de óbito ou necessidade de suporte intensivo. Desta forma, uma pneumonia em um paciente com DPOC há 1 semana no hospital, mas em enfermaria, não pode ser tratada da mesma forma que uma PNMH em um paciente sob ventilação mecânica há 1 semana.
 
+Importante
+A pneumonia hospitalar (PNMH) é aquela que ocorre após 48 horas de internação hospitalar e pode ter os seguintes tipos: pneumonia hospitalar sem necessidade de ventilação mecânica, pneumonia associada a ventilação mecânica, tra-queobronquite e pneumonia de institucionalizados. Para cada um desses tipos há um tratamento mais individualizado.
+
 Tabela 9 - Tipos 
 PNMH (sem necessidade de ventilação mecânica)
-Após 48 horas de internação em qualquer paci-ente. Grosso modo, os outros tipos de pneumo-nia também são hospitalares. Esse perfil é subdivido em:	Precoce	Quando ocorre até o 5º dia de internação
+Após 48 horas de internação em qualquer paciente. Esse perfil é subdivido em:	Precoce	Quando ocorre até o 5º dia de internação
 	Tardio	Quando ocorre a partir do 5º dia de internação
 Pneumonia associada a ventilação mecânica (PAV)
-Neste caso, além de ser uma PNMH, o paciente deve estar intubado em ventilação mecânica por, no mínimo, 48 horas. Portanto, se a pneumonia aparecer após as 48 horas iniciais, será considerada PAV.
+Neste caso, além de ser uma PNMH, o paciente deve estar intubado em ventilação mecânica por, no mínimo, 48 horas. Portanto, se a pneumonia aparecer após as 48 horas iniciais de uma intubação orotraqueal, será considerada PAV.
 Traqueobronquite no ambiente hospitalar
-O paciente asmático ou com DPOC pode não apresentar imagem pulmonar, mas pode desenvolver infecções bacte-rianas altas em traqueia, com gravidade, pela dispneia. Também pode ocorrer em pacientes que passaram por longos períodos de intubação e se mantêm secretivos.
+O paciente asmático ou com DPOC pode não apresentar imagem pulmonar, mas pode desenvolver infecções bacterianas altas em traqueia, com gravidade, pela dispneia. Também pode ocorrer em pacientes que passaram por longos períodos de intubação e se man-têm secretivos.
 Pneumonia de institucionalizados (relacionada ao cuidado em saúde)
-Este perfil de infecção ocorrerá sempre após 48 horas de internação, pois o perfil do paciente é estar em convívio com outros, em ambiente hospitalizado. Apesar de não haver a mesma agressividade que o paciente em ambiente hospitalar tradicional, este paciente responde mal ao tratamento, caso este seja realizado com antibióticos para Pneumonia Adquirida na Comunidade (PAC).
+Este perfil de infecção ocorrerá sempre após 48 horas de internação, pois o perfil do paciente é estar em convívio com outros, em am-biente hospitalizado. Apesar de não haver a mesma agressividade que o paciente em ambiente hospitalar tradicional, este paciente responde mal ao tratamento, caso este seja realizado com antibióticos para Pneumonia Adquirida na Comunidade (PAC).
 
 Tabela 10 - Tipos de pneumonias adquiridas no ambiente hospitalar
 - PNMH (sem necessidade de ventilação mecânica);
@@ -193,12 +220,15 @@ C - Agentes mais prevalentes
 Os 2 principais agentes causadores são o Pseudomonas aeruginosa e o Staphylococcus aureus, mas com perfil de resistên-cia a meticilinas (Staphylococcus aureus meticilinorresistente – MRSA). Lembre ainda que outras Gram negativas, as bactérias enterofermentadoras (Proteus, Providencia, Klebsiella, Morganella, Serratia, entre outras), são muito frequentes.
 Se considerarmos o tempo de início, o perfil microbiológico também mudará. A PNMH de início precoce (=4 dias) comu-mente resulta da aspiração de germes como S. pneumoniae, H. influenzae e S. aureus oxacilinossensível. A PNMH de início tardio (após 5 dias de admissão) associa-se à aspiração de conteúdo gástrico ou orofaríngeo contendo patógenos hospitalares potencialmente resistentes; ou seja, associa-se a mortalidade alta, não observada com tal intensidade na pneumonia de início precoce, em que a mortalidade é a mesma que a comunitária.
 
+Dica
+Os principais agentes causadores de PNMH são Pseudomonas aeruginosa e Staphylococcus aureus meticilinorresistente.
+
 Tabela 11 - Principais patógenos causadores 
 Causadores mais frequentes	Observações
 Pseudomonas aeruginosa	- Mais frequente dos Gram negativos;
 	- Em torno de 20% das PNMHs;
 	- Agente mais frequente em PAVs.
-MRSA	- Mais frequente entre Gram positivos;
+MRSA (Staphylococcus aureus meticilinorresistente)	- Mais frequente entre Gram positivos;
 	- Em torno de 25% das PNMHs.
 Klebsiella pneumoniae	As enterobactérias correspondem à metade dos casos de PNMH, quando se somam todas as bactérias desta classe. 
 Escherichia coli	As enterobactérias correspondem à metade dos casos de PNMH.
@@ -206,7 +236,7 @@ Anaeróbios: essencialmente Peptostreptococcus, Peptococcus e Fusobacterium (os 3
 S. pneumoniae	- Na PAC, é o principal causador;
 	- Não passa de 10%.
 Haemophilus influenzae	- Cada vez menos visto, dada a vacinação; 
-	- Mais comum na PAC do que na PNMH.
+	-	Mais comum na PAC do que na PNMH.
 Acinetobacter spp.	É muito frequente em pacientes com PAV.
 Staphylococcus coagulase-negativo	- Geralmente MRSA;
 	- Apesar de serem muitas vezes contaminantes, em pacientes imunodeprimidos ou em cuidados intensivos podem ser causadores de PNMH.
@@ -214,44 +244,57 @@ Staphylococcus coagulase-negativo	- Geralmente MRSA;
 Em vários pacientes, a PNMH é causada por várias bactérias ao mesmo tempo, o que dificulta o tratamento e aumenta a mortalidade. Desta maneira, o conhecimento do perfil microbiológico de cada hospital é muito importante para o tratamento das PNMHs de maneira adequada. 
 
 D - Clínica e fisiopatologia
+
+Importante
+O quadro clínico da PNMH é semelhante ao da pneumonia adquirida na comunidade (tosse, expectoração, febre e dis-pneia) no paciente vígil. Naqueles sob ventilação mecânica, é necessário investigação radiológica quando há aumento de secreção.
+
 O quadro clínico é muito semelhante ao quadro de uma PAC em sintomas, desde que o paciente esteja consciente e ori-entado. Desta maneira, se ele estiver vígil, tosse produtiva com escarro amarelado será a principal clínica, associada a febre e dispneia. O principal problema, no entanto, são os pacientes com condições especiais. Um paciente em intubação orotraqueal pode apresentar poucos sintomas clínicos visíveis (está sob sedação). Nesse caso, o controle radiológico associado ao aumen-to de secreção é um fator importante para a determinação de um quadro infeccioso pulmonar hospitalar.
 A piora do padrão ventilatório é frequente em pneumonias, mas, em um paciente idoso, com febre e piora clínica, o agra-vamento do perfil de consciência pode ser a única pista clínica. Em um paciente intubado, também pode ser o 1º sinal de parênquima pulmonar com infecção aguda. 
 A principal causa de PNMHs é a aspiração de bactérias que vivem na orofaringe. Especificamente relacionada a PAVs, a cânula endotraqueal mantém as pregas vocais abertas, facilitando a aspiração por meio de outros dispositivos e equipamentos utilizados no ambiente hospitalar, já que retira as barreiras mecânicas naturais que existem para a bactéria descender até os brônquios. Neste caso, também não existe o reflexo de tosse, já que o paciente está sedado. O último fator que facilita as infecções são as secreções presentes na região onde o cuff orotraqueal está insuflado. À medida que o tempo de intubação passa, se o cuff fica menos insuflado, o material acumulado desce rumo à via aérea. A pressão do cuff deve estar maior do que 25cm de água (e menor do que 30cm para evitar lesão traqueal). Deve haver, ainda, intubação com luvas estéreis com aspira-ção pré-intubação efetiva, fato esquecido por muitos médicos. 
 
 E - Diagnóstico
+
+Diagnóstico
+Assim como na pneumonia adquirida na comunidade, o diagnóstico de PNMH é baseado na clínica, nos achados radiológi-cos e laboratoriais. Porém, é necessário definir se a pneumonia é hospitalar ou não para melhor definição do tratamento, e, para tanto, utilizam-se critérios como aparecimento de infiltrado pulmonar novo ou progressivo no raio x de tórax; febre >38°C; leucocitose (>10.000/mm3) ou leucopenia (<4.000/mm3); e secreção traqueal purulenta.
+
 Uma PNMH necessita de mecanismos eficazes para o tratamento, diminuindo a morbidade e a mortalidade. Por isso, o 1º passo é saber identificar quando uma pneumonia é hospitalar. O surgimento de um infiltrado pulmonar observado na radio-grafia de tórax, persistente, sem outra causa aparente e associado a secreção pulmonar purulenta, bem como o aparecimen-to de febre e leucocitose, são os principais indícios de PNMH. Embora não seja acordo universal, a alteração das trocas gaso-sas também pode ser considerada. Os critérios diagnósticos, de acordo com o Consenso Brasileiro de Pneumonia Nosocomial, são:
-Aparecimento de infiltrado pulmonar novo ou progressivo, no raio x de tórax;
-Presença de sinais e alterações laboratoriais:
-Febre definida por temperatura >38°C;
-Leucocitose (>10.000/mm3) ou leucopenia (<4.000/mm3);
-Secreção traqueal purulenta. 
+
+Tabela 12 - Aparecimento de infiltrado pulmonar novo ou progressivo, no raio x de tórax
+Presença de sinais e alterações laboratoriais
+- Febre definida por temperatura >38°C;
+- Leucocitose (>10.000/mm3) ou leucopenia (<4.000/mm3);
+- Secreção traqueal purulenta.
+
 Existem, ainda, os critérios definidores de PNMH, de acordo com a vigilância epidemiológica, para definição de caso de IH de vias aéreas:
 
-Tabela 12 - Critérios definidores de PNMH de acordo com a vigilância epidemiológica
+Tabela 13 - Critérios definidores de pneumonia hospitalar de acordo com a vigilância epidemiológica
 Radiologia	Sinais/sintomas	Laboratório
-- Paciente com doença de base com 2 ou mais raios x seriados com 1 dos seguintes achados:
-  · Infiltrado novo, progressi-vo e persistente;
-  · Opacificação;
-  · Cavitação.	- Pelo menos 1 dos seguintes:
-  · Febre (=38°C) sem outra causa conhecida;
-  · Leucopenia (=4.000 leucócitos/mm3) ou leucocitose (=12.000 leucócitos/mm3).	- Paciente apresenta sinais e sintomas de acordo com o relacionado ao lado e pelo menos 1 dos seguintes:
-  · Hemocultura positiva sem outro foco de infecção;
-  · Cultura positiva de líquido pleural;
-  · Lavado broncoalveolar =104 UFC/mL ou aspirado traqueal com contagem de colônias =106 UFC/mL;
-  · Exame histopatológico com evidência de infecção pulmonar;
-  · Antígeno urinário ou cultura para Legionella spp.;
-  · Outros testes laboratoriais positivos para patógenos respiratórios (sorologia, pesquisa direta e cultura).
+- Paciente com doença de base com 2 ou mais raios x seriados com 1 dos seguin-tes achados:
+· Infiltrado novo, progressivo e persistente;
+· Opacificação;
+· Cavitação.	- Pelo menos 1 dos seguintes:
+· Febre (=38°C) sem outra causa conhecida;
+· Leucopenia (=4.000 leucócitos/mm3) ou leucocitose (=12.000 leucócitos/mm3).	- Paciente apresenta sinais e sintomas de acordo com o relacionado ao lado e pelo menos 1 dos seguintes:
+· Hemocultura positiva sem outro foco de infecção;
+· Cultura positiva de líquido pleural;
+· Lavado broncoalveolar =104UFC/mL ou aspirado tra-queal com contagem de colônias =106UFC/mL;
+· Exame histopatológico com evidência de infecção pulmonar;
+· Antígeno urinário ou cultura para Legionella spp.;
+· Outros testes laboratoriais positivos para patógenos respiratórios (sorologia, pesquisa direta e cultura).
 	- E pelo menos 1 dos seguintes:
-  · Surgimento de secreção purulenta, mu-dança das características da secreção, au-mento da secreção ou aumento da neces-sidade de aspiração;
-  · Piora da troca gasosa (piora da relação paO2–FiO2, aumento da necessidade de oxigênio ou aumento dos parâmetros venti-latórios).	
+· Surgimento de secreção purulenta, mu-dança das características da secreção, aumento da secreção ou aumento da ne-cessidade de aspiração;
+· Piora da troca gasosa (piora da relação paO2–FiO2, aumento da necessidade de oxigênio ou aumento dos parâmetros ven-tilatórios).	
 	- Pneumonia definida clinicamente.	- Pneumonia definida microbiologicamente.
 Observação: para pacientes sem doença pulmonar ou cardíaca prévia, é aceitável uma radiografia bem definida. 
 
 O quadro de critérios é destinado para pacientes adultos em situações sem particularidades. Podem-se considerar, tam-bém, métodos específicos para o diagnóstico de pneumonia em crianças internadas, neonatos, imunodeprimidos e até mes-mo para bactérias fastidiosas ou de apresentação atípica no ambiente hospitalar. Entretanto, a necessidade de critérios mais específicos e diretos para identificação de uma PNMH levou à elaboração de um escore clínico para identificação, chamado CPIS (Clinical Pulmonary Infection Score), o qual é muito conhecido e utilizado por equipes multiprofissionais, incluindo fisiote-rapeutas e enfermeiros intensivistas.
 
-Tabela 13 - Critérios de avaliação do CPIS
+Importante
+Critérios mais específicos e diretos foram criados a fim de identificar uma PNMH, denominados de Clinical Pulmonary Infec-tion Score, que avaliam temperatura axilar, presença de leucócitos periféricos, secreção traqueal, índice de oxigenação de paO2–FiO2mmHg, raio x de tórax e cultura semiquantitativa de aspirado traqueal.
+
+Tabela 14 - Critérios de avaliação do Clinical Pulmonary Infection Score
 Temperatura axilar
-=36,5 e =38,4 = 0 ponto	A temperatura habitualmente usada pelos americanos é a oral, mas, para grandes variações, como as do lado, podem ser utilizados valores axilares.
+=36,5 e =38,4 = 0 ponto	A temperatura habitualmente usada pelos americanos é a oral, mas, para gran-des variações, como as do lado, podem ser utilizados valores axilares.
 =38,5 e =38,9 = 1 ponto	
 =39 ou =36 = 2 pontos	
 Leucócitos periféricos
@@ -259,21 +302,22 @@ Leucócitos periféricos
 <4.000 ou >11.000 = 1 ponto + bastões =500 = 1 ponto	
 Secreção traqueal
 <14+ = 0 ponto	- A secreção traqueal é classificada entre 1 e 4 cruzes (+/++/+++/++++);
-- O valor considerado se dá pelo número de aspirações do dia (somam-se as cru-zes).
+- O valor considerado se dá pelo número de aspirações do dia (somam-se as cruzes).
 =14+ = 1 ponto + secreção purulenta = + 1 ponto	
 Índice de oxigenação: paO2–FiO2mmHg
->240 ou SDRA = 0 ponto	A Síndrome do Desconforto Respiratório Agudo (SDRA) pode ser, sozinha, definição de baixa taxa de oxigenação.
+>240 ou SDRA = 0 ponto	A Síndrome do Desconforto Respiratório Agudo (SDRA) pode ser, sozinha, defini-ção de baixa taxa de oxigenação.
 =240 e ausência de SDRA = 2 pontos	
 Raio x de tórax
 Sem infiltrado = 0 ponto	O raio x é de boa qualidade e sem imagem prévia. 
 Infiltrado difuso = 1 ponto	
 Cultura semiquantitativa do aspirado traqueal
-Cultura de bactéria patogênica =1+ ou sem crescimento = 0 ponto	A contagem é feita para zero, 1, 2 ou 3 cruzes.
+Cultura de bactéria patogênica =1+ ou sem cresci-mento = 0 ponto	A contagem é feita para zero, 1, 2 ou 3 cruzes.
 Cultura de bactéria patogênica >1+ = 1 ponto + mesma bactéria identificada ao Gram >1+ = +1 ponto	
 
-A função dessa classificação é facilitar o diagnóstico da PNMH e agilizar o seu tratamento precoce na avaliação diária de um paciente em UTI, em ventilação mecânica.  
+Dica
+A função da classificação do Clinical Pulmonary Infection Score é facilitar o diagnóstico da PNMH e agilizar o seu tratamento precoce na avaliação diária de um paciente em UTI, em ventilação mecânica.  
 
-Tabela 14 - Avaliação do CIPS
+Tabela 15 - Avaliação do Clinical Pulmonary Infection Score
 Valor do CPIS (máximo de 12)	Comentários
 Acima de 6	- Alta chance de PAV;
 	- 100% de especificidade;
@@ -281,13 +325,12 @@ Acima de 6	- Alta chance de PAV;
 Abaixo de 6	Queda da sensibilidade para 70%, em média
 
   
-Figura 3 - SDRA: este pulmão é conhecido como pulmão de SARA (Síndrome da Angústia Respiratória Aguda) ou “pulmão branco”, re-presentativo de doença pulmonar grave, com insuficiência respiratória aguda, e possivelmente presente em uma PNMH grave, não sendo patognomônico apenas de PNMHs
+Figura 3 - Síndrome do desconforto respiratório agudo: este pulmão é conhecido como pulmão de SARA (Síndrome da Angústia Respira-tória Aguda) ou “pulmão branco”, representativo de doença pulmonar grave, com insuficiência respiratória aguda, e possivelmente pre-sente em uma pneumonia hospitalar grave, não sendo patognomônico apenas de pneumonias hospitalares
 
-Como nenhuma das 2 formas é definitiva para o diagnóstico, tais critérios não são absolutos. Por isso, outros fatores de-vem ser associados para que auxiliem no diagnóstico. A coleta de hemoculturas tem baixo valor preditivo (em torno de 23% de positividade), mas deve ser sempre realizada nos casos de bacteremia. O lavado broncoalveolar em intubados auxilia mui-to no diagnóstico se há imagem radiológica e lavado protegido. Em outras situações, a cultura de secreção traqueal pode ser útil no diagnóstico, mas o risco de colonizações ou contaminações aumenta quanto menos protegida é a coleta. Desta forma, o lavado broncoalveolar protegido é melhor do que o feito com broncoscopia não protegida, que por sua vez é melhor do que a coleta realizada por endocânula. Já a endocânula é melhor do que a coleta de secreção da traqueostomia. Nos casos de derrame pleural, sempre que possível deve ser realizada a toracocentese diagnóstica. 
+Como nenhuma das 2 formas é definitiva para o diagnóstico, tais critérios não são absolutos. Por isso, outros fatores de-vem ser associados para que auxiliem no diagnóstico. A coleta de hemoculturas tem baixo valor preditivo (em torno de 23% de positividade), mas deve ser sempre realizada nos casos de bacteriemia. O lavado broncoalveolar em intubados auxilia muito no diagnóstico se há imagem radiológica e lavado protegido. Em outras situações, a cultura de secreção traqueal pode ser útil no diagnóstico, mas o risco de colonizações ou contaminações aumenta quanto menos protegida é a coleta. Desta forma, o lavado broncoalveolar protegido é melhor do que o feito com broncoscopia não protegida, que por sua vez é me-lhor do que a coleta realizada por endocânula. Já a endocânula é melhor do que a coleta de secreção da traqueostomia. Nos casos de derrame pleural, sempre que possível deve ser realizada a toracocentese diagnóstica. 
 
-Tabela 15 - Cultura de secreção traqueopulmonar e seus valores de positividade
-Materiais para cultura	Valores de 
-8 Unidades Formadoras de Colônias (UFCs)
+Tabela 16 - Cultura de secreção traqueopulmonar e seus valores de positividade
+Materiais para cultura	Valores de 8 Unidades Formadoras de Colônias (UFCs)
 Broncoscopia com lavado protegido	Qualquer valor 
 Broncoscopia sem lavado protegido (maioria dos broncoscópicos)	Acima de 103
 Intubação orotraqueal (pacientes intubados)	Acima de 104
@@ -297,28 +340,36 @@ Secreção de orofaringe	Não recomendada cultura para bactérias habituais
 Os exames de imagem são importantes para o diagnóstico de infecções pulmonares sugestivas ou de imagens novas não visualizadas anteriormente. O raio x serve para a avaliação de novas imagens, e, quando há a suspeita de derrames encista-dos, a tomografia é importante arma na melhor visualização de quadros pulmonares.
 
  
-Figura 4 - Raio x de tórax no leito de paciente em ventilação mecânica mostrando opacificação na base esquerda sugestiva de pneumo-nia: notar que, muitas vezes, o raio x não tem boas condições de realização, dada a situação clínica (intubado, com inúmeros cabos e fixações)
+Figura 4 - Raio x de tórax no leito de paciente em ventilação mecânica mostrando opacificação na base esquerda sugestiva de pneumo-nia: notar que, muitas vezes, o raio x não tem boas condições de realização, dada a situação clínica (intubado, no leito, com inúmeros cabos e fixações). Lembrar-se, ainda, de ver se a imagem não existia. Em pacientes crônicos, algumas vezes a imagem pode ser resquí-cio de uma pneumonia antiga, que pode levar até 30 dias para desaparecer
+
+Pergunta
+2007 - UFPE
+1. Considerando a pneumonia hospitalar, assinale a alternativa incorreta:
+a) a disseminação por via hematogênica está relacionada ao uso crônico de cateteres intravenosos e vesicais, e representa a causa mais comum de pneumonia hospitalar
+b) a microaspiração de secreções da orofaringe colonizadas por bactérias patogênicas constitui o principal mecanismo na patogênese das pneumonias hospitalares
+c) hemocultura não é específica, pois outros focos de bacteriemia podem estar presentes, sobretudo em pacientes graves e com acessos venosos centrais
+d) o uso de piperacilina-tazobactam para o tratamento de infecções hospitalares graves, incluindo pneumonia hospitalar, está relacionado com altas taxas de resposta clínica e microbiológica, e com menor taxa de mortalidade quando comparado com cefalosporina de 3ª geração
+Resposta no final do capítulo
 
 F - Tratamento
 O tratamento baseia-se no perfil da pneumonia (se recente ou tardia), no perfil da flora hospitalar e, principalmente, no resultado das culturas solicitadas. Entretanto, como não se pode esperar o resultado para o início do tratamento, as 2 primei-ras características são as avaliadas. A demora do tratamento aumenta a mortalidade hospitalar neste perfil, especialmente quando relacionados à PAV.
 
-Tabela 16 - A PAV pode ser tratada de acordo com os fatores de risco, empiricamente, até o resultado das culturas
+Tabela 17 - A pneumonia associada a ventilação mecânica pode ser tratada de acordo com os fatores de risco, empiricamente, até o resultado das culturas
 Grupo 1
-Fatores de risco	Germes principais + 
-organismos específicos do fator de risco	Antibióticos principais + cobertura adicional específica
+Fatores de risco	Germes principais + organismos especí-ficos do fator de risco	Antibióticos principais + cobertura adicional específica
 Cirurgia abdominal, aspiração	Anaeróbios	- Clindamicina 600mg IV 6/6h;
 - Ampicilina-sulbactam 3g IV 6/6h;
 - Metronidazol 500mg IV 8/8h (pior para pulmão);
 - Piperacilina-tazobactam 4/0,5g IV 8/8h.
-Coma, trauma crani-ano, diabetes, insufi-ciência renal	Staphylococcus aureus	- Vancomicina 1g IV 12/12h;
+Coma, trauma craniano, diabetes, insuficiência renal	Staphylococcus aureus	- Vancomicina 1g IV 12/12h;
 - Teicoplanina 400mg IV ou IM 1x/d;
 - Linezolida 600mg IV 12/12h.
 Em todos os casos, até definir-se MRSA.
-Corticoides em altas doses	Legionella	Macrolídeo: geralmente, claritromicina 500mg 12/12h ou fluoroquinolona respiratória, por exemplo, e moxifloxacino 400mg IV 1x/d
-Permanência prolon-gada em UTI, corti-coides, antibióticos, doença pulmonar prévia	Pseudomonas aeruginosa	Tratamento como grupo 2
+Corticoides em altas doses	Legionella	Macrolídeo: geralmente, claritromicina 500mg 12/12h ou fluoroquinolona respiratória, por exemplo, e moxi-floxacino 400mg IV 1x/d
+Permanência prolongada em UTI, corticoides, antibióticos, doença pulmonar prévia	Pseudomonas aeruginosa	Tratamento como grupo 2
 Grupo 2
 Fatores de risco	Germes principais	Antibióticos
-Havendo fatores de risco para anaeróbios e Legionella, mais um antibiótico espe-cífico (macrolídeo ou fluoroquinolonas)	Pseudomonas aeruginosa/Acinetobacter sp.	- Imipeném 500mg IV 6/6h; ou
+Havendo fatores de risco para anaeróbios e Legionella, mais um antibiótico específico (macrolídeo ou fluoroquinolonas)	Pseudomonas aeruginosa/Acinetobacter sp.	- Imipeném 500mg IV 6/6h; ou
 - Meropeném 1g IV 8/8h; ou
 - Piperacilina-tazobactam 4/0,5g 8/8h;
 - Amicacina 500mg 12/12h.
@@ -328,12 +379,12 @@ Dependente da flora do hospital	Se MRSA considerado importante no hospital	- Van
 
 Os trabalhos atuais indicam um tratamento entre 10 e 14 dias para esse perfil de pneumonia, ao contrário da PAC, cujo tratamento vai de 7 a 10 dias. Qualquer que seja o tratamento de PNMH, o antibiótico deve fazer cobertura para os Gram negativos mais frequentes (em geral, enterofermentadores), mas Gram positivos devem ser avaliados conforme o risco:
 
-Tabela 17 - Riscos
+Tabela 18 - Riscos
 Riscos	Características	Bactérias esperadas	Neste perfil
-Baixo	Paciente que não fez uso de antibió-ticos nos últimos 15 dias, não tem outros fatores de risco e apresenta pouco tempo de internação (menos de 5 dias)	Enterobactérias, S. pneumoni-ae, H. influenzae	Cefalosporinas de 3ª geração ainda podem ser tentadas, assim como quinolonas respiratórias. Pode, ainda, ser usada a associação de betalac-tâmico com inibidor de betalactamase. Cefa-losporinas de 4ª geração são opções garantidas (Tabela 18).
-Alto	Paciente que fez uso de antibióticos nos últimos 15 dias e apresenta outros fatores de risco (diabetes mellitus, doenças neurológicas etc.) e mais de 5 dias de internação	P. aeruginosa, Acinetobacter baumannii, enterobactérias com perfil mais agressivo de resistência	Drogas que têm ação anti-Pseudomonas devem ser utilizadas (inibidor de betalactamase + betalactâmicos), cefalosporinas de 4ª geração, carbapenêmicos, monobactâmicos. Pode haver a necessidade de associação de cobertura de Gram positivos a glicopeptídios ou oxazolidino-nas. 
+Baixo	Paciente que não fez uso de antibió-ticos nos últimos 15 dias, não tem outros fatores de risco e apresenta pouco tempo de internação (menos de 5 dias)	Enterobactérias, S. pneumo-niae, H. influenzae	Cefalosporinas de 3ª geração ainda podem ser tentadas, assim como quinolonas respiratórias. Pode, ainda, ser usada a associação de betalac-tâmico com inibidor de betalactamase. Cefalos-porinas de 4ª geração são opções garantidas (Tabela 19).
+Alto	Paciente que fez uso de antibióticos nos últimos 15 dias e apresenta outros fatores de risco (diabetes mellitus, doenças neurológicas etc.) e mais de 5 dias de internação	P. aeruginosa, Acinetobacter baumannii, enterobactérias com perfil mais agressivo de resistência	Drogas que têm ação anti-Pseudomonas devem ser utilizadas (inibidor de betalactamase + beta-lactâmicos), cefalosporinas de 4ª geração, carba-penêmicos, monobactâmicos. Pode haver a ne-cessidade de associação de cobertura de Gram positivos a glicopeptídios ou oxazolidinonas. 
 
-Tabela 18 - Principais drogas de tratamento com base na complexidade da pneumonia e no tempo de internação
+Tabela 19 - Principais drogas de tratamento com base na complexidade da pneumonia e no tempo de internação
 Antibioticoterapia para pneumonia relacionada a assistência à saúde (inclui PAV)
 Momento do diagnóstico clínico-radiológico	Sem uso prévio de antimicrobiano	Com uso prévio de antimicrobiano
 	Estável	Piora hemodinâmica e/ou respiratória	Estável	Piora hemodinâmica e/ou respiratória
@@ -345,7 +396,7 @@ Precoce (<5 dias de venti-lação mecânica)	- Ceftriaxona 1g 12/12h; ou
  + cobertura de MRSA* = vancomicina 1g IV 12/12h.	- Cefepima 2g IV 8/8h; ou
 - Piperacilina-tazobactam 4/0,5g IV 8/8h.	- Ceftazidima 2g IV 8/8h; ou
 - Cefepima 2g IV 8/8h; ou
-- Carbapenêmico = imipe-ném 500mg IV 6/6h, por exemplo; 
+- Carbapenêmico = imipeném 500mg IV 6/6h, por exemplo; 
  + MRSA* = vancomicina 1g e IV 12/12h, por exemplo.
 Tardio (>5 dias de ventila-ção mecânica)	- Ceftazidima 2g IV 8/8h; ou
 - Cefepima 2g IV 8/8h; ou
@@ -357,20 +408,16 @@ Tardio (>5 dias de ventila-ção mecânica)	- Ceftazidima 2g IV 8/8h; ou
 - Carbapenêmico = imipeném 500mg IV 6/6h, por exemplo;
 + MRSA*	- Ceftazidima 2g IV 8/8h; ou
 - Cefepima 2g IV 8/8h; ou
-- Carbapenêmico = imipe-ném 500mg IV 6/6h, por exemplo;
+- Carbapenêmico = imipeném 500mg IV 6/6h, por exemplo;
 + MRSA*.
+Observação: se houver suspeita de aspiração, considerar clindamicina ou metronidazol caso o esquema prescrito não contemple anaeró-bios.
 * Cobertura para S. aureus resistente a oxacilina (vancomicina, teicoplanina ou linezolida).
-Observação: se houver suspeita de aspiração, considerar clindamicina ou metronidazol caso o esquema prescrito não contemple anaeróbios.
 
 G - Medidas de prevenção 
 Em geral, o paciente com PNMH tem riscos inerentes no cuidado à saúde. 
 
-Tabela 19 - Principais fatores que diminuem as PNMHs
-- Educação e envolvimento da equipe;
-- Vigilância de pneumonias em pacientes de alto risco;
-- Não fazer culturas rotineiras de vigilância;
-- Trocar circuitos respiratórios quando sujos ou em mau funcionamento;
-- Drenar periodicamente condensado presente.
+Importante
+Os principais fatores que diminuem as PNMHs são: educação e envolvimento da equipe de cuidado, vigilância de pneumo-nias em pacientes de alto risco, não fazer culturas rotineiras de vigilância, trocar circuitos respiratórios quando sujos ou em mau funcionamento e drenar periodicamente condensado presente.
 
 Tabela 20 - Circuitos respiratórios e umidificadores
 - Lavagem das mãos após o contato com mucosa, secreções ou objetos contaminados com secreções, antes e depois de manusear traqueostomia, tubo ou outro dispositivo respiratório;
@@ -383,16 +430,16 @@ Tabela 20 - Circuitos respiratórios e umidificadores
 A - Tipos de infecções 
 Esta infecção torna-se um problema importante entre as iatrogenias necessárias para o tratamento de pacientes interna-dos. Na maioria das vezes, as infecções relacionadas a cateteres venosos (ICVs) são adquiridas no momento da passagem. Pode ainda ocorrer contaminação do fluido utilizado para infusão. Técnicas de fixação e curativos posteriores completam os motivos para uma infecção de cateter. 
 
-  
+ 
 Figura 5 - Pontos onde pode ocorrer a infecção do cateter venoso central
-Fonte: http://www.cve.saude.sp.gov.br.
+Fonte: www.cve.saude.sp.gov.br.
 
 Novamente o biofilme está relacionado a infecções desse tipo de cateter, assim como na ITUH, com o uso de cateteres ve-sicais. Antes de discutir infecções, algumas definições devem ser feitas:
 Colonização do cateter: refere-se ao crescimento de 15 ou mais UFCs em cultura semiquantitativa ou de 1.000 ou mais UFCs em cultura quantitativa de um segmento distal do cateter, sem sintomatologia associada e com hemoculturas nega-tivas; geralmente acontece com bactérias de pele não infectantes, como Staphylococcus coagulase-negativos; 
 Infecção do ponto de inserção ou do óstio do cateter: eritema, hipersensibilidade, área endurada ou purulenta em uma extensão menor que 2cm da pele em torno do cateter;
 
  
-Figura 6 - A infecção do ponto de inserção é normalmente o 1º indício visual da necessidade da retirada do cateter. Pode haver infecção do túnel de inserção não visualizada externamente
+Figura 6 - A infecção do ponto de inserção é normalmente o 1º indício visual da necessidade da retirada do cateter. Pode haver infecção do túnel de inserção não visualizada externamente. Na Figura, cateter na região subclávia que deverá ser retirado, ou que pode evoluir para uma infecção de túnel subcutâneo
 
 Infecção do túnel subcutâneo: eritema, enduração, sensibilidade aumentada nos tecidos subjacentes ao cateter e a mais de 2cm do orifício de saída de cateter tunelizado;
 Infecção da bolsa subcutânea: eritema e/ou necrose da pele sobre o reservatório de um cateter totalmente implantável, ou exsudato purulento na bolsa subcutânea contendo o reservatório.
@@ -406,29 +453,27 @@ Sinais de infecção: febre, calafrios ou hipotensão;
 1 ou mais hemoculturas (HMCs): periféricas positivas na ausência de outro sítio infeccioso;
 Isolamento do mesmo organismo de segmento distal do cateter: por meio de cultura semiquantitativa ou quantitativa, e do sangue (veia periférica) em um paciente com sintomatologia de sepse e nenhuma outra fonte evidente de infec-ção; 
 Isolamento do mesmo organismo em HMC: colhida por meio do cateter e em HMC periférica, desde que haja o “tempo diferencial de positivação”. Esse termo significa que a HMC colhida pelo cateter ficou positiva, pelo menos, 2 horas antes da periférica. Ainda dentro dessa situação, o crescimento deve ocorrer em até no máximo 12 horas se Sta-phylococcus coagulase-negativo;
-Cultura quantitativa: com relação de, pelo menos, 5UFC de microrganismos para 1UFC do mesmo microrganismo, entre sangue colhido por CVC e periférico; 
+Cultura quantitativa: com relação de, pelo menos, 5UFC de micro-organismos para 1UFC do mesmo micro-organismo, entre sangue colhido por CVC e periférico; 
 Sepse que ocorre no momento da infusão: isolamento no fluido infundido do agente associado ao quadro séptico, tam-bém isolado na HMC.
-
 A infecção relacionada ao cateter deve seguir definições de critérios específicos, mas o diagnóstico pode ser clínico ou laboratorial de infecção. Para cada perfil de diagnóstico existem definições diferentes.
-
 Infecção relacionada ao cateter com diagnóstico laboratorial (quando confirmada, laboratorialmente, a infecção): veja, a seguir, os critérios:
 
 Tabela 21 - Critérios para a infecção relacionada ao cateter com diagnóstico laboratorial
 Critério 1
-Pacientes com 1 ou mais HMCs positivas coletadas preferencialmente de sangue periférico, com patógeno não relacionado com infec-ção em outro sítio
+Pacientes com 1 ou mais HMCs positivas coletadas preferencialmente de sangue periférico, com patógeno não relacionado com infecção em outro sítio
 Critério 2
 Pelo menos 1 dos seguintes sinais ou sintomas:
 - Febre (=38°); 
 - Tremores;
 - Oligúria (volume urinário =20mL/h);
-- Hipotensão (pressão sistólica =90mmHg), e esses sintomas não estão relacionados com infecção em outro sítio; e
+- Hipotensão (pressão sistólica =90mmHg), e esses sintomas não estão relacionados com infecção em outro sítio; 
 - 2 ou mais hemoculturas (em diferentes punções com intervalo máximo de 48 horas) com contaminante comum de pele (exemplos: difteroides, Bacillus spp., Propionibacterium spp., Staphylococcus coagulase-negativo e micrococos do grupo B).
 Critério 3 (para crianças =28 dias e =1 ano)
 Pelo menos 1 dos seguintes sinais ou sintomas:
 - Febre (=38°C); 
 - Hipotermia (=36°C); 
 - Bradicardia; 
-- Taquicardia (não relacionada com infecção em outros sítios); e
+- Taquicardia (não relacionada com infecção em outros sítios); 
 - 2 ou mais hemoculturas (em diferentes punções com intervalo máximo de 48 horas) com contaminante comum de pele (exemplos: difteroides, Bacillus spp., Propionibacterium spp., Staphylococcus coagulase-negativo e micrococos do grupo B).
 
 Infecção relacionada ao cateter com diagnóstico clínico: veja os critérios:
@@ -451,6 +496,9 @@ a) Hemocultura negativa ou não realizada.
 b) Nenhuma infecção aparente em outro local.
 c) Médico que institui terapia antimicrobiana adequada para sepse.
 
+Importante
+O diagnóstico da infecção do cateter pode ser clínico ou laboratorial. Os critérios estão nas Tabelas 21 e 22.
+
 - Existe preferência no local da colocação do cateter?
 Existe muita discussão sobre qual seria o melhor local para a colocação de um cateter central. As veias são 4, basicamente: jugular interna em posição anterior, jugular interna em posição posterior, subclávia e femoral. Não existe uma fórmula corre-ta para colocação sempre na mesma veia preferencialmente. 
 
@@ -465,19 +513,28 @@ Como se pode ver, as situações devem ser analisadas individualmente. Para pacien
  
 Figura 8 - Regra do menor risco de infecção
 
-Lembre-se
-O diagrama anterior é utilizado considerando situação ideal, sem cateteres prévios ou situações adversas que impeçam a passagem de um cateter (vide texto).
+Importante
+O diagrama da regra do menor risco de infecção (Figura 8) é utilizado considerando situação ideal, sem cateteres prévios ou situações adversas que impeçam a passagem de um cateter (vide texto).
 
 B - Agentes etiológicos
-Quando se pensar em ICV, deve ser lembrado que o contato com o meio externo faz que os principais microrganismos causadores de infecção sejam habitantes da pele. Desta maneira, os principais causadores de infecções por cateter (metade delas) são Staphylococcus coagulase-negativos e Staphylococcus aureus. Os bacilos Gram negativos são as bactérias seguintes causadoras de ICV, e a Candida sp. vem na sequência. A presença de bacilos Gram negativos chama a atenção para o foco inicial da infecção não estar na pele, mas em outros pontos do corpo, como pneumonias ou infecções intra-abdominais. 
+Quando se pensar em ICV, deve ser lembrado que o contato com o meio externo faz que os principais micro-organismos causadores de infecção sejam habitantes da pele. 
 
-Tabela 24 - Bactérias causadoras de ICV
+Importante
+Os principais causadores de infecções por cateter (metade delas) são Staphylococcus coagulase-negativos e Staphylococcus aureus. Os bacilos Gram negativos são as bactérias seguintes causadoras de infecções relacionadas a cateteres venosos, e a Candida sp. vem na sequência.
+
+A presença de bacilos Gram negativos chama a atenção para o foco inicial da infecção não estar na pele, mas em outros pontos do corpo, como pneumonias ou infecções intra-abdominais. 
+
+Tabela 24 - Bactérias causadoras de infecções relacionadas a cateteres venosos
 1º - Staphylococcus aureus.
 2º - Staphylococcus coagulase-negativo (1º causador em vários hospitais).
 3º - Bacilos Gram negativos (secundário de outros focos).
 4º - Candida spp.
 
 C - Diagnóstico
+
+Diagnóstico
+O diagnóstico de infecção por cateter é feito com base no quadro clínico do paciente e inclui infecção do local da inserção do cateter, febre, calafrios e hipotensão, sendo necessário coletar 2 hemoculturas periféricas e 1 de cada via do cateter, além de a sua ponta ser enviada para cultura.
+
 O diagnóstico de IC é feito por manifestações clínicas da infecção. Podem ser de 2 maneiras:
 Específicas: infecção do local de inserção;
 Inespecíficas: infecção da corrente sanguínea. A suspeita diagnóstica ocorre na presença de (em paciente com cateter vascular e sem outras causas aparentes para tais manifestações):
@@ -503,19 +560,23 @@ Ponta de cateter positiva com retirada do cateter, mas com HMCs positivas	- Trat
 	- Empiricamente até o resultado das culturas, introduzindo vancomicina 1g IV 12/12h.
 Cateter profundo (portocath) se não puder retirar o cateter	- Staphylococcus coagulase-negativo: tratar com vancomicina (pode-se tentar a não retira-da). Pode ser utilizado antibiótico in loco, geralmente aminoglicosídeo;
 	- Staphylococcus aureus: tratar com vancomicina 1g IV 12/12h. Fazer ecocardiograma para descartar endocardite.
-Bactérias Gram negativas ou fungos (de-vem necessariamente ter os cateteres retirados, além do tratamento antibiótico)	- Bactérias Gram negativas: cefepima 2g IV 8/8h ou piperacilina/tazobactam 4/0,5g 8/8h;
+Bactérias Gram negativas ou fungos (devem necessariamente ter os cateteres retirados, além do tratamento antibiótico)	- Bactérias Gram negativas: cefepima 2g IV 8/8h ou piperacilina/tazobactam 4/0,5g 8/8h;
 	- Fungos: fluconazol 400mg IV 12/12h se C. albicans. Se Candida não albicans, discutir uso de equinocandinas, de acordo com a sensibilidade do hospital. 
 
-E - Prevenção 
+E - Prevenção
+
+Dica
+A prevenção de infecção do cateter deve ser feita a fim de evitar principalmente endocardite ou disseminação da infecção para outros órgãos.
+
 Os cuidados com os cateteres venosos devem ser realizados para evitar complicações, que vão desde uma infecção local até uma endocardite ou infecções de outros órgãos, com disseminação a partir da porta de entrada. Assim, algumas atitudes são necessárias, como descritas na Tabela 26. 
 
-Tabela 26 - Medidas para diminuir ICVs
+Tabela 26 - Medidas para diminuir infecções relacionadas a cateteres venosos
 Dicas	Características
 Educação e treinamento do profissional	Realizar educação dos profissionais nas técnicas adequadas de inserção e cuidados com o cateter.
 Local da inserção do cateter	Manter técnica asséptica para a inserção e a manutenção dos cateteres intravasculares.
-Higiene das mãos e técnica asséptica	Não fazer a palpação do local de inserção após a aplicação de antisséptico, a menos que seja mantida uma técnica asséptica.
+Higiene das mãos e técnica asséptica	Não fazer a palpação do local de inserção após a aplicação de antissép-tico, a menos que seja mantida uma técnica asséptica.
 Antissepsia da pele	Não utilizar antibióticos tópicos, pomada ou cremes sobre o local da inserção.
-Curativo	Usar gaze esterilizada ou bandagem esterilizada, transparente e semipermeável para a cobertura do local do cateter.
+Curativo	Usar gaze esterilizada ou bandagem esterilizada, transparente e semi-permeável para a cobertura do local do cateter.
 Vigilância	Não fazer cultura do cateter rotineiramente.
 Seleção e substituição de cateteres intravasculares	Não manter o cateter quando dispensável.
 
@@ -524,16 +585,26 @@ Cateter venoso periférico: trocar a cada 48 a 72 horas para diminuir risco de fl
 Cateter arterial: remover em 5 a 7 dias;
 Cateter venoso central: não trocar rotineiramente. Trocar o sítio de inserção em caso de infecção local; barreira máxima estéril (paramentação cirúrgica) e antissepsia local para inserção.
 
+Pergunta
+2012 - UFF
+2. Um paciente de 18 anos é admitido na Emergência de hospital público com infarto agudo do miocárdio. No 6º dia de internação, apresenta febre (Tax = 38°C) e leucometria de 14.500/mm3, com 8% de bastões. Ao exame físico, é detecta-da área de hiperemia (halo = 3cm) em sítio de inserção de cateter vascular profundo. As hemoculturas realizadas como parte da investigação do quadro infeccioso detectam crescimento de Staphylococcus aureus oxacilinorresistente. A prin-cipal opção terapêutica para o micro-organismo detectado é:
+a) linezolida
+b) cefoxitina
+c) teicoplanina
+d) vancomicina
+e) sulfametoxazol-trimetoprima
+Resposta no final do capítulo
+
 5. Resumo
 
 Quadro-resumo
 A IH é definida como aquela que ocorre a partir de 72 horas da internação do paciente (ou seja, passadas as primeiras 48 horas), com este em ambiente hospitalar.
-	Infecção hospitalar	Características
+IH	Características
 ITUH	Características gerais	- É a mais prevalente das IHs no Brasil;
 		- A infecção em cateteres é comum devido à formação de biofilme;
 		- É importante seguir as indicações de passagem de sonda vesical de demora.
-	Agentes etiológicos mais frequentes	São mais frequentes E. coli (40 a 50% casos) e Proteus sp. 
-	Bacteriúria assintomática em hospital	Utiliza-se o critério do CDC para guiar claramente o diagnóstico.
+	Agentes etiológi-cos mais frequen-tes	São mais frequentes E. coli (40 a 50% casos) e Proteus sp. 
+	Bacteriúria assin-tomática em hospital	Utiliza-se o critério do CDC para guiar claramente o diagnóstico.
 	Diagnóstico 	- Há diversos critérios diagnósticos, sendo o principal:
 · Paciente tem pelo menos 1 dos sinais ou sintomas sem nenhuma causa reconhecida: 
 * Febre >38°C;
@@ -542,14 +613,14 @@ ITUH	Características gerais	- É a mais prevalente das IHs no Brasil;
 * Disúria;
 * Dor suprapúbica.
 	Tratamento	- Deve focar principalmente em bactérias Gram negativas; 
-		- A droga de escolha empírica, até o resultado do antibiograma, deve ser sempre uma cefalosporina de 4ª geração no mínimo.
+		- A droga de escolha empírica, até o resultado do antibiograma, deve ser sempre uma cefalos-porina de 4ª geração no mínimo.
 PNMHs	Definição	- É definida como pneumonia ocorrida após 48 horas de internação hospitalar;
 		- Pode ser: PNMH (sem necessidade de ventilação mecânica), PAV, traqueobronquite e de institucionalizados.
 	Etiologia	As principais são a Pseudomonas aeruginosa e o Staphylococcus aureus.
-	Clínica e fisiopatologia	- Quando vígil, há tosse produtiva com escarro amarelado, associada a febre e dispneia;
+	Clínica e fisiopato-logia	- Quando vígil, há tosse produtiva com escarro amarelado, associada a febre e dispneia;
 		- Em condições especiais, o principal é a piora do padrão respiratório.
-	Diagnóstico	- O surgimento de um infiltrado pulmonar observado na radiografia de tórax, persistente, sem outra causa aparente e associado a secreção pulmonar purulenta, bem como ao apa-recimento de febre e leucocitose, é o principal indício de PNMH.
-	Tratamento	- Baseia-se no perfil da pneumonia (se recente ou tardia), no perfil da flora hospitalar e, principalmente, no resultado das culturas solicitadas; 
+	Diagnóstico	- O surgimento de um infiltrado pulmonar observado na radiografia de tórax, persistente, sem outra causa aparente e associado a secreção pulmonar purulenta, bem como ao aparecimen-to de febre e leucocitose, é o principal indício de PNMH.
+	Tratamento	- Baseia-se no perfil da pneumonia (se recente ou tardia), no perfil da flora hospitalar e, prin-cipalmente, no resultado das culturas solicitadas; 
 		- Pode ser tratada de acordo com os fatores de risco, empiricamente, até o resultado das culturas.
 	Prevenção	- Adotar medidas como: 
 · Vigilância de pneumonias em pacientes de alto risco;
@@ -568,4 +639,13 @@ ICVs	Classificação	- É possível haver:
 		- Específicas: infecção do local de inserção;
 		- Inespecíficas: sistêmicas, como febre, calafrios ou hipotensão, sendo necessária também a coleta de 2 HMCs periféricas, além de 1 de cada via do cateter. 
 	Tratamento	Depende do resultado do cateter e da HMC. 
-	Prevenção de infecção por cateter	Devem-se ter boa assepsia, curativo adequado e vigilância na permanência deste. 
+	Prevenção de infecção por cate-ter	Devem-se ter boa assepsia, curativo adequado e vigilância na permanência deste. 
+
+Respostas 
+1. A
+2. D
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
