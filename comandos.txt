@@ -1,4 +1,4 @@
-1) Criar o txt na pasta "revisao"
+1) Criar o txt na pasta "revisao" - echo nul >> cardio_12.txt
 
 2) Colocar o texto inicial nesse arquivo
 
@@ -12,4 +12,4 @@
 
 7) git add . && git commit -m "new commit" && git push origin master
 
-8) git diff --word-diff-regex=. HEAD^^ NOME_DO_ARQUIVO >> NOME_DO_ARQUIVO_DE_SAIDA.txt
+8) git diff --word-diff-regex=. HEAD^^ cardio_12.txt >> cardio_12_comparacao.txt
