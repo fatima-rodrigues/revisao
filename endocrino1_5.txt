@@ -1,5 +1,9 @@
 Complicações agudas do diabetes mellitus
-Leandro Arthur Diehl / Rodrigo Antônio Brandão Neto
+Leandro Arthur Diehl
+Rodrigo Antônio Brandão Neto
+
+Resumo
+Neste capítulo, serão apresentadas as principais complicações agudas associadas à síndrome diabética, que respondem por um grande número de questões em provas de Residência Médica. Complicação importante que veremos é a hipoglicemia, em que a principal causa é o próprio tratamento do Diabetes Mellitus (DM). O risco de hipoglicemias é 3 vezes maior em diabéticos em tratamento intensivo do que em diabéticos em tratamento convencional, e seu diagnóstico se faz pela pre-sença da tríade de Whipple: glicemia <70mg/dL, sintomas compatíveis com hipoglicemia (autonômicos e/ou neuroglicopê-nicos) e melhora dos sintomas após a administração de carboidratos. Hipoglicemia é o principal diagnóstico a ser pensado àqueles que chegam ao pronto-socorro com alteração neurológica; deve-se realizar, imediatamente, uma glicemia capilar ou usar glicose hipertônica (associar tiamina em etilistas e desnutridos). O tratamento de hipoglicemias leves é feito com a oferta de 15g de carboidratos de absorção rápida por via oral. Nas formas graves (com alteração da consciência), deve ser feito com glicose hipertônica (20 a 30g IV, em bolus), ou glucagon 1mg SC ou IM. A cetoacidose diabética (CAD) é uma complicação aguda grave do DM, que requer internação, monitorização e tratamento com insulinoterapia, reposição de potássio e hidratação. No paciente com CAD, deve-se pesquisar algum fator precipitante, como infecção respiratória ou urinária ou falta de insulina. Constituem critérios diagnósticos para cetoacidose glicemia =250mg/dL, pH =7,3, bicarbonato =15mEq/L, cetonúria ou cetonemia. O Estado Hiperosmolar Hiperglicêmico (EHH) é uma complicação exclusiva do DM tipo 2 e tem os mesmos fatores precipitantes da CAD. Seus critérios diagnósticos incluem glicemia >600mg/dL, hiperosmolari-dade (efetiva >320mOsm/L), ausência de acidose (pH >7,3 e bicarbonato =15mEq/L) e cetose ausente ou discreta. A hidra-tação inicial, na CAD e no EHH, deve ser feita com soro fisiológico a 0,9% até melhora hemodinâmica; depois, podem-se usar soluções salinas hipotônicas. Nos pacientes com EHH ou CAD moderada ou grave, a insulinoterapia deve ser adminis-trada por via intravenosa, e o paciente internado em UTI. A reposição de potássio é fundamental na CAD e no EHH, pois ambos cursam com redução do potássio corpóreo total devido às perdas urinárias. A insulinoterapia só deve ser reiniciada depois de a potassemia estar maior do que 3,3mEq/L. O edema cerebral é a complicação mais temida do tratamento da CAD.
 
 1. Hipoglicemia no diabético
 
@@ -30,15 +34,15 @@ A hipoglicemia pode ser classificada em 3 graus de severidade, conforme apresent
 Tabela 2 - Classificação da hipoglicemia de acordo com a gravidade
 	Características	Tratamentos
 Leve	Predomínio de sintomas neurogênicos; paciente consciente. Pode ser reconhecida e tratada pelo próprio paciente. 	15g de carboidratos simples por via oral; repetir em 15 minutos se necessário (eventualmente). 
-Moderada	Presença de sintomas neurogênicos e neuroglicopê-nicos. Pode ser necessária a ajuda de terceiros. 	15g de carboidratos simples por via oral; repetir em 15 minutos se necessário (frequentemente).
-Grave	Predomínio de sintomas neuroglicopênicos; presença de queda do nível de consciência, convulsões ou coma. Necessita de atendimento médico. 	Glicose 20 a 30g IV em bolus, repetindo a dose em 15 minutos se necessário; ou glucagon 1mg SC/IM. Oferecer um lanche com carboidratos complexos após a melhora clínica. 
+Moderada	Presença de sintomas neurogênicos e neurogli-copênicos. Pode ser necessária a ajuda de tercei-ros. 	15g de carboidratos simples por via oral; repetir em 15 minutos se necessário (frequentemente).
+Grave	Predomínio de sintomas neuroglicopênicos; pre-sença de queda do nível de consciência, convul-sões ou coma. Necessita de atendimento médico. 	Glicose 20 a 30g IV em bolus, repetindo a dose em 15 minutos se necessário; ou glucagon 1mg SC/IM. Oferecer um lanche com carboidratos complexos após a melhora clínica. 
 
 E - Tratamento
 Diante de um episódio suspeito ou confirmado de hipoglicemia, o tratamento consiste na administração de glicose na for-ma mais conveniente e rápida disponível. A maioria dos episódios consiste em hipoglicemias leves (sem perda de consciên-cia), e o tratamento consiste na administração por via oral de 15g de carboidratos de absorção rápida (de preferência, livres de gorduras ou proteínas, pois estas podem retardar a digestão e a absorção). Essa medida (15g de carboidratos) correspon-de a aproximadamente meia lata de refrigerante normal, ou meio pão francês, ou 3 colheres de chá de açúcar, diluído em água.
 
 Tabela 3 - Tratamento da hipoglicemia
-Para o paciente consciente (hipo-glicemia leve ou moderada)	Ofertar carboidratos de absorção rápida por via oral. Geralmente, usa-se a “regra dos 15”: 15g de carboidrato (3 colheres pequenas de açúcar ou 1 copo pequeno de leite), podendo repetir essa dose em 15 minutos se não houver melhora completa. Deve-se evitar a correção com quantidades ex-cessivas, pois provocarão hiperglicemia após o episódio.
-Para o paciente em coma (hiper-glicemia grave)	A via oral de administração é contraindicada, restando a via parenteral para a administração de 20 a 30g de glicose, geralmente na forma de glicose hipertônica (ou seja, 40 a 60mL de glicose a 50%). Em indivíduos sem acesso venoso, pode-se usar glucagon intramuscular/subcutâneo (dispo-nível em seringas contendo 1mg; dose recomendada de 0,5 a 2mg), embora seu efeito seja fugaz e ineficaz na 2ª dose, pois a 1ª já depleta todo o estoque de glicogênio hepático. Entretanto, o gluca-gon pode ser boa alternativa a pacientes com alto risco de hipoglicemia, evitando a necessidade de hospitalização em muitos casos, desde que os familiares estejam orientados sobre o reconheci-mento desses episódios e a aplicação intramuscular ou subcutânea do medicamento.
+Para o paciente consciente (hipoglicemia leve ou moderada)	Ofertar carboidratos de absorção rápida por via oral. Geralmente, usa-se a “regra dos 15”: 15g de carboidrato (3 colheres pequenas de açúcar ou 1 copo pequeno de leite), podendo repetir essa dose em 15 minutos se não houver melhora completa. Deve-se evitar a correção com quantidades excessivas, pois provocarão hiperglicemia após o episódio.
+Para o paciente em coma (hiperglicemia grave)	A via oral de administração é contraindicada, restando a via parenteral para a administração de 20 a 30g de glicose, geralmente na forma de glicose hipertônica (ou seja, 40 a 60mL de glicose a 50%). Em indivíduos sem acesso venoso, pode-se usar glucagon intramuscu-lar/subcutâneo (disponível em seringas contendo 1mg; dose recomendada de 0,5 a 2mg), embora seu efeito seja fugaz e ineficaz na 2ª dose, pois a 1ª já depleta todo o estoque de glicogênio hepático. Entretanto, o glucagon pode ser boa alternativa a pacientes com alto risco de hipoglicemia, evitando a necessidade de hospitalização em muitos casos, desde que os familiares estejam orientados sobre o reconhecimento desses episódios e a aplicação intramuscular ou subcutânea do medicamento.
 
 Em um paciente diabético, com rebaixamento súbito do nível de consciência, se não for possível a medida imediata da gli-cemia, a 1ª conduta será a administração de glicose parenteral. Havendo melhora clínica em 10 a 15 minutos, ficará estabele-cido o diagnóstico de hipoglicemia. Se não houver melhora, deverão ser pesquisadas outras causas para a perda de consciên-cia.
 Em desnutridos, hepatopatas ou etilistas, deve-se prescrever tiamina com a glicose. O objetivo é prevenir o surgimento de encefalopatia de Wernicke-Korsakoff. Administram-se 100mg de tiamina, intravenosa ou intramuscular, juntamente com a glicose (não é mais recomendado prescrever a tiamina e esperar alguns minutos até infundir a glicose).
@@ -46,6 +50,9 @@ Após a melhora (geralmente em 10 a 15 minutos), deve-se orientar o paciente a in
 Em todo episódio de hipoglicemia, também é fundamental a determinação da causa do evento, mais frequentemente a fal-ta de ingestão alimentar ou a prática de atividade física, e a verificação da função renal. Deve-se sempre ficar atento para causas subjacentes, como infecção urinária, sepse, pneumonia, doenças intra-abdominais, síndromes coronarianas agudas etc. 
 
 2. Cetoacidose diabética
+
+Dica
+A cetoacidose não é exclusiva do DM tipo 1, podendo também acometer o paciente com DM tipo 2 desde que associado a estresse intenso (infarto agudo do miocárdio, sepse).
 
 A - Introdução
 A cetoacidose diabética (CAD) é uma complicação aguda grave do DM, responsável por cerca de 4 a 8% das internações por diabetes, cuja incidência vem aumentando em todo o mundo. Cerca de 20 a 30% dos casos novos de DM1 apresentam cetoacidose como manifestação inicial da doença (especialmente em crianças e adolescentes). 
@@ -56,13 +63,14 @@ O substrato fundamental da CAD é a deficiência severa de insulina, a qual pode s
 A ausência de ação da insulina, especialmente se associada à ação excessiva dos hormônios contrainsulínicos, determina uma produção hepática e renal elevada de glicose, enquanto sua captação pelos tecidos periféricos é reduzida, determinan-do hiperglicemia e consequente hiperosmolaridade, além de glicosúria, com diurese osmótica e perda de água, sódio, potás-sio e outros eletrólitos. 
 Na CAD, a deficiência severa de insulina também determina aumento da lipólise (por falta da ação inibitória da insulina so-bre a atividade da lipase hormônio-sensível, no tecido adiposo), aumento da oferta de ácidos graxos livres ao fígado e conse-quente aumento da cetogênese hepática (maior betaoxidação lipídica nas mitocôndrias, por diminuição da malonil-coenzima-A e por aumento da atividade da carnitina-palmitoiltransferase – CPTF). Como os corpos cetônicos (ácido aceto-acético, ácido beta-hidroxibutírico e acetona) são ácidos orgânicos, seu acúmulo determinará acidose metabólica com aumento do ânion-gap (normoclorêmica). Deve-se lembrar que, normalmente, a cetogênese é bloqueada pela ação da insulina, mesmo quando esta se encontra em concentrações muito baixas. Por isso, a cetoacidose só acontecerá quando a deficiência de insulina for absoluta (como no DM1) ou quando os níveis de hormônios contrarreguladores insulínicos (cortisol, GH, glucagon) forem extremamente elevados na presença de uma deficiência relativa de insulina (como no DM2, na vigência de intercorrências médicas graves – infarto, sepse etc. – Tabela 4).
 
-Tabela 4 - Fisiopatologia da CAD
+Tabela 4 - Fisiopatologia da cetoacidose diabética
 Deficiência severa de insulina + aumento de hormônios contrarregulatórios
 Falta de ação da insulina ? aumento da glicogenólise e gliconeogênese hepática e renal; redução da captação de glicose pelos tecidos sensíveis a insulina (músculos, tecido adiposo, fígado) ? aumento da concentração plasmática de glicose ? perda urinária de glicose, quando a glicemia ultrapassa o limiar de recaptação renal de glicose (180 a 200mg/dL) ? diurese osmótica ? perda intensa de água e eletrólitos ? distúrbios hidroeletrolíticos (hiperosmolaridade, hipocalemia), hipotensão, choque 
-Hiperglicemia, depleção de volume, distúrbios hidroeletrolíticos
-Falta de inibição da insulina sobre a lipase hormônio-sensível ? lipólise aumentada ? aumento dos ácidos graxos circulantes ? transpor-tados para o fígado ? aumento da atividade da CPTF pelo estímulo do glucagon ? betaoxidação dos ácidos graxos e síntese de corpos cetônicos (acetona, ácido aceto-acético e beta-hidroxibutírico)
+Hiperglicemia, depleção de volume, distúrbios 
+hidroeletrolíticos
+Falta de inibição da insulina sobre a lipase hormônio-sensível ? lipólise aumentada ? aumento dos ácidos graxos circulantes ? transportados para o fígado ? aumento da atividade da CPTF pelo estímulo do glucagon ? betaoxidação dos ácidos graxos e sínte-se de corpos cetônicos (acetona, ácido aceto-acético e beta-hidroxibutírico)
 Cetonemia e acidose metabólica
-Evolução aguda/subaguda (horas/dias), com quadro clínico associado a hiperglicemia (poliúria, polidipsia), depleção (hipotensão, taqui-cardia), acidose (dor abdominal, vômitos, respiração de Kussmaul), cetose (hálito cetônico) e hiperosmolaridade (redução do nível de consciência)
+Evolução aguda/subaguda (horas/dias), com quadro clínico associado a hiperglicemia (poliúria, polidipsia), depleção (hipotensão, taquicardia), acidose (dor abdominal, vômitos, respiração de Kussmaul), cetose (hálito cetônico) e hiperosmolaridade (redução do nível de consciência)
 
 C - Fatores desencadeantes
 São 2 os fatores precipitantes principais da CAD. O 1º fator é a infecção, que pode levar à resistência, à ação insulínica e ao aumento de hormônios contrarreguladores, acarretando cetoacidose. As infecções são responsáveis por 30 a 50% dos casos de CAD. Os quadros infecciosos mais prevalentes são pneumonia, infecção do trato urinário e sepse, seguidos de pé diabético, celulite, sinusite, meningite e diarreia, embora qualquer infecção possa levar à descompensação diabética. 
@@ -70,7 +78,7 @@ O 2º fator precipitante de grande importância é a baixa adesão ao tratamento, ex
 Outras causas importantes em pacientes >40 anos são as doenças ateroscleróticas, como o Infarto Agudo do Miocárdio (IAM) e o Acidente Vascular Cerebral (AVC), responsáveis por até 5% dos episódios de CAD nessa faixa etária. Os vários fato-res precipitantes são citados na Tabela 5. 
 Em todo paciente que se apresenta com CAD, é obrigatória a pesquisa de fatores desencadeantes desse quadro (exceto, talvez, no jovem diabético do tipo 1 em uso irregular de medicação, com crise claramente relacionada à interrupção do uso de insulina).
 
-Tabela 5 - Fatores precipitantes da CAD
+Tabela 5 - Fatores precipitantes da cetoacidose diabética
 - Infecções (respiratória e urinária); 
 - Baixa adesão ao tratamento (uso irregular de insulina); 
 - Primodescompensação diabética (CAD é a 1ª manifestação do DM1 em 25% dos casos); 
@@ -80,7 +88,7 @@ Tabela 5 - Fatores precipitantes da CAD
 - Drogas hiperglicemiantes: glicocorticoides, betabloqueadores, tiazídicos em altas doses, antipsicóticos atípicos etc.; 
 - Uso abusivo de etanol ou cocaína; 
 - Colecistite e outras complicações intra-abdominais: pancreatite, apendicite, vômitos intensos, diarreia e isquemia mesentérica;
-- Obstrução parcial ou total do cateter, em pacientes com diabetes tipo 1 em uso de bomba de infusão contínua de insulina subcu-tânea.
+- Obstrução parcial ou total do cateter, em pacientes com diabetes tipo 1 em uso de bomba de infusão contínua de insulina subcutâ-nea.
 
 D - Manifestações clínicas
 A cetoacidose ocorre, principalmente, na população com faixa etária entre 20 e 29 anos, embora possa ocorrer em qual-quer idade. Seu aparecimento é agudo e os pacientes apresentam pródromo com poliúria, polidipsia, polifagia e mal-estar indefinido, com duração de 1 ou poucos dias.
@@ -89,20 +97,20 @@ Podem aparecer taquipneia, com ritmo respiratório de Kussmaul (movimentos respir
 A dor abdominal é um achado muito característico de cetoacidose (não no estado hiperosmolar, exceto se há outras cau-sas associadas) e, provavelmente, tem relação com a alteração de prostaglandinas na parede muscular intestinal e com íleo paralítico (por desidratação, acidose e alterações hidroeletrolíticas). É um achado que tende a melhorar muito com a hidrata-ção inicial. Manifestações gastrintestinais (dor, náuseas, vômitos) estão presentes em cerca de metade dos casos. A dor ab-dominal pode ser severa a ponto de simular abdome agudo, mas tende a melhorar com a reversão da cetoacidose, o que ajuda no diagnóstico diferencial.
 Deve-se salientar que o paciente pode, ainda, apresentar as manifestações clínicas da condição precipitante do episódio de cetoacidose, como infecção do trato urinário e IAM. O quadro clínico é, portanto, relativamente inespecífico. Entretanto, o quadro laboratorial é largamente característico, composto pela tríade de hiperglicemia, cetonemia/cetonúria e acidose.
 O paciente normalmente está alerta. As manifestações neurológicas e as alterações do nível de consciência são muito mais relacionadas ao EHH do que à CAD. Entretanto, cerca de 10 a 20% dos casos de CAD (os mais graves, com maior hipe-rosmolaridade) podem cursar com torpor ou coma.
-O achado de febre não é frequente entre os indivíduos com CAD, e sua ausência não descarta a presença de infecção. Hi-potermia é sinal de mau prognóstico. 
-
+O achado de febre não é frequente entre os indivíduos com CAD, e sua ausência não descarta a presença de infecção. Hi-potermia é sinal de mau prognóstico.
+ 
 E - Avaliação laboratorial
 Num paciente diabético, que chega à Emergência com desidratação, rebaixamento de consciência ou queda do estado ge-ral, os primeiros exames a serem realizados são a glicemia capilar (para detecção de hipo ou hiperglicemia) e a dosagem de cetonas no sangue (cetonemia) ou na urina (cetonúria). 
 A dosagem de cetonas na urina é o método disponível na maioria dos serviços brasileiros. Esse método, em geral, usa fitas urinárias (dipstick, utilizando o método do nitroprussiato) e tem a importante limitação de não detectar o ácido beta-hidroxibutírico, o corpo cetônico mais abundante entre os indivíduos com acidose. Mesmo assim, a cetonúria resulta positiva na grande maioria dos casos de cetoacidose (95% de sensibilidade), em face da grande quantidade de acetona e acetoacetato também produzidos na CAD. No entanto, nos serviços em que está disponível a dosagem plasmática de corpos cetônicos (ce-tonemia), este deve ser o exame de escolha por ser capaz de mensurar os 3 corpos cetônicos. Cetonúria negativa afasta a hipótese da CAD com praticamente 100% de certeza.
 Confirmando a presença de hiperglicemia e cetonúria/cetonemia, devem-se colher outros exames para confirmação di-agnóstica e direcionamento da terapêutica. A avaliação laboratorial mínima inicial de uma pessoa com suspeita de CAD ou EHH deve incluir os exames da Tabela 6. 
 
-Tabela 6 - Avaliação laboratorial mínima na CAD
+Tabela 6 - Avaliação laboratorial mínima na cetoacidose diabética
 Materiais	Exames
 Sangue capilar	Glicemia capilar
 Sangue arterial	pH e bicarbonato (gasometria)
-Sangue arterial ou venoso	Glicemia, ureia, creatinina, sódio, potássio, cloro, ânion-gap, osmolaridade, hemograma, cetonemia (se disponí-vel)
+Sangue arterial ou venoso	Glicemia, ureia, creatinina, sódio, potássio, cloro, ânion-gap, osmolaridade, hemo-grama, cetonemia (se disponível)
 Urina	Exame simples de urina e cetonúria
-Outros	Eletrocardiograma, raio x de tórax, enzimas cardíacas, tomografia de crânio, culturas de sangue ou urina, a de-pender da suspeita clínica
+Outros	Eletrocardiograma, raio x de tórax, enzimas cardíacas, tomografia de crânio, culturas de sangue ou urina, a depender da suspeita clínica
 
 a) Osmolaridade
 Quando não pode ser diretamente dosada no plasma, pode ser calculada por uma simples fórmula:
@@ -127,10 +135,20 @@ Insuficiência renal aguda é extremamente comum nos casos com depleção importante
 d) Eletrocardiograma
 O eletrocardiograma, além de servir para rastrear isquemia coronariana como fator precipitante do episódio de CAD, permite verificar a presença de complicações da hipercalemia e outros distúrbios hidroeletrolíticos. 
 
+Pergunta
+2014 - SMS-SP
+1. Não é uma alteração laboratorial comum da cetoacidose diabética:
+a) hipofosfatemia
+b) concentração hidrogeniônica aumentada
+c) ânion-gap diminuído
+d) osmolalidade sérica aumentada
+e) pseudo-hiponatremia
+Resposta no final do capítulo
+
 F - Diagnóstico e classificação
 Os critérios laboratoriais para o diagnóstico, segundo a Sociedade Brasileira de Diabetes (SBD), estão discriminados na Ta-bela 7.
 
-Tabela 7 - Critérios diagnósticos para CAD (SBD, 2014) 
+Tabela 7 - Critérios diagnósticos para cetoacidose diabética (Sociedade Brasileira de Diabetes, 2014) 
 Critérios	Parâmetros laboratoriais
 Hiperglicemia	Glicemia =250mg/dL*
 Acidose	pH arterial =7,3, bicarbonato sérico =15mEq/L
@@ -139,7 +157,7 @@ Cetose	Cetonúria ou cetonemia presente
 
 A classificação da gravidade é importante porque os indivíduos com cetoacidose moderada têm indicação de tratamento em unidade de terapia intensiva, enquanto aqueles com CAD leve podem ser tratados no pronto-socorro ou na unidade de emergência. A Tabela 8 apresenta a classificação da CAD conforme a gravidade, proposta pela American Diabetes Association (ADA).
 
-Tabela 8 - Classificação da gravidade da CAD (ADA, 2009)
+Tabela 8 - Classificação da gravidade da cetoacidose diabética (American Diabetes Association, 2009)
 	Leve	Moderada	Grave
 Glicemia	>250	>250	>250
 pH arterial	7,25 a 7,3	7 a 7,24	<7
@@ -148,40 +166,44 @@ Cetonúria	Positiva	Positiva	Positiva
 Cetonemia	Positiva	Positiva	Positiva
 Osmolaridade (mOsm/L)	Variável	Variável	Variável
 Ânion-gap	>10	>12	>12
-Alteração do sensório	Alerta	Aler-ta/sonolento	Estu-por/coma
+Alteração do sensório	Alerta	Alerta/sonolento	Estupor/coma
 
 G - Diagnóstico diferencial
 A cetoacidose pode ocorrer em situações além do DM. Um exemplo é a cetoacidose alcoólica, que cursa com cetose im-portante, embora a acidose não seja tão intensa e a glicemia seja normal ou baixa. O jejum prolongado (>3 dias) também pode cursar com cetose leve e pH normal e mantendo glicemia normal ou baixa. A história clínica é característica. Além disso, o bicarbonato raramente fica abaixo de 18mEq/L na cetose do jejum. 
 Alguns pacientes diabéticos podem apresentar-se com hiperglicemia e cetose, mas ainda com pH >7,3. Nesses casos, o di-agnóstico é de cetose diabética, considerada uma fase da descompensação aguda prévia à CAD. Se o paciente não for tratado corretamente, poderá evoluir para cetoacidose.
 Outras causas de acidose metabólica com ânion-gap alargado devem ser investigadas, como a acidose láctica, a insuficiên-cia renal crônica e a intoxicação por ácidos como ácido acetilsalicílico, metanol, etilenoglicol e paraldeído.
 Doenças intra-abdominais (pancreatite, colecistite) podem levar à descompensação diabética e devem entrar no diagnós-tico diferencial. Portanto, deve-se ter muito cuidado ao atribuir dor abdominal à cetoacidose. Quando a dor abdominal é devida à CAD, geralmente melhora com hidratação e insulinoterapia. Se a dor persistir mesmo após a correção da CAD, de-vem-se investigar outras causas.
-Alguns podem apresentar CAD com glicemias não muito elevadas (euglicêmica), como na doença hepática, na gestação, no alcoolismo e no jejum prolongado.
+Cabe comentar que alguns diabéticos podem apresentar CAD com glicemias não muito elevadas (uma situação conhecida como “cetoacidose euglicêmica”). Isso é observado com mais frequência na doença hepática, na gestação, no alcoolismo e no jejum prolongado. Também foram descritos casos de CAD euglicêmica em pacientes com DM2 e DM1 tratados com inibidores de SGLT2.
 Hiperosmolaridade pode ser observada em outras doenças além do EHH, principalmente em indivíduos com desidratação intensa ou diabetes insipidus.
 
 H - Tratamento 
+
+Tratamento
+A CAD deve ser tratada essencialmente com hidratação intravenosa, insulinoterapia e reposição de potássio. 
+
 Os quadros de hiperglicemia com cetose, mas sem acidose (pH >7,3), conhecidos como cetose diabética, podem ser tra-tados com hidratação e insulina suplementar, com reversão em poucas horas, geralmente não necessitando de internação. 
 Pacientes com CAD devem ser internados, submetidos à pesquisa de fatores desencadeantes e tratados de acordo com as diretrizes.
 Os 3 pilares fundamentais da terapêutica são: hidratação intravenosa, reposição de potássio e insulinoterapia (Figura 1). Outros fatores importantes são a correção dos distúrbios hidroeletrolíticos, a identificação e o tratamento do fator desenca-deante e, acima de tudo, a monitorização contínua. A cada 2 a 4 horas, amostras de sangue para análise de potássio, sódio, glicose, ureia, creatinina e pH venoso devem ser colhidas. 
 
  
-Figura 1 - Pilares do tratamento da CAD
+Figura 1 - Pilares do tratamento da cetoacidose diabética
 
 a) Reposição volêmica
-A hidratação inicial visa restaurar o volume intracelular, o volume extracelular e a perfusão renal. A reposição volêmica deve corrigir o déficit de água e eletrólitos em 24 horas. A terapia com hidratação intravenosa é suficiente para reduzir a glicemia em 20 a 25% de seu nível inicial, independente do uso de insulina. 
+A hidratação inicial visa restaurar o volume intracelular, o volume extracelular e a perfusão renal. A reposição volêmica deve corrigir o déficit de água e eletrólitos em 24 horas. A terapia com hidratação intravenosa é suficiente para reduzir a glicemia em 20 a 25% de seu nível inicial, independente do uso de insulina. O mecanismo ocorre pela diminuição da resistên-cia periférica a insulina, diminuição do estímulo adrenérgico e diminuição da neoglicogênese hepática.
 A reposição inicial vai de 1.000 a 1.500mL de soro fisiológico a 0,9% na 1ª hora (15 a 20mL/kg de peso). A hidratação sub-sequente dependerá da condição de hidratação, da dosagem de eletrólitos e do débito urinário. Se o paciente ainda estiver depletado (taquicárdico, hipotenso, mucosas secas), deve-se utilizar apenas soro fisiológico a 0,9%. 
 Depois que o paciente estiver normotenso e com débito urinário, a solução de escolha dependerá do sódio plasmático: utiliza-se solução salina a 0,9% se houver hiponatremia, ou salina a 0,45% se o sódio plasmático for normal ou alto, com velo-cidade de infusão de 4 a 14mL/kg/h ou de 250 a 500mL/h (Figura 2).
 Quando a glicemia baixar para <250mg/dL, deve-se associar glicose às soluções de hidratação (na concentração de 5 ou 10%). Essa medida diminui a incidência de complicações da terapêutica, como hipoglicemia e edema cerebral. 
 É importante reavaliar a osmolaridade plasmática a cada 1 a 2 horas e ajustar o tratamento de forma que a variação na os-molaridade não seja mais rápida que 3mOsm/L/h.
 
  
-Figura 2 - Reposição volêmica na CAD
+Figura 2 - Reposição volêmica na cetoacidose diabética
 
 b) Reposição de potássio
-Entre pacientes com diurese adequada, a solução salina infundida deve conter de 20 a 30mEq/L (ou 10 a 15mEq/h) de KCl se a potassemia é de 3,3 a 5,5mEq/L; ou 40 a 60mEq/L se potassemia<3,3mEq/L. Se a potassemia for muito baixa (<3,3mEq/L), deve-se suspender temporariamente a administração de insulina (para não piorar a hipocalemia) e repor KCl (intravenoso) até que o potássio plasmático esteja >3,3mEq/L, e só então reiniciar a infusão de insulina. 
+Entre pacientes com diurese adequada, a solução salina infundida deve conter de 20 a 30mEq/L (ou 10 a 15mEq/h) de KCl se a potassemia é de 3,3 a 5,5mEq/L; ou 40 a 60mEq/L se potassemia <3,3mEq/L. Se a potassemia for muito baixa (<3,3mEq/L), deve-se suspender temporariamente a administração de insulina (para não piorar a hipocalemia) e repor KCl (intravenoso) até que o potássio plasmático esteja >3,3mEq/L, e só então reiniciar a infusão de insulina. 
 A Figura 3 apresenta um resumo das recomendações para reposição de potássio durante o tratamento agudo da CAD.
 
  
-Figura 3 - Reposição de potássio na CAD
+Figura 3 - Reposição de potássio na cetoacidose diabética
 
 c) Insulinoterapia
 No tratamento emergencial, devem-se utilizar apenas insulinas de ação rápida, como a regular, ou eventualmente os aná-logos lispro, asparte ou glulisina.
@@ -193,7 +215,7 @@ Uso de insulina regular intramuscular ou subcutânea de hora em hora: inicia-se c
 Em crianças com CAD leve ou moderada e sem depleção importante, outro esquema muito utilizado é a administração de análogos de insulina ultrarrápidos (lispro, asparte ou glulisina), por via subcutânea, a cada 2 horas (dose habitual: 0,15UI/kg a cada 2 horas). Se for usado o esquema de infusão contínua de insulina regular intramuscular em crianças, não se deve admi-nistrar o bolus inicial de 0,15UI/kg.
 
  
-Figura 4 - Insulinoterapia intravenosa na CAD
+Figura 4 - Insulinoterapia intravenosa na cetoacidose diabética
 
 d) Bicarbonato 
 O uso de bicarbonato de sódio para a correção da acidose na CAD é controverso. Uma meta-análise sobre o tema indica não ter havido benefícios com essa conduta a pacientes com pH inicial entre 6,9 e 7,14. Entretanto, os trabalhos analisados incluíram poucos indivíduos com pH <7. Não há evidências de que o uso de bicarbonato altere o prognóstico. O uso da insuli-na promove bloqueio da lipólise e da cetogênese e, com a hidratação, resolve a CAD na maioria dos casos, sem requerer o uso adicional de bicarbonato (principalmente em crianças). Além disso, este não está isento de complicações, podendo cau-sar hipocalemia, piora paradoxal da acidose no sistema nervoso central e hipóxia tecidual por desvio da curva de dissociação de hemoglobina. Alguns estudos mostram que o tempo de internação hospitalar é maior entre aqueles tratados com bicarbo-nato por via intravenosa.
@@ -203,7 +225,7 @@ Em 2005, uma diretriz brasileira foi publicada pela Associação Médica Brasileira
 A Figura 5 apresenta as indicações de reposição de bicarbonato na CAD, de acordo com a SBD (2014).
 
  
-Figura 5 - Reposição de bicarbonato em adultos (SBD, 2014)
+Figura 5 - Reposição de bicarbonato em adultos (Sociedade Brasileira de Diabetes, 2014)
 
 e) Outros eletrólitos
 A despeito da deficiência do fósforo corpóreo na CAD, o fósforo plasmático geralmente é normal, sem evidências de que a reposição rotineira de fósforo traga benefícios. A maioria dos autores recomenda a reposição apenas quando os níveis iniciais de fósforo são menores que 1mEq/L, ou na presença de insuficiência cardíaca, arritmias, anemia hemolítica ou de-pressão respiratória. A ADA recomenda que parte dessa reposição seja feita na forma de fosfato monopotássico, para repor concomitantemente os déficits de fósforo e potássio. A reposição do fósforo pode ser feita com a adição de 20 a 30mEq/L de fosfato potássico às soluções de hidratação. 
@@ -212,7 +234,7 @@ O cálcio e o magnésio séricos podem estar reduzidos na CAD, mas não existem evid
 f) Critérios de resolução
 A insulinoterapia intensiva, a hidratação e a reposição de potássio devem ser mantidas até o paciente atingir as metas de tratamento apresentadas na Tabela 9. Outros critérios que ajudam a estabelecer a resolução do episódio de CAD são: ânion-gap =12mEq/L e paciente hidratado, alerta e em bom estado geral. A cetose (cetonúria) não é usada como parâmetro de melhora da CAD.
 
-Tabela 9 - Critérios de resolução da CAD (SBD, 2014)
+Tabela 9 - Critérios de resolução da cetoacidose diabética (Sociedade Brasileira de Diabetes, 2014)
 - pH =7,3;
 - Bicarbonato =18mEq/L;
 - Glicemia =200mg/dL.
@@ -248,9 +270,13 @@ O EHH é outra complicação metabólica aguda grave do DM. Enquanto a cetoacidose c
 Enquanto a CAD pode acometer tanto pacientes com DM1 quanto com DM2, o estado hiperosmolar é uma complicação exclusiva do DM2. 
 
 A - Fisiopatologia 
+
+Dica
+No EHH, não há acidose, nem cetose, mas a desidratação e a hiperosmolaridade são mais intensas e sua evolução mais insidiosa que a CAD.
+
 Embora a fisiopatologia da CAD seja mais bem compreendida do que a do EHH, o mecanismo básico para ambos é a defici-ência de insulina. No EHH, esta costuma ser parcial (moderada), sendo a concentração plasmática suficiente para bloquear a lipólise excessiva e a síntese hepática de corpos cetônicos, mas não para manter a glicemia normal. A produção hepática e renal elevada de glicose e a sua captação reduzida pelos tecidos determinam hiperglicemia, glicosúria, diurese osmótica e consequentemente depleção de volume, hiperosmolaridade e distúrbios hidroeletrolíticos por perda urinária de eletrólitos. Assim, não há cetose nem acidose no EHH, mas o grau de desidratação e hiperosmolaridade é mais intenso do que na CAD. De fato, o déficit de líquido costuma ser de 4 a 6L na CAD, comparado a 8 a 10L no EHH. A depleção intensa e a hiperosmolarida-de acarretam insuficiência renal aguda e rebaixamento de consciência (torpor/coma) numa grande parcela com EHH (Tabela 10).
 
-Tabela 10 - Fisiopatologia do EHH
+Tabela 10 - Fisiopatologia do estado hiperosmolar hiperglicêmico
 Deficiência moderada de insulina + fator precipitante
 Falta de ação da insulina ? aumento da glicogenólise e gliconeogênese hepática e renal; redução da captação de glicose pelos tecidos sensíveis a insulina (músculos, tecido adiposo, fígado) ? aumento da concentração plasmática de glicose ? perda urinária de glicose, quando a glicemia ultrapassa o limiar de recaptação renal de glicose (180 a 200mg/dL) ? diurese osmótica ? perda intensa de água e eletrólitos ? distúrbios hidroeletrolíticos (hiperosmolaridade, hipocalemia), hipotensão, choque
 Hiperglicemia, depleção de volume, distúrbios hidroeletrolíticos
@@ -279,7 +305,7 @@ Eletrocardiograma deve ser realizado no EHH para detecção de isquemia coronarian
 E - Critérios diagnósticos
 Os critérios laboratoriais para diagnóstico do EHH estão discriminados na Tabela 11.
 
-Tabela 11 - Critérios diagnósticos do EHH (SBD, 2014)
+Tabela 11 - Critérios diagnósticos do estado hiperosmolar hiperglicêmico (Sociedade Brasileira de Diabetes, 2014)
 Critérios	Parâmetros laboratoriais
 Hiperglicemia	Glicemia >600mg/dL
 Hiperosmolaridade	Osmolaridade efetiva >320mEq/L (ou total >330)
@@ -289,13 +315,17 @@ Cetose	Cetonúria ou cetonemia ausentes ou discretas
 No diagnóstico diferencial, é importante lembrar que hiperosmolaridade severa também pode ser observada em doenças além do EHH, principalmente em pessoas com desidratação intensa ou diabetes insipidus.
 
 F - Tratamento 
+
+Tratamento
+Todos os pacientes com EHH devem ser preferencialmente internados em UTI. O tratamento baseia-se em hidratação venosa agressiva, reposição de potássio e insulinoterapia intravenosa.
+
 Todos os pacientes com EHH devem ser internados, preferencialmente, em unidade de terapia intensiva, monitorizados, submetidos à pesquisa de fatores desencadeantes e tratados conforme as diretrizes. O tratamento do EHH, a exemplo da CAD, inclui os 3 pilares: hidratação intravenosa (abundante), reposição de potássio e insulinoterapia (no EHH, sempre intra-venosa). 
 
 a) Reposição volêmica
 A hidratação dos pacientes com EHH segue esquema semelhante ao da hidratação realizada dos pacientes com CAD, mas precisa ser mais vigorosa, com a infusão de vários litros de solução fisiológica, rapidamente, para a recuperação da pressão arterial e do fluxo tecidual. Após a recuperação do status hemodinâmico, pode-se realizar a hidratação com solução fisiológi-ca a 0,45%, embora o uso de soro fisiológico a 0,9% também seja adequado, pois costuma ser hipotônico em relação ao plas-ma do paciente (hiperosmolar). Quando a glicemia baixar para <300mg/dL, deve-se associar glicose ao soro (5 ou 10%), para prevenção de hipoglicemia (Figura 7).
 
  
-Figura 7 - Reposição volêmica no EHH
+Figura 7 - Reposição volêmica no estado hiperosmolar hiperglicêmico
 
 b) Reposição de potássio
 A reposição de potássio deve ser realizada no EHH exatamente da mesma forma que na CAD (Figura 3). 
@@ -304,7 +334,7 @@ c) Insulinoterapia
 No tratamento emergencial do EHH, também se utilizam apenas insulinas de ação rápida, como a regular, ou os análogos de ação ultrarrápida lispro, asparte e glulisina. A diferença do EHH é que o tratamento com insulina é realizado sempre por via intravenosa, tendo em vista a depleção severa, que prejudica a absorção da insulina administrada por via subcutânea. As doses são as mesmas da CAD (bolus de 0,15UI/kg IV, seguido de infusão contínua de 0,1UI/kg/h). Quando o paciente atinge glicemia <300mg/dL, pode-se reduzir pela metade a taxa de infusão de insulina, até a resolução do EHH (Figura 8).
 
  
-Figura 8 - Insulinoterapia no EHH
+Figura 8 - Insulinoterapia no estado hiperosmolar hiperglicêmico
 
 d) Bicarbonato e outros eletrólitos
 Não há necessidade de bicarbonato no EHH, uma vez que não há acidose metabólica. A reposição de outros eletrólitos (fósforo, cálcio, magnésio) deve ser feita em caso de deficiência grave desses minerais com repercussões clínicas severas, a critério do médico.
@@ -312,8 +342,8 @@ Não há necessidade de bicarbonato no EHH, uma vez que não há acidose metabólica.
 e) Critérios de resolução
 A insulinoterapia intensiva, a hidratação e a reposição de potássio devem ser mantidas, no EHH, até que o paciente atinja as metas de tratamento apresentadas na Tabela 12.
 
-Tabela 12 - Critérios de resolução do EHH (SBD, 2014)
-- Osmolaridade<315mOsm/L;
+Tabela 12 - Critérios de resolução do estado hiperosmolar hiperglicêmico (Sociedade Brasileira de Diabetes, 2014)
+- Osmolaridade <315mOsm/L;
 - Paciente em bom estado geral, alerta e hidratado. 
 Observação: alguns autores consideram também a glicemia <300mg/dL um parâmetro adicional para definir a resolução do EHH. 
 
@@ -345,9 +375,17 @@ Quadro-resumo
 - Nos pacientes com CAD moderada ou grave, a insulinoterapia deve ser administrada por via intravenosa, e o paciente internado em UTI até a correção da cetoacidose;
 - Os pacientes com CAD leve podem usar insulina regular ou análogos ultrarrápidos por via subcutânea de hora em hora, além de per-manecer em observação no pronto-socorro até a resolução do quadro; 
 - 	No EHH, a insulina deve ser administrada apenas por via intravenosa, e o paciente tratado na unidade de terapia intensiva, com monitorização do eletrocardiograma e dos eletrólitos; 
-- 	A reposição de potássio é fundamental na CAD e no EHH, pois ambos cursam com redução do potássio corpóreo total devido às perdas urinárias. Além disso, o tratamento com insulina, a hidratação e a reversão da acidose podem causar hipocalemia grave e arritmias fatais. Deve-se administrar potássio como rotina a todos os pacientes, na dose de 20 a 30mEq/L de solução salina se a po-tassemia estiver entre 3,3 e 5,5mEq/L, ou 40 a 60mEq/L se potassemia<3,3mEq/L;
+- 	A reposição de potássio é fundamental na CAD e no EHH, pois ambos cursam com redução do potássio corpóreo total devido às perdas urinárias. Além disso, o tratamento com insulina, a hidratação e a reversão da acidose podem causar hipocalemia grave e arritmias fatais. Deve-se administrar potássio como rotina a todos os pacientes, na dose de 20 a 30mEq/L de solução salina se a po-tassemia estiver entre 3,3 e 5,5mEq/L, ou 40 a 60mEq/L se potassemia <3,3mEq/L;
 - 	Deve-se evitar a administração de insulina se o paciente está com hipocalemia (K <3,3mEq/L). Nessa situação, suspende-se a insulina, administra-se potássio e reavalia-se a potassemia de hora em hora. A insulinoterapia só deverá ser reiniciada depois que a potassemia estiver maior que 3,3mEq/L;
 - 	A reposição de bicarbonato na CAD deve ser restrita a adultos com risco de complicações fatais devido à acidose grave (pH <7 ou 7,1), ou com hipercalemia. A dose sugerida pela SBD é de 50mEq para adultos com pH entre 6,9 e 7,1, e de 100mEq para adultos com pH <6,9. Deve-se evitar o uso de bicarbonato para crianças com CAD;
 - 	O edema cerebral é a complicação mais temida do tratamento da CAD, pois, apesar de incomum (1% das crianças com CAD), tem alta mortalidade. Para prevenir sua ocorrência, deve-se limitar a hidratação a 50mL/kg nas primeiras 4 horas, não reduzir a os-molaridade muito rápido (no máximo, 3mOsm/L/h) e manter a glicemia na faixa de 250 a 300mg/dL até a resolução da CAD;
 - 	A mortalidade é baixa na CAD (<5%) com o tratamento correto, mesmo assim a doença continua a ser a principal causa de óbito entre diabéticos tipo 1 com menos de 20 anos;
 - 	O EHH, por ocorrer com mais frequência em pacientes idosos com DM2 e com múltiplas comorbidades, tem taxa de mortali-dade elevada (15 a 30%). A redução do nível de consciência (em aproximadamente 50% dos casos) relaciona-se a hiperosmolaridade (osmolaridade efetiva >320mEq/L).
+
+Resposta
+1. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
