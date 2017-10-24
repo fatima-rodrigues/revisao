@@ -1,0 +1,443 @@
+Avaliação e abordagem perioperatória
+José Paulo Ladeira[- / -]
+Rodrigo Antônio Brandão Neto[- / -]
+Fabrício Nogueira Furtado
+
+
+{+Resumo+}
+{+A avaliação e a abordagem perioperatória envolvem a avaliação do risco cardiovascular do paciente, utilizando, para isso, frequentemente, a classificação da ASA (American Society of Anesthesiologists). Nessa avaliação, pode ser necessário indicar o uso de medicações como estatinas e betabloqueadores, a fim de diminuir o risco cardiovascular, além de ser necessário solicitar exames pré-operatórios: raio x de tórax, eletrocardiograma, hemograma e coagulograma e creatinina sérica.+}
+
+1. Introdução
+
+A avaliação pré-operatória engloba vários fatores, como risco de sangramento, desenvolvimento de trombose e complica-ções metabólicas. Contudo, provavelmente o principal tópico envolve a avaliação do risco de eventos cardiovasculares. Exis-tem várias classificações de risco pré-operatório cardiovascular, desde a simplificada, adotada pela American Society of Anes-thesiologists (ASA), tradicionalmente usada no passado e ainda cobrada em provas de Residência, até os algoritmos atuais, como o da American Heart Association (AHA) e os utilizados pelo American College of Physicians (ACP). 
+O risco cirúrgico depende de fatores inerentes à própria cirurgia, bem como à idade e às comorbidades apresentadas. Deve-se salientar que todo procedimento cirúrgico implica certo risco, sendo necessário pesá-lo em relação ao benefício. 
+
+2. Risco cardiovascular inerente ao procedimento
+
+{+Dica+}
+O risco cirúrgico inerente ao procedimento depende do porte da cirurgia e de {+ela +}ser ou não realizada em situação de emer[---]gência. 
+
+Provavelmente, a principal variável é a cirurgia realizada nessa situação, em que tanto os trabalhos de Goldman como os de Detsky encontraram associação importante a aumento de eventos cardiovasculares, com risco equivalente, por exem[---]plo, a um Infarto Agudo do Miocárdio (IAM) relativamente recente. A Tabela 1 sumariza o risco cirúrgico em relação ao pro[---]cedi{+-+}mento a que o paciente é submetido.
+
+Tabela 1 - Risco cirúrgico conforme o procedimento 
+Riscos	Tipos de cirurgia	Eventos cardiovasculares (%)
+Alto	- Cirurgia de emergência, principalmente em idosos;	>5
+@@ -13,18 +26,21 @@ Alto	- Cirurgia de emerg
+	- Cirurgia de revascularização periférica; 	
+	- Cirurgias com grande potencial de perda de sangue.	
+Intermediário	- Endarterectomia de carótidas;	<5
+	- Cirurgias de cabeça e pescoço, otorrinolaringológicas, ortopédicas e urológi{+-+}cas;	
+	- Cirurgia neurológica; 	
+	- Cirurgia intraperitoneal e cirurgia intratorácica.	
+Baixo	- Procedimentos endoscópicos;	<1
+	- Procedimentos superficiais.	
+
+3. Risco cardiovascular inerente ao paciente 
+
+O algoritmo da AHA leva muito em conta o estado funcional do paciente, pois apresenta associação a eventos cardiovascu-lares no pós-operatório. Embora a maioria dos estudos utilize testes com ergometria ou ergoespirométricos, a AHA usa a unidade de equivalente metabólico, descrita como a quantidade de oxigênio consumida por um homem de 40 anos, 70kg e em repouso, cujo valor é de 3,5mL/kg. A essa unidade de medida se dá o nome de 1 equivalente metabólico (1MET). Com relação ao seu equivalente metabólico, os pacientes podem ser classificados quanto à capacidade de realizar atividades com diferentes intensidades e consequentes consumos de oxigênio, como:
+Excelente: maior do que 10METs (nível de atividade de atletas);
+Bom: 7 a 10METs; o indivíduo pratica atividade física, como natação;
+Moderado: 4 a 7METs; o indivíduo tolera atividades como caminhadas curtas, de até 6,4km/h;
+Pobre: menor {+do +}que 4METs; o indivíduo tolera caminhadas curtas com menos de 2 quarteirões.
+Apresentadas essas variáveis, podem-se considerar os diversos algoritmos de avaliação do risco cardiovascular.
+
+A - Classificação da ASA
+A seguir, a classificação da ASA, embora sua importância hoje seja mais histórica:
+I: indivíduo saudável, <70 anos;
+@@ -32,24 +48,30 @@ II: doen
+III: doença sistêmica grave, com limitação funcional definida;
+IV: doença sistêmica incapacitante, que constitui ameaça à sobrevivência;
+V: paciente gravíssimo – sem expectativa de sobrevivência por mais de 24 horas com ou sem a cirurgia.
+Essa classificação, não utilizada atualmente para avaliação pré-operatória, n[-ão-]{+em+} é citada nas Diretrizes Brasileiras de Avalia-ção Perioperatória.
+
+B - Índice de risco cardíaco de Goldman
+Foi o 1º modelo validado na literatura para predizer complicações cardíacas. Devido à sua simplicidade, alguns ainda o consideram o melhor índice de avaliação pré-operatória, mas parece falhar ao avaliar pacientes de risco intermediário. Além disso, a classificação não considera indivíduos com angina.
+
+Tabela 2 - Índice de risco cardíaco de Goldman
+[-- -]Variáveis:[-· -]
+1 - Cirurgia de alto risco. [-· -]
+2 - História de doença coronariana. [-· -]
+3 - História de insuficiência cardíaca.[-· -]
+4 - História de doença cerebrovascular. [-· -]
+5 - Diabetes Mellitus (DM) que requeira tratamento com insulina.[-· -]
+6 - Creatinina sérica no pré-operatório >2mg/dL.
+- Considerando o número de variáveis encontradas, pode-se classificar o risco cardiovascular do paciente em:
+· Baixo (0,4 a 0,5%): nenhuma variável; 
+· Intermediário: 1 ou 2 variáveis;
+· Alto (9 a 11%): 3 ou mais variáveis.
+
+{+Dica+}
+A realização de testes não invasivos para doença coronariana é recomendada àqueles de alto risco, mas duvidosa quanto aos de risco intermediário e não indicada aos de baixo risco.
+
+C - Índice de Detsky
+Bastante semelhante ao de Goldman e utilizado pelo ACP desde 1986, foi adotado pelas Diretrizes Brasileiras de Avaliação Peri{+o+}peratória.
+
+Tabela 3 - Índice de Detsky
+- 1 - Avalia-se o risco cardiovascular segundo estas variáveis: 
+· IAM <6 meses (10 pontos); 
+@@ -59,14 +81,15 @@ Tabela 3 - 
+· Edema agudo pulmonar na última semana (10 pontos);
+· Edema agudo pulmonar alguma vez na vida (5 pontos);
+· Suspeita de estenose aórtica crítica (20 pontos);
+· Ritmo não sinusal ou [-RS-]{+ritmo sinusal+} com [-ESSV-]{+extrassístole supraventricular+} ou >5ESV no eletrocardi[---]ograma (ECG – 5 pontos);
+· pO2 <60mmHg, pCO2 >50mmHg, K+ <3mEq/L, ureia >50mg/dL, creatinina >3mg/dL ou restrição ao leito (5 pon[---]tos);
+· Idade >70 anos (5 pontos);
+· Cirurgia de emergência (10 pontos).
+- 2 - Somam-se os pontos. Os pacientes são classificados em:
+· Classe I: 0 a 15 pontos;
+· Classe II: 20 a 30 pontos;
+· Classe III: >30 pontos.
+
+D - Riscos complementares de Eagle e Vanzetto
+Em se tratando dos pacientes da classe I de Detsky que serão submetidos a cirurgia vascular, devem-se considerar as vari-áveis de risco complementares de Eagle e Vanzetto:
+Idade >70 anos;
+@@ -78,11 +101,14 @@ Ectopia ventricular;
+Ondas Q no ECG;
+Anormalidades isquêmicas do segmento ST no ECG de repouso;
+Hipertensão Arterial Sistêmica (HAS) com hipertrofia ventricular grave.
+
+E - Avaliação do ACP
+O algoritmo de avaliação do ACP (Figura 1), recomendado pelas Diretrizes Brasileiras de Avaliação Perioperatória, usa a classificação de Detsky e as variáveis de risco de Eagle e Vanzetto.
+ 
+Figura 1 - Avaliação do A{+merican +}C{+ollege of +}P{+hysicians+}
+
+A AHA, por sua vez, não usa índices de risco cardíaco específicos, mas preditores de risco para definir o risco cirúrgico quanto a complicações cardiovasculares.  
+
+Tabela 4 - Preditores
+Maiores
+- ICC descompensada;
+@@ -100,12 +126,29 @@ Menores
+- Capacidade funcional reduzida;
+- História de Acidente Vascular Cerebral (AVC);
+- HAS não controlada.
+
+Considerando tais preditores, o algoritmo da Figura 2 é utilizado para a avaliação. 
+
+  
+Figura 2 - [-A-]{+Variáveis maiores e intermediárias da a+}valiação do A[-CC (A-]merican College of Cardiology[-)-]/A{+merican +}H{+eart +}A{+ssociation+} para subme{+-+}tidos a cirurgia não cardíaca
+
+  
+Figura 3 - [-A-]{+Variáveis menores da a+}valiação do A{+merican +}C{+ollege of +}C{+ardiology+}/A{+merican +}H{+eart +}A{+ssociation para submetidos a cirurgia não cardíaca+}
+
+{+Pergunta+}
+{+2014 - UNIRIO+}
+{+1. Assinale o fator de risco cardíaco moderado em operações não cardíacas no paciente idoso:+}
+{+a) angina instável, insuficiência cardíaca compensada e hipertensão arterial +}
+{+b) angina pectoris moderada (classe II), diabetes mellitus e insuficiência renal crônica +}
+{+c) aumento da faixa etária, diabetes mellitus e hipertensão arterial não controlada +}
+{+d) insuficiência cardíaca congestiva descompensada, diabetes mellitus e insuficiência renal +}
+{+e) insuficiência cardíaca congestiva, padrão eletrocardiográfico alterado e doença valvular+}
+{+Resposta no final do capítulo+}
+
+Aqueles em ambos os grupos em que existe indicação de teste não invasivo para avaliação de isquemia podem fazê-lo por meio de cintilografia miocárdica ou ecocardiograma de estresse com dobutamina. Não é necessário teste não invasivo em já submetidos a esse exame em menos de 2 anos, desde que os fatores de risco para doença cardiovascular estejam controla-dos e não haja sintomas. A avaliação também não é necessária em revascularizados há menos de 5 anos ou assintomáticos e com cateterismo negativo e fatores de risco controlados. 
+
+{+Importante+}
+{+Vale sempre estudar e relembrar as considerações e os graus de recomendação das diretrizes brasileiras para a realização de exames não invasivos para avaliação pré-operatória.+}
+As diretrizes brasileiras consideram as seguintes indicações para a realização de exames não invasivos para avaliação pré-operatória:
+Grau de recomendação I:
+Pacientes com preditores clínicos intermediários de risco e que serão submetidos a intervenções vasculares.
+@@ -117,23 +160,32 @@ Procedimento cir
+Grau de recomendação IIb:
+Pacientes sem avaliação funcional nos últimos 2 anos e sabidamente coronariopatas ou com, no mínimo, 2 fatores de risco para doença arterial coronariana (HAS, tabagismo, dislipidemia, DM, história familiar positiva).
+Grau de recomendação III:
+Pacientes não candidatos [-à-]{+a+} revascularização miocárdica, sem possibilidade de modificação do plano cirúrgico não cardí-aco de acordo com o resultado da prova funcional.
+
+4. Uso de drogas para diminuição do risco cardiovascular
+
+A - Betabloqueadores
+Uma medida potencial para a diminuição do risco cardiovascular é o uso dos betabloqueadores. Estudos tanto com ate-nolol quanto com bisoprolol apontaram diminuição de eventos cardiovasculares, e essas medicações são indicadas a risco alto ou intermediário sempre que é indicado também o procedimento cirúrgico. Recomenda-se a droga, pelo menos, 1 semana antes (os estudos que mostraram maior benefício utilizaram a medicação de 1 a 4 semanas antes da cirurgia), mas se pode introduzi-la a qualquer momento. Procura-se manter a FC em torno de 60bpm. Aos usuários que se submeterão à cirurgia é recomendada a manutenção durante todo o período perioperatório. 
+
+B - Estatinas
+Há estudos promissores com o uso de estatinas, as quais devem ser consideradas em todos aqueles com doença arterial coronariana submetidos a procedimentos cirúrgicos. 
+
+C - Angiografia coronariana
+Há grande discussão sobre quando realizar angiografia coronariana antes de procedimentos cirúrgicos não cardíacos, pois esse teste é invasivo e tem taxas de morbidade e mortalidade que variam, respectivamente, entre 0,01 e 0,5% e 0,03 e 0,25%. A AHA sugere que o exame seja realizado nas seguintes situações:
+Pacientes de alto risco em testes não invasivos;
+Angina não responsiva ao tratamento;
+Pacientes com angina instável;
+Testes não invasivos inconclusivos para isquemia, em pacientes de alto risco e que serão submetidos a cirurgia também de alto risco.
+
+{+Importante+}
+{+Em casos de risco cardiovascular intermediário/alto pré-operatório, está indicado bisoprolol ou atenolol. Efeitos protetores das estatinas ainda devem ser comprovados no risco perioperatório. O cateterismo cardíaco não deve ser utilizado rotinei-ramente para avaliação do risco perioperatório de evento cardiovascular. +}
+5. Exames laboratoriais no pré-operatório
+
+A solicitação de exames complementares na avaliação pré-operatória objetiva reduzir a morbidade e a mortalidade peri-operatórias, e continuam a ser de maior importância a anamnese e o exame físico. Exames laboratoriais devem ser solicitados quando podem apresentar benefício, demonstrando riscos e realizando diagnósticos que possam fazer diferença no manejo.
+Pessoas com menos de 40 anos, assintomáticas e sem fatores de risco para doenças não apresentam indicação de exames adicionais, exceto quando apresentam indicações específicas com base na cirurgia a que serão submetidas. Em cirurgias neu-rológicas, por exemplo, o coagulograma é necessário independentemente da idade do indivíduo.
+Para aqueles entre 40 e 60 anos sem outros fatores de risco, o ACP indica exames de creatinina, glicemia e eletrocardio-grama; em indivíduos acima de 60 anos, acrescentam-se hemograma e radiografia de tórax.
+A seguir, estão apresentadas as indicações de exames laboratoriais conforme as indicações das Diretrizes Brasileiras de Avaliação Perioperatória.
+
+A - ECG
+Grau de recomendação I:
+Todos com idade superior a 40 anos ou, independente da idade, com história e/ou anormalidades ao exame físico su-gestivas de doença cardiovascular;
+@@ -143,76 +195,111 @@ Grau de recomenda
+Assintomáticos obesos.
+Grau de recomendação III: 
+Rotina a assintomáticos que serão submetidos a procedimentos cirúrgicos de baixo risco.
+
+B - Radiografia de tórax
+Grau de recomendação I: àqueles com anormalidades, relacionadas ao tórax, na história e no exame físico.
+
+C - Hemograma completo
+Grau de recomendação I:
+Idosos (>65 anos);
+Suspeita clínica de anemia ao exame físico ou presença de doenças crônicas associadas [-à-]{+a+} anemia;
+Intervenções de médio e grande porte{+s+}, com previsão de necessidade de transfusão.
+
+D - Hemostasia e testes da coagulação
+Grau de recomendação I:
+Pacientes anticoagulados;
+Pacientes com insuficiência hepática;
+Portadores de distúrbios de coagulação;
+Intervenções de médio e grande porte{+s+}.
+
+E - Dosagem da creatinina sérica
+Grau de recomendação I:
+Àqueles com idade superior a 40 anos;
+Portadores de nefropatia, DM, HAS, insuficiência hepática, insuficiência cardíaca (se não houver um resultado desse exame nos últimos 12 meses);
+Intervenções de médio e grande porte{+s+}.
+
+{+Dica+}
+{+Pacientes com menos de 40 anos, assintomáticos e sem fatores de risco para doenças não precisam de exames pré-operatórios. No caso de pacientes entre 40 e 60 anos sem outros fatores de risco, realizam-se creatinina, glicemia e eletro-cardiograma. E, no caso de pacientes acima de 60 anos, adicionam-se hemograma e radiografia de tórax. +}
+6. Avaliação do risco de sangramento
+
+A história de sangramento é o melhor preditor deste próprio no intraoperatório. Na grande maioria dos procedimentos cirúrgicos, não são necessários exames para a avaliação da hemostasia, desde que não haja história de sangramentos nem fatores de risco associados ao aumento da possibilidade deles. Presença de achados[-,-] como petéquias, equimose, icterícia, entre outros, sugere a mesma hipótese em submetidos a procedimentos cirúrgicos. De acordo com a cirurgia, devem ser solicitados outros exames, especificados na Tabela 5.
+
+Tabela 5 - Avaliação do risco de sangramento de acordo com o procedimento cirúrgico
+Métodos e exames para avaliação	Cirurgia geral	Grandes cirurgias	Cirurgia prostática, 
+cardíaca ou neurológica	História clínica positiva para sangramento
+História	+	+	+	+
+Exame físico	+	+	+	+
+Número de plaquetas		+	+	+
+Tempo de tromboplasti[---]na parcial ativada		+	+	+
+Tempo de protrombina			+	+
+Tempo de trombina			+	+
+Tempo de sangramento			+	+
+Nível de fibrinogênio			+	+
+Fator XIII				+
+Outros fatores de coagu[---]la{+-+}ção				+
+Teste de agregação pla{+-+}quetária				+
+
+{+Pergunta+}
+{+2007 - HSPM-SP+}
+{+2. Qual é a melhor forma de avaliar o risco de sangramento no pré-operatório de cirurgia eletiva?+}
+{+a) coagulograma completo+}
+{+b) contagem de plaquetas+}
+{+c) tempo de sangramento+}
+{+d) tempo de protrombina+}
+{+e) história clínica+}
+{+Resposta no final do capítulo+}
+
+7. Hipertensão arterial sistêmica no pré-operatório
+
+A HAS apresenta aumento do risco cardiovascular cronicamente, mas não é um dos grandes fatores associados a eventos agudos no perioperatório. Indivíduos com hipertensão em estadios I e II não precisam de ajuste da pressão arterial antes de procedimento eletivo. Intervenções nesses casos, a menos de 2 semanas para cirurgia eletiva, podem aumentar o risco de insuficiência renal e de outras complicações no pós-operatório. Aqueles com hipertensão estadio III, por sua vez, devem ter a pressão arterial controlada, em níveis menores {+do +}que 170mmHg de pressão arterial sistólica e 110mmHg de pressão diastó{+-+}lica. São recomendações das Diretrizes Brasileiras de Avaliação Perioperatória (grau de recomendação I):
+Se a pressão arterial não está controlada e há tempo hábil para o controle (cirurgia eletiva a realizar em período superior a 2 semanas), deve-se otimizar a terapêutica para reduzir os níveis de pressão; 
+As medicações anti-hipertensivas (incluindo Inibidores da Enzima Conversora de Angiotensina – IECAs) devem ser manti-das no pré-operatório, inclusive no dia da operação;
+Se o paciente está com a pressão elevada e não existe tempo para controlá-la, deve-se utilizar bloqueador adrenérgico de curta ação (esmolol) para evitar a elevação da pressão no ato da intubação; quanto àqueles a quem o bloqueador está contraindicado, pode ser usada a clonidina por via oral; 
+A hipocalemia, se presente, deve ser corrigida antes da cirurgia;
+Devem-se reiniciar os anti-hipertensivos no pós-operatório, de preferência com os mesmos medicamentos de antes da ci-rurgia;
+A otimização da volemia deve ser realizada durante todo o perioperatório.
+
+{+Importante+}
+{+Medicações anti-hipertensivas devem ser mantidas, inclusive no dia da cirurgia. Hipocalemia deve ser corrigida no pré-operatório. E hipertensão arterial sistêmica não controlada em cirurgia de urgência/emergência deve ser modulada com vasodilatadores intravenosos.+}
+
+8. Controle glicêmico no perioperatório
+
+O diabetes está associado a complicações micro e macrovasculares. Alguns estudos atestaram que {+há, +}também[- há-]{+,+} associação a maior risco de eventos cardiovasculares. O controle estrito de glicemia foi associado à diminuição de eventos adversos em pessoas com IAM e naquelas com choque séptico. 
+O controle glicêmico durante cirurgias eletivas é importante, e glicemia maior do que 250mg/dL não contraindica o pro-cedimento eletivo. Se os valores de glicemia são maiores do que 250mg/dL e o paciente é submetido a um procedimento de urgência, este pode ser realizado com controle glicêmico durante a cirurgia. Quando submetido a cirurgias eletivas, deve-se considerar um período de compensação do diabetes antes da cirurgia. [-O Con-]{+A+}s{+ Diretriz+}e[-n-]s[-o-] Brasileir[-o-]{+as+} de Avaliação Perioperatória sugere que valores acima de 220mg/dL indicam que se considere o adiamento da cirurgia eletiva. A literatura, por sua vez, indica as seguintes medidas para controle glicêmico durante o perioperatório[-.-]{+:+}
+
+A - Cirurgia de curta duração (pela manhã cedo)
+Não administrar hipoglicemiante ou insulina no dia da cirurgia. Logo após a operação, pode-se reintroduzir a dieta e reto-mar o esquema habitual.
+
+B - Cirurgia de curta duração (ao final da manhã)
+Pacientes que usam hipoglicemiantes orais: não administrar no dia da cirurgia;
+Pacientes que usam dose única de insulina de duração intermediária: administrar 2/3 da dose total diária no dia da cirur-gia;
+Pacientes que usam de 2 a 3 doses de insulina de duração intermediária: administrar 1/2 da dose total na manhã da cirur-gia;
+Pacientes que usam múltiplas doses de insulina de duração curta: administrar 1/3 da dose total diária no dia da cirurgia;
+Pacientes que usam bomba de insulina: manter a taxa de infusão basal no dia da cirurgia.
+
+C - Cirurgia de curta duração (à tarde)
+Pacientes que usam hipoglicemiantes orais: não administrar no dia da cirurgia;
+Pacientes que usam dose única de insulina de duração intermediária: administrar 1/2 da dose total diária no dia da cirur-gia;
+Pacientes que usam de 2 a 3 doses de insulina de duração intermediária: administrar 1/3 da dose total na manhã da cirur-gia;
+Pacientes que usam múltiplas doses de insulina de duração curta: administrar 1/3 da dose pela manhã e antes do almoço;
+Pacientes que usam bomba de insulina: manter a taxa de infusão basal no dia da cirurgia.
+
+D - Procedimento de grande duração e complexidade
+Pacientes que usam hipoglicemiantes orais: não administrar no dia da cirurgia;
+Pacientes que usam insulina de duração intermediária: 
+Mantê-la no intraoperatório e no pós-operatório, conforme a glicemia capilar. Por meio de insulina intravenosa, manter a glicemia entre 150 e 200mg/dL para proteger contra hipoglicemia. Em caso de uso de bomba de insulina, pode-se tentar controle mais estrito, com glicemia entre 100 e 150mg/dL;
+Monitorizar glicemia capilar no início da cirurgia a cada 1 ou 2 horas;
+Pode ser necessária a infusão de 5 a 10g de glicose/h para evitar hipoglicemia e cetose.
+Pacientes submetidos a procedimentos complexos[-,-]{+ e+} cirurgias de emergência[-,-]{+ com+} diabetes tipo 1 descompensado e ges{+-+}tantes diabéticas tipo 1:
+Em caso de valores glicêmicos acima de 200mg/dL, utilizar insulina regular intravenosa conforme glicemia capilar, ou in-sulina intravenosa contínua na taxa de infusão de 0,5 a 5U/h, para manter a glicemia menor do que 200mg/dL;
+Realizar controle glicêmico a cada hora.
+
+{+Importante+}
+{+A hiperglicemia (<220mg/dL) não contraindica cirurgia eletiva. Para cirurgias eletivas, o diabetes mellitus deve estar com-pensado ao menos por 2 semanas antes do procedimento. Hipoglicemiantes orais não devem ser administrados no dia da cirurgia.+}
+
+9. Cuidados perioperatórios ao paciente nefropata
+
+Aqueles com insuficiência renal apresentam maior chance de complicações no perioperatório. O principal fator é o nível de creatinina{+,+} que, quando maior do que 1,5mg/dL e, principalmente, se maior do que 2mg/dL, implica risco superior de eventos cardiovasculares e de piora da função renal durante a cirurgia. A Insuficiência Renal Aguda (IRA) acontece em 5% das admissões hospitalares e em 1 a 30% dos submetidos aos procedimentos cirúrgicos, dependendo das séries estudadas, com mortalidade próxima a 50%. Nenhuma medida pré-operatória demonstrou benefício.
+Cirurgias cardíacas ou que envolvem a aorta apresentam maior risco de insuficiência renal. Outras condições que aumen-tam esse risco são presença de icterícia, diabetes e idade avançada. São considerações importantes em se tratando desses pacientes:
+Manter o volume plasmático adequado, evitando hipovolemia;
+Evitar agentes nefrotóxicos e corrigir doses de antibióticos e outros medicamentos adequadamente, conforme a função renal;
+@@ -221,15 +308,22 @@ Em procedimentos endovasculares ou radiointerven
+Recomenda-se solução salina a 0,45% (100mL/h, 12 horas antes e 12 horas depois do procedimento), associada a N-acetilcisteína (600mg, de 12/12h), 24 horas antes e depois.
+Um estudo recente demonstrou que o emprego de solução de hidratação 154mEq/L de bicarbonato de sódio diluído em solução de dextrose a 5%, em total de 1L de solução, infundida a 3mL/kg 1 hora antes do procedimento e 1mL/kg durante o procedimento e 6 horas depois, apresenta resultados superiores à infusão convencional de solução salina. Trata-se, portanto, de uma opção válida para prevenção da IRA por contraste.
+Aqueles com insuficiência renal dialítica devem realizar diálise de 12 a 24 horas antes da cirurgia para minimizar as com-plicações. Medidas apropriadas para hipercalemia, acidose e outras complicações da insuficiência renal crônica devem ser realizadas conforme a necessidade e as recomendações da literatura para situações não cirúrgicas.
+
+{+Importante+}
+{+Na insuficiência renal, hipovolemia e hipotensão devem ser evitadas no perioperatório. Doses de medicações utilizadas no período devem ser ajustadas à função renal.+}
+
+10. Complicações cirúrgicas ao paciente hepatopata
+
+O paciente hepatopata apresenta grande número de alterações que implicam maior risco de complicações cirúrgicas. A doença hepática leva a alterações na síntese proteica e no metabolismo de drogas e nutrientes, além de alterar a excreção e a eliminação de toxinas. O hepatopata leve, como [-o-]{+aquele que+} apresenta[-ndo-] cirrose com Child A, não apresenta risco cirúrgico muito diferente de outros, entretanto aquele com disfunção importante, como o que apresenta Child C, tem risco aumentado de complicações perioperatórias.
+Hepatites agudas, virais ou alcoólicas são contraindicações absolutas para procedimentos eletivos, com taxas de mortali-dade de 10 a 50%. Hepatopatas crônicos e cirróticos com Child C, em geral, também apresentam contraindicação a esses procedimentos. Pacientes com Child A, por sua vez, normalmente não têm contraindicação a procedimentos cirúrgicos. Maio-res considerações devem ser feitas quanto àqueles com Child B, em que o benefício do procedimento deve ser contrabalan-çado com o maior risco de cirurgias.
+A presença de coagulopatia deve ser corrigida antes do procedimento, assim como distúrbios hidroeletrolíticos. É impor-tante a reposição de vitamina K. A presença de ascite aumenta o número de casos de deiscência de ferida cirúrgica, contudo seu manejo com diuréticos e paracenteses deve ser cauteloso, pois pode ocasionar insuficiência renal aguda e encefalopatia hepática. A reposição de albumina, juntamente com paracentese entre aqueles com ascite, parece ser a medida mais apro-priada para evitar complicações.
+
+11. Paciente com pneumopatia
+
+As complicações pulmonares cirúrgicas implicam aumento de morbidade, mas com aumento de mortalidade muito menor do que as complicações cardíacas. A incidência estimada de complicações pulmonares varia de 17 a 25% nas diferentes séries de casos. O risco de tais complicações é, em particular, maior entre aqueles com obesidade, os quais apresentam risco de hipoxemia.
+O tabagismo está associado ao risco de aparecimento de complicações pulmonares aumentado em cerca de 4 vezes, mas a sua cessação aumenta secreções pulmonares nas primeiras semanas, elevando o risco de problemas. Tal risco desaparece após 8 semanas de abstinência.
+A asma é um fator de risco independente para complicações pulmonares, mas não particularmente aumentado naqueles fora de exacerbação e compensados clinicamente. Já aqueles com Doença Pulmonar Obstrutiva Crônica (DPOC) apresentam risco até 4,7 vezes maior dessas complicações. Assim, é absolutamente necessário compensá-los antes da cirurgia.
+Indivíduos com redução da Capacidade Vital Forçada (CVF) e {+do +}Volume Expiratório Forçado no 1º segundo (VEF1) menor do que 70% apresentam maior taxa de complicações pulmonares associadas à cirurgia, as quais estão aumentadas naqueles com índice de Tiffeneau (VEF1[-/-]{+–+}CVF) menor do que 65%.
+O risco de complicações pulmonares é, em particular, maior entre aqueles com alterações gasométricas, sendo que paO2 <50mmHg e paCO2 >50mmHg se associam a eventos cardíacos no perioperatório. Um estudo demonstrou que níveis de pa-CO2 >45mmHg estavam associados a maior taxa de complicações pulmonares em submetidos a cirurgias cardíacas, o que é compreensível, visto que esses níveis apontam comprometimento ventilatório importante e apresentam correlação com hipoxemia e outros fatores que aumentam morbidades perioperatórias.
+Cirurgias com duração maior do que 3 horas, uso de pancurônio e anestesia geral também são associados a taxa maior de problemas pulmonares.
+A prova de função pulmonar pode ajudar no manejo em relação a esses problemas. São indicações para tal:
+@@ -237,15 +331,16 @@ Submetidos a cirurgia tor
+Pacientes com DPOC;
+Aqueles que serão submetidos a cirurgia de ressecção pulmonar;
+Pré-operatório de pacientes com dispneia de causa incerta;
+Submetidos [-à-]{+a+} cirurgia de revascularização do miocárdio.
+A avaliação de risco pulmonar pode ser orientada pela escala de Torrington-Henderson, que classifica os pacientes em baixo, moderado e alto risco{+s+} de complicações pulmonares, utilizando vários fatores independentes de complicações pulmo-nares. A classificação, apesar de importante, não deve ser usada para contraindicar procedimentos cirúrgicos, mas para indi-car a necessidade de medidas preventivas para as complicações. A Tabela 6 sumariza a classificação de Torrington{+-Henderson+}.
+
+Tabela 6 - Classificação de Torrington{+-Henderson+}
+Variáveis	Pontuação
+1 - Espirometria.
+    a) CVF <50% do previsto	1
+    b) VEF1[-/-]{+–+}CVF – 65 a 75%	1
+    c) VEF1[-/-]{+–+}CVF – 50 a 64%	2
+    d) VEF1[-/-]{+–+}CVF – <50%	3
+2 - Idade >65 anos.	1
+3 - Peso >150% do ideal.	1
+4 - Cirurgia abdominal alta ou torácica.	2
+@@ -253,19 +348,20 @@ Vari
+6 - Tabagismo.	1
+7 - Sintomas pulmonares (tosse, dispneia, catarro).	1
+8 - História de doença pulmonar.	1
+Classificação de risco	Pontos	Taxa de complicações (%)	Mortalidade (%)
+Baixo	0 a 3	6	2
+Moderado	4 a 6	23	6
+Alto	>7	35	12
+
+Algumas medidas podem auxiliar a diminuir o risco cirúrgico, como cessação do tabagismo, pelo menos 8 semanas antes. A compensação de doenças pulmonares, como asma e DPOC, também é importante. Aqueles com infecções respiratórias preci-sam ser adequadamente tratados, e educação e manobras de expansão pulmonar podem auxiliar, em particular, os obesos. Quando possível, deve-se limitar a duração de procedimentos cirúrgicos, evitar o uso de bloqueadores neuromusculares, entre outras medidas.
+Exercícios com estímulo de respiração profunda, fisioterapia, uso de pressão positiva contínua nas vias aéreas (CPAP) ou outras formas de pressão positiva e controle rigoroso da dor podem ajudar, enquanto a corticoterapia àqueles com asma e DPOC pode ser importante.
+
+12. Paciente em uso de anticoagulantes
+
+O paciente pode estar anticoagulado por diferentes razões, o que aumenta o risco de sangramento, enquanto a interrup-ção da anticoagulação pode aumentar o risco de trombose.
+Alguns procedimentos não se associam a aumento do risco de sangramento, mesmo em submetidos a anticoagulação, co-mo cirurgias de catarata e vitreorretinal, bem como procedimentos protéticos e dentários. 
+As Diretrizes Brasileiras de Avaliação Perioperatória dividem os pacientes de acordo com o risco de eventos tromboem-bólicos:
+Alto risco: tromboembolismo venoso há menos de 3 meses; próteses valvares mecânicas; fibrilação atrial com AVC prévio ou com múltiplos fatores de risco para AVC ou associada a valvopatias; estados de hipercoagulabilidade (fator V de Lei-den, deficiências de proteína{+s+} C e S) com trombose recorrente ou recente;
+Risco intermediário: fibrilação atrial sem AVC prévio e com apenas 1 fator de risco para AVC (idade >65 anos, DM, HAS, ICC);
+Baixo risco: tromboembolismo venoso há mais de 3 meses, fibrilação atrial sem fatores de risco para AVC, estados de hi-percoagulabilidade sem complicação trombótica recente, trombose recorrente.
+As recomendações das diretrizes brasileiras, com relação à anticoagulação, são:
+@@ -286,7 +382,9 @@ Se INR >3, descontinuar o anticoagulante por 1 a 2 dias antes da cirurgia e rein
+Procedimentos de urgência:
+Vitamina K e plasma fresco podem ser usados para a reversão da anticoagulação, evitando altas doses da primeira, que podem dificultar anticoagulação posterior.
+Quanto a pacientes em uso de HNF intravenosa, esta deve ser descontinuada 2 horas antes da cirurgia. E HNF subcutânea ou HBPM devem ser descontinuadas 12 horas antes da cirurgia.
+
+13. Abordagem para diminuir o risco de trombose venosa pro{+-+}funda
+
+Procedimentos cirúrgicos são importantes fatores de risco para o desenvolvimento de eventos tromboembólicos. Outros fatores incluem trombofilias, fraturas de fêmur, entre outras condições. 
+As Diretrizes Brasileiras de Avaliação Perioperatória recomendam:
+Risco baixo (grau de recomendação I):
+@@ -301,23 +399,23 @@ Heparina: 5.000UI SC, a cada 8 horas, 1 a 2 horas antes da cirurgia;
+Enoxaparina: 40mg SC, 1 a 2 horas antes da cirurgia e 1x/d no pós-operatório;
+CPI: início imediatamente antes da cirurgia até a alta hospitalar.
+Risco muito alto (grau de recomendação I):
+Heparina: 5.000UI SC, a cada 8 horas, 1 a 2 horas antes de cirurgia{+,+} combinad[-o-]{+a+} com CPI/meia elástica; 
+Enoxaparina: 40mg SC, 1 a 2 horas antes da cirurgia e 1x/d no pós-operatório{+,+} combinad[-o-]{+a+} com CPI/meia elástica; 
+Varfarina em selecionados: início com 5mg/d ou no dia após a cirurgia, ajustando a dose para manter INR de 2 a 3 (grau de recomendação IIa).
+Artroplastia de quadril eletiva (grau de recomendação I):
+Heparina: SC, a cada 8 horas, dose inicial de 3.500U, ajustando 500U por dose para manter TTPA nos níveis superiores da normalidade (grau de recomendação IIa);
+Enoxaparina: 40mg SC, 12 horas antes ou 12 a 24 horas depois da cirurgia, ou 20mg SC, 4 a 6 horas depois da cirurgia{+,+} mantendo 40mg/d nos dias subsequentes; 
+Varfarina: com ajuste da dose para manter o INR entre 2 e 3, iniciando no pré-operatório ou imediatamente após a ci-rurgia; 
+Associação das medidas de profilaxia com CPI ou meia elástica (grau de recomendação IIa);
+Duração da profilaxia por, pelo menos, 7 dias.
+Artroplastia de joelho eletiva (grau de recomendação I):
+Enoxaparina: 40mg SC, 12 horas antes ou 12 a 24 horas depois da cirurgia, ou 20mg SC, 4 a 6 horas depois da cirurgia{+,+} mantendo 40mg/d nos dias subsequentes; 
+Varfarina: com ajuste da dose para manter o INR entre 2 e 3, iniciando no pré-operatório ou imediatamente após a ci-rurgia; 
+CPI: início imediatamente antes da cirurgia até a alta hospitalar; 
+Duração da profilaxia por, pelo menos, 7 a 10 dias. 
+Cirurgia de fratura de quadril (grau de recomendação I):
+Heparina: 5.000UI SC, a cada 8 horas, 1 a 2 horas antes (grau de recomendação IIa);
+Enoxaparina: 40mg SC, 12 horas antes ou 12 a 24 horas depois da cirurgia, ou 20mg SC, 4 a 6 horas depois da cirurgia{+,+} mantendo 40mg/d nos dias subsequentes; 
+Varfarina: com ajuste da dose para manter o INR entre 2 e 3, iniciando no pré-operatório ou imediatamente após a ci-rurgia. 
+Neurocirurgia (grau de recomendação I):
+Heparina: 5.000UI SC, a cada 8 horas, 1 a 2 horas antes (grau de recomendação IIa);
+@@ -351,14 +449,17 @@ Meia el
+Pacientes de alto risco:
+Associação de CPI/meia elástica a enoxaparina/heparina profilática.
+A Tabela 7 sumariza as recomendações das diretrizes brasileiras.
+
+Tabela 7 - Recomendação para o manejo da anticoagulação pré e pós-operatória a pacientes em uso de anticoagulação oral por história de tromboembolismo venoso prévio
+Indicações	Antes da cirurgia	Após a cirurgia
+Agudo – mês 1	Heparina intravenosa 
+(suspender 6 horas antes)	Heparina intravenosa (reiniciar 12 horas após operações de grande porte ou mais tarde, caso haja risco de sangramento)
+Meses 2 e 3	Sem alteração	Heparina intravenosa (até atingir INR de 2 com uso de varfa[---]rina)
+Após 3 meses	Sem alteração	HBPM subcutânea
+Recorrente	Sem alteração	HBPM subcutânea
+
+14. Paciente com tireoidopatia
+
+Aqueles com doença de tireoide apresentam risco aumentado de eventos mórbidos e mortalidade no perioperatório. O hipotireoidismo, por exemplo, é extremamente prevalente entre as mulheres, as quais podem apresentar complicações. As recomendações das Diretrizes Brasileiras de Avaliação Perioperatória são (grau de recomendação I, nível de evidência D):
+Não valorizar hipotireoidismo subclínico em caso de valor de TSH <10mU/dL;
+Só realizar o procedimento eletivo quando o paciente estiver eutireóideo;
+@@ -366,29 +467,46 @@ Aqueles com idade <45 anos devem receber a dose plena, que costuma ser de 1,6 a
+Aqueles com mais de 45 anos devem iniciar com 25 a 50µg/d, e a dose é aumentada a cada 2 semanas;
+Coronarianos devem receber 15µg/d, e a dose deve ser aumentada a cada semana, até chegar a TSH normal;
+Não adiar procedimento naqueles com quadro de hipotireoidismo leve, porém iniciar reposição hormonal oral;
+Em procedimentos cirúrgicos na vigência de hipotireoidismo, devem-se realizar profilaxia de hipotermia e monitorização cardiovascular e administrar hidrocortisona[-,-] 100mg, a cada 8 horas em 24 horas, pela chance de insuficiência adrenal.
+Os pacientes com hipertireoidismo apresentam risco de crise tireotóxica em procedimentos cirúrgicos e devem ser sub-metidos a procedimentos cirúrgicos eletivos só em caso de eutireoidismo. A tempestade tireoidiana já foi uma complicação relatada com relativa frequência entre pessoas com hipertireoidismo submetidas [-à-]{+a+} cirurgia, por isso devem ser pontuados alguns princípios do manejo delas:
+Doses de propiltiouracil[-,-]{+a+} 200 a 250µg, a cada 4 horas, e de Tapazol®[-,-] 20µg, a cada 4 horas, são apropriadas;
+Propiltiouracil{+a+} é a 1ª escolha pela ação na inibição da conversão periférica de T4 em T3;
+O ácido iopanoico é o agente iodado de escolha (Telepaque®) – 1g, a cada 8 horas no 1º dia e, após, 500mg, de 12/12h; na falta deste, usar iodeto de potássio[-,-] 4 a 8 gotas, a cada 6 ou 8 horas;
+Tionamidas devem ser oferecidas antes do iodo (2 a 3 horas);
+A dose de lítio é de 300mg{+,+} a cada 6 horas, quando não se podem utilizar tionamidas (há poucos estudos com elas);
+Hemodiálise e hemoperfusão não devem ser usadas como terapia de 1ª linha;
+Os betabloqueadores são importantes para inibir efeitos periféricos dos hormônios tireoidianos; a dose de propranolol é de 60 a 120mg, a cada 6 horas;
+A reposição de corticosteroides é indicada, pois os pacientes são de risco para insuficiência adrenal; a dose de hidrocorti-sona recomendada é de 100mg, a cada 8 horas.
+
+15. Reposição de corticosteroides 
+
+A insuficiência adrenal pode ser precipitada por procedimentos cirúrgicos em virtude do estresse causado pelo dano te-cidual. Na vigência do bloqueio do eixo adrenal pelo uso crônico de corticosteroides, existe o risco de falência adrenal no perioperatório. O aumento dos níveis de cortisol sérico é uma importante resposta ao estresse cirúrgico e representa respos-ta protetora do organismo, necessária no processo adaptativo.
+Cirurgias, portanto, representam estresse fisiológico e resultam em ativação do eixo hipotalâmico-hipofisário-adrenal, provocando aumento do hormônio adrenocorticotrófico (ACTH) e da secreção de cortisol. Pacientes em uso de glicocorticoi-de exógeno podem não produzir ACTH e cortisol suficiente{+s+} para situações de estresse, como cirurgias, e podem evoluir para insuficiência adrenal com hipotensão e choque, embora a evidência de que isso ocorra seja anedótica.
+Doses inferiores a 5mg de prednisona, únicas pela manhã, não parecem causar qualquer espécie de supressão no eixo. O mesmo acontece com corticoide de curta duração em dias alternados, ou qualquer dose de corticoide usada por menos de 3 semanas. Porém, provavelmente, apresentam essa supressão aqueles que usaram dose de 20mg ou mais de prednisona por período de tempo superior a 3 semanas, que pareçam clinicamente cushingoides ou em uso de dose de 7,5mg ou mais por período de 1 mês ou mais. A duração da supressão do eixo é discutível, mas pode ser de até 1 ano após a interrupção do uso de glicocorticoides. Tais pessoas podem ter o eixo testado previamente à cirurgia, com teste da cortisona de baixa dose. Não é feito o teste convencional, pois representa dose suprafisiológica. 
+Caso não seja prático testar o eixo desses indivíduos, deve-se introduzir regime de suplementação de glicocorticoides previamente à cirurgia. E, caso o procedimento seja simples ou com anestesia local, pode-se usar apenas dose usual de repo-sição de glicocorticoide, como 5mg de prednisona ou 20 a 25mg de acetato de cortisona.
+Em procedimentos de estresse cirúrgico moderado, recomenda-se dose suplementar de 50mg IV de hidrocortisona antes da cirurgia e 25mg, a cada 8 horas, por 24 a 48 horas, podendo retornar à dose suplementar de glicocorticoide ou desconti-nuá-lo.
+Em estresses cirúrgicos considerados maiores, a literatura recomenda repor hidrocortisona na dose de 100mg antes da indução anestésica, mantendo 50mg IV, a cada 8 horas, por 48 a 72 horas, antes de descontinuar ou retornar ao esquema de reposição usual.
+
+16. Resumo
+
+Quadro-resumo
+- O risco cirúrgico depende dos riscos da própria cirurgia, da idade do paciente e das suas comorbidades; 
+- As cirurgias de emergência/urgência apresentam maior risco; 
+- O risco cardiovascular nas cirurgias eletivas pode ser avaliado por teste de esforço; 
+- A classificação {+da +}ASA é pouco sensível em classificar adequadamente o risco perioperatório; 
+- As avaliações de Goldman e a de Detsky são mais sensíveis na avaliação do risco cardiovascular; 
+- A utilização de betabloqueadores no perioperatório para pacientes de risco cardiovascular está associada à redução de eventos no perioperatório; 
+- A avaliação laboratorial pré-operatória deve ser individualizada[-,-] de acordo com as morbidades do paciente. 
+
+{+Respostas +}
+{+1. B+}
+{+2. E+}
+
+
+{+Mapa mental+}
+{+ +}
+
+{+Dica +}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
