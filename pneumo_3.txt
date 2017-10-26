@@ -1,18 +1,37 @@
-Fisiologia respiratória e provas de função pulmo-nar
-Rodrigo Antônio Brandão Neto / José Alberto Neder / Fabrício Martins Valois
+Fisiologia respiratória e provas de função pulmonar
+Rodrigo Antônio Brandão Neto
+José Alberto Neder
+Fabrício Martins Valois
+
+Resumo
+Os exames complementares em Pneumologia são extremamente importantes, pois conseguem diferenciar diversas doenças pulmonares, sendo seu conhecimento fundamental para a Residência Médica. A espirometria auxilia na prevenção, no diag-nóstico, na quantificação e no tratamento das doenças pulmonares. Diversos valores são observados na espirometria, como o VEF1 (Volume Expiratório Forçado de 1º segundo), a CVF (Capacidade Vital Forçada) e o PFE (Pico de Fluxo Expiratório), não sendo possível observar o VR (Volume Residual) e a CPT (Capacidade Pulmonar Total). Como resultado da espirometria, podem ser realizados diagnósticos de doenças obstrutivas (cujo VEF1 está alterado) e doenças restritivas (cujo CVF está alte-rado). Um exame adicional realizado associado à espirometria é a reação de broncodilatação, que aponta a resposta positiva (>7% de aumento do resultado previsto ou >200mL do resultado prévio) ou negativa, demonstrando associação ou não a doenças obstrutivas, como a asma. Outros exames presentes são a pletismografia corpórea e a medida da capacidade de difusão de monóxido de carbono. 
+
 1. Introdução
+
  
 Figura 1 - Métodos de avaliação pulmonar
+
 Tabela 1 - Principais indicações clínicas 
 - Auxiliar no diagnóstico diferencial; 
 - Avaliar o impacto da doença pulmonar; 
 - Determinar a progressão da doença pulmonar; 
 - Investigar o efeito do tratamento; 
 - Quantificar o grau de disfunção e incapacidade. 
+
 2. Espirometria
+
 A - Definições
 A espirometria é um método que mede os volumes e as capacidades pulmonares, com exceção do volume residual e da capacidade pulmonar total, que só podem ser mensurados por meio de pletismografia (método mais acurado), método de diluição de hélio e método de lavagem de nitrogênio. Além disso, pode ser realizada durante a respiração lenta ou manobras forçadas, deve ser incluída na avaliação de pacientes com sintomas respiratórios e auxilia na prevenção, no diagnóstico, na quantificação e no tratamento das doenças pulmonares.
+
+Dica
+A espirometria não avalia o VR e a CPT, observados apenas na pletismografia.
+
 B - Siglas e definições 
+
+
+Tema de prova
+O conhecimento de cada um dos termos da prova de função pulmonar é fundamental para a prova de Residência.
+
 Para o adequado entendimento dos testes de função pulmonar, é necessário uniformizar alguns termos; a nomenclatura usada de acordo com a Sociedade Brasileira de Pneumologia e Tisiologia está descrita a seguir: 
 VR (Volume Residual): volume de ar que permanece nos pulmões após uma expiração máxima;
 CPT (Capacidade Pulmonar Total): volume de ar intratorácico ao final de uma inspiração máxima;
@@ -25,105 +44,167 @@ Fluxo: expresso em L/min, representa a taxa de variação de um volume;
 PFE (Pico de Fluxo Expiratório): representa o fluxo máximo de ar durante a manobra de CVF (também denominado Fluxo Expiratório Forçado máximo – FEFmáx);
 FEF25-75% (Fluxo Expiratório Forçado médio – 25 a 75%): fluxo expiratório forçado médio de um determinado período, ob-tido durante a CVF;
 TEF (Tempo Expiratório Forçado): mede, em segundos, o tempo do início ao fim da CVF.
+
  
 Figura 2 - Volumes e capacidades pulmonares
+
+Vídeo
+Volumes e capacidades pulmonares
+ 
+
 C - Dados 
 A espirometria permite medir o volume de ar inspirado, o volume expirado e os fluxos respiratórios. 
 Quando se realiza uma inspiração forçada máxima, a quantidade de ar nos pulmões após a manobra é a CPT. Por outro la-do, mesmo que haja um esforço máximo para expiração, o pulmão não se esvazia, e essa quantidade de ar que permanece nele após uma expiração máxima é denominada de VR. A diferença entre a CPT e o VR é denominada de CVF. Pela espirome-tria, não se conseguem medir nem um nem outro.
 O VEF1 é uma das medidas mais úteis na prática clínica porque é razoavelmente esforço-independente e depende da permeabilidade das vias aéreas e de uma boa retração elástica pulmonar. Os resultados espirométricos devem ser expressos em gráficos de fluxo–volume (Figura 3) e volume–tempo (Figura 4). 
 A curva fluxo–volume mostra que o fluxo é máximo logo ao início da expiração, próximo à CPT, havendo uma queda lenta posteriormente. É importante observar a curva fluxo–volume, pois um esforço respiratório submáximo pode ser evidente nessa curva, o que não acontece na curva volume–tempo; nesse caso, o paciente deve ser treinado para poder realizar um esforço apropriado, de forma a obter uma curva fiel à sua função respiratória. 
 A CVF é o teste de função pulmonar mais importante, pois, em um dado indivíduo, durante a expiração, há um limite para o fluxo máximo que pode ser atingido em qualquer volume pulmonar. Além disso, é afetada na maioria das doenças pulmona-res.
+
  
 Figura 3 - Curva fluxo–volume 
+
  
 Figura 4 - Curva volume–tempo
+
 D - Interpretação dos resultados
+
 a) Distúrbio Ventilatório Restritivo (DVR)
 A restrição pulmonar é definida por redução da CPT; como a espirometria não a mede (por não estimar o volume residual, como dito), não é possível confirmar a presença de tal distúrbio. Entretanto, com base em dados clínicos sugestivos e em alterações específicas no exame, é aceitável fornecer o diagnóstico de restrição de forma presuntiva. A restrição pulmonar pode ser consequência de várias doenças, afetando a expansibilidade pulmonar ou da caixa torácica. Nesse distúrbio, as velo-cidades de entrada e a saída do ar não estão comprometidas (de fato, podem estar até aumentadas): o problema básico é a dificuldade em distender os tecidos toracopulmonares, por enrijecimento pulmonar e/ou torácico. 
+
 Tabela 2 - Exemplos
 Alteração estrutural do parênquima 	Doenças pulmonares fibrosantes
 Deslocamento do parênquima pulmonar	Neoplasia, derrame pleural
 Parênquima removido	Ressecção pulmonar
 Parede torácica ou músculos	Miastenia gravis, cifoescoliose etc.
 Outras	Obesidade
+
 Apesar de a espirometria ter incapacidade teórica de definir um distúrbio restritivo, existe uma situação em que sua pre-sença é irrefutável: quando a CVF é inferior a 50% do previsto. Entenda a razão: uma vez que CPT = CVF + VR, e o VR repre-senta habitualmente 20% da CPT, sempre que a CVF estiver inferior a 50% a CPT estará anormalmente reduzida, inferior a 70%, definindo restrição. Com o mesmo princípio, outra conclusão é possível: a restrição só poderá se manifestar na espiro-metria com CVF abaixo do limite inferior esperado para o indivíduo. 
 No distúrbio restritivo, ocorre também redução proporcional do VEF1, o que faz que a relação VEF1–CVF permaneça nor-mal ou eventualmente se eleve. Em distúrbios restritivos moderados a graves, toda a CVF pode ser expirada no 1º segundo, tornando similares o VEF1 e a CVF, ou seja, a relação VEF1–CVF é igual a 1 ou 100%.
-Na fibrose idiopática, a tração dos tecidos aumenta a elastância dos pulmões, reduzindo a resistência do fluxo aéreo e im-plicando valores supranormais de VEF1 ou de FEF25-75%. Nessa situação, o valor da razão VEF1/CVF ou FEF25-75%/CVF pode ser maior do que 150% do previsto.
+Na fibrose idiopática, a tração dos tecidos aumenta a elastância dos pulmões, reduzindo a resistência do fluxo aéreo e im-plicando valores supranormais de VEF1 ou de FEF25-75%. Nessa situação, o valor da razão VEF1–CVF ou FEF25-75%–CVF pode ser maior do que 150% do previsto.
+
+Dica
+A CVF sempre estará alterada em doenças restritivas.
+
 b) Distúrbio Ventilatório Obstrutivo (DVO)
+
 Tabela 3 - Obstruções de grandes e pequenas vias aéreas
 Obstrução de grandes vias aéreas
 - Ocorre pela redução do calibre das vias aéreas superiores (acima das pregas vocais), da traqueia e dos brônquios principais;
 - É um sistema tubular formado por um suporte cartilaginoso, com o fluxo aéreo turbulento;
 - Dois fatores afetam o fluxo nas grandes vias aéreas:
-  · A permeabilidade;
-  · A pressão desenvolvida pela musculatura expiratória.
+· A permeabilidade;
+· A pressão desenvolvida pela musculatura expiratória.
 - Alguns exemplos são:
-  · Disfunção da prega vocal;
-  · Estenose da traqueia;
-  · Traqueomalácia;
-  · Tumores ou corpo estranho.
+· Disfunção da prega vocal;
+· Estenose da traqueia;
+· Traqueomalácia;
+· Tumores ou corpo estranho.
 Obstrução de pequenas vias aéreas
 - Obstrução em condutos de menos de 2mm de diâmetro;
-- Não têm suporte cartilaginoso, no entanto são formadas por musculatura lisa e pelo parênquima subjacente, fornecendo um com-ponente estrutural;
+- Não têm suporte cartilaginoso, no entanto são formadas por musculatura lisa e pelo parênquima subjacente, fornecendo um compo-nente estrutural;
 - O fluxo aéreo nesse segmento é laminar e depende do calibre das vias aéreas e da pressão de retração elástica do próprio pulmão;
 - Mudanças patológicas significativas podem ocorrer antes da limitação ao fluxo aéreo;
 - São exemplos: asma, Doença Pulmonar Obstrutiva Crônica (DPOC), bronquiectasias, bronquiolites.
+
 Indivíduos normais expiram cerca de 80% da CVF no 1º segundo. Em casos de obstrução, o indivíduo expira uma porcen-tagem significativamente menor. Assim, os distúrbios obstrutivos caracterizam-se pela redução da relação VEF1–CVF. Podem-se utilizar tanto o valor percentual esperado para a idade quanto o valor absoluto da relação, considerados anormais valores <0,75. Outras medidas espirométricas só devem ser avaliadas após ser definida a gravidade do distúrbio obstrutivo com VEF1 e CVF. Por outro lado, fluxos tele-expiratórios não são recomendados na interpretação de pacientes com obstrução.
+
+Dica
+Quando há obstrução, a CVF do paciente não se altera, mas sim sua VEF1, trazendo como resultado uma relação VEF1–CVF reduzida. 
+
  
 Figura 5 - Comparação gráfica dos distúrbios restritivos e obstrutivos
+
 c) Distúrbio Ventilatório Combinado (DVC) ou misto 
 Em geral, o diagnóstico de doença obstrutiva é facilmente realizado quando há redução do VEF1 e da VEF1–CVF, com CVF normal. Entretanto, podem-se ter dúvidas quando há redução associada da CVF antes e depois da broncodilatação. Nesse caso, a CVF pode estar reduzida por restrição associada (DVC), com diminuição da CPT, ou, simplesmente, porque a obstrução é tão importante que aumenta o VR mais do que a CPT, reduzindo a CVF (Figuras 6 e 7). Obviamente, em qualquer momento (antes e depois do broncodilatador), uma CVF normal afasta distúrbio restritivo.
+
  
 Figura 6 - Diferentes mecanismos de redução da capacidade vital 
-São exemplos de doenças que podem causar obstrução e restrição concomitantes: sarcoidose, tuberculose, bronquiecta-sias, insuficiência cardíaca congestiva, silicose, granuloma eosinofílico, linfangioleiomiomatose etc.
+
+São exemplos de doenças que podem causar obstrução e restrição concomitantes: sarcoidose, tuberculose, bronquiecta-sias, insuficiência cardíaca congestiva, silicose, granuloma eosinofílico, linfangioleiomiomatose etc. Outro quadro bastante comum é a associação entre doença restritiva e obstrutiva, como visto em obesos asmáticos.
+
 d) Distúrbio Ventilatório Inespecífico (DVI)
 Tradicionalmente, os distúrbios ventilatórios têm sido classificados como obstrutivos, restritivos ou combinados (mistos).
 Denomina-se DVI quando é impossível a espirometria determinar o distúrbio ventilatório em questão. Ocorre quando há redução leve a moderada da CVF (>50% do previsto), com relação VEF1–CVF normal. Tal fenômeno ocorre porque diversos fatores podem reduzir a CVF, incluindo a obstrução. Obviamente, se for possível medir a CPT diretamente, o diagnóstico cor-reto será definido. Contudo, quando não se tem essa medida, diante de uma CVF reduzida que lembra restrição, o laudo da espirometria deve ser de DVI na presença de todos os achados a seguir:
-- Ausência de indícios de doença intersticial ou suspeita clínica de doença obstrutiva;
-- CVF >50% do previsto;
-- CVF persistentemente baixa após broncodilatador (se normaliza, indica doença obstrutiva);
-- FEF25-75%–CVF não muito elevada (<150%);
-- Teste de difusão normal (difusão reduzida indica doença intersticial).
+
+Tabela 4 - Dados básicos para a interpretação da espirometria
+- Se houver redução da relação VEF1–CVF (<0,7), haverá obstrução;
+- A restrição caracteriza-se por redução proporcional da CVF e do VEF1, mantendo a relação VEF1–CVF normal;
+- Na restrição, nunca ocorre a normalização dos parâmetros espirométricos;
+- A resposta ao broncodilatador é caracterizada por variação do VEF1 maior do que 200mL e 7% em relação ao previsto para o paciente.
+
+Pergunta
+2010 - HSPE (Baseada na prova)
+1. Sobre as provas de função pulmonar:
+a) a capacidade residual funcional diminui quando a complacência pulmonar aumenta
+b) a capacidade residual funcional é menor no paciente com DPOC
+c) o volume residual corresponde ao volume que permanece nos pulmões após a expiração do volume corrente
+d) a capacidade inspiratória corresponde ao volume residual somado à capacidade pulmonar total
+e) o volume respiratório expirado é menor no paciente obeso
+Resposta no final do capítulo
+
 E - Resposta a broncodilatadores 
 A resposta aos broncodilatadores (BDs) é avaliada por meio da variação (pré e pós) do VEF1 e, secundariamente, dos vo-lumes pulmonares como CVF, CV e capacidade inspiratória. É importante salientar que a ausência de resposta aos BDs não elimina a possibilidade de resposta terapêutica ao uso continuado da droga.
 Para o teste, geralmente, 400µg de fenoterol ou de salbutamol com espaçador são fornecidos, e a espirometria é repetida após 15 a 20 minutos. Os critérios de resposta baseiam-se em 2 pontos: 
 Indivíduos normais podem ter algum grau de broncodilatação com o uso de BDs;
 Indivíduos normais podem apresentar mudança do tônus broncomotor, mesmo na ausência de medicamentos.
-As diretrizes nacionais recomendam considerar como resposta significativa ao BD a melhora do VEF1 em 200mL ou de 7% em relação ao valor previsto. Há certa confusão com algumas diretrizes internacionais, que recomendam utilizar o valor de 10% em relação ao valor basal, e não ao predito, no entanto têm pouca aceitação hoje em dia, pois desconsideram a impor-tância da variação de acordo com a antropometria do paciente. 
+As diretrizes nacionais recomendam considerar como resposta significativa ao BD a melhora do VEF1 em 200mL e de 7% em relação ao valor previsto. Há certa confusão com algumas diretrizes internacionais, que recomendam utilizar o valor de 10% em relação ao valor basal, e não ao predito, no entanto têm pouca aceitação hoje em dia, pois desconsideram a impor-tância da variação de acordo com a antropometria do paciente. 
 Comumente, a resposta a 1 dos critérios preenche os demais; dificilmente há discordância. Veja os exemplos a seguir: 
+
 a) Variação expressa como a diferença absoluta entre VEF1 pré e pós-BD
+
 (VEF1 pós-BD - VEF1 pré-BD) 
+
 Exemplo: 500 - 250 = 250mL (0,25L) – resposta positiva com aumento >200mL ou 0,2L.
+
 b) Variação expressa como a variação absoluta do VEF1 em relação ao valor previsto
+
 (VEF1 pós-BD - VEF1 pré-BD) x 100/VEF1 previsto
+
 Exemplo: (500 - 250) x 100/300 = 8% – resposta positiva >7%. 
+
 c) Variação expressa como porcentagem do valor basal (sugerido por algumas diretrizes internacionais)
+
 (VEF1 pós-BD - VEF1 pré-BD/VEF1 pré-BD) x 100
+
 Exemplo: o VEF1 passou de 400 para 500mL. 
 (500 - 400/400) x 100, ou seja, 25% – resposta positiva >10% do valor basal.
 Variações da CVF também podem indicar resposta ao BD: quando superiores a 350mL, são significativas.
 Não é fundamental distúrbio obstrutivo (relação VEF1–CVF reduzida) para caracterizar resposta a BD: se houver melhora de 10% ou mais do VEF1 em relação ao previsto, ela estará caracterizada, sendo descrita no laudo do exame como espirome-tria normal com aumento do tônus broncomotor.
+
+Importante
+Convém lembrar que a resposta é considerada positiva ao broncodilatador quando há aumento de 200mL no VEF1 pós-broncodilatador, em relação ao pré-broncodilatador, ou aumento de 7% em relação ao valor previsto. 
+
+Tema de prova
+O teste de broncodilatação, juntamente com a espirometria, sempre é mencionado em questões de asma, sendo fundamen-tal o seu conhecimento.
+
 F - Classificação de gravidade pelas alterações espirométricas
-A classificação quanto à gravidade dos distúrbios, tendo em vista o parâmetro espirométrico, é evidenciada na Tabela 4.
-Tabela 4 - Quantificação dos distúrbios ventilatórios pela espirometria
+A classificação quanto à gravidade dos distúrbios, tendo em vista o parâmetro espirométrico, é evidenciada na Tabela 5.
+
+Tabela 5 - Quantificação dos distúrbios ventilatórios pela espirometria
 Distúrbios	VEF1(%)*	CV(F) (%)	VEF1/CV(F) (%)
 Leve	60 a limite inferior	60 a limite inferior	60 a limite inferior
 Moderado	41 a 59	51 a 59	41 a 59
 Grave	=40	=50	=40
-* Na presença de FEF25-75 /CV(F) isoladamente reduzida, o distúrbio é classificado como leve, na presença de sintomas e/ou de tabagismo.
 Observação: graduação do DVO deve ser feita pelo VEF1, e a do DVR, pela CVF.
+* Na presença de FEF25-75 –CV(F) isoladamente reduzida, o distúrbio é classificado como leve, na presença de sintomas e/ou de taba-gismo.
 
 Muito cuidado com a interpretação da estimativa de gravidade pelo exame; não pode ser confundida a avaliação de gravi-dade das doenças específicas. Por exemplo, em um indivíduo com DPOC, a avaliação de gravidade da doença é feita com níveis diferentes de VEF1 daqueles usados para caracterizar a gravidade do distúrbio obstrutivo.
+
 G - Interpretação 
+
  
 Figura 7 - Interpretação geral 
+
 H - Teste de broncoprovocação 
 O teste de broncoprovocação envolve a repetição seriada das manobras espirométricas forçadas após a inalação de doses progressivamente mais concentradas de substâncias sabidamente broncoconstritoras (histamina, metacolina ou carbacol). A principal variável desse teste é a PD20, dada pela menor concentração da substância inalada capaz de promover uma queda de 20% ou mais do VEF1 basal. É um exame de uso rotineiro incomum, por ser de realização demorada, pela dificuldade em conseguir a substância broncoconstritora, e por não ser isento de reações adversas. 
 O teste tem maior utilidade em casos suspeitos de asma, sem comprovação pela espirometria. Deve-se observar, entre-tanto, que diversas condições podem tornar positivos os testes de broncoprovocação, como rinite, chiado torácico ocasional, infecção das vias aéreas superiores recente, teste cutâneo alérgico recente, tabagismo e DPOC. É uma prova que não permite uma separação segura de DPOC e asma, notadamente naqueles com espirometria basal já indicando DVO.
+
 3. Gasometria arterial
+
 A gasometria arterial é o principal teste utilizado na prática diária com o objetivo de avaliar as trocas gasosas. A rigor, esta-rá indicado sempre que houver indícios de anormalidade expressiva nessa função pulmonar, como nos casos de insuficiência respiratória, cianose e anormalidade na oximetria de pulso.
+
 A - Variáveis de interesse prático
-Tabela 5 - Variáveis de interesse prático
+
+Tabela 6 - Variáveis de interesse prático
 Variáveis que refletem o nível de oxigenação arterial
 - paO2 (pressão parcial de O2 no sangue arterial); 
 - SatO2 (saturação arterial da oxi-hemoglobina); 
@@ -132,6 +213,7 @@ Variáveis relacionadas primariamente ao CO2
 - paCO2 (pressão parcial de CO2 no sangue arterial); 
 - pH (potencial hidrogeniônico); 
 - HCO3- (íon bicarbonato). 
+
 a) paO2
 É a pressão de oxigênio dissolvido no sangue. A hipoxemia é a redução do conteúdo de O2 no sangue, que depende, basi-camente, da quantidade de O2 ligada à hemoglobina, podendo ocorrer mesmo com uma pO2 normal ou elevada, ou seja:
 
@@ -142,43 +224,55 @@ Em um indivíduo jovem e sadio, a paO2 deve estar entre 80 e 100mmHg, embora a hi
 paO2 = 143,6 - (0,39 x idade) - (0,56 x IMC) - 0,57 x paCO2
 
 Sendo o limite inferior do intervalo de confiança, o valor calculado é subtraído de 12mmHg (considerar 75 anos como li-mite, utilizando esse valor para indivíduos mais idosos).
+
 b) paCO2
-É a pressão de dióxido de carbono dissolvido no sangue (valores normais: de 35 a 45mmHg). Como o CO2 é mais difusível do que o O2 e a sua curva de dissociação é quase uma linha reta, a sua pressão alveolar (pACO2 e, logo, a paCO2) é controlada facilmente pela ventilação alveolar, modificando a taxa de formação dos íons H+ (pH):
+É a pressão de dióxido de carbono dissolvido no sangue (valores normais: de 35 a 45mmHg). Como o CO2 é mais difusível do que o O2 e a sua curva de dissociação é quase uma linha reta, a sua pressão alveolar (paCO2 e, logo, a paCO2) é controlada facilmente pela ventilação alveolar, modificando a taxa de formação dos íons H+ (pH):
 
 CO2 + H2O ? H2CO3 ? H+ + HCO3-
+
 c) pH 
 É o potencial hidrogeniônico, ou seja, quanto menor o pH de uma solução, mais íons H+ existirão e maior será o potencial dessa solução em fornecer H+ (normal: 7,35 a 7,45).
+
 d) SatO2
 Mais de 98,5% do O2 são carreados pela hemoglobina, logo a SatO2 é extremamente importante para a oferta periférica de O2. O aspecto sigmoide da curva de dissociação da oxi-hemoglobina determina que variações de paO2 >60mmHg levam a mudanças apenas discretas na SatO2 (SatO2 = 90%); em contrapartida, pequenas mudanças da paO2 <60mmHg determinam grandes variações na SatO2. Contudo, deslocamentos para a direita (menor afinidade da hemoglobina pelo O2, com aumento da pressão necessária para saturar em 50% a hemoglobina – P50) ou para a esquerda (maior afinidade, ou seja, P50 <27mmHg) também influenciam o valor final da SatO2.
 Se forem citadas curvas desviadas para a esquerda e para a direita, cabe dar exemplo de situações fisiológicas e patológi-cas: a hemoglobina fetal tem maior afinidade pelo O2.
+
  
 Figura 8 - Curva de dissociação da hemoglobina
-Tabela 6 - Fatores que interferem na curva de dissociação da hemoglobina
-Desviam a curva de dissociação da hemoglobina para a direita
+
+Tabela 7 - Fatores que interferem na curva de dissociação da hemoglobina
+Desviam a curva de dissociação da hemoglobina para a direita (diminuem afinidade – aumentam a liberação de O2)
 - Hipertermia;
 - Acidose;
 - Hipercapnia;
 - Aumento do 2,3-difosfoglicerato;
 - Policitemia.
-Desviam a curva de dissociação da hemoglobina para a esquerda
+Desviam curva de dissociação da hemoglobina para esquerda (aumentam afinidade – diminuem a liberação de O2)
 - Hipotermia;
 - Alcalose;
 - Hipocapnia;
 - Redução do 2,3-difosfoglicerato;
 - Anemia.
+
+Tema de prova
+Questões sobre os fatores que alteram a curva de dissociação da hemoglobina são recorrentes em provas de Residência Médica. 
+
 B - Bases para a interpretação da gasometria
+
 a) paO2 e D(Aa)O2
 A redução da paO2 pode ocorrer por uma baixa FiO2 (respiração hipóxica) ou uma baixa pressão atmosférica e, conse-quentemente, PIO2 reduzida (altitude), hipoventilação, desequilíbrio difusivo, distúrbios V/Q e shunt. A exclusão de hipoventi-lação como causa de hipoxemia pode ser feita pelo cálculo da D(Aa)O2, e a respiração de O2 a 100% ajuda na identificação de shunt, contudo a separação entre fatores difusivos e distributivos V/Q requer testes mais complexos.
 O cálculo da diferença alveoloarterial de O2 fornece uma indicação mais precisa da homeostase da troca gasosa intrapul-monar do que a simples análise da paO2. 
 
-D(Aa)O2 = [(Patm - pH2O) x FiO2] - [paO2 + (paCO2/R)] paO2, ou, de forma simplificada:
+D(Aa)O2 = [(Patm - pH2O) x FiO2] - [paO2 + (paCO2/R)] /paO2, ou, de forma simplificada:
 D(Aa)O2 = 135 - (paO2 + pCO2)
 Em que Patm = pressão atmosférica; pH2O = pressão de vapor d’água (47mmHg); R = VCO2/VO2 (0,8). 
 
 Em condições ideais, essa diferença deveria ser de, no máximo, 5mmHg, já que os valores capilares finais são bastante se-melhantes aos alveolares médios. Entretanto, como habitualmente se estima o valor de pressão alveolar de oxigênio, toleram-se valores até 15mmHg como normais (em indivíduos idosos, até 25mmHg), sempre em ar ambiente, com FiO2 de 0,21 (os valores normais para outras concentrações de oxigênio são desconhecidos). 
 Na insuficiência respiratória, os distúrbios de difusão (edema pulmonar) e os de ventilação–perfusão (shunt, efeito shunt e efeito espaço morto) geralmente se apresentam com aumento da diferença alveolocapilar. Por outro lado, a hipoventilação per se não afeta a D(Aa)O2. 
+
 b) paCO2 
 O CO2 tem difusibilidade melhor do que o oxigênio. Disso resulta que sua eliminação é menos afetada nos distúrbios de unidade alveolocapilar. De fato, os níveis de CO2 dependem, fundamentalmente, da ventilação alveolar, de forma que quanto maior a ventilação, menores os níveis de CO2; do contrário, se houver hipoventilação, os níveis de CO2 ficarão elevados. As anormalidades da unidade alveolocapilar apenas promovem elevação de pCO2 em fases avançadas da lesão. 
+
 c) pH 
 A acidose caracteriza-se pelo excesso de H+ (pH <7,36 ou [H+] >44mmol/L), e a alcalose, pela depleção do mesmo (pH >7,44 ou [H+] <36mmol/L). As 2 principais variáveis que afetam o pH são:
 
@@ -186,79 +280,94 @@ pH = K[HCO3]/apCO2
 Em que K é a constante de dissociação e a o coeficiente de solubilidade do CO2.
 
 Logo, quanto mais CO2 (controle respiratório) e menos HCO3- (controle metabólico) em uma dada solução, mais acidótica ela será.
+
 C - Testes relacionados
 A oximetria de pulso separa a oxi-hemoglobina da hemoglobina reduzida pelas suas diferenças de absorção dos raios vermelho e quase-infravermelho. Valores elevados de carboxi-hemoglobina (HbCO >3%) e meta-hemoglobina (HbMet >5%) podem invalidar as medidas de saturação pela oximetria (SpO2). A SatO2 na gasometria arterial é estimada a partir da paO2 e do pH, assumindo uma reação normal entre O2 e hemoglobina. Entretanto, se esta está ocupada pelo monóxido de carbono, por exemplo, a paO2 está pouco alterada e a SatO2 é grosseiramente superestimada pela gasometria convencional. Nesse caso, somente a medida direta da SatO2 por espectrofotometria (co-oxímetro) revelará o distúrbio, já que a oximetria de pulso não difere HbO2 de HbCO. Uma situação semelhante acontece na HbMet, em que o oxímetro tende a ler valores fixos de SpO2, de, aproximadamente, 85%.
 A estimativa do shunt pode ser realizada pela respiração de O2 a 100% por 10 a 15 minutos. Tal procedimento elimina to-do o N2 alveolar, tornando sabida a pressão alveolar de O2:
 
-pAO2 = Pb - pH2O - pACO2 (±700mmHg ao nível do mar)
+paO2 = Pb - pH2O - paCO2 (±700mmHg ao nível do mar)
 
-Deve-se lembrar, entretanto, que essa equação simplificada só é válida quando a hemoglobina está quase totalmente sa-turada (paO2 >150mmHg). Como áreas de shunt, por definição, não têm acesso a esse O2 alveolar aumentado (mas às áreas de baixo V/Q), o valor esperado de paO2, para uma dada pAO2, diminui proporcionalmente à magnitude do shunt (5% shunt para cada 100mmHg de redução da paO2 <700mmHg). Logo, podemos diferenciar shunt de efeito shunt.
+Deve-se lembrar, entretanto, que essa equação simplificada só é válida quando a hemoglobina está quase totalmente sa-turada (paO2 >150mmHg). Como áreas de shunt, por definição, não têm acesso a esse O2 alveolar aumentado (mas às áreas de baixo V/Q), o valor esperado de paO2, para uma dada paO2, diminui proporcionalmente à magnitude do shunt (5% shunt para cada 100mmHg de redução da paO2 <700mmHg). Logo, podemos diferenciar shunt de efeito shunt.
+
 4. Outros testes de função pulmonar
+
 A - Medida dos volumes pulmonares estáticos
 Os volumes estáticos, ou absolutos, representam os diferentes compartimentos volumétricos pulmonares e são estabele-cidos por manobras que prescindem das condições vigentes do fluxo aéreo. Alguns volumes e capacidades podem ser obti-dos pela espirometria, principalmente a partir das manobras lentas: volume corrente, volume de reserva inspiratório, volume de reserva expiratório, CV e capacidade inspiratória. Entretanto, o VR e, portanto, a CRF e a CPT não podem ser determinados por manobras diretas. 
 Existem, basicamente, 3 tipos de exames: que exploram as relações inversas entre volume e pressão (pletismografia cor-pórea); que estimam o volume de ar intratorácico a partir da diluição de gases inertes (isto é, gases que não são absorvidos nem produzidos pelo organismo) e técnicas radiográficas. A maior vantagem da pletismografia corpórea é que todo o ar intra-torácico é realmente medido.
-Tabela 7 - Medida dos volumes pulmonares estáticos
+
+Tabela 8 - Medida dos volumes pulmonares estáticos
 Indicações
 - Identificação correta de componente ventilatório restritivo;
 - No DVO pela espirometria, CVF possivelmente reduzida devido ao aumento do VR diante de uma CPT inalterada;
-- O que realmente define o DVC é a presença de DVO com CPT diminuída ou normal, ou seja, pouco elevada para o grau de obs-trução observada;
+- O que realmente define o DVC é a presença de DVO com CPT diminuída ou normal, ou seja, pouco elevada para o grau de obstrução observada;
 - Para o clareamento diagnóstico dos casos de DVI;
 - No diagnóstico da hiperinsuflação e do aprisionamento aéreo;
 - No seguimento longitudinal das doenças pulmonares parenquimatosas, especialmente as fibrosantes;
-- Como auxiliar na determinação da resposta a intervenções terapêuticas clínicas (BDs, por exemplo) ou cirúrgicas (cirurgia redu-tora de volume pulmonar, bulectomia);
+- Como auxiliar na determinação da resposta a intervenções terapêuticas clínicas (BDs, por exemplo) ou cirúrgicas (cirurgia redutora de volume pulmonar, bulectomia);
 - Na avaliação da disfunção e da incapacidade.
-B - Medida da capacidade de difusão pulmonar 
+
+B - Medida da capacidade de difusão de monóxido de carbono 
 O teste da capacidade de difusão pulmonar utiliza um gás que tem afinidade alta pela hemoglobina, o monóxido de carbo-no (CO). Esse gás, quando inalado, tem sua transferência para o capilar pulmonar dependente, basicamente, da difusão pela parede alveolar, interstício e endotélio vascular.
 O teste consiste na inalação de quantidade conhecida do gás e na estimativa do volume absorvido pelos pulmões.
 Alterações ventilatórias, hemodinâmicas, das relações ventilação–perfusão e hematológicas podem afetar as medidas de capacidade de difusão pulmonar (DCO). Como diversos fatores podem afetar a DCO, esta, embora seja bastante inespecífica, é particularmente sensível ao acometimento, mesmo inicial, da área funcional de troca gasosa pulmonar.
-A hipoventilação, em contrapartida, como não interfere na difusão dos gases diretamente, pois a membrana alveolocapilar está íntegra, habitualmente não interfere no resultado do teste. 
-Tabela 8 - Capacidade de difusão pulmonar
+A hipoventilação, em contrapartida, como não interfere na difusão dos gases diretamente, pois a membrana alveolocapilar está íntegra, habitualmente não interfere no resultado do teste.
+ 
+Tabela 9 - Capacidade de difusão pulmonar
 Indicações
-- A DCO tem papel importante no diagnóstico precoce e na avaliação da gravidade, prognóstico e resposta terapêutica das doenças intersticiais pulmonares;
-- Na avaliação pré-operatória, a DCO, junto com a espirometria, é o teste de repouso com maior poder preditivo para complica-ções;
+- A DCO tem papel importante no diagnóstico precoce e na avaliação da gravidade, prognóstico e resposta terapêutica das doenças in-tersticiais pulmonares;
+- Na avaliação pré-operatória, a DCO, junto com a espirometria, é o teste de repouso com maior poder preditivo para complicações;
 - Em determinadas circunstâncias clínicas, a redução da DCO pode ser importante para a separação entre enfisema pulmonar e asma brônquica persistente com obstrução fixa;
 - Avaliam-se a disfunção e a incapacidade.
 Interpretação
-Redução da DCO	A DCO reduzida (leve = de 61 a 75% do previsto, moderada = de 41 a 60%, acentuada = <40%) deve ser ana-lisada em conjunto com os dados clínicos e funcionais associados, especialmente espirométricos.
+Redução da DCO	A DCO reduzida (leve = de 61 a 75% do previsto, moderada = de 41 a 60%, acentuada = <40%) deve ser analisada em conjunto com os dados clínicos e funcionais associados, especialmente espirométricos.
 Elevação da DCO	Pode ocorrer nas seguintes circunstâncias: obesidade acentuada, asma, policitemia, hemorragia pulmonar recente, shunt esquerdo–direito, insuficiência cardíaca congestiva leve, exercício ou erro técnico.
+
 C - Mensuração das pressões respiratórias estáticas máximas
 A redução da força muscular respiratória (pressão máxima gerada na inspiração, ou PImáx, e na expiração, PEmáx) pode ter importantes consequências clínicas, especialmente no desencadeamento da dispneia, e como fenômeno precoce na falência ventilatória hipercápnica. Na prática, determina-se a PImáx ao nível do VR e a PEmáx ao nível da CPT.
-Tabela 9 - Mensuração das pressões respiratórias estáticas máximas
+
+Tabela 10 - Mensuração das pressões respiratórias estáticas máximas
 Indicações
 - Suspeita de fraqueza muscular ventilatória, especialmente para o diagnóstico diferencial da dispneia de origem incerta;
-- Avaliação longitudinal ou pós-intervenções terapêuticas ou reabilitadoras em pacientes com doença toracopulmonar ou sistê-mica que curse com fraqueza muscular respiratória;
+- Avaliação longitudinal ou pós-intervenções terapêuticas ou reabilitadoras em pacientes com doença toracopulmonar ou sistêmica que curse com fraqueza muscular respiratória;
 - Avaliação pré-operatória de pacientes de risco para complicações pulmonares.
 Interpretações
 Valores muito baixos	- Pode ser problemático, especialmente quando não se conhecem a CPT ou o VR;
 	- Tentar corrigir para o volume pulmonar.
 Valores >70 e <40% da CPT	Queda particularmente pronunciada da PImáx e da PEmáx
-Idosos, pacientes com fraqueza ou paralisia da face ou debilidade muscular dos membros superiores podem ter grande dificul-dade na realização de manobras reprodutíveis.
+Idosos, pacientes com fraqueza ou paralisia da face ou debilidade muscular dos membros superiores podem ter grande dificuldade na realização de manobras reprodutíveis.
+
 D - Teste de exercício cardiopulmonar
 Também denominado ergoespirometria, adiciona, ao eletrocardiograma e ao registro da frequência cardíaca, a mensura-ção direta do volume de ar ventilado (habitualmente, o expirado) e as respectivas frações de oxigênio e dióxido de carbono (FEO2 e FECO2). Tais dados permitem o cálculo de variáveis metabólicas (consumo de O2, produção de CO2), ventilatórias e cardiovasculares. A aparelhagem necessária para a realização do teste apresenta-se comercialmente disponível na forma de sistemas metabólicos integrados que medem e integram continuamente os diversos sinais por meio de tecnologia micropro-cessada.
-Tabela 10 - Teste de exercício cardiopulmonar
+
+Tabela 11 - Teste de exercício cardiopulmonar
 Indicações
 - Como direcionador precoce da linha de investigação da dispneia crônica de origem indeterminada;
-- Alternativa imediatamente posterior às avaliações clínica, radiográfica, espirométrica (incluindo broncoprovocação) e eletrocardiográfica de repouso;
-- Útil para diferenciar dispneia de origem cardiovascular de pulmonar, identificar componente circulatório insuspeito e apontar componente psicogênico ou comportamental;
+- Alternativa imediatamente posterior às avaliações clínica, radiográfica, espirométrica (incluindo broncoprovocação) e eletrocardio-gráfica de repouso;
+- Útil para diferenciar dispneia de origem cardiovascular de pulmonar, identificar componente circulatório insuspeito e apontar com-ponente psicogênico ou comportamental;
 - Qualquer paciente com doença cardiopulmonar, suspeita ou sabida, com queixas de intolerância ao exercício em que a avaliação de repouso é inconclusiva ou há discordância entre os sintomas e os testes de repouso, incluindo as alterações radiológicas;
 - Na determinação de fator preponderante de dispneia em paciente com múltiplas causas possíveis;
 - Na avaliação pré-operatória de pacientes com risco funcional moderado a elevado (por exemplo, VEF1 e/ou DCO <60% do previsto);
-- Na avaliação prognóstica da insuficiência cardíaca congestiva e na indicação de transplante cardíaco, pulmonar ou cardio-pulmonar;
+- Na avaliação prognóstica da insuficiência cardíaca congestiva e na indicação de transplante cardíaco, pulmonar ou cardiopulmonar;
 - Na prescrição de treinamento físico ou reabilitação;
 - Na avaliação do grau de disfunção e incapacidade.
-5. Resumo	
+
+5. Resumo
+	
 Quadro-resumo
 - Os testes de função pulmonar são úteis para o diagnóstico, a avaliação de gravidade e o seguimento terapêutico; 
 - A espirometria mede volumes e capacidades pulmonares, exceção feita ao VR e à CPT. Pode identificar os seguintes distúrbios:
 · DVO: caracterizado por VEF1–CVF reduzida, com graus variados de redução do VEF1 e da CVF;
 · DVR: pela espirometria, o diagnóstico será presuntivo se houver redução da CVF (principalmente se inferior a 50%), com VEF1–CVF normal, associado ao quadro clínico sugestivo, uma vez que a espirometria não mede a CPT; 
-· DVC: ocorre com VEF1–CVF reduzida e redução proporcional do VEF1 com a CVF, verificando-se diferença dos valores preditos entre estes inferiores a 12%;
+· DVC: ocorre com VEF1–CVF reduzida e redução proporcional do VEF1 com a CVF, verificando-se diferença dos valores preditos en-tre estes inferiores a 12%;
 · DVI: quando a espirometria não é capaz de determinar a presença dos outros distúrbios. Ocorre com CVF reduzida (mas >50%), com VEF1–CVF normal ou elevada, sem estigmas clínicos de doença restritiva.
 - A espirometria avalia resposta a BDs. A resposta será dita significativa se houver:
-· Variação do VEF1 >200mL, ou 7% em relação ao previsto;
+· Variação do VEF1 >200mL, e 7% em relação ao previsto;
 · Variação da CVF >350mL.
 - Os métodos capazes de medir VR e CPT são pletismografia (mais acurado), lavagem de nitrogênio e diluição de hélio; 
-- A gasometria arterial, nas doenças respiratórias, é um parâmetro fundamental para a avaliação das trocas gasosas. Hipo-xemia é definida como pO2 inferior a 60mmHg, já que, abaixo desse valor, o decréscimo na SatO2 é relevante;
+- A gasometria arterial, nas doenças respiratórias, é um parâmetro fundamental para a avaliação das trocas gasosas. Hipoxemia é definida como pO2 inferior a 60mmHg, já que, abaixo desse valor, o decréscimo na SatO2 é relevante;
 - Alguns fatores podem deslocar a curva de dissociação da hemoglobina: para a direita (hipertermia, hipercapnia, acidose, aumento de 2,3-difosfoglicerato, policitemia) e para a esquerda (hipotermia, hipocapnia, alcalose, redução de 2,3-difosfoglicerato, anemia);
-- É importante mensurar a diferença alveoloarterial de oxigênio, que pode alterar-se antes da presença de hipoxemia pro-priamente dita, e para avaliar a eventual presença de hipoventilação – hipoxemia, com hipercapnia e D(Aa)O2 normal. A fórmula simplificada é: D(Aa)O2 = 135 - (paO2 + pCO2); considera-se normal até 15mmHg;
-- A capacidade de difusão de CO avalia a integridade da membrana alveolocapilar, constituindo um método de excelência na avaliação de trocas gasosas. Paradoxalmente, pode estar aumentada em algumas situações: hemorragia alveolar (o CO é captado pelo sangue dentro do alvéolo) e asma (a inflamação aumenta o fluxo sanguíneo local).
+- É importante mensurar a diferença alveoloarterial de oxigênio, que pode alterar-se antes da presença de hipoxemia propriamente dita, e para avaliar a eventual presença de hipoventilação – hipoxemia, com hipercapnia e D(Aa)O2 normal. A fórmula simplificada é: D(Aa)O2 = 135 - (paO2 + pCO2); considera-se normal até 15mmHg;
+- A capacidade de difusão de CO avalia a integridade da membrana alveolocapilar, constituindo um método de excelência na avalia-ção de trocas gasosas. Paradoxalmente, pode estar aumentada em algumas situações: hemorragia alveolar (o CO é captado pelo sangue dentro do alvéolo) e asma (a inflamação aumenta o fluxo sanguíneo local).
+
+Resposta
+1. E
