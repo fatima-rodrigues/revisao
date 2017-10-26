@@ -1,0 +1,393 @@
+Asma
+Rodrigo Antônio Brandão Neto / José Alberto Neder / Fabrício Martins Valois
+1. Introdução e definições
+A asma é uma doença inflamatória crônica das vias aéreas, caracterizada por hiper-responsividade das vias aéreas inferio-res e por limitação variável ao fluxo de ar, manifestando-se por sintomas como dispneia, tosse, sibilância e opressão torácica, que podem ser reversíveis espontaneamente ou com uso de medicamentos. 
+Estima-se que cerca de 300 milhões de indivíduos sejam acometidos por asma em todo o mundo. No Brasil, esse número deve situar-se em torno de 20 milhões, o que torna a doença uma das principais causas de morbidade crônica e de mortali-dade. A doença é considerada a 4ª causa principal de internação hospitalar no sistema público de saúde, apesar de as taxas de hospitalização terem sofrido decréscimo nos últimos anos. Segundo dados do DATASUS, em 2011 foram cerca de 160.000 internações por asma, sendo observada uma taxa de mortalidade em torno de 1,5/100.000 habitantes na última década.
+Os corticoides inalatórios foram os responsáveis por muitos avanços no controle da asma. No entanto, observamos clara-mente que o impacto epidemiológico foi tardio: os corticoides já têm sido indicados há mais de 30 anos, no entanto o custo elevado e a necessidade de uso prolongado impediam o controle adequado da doença. De fato, foi somente nos últimos anos que uma série de medidas facilitou o acesso a esses fármacos, resultando em melhora dos indicadores de saúde.
+2. Mecanismos de doença
+A - Fisiopatogenia
+O desenvolvimento da asma é complexo e relaciona diversos mecanismos. Dentre estes, provavelmente o mais importan-te é o relacionado à inflamação crônica das vias aéreas, com espessamento da mucosa, hipersecreção de muco e exposição de terminações nervosas, o que promove sensibilidade anormal a diversos estímulos (hiper-responsividade brônquica).
+Diversas células são envolvidas, incluindo eosinófilos, monócitos e linfócitos, encontrados em biópsias brônquicas de pa-cientes com asma. Os níveis séricos de IgE desses pacientes estão frequentemente aumentados, o que sugere uma ativação crônica da imunidade humoral. Da mesma forma, durante exacerbações agudas da asma, encontram-se níveis elevados de leucotrienos e seus metabólitos na urina, no plasma e no lavado broncoalveolar.
+A resposta imune associada à asma é, provavelmente, responsável por seu quadro clínico. Assim, aeroalérgenos são pro-cessados nas vias aéreas por células apresentadoras de antígenos, como as células dendríticas e os macrófagos. A forma como tais aeroalérgenos são apresentados à célula T influencia o tipo de inflamação que o paciente apresentará. Existem 2 padrões de resposta imune associada aos linfócitos T: o Th1 e o Th2, este último associado à asma.
+A teoria da “hipótese da higiene” tentou estabelecer um paralelo entre doenças atópicas, como asma, e os linfócitos Th2. De acordo com a hipótese, o risco de doenças alérgicas diminuiria pelas infecções precoces na infância transmitidas por con-tato não higiênico com irmãos mais velhos ou adquiridas no período pré-natal, o que direcionaria o padrão de respostas futu-ras do organismo para o padrão Th1, afastando-o do perfil Th2. Ainda que lógica, essa hipótese não foi confirmada, talvez pela interferência de outros fatores, como os genéticos.
+A presença de células Th2 na mucosa das vias aéreas implica produção de citocinas como IL-4 e IL-5, que, potencialmente, agem de maneira indireta em células efetoras como células B, mastócitos e eosinófilos, e contribui para o quadro clínico do paciente com asma. A IL-4, por exemplo, tem papel importante no aumento da produção de anticorpos IgE específicos ao alérgeno. A IgE sintetizada pelas células B penetra na circulação e infiltra os tecidos das vias aéreas, sensibilizando os mastóci-tos. Estes, previamente sensibilizados pela IgE, em contato com um antígeno específico liberam uma série de mediadores.
+O padrão de resposta dos asmáticos aos aeroalérgenos caracteriza-se por uma resposta precoce e outra tardia: 
+Fase imediata, podendo ocorrer vasodilatação, aumento da permeabilidade capilar, espasmos da musculatura lisa e secre-ção glandular, e se resolve em 1 a 2 horas; 
+Fase tardia, que ocorre de 3 a 12 horas depois e se caracteriza por infiltração de eosinófilos, basófilos, monócitos, neutró-filos e linfócitos, podendo desenvolver destruição e dano tecidual.
+O mecanismo de ambos os tipos de respostas envolve o acúmulo de eosinófilos e mastócitos, este último levando à libera-ção de mediadores pré-formados ou recém-sintetizados, como histamina, leucotrienos, triptase e prostaglandinas. Os eosinó-filos, em particular, parecem ter papel fundamental na fisiopatologia da asma, secretando grânulos proteicos, metabólitos de oxidação, proteína básica principal e citocinas, induzindo à fase tardia da resposta inflamatória. Observa-se aumento dos eosi-nófilos nas secreções das vias aéreas em exacerbações de asma induzidas por retirada de corticosteroides e nas secreções e parede das vias aéreas em grande parte dos casos de asma fatal. Além disso, parte dos efeitos benéficos dos corticosteroides no tratamento da asma deve estar relacionada aos seus efeitos eosinopênicos.
+O papel dos neutrófilos na fisiopatologia da asma ainda é muito discutido, sendo mais relevante na fisiopatologia da Doen-ça Pulmonar Obstrutiva Crônica (DPOC). Eles parecem potencializar as crises de asma, em particular, as exacerbações agudas destas. 
+Outro mecanismo envolvido na crise asmática relaciona-se à inervação autonômica das vias aéreas. Dados experimentais sugerem que a ativação de células inflamatórias e a liberação de mediadores inflamatórios como leucotrienos e bradicininas alteram o limiar de despolarização de neurônios dos brônquios e dos bronquíolos, o que pode levar a aumento da irritabili-dade das vias aéreas (hiper-responsividade). O termo “inflamação neurogênica” é usado para descrever as respostas inflama-tórias causadas pelas citocinas que ativam receptores neurais (adrenérgicos, colinérgicos e outros). A neurocinina A e a subs-tância P são alguns desses mediadores.
+Com a evolução da doença, alterações estruturais persistentes nas vias aéreas podem ocorrer devido à inflamação crôni-ca. Esse processo é denominado remodelamento das vias aéreas, levando à irreversibilidade da limitação do fluxo aéreo. As alterações são consequência do espessamento das paredes das vias aéreas, aumento da vascularização e hiperplasia das célu-las glandulares locais. O grau de remodelamento costuma guardar relação inversa com o nível de controle clínico da doença, porém já foi demonstrado que mesmo asmáticos leves intermitentes podem ter algum grau de remodelamento de vias aé-reas.
+B - Fatores desencadeadores
+Tabela 1 - Fatores desencadeadores mais comuns
+- Exposição a alérgenos e irritantes inalatórios;
+- Mudanças climáticas;
+- Infecções do sistema respiratório;
+- Fármacos (betabloqueadores, inibidores da enzima conversora de angiotensina);
+- Estresse emocional;
+- Exercício físico.
+3. Diagnóstico
+O diagnóstico de asma pode ser simples, com sinais clínicos sugestivos, como dispneia e sibilância, em um paciente atópico e com alívio espontaneamente ou após o uso de broncodilatadores; ou mais difícil, como em pacientes com tosse crônica isolada. Ademais, a lista de diagnósticos diferenciais é extensa (Tabela 2), com o diagnóstico definitivo com base em aspectos clínicos, funcionais e presença de alergia.
+Tabela 2 - Principais diagnósticos diferenciais 
+- Anel vascular; 
+- Fístula traqueoesofágica; 
+- Apneia obstrutiva do sono; 
+- Aspergilose broncopulmonar alérgica; 
+- Bronquiectasias; 
+- Insuficiência cardíaca; 
+- Bronquiolites; 
+- Neoplasias (vias aéreas e pulmonares); 
+- Disfunção de pregas vocais; 
+- DPOC; 
+- Refluxo gastroesofágico; 
+- Síndrome de Loeffler;
+- Embolia pulmonar; 
+- Fibrose cística; 
+- Pneumonite de hipersensibilidade; 
+- Obstrução mecânica das vias aéreas; 
+- Síndrome aspirativa pulmonar; 
+- Doença pulmonar crônica da prematuridade. 
+A - Diagnóstico clínico
+O diagnóstico clínico exige sintomas compatíveis, caracteristicamente episódicos e com algum grau de resposta ao trata-mento-padrão. Na exclusão de outras causas para os sintomas, o diagnóstico clínico pode ser definido.
+Os sintomas caracterizam-se por dispneia, tosse, desconforto torácico e sibilância. A dispneia relatada pelos pacientes du-rante as crises é a de sensação de incapacidade de fazer que o ar entre nas vias aéreas. A tosse também é um sintoma comum acompanhando o quadro, ocorrendo, em particular, à noite ou nas primeiras horas da manhã, com expectoração esbranqui-çada. Eventualmente, pode aparecer isoladamente e dominar o quadro clínico por meses, caracterizando um quadro sindrô-mico de tosse crônica (a asma é considerada a 2ª principal causa dessa tosse). 
+A presença de sintomas episódicos, melhora espontânea ou com medicações específicas para asma (broncodilatadores e corticosteroides), 3 ou mais episódios de sibilância no último ano, variabilidade sazonal dos sintomas e história familiar positi-va para asma ou atopia é sugestiva do diagnóstico. Alguns estudos mostraram que de 50 a 80% das crianças asmáticas desen-volvem sintomas antes do 5º ano de vida, sendo importante verificar história de antecedente pessoal ou familiar de asma.
+Eventualmente, percebe-se o motivo dos sintomas: exposição a alérgenos (como mofo) e a irritantes (como produtos de limpeza), sintomas dispépticos ou rinossinusais, estresse emocional, medicamentos (como betabloqueadores), sendo um dado importante na confecção do diagnóstico. Na história clínica, é importante investigar alguns achados que indicam um maior risco de evolução desfavorável ou uma crise asmática potencialmente mais grave, como antecedente de crise quase fatal ou idas frequentes a serviços de emergência.
+Ao exame físico, um achado relevante é a presença de sibilos. Entretanto, em pacientes com manifestação leve da doen-ça, e fora de exacerbações, o exame pode ser normal. Deformidades torácicas ou estigmas de hiperinsuflação não são habi-tuais. 
+B - Diagnóstico funcional
+a) Espirometria
+Com o entendimento da fisiopatologia da doença, fica fácil imaginar a repercussão funcional que pode ocorrer na asma. A inflamação das vias aéreas promove limitação ao fluxo de ar – em outras palavras, o estreitamento das vias aéreas gera redu-ção da velocidade de passagem do ar –, gerando o chamado distúrbio obstrutivo à espirometria. De fato, a espirometria é considerada o método de escolha na avaliação da asma, apesar de poder se apresentar dentro da normalidade, na determi-nação da limitação do fluxo de ar e no estabelecimento do diagnóstico. 
+Assim, o que se espera é a presença de distúrbio ventilatório obstrutivo (relação Volume Expiratório Forçado no 1º se-gundo–Capacidade Vital Forçada – VEF1–CVF – <0,75), que desaparece ou melhora significativamente após o broncodilata-dor. A resposta a este último é considerada positiva quando há aumento do VEF1 de 7% em relação ao valor previsto ou de 200mL em valor absoluto, após a inalação de beta-2-agonista de curta duração. No entanto, temos de ter atenção a um aspec-to fundamental: a ausência de obstrução ou de resposta ao broncodilatador em teste isolado não excluem o diagnóstico, já que pacientes com doença leve ou aqueles com remodelamento brônquico podem não apresentar tais achados.
+A espirometria também pode ser utilizada no seguimento do indivíduo como um parâmetro diagnóstico. Por exemplo, se, em espirometrias consecutivas, após tratamento específico para asma por 2 ou mais semanas, houver aumento no VEF1 >20% e que ultrapassa 250mL, temos um forte indicativo da doença. De fato, das doenças obstrutivas, ela é que tem como caracte-rística grande variabilidade de sintomas.
+b) Hiper-responsividade brônquica
+Em casos de pacientes sintomáticos com espirometria normal e ausência de reversibilidade demonstrável ao uso de bron-codilatador, ou com sintomas atípicos e isolados, como na avaliação da tosse crônica, o diagnóstico pode ser confirmado pela demonstração de hiper-responsividade das vias aéreas. 
+As medidas de hiper-responsividade refletem a sensibilidade ou a facilidade com que as vias aéreas reagem a desencade-antes variados causando sintomas. O resultado do teste é, usualmente, expresso pela concentração da substância que produz uma queda de 20% no VEF1 (PC20); os asmáticos respondem a concentrações menores do que os não asmáticos. O teste de broncoprovocação pode ser realizado por meio de estímulos diretos, por exemplo, com agentes broncoconstritores (metaco-lina, histamina, carbacol) apresentando alta sensibilidade e alto valor preditivo negativo. Por ser um teste demorado, não isento de riscos, e pela dificuldade em obter a substância broncoconstritora, tem sido pouco utilizado na prática diária, quase restrito a protocolos de pesquisa clínica.
+O teste de exercício tem menos sensibilidade do que o teste de broncoprovocação, mas é mais fácil de ser realizado, imi-tando as condições associadas à manifestação dos sintomas respiratórios em muitos pacientes. Para isso, são feitas medidas de VEF1 antes e depois de exercício, demonstrando-se, após o esforço, queda significativa da função pulmonar (>10 a 15%). 
+c) Medidas de fluxo expiratório
+Com o uso de um medidor de Pico de Fluxo Expiratório (PFE), o diagnóstico pode ser obtido se:
+- O PFE aumenta mais do que 15% cerca de 15 a 20 minutos após a inalação de um beta-2-agonista de ação rápida;
+- O PFE varia mais do que 20% entre a medida da manhã, feita após o acordar, e a realizada 12 horas depois em pacientes usando um broncodilatador (mais do que 10% em asmáticos que não estiverem usando um broncodilatador);
+- O PFE diminui mais do que 15% após 6 minutos de corrida ou de exercício.
+Medidas da função pulmonar avaliam a limitação do fluxo aéreo e ajudam a diagnosticar e a monitorizar o curso da asma. A acurácia de todas elas depende do esforço do paciente e da técnica correta.
+O controle por longo prazo do PFE é útil, além da revisão dos sintomas, para avaliar a resposta do paciente ao tratamento. Monitorizar o PFE também pode auxiliar na detecção de sinais precoces de deterioração antes que os sintomas surjam.
+C - Diagnóstico de alergia
+A identificação da exposição a alérgenos relacionados com a asma é um dado importante da história. A sensibilização alér-gica pode ser confirmada por meio de provas in vivo (testes cutâneos) ou in vitro (determinação de concentração sanguínea de IgE específica). Os primeiros devem ser realizados com o uso de extratos biologicamente padronizados (a técnica mais utilizada é a puntura). Em nosso meio, predomina a sensibilização a antígenos inaláveis, entre os mais frequentes, os ácaros (Dermatophagoides pteronyssinus, Dermatophagoides farinae e Blomia tropicalis). 
+Outros alérgenos inaláveis, como pólen, baratas, epitélio de gatos e cães, também são importantes, mas sensibilizam um número menor de pessoas, ao passo que os alimentos raramente são associados. Poluentes ambientais ou ocupacionais po-dem ser associados à piora do controle da doença, e a IgE sérica específica confirma e complementa os resultados dos testes cutâneos.
+4. Manejo do paciente ambulatorial
+As principais metas do tratamento da asma são o controle das manifestações clínicas e funcionais atuais e a prevenção de danos futuros. Para atingir e manter o controle da asma, a abordagem do tratamento farmacológico deve ser feita em etapas (degraus) e levar em conta o tratamento atual, as propriedades farmacológicas e a disponibilidade dos tratamentos específi-cos, bem como as condições econômicas.
+A - Controle da asma – estimativa clínica e funcional atual
+Houve uma modificação significativa na forma de classificar o paciente asmático nos últimos anos. Essa mudança já vinha sendo sugerida por diretrizes nacionais e internacionais há algum tempo, mas foi implementada definitivamente pelas novas Diretrizes para o Manejo da Asma (2012). Entenda o problema: imagine que você receba um paciente asmático e o classifique como portador de asma persistente grave; o tratamento é iniciado, e, após 2 meses, o paciente retorna assintomático. Nesse momento, você aplica novamente a classificação proposta e resultado: seria ele agora um asmático leve intermitente? A res-posta é não, é um asmático grave com controle da doença.
+Estabeleceram-se 3 níveis de controle: controlado, parcialmente controlado e não controlado (Tabela 5). A ideia é definir o paciente como asmático leve, moderado ou grave persistente, mas isso acontece com o tempo, após novas avaliações, e o principal parâmetro será a menor quantidade de medicamento que o indivíduo necessitará para manter-se controlado.
+Tabela 3 - Níveis de controle de asma (SBPT, 2012)
+Parâmetros	Asma 
+controlada	Asma 
+parcialmente controlada	Asma não controlada
+	Todos os parâmetros a seguir	1 ou 2 dos parâmetros a seguir	3 ou mais dos parâmetros a seguir
+Sintomas diurnos	Nenhum ou =2 por semana	3 ou mais por semana
+Limitação de atividades	Nenhuma	Qualquer
+Sintomas/despertares notur-nos	Nenhum	Qualquer
+Necessidade de medicação de alívio	Nenhuma ou =2 por sema-na	3 ou mais por semana
+Função 
+pulmonar (PFE ou VEF1)	Normal	<80% predito ou do melhor prévio (se conhecido)
+B - Estimativa de riscos futuros
+Além de avaliar o controle da doença, é fundamental sempre analisar os riscos futuros relacionados. Isso é feito de forma subjetiva, considerando a quantidade de exacerbações, a piora da função pulmonar, os efeitos adversos dos fármacos e a instabilidade clínica. Ajustes no tratamento devem ser feitos caso essas metas não estejam sendo cumpridas.
+C - Tratamento com base na gravidade e no controle da doença
+Todo asmático, independente da gravidade ou do controle da doença, deve ser abordado com ações educacionais sobre ela (controle ambiental, evitar exposição a fatores de risco, forma correta de uso de medicamentos, automanejo de exacer-bações). O cuidado apropriado pode ajudar o paciente a prevenir a maior parte das crises, a ficar livre de sintomas problemá-ticos diurnos e noturnos e a mantê-lo fisicamente ativo. 
+O tratamento respeita algumas etapas bem estabelecidas e, no seguimento clínico, deve ser ajustado conforme o controle da doença, com reavaliações a cada 2 a 3 meses, conforme etapas bem definidas (Tabelas 4 e 5).
+Tabela 4 - Etapas do tratamento de manutenção da asma
+	Etapa 1	Etapa 2	Etapa 3	Etapa 4	Etapa 5
+Propostas	Alívio do sintoma	Tratamento de manutenção	Dose de Corticoide Inalatório (CI) ou fármaco 	Dose de CI ou fármaco 	Adição de fárma-co 
+Manutenção	Sem tratamento de manutenção; apenas broncodila-tador (BD) de alívio	CI dose baixa 	CI dose baixa + bron-codilatador de longa duração (LABA) 	CI dose modera-da ou alta + LABA	Adição de mais fármacos à etapa 4 
+Outras opções	--	Antileucotrieno	CI dose moderada ou CI dose baixa + anti-leucotrieno ou xanti-na	Associação de antileucotrieno ou xantina	Corticoide oral na menor dose possível; anti-IgE
+Observação: todos os pacientes devem utilizar broncodilatadores de curta duração para o alívio dos sintomas.
+Fonte: adaptado de Diretrizes Brasileiras para o Manejo da Asma, 2012.
+Tabela 5 - Proposta terapêutica conforme o nível de controle da asma
+Níveis de controle	Condutas
+Controlado	Tentar reduzir uma etapa de controle. 
+Parcialmente controlado	Considerar aumento da etapa de controle.
+Não controlado	Aumentar etapa até atingir controle. 
+Exacerbação	As condutas são apropriadas para a ocorrência. 
+Fonte: adaptado de Diretrizes Brasileiras para o Manejo da Asma, 2012.
+As recomendações das diretrizes nacionais e internacionais contemplam os beta-agonistas de ação prolongada como fár-macos indispensáveis aos pacientes com asma grave e, possivelmente, àqueles com doença moderada; seu uso geralmente denota a possibilidade de dose mais baixa de corticoide inalado. Entretanto, existem evidências crescentes de que esses fármacos se associam, em longo prazo, a desfechos inadequados, como ausência de controle da inflamação (quando compa-rados aos que utilizaram corticoide em dose mais alta) e mais efeitos adversos, principalmente cardiovasculares. De fato, a única definição que se tem até hoje é que esses fármacos não podem ser utilizados isoladamente no tratamento da asma; recomenda-se, ainda, que os demais pacientes que os utilizem em associação aos corticoides tenham os fármacos retirados tão logo o controle da doença seja atingido (em detrimento da redução da dose de corticoide).
+D - Fármacos utilizados 
+A via inalatória é muito utilizada para o tratamento da asma. Existem vários dispositivos disponíveis no mercado para a oferta dos fármacos, quer corticoides, quer broncodilatadores, e que apresentam peculiaridades em seu uso. Antes de lem-brarmos detalhes específicos acerca dos fármacos, observe a Tabela 6, que relaciona os principais dispositivos inalatórios.
+Tabela 6 - Fármacos utilizados no tratamento da asma
+Dispositivos 	Formas de uso
+Nebulímetro 
+ 	- Retirar a tampa e agitar o nebulímetro;
+	- Posicionar o dispositivo verticalmente a 5cm da boca;
+	- Expirar e realizar breve pausa respiratória;
+	- Pressionar o dispositivo e aspirar lentamente;
+	- Promover pausa inspiratória por 10 segundos;
+	- Respirar normalmente; 
+	- Repetir os passos em 30 segundos, se indicada nova dose.
+Turbuhaler® 
+ 	- Retirar a tampa e posicionar o dispositivo verticalmente;
+	- Girar a base vermelha até ouvir um clique (no 1º uso, é necessário ouvir 3 cliques);
+	- Expirar normalmente e colocar o dispositivo na boca;
+	- Inspirar profundamente com rapidez;
+	- Fazer pausa inspiratória por 10 segundos;
+	- Respirar normalmente.
+Aerolizer® 
+ 	- Retirar a tampa e colocar uma cápsula no interior;
+	- Pressionar os botões laterais para perfurar as cápsulas;
+	- Expirar normalmente e colocar o dispositivo na boca;
+	- Inspirar profundamente com rapidez;
+	- Pausa inspiratória por 10 segundos;
+	- Respirar normalmente;
+	- Verificar se há pó restante na cápsula; se presente, aspirar novamente.
+Diskus® 
+ 	- Abrir o disco e puxar a alavanca até ouvir um clique;
+	- Expirar normalmente e colocar o dispositivo na boca;
+	- Inspirar profundamente com rapidez;
+	- Fazer pausa inspiratória por 10 segundos;
+	- Respirar normalmente.
+a) Beta-2-adrenérgicos
+Curta duração (de 4 a 6 horas): fenoterol, salbutamol e terbutalina;
+Longa duração (12 horas): formoterol e salmeterol; 
+Modo de ação: tem ação agonista ligando-se ao receptor beta-2-adrenérgico, com aumento da produção de adenil-ciclase e, consequentemente, de AMP cíclico, promovendo broncodilatação;
+Efeitos colaterais: taquicardia, tremores, hipocalemia e midríase (pela especificidade não ser total aos receptores beta-2).
+Tabela 7 - Principais beta-2-agonistas e vias de administração
+Drogas	Inalador (µg)	Nebulizador (mg)	Oral (mg)	Início de ação
+(inalatório em minutos)	Efeito (horas)
+Fenoterol	100 a 200	0,5 a 2	4	5	4 a 6
+Salbutamol	100 a 200	2,5 a 5	5	5	4 a 6
+Terbutalina	250 a 500	5 a 10	--	5	4 a 6
+Formoterol	6 a 12	--	--	5	12
+Salmeterol	50 a 100	--	--	30 a 60	12
+b) Corticoides inalatórios
+São utilizados na redução da sintomatologia e do processo inflamatório. Prefere-se a via inalatória em razão do menor número de efeitos colaterais em comparação à via sistêmica. Os principais utilizados são, em ordem crescente de potência: 
+Tabela 8 - Doses comparativas dos corticoides inalatórios em adultos
+Medicações	Baixas doses	Doses intermediárias	Altas doses
+Beclometasona	200 a 500µg	500 a 1.000µg	>1.000µg
+Budesonida	200 a 400µg	400 a 800µg	>800µg
+Ciclesonida	80 a 160µg	160 a 320µg	>320µg
+Fluticasona	100 a 250µg	250 a 500µg	>500µg
+Mometasona	200µg	=400µg	>800µg
+Efeitos colaterais (via inalatória): rouquidão e candidíase de orofaringe (locais); adelgaçamento da pele, equimose e, ra-ramente, supressão adrenal (altas doses diárias).
+Com o intuito de enfatizar a preferência pelo corticoide inalatório em detrimento do sistêmico (comprimidos, xaropes) em longo prazo, citamos os possíveis efeitos colaterais destes últimos com uso contínuo: osteoporose, hipertensão, diabetes, catarata, obesidade, supressão adrenal, pele adelgaçada, fraqueza muscular, agravo de infecções, supressão do crescimento em crianças.
+c) Anticolinérgicos
+Curta duração (de 4 a 6 horas): brometo de ipratrópio;
+Longa duração (24 horas): tiotrópio (sem evidências suficientes para uso em asma);
+Modo de ação: atuam, preferencialmente, no antagonismo aos receptores M1 e M3, impedindo a broncoconstrição de-sencadeada pela acetilcolina ao ligar-se a esses receptores; 
+Efeitos colaterais: a xerostomia é o efeito colateral mais significativo e mais frequente.
+d) Metilxantinas
+Curta duração (8 horas): aminofilina;
+Longa duração (12 horas): teofilina;
+Modo de ação: atuam na adenil-ciclase, mas não têm receptor específico. Apresentam menor poder broncodilatador do que outras classes citadas;
+Efeitos colaterais: náuseas, vômitos, agitação, rebaixamento do nível de consciência, convulsão e arritmias.
+A faixa terapêutica é muito estreita, isto é, a dose tóxica é próxima da dose terapêutica. Entre as drogas utilizadas para o tratamento da asma, as xantinas têm o maior potencial para toxicidade grave. As metilxantinas só podem ser utilizadas por via sistêmica e são reservadas aos que não respondem ao uso dos agentes de 1ª escolha.
+e) Medicações associadas
+Estão disponíveis, no mercado, formulações que combinam fármacos de diferentes classes, com maior praticidade, mas com limitação quando se necessita manipular a dose de um dos fármacos isoladamente. Várias formulações estão disponíveis, combinando corticoides inalados e broncodilatadores de ação prolongada.
+E - Outras medicações
+a)	Bambuterol (beta-agonista de ação prolongada por via oral)
+Trata-se de uma pró-droga da terbutalina oral com ação broncodilatadora prolongada, permitindo administração 1x/d. É útil principalmente aos pacientes com asma noturna.
+A comparação do bambuterol com o salmeterol mostrou equivalência no controle dos sintomas da asma, sendo alternativa a crianças e idosos com dificuldades no uso de medicações inalatórias. Pode ser administrado a partir de 2 anos na dose de 10mg (10mL), 1x/d. Para crianças com idade superior a 6 anos, a dose pode ser aumentada para 20mg/d. A crianças orientais, recomenda-se iniciar com metade da dose. Sem efeito benéfico na asma induzida por exercício, deve-se acrescentar que a via inalatória ainda é a de escolha para pacientes com asma.
+b) Omalizumabe
+O omalizumabe é um anticorpo monoclonal recombinante humanizado específico anti-IgE. Sua principal característica é inibir a ligação da IgE com o seu receptor de alta afinidade (FceRI), além de ocasionar inibição da broncoconstrição induzida por alérgeno tanto na fase precoce como na fase tardia da inflamação, levando à diminuição da hiper-responsividade das vias aéreas.
+O tratamento com a anti-IgE está indicado a pacientes maiores de 12 anos com asma de difícil controle, com componente alérgico comprovado e com níveis de IgE sérica total entre 30 e 700UI/mL. A dose empregada (a cada 2 ou 4 semanas por via subcutânea) deve considerar o peso e o nível de IgE sérica total. 
+c) Imunoterapia específica com alérgenos
+Consiste na administração de doses progressivamente maiores de alérgenos específicos em pacientes sensibilizados, obje-tivando a indução do estado de tolerância. Tal modalidade terapêutica não pode ser realizada em pacientes com exacerbação aguda. Deve ser administrada por profissional treinado no manejo de reações anafiláticas graves e indicada apenas a asmáti-cos com evidência importante de alergia, demonstrada pela presença de anticorpos IgE para alérgenos do ambiente, princi-palmente ácaros, polens, fungos e insetos.
+Para pacientes em terapia farmacológica, antes de administrar a injeção, é importante verificar VEF1 ou PFE >70% do pre-visto. Asmáticos leves ou muito graves devem ser excluídos.
+Indivíduos com boa resposta à profilaxia ambiental e ao tratamento farmacológico não apresentam indicação desse tipo de tratamento, contraindicado a pacientes com outras doenças imunológicas ou que utilizem drogas betabloqueadoras.
+d) Antileucotrienos
+Os antileucotrienos bloqueiam a síntese ou as interações com os receptores dos leucotrienos. Os agentes em uso clínico no Brasil são montelucaste e zafirlucaste (antagonistas dos receptores). 
+Apresentam efeito broncodilatador modesto, lento e inferior ao obtido com os beta-2-agonistas, embora possam ser aditi-vos a estes. Esses medicamentos são anti-inflamatórios administrados por via oral, o que facilita a adesão ao tratamento. São indicados na monoterapia para o tratamento de controle de pacientes com asma persistente leve a moderada. Àqueles com asma grave, que requerem doses altas de corticosteroides inalatório e oral, podem ser prescritos como terapia adicional a fim de reduzir a dose do corticosteroide.
+Embora alguns casos de vasculite de Churg-Strauss tenham sido descritos com o emprego de antileucotrienos a pacientes que interromperam o uso de corticosteroides orais, não há muitas referências de outros efeitos adversos importantes. 
+As situações em que são observados os melhores resultados são em crianças, asma induzida por ácido acetilsalicílico e as-ma induzida por exercício. 
+F - Situações especiais
+a) Asma induzida por ácido acetilsalicílico
+A asma induzida por esse ácido é uma entidade que surge, em geral, entre a 3ª e a 5ª décadas de vida, em sujeitos que não apresentavam, previamente, sensibilidade a anti-inflamatórios nem a ácido acetilsalicílico. Em geral, concomitantemente à crise, surgem fenômenos comuns às crises anafilactoides (angioedema, urticária, flushing facial, rinorreia, congestão ocular, sintomas gastrintestinais). Não é incomum a associação entre intolerância a ácido acetilsalicílico, sintomas asmatiformes e polipose rinossinusal, conhecida como tríade de Samter.
+No tratamento ambulatorial, deve-se evitar o uso desse ácido, anti-inflamatórios não hormonais e dipirona, pela possibili-dade de reação cruzada. Devem-se usar, como analgésico, paracetamol ou, quando necessário, anti-inflamatórios não hormo-nais e inibidores da cicloxigenase-2. O tratamento deve ser feito de acordo com a gravidade do caso, e o uso de antileucotri-enos costuma ser benéfico.
+b) Broncoespasmo induzido por exercício
+O exercício é um fator desencadeador de crises bem determinado pela literatura, as quais tipicamente ocorrem após o exercício, não durante. Os fatores que determinam o aparecimento de obstrução crônica incluem níveis de ventilação atingi-da, temperatura e umidade do ar inspirado. 
+A broncoconstrição induzida pelo exercício acontece, na maioria das vezes, em portadores de asma (mais de 80% dos ca-sos). Durante o exercício, em geral, acontece broncodilatação; porém, nesses pacientes, provavelmente devido à hiper-responsividade das vias aéreas, ocorre broncoconstrição. O exercício é o único precipitante natural da asma que leva à taqui-filaxia. Cerca de 45% dos indivíduos com a condição apresentam um período refratário característico, durante o qual a manu-tenção do exercício não causa broncoespasmo. Quando se repete o exercício após intervalos de 30 a 90 minutos, verifica-se que a broncoconstrição diminui ou não acontece.
+Diagnóstico: queda de 10% ou mais do VEF1 cerca de 10 a 15 minutos após o final do exercício (para crianças, queda de 15%);
+Tratamento: o objetivo é a profilaxia dos episódios, os quais podem ser atenuados com a elaboração de uma escala per-sonalizada de aquecimento antes de um exercício físico vigoroso. O controle mais efetivo, contudo, é obtido com medi-cações. O 1º passo deve ser o controle subjacente. A profilaxia pode ser realizada com beta-agonista 15 minutos antes do exercício, podendo-se ainda usar cromoglicato de sódio ou antileucotrienos com resultados satisfatórios. A melhora no condicionamento físico e a prática de exercícios em ambientes com ar úmido e aquecido são medidas adjuvantes que amenizam bastante esse tipo de manifestação.
+c) Asma na gestante
+Na gestação, a asma pode ter um comportamento interessante: 1/3 melhora, 1/3 piora e 1/3 permanece com a doença inalterada. Alguns fatores mecânicos e hormonais justificam tal interação, ainda não bem compreendida. Há segurança para o uso dos medicamentos habituais no tratamento de manutenção da asma (corticoides inalatórios, broncodilatadores, antileu-cotrienos) em qualquer fase da gestação e durante a amamentação.
+d) Asma no lactente
+O diagnóstico de asma no lactente é difícil de ser realizado. A sibilância é referida como síndrome “do bebê chiador”, e, em menores de 3 anos, deve-se evitar rotular como asmáticos, pois existem várias causas de sibilância, como bronquiolite e vias aéreas de pequeno calibre. Muitos desses quadros são transitórios, principalmente secundários a exposição a vírus, so-bretudo ao sincicial respiratório. Em lactentes suscetíveis, a presença de atopia predispõe à sensibilização por alérgenos am-bientais ou irritantes e, deste modo, a quadros com recorrência de sibilância. A exposição precoce aos ácaros domésticos, fungos e antígenos derivados de animais é relevante para a sensibilização.
+O desenvolvimento de atopia em fase precoce da vida parece relacionar-se à hiper-responsividade das vias aéreas nos próximos anos. Outros dados apontam para o fato de que a asma iniciada nos 2 primeiros anos de vida pode resultar em fun-ção pulmonar reduzida na idade adulta, indicando provável ação deletéria da asma no desenvolvimento da função pulmonar. O Consenso Brasileiro de Asma definiu critérios para estabelecer a asma no lactente, conforme descrito a seguir: 
+Tabela 9 - Critérios clínicos para o diagnóstico de asma no lactente
+Critérios maiores
+- Um dos pais com asma; 
+- Presença de dermatite atópica. 
+Critérios menores
+- Diagnóstico de rinite alérgica; 
+- Sibilância não associada a quadro de infecção das vias aéreas superiores; 
+- Eosinofilia periférica >4%.
+Em lactentes com ao menos 3 episódios de sibilância no último ano, a presença de 2 critérios maiores, ou 1 critério maior e 2 menores, deve ser considerada de alto risco para sibilância persistente e com provável diagnóstico de asma (risco relativo entre 2,6 e 5,5).
+e) Asma de difícil controle
+A maioria dos asmáticos tem o controle da doença com a adoção das medidas terapêuticas recomendadas pelas diretrizes nacionais ou internacionais; em cerca de 5%, entretanto, haverá dificuldades terapêuticas importantes, definindo a asma de difícil controle. Existem critérios sugeridos para a melhor caracterização dessa condição, descritos na Tabela 9, sendo neces-sários 1 critério maior e 2 menores, além de 6 meses de seguimento, exclusão de outros diagnósticos, avaliação de fatores agravantes e verificar se há boa adesão ao tratamento.
+Tabela 10 - Critérios definidores de asma de difícil controle
+- Altas doses de corticoide inalatório;
+- Necessidade de corticoide oral em mais de 50% dos dias do ano;
+- Necessidade de outro fármaco diário para controle além dos corticoides inalados;
+- Necessidade diária ou quase diária de beta-agonistas de curta ação;
+- Obstrução persistente ao fluxo aéreo (VEF1 <80% do previsto, variação do PFE >20%);
+- 1 ou mais exacerbações com necessidade de ida à Emergência por ano;
+- 3 ou mais cursos de corticoide oral por ano;
+- Piora rápida após redução de pelo menos 25% da dose de corticosteroides orais ou inalatórios;
+- História anterior de exacerbação de asma quase fatal.
+5. Manejo das exacerbações agudas 
+A - Exames complementares na exacerbação
+O diagnóstico de asma no pronto-socorro e até mesmo no ambiente ambulatorial é clínico; os exames complementares podem ajudar a classificar a gravidade da doença, sugerir complicações e fatores precipitantes associados e definir casos duvidosos.
+Tabela 11 - Exames complementares na exacerbação
+Radiografia de tórax
+- Não necessita ser realizada rotineiramente na Emergência;
+- Raramente modifica a terapêutica;
+- Só deve ser solicitada em casos de suspeita de pneumonia, pneumotórax e derrame pleural.
+Saturação arterial de oxigênio
+- Verificar em todos os pacientes;
+- Prescrever oxigênio suplementar se <90% (considerar gasometria arterial).
+Gasometria arterial
+- Não é necessária a todos os pacientes;
+- Deve ser colhida em indivíduos com hipoventilação, desconforto respiratório importante, VEF1 ou PFE <30% do predito;
+- paCO2 >42mmHg tem potencial de gravidade importante;
+- paCO2 =45mmHg representa indicação de internação em UTI. 
+Exame de sangue
+- O hemograma pode ser necessário a pacientes febris e com expectoração purulenta;
+- Eletrólitos são indicados em caso de internação; podem ajudar a monitorizar complicações da terapêutica;
+- O potássio deve ser dosado naqueles com necessidade de internação e que usem digitálico e naqueles em uso de diuréticos. 
+Eletrocardiograma
+- Não deve ser indicado de rotina;
+- Pode ser útil a pacientes com doença cardíaca, DPOC concomitante e àqueles com idade superior a 50 anos.
+Prova de função pulmonar ou aferição do pico de fluxo (peak flow)
+- Notável benefício na crise aguda de asma monitorizada na Emergência (recomendação grau A);
+- Determinar o VEF1 ou o PFE no pronto-socorro, pois classifica melhor a gravidade da doença, modifica a terapêutica e representa um dos melhores parâmetros para decidir quanto à alta hospitalar.
+Tabela 12 - Indicação de exames laboratoriais a pacientes com asma
+Exames	Indicações
+Gasometria arterial	- Peak flow <30%;
+	- SatO2 <90%;
+	- Sinais de gravidade.
+Radiografia de tórax	- Suspeita de pneumonia ou pneumotórax;
+	- Pacientes em crise muito grave (risco de pneumomediastino).
+Hemograma	Suspeita de quadro infeccioso (lembrar que neutrófilos aumentam após 4 horas de uso de corti-costeroides) 
+Eletrólitos	Coexistência de doenças cardiovasculares, uso de diuréticos e digitálicos, pacientes com indicação de internação principalmente em caso de doses altas de beta-agonistas, corticosteroides e xanti-nas
+A indicação de outros exames depende das condições associadas e características individuais. 
+Tabela 13 - Classificação da gravidade da crise aguda de asma
+	Leve	Moderada	Grave	Iminência de parada cardiorrespiratória
+Dispneia	Com atividade física	Ao falar	Ao repouso	Ao repouso
+Capacidade de falar	Sentenças	Frases	Palavras	Incapaz de falar
+Posição corpórea	Capaz de deitar	Preferência por ficar sentado	Incapaz de deitar	Incapaz de deitar
+Frequência respiratória (irpm)	Aumentada	Aumentada	>30	>30
+Musculatura acessória	Uso incomum	Uso comum	Uso da musculatura 
+acessória	Respiração paradoxal
+Ausculta	Sibilos expiratórios 
+moderados	Sibilos expiratórios difusos	Sibilos difusos inspirató-rios e expiratórios	Tórax silente
+Frequência cardíaca (bpm)	<100	100 a 120	>120	Bradicardia relativa
+Pulso paradoxal (mmHg)	<10	10 a 25	>25	Ausente
+Estado mental	Agitado ou normal	Agitado	Agitado	Confuso ou sonolento
+VEF1 (predito para idade, sexo e altura)	>80%	50 a 80%	<50% ou resposta à tera-pia menor que 2 horas	<50%
+SatO2 (%)	>95	91 a 95	<91	<91
+paO2 (mmHg)	Normal	>60	<60	<60
+paCO2 (mmHg)	<42	<42	=42	=42
+B - Tratamento na exacerbação da asma
+Seguem comentários sobre as diversas medicações, suas indicações e as evidências para uso em pacientes com crises agudas de asma. 
+a) Beta-2-agonistas
+O uso de beta-2-agonistas é a terapêutica imediata mais importante no manejo de broncoespasmo no pronto-socorro e deve ser prescrito assim que o paciente chega à Emergência. O uso de beta-agonistas por via sistêmica não é superior à via inalatória e associa-se a mais efeitos adversos. É restrito aos pacientes com crises graves e refratárias a doses adequadas dos fármacos inalatórios. 
+Podem ser administrados de forma intermitente ou em nebulização contínua, dando-se preferência àquela, pois a aplica-ção sequencial do fármaco parece fornecer broncodilatação adicional. Recomendam-se inalações a cada 15 ou 20 minutos, totalizando 3 inalações na 1ª hora da chegada ao pronto-socorro. O beta-2-agonista mais disponível no Brasil é o fenoterol, dose de 10 a 20 gotas diluídas em 3 a 5mL de soro fisiológico, embora seja o que mais causa efeitos colaterais. A preferência, entretanto, é o salbutamol, de 2,5 a 5mg (de 10 a 20 gotas) em nebulização com 3 a 5mL de soro fisiológico. 
+Após as 3 inalações na 1ª hora, deve-se reavaliar e deixar a frequência de novas inalações de acordo com o paciente. Se ainda houver broncoespasmo, pode-se prescrever para cada hora e aumentar o espaçamento posteriormente. O nebulíme-tro geralmente não está disponível na sala de emergência, mas seu uso é tão eficaz quanto o do nebulizador.
+b) Anticolinérgicos
+As recomendações para o uso de anticolinérgicos em unidades de emergência para asma não são precisas. A sua combi-nação com os beta-2-agonistas apresentou resultados positivos e negativos em diferentes estudos clínicos. O mecanismo de ação dessas medicações baseia-se na diminuição da ação da acetilcolina nas fibras pós-gangliônicas que terminam no epitélio, glândulas submucosas e musculatura lisa das vias aéreas, diminuindo, assim, o tônus broncoconstritor. Ademais, como seu início de efeito é tardio (apenas 90 minutos após a inalação), recomenda-se utilizá-los nos casos de ausência de resposta à 1ª oferta de beta-agonistas ou inicialmente nas crises muito graves. 
+A dose ideal de brometo de ipratrópio no pronto-socorro é de 5mg (40 gotas) adicionada ao beta-2-agonista. 
+c) Corticosteroides
+Pedra angular no tratamento de manutenção da asma, os corticoides também têm papel relevante no controle das crises. Na exacerbação, entretanto, os corticoides inalatórios geralmente não são indicados, utilizando-se, preferencialmente, os sistêmicos. Apesar de apresentarem início de ação tardio (6 a 8 horas após o uso) e de não serem capazes de aliviar o bron-coespasmo agudo, seu uso associa-se à resolução mais rápida da obstrução ao fluxo aéreo, dos sintomas e da redução da taxa de recidiva.
+Nem todos os pacientes com crise, entretanto, necessitam de corticoides. Estima-se que cerca de 70% dos pacientes que chegam ao hospital em crise de asma apresentam resolução clínica após a 1ª oferta de broncodilatador. Nesses casos, o corti-coide é prescindível; nos demais, deve ser ofertado por via oral ou intravenosa. Como a biodisponibilidade e o tempo de início de ação é similar às 2 modalidades, a via oral deve ser utilizada desde que o paciente tenha condições de deglutir o fármaco.  
+A prednisona tem sido recomendada na dose de 1 a 2mg/kg/d; no entanto, habitualmente é utilizada em dose de 40 a 60mg/d por 5 a 14 dias. É importante lembrar que não é necessária a retirada gradual do corticoide quando usado por perío-do de tempo inferior a 3 semanas. Os corticoides intravenosos devem ser utilizados respeitando-se a equivalência de dose com a prednisona.
+O corticoide inalatório é frequentemente prescrito, após a alta do pronto-socorro, a pessoas com asma persistente, asso-ciado ao corticoide oral (por 3 a 10 dias). Seu uso no departamento de emergência é incomum, embora já haja algumas evi-dências de sua eficácia em tal situação, sempre com doses extremamente elevadas, especulando-se um possível efeito imu-nomodulador direto na mucosa brônquica, não mediado por alteração em transcrição proteica.
+d) Metilxantinas
+As metilxantinas não são recomendadas rotineiramente no tratamento da crise de asma. Sua prescrição deve ser restrita aos casos selecionados com ausência de resposta ao tratamento-padrão otimizado. Quando usá-la, deve-se ter muito cuidado com os efeitos colaterais, sobretudo com arritmias e convulsões, e devem-se monitorizar os níveis séricos.
+e) Sulfato de magnésio
+O magnésio é cofator em várias reações enzimáticas, e estudos têm mostrado que células musculares lisas contraem em ambiente de hipomagnesemia e relaxam quando há hipermagnesemia. Há evidência de que magnésio infundido em asmáticos providencia uma adicional broncodilatação, assim como há evidência de que a hipermagnesemia diminui a ativação de poli-morfonucleares. 
+Seu efeito broncodilatador é discreto, bem inferior ao atingido com os beta-agonistas inalatórios. Assim, seu uso é restrito aos casos refratários ao tratamento inicial.
+f) Oxigênio suplementar
+O uso suplementar de oxigênio em crises de asma é teoricamente benéfico, considerando o seu papel na fisiopatologia e a experiência médica universal. Deve ser ofertado sempre que a saturação de oxigênio estiver inferior a 92%. O uso da com-binação dos gases hélio e oxigênio, o chamado heliox, foi estudado pela literatura. O hélio, devido à sua densidade diminuída em comparação com a do ar, poderia diminuir a resistência das vias aéreas. 
+Outro benefício teórico é que esse elemento poderia promover uma retenção maior das partículas aerolisadas no pul-mão, podendo, assim, aumentar o benefício dos beta-2-agonistas inalatórios. Sua disponibilidade prática é pequena, e seu uso é reservado aos casos graves e refratários. 
+g) Intubação e ventilação mecânica
+O paciente que chega em crise aguda de asma ao serviço de emergência apresentando alteração do nível de consciência, bradicardia e iminência de parada cardiorrespiratória deve ser submetido à intubação orotraqueal. Da mesma forma, durante a evolução no pronto-socorro, pode ser necessária a intubação, a qual deve basear-se em parâmetros clínicos e, especial-mente, antes que o paciente esteja em situação crítica com risco de parada cardiorrespiratória. 
+Caso se escolha a intubação, o procedimento deve ser realizado rapidamente, pois a condição clínica pode piorar em pouco tempo. Vários agentes podem ser utilizados, e a medicação de escolha é a cetamina, pelo seu efeito broncodilatador. A experiência demonstra que a ventilação mecânica é uma intervenção que salva vidas e não deve ser adiada quando indicada. Não se pode esquecer que o paciente com asma tem excelente prognóstico e a intubação é temporária. Já uma parada cardi-orrespiratória é muito mais grave e não se pode permitir que aconteça. A intubação deve ser realizada rápida e deliberada-mente, de preferência utilizando o tubo endotraqueal mais largo possível, com 8 ou 9mm, para diminuir a resistência das vias aéreas.
+Após a intubação, o paciente deve ser sedado adequadamente, e os parâmetros bem ajustados, para que se consiga sin-cronia do paciente com o aparelho e conforto ventilatório, fundamentais para o adequado controle do broncoespasmo com broncodilatadores (que devem ser ofertados imediatamente e em doses máximas). Quanto aos parâmetros do respirador, pode-se utilizar modo de controle a volume ou a pressão, com o cuidado de monitorizar a mecânica respiratória, evitando picos de pressão ou volumes correntes muitos baixos (a depender do modo escolhido); o ideal é que a frequência respirató-ria seja baixa, para aumentar o tempo expiratório e impedir hiperinsuflação dinâmica. A pressão positiva ao final da expira-ção (PEEP), inicialmente, deve ser a mais baixa possível, já que, diferente dos pacientes com DPOC, os asmáticos podem ter piora da mecânica com PEEP elevada, por causar hiperinsuflação dinâmica – auto-PEEP. Dependendo da evolução (dos parâ-metros de troca gasosa e da auto-PEEP), pode-se tentar elevar a PEEP, sempre observando, cautelosamente, se haverá ou não piora da auto-PEEP.
+A maioria dos asmáticos que necessitam de intubação e ventilação mecânica o faz por período curto, podendo ser avalia-da a desintubação precocemente, eventualmente dentro de 24 horas.
+A ventilação não invasiva tem apresentado evidências crescentes de benefício na asma, sendo recomendada se a equipe estiver familiarizada com o método e, claro, na ausência de contraindicações.
+Tabela 14 - Resumo do tratamento da crise aguda de asma 
+Beta-2-agonista	Deve ser prescrito a todas as crises agudas de asma e ser usado na forma inalatória de manei-ra sequencial, além de ter benefício estabelecido. Deve-se evitar o uso da medicação na forma parenteral, pela maior incidência de efeitos colaterais, sem benefício adicional; em casos graves, pode-se usar a medicação por via subcutânea ou intramuscular, monitorizando sempre o surgimento de efeitos colaterais graves.
+Anticolinérgicos	As evidências para uso não são tão contundentes como aquelas para o uso de beta-2-agonistas, porém são recomendados, também, a todas as crises de asma, por via inalatória e em doses sequenciais, sabendo que o maior benefício é para crises graves de asma.
+Corticosteroides	Todos os pacientes devem recebê-los no departamento de emergência, apesar de alguns auto-res preconizarem o uso de corticoide apenas para aqueles com VEF1 <60% do predito. A medi-cação deve ser mantida por 5 a 14 dias.
+Metilxantinas	Não devem ser usadas. Não há benefício, e seu emprego aumenta efeitos adversos graves, como arritmias e convulsões. Alguns autores as preconizam em crises graves e refratárias ou a pacientes em uso crônico dessas medicações. 
+Sulfato de 
+magnésio	Deve ser usado em pacientes com crise grave ou refratariedade ao tratamento, tendo diminuí-do a taxa de internação hospitalar em pacientes graves. 
+Oxigênio	A suplementação visa manter a saturação arterial da hemoglobina maior ou igual a 92%, por-tanto deve ser ofertada a todos os pacientes com saturação inferior a 92%.
+Heliox	O uso é restrito a casos graves e refratários. 
+C - Abordagem da crise aguda de asma na Emergência
+Alguns detalhes são importantes:
+Em crise de broncoespasmo grave, recomendam-se prescrever, desde a chegada ao pronto-socorro, beta-2-agonista + ipratrópio, corticoide e sulfato de magnésio. Conforme detalhado nos respectivos tópicos, essa terapia acelera a recupe-ração e diminui a necessidade de internação;
+VEF1 ou PFE sempre são referidos como predito para idade, sexo e altura;
+Pacientes que apresentam boa resposta à terapêutica inicial ou melhora relevante durante a internação hospitalar podem ter alta hospitalar. 
+A presença dos seguintes fatores ajuda na decisão correta da alta:
+Espirometria com VEF1 >70%;
+Capacidade de deambulação sem dispneia;
+Uso de medicação inalatória em espaços maiores do que 3 a 4 horas;
+Ausência de medicações parenterais;
+Compreensão do uso das medicações que ele usará em casa;
+Acompanhamento ambulatorial breve.
+- Prognóstico
+Em média, de 10 a 20% dos pacientes com crise aguda de asma que procuram o pronto-socorro necessitam de hospitali-zação. Destes, menos de 10% recebem ventilação mecânica. Uma prévia necessidade de ventilação mecânica em um asmático aumenta em 19 vezes a chance de ser necessária, novamente, intubação orotraqueal durante uma crise aguda. Em um estudo com 939 asmáticos que receberam alta do pronto-socorro, 17% (de 14 a 20%) apresentaram recidiva em 2 semanas.
+Tabela 15 - Avaliação do broncoespasmo e tratamento na 1ª hora
+- História;
+- Exame físico (ausculta, uso de musculatura acessória, frequência cardíaca, frequência respiratória, pressão arterial);
+- VEF1 ou PFE;
+- Oximetria de pulso;
+- Gasometria arterial em pacientes com VEF1 <30% ou em crises graves;
+- Inalação com beta-2-agonista de curta duração (inalação com 10 a 20 gotas de fenoterol a cada 20 minutos na 1ª hora ou de 4 a 8 puffs de salbutamol)*;
+- Manutenção de O2 suplementar e saturação =90%;
+- Corticoide sistêmico**: prednisona, de 40 a 60mg VO (caso não haja resposta rápida, história de broncoespasmos graves ou uso recente de corticoide).
+* Pacientes bradicárdicos, confusos, rebaixados e em iminência de parada cardiorrespiratória devem ser imediatamente intuba-dos, colocados no respirador com O2 a 100% e medicados com inalação (beta-2-agonista e ipratrópio em doses dobradas), corti-coide intravenoso e sulfato de magnésio.
+** A pacientes com broncoespasmo grave se pode prescrever o corticoide intravenoso (hidrocortisona 200 a 300mg ou metil-prednisolona 40 a 60mg).
+Tabela 16 - Avaliação após a 1ª hora e conduta sugerida 
+Crise moderada	Crise grave
+VEF1 ou PFE 50 a 80%	VEF1 ou PFE <50%
+Sintomas moderados	Sintomas graves em repouso, uso de musculatura acessória, retratação do tórax, antecedentes de alto risco ou ausência de melhora com o tratamento
+Inalação com beta-2-agonista a cada hora	Inalação com beta-2-agonista e ipratrópio, de 1/1h, ou continuamente
+Corticoide sistêmico (se ainda não tiver sido prescrito)	Corticoide sistêmico (se ainda não tiver sido prescrito)
+Continuar tratamento por 1 a 3 horas, desde que haja melhora progressiva	Sulfato de magnésio a 10% IV = 20mL diluídos em 200mL de soro fisiológico, em 20 a 30 minutos
+Tabela 17 - Padrão de resposta após o tratamento inicial e conduta sugerida
+Boa resposta	Resposta incompleta	Resposta inadequada
+VEF1 ou PFE =70%	VEF1 ou PFE =50% e <70%	VEF1 ou PFE <50%
+Resposta sustentada 1 hora após a última inalação, exame físico normal e ausência de dispneia	Persistência de sintomas, embora sejam de leves a moderados	Sintomas graves, sonolência e confusão: gasometria com paCO2 =45mmHg
+Alta hospitalar	Geralmente, necessidade de internação hospi-talar*	Internação em UTI e avaliação da intu-bação**
+- Conduta na alta:
+· Beta-2-agonista; 
+· Corticoide oral;
+· Corticoide inalatório***;
+· Retorno ambulatorial;
+· Breve;
+· Orientações da doença.
+	- Prescrição:
+· Beta-2-agonista;
+· Brometo de ipratrópio;
+· Corticosteroides;
+· Oxigênio;
+· Monitorização com PFE;
+· Avaliação da solicitação de exames (eletróli-tos, hemograma) e raio x de tórax.	- Prescrição:
+· Beta-2-agonista;
+· Brometo de ipratrópio;
+· Corticosteroides;
+· Oxigênio;
+· Avaliar solicitação de exames (eletró-litos, hemograma e outros). Eletro-cardiograma e raio x de tórax.
+* Nesse ponto, pode-se prescrever sulfato de magnésio e repetir inalações com beta-2-agonista e ipratrópio; reavaliar após 2 a 4 horas. Em caso de critérios de boa resposta, deve-se dar alta hospitalar.
+** Considerar o uso de ventilação não invasiva, mesmo sem estudos de adequado valor epidemiológico.
+*** Corticoide inalatório deve ser prescrito para pacientes com asma persistente, associado ao corticoide oral.
+6. Resumo
+Quadro-resumo
+- 	A asma é uma doença inflamatória crônica e intermitente das vias aéreas, caracterizada por sinais e sintomas de dispneia, tosse, sibilos, obstrução variável e hiper-responsividade das vias aéreas, quadro reversível espontaneamente ou com o uso de broncodilatadores; 
+- 	O diagnóstico de asma baseia-se em dados clínicos (sintomas compatíveis, história familiar e pessoal de asma na infância, resposta aos medicamentos específicos), dados funcionais (principalmente, obstrução com resposta ao broncodilata-dor) e diagnóstico de alergia; 
+- 	A asma pode ser classificada como intermitente, persistente leve, persistente moderada e persistente grave. Essa classificação é fundamental para a escolha terapêutica inicial. Após, o tratamento baseia-se no nível de controle da doença: controlada, parcialmente controlada e não controlada; 
+- 	Todos os asmáticos devem receber educação ambiental e orientação para o uso de broncodilatadores de demanda em caso de sintomas. Aqueles com doença persistente devem receber corticoides inalatórios, em doses variáveis e associados, ou não, a outros fármacos; 
+- 	O uso de corticoide sistêmico deve ser reservado a situações de exacerbação ou doença muito grave, para evitar efeitos colaterais indesejáveis; os paraefeitos dos medicamentos inalatórios são discretos e geralmente bem tolerados; 
+- 	O principal diagnóstico diferencial de asma é DPOC. Hoje, em algumas situações, tem sido aceito o diagnóstico das 2 condições associadas;
+- 	A pacientes com tríade de Samter – sintomas asmatiformes, polipose nasal e intolerância a ácido acetilsalicílico –, os antileucotrienos são os fármacos com melhor resposta terapêutica; 
+- 	As xantinas têm sido recomendadas como terapêutica de exceção; 
+- 	No idoso, deve-se ter especial atenção ao diagnóstico diferencial; na gestante, a asma pode piorar (33%), permanecer estável (33%) ou melhorar (33%) – os fármacos habitualmente utilizados no tratamento da asma são seguros na gestação; 
+- 	A etiologia mais comum das exacerbações de asma é infecção respiratória viral; 
+- 	Uma regra geral no atendimento de paciente asmático na sala de emergência é sempre ofertar broncodilatadores inalados como terapêutica imediata, exceto em caso de sinais de parada cardíaca iminente, quando a intubação deve ser pre-coce. 
