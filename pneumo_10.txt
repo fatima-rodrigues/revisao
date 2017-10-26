@@ -1,0 +1,284 @@
+Tromboembolismo pulmonar
+Rodrigo Antônio Brandão Neto / Fabrício Martins Valois
+1. Introdução e definições
+O tromboembolismo pulmonar (TEP) representa um desafio diagnóstico e terapêutico para qualquer médico. Sem trata-mento, a mortalidade pode chegar a 30%; com anticoagulação, gira em torno de 2 a 8%. Historicamente, tem sido considerada uma doença pouco diagnosticada: em estudos de autópsia, o TEP é encontrado em 12 a 15% dos pacientes que estavam hos-pitalizados. Acredita-se que a sua incidência esteja aumentando devido a fatores como envelhecimento global da população e aumento de neoplasias, doenças respiratórias e acamados. 
+2. Etiologia e fatores de risco
+A maioria dos eventos tromboembólicos é ocasionada por êmbolos provenientes das veias dos membros inferiores, prin-cipalmente do território iliofemoral; veias poplíteas ou mais periféricas podem ser responsáveis, mas com menor frequência. Assim, em geral, os fatores de risco são idênticos aos associados à Trombose Venosa Profunda (TVP): fatores que interfiram na tríade de Virchow – lesão endotelial, estase venosa e estado de hipercoagulabilidade.
+São muitos os fatores de risco reconhecidos para TEP. O estudo PIOPED I identificou, como mais relevantes, antecedente de TVP/TEP, Acidente Vascular Cerebral (AVC) com membro plégico, neoplasia, cirurgia ortopédica e imobilização. Por outro lado, sabe-se que muitos fatores ainda não são conhecidos. Alguns deles são citados nas Tabelas 1 e 2. 
+Alguns dados ilustrativos da frequência de doença tromboembólica em séries clínicas e cirúrgicas são:
+Em séries clínicas:
+Após um AVC (com ao menos 1 membro plégico): de 30 a 60%;
+Em pessoas com infarto agudo do miocárdio: de 5 a 35%;
+Em pessoas com insuficiência cardíaca congestiva: 12%.
+Em séries cirúrgicas:
+Herniorrafia: 5%;
+Cirurgia abdominal de grande porte: de 15 a 30%;
+Cirurgia ortopédica do quadril: de 50 a 70%;
+Revascularização do miocárdio: de 3 a 9%.
+Há forte associação entre câncer e TVP/TEP: estudos recentes têm mostrado que até 10% dos TEPs idiopáticos apresen-tam um câncer de base. Entretanto, uma investigação extensa desses pacientes tem rendido resultados desapontadores. Recomenda-se a investigação guiada por sintomas e sinais, conforme determinação das sociedades preventivas de rastrea-mento e promoção à saúde. Não há utilidade em proceder a múltiplos testes diagnósticos à procura de um câncer.
+Tabela 1 - Fatores de risco primários para TVP/TEP
+- Mutação do fator V de Leiden;
+- Hiper-homocisteinemia;
+- Deficiência de proteína C;
+- Deficiência de proteína S;
+- Deficiência de antitrombina;
+- Síndrome do anticorpo antifosfolípide;
+- Mutação no gene da protrombina (20210ª);
+- Outros mais raros: deficiência do plasminogênio, deficiência do fator XII, aumento do inibidor do ativador do plasminogê-nio.
+Tabela 2 - Fatores de risco secundários para TVP/TEP
+Maior risco (risco relativo = 5 a 20)
+- Cirurgia abdominal de grande porte;
+- Cirurgia de quadril e joelho;
+- Pós-operatório em UTI;
+- Gravidez tardia e puerpério;
+- Cesárea;
+- Trauma e fraturas de membros inferiores;
+- Cânceres abdominal, pélvico e metastático;
+- Internação com doente restrito ao leito (pouca movimentação);
+- TVP prévio.
+Menor risco (risco relativo = 2 a 4)
+- Doença cardíaca congênita;
+- Insuficiência cardíaca;
+- Uso de anticoncepcional oral ou reposição hormonal;
+- Doença pulmonar obstrutiva crônica;
+- Doença neurológica com desabilidade;
+- Cateter venoso central;
+- Doenças trombóticas e estados de hiperviscosidade;
+- Obesidade;
+- Outros: síndrome nefrótica, doenças mieloproliferativas, doença inflamatória intestinal, diálise crônica.
+A magnitude das alterações é muito variável e pode depender de algumas particularidades:
+- Estados cardiovascular e pulmonar prévios;
+- Comorbidades;
+- Tamanho do êmbolo: quanto maior o trombo, maior a probabilidade de causar grave distúrbio ventilação–perfusão (V/Q), shunt arteriovenoso, hipoxemia e redução do débito cardíaco (Tabela 3). 
+Um paciente com um trombo grande, com ou sem limitação cardiovascular prévia, pode apresentar um aumento súbito e significativo da pressão na artéria pulmonar, que é transmitido ao Ventrículo Direito (VD), o qual se dilata e pode comprimir o Ventrículo Esquerdo (VE), ocasionando a redução do débito cardíaco e, assim, a hipotensão e o choque. Desta forma, um importante fator de pior prognóstico é a presença de disfunção do VD, manifestada clinicamente ou por meio de um ecocar-diograma.
+A insuficiência respiratória, por sua vez, não é originada apenas pela obstrução vascular segmentar, o que ocasiona efeito “espaço morto” (área do pulmão bem ventilada, mas mal perfundida); é a liberação de citocinas inflamatórias que seguem esse evento inicial que desregula a relação ventilação–perfusão do parênquima pulmonar, promovendo o chamado efeito shunt, com distúrbio importante da relação ventilação–perfusão. Quando os pacientes com tal condição apresentam hipoxe-mia, caracteristicamente são necessários altos fluxos de oxigênio para normalizar a saturação de hemoglobina.
+Conforme a repercussão clínica, a embolia pulmonar tem sido classificada como:
+TEP maciço: caracterizado por instabilidade hemodinâmica (hipotensão ou choque);
+TEP submaciço: caracterizado por disfunção do VD ao ecocardiograma, mas sem instabilidade hemodinâmica;
+TEP não maciço: caracterizado pela ausência dos critérios anteriores.
+A história natural do tromboembolismo é a resolução do processo dentro de 3 a 4 semanas em 97% dos casos, com a mai-oria reabsorvendo o trombo na 1ª semana. Os 3% restantes, em que a fibrinólise endógena não foi capaz de reabsorver o coágulo, terão organização fibrinosa do trombo, caracterizando o TEP crônico, que se apresenta, na prática diária, como uma das principais causas de hipertensão pulmonar.
+Tabela 3 - Alterações hemodinâmicas/pulmonares da embolia pulmonar
+- ? pressão na artéria pulmonar;
+- Hipocinesia do VD;
+- ? débito cardíaco do VD;
+- Abertura de shunts arteriovenosos;
+- Desequilíbrio V/Q;
+- Liberação de vários mediadores químicos;
+- Atelectasia;
+- Hipoxemia;
+- Taquicardia; 
+- Enchimento do VE (restrição do pericárdio e dilatação do VD com desvio do septo interventricular).
+Observação: ciclo vicioso – hipertensão pulmonar, ? débito cardíaco, hipoxemia e choque.
+ 
+Figura 1 - Percurso de material trombótico pelas câmaras cardíacas até o pulmão, causando o TEP
+3. Achados clínicos
+A suspeita diagnóstica decorre da presença de quadro respiratório agudo, principalmente quando associado à presença de fator de risco para trombose vascular. Os sintomas mais frequentes são dispneia, tosse, dor pleurítica e hemoptise; ao menos 1 desses sintomas estará presente na maioria dos casos. Ao exame físico, achados frequentes são taquipneia e taqui-cardia e, com menos frequência, cianose, sinais de trombose profunda, crepitações e febre. 
+No entanto, a definição diagnóstica exige metodologia complementar. Já foi demonstrado que os dados clínicos de pacien-tes com suspeita de TEP na sala de emergência são iguais naqueles em que o diagnóstico é confirmado e naqueles em que embolia foi afastada (Tabela 4). Entretanto, os dados clínicos terão importância adicional na definição da probabilidade pré-teste (como veremos adiante), o que é fundamental para a escolha da metodologia complementar.
+Tabela 4 - Quadro clínico na suspeita de TEP
+		Pacientes sem TEP 
+(n = 202)	Pacientes com TEP 
+(n = 298)
+Sintomas	Dispneia súbita	78%	29%
+	Dispneia gradual	6%	20%
+	Dor torácica pleurítica	44%	30%
+	Dor torácica não pleurítica	16%	10%
+	Ortopneia	1%	9%
+	Desmaio/síncope	26%	13%
+	Hemoptise	9%	5%
+	Tosse	11%	15%
+	Palpitações	18%	15%
+Sinais	Taquicardia (>100bpm)	24%	23%
+	Cianose	16%	15%
+	Hipotensão (PAS <90mmHg)	3%	2%
+	Turgência jugular	12%	9%
+	Edema unilateral na perna	17%	9%
+	Febre (>38°C)	7%	21%
+	Estertores	18%	26%
+	Sibilos	4%	13%
+	Atrito pleural	4%	4%
+4. Exames complementares
+Os exames complementares em tromboembolismo são fundamentais para a definição diagnóstica. São inúmeros os testes propostos, alguns que auxiliam o diagnóstico e outros de caráter confirmatório ou excludente.
+A - Auxílio no diagnóstico
+a) Radiografia de tórax
+A radiografia de tórax tem maior utilidade no diagnóstico diferencial, excluindo outras causas de dispneia e dor torácica. A radiografia de um paciente com TEP geralmente apresenta alguma anormalidade (é normal em apenas 30%): 
+- Atelectasias laminares (achado mais comum);
+- Derrame pleural;
+- Elevação da cúpula diafragmática. 
+Algumas anormalidades são consideradas clássicas de TEP, mas são observadas em menos de 15% dos casos: sinal de Hampton (imagem triangular periférica, sugestiva de infarto pulmonar), sinal de Westermark (ou oligoemia focal, represen-tando área do parênquima pulmonar com pobreza vascular focal) e sinal de Fleischner (dilatação anormal dos ramos princi-pais das artérias pulmonares). 
+ 
+Figura 2 - Corcova de Hampton: opacidade homogênea periférica, de aspecto triangular, com a base voltada para a periferia e o ápice para o hilo, característica de infarto pulmonar secundário ao TEP
+b) Gasometria arterial
+A gasometria arterial pode ser normal em 20%. Mesmo o gradiente alveoloarterial pode ser normal em alguns casos. Po-dem ocorrer graus variáveis de hipoxemia e hipocapnia, mas são inespecíficos.
+c) Eletrocardiograma
+Os achados mais comuns ao eletrocardiograma são alterações inespecíficas do segmento ST-T e taquicardia sinusal. Con-tudo, o exame pode ser absolutamente normal. Há um achado clássico, mas de baixa acurácia para o diagnóstico, que é a presença do padrão S1Q3T3 (onda S profunda em dI, onda Q e onda T invertida em dIII – Figura 3). Dados sugestivos de so-brecarga de câmaras direitas podem ser observados em pacientes com eventos mais graves.
+ 
+Figura 3 - Padrão S1Q3T3 em eletrocardiograma com TEP 
+d) Ecocardiograma
+O ecocardiograma é útil na identificação de doentes com TEP que têm pior prognóstico; achados de hipocinesia do VD, hipertensão pulmonar persistente, forame oval patente e trombo livre e flutuante no átrio direito identificam pacientes com alto risco de óbito ou de tromboembolismo recorrente. Também é útil para o diagnóstico diferencial daqueles que se apre-sentam com dispneia, dor torácica e colapso cardiovascular. Nessas situações, o ecocardiograma pode indicar um diagnóstico alternativo, como infarto agudo do miocárdio, endocardite infecciosa, dissecção aguda de aorta, pericardite ou tamponamen-to pericárdico.
+e) Troponinas e peptídio natriurético cerebral
+As troponinas e o peptídio natriurético cerebral não têm validade para firmar nem excluir o diagnóstico. São úteis para determinar o prognóstico de pacientes com TEP, pois estão elevados nas situações de sobrecarga aguda de câmaras direitas. Assim, quando em níveis anormais, indicam a possibilidade de evento submaciço. 
+B - D-dímero
+Os D-dímeros são produtos de degradação da fibrina, detectados no sangue sempre que o processo de coagulação–fibrinólise endógena acontece em dinâmica maior. Habitualmente estão elevados nos casos de TEP, mas inúmeras situações podem elevar seus níveis, como idade avançada, insuficiência renal, gestação, puerpério e pós-operatório; assim, é dedutível ser um exame pouco específico, nunca útil para confirmar o diagnóstico de TEP (independente de seus títulos), mas que pode auxiliar na exclusão diagnóstica pela sua sensibilidade alta. Há várias metodologias, e a mais acurada é a ELISA (pode ser utili-zada para excluir embolia até em casos de probabilidade clínica intermediária). Portanto, é um marcador muito sensível, po-rém pouco específico, ou seja, se positivo não é possível afastar TEP, mas, se negativo, afasta-se TEP.
+C - Cintilografia de ventilação–perfusão (V/Q)
+A cintilografia usa como princípio a comparação da viabilidade das vias aéreas com a dos vasos pulmonares, pela adminis-tração de um marcador nuclear pelas vias inalatória e venosa (albumina marcada com tecnécio). 
+Espera-se que um paciente com embolia apresente falha de perfusão localizada em segmento pulmonar com ventilação normal, praticamente documentando o diagnóstico (Figura 4); do contrário, um teste normal afasta a possibilidade de TEP. O impacto diagnóstico maior é visto em pacientes que não apresentam lesão pulmonar parenquimatosa. A cintilografia deve ser evitada entre pacientes que já tenham doença parenquimatosa pulmonar, já que dificilmente será configurada alta probabili-dade pelo exame (a captação do marcador pela via inalatória sempre será anormal). Assim, uma pessoa com doença pulmonar obstrutiva crônica tem maior chance de um V/Q não diagnóstico.
+A cintilografia perdeu espaço na última década, em parte por ter disponibilidade limitada, mas principalmente pelo adven-to de tomógrafos modernos. 
+ 
+Figura 4 - Cintilografia de ventilação e perfusão de TEP mostrando área de hipoperfusão com ventilação normal, denotando probabilida-de alta de embolia
+D - Tomografia helicoidal de tórax
+O tamanho do êmbolo interfere na sensibilidade. A Tomografia Computadorizada (TC) é melhor para TEPs em grandes ar-térias (lobares ou artérias segmentares). Em artérias subsegmentares ou menores, a sensibilidade diminui, e é possível, mes-mo com aparelhos mais novos, que pequenos coágulos não sejam identificados.
+A TC helicoidal revolucionou o manejo diagnóstico da embolia pulmonar (Figura 5). Hoje, apenas uma pequena porcenta-gem necessita de arteriografia. O Consenso Britânico já recomenda o uso da TC helicoidal como 1º exame de imagem, mas somente após uma avaliação de probabilidade pré-teste e uma dosagem de D-dímeros.
+Outra vantagem da TC é a possibilidade de determinar a presença de outro diagnóstico, principalmente de doenças pul-monares parenquimatosas. A TC helicoidal tem evoluído muito rapidamente, e as imagens e os detalhes são cada vez mais sofisticados, o que proporciona a visualização de vasos cada vez menores.
+Tem sido recomendado avaliar a presença de sobrecarga de câmaras direitas pela tomografia helicoidal, pela avaliação comparativa dos diâmetros do VD e do VE; essa relação, geralmente, é de 0,9, e valores superiores a esse (ou seja, VD de diâmetro =VE) indicam tal sobrecarga, caracterizando o evento como submaciço.
+Há respaldo na literatura para não restringir seu uso em gestantes, desde que se baseie em suspeita diagnóstica adequa-da, não sendo justificada a realização intempestiva do exame. Os potenciais riscos devem ser debatidos com a paciente, que pode, eventualmente, se negar a realizá-lo, indicando-se investigação com outro método. Limitações corriqueiras à realização do exame são alergia ao contraste e insuficiência renal.
+Outra possibilidade durante a tomografia helicoidal é avaliar a presença de trombos em veias dos membros inferiores, principalmente quando há êmbolos pulmonares periféricos não identificados pela tomografia. O método tem boa correlação com a ultrassonografia, não adiciona custos, tampouco é necessária uma dose adicional de contraste.
+ 
+Figura 5 - TC helicoidal evidenciando falha de enchimento em ramo principal da artéria pulmonar direita (seta) 
+E - Doppler de membros inferiores
+A ultrassonografia tem boa acurácia para a identificação de TVP, principalmente do território iliofemoral. No contexto de um paciente com sintomas compatíveis com embolia, a presença de trombose venosa é extremamente favorável ao diagnós-tico de TEP. É um método de baixo custo, não invasivo, sem uso de radiação ou contraste, e que pode ser realizado mesmo em pacientes instáveis, sem condições de transporte para realização de outro exame.
+Entretanto, o exame depende do examinador, pode falhar em alguns casos ou, eventualmente, o êmbolo pode ter sido originado de outro segmento. Assim, uma ultrassonografia normal não tem capacidade de afastar o diagnóstico de TEP.
+F - Arteriografia pulmonar
+Ainda considerado o padrão-ouro para o diagnóstico de TEP, a arteriografia pulmonar compreende um exame invasivo, com taxas de complicações em torno de 3 a 4%, sendo que 10 a 20% não conseguem realizá-la, devido a vários fatores, como alergia ao contraste, insuficiência renal, insuficiência cardíaca congestiva grave, plaquetopenia grave ou estado geral ruim. A tendência é indicá-la cada vez menos, em uma estratégia que incorpore vários métodos diagnósticos menos invasivos.
+5. Avaliação de probabilidade pré-teste e uso racional dos exames complemen-tares
+Como são vários os métodos disponíveis, com sensibilidades e especificidades diferentes, é importante determinar a pro-babilidade clínica pré-teste de que o paciente tenha TEP. Existem alguns escores para estimar tal probabilidade, e um dos mais utilizados é o de Wells (Tabela 5), validado para uso na sala de emergência, naqueles recentemente admitidos ao hospi-tal.
+Tabela 5 - Escore de Wells para probabilidade clínica de TEP
+Critérios	Pontos
+Sinais e sintomas de TVP	3
+Outro diagnóstico pouco provável	3
+Antecedente de TVP ou TEP	1,5
+Taquicardia (FC >100bpm)	1,5
+Imobilização ou cirurgia recente (últimas 4 semanas)	1,5
+Hemoptise	1
+Neoplasia diagnosticada ou em tratamento (últimos 6 meses)	1
+Probabilidade clínica
+Baixa	<2 pontos
+Intermediária	2 a 6 pontos
+Alta	>6 pontos
+Todos aqueles com suspeita de embolia pulmonar devem ser avaliados com escores de probabilidade antes que sejam so-licitados exames complementares (D-dímeros, mapeamento V/Q, tomografia, ressonância, Doppler ou arteriografia). Isso refi-nará a probabilidade pós-teste e a razão de verossimilhança (likelihood ratio). Recomendam-se os escores de Wells ou de Geneva (Tabelas 5 e 6).
+Tabela 6 - Escore de Geneva para TEP
+Geneva	Pontos
+TVP ou TEP prévios	+ 2
+FC >100bpm	+ 1
+Cirurgia recente	+ 3
+Idade de 60 a 79 anos	+ 1
+Idade >80 anos	+ 2
+paCO2 <36mmHg	+ 2
+paCO2 = 36 a 38,9mmHg	+ 1
+paO2 <48,7mmHg	+ 4
+paO2 = 48,7 a 59,9mmHg	+ 3
+paO2 = 60 a 71,2mmHg	+ 2
+paO2 = 71,3 a 82,4mmHg	+ 1
+Atelectasia	+ 1
+Elevação de uma cúpula diafragmática	+ 1
+Baixa probabilidade	0 a 4
+Intermediária probabilidade	5 a 8
+Alta probabilidade	>9
+Tabela 7 - Prevalência de TEP de acordo com a probabilidade pré-teste	
+Probabilidade pré-teste	Procuram o pronto-socorro (%)	TEPs comprovados (%)
+Baixa	53 a 58	5 a 13
+Intermediária	37 a 41	38 a 40
+Alta	4 a 10	67 a 91
+Há inúmeros algoritmos diagnósticos para avaliar pacientes com suspeita de TEP, mas não se sabe ao certo a forma ideal de proceder à investigação. A escolha pelo método inicial deve, portanto, ser individualizada, considerando a disponibilidade local, a experiência específica com cada exame e a presença de contraindicações. As principais diretrizes internacionais su-gerem ordens diferentes de realizações de exames, mas sempre fundamentadas na avaliação de probabilidade clínica pré-teste (Figura 6). Independente de como se decide seguir a investigação, se houver probabilidade alta de TEP, a anticoagulação já deverá ser iniciada.
+ 
+Figura 6 - Diagnóstico para TEP
+6. Diagnóstico diferencial
+O diagnóstico diferencial é amplo e inclui:
+- Síndromes coronarianas agudas;
+- Dissecção aguda de aorta;
+- Pneumotórax;
+- Pneumonia, asma e doença pulmonar obstrutiva crônica;
+- Insuficiência cardíaca congestiva;
+- Pericardite;
+- Costocondrite, fratura de costela, pleurite e dor osteomuscular;
+- Hipertensão pulmonar idiopática;
+- Embolia não venosa (gasosa, gordurosa, amniótica);
+- Ansiedade.
+Deve-se dar atenção especial ao diagnóstico de embolia gordurosa, já que acontece em um cenário comum à embolia ve-nosa – pacientes com fraturas ortopédicas e imobilizados. Na Tabela 8, estão listadas suas principais características.
+Tabela 8 - Características da embolia gordurosa
+- Ocorre por passagem de corpos gordurosos de ossos longos fraturados (principalmente em fraturas fechadas) para a circulação sanguínea, causando obstrução microvascular em circulações pulmonar e sistêmica, além de resposta inflama-tória sistêmica na forma de vasculite pelos ácidos graxos circulantes;
+- É mais comum nas primeiras 24 a 48 horas após a fratura e pouco provável nas primeiras 12 horas ou após 1 semana;
+- A tríade clássica é composta por dispneia, alteração da consciência e petéquias (estas, mais comuns na conjuntiva ocular e no segmento superior do tronco); podem ser encontrados corpos gordurosos em exame simples de urina, ou estigmas de obstrução microvascular ao exame de fundo de olho;
+- O diagnóstico é clínico, sem um método complementar que o confirme;
+- O tratamento é de suporte; a anticoagulação não é efetiva, e o uso de corticosteroides, controverso;
+- A principal conduta médica associada é a redução precoce das fraturas.
+7. Tratamento
+Ainda que se utilize o termo “tratamento”, a rigor, as medidas farmacológicas na embolia de pulmão têm como objetivo impedir a progressão da lesão trombótica; a dissolução do coágulo/êmbolo é função do sistema fibrinolítico endógeno. O uso de trombolíticos é reservado a um grupo mais grave de pacientes com TEP, pelo elevado risco de complicações hemorrágicas.
+A - Doente hemodinamicamente estável e sem disfunção do VD
+A anticoagulação plena deve ser iniciada com heparina não fracionada, heparina de baixo peso molecular ou fondapari-nux (Tabela 9), em associação a um cumarínico, que será o fármaco de manutenção. A heparina ou o fondaparinux devem ser mantidos por período mínimo de 5 dias, ou mais, até que se atinja anticoagulação efetiva com a varfarina (índice internacional normalizado – INR entre 2 e 3). 
+O período de anticoagulação é variável e dependerá do fator de risco identificado (Tabela 9).
+Tabela 9 - Tratamento do TEP: anticoagulação
+Heparina não fracionada	Bolus de 80U/kg IV e manter em bomba de infusão a 18U/kg/h com coleta de coagulograma (TTPA) de 6/6h, e mantê-lo 1,5 a 2,5 vezes o controle. Em média, necessita de 1.000 a 1.250U/h.
+Heparina de baixo peso molecular	- Dalteparina: 200U/kg SC, 1x/d;
+- Enoxaparina: 1mg/kg SC, 2x/d, ou 1,5mg/kg SC, 1x/d;
+- Opção é o uso subcutâneo do fondaparinux, de efeito similar ao da heparina de baixo peso molecular;
+- As heparinas de baixo peso molecular não devem ser utilizadas em pacientes com insuficiência renal crônica e clearance <30mL/min; naqueles com clearance entre 30 e 50mL/min, recomen-da-se utilizar 50% da dose e monitorizar os níveis do antifator Xa; devem ser usadas com caute-la em pacientes com mais de 150kg, pois a curva dose–resposta pode ser inadequada nesse grupo; recomenda-se monitorizar o efeito com dosagem do antifator Xa.
+Fondaparinux	- Administrado 1x/d SC, em dose dependente do peso:
+  · <50kg: 5mg;
+  · 50 a 100kg: 7,5mg;
+  · >100kg: 10mg.
+- Contraindicado a pacientes com insuficiência renal e clearance de creatinina <30mL/min; na-queles com clearance entre 30 e 50mL/min, recomenda-se utilizar 50% da dose;
+- A monitorização com dosagem do antifator Xa não é necessária rotineiramente.
+Rivaroxabana	- Inibidor do fator Xa, é uma nova opção no tratamento do TEP, administrado por via oral;
+- Dose: 15mg 2x/d por 3 semanas; após, 20mg 1x/d;
+- Monitorização não é necessária;
+- Ainda não há antídoto específico. Em caso de sangramento de pequena intensidade, recomen-da-se a suspensão do fármaco; para sangramentos mais significativos, recomenda-se adminis-trar complexo protrombínico.
+TEP com causa reversível corrigida	Anticoagular por 3 a 6 meses.
+TEP idiopático	Anticoagular por, no mínimo, 6 meses.
+TEPs/TVPs recorrentes	Anticoagular por, no mínimo, 1 ano e avaliar, individualmente, a manutenção por tempo indefini-do.
+
+Existe uma nova opção para o tratamento do TEP, a rivaroxabana, um anticoagulante sintético que inibe o fator Xa, utiliza-do por via oral e que prescinde do uso de heparinas na fase inicial; está liberada desde 2013. São complicações da terapia anticoagulante:
+Sangramento: mesma incidência com quaisquer das heparinas; 
+Eficácia (% de doentes adequadamente tratados ou de recorrência): também semelhante a quaisquer das heparinas;
+Plaquetopenia induzida pela heparina: muito mais frequente com heparina não fracionada e rara com heparina de baixo peso molecular. Com quaisquer das heparinas, é necessária a contagem periódica de plaquetas. Há 2 formas de plaque-topenia associada a heparina:
+- Benigna: reversível, mais comum, ocorre precocemente, é não imune e reverte com suspensão da heparina;
+- Grave: autoimune, é mais tardia (de 5 a 15 dias de tratamento) e pode desencadear trombose arterial ou venosa para-doxal. O tratamento é feito com suspensão da heparina e uso de análogos da hirudina (lepirudina ou argatrobana). 
+Situações especiais:
+Insuficiência renal crônica
+As heparinas de baixo peso molecular têm eliminação renal e podem ter seus níveis séricos aumentados em casos de dis-função renal grave. Quando se decide pela sua utilização, é obrigatório controlar seu efeito com a monitorização da inibição do antifator Xa, exame indisponível na maioria dos hospitais. Portanto, se não for possível esse controle, os pacientes devem receber heparina não fracionada e monitorização com TTPA.
+Gestação
+A anticoagulação deve ser feita com heparina não fracionada ou, preferencialmente, heparina de baixo peso molecular, nas doses habituais; o uso de cumarínicos, entretanto, é proscrito por teratogenicidade e maiores riscos de complicações hemorrágicas da gestação. 
+O tratamento não está associado a riscos maiores de abortamento ou sangramento grave. O parto deve acontecer por ce-sárea, e, caso a opção tenha sido pela heparina de baixo peso molecular, esta deve ser trocada por heparina não fracionada subcutânea (em dose suficiente para manter o TTPA 1,5 a 2,5 vezes superior ao controle), que deve ser suspensa 12 horas antes do procedimento. 
+Como o puerpério também representa fator de risco para trombogênese, a anticoagulação deve ser mantida por mais 4 semanas (ou até que sejam totalizados 3 meses de anticoagulação, contados desde o período gestacional), nesta fase com associação de cumarínico, que não é excretado no leite materno; a heparina é suspensa assim que a INR atinge a faixa de 2,5 a 3,5.
+B - Paciente hemodinamicamente instável ou com disfunção do VD
+O suporte hemodinâmico e respiratório é essencial, e, se necessário, deve-se proceder à intubação, à ventilação mecâni-ca e ao uso de drogas vasoativas. 
+Indivíduos com TEP que desenvolvem hipotensão e hipoperfusão periférica têm alta mortalidade, em especial nas primei-ras horas após o início dos sintomas. A dopamina é a droga vasoativa que mais aumenta a pressão de artéria pulmonar e, se possível, deve-se evitá-la.
+Pacientes com hipotensão e choque podem beneficiar-se de trombolíticos. As complicações da trombólise em estudos mais antigos atingiam 14%, principalmente sangramentos em sítios de punção e hemorragia do sistema nervoso central (1,9%). Acredita-se que, hoje, estes sejam muito inferiores. Como exemplo, em um estudo recente com trombólise com rt-PA em TEP, a incidência de sangramento fatal ou do sistema nervoso central foi nula.
+a) TEP maciço
+Há indicação de trombólise, com janela terapêutica de até 14 dias, embora o principal benefício aconteça nas primeiras 72 horas do evento. A trombólise reduz desfechos primários (óbito e/ou recorrência do TEP) em 45% (IC 95%: 4 a 67); com NNT (Número Necessário para Tratar) de 14. Os trombolíticos recomendados são:
+Ativador do plasminogênio tecidual (rt-PA): 100mg IV, em 2 horas;
+Estreptoquinase: 1.500.000U IV em 2 horas (dose sugerida pelo Consenso Europeu); administrar um bolus de 250.000U IV em 30 minutos e, após, manter 100.000U/h durante 24 horas (opção);
+Uroquinase: 4.400U/kg/h em 12 a 24 horas.
+Há dúvida se indivíduos sem choque ou hipotensão, mas com ecocardiografia mostrando disfunção do VD e hipertensão pulmonar aguda, se beneficiariam da trombólise. Não há definição clara na literatura, sendo sugerida avaliação individualizada pelo médico que assiste o paciente. 
+ 
+Figura 7 - TEP com sinais de hipertensão pulmonar: notar aumento do hilo à direita
+A trombólise mecânica tem se mostrado efetiva para os casos com repercussão hemodinâmica, principalmente se houver limitação para uso de trombolítico, no entanto está disponível apenas em poucos serviços.
+b) Filtro de veia cava
+Há vários tipos de filtros, que podem ser inseridos por via percutânea (femoral ou jugular), o que facilita e diminui a chan-ce de complicações. As principais indicações são:
+- Contraindicações à anticoagulação plena;
+- TEPs de repetição em adequadamente anticoagulados.
+8. Prevenção 
+A prevenção, um aspecto muito importante da embolia pulmonar, deve ser sempre instituída caso sejam identificados fa-tores de risco exuberantes; apesar de não eliminar a possibilidade de sua ocorrência, reduz de forma significativa essa pro-babilidade.
+Hospitalização prolongada, procedimentos ortopédicos, cirurgias com tempo de anestesia superior a 1 hora, politrauma-tismo, uso de contraceptivos orais, neoplasias, insuficiência cardíaca e antecedente de TVP/TEP são os fatores de risco mais importantes. O risco deve ser estratificado, e a modalidade escolhida pode variar da deambulação precoce isoladamente ao uso de anticoagulantes orais – nos casos de trombofilia e fatores de risco adicionais (Figura 8).
+
+ 
+Figura 8 - Recomendações para profilaxia de TVP e embolia pulmonar a pacientes hospitalizados 
+Fonte: adaptado de Projeto Diretrizes – AMB, 2005.
+9. Resumo 
+Quadro-resumo
+- O diagnóstico de TEP por vezes não é realizado. A mortalidade, quando não há tratamento, pode chegar a 30%; com o trata-mento, é de até 8%;
+- A maioria dos casos de TEP é secundária à TVP do território iliofemoral; raramente decorre de trombose poplítea, veias de membros superiores e trombos intracavitários;
+- Os fatores de risco são os que interferem na tríade de Virchow (hipercoagulabilidade, estase venosa e lesão endotelial). Po-dem ser hereditários ou adquiridos. Os principais são TVP ou TEP prévios, cirurgia e imobilização recentes (3 meses), AVC com membro plégico e neoplasia. Dentre os fatores hereditários, o principal é o fator V de Leiden;
+- Clinicamente, caracteriza-se o evento em maciço (com instabilidade hemodinâmica), submaciço (sem hipotensão ou choque, mas com sinais de disfunção do VD) e não maciço (sem disfunção do VD);
+- O quadro clínico geralmente é representado por sintomas súbitos, como dispneia, tosse, dor torácica e hemoptise. Entretanto, as queixas e os dados do exame físico são inespecíficos e podem estar presentes em uma ampla lista de diagnósticos diferen-ciais. Os exames complementares são fundamentais;
+- A radiografia de tórax está anormal na maioria dos casos, mas com alterações inespecíficas, como pequenas atelectasias. Achados clássicos estão presentes em cerca de 10%: corcova de Hampton (imagem triangular periférica), sinal de Wester-mark (oligoemia focal) e sinal de Fleischner (alargamento das artérias pulmonares). Exames que podem definir ou afastar o diagnóstico são D-dímero, cintilografia pulmonar, ultrassonografia de membros inferiores, angiotomografia de tórax e angio-grafia pulmonar;
+- A angiografia ainda é o padrão-ouro para o diagnóstico, mas é invasiva e tem morbimortalidade de cerca de 1,5%. Assim, os outros exames são preferidos. Para definir a sequência de exames, é importante classificar o paciente conforme o grau de probabilidade clínica de ter TEP. Algumas escalas são propostas, como a de Wells, Pisa e Geneva. Pacientes com probabilida-de alta devem ser anticoagulados enquanto a investigação é realizada;
+- O método complementar ideal também depende de contraindicações, disponibilidade e experiência local;
+- Em pacientes com probabilidade baixa ou intermediária, o D-dímero pode ser solicitado (ELISA); se negativo, exclui o diagnós-tico, pois tem alta sensibilidade. Quando positivo, indica continuidade de investigação. Não deve ser utilizado em casos de probabilidade alta;
+- A angiotomografia tem sido indicada como o melhor exame inicial. Além de poder visualizar o trombo, pode determinar diag-nósticos diferenciais e avaliar disfunção do VD (dilatação de parede). Pode falhar em casos de trombos pequenos e periféri-cos, e pode ser necessário outro exame em seguida. Sua principal desvantagem é a necessidade de contraste intravenoso;
+- A cintilografia pode demonstrar áreas de perfusão ruim, com ventilação normal, altamente característica de TEP; quando normal, exclui o diagnóstico. A principal limitação é para pacientes com doença parenquimatosa prévia, quando o exame apresenta, naturalmente, algumas áreas de déficit de inalação e perfusão;
+- A ultrassonografia tem a vantagem de poder ser realizada à beira do leito; é bem indicada principalmente se há sinais clínicos de TVP, com boa acurácia para trombos em território iliofemoral;
+- Ecocardiograma, peptídio natriurético cerebral e troponinas são úteis para definir disfunção do VD, que é característica de mau prognóstico;
+- O tratamento é feito com anticoagulação: heparina (baixo peso ou não fracionada) e anticoagulante oral, ou isoladamente com rivaroxabana; aquela deve ser mantida até o efeito adequado do fármaco oral se estabelecer (INR entre 2,5 e 3,5). A du-ração do tratamento depende da etiologia e de recorrência do quadro, de 3 meses a indefinidamente;
+- Os trombolíticos ainda são ponto de debate intenso: são indicados a casos de instabilidade hemodinâmica; mais recentemen-te, têm sido propostos em casos selecionados de TEP submaciço;
+- O filtro de veia cava está indicado a pacientes com TEP na vigência de anticoagulação ou em casos de contraindicações à anticoagulação; 
+- A profilaxia de TEP deve ser indicada a pacientes com fatores de risco identificados, envolvendo deambulação precoce após cirurgias, métodos mecânicos (meias elásticas e de compressão pneumática) e heparina subcutânea.
