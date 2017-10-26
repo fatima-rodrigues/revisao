@@ -1,0 +1,586 @@
+
+Neoplasias pulmonares
+Rodrigo Antônio Brandão Neto[- / -]
+Fabrício Martins Valois
+
+{+Resumo+}
+{+O câncer de pulmão é a neoplasia mais frequente e com o maior número de óbitos no Brasil, tendo como principal fator o tabagismo, que aumenta a chance de aparecimento conforme o tempo do hábito e o número de cigarros fumados por dia. Todos os subtipos histológicos desse guardam relação com o tabagismo, o que é mais intenso no carcinoma de células pe-quenas (97% relatam tabagismo) e menos no adenocarcinoma (85% o relatam). Quanto aos tipos histológicos, o adenocarci-noma é o mais comum, de localização periférica, menor relação com tabagismo e prevalência em mulheres; o carcinoma epidermoide tem localização central, maior relação com hemoptise, hipercalcemia e necrose tumoral central; o carcinoma de pequenas células guarda maior relação com o tabagismo, com pior prognóstico, localização central e associação a maior número de síndromes paraneoplásicas hormonais; e o carcinoma de grandes células possui localização periférica, sendo altamente proliferativo. Os achados clínicos são tosse, dispneia, perda de peso e hemoptise, podendo ocorrer, ainda, algu-mas síndromes relacionadas à compressão do tumor com estruturas adjacentes, como síndrome de Horner (ptose palpe-bral, miose, enoftalmia e anidrose facial ipsilateral), síndrome de Pancoast (dor no ombro, parestesias e redução de força muscular no membro afetado), síndrome da veia cava superior (edema de face e membros superiores, pletora facial, ingur-gitamento jugular, circulação colateral superior). O diagnóstico pode ser feito por exame de imagem (tomografia de tórax, radiografia de tórax), associada a broncoscopia, biópsia transtorácica, toracotomia/toracoscopia. O estadiamento é feito pelo TNM (tamanho, linfonodos, metástases). A maioria dos estadios I ou II pode ser curada cirurgicamente. Em geral, esta-dios IIIB e IV não se beneficiam de cirurgia. E pessoas com estadio IIIA têm disseminação local e, ocasionalmente, podem beneficiar-se de cirurgia.+}
+
+1. Câncer primário de pulmão
+
+O câncer de pulmão é a neoplasia maligna mais frequente (12,3% de todos os casos novos de câncer) e a que ocasiona maior número de óbitos. No Brasil, é a 1ª causa de morte por câncer em homens e a 2ª em mulheres. A faixa etária média é de 60 anos, sendo raro antes da 4ª década. Após o diagnóstico, apenas 40% dos pacientes continuam vivos depois de 1 ano. A sobrevida em 5 anos é de apenas 15%.
+
+ 
+Figura 1 - Opacidade com conformação de massa no lobo inferior esquerdo
+
+A - Fatores de risco
+
+a) Tabagismo
+É o principal fator de risco. Cerca de 90% dos casos entre homens e 80% entre mulheres são relacionados ao cigarro. A década de 1990 demonstrou uma queda de casos e de mortes entre os homens, com aumento de ambos entre as mulheres, implicados, diretamente, no aumento de mulheres tabagistas.
+A chance de aparecimento do câncer está ligada ao tempo de tabagismo e ao número de cigarros fumados por dia{+, de forma que cargas tabágicas superiores a 10 anos/maço são consideradas clinicamente significativas+}. Deixar de ser fumante reduz drasticamente o risco de desenvolver câncer de pulmão em 15 a 20 anos após cessação, apesar de permanecer um pouco maior do que em não fumantes.
+Quem fuma charutos ou cachimbos também tem mais riscos de desenvolver câncer. Há uma ligação entre o número de anos que a pessoa fuma, de charutos ou de cachimbos fumados por dia e o quão profundamente a fumaça é inalada. Mesmo sem inalação, existe o aumento de risco de tumores de cabeça e pescoço entre os usuários de charutos e cachimbos. 
+A associação de maconha com neoplasia de pulmão não é tão bem documentada quanto à do cigarro, mas ocorrem lesões no epitélio brônquico. Sabe-se que 3 ou 4 cigarros de maconha equivalem, em média, em termos de material particulado, a 20 cigarros, mas a magnitude de risco ainda não é quantificada, e, apesar de alguns estudos demonstrarem relação, outros falharam em demonstrar uma associação clara de risco.
+O risco do tabagismo passivo é proporcional ao tempo em que o indivíduo inala o ar com substâncias liberadas pelo cigar-ro e ao número de indivíduos no ambiente. Estima-se que, a cada 3 cigarros fumados por um fumante, o indivíduo que divide o ambiente com ele inala um cigarro inteiro. 
+{+Todos os subtipos histológicos de câncer de pulmão guardam relação com o tabagismo, o que é mais intenso no carcinoma de células pequenas (97% relatam tabagismo) e menos no adenocarcinoma (85% o relatam). Outros tumores relacionados ao hábito de fumar são: cavidade oral, laringe, esôfago, bexiga, rins, pâncreas, estômago, mama, cólon e reto e colo de útero.+}
+
+{+Dica+}
+{+Todos os subtipos histológicos de câncer de pulmão têm relação com tabagismo, sendo maior no carcinoma de células pequenas (97%) e menor no adenocarcinoma (85%).+}
+
+{+Tema de prova+}
+{+A relação entre tabagismo e câncer de pulmão está sempre presente nas questões de Residência Médica.+}
+
+{+Pergunta+}
+{+2013 - UFMS+}
+{+1. O tabagismo é conhecido como fator envolvido na gênese de diversos tipos de câncer. Sobre cigarro e câncer, é incor-reto afirmar que:+}
+{+a) o fumo é responsável por mais de 1.000.000 de mortes anualmente no mundo+}
+{+b) os fatores mais importantes na determinação do câncer de pulmão em fumantes são a duração e a quantidade, sendo que o risco aumenta conforme aumenta o numero de cigarros fumados+}
+{+c) o tabagismo aumenta o risco de todos os tipos histológicos de câncer de pulmão: carcinoma espinhoso, carcinoma de pequenas células, adenocarcinoma e carcinoma de células gigantes+}
+{+d) cessação do tabagismo mantém o risco de câncer de pulmão em ex-tabagistas elevado, por alguns anos, comparado ao risco de quem nunca fumou+}
+{+e) o tabagismo tem relação com câncer de boca, de laringe, de pulmão e de estômago, mas não guarda relação com o cân-cer de bexiga, de ureter e de pelve renal+}
+{+Resposta no final do capítulo+}
+
+b) Asbesto	
+Ao serem inaladas, as partículas de asbesto alojam-se nos pulmões sem serem eliminadas, levando a lesão celular e au-mento do risco de câncer de pulmão. A exposição prolongada ao asbesto aumenta em 60 a 100 vezes a chance desse câncer.
+
+c) Outras exposições
+A exposição a sílica, a metais (arsênio, cromo, níquel, óxido de ferro) e a carcinógenos industriais (éter clorometil) tam-bém aumenta o risco de câncer.
+
+d) Predisposição familiar
+Apesar de os detalhes ainda não estarem claros, há um forte componente familiar que predispõe a câncer de pulmão.
+
+e) Doenças pulmonares crônicas
+Sarcoidose, doenças que cursam com fibrose pulmonar, tuberculose, doença pulmonar obstrutiva crônica etc.
+
+f) Câncer de pulmão prévio
+Mesmo ajustado para covariáveis, pacientes com câncer prévio de pulmão (curados) têm maior risco de um novo câncer.
+
+{+Pergunta+}
+{+2014 - UEL +}
+{+2. Com relação ao carcinoma broncogênico, analise as afirmações a seguir:+}
+{+I - O tabagismo está fortemente associado ao câncer pulmonar, e parar de fumar leva à queda do risco, sem chegar à nor-malização completa.+}
+{+II - A doença pulmonar obstrutiva crônica pouco interfere no risco de câncer pulmonar, mas altera significativamente o prognóstico.+}
+{+III - De maneira geral, os homens são mais frequentemente acometidos, e as diferenças entre gêneros se devem à diver-sidade no hábito de fumar.+}
+{+IV - Independente dos fatores socioeconômicos e da associação a tabagismo, homens e mulheres negras apresentam maior risco para a doença.+}
+{+Estão corretas:+}
+{+a) I, III+}
+{+b) I, IV+}
+{+c) II, IV+}
+{+d) I, II, III+}
+{+e) I, III, IV+}
+{+Resposta no final do capítulo+}
+
+B - Tipos histológicos 
+Há 4 tipos histológicos do carcinoma broncogênico, que correspondem a mais de 90% das neoplasias malignas primárias do pulmão.
+
+a) Adenocarcinoma (de 35 a 40%)
+Tumor periférico que se origina de glândulas mucosas. A apresentação mais frequente é a lesão distal, com nódulo(s) ou massa(s) de localização periférica. Seu tempo de multiplicação é mais lento, em torno de 180 dias, e é a neoplasia com menor relação com tabagismo (85% dos pacientes fumam ou fumaram) e é mais comum entre mulheres. 
+O adenocarcinoma in situ, antes denominado bronquioloalveolar (2% dos casos), origina-se do epitélio distal de vias aé-reas. Por isso, algumas vezes, ele se dissemina localmente pela via intra-alveolar, podendo manifestar-se como um infiltrado periférico (além do clássico nódulo ou da massa periférica). 
+
+{+Dica+}
+{+O adenocarcinoma é o tumor mais comum, com localização periférica, menor relação com tabagismo e prevalência em mulheres.+}
+{+ +}
+{+Figura 2 - Tomografia de tórax demonstrando consolidação persistente no lobo inferior direito com diagnóstico final de adenocarcinoma in situ+}
+
+b) Carcinoma de células escamosas (de 25 a 30%)
+É um tumor tipicamente central, que se origina do epitélio brônquico; tipicamente, é localizado centralmente, formando uma massa endobrônquica séssil ou pediculada. Esse tipo histológico mais comumente se manifesta com hemoptise. O tumor dissemina-se localmente e pode causar adenopatia hilar ou mediastinal (radiografia mostrando aumento de mediastino). É o tipo histológico que mais cursa com hipercalcemia e com necrose tumoral central (cavitação). Há duplicação, em média, a cada 90 dias.
+
+{+Dica+}
+{+O carcinoma epidermoide tem localização central, maior relação com hemoptise, hipercalcemia e necrose tumoral central.+}
+
+c) Carcinoma de pequenas células (de 15 a 20%)
+Tumor central que tem maior relação com tabagismo e é altamente maligno, com alta taxa de proliferação. Dissemina-se localmente, ocasionando estreitamento brônquico, atelectasias, aumento do mediastino (adenopatia hilar e mediastinal), e tem a capacidade de cursar com síndromes paraneoplásicas, as mais variadas possíveis. A neoplasia apresenta crescimento rápido com tempo de duplicação de, aproximadamente, 30 dias. 
+
+{+Dica+}
+{+O carcinoma de pequenas células, ou oat cells, tem maior relação com tabagismo, sendo altamente maligno (pior prognósti-co), de localização central e associação a maior número de síndromes paraneoplásicas hormonais.+}
+
+d) Carcinoma de grandes células (de 5 a 10%)
+Tumor periférico que designa um grupo relativamente heterogêneo de tumores pouco diferenciados (células grandes e que não preenchem critérios para os outros tipos histológicos). Costuma ser um tumor altamente proliferativo, com curso clínico agressivo. 
+
+{+Dica+}
+{+O carcinoma de grandes células, ou anaplásico, tem localização periférica, sendo altamente proliferativo e agressivo.+}
+
+{+Tabela 1 - Características dos tipos histológicos de neoplasia pulmonar +}
+{+Adenocarcinoma	- Tumor mais comum;+}
+{+- Tumor periférico;+}
+{+- O que menos se associa ao tabagismo;+}
+{+- O subtipo in situ tem crescimento indolente e pode apresentar-se como consolidação persistente.+}
+{+Carcinoma epidermoide	- Tumor central;+}
+{+- O que mais se associa a cavitação;+}
+{+- Pode se apresentar com hipercalcemia como síndrome paraneoplásica.+}
+{+Carcinoma de células pequenas	- Tumor central;+}
+{+- É o tumor mais agressivo;+}
+{+- Associa-se a inúmeras síndromes paraneoplásicas por seu caráter neuroendócrino.+}
+
+{+Tema de prova+}
+{+A diferenciação dos tipos histológicos de câncer de pulmão é fundamental para a resolução da grande maioria das questões de Residência Médica sobre o tema.+}
+
+{+Pergunta+}
+{+2011 - FHEMIG+}
+{+3. Um homem de 66 anos procura atendimento em ambulatório com queixa de escarrar sangue há 3 dias. É tabagista desde os 17 anos. A radiografia de tórax evidencia sinais de hiperinsuflação pulmonar e massa de 4cm junto ao hilo direito. Dentre as alternativas, qual é a causa mais provável da hemoptise apresentada?+}
+{+a) adenocarcinoma pulmonar+}
+{+b) carcinoma pulmonar de células escamosas+}
+{+c) sarcoidose+}
+{+d) tuberculose+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2012 - UCPEL+}
+{+4. Considerando o câncer de pulmão, assinale a alternativa correta:+}
+{+a) o carcinoma epidermoide é o subtipo mais provável entre não fumantes+}
+{+b) o carcinoma de pequenas células e o adenocarcinoma apresentam, mais frequentemente, localização central+}
+{+c) cerca de 50% dos tumores dos sulcos superiores apresentam histologia de carcinoma epidermoide+}
+{+d) o carcinoma de células gigantes geralmente produz massa séssil central+}
+{+e) o carcinoma de pequenas células raramente apresenta metástases no momento do diagnóstico+}
+{+Resposta no final do capítulo+}
+
+C - Achados clínicos
+A maioria dos pacientes apresenta sintomas à época do diagnóstico; no entanto, nessa fase, o tumor já percorreu mais de 60% de sua evolução natural.
+
+Tabela [-1-]{+2+} - Fatores relacionados à chance e ao tipo de manifestação clínica
+- Tipo de tumor (tipo histológico);
+- Localização do tumor primário;
+- Produção de síndromes paraneoplásicas;
+@@ -46,29 +147,70 @@ Em linhas gerais, deve sugerir c
+- Perda de peso;
+- Dor torácica ou nos ombros;
+- Rouquidão.
+
+Perda de peso, anorexia e adinamia acontecem em 55 a 88% dos pacientes. Até 60% têm nova tosse ou piora do padrão de tosse crônica, e até 1/3 pode manifestar hemoptise (de 3 a 31%). Dor torácica ocorre em 25 a 40%.
+Alterações radiográficas que não apresentam resolução com o tempo devem levantar a suspeita de neoplasia de pulmão – principalmente consolidações previamente consideradas como relacionadas a pneumonias e que mantêm o padrão após 40 a 60 dias do uso de antibióticos.
+Existem algumas síndromes associadas a efeitos locais do tumor: atelectasia (Figura [-2-]{+3+}), derrame pleural, síndrome de Claude Bernard-Horner, síndrome de Pancoast e síndrome da veia cava superior.
+
+ {+ +}
+Figura [-2-]{+3+} - Atelectasia do pulmão esquerdo: notar o desvio da traqueia para o mesmo lado da lesão (seta)
+
+a)	Síndrome de Claude Bernard-Horner (ou síndrome de Horner)
+Caracteriza-se por miose, enoftalmia, ptose palpebral e anidrose facial ipsilateral, sinais de denervação simpática, que ocorrem por compressão do simpático cervical por lesão tumoral localizada no ápice do pulmão, conhecida como tumor de Pancoast (antes chamado tumor do sulco superior, por originar-se no sulco anatômico na superfície pulmonar por passagem da artéria subclávia).
+
+{+Dica+}
+{+A síndrome de Horner envolve ptose palpebral, miose, enoftalmia e anidrose facial ipsilateral.+}
+
+b) Síndrome de Pancoast
+Caracteriza-se por dor no ombro e membro superior, com sensações parestésicas e dor local, gerados por compressão do plexo braquial. Por vezes, ocorre associada à síndrome de Horner, já que as estruturas nervosas acometidas nas 2 síndromes têm proximidade regional.{+ Não se deve confundir com o tumor de Pancoast, ou tumor do sulco superior pulmonar (formado pela passagem dos vasos subclávios pela cúpula da pleura e ápices pulmonares), geralmente neoplasias pulmonares não pe-quenas células (principalmente epidermoide e adenocarcinoma), de grande potencial invasivo local, acometendo comumen-te as estruturas ósseas, musculares e nervosas adjacentes, dando origem à síndrome de Pancoast. +}
+
+{+Dica+}
+{+A síndrome de Pancoast envolve dor no ombro, parestesias e redução da força muscular no membro afetado. Pode ter associação à síndrome de Horner.+}
+
+c) Síndrome da veia cava superior
+Caracteriza-se por edema da face e de membros superiores, pletora facial, ingurgitamento das veias cervicais, circulação colateral no tronco superior, acrescidos de dispneia e tosse, que pioram com o decúbito dorsal ou ao inclinar o corpo para frente; em alguns casos, pode haver estridor. É ocasionada por obstrução ao fluxo sanguíneo venoso na veia cava, em mais de 90% dos casos de etiologia tumoral (neoplasia de pulmão e linfoma); outras causas são mediastinite fibrosante, tuberculose e histoplasmose. Os tumores de pulmão mais associados são aqueles com predileção por áreas centrais do parênquima: carci-noma de células pequenas {+(principal) +}e carcinoma epidermoide. No passado, era considerada uma emergência oncológica, com trata[---]mento imediato com radioterapia e corticosteroides; hoje, a conduta preferida é investigar a etiologia da síndrome (em al[---]guns casos, pode não ser neoplásica, e os diferentes tipos histológicos envolvidos têm resposta variável a modalidades tera[---]pêuticas) e definir o melhor tratamento. Entretanto, em casos de estigmas de obstrução de vias aéreas centrais, com descon[---]forto respiratório evidente, a conduta continua a ser radioterapia e corticosteroide de imediato (linfoma e carcinoma de células pequenas costumam ter boa resposta).
+O tumor pode disseminar-se localmente, ocasionando invasão óssea, dor neuropática ou manifestações a distância. Assim, os pacientes podem manifestar:
+Dor no hipocôndrio direito, icterícia (metástase hepática);
+Cefaleia, vômitos, confusão, convulsões, déficits localizatórios (metástase no sistema nervoso central; mais comum com o adenocarcinoma).
+
+{+Dica+}
+{+A síndrome da veia cava superior envolve edema de face e membros superiores, pletora facial, ingurgitamento jugular, circulação colateral superior, associados a dispneia e tosse que pioram ao decúbito dorsal.+}
+
+{+Tema de prova+}
+{+Síndrome de Horner, síndrome de Pancoast e síndrome da veia cava superior são temas recorrentes nas questões de Resi-dência Médica.+}
+
+{+Pergunta+}
+{+2014 - SANTA CASA-SP+}
+{+5. Um paciente de 58 anos, tabagista, procura atendimento por quadro de tosse, hemoptise e perda de peso há 2 meses. Ao exame físico, identificam-se circulação colateral no membro superior direito e discreto edema da face e do membro superior direito. Nota-se, também, discreta turgência jugular. Qual padrão histológico de neoplasia pulmonar é mais en-volvido com a síndrome paraneoplásica? +}
+{+a) carcinoma epidermoide+}
+{+b) carcinoma bronquioloalveolar+}
+{+c) carcinoma de grandes células+}
+{+d) carcinoma de pequenas células+}
+{+e) adenocarcinoma+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2015 - SES-AP  +}
+{+6. Assinale a alternativa incorreta com relação ao tumor de Pancoast e à síndrome de Horner: +}
+{+a) o tumor de Pancoast localiza-se em bases pulmonares, e a síndrome de Horner tem, como características, enoftalmia, ptose palpebral, miose e cianose de extremidades+}
+{+b) o tumor de Pancoast localiza-se posteriormente no ápice dos lobos superiores, junto ao plexo braquial. Comumente, causa sintomas e sinais relacionados à infiltração neoplásica das raízes do VIII nervo cervical e do I e II nervos torácicos, de crescimento lento, e raramente produz metástases a distância, associando-se à síndrome de Horner+}
+{+c) os sintomas mais frequentes são dor, alteração na temperatura cutânea e atrofia muscular do ombro e das porções do membro superior secundária ao comprometimento nervoso; o tumor pode invadir a pleura e a parede torácica, destruindo a 1ª e a 2ª costelas, causando intensa dor +}
+{+d) devido ao acometimento da cadeia simpática e do gânglio estrelado, é comum o aparecimento da síndrome de Horner, que se caracteriza por enoftalmia unilateral, ptose palpebral, miose e anidrose da face e do membro superior +}
+{+e) todas estão corretas +}
+{+Resposta no final do capítulo+}
+
+D - Síndromes paraneoplásicas
+Correspondem a manifestações clínicas associadas ao tumor, mas por efeito a distância, não por proximidade. São inúme-ras, e, ainda hoje, algumas não são completamente conhecidas (Tabela [-2-]{+3+}).
+Ocorrem em cerca de 10 a 20% e são mais comuns com o tipo histológico de pequenas células. Podem preceder e ocor-rer durante ou somente após o diagnóstico. A presença delas não necessariamente indica doença metastática. Cerca de 15% dos tumores de pequenas células manifestam secreção inapropriada de hormônio antidiurético, e em torno de 10% dos tu-mores de células escamosas desenvolvem hipercalcemia. Outras paraneoplasias são anemia, síndrome de Cushing (hipercor-tisolismo), hipercoagulabilidade, neuropatia periférica e síndrome miastênica de Eaton-Lambert. A ginecomastia é mais co-mum com o tipo histológico de grandes células, e a osteoartropatia hipertrófica (associação de baqueteamento digital e rea-ção periosteal em ossos longos – Figura [-3-]{+4+}) ocorre com todos os tipos, mas raramente com os de pequenas células.
+
+ {+ +}
+Figura [-3-]{+4+} - Baqueteamento digital e unhas “em vidro de relógio”
+
+A maioria das síndromes paraneoplásicas metabólicas ou neurológicas é associada, principalmente, ao carcinoma de pul-mão de pequenas células; uma exceção clássica é feita à hipercalcemia (mais comum no carcinoma epidermoide), à osteoar-tropatia hipertrófica e à ginecomastia (mais comum com adenocarcinoma).
+O adenocarcinoma de pulmão pode apresentar-se com endocardite marântica ou verrucosa, similar à que acontece entre pacientes com lúpus eritematoso sistêmico. 
+Em boa parte das síndromes paraneoplásicas, o tratamento do tumor promove o alívio de seus sinais e sintomas.
+
+Tabela [-2-]{+3+} - Síndromes paraneoplásicas associadas a neoplasias de pulmão
+Sistêmicas
+- Febre;
+- Anorexia;
+@@ -103,35 +245,54 @@ Neurol
+- Síndrome miastênica de Eaton-Lambert;
+- Miastenia gravis;
+- Mielopatia necrosante.
+
+{+Dica+}
+{+A maioria das síndromes paraneoplásicas metabólicas é associada ao carcinoma de pulmão de pequenas células; uma exce-ção é feita à hipercalcemia (carcinoma epidermoide), à osteoartropatia hipertrófica e à ginecomastia (adenocarcinoma).+}
+
+E - Exames complementares
+A confirmação do diagnóstico é feita por meio da análise histológica. Entretanto, nem sempre o parênquima pulmonar ne-cessita ser acessado.
+
+Tabela [-3-]{+4+} - Confirmação do diagnóstico por meio de exames complementares
+- A análise do escarro pode ser útil para os diagnósticos diferenciais (como tuberculose) e para a pesquisa de células neoplásicas. Infe{+-+}lizmente, a sensibilidade é baixa (mas tem alta especificidade), com maior positividade para tumores centrais;
+- Se houver derrame pleural, deve ser feita uma toracocentese. Apesar de a pesquisa de células oncóticas ser raramente positiva, sem{+-+}pre deve ser solicitada, pois quando positiva abrevia o diagnóstico;
+- A presença de gânglio patológico, especialmente se supraclavicular, indica imediata análise histológica (punção com agulha fina ou biópsia). No momento, marcadores séricos para câncer de pulmão não são sensíveis nem específicos.
+
+A espirometria deve ser realizada em pacientes com sinais ou sintomas de doença pulmonar obstrutiva crônica e como exame complementar antes de uma eventual cirurgia curativa. Em geral, indivíduos em bom estado, com Volume Expiratório Forçado de 1º segundo (VEF1) >2L, têm baixo risco de complicações para a lobectomia ou mesmo a pneumonectomia. Caso o indivíduo tenha um VEF1 <2L, deve-se calcular o VEF1 predito para o pós-operatório. Este é calculado por meio do VEF1 pré-operatório e da porcentagem de parênquima ressecado. Caso a estimativa seja de um VEF1 >800mL (ou >40% do predito), a cirurgia tem baixas taxas de complicações. Doentes de alto risco são identificados com um VEF1 <700mL (ou menor do que 40% do predito). A estes e àqueles com achados intermediários são indicados testes ergoespirométricos. Um consumo de oxigênio acima de 20mL/kg/min identifica pacientes com risco aceitável; caso seja <10mL/kg/min, são de altíssimo risco cirúr-gico. O interessante é que a hipoxemia e/ou a hipercapnia não são preditores independentes de prognósticos.
+
+a) Broncoscopia
+Permite a visualização direta da árvore brônquica e a realização de biópsia. Em tumores de grandes vias aéreas, a sensibi-lidade pode chegar a 90%. Entretanto, em lesões de pequenas vias aéreas, a sensibilidade pode cair para 10%. Algumas técni-cas recentes são promissoras (broncoscopia com fluorescência para detecção de lesões muito pequenas; ultrassonografia endoscópica que permite biópsias com precisão de lesões peribrônquicas).
+
+b) Biópsia transtorácica
+A punção aspirativa com agulha por via transtorácica tem sensibilidade de 50 a 97%, dependendo do operador (médico que faz o procedimento) e da localização da lesão.
+
+c) Toracotomia ou toracoscopia
+Podem ser necessárias quando exames menos invasivos não são capazes de estabelecer um diagnóstico.
+
+d) Exames de imagem
+Mais de 90% dos pacientes com câncer de pulmão têm anormalidades radiológicas. Em geral, a tomografia de tórax permi-te avaliação adicional (gânglios, outras lesões concomitantes, localização e tamanho do tumor), embora raramente seja espe-cífica para o diagnóstico.
+
+F - Exames especiais: estadiamento
+A propósito de estadiamento, os tumores de pulmão são classificados como tumores de pequenas células e tumores não pequenas células, que compreendem o escamoso, as grandes células e o adenocarcinoma. A classificação torna prática a divisão de um tumor com alta capacidade de disseminação hematológica, raramente capaz de ser abordado cirurgicamente e com tempo de sobrevida sem tratamento de 6 a 18 semanas.
+Os tumores não pequenas células têm evolução não tão explosiva e podem ser curados cirurgicamente. O estadiamento visa fornecer ao médico informações sobre o prognóstico, o planejamento terapêutico e a padronização para fins de estudos clínicos (possibilitar a comparação de resultados novos). Nesse sentido, são importantes 2 princípios gerais:
+Quanto mais disseminado o tumor, pior o prognóstico;
+Em geral, cirurgia é a possibilidade de cura.
+
+ {+ +}
+Figura [-4-]{+5+} - Tomografia (corte em janela de pulmão) da massa pulmonar esquerda
+
+ {+ +}
+Figura [-5-]{+6+} - Tomografia (corte em janela de mediastino) da massa pulmonar esquerda
+
+a) Tumor não pequenas células
+O estadiamento é feito pelo TNM. Nesse sentido, a descrição do tumor (tamanho, localização), dos linfonodos acometidos (local) e das metástases (presentes ou não) forma a classificação (Tabelas [-4-]{+5+} e [-5-]{+6+}). Existe uma proposta nova de classificação, com algumas mudanças em relação à classicamente empregada; entretanto, ainda não foi completamente incorporada à prá-tica clínica, sendo as condutas ainda baseadas na classificação antiga.
+
+{+Dica+}
+{+Os locais mais frequentes de metástase são adrenais, fígado, ossos e cérebro.+}
+
+A maioria dos estadios I ou II pode ser curada cirurgicamente. Em geral, estadios IIIB e IV não se beneficiam de cirurgia. E pessoas com estadio IIIA têm disseminação local e, ocasionalmente, podem beneficiar-se de cirurgia.
+Em resumo, pacientes que tenham estadiamento com T4, ou N3, ou M1 não são candidatos à cirurgia.
+
+Tabela [-4-]{+5+} - Estadiamento do câncer de pulmão não pequenas células
+Características do tumor
+TX	Tumor primário que não pode ser avaliado
+T0	Tumor primário não encontrado
+@@ -145,7 +306,7 @@ T2	- Tumor >3cm e =7cm, com 1 dos seguintes:
+· Em associação a atelectasia ou pneumonite obstrutiva segmentar.
+	- T2a – tumor >3cm e =5cm;
+	- T2b – tumor >5cm e =7cm.
+T3	- Tumor [-maior que -]{+>+}7cm, ou com 1 dos seguintes:
+· Invade quaisquer dos seguintes: parede torácica, diafragma, nervo frênico, pleura mediastinal, pericárdio parietal; envolve brônquio principal a menos de 2cm da carina (sem comprometimento da carina);
+· Atelectasia ou pneumonite obstrutiva de todo o pulmão;
+· Nódulos pulmonares no mesmo lobo. 
+@@ -165,7 +326,8 @@ M0	Nenhuma met
+M1	- Metástase presente:
+· M1a: nódulo pulmonar contralateral ou derrame pleural ou pericárdico;
+· M1b: metástase a distância.
+
+Tabela [-5-]{+6+} - Estadiamento do câncer de pulmão não pequenas células [-(-]{+– TN+}M[-)-]
+	T1	T2	T3	T4	M1
+	T1a	T1b	T2a	T2b			
+N0	IA	IA	IB	IIA	IIB	IIIA	IV
+@@ -173,29 +335,60 @@ N1	IIA	IIA	IIA	IIB	IIIA	IIIA	IV
+N2	IIIA	IIIA	IIIA	IIIA	IIIA	IIIB	IV
+N3	IIIB	IIIB	IIIB	IIIB	IIIB	IIIB	IV
+M1	IV	IV	IV	IV	IV	IV	--
+
+{+Tema de prova+}
+{+O estadiamento do câncer de pulmão deve ser conhecido, pois está presente nas provas de Residência Médica.+}
+
+{+Pergunta+}
+{+2014 - UFMT+}
+{+7. Um paciente caucasiano de 62 anos, com histórico de tabagismo há 42 anos, é admitido no serviço de urgên-cia/emergência com quadro clínico de dispneia e tosse, eventualmente com hemoptoicos. A radiografia simples de tórax demonstrou sinais de doença pulmonar obstrutiva crônica e opacidade no lobo superior direito. A tomografia computado-rizada de tórax, por sua vez, demonstrou massa espiculada de 5cm na periferia do lobo superior direito, suspeita de ma-lignidade. Não foi identificada linfadenopatia mediastinal ou hilar. Qual é o próximo passo para o adequado manejo do caso? +}
+{+a) ressonância magnética do crânio; sistema nervoso central para estadiamento+}
+{+b) biópsia da massa guiada por tomografia de tórax+}
+{+c) broncoscopia com biópsia da massa+}
+{+d) ressecção cirúrgica da massa após avaliação pré-operatória da Cardiologia e Pneumologia+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2011 - UFG+}
+{+8. Um paciente de 66 anos, tabagista pesado, apresenta quadro de tosse com escarro hemoptoico, dispneia leve e ema-grecimento. A radiografia do tórax mostra massa no lobo superior do pulmão esquerdo, tomografia computadorizada do tórax com massa de 7cm no mesmo local, linfonodos mediastinais paratraqueais à direita e à esquerda e subcarinais com 1,4cm em seu menor diâmetro. RNM do crânio e tomografia computadorizada do abdome normais. A broncoscopia mos-tra lesão vegetante a 1,5cm da carina traqueal. Nesse caso, qual é o estadiamento, dos pontos de vista clínico e radiológi-co?+}
+{+a) T1N1M0+}
+{+b) T2N2M0+}
+{+c) T3N3M0+}
+{+d) T4N3M0+}
+{+Resposta no final do capítulo +}
+
+b) Tumor de pequenas células
+Classicamente, o TNM é pouco utilizado. O estadiamento é feito da seguinte maneira:
+Doença limitada (30% dos pacientes): tumor limitado a 1 hemitórax, podendo incluir linfonodos mediastinais e supraclavi-culares ipsilaterais, derrame pleural e obstrução da veia cava superior;
+Doença extensa (70%): o tumor estende-se além de 1 hemitórax; inclui derrame pericárdico.
+
+c) Exames para estadiamento
+Os exames podem ser guiados pela história e pelo exame físico (exemplos: linfonodos palpáveis, alterações de pele suges-tivas de metástases etc.), mas, também, seguindo protocolos (Tabela [-6-]{+7+}).
+
+Tabela [-6-]{+7+} - Exames complementares recomendados a todos os pacientes
+- Hemograma, função renal, sódio, potássio, cálcio, fosfatase alcalina, albumina, ALT, AST, bilirrubinas;
+- Radiografia de tórax;
+- Tomografia de tórax com contraste (com cortes até adrenais);
+- Diagnóstico patológico do câncer;
+- Tomografia ou ressonância magnética de crânio;
+- Cintilografia óssea ou PET scan.
+
+G - Exames especiais: screening
+[-Nã-]{+Estud+}o[- há,-]{+s+} a{+n+}t[-é-]{+igos+} [-h-]{+basead+}o[-j-]{+s em radiografia d+}e[-,-] {+tó+}r{+ax +}e{+ +}c{+it+}o[-men-]{+logia +}d{+o esc+}a[-ç-]{+rro n+}ão [-p-]{+mostr+}ara{+m benefício do+} screening [-de-]{+para+} {+câ+}n{+c+}e[-o-]{+r de +}p{+u+}l{+mão. No ent+}a{+nto, estudo+}s{+ com tomografia com ba+}i{+x+}a{+ do+}s{+e+} [-pul-]{+de radiação têm de+}mon[-a-]{+st+}r{+ado d+}es{+fechos+} [-a a-]{+po+}s{+itivo+}s{+ em +}in[-t-]{+diví-duos c+}om[-á-]{+ carga +}t{+abág+}ic[-o-]{+a +}s{+ignificativa+}, {+a+}ind{+a qu+}e[-p-]{+ t+}en{+ham parado +}de{+ fumar até 15 anos. O método co+}n{+sis+}te{+ em aquisição de i+}m{+ag+}e{+m dura+}nte {+inspiração única, com radiação menor +}do{+ que 1/3 de exame+}s [-f-]{+convencion+}a{+is.+}
+{+Alguns grupos +}t{+êm sugerid+}o[---]{+ +}re{+alizar +}s{+creening anual+} [-d-]e{+m+} [-r-]{+pac+}i{+ente+}s{+ +}co{+m 55 a 80 anos,+} {+que apr+}e[-xi-]s[-t-]ent{+am carga sup+}e{+rior a 30 anos/maço, com tabagismo atual ou prévio até 15 ano+}s.{+ +}
+
+H - Tratamento
+O tratamento depende de vários fatores, incluindo o tipo de tumor, o tamanho, a localização, a sua extensão e, principal-mente, o estado geral do paciente. Independente de a modalidade escolhida ser a cirurgia, a quimioterapia ou a radioterapia, o indivíduo necessita ter condições clínicas mínimas para que possa ser submetido ao tratamento. Existem várias escalas pro-postas para avaliar o estado físico global, e uma das mais utilizadas é a de Karnofsky (Tabela [-7-]{+8+}).
+
+T{+ratamento+}
+{+O tratamento do câncer de pulmão depende de vários fatores, como tipo de tumor, tamanho, localização, sua extensão e, principalmente, o estado geral do paciente.+}
+
+{+T+}abela [-7-]{+8+} - Escala de Karnofsky
+Pontuações	Definições
+100	Paciente sem limitações
+90	Desempenho de atividades com limitação mínima
+80	Sinais e sintomas maiores; atividades com esforço
+70	C[-u-]{+apac+}ida{+de+} de [-s-]{+autocu+}i[- mesm-]{+dad+}o; incapacidade para o trabalho
+60	Assistência ocasional necessária; capacidade para o trabalho
+50	Necessidade de assistência e cuidados médicos frequentes
+40	Necessidade de cuidados médicos especiais
+@@ -203,39 +396,58 @@ Pontua
+20	Muito doente, com necessidade de suporte
+10	Morte iminente
+0	Morte
+
+Muitos tratamentos diferentes e combinações podem ser usados para o controle do câncer de pulmão e/ou a melhora da qualidade de vida, com a redução dos sintomas.
+ 
+Tabela [-8-]{+9+} - Princípios do tratamento
+Cirurgia	Permite a remoção do tumor e é a melhor opção para os casos iniciais. O tipo de cirur[---]gia de{+-+}pende da localização do tumor no pulmão. Alguns são inoperáveis, devido ao tamanho ou à localização, e alguns pacientes podem não ter condições físicas de supor[---]tar uma cirurgia de grande porte. 
+Ressecção segmentar (ou segmentec-tomia)	Retira-se pequena parte do pulmão. 
+Lobectomia	Retira-se [-um-]{+1+} lobo inteiro do pulmão. 
+Pneumectomia	Retira-se [-um-]{+1+} pulmão inteiro. 
+Quimioterapia	Mesmo que o tumor tenha sido ressecado, algumas células tumorais podem ter per[---]manecido em áreas próximas ou mesmo já terem caído na circulação sanguínea (qui[---]mioterapia adjuvan{+-+}te). A quimioterapia também pode ser usada para reduzir o tama[---]nho do tumor e permitir que seja feita a cirurgia (quimioterapia neoadjuvante). Quando é feita para controlar o tamanho do tumor ou para aliviar os sintomas, é chamada de quimioterapia paliativa. Novas medicações parecem estar associadas à melhora do prognóstico. Dois estudos compararam esquemas com paclitaxel e carboplatina com ou sem o bevacizumabe, um anticorpo inibidor do fator humano vascular endotelial de crescimento, com aumento de sobrevida, em média, de 2 a 3 meses. Tal tratamento ainda não é recomendado pela literatura. 
+Radioterapia	Envolve o uso de raios de alta energia para matar as células tumorais. É direcionada para uma área limitada e afeta as células tumorais somente dessa área. Pode ser realizada antes da cirurgia, para tentar reduzir o tamanho do tumor, ou depois, para destruir alguma célula tumo{+-+}ral que, eventualmente, tenha permanecido na área. Mui[---]tas vezes, é combinada com a quimio{+-+}terapia sem cirurgia como tratamento principal. Pode ser usada para diminuir sintomas como dispneia, atelectasias, metástases ósseas etc.
+
+a) Tumor não pequenas células
+É improvável haver cura sem cirurgia. Por isso, toda a avaliação clínica e com exames complementares visa selecionar os indivíduos que terão benefícios com a cirurgia. Em geral, tumores em estadiamento até IIIA podem ser tratados cirurgicamen-te
+
+Tabela [-9-]{+10+} - Tratamento de acordo com os estadios{+ +}
+Estadio I ou II	A cirurgia deve ser indicada (caso as condições clínicas permitam), e a lobectomia é o procedimento recomendado; os pacientes com estadio IA e IB não apresentam benefício da quimioterapia adjuvan[---]te, sendo suficiente o tratamento cirúrgico. Para os demais, a quimioterapia adjuvante deve ser ofer[---]tada após a ressecção; se houver o comprometimen{+-+}to das margens da lesão, recomenda-se radiote[---]rapia. 
+Estadio IIIA	A cirurgia deve ser considerada àqueles que tenham, por exemplo, o estadiamento II e em quem se identificou envolvimento linfonodal N2 no intraoperatório. Entretanto, as terapias adjuvantes são necessárias (quimioterapia e radioterapia). 
+Estadio IIIB	São indicadas quimioterapia e radioterapia, pois melhoram a sobrevida. Alguns pacientes seleciona[---]dos poderão beneficiar-se adicionalmente de cirurgia. Devem ter excelente res{+-+}posta inicial e um tumor passível de ressecção após terapia inicial. 
+Estadio IV	O tratamento é paliativo; é possível haver benefício de cirurgia quando a metástase repre{+-+}senta um nódulo-satélite em outro lobo, no mesmo pulmão. 
+Doença avançada 
+(IIIB e IV)	O tratamento é paliativo na maioria das vezes e depende muito das condições clínicas do paciente. Caso ele não esteja em mau estado geral (Karnofsky >60), um esquema com vários quimioterápicos que inclua cisplatina está indicado e melhora a sobrevida (ganho de 6 semanas a 1 ano). 
+
+b) Tumor de células pequenas
+O tratamento padronizado é a quimiorradioterapia; a cirurgia pode ser realizada em casos de estadiamento precoce (T1-2 N0). A resposta à quimioterapia é excelente: de 80 a 100% entre pacientes com doença limitada (com 50 a 70% mostrando resposta completa) e de 60 a 80% com doença extensa (de 15 a 40% de resposta completa). Entretanto, as remissões são comuns (em média de 6 a 8 meses), e a sobrevida, após recidiva, é de 3 a 4 meses.
+A sobrevida global em 2 anos é de 20% em doença limitada e de 5% em doença extensa. A radioterapia (associada à qui-mioterapia) só tem indicação a pacientes com doença limitada.
+A radiação profilática do sistema nervoso central é controversa e não melhora a sobrevida. Alguns autores a indicam para indivíduos com doença limitada e resposta completa à quimioterapia.
+
+{+Pergunta+}
+{+2013 - UNICAMP+}
+{+9. Um homem de 64 anos, tabagista (60 anos/maço), recebeu o diagnóstico de neoplasia pulmonar, cujo tratamento pre-conizado é a pneumectomia esquerda. Exames pré-operatórios: Hb = 9g/dL e capacidade vital forçada = 50% do volume predito. A cirurgia está contraindicada se:+}
+{+a) o tumor não obstrui o brônquio principal+}
+{+b) o tipo histológico é o adenocarcinoma mucinoso+}
+{+c) o tumor invade o ramo descendente da artéria pulmonar esquerda+}
+{+d) a quimioterapia está contraindicada+}
+{+Resposta no final do capítulo+}
+
+I - Prognóstico
+Conforme ressaltado, a sobrevida global do câncer de pulmão é de apenas 15% em 5 anos, o que se deve ao fato de a maioria manifestar doença avançada ao diagnóstico. O ponto mais relevante na definição do prognóstico é o estágio da doen-ça ao ser realizado o diagnóstico. Infelizmente, nenhuma medida de rastreamento se mostrou efetiva. Entretanto, não fumar ou cessar o tabagismo é o meio mais útil para a prevenção.
+
+2. Metástase pulmonar
+
+Qualquer tumor maligno pode metastizar para o pulmão, tanto por invasão direta como por extensão linfática ou vascular (Figura [-6-]{+7+}). Raramente a metástase pulmonar é oriunda de embolização arterial (hipernefroma, coriocarcinoma, hepatocarci-noma, por exemplo). Em particular, denomina-se linfangite carcinomatosa quando há envolvimento difuso da rede linfática pulmonar. Nesse caso, tanto pode ocorrer com tumores primários de pulmão quanto com tumores metastáticos (câncer de mama, por exemplo).
+Em estudos de autópsia, cerca de 20 a 55% dos que morreram de câncer apresentaram achados de metástases parenqui-matosas de pulmão.
+Na maioria, é feito o diagnóstico do câncer de base, e, posteriormente, surgem metástases pulmonares. Todavia, a apre-sentação inicial pode ser de sinais e sintomas pulmonares (tosse, dispneia, hemoptise, cianose etc.), com radiografia mostran-do múltiplos nódulos pulmonares periféricos. Nesses casos, o diagnóstico diferencial inclui malformações arteriovenosas pulmonares, estafilococcemia, infecções granulomatosas, sarcoidose, vasculite reumatoide e granulomatose de Wegener.
+
+ {+ +}
+Figura [-6-]{+7+} - Opacidades nodulares de tamanhos variados, com predomínio nos lobos inferiores: achado clássico de lesões metastáticas
+
+A - Abordagem 
+O diagnóstico do câncer primário pode já ter sido realizado e ser sugerido pelo quadro clínico (exemplos: aumento dos testículos, nódulo na mama etc.), o qual deve guiar a investigação, ou pode não ser claramente evidente. Nesse último grupo, devem-se buscar tumores passíveis de tratamento (tireoide, próstata, mama, testículo etc.).
+O achado radiológico mais típico é a presença de múltiplos nódulos, periféricos, em campos pulmonares inferiores e me-nores de 5cm. Cavitação sugere câncer primário de pulmão (células escamosas), enquanto calcificações sugerem osteossar-coma.
+
+B - Tratamento
+Em geral, deve-se tratar a doença de base e, quando isso não for possível, fornecer cuidados paliativos. Em alguns casos, a ressecção das metástases é factível:
+Possibilidade de ressecção tumoral completa, pois se trata de um procedimento curativo;
+@@ -248,14 +460,22 @@ C
+Necessidade de pneumectomia;
+Envolvimento pleural;
+Baixa reserva cardíaca e pulmonar.
+
+3. Nódulo pulmonar solitário
+
+É definido como lesão <3cm de diâmetro à radiografia de tórax, com pulmão normal circundando e na ausência de infil-trados, atelectasia ou linfonodomegalia. Na maioria das vezes, ocorre em assintomáticos, representando um achado radiológi-co. A grande importância desse achado é a possibilidade de malignidade como a causa do nódulo e o seu bom prognóstico com o tratamento cirúrgico. 
+
+{+Dica+}
+{+O nódulo pulmonar solitário tem lesão <3cm de diâmetro, com pulmão normal circundando-o.+}
+
+{+ +} 
+Figura [-7-]{+8+} - Nódulo pulmonar periférico em tomografia de tórax, com calcificação “em pipoca”, característico de hamartoma
+
+A - Diagnóstico diferencial
+Em princípio, o manejo ideal deve ser identificar e ressecar os tumores malignos e evitar procedimentos invasivos em do-ença benigna. O termo “benignidade”, associado aos nódulos pulmonares, não se reveste de ausência de necessidade de tratamento, pois apenas denota ausência de neoplasia maligna, podendo representar doenças graves e fatais, como a granu-lomatose de Wegener. 
+O 1º passo é buscar elementos que aumentem (ou diminuam), de forma significativa, a probabilidade de câncer. Os prin-cipais são:
+
+Tabela 1[-0-]{+1+} - Etiologias ditas benignas de nódulo pulmonar
+- Granuloma: tuberculose, histoplasmose;
+- Embolia séptica;
+- Neoplasia benigna: hamartoma, lipoma;
+@@ -267,83 +487,155 @@ Tabela 10 - Etiologias ditas benignas de n
+- Linfonodo intraparenquimatoso;
+- Infarto pulmonar;
+- Atelectasia redonda.
+
+a) Sinais e sintomas
+Praticamente não ajudam, pois a grande maioria é assintomática.
+
+b) Idade
+Quando <30 anos, em geral, indica benignidade. O risco de câncer aumenta após os 30 anos, e, quanto maior a idade, maior a chance de tumor maligno.
+
+c) Tabagismo
+Aumenta a chance de câncer de forma proporcional ao tamanho da exposição (número de cigarros fumados por dia ver-sus tempo).
+
+d) História prévia de câncer
+Aumenta a chance de o nódulo ser maligno.
+
+e) [-Radiografia de tórax-]
+[-É muito útil, especialmente se há radiografias prévias.-]
+[-f) -]Tamanho
+É mais bem avaliado por tomografia. Um estudo recente mostrou relação direta entre o tamanho do nódulo e a chance de câncer: nódulos menores do que 5mm têm 1% de chance de serem malignos; os maiores que 2cm, 80%.
+
+[-g-]{+f+}) Velocidade de duplicação
+Lesões que dupliquem de tamanho entre 30 dias e 1,5 ano sugerem etiologia benigna; caso contrário, a probabilidade de malignidade é maior. 
+
+[-h-]{+g+}) Margens
+Quando lisas e muito bem definidas, sugerem nódulo benigno. Margens lobuladas ou [-não-]{+espiculadas+} [-t-]{+s+}ão [-b-]{+favoráv+}e[-m-]{+is+} [-def-]{+a mal+}i{+g+}ni{+-+}da[-s-]{+de.+}
+
+
+ {+ +}
+{+F+}i[-n-]{+gura 9 - Nó+}d{+ulo esp+}ic{+ul+}a{+do no pul+}m{+ão+} [-câ-]{+esquerdo, sugeri+}n[---]{+do malignidade, +}c{+onfirmada +}e{+m abo+}r[-.-]{+dagem cirúrg+}i{+ca+}
+
+{+h+}) Cálcio
+Lesões benignas apresentam calcificação densa, central ou laminada. Nódulos malignos tendem a ter calcificação esparsa, tipicamente excêntrica ou pontilhada (Figuras 8 e 9).
+
+[-j-]{+i+}) Número de nódulos
+A presença de 2 ou mais nódulos em exame de imagem associa-se à presença de malignidade em mais de 70% dos casos.
+
+[-k)-]{+B+} [-Ca-]{+- A+}v{+al+}i[-t-]ação[-E-]{+ co+}m{+plementar+}
+{+A+} {+r+}a[-ss-]{+di+}o[-c-]{+graf+}ia[-çã-]{+ de tórax é +}o [-à-]{+método que rotineiramente sugere+} [-p-]a{+ p+}re{+sença do nó+}d{+ulo. No entanto, exc+}e{+to+} {+situaçõ+}es{+ de +}pe{+-quena+}s{+ le+}s{+ões regul+}a{+res+} [-(>1,6c-]{+e densa+}m[-),-]{+ente+} {+calcificada+}s[-ão-], {+persistentes e+}m{+ ex+}a{+mes anter+}i{+ore+}s{+, a+} [-p-]r{+adi+}o[-v-]{+gr+}a[-vel-]{+fia não é um +}m{+étodo sufi-ci+}ente[-,-] [-m-]{+p+}a{+ra aná+}li[-g-]{+se dos +}n[-a-]{+ódulo+}s.[-l)-] [-T-]{+A t+}omografia {+é o método +}de [-tó-]{+escolha. +}
+
+{+a) Tomog+}ra[-x-]{+fia+} de [-al-]t{+ór+}a{+x+} [-resolução-]
+Indicada à maioria das pessoas com nódulo pulmonar solitário. Todos os elementos que sugerem malignidade (ou benigni-dade) são muito mais bem avaliados pela tomografia do que pela radiografia simples de tórax. Além disso, a tomografia pode revelar:
+Múltiplas lesões;
+Detalhes do mediastino e vias aéreas centrais;
+Linfonodomegalias;
+Análise do nódulo após contraste: lesões malignas são mais vascularizadas. Por isso, nódulos malignos são mais densos 
+após contraste intravenoso.
+
+{+b) Tomografia com contraste para análise de realce (protocolo de Swensen)+}
+{+A ausência de realce com contraste sugere tratar-se de lesão benigna, enquanto a captação caracteriza o nódulo inde-ter+}m{+inado, necessitando de avaliação adicional.+}
+
+{+c+}) Tomografia com emissão de pósitrons (PET-TC)
+Infelizmente, é limitada pelo alto custo e de pouquíssima disponibilidade no Brasil. Entretanto, em indivíduos com tomo-grafia de tórax de alta resolução inconclusiva, a PET-TC está indicada e mostra uma sensibilidade de 85 a 97% e especificidade de 70 a 85% para o diagnóstico de câncer. 
+
+ 
+Figura [-8-]{+10+} - Padrões de calcificação mais associados a lesões benignas{+ +}
+
+ 
+Figura [-9-]{+11+} - Padrões de calcificação mais associados a lesões malignas{+ +}
+
+Tabela 1[-1-]{+2+} - Probabilidade de câncer
+Variáveis	Probabilidade de câncer
+	Baixa	Intermediária	Alta
+Diâmetro	<1,5cm	1,5 a 2,2cm	>2,2cm
+Idade	<45	45 a 60	>60
+Tabagismo atual	[-Nun-]{+Sem históri+}c[-a-]{+o de+} fumo[-u-]	=20 anos/maço	>20 anos/maço
+Tabagismo prévio	--	Par[-ou-]{+ada+} há mais de 10 anos 	Par[-ou-]{+ada+} há menos de 10 anos
+Característica do nódulo	Bordas lisas e bem defi[---]nidas	Bordas não tão bem defi[---]nidas	Calcificação excêntrica ou pontilha[---]da
+
+Existem algumas fórmulas propostas para estimar a probabilidade de tratar-se de uma lesão maligna. Algumas podem ser vislumbradas nos sites www.itorax.com.br e www.chestx-ray.com/spn/spnprob.html. De acordo com essa análise, os pacientes são classificados como risco baixo (5%), intermediário (5 a 60%) ou alto (>60%) de neoplasia maligna.
+
+[-B-]{+C+} - Manejo de lesão nodular
+O exame mais relevante na avaliação de um paciente com nódulo pulmonar é a avaliação radiológica (radiografia ou to-mografia de tórax prévia), principalmente dos últimos 2 anos. A presença de lesão com as mesmas características há 2 anos é altamente sugestiva de benignidade. Na prática, podem-se delinear 3 grandes grupos, como evidencia a Tabela 1{+3.+}
+
+{+Dica+}
+{+Convém lembrar que lesão com as mesmas características há +}2{+ anos é altamente sugestiva de benignidade+}.
+
+Tabela 1[-2-]{+3+} - Grupos de risco 
+Grupo 1: risco baixo
+Risco de câncer muito baixo (<8%): menos de 30 anos[- -], nódulo estável durante 2 anos, característica e calcificação não indicativos de câncer. A ideia é monitorizar a imagem por um período de 2 anos (geralmente em 3, 6, 12 e 24 meses), com tomografia de tórax.
+Grupo 2: risco intermediário
+Nesse grupo, o ideal é utilizar outros métodos de imagem complementares à tomografia de tórax, como PET-TC, tomografia com estudo de realce por contraste e biópsia transtorácica.
+Grupo 3: risco alto
+Nesse grupo, dada a elevada probabilidade de tratar-se de neoplasia maligna, o ideal é proceder à biópsia cirúrgica, aberta ou por videoto{+-+}racoscopia.
+
+Entretanto, grande parte estará em um grupo não claramente benigno e não obviamente maligno. Nesse caso, existem al-gumas opções diagnósticas e terapêuticas, com vantagens e desvantagens.
+
+a) Citologia oncótica do escarro
+Com baixa sensibilidade, embora com alta especificidade, raramente é útil. Técnicas recentes com anticorpos monoclonais estão em estudo e ainda não estão disponíveis de rotina.
+
+b) Broncoscopia com biópsia
+Raramente é útil e depende muito do tamanho do nódulo e da sua localização (quanto mais distal, pior a acurácia do exa-me). Por isso, estudos com broncoscopia mostram resultados tão variados (10 a 80% de detecção de câncer).
+
+c) Biópsia aspirativa transtorácica 
+Infelizmente, os resultados são dependentes do médico que faz o procedimento (operador-dependente), da localização e do tamanho do nódulo. O rendimento diagnóstico pode ser de 50 a 97%, com taxas de complicações que podem chegar a 30%. Em até 25 a 30%, o resultado é falso negativo.
+
+d) PET-TC
+Na PET-TC, o paciente recebe um marcador nuclear, flúor, marcado com glicose, o FDG (fluoro-2-deoxiglicose); como as células tumorais apresentam metabolismo acelerado, a captação de glicose é exuberante, e o tumor torna-se marcado pelo flúor, detectado pelo exame. No entanto, outras lesões podem ter o mesmo padrão, como doenças inflamatórias e infeccio-sas. Desta forma, a PET-TC tem elevada sensibilidade (acima de 90%), mas especificidade não tão boa (em torno de 72%), e é mais utilizada para tornar menos provável malignidade.
+
+e) Tomografia com protocolo de Swensen (realce por contraste)
+A tomografia com protocolo de Swensen utiliza como princípio o fato de as lesões malignas serem bem mais vascularizadas quando comparadas às benignas. De fato, o aumento da densidade do nódulo após a infusão de contraste tem relação com o risco de malignidade. No entanto, tal como discutido com a PET-TC, o exame também apresenta excelente sensibilidade (98%), mas especificidade limitada (73%); assim, é mais usado para excluir neoplasia maligna.
+
+f) Videotoracoscopia 
+Dentre os citados, é o método mais agressivo para o diagnóstico, bem mais invasivo do que a broncoscopia e a biópsia as-pirativa transtorácica; entretanto, quando comparado com a toracotomia, apresenta menor tempo de estada hospitalar, re-cuperação pós-operatória mais breve, com menor incidência de dor e retorno mais precoce.
+Por isso, a maioria dos grandes centros tem recomendado a videotoracoscopia como procedimento de escolha para nó-dulos com probabilidade intermediária de câncer. Durante esse método, uma análise preliminar do material (biópsia com congelamento) poderá determinar se há a necessidade de lobectomia com análise ganglionar (se a análise preliminar intrao-peratória mostrar malignidade) ou não (tumor benigno).
+
+{+Tema de prova+}
+{+Nódulo pulmonar solitário, seu diagnóstico e abordagem são temas recorrentes nas questões, devido à sua alta prevalência em serviços de saúde.+}
+
+{+Pergunta+}
+{+2011 - PUC-PR+}
+{+10. Na abordagem do nódulo pulmonar solitário, pode-se afirmar que:+}
+{+a) a positividade da punção pulmonar transtorácica com agulha fina é desprezível+}
+{+b) na ressecção/biópsia por videotoracoscopia, quando da localização do nódulo, pode-se optar por colocação pré-operatória (de ganchos metálicos), injeção percutânea pré-operatória de bário com radioscopia transoperatória, tomografia computadorizada transoperatória e ultrassonografia transoperatória+}
+{+c) o PET-TC é conclusivo sempre+}
+{+d) a vontade, a ansiedade e a opinião do paciente nunca são levadas em consideração para determinar a conduta ante o nódulo pulmonar solitário+}
+{+e) para lesões periféricas menores que 2cm, a fibrobroncoscopia tem positividade de 50%+}
+{+Resposta no final do capítulo+}
+
+{+Pergunta+}
+{+2013 - AMP+}
+{+11. Em todo o mundo, o câncer de pulmão é responsável por cerca de 13% de todos os tipos de câncer. É dividido em 2 grupos histológicos principais: câncer pulmonar de não pequenas células e câncer pulmonar de pequenas células. Considere as alternativas a seguir e assinale a resposta correta:+}
+{+a) os tumores periféricos são mais frequentemente associados a sintomas de dispneia e sibilos+}
+{+b) o sintoma mais comum é a hemoptise secundária ao crescimento endobrônquico+}
+{+c) as síndromes paraneoplásicas de maior significado clínico estão ligadas à produção de hormônios como o fator estimula-dor da tireoide e a calcitonina+}
+{+d) na definição do estágio do câncer, a radiografia de tórax é útil na detecção de linfadenopatia hilar ou mediastinal+}
+{+e) nódulo pulmonar solitário é uma lesão assintomática com menos de 3cm de diâmetro, rodeado por parênquima pulmonar normal+}
+{+Resposta no final do capítulo+}
+
+4. Resumo
+
+Quadro-resumo
+- A neoplasia de pulmão é a mais frequente em todo o mundo; no Brasil, é aquela com maior mortalidade no sexo masculino e a 2ª no feminino;
+- O principal fator de risco para neoplasia de pulmão é o tabagismo, independente do tipo histológico (relação maior com o carci[---]noma de células pequenas e menor com o adenocarcinoma);
+- Os principais tipos histológicos, em ordem de prevalência, são adenocarcinoma, carcinoma epidermoide, carcinoma de pequenas célu{+-+}las e carcinoma de grandes células. O adenocarcinoma e o carcinoma de grandes células são considerados tumores periféri[---]cos; o epi{+-+}dermoide e de células pequenas, centrais;
+- Queixas como dispneia, tosse e perda ponderal sugerem, geralmente, que a neoplasia está em fase um tanto avançada; síndro[---]mes por efeito direto do tumor são comuns, como síndrome de Horner (miose, enoftalmia, ptose palpebral, anidrose ipsilateral), síndrome de Pancoast (parestesia em membro superior, com dor e fraqueza muscular associada) e síndrome de compressão da veia cava superior;
+- Síndromes paraneoplásicas são comuns em neoplasia de pulmão, geralmente mais associadas ao carcinoma de pequenas célu[---]las; fora desse padrão estão a osteoartropatia hipertrófica (que tem o baqueteamento digital como manifestação), mais comum no adenocar{+-+}cinoma; e a hipercalcemia, mais comum no epidermoide; 
+- O estadiamento é feito com base em características do tumor (T), linfonodos (N) e metástase (M); o envolvimento pleural e de linfo{+-+}nodos deve ser confirmado por análise histológica;
+- O único tratamento curativo para as neoplasias pulmonares é a cirurgia; a possibilidade de tratamento depende do estágio e das condi{+-+}ções clínicas do paciente: tumores em estadios IIIB e IV são ditos inoperáveis, com tratamento paliativo sugerido;
+- A presença de 2 ou mais nódulos no parênquima pulmonar denota neoplasia em mais de 70% dos casos;
+- Os nódulos pulmonares solitários são lesões com menos de 3cm de diâmetro à radiografia de tórax, com pulmão normal circun[---]dando e na ausência de infiltrados, atelectasia ou linfonodomegalia;
+- A abordagem do paciente com nódulo pulmonar solitário depende da estimativa de risco de neoplasia;
+- O exame mais importante na avaliação do nódulo pulmonar é o de imagem prévio, realizado nos últimos 2 a 3 anos. Os nódulos malig{+-+}nos tendem a duplicar de tamanho entre 30 dias e 1,5 ano;
+-[- -]{+	+}As principais características de malignidade de nódulo são hábito de fumar, tamanho superior a 2cm, bordas espiculadas e calci[---]ficação excêntrica.
+
+{+Respostas+}
+{+1. E+}
+{+2. A+}
+{+3. B+}
+{+4. C+}
+{+5. D+}
+{+6. A+}
+{+7. B+}
+{+8. C+}
+{+9. A+}
+{+10. B+}
+{+11. E+}
