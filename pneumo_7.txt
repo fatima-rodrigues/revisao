@@ -1,20 +1,30 @@
 Derrame pleural
-Rodrigo Antônio Brandão Neto / Fabrício Martins Valois
+Rodrigo Antônio Brandão Neto
+Fabrício Martins Valois
+
+Resumo
+Derrame pleural é o acúmulo anormal de líquido na cavidade pleural, geralmente mantida apenas com 0,1 a 0,2mL/kg de líquido. O quadro clínico é de dispneia aos esforços e tosse (seca ou produtiva), bem como trepopneia (piora da dispneia com decúbito lateral) e dor pleurítica (piora com a inspiração profunda). Ao exame físico, há redução da expansibilidade, macicez à percussão torácica (mais precoce), frêmito toracovocal diminuído ou abolido e redução do murmúrio vesicular. Os derrames pleurais diferenciam-se, principalmente, pelos critérios de Light para exsudato (relação proteína do líquido pleu-ral–proteínas séricas >0,5; relação desidrogenase láctica (DHL) do líquido pleural–DHL sérica >0,6; DHL do líquido >2/3 do valor normal do laboratório), para definição de transudato (insuficiência cardíaca, cirrose hepática, síndrome nefrótica, em-bolia pulmonar, hipoalbuminemia etc.) e exsudato (pneumonia, tuberculose, neoplasias, colagenoses, pancreatite, hemotó-rax). Exemplificando, na tuberculose, o líquido pleural possui características exsudativas, predomínio linfocitário, <5% de células mesoteliais e <10% células eosinófilas, cor amarelo-citrino, derrame unilateral e ADA >40. O tratamento é similar ao da doença pulmonar (2RHZE/4RH). Já o líquido pleural neoplásico tem característica exsudativa, amarelo-citrino ou hemáti-co, predomínio linfocitário e pH e glicose reduzidos (20% dos casos), podendo ainda apresentar elevação da amilase em 10% dos casos. Tratamentos são específicos a cada causa de derrame pleural.
+
 1. Etiologias e definições
+
 O derrame pleural é definido como o acúmulo anormal de líquido no espaço pleural. Normalmente, existe de 0,1 a 0,2mL/kg de líquido entre as pleuras visceral e parietal, com produção e reabsorção contínuas, de forma que qualquer doen-ça que modifique essa dinâmica pode promover a formação de derrame pleural.
 Inúmeras doenças, sistêmicas ou restritas ao aparelho respiratório, podem ter esse derrame como manifestação clínica. 
-Tabela 1 - Mecanismos 
+
+Tabela 1 - Mecanismos do derrame pleural
 - Aumento da pressão hidrostática capilar pulmonar (insuficiência cardíaca);
 - Redução da pressão coloidosmótica do plasma (hipoalbuminemia grave, síndrome nefrótica);
 - Aumento da permeabilidade vascular pleural (processos inflamatórios);
 - Negativação excessiva da pressão intrapleural (atelectasias grandes);
 - Passagem de líquido da cavidade peritoneal (hidrotórax hepático);
 - Acúmulo de sangue ou quilo no espaço pleural (trauma).
+
 Não se dispõe de estatísticas nacionais, mas dados dos Estados Unidos creditam à insuficiência cardíaca a maior incidência de derrame pleural (Tabela 3). Entretanto, é importante lembrar que países de 3º mundo, especialmente o Brasil, têm uma grande incidência de tuberculose pleural, o que não é valorizado pelos dados norte-americanos, não sendo possível adaptar tais números à nossa realidade.
 Em uma visão simplista, a principal diferenciação entre os tipos de derrame pleural é feita avaliando o grau de inflamação do fluido, classificando-os como transudatos (pouca inflamação) ou exsudatos. A Tabela 4 lista as causas mais relevantes de transudatos e exsudatos.
- 
+
+  
 Figura 1 - Derrame pleural moderado à esquerda: observar o aspecto “em parábola” da opacidade no pulmão esquerdo, característico da doença
-Tabela 2 - Tipos 
+
+Tabela 2 - Tipos de derrame pleural
 Tipos	Características
 Derrame parapneumônico 	Associado a bronquiectasia, pneumonia bacteriana ou abscesso pulmonar
 Empiema 	Pus na cavidade pleural
@@ -22,7 +32,8 @@ Hemotórax 	Acúmulo de sangue no espaço pleural, geralmente de origem traumática
 Quilotórax 	Acúmulo de quilo
 Urinotórax	Acúmulo de urina, geralmente por nefropatia obstrutiva
 Hidrotórax hepático 	Acúmulo de líquido proveniente da cavidade peritoneal
-Tabela 3 - Principais causas 
+
+Tabela 3 - Principais causas (dados americanos)
 Causas 	Casos/ano
 Insuficiência cardíaca congestiva	500.000
 Pneumonia bacteriana	300.000
@@ -31,6 +42,7 @@ Embolia pulmonar	150.000
 Doença viral	100.000
 Cirurgia cardíaca	60.000
 Cirrose com ascite	50.000
+
 Tabela 4 - Classificação das principais causas de derrame pleural 
 Transudatos
 - Insuficiência cardíaca;
@@ -59,39 +71,100 @@ Exsudatos
 - Sarcoidose;
 - Síndrome de Dressler;
 - Síndrome das unhas amarelas.
+
+Tema de prova
+As doenças relacionadas aos derrames transudatos e exsudatos são bastante recorrentes nas provas de Residência Médica.
+
+Pergunta
+2011 - CERMAM
+1. São causas de derrame pleural exsudativo, exceto:
+a) empiema
+b) mesotelioma
+c) artrite reumatoide
+d) quilotórax
+e) cirrose hepática
+Resposta no final do capítulo
+
 2. Quadro clínico e exames radiológicos
+
 O quadro clínico dependerá da doença de base e do volume do derrame pleural. Assim, cada morbidade que se associa ao derrame pleural apresenta tanto dados clínicos inerentes ao seu processo patológico (edema periférico e dispneia paro-xística noturna na insuficiência cardíaca, por exemplo) quanto relativos à presença de líquido no espaço pleural, gerando compressão do parênquima pulmonar adjacente.
 A presença de derrame pleural gera sintomas como dispneia aos esforços e tosse (seca ou produtiva). Em casos de der-rames volumosos, pode ser referida pelo paciente a piora da dispneia conforme o decúbito lateral que adote, o que caracte-riza a trepopneia. Dor torácica pode estar presente por inflamação pleural (incomum nos transudatos) e habitualmente é bem localizada, piorando com a inspiração profunda – dor tipo pleurítica. 
 Achados ao exame físico são redução da expansibilidade, macicez à percussão torácica, frêmito toracovocal diminuído ou abolido e redução do murmúrio vesicular. Destes, o achado mais precoce é a macicez à percussão. 
 A principal confusão diagnóstica ao exame físico deve-se à presença de atelectasia. Existem 2 sinais clínicos que, quando presentes, ajudam a diferenciar derrame de atelectasia pelo exame físico: sinal de Signorelli (macicez à percussão da coluna torácica, característica de derrames pleurais) e sinal de Lemos Torres (abaulamento do espaço intercostal à expiração). 
 Os exames de imagem são fundamentais para o diagnóstico. O exame mais simples e prático é a radiografia de tórax. Po-rém, para identificar a presença de líquido, é necessário acúmulo não desprezível: mínimo de 250 a 500mL de líquido na radiografia em posteroanterior, e de 75 a 100mL no perfil. 
-O aspecto clássico do derrame pleural é de opacidade homogênea nos segmentos inferiores, com conformação “em pa-rábola”, ou curva de Damoiseau, o que caracteriza líquido livre na cavidade pleural (Figura 3). Em situações duvidosas, pode-se solicitar um raio x em decúbito lateral ipsilateral ao derrame, com raios horizontais, em que se espera que o líquido mude de conformação com a mudança de decúbito (Figura 2).
- 
+
+Quadro clínico
+O quadro clínico envolve sintomas como dispneia aos esforços e tosse (seca ou produtiva), bem como trepopneia (piora da dispneia com decúbito lateral) e dor pleurítica (piora com a inspiração profunda). Ao exame físico, há redução da expansibi-lidade, macicez à percussão torácica (mais precoce), frêmito toracovocal diminuído ou abolido e redução do murmúrio vesicular.
+
+O aspecto clássico do derrame pleural é de opacidade homogênea nos segmentos inferiores, com conformação “em pa-rábola”, ou curva de Damoiseau, o que caracteriza líquido livre na cavidade pleural (Figura 3). Em situações duvidosas, pode-se solicitar um raio x em decúbito lateral ipsilateral ao derrame, com raios horizontais (incidência de Hjelm-Laurell), em que se espera que o líquido mude de conformação com a mudança de decúbito (Figura 2).
+
+  
 Figura 2 - Derrame subpulmonar à direita: aparente elevação da hemicúpula, mas com conformação atípica, com a maior angulação situada mais lateralmente
- 
+
+  
 Figura 3 - Radiografia de tórax em decúbito lateral esquerdo com raios horizontais, mostrando líquido livre na cavidade pleural
+
 Há uma situação especial de derrame pleural livre: o derrame subpulmonar, que se caracteriza por acúmulo de líquido abaixo do pulmão, gerando um aspecto semelhante à elevação da hemicúpula, sem velamento do seio costofrênico ou con-formação “em parábola”. 
 A principal característica que ajuda a suspeitar de derrame pleural é a conformação da curvatura da cúpula diafragmática. Em situações normais, a curvatura da cúpula é mais acentuada medialmente; no derrame subpulmonar, ocorre mais lateral-mente (Figura 2). Para confirmar o diagnóstico, basta solicitar a radiografia em decúbito lateral com raios horizontais, em que será observada a mudança de conformação do líquido.
 Eventualmente, o líquido pode não estar livre na cavidade pleural, recebendo a denominação de derrame pleural locula-do. A confirmação diagnóstica, usualmente, depende de outros métodos de imagem, já que o exame em decúbito lateral não modifica a conformação desse tipo de derrame (Figura 4).
- 
+
+  
 Figura 4 - Derrame pleural loculado à direita
+
 Exames mais sofisticados, como ultrassonografia ou tomografia de tórax, podem ser úteis em casos duvidosos ou para a avaliação adicional de massas, pneumopatias, mediastino ou loculação do derrame.
+
 3. Indicações de toracocentese
+
 A toracocentese pode ser diagnóstica ou de alívio.
+
  
 Figura 5 - Indicações de toracocentese
+
 Não há necessidade de radiografia de tórax após a toracocentese, exceto em caso de sintomas como tosse significativa, dispneia ou dor pleurítica, ou nos casos em que for realizada biópsia de pleura.
 Nos casos de derrame pouco volumoso, em que a tentativa de toracocentese não seja bem-sucedida, o procedimento po-de ser realizado com o auxílio de ultrassonografia, que identifica o local exato do derrame, seu volume e profundidade.
+
+Vídeo
+Aspiração do líquido pleural
+ 
+
 4. Análise do líquido pleural
+
 O objetivo principal da análise do líquido pleural é a diferenciação entre exsudato e transudato. Há mais de 30 anos, Ri-chard Light validou critérios aceitos até hoje como extremamente acurados para o diagnóstico diferencial, utilizando, basica-mente, dosagem de proteínas e de desidrogenase láctica (DHL) no líquido pleural e no sangue do paciente. Apesar das tenta-tivas de utilização de outro marcador diagnóstico, como colesterol, tais parâmetros continuam a ser aqueles com melhores sensibilidade, especificidade e custo.
-Tabela 5 - Critérios de Light para exsudato (presença de qualquer 1 dos 3 a seguir)
+
+Tabela 5 - Critérios de Light para exsudato (presença de qualquer 1 dos 3 a seguir) 
 - Relação proteína do líquido pleural–proteínas séricas >0,5;
 - Relação DHL do líquido pleural–DHL sérica >0,6;
 - DHL do líquido superior a 2/3 do valor normal do laboratório.
+
+Tema de prova
+Os critérios de Light devem ser memorizados, pois sempre estão presentes nas provas, e auxiliam na resolução de inúmeras questões.
+
+Pergunta
+2015 - HCV
+2. A análise bioquímica do líquido colhido por toracocentese de um paciente demonstrou proteínas de 2g/100dL, relação proteína pleural–plasmática = 0,2, DHL = 100UI e relação DHL pleural–plasmática = 0,3. As seguintes patologias podem ser consideradas nesse diagnóstico: 
+a) GNDA, insuficiência cardíaca, cirrose hepática
+b) desnutrição grave, tuberculose, embolia pulmonar
+c) pericardite, pancreatite, tuberculose
+d) pneumonia, desnutrição grave, tuberculose
+e) sarcoidose, embolia pulmonar, desnutrição grave
+Resposta no final do capítulo
+
+Pergunta
+2014 - UFES	
+3. Thiago, 30 anos, há 3 dias começou a apresentar tosse seca e dor “em pontada” no hemitórax esquerdo. Hoje amanhe-ceu com febre, por isso foi ao pronto-socorro. Foi submetido a radiografia de tórax e toracocentese. O resultado da análise do líquido pleural mostrou aspecto amarelo, citrino, citometria com 3.000 células/mm3 (70% de mononucleares e 30% de polimorfonucleares), proteína = 4,8g/dL, DHL = 430UI/L, glicose = 60mg/dL, adenosina deaminase (ADA) = 55UI/L, bacilos-copia negativa e cultura ainda em análise. Os resultados de exames bioquímicos séricos mostraram proteína sérica = 7,5g/dL (6,5 a 8,1g/dL), DHL sérica = 280UI/L (240 a 480UI/L) e glicose = 88mg/dL (70 a 99mg/dL). Assinale a alternativa correta:
+a) DHL pleural >2/3 do limite superior no soro define o derrame pleural como exsudato
+b) proteína pleural/sérica >0,5 define transudato
+c) DHL pleural/sérico >0,6 define exsudato
+d) nenhuma das anteriores 
+e) “a” e “c” estão corretas
+Resposta no final do capítulo
+
 Esses parâmetros, embora sejam bastante sensíveis para exsudato, perdem um pouco em especificidade. A tradução disso na prática clínica é que, em situações nas quais a suspeita seja transudato, a análise demonstra erroneamente um líquido exsudativo. Tal problema ocorre classicamente em pacientes com insuficiência cardíaca congestiva que receberam diurético, o que torna o líquido um pouco mais “concentrado”, alterando as concentrações de DHL e proteínas no fluido. A maneira de evitar essa confusão é solicitar a dosagem de albumina, para cálculo do gradiente de albumina soro–líquido pleural; este, quando =1,2, na situação citada, define transudato. É importante ponderar que o uso isolado da albumina pode gerar equívo-cos diagnósticos e não é indicado a situações diferentes da descrita.
 A análise do líquido não se restringe à sua caracterização como transudativo ou exsudativo; deve-se buscar o diagnóstico etiológico. Para tanto, avaliam-se as características macroscópicas, bioquímicas e bacteriológicas do líquido. 
+
 A - Características macroscópicas
 A aparência e o odor do líquido pleural podem sugerir a etiologia. Desta forma, o aspecto inicial do líquido pleural pode ser:
+
 Tabela 6 - Aspecto inicial do líquido pleural
 Hialino	Característico dos transudatos
 Amarelo-citrino espumoso	Característico dos exsudatos
@@ -100,18 +173,23 @@ Leitoso	Quilotórax ou empiema
 Purulento com odor fétido	Empiema
 Achocolatado	Abscesso amebiano
 Odor de urina	Urinotórax
+
 B - Bacterioscópico
 Na suspeita de derrame exsudativo, deve-se solicitar uma bacterioscopia (Gram) e inocular, à beira do leito, o líquido pleural em meios de cultura para aeróbios e anaeróbios. Dependendo do caso, podem-se pedir culturas para fungos e mico-bactérias; o micológico direto pode mostrar algum fungo, mas a pesquisa de micobactérias no esfregaço tem baixíssimo ren-dimento, exceto na AIDS ou no empiema tuberculoso.
+
 C - Citologia
 Mais do que a contagem absoluta de células no líquido, é importante a avaliação diferencial.
+
 Tabela 7 - Celularidade no líquido pleural
 Células predominantes	Principais etiologias
-Predomínio de PMN (polimorfonucleares – >50%)	Indica um processo agudo na pleura: derrame parapneumônico, embolia e pancreatite (raramente neoplasia).
-Predomínio de linfócitos	Mais provavelmente, indica neoplasia ou tuberculose. Também pode ocorrer após cirur-gia cardíaca (bypass).
-Eosinófilos (>10%)	Ocorre na presença de sangue ou ar na pleura. Mas também são possíveis reação medi-camentosa (nitrofurantoína, dantroleno, bromocriptina), asbestose, paragonimíase e síndrome de Churg-Strauss. Tuberculose ou neoplasia são causas incomuns, exceto após toracocenteses de repetição. 
+Predomínio de PMN (polimorfonucleares – >50%)	Indica um processo agudo na pleura: derrame parapneumônico, embolia e pancreatite (ra-ramente neoplasia).
+Predomínio de linfócitos	Mais provavelmente, indica neoplasia ou tuberculose. Também pode ocorrer após cirurgia cardíaca (bypass).
+Eosinófilos (>10%)	Ocorre na presença de sangue ou ar na pleura. Mas também são possíveis reação medica-mentosa (nitrofurantoína, dantroleno, bromocriptina), asbestose, paragonimíase e síndrome de Churg-Strauss. Tuberculose ou neoplasia são causas incomuns, exceto após toracocente-ses de repetição. 
+
 No líquido pleural, via de regra, são encontrados mesoteliócitos, que têm maior importância prática quando estão ausen-tes, o que é um estigma de pleurite tuberculosa.
 A citologia oncótica poderá diagnosticar um derrame pleural neoplásico (Tabela 8); a sensibilidade é baixa, e sua ausência nunca exclui o diagnóstico de neoplasia. 
 Tem maior utilidade em derrames com predomínio de linfócitos e monócitos. Quanto a pacientes com suspeita de derra-me neoplásico e citológico negativo, deve-se realizar uma videotoracoscopia. As principais neoplasias associadas ao derrame pleural maligno (>75% dos casos) são, em ordem decrescente de frequência, cânceres de pulmão e de mama e linfoma.
+
 Tabela 8 - Positividade da citologia oncótica 
 Tipos de câncer	Positividades da citologia
 Adenocarcinoma	70%
@@ -119,63 +197,135 @@ Linfoma	25 a 50%
 Sarcoma	25%
 Espinocelular	20%
 Mesotelioma	10%
+
 Na presença de derrame sanguinolento, deve-se solicitar o hematócrito do líquido: quando >50% do hematócrito do pa-ciente, define-se hemotórax, sendo indicada a drenagem torácica (etiologia mais comum é trauma); quando <1%, não tem significado; quando, entre tais valores, se define o líquido como sero-hemorrágico (observado em neoplasias, embolia etc.).
+
 D - Bioquímica
+
 a) pH
 Quando <7,2, é compatível com derrame parapneumônico complicado, artrite reumatoide, ruptura esofágica, tuberculo-se, neoplasia ou urinotórax (este, a única causa de transudato com pH baixo).
+
 b) Glicose
-Útil quando menor que 60mg/dL, podendo acontecer em derrame parapneumônico complicado, neoplasia, pleurite lúpi-ca ou reumatoide. Empiema e pleurite reumatoide podem cursar com níveis extremamente baixos de glicose (<20mg/dL).
+Útil quando menor do que 60mg/dL, podendo acontecer em derrame parapneumônico complicado, neoplasia, pleurite lúpica ou reumatoide. Empiema e pleurite reumatoide podem cursar com níveis extremamente baixos de glicose (<20mg/dL).
+
 c) Adenosina deaminase (ADA)
 Um marcador de atividade linfocitária, com baixo custo, e importante como auxílio diagnóstico a casos suspeitos de tuber-culose pleural em regiões com alta incidência da doença. Outras causas de ADA elevada são empiema, pleurite reumatoide, mesotelioma e linfoma.
+
+Dica
+Convém lembrar que adenosina deaminase é sugestivo de tuberculose pleural, porém o marcador não é patognomônico.
+
 d) Amilase
 A principal causa de sua elevação é a neoplasia. Classicamente, entretanto, está aumentada na presença de pancreatite e de ruptura esofágica.
+
 e) Triglicérides
 Quando >110mg/dL, definem a presença de quilotórax. Se o aspecto for leitoso, com pH normal e triglicérides <50mg/dL, com colesterol elevado, define-se pseudoquilotórax (aspecto de derrame pleural antigo). Quando entre 50 e 110mg/dL, deve-se solicitar a dosagem de quilomícrons, para tentar caracterizar o quilotórax.
+
 f) Ureia e creatinina
 Seus aumentos no líquido pleural sugerem a presença de urinotórax.
+
 g) Testes imunológicos
 Fator reumatoide, fator antinuclear e células LE podem ser encontrados no líquido pleural de pacientes com derrame as-sociado a colagenoses.
+
+Tabela 9 - Pistas no diagnóstico diferencial do derrame pleural 
+
+Derrame bilateral	O derrame bilateral sugere doença sistêmica, geralmente com derrame transudativo.
+Derrame maciço	O hemitórax opaco é mais frequente em derrames neoplásicos.
+Líquido sero-hemático	Neoplasia, embolia, pneumonia; é incomum na tuberculose.
+Líquido leitoso	Encontram-se empiema ou quilotórax.
+Exsudato com predomínio de linfócitos	Em pacientes com menos de 40 anos, a tuberculose é o mais provável; em pacientes com mais de 60 anos, a neoplasia é o mais provável.
+ADA elevada	Causas possíveis são tuberculose, linfoma, artrite reumatoide, empiema, mesotelioma.
+
 5. Biópsia de pleura
  
 Figura 6 - Biópsia de pleura
+
+Tema de prova
+Todas as características bioquímicas e citológicas do derrame pleural estão presentes nas questões de Residência Médica.
+
+Pergunta
+2014 - UFRN
+4. Com relação à avaliação diagnóstica dos derrames pleurais, afirma-se que:
+I - A radiografia de tórax em PA/L é suficiente para diferenciar transudatos dos exsudatos.
+II - Apenas a tomografia de tórax permite a confirmação inequívoca dos exsudatos.
+III - Dosagens de proteínas, DHL e glicose no líquido pleural auxiliam no diagnóstico diferencial de transudatos X exsudatos.
+IV - Níveis elevados de ADA (adenosina deaminase) são favoráveis ao diagnóstico da tuberculose pleural.
+Estão corretas:
+a) III, IV 
+b) II, III 
+c) I, II 
+d) I, IV
+Resposta no final do capítulo
+
 6. Causas específicas 
+
 A - Tuberculose
 A tuberculose é uma causa frequente de derrame pleural em nosso meio e deve sempre entrar no diagnóstico diferencial de exsudatos.
-Na maioria das vezes, o derrame pleural tuberculoso decorre de uma reação de hipersensibilidade da pleura ao bacilo. Os antígenos podem entrar no espaço pleural após ruptura de foco caseoso pulmonar na região subpleural, por contiguidade da lesão pulmonar, por ruptura do gânglio mediastinal ou pela via hematogênica/linfática. Por esses motivos, tem-se uma baixís-sima positividade da pesquisa de bacilos álcool-ácido-resistentes (BAAR) e da cultura do líquido pleural (crescimento em me-nos de 30% dos pacientes). Bem mais raramente pode haver ruptura de cavitação subpleural, provocando o que se chama empiema tuberculoso, com pesquisa de BAAR e cultura habitualmente positivas.
+Na maioria das vezes, o derrame pleural tuberculoso decorre de uma reação de hipersensibilidade da pleura ao bacilo. Os antígenos podem entrar no espaço pleural após ruptura de foco caseoso pulmonar na região subpleural, por contiguidade da lesão pulmonar, por ruptura do gânglio mediastinal ou pela via hematogênica/linfática. Por esses motivos, tem-se uma baixís-sima positividade da pesquisa de Bacilos Álcool-Ácido-Resistentes (BAAR) e da cultura do líquido pleural (crescimento em menos de 30% dos pacientes). Bem mais raramente pode haver ruptura de cavitação subpleural, provocando o que se chama empiema tuberculoso, com pesquisa de BAAR e cultura habitualmente positivas.
 Os pacientes costumam buscar auxílio médico com tosse seca (eventualmente com secreção), febre e dispneia. Na maio-ria das vezes o quadro é agudo, simulando infecção pulmonar bacteriana; o quadro clínico pode ser arrastado (perda de pe-so, sudorese noturna, febre vespertina), principalmente na presença de envolvimento de outros órgãos na apresentação inicial.
 O aspecto do líquido pleural é geralmente amarelo-citrino ou turvo, sendo incomum a apresentação hemática. O derrame pleural é unilateral, habitualmente de tamanho pequeno a moderado, mas pode ocupar todo um hemitórax.
 Deve-se suspeitar de tuberculose se houver predomínio de linfócitos no líquido pleural, mas, em pacientes com sintomas há menos de 15 dias, é possível o predomínio de neutrófilos, caracterizando a fase aguda da inflamação. A porcentagem de células mesoteliais é geralmente inferior a 5% (pela inflamação difusa da pleura), e pacientes com mais de 5% dessas células no derrame pleural tuberculoso sugerem diagnóstico alternativo. Outro dado contrário ao diagnóstico é a presença de mais de 10% de eosinófilos no líquido, a menos que o paciente tenha realizado múltiplas punções ou pneumotórax. 
 O PPD é negativo em 1/3 dos pacientes, ao passo que o parênquima pulmonar, à radiografia de tórax, é normal na maioria dos casos, podendo mostrar sinais de tuberculose prévia.
 Como se trata de reação de hipersensibilidade na pleura, mesmo se a tuberculose pleural não for tratada, pode ocorrer cura espontaneamente, embora 50% dos pacientes acabem desenvolvendo tuberculose ativa em outro sítio nos próximos anos.
-A positividade da baciloscopia direta do líquido pleural é muito baixa: menor que 5% na maioria das séries. A positividade da cultura em meio de Löwestein-Jensen varia de 10 a 35% para o líquido pleural e de 39 a 65% em submetidos a biópsia pleural. Além de pesquisa direta e cultura, as possibilidades diagnósticas são: 
+A positividade da baciloscopia direta do líquido pleural é muito baixa: menor que 5% na maioria das séries. A positividade da cultura em meio de Löwenstein-Jensen varia de 10 a 35% para o líquido pleural e de 39 a 65% em submetidos a biópsia pleural. Além de pesquisa direta e cultura, as possibilidades diagnósticas são: 
+
 a) Reação em cadeia da polimerase (PCR) para M. tuberculosis
 Ainda com grande variação na acurácia, dependendo do laboratório estudado. A literatura relata grandes variações na sensibilidade e na especificidade, com estudos com sensibilidade <20% e outros com >90%; em média, a sensibilidade é de cerca de 70%. 
+
 b) ADA
-Enzima que existe em grande quantidade em linfócitos e monócitos ativados, sobretudo em linfócitos T helper. A sensibili-dade e a especificidade da ADA para o diagnóstico de tuberculose no derrame pleural dependerão do cut-off usado (varia conforme o estudo e a metodologia usada). Atualmente, o cut-off recomendado é o de 40U/L (sensibilidade = 91 a 100% e especificidade = 81 a 94%; valor preditivo positivo = 84 a 93% e valor preditivo negativo = 89 a 100%). Por outro lado, quanto maior a prevalência da tuberculose em determinada região, maior o valor preditivo positivo do exame; de outro modo, quan-to menor a probabilidade clínica de tratar-se de tuberculose, como em pacientes com estigmas de linfoma (adenomegalias periféricas), menor a capacidade do exame em confirmar a possibilidade de tuberculose. 
-Níveis superiores a 60U/L têm valor preditivo positivo ainda maior, raramente encontrado em outras condições. Em algu-mas situações que não a tuberculose, pode haver elevação da ADA no líquido pleural, especialmente em linfomas e raramen-te em empiema pleural, mesotelioma e artrite reumatoide. Recomenda-se que em derrames pleurais exsudativos com pre-domínio de linfócitos e ADA elevada, na ausência de estigmas clínicos de linfoma, empiema e artrite reumatoide, o diagnósti-co de tuberculose pleural é bastante provável e o tratamento está indicado.
+Enzima que existe em grande quantidade em linfócitos e monócitos ativados, sobretudo em linfócitos T helper. A sensibili-dade e a especificidade da ADA para o diagnóstico de tuberculose no derrame pleural dependerão do cut-off usado (varia conforme o estudo e a metodologia usada). Atualmente, o cut-off recomendado é o de 40UI/L (sensibilidade = 91 a 100% e especificidade = 81 a 94%; valor preditivo positivo = 84 a 93% e valor preditivo negativo = 89 a 100%). Por outro lado, quanto maior a prevalência da tuberculose em determinada região, maior o valor preditivo positivo do exame; de outro modo, quan-to menor a probabilidade clínica de tratar-se de tuberculose, como em pacientes com estigmas de linfoma (adenomegalias periféricas), menor a capacidade do exame em confirmar a possibilidade de tuberculose. 
+Níveis superiores a 60UI/L têm valor preditivo positivo ainda maior, raramente encontrado em outras condições. Em al-gumas situações que não a tuberculose, pode haver elevação da ADA no líquido pleural, especialmente em linfomas e rara-mente em empiema pleural, mesotelioma e artrite reumatoide. Recomenda-se que em derrames pleurais exsudativos com predomínio de linfócitos e ADA elevada, na ausência de estigmas clínicos de linfoma, empiema e artrite reumatoide, o diag-nóstico de tuberculose pleural é bastante provável e o tratamento está indicado.
+
 c) Gamainterferona
 Semelhante à ADA, quando aumentada sugere tuberculose pleural. Entretanto, em nosso meio, não é facilmente disponí-vel para uso rotineiro. 
+
 d) Biópsia pleural fechada
 Recomenda-se a coleta de 2 a 3 fragmentos para a realização do exame anatomopatológico e outro para a cultura. A sen-sibilidade pode chegar a 60%. Múltiplas biópsias aumentam o rendimento diagnóstico (busca de granulomas ou cultura da pleura). A formação do granuloma requer imunidade celular bem preservada, a qual é prejudicada na imunodepressão cau-sada pelo HIV, de forma que se perde a sensibilidade nesses pacientes.
+
 e) Lisozima
-É uma enzima bacteriolítica decorrente, principalmente, da decomposição dos leucócitos. Níveis elevados dessa enzima são encontrados no líquido pleural por tuberculose e nos empiemas. O valor da relação líquido pleural–sangue >1 pode ser utilizado no diagnóstico diferencial com exsudatos de outras etiologias. Aumentos significativos (>50U/L), excluindo empiema, apresentam alta probabilidade de tuberculose. É um exame pouco solicitado na prática diária em virtude da sua acurácia limitada.
+É uma enzima bacteriolítica decorrente, principalmente, da decomposição dos leucócitos. Níveis elevados dessa enzima são encontrados no líquido pleural por tuberculose e nos empiemas. O valor da relação líquido pleural–sangue >1 pode ser utilizado no diagnóstico diferencial com exsudatos de outras etiologias. Aumentos significativos (>50UI/L), excluindo empie-ma, apresentam alta probabilidade de tuberculose. É um exame pouco solicitado na prática diária em virtude da sua acurácia limitada.
+
 f) Videotoracoscopia com biópsia
 Método mais sensível que a biópsia pleural “às cegas” (sensibilidade = 95%), possibilita o diagnóstico de outras doenças com manifestações semelhantes, como câncer.
-Eventualmente, a tuberculose pleural pode manifestar-se como o denominado empiema tuberculoso. Representa uma forma de derrame pleural decorrente da ruptura de um foco caseoso para o espaço pleural. O diagnóstico deve ser realizado por meio da pesquisa e/ou da cultura de BAAR, cultura para bactérias e/ou biópsia de pleura. A ADA pode estar elevada, >40U/L, não podendo, entretanto, ser utilizada como critério diagnóstico diferencial, pois está aumentada no derrame pleural parapneumônico complicado. A citologia demonstra grande número de neutrófilos, a glicose é baixa, o nível de DHL é eleva-do, e o pH é inferior a 7,2. Diferentemente do que ocorre na tuberculose pleural habitual, o rendimento da pesquisa de BAAR e da cultura para tuberculose no empiema tuberculoso é alto, servindo de parâmetro para a monitorização da efetivi-dade do tratamento enquanto há líquido. É necessária drenagem pleural em sistema fechado. Posteriormente, pleurostomia ou drenagem aberta (por dreno ou próteses) podem estar indicadas, e pleuroscopia, para lise de aderências, deve ser reali-zada em pacientes com espessamento pleural significativo.
+Eventualmente, a tuberculose pleural pode manifestar-se como o denominado empiema tuberculoso. Representa uma forma de derrame pleural decorrente da ruptura de um foco caseoso para o espaço pleural. O diagnóstico deve ser realizado por meio da pesquisa e/ou da cultura de BAAR, cultura para bactérias e/ou biópsia de pleura. A ADA pode estar elevada, >40UI/L, não podendo, entretanto, ser utilizada como critério diagnóstico diferencial, pois está aumentada no derrame pleu-ral parapneumônico complicado. A citologia demonstra grande número de neutrófilos, a glicose é baixa, o nível de DHL é elevado, e o pH é inferior a 7,2. Diferentemente do que ocorre na tuberculose pleural habitual, o rendimento da pesquisa de BAAR e da cultura para tuberculose no empiema tuberculoso é alto, servindo de parâmetro para a monitorização da efetivi-dade do tratamento enquanto há líquido. É necessária drenagem pleural em sistema fechado. Posteriormente, pleurostomia ou drenagem aberta (por dreno ou próteses) podem estar indicadas, e pleuroscopia, para lise de aderências, deve ser reali-zada em pacientes com espessamento pleural significativo.
 O tratamento segue as orientações gerais para casos de tuberculose pulmonar ou extrapulmonar, com esquema básico com rifampicina, isoniazida, pirazinamida e etambutol por 2 meses, seguindo-se 4 meses com rifampicina e isoniazida. Não há indicação de uso de corticosteroides, tampouco de drenagem pleural (desde que não exista empiema).
+
+Dica
+Na tuberculose, o líquido pleural possui características exsudativas, predomínio linfocitário, <5% de células mesoteliais e <10% células eosinófilas, cor amarelo-citrino, derrame unilateral e ADA >40. O tratamento é similar ao da doença pulmonar (2RHZE/4RH).
+
+Tema de prova
+Dentro dos diagnósticos de derrame pleural, a tuberculose pleural é uma das mais cobradas em prova.
+
+Pergunta
+2014 - CERMAM
+5. Uma paciente de 23 anos queixa-se de astenia, inapetência e febre vespertina há 3 semanas e procurou o pronto-socorro devido a dor torácica na base direita ventilatoriodependente. Fez radiografia de tórax que evidenciou velamento do seio costofrênico direito, sendo encaminhada ao ambulatório de Pneumologia para investigação do derrame pleural. Teve contato com o pai tuberculoso há 2 anos. Qual é a sua conduta com relação à propedêutica de investigação?
+a) solicitar TT (PPD) e pesquisa de BAAR no escarro e iniciar esquema básico
+b) solicitar biópsia de pleura e iniciar esquema básico
+c) solicitar pesquisa de BAAR no líquido sinovial, e, sendo esta negativa, não deve ser tuberculose e não indicar tratamento
+d) solicitar toracocentese diagnóstica; se a análise do líquido pleural revelar linfocitose =75%, adenosina deaminase = 45UI/L e desidrogenase láctica = 200UI/L, configura-se exsudato, sendo a biópsia de pleura dispensável, e iniciar esquema básico
+e) iniciar tratamento com claritromicina
+Resposta no final do capítulo
+
+Tabela 10 - Dados diagnósticos da tuberculose pleural
+- O quadro é subagudo e pode simular pneumonia – tosse seca e febrícula;
+- Em exame de imagem, habitualmente há derrame sem consolidação;
+- O líquido é exsudativo, com predomínio de linfócitos, embora nos primeiros 15 dias possa ocorrer predomínio de neutrófilos;
+- A ADA não é específica, mas indica o tratamento se não houver dados clínicos que sugiram empiema, artrite reumatoide, linfoma e mesotelioma;
+- A biópsia de pleura transtorácica tem alto rendimento diagnóstico.
+
 B - Derrame pleural parapneumônico
 O derrame pleural associado a infecção do trato respiratório inferior (pneumonia, abscesso ou bronquiectasias) é chama-do de parapneumônico. Na maioria das vezes, é pequeno, sem a necessidade de intervenção específica, remitindo com o tratamento da infecção. Entretanto, pode haver infecção da cavidade pleural com inflamação exuberante, que pode culminar com formação de empiema de necessidade, situação em que há uma fístula na parede torácica, que drena espontaneamente o líquido acumulado no espaço pleural. O que dita esse espectro de gravidade é a fase evolutiva do derrame, com 3 estágios observados:
-Tabela 9 - Derrame pleural parapneumônico
+
+Tabela 11 - Derrame pleural parapneumônico 
 Estágio exsudativo
 - Líquido estéril formado por aumento de permeabilidade vascular pleural pela infecção associada no parênquima adjacente;
 - Fase característica da maioria dos derrames associados à infecção;
-- Exsudato neutrofílico com DHL usualmente <1.000U/L, com pH e glicose normais;
+- Exsudato neutrofílico com DHL usualmente <1.000UI/L, com pH e glicose normais;
 - Não identificação de germes.
 Estágio fibrinopurulento
 - Germes no espaço pleural;
 - Quantidade de células bem maior, com acúmulo de debris celulares;
 - Líquido possivelmente de aspecto purulento;
-- Nível de DHL >1.000U/L, com glicose e pH reduzindo-se;
+- Nível de DHL >1.000UI/L, com glicose e pH reduzindo-se;
 - Tendência à formação de loculações.
 Estágio de organização
 - Estágio mais avançado de inflamação;
@@ -185,11 +335,22 @@ Estágio de organização
 - Em casos mais avançados, formação de uma carapaça que encarcera o pulmão;
 - Possível drenagem espontânea do líquido pela parede torácica – empiema de necessidade.
 
-Atenção
-Os dados clínicos não têm acurácia suficiente para determinar o estágio da doença pleural e, assim, a necessidade de drenagem. Desta forma, todos os pacientes com derrame pleural associado a infecção, que seja clinicamente significativo, devem ser sub-metidos à toracocentese. O que determina o estágio e, logo, o prognóstico e a conduta a ser tomada são as análises de volume de líquido, a presença de loculações, o pH, a DHL, a glicose e a presença de germes.
+Importante
+Os dados clínicos não têm acurácia suficiente para determinar o estágio da doença pleural e, assim, a necessidade de drenagem. Desta forma, todos os pacientes com derrame pleural associado a infecção, que seja clinicamente significativo, devem ser submetidos à toraco-centese. O que determina o estágio e, logo, o prognóstico e a conduta a ser tomada são as análises de volume de líquido, a presença de loculações, o pH, a DHL, a glicose e a presença de germes.
 
-De forma prática, podem-se resumir as recomendações sobre a conduta diante de um derrame parapneumônico confor-me a Tabela 10. A antibioticoterapia segue as orientações de tratamento da pneumonia e deve ser ajustada conforme o ger-me isolado em culturas.
-Tabela 10 - Sumário de condutas no derrame parapneumônico
+Pergunta
+2011 - PUC-PR
+6. Relacione a fase do empiema com a melhor opção de tratamento:
+a) estágio 1 (fase exsudativa) = decorticação precoce
+b) estágio 2 (fase fibrinopurulenta) = videotoracoscopia + drenagem pleural aberta (pleurostomia)
+c) estágio 3 (fase de organização – crônica) = drenagem torácica fechada e enzimas intrapleurais
+d) estágio 3 (fase de organização – crônica) e grande cavidade pleural residual após decorticação sem sucesso e drenagem aberta = retalhos musculares
+e) estágio 3 (fase de organização – crônica) e grande cavidade pleural residual e fístula broncopleural após drenagem aberta = lavagem pleural exaustiva e método de Clagett-Geraci
+Resposta no final do capítulo 
+
+De forma prática, podem-se resumir as recomendações sobre a conduta diante de um derrame parapneumônico confor-me a Tabela 12. A antibioticoterapia segue as orientações de tratamento da pneumonia e deve ser ajustada conforme o ger-me isolado em culturas.
+
+Tabela 12 - Sumário de condutas no derrame parapneumônico
 Quando realizar toracocentese?
 - Espessura >10mm no decúbito lateral;
 - Presença de derrame loculado (toracocentese guiada por ultrassonografia).
@@ -200,25 +361,35 @@ Quando drenar?
 Quando indicar toracoscopia ou decorticação?
 - Presença de loculações;
 - Piora clínica, apesar da drenagem.
+
 C - Derrame pleural neoplásico
 O derrame pleural é uma complicação frequente entre os pacientes com neoplasia pulmonar e uma apresentação inicial comum entre essas pessoas. Nem sempre indica infiltração pleural e, assim, doença em estágio avançado; são etiologias pos-síveis, associadas a neoplasia, hipoalbuminemia, embolia pulmonar, pneumonia com derrame parapneumônico, insuficiência cardíaca, obstrução de grandes vasos no mediastino, pós-radioterapia. A toracocentese e a biópsia pleural são importantes para a definição diagnóstica.
 Dentre as neoplasias, as que mais evoluem com comprometimento pleural, em ordem decrescente de frequência, são neoplasia pulmonar, neoplasia de mama e linfoma.
 O derrame pleural é de volume variável, podendo ter velocidade de acúmulo rápida. É um exsudato, amarelo-citrino ou hemático, com predomínio de linfócitos e níveis de glicose e pH reduzidos em cerca de 20% dos casos. Eosinofilia é incomum. Os derrames neoplásicos são a principal causa de elevação de amilase em líquido pleural, entretanto níveis de amilase estão elevados em apenas 10 a 20% dos casos.
+
+Dica
+O líquido pleural neoplásico tem característica exsudativa, cor amarelo-citrino ou hemático, predomínio linfocitário e pH e glicose reduzidos (20% dos casos), podendo ainda apresentar elevação da amilase em 10% dos casos.
+
 A citologia oncótica tem baixa sensibilidade, que é um pouco maior nos casos de adenocarcinoma; sempre deve ser solici-tada, pois, se positiva, define o diagnóstico.
 Quanto aos pacientes ainda sem diagnóstico de neoplasia, é importante realizar um exame de imagem logo após a toraco-centese, para visualizar por completo o parênquima pulmonar.
 Sendo confirmado derrame pleural maligno, está caracterizada doença avançada, com estadio, no mínimo, IIIb, apresen-tando tratamento paliativo. Nesse caso, o objetivo do tratamento é a melhora da dispneia. Os derrames pleurais malignos de pequeno volume, minimamente sintomáticos, não progressivos e não recidivantes, podem ser acompanhados somente com observação clínica. A toracocentese é o procedimento de escolha para o alívio da dispneia em pacientes com sobrevida cur-ta. A taxa de reacúmulo de líquido pleural, após 30 dias da toracocentese, é próxima de 100%, e deve-se evitar a retirada de mais de 1,5L por punção devido ao risco de edema de reexpansão, embora este não pareça comum.
 Outra opção de tratamento, para pacientes em que não ocorre expansão pulmonar após a toracocentese, é a drenagem pleural, usando cateter de fino calibre. A pleurodese representa uma opção para o tratamento definitivo. O uso de substân-cias esclerosantes determina reação inflamatória aguda das superfícies pleurais, que resulta em intensa fibrose e sínfise do espaço pleural. Tal processo pressupõe aposição das pleuras visceral e parietal, mediante a drenagem de todo o líquido acu-mulado e a reexpansão pulmonar. Algumas condições são necessárias para o sucesso do procedimento:
-- Melhora clínica com toracocentese com remoção parcial ou total do volume;
-- Natureza maligna do derrame bem determinada;
-- Reexpansão pulmonar com a toracocentese, a qual pode não acontecer em pacientes com obstrução brônquica, encar-ceramento neoplásico do pulmão e linfangite carcinomatosa.
+Melhora clínica com toracocentese com remoção parcial ou total do volume;
+Natureza maligna do derrame bem determinada;
+Reexpansão pulmonar com a toracocentese, a qual pode não acontecer em pacientes com obstrução brônquica, encarce-ramento neoplásico do pulmão e linfangite carcinomatosa.
+
 D - Outras causas 
+
 a) Tromboembolismo pulmonar
 O tromboembolismo pulmonar (TEP) faz parte do diagnóstico diferencial de derrames transudativos ou exsudativos. Nos Estados Unidos, 50% dos TEPs cursam com derrame pleural (150.000 derrames/ano devido ao TEP). Em 95% dos pacientes, o derrame é unilateral; cerca de 80% são exsudatos e 20% transudatos. O derrame tem volume pequeno a moderado e nem sempre é hemorrágico (este ocorre quando há infarto pulmonar). Caso seja puncionado muito precocemente, haverá pre-domínio de neutrófilos; logo em seguida, o predomínio passa a ser de linfócitos. O derrame exsudativo habitualmente ocorre por pleurite reacional à área de infarto periférica; o transudativo associa-se a eventos com algum grau de repercussão he-modinâmica, já que resulta de elevação significativa e rápida das pressões em câmaras direitas, que são transmitidas às vênu-las do espaço pleural, que têm sua drenagem prejudicada.
+
 b) Pleurite reumatoide
 Apenas 5% dos pacientes com artrite reumatoide têm derrame pleural; é mais frequente em homens, idosos, 80% deles com nódulos subcutâneos e artrite reumatoide de longa data. Febre, tosse e dor torácica são comuns. O derrame costuma ser de tamanho pequeno a moderado, bilateral em 25%. Pode haver regressão espontânea do derrame de um lado e, em segui-da, surgir do outro. Em 1/3, há manifestações pulmonares associadas. A pleura costuma tornar-se espessada e apresenta vários nódulos. São características do líquido pleural: glicose (<30mg/dL), pH diminuído (<7,2), DHL aumentado e alto título de fator reumatoide (>1:320). No início, a glicose do líquido pleural pode estar normal, mas, com o tempo, diminui. Concentra-ção de colesterol aumentada é comum, assim como a formação de cristais. O prognóstico é pouco conhecido. Alguns pacien-tes têm remissão em 3 meses, outros evoluem com espessamento pleural, necessitando de decorticação. Não há estudos do efeito de anti-inflamatórios ou drogas indutoras de remissão na pleurite reumatoide. Curiosamente, não costuma responder a corticosteroides.
+
 c) Pleurite lúpica
 Os pacientes com lúpus podem ter derrame pleural associado à própria doença ou relacionado a drogas. Estima-se que 40% dos lúpicos terão um derrame pleural ao longo da vida. Geralmente, artrite e artralgia precedem as manifestações pleu-rais, mas, em até 30%, as manifestações pleurais podem preceder as articulares. A pleurite lúpica costuma fazer parte de uma exacerbação sistêmica da doença. Em geral, o derrame pleural é pequeno e, em até 50% dos casos, bilateral. A pleurite lúpica deve ser considerada hipótese diagnóstica em todos os derrames pleurais exsudativos de causa indeterminada. 
 As características do líquido pleural são exsudativo, glicose normal ou baixa e possibilidade de predomínio de PMN preco-cemente, evoluindo com predomínio linfomononuclear. O achado de fator antinúcleo positivo no líquido pleural não costuma fornecer informação adicional à obtida pelos testes sorológicos, e essa pesquisa não mais é recomendada de rotina. O diag-nóstico é feito por meio de dados clínicos e marcadores séricos de atividade lúpica. Sempre se deve destacar uma etiologia infecciosa. Ao contrário da artrite reumatoide, a pleurite lúpica responde bem a corticosteroides, mas só estão indicados a casos cujos sintomas são exuberantes.
+
 d) Doenças abdominais
 Podem ser oligossintomáticas e causar derrame pleural, o que pode dificultar o diagnóstico. Algumas particularidades são: 
 Cirróticos: mesmo sem ascite, podem apresentar derrame pleural (são transudatos), que acontece por passagem do líqui-do peritoneal para o espaço pleural por fenestras diafragmáticas, mais comumente unilaterais à direita. O diagnóstico é definido comparando as características dos líquidos peritoneal e pleural colhidos simultaneamente; 
@@ -226,21 +397,46 @@ Pancreatite crônica com fístula pleural: exsudato, derrame pleural mais frequent
 Infarto esplênico: causa exsudato; pode cursar com dor na base do hemitórax esquerdo ou do hipocôndrio esquerdo, al-gumas vezes com elevação de cúpula frênica esquerda. O derrame pleural pode ser rico em PMN. As causas habituais são leucemia mieloide crônica, endocardite, sepse ou hemoglobinopatias;
 Abscesso subfrênico: exsudato, muitas vezes, devido à reação diafragmática (líquido estéril), mas também pode ser uma extensão do processo infeccioso. Normalmente, há predomínio de PMN; os pacientes podem ser oligossintomáticos. Na suspeita, solicitar uma ultrassonografia e/ou tomografia de abdome;
 Amebíase e equinococose: semelhante ao abscesso subfrênico, também podem causar derrame pleural. Na amebíase, o líquido pleural pode ser cinza ou achocolatado e dificilmente se isola o parasita. Já na equinococose, os escóleces do pa-rasita podem ser encontrados.
+
 e) Quilotórax
 Ocorre por acúmulo de quilo, líquido linfático rico em gorduras na forma de quilomícrons, recém-absorvidos no trato gas-trintestinal. O fluido é transportado pelo ducto torácico, que tem trajeto abdominal adjacente à aorta, até passar pelo hiato aórtico no diafragma e seguir em direção à cava. Lesões traumáticas (causa mais comum) ou obstrutivas (neoplasias) podem interromper seu transporte e resultar em extravasamento de líquido para o espaço pleural. A aparência leitosa nem sempre é a regra, principalmente se transcorridas mais de 2 horas após a última refeição, já que as gorduras, que conferem o aspecto ao líquido, mesmo no espaço pleural, são absorvidas e metabolizadas; a dosagem de triglicérides habitualmente é elevada (>110mg/dL), mas pode estar um pouco mais baixa (entre 50 e 110mg/dL), sendo, às vezes, necessária a dosagem de lipopro-teínas para definir o diagnóstico. O tratamento é feito com ligadura do ducto torácico no caso de traumas ou tratamento palia-tivo da neoplasia, devendo-se considerar a possibilidade de pleurodese, já que as toracocenteses repetidas espoliam muitos nutrientes (gordura) desses pacientes.
+
 f) Síndrome das unhas amarelas
 Tríade de mudança da coloração das unhas, derrame pleural e linfedema. O derrame é habitualmente pequeno e assin-tomático, mas pode ser grande; é bilateral em 50%, exsudativo, rico em linfócitos, com pH e glicose normais. Devem-se exclu-ir outras causas de derrame pleural antes de atribuir a essa síndrome a etiologia do derrame. Acredita-se que a causa subja-cente seja uma hipoplasia do sistema linfático. As unhas costumam ser pálidas, amareladas ou esverdeadas, encurvadas e podem estar espessadas ou separadas do leito ungueal (onicólise).
+
 g) Reação medicamentosa
 Pode ocorrer como parte de uma síndrome lúpus-like (hidralazina, isoniazida, procainamida, fenitoína, clorpromazina, me-tildopa) ou não: nitrofurantoína, amiodarona, dantroleno, bromocriptina, procarbazina, metisergida.
+
 h) Síndrome de Meigs
 A tríade clássica consiste em ascite, derrame pleural e tumor benigno de ovário. Mais recentemente, também tem sido descrita com tumores benignos de útero e mesmo tumores malignos de ovário de baixo grau de agressividade. A ascite origi-na-se da hiperprodução de fluido pelo tumor, e acredita-se que o derrame pleural decorra de passagem direta do líquido ascítico para a cavidade torácica. O diagnóstico pode ser sugerido pelo achado de massa pélvica. O derrame pleural é do lado direito em 70% dos pacientes e bilateral em 20%. As características do líquido pleural são: exsudativo; baixa celularidade (<1.000 células); possibilidade de a citologia oncótica sugerir o diagnóstico; confirmação da doença pela laparoscopia com biópsia. Tanto o derrame pleural quanto a ascite desaparecem após o tratamento da causa-base.
+
+Pergunta
+2014 - UNICAMP
+7. Um homem de 59 anos, em tratamento para pneumonia com amoxicilina + clavulanato de potássio há 5 dias, retorna com queixa de dor torácica ventilatoriodependente e febre há 1 dia. Antecedentes pessoais: hipertensão, diabetes mellitus e doença de Chagas. Exame físico: regular estado geral, PA = 124x76mmHg, FC = 108bpm, FR = 24irpm, murmúrio vesicular abolido no campo pulmonar inferior direito, com egofonia, e sinal de Signorelli positivo. O radiograma de tórax revela au-mento do índice cardiotorácico e opacificação de 2/3 do hemitórax direito. O líquido pleural, por sua vez: pH = 7,1; LDH = 758UI/L; glicose = 23mg/dL e leucócitos = 26.000/mm3 (neutrófilos = 84%). O diagnóstico e a conduta são:
+a) empiema pleural e drenagem pleural fechada
+b) derrame parapneumônico não complicado e tratamento conservador
+c) transudato pela insuficiência cardíaca e toracocentese para alívio
+d) derrame parapneumônico complicado; tomografia computadorizada e pleuroscopia
+Resposta no final do capítulo
+
+Pergunta
+2007 - UNICAMP
+8. Uma criança de 5 anos está em tratamento de pneumonia extensa, bilateral com pneumatocele à direita, derrame bila-teral volumoso à esquerda, febre em regressão 72 horas depois de iniciada a administração de vancomicina, além de leuco-citose com leve desvio para a esquerda. Que atitude deve ser tomada?
+a) toracotomia e decorticação
+b) pleuroscopia e debridamento do derrame e drenagem fechada
+c) videotoracoscopia 
+d) toracocentese diagnóstica e evacuadora
+e) drenagem pleural simples
+Resposta no final do capítulo 
+
 7. Resumo
+
 Quadro-resumo
-- 	O derrame pleural representa diagnóstico sindrômico, correspondendo ao acúmulo anormal de líquido no espaço pleu-ral;
-- 	As principais etiologias são insuficiência cardíaca, pneumonia com derrame parapneumônico, tuberculose e neoplasia. Todo derrame pleural de etiologia indeterminada e clinicamente significativa (>10mm de espessura em radiografia em decúbi-to lateral) deve ser puncionado; 
+- 	O derrame pleural representa diagnóstico sindrômico, correspondendo ao acúmulo anormal de líquido no espaço pleural;
+- 	As principais etiologias são insuficiência cardíaca, pneumonia com derrame parapneumônico, tuberculose e neoplasia. Todo derrame pleural de etiologia indeterminada e clinicamente significativa (>10mm de espessura em radiografia em decúbito lateral) deve ser puncionado; 
 - 	A propedêutica específica do derrame pleural envolve sua caracterização com transudato e exsudato, o que pode limitar as etiologias;
-- 	A radiografia de tórax geralmente identifica derrames com volume >200mL (posteroanterior); em casos de dúvida da existência de derrame, ou se este é livre, solicita-se a radiografia em decúbito lateral com raios horizontais. A ultrassonografia e a tomografia computadorizada podem ser úteis; 
-- 	Os critérios de Light podem definir a presença de exsudato: proteína do líquido pleural >50% da sérica, ou DHL pleural >60% da sérica, ou DHL >2/3 do limite de normalidade do laboratório. A especificidade dos critérios não é tão boa e, se houver suspeita importante de transudato (principalmente se o paciente estiver em uso de diurético), pode-se utilizar critério adicional: gradiente de albumina pleura–sangue =1,2 indica transudato;
+- 	A radiografia de tórax geralmente identifica derrames com volume >200mL (posteroanterior); em casos de dúvida da existên-cia de derrame, ou se este é livre, solicita-se a radiografia em decúbito lateral com raios horizontais. A ultrassonografia e a tomografia computadorizada podem ser úteis; 
+- 	Os critérios de Light podem definir a presença de exsudato: proteína do líquido pleural >50% da sérica, ou DHL pleural >60% da sérica, ou DHL >2/3 do limite de normalidade do laboratório. A especificidade dos critérios não é tão boa e, se houver suspeita impor-tante de transudato (principalmente se o paciente estiver em uso de diurético), pode-se utilizar critério adicional: gradiente de albumi-na pleura–sangue =1,2 indica transudato;
 - 	Algumas características sugerem algumas etiologias:
 · Líquido hemorrágico: neoplasia, embolia pulmonar ou hemotórax;
 · Líquido esbranquiçado: quilotórax ou empiema;
@@ -251,10 +447,20 @@ Quadro-resumo
 · Amilase elevada: neoplasia (principal causa), ruptura esofágica e pancreatite;
 · ADA elevada: tuberculose (principalmente se >60), linfoma, empiema, mesotelioma, artrite reumatoide;
 · Eosinofilia: ar ou sangue no espaço pleural; raramente: reação a drogas, paragonimíase, Churg-Strauss.
-- 	O derrame pleural associado à insuficiência cardíaca é mais comum à direita, ou bilateralmente, raramente sendo unilateral esquerdo (15%); pode apresentar conformações atípicas, como acúmulo na fissura, gerando a imagem conhecida como “tumor fantasma”, por vezes confundido com neoplasia. O tratamento diurético fornece boa resposta em 48 horas; 
-- 	Derrame parapneumônico é aquele que ocorre associado à infecção do parênquima: é um exsudato neutrofílico, poden-do coexistir redução de glicose e pH; em fases avançadas, os germes podem atingir o espaço pleural, caracterizando empiema; a drenagem está indicada a derrames com pH <7,2 (7 para alguns autores), glicose <40mg/dL, presença de loculação ou identi-ficação de germes;
+- 	O derrame pleural associado à insuficiência cardíaca é mais comum à direita, ou bilateralmente, raramente sendo unilateral esquerdo (15%); pode apresentar conformações atípicas, como acúmulo na fissura, gerando a imagem conhecida como “tumor fan-tasma”, por vezes confundido com neoplasia. O tratamento diurético fornece boa resposta em 48 horas; 
+- 	Derrame parapneumônico é aquele que ocorre associado à infecção do parênquima: é um exsudato neutrofílico, podendo coe-xistir redução de glicose e pH; em fases avançadas, os germes podem atingir o espaço pleural, caracterizando empiema; a drenagem está indicada a derrames com pH <7,2 (7 para alguns autores), glicose <40mg/dL, presença de loculação ou identificação de germes;
 - 	O derrame neoplásico indica doença em fase avançada: o tratamento proposto é o paliativo. Toracocenteses repetidas podem ser necessárias, bem como pleurodese, que é mais efetiva quando realizada por videotoracoscopia; 
 - 	O derrame pleural tuberculoso pode ocorrer: 
-· Por reação de hipersensibilidade na pleura, com evolução benigna, resolução em 30 a 60 dias e apresentação simulando qua-dro infeccioso agudo, com derrame exsudativo e ADA elevada; a biópsia de pleura tem alto rendimento mostrando granulo-mas; o tratamento é importante para evitar surgimento de tuberculose em outro órgão na evolução (ocorre em 60% após 1 ano);
-· Empiema tuberculoso: um quadro insidioso, que resulta de ruptura de um foco caseoso para o espaço pleural, quando a baci-loscopia no líquido pode encontrar o germe; o tratamento está indicado e é feito com o esquema RIP (Rifampicina, Isoniazida e Pirazinamida).
-- 	O TEP pode causar derrame transudativo (pequeno volume, em pacientes com TEP maciço ou submaciço) ou exsudativo (pequeno volume, resultado de pleurite reacional, caracteristicamente sero-hemorrágico).
+· Por reação de hipersensibilidade na pleura, com evolução benigna, resolução em 30 a 60 dias e apresentação simulando quadro infec-cioso agudo, com derrame exsudativo e ADA elevada; a biópsia de pleura tem alto rendimento mostrando granulomas; o tratamento é importante para evitar surgimento de tuberculose em outro órgão na evolução (ocorre em 60% após 1 ano);
+· Empiema tuberculoso: um quadro insidioso, que resulta de ruptura de um foco caseoso para o espaço pleural, quando a baciloscopia no líquido pode encontrar o germe; o tratamento está indicado e é feito com o esquema RIP (Rifampicina, Isoniazida e Pirazinamida).
+- 	O TEP pode causar derrame transudativo (pequeno volume, em pacientes com TEP maciço ou submaciço) ou exsudativo (pe-queno volume, resultado de pleurite reacional, caracteristicamente sero-hemorrágico).
+
+Respostas
+1. E
+2. A
+3. E
+4. A
+5. D
+6. D
+7. A
+8. D
