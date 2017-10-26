@@ -1,72 +1,118 @@
 Doença pulmonar obstrutiva crônica 
-Rodrigo Antônio Brandão Neto / Fabrício Martins Valois
+Rodrigo Antônio Brandão Neto
+Fabrício Martins Valois
+
+Resumo
+A Doença Pulmonar Obstrutiva Crônica (DPOC) é uma doença em que há limitação progressiva ao fluxo aéreo, não reversí-vel, associado a resposta anormal inflamatória pulmonar, e é definida como redução da relação do Volume Expiratório For-çado no 1º segundo (VEF1) sobre a Capacidade Vital Forçada (CVF) <70% (ou seja, distúrbio obstrutivo). O tabagismo é o maior responsável por DPOC. Estima-se que 90% dos casos o têm como fator etiológico. O paciente apresenta tosse crônica intermitente, expectoração crônica, dispneia progressiva ou persistente e história positiva para fatores de risco (tabagismo, poeiras e químicos). Para que ocorram diagnóstico e estadiamento, há necessidade de prova de função pulmonar, sendo que a presença de relação VEF1–CVF <0,7, associada aos dados clínicos e epidemiológicos, praticamente define o diagnósti-co. Os principais diagnósticos diferenciais são asma, insuficiência cardíaca congestiva, tuberculose e bronquiolite obliteran-te. O tratamento não farmacológico baseia-se na cessação do tabagismo, vacinação anual para influenza e a cada 5 anos para pneumococo, reabilitação pulmonar para os pacientes com sintomas persistentes, de classificação moderada a grave. Já o tratamento farmacológico se baseia em broncodilatadores de curta ou longa ação, além de corticoide inalatório, e drogas auxiliares como as metilxantinas, sendo a escolha conforme grau do acometimento pulmonar. Já nas exacerbações, o uso de broncodilatadores, corticoide sistêmico e oxigênio suplementar para manter a SatO2 acima de 90% estará sempre indicado, bem como antibióticos quando de risco de infecção associada.
+
 1. Introdução
+
 A Doença Pulmonar Obstrutiva Crônica (DPOC) caracteriza-se pelo desenvolvimento progressivo de limitação ao fluxo aé-reo, que não é totalmente reversível; tal limitação está associada a uma resposta inflamatória anormal dos pulmões à inalação de partículas ou de gases nocivos. A síndrome geralmente é descrita como representada por 2 polos: 
+
 Tabela 1 - Polos raramente observados isoladamente em um mesmo indivíduo
-Enfisema pulmonar	Aumento permanente e anormal dos espaços aéreos distais aos bronquíolos terminais, acompa-nhado de destruição de suas paredes, sem fibrose óbvia; ainda que o termo seja muito utilizado no dia a dia, é considerado um diagnóstico histopatológico.
+Enfisema pulmonar	Aumento permanente e anormal dos espaços aéreos distais aos bronquíolos terminais, acompanhado de destruição de suas paredes, sem fibrose óbvia; ainda que o termo seja muito utilizado no dia a dia, é considerado um diagnóstico histopatológico.
 Bronquite crônica	Tosse produtiva por mais de 3 meses, durante 2 anos consecutivos. A tosse é ocasionada por hipersecreção de muco, não necessariamente com obstrução ao fluxo aéreo.
+
 O termo DPOC denota a presença de limitação ao fluxo aéreo com manifestações clínicas de enfisema e/ou bronquite crônica. Raramente se encontra paciente com diagnóstico de DPOC e fenótipo puramente de enfisema pulmonar (chamado “soprador rosado”) ou de bronquite crônica (chamado “azul pletórico”); frequentemente, os indivíduos têm os 2 processos patológicos associados. Entretanto, o paciente pode apresentar as características que definem bronquite crônica, ou mesmo ter o diagnóstico histopatológico de enfisema pulmonar, e não ter DPOC, já que para ambas (bronquite e enfisema) não é necessário haver limitação ao fluxo aéreo.
+
  
-Figura 1 - Pacientes com DPOC com enfisema pulmonar: (A) bronquite crônica (“pink puffer” ou “soprador rosado”) e (B) “blue bloater” ou “azul pletórico”
+Figura 1 - Pacientes com doença pulmonar obstrutiva crônica com: enfisema pulmonar (A – “pink puffer” ou “soprador rosado”) e bron-quite crônica (B – “blue bloater” ou “azul pletórico”)
+
 Em uma perspectiva unificadora, a Organização Mundial da Saúde e o National Institutes of Health criaram um grupo mul-ticêntrico para o estudo da DPOC, a Global Initiative for Chronic Obstructive Lung Disease (GOLD). Segundo o GOLD, a DPOC é definida como redução da relação do Volume Expiratório Forçado no 1º segundo (VEF1) sobre a Capacidade Vital Forçada (CVF) <70% (ou seja, distúrbio obstrutivo). O paciente deve ter história clínica com fatores de risco (especialmente tabagismo tendo mais de 40 anos).
+
 2. Prevalência e fisiopatologia
+
 No mundo, a DPOC acomete mais de 50.000.000 de pessoas, e, no Brasil, estima-se que existam mais de 7.000.000 de acometidos, com cerca de 275.000 internações ao ano. Segundo projeções da Organização Mundial da Saúde para 2020, a DPOC será, globalmente, a 5ª causa de morte. Outras projeções acreditam que a doença, na verdade, será a 4ª maior causa de mortalidade mundial. 
 A perda de VEF1 é de 15 a 30mL/ano em pessoas normais. No paciente com DPOC, essa perda anual é aumentada em 2 a 5 vezes. Curiosamente, tal perda excessiva de VEF1 só acontece em torno de 15% dos indivíduos que fumam, indicando com-ponentes genéticos envolvidos (Figura 2). De outra forma, um componente genético parece também estar envolvido devido a casos aglomerados em famílias com DPOC, inclusive em indivíduos com menos idade e diferenças em prevalência de acordo com etnias. Outra evidência vem da deficiência de alfa-1-antitripsina (alfa-1-AT), com enfisema grave entre pacientes mais jovens.
+
  
 Figura 2 - História natural da perda funcional em pacientes tabagistas, ex-tabagistas e não tabagistas 
+
 A maioria dos pacientes com DPOC é identificada pela presença de obstrução em prova de função pulmonar, usualmente na 5ª década de vida. Geralmente, VEF1 menor que 40% do predito implica dispneia aos pequenos esforços, e menor que 25%, dispneia em repouso, retenção de CO2 e cor pulmonale. Além da diminuição do VEF1, há outras alterações (Tabela 2). 
-Tabela 2 - Alterações
+
+Tabela 2 - Alterações presentes no paciente com doença pulmonar obstrutiva crônica
 - Aumento do volume residual e da capacidade residual funcional;
 - Progressiva disfunção diafragmática devido à retificação da cúpula, o que pode levar a uma desvantagem mecânica na ventilação;
 - Aumento da capacidade pulmonar total e, frequentemente, redução da capacidade vital;
 - Vasoconstrição arterial pulmonar devido a hipoxemia, com aumento na pressão da artéria pulmonar. O endotélio de pacientes com DPOC apresenta síntese diminuída de óxido nítrico (deficiência da NO-sintase);
-- A hipóxia, junto com a hipercapnia, ocasiona o aumento dos níveis de catecolaminas, renina e aldosterona, o que pode levar à re-tenção de sal e água;
+- A hipóxia, junto com a hipercapnia, ocasiona o aumento dos níveis de catecolaminas, renina e aldosterona, o que pode levar à reten-ção de sal e água;
 - Hipóxia, aumento do trabalho respiratório e níveis aumentados de citocinas e TNF-beta podem levar a significativa perda de peso (caquexia).
+
+Vídeo
+Características da DPOC
+ 
+
 3. Processo inflamatório crônico das vias aéreas
+
 O tabagismo (ativo e passivo) de longe é o maior responsável por DPOC. Estima-se que 90% dos casos o têm como fator etiológico. 
+
+Dica
+A mensuração da carga tabágica é simples. Utilizando a variável anos/maço, deve-se multiplicar o número de anos de taba-gismo pela média de maços fumados ao dia (um maço tem 20 cigarros). Considera-se uma carga significativa superior a 10 anos/maço. 
+
+Pergunta
+2011 - SES-RJ
+1. É consensual o pensamento de que o tabagismo é a principal causa evitável de doenças e de mortes prematuras, sendo a quantificação da unidade anos/maço um parâmetro de grande valia na avaliação prognóstica de indivíduos fumantes. Assim, em pessoa de 60 anos que fumou 30 cigarros por dia dos 20 aos 50 anos, a carga tabágica, em anos/maço, é de: 
+a) 30
+b) 45
+c) 60
+d) 90
+Resposta no final do capítulo
+
 Tabela 3 - Fatores envolvidos
-Inalação de partículas ambien-tais	Dióxido de enxofre, químicos ocupacionais como o cádmio e partículas associadas ao cozimento em locais fechados. Um estudo demonstrou que a exposição ambiental é responsável por cerca de 19% dos casos de DPOC e 31% dos casos em não fumantes. Também a exposição à fumaça de fogo de lenha apresenta relação definida com DPOC.
-Genéticos	O fator mais bem documentado é a deficiência de alfa-1-AT (Tabela 5). Os pacientes podem apresentar enfisema precoce, mas, ainda assim, a maioria dos homozigotos para deficiência não apresenta doença clínica. Deve-se pontuar, no entanto, que, ao realizar provas de função pulmo-nar em idade acima de 70 anos, quase todos os indivíduos apresentam alteração que define DPOC.
+Inalação de partículas ambientais	Dióxido de enxofre, químicos ocupacionais como o cádmio e partículas associadas ao cozimento em locais fechados. Um estudo demonstrou que a exposição ambiental é responsável por cerca de 19% dos casos de DPOC e 31% dos casos em não fumantes. Também a exposição à fumaça de fogo de lenha apresenta relação definida com DPOC.
+Genéticos	O fator mais bem documentado é a deficiência de alfa-1-AT (Tabela 5). Os pacientes podem apre-sentar enfisema precoce, mas, ainda assim, a maioria dos homozigotos para deficiência não apre-senta doença clínica. Deve-se pontuar, no entanto, que, ao realizar provas de função pulmonar em idade acima de 70 anos, quase todos os indivíduos apresentam alteração que define DPOC.
+
+Dica
+Apesar de o tabagismo ser o principal fator envolvido na doença pulmonar obstrutiva crônica, deve-se atentar-se para os fatores ambientais (inalação de partículas de enxofre, cádmio) e para doenças genéticas (deficiência de alfa-1-antitripsina).
+
 Existe um processo inflamatório crônico nas vias aéreas do paciente com DPOC, mas essa inflamação difere, significativa-mente, da vista na asma brônquica. A via final da inflamação na DPOC é o desbalanço entre as proteases (lesivas ao epitélio respiratório) e as antiproteases. 
+
 Tabela 4 - Principais efetores da inflamação
-Celularidade	Há uma inflamação nas vias aéreas periféricas (bronquíolos) e no parênquima pulmonar. Eles são infiltrados com macrófagos, linfócitos citotóxicos CD8+ e neutrófilos. No lavado broncoalveolar, há aumento de polimorfonucleares e macrófagos, diferente da asma, em que há predomínio de eosinófilos. Macrófagos parecem ter um papel crítico: são de 5 a 10 vezes mais frequentes do que em outros locais, estão localizados nos sítios de destruição e são ativados pelas partículas do cigarro.
-Papel das proteases	Elastase, proteinase 3 e catepsinas são liberadas por polimorfonucleares e macrófagos. Eles causam destruição do tecido conectivo e estão associados à produção de enfisema em animais. A elastase é inibida pela alfa-1-AT no parênquima pulmonar, e, certamente, a sua deficiência está associada a enfisema nos humanos. Entretanto, é incerto o papel da elastase em tabagistas sem deficiência de alfa-1-AT.
-Metaloproteases	Têm altas concentrações no lavado broncoalveolar. Os macrófagos e polimorfonucleares são os principais responsáveis pela produção das metaloproteases. Causam destruição dos tecidos, e seus derivados são quimiotáticos. Há crescente evidência do seu papel na DPOC. As mais envolvi-das são metaloproteinase 1 (colagenase), metaloproteinase 9 (gelatinase B) e metaloproteinase 12 (metaloelastase). 
+Celularidade	Há uma inflamação nas vias aéreas periféricas (bronquíolos) e no parênquima pulmonar. Eles são infiltrados com macrófagos, linfócitos citotóxicos CD8+ e neutrófilos. No lavado broncoalveolar, há aumento de polimor-fonucleares e macrófagos, diferente da asma, em que há predomínio de eosinófilos. Macrófagos parecem ter um papel crítico: são de 5 a 10 vezes mais frequentes do que em outros locais, estão localizados nos sítios de destruição e são ativados pelas partículas do cigarro.
+Papel das proteases	Elastase, proteinase 3 e catepsinas são liberadas por polimorfonucleares e macrófagos. Eles causam des-truição do tecido conectivo e estão associados à produção de enfisema em animais. A elastase é inibida pela alfa-1-AT no parênquima pulmonar, e, certamente, a sua deficiência está associada a enfisema nos huma-nos. Entretanto, é incerto o papel da elastase em tabagistas sem deficiência de alfa-1-AT.
+Metaloproteases	Têm altas concentrações no lavado broncoalveolar. Os macrófagos e polimorfonucleares são os principais responsáveis pela produção das metaloproteases. Causam destruição dos tecidos, e seus derivados são quimiotáticos. Há crescente evidência do seu papel na DPOC. As mais envolvidas são metaloproteinase 1 (colagenase), metaloproteinase 9 (gelatinase B) e metaloproteinase 12 (metaloelastase). 
 Deficiência de 
-“protetores” endógenos	Alfa-1-AT, TIMP1, TIMP2 e TIMP3 (inibidor tecidual das metaloproteinases) são os principais antagonistas das proteases. As TIMPs são secretadas pelo epitélio das vias aéreas. O cigarro leva a um processo inflamatório em vias aéreas com aumento da liberação de proteases e diminuição da secreção das TIMPs. Talvez o polimorfismo genético possa agir influenciando esse desequilí-brio.
+“protetores” endógenos	Alfa-1-AT, TIMP1, TIMP2 e TIMP3 (inibidor tecidual das metaloproteinases) são os principais antagonistas das proteases. As TIMPs são secretadas pelo epitélio das vias aéreas. O cigarro leva a um processo inflama-tório em vias aéreas com aumento da liberação de proteases e diminuição da secreção das TIMPs. Talvez o polimorfismo genético possa agir influenciando esse desequilíbrio.
 Estresse oxidativo	Causa um aumento na produção de peróxido de hidrogênio e de outras substâncias relacionadas à oxidação.
-Efeitos sistêmicos	O processo de destruição pulmonar leva a um aumento nas concentrações séricas de TNF e inter-leucinas e aumento da expressão de moléculas de adesão. A DPOC, especialmente com o predo-mínio de enfisema, pode levar a profunda perda de peso, com fraqueza do músculo esquelético, inclusive com diminuição da força da musculatura respiratória.
-Tabela 5 - Características da deficiência de alfa-1-AT
-- A alfa-1-AT, uma proteína com atividade antielastase neutrofílica, é produzida pelo fígado (em quantidade muito menor por neutrófilos e monócitos). Concentração sérica maior que 35% é considerada protetora. Há 75 alelos conhecidos da alfa-1-AT, herdados de maneira autossômica codominante. A classificação é em normal (MM), deficiente (ZZ), nulo (null), disfuncional;
-- A forma mais comum associada à deficiência de alfa-1-AT é o alelo-ZZ (ou PiZZ fenótipo), que resulta de uma única mutação no aminoácido 342 e se transforma em uma polimerização espontânea do polipeptídio, impedindo a sua liberação na circula-ção. Essa forma está associada a cirrose e enfisema pulmonar. Outras possibilidades são o fenótipo null-null, com níveis inde-tectáveis de alfa-1-AT, e o fenótipo null-heterozigoto, que resulta em quantidades intermediárias de alfa-1-AT;
+Efeitos sistêmicos	O processo de destruição pulmonar leva a um aumento nas concentrações séricas de TNF e interleucinas e aumento da expressão de moléculas de adesão. A DPOC, especialmente com o predomínio de enfisema, pode levar a profunda perda de peso, com fraqueza do músculo esquelético, inclusive com diminuição da força da musculatura respiratória.
+
+Tabela 5 - Características da deficiência de alfa-1-antitripsina
+- A alfa-1-AT, uma proteína com atividade antielastase neutrofílica, é produzida pelo fígado (em quantidade muito menor por neu-trófilos e monócitos). Concentração sérica maior que 35% é considerada protetora. Há 75 alelos conhecidos da alfa-1-AT, herdados de maneira autossômica codominante. A classificação é em normal (MM), deficiente (ZZ), nulo (null) e disfuncional;
+- A forma mais comum associada à deficiência de alfa-1-AT é o alelo-ZZ (ou PiZZ fenótipo), que resulta de uma única mutação no aminoácido 342 e se transforma em uma polimerização espontânea do polipeptídio, impedindo a sua liberação na circulação. Essa forma está associada a cirrose e enfisema pulmonar. Outras possibilidades são o fenótipo null-null, com níveis indetectáveis de alfa-1-AT, e o fenótipo null-heterozigoto, que resulta em quantidades intermediárias de alfa-1-AT;
 - Deve-se suspeitar dela nas seguintes situações: 
 · Enfisema em paciente com menos de 45 anos;
 · Enfisema sem fator de risco evidente;
 · Enfisema com predomínio nos lobos inferiores;
 · Doença hepática inexplicada;
 · Vasculite com ANCA positivo;
-· História familiar de enfisema, doença hepática, paniculite ou bronquiectasia.
-- Em uma série de 1.129 casos, os pacientes começaram a apresentar tosse, dispneia, sibilos; tinham uma média de VEF1 menor que 50%. Nessa série, 80% dos indivíduos tinham uma história familiar positiva para doença pulmonar e 25% para doença he-pática;
+· História familiar de enfisema, doença hepática, paniculite ou bronquiectasia. 
+- Em uma série de 1.129 casos, os pacientes começaram a apresentar tosse, dispneia, sibilos; tinham uma média de VEF1 menor que 50%. Nessa série, 80% dos indivíduos tinham uma história familiar positiva para doença pulmonar e 25% para doença hepáti-ca;
 - O tabagismo é um cofator especial. A perda média do VEF1 na deficiência grave de alfa-1-AT é de 50 a 80mL ao ano, mas, se o indivíduo fuma, essa perda aumenta para 100 a 130mL/ano;
 - Além do tratamento específico para DPOC, em alguns casos está indicada a reposição da enzima – a depender do nível sérico e do fenótipo do indivíduo.
+
 4. Diagnóstico e exames complementares
+
 O diagnóstico de DPOC exige dados clínicos (sintomas respiratórios crônicos e progressivos), funcionais (obstrução ao flu-xo aéreo) e epidemiológicos (fator de risco como o tabagismo). 
 A história e o exame físico, isoladamente, têm baixa sensibilidade. Em formas leves a moderadas de DPOC, o exame físico pode ser absolutamente normal. O principal sintoma associado é a dispneia, que é progressiva com a evolução da doença. Alguns índices de avaliação de dispneia, como a classificação do MRC (Medical Research Council) modificado, apresentam correlação com prognósticos dos pacientes com DPOC. Tal classificação é adotada pela American Thoracic Society para avalia-ção da dispneia, conforme a Tabela 6.
-Tabela 6 - Classificação MRC de dispneia
-Graus de 
-dispneia	Esforço físico
+
+Tabela 6 - Classificação do Medical Research Council de dispneia
+Graus de dispneia	Esforço físico
 0	“Tenho falta de ar para realizar exercício intenso.”
 1	“Tenho falta de ar quando apresso o passo, ou subo escadas ou ladeira.”
 2	“Preciso parar algumas vezes quando ando no meu passo ou ando mais devagar que outras pessoas de minha idade.”
 3	“Preciso parar muitas vezes por falta de ar quando ando perto de 100 metros ou poucos minutos de caminha-da no plano.”
 4	“Sinto tanta falta de ar que não saio de casa, ou preciso de ajuda para me vestir ou tomar banho sozinho.”
+
 Outro sintoma frequente é a tosse, ainda mais que a dispneia. A primeira pode ser diária ou intermitente e preceder a se-gunda, ou ambas aparecem concomitantemente. O aparecimento da tosse no fumante é, entretanto, comum, e muitos paci-entes não a julgam um sintoma de doença, considerando-a um sintoma esperado em um tabagista.
-Tabela 7 - Sintomas que podem ser encontrados em pacientes com DPOC
+
+Tabela 7 - Sintomas que podem ser encontrados em pacientes com doença pulmonar obstrutiva crônica
 - Sibilos, expiração forçada, diminuição do murmúrio vesicular, aumento do diâmetro anteroposterior do tórax, taquipneia, taquicardia, roncos difusos, crepitações, bulhas cardíacas abafadas;
-- Achados de cor pulmonale, como edema de membros inferiores, hepatomegalia dolorosa, bulha pulmonar (P2) hiperfonética e palpável, sopro de insuficiência tricúspide;
+- Achados de cor pulmonale, como edema de membros inferiores, hepatomegalia dolorosa, bulha pulmonar (P2) hiperfonética e palpá-vel, sopro de insuficiência tricúspide;
 - Presença do sinal de Kussmaul (ingurgitamento das veias do pescoço com inspiração);
 - Cianose e pletora podem surgir mais tardiamente.
+
 Um detalhe importante na propedêutica de pacientes com DPOC: baqueteamento digital não constitui sinal de DPOC; quando presente, pode indicar doenças associadas (Tabela 8). 
+
 Tabela 8 - Principais causas de baqueteamento digital
 - Insuficiência hepática;
 - Neoplasia de pulmão (principalmente, adenocarcinoma);
@@ -77,19 +123,25 @@ Tabela 8 - Principais causas de baqueteamento digital
 - Fístula arteriovenosa;
 - Cardiopatia congênita cianótica;
 - Endocardite bacteriana.
+
 A GOLD sugere alguns achados sugestivos do diagnóstico de DPOC, resumidos na Tabela 9.
-Tabela 9 - Indicadores para a consideração do diagnóstico de DPOC
+
+Tabela 9 - Indicadores para a consideração do diagnóstico de doença pulmonar obstrutiva crônica
 Tosse crônica	Presente de modo intermitente ou diariamente e, com frequência, ao longo do dia; raramente apenas noturna
 Produção crônica de expectora-ção	Qualquer forma de produção crônica de expectoração que pode indicar DPOC
 Dispneia	- Progressiva: agrava-se com o tempo;
 	- Persistente: presente diariamente;
-	- Descrita pelo paciente como esforço aumentado para respirar, peso, cansaço ou sufocamen-to;
+	- Descrita pelo paciente como esforço aumentado para respirar, peso, cansaço ou sufocamento;
 	- Agravada com exercício;
 	- Agravada durante infecções respiratórias.
 História de exposição a fatores de risco	- Fumaça de tabaco;
 	- Poeiras e produtos químicos ocupacionais;
 	- Fumaça proveniente da cozinha domiciliar e da queima de combustíveis.
-Tabela 10 - Sensibilidade, especificidade e Likelihood Ratio (LR – razão de verossimilhança) dos dados da história e do exame físico no diagnóstico de DPOC
+
+Quadro clínico
+Tosse crônica intermitente, expectoração crônica, dispneia progressiva ou persistente e história positiva para fatores de risco (tabagis-mo, poeiras e químicos) são sintomas comuns aos pacientes com DPOC.
+
+Tabela 10 - Sensibilidade, especificidade e Likelihood Ratio (LR – razão de verossimilhança) dos dados da história e do exame físico no diagnóstico de doença pulmonar obstrutiva crônica
 Achados	Sensibilidade	Especificidade	LR (+)	LR (-)
 Tabagismo	92%	49%	1,8	0,16
 Sibilos	61%	84%	3,3	0,56
@@ -100,43 +152,74 @@ Tórax “em tonel”	10%	99%	10	0,9
 Hipofonese de bulhas	13%	98%	10	0,88
 Murmúrio vesicular diminuído	37%	90%	3,7	0,7
 Roncos	8%	89%	5,9	0,95
+
 A - Provas de função pulmonar
 Trata-se de exames fundamentais para o diagnóstico e o estadiamento da DPOC. A presença de relação VEF1–CVF inferior a 0,7, associada aos dados clínicos e epidemiológicos, praticamente define o diagnóstico. Em fases precoces da doença, o VEF1 pode ser preservado, com seu valor reduzindo conforme a progressão clínica (Tabela 11). 
 A avaliação de reversibilidade ao broncodilatador deve ser feita com o paciente clinicamente estável. A presença de re-versibilidade com uso de broncodilatador não afasta o diagnóstico, mas é mais provável o diagnóstico de asma isolada ou associada. 
 A classificação da DPOC é feita basicamente com a espirometria; alguns dados clínicos e gasométricos também podem ser associados para caracterizar a gravidade. Anteriormente, incluía o estágio zero, que representava pacientes com risco de desenvolver DPOC, como tabagistas e tossidores crônicos, com espirometria normal. Atualmente, essa classe foi suprimida. Os valores considerados para a classificação são os melhores obtidos pelos pacientes, pré ou pós-broncodilatador.
-Tabela 11 - Classificação da DPOC, conforme GOLD 2011 
+
+Tabela 11 - Classificação da doença pulmonar obstrutiva crônica, conforme GOLD 2011 
 GOLD 2011	Espirometria	Característica adicional
 I - Leve	VEF1–CVF <0,7 e VEF1 =80%	--
 II - Moderada	VEF1–CVF <0,7 e 50% =VEF1 <80%	--
 III - Grave	VEF1–CVF <0,7 e 30% =VEF1 <50%	Dispneia MRC 2 ou 3 ou hipoxemia (pO2 <60mmHg)
 IV - Muito grave	- VEF1–CVF <0,7;
 - VEF1 <30% ou um VEF1 <50% + insuficiência respiratória crônica.	Dispneia MRC 4, cor pulmonale ou hipercapnia (pCO2 >50mmHg)
+
+Tema de prova
+A classificação da DPOC baseia-se na espirometria e é tema frequente das provas.
+
 B - Radiografia de tórax 
 Pode ser normal em formas leves de DPOC, de maneira que não é útil para definir ou afastar o diagnóstico da doença, mas pode revelar diagnósticos associados ou diferenciais (neoplasia, pneumonia, doenças fibrosantes etc.). A radiografia de tórax é importante a pacientes com exacerbação, pois modifica a conduta em pouco mais de 20% dos casos, sendo, portanto, obri-gatória nessa situação. Na deficiência de alfa-1-AT, essas zonas de enfisema predominam em lobos inferiores. Retificação do diafragma, aumento de espaço retroesternal e retrocardíaco, aumento de espaço entre as costelas e sinais de hipertensão pulmonar também podem estabelecer o diagnóstico de DPOC. 
-Tabela 12 - Principais achados diagnósticos de DPOC em radiografia de tórax
+
+Tabela 12 - Principais achados diagnósticos de doença pulmonar obstrutiva crônica em radiografia de tórax
 Achados radiológicos	Sensibilidade	Especificidade
 Diafragma direito abaixo da 7ª costela	30 a 40%	87%
 Espaço retroesternal >4,4cm	32%	85 a 93%
 Diâmetro cardíaco <11,5cm	23 a 29%	89 a 95%
+
  
 Figura 3 - Radiografia de tórax de enfisema de predomínio em lobos inferiores 
+
  
-Figura 4 - Radiografias posteroanterior e em perfil de DPOC evidenciando sinais de hiperinsuflação
+Figura 4 - Radiografias posteroanterior e em perfil de doença pulmonar obstrutiva crônica evidenciando sinais de hiperinsuflação
+
 C - Eletrocardiograma 
 Pode mostrar sinais de hipertensão pulmonar (onda P apiculada em DII, desvio do eixo para a direita), que pode ser indí-cio de DPOC muito grave. Durante a exacerbação, podem ser observadas arritmias atriais, sendo a taquicardia atrial multifocal a mais característica.
+
 D - Tomografia computadorizada de tórax 
 Habitualmente, é desnecessária para o diagnóstico. O achado de enfisema não define o diagnóstico de DPOC, tampouco tem significado patológico. Pela tomografia, podem-se caracterizar 3 tipos de enfisema: enfisema parasseptal (observado na região subpleural, sem relação com tabagismo e sem significado patológico), enfisema centrolobular (associado ao hábito de fumar; eventualmente, assume o aspecto “em roído de traça”), enfisema panlobular (muito comum em deficiência de alfa-1-AT). É possível encontrar bolhas. 
+
  
 Figura 5 - Enfisema parasseptal 
+
  
 Figura 6 - Enfisema centrolobular
+
  
 Figura 7 - Enfisema panlobular 
+
+Pergunta
+2013 - UFPR
+2. A Doença Pulmonar Obstrutiva Crônica (DPOC) caracteriza a obstrução lenta e progressiva das vias aéreas, geralmente associada ao tabagismo, não reversível e não secundária a outra causa específica. Com relação a esse assunto, é correto afirmar que: 
+a) a base anatômica da bronquite crônica é a dilatação dos espaços aéreos distais
+b) o enfisema centrolobular é quase exclusivamente observado em fumantes, tendendo a ocorrer nos lobos pulmonares superiores
+c) a bronquite crônica associa-se diretamente e de forma imprescindível à obstrução das vias aéreas
+d) nela ocorre diminuição na resistência ao fluxo aéreo
+e) o enfisema panacinar envolve principalmente os lobos superiores
+Resposta no final do capítulo
+
 E - Gasometria arterial 
 As alterações relevantes de troca gasosa aparecem em fase avançada da DPOC, o que torna a gasometria um exame dis-pensável na maioria das vezes. É indicada para avaliar a gravidade da doença em pacientes que tenham a saturação de oxigê-nio inferior a 92%, com o objetivo de avaliar indicação de oxigênio domiciliar. A hipercapnia habitualmente surge em fase bem mais avançada. 
+
+Importante
+Pacientes enfisematosos têm centro respiratório mais sensível ao CO2 e não permitem o aparecimento de hipoventilação com hipoxemia e retenção de CO2 mesmo com dispneia. Enquanto bronquíticos têm centro respiratório pouco sensível ao CO2, permitindo hipoventilação, retenção de CO2, hipoxemia e elevação da pressão arterial pulmonar (cor pulmonale).
+
 5. Diagnóstico diferencial
+
 O diagnóstico diferencial é amplo e pode incluir pneumonia, insuficiência cardíaca, arritmias, pneumotórax, derrame pleural, embolia pulmonar, câncer de pulmão, tuberculose, bronquiectasias, bronquiolite obliterante e panbronquiolite difu-sa.
 O diagnóstico diferencial com asma é o que gera mais dificuldade, tanto que hoje em dia tem-se aceitado o diagnóstico de associação de DPOC e asma em alguns casos, principalmente naqueles que mesclam características relevantes das 2 doenças (corresponde a menos de 10% dos casos).
+
 Tabela 13 - Diagnósticos diferenciais 
 Diagnósticos	Características sugestivas
 DPOC	- Surgimento na meia-idade;
@@ -156,29 +239,48 @@ Insuficiência cardíaca congestiva	- Estertores crepitantes finos nas bases à aus
 Bronquiectasia	- Grande quantidade de expectoração purulenta;
 	- Comum associação a infecção bacteriana;
 	- Estertores crepitantes grosseiros/baqueteamento à ausculta;
-	- Raio x de tórax/tomografia que revela dilatação brônquica e espessamento da parede brônquica.
+	- Raio x de tórax/tomografia que revela dilatação brônquica e espessamento da parede brôn-quica.
 Tuberculose	- Surgimento em qualquer idade;
 	- Raio x de tórax que revela infiltração pulmonar ou lesões cavitadas;
 	- Confirmação microbiológica;
 	- Alta prevalência local de tuberculose.
-Bronquiolite 
-obliterante	- Surgimento em indivíduos mais jovens, não fumantes;
+Bronquiolite obliterante	- Surgimento em indivíduos mais jovens, não fumantes;
 	- Possível história de artrite reumatoide ou colagenose;
 	- Tomografia na expiração que apresenta áreas hipodensas.
-Observação: essas características tendem a ser típicas das respectivas doenças, mas não ocorrem em todos os casos. Por exemplo, uma pessoa que nunca fumou pode desenvolver DPOC (especialmente, no mundo em desenvolvimento, onde outros fatores de risco podem ser mais relevantes do que o tabagismo); a asma pode desenvolver-se em adultos e mesmo em pacientes de idade avança-da.
+Observação: essas características tendem a ser típicas das respectivas doenças, mas não ocorrem em todos os casos. Por exemplo, uma pessoa que nunca fumou pode desenvolver DPOC (especialmente, no mundo em desenvolvimento, onde outros fatores de risco podem ser mais relevantes do que o tabagismo); a asma pode desenvolver-se em adultos e mesmo em pacientes de idade avançada.
+
+Diagnóstico diferencial
+Os diagnósticos principais são asma (limitação de fluxo reversível), insuficiência cardíaca congestiva (restrição e não limitação de fluxo), tuberculose (há confirmação microbiológica) e bronquiolite obliterante (indivíduos jovens, não fumantes).
+
 6. Particularidades no manejo ambulatorial 
+
 A - Tratamento não farmacológico
 Pacientes com DPOC se beneficiam de medidas não medicamentosas:
 1 - O paciente tem de abandonar o tabagismo: a persistência do vício está associada a pior prognóstico, maior queda anual do VEF1, maior número de exacerbações e maior chance de internação e de morte. Devem-se usar todas as medidas farma-cológicas (bupropiona, nicotina ou ambos) e não farmacológicas (exercícios, psicoterapia etc.). 
 2 - Indicar vacinação (anual para influenza e a cada 5 anos para pneumococo).
-3 - Indicar reabilitação pulmonar para os pacientes com sintomas persistentes.
+3 - Indicar reabilitação pulmonar para os pacientes com sintomas persistentes, de classificação moderada a grave.
+
+Tema de prova
+Apesar de simples, as medidas não farmacológicas para o tratamento da DPOC estão sempre caindo nas questões de Resi-dência Médica.
+
+Pergunta
+2012 - UFSC
+3. Uma paciente de 68 anos, em consulta no ambulatório por falta de ar aos esforços, não tem história de tabagismo, porém cozinhou em fogão a lenha diariamente por 40 anos. Ao exame físico, apresenta murmúrio vesicular diminuído globalmente sem ruídos adventícios. Além disso, o raio x de tórax evidencia sinais de hiperinsuflação e espirometria com VEF1–CVF = 62% (pós-broncodilatador) e VEF1 = 53% (pós-broncodilatador). O diagnóstico, o estadiamento e a necessidade de reabilita-ção pulmonar para a paciente são:
+a) DPOC moderada e necessidade de reabilitação pulmonar
+b) DPOC grave e necessidade de reabilitação pulmonar
+c) asma grave, sem necessidade de reabilitação pulmonar
+d) DPOC muito grave e necessidade de reabilitação pulmonar
+e) DPOC moderada, sem necessidade de reabilitação pulmonar
+Resposta no final do capítulo 
+
 B - Tratamento farmacológico
 As medicações disponíveis para o tratamento de DPOC têm como objetivo principal melhorar a qualidade de vida dos pa-cientes e compreendem broncodilatadores, glicocorticoides e metilxantinas. A escolha entre um ou outro broncodilatador depende de cada paciente. Em geral, recomenda-se um deles, e é possível associar outros, de acordo com os sintomas. 
 A descrição das principais medicações utilizadas para tratamento da DPOC será discutida a seguir. 
+
 a) Broncodilatadores de curta duração 
 São recomendados como terapia de resgate, indicados a todos os pacientes com DPOC. O uso sob demanda, conforme a presença de sintomas, tem o mesmo impacto clínico que o uso regular por horário. Considerando menores custo e ocorrên-cia de efeitos adversos do uso sob demanda, essa tem sido a recomendação mais aceita.
 Os beta-agonistas são os broncodilatadores mais efetivos no controle da hiperinsuflação dinâmica da DPOC. Considerando a pequena resposta aos broncodilatadores quando comparada ao uso na asma, por exemplo, o uso concomitante de anticoli-nérgicos sempre é recomendado, na tentativa de otimizar o efeito desejado.
-- Beta-agonistas
+Beta-agonistas
 Salbutamol
 Apresenta atuação preferencial nos receptores beta-2, ativando a adenil-ciclase e aumentando o AMP cíclico. Esse au-mento causa relaxamento da musculatura brônquica e inibição da liberação de mediadores inflamatórios nos mastócitos.
 Aerossol: dose usual de 200 a 400µg, com intervalo de 4 a 6 horas. A forma inalatória também pode ser usada no pronto-socorro, na dose de 200 a 400µg até de 20/20min na 1ª hora;
@@ -187,65 +289,65 @@ Fenoterol
 Tem índice de efeitos adversos um pouco maior do que o salbutamol.
 Aerossol: dose usual de 200 a 400µg, com intervalo de 4 a 6 horas. A forma inalatória também pode ser usada no pronto-socorro, na dose de 200 a 400µg até de 20/20min na 1ª hora;
 Nebulização: de 10 a 20 gotas diluídas em 3 a 5mL de soro fisiológico, com intervalo de 4 a 6 horas.
-- Anticolinérgico
+Anticolinérgico
 Brometo de ipratrópio
-Diminui a ação da acetilcolina nas fibras pós-gangliônicas muscarínicas que terminam no epitélio, glândulas submucosas e musculatura lisa das vias aéreas, reduzindo assim o tônus broncoconstritor.
+Diminui a ação da acetilcolina nas fibras pós-gangliônicas muscarínicas (M1 e M3) que terminam no epitélio, glândulas submucosas e musculatura lisa das vias aéreas, reduzindo assim o tônus broncoconstritor.
 Aerossol: a dose usual é de 2 a 3 puffs (de 400 a 600µg), com intervalo de 4 horas;
 Nebulização: a dose usual é de 20 a 50 gotas diluídas em 3 a 5mL de soro fisiológico, com intervalo de 4 a 6 horas. 
+
 b) Broncodilatadores de longa duração
-- Beta-agonistas
+Beta-agonistas
 Em linhas gerais, têm semelhanças com o salbutamol, fenoterol ou terbutalina inalatórios, exceto pela maior duração de ação, que é de 12 horas para o formoterol e o salmeterol e de 24 horas para o indacaterol. Todos são utilizados por via inala-tória, em 2 tomadas para formoterol e salmeterol e 1 para o indacaterol.
-- Anticolinérgico
+Anticolinérgico
 Representado pelo brometo de tiotrópio. O mecanismo é semelhante ao do ipratrópio, mas com efeito prolongado, de cerca de 24 horas. Não tem utilidade no tratamento dos sintomas agudos, apenas como fármaco de manutenção. Existem 2 formulações no mercado: 
-- Cápsulas para inalação, cominação do conteúdo de 1 cápsula ao dia (18µg); 
-- Inalação, com 2 aplicações de 2,5mg sequenciais ao dia.
+Cápsulas para inalação, cominação do conteúdo de 1 cápsula ao dia (18µg); 
+Inalação, com 2 aplicações de 2,5mg sequenciais ao dia.
+
 c) Corticoides inalatórios
 São os mesmos fármacos utilizados no tratamento da asma, mas que habitualmente têm uso mais restrito no manejo da DPOC. Quando indicados, entretanto, reduzem o número de exacerbações e de reinternações, melhoram a qualidade de vida e aliviam os sintomas, além de não reduzirem a mortalidade. Estão indicados a pacientes com DPOC grave ou muito grave, com exacerbações repetidas no último ano. A despeito de muita confusão que o termo “exacerbações repetidas” gerou em diretrizes antigas, a tendência atual é considerar a ocorrência de 2 ou mais exacerbações nesses indivíduos como indicação de uso de corticoides inalatórios.
+
 d) Metilxantinas
 As xantinas são fármacos cada vez menos utilizados no tratamento de doenças pulmonares. Seu efeito direto ocorre por inibição da fosfodiesterase, causando o acúmulo de AMP cíclico intracelular e o consequente relaxamento do músculo liso das vias aéreas, embora se acredite que elas tenham um adicional, antagonizando os receptores da adenosina.
-As xantinas têm índice terapêutico muito baixo, sendo a dose clinicamente efetiva muito próxima da tóxica. Paraefeitos colaterais são extremamente comuns, principalmente náuseas e arritmias. Um detalhe na farmacodinâmica das xantinas ainda vem sendo muito abordado em provas de Residência: sua interação com outros fármacos ou condições clínicas, com aumento ou redução de seu nível sérico, ilustrados na Tabela 14.
-Tabela 14 - Situações clínicas e fármacos que interferem na depuração das xantinas
-Aumentam o nível sérico das xantinas
-- Cimetidina;
-- Alopurinol;
-- Eritromicina;
-- Claritromicina;
-- Ciprofloxacino;
-- Propranolol;
-- Insuficiência cardíaca;
-- Cirrose hepática;
-- Anticoncepcionais orais.
-Reduzem o nível sérico das xantinas
-- Rifampicina;
-- Fenitoína;
-- Barbitúricos;
-- Tabagismo.
+As xantinas têm índice terapêutico muito baixo, sendo a dose clinicamente efetiva muito próxima da tóxica. Paraefeitos colaterais são extremamente comuns, principalmente náuseas e arritmias. 
 Aminofilina IV: dose inicial em bolus de 6mg/kg de peso, IV, durante 20 a 30 minutos (manter uma infusão de, no máximo, 25mg/min). A dose de manutenção é de 0,5mg/kg/h para não fumantes e de 0,8mg/kg/h para tabagistas. É absolutamen-te importante monitorizar os níveis séricos, devido aos grandes riscos caso a droga atinja altas concentrações séricas (manter entre 10 e 20µg/mL);
 Teofilina: dose inicial de 5mg/kg (infusão <25mg/min) e manutenção com 0,4mg/kg/h; 
 Via oral: a dose da teofilina é de 100 a 900mg (comprimidos de 100, 200 e 300mg), sempre ofertados a cada 8 horas. É necessária, também nesses pacientes, a monitorização cuidadosa; 
 Bamifilina: disponível por via oral, em comprimidos de 300 ou 600mg, a cada 12 horas.
+
 e) Inibidor de fosfodiesterase-4 (roflumilaste)
 A fosfodiesterase (PDE) é uma enzima com propriedades inflamatórias e tem papel reconhecido na DPOC. As metilxanti-nas são os representantes clássicos desse grupo, mas não têm especificidade para a enzima. O roflumilaste, um inibidor espe-cífico da PDE-4, tem sido incorporado ao tratamento de alguns pacientes com DPOC e demonstrado redução da frequência de exacerbações.
 Os benefícios foram bem documentados entre pacientes da classificação espirométrica III ou IV, com manifestações de bronquite crônica, e com 2 ou mais exacerbações ao ano. O fármaco é usado por via oral, em uma tomada diária.
+
 f) Mucolíticos
 Pequenas evidências sugerem que pacientes com exacerbações frequentes e que não utilizem corticoide inalado possam se beneficiar do uso de mucolíticos, carbocisteína ou N-acetilcisteína. Pela pequena ocorrência de efeitos adversos, os muco-líticos podem ser tentados em indivíduos com doença grave e exacerbações frequentes.
+
 C - Tratamento de acordo com o estadio
 O tratamento da DPOC geralmente era indicado conforme o grau de anormalidade espirométrica. As recomendações re-centes da GOLD, no entanto, valorizam outros parâmetros, como o grau de dispneia apresentado e o risco de exacerbações no futuro (com base no histórico recente). 
+
+
  
-Figura 8 - Nova classificação da DPOC (GOLD 2013)
-Tabela 15 - Classificação de grupos 
-Grupo A	Poucos sintomas e risco baixo de exacerbações. O tratamento geralmente é feito com broncodilatador de curta duração sob demanda. Em alguns casos, pode ser indicado broncodilatador de ação prolongada.
-Grupo B 	Mais sintomas do que o grupo A, mas com risco pequeno de exacerbações. Necessitam do uso de broncodila-tador de ação prolongada; caso os sintomas sejam persistentes, deve ser associada outra classe de broncodila-tador. Em alguns casos, pode-se considerar o uso de xantinas, sobretudo na indisponibilidade dos broncodila-tadores. 
-Grupo C 	Poucos sintomas, mas risco elevado de exacerbações. Necessitam de combinação de corticoide inalatório com broncodilatador de longa duração (beta-agonista e/ou anticolinérgico); a xantina pode ser considerada em casos mais graves. O roflumilaste (inibidor de fosfodiesterase) pode ser usado por pacientes com bronquite crônica.
-Grupo D 	Muitos sintomas e risco elevado de exacerbações. A proposta terapêutica é similar à do grupo C, mas habitu-almente necessitam do tratamento combinado. O roflumilaste deve ser considerado a pacientes com bronqui-te crônica.
-Tabela 16 - Tratamento de DPOC estável
+Figura 8 - Nova classificação da doença pulmonar obstrutiva crônica 
+Fonte: adaptado de GOLD, 2015.
+
+Tabela 14 - Classificação de grupos 
+Grupo 
+A	Poucos sintomas e risco baixo de exacerbações. O tratamento geralmente é feito com broncodilatador de curta duração sob demanda. Em alguns casos, pode ser indicado broncodilatador de ação prolongada.
+Grupo 
+B 	Mais sintomas do que o grupo A, mas com risco pequeno de exacerbações. Necessitam do uso de broncodilatador de ação prolongada; caso os sintomas sejam persistentes, deve ser associada outra classe de broncodilatador. Em alguns casos, pode-se considerar o uso de xantinas, sobretudo na indisponibilidade dos broncodilatadores. 
+Grupo 
+C 	Poucos sintomas, mas risco elevado de exacerbações. Necessitam de combinação de corticoide inalatório com bronco-dilatador de longa duração (beta-agonista e/ou anticolinérgico); a xantina pode ser considerada em casos mais graves. O roflumilaste (inibidor de fosfodiesterase) pode ser usado por pacientes com bronquite crônica.
+Grupo 
+D 	Muitos sintomas e risco elevado de exacerbações. A proposta terapêutica é similar à do grupo C, mas habitualmente necessitam do tratamento combinado. O roflumilaste deve ser considerado a pacientes com bronquite crônica.
+
+Tabela 15 - Tratamento de doença pulmonar obstrutiva crônica estável
 	Estadio
 Recomendações	A	B	C	D
 Evitar fatores de risco.	Sim	Sim	Sim	Sim
 Cessar tabagismo.	Sim	Sim	Sim	Sim
 Vacinar.	Sim	Sim	Sim	Sim
 Indicar reabilitação pulmonar.	--	Sim	Sim	Sim
-Tabela 17 - Seleção de fármacos conforme a classificação da DPOC (GOLD, 2011)
+
+Tabela 16 - Seleção de fármacos conforme a classificação da doença pulmonar obstrutiva crônica (GOLD, 2011)
 Grupos	1ª escolha*	2ª escolha*	Alternativas**
 A	- Beta-agonista de curta dura-ção; ou
 - Anticolinérgico de curta dura-ção.	- Anticolinérgico de longa duração; ou
@@ -265,75 +367,125 @@ D	- Corticoide inalado + beta-agonista de longa duração; ou
 - Corticoide inalado + associação de bron-codilatador de longa duração; ou
 - Corticoide inalado + beta-agonista de longa duração + inibidor de PDE-4; ou
 - Combinação de broncodilatador de longa duração; ou
-- Anticolinérgico de longa duração e inibi-dor de PDE-4.	- Carbocisteína;
+- Anticolinérgico de longa duração e inibidor de PDE-4.	- Carbocisteína;
 - Anticolinérgico de curta duração; e/ou
 - Beta-agonista de curta duração;
 - Xantina.
 * Fármacos não estão em ordem preferencial em cada quadro. 
 ** Os fármacos alternativos podem ser usados isoladamente, mas preferencialmente serão associados ao tratamento.
+
+Tema de prova
+Cerne de toda DPOC, é obrigatório o conhecimento do tratamento conforme o seu estadio. 
+
+Pergunta
+2013 - UFRN
+4. Na avaliação clínica de riscos em pacientes com DPOC (Doença Pulmonar Obstrutiva Crônica), alguns aspectos devem ser considerados pelo médico. Leia-os a seguir:
+I - Nível de sintomas e presença de comorbidades
+II - Gravidade da alteração funcional
+III - Frequência de exacerbações
+IV - Alterações radiológicas
+Para diagnosticar clinicamente essa doença, o médico deve considerar os aspectos presentes em:
+a) I, III, IV
+b) II, IV
+c) I, II, III
+d) I, IV
+Resposta no final do capítulo 
+
+Pergunta
+2013 - UNITAU
+5. Você está atendendo um paciente, de 60 anos, no ambulatório de Clínica Médica, que se queixa de dispneia para cami-nhar no plano há 1 ano, tendo de andar mais devagar que as pessoas de sua idade. Tem tosse matinal com expectoração mucoide frequente, mas nega dor torácica, chiado no peito e história de alergia, conhecendo apenas primo de 1º grau que tem “bronquite”. Nega também etilismo, tendo sido tabagista de 40 anos/maço e parado de fumar há 5 anos por insistên-cia da esposa. Na ausculta pulmonar, você percebe murmúrio vesicular diminuído globalmente, sem ruídos adventícios, ritmo cardíaco regular em 2 tempos e sem sopros, e PA = 130x90mmHg. O paciente traz consigo uma espirometria com o seguinte resultado: CVF = 3,2L (82%), VEF1 = 1,8L (58%) e VEF1–CVF = 56%. Após broncodilatador, CVF = 3,3L (83%), VEF1 = 1,8L (58%) e VEF1–CVF = 54%. Com relação ao caso descrito, qual é a alternativa correta?
+a) o paciente é portador de Doença Pulmonar Obstrutiva Crônica (DPOC) GOLD 2 e deve ser tratado inicialmente com corti-coide inalatório diariamente e beta-2-agonista de curta ação de demanda, além de atividade física regular e vacinação anti-pneumocócica e antigripal
+b) o paciente pode ser portador de DPOC, por isso a tomografia de tórax é fundamental para o diagnóstico, pois mostrará áreas de enfisema, bem como aprisionamento aéreo (áreas de mosaico), se realizada a manobra expiratória
+c) o paciente é portador de DPOC GOLD 2 e deve ser tratado com broncodilatador de longa ação (beta-2-agonista e/ou anti-colinérgico), além de atividade física regular e vacinação antipneumocócica e antigripal
+d) o paciente pode ser portador de asma ou DPOC, por isso se deve iniciar o tratamento com beta-2-agonista associado a corticoides inalatórios, além de atividade física regular e vacinação antipneumocócica e antigripal
+e) o paciente é portador de DPOC e deve ser tratado com bloqueador da fosfodiesterase E4 (PDE4) 500mg, 1x/d
+Resposta no final do capítulo
+
 D - Oxigênio domiciliar
 A oxigenoterapia domiciliar para hipoxêmicos é uma medida terapêutica que já demonstrou melhorar a sobrevida de pa-cientes com DPOC; quando indicada, deve ser utilizada no mínimo por 16 horas por dia. As indicações com maior nível de evidência são:
 1 - paO2 =55mmHg em repouso, ou SO2 =88% sem sinais de cor pulmonale.
 2 - paO2 =59mmHg em repouso, ou SO2 entre 88 e 90%, com sinais de cor pulmonale.
 A titulação do oxigênio é feita ambulatorialmente, ofertando-se o menor fluxo que garanta uma SatO2 >90% em repouso. Após essa verificação, o paciente será orientado a utilizar esse valor quando em repouso, 1L a mais quando dormindo e 2L a mais durante atividades físicas.
 O momento ideal de avaliar a indicação de oxigenoterapia é com a doença estável. Após exacerbações, o paciente pode apresentar piora das trocas gasosas que serão revertidas em um período variável, entre 30 e 90 dias. 
+
+Dica
+A oxigenoterapia é uma medida que melhora a sobrevida do paciente e deve ser sempre indicada, quando necessária.
+
 E - Tratamento cirúrgico
 Dentre as opções cirúrgicas para o tratamento da DPOC, tem-se, em especial, a cirurgia de redução pulmonar e bulecto-mia, para pacientes com grandes bolhas de enfisema, além do transplante pulmonar. 
 A cirurgia de redução do volume foi avaliada, principalmente, no estudo NETT (National Emphysema Treatment Trial), que identificou características que ajudam a determinar pacientes com maior probabilidade de benefício com o procedimento: aqueles com enfisema predominante nos lobos superiores e baixa capacidade de exercício (por meio da ergoespirometria).
 O transplante pulmonar pode ser considerado alternativa a pacientes com doença pulmonar grave sem resposta aos tra-tamentos disponíveis. Entre os portadores de DPOC, o transplante deve ser reservado aos que apresentam contraindicação à cirurgia redutora do volume pulmonar ou aos previamente submetidos ao procedimento sem melhora ou que novamente apresentam piora funcional. A indicação pode ser considerada a pacientes com VEF1 <35%, principalmente se VEF1 <20%, sem alternativas terapêuticas, clínicas ou cirúrgicas, sem comorbidades, mas com menos de 65 anos e com boas condições psicossocial e familiar.
 A principal indicação da bulectomia é a presença de dispneia em pacientes com bolhas de enfisema que ocupam, pelo menos, 30% do hemitórax. Outra indicação é a história de pneumotórax. Os resultados cirúrgicos tendem a ser melhores em doentes com bolhas que ocupam mais de 50% de 1 hemitórax. O risco cirúrgico aumenta muito naqueles com VEF1 <40% do predito, na presença de dispneia severa, hipercapnia ou cor pulmonale: o risco cirúrgico torna proibitiva a cirurgia.
+
 F - Prognóstico
 O melhor parâmetro disponível hoje para avaliação de prognóstico de pacientes com DPOC é o índice BODE, publicado no início da década de 1970 no New England Journal of Medicine. O escore utiliza parâmetros como Índice de Massa Corpórea (IMC), distância que o indivíduo é capaz de caminhar em 6 minutos, classificação de dispneia da MRC e VEF1 (Tabela 18). 
-Tabela 18 - Classificação de dispneia pelo escore BODE
+
+Tabela 17 - Classificação de dispneia pelo escore BODE
 Variáveis	Pontos
 	0	1	2	3
 VEF1	=65%	50 a 64%	36 a 49%	=35%
 Distância em 6 minutos (m)	>350	250 a 349	150 a 249	=149
 IMC	>21	=21	--	--
 Classificação MRC	0 a 1	2	3	4
+
 Os pacientes que apresentaram escore BODE de 7 a 10 pontos manifestaram mortalidade de 80% em 52 meses; aqueles no quartil 1 (zero a 2) indicaram mortalidade em torno de 10%; entre os do 2º quartil (3 a 4), a mortalidade foi de 20 a 25%; e, no 3º quartil, um pouco menos de 40%. A correlação com sobrevida foi melhor do que a obtida pelo VEF1. Apesar desses resultados, essa classificação ainda não é universalmente aceita. Dentre as opções terapêuticas disponíveis para DPOC, as únicas capazes de modificar a sobrevida são cessação do tabagismo e oxigenoterapia (quando indicada).
+
 7. Exacerbação 
+
 A exacerbação é definida como aumento nos sintomas e piora da função pulmonar e caracteriza-se por piora da dispneia com aumento da produção e/ou mudança na característica do escarro (torna-se purulento). É uma causa comum de interna-ção, e, aparentemente, as infecções têm um papel central. Uma diferença importante durante a exacerbação é que aumen-tam os eosinófilos nas vias aéreas, o que talvez explique a melhora com corticoide nessa agudização.
 A GOLD utiliza 3 critérios cardinais para classificar a exacerbação de DPOC.
-Tabela 19 - Critérios utilizados pela GOLD para classificar a exacerbação de DPOC 
+
+Tabela 18 - Critérios utilizados pela GOLD para classificar a exacerbação de doença pulmonar obstrutiva crônica
 1 - Piora da dispneia.
 2 - Aumento da produção de escarro.
 3 - Escarro que se torna purulento.
+
 A exacerbação pode ser classificada em:
 Leve: 1 dos critérios cardinais + 1 achado adicional (infecção de vias aéreas superiores, febre sem causa aparente, sibilos, aumento da tosse, aumento na frequência respiratória ou frequência cardíaca em mais de 20% daquela de base);
 Moderada: 2 dos 3 critérios cardinais;
 Grave: presença dos 3 critérios cardinais.
+
+Dica
+É essencial o reconhecimento das exacerbações, caracterizadas como presença de piora da dispneia, aumento da produção ou alteração da característica do escarro.
+
 A avaliação da gravidade deve ser feita por meio dos sintomas e da avaliação dos gases arteriais. A espirometria não pare-ce adequada para a avaliação da gravidade da crise. A gasometria apresenta uma nuance importante: a presença de hiper-capnia não necessariamente indica gravidade maior. A razão é que alguns pacientes, no dia a dia, já apresentam pCO2 elevada pelo estadiamento avançado da doença – nesses casos, o bicarbonato é cronicamente elevado, para manter o pH em níveis normais. Na hipercapnia aguda, esse mecanismo de compensação inexiste, e o pH cai, traduzindo acidemia; assim, em pacien-tes na sala de emergência que tenham pCO2 elevada e pH normal, a gasometria não acresce gravidade; entretanto, naqueles com pCO2 elevada e pH baixo, a exacerbação reveste-se de gravidade extrema, e medidas devem ser adotadas para a corre-ção da pCO2, como a ventilação não invasiva.
 O papel das infecções bacterianas como o principal fator etiológico das exacerbações da DPOC ainda é controverso. Um estudo recente procurou avaliar se, antes da exacerbação, poderia haver uma mudança nas cepas bacterianas. Os autores estudaram, prospectivamente, 81 pacientes com DPOC, com coleta de escarro mensalmente e nova coleta durante uma exa-cerbação. Em todas as amostras, foi realizada tipagem molecular para vários germes. Os principais resultados foram 374 epi-sódios de exacerbação: em 33% das exacerbações, houve mudança na cepa bacteriana. Dos doentes que não tiveram ne-nhuma exacerbação, apenas 15,4% tiveram mudança na cepa. Isso leva a um risco relativo = 2,15 (IC95%: 1,83 a 2,53).
 Nesse estudo, concluiu-se que a aquisição de novas cepas de pneumococo, Haemophilus ou Moraxella pode estar associ-ada a maior chance de exacerbação da DPOC. Entretanto, em grande parte, não foi encontrada uma mudança nas cepas, o que implica a existência de outros fatores envolvidos. Acredita-se que parte das exacerbações se deva a infecções virais (até 1/3) ou fatores ambientais (poluição e alterações de temperatura). 
 Ainda que a etiologia infecciosa seja a principal, é importante valorizar as etiologias não infecciosas: pneumotórax, infarto agudo do miocárdio, embolia pulmonar, trauma, arritmia etc.
+
 8. Tratamento da exacerbação 
+
 A - Internação versus tratamento ambulatorial
 A decisão de internar ou não o paciente baseia-se em vários fatores, como gravidade da exacerbação, gravidade da DPOC de base, comorbidades e suporte adequados em casa. Não há regras firmes, e deve-se usar o bom senso. Algumas vezes, o paciente apresenta descompensação grave e pode necessitar de tratamento em UTI.
-Tabela 20 - Indicações de internação do paciente com DPOC considerado pelo Consenso Brasileiro
-- Insuficiência respiratória grave: aumento acentuado da dis-pneia, distúrbios de conduta ou hipersonolência, incapacidade para alimentar-se, dormir ou deambular;
+
+Tabela 19 - Indicações de internação do paciente com doença pulmonar obstrutiva crônica considerado pelo Consenso Brasileiro
+- Insuficiência respiratória grave: aumento acentuado da dispneia, distúrbios de conduta ou hipersonolência, incapacidade para alimen-tar-se, dormir ou deambular;
 - Hipoxemia refratária ou hipercapnia com acidose (comparar com gasometrias prévias do paciente);
 - Complicações como tromboembolismo pulmonar, pneumonia ou pneumotórax;
-- Insuficiência cardíaca congestiva descompensada ou descom-pensação de outra condição clínica associada ao diabetes.
-Pode-se considerar, ainda, internação em pacientes está-veis, em caso de:
+- Insuficiência cardíaca congestiva descompensada ou descompensação de outra condição clínica associada ao diabetes.
+Pode-se considerar, ainda, internação em pacientes estáveis, em caso de:
 - Necessidade de procedimentos invasivos como broncoscopia;
 - Impossibilidade de acompanhamento no ambulatório no momento devido a problemas socioeconômicos;
 - Procedimentos cirúrgicos que necessitem de drogas sedativas ou hipnóticas. 
+
 B - Objetivos
 Os objetivos do tratamento da exacerbação da DPOC são tratar a etiologia, manter nível adequado de oximetria, reduzir a resistência das vias aéreas e melhorar a performance muscular. Ferramentas terapêuticas incluem oxigênio, broncodilatado-res, corticosteroides, antibióticos, fármacos específicos para comorbidades, ventilação não invasiva e, eventualmente, intuba-ção orotraqueal e ventilação mecânica.
+
 C - Broncodilatadores inalatórios
-Geralmente, há pouca melhora espirométrica, porém melhora sintomática importante da dispneia. 
+Geralmente, há pouca melhora espirométrica, porém há melhora sintomática importante da dispneia. 
 Estudos têm demonstrado a eficácia de anticolinérgicos e de beta-2-adrenérgicos de curta duração. Ao menos 3 grandes estudos controlados e randomizados mostraram que a associação do beta-2-adrenérgico ao anticolinérgico foi melhor do que ambos isoladamente; houve significativa melhora no VEF1 de 25% com a terapia combinada. Os medicamentos e as doses recomendadas são:
 Salbutamol ou fenoterol: de 10 a 20 gotas (de 2,5 a 5mg) diluídas em 3 a 5mL de soro fisiológico – 3 inalações a cada 20 minutos ou mesmo contínuas, se o paciente se apresenta muito grave. Depois, aumentar o intervalo entre as doses (1/1h, 2/2h e assim por diante, de acordo com a melhora);
 Brometo de ipratrópio: de 20 a 40 gotas na mesma solução da inalação citada. 
 As Diretrizes Nacionais recomendam utilizar a combinação de beta-2-adrenérgico e anticolinérgico inalados no alívio da dispneia. Não há vantagem adicional de uso de beta-agonista sistêmico.
+
 D - Antibióticos
 Existe muita controvérsia com relação às indicações de antibióticos nas exacerbações de DPOC. A recomendação mais aceita é fornecer antibacterianos nas seguintes situações:
-- Estigmas inequívocos de infecção bacteriana (exemplo: foco pneumônico em radiografia);
-- Exacerbação com secreção purulenta;
-- Exacerbação grave da DPOC (definida como aquela que necessita de admissão em UTI).
-As bactérias mais associadas são Haemophilus influenzae, Streptococcus pneumoniae e Moraxella catarrhalis. A escolha do antibacteriano, entretanto, é outro ponto de polêmica, pois outros germes podem estar envolvidos, como Pseudomonas ou outros com padrão de resistência relevante. A presunção do germe responsável depende da gravidade da doença e fatores de risco para mau prognóstico, e as recomendações da Sociedade Brasileira de Pneumologia e Tisiologia (SBPT) estão na Ta-bela 21. 
-Tabela 21 - Fatores de risco para evolução desfavorável de DPOC
+Estigmas inequívocos de infecção bacteriana (exemplo: foco pneumônico em radiografia);
+Exacerbação com secreção purulenta;
+Exacerbação grave da DPOC (definida como aquela que necessita de admissão em UTI).
+As bactérias mais associadas são Haemophilus influenzae, Streptococcus pneumoniae e Moraxella catarrhalis. A escolha do antibacteriano, entretanto, é outro ponto de polêmica, pois outros germes podem estar envolvidos, como Pseudomonas ou outros com padrão de resistência relevante. A presunção do germe responsável depende da gravidade da doença e fatores de risco para mau prognóstico, e as recomendações da Sociedade Brasileira de Pneumologia e Tisiologia (SBPT) estão na Ta-bela 20. 
+
+Tabela 20 - Fatores de risco para evolução desfavorável de doença pulmonar obstrutiva crônica
 - Idade >65 anos;
 - Dispneia grave;
 - Comorbidade significativa (cardiopatia, diabetes mellitus com uso de insulina, insuficiência renal, insuficiência hepática);
@@ -342,42 +494,52 @@ Tabela 21 - Fatores de risco para evolução desfavorável de DPOC
 - Uso de corticoide sistêmico nos últimos 3 meses;
 - Uso de antibióticos nos últimos 15 dias;
 - Desnutrição.
-Tabela 22 - Seleção de antibacterianos na exacerbação da DPOC (modificado da SBPT, 2006)
+
+Tabela 21 - Seleção de antibacterianos na exacerbação da doença pulmonar obstrutiva crônica (modificado da Sociedade Brasileira de Pneumologia e Tisiologia, 2006)
 Grupos	Antibióticos recomendados
-VEF1 >50% sem fatores de risco	Betalactâmico/inibidor de betalactamase, ou cefuroxima, ou azitromicina ou claritromici-na
+VEF1 >50% sem fatores de risco	Betalactâmico/inibidor de betalactamase, ou cefuroxima, ou azitromicina ou claritromicina
 VEF1 >50% com fatores de risco	Quaisquer dos anteriores e levofloxacino, ou moxifloxacino, ou telitromicina
-VEF1 entre 35 e 50%	Levofloxacino, ou moxifloxacino, ou telitromicina, ou betalactâmico/inibidor de betalacta-mase
-VEF1 <35%	Levofloxacino, ou moxifloxacino, ou betalactâmico/inibidor de betalactamase, e cipro-floxacino se houver suspeita de Pseudomonas
+VEF1 entre 35 e 50%	Levofloxacino, ou moxifloxacino, ou telitromicina, ou betalactâmico/inibidor de betalactamase
+VEF1 <35%	Levofloxacino, ou moxifloxacino, ou betalactâmico/inibidor de betalactamase, e ciprofloxacino se houver suspeita de Pseudomonas
+
 E - Oxigênio
 Pacientes com exacerbação da DPOC e SatO2 <90% devem receber oxigênio em menor fluxo necessário para manter a oximetria superior a 90%.
 Especialmente em DPOC grave ou muito grave (GOLD III e IV), há risco de piora da acidose respiratória e da hipercapnia com o uso de oxigênio em altos fluxos. É importante lembrar que esses pacientes mais graves convivem adequadamente com a hipóxia. Por isso, não é necessário manter a sua saturação de oxigênio muito acima de 90%. De fato, é suficiente manter a oximetria nesses níveis, sendo que valores superiores não trazem benefícios adicionais. Ademais, fluxos excessivos podem ser deletérios para pacientes com DPOC grave, levando à redução do drive respiratório por acidose. Os mecanismos de aci-dose e hipercapnia induzidas pelo oxigênio são multifatoriais e incluem:
-- Redução no drive respiratório devido à correção da hipoxemia;
-- Aumento do desequilíbrio ventilação–perfusão;
-- Aumento do espaço morto.
+Redução no drive respiratório devido à correção da hipoxemia;
+Aumento do desequilíbrio ventilação–perfusão;
+Aumento do espaço morto.
 Durante a avaliação da alta hospitalar, quando ainda houver hipoxemia, a recomendação é que o indivíduo receba alta sem orientação de oxigenoterapia domiciliar e seja novamente avaliado em 30 a 45 dias, período em que a grande maioria já apresenta correção do distúrbio de trocas gasosas. Caso a hipoxemia persista nessa época, indica-se oxigenoterapia.
+
 F - Corticosteroides
 O corticosteroide sistêmico é indicado a qualquer exacerbação da DPOC, independente da etiologia. Seu uso é recomen-dado por 7 a 10 dias, na dose de 1mg/kg/d de prednisona ou equivalente, sem necessidade de redução gradual do fármaco.
 Os corticoides inalados não têm utilidade na exacerbação da DPOC.
+
 G - Mucolíticos
 O papel dos agentes mucolíticos na exacerbação da DPOC é limitado, inexistindo dados na literatura que permitam consi-derar seu uso rotineiro.
+
 H - Metilxantinas
 Apesar do uso disseminado de metilxantinas, não há evidência adequada que sustente o uso rotineiro na exacerbação da DPOC. São utilizadas em casos refratários, como opção terapêutica final. Não melhoram significativamente o VEF1 e podem causar graves efeitos adversos. 
+
 I - Outras terapêuticas 
 Hélio: estudos falharam em apontar qualquer benefício do heliox (combinação de gases hélio e oxigênio) no tratamento da exacerbação da DPOC, e, nesse momento, não está indicado;
 Fisioterapia respiratória: não há benefícios comprovados de que a fisioterapia respiratória de rotina, durante a exacerba-ção, seja benéfica. 
-J - Resumo
-Broncodilatadores: devem ser usados em todos os pacientes com exacerbação de DPOC. Recomenda-se o uso das medi-cações em associação;
-Corticosteroides: devem ser usados nos casos de exacerbação, não por mais que 2 semanas ou cronicamente, devido ao alto índice de efeitos colaterais;
-Antibióticos: são consensualmente indicados quando há exacerbação com expectoração purulenta, exacerbação grave ou estigmas inequívocos de infecção bacteriana;
-Oxigênio: deve-se fornecê-lo a todos os pacientes com dispneia no departamento de emergência. O objetivo é manter uma saturação acima de 90%;
-Metilxantinas: não devem ser usadas rotineiramente. Há grande incidência de efeitos adversos;
-Mucolíticos: não devem ser usados no departamento de emergência.
-K - Exames subsidiários
+
+Tabela 22 - Manejo da exacerbação da doença pulmonar obstrutiva crônica
+- Broncodilatadores, corticoide sistêmico e oxigênio suplementar para manter a SatO2 acima de 90% estarão sempre indicados;
+- Antibiótico na ausência de pneumonia estará indicado na exacerbação com secreção purulenta e se houver exacerbação grave;
+- Metilxantinas, mucolíticos e antitussígenos não estão recomendados rotineiramente.
+
+Tema de prova
+As medidas de manejo da exacerbação da DPOC também estão sempre presentes nas provas de Residência Médica.
+
+J - Exames subsidiários
 Os exames complementares devem ser direcionados à busca da etiologia ou da determinação da gravidade da exacerba-ção: radiografia de tórax (sempre indicada), tomografia de tórax (suspeita de foco pneumônico não visível à radiografia, sus-peita de embolia pulmonar), eletrocardiograma, enzimas cardíacas, ecocardiograma, gasometria arterial (naqueles com oxi-metria inferior a 92%), entre outros. 
-L - Ventilação não invasiva
-A ventilação não invasiva na forma de BiPAP está indicada a todos com exacerbação da doença e insuficiência respiratória aguda, respeitadas as contraindicações (Tabela 23). Seu principal objetivo é reduzir o trabalho respiratório por meio da oferta de 2 níveis de pressão positiva, um na inspiração (maior) e outro na expiração (menor) – por exemplo, pressão inspiratória de 14cmH2O e expiratória de 8cmH2O.  
+
+K - Ventilação não invasiva
+A ventilação não invasiva na forma de BiPAP está indicada a todos com exacerbação da doença e insuficiência respiratória aguda, respeitadas as contraindicações (Tabela 24). Seu principal objetivo é reduzir o trabalho respiratório por meio da oferta de 2 níveis de pressão positiva, um na inspiração (maior) e outro na expiração (menor) – por exemplo, pressão inspiratória de 14cmH2O e expiratória de 8cmH2O.  
 A CPAP, que fornece um nível único de pressão na inspiração e na expiração, pode ser problemática a pacientes com hi-percapnia acentuada ou acidemia importante, pois a pressão fornecida, útil na inspiração, pode aumentar o trabalho respira-tório na expiração, porque o indivíduo necessitará gerar mais força muscular para vencer a pressão fornecida pelo aparelho.
-Tabela 23 - Indicações e contraindicações de ventilação não invasiva durante a exacerbação da DPOC
+
+Tabela 23 - Indicações e contraindicações de ventilação não invasiva durante a exacerbação da doença pulmonar obstrutiva crônica
 Indicações
 - Insuficiência respiratória (dispneia que não melhora ou piora, mesmo com o tratamento habitual):
 · Uso de musculatura acessória e movimento abdominal paradoxal;
@@ -388,7 +550,9 @@ Contraindicações
 - Instabilidade hemodinâmica (hipotensão, infarto do miocárdio e arritmias graves);
 - Incapacidade de proteção das vias aéreas: vômitos, rebaixamento do nível de consciência, agitação psicomotora;
 - Secreção excessiva com risco de aspiração.
-M - Ventilação invasiva
+
+L - Ventilação invasiva
+
 Tabela 24 - Considerações para intubação orotraqueal
 - Grave dispneia com o uso de musculatura acessória e movimento abdominal paradoxal;
 - Frequência respiratória >35irpm;
@@ -398,23 +562,28 @@ Tabela 24 - Considerações para intubação orotraqueal
 - Confusão, sonolência;
 - Falência da ventilação não invasiva;
 - Outras complicações: sepse, embolia pulmonar, pneumonia etc.
+
 As presenças de alteração do nível de consciência, bradicardia ou iminência de parada cardiorrespiratória indicam neces-sidade de intubação orotraqueal imediata. Da mesma forma, durante a evolução no pronto-socorro, pode ser necessária a intubação, e esta deverá basear-se em parâmetros clínicos, antes que o doente se encontre em situação crítica com risco de parada cardiorrespiratória. A ventilação mecânica é uma intervenção que salva vidas e não deve ser adiada quando indicada. 
 Inicialmente, o paciente deve ser mantido com sedação profunda, evitando-se o uso de bloqueadores neuromusculares. A ventilação mecânica deve ser iniciada no modo assistido-controlado, respeitando-se a mecânica ventilatória do indivíduo: como há obstrução grave, deve-se manter o tempo expiratório o mais prolongado possível para evitar a permanência de volume excessivo ao final da expiração (auto-PEEP); a não observância desse detalhe culminará com risco elevado de baro-trauma. Assim, deve-se manter a frequência respiratória baixa (6 a 12irpm) e o tempo inspiratório curto (ou fluxo elevado). A ventilação a pressão ou a volume tem resultados idênticos, desde que o intensivista realize monitorização adequada da me-cânica respiratória. Quando se ventila a pressão em um paciente com DPOC, o volume gerado pode ser demasiadamente pequeno e piorar a hipercapnia, pois há obstrução das vias aéreas, o que exige pressões mais elevadas para um volume satis-fatório – assim, este precisa ser monitorizado. Na ventilação a volume de pacientes com DPOC, a pressão de pico gerada (aquela que se dirige às vias aéreas, e não se relaciona tanto ao barotrauma) costuma ser bem elevada; se os alarmes do apa-relho estiverem ajustados para pressões menores, o pico pressórico abortará o ciclo respiratório, e o volume oferecido tam-bém será muito baixo. Assim, nesses casos, deve-se ajustar o ventilador para permitir a ocorrência de picos de pressão inspi-ratória (45 a 50cmH2O), mas sempre com atenção à pressão de platô (até 35cmH2O). Os níveis de PEEP recomendados são de cerca de 80% da auto-PEEP, principalmente quando o indivíduo estiver em ventilação de suporte.
 Outro ponto importante é com relação à hipercapnia. Pacientes que apresentem hipercapnia sem acidemia (por compen-sação metabólica) não necessitam ter os níveis de pCO2 corrigidos. Entenda a razão: com a redução dos níveis de CO2 em pacientes com compensação, os níveis de bicarbonato voltarão ao normal, já que o distúrbio ventilatório foi corrigido; ao se retirar o doente do suporte ventilatório, o comprometimento da mecânica elevará, novamente, os níveis de CO2, sem que exista a compensação metabólica: o resultado final é acidose respiratória grave com necessidade de reintubação. Assim, só há necessidade de reduzir a pCO2 na presença de acidemia instalada.
-N - Algoritmo da exacerbação
+
+M - Algoritmo da exacerbação
+
  
-Figura 9 - Abordagem inicial da exacerbação da DPOC
+Figura 9 - Abordagem inicial da exacerbação da doença pulmonar obstrutiva crônica
+
 9. Resumo
+
 Quadro-resumo
 - A DPOC caracteriza-se por sintomas respiratórios crônicos e progressivos, associados à limitação ao fluxo aéreo e presença de fator de risco;
-- O principal fator de risco para DPOC é o tabagismo, relevante em cerca de 90% dos casos; inalação de outros gases (como fu-maça de fogão de lenha) e deficiência de antiproteases (como alfa-1-AT) respondem pelos demais;
-- Deve-se suspeitar da deficiência de alfa-1-AT em pacientes com enfisema que surge em idade inferior a 45 anos, indivíduos que nunca fumaram, enfisema com predomínio em lobos inferiores, vasculite com c-ANCA positivo, doença hepática inexplicada, história familiar de cirrose, paniculite, bronquiectasias, ou DPOC em idade precoce. Em alguns casos, é indicada a reposição da enzima;
-- O exame necessário e suficiente para o diagnóstico é a espirometria: deve existir relação VEF1–CVF inferior a 0,7, com ou sem redução do VEF1; a presença de resposta ao broncodilatador não exclui DPOC, apesar de ser incomum; os principais sintomas da DPOC são tosse e dispneia;
+- O principal fator de risco para DPOC é o tabagismo, relevante em cerca de 90% dos casos; inalação de outros gases (como fumaça de fogão de lenha) e deficiência de antiproteases (como alfa-1-AT) respondem pelos demais;
+- Deve-se suspeitar da deficiência de alfa-1-AT em pacientes com enfisema que surge em idade inferior a 45 anos, indivíduos que nunca fumaram, enfisema com predomínio em lobos inferiores, vasculite com c-ANCA positivo, doença hepática inexplicada, história famili-ar de cirrose, paniculite, bronquiectasias, ou DPOC em idade precoce. Em alguns casos, é indicada a reposição da enzima;
+- O exame necessário e suficiente para o diagnóstico é a espirometria: deve existir relação VEF1–CVF inferior a 0,7, com ou sem redu-ção do VEF1; a presença de resposta ao broncodilatador não exclui DPOC, apesar de ser incomum; os principais sintomas da DPOC são tosse e dispneia;
 - Exames de imagem não são fundamentais ao diagnóstico, mas têm importância no diagnóstico diferencial;
 - A gravidade da doença é estimada pelo grau de obstrução visto na espirometria, pela intensidade dos sintomas e pelo número de exacerbações no último ano;
-- As únicas medidas terapêuticas que modificam a sobrevida de pacientes com DPOC são cessação de tabagismo e oxigenotera-pia, quando indicada;
+- As únicas medidas terapêuticas que modificam a sobrevida de pacientes com DPOC são cessação de tabagismo e oxigenoterapia, quando indicada;
 - Os fármacos habitualmente utilizados apenas melhoram a qualidade de vida, por um melhor controle dos sintomas; 
-- Os corticoides inalatórios são indicados a pacientes com doença grave ou muito grave (VEF1 inferior a 50%), com 2 ou mais exacerbações ao ano;
+- Os corticoides inalatórios são indicados a pacientes com doença grave ou muito grave (VEF1 inferior a 50%), com 2 ou mais exacerba-ções ao ano;
 - Vacinações anti-influenza (anual) e antipneumocócica (a cada 5 anos) estão indicadas, assim como reabilitação pulmonar (esta, para pacientes com estadio II ou maior);
 - As indicações de oxigenoterapia domiciliar são pO2 =55mmHg ou SO2 =88%; ela também pode ser indicada a pacientes com pO2 entre 55 e 60mmHg e SO2 entre 88 e 90, na presença de policitemia ou cor pulmonale;  
 - Pacientes com doença grave ou muito grave podem ser candidatos a tratamento cirúrgico: bulectomia, cirurgia redutora de volume pulmonar ou transplante pulmonar;
@@ -425,3 +594,13 @@ Quadro-resumo
 - As indicações de O2 domiciliar são:
 · paO2 =55mmHg em repouso, sem sinais de cor pulmonale;
 · paO2 =59mmHg em repouso, com sinais de cor pulmonale.
+
+Respostas
+1. B
+2. B
+3. A
+4. C
+5. C
+
+
+
