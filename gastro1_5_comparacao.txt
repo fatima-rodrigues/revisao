@@ -1,0 +1,232 @@
+diff --git a/gastro1_5.txt b/gastro1_5.txt
+index fa9fbc9..19e8bf8 100644
+--- a/gastro1_5.txt
++++ b/gastro1_5.txt
+@@ -2,22 +2,37 @@ Dispepsia e Helicobacter pylori
+José Américo Bacchi Hora 
+
+
+{+Resumo+}
+{+Neste capítulo, serão abordados os conceitos da síndrome dispéptica e o papel do H. pylori. A dispepsia é a sensação de dor ou desconforto esporádico ou persistente na parte superior do abdome. A dispepsia funcional é definida pelos critérios de Roma III como a presença de 1 ou mais dos seguintes sintomas: sensação incômoda de plenitude pós-prandial, saciedade precoce, dor epigástrica e queimação epigástrica. Esses critérios devem ser totalmente preenchidos por 3 meses, e o início dos sintomas deve se dar pelo menos 6 meses antes do diagnóstico. Tabagismo e etilismo são fatores de risco tanto para sintomas dispépticos como para o desenvolvimento de doença péptica e neoplasias. A fisiopatologia ainda não é bem escla-recida, e a depender de cada caso observam-se diferentes condutas. É importante investigar o uso de medicações, altera-ções psicológicas, e deve-se sempre atentar aos sinais de alerta das síndromes dispépticas. Quanto ao Helicobacter pylori, as indicações de erradicação têm aumentado, e a dispepsia é uma das indicações. O regime mais indicado como 1ª linha no tratamento é a terapia tripla com inibidor da bomba de prótons (omeprazol 20mg 2x/d), amoxicilina 1g 2x/d e claritromicina 500mg 2x/d, por 7 a 14 dias. Essas são situações extremamente comuns na prática diária e que podem ser cobradas em provas de Cirurgia, Clínica Médica e até mesmo Medicina Preventiva. É importante o candidato estar familiarizado com alguns conceitos, especialmente sobre a erradicação do H. pylori, para não ter dificuldades com essas questões.+}
+
+1. Definições
+
+Dispepsia é definida como sensação de dor ou desconforto esporádico ou persistente na parte superior do abdome. É uma síndrome clínica extremamente comum, com etiologias e manifestações clínicas diversas, exigindo abordagem crítica para a economia de recursos, sem prejuízos ao paciente. Estatísticas americanas sugerem que, a cada ano, 25% da população apresentam sintomas dispépticos, porém a minoria procura atenção médica: cerca de 2 a 5% das consultas com médicos generalistas. Em muitos casos, não há doença orgânica associada{+, sendo denominada de+} [-(-]dispepsia funcional[-)-]. E[-st-]{+l+}a [-f-]{+c+}o[-i d-]{+rr+}e[-fi-]{+spo+}n[-i-]d[-a como-]{+e+} [-a-]{+à+} presença de 1 ou mais sintomas dispépticos originários da região gastroduodenal, na ausência de qualquer doença orgânica, sistêmica ou metabólica que possa explicá-los. Contudo, apesar de ser uma condição benigna, deve-se considerar que está associada a absentismo e custos com medicamentos e exames subsidiários, além de ser o 1º sintoma associado a [-patol-]{+d+}o[-gi-]{+enç+}as gástricas gra[---]ves (neoplasias, por exemplo).
+
+{+Importante+}
+O Consenso International Rom[-a-]{+e+} Committee III (2006), que trata das doenças funcionais do aparelho digestivo, definiu dis-pepsia funcional como a presença de 1 ou mais dos seguintes sintomas ([-C-]{+c+}ritérios [-D-]{+d+}iagnósti[-c-]{+cos de Roma III): sensação incô-moda de plenitude pós-prandial, saciedade precoce, dor epigástrica e queimação epigástrica. +}
+
+{+São critérios definidos para as doenças do aparelho digestivo (critéri+}os de Roma III):[-S-]{+ s+}ensação incômoda de plenitude pós-prandial[-;-]
+[-S-]{+, s+}aciedade precoce[-;-]
+[-D-]{+, d+}or epigástrica[-;-]
+[-Q-]{+ e q+}ueimação epigástrica.{+ +}Os 2 primeiros são incluídos na síndrome do desconfor{+-+}to pós-prandial; os 2 últimos, na síndrome da dor epigástrica. Não deve haver doença estrutural que justifique o quadro clíni{+-+}co. Os critérios devem ser totalmente preenchidos por 3 meses, e o início dos sintomas deve se dar pelo menos 6 meses antes do diagnóstico. No Brasil, seguindo as recomendações da Organi[---]zação Mundial da Saúde, devido à alta prevalência de parasitoses intestinais, sugere-se exame parasitológico de fezes ou [-do -]tratamento empírico para parasitoses[-,-] antes do diagnóstico funcional.
+{+ +}
+{+Diagnóstico diferencial+}
+Os pacientes que manifestam sintomas de pirose retroesternal ou outros compatíveis com refluxo gastroesofágico não devem ser rotulados como apresentando dispepsia.[- A American Gastroenterological Association considera que esses indiví-duos devem ser definidos como portadores da doença do refluxo gastroesofágico, mesmo que realizem endoscopia sem evidências de esofagite.-]
+
+{+A American Gastroenterological Association considera que indivíduos que apresentam sintomas compatíveis com refluxo gastroesofágico devem ser definidos como portadores da doença do refluxo gastroesofágico, mesmo que realizem endosco-pia sem evidências de esofagite.+}
+
+{+Pergunta+}
+{+2015 - HCV+}
+{+1. Assinale a alternativa correta sobre sintomas e características compatíveis com o termo “dispepsia”: +}
+{+a) náuseas, vômitos e saciedade precoce são suficientes para caracterizá-la+}
+{+b) os sintomas se relacionam à alimentação, havendo alívio após as refeições+}
+{+c) dor (tipo pirose ou queimação) é sintoma obrigatório para sua caracterização+}
+{+d) azia, pirose retroesternal e regurgitação são sintomas dispépticos+}
+{+e) cólicas, eructações e náuseas configuram o quadro clínico+}
+{+Resposta no final do capítulo+}
+2. Epidemiologia
+
+Dispepsia é um diagnóstico frequente, com prevalência entre 30 e 40%, dependendo da população estudada, sendo dis-pepsia funcional o diagnóstico mais comum. A incidência é de cerca de 1% ao ano. A maioria dos dispépticos permanece sintomática por muito tempo, apesar dos períodos de remissão espontânea. O risco de doença ulcerosa péptica, contudo, não parece ser diferente da população assintomática. A prevalência é menor em idosos e parece ser discretamente maior no sexo masculino. Cerca de 25% das pessoas que procuram atenção médica o fazem devido a essa queixa. Quando submetidos à Endoscopia Digestiva Alta (EDA), 50 a 70% dos dispépticos têm dispepsia funcional, 15 a 20% apresentam úlcera péptica, 20 a 30% apresentam doença do refluxo gastroesofágico e 0,5 a 2% são portadores de neoplasia gástrica.
+Alguns dados epidemiológicos são importantes, como a idade, pois doenças orgânicas frequentemente causam mais sin-tomas dispépticos em pacientes com idade =50 anos. Úlcera péptica e neoplasias gástricas são mais frequentes com o avanço da idade, o que não se observa com relação à dispepsia funcional e à doença do refluxo. 
+Tabagismo e etilismo são fatores de risco tanto para sintomas dispépticos como para o desenvolvimento de doença pépti-ca e neoplasias. A ingestão abusiva de sal e conservantes também aumenta o risco de câncer gástrico. O uso de medicamen-tos deve ser interrogado, pois é comum a incidência de úlcera péptica com Anti-Inflamatórios Não Esteroides (AINEs). Alguns não conseguem identificar tais medicações, sendo extremamente importante exemplificar com algumas das mais comuns do gênero (diclofenaco, ácido acetilsalicílico, naproxeno[-, tenoxicam,-] e[-ntre ou-]t[-ras-]{+c.+}).
+
+3. Classificação
+
+@@ -45,37 +60,47 @@ N
+Medicamentosas
+- Anti-inflamatórios;
+- Antibióticos orais;
+- Digita[-l-]{+is+};
+- Teofilina.
+
+4. Fisiopatologia
+
+Os mecanismos que participam da origem dos sintomas na dispepsia funcional não são completamente conhecidos. Os 3 fatores que parecem ser os mais relevantes são as anormalidades da motilidade gastrintestinal, o aumento da sensibilidade a estímulos provenientes do lúmen do tubo digestivo e anormalidades psicológicas e emocionais. Entretanto, outros fatores podem ocasionar sintomas dispépticos. O papel do H{+elicobacter pylori (H+}P{+)+} nes[-t-]{+s+}a afecção é controverso.
+
+A - Dismotilidade
+A alteração da motilidade do aparelho gastrintestinal, em particular a motilidade antropiloroduodenal, provavelmente consiste na mais estudada e associada à dispepsia há mais tempo. Estudos realizados há algumas décadas demonstraram que pacientes com dispepsia funcional podem apresentar alterações da atividade mioelétrica gástrica, redução da contratilidade do antro, incoordenação antropiloroduodenal e anormalidades da atividade motora duodenojejunal. Essas alterações resul-tam em retardo do esvaziamento gástrico, presente em 30% dos casos de dispepsia funcional em um estudo recente e em cerca de metade dos pacientes em estudos mais antigos. 
+Um grande número apresenta melhora com medicações pró-cinéticas, sugerindo que esses mecanismos, de fato, têm pa-pel importante na fisiopatologia dessa síndrome. Alterações de motilidade parecem [-ainda -]estar{+, ainda,+} associadas à síndrome do cólon irritável.
+
+B - Hipersensibilidade visceral
+A diminuição do limiar para o aparecimento de dor ou o aumento de sensibilidade a certos estímulos tem sido demons-trada em pacientes com dispepsia funcional. Uma das constatações é que os dispépticos funcionais podem apresentar sinto-mas desencadeados pela distensão do estômago com volumes bem menores {+do +}que os que seriam necessários para causar qualquer tipo de sensação desagradável em pessoas sem dispepsia. Com o enchimento isobárico do estômago, ocorrem de 3 a 4 vezes mais sintomas entre os dispépticos. É importante notar que essa anormalidade não está associada a alterações em testes psicométricos específicos e parece restringir-se às vias sensoriais viscerais, uma vez que medidas de tolerância a estí-mulos aplicados em órgãos de inervação do tipo somático, como a pele ou a musculatura esquelética, não revelam anormali-dades. 
+
+C - Alterações psicológicas 
+Entre os pacientes com dispepsia funcional, há indicativos de maior prevalência de antecedentes de problemas emocio-nais na infância ou na adolescência, ou anormalidades como ansiedade, depressão, hipocondria e neuroses. Relaciona-se [-à-]{+a+} dispepsia funcional com maiores níveis de ansiedade, depressão e outras psicopatias. Os pacientes com dispepsia funcional, apesar da associação a vários transtornos psíquicos, não parecem apresentar perfil psicológico característico, podendo de-senvolver perfil depressivo, ansioso ou neurótico. Assim, há grande dificuldade em determinar se essas alterações são causa ou consequência da dispepsia. 
+
+D - Hipersecreção gástrica
+A presença de sintomas, muitas vezes similares aos da doença ulcerosa péptica, levanta a possibilidade do papel da hiper-secreção de ácido e da maior ativação de pepsina. Porém, diversos trabalhos mostram que não há correlação entre hiperse-creção ácida e dispepsia funcional.
+
+E - Infecção pelo Helicobacter pylori
+A associação da bactéria à doença ulcerosa péptica é inequívoca, o que levanta a hipótese de sua participação na dispep-sia funcional. Entretanto, em diversos estudos não se relacionou a presença da bactéria a maior grau de dispepsia funcional. Grandes meta-análises parecem mostrar melhora tardia dos sintomas em alguns pacientes, sendo necessário o tratamento de 8 a 15 casos para que 1 se beneficie. Mesmo essa melhora após a erradicação pode ser decorrente do efeito placebo ou do Inibidor da Bomba de Prótons (IBP) associado ao esquema de erradicação. 
+
+[-De qualquer fo-]{+T+}r[-m-]a[-, -]{+t+}a{+mento+}
+{+A+}pesar de longe de um con[---]senso mundial, atualmente, a tendência é pela indicação da erradicação do H[-P-]{+elicobacter pylori+}, nos casos de infecção com dispepsia funcio[---]nal, como recomenda o [-III-]{+3º+} Consenso Brasileiro sobre o Helicobacter pylori (2013). 
+
+F - Irritantes da mucosa gastrintestinal
+Tabagismo, álcool, café e condimentos têm relação com dispepsia. Alguns trabalhos demonstram que o tabagismo propicia resistência à cicatrização de úlceras e está associado a maior recidiva. Alterações do fluxo sanguíneo mucoso podem explicar essas observações. O uso de condimentos, como pimenta, parece apresentar ação similar à dos anti-inflamatórios, com po-tencial de lesar a mucosa gastrintestinal. Poucos trabalhos documentam relação causal isolada entre álcool, fumo, cafeína e dispepsia. Conceitualmente, a dispepsia associada aos anti-inflamatórios é considerada orgânica. A 1ª conduta a pacientes com sintomas dispépticos em uso de tais medicações é a retirada des[-t-]{+s+}e tratamento[-,-] antes de procedimentos diagnósticos ou de outras intervenções terapêuticas.
+
+{+Tabela 2 - Prováveis fatores associados à etiologia da dispepsia+}
+{+- Dismotilidade;+}
+{+- Hipersensibilidade visceral;+}
+{+- Alterações psicológicas;+}
+{+- Infecção pelo Helicobacter pylori;+}
+{+- Irritantes da mucosa gastrintestinal.+}
+
+5. Diagnóstico
+
+História, exame físico e uso criterioso e apropriado dos exames complementares levam ao diagnóstico correto da dispep-sia na grande maioria dos casos. Existem 2 apresentações principais (Tabela [-2-]{+3+}), sendo a dispepsia funcional subdividida em 2 tipos.
+
+Tabela [-2-]{+3+} - Classificação da dispepsia
+Orgânica	Sintomas do aparelho digestivo alto relacionados à presença de doença orgânica.
+Funcional (sem doença orgânica)	Síndrome da dor epigástrica	Predomínio de dor epigástrica, tipo ulcerosa
+	Síndrome do desconforto pós-prandial	Predomínio de alteração de motilidade
+@@ -88,9 +113,9 @@ Predominam sinais sugestivos de altera
+
+C - Dispepsia do tipo inespecífica 
+Os pacientes desse grupo referem manifestações vagas, com características de sintomas digestivos altos, como eructação ou aerofagia, mas mantendo relação com a alimentação. Em alguns casos, sintomas semelhantes aos da úlcera péptica super-põem-se aos que sugerem alterações motoras, sem claro predomínio de um ou outro grupo de manifestações.
+Ao avaliar pacientes com suspeita de dispepsia, é importante não considerar certos sinais relacionados ao trato digestivo baixo (tenesmo, urgência fecal, cólica intestinal e meteorismo) como parte de um quadro dispéptico. Em pacientes com dis-pepsia tipo dismotilidade e dispepsia inespecífica, é necessário excluir causas orgânicas não digestivas, como doenças meta-bólicas, distúrbios hidroeletrolíticos, endocrinopatias, infecções crônicas, doenças do tecido conectivo, distúrbios do humor, entre outras. Também é importante tentar identificar sinais ou sintomas que possam indicar gravidade e maior probabilidade de doença orgânica, o que é denominado pela literatura de sinais de alarme (Tabela [-3-]{+4+}), que podem ser resumidos na sigla “DISPEF” (Disfagia, Icterícia, Sangramento, Perda de peso e alteração de Exame Físico).
+
+Tabela [-3-]{+4+} - Sinais de alerta na síndrome dispéptica
+- Disfagia ou odinofagia;
+- Icterícia;
+- Sangramento (hematêmese, anemia e sangue nas fezes);
+@@ -110,52 +135,64 @@ Nos casos em que ainda h
+A 1ª conduta a um paciente com dispepsia é verificar quais medicações ele está usando. Caso esteja em uso de AINEs, a simples descontinuação pode ser suficiente para a melhora. Redução da ingesta de cafeína e abstinência ao cigarro e ao álco-ol podem melhorar o quadro, mas o benefício de maiores restrições dietéticas é questionável. O paciente deve evitar alimen-tos que, em ocasiões anteriores, causaram sintomas dispépticos. Recomenda-se, ainda, que o indivíduo se alimente vagaro-samente, mastigando bem os alimentos, para facilitar a digestão. O ambiente em que se alimenta deve ser tranquilo, evitando discussões. Devem ser evitados líquidos, sobretudo gasosos, e refeições muito vultosas.
+Deve ser lembrada a possível relação entre emoções e sinais dispépticos e o fato de que algumas pessoas podem benefi-ciar-se de psicoterapia. No caso de suspeita de problemas psicológicos, o Consenso de Roma III indica a aplicação de um ques-tionário específico (questionário Roma III de alerta psicossocial para distúrbios funcionais gastrintestinais) para triagem dos pacientes como potenciais beneficiários de terapia farmacológica ou de encaminhamento a profissional de saúde mental.
+Na presença ou suspeita de parasitoses intestinais, o tratamento empírico ou guiado pelo exame de fezes deve ser institu-ído. Apesar de não fazer parte das recomendações para os países mais desenvolvidos, essa conduta é preconizada em nosso meio.
+As medicações sintomáticas que podem ser utilizadas variam muito de acordo com a disponibilidade dos medicamentos, [-com -]os sintomas preponderantes do paciente e [-com -]a estratégia utilizada. Aos casos de dispepsia do tipo síndrome da dor epigástrica, indicam-se antiácido, bloqueador H2 ou IBPs, sendo preferíveis os últimos (Tabela [-4-]{+5+}). Na dispepsia do tipo sín[---]drome do des{+-+}conforto pós-prandial, não há tanto consenso, indica[-m-]{+ndo+}-se pró-cinéticos associados ou não às medicações antiul[---]cerosas. A terapia empírica é utilizada por 2 a 4 semanas, e, se o paciente apresenta melhora, deve-se questionar o diagnósti[---]co e, caso ainda não tenha sido realizada investigação endoscópica, fazê-la.
+
+Tabela [-4-]{+5+} - Dose plena de bloqueadores H2 e [-IBP-]{+inibidores da bomba de próton+}s
+Bloqueadores H2	Cimetidina 800mg/d, ranitidina 300mg/d e famotidina 40mg/d
+IBPs	Omeprazol 40mg/d, pantoprazol 40mg/d e esomeprazol 40mg/d
+
+A erradicação do HP, como já foi citado, é uma opção de indicação crescente aos pacientes com infecção comprovada, principalmente àqueles que não respondem ao tratamento inicial. O Consenso de Maastricht IV/Florença (2012), maior refe-rência internacional acerca da infecção pelo HP, indica que o alívio dos sintomas na dispepsia funcional é de 1 em 12 pacien-tes, sendo este resultado melhor {+do +}que de qualquer outro tratamento para dispepsia.
+Lesões agudas da mucosa gástrica tendem a ser superficiais e podem cicatrizar rapidamente. O IBP é associado à cicatriza-ção de mais de 90% das úlceras pépticas, e a doença do refluxo também pode apresentar melhora importante com essa me-dicação. A presença do HP pode ser mascarada na vigência do IBP, podendo apresentar resultados falsos negativos. Por essa razão, seu uso deve ser descontinuado 5 dias antes da pesquisa.
+Dentre os agentes pró-cinéticos, a bromoprida e a domperidona são os mais utilizados e devem ser administrados de 15 a 30 minutos antes de cada refeição principal. A metoclopramida também pode ser administrada, em dose de 10mg antes das refeições. Os antiácidos, como a associação de hidróxido de alumínio e magnésio, são usados de 1 a 2 horas antes das refei-ções e podem ser suficientes para controle de sintomas.
+Os protetores de mucosa, como o misoprostol, são outras drogas potencialmente utilizáveis, mas apresentam, como efei-tos colaterais, diarreia e abortamento. O sucralfato na dose de 1g{+,+} antes das refeições e antes de dormir{+,+} também tem sido aplicado, mas com resultados menos evidentes. 
+Os antidepressivos têm grande potencial para tratamento de dispepsia, devido à grande associação de sintomas como de-pressão e ansiedade. São mais frequentemente recomendados os antidepressivos tricíclicos e drogas que interferem na re-captação de serotonina. Em alguns estudos, a amitriptilina em dose baixa (50mg/d) produziu significativa melhora dos sinto-mas e dos índices de qualidade de vida. Contudo, o tratamento-padrão da dispepsia ainda é feito com pró-cinéticos, bloquea-dores H2 e antiácidos. 
+
+7. Helicobacter pylori
+
+Tabela [-5-]{+6+} - H[-P-]{+elicobacter pylori+}
+- Identificado pela 1ª vez em 1982 por Marshall e Warren, o HP é uma espiroqueta Gram negativa; 
+- É um micro-organismo não invasivo, e o único local colonizado no ser humano é a região pilórica;
+- Morris conseguiu determinar que 3x100.000UFC é a população mínima necessária para causar infecção;
+- A transmissão ocorre, principalmente, via oral-oral e oral-fecal[-,-] e raramente é secundária a vetores ou por água contaminada;
+- A infecção é, em geral, adquirida na infância, e a minoria apresenta reinfecção após erradicação;
+- Algumas características possibilitam seu crescimento e aumentam o potencial patogênico: produção de uréase e de catalase, que diminu[-i-]{+em+} o pH e facilita{+m+} seu desenvolvimento; flagelos, que facilitam sua movimentação até o local de seu desenvolvimento; e vá{+-+}rios tipos de adesinas, que facilitam sua adesão ao epitélio gástrico (o potencial patogênico é extremamente dependente desse pro{+-+}cesso);
+- Também são importantes a virulência (causa agressões devido à liberação de fatores bacterianos) e a persistência (inacessibilidade);
+- Quanto à virulência, ocorrem citólise epitelial e rotura das zônulas de oclusão pelas citotoxinas, e há, também, indução de resposta imune inflamatória (quimiotaxinas, lipopolissacarídeos, moduladores imunes e estimulação antigênica);
+- Diferentes cepas apresentam potencial diferenciado de complicações e úlcera péptica;
+- Além dos genes de virulência [-C-]{+c+}agA e [-V-]{+v+}acA, fatores socioambientais, como status socioeconômico na infância, abastecimento de água e até mesmo dieta, influenciam a virulência;
+- O HLA-DQB1, associado a maior risco de adenocarcinoma gástrico e úlcera duodenal, está mais presente em infectados pelo HP com tipo sanguíneo O;
+- A incidência de infecção é alta e relacionada ao nível socioeconômico da população estudada;
+- No Brasil, a infecção pode chegar a 83% de prevalência entre trabalhadores de certas áreas rurais e apenas 31% em grupos elitizados, como estudantes de Medicina.
+
+A - Fisiopatologia 
+Em pacientes com predisposição genética para o desenvolvimento de úlcera gástrica, a infecção da mucosa do estômago pelo HP leva [-à-]{+a+} pangastrite crônica, o que facilita a ulceração da mucosa. A bactéria está presente em 60 a 80% desses indiví-duos.
+Entre os propensos [-à-]{+a+} úlcera duodenal, a infecção da mucosa gástrica pelo HP determina disfunção das células D do antro gástrico, que deixam de suprimir a função das células G, com hipergastrinemia e consequente metaplasia gástrica duodenal. 
+A presença da bactéria determina inflamação crônica, mais especificamente antrite crônica, que facilita a lesão ulcerosa no duodeno. A infecção pelo H[-P-]{+elicobacter pylori+} é o maior determinante da ocorrência dessa lesão, presente em até 95% daqueles com úlcera duodenal. Também está relacionada à etiologia da úlcera gástrica e do linfoma tipo MALT. Outras doen{+-+}ças, como o adenocar[---]cinoma gástrico e diversas outras gastrites, parecem ter sua incidência aumentada, mas sem relação causal comprovada.
+A relação do HP com o refluxo gastroesofágico não é bem estabelecida. Alguns autores postulam que o primeiro é fator protetor contra a doença do refluxo e apresentam, como prova, o aumento da incidência do câncer de esôfago, em particular do adenocarcinoma, após o início da terapia de erradicação desse agente. Porém, a maioria considera que não há influência positiva nem negativa do HP na doença do refluxo. O 3º Consenso Brasileiro sobre {+o +}Helicobacter pylori (2013) considera que a erradicação do agente não prejudica a evolução dos pacientes (100% de concordância). Entretanto, há sugestão para a erra[---]dicação apenas em indivíduos com necessidade de uso crônico contínuo de IBP.
+Para aqueles com dispepsia funcional, seu tratamento só parece ter sentido em áreas de baixa incidência. O Consenso de Maastricht I[-II-]{+V+}, principal referência mundial no que se refere ao HP, sugere sua erradicação a pacientes com dispepsia funcio-nal e infecção comprovada, mas considera que{+,+} em áreas de grande prevalência, como o Brasil, a terapia antiácida é similar à erradicação do HP.
+
+{+Pergunta+}
+{+2015 - IOG+}
+{+2. A bactéria Helicobacter pylori associa-se, diretamente, ao seguinte tipo de tumor gástrico: +}
+{+a) adenocarcinoma +}
+{+b) linfoma MALT +}
+{+c) sarcoma +}
+{+d) tumor estromal (GIST) +}
+{+e) tumor carcinoide+}
+{+Resposta no final do capítulo+}
+B - Diagnóstico
+Os sintomas são muito variáveis. Habitualmente, a pesquisa da infecção pelo HP é indicada numa vasta lista de doenças e de sintomas gastrintestinais e em pacientes com risco para câncer de estômago, hemorragia digestiva e doença ulcerosa pép-tica. 
+Os métodos diagnósticos podem ser divididos em invasivos e não invasivos. Os primeiros ficam reservados aos pacientes com indicação de EDA ou na suspeita de cepas resistentes. Os métodos invasivos são realizados em espécime de tecido obti-do por meio de biópsia endoscópica, podendo ser: anatomopatológico, teste da uréase e cultura. Os não invasivos são os que não necessitam de EDA para a sua realização: teste respiratório, pesquisa de antígenos fecais e sorologia. {+A pesquisa de antí-genos fecais é pouco difundida em nosso meio, e a sorologia serve mais para pesquisas epidemiológicas.+}
+
+{+Diagnóstico+}
+Os m{+étodos diagnósticos para infecção por Helicobacter pylori m+}ais realizados são, dentre os invasivos, o teste da uréase e o anatomopatológico, ficando a cultura restrita [-àquele-]{+ao+}s ca[---]sos em que há suspeita de resistência antibiótica; dentre os não inva{+-+}sivos, o respiratório é o mais utilizado, tanto para o diag[---]nóstico quanto para o controle do tratamento. [-A pesquisa de antígenos fecais é pouco difundida em nosso meio; e a sorologia serve mais para pesquisas epidemiológicas.-]
+
+C - Tratamento 
+Após a descoberta do HP, o tratamento da doença ulcerosa péptica foi modificado, e procedimentos cirúrgicos que eram comuns passaram a ser cada vez menos necessários. A terapia de erradicação do HP diminuiu a taxa de recorrência das úlce-ras para menos de 10%, assim como a necessidade da terapêutica antissecretora de manutenção, a incidência das complica-ções e os custos (comparando à terapia antissecretora). O sucesso com essa terapia é similar ao da erradicação do HP, porém a recorrência é extremamente diminuída com a erradicação.
+A associação da infecção pelo HP ao desenvolvimento de linfoma MALT também é bem documentada pela literatura. Es-tudos demonstraram que pacientes com estágios iniciais do linfoma MALT se beneficiam com a erradicação do HP, com índi-ces de cura entre 60 e 93%. Ainda precisa ser definido se a cura é duradoura, pois a proteína C reativa de tais pacientes con-tinua positiv[-o-]{+a+}, o que não significa que não houve regeneração.
+Nos últimos anos, com o aparecimento de novos dados científicos e com a revisão dos consensos mais importantes sobre o HP, em níveis mundial (Maastricht IV/Florença – 2012) e nacional ([-III-]{+3º+} Consenso Brasileiro sobre o Helicobacter pylori – 2013), as indicações para a sua erradicação foram ampliadas e se modificaram alguns esquemas de tratamento.
+
+Tabela [-6-]{+7+} - Indicações de erradicação ([-III-]{+3º+} Consenso Brasileiro)
+- Dispepsia funcional (93% de concordância);
+- Úlcera gastroduodenal ativa ou cicatrizada;
+- Linfoma MALT de baixo grau;
+@@ -166,43 +203,63 @@ Tabela 6 - Indica
+   · Parentes de 1º grau;
+   · Após ressecção endoscópica ou cirúrgica;
+   · Pangastrite grave, gastrite atrófica ou metaplasia intestinal.
+- Gastrite crônica autoimune, como a associada [-à-]{+a+} anemia perniciosa, bem como pacientes com imunodeficiência comum variada (au-mento do risco de neoplasia gástrica e linfoma MALT, respectivamente).
+
+Tabela [-7-]{+8+} - Não indicações de erradicação ([-III-]{+3º+} Consenso Brasileiro)
+- Prevenção do câncer na população geral (100% de concordância);
+- Doença do refluxo gastroesofágico.
+
+{+Pergunta+}
+{+2013 - UEL+}
+{+3. Quais dos pacientes a seguir, com teste de uréase positivo, têm indicação absoluta de erradicação do Helicobacter pylori?+}
+{+I - Portadores de linfoma MALT com baixo grau+}
+{+II - Portadores de doença do refluxo gastroesofágico+}
+{+III - Pacientes com dispepsia funcional tipo úlcera+}
+{+IV - Pacientes com gastrectomia BII por úlcera péptica+}
+{+V - Pacientes com gastrectomia BI por neoplasia gástrica+}
+{+a) I, II, V+}
+{+b) I, III, IV+}
+{+c) I, IV, V+}
+{+d) II, III, IV+}
+{+e) II, III, V+}
+{+Resposta no final do capítulo+}
+
+A erradicação deve ser controlada após, pelo menos, 8 semanas do final do tratamento, com testes não invasivos, como teste respiratório com ureia marcada, quando não há indicação para endoscopia. Nesta, a pesquisa pode ser feita pelo teste da uréase ou pela histologia. Antissecretores devem ser suspensos 7 a 10 dias antes do exame de controle da erradicação, pois causam resultados falsos negativos. Também podem ocorrer falsos negativos após hemorragia digestiva.
+
+Tabela [-8-]{+9+} - Esquemas de tratamento
+Esquema I [---]{+–+} 7 dias (associado [-à-]{+a+} cura em mais de 90% dos casos)
+- IBP em dose-padrão;
+- Amoxicilina[-,-] 1g, 2x/dia; 
+- Claritromicina[-,-] 500mg, 2x/d.
+Esquema II - 7 dias (cura {+em +}79%{+ dos casos+})
+- IBP em dose-padrão;
+- Furazolidona[-,-] 200mg, 2x/d;
+- Claritromicina[-,-] 500mg, 2x/d.
+
+Após a falha de 1 dos tratamentos iniciais propostos pelo Consenso Brasileiro, recomendam-se mais 2 tentativas, com du-ração de 10 a 14 dias, não repetindo nem prolongando o esquema inicial. Os esquemas a serem utilizados dependem do tratamento inicial.
+
+- Se foram utilizados os esquemas I ou II
+
+Tabela [-9-]{+10+} - Tratamento [-n-]{+após falha d+}os esquemas I ou II
+1ª opção (2x/d, por 10 a 14 dias)
+- IBP em dose plena;
+- Amoxicilina[-,-] 1g (ou doxiciclina[-,-] 100mg);
+- Furazolidona[-,-] 200mg;
+- Sal de bismuto[-,-] 240mg. 
+2ª opção (1x/d, por 10 dias)
+- IBP em dose plena; 
+- Amoxicilina[-,-] 1g (ou furazolidona, 400mg); 
+- Levofloxacino[-,-] 500mg.
+
+8. Resumo
+
+Quadro-resumo
+- Dispepsia é definida como sensação de dor ou de desconforto esporádico ou persistente na parte superior do abdome;
+- Dispepsia orgânica é relacionada a quadros patológicos{+,+} como úlceras, colelitíases e pancreatites, por exemplo, enquanto a não orgâni{+-+}ca funcional apenas representa um grupo de sintomas por 4 semanas;
+- Deve-se sempre atentar aos sinais de alerta das síndromes dispépticas;
+- O HP tem papel importante em patologias como as úlceras gástricas e duodenais, além do linfoma MALT. Atualmente, as indicações de erradicação vêm aumentando, como para a dispepsia.
+
+{+Respostas +}
+{+1. A+}
+{+2. B +}
+{+3. C+}
