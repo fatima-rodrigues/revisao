@@ -1,4 +1,4 @@
-1) Criar o txt na pasta "revisao" - echo nul >> nefro_14.txt
+1) Criar o txt na pasta "revisao" - echo nul >> pneumo_12.txt
 
 2) Colocar o texto inicial nesse arquivo
 
@@ -12,4 +12,4 @@
 
 7) git add . && git commit -m "new commit" && git push origin master
 
-8) git diff --word-diff-regex=. HEAD^^ nefro_14.txt >> nefro_14_comparacao.txt
+8) git diff --word-diff-regex=. HEAD^^ pneumo_12.txt >> pneumo_12_comparacao.txt
