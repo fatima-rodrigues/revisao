@@ -1,6 +1,8 @@
 Trauma pediátrico
 Eduardo Bertolli
 
+Resumo
+Neste capítulo, serão abordadas as peculiaridades do trauma na população pediátrica, como menor massa corpórea, esque-leto mais flexível, menor diâmetro da via aérea, sistema imunológico imaturo e suturas cranianas incompletas. É importante saber que a criança por si só não é prioridade no atendimento com múltiplas vítimas; nesse caso, será atendida conforme a gravidade e os recursos disponíveis, à semelhança das demais vítimas, obedecendo sempre a particularidades anatômicas e de sinais vitais inerentes à faixa etária. Além disso, o capítulo aborda a questão dos traumas infantis associados a maus-tratos, sendo o médico obrigado a comunicar o caso para as autoridades competentes. O tema também pode ser cobrado em pro-vas de Pediatria e Epidemiologia.
 
 1. Introdução
 
@@ -11,7 +13,7 @@ Tabela 1 - Principais lesões em crianças
 Mecanismos de trauma	Padrões frequentes de lesão
 Atropelamento	Baixa velocidade	Fraturas de membros inferiores
 	Alta velocidade	Trauma múltiplo
-Colisão em veículo motoriza-do	Sem cinto de segurança 	Trauma múltiplo por ejeção e colisão contra os bancos e para-brisas
+Colisão em veículo motorizado	Sem cinto de segurança 	Trauma múltiplo por ejeção e colisão contra os bancos e para-brisas
 	Com cinto	Trauma toracoabdominal, trauma raquimedular
 Queda de altura	Pequena	Fraturas de membros
 	Média	TCE, trauma raquimedular e fraturas
@@ -19,7 +21,6 @@ Queda de altura	Pequena	Fraturas de membros
 Queda de bicicleta	Sem capacete 	TCE e facial
 	Com capacete	Fraturas de membros
 	Colisão com guidão	Lesões intra-abdominais
-
 2. Diferença da criança em relação ao adulto
 
 A criança apresenta peculiaridades anatômicas a serem consideradas durante a avaliação após um trauma (Tabela 2). Os sinais vitais considerados normais também são diferentes na criança e variam conforme as faixas etárias (Tabela 3).
@@ -32,28 +33,42 @@ Esqueleto mais flexível (calcificação incompleta)	Fraturas que envolvem um estad
 Estado psicológico	Maior estresse, menor colaboração, dificuldade de comunicação
 Menor volume sanguíneo	Menor tolerância a hipovolemia
 Exigências metabólicas aumentadas	Resposta metabólica ao trauma exacerbada
-Fases de crescimento	Possibilidade de as lesões traumáticas poderem alterar o crescimento e o desenvol-vimento da criança
+Fases de crescimento	Possibilidade de as lesões traumáticas alterarem o crescimento e o desenvol-vimento da criança
 Propensão a aerofagia	Maior risco de aspiração e maior distensão gástrica
 Menor diâmetro da via aérea	Maior risco de obstrução, maior dificuldade de intubação
 Sistema imunológico imaturo	Maior risco de infecção pós-esplenectomia
 Suturas cranianas incompletas	Resposta fisiológica diferente nos TCEs graves
 
 Tabela 3 - Sinais vitais normais no paciente pediátrico
-Idade	Peso (kg)	FC (bpm)	PA (mmHg)	Frequência respiratória (irpm)	Débito urinário (mL/kg/min)
+Idade	Peso (kg)	FC (bpm)	PA (mmHg)	FR (irpm)	Débito urinário (mL/kg/min)
 0 a 6 meses	3 a 6	180 a 160	60 a 80	60	2
 Lactente	12	160	80	40	1,5
 Pré-escolar	16	120	90	30	1
 Adolescente	35	100	100	20	0,5
 
-Uma maneira rápida de avaliar os sinais vitais esperados para cada idade é a régua de Broselow. A partir da medida da cri-ança (Figura 1), estimam-se o peso corpóreo, os sinais vitais e a dose das principais medicações.
+Dica
+Uma maneira rápida de avaliar os sinais vitais esperados para cada idade é a régua de Broselow. A partir da medida da crian-ça (Figura 1), estimam-se o peso corpóreo, os sinais vitais e a dose das principais medicações. Atualmente, existem aplicati-vos que podem fornecer esses dados.
 
   
 Figura 1 - Medidas pediátricas com a régua de Broselow 
+
+Pergunta
+2012 - SANTA CASA-SP 
+1. Uma criança de 4 anos dá entrada no pronto-socorro infantil com lesão cortocontusa no membro inferior esquerdo sem sinais de fratura. Apresenta-se chorosa, com estado geral preservado, corada e hidratada, boa perfusão periférica, ausculta cardíaca e pulmonar normais, abdome flácido e com ruídos hidroaéreos presentes. Escala de Glasgow = 15, FR = 30irpm, FC = 140bpm, PA = 140x90mmHg. Qual é a conduta correta frente ao valor de pressão arterial encontrado?
+a) solicitar ultrassonografia renal com Doppler de artérias renais
+b) administrar captopril oral e medir a PA a cada 15 minutos
+c) administrar nifedipino sublingual e solicitar avaliação do nefrologista
+d) após atendimento e estabilização do quadro, repetir a medida da PA
+e) solicitar eletrocardiograma, radiografia de tórax e ecocardiograma na urgência
+Resposta no final do capítulo
 
 3. Especificidades do atendimento inicial da criança
 
 O paciente pediátrico, per se, não constitui prioridade no atendimento em situações com múltiplas vítimas. O socorrista deve ter em mente as peculiaridades na avaliação e no tratamento, mas a criança será atendida conforme a gravidade e os recursos disponíveis, à semelhança das demais vítimas.
 A Tabela 4 mostra o escore de traumatismo pediátrico. Vítimas com escore menor do que 9 têm maior risco de óbito e devem ser atendidas em centros especializados em trauma pediátrico. De 5 a 10% das crianças traumatizadas apresentam essa medida. 
+
+Dica
+A criança politraumatizada tem as mesmas prioridades no atendimento, com algumas particularidades anatômicas e fisiológi-cas.
 
 Tabela 4 - Escore de traumatismo pediátrico (PTS – Pediatric Trauma Score)
 	Parâmetros	Valores
@@ -73,8 +88,8 @@ Estado do sistema nervoso central	Acordado	+2
 	Parcialmente consciente	+1
 	Comatoso ou descerebrado	-1
 Feridas abertas	Nenhuma	+2
-	Pequena	+1
-	Grande	-1
+	Pequena(s)	+1
+	Grande(s)	-1
 Lesão esquelética	Nenhuma	+2
 	Fratura fechada	+1
 	Fratura aberta	-1
@@ -93,7 +108,10 @@ A cânula de Guedel deve ser introduzida diretamente na orofaringe, e não voltada
  
 Figura 3 - (A) Laringoscópio com lâminas retas e (B) cânula pediátrica, sem cuff
 
-As indicações de via aérea definitiva na criança são as mesmas para o adulto (Tabela 5). Para a intubação, recomenda-se utilizar atropina 0,1 a 0,5mg nos menores de 1 ano de idade, para manter a frequência cardíaca e depois sedar a criança. Deve se utilizar um curare de ação rápida para paralisia muscular, como a succinilcolina 2mg/kg em crianças com menos de 10kg, ou 1mg/kg caso o peso seja superior. A dose do sedativo depende do estado volêmico da criança: na hipovolemia utili-za-se etomidato 0,1mg/kg ou midazolam 0,1mg/kg; enquanto no euvolêmico a dose do etomidato é de 0,3mg/kg. Como a via aérea da criança é mais curta, há chance maior de intubação seletiva ou de mudança da posição da cânula durante o trans-porte ou mobilização.
+Tratamento
+As indicações de via aérea definitiva na criança são as mesmas para o adulto (Tabela 5). 
+
+Para a intubação, recomenda-se atropina 0,1 a 0,5mg nos menores de 1 ano, para manter a frequência cardíaca e depois sedar a criança. Deve-se usar um curare de ação rápida para paralisia muscular, como a succinilcolina 2mg/kg em crianças com menos de 10kg, ou 1mg/kg caso o peso seja superior. A dose do sedativo depende do estado volêmico da criança: na hipovolemia, utiliza-se etomidato 0,1mg/kg ou midazolam 0,1mg/kg, enquanto no euvolêmico a dose do etomidato é de 0,3mg/kg. Como a via aérea da criança é mais curta, há chance maior de intubação seletiva ou mudança da posição da cânula durante o transporte ou a mobilização.
 
 Tabela 5 - Indicações de via aérea definitiva
 - Apneia;
@@ -103,16 +121,21 @@ Tabela 5 - Indicações de via aérea definitiva
 - Fraturas maxilofaciais graves;
 - Convulsão persistente;
 - Incapacidade de manutenção da oxigenação com máscara de O2;
-- Necessidade de ventilação: paralisia neuromuscular, movimentos respiratórios inadequados, TCE grave com necessidade de hiperventilação.
+- Necessidade de ventilação: paralisia neuromuscular, movimentos respiratórios inadequados, TCE grave com necessidade de hiperven-tilação.
 
 A intubação nasotraqueal não deve ser realizada em idade inferior a 12 anos, pelo risco de lesão de partes moles e/ou de penetração no crânio. A cricotireoidostomia cirúrgica também é contraindicada aos menores de 12 anos, pelo risco de este-nose. As opções são a cricotireoidostomia por punção com agulha (desde que não haja suspeita de trauma de laringe) ou a traqueostomia.
+
+Dica
+Em crianças, a cricotireoidostomia cirúrgica é contraindicada a menores de 12 anos para não lesar a cartilagem cricoide, necessária para a sustentação da laringe nessa faixa etária.
 
 B - Ventilação
 A frequência respiratória é normalmente alta entre lactentes (de 40 a 60irpm) e diminui com a idade. A etiologia mais comum de parada cardíaca na criança é a hipoventilação, caso em que apresentará acidose respiratória.
 
 - Trauma torácico pediátrico
-Cerca de 10% dos traumas comprometem o tórax e 2/3 apresentam lesões associadas. A maioria das lesões é causada por trauma fechado, principalmente acidente automobilístico. Na necessidade de drenagem torácica, devem ser utilizados drenos de tórax de menor diâmetro, locados no 5º espaço intercostal, anteriormente à linha axilar média. 
-A parede torácica da criança é mais flexível e complacente, o que permite a transmissão de energia para o interior, cau-sando lesão do parênquima pulmonar, muitas vezes sem lesão óssea. Dessa maneira, a força necessária para fraturar os arcos costais da criança é significativamente maior do que a necessária para fraturar os do adulto. É comum contusão pulmonar. 
+Cerca de 10% dos traumas comprometem o tórax, e 2/3 apresentam lesões associadas. A maioria das lesões é causada por trauma fechado, principalmente acidente automobilístico. Na necessidade de drenagem torácica, devem ser utilizados drenos de tórax de menor diâmetro, locados no 5º espaço intercostal, anteriormente à linha axilar média. 
+
+Quadro clínico
+A parede torácica da criança é mais flexível e complacente, o que permite a transmissão de energia para o interior, causan-do lesão do parênquima pulmonar, muitas vezes sem lesão óssea. Desta maneira, a força necessária para fraturar os arcos costais da criança é significativamente maior do que a necessária para fraturar os do adulto. É comum contusão pulmonar. 
 
 C - Circulação
 Em virtude de reserva fisiológica aumentada, os sinais vitais da criança mantêm-se mesmo com choque grave. Os sinais de choque são mais sutis e aparecem somente após perda maior do que 25% do volume sanguíneo. O 1º sinal de choque é o aumento da frequência cardíaca, entretanto isso ocorre nas crianças também por dor, medo ou estresse. Outros sinais são má perfusão da pele (pele mosqueada, extremidade fria), alteração do nível de consciência e resposta alterada ao estímulo dolo-roso (Tabela 6). 
@@ -121,46 +144,80 @@ A hipotensão indica choque não compensado, com perda sanguínea grave, maior do q
 Tabela 6 - Resposta sistêmica à hipovolemia na criança
 	Perda volêmica
 	<25%	25 a 40%	>45%
-Sistema cardíaco	Pulso fraco, filiforme, taquicardia	Taquicardia	Hipotensão, taquicardia ou braquicardia
-Sistema nervoso central	Letárgico, irritável, confuso	Mudança no nível de consciência, fraca resposta a dor	Comatosa
-Pele	Fria e úmida	Cianose, enchimento capilar retardado, extremidades frias	Pálida, muito fria
+Sistema cardíaco	Pulso fraco, filiforme, taquicardia	Taquicardia	Hipotensão, taquicardia ou braqui-cardia
+Sistema 
+nervoso central	Letárgico, irritável, confuso	Mudança no nível de consciência, fraca resposta a dor	Comatosa
+Pele	Fria e úmida	Cianose, enchimento capilar retar-dado, extremidades frias	Pálida, muito fria
 Rins	Redução mínima do débito urinário	Diminuição acentuada do débito urinário	Ausência de débito urinário
 
 Para a reposição volêmica, o acesso preferencial é a punção periférica percutânea. Deve-se evitar a punção femoral, de-vido ao alto risco de trombose. A infusão intraóssea está indicada a crianças abaixo de 6 anos caso não seja possível punção periférica (após 2 tentativas), sempre utilizando um membro não traumatizado.
-A infusão intraóssea deve ser interrompida assim que se estabelece um acesso venoso apropriado. As complicações desse procedimento incluem celulites e, raramente, osteomielites. O local preferencial de punção intraóssea é o terço proximal da tíbia, abaixo da tuberosidade (Figura 4). Se a tíbia estiver fraturada, a agulha poderá ser introduzida no segmento distal do fêmur. A punção não deve ser realizada distalmente à fratura.
+
+Dica
+A infusão intraóssea deve ser interrompida assim que se estabelece um acesso venoso apropriado. As complicações desse procedimento incluem celulites e, raramente, osteomielites. O local preferencial de punção intraóssea é o terço proximal da tíbia, abaixo da tuberosidade. Se a tíbia estiver fraturada, a agulha poderá ser introduzida no segmento distal do fêmur. A punção não deve ser realizada distalmente à fratura.
 
  
 Figura 4 - Punção intraóssea: (A) agulhas especiais; (B) local apropriado para a punção e (C) membro puncionado e recebendo volume
 
+Vídeo
+Punção intraóssea
+ 
+
 O volume sanguíneo da criança pode ser estimado em 80mL/kg de seu peso. O tratamento inicial consiste na administra-ção de cristaloides, 20mL/kg em bolus, podendo-se repetir essa dose 3 vezes após a avaliação clínica (total de 60mL/kg). De-ve-se considerar a conveniência de administração concentrada de hemácias, na dose inicial de 10mL/kg, persistindo a instabi-lidade.
 O retorno à estabilidade hemodinâmica é indicado por diminuição da frequência cardíaca, aumento da pressão de pulso, reaquecimento das extremidades, elevação da PAS (>80mmHg), retorno à cor normal da pele e melhora do nível de consci-ência. O débito urinário é o melhor parâmetro para avaliar a resposta à reposição volêmica. Espera-se um débito de 1mL/kg/h nas crianças com mais de 1 ano e de 2mL/kg/h nas menores.
 
+Pergunta
+2008 - PUC-RS 
+2. Uma menina de 5 anos chega à Emergência em choque hemorrágico após trauma. Na sequência de atendimento inicial, é estabelecido um acesso intraósseo. Em relação a esse tipo de acesso, são apresentadas as assertivas a seguir:
+I - Possibilita o uso de soro fisiológico e de derivados de sangue.
+II - Osteomielite e tromboembolismo são complicações frequentes do procedimento.
+III - O local preferencial para punção é a tíbia proximal.
+Está(ão) correta(s):
+a) I, apenas
+b) II, apenas
+c) III, apenas
+d) I, III
+e) I, II, III
+Resposta no final do capítulo
+
 - Trauma abdominal pediátrico
 Toda criança traumatizada deve ter o estômago descomprimido por meio da passagem de sonda gástrica durante a reani-mação. Os lactentes e as crianças menores, devido ao choro, deglutem grande quantidade de ar, o que aumenta a tensão da parede abdominal e dificulta o exame do abdome. Há preferência pela sondagem orogástrica no lactente. A descompressão vesical por sondagem também facilita a avaliação abdominal, com a ressalva de que não devem ser utilizadas sondas de Foley em crianças com menos de 15kg.
-Entre as crianças instáveis hemodinamicamente, realiza-se o lavado peritoneal diagnóstico ou aspirado abdominal. A ul-trassonografia na sala de emergência (FAST – Focused Assessment with Sonography for Trauma) também pode ser utilizada para a detecção de sangramento intra-abdominal. A tomografia de abdome constitui a melhor forma de diagnóstico, mas só deve ser feita na criança estável hemodinamicamente. Em geral, a criança necessita de sedação para realizar o exame. É ne-cessário o uso de contrastes intravenoso e/ou oral e, em alguns casos, retal.
+
+Diagnóstico
+Entre as crianças instáveis hemodinamicamente, realiza-se o lavado peritoneal diagnóstico ou aspirado abdominal. A ultras-sonografia na sala de emergência (FAST – Focused Assessment with Sonography for Trauma) também pode ser utilizada para a detecção de sangramento intra-abdominal. A tomografia de abdome constitui a melhor forma de diagnóstico, mas só deve ser feita na criança estável hemodinamicamente. Em geral, a criança necessita de sedação para realizar o exame. É necessá-rio, ainda, o uso de contrastes intravenoso e/ou oral e, em alguns casos, retal.
+
 O cirurgião pediátrico deve, sempre que possível, acompanhar os exames de imagem. Como sangramentos intra-abdominais decorrentes de trauma de vísceras parenquimatosas (baço, fígado e rim) costumam cessar espontaneamente, o tratamento não operatório pode ser indicado desde que a criança esteja hemodinamicamente estável. A criança deve ser mantida em unidade de terapia intensiva, com monitorização contínua dos sinais vitais e disponibilidade imediata de equipe cirúrgica e de sala de operação.
 
 Tabela 7 - Lesões mais comuns em crianças do que em adultos
 Hematoma do duodeno
 Mais frequente em crianças por falta de desenvolvimento da musculatura; acontece, frequentemente, por queda sobre um guidão de bicicleta. Pode ser tratado de forma conservadora com sonda nasogástrica e dieta parenteral.
 Lesões do delgado
-Mais comuns em crianças com perfurações do intestino delgado próximo ao ângulo de Treitz e avulsão do mesentério.
+São mais comuns em crianças com perfurações do intestino delgado próximo ao ângulo de Treitz e avulsão do mesentério.
 Ruptura da bexiga
 Na criança, ocorre mais lesão pela pequena profundidade da pelve.
 Lesões de órgãos parenquimatosos (baço, fígado e rins)
 São frequentes no trauma fechado e raramente necessitam de tratamento cirúrgico. Em geral, há um rápido retorno à normalidade hemodinâmica com a reanimação rápida com cristaloides. O diagnóstico é feito, então, com uma tomografia de abdome.
 
-Lesões pélvicas podem acarretar sangramentos de grande monta. A hemorragia associada à fratura da pelve e dos ossos longos é proporcionalmente maior na criança do que no adulto.
+Lesões pélvicas podem acarretar sangramentos de grande monta. A hemorragia associada às fraturas da pelve e dos ossos longos é proporcionalmente maior na criança do que no adulto.
+
+Pergunta
+2012 - SANTA CASA-SP 
+3. Sobre o trauma abdominal em crianças, é incorreto afirmar que:
+a) a ocorrência de lesão de órgãos é maior em crianças do que em adultos
+b) das lesões, a esplênica é a mais comum, seguida pela lesão hepática
+c) os pacientes com lesão esplênica devem ser submetidos a esplenectomia pelo grande risco de sangramento tardio e pela evolução para choque hemorrágico
+d) a lesão de alças intestinais pode ocorrer, mas é infrequente
+e) casos com suspeita de maus-tratos devem ser encaminhados ao Conselho Tutelar para acompanhamento
+Resposta no final do capítulo
 
 D - Estado neurológico
-Utiliza-se a ECG, no entanto, a resposta verbal deve ser modificada nas crianças com idade abaixo de 4 anos (Tabela 8). O atendimento inicial adequado requer restauração rápida do volume circulante, evitando a hipóxia. O vômito e a amnésia por traumas são mais comuns. Logo, sempre se deve realizar descompressão gástrica com sonda. 
+Utiliza-se a ECG, no entanto a resposta verbal deve ser modificada nas crianças com idade abaixo de 4 anos (Tabela 8). O atendimento inicial adequado requer restauração rápida do volume circulante, evitando a hipóxia. O vômito e a amnésia por traumas são mais comuns. Logo, sempre se deve realizar descompressão gástrica com sonda. 
 
 Tabela 8 - Resposta verbal pediátrica
 5	Palavras apropriadas ou sorriso social; fixa e segue objeto.
 4	Chora, mas é consolável.
 3	É persistente e irritável.
 2	É inquieto e agitado.
-1	Nenhuma.
+1	Não há.
 
 O acompanhamento neurocirúrgico deve ser adequado e precoce, e é fundamental a reavaliação continuada de todos os parâmetros. A monitorização da pressão intracraniana é realizada na criança com maior frequência, pelo maior risco de hiper-tensão intracraniana, e está indicada em caso de ECG <8. Não se deve esquecer o ajuste da dosagem dos medicamentos de acordo com o peso.
 
@@ -168,16 +225,17 @@ a) Trauma de crânio
 A maioria dos TCEs na criança resulta de acidentes automobilísticos, acidentes com bicicleta e quedas de altura. Como no adulto, a hipotensão raramente ou nunca é devida ao trauma craniano isoladamente.
 Convulsões após o trauma são mais comuns em crianças, mas geralmente são autolimitadas. Se recorrentes, requerem in-vestigação por tomografia. As crianças têm menor tendência a desenvolver lesões focais do que os adultos, mas apresentam maior frequência de hipertensão intracraniana por edema cerebral.
 Entre os lactentes, as suturas e as fontanelas estão abertas, com possível hipovolemia por sangramento nos espaços subga-leal ou epidural. O espaço subaracnóideo é relativamente pequeno nas crianças, oferecendo menor proteção ao cérebro devido à menor flutuabilidade e maior suscetibilidade de lesão do parênquima cerebral e lesões estruturais.
-A criança pequena, com a fontanela aberta e linhas de sutura não consolidadas, tolera melhor a lesão expansiva intracra-niana. Os sinais de lesão expansiva podem ser mascarados. Em caso de abaulamento de fontanela ou diástase da linha de sutura, a criança deve ser tratada como portadora de lesão grave.
+A criança pequena, com a fontanela aberta e linhas de sutura não consolidadas, tolera mais a lesão expansiva intracrania-na. Os sinais de lesão expansiva podem ser mascarados. Em caso de abaulamento de fontanela ou diástase da linha de sutura, a criança deve ser tratada como portadora de lesão grave.
 
 b) Lesão raquimedular
 É rara nas crianças. Os ligamentos são mais flexíveis, sendo mais comuns as pseudoluxações. Cerca de 40% das crianças com pseudoluxações, abaixo de 7 anos, apresentam deslocamento anterior de C2 sobre C3.
-As crianças podem ter lesão medular sem anormalidade radiológica com frequência maior do que os adultos. Em mais de 2/3 daquelas com lesão medular, os exames radiológicos são normais. Assim, na dúvida sobre a integridade da coluna cervi-cal, deve-se agir como se houvesse uma lesão instável, mantendo imobilizados a cabeça e o pescoço, além de proceder à avaliação especializada precoce.
+
+Dica
+As crianças podem ter lesão medular sem anormalidade radiológica com frequência maior do que os adultos. Em mais de 2/3 daquelas com lesão medular, os exames radiológicos são normais. Assim, na dúvida sobre a integridade da coluna cervical, deve-se agir como se houvesse uma lesão instável, mantendo imobilizados a cabeça e o pescoço, além de proceder a avalia-ção especializada precoce.
 
 E - Exposição e prevenção da hipotermia
 O exame físico deve atentar para lesões em membros quando houver uma cinemática do trauma sugestiva. 
 É comum a ocorrência de fraturas “em galho-verde” (Figura 5), que são incompletas e cuja angulação é mantida pela ca-mada cortical, pela flexibilidade dos ossos da criança. O diagnóstico radiológico de fraturas e luxações é mais difícil em razão da falta de mineralização ao redor da epífise e da presença dos núcleos de crescimento. Lesões da linha de crescimento po-dem retardar ou alterar o desenvolvimento normal. As lesões por esmagamento na epífise de crescimento têm pior prognós-tico.
-
  
 Figura 5 - Fratura de ossos da perna: fratura “em galho-verde”
 
@@ -212,4 +270,9 @@ Quadro-resumo
 - O atendimento à criança politraumatizada deve seguir a padronização proposta pelo Advanced Trauma Life Support (ATLS®);
 - A criança não deve ser considerada prioridade no atendimento, mas apresenta peculiaridades que devem ser conhecidas;
 - Diferenças anatômicas e de parâmetros vitais podem mimetizar falsos diagnósticos de normalidade;
-- Na suspeita de maus-tratos, é obrigação do médico que atende o caso notificar às autoridades competentes.  
+- Na suspeita de maus-tratos, é obrigação do médico que atende o caso notificar às autoridades competentes. 
+
+Respostas
+1. D
+2. D
+3. C
