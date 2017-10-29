@@ -1,59 +1,81 @@
 Doenças inflamatórias intestinais 
 José Américo Bacchi Hora
 
+Resumo
+Neste capítulo, abordaremos a Doença de Crohn (DC) e a retocolite ulcerativa (RCU), ambas referidas como Doenças Inflamatórias Intestinais (DIIs). O diagnóstico diferencial dessas doenças, bem como as característi-cas clínicas de cada uma e tratamento, é extremamente importante na prática diária, muito cobrado nos con-cursos médicos. As DIIs são doenças crônicas de caráter inflamatório do aparelho digestivo causadas por alte-rações na imunorregulação intestinal. A diferenciação entre RCU e DC se dá por meio de critérios clínicos, en-doscópicos e histológicos, e é muito importante essa diferenciação, pois apresentam aspectos distintos de evolução e tratamento quanto a História Natural da Doença. As DIIs são doenças não infecciosas e manifes-tam-se clinicamente por diarreia, dor abdominal, perda ponderal e náuseas. A DC pode ocorrer da boca ao ânus, atingindo principalmente o intestino delgado (íleo terminal), e começa a se manifestar após os 10 anos, com distribuição bimodal por faixa etária (picos entre 15 e 25 anos e 55 e 60 anos). É mais comum em brancos e judeus asquenazes, sem diferença significativa de incidência entre os sexos. Pesquisas sugerem papel im-portante do fator de necrose tumoral alfa (TNF-alfa) na doença ativa. Histologicamente, são observados gra-nulomas não caseosos, acometimento transmural e reação inflamatória crônica inespecífica. O diagnóstico baseia-se no conjunto de características clínicas, laboratoriais, endoscópicas e radiológicas condizentes com a doença e o diagnóstico diferencial (RCU, gastrenterite, tumores intestinais e tuberculose intestinal). A DC pode cursar com manifestações extraintestinais oftalmológicas, como irite e episclerite. Também podem es-tar presentes acometimentos de pele, articulações e das vias biliar, renal e vascular, fístulas perianais (as complexas são características) e abscessos perianais simples. O aspecto mucoso endoscópico característico é a lesão inicial com úlceras aftoides, posteriormente passando a lineares e tardiamente assumindo o aspecto “em paralelepípedo” (cobblestone), altamente sugestivo da doença. A biópsia é útil para o diagnóstico e deve ser realizada durante o exame endoscópico. Não existe cura, e o tratamento clínico consiste em medidas de suporte e medicamentos (corticoides, sulfassalazina, metronidazol, ciprofloxacino, imunossupressores e ini-bidor do TNF-alfa (infliximabe ou adalimumabe). Cirurgias geralmente são indicadas nas complicações da do-ença, como quadros obstrutivos, perfuração e hemorragias. Já a RCU consiste na inflamação crônica da muco-sa e da submucosa colônica (que se inicia no reto e continua em extensão variável), de etiologia desconheci-da, com prevalência estável e incidência em 2 picos de idade: dos 15 aos 35 e dos 60 aos 70 anos, além de ser mais comum em judeus e mulheres. A lesão característica ao anatomopatológico é o microabscesso de cripta, e a confluência dos abscessos acaba por formar úlceras, as quais delimitam áreas de mucosa normal, chama-das pseudopólipos. Classifica-se em pancolite, colite ulcerativa esquerda e colite ulcerativa distal, além de ser considerada doença pré-maligna (adenocarcinoma). A forma fulminante, chamada megacólon tóxico, pode estar presente também na DC. Manifesta-se com sintomas de taquicardia, distensão abdominal, febre e si-nais de peritonite. Esse processo inflamatório muito intenso acaba por comprometer a parede colônica, o que pode levar a perfuração, sobretudo no cólon transverso. Como diagnóstico, utilizam-se os parâmetros de dilatação em alça de cólon transverso >6cm em raio x simples de abdome, associada ao quadro clínico sugesti-vo. Os principais diagnósticos diferenciais são DC, colite isquêmica, colite colagenosa, colite infecciosa e outras doenças, como diverticulite, colite eosinofílica, amiloidose e processos neoplásicos de cólon. O tratamento consiste em medidas gerais semelhantes às empregadas na DC. Na fase aguda, podem-se administrar corti-coides e antibioticoterapia (aminoglicosídeo + metronidazol + ciprofloxacino ou ampicilina + metronidazol) e, na fase crônica, administram-se sulfassalazina e imunossupressores. O tratamento cirúrgico é eletivo para casos de intratabilidade por medidas clínicas. A eliminação total é obtida com a proctocolectomia total, porém a desvantagem é a ileostomia definitiva. O prognóstico é variável: 15% têm curso crônico; 80%, crises interca-ladas; e 5%, surtos fulminantes.
 
 1. Introdução
 
-O termo Doença Inflamatória Intestinal (DII) se refere a 2 entidades clínicas distintas: a Doença de Crohn (DC) e a retocoli-te ulcerativa. São doenças crônicas de caráter inflamatório do aparelho digestivo causadas por alterações na imunorregulação intestinal. Sua diferenciação é muito importante, pois ambas apresentam diferenças nos aspectos de evolução, tratamento e História Natural da Doença.
-Apesar de se tratar de um assunto bastante atual, as DIIs foram descritas há muito tempo. A DC foi observada pela 1ª vez por Wilhelm Fabry (Alemanha) em 1623 e, posteriormente, descrita e denominada por Burrill B. Crohn (Estados Unidos); a retocolite ulcerativa foi descrita por Sir Samuel Wilks em 1859, na Inglaterra.
-Atualmente, a diferenciação entre retocolite ulcerativa inflamatória (RCUI) e DC é por meio de critérios clínicos, endoscó-picos e histológicos, embora, em poucos casos, a evolução do processo surpreenda um diagnóstico equivocado. Quando o diagnóstico é mudado, costuma ser de RCUI para DC (o oposto quase nunca ocorre). É importante ressaltar que, em até 20% dos casos de DII, não é possível a classificação em DC ou RCUI, sendo, então, utilizado o termo “colite indeterminada”.
-Nas últimas décadas, a incidência de DC tem aumentado: estima-se que, a cada 100.000 habitantes, de 5 a 15 indivíduos são afetados nos Estados Unidos, enquanto a incidência de RCUI se mantém constante.
-Estima-se também que seja gasto cerca de 1 bilhão de dólares anualmente nesse país para o tratamento das DIIs, já que es-tas apresentam fatores psicossociais, interferindo principalmente na produtividade da população economicamente ativa.
+O termo Doença Inflamatória Intestinal (DII) refere-se a 2 entidades clínicas distintas: a Doença de Crohn (DC) e a colite ou retocolite ulcerativa (RCU). São doenças crônicas de caráter inflamatório do aparelho digestivo causadas por alterações na imunorregulação intestinal. Sua diferenciação é muito importante, pois ambas apresentam diferenças nos aspectos de evolu-ção, tratamento e História Natural da Doença.
+Apesar de se tratar de um assunto bastante atual, as DIIs foram descritas há muito tempo. A DC foi observada pela 1ª vez por Wilhelm Fabry (Alemanha) em 1623 e, posteriormente, descrita e denominada por Burrill B. Crohn (Estados Unidos); a RCU foi descrita por Sir Samuel Wilks em 1859, na Inglaterra.
+A diferenciação entre RCU e DC se dá por meio de critérios clínicos, endoscópicos e histológicos, embora, em poucos ca-sos, a evolução do processo nos surpreenda com um diagnóstico equivocado. Quando o diagnóstico é mudado, costuma ser de RCU para DC (o oposto quase nunca ocorre). É importante ressaltar que, em até 20% dos casos de DII, não é possível a classificação em DC ou RCU, sendo, então, utilizado o termo “colite indeterminada”.
+Nas últimas décadas, a incidência de DC tem aumentado: estima-se que, a cada 100.000 habitantes, de 5 a 15 indivíduos são afetados nos Estados Unidos, enquanto a incidência de RCU se mantém constante.
 
 2. Fisiopatologia
 
-A fisiopatologia das DIIs ainda não está bem definida, mas suspeita-se que seja decorrente de anormalidades imunológicas celulares. Basicamente, há desregulação imunitária causando inflamação intestinal, desencadeada por algum componente ambiental ou endógeno, em indivíduo geneticamente suscetível. É multifatorial, apresentando relação com fatores infeccio-sos (vírus e bactérias), psicológicos (estresse) e ambientais, como uso de anti-inflamatórios não esteroides, anticoncepcionais orais e tabaco. O tabagismo é considerado fator de proteção para RCUI e desencadeante em DC. 
+A fisiopatologia das DIIs ainda não está bem definida, mas suspeita-se que seja decorrente de anormalidades imunológicas celulares. Basicamente, há desregulação imunitária causando inflamação intestinal, desencadeada por algum componente ambiental ou endógeno, em indivíduo geneticamente suscetível. É multifatorial, apresentando relação com fatores infeccio-sos (vírus e bactérias), psicológicos (estresse) e ambientais, como uso de anti-inflamatórios não esteroides, anticoncepcionais orais e tabaco. O tabagismo é considerado fator de proteção para RCU e desencadeante em DC. 
 
  
 Figura 1 - Fisiopatologia
 
-As DIIs são doenças não infecciosas e manifestam-se clinicamente por diarreia, dor abdominal, perda ponderal e náuseas.
-
+Quadro clínico
+As DIIs são doenças não infecciosas e manifestam-se clinicamente por diarreia, dor abdominal, perda ponderal e náuseas. 
 3. Doença de Crohn
 
 A - Epidemiologia 
 Trata-se de uma doença que causa inflamação crônica granulomatosa não caseificante que pode ocorrer da boca ao ânus. O intestino delgado é o principal sítio da doença, acometido em 90% dos casos, principalmente o íleo terminal (75% das ve-zes). Metade dos pacientes possui envolvimento ileocecal, e 30 a 40%, ileíte isolada. Um terço dos indivíduos apresenta aco-metimento perianal, geralmente associado a colite, que ocorre em 20%. 
 As maiores incidências registradas estão nos Estados Unidos, na Grã-Bretanha e na Escandinávia. Nas últimas décadas, a in-cidência vem aumentando no Brasil, especialmente na região Sudeste.
-A doença começa a se manifestar após os 10 anos e tem distribuição bimodal por faixa etária (picos entre 15 e 25 anos e 55 e 60 anos). É mais comum em brancos e judeus asquenazitas. Não há diferença significativa de incidência entre os sexos.
+A doença começa a se manifestar após os 10 anos e tem distribuição bimodal por faixa etária (picos entre 15 e 25 anos e 55 e 60 anos). É mais comum em brancos e judeus asquenazes. Não há diferença significativa de incidência entre os sexos.
 
 B - Patologia 
 A DC caracteriza-se por uma inflamação transmural com padrão descontínuo ou salteado dos intestinos. Pode atingir todo o tubo digestivo, mas acomete geralmente o íleo terminal e o cólon. 
-Na fase inicial, ocorre espessamento globoso, edematoso e hiperêmico da mucosa intestinal, resultando em minúsculas ulcerações. Quando a doença se cronifica, ocorrem úlceras, fissuras, fístulas e até abscessos intracavitários. A alça intestinal fica edemaciada, com edema também no mesentério, que costuma crescer sobre a alça em projeções digitiformes. São tam-bém comuns as aderências decorrentes de serosite.
-Histologicamente, são observados granulomas não caseosos, acometimento transmural e reação inflamatória crônica ines-pecífica.
-Postula-se que um evento inespecífico possa funcionar como gatilho a indivíduos previamente suscetíveis, ativando res-posta imune desregulada. Pesquisas sugerem papel importante do fator de necrose tumoral alfa (TNF-alfa) na doença ativa.
+Na fase inicial, ocorre espessamento mucoso, edematoso e hiperêmico da mucosa intestinal, resultando em minúsculas ulcerações. Quando a doença se cronifica, ocorrem úlceras, fissuras, fístulas e até abscessos intracavitários. A alça intestinal fica edemaciada, com edema também no mesentério, que costuma crescer sobre a alça em projeções digitiformes. São tam-bém comuns as aderências decorrentes de serosite.
+
+Diagnóstico
+Histologicamente, na DC são observados granulomas não caseosos, acometimento transmural e reação inflamatória crônica inespecífica. 
+Postula-se que um evento inespecífico possa funcionar como gatilho em indivíduos previamente suscetíveis, ativando uma resposta imune desregulada. Pesquisas sugerem um papel importante do fator de necrose tumoral alfa (TNF-alfa) na doença ativa.
 
 C - Diagnóstico 
-O diagnóstico não pode ser realizado baseando-se em apenas 1 aspecto clínico ou laboratorial, mas depende da interação de características clínicas, laboratoriais, endoscópicas e radiológicas condizentes com a doença e também da exclusão de outras doenças que possam entrar no diagnóstico diferencial de cada caso. As manifestações são muito variáveis e caracteri-zam-se por inflamação transmural em qualquer parte do aparelho digestivo. O intestino delgado é o mais acometido.
-O quadro clínico é dependente da extensão e do segmento intestinal envolvido. A doença se caracteriza por períodos de crises entremeados por períodos de remissão. Basicamente, podem-se dividir os sintomas em 3 tipos: inflamatórios, fibroes-tenóticos ou fistulizantes. Os inflamatórios podem ser sistêmicos, como a febre baixa e a astenia; ou locais, com manifestações de enterites ou colites. Os fibroestenóticos são decorrentes da cicatrização de uma inflamação transmural, o que leva à dimi-nuição do calibre intestinal, com obstrução ou suboclusão intestinal. Os fistulizantes ou perfurativos podem ser fístulas ente-rocutâneas, perianais ou abscessos intracavitários decorrentes da perfuração da parede intestinal. O mais comum é a enteri-te, com dor abdominal, diarreia, febre e emagrecimento. 
+O diagnóstico não pode ser realizado baseando-se em apenas 1 aspecto clínico ou laboratorial, mas depende da interação de características clínicas, laboratoriais, endoscópicas e radiológicas condizentes com a doença e, também, da exclusão de outras doenças que possam entrar no diagnóstico diferencial de cada caso. As manifestações são muito variáveis e caracteri-zam-se por inflamação transmural em qualquer parte do aparelho digestivo. O intestino delgado é o mais acometido.
+O quadro clínico é dependente da extensão e do segmento intestinal envolvido. A doença se caracteriza por períodos de crises entremeados por períodos de remissão. 
+
+Dica
+Basicamente, podem-se dividir os sintomas da DC em 3 tipos: inflamatórios, fibroestenóticos ou fistulizantes. 
+Os sintomas podem ser inflamatórios, fibroestenóticos e fistulizantes. Os inflamatórios podem ser sistêmicos, como a febre baixa e a astenia, ou locais, com manifestações de enterites ou colites. Os fibroestenóticos são decorrentes da cicatrização de uma inflamação transmural, que leva à diminuição do calibre intestinal, com obstrução ou suboclusão intestinal. Os fistulizan-tes ou perfurativos podem ser fístulas enterocutâneas, perianais ou abscessos intracavitários decorrentes da perfuração da parede intestinal. De todos, o mais comum é a enterite, com dor abdominal, diarreia, febre e emagrecimento. 
 
  
-Figura 2 - Aspecto perineal de pacientes com DC perianal
+Figura 2 - Aspecto perineal de pacientes com doença de Crohn perianal
 
-A DC pode cursar com manifestações extraintestinais oftalmológicas, como irite e episclerite. Também podem estar pre-sentes acometimentos de pele (eritema nodoso e pioderma gangrenoso), articulações (artrite de grandes articulações, mani-festação extraintestinal mais comum da DC) e das vias biliar (colelitíase e colangite esclerosante primária), renal (amiloidose secundária) e vascular (tromboses venosa e arterial).
-
- 
-Figura 3 - Fístula enterocutânea em paciente com DC
-
-No exame físico, podem ser encontrados dor à palpação abdominal, massas palpáveis, distensão devida a processos obs-trutivos e visualização de fístulas enterocutâneas. As fístulas perianais complexas são características, mas a doença pode mani-festar-se inicialmente com fissuras, abscessos perianais simples e fístulas simples.
-Nos exames laboratoriais, o hemograma pode demonstrar anemia e leucocitose, a velocidade de hemossedimentação e a proteína C reativa podem estar aumentadas, a albumina pode estar diminuída devido à desnutrição crônica e os eletrólitos podem estar alterados, todos devido à atividade inflamatória exacerbada e mesmo à diarreia.
-Pode ser solicitada, também, coprologia que pode evidenciar esteatorreia e leucócitos fecais. A ausência de patógenos específicos reforça o diagnóstico.  
-Na radiografia simples, podem ser vistas perfurações e dilatações de alça. Quando realizado exame contrastado, é possível ver também fístulas e estenoses caracteristicamente com áreas sãs entremeadas por áreas doentes (aspecto salteado). O enema opaco é útil na colite de Crohn. A tomografia computadorizada e outros métodos radiológicos de imagem seccional, como a ressonância nuclear magnética e, em menor grau, a ultrassonografia, podem ser úteis na identificação de abscessos intracavitários e espessamento de alça.
-Pelo fato de poder atingir qualquer porção do tubo digestivo, devem-se realizar endoscopia digestiva alta e colonoscopia em todos os casos. A enteroscopia em qualquer uma de suas formas também pode ser útil. O aspecto mucoso endoscópico característico é a lesão inicial com úlceras aftoides, posteriormente passando a lineares e, tardiamente, assumindo o aspecto “em paralelepípedo” (cobblestone), que é altamente sugestivo da doença. A biópsia é essencial para o diagnóstico e deve ser realizada durante o exame endoscópico. Infelizmente, apenas em 20% das vezes o exame anatomopatológico mostra o granu-loma não caseoso, que define o diagnóstico. Contudo, é também de suma importância para exclusão de outra afecção.
+Pode cursar com manifestações extraintestinais oftalmológicas, como irite e episclerite. Também podem estar presentes acometimentos de pele (eritema nodoso e pioderma gangrenoso), articulações (artrite de grandes articulações, manifestação extraintestinal mais comum da DC, e espondilite anquilosante) e das vias biliar (colelitíase e colangite esclerosante primária), renal (amiloidose secundária) e vascular (tromboses venosa e arterial).
 
  
-Figura 4 - Exame contrastado: áreas de estenose intestinal em paciente com DC
+Figura 3 - Fístula enterocutânea em paciente com doença de Crohn
 
-Devem ser lembrados, também, os diagnósticos diferenciais, sendo a retocolite ulcerativa, a gastroenterite, os tumores in-testinais e a tuberculose intestinal.
+No exame físico, podem ser encontrados dor à palpação abdominal, massas palpáveis, distensão devida a processos obs-trutivos e visualização de fístulas enterocutâneas. 
+
+Quadro clínico
+As fístulas perianais complexas são características, mas a DC pode manifestar-se inicialmente com fissuras, abscessos peria-nais simples e fístulas simples. 
+
+Nos exames laboratoriais, o hemograma pode demonstrar anemia e leucocitose, a velocidade de hemossedimentação e a proteína C reativa podem estar aumentadas, a albumina pode estar diminuída devido à desnutrição crônica e os eletrólitos podem estar alterados, todos devido à atividade inflamatória exacerbada e à diarreia.
+Pode ser solicitada, também, coprologia, que pode evidenciar esteatorreia e leucócitos fecais presentes. A ausência de patógenos específicos reforça o diagnóstico.  
+Na radiografia simples, podem ser vistas perfurações e dilatações de alça. Quando realizado exame contrastado, é possível ver, também, fístulas e estenoses caracteristicamente com áreas sãs entremeadas por áreas doentes (aspecto salteado). O enema opaco é útil na colite de Crohn. A tomografia computadorizada e outros métodos radiológicos de imagem seccional, como a ressonância nuclear magnética e, em menor grau, a ultrassonografia, podem ser úteis na identificação de abscessos intracavitários e espessamento de alça. Para a avaliação do intestino delgado, cada vez mais vêm sendo solicitadas a entero-tomografia e a enterorressonância, modalidades que, aos poucos, têm substituído o trânsito intestinal.
+Pelo fato de a doença poder atingir qualquer porção do tubo digestivo, devem-se realizar endoscopia digestiva alta e co-lonoscopia em todos os casos. A enteroscopia em qualquer uma de suas formas também pode ser útil. 
+O aspecto mucoso endoscópico característico é a lesão inicial com úlceras aftoides, posteriormente passando a lineares e, tardiamente, assumindo o aspecto “em paralelepípedo” (cobblestone), que é altamente sugestivo da doença. A biópsia é útil para o diagnóstico e deve ser realizada durante o exame endoscópico.
+Infelizmente, apenas em 20% das vezes o exame anatomopatológico mostra o granuloma não caseoso, que define o diag-nóstico. Contudo, é também de suma importância para exclusão de outra afecção.
+
+ 
+Figura 4 - Exame contrastado: áreas de estenose intestinal em paciente com doença de Crohn
+
+Devem ser lembrados os diagnósticos diferenciais, sendo a retocolite ulcerativa, a gastroenterite, os tumores intestinais e a tuberculose intestinal.
+
+Pergunta
+2015 - UNICAMP
+1. Uma jovem, de 17 anos, relata dor abdominal e episódios de diarreia com muco há 3 meses e saída de secreção pela região perineal há 2 meses. Ao exame físico, está descorada (++/4+), com IMC = 17kg/m2. Abdome: levemente distendido e doloroso à palpação da fossa ilíaca direita, com descompressão brusca indolor. Inspeção perianal: orifício fistuloso perianal e outro no introito vaginal com descarga purulenta. Inspeção dinâmica e toque retal: sem alterações. A hipótese diagnóstica e os exames complementares in-dicados são:
+a) doença de Crohn; trânsito intestinal e ileocolonoscopia
+b) doença de Crohn; tempo de trânsito cólico e ileocolonoscopia
+c) retocolite ulcerativa; ressonância magnética de pelve e ileocolonoscopia
+d) retocolite ulcerativa; trânsito intestinal e colonoscopia
+Resposta no final do capítulo
 
 D - Tratamento clínico
 Como não existe cura definitiva, o tratamento deve induzir e manter sua remissão, com o mínimo possível de complica-ções e efeitos colaterais.
@@ -79,30 +101,30 @@ Metronidazol
 - É particularmente útil na doença de cólon e perianal, principalmente fístulas e abscessos;
 - Tem resultados potencializados com a ação do ciprofloxacino e pode ser usado na falha do 5-ASA para postergar o uso de corticoides.
 Ciprofloxacino
-- Dose usual: 500mg 2x/d VO; pode ser associado ao metronidazol;
+- Dose usual: 500mg VO, 2x/d; pode ser associado ao metronidazol;
 - É útil na doença perianal ou na ausência de resposta ao 5-ASA;
 - Tempo de uso mínimo: de 6 semanas até 1 ano.
 Imunossupressores
-Azatioprina (derivado da 6-mercaptopurina)	Por, pelo menos, 4 meses – pode gerar toxicidade hematológica –, hemograma e provas de função hepáti-ca a cada 45 dias.
+Azatioprina (derivado da 6-mercaptopurina)	Por, pelo menos, 4 meses – pode gerar toxicidade hematológica –, devem ser realizados hemograma e provas de função hepática a cada 45 dias.
 Ciclosporina	Constitui alternativa à azatioprina para a fase aguda.
 Inibidor do TNF-alfa (infliximabe ou adalimumabe)
 - É utilizado na doença grave e nas formas graves;
-- De custo elevado, questiona-se a relação com doenças linfoproliferativas, mas são drogas mais promissoras atualmente.
+- De custo elevado, questiona-se a relação com doenças linfoproliferativas, mas é a classe de drogas mais promissora atualmente.
 
 E - Tratamento cirúrgico
 Por ser uma patologia que pode envolver todo o trato digestivo, a cirurgia tem papel pequeno no tratamento da DC. Ge-ralmente é indicada nas complicações da doença, como quadros obstrutivos, perfuração e hemorragias.
 
  
-Figura 5 - Peça cirúrgica de ressecção ileocecal em paciente com DC
+Figura 5 - Peça cirúrgica de ressecção ileocecal em paciente com doença de Crohn
 
 Deve-se sempre visar ao bem-estar, realizando sempre que possível a menor ressecção do intestino, para evitar compli-cações com desnutrição. São sempre preferíveis as estrituroplastias às enterectomias. As derivações internas não devem ser utilizadas. As ostomias ficam reservadas aos casos graves. 
 
-Tabela 2 - Indicações de cirurgia na DC
-- Intratabilidade clínica da doença não complicada ou das complicações (obstrução intestinal refratária ou recorrente, fístulas não responsivas ao tratamento clínico, abscessos e hemorragia);
+Tabela 2 - Indicações de cirurgia na doença de Crohn
+- Intratabilidade clínica da doença não complicada ou das complicações (obstrução intestinal refratária ou recorrente, fístulas não res-ponsivas ao tratamento clínico, abscessos e hemorragia);
 - Complicações incontroláveis do tratamento medicamentoso (fístulas, obstruções intestinais, doença perianal extensa);
 - Retardo de crescimento, manifestação extraintestinal (pioderma gangrenoso); 
 - Difícil controle dos efeitos colaterais medicamentosos;
-- Displasia de alto grau confirmada/displasia associada à lesão ou massa (DALM) ou câncer;
+- Displasia de alto grau confirmada/Displasia Associada a Lesões ou Massas (DALM) ou câncer;
 - Suspeita de estenose maligna.
 
 A técnica cirúrgica depende da extensão da doença ou da complicação. Em enterites exclusivas, preconizam-se as ressec-ções econômicas ou enteroplastias (Figura 6). Nas colites exclusivas, devem ser realizadas ressecções de segmentos ou colec-tomia total com anastomose ileorretal.
@@ -116,27 +138,30 @@ Indica-se cirurgia de urgência em hemorragias maciças, megacólon tóxico (colecto
 Quanto ao prognóstico, 20% dos pacientes têm apenas 1 ou 2 surtos da doença. Apesar de a mortalidade ser reduzida, metade apresenta complicações decorrentes do tratamento cirúrgico.
 
  
-Figura 7 - Aspecto intraoperatório de aderências em paciente com DC
+Figura 7 - Aspecto intraoperatório de aderências em paciente com doença de Crohn
 
 4. Retocolite ulcerativa
 
 A - Epidemiologia 
-A RCUI consiste na inflamação crônica da mucosa e da submucosa colônica de etiologia desconhecida, antigamente deno-minada idiopática. No entanto, dados mais recentes indicam o envolvimento imunológico no surgimento da fisiopatologia. As manifestações clínicas geralmente ocorrem em surtos com intervalos imprevisíveis.
+A RCU consiste na inflamação crônica da mucosa e da submucosa colônicas de etiologia desconhecida, antigamente de-nominada idiopática. No entanto, dados mais recentes indicam o envolvimento imunológico no surgimento da fisiopatologia. As manifestações clínicas geralmente ocorrem em surtos com intervalos imprevisíveis.
 Os dados epidemiológicos não refletem a realidade, uma vez que existem muitos pacientes assintomáticos na população e a maioria dos dados pertence a instituições terciárias que observam apenas uma pequena proporção do número de pacien-tes da comunidade. A prevalência tem-se mantido estável nos últimos anos (ao contrário da DC), com incidência de 2 a 6:100.000/ano nos Estados Unidos em 2 picos de idade, dos 15 aos 35 anos e dos 60 aos 70 anos. É mais comum em judeus e mulheres.
 
 B - Patologia 
 Ocorre processo inflamatório limitado à mucosa e, no máximo, à submucosa, raramente acometendo toda a parede colô-nica. O processo inflamatório crônico determina atrofia da mucosa e seu espessamento muscular. A lesão característica ao exame anatomopatológico é o microabscesso de cripta, e a confluência dos abscessos acaba por formar úlceras, as quais delimitam áreas de mucosa normal, denominadas pseudopólipos.
-O acometimento da mucosa colônica inicia-se a partir do reto e continua em extensão variável, porém restrito ao cólon. Raramente, o íleo terminal é acometido pela retocolite (lesão do tipo back wash). Em, aproximadamente, 20% dos casos de DII restrita aos cólons, não se consegue distinguir RCUI e DC, portanto o diagnóstico é de colite indeterminada.
+O acometimento da mucosa colônica inicia-se a partir do reto e continua em extensão variável, porém restrito ao cólon. Raramente, o íleo terminal é acometido pela retocolite (lesão do tipo back wash). Em, aproximadamente, 20% dos casos de DII restrita aos cólons, não se consegue distinguir RCU e DC, portanto o diagnóstico é de colite indeterminada.
 Existem 3 padrões de classificação para a doença, relacionados ao comprometimento intestinal:
 1 - Pancolite: doença de todo o cólon; 10% desenvolvem colite ulcerativa de todo o cólon.
 2 - Colite ulcerativa esquerda: colite localizada predominantemente do lado esquerdo.
 3 - Colite ulcerativa distal: doença envolvendo o cólon sigmoide e o reto.
-
 Existem várias etiologias possíveis para a colite ulcerativa: infecciosa, alergia alimentar, fatores psicológicos, familiares. É considerada doença pré-maligna, com alterações displásicas da mucosa frequentemente associadas ao carcinoma.
 
 C - Diagnóstico 
-O quadro clínico depende da extensão da doença. Caracteristicamente, a doença tem caráter contínuo de distal para pro-ximal ininterrupto. Assim, o reto é sempre comprometido. As crises também costumar vir com pródromos. Doença mais distal manifesta-se por sangramento retal, mucorreia purulenta, puxos, diarreia de longa duração, podendo apresentar sangue e dor abdominal sem grande alteração no exame físico. Na RCUI do cólon esquerdo e na pancolite, geralmente, ocorre diarreia com sangue, e a presença de muco e pus é mais pronunciada. Pode haver febre, anorexia, perda de peso, taquicardia e hipo-tensão.
-A forma fulminante, chamada megacólon tóxico, pode estar presente também na DC. Manifesta-se com sintomas de taqui-cardia, distensão abdominal, febre e sinais de peritonite. Esse processo inflamatório muito intenso acaba comprometendo a parede colônica, o que pode levar a perfuração, principalmente no cólon transverso. Como diagnóstico, utilizam-se os seguin-tes parâmetros: dilatação em alça de cólon transverso >6cm em raio x simples de abdome, associada ao quadro clínico suges-tivo.
+O quadro clínico depende da extensão da doença. Caracteristicamente, a doença tem caráter contínuo de distal para pro-ximal ininterrupto. Assim, o reto é sempre comprometido. As crises também costumar vir com pródromos. Doença mais distal manifesta-se por sangramento retal, mucorreia purulenta, puxos, diarreia de longa duração, podendo apresentar sangue e dor abdominal sem grande alteração no exame físico. Na RCU do cólon esquerdo e na pancolite, geralmente, ocorre diarreia com sangue, e a presença de muco e pus é mais pronunciada. Pode haver febre, anorexia, perda de peso, taquicardia e hipo-tensão.
+
+Dica
+A forma fulminante de retocolite ulcerativa (RCU), chamada megacólon tóxico, pode estar presente na DC. 
+
+O megacólon tóxico manifesta-se com sintomas de taquicardia, distensão abdominal, febre e sinais de peritonite. Esse processo inflamatório muito intenso acaba comprometendo a parede colônica, o que pode levar a perfuração, principalmen-te no cólon transverso. Como diagnóstico, utilizam-se os seguintes parâmetros: dilatação em alça de cólon transverso >6cm em raio x simples de abdome, associada ao quadro clínico sugestivo.
 
 Tabela 3 - Exames utilizados para diagnóstico
 Exames com-plementares diagnósticos	Leucocitose, anemia, velocidade de hemossedimentação e proteína C reativa elevadas; leucócitos nas fezes, hipoal-buminemia, alteração em eletrólitos e desequilíbrio acidobásico
@@ -148,8 +173,19 @@ endoscópicos	- Indispensáveis para o diagnóstico, devido à sua capacidade de det
 	- Úteis na avaliação da extensão da doença e permitem o diagnóstico histológico, mas, quando os 2 exames (endos-copia e colonoscopia) estão associados, ajudam na detecção de neoplasias;
 	- Contraindicados na suspeita de megacólon tóxico, devido ao risco de perfuração.
 
-Os principais diagnósticos diferenciais são DC, colite isquêmica, colite colagenosa, colite infecciosa e outras doenças, co-mo diverticulite, colite eosinofílica, amiloidose e processos neoplásicos de cólon.
-O risco do aparecimento de adenocarcinoma entre portadores de RCUI está diretamente relacionado à extensão da colite (pancolite), e é necessária a colonoscopia a cada 1 ou 2 anos com biópsias seriadas, a partir de 8 anos de doença. O câncer associado à RCUI tem comportamento geralmente mais agressivo; pode ocorrer em jovens, e, com frequência, seu desenvol-vimento surge a partir do epitélio colônico com displasia grave. Assim, o achado colonoscópico de displasia grave e/ou displa-sia associada a massas tumorais é indicativo de tratamento cirúrgico com princípios oncológicos (margens adequadas e linfa-denectomia).
+Diagnóstico diferencial
+Os principais diagnósticos diferenciais de RCU são DC, colite isquêmica, colite colagenosa, colite infecciosa e outras doen-ças, como diverticulite, colite eosinofílica, amiloidose e processos neoplásicos de cólon. 
+
+O risco do aparecimento de adenocarcinoma entre portadores de RCU está diretamente relacionado à extensão da colite (pancolite), e é necessária a colonoscopia a cada 1 ou 2 anos com biópsias seriadas, a partir de 8 anos de doença. O câncer associado à RCU tem comportamento geralmente mais agressivo; pode ocorrer em jovens, e, com frequência, seu desenvol-vimento surge a partir do epitélio colônico com displasia grave. Assim, o achado colonoscópico de displasia grave e/ou displa-sia associada a massas tumorais é indicativo de tratamento cirúrgico com princípios oncológicos (margens adequadas e linfa-denectomia).
+
+Pergunta
+2015 - UNICAMP
+2. Um homem de 25 anos informa o diagnóstico de retocolite ulcerativa no cólon e no reto há 10 anos, apresenta dor articular desde o diagnóstico, com piora importante nos últimos 2 anos, e refere prurido e dor abdominal vaga há 18 meses, evoluindo com icterícia há 3 meses. Está em uso de antifator de necrose tumoral alfa e azatioprina. Após a retocolectomia total, espera-se:
+a) manutenção da artralgia
+b) diminuição do risco de neoplasia de vias biliares
+c) evolução de colangite esclerosante e cirrose
+d) melhora do prurido
+Resposta no final do capítulo
 
 D - Tratamento clínico
 
@@ -162,26 +198,27 @@ Corticoides são indicados na fase aguda apenas para induzir à remissão da doença
 Na doença restrita ao reto e ao sigmoide, pode-se utilizar enema de corticoides (50mL de água + 100mg de hidrocortiso-na, 2x/d) ou enema de budesonida (melhor devido à metabolização hepática mais rápida). Medicações de uso tópico, como supositório ou enema, têm resultados semelhantes aos dos enemas de corticoide nas retites e sigmoidites. Apesar de existir pequena absorção sistêmica do corticoide por via retal, esta é a forma menos tóxica de tratar doença restrita ao reto.
 
 c) Fase crônica
-Depois da remissão da fase aguda, inicia-se a redução dos corticoides. Nos pacientes em que a dose de corticoide oral é menor que 10mg/d, sua necessidade passa a ser discutível; assim, sua retirada é a conduta preferível sempre que o paciente suportar.
+Depois da remissão da fase aguda, inicia-se a redução dos corticoides. Nos pacientes em que a dose de corticoide oral é menor do que 10mg/d, sua necessidade passa a ser discutível; assim, sua retirada é a conduta preferível sempre que o paci-ente suportar.
 A sulfassalazina, na dose de 2 a 4g/d VO, é indicada às formas leves e moderadas e útil para evitar recaídas. Deve ser ad-ministrada com ácido fólico para evitar anemia macrocítica induzida pela droga. É pouco útil nos surtos agudos, tendo papel mais importante nas formas crônicas. O 5-ASA é indicado aos indivíduos com intolerância a sulfassalazina, com a vantagem de evitar efeitos adversos, como cefaleia, tontura, reações alérgicas e infertilidade masculina.
 A imunossupressão é indicada a corticodependentes quando se opta por adiar a colectomia por motivos diversos. Nesse caso, utiliza-se a azatioprina (2 a 2,5mg/kg/d VO), que leva cerca de 3 a 4 meses para iniciar a sua ação. Já a ciclosporina (2 a 4mg/kg/d IV) é reservada a casos mais graves, resistentes à corticoterapia. Como efeitos colaterais, podem-se citar a hepato e a nefrotoxicidade, a hipertensão arterial sistêmica e a predisposição a infecções oportunistas. Devem-se ainda monitorizar os níveis séricos das drogas, sendo seu uso exclusivo a centros especializados, como conduta de extrema exceção. 
-A utilização de drogas biológicas, como o infliximabe, para o controle da RCUI, ainda está em estudo, com o objetivo de remissão de sintomas e postergar a necessidade de resolução cirúrgica.
+A utilização de drogas biológicas, como o infliximabe, para o controle da RCU ainda está em estudo, com o objetivo de re-missão de sintomas e postergação da necessidade de resolução cirúrgica.
 
 E - Tratamento cirúrgico
-Cerca de 20 a 30% dos pacientes com RCUI necessitam de tratamento cirúrgico. É indicada a cirurgia eletiva a casos de in-tratabilidade por medidas clínicas (principalmente em manifestações extracolônicas), suspeita de neoplasias ou retardo do crescimento em crianças. O tratamento cirúrgico é realizado a partir da ressecção do cólon a partir do reto (local de início do processo inflamatório), optando-se pela preservação da válvula ileocecal. 
-Dentre as opções cirúrgicas, a PTAIA (proctocolectomia total com anastomose ileoanal e reservatório ileal) é indicada nas pancolites quando o aparelho esfincteriano está íntegro, há continência anal preservada e não está presente câncer no reto distal. A proctocolectomia total com ileostomia definitiva é utilizada quando não estão preservadas a continência anal e a locomoção, ou quando há suspeita de câncer do reto distal. Opta-se pela Colectomia Total (CT) com anastomose ileorretal quando há recusa do paciente pela ileostomia e é possível seguimento ambulatorial rigoroso da doença retal com retossig-moidoscopia.
+
+Cerca de 20 a 30% dos pacientes com RCU necessitam de tratamento cirúrgico. É indicada a cirurgia eletiva a casos de in-tratabilidade por medidas clínicas (principalmente em manifestações extracolônicas), suspeita de neoplasias ou retardo do crescimento em crianças. O tratamento cirúrgico é realizado a partir da ressecção do cólon a partir do reto (local de início do processo inflamatório), optando-se pela preservação da válvula ileocecal.
+Dentre as opções cirúrgicas, a PTAIA (proctocolectomia total com anastomose ileoanal e reservatório ileal) é indicada nas pancolites quando o aparelho esfincteriano está íntegro, há continência anal preservada e não está presente câncer no reto distal. A proctocolectomia total com ileostomia definitiva é utilizada quando não estão preservadas a continência anal e a locomoção, ou quando há suspeita de câncer de reto distal. Opta-se pela Colectomia Total (CT) com anastomose ileorretal quando há recusa do paciente pela ileostomia e é possível seguimento ambulatorial rigoroso da doença retal com retossig-moidoscopia.
 Até o momento, não se considera como padrão-ouro nenhuma das opções cirúrgicas, devendo-se considerar cada caso. A PTAIA tem, como vantagem, evitar a ileostomia definitiva e a retirada do reto e, como desvantagens, possíveis diarreias no pós-operatório e complicações como fístulas, que podem levar a ileostomia definitiva em cerca de 17%. Em 5 a 15%, ocorre disfunção sexual após proctectomia, sendo esse número maior em caso de neoplasia concomitante, que exige excisão total do mesorreto.
 A eliminação total da doença é obtida com a proctocolectomia total, porém tem como desvantagem a ileostomia definitiva. A CT obriga o tratamento clínico ostensivo devido à probabilidade de desenvolver câncer no local e outras complicações consequentes à retite, uma vez que mantém o reto. A Figura 8 demonstra esquematicamente os diferentes tipos de recons-trução já descritos.
 
  
-Figura 8 - Tratamento cirúrgico na retocolite ulcerativa: (A) proctocolectomia total com ileostomia terminal; (B) CT com ileorretoanas-tomose; (C) proctocolectomia total com bolsa ileal “em J” e (D) colectomia total com bolsa “em J” (manutenção do reto distal)
+Figura 8 - Tratamento cirúrgico na retocolite ulcerativa: (A) proctocolectomia total com ileostomia terminal; (B) colectomia total com ileorretoanastomose; (C) proctocolectomia total com bolsa ileal “em J” e (D) colectomia total com bolsa “em J” (manutenção do reto distal)
 
 Megacólon tóxico e hemorragia maciça são indicações de cirurgia de urgência. A colectomia total com sepultamento do coto retal e ileostomia terminal é um procedimento seguro e permite ao paciente sair do surto agudo, podendo ser reopera-do eletivamente para a reconstrução do trânsito intestinal. A ileorretoanastomose também pode ser realizada entre estáveis, porém com riscos de deiscência de anastomose.
 
 F - Prognóstico 
 O prognóstico da doença é variável: 15% têm curso crônico; 80%, crises intercaladas; e 5%, surtos fulminantes. Daqueles com doença distal, 70% não evoluem para doenças mais extensas. E as manifestações extraintestinais representam no máximo 20% (Tabela 4).
 
-Tabela 4 - Manifestações extraintestinais nas DIIs
+Tabela 4 - Manifestações extraintestinais nas doenças inflamatórias intestinais
 Reumatológicas
 - Artrite/artralgias: grandes articulações, geralmente monoarticulares;
 - Sacroileítes;
@@ -196,7 +233,7 @@ Oftalmológicas
 Vias biliares e fígado
 - Pericolangite;
 - Infiltração gordurosa;
-- Colangite esclerosante primária: mais associada à RCUI.
+- Colangite esclerosante primária: mais associada à RCU.
 Outras
 - Amiloidose;
 - Pielonefrite;
@@ -207,10 +244,10 @@ Outras
 
 5. Diferenças entre a doença de Crohn e a retocolite ulcerativa
 
-O ponto mais importante é a correta diferenciação entre a RCUI e a DC. A Tabela 5 resume as principais diferenças.
+O ponto mais importante é a correta diferenciação entre a RCU e a DC. A Tabela 5 resume as principais diferenças.
 
 Tabela 5 - Principais diferenças 
-Achados macroscópicos	RCUI	DC
+Achados macroscópicos	RCU	DC
 Comprometimento do reto	Comum	Raro
 Lesões salteadas	Não	Sim
 Úlceras aftosas	Não	Sim
@@ -219,13 +256,13 @@ Pseudopólipos	Sim	Não
 Atrofia mucosa	Sim	Não
 Doença perianal	Rara	Comum
 Lesões contínuas	Sim	Não
-Achados microscópicos	RCUI	DC
+Achados microscópicos	RCU	DC
 Lesões transmurais	Não	Sim
-Granulosa	Não	Sim (20% da biópsia endoscópi-ca)
+Granulosa	Não	Sim (20% da biópsia endoscópica)
 Abscesso de cripta	Sim	Raro
 Metaplasia pilórica ileal	Não	Sim
 Metaplasia de células de Paneth	Sim	Raro
-Apresentação clínica	RCUI	DC
+Apresentação clínica	RCU	DC
 Fístulas	-	+
 Abscessos	-	+
 Estenoses	-	+
@@ -234,12 +271,33 @@ Ileíte	-	+
 Padrão	Contínuo	Salteado
 Camadas acometidas	Mucosa	Transmural
 
+Pergunta
+2015 - HCV
+3. Assinale (V) para Verdadeiro e (F) para Falso com relação ao diagnóstico diferencial entre a retocolite ulcerativa inespecífica (RCUI) e a Doença de Crohn (DC): 
+(  ) A RCUI sempre acomete o reto, mas não causa doença perianal. 
+(  ) A DC frequentemente acomete o reto e causa doença perianal. 
+(  ) A DC raramente promove acometimento transmural. 
+(  ) A RCUI frequentemente promove acometimento transmural. 
+(  ) Na RCUI não ocorrem úlceras aftosas na mucosa do trato digestivo. 
+Assinale a sequência correta:
+a) V, F, V, F, V 
+b) V, V, F, F, V 
+c) F, V, F, V, V 
+d) V, V, F, V, F 
+e) F, V, F, F, V
+Resposta no final do capítulo
+
 6. Resumo
 
 Quadro-resumo
 DC 	 - Trata-se de inflamação crônica granulomatosa não caseificante que pode ocorrer da boca ao ânus;
-	 - Ocorre inflamação transmural acometendo todas as camadas da parede intestinal, envolvendo o mesentério adjacente e linfonodos;
+	 - Ocorre inflamação transmural acometendo todas as camadas da parede intestinal, envolvendo o mesentério adjacente e linfo-nodos;
 	 - Caracteriza-se por períodos de exacerbação alternados com períodos de remissão.
-RCUI 	 - Há inflamação crônica da mucosa colônica de etiologia desconhecida;
+RCU 	 - Há inflamação crônica da mucosa colônica de etiologia desconhecida;
 	 - Ocorre processo inflamatório limitado à mucosa, determinando atrofia e espessamento muscular da mucosa;
 	 - O acometimento da mucosa colônica inicia-se a partir do reto e continua em extensão variável, porém restrito ao cólon.
+
+Respostas
+1. A
+2. C 
+3. B
