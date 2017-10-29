@@ -1,42 +1,47 @@
 Trauma abdominal
 Eduardo Bertolli
 
+Resumo
+Neste capítulo, será abordado o trauma abdominal, incluindo as lesões pélvicas e retroperitoneais. Por ser o abdome um local onde são frequentes lesões traumáticas, o socorrista deve atentar-se para os sinais e sintomas clínicos de instabilidade hemodinâmica (taquicardia, hipotensão, sudorese fria) e, com base nisso, adotar a conduta adequada: laparotomia explora-dora, lavado peritoneal, FAST ou tomografia. Este capítulo é de grande importância porque o trauma abdominal é o assunto mais cobrado em Cirurgia do Trauma nos concursos médicos, com mais de 20% das questões.
 
 1. Introdução
 
 O abdome é sede frequente de lesões traumáticas, tanto contusas como penetrantes, muitas das quais necessitarão de tratamento cirúrgico. O socorrista deve estar atento aos sinais sugestivos dessas lesões para não retardar o tratamento defini-tivo.
-Define-se como abdome anterior a área entre a linha transmamilar superiormente, os ligamentos inguinais e a sínfise pú-bica inferiormente, e as linhas axilares anteriores lateralmente. Pode ser dividido em 9 regiões: região de hipocôndrios direi-to e esquerdo, região epigástrica, região de flancos direito e esquerdo, região mesogástrica, região ilíaca direita e esquerda e região hipogástrica (Figura 1). Há, ainda, outra divisão em quadrantes: superiores direito e esquerdo e inferiores direito e esquerdo. Do ponto de vista interno, o abdome possui 3 compartimentos distintos: a cavidade peritoneal, o retroperitônio e a pelve (Figura 1).
+Define-se como abdome anterior a área entre a linha transmamilar superiormente, os ligamentos inguinais e a sínfise pú-bica inferiormente, e as linhas axilares anteriores lateralmente. Pode ser dividido em 9 regiões: regiões de hipocôndrios direito e esquerdo, região epigástrica, regiões de flancos direito e esquerdo, região mesogástrica, regiões ilíaca direita e esquerda e região hipogástrica (Figura 1). Há, ainda, outra divisão em quadrantes: superiores direito e esquerdo e inferiores direito e esquerdo. Do ponto de vista interno, o abdome possui 3 compartimentos distintos: a cavidade peritoneal, o retrope-ritônio e a pelve (Figura 1).
 
  
-Figura 1 - (A) e (B) Divisão topográfica do abdome; e (C) órgãos peritoneais e (D) retroperitoneais 
-
+Figura 1 - (A) e (B) Divisão topográfica do abdome e (C) órgãos peritoneais e (D) retroperitoneais 
 
 2. Mecanismos de trauma
 
 O trauma contuso ou fechado compreende as lesões por compressão, esmagamento, cisalhamento ou desaceleração. Os acidentes automobilísticos são responsáveis por 60% dos traumatismos abdominais fechados. As vísceras parenquimatosas são mais frequentemente acometidas, sendo mais comuns as lesões do baço (de 25 a 45%) e do fígado. 
-Os traumas penetrantes dividem-se basicamente em Ferimentos por Projéteis de Armas de Fogo (FPAFs) e Ferimentos por Arma Branca (FABs). Cerca de 80% dos FPAFs causam lesões abdominais significativas, o que acontece em apenas 20 a 30% dos FABs. Em 25%, há acometimento concomitante da cavidade torácica, lembrando que alguns ferimentos podem transfixar o diafragma. Os órgãos mais frequentemente lesados são o fígado (30 a 40%), o intestino delgado (30 a 50%) e o estômago (20%). Ferimentos que comprovadamente penetraram a cavidade peritoneal têm indicação formal de laparotomia explorado-ra. 
+Os traumas penetrantes dividem-se basicamente em ferimentos por projéteis de armas de fogo e ferimentos por arma branca. Cerca de 80% dos primeiros causam lesões abdominais significativas, o que ocorre em só 20 a 30% dos últimos. Em 25%, há acometimento concomitante da cavidade torácica, lembrando que alguns ferimentos podem transfixar o diafragma. Os órgãos mais comumente lesados são fígado (30 a 40%), intestino delgado (30 a 50%) e estômago (20%). Ferimentos que comprovadamente penetraram a cavidade peritoneal têm indicação formal de laparotomia exploradora.
 
 3. Avaliação inicial
 
 A avaliação inicial segue as prioridades do Advanced Trauma Life Support (ATLS®), iniciando com a garantia de via aérea pérvia e proteção da coluna cervical. A ventilação pode estar comprometida nos ferimentos transfixantes do diafragma, e a drenagem de tórax pode ser necessária. No exame físico abdominal, é preciso pesquisar a presença ou a ausência de ruídos hidroaéreos, pneumoperitônio (hipertimpanismo e/ou sinal de Joubert positivo) e sinais de peritonite por meio da palpação.
-A avaliação hemodinâmica é o item mais importante na definição da conduta. Pacientes instáveis com suspeita de sangra-mento abdominal podem ser submetidos a Lavado Peritoneal Diagnóstico (LPD) ou ultrassonografia na sala de emergência (Focused Assessment with Sonography for Trauma – FAST). Dependendo da etiologia do trauma, esses indivíduos podem ser diretamente submetidos a laparotomia exploradora. Entre os estáveis, é possível a realização de exames complementares.
-Como medidas complementares ao exame primário, o paciente deve ser submetido a sondagem gástrica, útil para esvaziar o conteúdo gástrico (principalmente em gestantes, crianças e pacientes obesos), diminuindo o risco de aspiração, além de verificar possíveis sangramentos digestivos. O uso de sonda nasogástrica está contraindicado em fratura suspeita da base do crânio (saída de liquor pelas narinas, sinal “do guaxinim” – equimose periorbitária – e sinal de Battle – equimose retroauricu-lar). Realiza-se, também, sondagem vesical para descompressão da bexiga e para avaliação de hematúria. 
-Antes da sondagem vesical, deve ser realizado o exame de toque retal, o que permite avaliar a presença de sangramento, de crepitação ou de espículas ósseas, da tonicidade esfincteriana e da posição da próstata. Se o paciente apresentar sangue no meato uretral, hematoma escrotal ou equimose perineal, espículas ósseas ou deslocamento cranial da próstata no toque retal, estará contraindicada a sondagem vesical e deverá ser realizada uretrocistografia retrógrada após a estabilização he-modinâmica.
+A avaliação hemodinâmica é o item mais importante na definição da conduta. Pacientes instáveis com suspeita de sangramen-to abdominal podem ser submetidos a Lavado Peritoneal Diagnóstico (LPD) ou ultrassonografia na sala de emergência (Focu-sed Assessment with Sonography for Trauma – FAST). Dependendo da etiologia do trauma, esses indivíduos podem ser dire-tamente submetidos a laparotomia exploradora. Entre os estáveis, é possível a realização de exames complementares. 
+Como medidas complementares ao exame primário, o paciente deve ser submetido a sondagem gástrica, útil para esvaziar o conteúdo gástrico (principalmente em gestantes, crianças e pacientes obesos), diminuindo o risco de aspiração, além de verificar possíveis sangramentos digestivos. O uso de sonda nasogástrica está contraindicado em fratura suspeita da base do crânio. Realiza-se, também, sondagem vesical para descompressão da bexiga e para avaliação de hematúria. 
+
+Dica
+Antes da sondagem vesical, deve-se realizar o exame de toque retal, o que permite avaliar a presença de sangramento, de crepitação ou de espículas ósseas, a tonicidade esfincteriana e a posição da próstata. Se o paciente apresentar sangue no meato uretral, hematoma escrotal ou equimose perineal, espículas ósseas ou deslocamento cranial da próstata no toque retal, estará contraindicada a sondagem vesical e deverá ser feita uretrocistografia retrógrada após a estabilização hemodi-nâmica.
+
 Se, durante a avaliação inicial, o paciente apresentar dados que indiquem a necessidade de cirurgia e não houver cirur-gião no serviço, a transferência deverá ser rápida para o centro de trauma, que poderá oferecer tratamento adequado.
 
 4. Exames diagnósticos
 
 A - Radiografia simples 
 Apresenta pouca aplicabilidade no diagnóstico do trauma abdominal. No trauma contuso, pode revelar pneumoperitônio quando há lesão de víscera oca, pneumorretroperitônio e apagamento do psoas em lesões retroperitoneais.
-Nos traumatismos penetrantes, é útil para localizar os projéteis e determinar seu trajeto (Figura 2), além de avaliar a pre-sença de hemotórax ou pneumotórax nos ferimentos de transição toracoabdominal e de pneumorretroperitônio. Em FPAFs dorsais, a radiografia simples de perfil pode ser útil para avaliação do trajeto e localização do projétil, indicando ou não a penetração na cavidade.
+Nos traumatismos penetrantes, é útil para localizar os projéteis e determinar seu trajeto (Figura 2), além de avaliar a pre-sença de hemotórax ou pneumotórax nos ferimentos de transição toracoabdominal e de pneumorretroperitônio. Em Feri-mentos por Projéteis de Armas de Fogo (FPAFs) dorsais, a radiografia simples de perfil pode ser útil para avaliação do trajeto e localização do projétil, indicando ou não a penetração na cavidade.
 
  
 Figura 2 - Radiografia de paciente vítima de tiro de cartucheira
 
-Exames contrastados, como uretrocistografia e urografia excretora, são úteis para a avaliação de lesões do sistema genitu-rinário. A uretrocistografia, por sua vez, deve ser realizada em todos aqueles com suspeita de trauma uretral antes da sonda-gem vesical (Figura 3).
+Diagnóstico
+Exames contrastados, como uretrocistografia e urografia excretora, são úteis para a avaliação de lesões do sistema genituri-nário. A uretrocistografia, por sua vez, deve ser realizada em todos aqueles com suspeita de trauma uretral antes da sonda-gem vesical (Figura 3).
 
  
-Figura 3 - (A) Cistografia evidenciando lesão vesical intraperitoneal e (B) uretrocistografia retrógrada evidenciando lesão de uretra
+Figura 3 - (A) Cistografia que evidencia lesão vesical intraperitoneal e (B) uretrocistografia retrógrada que evidencia lesão de uretra
 
 B - Lavado peritoneal diagnóstico
 Consiste em uma pequena incisão infraumbilical, com abertura da aponeurose e colocação de um cateter ou sonda den-tro da cavidade abdominal, pela qual é infundido soro. Em caso de refluxo de sangue ou material entérico, diz-se que o exa-me é positivo, e está indicada a laparotomia exploradora. Quando há refluxo do soro destilado aparentemente sem altera-ções, esse material deve ser enviado para estudo laboratorial em que a presença de alguns itens caracteriza o lavado como positivo (Tabela 1).
@@ -48,7 +53,7 @@ Tabela 1 - Critérios de positividade
 - =500mm3 de leucócitos/mL; 
 - Amilase >175mg/dL.
 
-Apresenta alta sensibilidade (95 a 98%) para o diagnóstico de hemorragia intraperitoneal, com a desvantagem de ser um exame invasivo. Sua realização está indicada ao paciente instável, com trauma multissistêmico e alteração do nível de consci-ência ou modificação da sensibilidade (lesão medular). Quanto ao doente estável, o lavado pode ser utilizado em serviços que não dispõem de ultrassonografia e/ou de tomografia. As contraindicações estão citadas na Tabela 2.
+Apresenta alta sensibilidade (95 a 98%) para o diagnóstico de hemorragia intraperitoneal, com a desvantagem de ser um exame invasivo. Sua realização está indicada ao paciente instável, com trauma multissistêmico e alteração do nível de consci-ência ou modificação da sensibilidade (lesão medular). Quanto ao paciente estável, o lavado pode ser utilizado em serviços que não dispõem de ultrassonografia e/ou de tomografia. As contraindicações estão citadas na Tabela 2.
 
 Tabela 2 - Contraindicações
 Contraindicação absoluta
@@ -61,17 +66,18 @@ Gravidez avançada	A incisão deve ser supraumbilical.
 
 C - Ultrassonografia 
 A ultrassonografia abdominal, quando disponível na sala de emergência, pode ser realizada no paciente instável, pelo ci-rurgião, com o objetivo de pesquisar sangue na cavidade. Esse tipo de ultrassonografia é conhecido pela sigla FAST e não deve ser confundido com a ultrassonografia abdominal convencional. Tem a vantagem sobre o LPD de não ser invasiva e pode ser repetida se necessário. 
-O exame avalia os espaços hepatorrenal (espaço de Morrison), esplenorrenal, subxifóideo (saco pericárdico) e escavação pélvica na procura de hemoperitônio (Figura 4). A análise ultrassonográfica pode ficar comprometida em obesos, com enfi-sema subcutâneo ou cirurgias prévias. É importante entender que o FAST substitui o LPD, em casos de pacientes hemodina-micamente instáveis.
+O exame avalia os espaços hepatorrenal (espaço de Morrison), esplenorrenal, subxifóideo (saco pericárdico) e escavação pélvica na procura de hemoperitônio (Figura 4). A análise ultrassonográfica pode ficar comprometida em obesos, com enfi-sema subcutâneo ou cirurgias prévias. É importante entender que a FAST substitui o LPD, em casos de pacientes hemodina-micamente instáveis.
 
  
-Figura 4 - FAST: (A) subxifóideo; (B) esplenorrenal; (C) hepatorrenal e (D) FAST positivo no espaço hepatorrenal
+Figura 4 - FAST: (A) subxifóideo; (B) esplenorrenal; (C) hepatorrenal e (D) FAST positiva no espaço hepatorrenal 
 Fonte: www.trauma.org.
 
-Tabela 3 - Pontos avaliados pelo FAST 
+
+Tabela 3 - Pontos avaliados pela FAST 
 Subxifoide	Avaliação dos seios cardiofrênicos e pericárdio
 Quadrante superior direito	Avaliação do seio costofrênico direito, espaço de Morrison, fígado e rim direito
 Quadrante superior esquerdo	Avaliação do seio costofrênico esquerdo, baço e rim esquerdo
-Suprapúbico	Avaliação da bexiga e fundo de saco de Douglas
+Suprapúbico	Avaliação da bexiga e do fundo de saco de Douglas
 
 D - Tomografia 
 Trata-se do exame mais específico e não invasivo, mas que só deve ser realizado entre os pacientes hemodinamicamente estáveis, sem indicação de laparotomia de urgência. As contraindicações são instabilidade hemodinâmica, alergia ao contraste iodado, não colaboração do paciente e demora na disponibilidade do recurso.
@@ -80,21 +86,29 @@ De modo geral, a indicação de exames complementares no trauma abdominal está res
 
 Tabela 4 - Métodos diagnósticos no trauma abdominal fechado
 	LPD	Ultrassonografia de abdome (FAST)	Tomografia de abdome
-Indicações	-	Doente instável;
-- Documentação de sangramento.	- Doente instável;
-- Documentação de líquido livre.	- Doente estável;
+Indicações	-	Paciente instável;
+- Documentação de sangramen-to.	- Paciente instável;
+- Documentação de líquido livre.	- Paciente estável;
 - Documentação de lesão visceral.
 Vantagens	Diagnóstico precoce e sensível	- Não invasibilidade;
 -	Possível repetição;
 -	Diagnóstico precoce;
 -	Acurácia de 86 a 97%.	-	Especificidade para definir a lesão;
 - Acurácia de 98%.
-Desvanta-gens	- Invasividade;
-- Sem diagnóstico de lesões do diafrag-ma e do retroperitônio.	- Operador-dependente;
+Desvantagens	- Invasividade;
+- Sem diagnóstico de lesões do diafragma e do retroperitônio.	- Operador-dependente;
 - Sem diagnóstico de lesões do diafrag-ma, delgado e pâncreas;
 - Distorção por meteorismo e enfisema de subcutâneo.	- Alto custo;
 - Sem diagnóstico de lesões de diafragma e algumas lesões de delgado.
-
+Pergunta
+2013 - AMP
+1. Com relação à avaliação complementar do trauma abdominal, assinale a alternativa incorreta:
+a) nos pacientes estáveis hemodinamicamente, uma ultrassonografia com líquido intraperitoneal livre indica uma explora-ção cirúrgica imediata
+b) o objetivo da ultrassonografia, no trauma abdominal, é buscar líquido intraperitoneal livre
+c) a radiografia de tórax pode mostrar pneumoperitônio, conteúdo abdominal no tórax ou fraturas das costelas inferiores
+d) a tomografia computadorizada avalia lesão de órgão sólido e, no paciente com ultrassonografia positiva, permite a gradu-ação da lesão orgânica
+e) a tomografia computadorizada é o método mais indicado para avaliar o paciente estável com traumatismo abdominal fechado
+Resposta no final do capítulo
 
 5. Indicações de cirurgia
 
@@ -102,43 +116,49 @@ Cerca de 50 a 60% das vítimas de ferimentos penetrantes apresentam indicação de 
 Se houver dúvida com relação à presença de lesão nos assintomáticos, será possível realizar exame físico seriado, cuja acurácia é de 94%, ou LPD, cuja acurácia é de 90%. O índice de laparotomias não terapêuticas nos ferimentos penetrantes é de, aproximadamente, 20%.
 
  
-Figura 5 - Indicações formais de laparotomia exploradora no trauma abdominal penetrante: (A) evisceração; (B) e (C) ferimentos com violação da cavidade peritoneal
+Figura 5 - Indicações formais de laparotomia exploradora no trauma abdominal penetrante: (A) evisceração; (B) e (C) ferimentos com violação da cavidade peritoneal 
 Fonte: www.trauma.org.
 
  
-Figura 6 - Trauma abdominal penetrante (aberto)
+Figura 6 - Algoritomo no trauma abdominal penetrante
 
-Nos ferimentos penetrantes no flanco e no dorso, em estáveis e assintomáticos, pode ser realizada uma tomografia abdo-minal com triplo contraste (intravenoso, via oral e via retal). Se não for possível, o doente deverá permanecer sob observação por, pelo menos, 24 horas.
+Nos ferimentos penetrantes no flanco e no dorso, em estáveis e assintomáticos, pode ser realizada uma tomografia abdo-minal com triplo contraste (intravenoso, via oral e via retal). Se não for possível, o paciente deverá permanecer sob observa-ção por, pelo menos, 24 horas.
 Os ferimentos na parte baixa do tórax podem lesar o diafragma e as vísceras abdominais. O diagnóstico dessas lesões é fei-to com raio x simples ou, preferencialmente, toracoscopia ou laparoscopia. Em geral, caso o raio x de tórax seja normal, opta-se pela laparoscopia como método diagnóstico nos pacientes estáveis.
 Na presença de FPAFs tangenciais no abdome, quando o orifício de entrada dista menos de 10cm do orifício de saída, a melhor opção para diagnosticar a penetração na cavidade abdominal é a laparoscopia.
 A indicação de laparotomia no trauma abdominal contuso ocorre na presença de hipotensão recorrente, apesar da rea-nimação adequada, e na positividade no LPD ou na ultrassonografia. 
-Outras indicações de cirurgia são peritonite precoce ou tardia, evisceração, pneumoperitônio, enfisema de retroperitônio ou sinais de ruptura do diafragma à radiografia; tomografia de abdome evidenciando lesões no trato gastrintestinal, na bexiga intraperitoneal ou outras lesões com indicação cirúrgica.
+Outras indicações de cirurgia são peritonite precoce ou tardia, evisceração, pneumoperitônio, enfisema de retroperitônio ou sinais de ruptura do diafragma à radiografia; tomografia de abdome evidenciando lesões no trato gastrintestinal e na bexi-ga intraperitoneal ou outras lesões com indicação cirúrgica.
 
  
-Figura 7 - Trauma abdominal fechado 
+Figura 7 - Algoritmo no trauma abdominal fechado 
 
 6. Cirurgia de controle de danos (damage control)
 
 Pacientes politraumatizados podem apresentar repercussões clínicas que contribuem para a gravidade do caso. A presen-ça de hipotermia, acidose metabólica e coagulopatia constitui a chamada tríade letal, na qual os elementos se sucedem em um círculo vicioso, que pode levar à morte rapidamente se não corrigidos.
 A chance de óbito pela falência metabólica no intraoperatório é maior do que a falha no reparo completo das lesões. Ba-seando-se nesse conceito, surgiu a cirurgia de controle de danos, ou damage control. O princípio desse procedimento consis-te na cirurgia para controle da hemorragia e prevenção de contaminação maciça, seguida da recuperação clínica em Unidade de Terapia Intensiva (UTI) e de reoperação programada.
-Didaticamente, indica-se o damage control para pacientes com pH <7,2, Tax <32°C e necessidade de transfusão acima de uma volemia. O juízo do cirurgião é fundamental para eleger essa modalidade logo nos primeiros minutos da cirurgia, e ele deve contar com a colaboração do anestesista e da equipe da UTI que receberá o paciente.
+
+Quadro clínico
+A tríade letal no politraumatismo compreende acidose metabólica, hipotermia e coagulopatia.
+
+Didaticamente, indica-se o damage control para pacientes com pH <7,2, Tax <32°C e necessidade de transfusões múltiplas (>10 unidades de concentrado de hemácias). O juízo do cirurgião é fundamental para eleger essa modalidade logo nos pri-meiros minutos da cirurgia, e ele deve contar com a colaboração do anestesista e da equipe da UTI que receberá o paciente.
 Do ponto de vista técnico, realiza-se uma incisão ampla xifopúbica, com empacotamento dos 4 quadrantes do abdome. O controle das hemorragias ativas é obtido com compressão manual ou empacotamento com compressas. O controle aórtico é, por vezes, necessário.
-Realiza-se um exame completo, porém rápido, do abdome e retroperitônio. O cirurgião deve estar familiarizado com as manobras de acesso ao retroperitônio, como de Catel e de Mattox (Figura 8). A contaminação deve ser prevenida com sutu-ras rápidas, evitando-se enterectomias e anastomoses. 
+Realiza-se um exame completo, porém rápido, do abdome e retroperitônio. O cirurgião deve estar familiarizado com as manobras de acesso ao retroperitônio, como as de Cattell e de Mattox (Figura 8). A contaminação deve ser prevenida com suturas rápidas, evitando-se enterectomias e anastomoses. 
 
  
-Figura 8 - Manobras para acesso ao retroperitônio: (A) de Catel e (B) de Mattox
+Figura 8 - Manobras para acesso ao retroperitônio: (A) de Cattell e (B) de Mattox
 
 Lesões esplênicas são rapidamente tratadas com esplenectomia. Lesões hepáticas podem ser resolvidas temporariamente com empacotamento (Figura 9 - A). A manobra de Pringle (clampeamento do hilo hepático) permite ao cirurgião diferenciar se o sangramento é intra-hepático ou não. Ressecções hepáticas amplas são desaconselhadas nessas situações.
-Lesões da aorta e da veia cava inferior necessitarão de controle distal e proximal rápido. Suturas primárias são o tratamen-to preferencial. Próteses e shunts podem ser utilizados, desde que não prolonguem muito o tempo cirúrgico. Na presença de múltiplas lesões em alças, é preferível ressecar todo segmento quando possível. O uso de grampeadores contribui muito nesses procedimentos (Figura 9 - B).
+Lesões da aorta e veia cava inferior necessitarão de controle distal e proximal rápido. Suturas primárias são o tratamento preferencial. Próteses e shunts podem ser utilizados, desde que não prolonguem muito o tempo cirúrgico. Na presença de múltiplas lesões em alças, é preferível ressecar todo segmento quando possível. O uso de grampeadores contribui muito nesses procedimentos (Figura 9 - B).
 
  
 Figura 9 - (A) Empacotamento hepático e (B) ressecção intestinal com grampeador mecânico
 
 O fechamento abdominal também deve ser rápido, por vezes temporário, com peritoniostomia (Figura 10), técnica co-nhecida como bolsa de Bogotá, especialmente útil quando há grande edema de alças e compressas dentro da cavidade ab-dominal. A peritoniostomia, além de facilitar a abertura na reoperação, também é utilizada para evitar a síndrome comparti-mental abdominal que pode acontecer nesses casos.
-Ao término da cirurgia, o paciente é levado à UTI para monitorização hemodinâmica, correção da coagulopatia e aqueci-mento. A reoperação deve ocorrer entre 48 e 72 horas e serve para a retirada das compressas, inspeção completa da cavi-dade, restabelecimento do trânsito intestinal, limpeza e, sempre que possível, fechamento definitivo. Em algumas situações, podem ser necessárias novas cirurgias.
+
+Dica
+Ao término da cirurgia de controle de danos, o paciente é levado à UTI para monitorização hemodinâmica, correção da coa-gulopatia e aquecimento. A reoperação deve ocorrer entre 48 e 72 horas, para a retirada das compressas, inspeção comple-ta da cavidade, restabelecimento do trânsito intestinal, limpeza e, sempre que possível, fechamento definitivo. Em algumas situações, podem ser necessárias novas cirurgias.
+
  
 Figura 10 - Peritoniostomia ou bolsa de Bogotá
-
 
 7. Principais manobras cirúrgicas de acordo com o sítio da lesão
 
@@ -149,7 +169,7 @@ Conforme citado, o tratamento das lesões esplênicas tem melhores resultados com 
 Figura 11 - Exemplos de trauma esplênico: (A) lesão grau II – laceração do parênquima <3cm; (B) lesão grau III – hematoma subcapsu-lar >50%; (C) lesão grau IV – desvascularização >25% do parênquima e (D) lesão grau V – laceração esplênica
 Fonte: Pereira Jr. et al. Medicina (Ribeirão Preto), 2007.
 
- Tabela 5 - Classificação das lesões esplênicas
+Tabela 5 - Classificação das lesões esplênicas
 Graus da lesão
 I	Hematoma	<10% área subcapsular, sem expansão
 	Laceração	Penetração da cápsula <1cm de profundidade, sem sangramento
@@ -159,13 +179,13 @@ III	Hematoma	Intraparenquimatoso até 5cm ou em expansão >50% subcapsular
 	Laceração	Ruptura do parênquima com sangramento
 IV	Hematoma	Ruptura do parênquima com sangramento ativo
 	Laceração	Lesão vascular hilar com desvascularização >25%
-V	Laceração	Destruição completa do baço
+V	Hematoma	Destruição completa do baço
 	Vascular	Lesão vascular hilar com desvascularização total
 
 As lesões hepáticas podem ser classificadas conforme a Tabela 6. Na maioria das vezes, as lesões param de sangrar espon-taneamente e o cirurgião não consegue identificar a origem da hemorragia. Dentre as medidas hemostáticas, cauterização, sutura, balão intra-hepático e tampões de peritônio são as mais utilizadas. As ressecções hepáticas devem ser realizadas para pacientes estáveis, por cirurgião habituado com a técnica.
 
  
-Figura 12 - Laceração intra-hepática (lesão grau II e III)
+Figura 12 - Laceração intra-hepática (lesão graus II e III)
 
 Tabela 6 - Classificação das lesões hepáticas
 Graus da lesão
@@ -173,7 +193,7 @@ I	Hematoma	Subcapsular <10% da superfície
 	Laceração	Ruptura da cápsula, profundidade <1cm no parênquima
 II	Hematoma	Subcapsular de 10 a 15% da superfície, intraparenquimatoso <10cm de diâmetro
 	Laceração	Ruptura da cápsula, 1 a 3cm de profundidade no parênquima
-III	Hematoma	Subcapsular >50% área da superfície, ruptura subcapsular ou hematoma intraparenquimatoso >10cm ou em expan-são
+III	Hematoma	Subcapsular >50% da área da superfície, ruptura subcapsular ou hematoma intraparenquimatoso >10cm ou em expansão
 	Laceração	>3cm de profundidade no parênquima
 IV	Laceração	25 a 75% em um lobo hepático ou de 1 a 3 segmentos de Couinaud em um único lobo
 V	Laceração	>75% do lobo hepático ou mais de 3 segmentos de Couinaud em um único lobo
@@ -181,7 +201,7 @@ V	Laceração	>75% do lobo hepático ou mais de 3 segmentos de Couinaud em um único
 VI	Vascular	Avulsão hepática
 
 B - Pâncreas e vias biliares
-As lesões pancreáticas podem ser resumidas na Tabela 7. Lesões da cauda pancreática podem ser simplesmente drena-das. As ressecções corpocaudais devem ser realizadas nas fraturas do pâncreas ou na lesão de Wirsung (lesão do ducto pan-creático principal). Lesões da cabeça pancreática e da via biliar principal são um desafio para o cirurgião (Figura 13). Na maio-ria das vezes, é preferível realizar a drenagem externa e reservar a reconstrução do trânsito para um 2º tempo, com equipe especializada. Realizar duodenopancreatectomia é desaconselhável pelo tempo cirúrgico prolongado e pela morbimortalida-de do procedimento, associado à gravidade do trauma em si.
+As lesões pancreáticas estão resumidas na Tabela 7. Lesões da cauda pancreática podem ser simplesmente drenadas. As ressecções corpocaudais devem ser realizadas nas fraturas do pâncreas ou na lesão de Wirsung (lesão do ducto pancreático principal). Lesões da cabeça pancreática e da via biliar principal são um desafio para o cirurgião (Figura 13). Na maioria das vezes, é preferível realizar a drenagem externa e reservar a reconstrução do trânsito para um 2º tempo, com equipe espe-cializada. Realizar duodenopancreatectomia é desaconselhável pelo tempo cirúrgico prolongado e pela morbimortalidade do procedimento, associada à gravidade do trauma em si.
 
 Tabela 7 - Classificação das lesões pancreáticas
 Grau I	Contusão ou laceração menor, sem envolver ducto principal
@@ -189,14 +209,6 @@ Grau II	Transecção distal ou laceração distal com lesão ductal
 Grau III	Transecção proximal ou lesão do parênquima com provável lesão ductal
 Grau IV	Lesão combinada de pâncreas e duodeno, com papila e vascularização preservadas
 Grau V	Lesão maciça, lesão da papila e desvascularização
-
-
-
-
-
-
-
-
 
  
 Figura 13 - Lesão pancreática com transecção cefalocorpórea
@@ -210,9 +222,19 @@ Figura 14 - Cirurgia de Vaughan para tratamento de lesões duodenais
 Lesões do delgado que comprometam menos de 50% do diâmetro da alça podem ser suturadas em plano único. A pre-sença de diversas lesões em um mesmo segmento pode ser resolvida com enterectomia segmentar e anastomose primária (Figura 15).
 
  
-Figura 15 - (A) Lesão de delgado por FPAF e (B) após ressecção segmentar e anastomose terminoterminal
+Figura 15 - (A) Lesão de delgado por ferimento por projétil por arma de fogo e (B) após ressecção segmentar e anastomose termino-terminal
 
-Lesões do cólon são sempre alvo de discussão no que se refere à anastomose primária versus a colostomia. De maneira geral, as anastomoses são seguras mesmo havendo contaminação da cavidade, desde que o paciente esteja estável do ponto de vista hemodinâmico. A colostomia fica reservada para os doentes instáveis durante a cirurgia. Lesões do reto baixo podem ser tratadas, além da rafia, com colostomia de proteção.
+Lesões do cólon são sempre alvo de discussão no que se refere à anastomose primária versus a colostomia. De maneira geral, as anastomoses são seguras mesmo havendo contaminação da cavidade, desde que o paciente esteja estável do ponto de vista hemodinâmico. A colostomia fica reservada para os pacientes instáveis durante a cirurgia. Lesões do reto baixo po-dem ser tratadas, além da rafia, com colostomia de proteção.
+
+Pergunta
+2015 - UFPI
+2. Um paciente vítima de trauma abdominal fechado foi submetido a laparotomia exploradora no Hospital de Urgência de Teresina (HUT). No inventário da cavidade, foi evidenciada perfuração de 2,0cm na flexura duodenojejunal, com grande quantidade de secreção entérica na cavidade. A conduta do cirurgião para o caso deve ser:
+a) gastroduodenopancreatectomia
+b) rafia da lesão duodenal associada a exclusão pilórica
+c) duodenectomia parcial associada a jejunostomia
+d) rafia exclusiva de lesão duodenal
+e) duodenostomia com passagem de sonda pela própria perfuração
+Resposta no final do capítulo
 
 D - Retroperitônio
 O cirurgião deve estar familiarizado com as manobras de acesso ao retroperitônio (Figura 8). A manobra de Catel consiste na liberação do cólon ascendente pela abertura da fáscia de Toldt e permite acesso principalmente à veia cava e ao rim direi-to. Pode ser complementada com a manobra de Kocher, que consiste na liberação da curvatura duodenal para acesso ao pâncreas. À esquerda, realiza-se a manobra de Mattox, com a liberação do cólon descendente para exposição da aorta, do rim esquerdo e da cauda do pâncreas.
@@ -220,9 +242,9 @@ Do ponto de vista cirúrgico, o retroperitônio pode ser dividido em 3 regiões (Ta
 
 Tabela 8 - Condutas nos hematomas retroperitoneais
 Zonas	Limites anatômicos	Condutas
-I	Central: compreende o pâncreas, a aorta e a cava abdominal	Sempre devem ser explorados cirurgicamente (manobra de Kocher e acesso pela abertura do ligamento gastroepiploico).
-II	Laterais direita e esquerda; compreendem os rins, o baço e as porções retroperitoneais do cólon	Devem ser explorados os hematomas expansivos ou pulsáteis (manobra de Catel e de Mattox).
-III	Pelve	Não devem ser abordados cirurgicamente. Lesões dessa região devem ser conduzidas com arteriografia diagnóstica e terapêutica.
+I	Central: compreende o pâncreas, a aorta e a cava abdo-minal.	Sempre devem ser explorados cirurgicamente (manobra de Kocher e acesso pela abertura do ligamento gastroepi-ploico).
+II	Laterais direita e esquerda; compreendem os rins, o baço e as porções retroperitoneais do cólon.	Devem ser explorados os hematomas expansivos ou pulsá-teis (manobra de Cattell e de Mattox).
+III	Compreende a pelve.	Não devem ser abordados cirurgicamente. Lesões dessa região devem ser conduzidas com arteriografia diagnósti-ca e terapêutica.
 
 A classificação do trauma renal está na Tabela 9. As lesões podem ser tratadas com rafia, nefrectomia parcial ou total. An-tes de realizar uma nefrectomia total, é necessário palpar o outro rim para afastar agenesias congênitas. As lesões de ureter podem ser debridadas e rafiadas com fio monofilamentar em pontos separados. A colocação de cateter de duplo J pode auxi-liar na sutura e evitar estenose. A lesão da bexiga extraperitoneal pode ser tratada conservadoramente com sondagem vesi-cal. Já as lesões intraperitoneais exigem sutura em 2 planos com fio absorvível para evitar litogênese.
 
@@ -233,27 +255,46 @@ I	Contusão	Hematúria, com exames normais
 II	Hematoma	Não expansível, perirrenal, confinado ao retroperitônio
 	Laceração	<1cm de profundidade, sem ruptura do sistema coletor ou extravasamento de urina
 III	Laceração	>1cm sem ruptura do sistema coletor ou extravasamento de urina
-IV	Laceração	Com extensão pelo córtex, medula ou sistema coletor, com extravasamento de urina
+IV	Laceração	Com extensão pelo córtex, pela medula ou pelo sistema coletor, com extravasamento de urina
 	Vascular	Lesão da artéria ou veia principal, com hemorragia contida
 V	Laceração	Completa destruição do rim
 	Vascular	Avulsão do hilo com desvascularização
 
 8. Tratamento não operatório
 
-Muitos pacientes, vítimas de trauma abdominal fechado, com achado de líquido livre em cavidade, à tomografia, quando submetidos à laparotomia exploradora, já não apresentam mais sangramento ativo. Com base nesse tipo de situação, cada vez mais se indica o Tratamento Não Operatório (TNO) no trauma abdominal contuso.
-O paciente candidato a TNO deve preencher alguns critérios clínicos e institucionais. Deve estar estável do ponto de vista hemodinâmico, sem sinais de peritonite e sem alteração do nível de consciência. O serviço, por sua vez, necessita de tomó-grafo, de preferência do tipo multislice, equipe de cirurgia disponível em tempo integral, UTI ou semi-intensiva e equipe hori-zontal de acompanhamento.
-As principais indicações de TNO são as lesões de vísceras sólidas (fígado, baço e rins). O paciente precisa de monitoriza-ções clínica e hematimétrica seriadas. Esse tipo de tratamento evita laparotomias não terapêuticas e diminui a morbidade do tratamento. No caso de instabilidade hemodinâmica, alteração do nível de consciência, queda hematimétrica ou sinais de peritonite, deve-se avaliar a melhor medida terapêutica. Nos casos de lesão hepática, pode-se empregar a arteriografia. Na indisponibilidade do método, indica-se a cirurgia.
+Muitos pacientes, vítimas de trauma abdominal fechado, com achado de líquido livre em cavidade à tomografia, quando submetidos a laparotomia exploradora, já não apresentam mais sangramento ativo. Com base nesse tipo de situação, cada vez mais se indica o Tratamento Não Operatório (TNO) no trauma abdominal contuso.
+
+Dica
+O paciente candidato a tratamento não operatório deve preencher alguns critérios clínicos e institucionais. Deve estar está-vel do ponto de vista hemodinâmico, sem sinais de peritonite e sem alteração do nível de consciência. O serviço, por sua vez, necessita de tomógrafo, de preferência do tipo multislice, equipe de cirurgia disponível em tempo integral, UTI ou semi-intensiva e equipe horizontal de acompanhamento.
+
+Tratamento
+As principais indicações do tratamento não operatório são as lesões de vísceras sólidas (fígado, baço e rins). O paciente pre-cisa de monitorizações clínica e hematimétrica seriadas. Esse tipo de tratamento evita laparotomias não terapêuticas e dimi-nui a morbidade do tratamento. No caso de instabilidade hemodinâmica, alteração do nível de consciência, queda hemati-métrica ou sinais de peritonite, deve-se avaliar a melhor medida terapêutica. Nos casos de lesão hepática, pode-se empregar a arteriografia. Na indisponibilidade do método, indica-se a cirurgia.
+
 Alguns serviços têm proposto TNO para lesões penetrantes, principalmente por arma branca. Essa conduta ainda é consi-derada experimental e somente é utilizada em protocolos de pesquisa. Como rotina não é preconizado, e a cirurgia ainda está indicada formalmente nesses casos.
 
  
 Figura 16 - Lesões hepática e esplênica por trauma abdominal fechado submetidas a tratamento não operatório. As tomografias são do mesmo paciente e foram realizadas (A) no dia do acidente; (B) 5 dias após e (C) 14 dias após, com resolução completa das lesões
+
+Pergunta
+2015 - UNICAMP
+3. Um homem de 21 anos, vítima de acidente motociclístico em alta velocidade, deu entrada consciente no pronto-socorro, sem evidências de fraturas. Exame físico: FC = 80bpm, FR = 16irpm, PA = 122x80mmHg, escoriações no hipocôndrio e flanco direito, dor local, Ht = 40% e Hb = 13g/dL. A tomografia computadorizada revelou lesão hepática grau II e líquido livre no espaço hepatorrenal e na cavidade pélvica. Foi internado em UTI para monitorização. No controle de 12 horas de interna-ção, FC = 84bpm, FR = 18irpm, PA = 118x76mmHg, Ht = 30% e Hb = 9,7g/dL. A conduta é:
+a) repetir a tomografia computadorizada de abdome
+b) tratamento conservador não cirúrgico
+c) indicar transfusão sanguínea
+d) indicar laparotomia exploradora
+Resposta no final do capítulo
 
 9. Resumo
 
 Quadro-resumo
 - O atendimento ao paciente com trauma abdominal segue a padronização do ATLS®;
 - Pacientes hemodinamicamente instáveis podem ser avaliados com LPD ou ultrassonografia tipo FAST. A tomografia só deve ser realizada em pacientes hemodinamicamente estáveis;
-- Doentes com trauma abdominal hipotensos, sem resposta a reposição volêmica ou com sinais de peritonite, devem ser submetidos a laparotomia exploradora precocemente;
+- Pacientes com trauma abdominal hipotensos, sem resposta a reposição volêmica ou com sinais de peritonite, devem ser submeti-dos a laparotomia exploradora precocemente;
 - Pacientes em hipotermia, acidose e coagulopatia são candidatos a cirurgia de controle de danos, com contenção da hemorragia, correção dos distúrbios em UTI e reoperação programada;
 - O tratamento de lesões específicas deve ser individualizado de acordo com a gravidade do caso e a experiência do cirurgião;
 - Pacientes vítimas de trauma abdominal fechado, estáveis hemodinamicamente à admissão, são candidatos a TNO.
+
+Respostas
+1. A
+2. B
+3. B
