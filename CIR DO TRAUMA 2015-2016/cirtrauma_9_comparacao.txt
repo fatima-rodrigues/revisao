@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_9.txt b/cirtrauma_9.txt
-index 82769af..1a1743f 100644
---- a/cirtrauma_9.txt
-+++ b/cirtrauma_9.txt
-@@ -1,215 +1,278 @@
+
 Trauma pediátrico{++}
 Eduardo Bertolli[-1.-]{++}
 {++}

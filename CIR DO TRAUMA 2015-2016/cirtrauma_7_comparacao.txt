@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_7.txt b/cirtrauma_7.txt
-index b1cd45b..1d6a3c1 100644
---- a/cirtrauma_7.txt
-+++ b/cirtrauma_7.txt
-@@ -1,181 +1,226 @@
+
 Trauma raquimedular{++}
 Eduardo Bertolli[-1. Introd-]{++}
 {++}

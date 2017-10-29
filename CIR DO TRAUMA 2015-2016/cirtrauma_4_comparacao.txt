@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_4.txt b/cirtrauma_4.txt
-index bb5e190..098345c 100644
---- a/cirtrauma_4.txt
-+++ b/cirtrauma_4.txt
-@@ -1,6 +1,8 @@
+
 Choque
 Eduardo Bertolli
 

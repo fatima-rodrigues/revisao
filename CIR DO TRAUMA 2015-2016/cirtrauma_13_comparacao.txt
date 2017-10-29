@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_13.txt b/cirtrauma_13.txt
-index ce4c7d5..efa403a 100644
---- a/cirtrauma_13.txt
-+++ b/cirtrauma_13.txt
-@@ -1,26 +1,36 @@
+
 Trauma de face
 André Oliveira Paggiaro [-/ -]
 Eduardo Bertolli

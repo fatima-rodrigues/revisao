@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_5.txt b/cirtrauma_5.txt
-index 79aaa69..2a206cb 100644
---- a/cirtrauma_5.txt
-+++ b/cirtrauma_5.txt
-@@ -1,42 +1,47 @@
+
 Trauma abdominal
 Eduardo Bertolli
 

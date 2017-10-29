@@ -1,0 +1,91 @@
+
+Trauma na gestante
+Eduardo Bertolli
+
+{+Resumo+}
+{+Neste capítulo, serão abordados aspectos específicos do trauma nas pacientes gestantes, pois, apesar de o atendimento a elas por si só não constituir prioridade nos casos de atendimento a múltiplas vítimas, deve-se considerar que receberão atenção a mãe e o feto, cujo tratamento envolve a melhora do quadro materno, já que a principal repercussão para ele é a hipóxia e o descolamento da placenta que pode levar a óbito. Assim, a monitorização dos batimentos cardíacos fetais, associ-ada à correção do choque hipovolêmico com hidratação vigorosa, o deslocamento do útero à esquerda para melhorar o retorno venoso e o exame neurológico para excluir um quadro de eclâmpsia são as principais medidas a serem adotadas. O assunto também pode ser cobrado em provas de Ginecologia e Obstetrícia ou Epidemiologia.+}
+
+1. Introdução
+
+Qualquer mulher em idade fértil pode estar grávida. A gravidez causa mudanças anatômicas e funcionais que devem ser consideradas no atendimento à gestante politraumatizada. Além disso, o socorrista deve lembrar que está diante de [-2-]{+duas+} vítimas: a mãe e o feto. 
+
+{+Tratamento+}
+O melhor tratamento inicial para o [-úl-]{+fe+}t[-im-]o é a adoção das medidas adequadas de reanimação para a mãe. Uma abordagem mul{+-+}tidisciplinar, por sua vez, é fundamental para a obtenção de bons resultados.
+
+2. Alterações anatômicas e fisiológicas na gravidez
+
+@@ -23,26 +28,37 @@ As principais altera
+
+Tabela 1 - Alterações fisiológicas da gravidez
+Sistemas	Alterações	Repercussões no trauma
+Circulatório	- Aumento de volume plasmático com manutenção do hemató[---]crito;
+- Aumento do débito cardíaco e da frequência cardía{+-+}ca e queda da pressão arterial;
+- Compressão da veia cava pelo útero gravídico.	- Anemia fisiológica da gravidez;
+- Alteração na interpretação de dados hemodinâmicos no diagnóstico de choque;
+- Possível diminuição do retorno venoso que mimetiza o choque hipovolêmico.
+Respiratório	Aumento do volume/minuto e diminuição do volume residual pulmonar	Maior consumo de oxigênio
+Gastrintes[---]tinal	Retardo no esvaziamento gástrico e êmese gravídica	Maior risco de vômitos e aspiração
+Urinário	Aumento de filtração glomerular e fluxo plasmático renal; [-a -]glicosúria [-é -]comum	--
+Endócrino	Aumento da hipófise, podendo levar a necrose anteri{+-+}or e insufi[---]ciência hipofisária, principalmente em estados de hipovolemia	--
+Musculoes[---]quelético	- Alargamento da sínfise púbica;
+- Embebição das articulações pélvicas e hipertensão do sistema venoso pélvico.	- Interpretação de imagens no trauma pélvico;
+- Maior gravidade do sangramento nas lesões da bacia.
+Neurológico	Eclâmpsia (convulsões, hipertensão, hiper-reflexia e proteinúria)	Diagnóstico diferencial com trauma cranioencefálico
+Hematoló[---]gico	Em mães Rh negativ[-as-]{+o+} com fetos Rh positivo, basta 0,01mL de sangue fetal para sensibilizar a gestante	[-T-]{+Recebimento de imunoglobulina Rh por t+}oda gestante Rh negativ[-a-]{+o+} traumatizada{+,+} [-d-]{+a m+}e[-v-]{+nos qu+}e {+o t+}r{+auma s+}e[-ceber-]{+ja+} {+d+}i[-mu-]{+sta+}n{+te d+}o[-gl-]{+ úter+}o
+
+[-b-]{+Perg+}u[-li-]n{+t+}a
+{+2012+} [-Rh,-]{+- HFA+} 
+{+1. Um+}a m{+ulher d+}e{+ 28 a+}nos{+,+} [-qu-]{+vítima d+}e [-o-]{+acidente+} {+de trânsi+}t{+o há ce+}r{+c+}a[-u-]{+ de 30 +}m{+inutos, deu entrad+}a {+no +}se[-j-]{+tor de emergênci+}a d{+o hosp+}i{+tal. Ela e+}sta{+va com colar cervical adequadame+}n[---]te {+aplica+}do{+,+} [-úte-]{+ap+}r{+esentava-se torporosa, com deformidade na coxa direi-ta e escoriações no abdome; FC = 120bpm, FR = 32irpm e PA = 90x60mmHg. Considerando que a paciente esteja grávida, assinale a alternativa correta:+}
+{+a) caso a paciente seja fator Rh positivo, há forte risco de isoimunização, e a terapêutica com imunoglobulina deve ser inicia-da em até 1 semana+}
+{+b) a hipocapnia (como paCO2 = 30mmHg) é comum no final da gravidez e não representa alteração patológica+}
+{+c) o tempo de esvaziamento gástrico está diminuído, facilitando, pois, o aparecimento de úlceras duodenais+}
+{+d) o útero tem localização intrapélvica até a 20ª semana de gestação e alcança a cicatriz umbilical em torno da 30ª semana+}
+{+e) a grávida, quando comparada a mulheres não grávidas, apresenta habitualmente níveis mais elevados de hematócrito, como preparação fisiológica para o sangramento que ocorrerá no parto+}
+{+Resposta no final do capítul+}o
+
+3. Mecanismo de trauma
+
+Os mecanismos de trauma costumam ser semelhantes àqueles que acontecem na mulher não grávida. 
+
+{+Diagnóstico diferencial+}
+No trauma abdominal fechado, o feto é protegido pelo miométrio e pelo líquido amniótico. Podem ocorrer lesões indire[---]tas por compressão, desaceleração, contragolpe ou cisalhamento. O uso inadequado de cintos de segurança que só protegem a pelve aumenta a chance de rotura uterina e descolamento de placenta.{+ +}No trauma penetrante, o útero confere proteção às vísceras abdominais. Por outro lado, a lesão uterina penetrante asso[---]cia-se a prognósticos fetais muito ruins.{+ +}
+A violência doméstica é, infelizmente, causa significativa de trauma em gestantes. Na suspeita de agressão, cabe ao médico notificar o profissional legalmente habilitado para as providências e não permitir a alta da mãe.
+
+4. Atendimento à gestante traumatizada
+@@ -53,7 +69,10 @@ O tratamento do choque deve ser agressivo, pois pode haver sofrimento fetal ante
+O exame neurológico deve alertar para um quadro de eclâmpsia. 
+A avaliação secundária segue os mesmos princípios. No trauma abdominal, as indicações dos testes diagnósticos são as mesmas, com a ressalva de que o lavado peritoneal diagnóstico deve ser feito acima da cicatriz umbilical, sempre pela técnica aberta. A escala de lesão uterina está descrita na Tabela 2.
+
+{+Quadro clínico+}
+{+São peculiaridades no atendimento da gestante traumatizada o risco de aspiração, a atenção na drenagem de tórax, pela elevação do diafragma, a reposição volêmica agressiva, considerando o deslocamento uterino, o diagnóstico diferencial entre eclâmpsia e trauma cranioencefálico e a possibilidade de isoimunização e o tratamento com imunoglobulina.+}
+
+Tabela 2 - Escala de trauma de útero gravídico pela American Association for the Surgery of Trauma [-(AAST)-]
+I	Contusão/hematoma sem desprendimento da placenta
+II	Laceração superficial (<1cm) ou desprendimento parcial da placenta (<25%)
+III	- Laceração profunda (=1cm) no 2º trimestre ou desprendimento parcial da placenta >25%, mas <50%;
+@@ -65,12 +84,18 @@ V	- Ruptura uterina;
+
+B - Avaliação fetal
+As principais causas de morte fetal são o choque materno e a morte da mãe. A 2ª causa é o descolamento de placenta, que pode ser sugerido por sangramento vaginal, dor à palpação uterina, contrações frequentes, tetania ou irritação uterina. A ruptura uterina é uma lesão rara.
+
+{+Diagnóstico diferencial+}
+A monitorização contínua dos batimentos cardíacos fetais deve ser feita após 20 a 24 semanas. O obstetra deve ser envol[---]vi{+-+}do precocemente e conduzir o caso em conjunto com a equipe do serviço de emergência.
+
+A internação é obrigatória quando há sangramento vaginal, irritabilidade uterina, dor abdominal, evidência de hipovole-mia ou sinais de sofrimento fetal. O feto pode correr risco mesmo em traumatismos maternos aparentemente leves.
+
+C - Tratamento definitivo
+O obstetra deve ser consultado diante de problemas específicos, como descolamento placentário e embolia amniótica, pela possibilidade de a paciente necessitar de esvaziamento uterino.
+
+{+Dica+}
+Quando a mãe for Rh negativo, haverá o risco de isoimunização, sendo necessária [-a -]terapêutica com imunoglobulina Rh nas primeiras 72 horas após o trauma. Somente gestantes Rh negativo com lesões isoladas em extremidades não necessitam de imunoglobulina.
+
+São poucas as evidências na literatura que apoiam a cesariana post mortem em gestantes que sofrem parada cardíaca por hipovolemia. É possível obter algum resultado caso a parada aconteça por outra causa e a cesariana possa ser realizada em até 5 minutos após o ocorrido.
+
+5. Resumo
+@@ -80,3 +105,6 @@ Quadro-resumo
+- O choque deve ser tratado agressivamente, mesmo que os sintomas sejam pouco evidentes;
+- O obstetra deve ser envolvido precocemente;
+- Questões como compressão uterina e isoimunização devem ser sempre lembradas.
+
+{+Resposta+}
+{+1. B+}

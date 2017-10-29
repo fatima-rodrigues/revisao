@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_10.txt b/cirtrauma_10.txt
-index 849ee13..a813fcd 100644
---- a/cirtrauma_10.txt
-+++ b/cirtrauma_10.txt
-@@ -1,7 +1,9 @@
+
 Queimaduras
 André {+Oliveira +}Paggiaro [-/ -]
 Eduardo Bertolli

@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_12.txt b/cirtrauma_12.txt
-index 624fd4f..ec02c7d 100644
---- a/cirtrauma_12.txt
-+++ b/cirtrauma_12.txt
-@@ -1,6 +1,8 @@
+
 Trauma vascular
 Eduardo Bertolli
 

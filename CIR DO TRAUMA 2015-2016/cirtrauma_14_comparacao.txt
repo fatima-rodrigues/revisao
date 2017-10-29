@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_14.txt b/cirtrauma_14.txt
-index add0cce..80bca4d 100644
---- a/cirtrauma_14.txt
-+++ b/cirtrauma_14.txt
-@@ -1,20 +1,25 @@
+
 Trauma da transição toracoabdominal
 Eduardo Bertolli
 
