@@ -1,14 +1,20 @@
 Constipação intestinal
 Lúcia C. Barcellos Kunen
 
+Resumo
+Neste capítulo, abordaremos a constipação intestinal, queixa muito frequente na prática diária. Diversos conceitos devem ser revisados tanto para o dia a dia quanto para os concursos médicos. É mais comum em mulheres, não caucasianos e ido-sos, sendo os fatores de risco o uso de medicações, sedentarismo e depressão. Dentre as causas, há doenças metabólicas, neurológicas centrais e periféricas, obstrutivas ou efeito colateral de drogas. Para diagnóstico, aplicam-se os critérios de Roma III, devendo estar presentes por pelo menos 3 meses, com início, pelo menos, 6 meses antes do diagnóstico, além de 2 ou mais dos sintomas específicos. Dentre as causas, há doenças metabólicas, neurológicas, obstrutivas ou efeito colateral de drogas. Ao exame físico, o toque retal pode fornecer informações importantes, como fissuras e hemorroidas, assimetria na abertura do canal anal, presença de fezes na ampola retal e lesões tumorais. Colonoscopia também é indicada nesses casos, além de pacientes com mais de 50 anos que não realizaram screening de câncer colorretal prévio. O raio x baritado é o exame de escolha para o diagnóstico da doença de Hirschsprung. Outro método mais atual é a cápsula da motilidade sem fio (WMC – Wireless Motility Capsule), com sensibilidade e especificidade similares às dos outros estudos, mas ainda é de alto custo e pouca disponibilidade. O tratamento baseia-se em medidas comportamentais e na suplementação de fibras laxativos formadores de bolo (sem evidência científica de melhora na constipação); aos não responsivos, indica-se o uso de laxativos osmóticos ou estimulantes.
 
 1. Introdução
 
-Uma das queixas mais comuns relacionadas ao trato gastrintestinal é a constipação. Existem várias causas, podendo ser manifestação de doenças metabólicas (diabetes, hipotireoidismo, hipercalcemia, intoxicação por metal pesado), neurológicas, obstrutivas, ou efeito colateral de drogas. A prevalência em estudos na América do Norte é apontada em cerca de 2 a 27%, sendo mais comum em mulheres, não caucasianos e indivíduos com mais de 60 anos.
+Uma das queixas mais comuns relacionadas ao trato gastrintestinal é a constipação. Existem várias causas, podendo ser manifestação de doenças metabólicas (diabetes, hipotireoidismo, hipercalcemia, intoxicação por metal pesado), neurológicas, obstrutivas, ou efeito colateral de drogas. A prevalência em estudos na América do Norte é apontada em cerca de 2 a 27%, sendo mais comum em mulheres, não caucasianos e indivíduos com mais de 60 anos. Também são fatores de risco o uso de medicações, sedentarismo e depressão.
 
 2. Definição
 
-O grande obstáculo quanto ao diagnóstico está na impressão individual de alteração no hábito intestinal que nem sempre reflete o diagnóstico correto. A definição mais aceita é quando a frequência de evacuação é menor do que 3 vezes por se-mana.
+O grande obstáculo quanto ao diagnóstico está na impressão individual de alteração no hábito intestinal que nem sempre reflete o diagnóstico correto. 
+
+Importante
+A definição mais aceita de constipação intestinal é quando a frequência de evacuação é menor do que 3 vezes por semana, e os sintomas devem estar presentes por pelo menos 3 meses, tendo-se iniciado, no mínimo, 6 meses antes do diagnóstico.
+
 Os critérios diagnósticos da constipação funcional são embasados nos critérios de Roma III, em que os sintomas devem es-tar presentes por pelo menos 3 meses, com início, pelo menos, 6 meses antes do diagnóstico. Além disso, devem estar incluí-dos 2 ou mais dos seguintes sintomas:
 Força para evacuar em, pelo menos, 25% das evacuações;
 Fezes endurecidas em, pelo menos, 25% das evacuações;
@@ -16,8 +22,18 @@ Sensação de evacuação incompleta em, pelo menos, 25% das evacuações;
 Sensação de obstrução anorretal em, pelo menos, 25% das evacuações;
 Manobras manuais (evacuação digital) para facilitar em, pelo menos, 25% das evacuações;
 Menos de 3 evacuações por semana.
-Pode-se, ainda, incluir evacuação raramente presente sem uso de laxantes e critérios insuficientes para o diagnóstico de síndrome do intestino irritável.
 
+Pode-se incluir, ainda, evacuação raramente presente sem uso de laxantes e critérios insuficientes para o diagnóstico de síndrome do intestino irritável.
+
+Pergunta
+2015 - HCV
+1. Assinale a alternativa correta sobre a definição de constipação intestinal: 
+a) segundo novos conceitos, constipação intestinal não é mais considerada uma queixa ou sintoma, mas uma doença de elevada prevalência populacional
+b) o conceito de constipação intestinal está intimamente relacionado ao de hábito intestinal normal, que varia desde 3 vezes por dia a 1 vez a cada 3 dias
+c) pacientes que evacuam diariamente não podem ser considerados constipados, mesmo que refiram dor, desconforto ou dificuldade para defecar
+d) a sensação retal de, após a evacuação, não ter eliminado todo o necessário chama-se tenesmo, não devendo ser con-fundida com constipação
+e) a síndrome do intestino irritável é a causa prevalente de constipação
+Resposta no final do capítulo
 3. Etiologia e fisiopatologia
 
 A - Causas secundárias 
@@ -65,20 +81,20 @@ Tabela 2 - Drogas associadas à constipação
 · Anti-hipertensivos;
 · Bloqueadores gangliônicos;
 · Alcaloides da vinca;
-· Bloqueadores do canal de cálcio;
-· Antagonistas 5-HT3.
+· Bloqueadores dos canais de cálcio;
+· Antagonistas dos receptores 5-HT3.
 Fonte: UpToDate.
 
-A função do cólon e a do anorreto é dada pelas inervações entérica, simpática e parassimpática. Quando ocorre lesão dos nervos parassimpáticos sacrais ou da cauda equina (inervam o cólon distal), ou lesão da medula lombossacra (meningomielo-cele e anestesia peridural), podem ocorrer constipação, hipomotilidade, dilatação colônica, diminuição da sensibilidade e do tônus retal, estase e evacuação prejudicada.
+A função do cólon e a do anorreto são dadas pelas inervações entérica, simpática e parassimpática. Quando ocorre lesão dos nervos parassimpáticos sacrais ou da cauda equina (inervam o cólon distal), ou lesão da medula lombossacra (meningomi-elocele e anestesia peridural), podem ocorrer constipação, hipomotilidade, dilatação colônica, diminuição da sensibilidade e do tônus retal, estase e evacuação prejudicada.
 Já nas lesões altas da medula, os reflexos estão preservados, podendo-se estimular a evacuação pelo toque digital.
 Nos casos de Parkinson e esclerose múltipla, inatividade e medicações pioram a constipação.
-Hirschsprung é uma doença congênita em que ocorre constipação desde o nascimento, devido a aganglionose distal, com consequente dilatação colônica proximal.
+Hirschsprung é uma doença congênita em que ocorre constipação desde o nascimento, devido à aganglionose distal, com consequente dilatação colônica proximal.
 
 B - Constipação crônica idiopática severa
 Ocorre predominantemente em mulheres e dificilmente responde a fibras e laxativos leves. É subdividida em trânsito co-lônico normal, inércia colônica e retardo no esvaziamento (defecação dissinérgica, megacólon e megarreto).
 O trânsito colônico normal provavelmente é uma interpretação inadequada de constipação, frequentemente associada a doença psicossomática.
 O diagnóstico de trânsito lento ou inércia colônica é dado pelo retardo da passagem de marcadores radiopacos no cólon proximal, com motilidade colônica no repouso normal, mas ausência de aumento da atividade após as refeições. A causa pode ser a diminuição das células intersticiais de Cajal no plexo mioentérico.
-Quando os marcadores radiopacos se movem normalmente no cólon, mas são retidos no reto, dá-se o diagnóstico de re-tardo no esvaziamento (Hirschsprung, megarreto, impactação fecal e defecação dissinérgica). Na defecação dissinérgica, há ausência de relaxamento ou contração errônea dos músculos puborretais e esfíncter anal externo, com consequente dimi-nuição no ângulo anorretal e aumento de pressão no canal anal. Já o megarreto parece ser secundário a uma alteração neu-rogênica e ocorre mais em crianças e idosos com alteração mental e física.
+Quando os marcadores radiopacos se movem normalmente no cólon, mas são retidos no reto, dá-se o diagnóstico de re-tardo no esvaziamento (Hirschsprung, megarreto, impactação fecal e defecação dissinérgica). Na defecação dissinérgica, há ausência de relaxamento ou contração errônea dos músculos puborretais e esfíncter anal externo, com consequente dimi-nuição no ângulo anorretal e aumento de pressão no canal anal. Já o megarreto parece ser secundário a uma alteração neu-rogênica e ocorre mais em crianças e idosos com alterações mental e física.
 
 4. Diagnóstico
 
@@ -86,17 +102,18 @@ História detalhada, incluindo a interpretação pessoal do paciente quanto à const
 Entre aqueles sem sinais de alarme, pode-se realizar tratamento empírico sem outra investigação, reservando-a aos casos de falha na resposta ao tratamento.
 Hemograma, glicemia, creatinina, cálcio e hormônios tireóideos podem ser solicitados quando há sinais de alarme. Colo-noscopia também é indicada nesses casos, além de pacientes com mais de 50 anos que não realizaram screening de câncer colorretal prévio.
 O raio x baritado é o exame de escolha para o diagnóstico da doença de Hirschsprung.
-Estudos de trânsito colônico são reservados aos indivíduos que não respondem ao tratamento, sendo aqueles com marca-dores radiopacos os mais utilizados. Eles avaliam o trânsito colônico quantitativamente e são realizados administrando-se dieta rica em fibra e marcadores radiopacos monitorados por radiografia abdominal (Figura 1). No trânsito lento, ocorre retardo no cólon direito ou esquerdo; no retardo do esvaziamento, há progressão normal, com estagnação no reto.
+Estudos de trânsito colônico são reservados aos indivíduos que não respondem ao tratamento, sendo aqueles com marca-dores radiopacos os mais utilizados. Eles avaliam o trânsito colônico quantitativamente e são realizados administrando-se dieta rica em fibra e marcadores radiopacos monitorizados por radiografia abdominal (Figura 1). No trânsito lento, ocorre retardo no cólon direito ou esquerdo; no retardo do esvaziamento, há progressão normal, com estagnação no reto.
 
  
 Figura 1 - Estudo de trânsito com marcadores radiopacos evidenciando >5 marcadores no raio x, no 6º dia, indicando trânsito lento 
 Fonte: UpToDate.
 
-Outro método mais atual é a cápsula da motilidade sem fio (WMC – Wireless Motility Capsule), com sensibilidade e especi-ficidade similares às dos outros estudos, mas ainda é um método de alto custo e pouco disponível.
-Para avaliação adequada de alterações funcionais e anatômicas no anorreto, pode-se realizar o defecograma. Nele, injeta-se bário no reto e monitora-se a evacuação em uma privada especialmente construída, por meio de fluoroscopia. Dissinergia do assoalho pélvico ocorre quando há descida insuficiente do períneo (<1cm) e <15° de alteração no ângulo anorretal.
+Outro método mais atual é a cápsula da motilidade sem fio (WMC – Wireless Motility Capsule), com sensibilidade e especi-ficidade similares às dos outros estudos, mas ainda é de alto custo e pouco disponível.
+Para a avaliação adequada de alterações funcionais e anatômicas no anorreto, pode-se realizar o defecograma. Nele, inje-ta-se bário no reto e monitoriza-se a evacuação em uma privada especialmente construída, por meio de fluoroscopia. Dissi-nergia do assoalho pélvico ocorre quando há descida insuficiente do períneo (<1cm) e <15° de alteração no ângulo anorretal.
 A avaliação da função do canal anal é mais bem efetuada por meio da manometria anorretal. Os achados da normalidade são aumento da pressão intrarretal e diminuição na pressão do esfíncter externo durante a expulsão do monitor. Na dissiner-gia, há aumento na pressão do esfíncter anal externo (Figura 2).
+
  
-Figura 2 - A defecação normalmente envolve relaxamento coordenado dos músculos puborretal e esfíncter anal externo enquanto a pressão aumenta no reto (controle à esquerda). Nos pacientes com defecação dissinérgica (controle à direita), ocorre falha no relaxa-mento ou na contração inapropriada dos músculos puborretal e esfíncter externo enquanto ocorre aumento da pressão no reto.
+Figura 2 - A defecação normalmente envolve relaxamento coordenado dos músculos puborretal e esfíncter anal externo enquanto a pressão aumenta no reto (controle à esquerda). Nos pacientes com defecação dissinérgica (controle à direita), ocorre falha no relaxa-mento ou contração inapropriada dos músculos puborretal e esfíncter externo enquanto ocorre aumento da pressão no reto
 Fonte: UpToDate.
 
  
@@ -110,12 +127,15 @@ A - Fibras
 Pode-se tentar suplementação nos pacientes com trânsito normal, recomendando-se de 20 a 35g/d. Atuam retendo líqui-do nas suas estruturas (cereais) e estimulando o crescimento da flora colônica (frutas e legumes). Podem ocorrer distensão e flatulência.
 
 B - Laxativos formadores de bolo
-São polissacarídeos sintéticos ou naturais ou derivados da celulose que absorvem água e aumentam o bolo fecal. São cita-dos psyllium, metilcelulose, policarbofila cálcica e farelo de dextrano. Não há evidência científica de melhora na constipação.
+São polissacarídeos sintéticos ou naturais ou derivados da celulose que absorvem água e aumentam o bolo fecal. São cita-dos psyllium, metilcelulose, policarbofila cálcica e farelo de dextrano. 
+
+Dica
+Não há evidência científica de melhora na constipação com laxativos formadores de bolo. 
 
 C - Outros
 São medidas para pacientes não respondedores ou não tolerantes às fibras:
 Os surfactantes (docusato de sódio) diminuiriam a tensão nas fezes, permitindo a entrada de água, mas há pouca evidência estatística;
-Os laxantes osmóticos promovem a secreção intestinal de água e aumentam a frequência das evacuações. As medicações desta classe são o polietilenoglicol, a lactulose (dissacarídeo sintético) e o leite de magnésio (solução hiperosmolar).
+Os laxantes osmóticos promovem a secreção intestinal de água e aumentam a frequência das evacuações. As medicações dessa classe são o polietilenoglicol, a lactulose (dissacarídeo sintético) e o leite de magnésio (solução hiperosmolar).
 
 D - Laxativos estimulantes
 Alteram o transporte de eletrólitos intestinais e aumentam a atividade motora. Exemplos: bisacodil, sene e picossulfato de sódio. Podem causar hipocalemia e enteropatia perdedora de proteínas. Não há evidência estatística de dano estrutural ou da função do cólon.
@@ -130,10 +150,10 @@ G - Linaclotide
 Peptídio minimamente absorvido, agonista do receptor da guanilato ciclase C que estimula secreção fluida e trânsito.
 
 H - Lubiprostone
-Ativador do canal de cloro de ação local, que aumenta a secreção fluida intestinal rica em cloro. O efeito colateral mais comum é a náusea.
+Ativador dos canais de cloro de ação local que aumenta a secreção fluida intestinal rica em cloro. O efeito colateral mais comum é a náusea. Está indicado na constipação crônica severa não responsiva a outros manejos.
 
 I - Prucaloprida
-Agente procinético 5-HT4 não disponível nos Estados Unidos que vem sendo bem tolerado e seguro em estudos realiza-dos.
+Agente pró-cinético 5-HT4 não disponível nos Estados Unidos que vem sendo bem tolerado e seguro em estudos realiza-dos.
 
 J - Toxina botulínica
 É feita a injeção da toxina no músculo puborretal, guiada por ultrassonografia, nos pacientes com disfunção do assoalho pélvico. A experiência é limitada.
@@ -143,7 +163,7 @@ Colectomia subtotal com anastomose ileorretal pode melhorar a constipação incapa
 Constipação crônica, severa, com sintomas incapacitantes, não responsivos à medicação;
 Inércia colônica apresentada pelo paciente;
 Ausência de pseudo-obstrução intestinal crônica (comprovada por estudos radiológicos ou manométricos);
-Ausência de disfunção de assoalho pélvico (baseado na manometria);
+Ausência de disfunção de assoalho pélvico (baseada na manometria);
 Ausência de dor abdominal como sintoma principal.
 
 Tabela 3 - Laxativos usados no tratamento 
@@ -151,8 +171,8 @@ Tabela 3 - Laxativos usados no tratamento
 Formadores de bolo	Psyllium	1 colher de sopa, 3x/d	12 a 72 horas	Impactação acima de esteno-ses, sobrecarga hídrica, gases e distensão
 	Metilcelulose	1 colher de sopa, 3x/d	12 a 72 horas	
 	Policarbofila	2 a 4 cápsulas/d	24 a 48 horas	
-	Farelo de dextrina	1 a 3 cápsulas, 3x/d	24 a 48 horas	
-Surfactantes	Docusato de sódio	100mg, 2x/d	24 a 72 horas	Bem tolerado. Dermatite de contato é relatada
+	Farelo de dextrana	1 a 3 cápsulas, 3x/d	24 a 48 horas	
+Surfactantes	Docusato de sódio	100mg, 2x/d	24 a 72 horas	Bem tolerado. Dermatite de contato relatada
 	Docusato de cálcio	240mg, 1x/d	24 a 72 horas	
 Agentes 
 osmóticos	Polietilenoglicol	8,5 a 34g em 240mL de líquido	1 a 4 dias	Náusea, distensão e cólica
@@ -167,6 +187,15 @@ Outros	Lubiprostone	24µg, 2x/d	24 a 48 horas	Náusea, diarreia
 	Linaclotide	145µg, 1x/d	12 a 24 horas	Diarreia, distensão
 Fonte: UpToDate.
 
+Pergunta
+2007 - FESP-RJ
+2. O cotidiano de um corretor da bolsa de valores era estressante, e ele, vez ou outra, queixava-se de desconforto abdo-minal associado à alteração dos mecanismos evacuatórios. A propedêutica investigativa sugeriu síndrome do intestino irritável, e, como constipação era a queixa predominante em seu caso, o clínico prescreveu-lhe tegaserode, droga que tem se mostrado benéfica nessa situação e que atua como:
+a)	agonista completo da acetilcolina 
+b)	antagonista periférico dos opioides
+c)	antagonista semisseletivo dos canais de cálcio
+d)	agonista parcial dos receptores do tipo 4 da serotonina
+Resposta no final do capítulo
+
 6. Resumo
 
 Quadro-resumo
@@ -179,5 +208,9 @@ Quadro-resumo
 · Manobras manuais (evacuação digital) para facilitação em, pelo menos, 25% das evacuações;
 · Menos de 3 evacuações por semana.
 - As causas podem ser secundárias (diabetes, hipotireoidismo, drogas) ou constipação idiopática severa (trânsito normal, inércia colônica e retardo do esvaziamento);
-- Exames diagnósticos são indicados aos sintomas de alarme (laboratório, colonoscopia) e aos casos não responsivos ao trata-mento (estudos com marcadores radiopacos e manometria anorretal);
+- Exames diagnósticos são indicados aos sintomas de alarme (laboratório, colonoscopia) e aos casos não responsivos ao tratamento (estudos com marcadores radiopacos e manometria anorretal);
 - O tratamento inicial está embasado em medidas comportamentais e suplementação de fibras; aos não responsivos indica-se o uso de laxativos osmóticos ou estimulantes.
+
+Respostas
+1. B 
+2. D
