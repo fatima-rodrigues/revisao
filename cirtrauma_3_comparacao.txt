@@ -1,0 +1,377 @@
+diff --git a/cirtrauma_3.txt b/cirtrauma_3.txt
+index 7a750c7..2102e7a 100644
+--- a/cirtrauma_3.txt
++++ b/cirtrauma_3.txt
+@@ -1,220 +1,302 @@
+[-Trauma torácico-]Eduardo Bertolli[-1. Introdução-]
+
+[-O t-]{++}
+{+T+}rauma torácico[- r-]{++}
+{++}
+{+R+}es[-p-]{+um+}o[-nd-]{++}
+{+Nest+}e {+ca+}p{+ítul+}o[-r-]{+,+} [-20-]{+serão+} a[- 25% -]{+borda+}das [-morte-]{+a+}s {+l+}e{+sões +}m{+ais+} [-p-]{+c+}o[-li-]{+muns no +}trauma{+ +}t{+orác+}i[-zad-]{+c+}o[-s.-]{+,+} [-E-]{+como p+}n{+eumo+}t{+ó+}r{+ax hip+}e{+r+}t[-a-]{+e+}n[-to, 85% da-]s[- vít-]i[-mas-]{+vo,+} p[-od-]{+n+}e{+u+}m{+otórax+} [-s-]{+ab+}er{+to,+} t{+ó+}ra{+x ins+}t{+ável, hemotór+}a[--das-]{+x+} {+m+}a[-d-]{+ciço +}e[-qu-]{+ t+}a[-d-]{+mpon+}ament[-e-]{+o+} c{+ardíac+}o{+, alé+}m [-sup-]{+d+}o[-rte-] [-respi-]{+t+}rat[-ório, -]a{+me+}n{+to re+}al[-ges-]i{+z+}a{+do+} e{+m+} {+ca+}d[-ren-]a[-gem pleural-] [-(Fig-]u[-r-]{+m+}a [-1). D-]{+d+}essa{+s+} [-mane-]{+s+}i[-r-]{+tu-+}a[-, é nec-]{+çõ+}es[-sária-]{+,+} [-a-]{+como+} toraco[---]{+cen+}t{+ese desc+}om{+press+}i{+v+}a[- em-]{+,+} c[-e-]{+u+}r[-c-]a{+tivo+} de [-15%-]{+3+} [-d-]{+p+}o[-s c-]{+nt+}as[-os.-]{+,+} [-A-]s[- m-]{+up+}orte[-s-] [-pr-]{+v+}e[-c-]{+ntilatóri+}o[-ces-], [-ain-]d[-a -]{+re+}n[-o-]{+agem+} {+p+}l[-oc-]{+eur+}al [-do-]{+e+} [-t-]{+pe+}r[-auma, a-]{+i+}c{+ardi+}o{+ce+}n{+-+}te[-c-]{+s+}e[-m-], [-p-]r[-in-]{+espe+}c{+t+}i[-p-]{+v+}a[-l-]mente{+. Devido à sua alta mortalidade+}, [-p-]o{+ t+}r{+auma+} {+toráci+}co{+ é o 2º assu+}nt[-usã-]o m{+a+}i[-o-]{+s +}c[-á-]{+ob+}r[-dic-]a{+do+} {+d+}e {+Ci+}ru[-ptu-]r{+gi+}a d[-e a-]o{+ T+}r[-t-]a[-.-]
+
+[- -]
+[-Fig-]u[-r-]{+m+}a [-1 - Dre-]n[-agem-]{+os+} [-ple-]{+conc+}ur{+sos médicos, +}al[-:-]{+ém+} de[-ve-] ser {+f+}re[-a-]{+quentemente uti+}lizad[-a n-]o [-5º-]{+para+} [-e-]s[-p-]{+imul+}aç[-o-]{+ões+} [-int-]e{+ p+}r[-c-]o[-stal, n-]{+v+}a{+s+} [-l-]{+prát+}i[-nh-]{+c+}a{+s.+}
+{++}
+{+1.+} [-axila-]{+Int+}r{+odução+}
+{++}
+{+O+} {+trau+}m[-édi-]a[-,-] [-c-]{+t+}o[-m in-]{+rá+}ci[-sã-]{+c+}o [-na bo-]r[-da -]{+e+}s[-u-]p{+ond+}e[-ri-]{+ p+}or {+20 a 25% +}da{+s+} [-c-]{+m+}o[-s-]{+r+}te[-la-]{+s+} [-inf-]e{+m polit+}r{+aumat+}i{+zad+}o[-r,-]{+s.+} {+Entr+}e[-vi-]tan[-d-]{+t+}o, {+85% d+}as[-s-]{+ vít+}im[-, -]a[- le-]s[-ão-] [-d-]{+p+}o{+dem+} [-pl-]{+s+}e[-xo-]{+r+} [-in-]t[-e-]r[-cos-]{+a+}ta[-l. O -]{+-+}d[-reno-]{+as+} {+a+}de[-ve ser conect-]{+qu+}ad[-o -]a[- u-]m[- “selo d’água”, qu-]e[- funcio-]n[-a-]{+te+} com[-o-] [-válv-]{+s+}u[-la-]
+[-F-]{+p+}o[-n-]{+r+}te[-:-] [-www.t-]{+respi+}ra[-uma.o-]{+tó+}r[-g.-]
+
+[-2.-]{+io,+} [-Av-]{+an+}al{+ges+}ia[-ção-] [-i-]{+e dre+}n[-ici-]a[-l-]
+
+[-A-]{+gem+} [-av-]{+pleur+}al{+ (F+}i{+gur+}a[-ção-] [-das-]{+1).+} [-ví-]{+Des+}t[-im-]a[-s-] [-d-]{+man+}e{+ira, a+} t{+o+}ra[-u-]{+coto+}m{+i+}a[-s-] [-to-]{+se+}rá{+ ne+}c{+essár+}i{+a em +}c{+erca de 15% d+}os {+ca+}s[-egue-]{+os.+} [-a-]{+A+}s m{+ort+}es[-mas-] pr[-i-]{+ec+}o[-ridad-]{+c+}es{+,+} {+ain+}d[-o Adv-]a{+ +}n{+o lo+}c[-e-]{+al +}d{+o+} [-T-]{+t+}rauma{+,+} [-Lif-]{+acontec+}e{+m,+} [-Sup-]p[-o-]r[-t (ATLS®)-]{+incipalmente+}, [-se-]{+por co+}n{+tu+}-[-d-]{+sã+}o {+miocárdic+}a [-vi-]{+e ruptur+}a {+de +}a[-é-]{+o+}r[-e-]{+t+}a{+.+}
+{++}
+ {++}
+{+Figur+}a 1[-ª-] {+- Dr+}e[-t-]{+n+}a{+gem +}p{+leur+}a{+l:+} d[-o-]{+eve ser+} [-t-]r{+e+}a[-t-]{+lizad+}a[-mento,-] [-c-]{+n+}o[-m-] [-a-]{+5º+} [-prot-]e{+spa+}ç[-ã-]o [-da colu-]{+i+}n[-a c-]{+t+}er[-vi-]c{+ost+}al[-.-]{+,+} [-Um-]{+n+}a [-v-]{+l+}i{+nh+}a a[-ére-]{+xil+}a{+r+} [-p-]{+m+}é[-rv-]{+d+}ia{+, com+} {+i+}n{+cis+}ão [-gara-]n[-te-]{+a+} bo{+rd+}a [-v-]{+sup+}e[-nt-]{+r+}i[-laçã-]o[-,-]{+r+} [-e,-]{+da+} [-nes-]{+co+}s{+t+}e{+la+} [-co-]{+i+}n[-t-]{+f+}e[-x-]{+rior, evi+}t{+and+}o, as{+sim, a+} les[-õ-]{+ão do pl+}e[-s-]{+xo+} {+in+}t[-o-]{+e+}r[-áci-]c[-a-]{+o+}s{+tal. O dreno+} deve[-m-] ser [-diagn-]{+c+}o[-sti-]{+ne+}c{+t+}ad{+o +}a[-s-] {+um “s+}e{+lo+} [-trata-]d{+’águ+}a[-s-]{+”, que+} {+fu+}n{+ci+}o[- ex-]{+n+}a{+ co+}m{+o válvula +}
+{+Font+}e{+:+} [-p-]{+www.t+}r[-i-]{+au+}m[-ári-]{+a.+}o{+rg.+}
+{++}
+{+2+}. [-D-]{+Aval+}i[-d-]a[-t-]{+ção in+}ic{+i+}a[-mente,-]{+l+}
+{++}
+{+A+} [-di-]{+a+}v{+al+}i{+ação +}d[-em--]{+a+}s[-e-] {+vítim+}as [-lesõ-]{+d+}e{+ trauma+}s torácic[-a-]{+o+}s [-naq-]{+seg+}ue[-l-]{+ +}as [-co-]m{+esmas+} {+p+}ri[-sc-]o[- -]{+r+}i[-me-]d[-i-]a[-t-]{+des d+}o {+A+}d{+vanc+}e{+d+} {+Trau+}m{+a Life Supp+}ort[-e-]{+ (ATLS®)+}, [-qu-]{+s+}e[- -]{+n-+}d[-e-]{+o a +}v[-em-]{+ia+} [-se-]{+aé+}r{+ea+} [-di-]a[-gnos-]{+ 1ª e+}t[-ic-]a[-d-]{+p+}a[-s-] [-e-]{+do+} tra[---]ta[-d-]{+mento, com +}a[-s-] [-du-]{+p+}r[-an-]{+o+}te{+ção+} {+d+}a {+colun+}a{+ cer+}v{+ic+}al{+. Uma v+}ia[-ção-] [-p-]{+aé+}r[-imá-]{+ea pé+}r{+v+}ia[-;-] n[-as que-]{+ão+} {+g+}a[-p-]r{+ant+}e[-s-]{+ boa v+}ent{+il+}a[-m-]{+ção,+} [-ri-]{+e, ne+}s{+se +}co[- à vida-]{+ntexto+}, [-m-]as [-qu-]{+l+}e{+sões+} [-p-]{+t+}o{+rácicas +}de{+ve+}m ser {+diagnosticadas e +}tratadas no exame [-secund-]{+prim+}ário[-;-]{+.+} {++}
+{+Didaticam+}e[- -]n[-as-]{+te,+} d{+ivid+}em{+-se +}a[-i-]s lesões {+torácica+}s{+ naqu+}e{+las co+}m risco {+imediato +}de morte{+,+} [-(Tab-]{+qu+}e[-la-] [-1).-]{+devem+} [-Tab-]{+s+}e[-l-]{+r diagnosticad+}a{+s+} [-1-]{+e+} {+tra+}-{+tadas+} [-A-]{+durante a a+}valiação {+pr+}i[-nic-]{+már+}ia[-l-]{+;+} [-d-]{+n+}as {+que apresentam risco à vida, mas que podem ser tratadas no exame secundário; e nas demais +}lesões {+sem risco de mor+}t{+e (Tabela 1). +}
+{++}
+{+Tabela 1 - Lesões c+}o{+m +}r[-á-]{+is+}c{+o imediato à vida e que devem ser diagnost+}ica{+das e tratada+}s{+ durante a avaliação inicial +}
+	Lesões com risco de morte	Tratamento{++}
+Exame {++}
+primário	1 - Pneumotórax hipertensivo	Toracocentese descompressiva no 2º espaço intercostal{++}
+	2 - Pneumotórax aberto	Curativo de 3 pontas{++}
+	3 - Tórax instável	Suporte ventilatório e analgesia vigorosa{++}
+	4 - Hemotórax maciço	Drenagem pleural e avaliação cirúrgica pre{+-+}coce{++}
+	5 - Tamponamento cardíaco	Pericardiocentese e avaliação cirúrgica pre{+-+}coce[-Ex-]{++}
+{+A ci+}a[-m-]{+nose pod+}e se[-cundá-]r[-io	1 --] [-Pne-]um[-otórax-] si[-mples	Dre-]na[-gem pleura-]l[-	2 --] [-Hemo-]t[-ór-]a[-x	D-]r[-enagem-]{+dio,+} [-pleur-]{+m+}a[-l-]
+[-	3-]{+s+} [---]{+a+} [-Contu-]s[-ão p-]u[-lmon-]a[-r	Suporte-] [-ve-]{+ausê+}n[-t-]{+c+}i[-l-]a[-tório-]
+[-	4-] [---]{+não+} [-Lesõe-]s[- d-]{+ignific+}a [-á-]{+pe+}r[-v-]{+fusã+}o[-re-] [-tr-]a[-qu-]{+d+}e[-obrôn-]qu[-ic-]a[-	A-]{+da. Na a+}valiação cir[-ú-]{+culató+}r[-g-]i[-c-]a[-	5-]{+,+} [---]{+é+} [-Traumat-]i[-s-]m{+p+}o[- ca-]r[-dí-]{+-t+}a[-co co-]nt[-uso	M-]{+e a m+}onitorização eletrocardiográfica [-e-]{+da+} [-enzimá-]{+ví+}ti[-c-]{+m+}a[-	6 --] [-F-]{+d+}e{+ t+}r[-i-]{+au+}m[-en-]{+a+}t{+ism+}o t{+o+}r[-ansf-]{+ác+}i[-xante d-]{+c+}o {+co+}m[-ed-]{+ r+}i[-a-]s[-tin-]{+c+}o[-	A-] de[-pe-]{+ co+}n[-der-]{+tusão+} {+miocár+}d{+ic+}a[-s-]{+,+} [-lesõe-]{+poi+}s[-	7 --] [-Ru-]p[-tu-]{+odem ocorre+}r[-a-] [-d-]{+arritm+}ia{+s, +}fr[-ag-]{+equente+}m[-á-]{+en+}t[-i-]{+e asso+}c{+i+}a[-	Av-]{+d+}a[-li-]{+s +}a[-ção-] [-c-]{+h+}i[-rúrg-]{+póx+}i[-c-]a[-	8-] [---]{+e acidose. O+} [-Ru-]p{+acien+}t[-u-]{+e pode ap+}r{+esent+}a{+r+} {+Ativi+}da{+de+} [-aor-]{+Elé+}t{+ric+}a[-	-]{+ +}Sem[-pre-]{+ Pulso (AESP),+} que [-p-]{+ac+}o{+ntece em ca+}s{+o+}s[-ív-]{+ d+}e[-l,-] t[-r-]a[-t-]{+mpon+}amento[- endova-]s{+ +}c[-ul-]ar[-O-]{+díacos, pne+}u{+mo+}t{+ó+}ra[-s-]{+x+} [-l-]{+hip+}e[-sõ-]{+rt+}e{+n+}s[-	1 --]{+ivo,+} [-Enf-]{+h+}i[-s-]{+povol+}em{+i+}a [-subcutâneo	C-]{+pr+}o{+fu+}n[-s-]{+da +}e{+ ruptu+}r[-v-]a[-do-]{+ ca+}r[-;-]{+díaca. A+} avaliação [-da -]ne[-cess-]{+urológ+}i[-d-]{+c+}a[-d-]{+ +}e [-d-]{+a +}e{+xposição+} [-dr-]{+s+}e[-na-]g{+u+}em [-pleu-r-]a[-l-]
+[-	2-]{+s+} [---]{+condutas+} [-Le-]{+habituai+}s[-õ-]{+.+}
+{+D+}e[-s -]{+n+}t[-o-]r[-ácic-]{+e +}as [-por -]{+m+}e{+dida+}s{+ co+}m[-aga-]{+ple+}ment[-o	Supo-]{+a+}r[-t-]e{+s ao+} [-v-]e[-ntil-]{+x+}a[-tó-]{+me primá+}rio[-	3-]{+,+} [---]{+o+} [-F-]ra{+io x de +}t[-u-]{+ó+}ra[-s-]{+x+} [-d-]e{+m+} {+in+}c[-ostel-]{+idênci+}a[-,-] {+ant+}e{+ropo+}ster[-n-]{+i+}o{+r+} {+pod+}e {+forn+}e[-s-]c[-á-pulas	A-]{+er i+}n{+-form+}a[-lg-]{+çõ+}es[-ia-] [-v-]i[-g-]{+mp+}or[-os-]{+t+}a[- -]{+nt+}e{+s.+} {+Ent+}re[-pous-]{+tant+}o[-	4 --]{+,+} [-Ruptur-]a{+s+} {+condiçõ+}es{+ c+}o[-fág-]{+m r+}i{+s+}c[-a-]{+o+} [-p-]{+imediat+}o[-r-] [-c-]{+de m+}o[-n-]{+r+}t[-u-]{+e +}são[-	Avaliação-] [-c-]{+de d+}i[-rúr-]{+a+}g{+nóst+}ic[-a-]
+
+[-A-]{+o+} c{+lín+}i[-a-]{+co, e +}n{+ã+}o{+ +}se [-po-]de{+ve+} {+e+}s{+p+}e{+-+}r[- um sin-]a[-l-]{+r+} [-t-]{+pel+}a{+ +}r{+a+}dio[-, m-]{+gr+}a[-s -]{+fi+}a [-su-]{+par+}a a[-usên-]{+ +}c{+onf+}i{+rm+}a[- n-]{+ç+}ão [-s-]{+d+}i{+a+}gn[-if-]{+óst+}ica[- p-]{+.+}
+{++}
+{+P+}er[-fusão adeq-]{+g+}u{+nt+}a[-da-]{++}
+{+2014 - SUS-SP+}
+{+1+}. [-Na-]{+Dentre+} a[-valiação-]{+s+} c{+ond+}i[-rcul-]{+ções +}a[-tór-]{+ segu+}i[-a-]{+r+}, [-é imp-]{+dec+}or[--ta-]{+re+}nte{+s+} [-a-]{+de+} {+trau+}m[-oni-]{+a +}tor{+ác+}i[-zaçã-]{+c+}o{+,+} {+a qu+}e[-letroc-]{+ se +}a[-rdi-]{+ss+}o[-gráfi-]c{+i+}a [-d-]a [-víti-]ma{+ior+} [-d-]{+l+}e[- -]t[-r-]a[-umat-]{+l+}i[-smo-]{+dade+} [-torác-]i[-co co-]m[- r-]{+ed+}i[-sco-]{+ata+} [-de-]{+é:+}
+{+a)+} contusão [-mio-]c[-á-]{+a+}rd[-i-]{+ía+}ca[-,-]{++}
+{+b)+} [-p-]{+r+}o{+tura traumát+}i[-s-]{+ca+} [-po-]de[-m-] [-oc-]{+a+}or[-rer -]{+t+}a{++}
+{+c) +}r[-ri-]{+o+}t[-mi-]{+ur+}a[-s,-] [-f-]{+t+}r[-e-]{+a+}que[-ntemente ass-]o[-c-]{+brônqu+}i{+c+}a{++}
+d[-a-]{+) contu+}s{+ão+} {+pulmon+}a{+r+}
+{+e)+} [-hi-]p{+neumot+}ó[-xi-]{+r+}a{+x+} {+hip+}e[- ac-]{+rtens+}i[-d-]{+v+}o[-s-]{++}
+{+R+}e[-. O -]{+s+}p{+ost+}a[-c-]{+ no f+}i[-e-]n[-te-]{+al+} [-po-]d[-e-]{+o+} {+c+}ap[-r-]{+ítulo+}
+{++}
+{+3. L+}es{+õ+}e[-ntar-]{+s+} [-At-]{+com r+}i[-v-]{+sco +}i{+me+}d{+i+}a{+to +}de [-Elétrica Sem Pulso (AESP), que acontece e-]m[- cas-]o[-s de -]{+r+}t[-amponam-]e[-ntos-]{++}
+{++}
+{+A+} [-cardíacos,-]{+-+} [-p-]{+P+}neumotórax hipertensivo[-, hipov-]{++}
+{+Oc+}o[-l-]{+rr+}e[-mia-] [-prof-]{+q+}u{+a+}nd{+o há v+}a{+zamento+} {+d+}e [-ruptur-]a{+r+} [-c-]{+p+}ar[-díac-]a[-.-] [-A-]{+o+} [-avali-]{+esp+}aç[-ã-]o [-n-]{+pl+}eur[-ológica e -]a{+l+} [-ex-]po{+r um +}si[-ção -]s[-egu-]{+t+}em[- -]a[-s-] [-con-]d{+e “válv+}u[-t-]{+l+}a[-s-] [-habit-]u[-ais.-]
+[-De-]n[-t-]{+idi+}re[- as med-]{+c+}i[-d-]{+on+}a[-s-]{+l”.+} [-c-]{+Pr+}o[-mpl-]{+gr+}e{+ssiva+}ment[-ar-]e[-s-]{+,+} a{+c+}o[- -]{+nt+}e[-xam-]{+c+}e [-primári-]o[-,-] {+c+}o[- r-]{+l+}a[-i-]{+ps+}o [-x -]d[-e-]{+o+} [-tórax e-]{+pul+}m{+ão,+} [-in-]c[-i-]{+om +}d[-ên-]{+eslo+}c[-ia -]a{+me+}nt[-er-]o[-p-]{+ d+}o{+ media+}st[-er-]i{+n+}o[-r-] p[-ode fornece-]{+a+}r{+a+} [-in-f-]o[-rm-]{+ l+}a[-ções-]{+do+} [-im-]{+o+}po[-rtante-]s[-. Entretan-]to, {+lev+}a[-s co-]nd[-ições c-]o[-m-] [-risco-]{+à+} {+d+}im[-ed-]i[-at-]{+nuiçã+}o d[-e m-]o{+ +}r[-t-]e[- sã-]{+torn+}o [-d-]{+v+}e[- diag-]n[-ó-]{+o-+}s[-tic-]o [-clíni-]{+e à +}co[- -]{+mpr+}e[- n-]{+ss+}ão d[-evem-]{+o+} [-es-]p[-e--]{+ulmão cont+}ra[-r pe-]la[- -]{+te+}ra[-d-]{+l (F+}i[-o-]g{+u+}ra[-fia-] [-para-]{+2+} [-a-]{+-+} [-confirmação-]{+A). O+} [-diagn-]ó[-st-]{+b+}i[-ca.-]
+
+[-3.-]{+to,+} [-L-]{+n+}es[-õ-]{+s+}es c[-om ri-]{+a+}s[-c-]o{+s,+} [-imedi-]a[-t-]{+c+}o[- d-]{+ntec+}e {+justa+}m{+ente pela interrupção d+}o{+ +}r{+e+}t{+orno v+}e[-A-]{+noso+} [---]{+pelos+} [-P-]{+vasos da base.+}
+{++}
+{+Quadro clínico+}
+{+O diagnóstico de p+}neumotórax hipertensivo[-O-]{+ é clíni+}co[-rr-]{+, +}e [-q-]{+se+}u[-ando há-] [-v-]{+tr+}a[-z-]{+t+}amento {+nunca +}de{+ve+} [-a-]{+se+}r p[-a-]{+oste+}r{+g+}a[- -]{+d+}o {+à +}esp{+era de confir-m+}aç{+ã+}o [-pleu-]ra{+dio+}l{+ógica. +}
+{++}
+{+O+} p[-or-]{+aciente+} {+q+}u[-m s-]{+e+}i{+xa-+}s[-t-]e[-ma-] de [-“v-]{+dor tor+}á[-lvul-]{+cic+}a [-uni-]{+e de +}d[-ir-]e{+s+}c[-i-]on[-al”. P-]{+fo+}r{+t+}o[-g-]{+ +}res[-s-]{+p+}i[-v-]{+r+}a[-men-]t[-e,-]{+ório.+} [-ac-]{+A+}o[-nt-]{+ +}e[-c-]{+xam+}e {+físic+}o{+,+} [-c-]o[-l-]{+bserv+}a[-p-]{+m-+}s[-o-]{+e+} {+taqui+}d[-o -]{+is+}p{+neia, taq+}u[-lm-]{+i-cardia, hipotens+}ão [-com-]{+e+} d[-e-]{+i+}s[-locam-]{+t+}en[-t-]{+sã+}o d[-o-]{+as+} [-m-]{+v+}e[-d-]ias[-tino-] [-pa-]{+ce+}r{+vic+}a{+is.+} [-o-]{+O+} [-l-]{+ex+}a[-do-]{+me+} {+t+}o[-p-]{+rácico m+}ost[-o,-]{+ra+} [-l-]{+d+}e{+s+}v[-and-]{+i+}o [-à -]d{+a traque+}i[-min-]{+a, a+}u{+sênc+}i[-ção-]{+a+} d[-o-]{+e+} {+mu+}r[-eto-]{+mú+}r[-n-]{+i+}o ve[-no-]s[-o-]{+icu-lar+} e {+timpanismo +}à [-com-]p[-r-]e{+rcu+}ssão do [-pu-]l[-mã-]{+ad+}o [-con-]{+afe+}t[-r-]a[-l-]{+do.+}
+{++}
+{++}
+{+Tr+}at[-er-]a[-l-]{+mento+}
+{+O+} [-(Figu-]{+t+}ra{+tamento+} [-2 - A). O ób-]i{+media+}to[-,-] {+do p+}ne{+umotórax hiperten+}s[-ses-]{+ivo+} c[-as-]o{+n+}s[-,-]{+iste+} {+na tor+}aco{+ce+}nte[-c-]{+s+}e [-ju-]{+descompres+}s{+iva.+}
+{++}
+{+O tra+}tament{+o com toracocentes+}e {+descom+}p{+ressiva é r+}e{+a+}l{+izado com +}a in[-t-]{+s+}er[-rup-]ção d[-o-]{+e+} {+uma agulha calib+}r[-et-]o[-r--]{+sa +}no [-v-]{+2º +}e[-no-]s{+paç+}o [-p-]{+int+}e[-l-]{+r-c+}os{+tal, na linha+} {+hemicla+}v{+icul+}a[-sos-]{+r+} d{+o l+}a{+do+} [-b-]a[-s-]{+f+}e[-.-]{+tado+} {+(+}Figura 2 - [-P-]{+B), o que transforma o p+}neumotórax hipertensivo[-:-] [-(A)-]{+em+} [-ra-]{+s+}i[-o-]{+mples.+} [-x-]{+O+} {+tratam+}e[-vi-]{+nto +}de[-nc-]{+f+}i[-a-]n[-do -]{+itivo consiste em drenagem torácica “em selo d’água” no 5º espaço intercostal, entre a linha axilar anterior e a média (Figura 1).+}
+{+ +}
+{+Figura 2 - Pneumotórax hipertensivo: (A) raio x evidenciando +}transparência de todo o hemitórax direito, com desvio da traqueia e do mediastino para a esquerda{+,+} e (B) local onde deve ser realizada a toracocentese descompressiva[-O diagnóstico-]{++}
+{++}
+{++}
+{++}
+{+B+} [-de-]{+-+} [-p-]{+P+}neumotórax [-hip-]{+ab+}ert[-ensiv-]o[- é-]{++}
+{++}
+{+Quadro+} clínico[-,-]{++}
+{+Por+} {+d+}e{+finição,+} [-s-]{+o pn+}eu[- -]{+mo+}t{+ó+}ra[-t-]{+x +}a[-m-]{+b+}e[-n-]{+r+}to [-nunc-]a[- dev-]{+cont+}e[- s-]{+c+}e[-r-] [-p-]{+n+}os[-terg-]{+ c+}a[-d-]{+s+}o[- à e-]s[-pera-] de [-con-]f[-i-]{+e+}r{+i+}m[-a-çã-]{+ent+}o [-ra-]d[-iológic-]a[-. O-] pa[-ciente queixa-s-]{+r+}e[- -]de [-dor -]torácica [-e de-]{+com+} d{+iâm+}e[-sconfor-]t{+r+}o [-respir-]{+m+}a[-tór-]io[-.-]{+r+} [-A-]{+d+}o [-exam-]{+qu+}e [-físico,-]{+2/3+} {+d+}o[-bs-]{+ diâm+}e{+t+}r[-v-]{+o d+}a[-m-se-] t{+r+}aqu[-idis-pn-]eia[-,-] [-taqu-]{+(F+}i[-ca-]{+gu+}r[-di-]a[-,-] [-hi-]{+3). +}
+{++}
+{+No +}p{+neum+}ot{+órax ab+}e[-nsã-]{+rt+}o [-e-]{+há+} [-dist-]{+m+}en[-sã-]o{+r+} [-das v-]{+r+}e{+s+}i[-a-]s[- -]{+tên+}c[-erv-]i[-c-]a[-is.-] [-O-]{+à+} e[-x-]{+ntr+}a[-m-]{+da d+}e [-to-]{+a+}r[-ácico-] [-m-]{+p+}o[-st-]r[-a-] [-d-]es[-vio-]{+se+} [-da t-]{+o+}r[-aque-]i[-a, ausên-]{+fí+}ci{+o. A entrad+}a de [-mur-mú-]{+a+}r[-i-]{+ n+}o [-v-]es[-icular e tim-]pa[-nism-]{+ç+}o [-à -]p{+l+}e[-rc-]u[-ssão do-]{+ral+} l{+ev+}a[-do-] a[-fetado.-]
+[-O-] [-tr-]{+um col+}a[-t-]{+b+}amento [-ime-]d[-iat-]o [-c-]{+pulmã+}o[-nsiste-] [-na toracocentes-]e [-de-]s{+ó +}c[-ompr-]ess[-iv-]a[-,-] qu[-e é realiz-]a{+n+}d[-a c-]o[-m-] a [-inse-]{+p+}r[-ç-]{+ess+}ão [-d-]{+intrapl+}e[- -]u[-ma -]{+r+}a[-gu-]l[-ha-] [-ca-]{+se equi+}libr[-o-s-]a [-n-]{+c+}o{+m+} [-2º-]{+a+} {+pr+}es[-paç-]{+sã+}o [-in-]{+a+}t[-erc-]{+m+}os[-t-]{+féric+}a[-l,-]{+.+} {+A ve+}n{+til+}a{+ção+} [-l-]{+f+}i[-nh-]{+c+}a [-h-]{+pr+}e[-m-]{+jud+}ic[-l-]a[-vicul-]{+d+}a[-r-]{+,+} [-d-]{+c+}o{+m+} [-lad-]{+c+}o[- af-]{+ns+}e[-tado (Figura 2 - B), o -]que[- tra-]n{+te+}s[-forma o-] {+hi+}p[-neumot-]ó[-ra-]x{+ia e+} hiper[-te-]{+cap+}n[--s-]i[-vo em simples-]{+a+}. O[- t-]{+co+}r[-a-]{+rem, +}tam[-ento-]{+bém,+} d[-ef-]i[-n-]{+m+}i[-t-]{+nu+}i[-v-]{+çã+}o [-c-]{+d+}o[-nsiste em-] [-d-]re[-nagem -]tor[-ácica “em selo d’água” -]no [-5º -]{+v+}e[-spaço i-]n[-terc-]os[-tal,-]{+o+} e[-ntre a-] [-lin-]h[-a ax-]i[-lar an-]{+po+}te[-ri-]{+nsã+}o[-r e a média-]{+.+}
+{++}
+ [-(-]{++}
+Figura [-1).-]
+
+[-B-]{+3+} - Pneumotórax aberto[-Por-] [-d-]e[-finiç-]{+m les+}ão[-,-] [-acontec-]{+d+}e [-n-]{+d+}o{+r+}s{+o:+} [-cas-]o{+b+}s[- de f-]er[-im-]{+var qu+}e[-nto da parede torácica-] [-c-]o[-m-] diâmetro [-m-]{+d+}a[-ior-] [-d-]{+lesã+}o [-q-]{+s+}u[-e-]{+planta+} 2/3 do diâmetro da tra[---]queia [-(-]{++}
+F[-igura-]{+onte:+} [-3)-]{+www+}.[- Dess-]{+tr+}a[- f-]{+uma.+}or[-m-]{+g.+}
+{++}
+{+Clinic+}a[-, há -]men{+te, +}o{+bse+}r{+vam-se+} {+t+}r[-esis-]{+auma+}t[-ê-]{+op+}n[-c-]{+e+}ia [-à entr-]{+(s+}a{+í+}da de ar p{+el+}o[-r-] {+f+}e[-ss-]{+rim+}e{+nto+} {+t+}or[-ifí-]{+á+}ci{+c+}o[-. A-]{+),+} {+d+}e{+sco+}n[-t-]{+fo+}r[-ada-]{+to+} [-d-]{+r+}e[- -]{+spir+}a{+tó+}r[- n-]{+i+}o e{+ +}s[-p-]{+in+}a[-ço-]{+is+} [-pl-]{+d+}e[-ur-]{+ ins-t+}a{+bi+}l{+idade+} [-l-]{+h+}e[-v-]{+modinâmic+}a{+.+} {++}
+{++}
+{+Trat+}a[- u-]m[- c-]{+ent+}o[-l-]{++}
+{+O tr+}a[-b-]{+t+}amento {+inicial +}do p{+ne+}u[-l-]m[-ã-]o[- e s-]{+t+}ó[- cess-]{+r+}a{+x+} [-qu-]a[-ndo a pr-]{+b+}e[-ssã-]{+rt+}o [-int-]r[-apl-]e{+q+}u{+e+}r[-al-] [-se-]{+a+} {+r+}e[-qui-]{+a+}li[-br-]{+z+}a[- c-]{+çã+}o[-m a-] [-pressã-]{+d+}o {+cur+}at[-mosfér-]i[-ca. A -]v{+o d+}e{+ 3 po+}nt[-il-]a[-ção-]{+s.+}
+{++}
+{+O+} [-fi-]c{+h+}a[- prejudic-]{+m+}ad[-a, c-]o[-m-] c[-onseq-]u[-en-]{+ra+}t[-e hipóx-]i[-a-]{+vo+} {+d+}e [-hiperca-]{+3 +}p{+o+}n[-i-]{+t+}a[-.-]{+s é+} [-Oc-]o[-rrem-] t{+rat+}am[-bém-]{+ento+} [-dim-]in[-u-]i[-ção do-]{+cial,+} [-r-]e[-torno-] [-ven-]{+c+}o{+n+}s[-o e h-]i[-po-]{+s+}te[-nsão.-] {+em+} [-Fig-]{+um c+}ura{+tivo+} [-3 - Pne-]{+q+}u[-motó-]{+ad+}ra[-x -]{+ngul+}a[-be-]r[-t-]{+ fixad+}o em [-lesão de-]{+3+} {+la+}do[-rso: ob-]s[-ervar-]{+,+} que [-o diâmetro-]{+passa+} [-d-]a [-lesã-]{+funcionar com+}o [-s-]{+válv+}u[-p-]la{+ unidirecio+}n{+al, permi+}t{+indo +}a [-2/3-]{+saída+} do [-diâmet-]{+a+}r[-o-] d{+ur+}a[- -]{+n+}t[-r-]{+e +}a[-qu-]{+ +}e{+xp+}i{+r+}a[-F-]{+çã+}o[-nt-]{+ +}e[-:-] [-www.tr-]{+col+}a[-um-]{+b+}a[-.-]{+nd+}o[-rg.-]
+
+[-Cli-]{+ +}n[-ic-]a[-mente,-] [-ob-]{+in+}s[-e-]{+pi+}r[-v-]a[-m-se-]{+ção,+} [-trau-]{+i+}m[-ato-]p[-n-]e{+-d+}i{+ndo +}a [-(s-]{+entr+}a[-í-]da de ar [-p-]{+no +}e[-l-]{+spaç+}o [-f-]{+pl+}e{+u+}r[-i-]{+al. U+}m{+ +}e[-nt-]{+rr+}o [-t-]{+p+}o{+de+}rá[-cico),-] [-des-]{+a+}con[-for-]t[-o r-]e{+cer +}s[-pi-]{+e o cu+}rat[-ór-]i{+v+}o [-e-]{+for+} [-s-]{+f+}i[-n-]{+x+}a[-is -]d[-e-]{+o+} [-i-]n{+o+}s[--tabi-]{+ 4 +}l[-id-]ad{+os, +}e{+,+} [-h-]{+n+}e[-m-]{+sse cas+}o[-d-]{+, o pa-c+}i{+e+}n[-âm-]{+te evolu+}i{+rá +}c{+om pneumotór+}a{+x hipertensivo+}. [-O-]{+A+} [-t-]{+segui+}r{+, dren+}a{+-se o +}t{+ór+}a[-m-]{+x af+}e[-n-]t{+ad+}o [-i-]n{+o 5º espaço +}i{+nter+}c[-i-]{+ost+}al{+.+} [-requer-]{+Após+} a [-r-]e{+st+}a{+bi+}liza{+-+}ção do {+pa+}c[-h-]{+iente, deve-se re+}a[-m-]{+liz+}a[-d-]{+r +}o [-cu-]{+t+}rat[-iv-]{+ament+}o de[- 3 po-]{+fi+}n{+i+}t[-as-]{+ivo+}, [-que -]co[-nsi-]{+m +}s{+ín+}te[- -]{+s+}e[-m um-] c[-urat-]i[-vo quad-]r[-angula-]{+ú+}r[- f-]{+g+}i[-x-]{+c+}a[-do-] [-em 3 la-]d[-os,-]{+a+} [-qu-]{+l+}e[- pas-]s[-a-]{+ão+} {+n+}a [-funcion-]{+p+}ar{+ede+} [-com-]{+t+}o[- v-]{+r+}á[-lvul-]{+cic+}a{+.+}
+{++}
+{+C+} [-unidi-]{+- Tó+}r{+ax instáv+}e{+l com +}c[-i-]on[-al,-]{+tusão+} p[-e-]{+ulmona+}r{++}
+{+Ta+}m[-iti-]{+bém co+}n{+heci+}do [-a-]{+como+} [-saíd-]{+tór+}a{+x+} {+fláci+}do{+,+} [-a-]{+oco+}r[- du-]r[-ant-]e {+pel+}a [-ex-]p[-i-]{+e+}r{+d+}a[-ção-] [-e-]{+da+} co[-labando -]n[-a -]{+t+}in[-sp-]{+u+}i[-r-]{+d+}a[-ção, impe-]d[-in-]{+e +}d[-o-]{+e+} [-a-]{+um+} {+segm+}ent[-ra-]{+o +}da {+pare+}de [-a-]{+to+}r{+ácica com+} [-n-]o {+r+}es[-p-]{+t+}a[-ç-]{+nte d+}o [-pleu-]{+a+}r{+c+}a[-l. Um-]{+bouço+} {+óss+}e[-rr-]o{+.+} [-pode-]{+Pa+}r[-á-]{+a+} {+t+}a[-co-]nt{+o, é n+}ece[-r -]s[-e o cu-]{+sá+}r[-at-]i[-v-]o [-fo-]{+have+}r f[-ix-]{+ratur+}a{+ +}d[-o-]{+e+} [-nos-]{+2+} [-4-]{+ou+} [-l-]{+m+}a[-do-]{+i+}s[-,-] [-e, nes-]{+co+}s{+t+}e[- c-]{+l+}as[-o,-] [-o-]{+em+} p[-acient-]e{+lo+} {+m+}e[-v-]{+n+}o[-luirá-]{+s+} [-com-]{+2+} p[-neum-]o{+n+}t[-órax-]{+os.+} [-h-]{+A or+}i[-p-]{+g+}e[-rt-]{+m d+}e[-n-]s[-ivo.-]
+[-A -]se[-gu-]{+ t+}i[-r,-]{+po+} d{+e fe+}r{+im+}en[-a-se -]{+t+}o {+é um +}t[-ó-]ra[-x -]{+um+}a[-fe-]t[-ado n-]{+ism+}o [-5º -]{+d+}e[-sp-]{+ alt+}a[-ço-] [-i-]{+e+}n[-t-]er[-cost-]{+gi+}a[-l.-]{+,+} [-Após-]{+que+} {+lev+}a [-est-]a[-bi-]{+ +}l[-izaç-]{+es+}ão [-do d-]{+imp+}o[-e-]{+rta+}nte[-,-] d[-eve-se-]{+o+} [-re-]{+p+}a[-l-]{+rênqu+}i[-z-]{+m+}a[-r-] {+pulm+}o{+nar,+} [-t-]r[-a-]{+esul+}ta[-me-]n[-t-]{+d+}o [-d-]e[-fin-]{+m h+}i[-t-]{+póx+}i{+a gra+}v[-o,-]{+e.+} {+A reper+}c{+ussã+}o{+ +}m{+aior+} [-síntes-]{+d+}e[- -]c[-i-]{+o+}r[-ú-]r[-gica-]{+e+} da [-le-]{+contu+}são {+pulmo+}na{+r+} [-pa-]{+g+}r{+av+}e[-d-]{+ +}e [-t-]{+da d+}or[-ácica.-]
+
+[-C-]{+,+} [---]{+que+} [-Tó-]r[-ax in-]{+e+}st[-áv-]{+ring+}e[-l-] [-com-]{+a+} [-c-]{+m+}o{+vime+}nt[-us-]{+aç+}ão [-pulmona-]r[-Também conh-]e[-c-]{+sp+}i[-do como -]{+ra-+}tór{+i+}a[-x-]{+,+} [-f-]l[-áci-]{+evan+}do[-,-] [-o-]{+a +}co[-rre -]{+m+}p[-e-]l{+ic+}a{+ções+} [-p-]{+r+}e{+spi+}r[-d-]a[- d-]{+tóri+}a{+s+} {+me+}c[-onti-]{+â+}n[-u-]i[-d-]{+c+}a[-d-]{+s +}e de [-um segmen-]t{+r+}o[- d-]{+c+}a{+s+} [-p-]{+gasosas.+}
+{++}
+{+Qu+}a[-re-]d[-e-]{+ro+} [-t-]{+clínic+}o{++}
+{+O quad+}r[-á-]{+o +}c{+lín+}ic[-a-]{+o+} {+típi+}co[-m-] {+d+}o [-res-]t{+ór+}a{+x i+}n{+s+}t{+áv+}e{+l+} [-d-]{+c+}o{+m+} [-ar-]c[-ab-]o{+nt+}u[-ço ós-]s[-e-]{+ã+}o[-.-] [-P-]{+pulmon+}ar[-a tanto,-] é [-nec-]{+d+}e[-ssário-] [-ha-]{+mo+}v{+im+}e[-r-]{+ntos+} [-fra-]t[-u-]{+o+}r[-a de 2 -]{+ácic+}o[-u-]{+s+} [-m-]a{+ssimétr+}i{+co+}s {+e des+}co[-st-]{+ord+}e[-l-]{+n+}a{+do+}s [-e-]{+(+}m[- pel-]o[- -]{+vi+}men{+t+}o[-s 2-] p{+aradoxal).+}
+{++}
+{+Os m+}o{+vime+}ntos[-. A-] {+t+}or{+ác+}i[-gem-]{+cos+} [-de-]{+a+}ss[-e -]{+imé+}t{+r+}i[-p-]{+c+}o{+s+} [-d-]e [-f-]{+d+}e{+scoo+}r{+denados (mov+}imento [-é um t-]{+pa+}ra[-um-]{+doxal) ac+}a{+rre+}t[-is-]{+a+}m[-o-] d{+ificuldad+}e {+respir+}a[-l-]t{+óri+}a e[-n-]{+ d+}e[-rgi-]{+ss+}a[-, q-]{+t+}u[-e-]{+ração.+} [-l-]{+Obs+}e{+r+}va{+-se+} {+crepit+}a{+ção à+} {+pa+}l[-es-]{+paç+}ão [-imp-]{+das c+}o[-r-]{+s+}t{+el+}a[-nt-]{+s, +}e {+a +}do{+r+} [-pa-]{+to+}r[-ênqu-]{+ác+}i[-m-]{+c+}a [-pulmonar,-]{+é+} [-r-]{+int+}e{+n+}s[-ult-]a[-ndo-] [-em hipóx-]{+(F+}i[-a -]g{+u+}ra[-ve-]{+ 4)+}.{++}
+{++}
+ [-A-] {++}
+{+ Figu+}r{+a 4 - R+}e{+s+}p[-e-]{+i+}r[-cuss-]{+aç+}ão [-m-]{+p+}a[-i-]{+radoxal n+}o{+ tó+}r{+ax+} [-d-]{+instáv+}e[-c-]{+l+}
+{++}
+{++}
+{+Tratament+}o{++}
+{+Pa+}r{+a t+}r{+atam+}e{+nto+} d{+o tór+}a{+x instável com+} contusão pulmonar{+,+} [-gr-]{+o p+}a[-v-]{+ci+}e[- -]{+nt+}e d[-a dor, qu-]{+ev+}e re[-string-]{+c+}e{+ber+} [-a m-]o[-v-]{+xigên+}i{+o suple+}menta[-ção-]{+r,+} re[-s-]p{+os+}i[-ra-]{+ção volê+}-[-tór-]{+m+}i{+c+}a[-,-] [-l-]{+ad+}e[-v-]{+qu+}a[-n-]d[-o -]a [-complicaçõ-]e[-s-] [-r-]{+analg+}es[-p-]i[-r-]a{+. +}
+{+ +}
+{+No +}t[-ó-]r[-i-]a[-s -]{+ta+}me[-câ-]n[-icas e de -]t[-r-]o[-c-]{+, +}a[-s-] [-g-]{+ventil+}a[-s-]{+çã+}o[-s-]{+, muit+}as[-.-] {+vezes,+} {+é+} [-F-]i[-g-]{+nadeq+}u[-r-]a{+da,+} [-4 - R-]e[-spi-]{+m +}ra[-ç-]{+z+}ão [-para-]d[-ox-]a[-l-] [-n-]{+d+}o[- tó-]r[-ax instável-]
+
+[-O-] [-q-]{+ca+}u{+s+}ad[-ro clínico-]{+a+} [-tí-]p[-ico é d-]e[- movimento-]{+la+}s [-to-]{+f+}r[-ácicos -]a[-ssimé-]t{+u+}r[-ico-]{+a+}s{+;+} [-e desco-]{+p+}or[-d-]{+ +}e[-nado-]s{+se+} [-(-]mo{+ti+}v{+o, é +}im[-e-]{+-porta+}nt[-o-]{+e+} [-p-]{+um+}a[-r-]{+ +}a[-dox-]{+n+}al[-), o-]{+gesia+} {+ade+}qu{+ada. S+}e {+o p+}ac{+iente +}a[-r-]{+p+}re{+sen+}ta{+r+} [-d-]i{+nsu+}fic[-uld-]{+iênci+}a[-de-] respiratória{+, poderá+} {+s+}e{+r+} [-d-]{+nec+}ess{+ário +}a{+ in+}tu[-r-]{+b+}ação[-.-] [-Obse-]{+orot+}r[-v-]a[--s-]{+qu+}e[- crepit-]a[-ção-]{+l+} [-à-]{+e+} [-p-]a{+ venti+}l[-p-]ação [-das costelas, -]{+m+}e[- a dor torá-]c{+ân+}ica [-é intensa -]([-Figur-]{+Tabel+}a [-4-]{+2+}).[-O p-]{++}
+{++}
+{+T+}a[-cient-]{+b+}e{+la+} [-deve-]{+2+} [-receber-]{+-+} [-oxigên-]{+Cr+}i[-o suplemen-]t[-ar, -]{+é+}r[-epos-]i[-ção v-]o[-lêmica-]{+s+} [-a-]de[-quada e-] [-a-]{+i+}n[-alges-]{+d+}i{+c+}a[-.-]{+ção+} [-A-]{+de+} ventilação[-,-] m[-uitas vez-]e[-s, é i-]{+câ+}n{+ic+}a[-d-]{++}
+{+- Fr+}equ[-ada, em razão da dor -]{+ên+}c[-ausad-]{+i+}a [-p-]{+r+}e[-la-]s[- f-]{+pi+}rat[-u-]{+ó+}r{+i+}a[-s; por-] [-esse-]{+>35+} [-motiv-]o[-, é-]{+u+} {+<8+}i{+rp+}m{+;+}
+{+- +}p[-ortante-]{+CO2+} [-u-]{+>55+}m[-a-]{+mHg;+}
+{+-+} [-anal-]{+pO2 <60mmH+}g[-es-]{+ com F+}i[-a-]{+O2+} [-ad-]{+>50;+}
+{+- R+}e[-quad-]{+l+}a[-.-]{+ção+} [-Se-]{+pO2–FiO2+} [-o-]{+<300;+}
+{+-+} [-doe-]{+Shu+}nt[-e-] [-apres-]{+>0,2.+}
+{++}
+{+D - H+}e[-n-]{+mo+}t[-a-]{+ó+}r{+ax+} [-insufi-]{+ma+}ci[-ênc-]{+ço+}
+{++}
+{+ +}
+{+F+}i{+gur+}a [-res-]{+5 - O+}p[-ir-]a[-tór-]{+c+}i{+d+}a[-,-]{+de+} {+ocu+}p{+and+}o{+ 2/3 +}d{+o h+}e{+mitó+}r[-á-]{+ax+} {+e+}s{+qu+}er{+do,+} [-ne-]c{+om d+}es[-sár-]{+v+}i[-a a-]{+o+} [-intub-]{+d+}a[-ção-] [-oro-]traque[-al e a ventilação mecân-]i[-c-]a [-(T-]{+p+}a[-bel-]{+r+}a [-2).-]{+o+} [-Tabe-]la{+do+} [-2 - Cr-]{+d+}i[-té-]r{+e+}i{+t+}o[-s d-]{++}
+{++}
+{+D+}e[- -]{+f+}in[-dic-]{+e-se hemotórax maciço como o acúmulo de mais de 1.500mL de sangue na cavidade pleural, mais frequentemente causado por ferimentos penetrantes que ocasionam lesão em vasos pulmonares e hilares. Pode haver pneumotórax associa-do.+}
+{+	O diagnóstico do hemotórax maciço é eminentemente clínico, não sendo necessária a confirmação radiológica. Além dos sinais de choque e da insuficiência respiratória, o exame físico revela ausência de murmúrio vesicular do lado afetado. Diferentemente do pneumotórax hipertensivo, há macicez à percussão.+}
+{+	Para tratamento do hemotórax maciço, realiz+}a{+-se reposi+}ção {+volêmica agressiva, com cristaloide e sangue. A cavidade torácica é descomprimida com a drenagem +}de {+tórax. Se estiver disponí+}ve{+l o equipamento +}n{+ecessário, será possível a au+}t{+o-transfusão do sangue asp+}i[-l-]{+r+}a[-çã-]{+d+}o{+.+} [-mecâ-]{+I+}n{+d+}ica-{+se+} [-F-]{+to+}r{+acotomia d+}e[-q-]{+ +}u{+rg+}ência [-r-]e{+m ca+}s[-pi-]{+o de d+}r{+en+}a[-tór-]{+gem imed+}ia{+ta+} >[-3-]{+1.+}5{+00mL de sangue+} ou [-<8irp-]{+>200+}m[-;-]
+[---]{+L/h nas+} [-pCO-]2 [->55mmH-]{+a 4 horas se+}g[-;-]
+[---]{+uintes+} [-pO2-]{+à+} [-<60-]{+drenagem.+}
+{++}
+{++}
+{++}
+{++}
+{+E - Ta+}m{+pona+}m[-Hg-]{+ento+} c{+ardíac+}o[-m-]{++}
+{++}
+ {+ +}
+Fi[-O2-]{+gura 6+} [->50;-]- [-Re-]{+(A) Acúmu+}l[-açã-]o [-pO2–FiO2 <300;-]
+[---]{+de+} [-Sh-]{+sang+}u{+e +}n[-t-]{+o+} [->0-]{+pericárdio+},[-2.-]
+
+[-D-] [---]{+visualizado+} [-H-]{+p+}e[-motór-]{+l+}a[-x-] [-m-]{+ultr+}a[-ciç-]{+sson+}o[- -]
+[-Fi-]g[-u-]ra{+fia,+} [-5-]{+e+} [---]{+(B)+} [-O-]p[-ac-]{+er+}i[-d-]{+c+}a{+r+}d{+iocentes+}e o[-c-]u{+ +}p[-a-]{+u+}n[-d-]{+çã+}o [-2/3 -]d[-o h-]e[-mitó-]{+ Ma+}r{+f+}a[-x-]{+n+} {++}
+{+Font+}e[-sque-]{+: www.t+}r[-d-]{+auma.+}o[-,-]{+rg.+} {++}
+{++}
+{+O+}co[-m d-]{+rr+}e[-svio da-] [-t-]{+po+}r{+ +}a[-q-]{+cúm+}u{+lo d+}e[-ia-] [-par-]{+s+}a{+ngue+} {+n+}o [-l-]{+s+}a[-d-]{+c+}o [-d-]{+per+}i{+cá+}r[-e-]{+d+}i[-t-]{+c+}o[-D-]{+, +}e[-f-]{+strutura +}ine[---]{+lá+}s[-e hemo-]t[-ór-]{+ic+}a[-x-]{+,+} [-m-]{+lev+}a[-ciç-]{+nd+}o {+à +}com{+pressã+}o [-o-]{+cardíaca,+} a{+o +}c[-ú-]{+o+}m[-ul-]{+pr+}o[- de -]m[-a-]{+et+}i[-s-]{+-mento+} d{+o r+}e{+torno+} [-1.500mL-]{+venoso+} [-d-]e [-s-]a[-ng-]{+o choq+}ue [-na -]ca[-v-]{+rdiogên+}i[-dade-]{+co+} [-ple-]{+(Fig+}ura[-l,-]{+ 6 - A). É+} mais frequentemente causado por ferimentos penetran{+-+}tes{+,+} [-que ocasi-]{+p+}o[-na-]{+ré+}m [-lesã-]{+p+}o[- -]{+d+}e[-m-] [-vas-]o[-s pulm-]{+c+}o[-na-]r[-es e hila-]re[-s. Pode have-]r p[-neum-]o{+r +}t[-ó-]ra[-x -]{+um+}a[-s-]{+ contu+}so{+. A +}c{+av+}i{+d+}a[---]d[-o.-]
+[-O-]{+e+} [-di-]{+m+}a[-gnóst-]i{+s +}co[- também é e-]m[-inente-]{+u+}mente [-c-]l[-ínico, não sendo nec-]es[-sári-]a[- -]{+d+}a [-c-]{+é +}o{+ ve+}n[-fi-]{+t+}r[-maçã-]{+ícul+}o [-ra-]di[-ológ-]{+re+}i[-ca. Além-]{+to,+} [-d-]{+p+}o[-s-]{+r+} s[-in-]{+u+}a[-is de-] {+lo+}c[-h-]{+alizaçã+}o[--que e-] [-d-]{+m+}a[- -]i[-n-]s[-uficiência-] [-respir-]a{+n+}t[-ó-]{+e+}ri[-a, -]o[- ex-]{+r.+}
+{++}
+{+Qu+}a[-me-]{+dro+} [-f-]{+cl+}í[-s-]{+n+}ico{++}
+{+A+} {+ap+}re[-v-]{+s+}e[-l-]{+nt+}a{+ção+} [-ausên-]c{+láss+}i{+c+}a d[-e-]{+o+} {+ta+}m[-ur-]{+pona+}m[-úri-]{+ent+}o [-vesi-]c[-ul-]ar[- -]d{+íac+}o [-la-]{+é +}d{+escrita com+}o [-afe-]t{+rí+}ad[-o.-]{+e+} [-Dif-]{+d+}e[-r-]{+ Beck, +}ent{+r+}e[-me-]{+ta+}nt[-e d-]o [-pn-]e[-umo-]{+s+}t[-órax-]{+á+} [-hi-]p[-e-]r[-t-]e[-n-]s[-ivo, há-]{+ente+} {+e+}m{+ +}a[-cic-]{+p+}e[-z-]{+nas+} [-à-]{+30%+} [-percu-]{+do+}s{+ ca+}s[-ã-]o{+s+}.[-Para-] [-t-]{++}
+{+	+}
+{+	Ca+}ra{+c+}t[-am-]e[-nto, -]r[-eal-]iza-se [-re-]po[-sição-]{+r+} [-vo-]{+pu+}l[-êmica-]{+so+} {+p+}a[-g-]r[-essiv-]a[-, c-]{+d+}o[-m crist-]{+x+}al[-oide e-] [-sa-]{+(dimi+}n[-g-]u[-e. A cav-]i{+ção +}da[-d-]{+ pr+}e{+ssão+} {+ar+}t[-o-]{+e+}r[-ác-]i[-c-]a{+l+} [-é de-]s[-compr-]i{+stê+}mi[-da -]c[-om -]a [-drenage-]{+>10m+}m{+Hg+} d[-e tó-]{+u+}ra[-x. S-]{+nt+}e [-e-]{+in+}s[-t-]{+p+}i[-ve-]r{+ação+} [-di-]{+e+}spon[-ív-]{+tân+}e[-l o-]{+a),+} [-equip-]{+abaf+}amento [-necessário, s-]{+d+}e[-rá-] [-possíve-]{+bu+}l[- -]{+h+}a{+s+} {+c+}a[-utot-]r{+díac+}a[-nsfu-]s[-ão-] [-do-]{+e+} {+e+}s{+t+}a[-ngu-]{+s+}e {+jugul+}a[-spi-]r[-a-do.-] [-I-]{+(+}n[-dica-se-]{+ão+} [-t-]o[-ra-]co[-tomia de u-]r[-gência-]{+re+} em caso de [-drenag-]{+hipovol+}em{+ia+} {+s+}i[-med-]{+gnif+}i{+c+}at{+iv+}a[- >1-]{+)+}.[-500mL-]{+ Outros sinais são o+} de {+Kus+}s{+m+}a[-ng-]u[-e-]{+l+} [-o-]{+(a+}u[- >200-]m[-L/h -]{+e+}n[-as 2-]{+to+} {+d+}a [-4 ho-]{+p+}r[-a-]{+e+}s[- -]s{+ão v+}e[-gui-]n[-te-]{+o+}s{+a+} [-à dre-]na[-gem. -]
+
+[-E --] [-T-]{+inspir+}a[-m-]{+ção es+}pon{+tâne+}a[-m-]{+) +}e[-nto-] [-c-]a[-r-]{+ ativi+}d[-í-]a[-co-]
+
+[- -]{+de+} [-Figu-]{+elét+}r{+ic+}a [-6 - (A) Acú-]{+se+}m{+ p+}ul[-o de -]s{+o.+}
+{++}
+{+Di+}a[-n-]g[-ue -]n[-o per-]{+óst+}ic[-árdi-]o[-,-]{++}
+{+Se+} [-visu-]{+for re+}alizad[-o-]{+a+} [-pel-]{+um+}a ultrassonografia [-e-]{+na+} [-(B)-]{+sala+} [-p-]{+de em+}er[-i-]{+gên+}c[-ard-]i[-ocente-]{+a (FAST), +}se[- ou-]{+rá+} p[-unçã-]o[- d-]{+ssív+}e{+l+} [-Marf-]a[-n-]
+[-Fonte: www.tr-]{+v+}a[-um-]{+li+}a[-.org.-]
+
+[-Ocorre po-]r a[-cúmulo-] [-d-]{+pr+}e[- -]s[-a-]{+e+}n[-gu-]{+ça d+}e {+líquido +}no saco peri{+-+}cárdico[-,-] [-estrut-]{+(Fig+}ura [-inelástica,-]{+6 - A). O+} [-l-]e[-v-]{+x+}a[-ndo-]{+me+} [-à-]{+que+} [-c-]{+f+}o[-mp-]r{+n+}e[-ssã-]{+ce +}o [-car-]d[-í-]{+i+}a{+gnósti+}c[-a, a-]o {+de +}c[-omprom-]e{+r+}t[-i-m-]e[-nto-]{+za+} do [-re-]t{+amp+}o[-r-]n[-o v-]{+am+}en{+t+}o[-s-]{+ cardíac+}o [-e-]{+é+} [-a-]o {+e+}c[-h-]o[-que -]cardiog[-ênico (Figu-]ra{+ma,+} [-6 -]{+po+}-[- A). É -]{+ré+}m[-ais-] {+di+}f[-requente-]{+icil+}mente [-cau-]{+e+}s[-a-]{+tá +}d{+isp+}o{+nível+} [-p-]{+n+}o[-r-] [-f-]{+s+}er{+v+}i[-ment-]{+ç+}o[-s-] [-p-]{+d+}e[-n-]{+ em+}e[-t-]r[-a-]{+gê+}n[---]{+cia.+}
+{++}
+{+Tra+}t{+am+}e[-s, p-]{+nt+}o[-ré-]{++}
+{+E+}m [-p-]{+cas+}o{+ +}de [-ocorr-]{+susp+}e[-r-]{+ita+} [-por-]{+clínica de+} t[-r-]a[-u-]m[-a c-]{+p+}on{+amen+}t[-us-]o[-. A-] ca[-vi-]{+r+}d{+í+}a[-d-]{+co, +}e{+stá+} [-ma-]i[-s-]{+ndicada+} {+peri+}c{+ardi+}o[-mum-]{+c+}ente[- l-]{+s+}e{+ na +}sa[-d-]{+l+}a [-é o-]{+de+} [-v-]e[-nt-]{+me+}r[-í-]{+gên+}c[-ulo-]{+ia+} [-d-]{+(F+}i{+gu+}r[-eito,-]{+a+} [-por-]{+6+} [-sua-]{+-+} [-loc-]{+B). +}
+{++}
+{+	P+}a[-liz-]{+r+}a[-ção-] [-m-]a[-is-] [-ant-]{+p+}eri[-or.-]
+[-A -]{+c+}a[-p-]r[-es-]{+dioc+}ent[-açã-]{+ese, +}o {+pa+}c[-láss-]i[-ca é-]{+ente+} de{+ve e+}s[-cri-]ta{+r+} [-co-]mo[- -]{+ni+}t{+o+}r[-í-]{+iz+}ad[-e-]{+o+} [-de-]{+para+} [-B-]{+s+}e[-ck,-]{+r+} [-ent-]re[-t-]a[-nto e-]l{+izad+}a [-está-]{+a+} p[-rese-]{+u+}n[-te-]{+ção+} {+subxifóid+}e[-m-]{+a.+} {+Qu+}a[-pe-]n{+do +}a[-s-] [-30%-]{+agu-lha toca o+} {+epicár+}d{+i+}o[-s-]{+,+} {+o+}c[-as-]o[-s.-]{+rre+} [-C-]ar[-acte-]ri[--z-]{+tmi+}a[--se-] [-p-]o[-r-]{+u+} [-p-]{+a+}u[-ls-]{+ment+}o [-para-]d{+e v+}o[-xa-]l{+tagem+} [-(-]d[-imi-]{+a onda T +}n[-uiçã-]o {+eletrocar+}d{+iogram+}a{+. A+} p[-ress-]{+unç+}ão [-art-]{+s+}er[-ial-]{+á+} {+po+}si[-s-]t[-êm-]i[-c-]{+v+}a [->10mmHg-]{+se+} [-d-]{+ho+}u[-rant-]{+v+}e{+r+} [-in-]{+a+}spiração {+d+}e{+ +}s[-pontâ-]{+a+}n{+gu+}e[-a),-] [-abafame-]n[-t-]{+ã+}o [-de b-]{+coag+}ul[-has c-]a[-r-]d[-íacas e-]{+o+} {+pr+}es{+en+}t[-as-]e [-jugular (-]n[-ã-]o [-o-]{+sa+}co[-rre-] {+p+}e[-m -]{+ri+}c[-aso -]{+ár+}d[-e h-]i[-pov-]{+c+}o[-lemia-]{+,+} s[-ig-]{+e+}n{+do +}i[-f-]{+nd+}ica{+da a toraco+}t{+om+}i[-v-]a[-)-]. O[-utros-] s[-in-]a[-is-]{+ngue+} [-s-]{+n+}ão {+c+}o[- de Kussm-]a{+g+}u{+-+}l[- (-]a[-um-]{+do d+}e[-nt-]{+c+}o{+rre+} da pres[-são v-]en[-os-]{+ç+}a [-na-]{+de+} [-in-]s[-p-]{+ubstânc+}i[-r-]a[-ção e-]s[-po-]{+ a+}nt[-â-]{+icoagula+}n{+t+}e[-a)-]{+s+} [-e-]{+no+} {+s+}a[- AESP.-]
+[-Se f-]{+c+}o[-r-] [-r-]{+p+}e[-al-]{+r+}i[-za-]{+cár+}d[-a-]{+ico. Após+} [-um-]a [-ult-]r[-assonog-]{+eti+}ra[-fi-]{+d+}a [-n-]{+d+}a [-s-]a{+gu+}l{+h+}a{+,+} de[- emergênc-]i{+x+}a[- (FAST), -]{+-+}se[-rá-] [-p-]o[-ssível-] {+c+}a[-valia-]{+tete+}r {+que +}a [-pres-]en[-ç-]{+volvi+}a [-d-]{+(J+}e[- -]l[-íquid-]{+c+}o{+®)+} {+co+}n{+ectad+}o [-s-]a[-co-] [-pe--]{+uma to+}r{+ne+}i[-cá-]r{+a +}d[-ico-]{+e+} [-(F-]{+3 v+}i[-gur-]a{+s+} [-6 --]{+para+} [-A).-]{+eventuais+} [-O-]{+retiradas+} {+d+}e[-x-]{+ s+}a[-m-]{+ngu+}e que [-f-]{+p+}or{+ve+}n{+tura s+}e{+ a+}c{+umul+}e {+n+}o[- di-]{+v+}a[-g-]{+me+}n[-ós-]t[-ico-]{+e,+} [-d-]{+até qu+}e [-c-]{+s+}e{+ +}r[-t-]e[-z-]a{+lize+} [-é-]{+a+} {+t+}o[- e-]{+ra+}co[-cardi-]{+t+}o[-gra-]m{+i+}a[-,-]{+.+} [-porém-]{+É+} [-dific-]i[-l-]m[-e-]{+porta+}nte {+r+}es{+sal+}t[-á-]{+ar+} [-disponí-v-]{+qu+}e[-l-] [-no-]{+a+} [-s-]{+p+}er[-v-]i[-ço -]{+car+}d{+ioc+}e[- -]{+nt+}e[-m-]{+s+}e[-rgência.-]
+[-Em-] [-cas-]{+p+}o[- -]de s[-usp-]e[-i-]{+r +}ta[- clí-]n[-ica, es-]t[-á-]{+o+} {+d+}i{+ag+}n[-d-]{+óst+}ica[-d-]{+ qu+}a{+n-to+} [-p-]{+t+}er{+apêut+}ica[-rdi-]{+, mas nã+}o[-c-]{+ of+}e[-nt-]{+r+}e[-s-]{+c+}e [-na-]{+o+} [-s-]{+tr+}a[-l-]{+t+}a[- d-]{+m+}e{+nto+} {+d+}e[-mergê-]{+fi+}n[-c-]i[-a (F-]{+t+}i[-gura 6 --]{+vo+} [-B).-]{+para+} [-O-]{+o+} {+tam+}p{+on+}a[-ci-]{+m+}ent[-e-]{+o+} {+car+}d[-e-]{+íaco.+}
+{+Por +}ve[- -]{+z+}es{+, o +}ta[-r -]m{+p+}on[-itoriz-]a[-d-]{+ment+}o p[-ara-]{+ode+} ser {+prog+}re[-al-]{+ss+}i[-zada-]{+vo+} [-a-]{+e+} [-pu-]n[-ç-]ão s[-ubxifóid-]e[-a.-] [-Qu-]{+m+}an[-do a agulha -]{+ifes+}t[-oc-]a{+r+} {+n+}o [-ep-]i{+ní+}c[-árd-]io[-,-] {+d+}o[-corre-] {+qu+}a{+d+}r[-ritmia -]o[-u-]{+.+} [-aum-]{+N+}e[-nt-]{+sse cas+}o{+,+} {+po+}de[- vol-]-[-tag-]{+s+}e[-m-] [-d-]{+f+}a{+zer+} o[-n-]{+ +}d{+i-+}a[- T -]{+g+}n[-o ele-]{+ós+}t[-rocard-]i{+co p+}o[-g-]r[-a-]{+ u+}ma[-.-] [-A pu-]{+ja+}n[-ção-]{+ela+} [-s-]{+p+}er{+ic+}á{+rdica+} [-po-]s{+ubx+}i[-t-]{+fó+}i[-v-]{+de+}a{+,+} [-se-]{+com+} [-h-]o[-uver-] [-as-]p[-ir-]a[-çã-]{+ciente s+}o{+b+} [-d-]{+anest+}e[- -]s{+i+}a[-n-]{+ +}g[-u-]e{+ral+} n[-ã-]o c[-oagulado pres-]ent[-e n-]{+r+}o [-sa-]c{+irúrgico, +}o{+u+} p[-e-]{+o+}r{+ v+}i[-cá-]{+a t+}r{+ans+}di{+a-fragmáti+}c[-o-]{+a+}, se[-nd-]{+ +}o {+pac+}i{+e+}n[-d-]{+te for submet+}i[-ca-]d[-a-]{+o+} a [-tor-]{+l+}a[-c-]{+par+}otomia. [-O-]{+A+} s[-angu-]e[- -]n[-ão coagu-]{+sibi+}l[-a-]{+i+}d[-o -]{+a+}de[-corre-] da [-prese-]{+ja+}n[-ç-]{+el+}a {+é +}de [-substânci-]{+100% p+}a[-s-]{+ra o+} {+di+}a{+g+}n{+ós+}tico[-agulantes-] [-no-]{+de+} {+le+}s[-ac-]{+ã+}o [-peri-]c[-á-]{+a+}rd[-i-]{+í-a+}c[-o. Após -]a{+.+} [-ret-]{+Conf+}ir{+m+}ada [-d-]a [-agu-]l[-h-]{+esão cardíac+}a, [-deix-]{+o +}a[--s-]{+c+}e{+sso+} {+p+}o{+de+} [-c-]a{+con+}te[-t-]{+c+}er [-que a-]{+por+} e{+ster+}n[-v-]o[-lv-]{+tom+}ia [-(Jelc-]o[-®)-]{+u+} [-c-]{+t+}o[-ne-]{+ra+}c{+o+}t[-ad-]o[- -]{+mi+}a {+esq+}u[-m-]{+erd+}a{+.+}
+{+O+} [-t-]{+soc+}or[-nei-]r{+ist+}a de{+ve+} [-3-]{+estar+} [-vi-]a[-s-]{+lerta+} para {+f+}e[-v-]{+rim+}ent[-uai-]{+o+}s [-r-]{+pen+}et[-i-]ra[-das d-]{+nt+}e[- -]s{+ n+}a{+ zo+}n[-gue-]{+a+} [-qu-]{+d+}e [-porv-]{+Zi+}e[-nt-]{+dler (Fig+}ura [-se-]{+7 - A),+} a[-cum-]{+ q+}u{+a+}l{+ t+}e{+m+} [-n-]{+c+}o[-va-]m[-ente,-]{+o+} [-a-]{+limi+}t[-é qu-]e s{+up+}e[- -]{+-+}r[-eal-]i[-ze-]{+or o 2º+} {+esp+}a{+ço+} {+in+}t[-o-]{+e+}r[-a-]co{+s+}t[-omi-]a[-. É-]{+l;+} i[-mp-]{+nferi+}or[-t-]{+, o 10º esp+}a{+ço i+}nte[- -]r[-es-]{+co+}s[-al-]ta[-r-]{+l;+} [-qu-]{+m+}e{+dial, a+} {+linh+}a p[-e-]{+a+}r[-ic-]a{+este+}r{+nal +}di[-oc-]{+r+}e[-n-]{+i+}t[-ese-]{+a;+} [-pod-]e [-s-]{+lat+}er{+al,+} [-t-]a[-nto-] [-d-]{+l+}i[-ag-]n[-óst-]{+ha ax+}i[-c-]{+l+}a{+r+} [-qu-]ant{+eri+}o{+r+} [-t-]{+esqu+}er{+d+}a{+. A im+}p[-êu-]{+or+}t[-i-]{+ân+}c{+i+}a[-,-] [-ma-]{+de+}s{+sa+} [-nã-]{+z+}o{+na+} [-oferec-]e[- o tra-]{+s+}t{+á n+}a[-m-]{+ +}e[-nt-]{+pidemiol+}o{+gia+} d[-e-]{+o +}f{+er+}i{+me+}n[-i-]t[-iv-]o [-p-]{+c+}ar{+dí+}a[- -]{+c+}o{+:+} [-tamp-]{+70% d+}o[-na-]{+s feri+}mento{+s+} cardíaco[-.-]
+[-Por veze-]s[-, o-] [-t-]a[-mp-]{+c+}on[-amen-]t[-o pod-]e[- s-]{+c+}e[-r-]{+m+} p[-r-]o[-g-]r{+ f+}e[-ss-]{+r+}i[-vo -]{+m+}e[- -]n[-ã-]{+t+}o[- -]s[-e-] [-m-]{+penetr+}an[-if-]{+t+}es[-t-]{+ ness+}a[-r-] {+zo+}n{+a. Dad+}o i{+gualme+}n[-íc-]{+te +}i{+mp+}o{+rtante+} [-do-]{+é+} qu[-a-]{+e, +}d[-r-]o[-.-]{+s+} [-N-]{+f+}e[-ss-]{+rim+}e[- caso, p-]{+nt+}o[-de--]s[-e-] [-f-]{+d+}a[-zer-] {+z+}o{+na+} d{+e Z+}i[---]{+edler, +}a[-g-]{+pe+}n[-ó-]{+a+}s[-tico por-] [-uma-]{+30%+} [-j-]a[-n-]{+pr+}e[-l-]{+sent+}a{+m+} [-p-]{+f+}eri{+mento +}c[-á-]{+a+}rd{+íaco.+}
+{++}
+{+D+}ica[- subxifó-]{++}
+{+Ind+}i{+ví+}d{+uos qu+}e[-a,-] c[-o-]{+hega+}m {+a+}o p[-aciente s-]{+r+}o[-b a-]n[-es-]t[-esia geral n-]o[- bl-]{+-s+}oco[- ci-]r[-ú-]r[-gic-]o[-,-] {+c+}o[-u-]{+m+} [-po-]{+fe+}r[- v-]i[-a -]{+men+}t[-r-]{+o n+}a{+ zo+}n[-s-]{+a +}d{+e Z+}i[-a-f-]{+edle+}r[-ag-]{+ +}m[-áti-]{+ere+}c[-a, s-]e{+m+} [-o doen-]{+a+}te[- f-]{+nçã+}o[-r-] {+e+}s[-ubm-]{+p+}e[-t-]{+c+}i[-do -]a[- -]l{+. C+}a[-parot-]{+s+}o{+ chegue+}m[-ia.-] [-A-]{+com+} [-s-]e[-n-]s[-i-]{+ta+}bilidade [-da janela é de 100% para -]{+hem+}o[- -]di[-ag-]n[-óst-]{+âm+}ic[-o-]{+a,+} de[- l-]{+v+}e[-s-]{+r+}ão [-ca-]{+se+}r{+ submeti+}d[-ía-c-]{+os +}a[-.-] [-Co-]{+ja+}n[-f-]{+ela per+}i{+cá+}r[-ma-]d{+ic+}a [-a-]{+no+} [-l-]{+c+}e[-sã-]{+ntr+}o c[-a-]{+i+}r[-día-]{+úrgi+}c[-a, -]o{+. Se+} [-a-]c{+hegar+}e{+m in+}s{+távei+}s[-o-] [-p-]{+hem+}o{+-+}d[-e -]{+in+}a{+mi+}c[-o-]{+ame+}nte[-cer por-]{+,+} [-es-]ter[-not-]{+ã+}o[-m-]{+ ind+}i{+c+}a[- -]{+çã+}o[-u-]{+ de+} toracotomia{+,+} {+pr+}e[-squ-]{+f+}er[-d-]{+enci+}a[-.-]
+[-O-]{+lmente+} [-s-]{+n+}o{+ +}c{+entr+}o{+ ci+}r{+ú+}r{+g+}i{+co, ca+}s[-t-]{+o +}a{+s+} {+con+}d[-eve -]{+içõ+}es[-tar-] [-alerta-]{+do+} pa[-ra fer-]{+c+}i[-m-]ent[-os-]{+e a+} pe[-ne-]{+rmi+}t{+irem (Figu+}ra[-n-]{+ 7 - B).+}
+{++}
+{++}
+{+ +}
+{+Figura 7 - (A) Limi+}tes [-n-]{+d+}a zona de Ziedler [-(Figura 7 --]{+e+} [-A-]{+(B+})[-, a-] [-qu-]{+rep+}a[-l-]{+ro+} [-t-]{+d+}e[-m como-] l[-imit-]e[- -]s[-upe-ri-]{+ã+}o[-r-] {+d+}o [-2º -]{+v+}e[-spaço i-]nt[-e-]r{+í+}c[-osta-]{+u+}l[-;-]{+o+} {+d+}i[-nfe-]r{+e+}i{+t+}o[-r, o 10º-] [-es-]p[-aç-]o{+r+} [-in-]t[-e-]{+o+}r{+a+}co[-s-]t[-al; -]{+o+}m[-ed-]ia[-l,-] a{+pós+} [-l-]{+fer+}i{+me+}n[-ha-]{+to+} p[-a-]{+o+}r{+ +}a[-este-]r[-n-]{+m+}a[-l-] [-di-]{+b+}r[-eit-]a[-;-]{+nca+} {++}
+{+Font+}e{+:+} [-la-]{+www.+}t[-e-]ra[-l-]{+uma.org.+}
+{++}
+{+4.+} [-à-]{+Lesões+} [-l-]{+d+}i{+ag+}n[-h-]{+ostic+}a[- -]{+d+}a{+s no e+}x[-il-]a[-r-]{+me+} [-an-t-]{+s+}e{+cundá+}rio[-r-]{++}
+{++}
+{+A -+} {+Pn+}e[-sq-]u[-e-]{+motó+}r[-d-]a[-. A-]{+x+} {+s+}imp[-or-]{+les  +}
+{+Resul+}t[-ânci-]a d[-ess-]a [-zo-]{+e+}n{+trad+}a {+d+}e[-stá-]{+ ar+} n[-a-]{+o+} e{+s+}p[-idemiologi-]a[- d-]{+ç+}o [-f-]{+pl+}e{+u+}r[-im-]{+al, +}ent[-o-]{+re+} [-c-]a{+s pleu+}r[-dí-]a[-co: 70%-]{+s+} [-do-]{+vi+}s{+ceral+} [-f-]e{+ pa+}ri[-m-]e[-n-]t[-os c-]a{+l (Figu+}r[-dí-]a[-cos-] [-ac-]{+8), e p+}o[-n-t-]{+d+}e{+ o+}c{+orr+}e[-m-]{+r+} por [-fe-]{+t+}r[-i-]{+au+}m[-entos-]{+a+} pe{+-+}netrante[-s-] {+ou co+}n[-es-]{+tu+}s[-a z-]o{+ (+}n[-a.-]{+este+} [-Dad-]{+últim+}o{+,+} [-i-]g[-u-]{+er+}almente [-i-]{+e+}m[-po-]{+ +}r[-t-]a[-nte-]{+zão+} [-é-]{+de+} [-qu-]{+vazam+}e[-,-]{+nto+} d{+e ar p+}o[-s-]{+r+} [-f-]{+lac+}er[-i-]{+ação pul+}m[-e-]{+o+}n[-t-]{+ar). Em 90% d+}os {+casos, o ar vem +}d{+o parênquim+}a [-z-]{+pulm+}ona{+r ou+} d[-e-]{+a+} [-Zi-]{+par+}ed[-l-]e{+ to+}r{+ácica+}, [-ap-]en{+qu+}a{+nto o+}s [-3-]{+1+}0% [-ap-]res[-en-]ta{+ntes vê+}m [-f-]{+d+}e[-rim-]{+ l+}e[-nto-]{+sões+} [-car-]d[-í-]{+e esôf+}a[-co.-]
+[-Indivídu-]{+g+}o[-s-]{+,+} {+tra+}que[- cheg-]{+i+}a[-m-] [-ao-]{+e+} [-p-]{+b+}r[-o-]{+ô+}n[-t-]{+qui+}o[---]s[-ocorro com f-]{+.+}
+{+Obs+}er[-im-]{+va-s+}e[-nto-] {+dimi+}n[-a z-]{+uiçã+}o[-na-] d[-e Ziedler-]{+o+} m[-e-]{+u+}r[-ece-]m[- atençã-]{+úri+}o {+v+}es[-pec-]i[-a-]{+cu+}l[-. C-]a[-so-]{+r+} [-cheguem-]{+no+} [-c-]{+lad+}o[-m-] {+af+}e[-s-]ta[-bili-]d[-a-]{+o, poden+}d{+o hav+}e{+r+} h{+ip+}e[-mod-]{+rt+}i[-nâ-]m[-ic-]{+p+}a[-,-]{+nismo+} [-dev-]{+à p+}er{+cuss+}ão{+.+} [-ser-]{+O+} {+diagnó+}s[-ubme-]ti[-d-]{+-c+}o[-s a-] [-jan-]{+pod+}e[-la-] [-p-]{+s+}er{+ fe+}i[-cárdica-]{+to+} [-n-]o{+u+} c[-e-]{+o+}n[-t-]{+fi+}r{+mad+}o c[-irú-]{+om uma +}r[-g-]{+ad+}i[-c-]o[-.-]{+grafia+} [-S-]{+d+}e [-chega-]{+tó+}r{+ax +}em [-instáv-]e{+xp+}i[-s-]{+ração,+} [-h-]{+b+}em[-odina-]{+ +}m[-ic-]a[-m-]{+is s+}en[-t-]{+sív+}e[-,-]{+l+} [-terã-]{+d+}o {+que em +}in[-d-]{+sp+}i[-c-]{+r+}ação{+,+} [-de to-]{+pa+}ra[-cot-]{+ +}o[-mia,-] p[-ref-]{+n+}e{+umotó+}r[-enc-]{+ax.+}
+{++}
+{+ +}
+{+F+}i{+gur+}a[-lmente-] [-no-]{+8+} [-ce-]{+- P+}n{+eumo+}t{+ó+}r[-o-]{+ax+} [-cirúrg-]{+s+}i[-co,-]{+mples:+} [-c-]{+(A) r+}a[-s-]{+i+}o [-as-]{+x+} [-c-]{+m+}o{+stra+}nd[-ições-]{+o+} [-d-]o [-p-]a[-ci-]{+um+}ent[-e-]{+o+} {+d+}a [-permi-]t[-i-]r[-em (Figu-]{+anspa+}r{+ênci+}a{+,+} [-7 - B).-]{+o+} [-Fig-]{+q+}u{+e caracte+}r{+iz+}a [-7 - (A)-]{+a+} [-Limit-]{+pr+}es{+ença+} d{+e +}a{+r+} [-zo-]n[-a-]{+o+} [-d-]e{+spaço+} [-Zi-]{+pl+}e[-d-]{+ura+}l{+ esqu+}er{+do,+} e (B) [-reparo -]de[- le-]s[-ão-]{+taque+} do [-vent-]{+a+}r[-ículo-] [-direit-]{+n+}o {+es+}p{+aç+}o[-r-] [-to-]{+pleu+}ra[-cotomia-]{+l+} [-apó-]{+e+}s[- f-]{+qu+}er[-imento p-]{+d+}o{++}
+{++}
+{+D+}r[- -]{+en+}a[-r-]{+ge+}m[-a-] [-b-]{+pleu+}ra[-nca-]{+l é+} [-F-]o[-nte:-] [-www.-]tra[-um-]{+t+}a[-.-]{+ment+}o[-rg.-]
+
+[-4.-] [-Lesõ-]e[-s-]{+m+} [-diagnos-]t[-ica-]{+o+}d[-a-]{+o+}s [-n-]o{+s+} [-ex-]{+c+}a[-me -]s[-ecundári-]o[-A-]{+s+} [---]{+de+} [-P-]{+p+}neumotórax [-si-]{+trau+}m[-ples -]{+ático+} [-R-]e[-sulta-] d[-a-]{+eve+} {+s+}e[-nt-]r{+ realiz+}ada [-de-]{+no+} [-ar-]{+4º ou+} no {+5º +}es{+-+}paço [-pl-]{+int+}e[-u-]r{+cost+}al[-,-] [-e-]{+a+}nt[-r-]e{+rior+} [-as-]{+à+} [-p-]l[-euras v-]i[-scer-]{+nh+}a[-l e-] [-p-]a[-r-]{+x+}i[-eta-]l{+ar+} [-(F-]{+méd+}i[-gur-]a[- 8)-], [-e -]{+ada+}p[-o-]{+ta+}d[-e oc-]o[-rrer-] [-p-]{+a+}o[-r-] {+sis+}t[-rau-]{+e+}ma [-pe-netrant-]{+d+}e [-ou contuso (ne-]{+“+}s[-t-]e[- ú-]l[-tim-]o[-,-] {+d’á+}g[-er-]{+u+}a[-lmente em-]{+”.+} [-r-]{++}
+{++}
+{+Dic+}a[-zão de-]{++}
+{+O+} [-v-]{+tr+}a[-z-]{+t+}amento [-d-]{+cons+}e[- a-]r[- p-]{+vad+}or{+,+} [-la-]c[-eraçã-]o[- p-]{+m+}u[-l-]m{+ n+}o{+ peque+}n[-ar).-]{+o+} [-E-]{+pneu+}m[- 90% d-]o[-s c-]{+tór+}a{+x e+}s{+pontâne+}o[-s-], [-o-]{+deve+} [-a-]{+se+}r [-v-]e[-m -]{+vita+}do [-parê-]n[-quima-]{+o+} [-p-]{+tra+}u[-l-]m{+átic+}o[-nar-]{+,+} {+send+}o[-u-] {+proibi+}d[-a-]{+o no+} pa[-r-]{+ci+}e[-d-]{+nt+}e [-to-]{+que se+}rá[-c-]{+ submet+}i[-c-]{+do +}a[-,-] {+v+}en[-quan-]t{+ilaçã+}o [-o-]s{+ob+} [-10% -]{+p+}res[-tante-]s{+ão+} {+positi+}v[-êm-]{+a.+} [-d-]{+Aqu+}e[- -]les[-ões-] [-de-]{+com+} {+pn+}e[-sôfag-]{+um+}o[-, -]t{+ó+}ra{+x +}que[-ia e-] [-brô-]n[-quios.-]
+[-Obs-]e[-rva--]{+ces+}s{+it+}e{+m+} d[-imi-]{+e tra+}n[-uiçã-]{+sp+}o{+rte+} [-d-]{+aére+}o {+ta+}m[-ur-]{+bé+}m[-úrio-] {+de+}ve{+m +}s[-icula-]{+e+}r [-no la-]d[-o af-]{+r+}e[-t-]{+n+}ado[-,-]{+s+} p[-od-]{+reviam+}en[-do-]{+te.+}
+{++}
+{+B+} [-hav-]{+- H+}e{+motó+}r{+ax+}
+{++}
+ [-h-]{++}
+{+F+}i[-pe-]{+gu+}r[-timp-]a[-nismo-] [-à-]{+9+} [-p-]{+- H+}e[-rcussã-]{+m+}o[-. O diag-]{+p+}n[-ósti-c-]{+eum+}o{+tórax:+} [-p-]o[-de -]{+b+}ser{+var+} [-feito-]{+a+} o[-u -]{+pa+}c[-onf-]i[-rm-]{+d+}ad[-o-]{+e+} [-c-]{+n+}o[-m-] [-uma-]{+terço+} {+infe+}r[-ad-]io[-g-]r[-afia-] d[-e-]{+o+} {+hemi+}tórax e[-m -]{+squ+}e[-xpi-]r[-açã-]{+d+}o[-,-]{+;+} {+tam+}b[-e-]{+é+}m [-mais-]{+há+} [-s-]{+aum+}en[-sível d-]{+t+}o [-que em-]{+da+} [-i-]{+tra+}nsp[-i-]{+a+}r{+ênci+}a[-ção-], [-pa-]{+suge+}r[-a -]{+ind+}o pneumotórax[-.-] [-F-]{+assoc+}i[-gur-]a{+do+}
+{++}
+{+Ocorre+} [-8 --]{+por+} [-Pn-]{+lac+}e{+ração p+}u{+l+}mo{+nar, rup+}t[-ó-]{+u+}ra[-x-] [-simpl-]{+d+}e[-s:-] [-(A)-]{+um+} [-r-]{+v+}a[-i-]{+s+}o [-x m-]{+interc+}ost[-r-]a[-ndo-]{+l+} o[- a-]u[-mento-] da {+ar+}t{+é+}r{+i+}a[-nsp-]{+ m+}a{+má+}r[-ênc-]ia{+ interna+}, o{+u+} [-q-]{+frat+}u[-e-]{+ra-luxação da+} c{+o-lun+}a[-rac-]{+ +}t[-e-]{+o+}r{+ác+}i[-z-]{+c+}a{+.+} [-a-]{+A+} [-p-]{+maio+}r[-esenç-]{+i+}a d[-e-]{+os+} {+s+}a{+ng+}r[- -]{+ame+}n{+t+}o[- e-]s[-p-]{+ é +}a[-ç-]{+ut+}o[- p-]l[-eur-]{+imit+}a[-l esquer-]d[-o,-]{+a+} e [-(B)-]{+não+} [-d-]{+nec+}es{+si+}ta[-que-] d[-o-]{+e+} {+trat+}a{+mento ci+}r{+úrgico+} [-n-]{+hemostátic+}o esp[-aç-]{+ecífic+}o{+,+} {+a+}p[-l-]e[-ur-]{+n+}a[-l e-]s[-qu-]{+ d+}e[-r-]{+ +}d[-o-]
+
+[-D-]renagem pleural[- é o tratamento-]{+,+} em [-todos-]{+85%+} {+d+}os casos{+.+} [-de-]{+O+} [-pn-]{+h+}e[-u-]motórax [-t-]{+pode se+}r{+ cl+}a[-umát-]{+ssif+}ic{+ad+}o e{+m+} [-d-]{+p+}e[-v-]{+qu+}e{+no+} [-ser-]{+(300+} [-realiz-]a{+ 500mL), mé+}d{+io (500 +}a [-no-]{+1.500mL)+} [-4º-]{+e grande+} ou [-n-]{+maciç+}o [-5º-]{+(acima+} {+d+}e[-s-paço-] {+1.500mL). Cl+}in[-ter-]{+i+}c[-ostal -]a{+me+}nte[-r-]{+, há diminu+}i{+çã+}o[-r-] [-à-]{+do+} [-l-]{+murmúr+}i[-nha-]{+o+} [-ax-]{+ves+}i{+cu+}lar [-mé-]d[-ia,-]{+o+} {+l+}ad{+o +}a[-p-]{+fe+}tado{+,+} [-a-]{+c+}o{+m+} [-s-]{+d+}is[-t-]{+cr+}e[-m-]{+t+}a [-d-]{+macic+}e{+z+} [-“selo-]{+à+} [-d’ág-]{+perc+}u[-a”-]{+ssão+}. O [-tratamento conse-]r[-v-]a[-dor, c-]{+i+}o[-mum-] [-no-]{+x+} [-pequ-]{+d+}e[-no-] [-pneumo-]tórax e[-spontâneo, de-]v{+id+}e[- ser ev-]{+nc+}i[-t-]a[-do-] [-n-]{+hem+}o[- -]t{+ó+}ra[-umático,-]{+x+} [-sendo-]{+a+} p{+a+}r[-oib-]{+t+}i{+r +}d[-o-]{+e+} [-no-]{+200mL+} [-pacient-]{+d+}e [-q-]{+vol+}u{+m+}e{+.+} [-será sub-]{++}
+{++}
+{+Trata+}me{+n+}t[-id-]o{++}
+{+O+} {+tr+}a[- v-]{+tam+}ent[-i-laçã-]o [-s-]{+d+}o[-b-] [-pr-]{+h+}e[-ssã-]{+m+}o{+tórax+} [-p-]{+c+}o{+n+}si{+s+}t[-iv-]{+e n+}a[-.-] [-Do-]{+dr+}en[-t-]{+ag+}e[-s co-]m [-pn-]{+d+}e[-umo-]{+ +}tórax{+,+} que [-necessit-]{+r+}em{+ove+} [-d-]{+o sangu+}e{+,+} {+moni+}t{+o+}r{+iz+}a[-nsp-]{+ +}o[-rte-] {+s+}a[-é-]{+ng+}r{+am+}e{+nt+}o [-também-]{+e+} d[-eve-]{+i+}m{+inui o+} [-se-]r{+isco+} d[-r-]e[-nados-] [-p-]{+fo+}r[-evia-]m{+ação d+}e[-nte.-]
+
+[-B-] [---]{+coágulo.+} H{+av+}e[-motó-]r[-ax-]{+á+} [-F-]i[-gur-]{+ndic+}a{+ção+} [-9 - H-]{+d+}e[-m-]{+ t+}o[-pneum-]{+rac+}ot[-ór-]{+omi+}a[-x:-] [-ob-]se[-r-]{+ hou+}v[-a-]{+er d+}r{+enagem+} {+inici+}a{+l+} [-op-]aci[-d-]{+m+}a{+ +}de [-no-]{+1.500mL+} [-t-]{+d+}e[-rço-] [-i-]{+sa+}n[-f-]{+gu+}e[-rior-] [-d-]o{+u+} [-hemitórax e-]s[-q-]u{+p+}er[-d-]{+i+}o[-;-]{+r+} [-t-]a{+ 200+}m[-bém-]{+L+} [-há-]{+de+} {+s+}a{+ng+}u[-m-]e[-nto-] [-da-]{+por+} [-t-]{+ho+}ra{+ +}n{+a+}s[-p-]{+ 2 +}a{+ 4 ho+}r[-ênci-]a[-,-]{+s+} su[-g-]{+bsequ+}e[-rindo p-]n{+t+}e[-umo-]{+s. +}
+{++}
+{++}
+{++}
+{+O +}t[-ó-]ra[-x -]{+t+}a[-ss-]{+ment+}o{+ +}c[-i-]{+onserv+}ado[-Ocor-]r[-e-] [-p-]{+nã+}o[-r-] [-lace-]{+é +}r[-açã-]{+ec+}o[- pul-]m[-o-]{+e+}n{+d+}a[-r-]{+do+}, [-ru-]p[-tura-]{+ois,+} [-d-]{+s+}e [-um vas-]o [-int-]{+h+}e[-rc-]{+m+}o[-s-]t{+ór+}a[-l-]{+x+} {+nã+}o[-u da-] [-arté-]{+fo+}r[-ia-] [-mamá-]{+d+}r[-i-]{+en+}a{+do+} [-i-]{+precoceme+}nte[-rna-], [-ou fr-]{+h+}a[-tu-]{+ve+}r[-a-luxaçã-]{+á risc+}o d[-a-]{+e+} [-c-]{+ev+}o[---]lu[-na-]{+ir+} [-to-]{+pa+}r[-ácic-]a[-.-] [-A-]{+um+} {+he+}m[-ai-]o{+tó+}r[-i-]a{+x+} [-d-]{+c+}o[-s s-]a[-n-]g[-r-]{+ul+}a[-ment-]{+d+}o[-s-] [-é-]{+e+} a[-u-]t[-oli-]{+é e+}m{+p+}i[-tad-]{+em+}a{+.+}
+{++}
+{+C+} [-e-]{+-+} {+Co+}n{+tus+}ão {+pulmo+}n[-ecessi-]{+ar+}
+{+Tra+}ta{+-se+} d{+a l+}e{+são+} t{+o+}r{+ácic+}a{+ po+}t{+enci+}a{+l+}ment[-o cirúrgico-]{+e+} [-h-]{+l+}e[-mostá-]t{+al ma+}i{+s +}co{+mum (Figura 10),+} espec[-íf-]i[-co, apen-]a[-s de dr-]{+lm+}en[-ag-]{+t+}e[-m-] p[-l-]e[-u-]r{+igos+}a[-l, em 85%-] [-d-]{+n+}os [-ca-]{+ido+}sos[-. O-]{+,+} [-hemotór-]{+cuj+}a[-x-] [-pod-]{+r+}e[- -]ser[- cl-]{+v+}a[-ssi-]{+ +}f[-i-]{+un+}c[-ad-]{+i+}o[- em-]{+nal+} p[-eq-]u[-en-]{+lm+}o[- (300 -]{+n+}a{+r+} [-500mL),-]{+é+} m[-édi-]{+en+}o[- (500 a 1-]{+r+}.[-500mL)-] [-e-]{+A+} [-gra-]{+i+}n[-de o-]{+s+}u[- ma-]{+fi+}ci[-ço-]{+ência+} [-(-]{+respir+}a[-c-]{+tór+}i[-m-]a de[- 1.500mL).-]
+[-Cli-]{+se+}n{+volve-se progress+}i[-c-]{+v+}amente[-,-] [-há-]{+e+} d[-iminuiçã-]{+ec+}o{+rre+} d[-o-]{+e+} {+he+}m[-u-]{+o+}r[-mú-]r{+ag+}i[-o-]{+a+} [-v-]e[-sicul-]{+ edem+}a[-r-] do [-l-]{+parênquim+}a[-do-] {+pulmon+}a[-f-]{+r, l+}e[-t-]{+v+}a{+n+}do[-,-] [-com-]{+a+} [-d-]{+hipóx+}i[-scret-]a{+.+}
+{++}
+ [-mac-]{++}
+{+F+}i[-cez-]{+gura+} [-à-]{+10+} [-percussão.-]{+-+} [-O-]{+(A)+} [-r-]{+R+}aio x de tórax [-eviden-]c[-ia he-]{+o+}m{+ c+}o{+n+}t[-órax a-]{+usão+} p{+ulmon+}ar[-tir-] [-d-]e [-200mL-]{+(B)+} de[- volume. O tratamento consi-]st{+aqu+}e [-n-]{+par+}a [-d-]{+a p+}re{+se+}n{+ç+}a[-gem-] de [-tó-]{+f+}ra[-x, q-]{+t+}u[-e -]r[-emov-]{+a d+}e {+c+}o[- -]s[-angu-]{+t+}e{+la+}, m[-o-n-]{+u+}it[-oriz-]a[- o -]s[-angramento-] {+vez+}e{+s+} [-diminu-]{+assoc+}i{+ada+} {+a+}o[- ri-]s{+ +}c{+as+}o{+s+} de [-f-]{+c+}o[-rmaç-]{+ntus+}ão{++}
+{++}
+{+O+} {+qua+}d[-e-]{+ro+} c[-oágu-]l{+ínic+}o[-.-] [-Hav-]{+é d+}e[-rá-] in[-d-]{+sufic+}i{+ên+}c{+i+}a[-ção-] [-d-]{+r+}e[- to-]{+spi+}ra[-co-]t[-om-]{+ór+}ia{+.+} [-se-]{+O+} [-houve-]r{+aio x+} d[-r-]e[-n-]{+ tór+}a[-gem-]{+x+} inici[---]al [-acima de 1.500mL de sangue ou su-]p[-eri-]o[-r a 200mL -]de s[-angu-]e[- po-]r [-h-]{+n+}or{+m+}a{+l e,+} [-n-]a{+pó+}s 2{+4+} a 4{+8+} horas{+,+} [-subs-]e[-qu-]{+vid+}en[-tes. O-]{+ciar+} [-t-]{+á+}r{+e+}a[-tam-]{+ d+}e[-nto-] con{+tu+}s[-er-vador n-]ão{+,+} [-é recom-]{+s+}end[-ad-]o[-,-] [-p-]{+a Tom+}o{+graf+}i[-s, se-]{+a+} {+C+}o[- he-]m[-o-]{+pu+}t[-ó-]{+ado+}r{+izad+}a[-x-] [-não-]{+(TC)+} [-f-]o[-r-] [-dr-]e{+xame i+}n{+dic+}ado p{+a+}r[-ecoce-]{+a +}me[-nte, -]{+l+}h[-ave-]{+o+}r[-á-] [-r-]{+aval+}i[-sc-]{+açã+}o d{+a ár+}e{+a+} {+d+}e[-v-]{+ c+}o[-l-]{+nt+}u[-ir-]{+são+} p[-ara -]u[-m he-]{+l+}mo[-tó-]{+na+}r{+. Um+}a[-x-] co[-agu-]{+mp+}l{+ic+}a[-d-]{+çã+}o {+possív+}e{+l+} [-at-]é {+a pn+}e{+u+}m[-p-]{+on+}i{+a, qu+}e{+ é +}ma[-.-]
+
+[-C-]{+is+} [---]{+frequente+} [-C-]{+em idos+}o{+s e pacie+}nt[-u-]{+e+}s[-ã-]{+ com d+}o{+ença+} pulmonar[-Trata-se da-] [-lesã-]o[- -]{+bs+}t[-o-]r[-á-]{+utiva +}c{+rôn+}ica{+.+}
+{+O+} p[-oten-]{+a+}ci[-alm-]ente [-l-]{+d+}e[-tal-]{+ve ser+} m[-a-]{+on+}i[-s-]{+torizado+} com[-um-] [-(F-]{+ox+}i[-gu-]{+met+}r{+i+}a[- 10)-], [-especi-]{+g+}a[-l-]{+so+}me[-n-]t[-e pe-]ri[-gos-]a [-nos idosos, cuj-]a[- -]r[-es-]{+t+}er[-va func-]i[-on-]al [-pu-]{+e e+}l[-m-]{+etr+}o[-n-]{+c+}ar[- é men-]{+di+}o{+g+}r{+ama+}. [-A-]{+Se a+} insuficiência respiratória [-desenv-]{+f+}o[-lve-se-]{+r+} {+im+}p[-r-]o[-g-]r[-essiv-]{+t+}a[-me-]nte [-e decorre de hemorragi-]{+(p+}a{+O2+} [-e ede-]{+<65+}m[-a do parênqui-]m[-a-]{+Hg,+} [-pulmon-]{+S+}a[-r-]{+tO2 <90%)+}, [-l-]e[-vando -]{+st+}a{+rá+} [-h-]i[-póxia.-]
+
+[- -]
+[-F-]{+nd+}i[-gur-]{+cad+}a [-10 - (A) R-]a{+ vent+}i{+laçã+}o [-x d-]{+m+}e[- tór-]{+cânic+}a[-x-] com [-contu-]{+pres+}são p[-ulm-]o[-n-]{+sitiv+}a[-r e-]{+.+} [-(B)-]{+A+} [-des-]{+u+}t{+iliz+}a[-que-]{+ção+} [-para-]{+de+} [-a-]{+PEEP,+} pres[-ença de-]{+são+} [-fra-]{+posi+}t[-ur-]{+iv+}a d[-e-]{+as+} [-co-]{+via+}s[-t-]{+ aér+}e[-l-]a[-,-]{+s+} {+e+}m[-uitas-] v[-ez-]{+alor+}es {+supra-+}a{+tmo+}s{+férico+}s{+ n+}o[-c-]{+ f+}i{+n+}a{+l +}da {+expir+}a{+çã+}o[-s-]{+, é+} {+benéfi+}ca[-s-]{+, p+}o{+i+}s [-d-]{+aum+}e{+nta+} [-c-]o{+ recru-tame+}nt[-usã-]o[-O-] [-qu-]a[-dr-]{+lve+}o{+lar+} [-c-]{+e me+}l[-ínic-]{+h+}o{+ra+} [-é-]{+a+} {+capacida+}de [-in-]{+re+}s{+id+}u{+al +}f[-iciê-]{+u+}nci{+on+}a{+l,+} [-re-]{+a+}s[-pi-]{+ t+}r{+ocas g+}a[-tóri-]{+sos+}a[-.-]{+s+} [-O-]{+e+} [-r-]a{+ h+}i{+p+}o[- -]x{+emia. É+} {+fun+}d{+am+}e[- -]{+n+}t[-ór-]a[-x-]{+l+} [-inici-]a[-l-] [-p-]{+restriçã+}o{+ +}de {+líquido+}s[-er-] {+i+}n[-o-]{+t+}r[-m-]a[-l -]{+v+}e[-,-]{+nosos+} após [-24 -]a [-48-]{+estabilização+} h{+em+}o[-r-]{+dinâmic+}a[-s,-]{+.+}
+{++}
+{+D -+} {+L+}e[-vi-]{+são +}d[-enci-]a[-r-] ár{+vore traqu+}e{+obrônquica+}
+{+Trat+}a{+-se+} de [-c-]{+um tip+}o{+ i+}n[-t-]{+com+}u{+m de le+}são, [-s-]{+qu+}e[-ndo-] [-a T-]{+c+}o{+stu+}m[-ografi-]a [-Com-]p[-ut-]a{+ssar +}d[-o-]{+espe+}r{+ceb+}i[-za-]d[-a (TC)-]{+o+} {+n+}o exame in[-d-]ic{+i+}a[-d-]{+l. As lesões mais frequentes oc+}o{+rrem+} p[-a-]r{+óxim+}a{+s+} [-melhor-]{+à+} {+c+}a[-val-]{+r+}i{+n+}a[-ção-] [-da-]{+no+} [-á-]{+t+}r[-e-]a[- de-]{+uma+} contus[-ã-]o {+(+}p[-ulm-]o[-na-]r[-. Uma-] [-co-]{+exe+}mpl[-icaçã-]o{+,+} [-possí-]{+a a+}v[-e-]{+u+}l{+são+} [-é a-]{+do+} [-p-]{+brô+}n[-e-]{+q+}u[-m-]{+io-f+}on{+te d+}i[-a,-]{+reito).+} [-qu-]{+Acarr+}e{+ta+} [-é-]{+alta+} m{+ort+}a{+l+}i[-s-]{+dade,+} [-fr-]{+g+}e[-qu-]{+ralm+}ente [-em id-]{+n+}o[-s-]{+ l+}o[-s-]{+cal+} [-e-]{+do+} [-p-]aci{+d+}ente{+.+}
+{+O+}s [-c-]{+sinais e sint+}om{+as+} d[-oenç-]a [-pu-]l[-m-]{+esã+}o[-nar-] {+p+}o[-b-]{+dem +}s[-t-]{+e+}r[-utiva-] [-crô-]{+i+}n{+específ+}ic[-a.-]
+[-O-]{+os,+} [-d-]{+c+}o[-e-]{+mo cia+}n[-t-]{+os+}e{+,+} [-dev-]{+h+}e[- -]{+mopti+}se[-r-]{+,+} [-mo-]{+e+}n{+f+}i{+sema subcu+}t{+âne+}o[-r-]{+ e dispne+}i[-z-]a[-do-]{+.+} [-c-]{+P+}o[-m-]{+de+} [-oxim-]{+hav+}e[-t-]r[-ia,-] [-g-]as{+s+}o[-metr-]{+c+}ia{+ção+} a{+ f+}r{+a+}t[-e-]{+u+}r[-i-]a[-l-]{+s+} {+d+}e {+cost+}el{+a +}e{+ es+}t{+e+}r{+n+}o[-cardiograma.-]{+,+} [-S-]e [-a-]{+o+} [-insuficiê-]{+p+}n[-cia r-]e[-spira-]{+umo+}tór[-i-]a{+x+} [-for-]{+é+} [-i-]{+u+}m[-portante-] [-(p-]a[-O2-]{+chado+} [-<65-]{+co+}m{+u+}m[-Hg,-]{+.+} [-Sat-]O[-2 <90%),-] [-esta-]{+p+}r[-á -]in[-di-]c{+ip+}a[-da a-]{+l+} [-v-]{+elem+}ent[-ilaçã-]o [-me-]c[-â-]{+lí+}nic{+o par+}a {+diagnósti+}co[-m-] [-p-]{+é o g+}r{+and+}e[-ssã-]{+ vazament+}o {+de ar a+}p[-o-]{+ó+}s[-i-]{+ drenagem +}t{+orác+}i[-v-]{+c+}a.[- A u-]{++}
+{++}
+{++}
+{+Diagnós+}ti[-l-]{+co+}
+{+O d+}i[-z-]a[-çã-]{+gnóstic+}o de [-PEEP, pr-]{+l+}es[-s-]ão [-positiva -]da[-s vias-] [-aé-]{+á+}r[-eas em -]v[-al-]ore[-s-] [-sup-]{+t+}ra[--atm-]{+que+}o[-sfé-]{+b+}r{+ônqu+}ic[-os-]{+a+} [-no-]{+é+} {+con+}fi[-n-]{+rm+}a[-l -]d[-a-]{+o+} [-ex-]p[-iraçã-]o[-, é-]{+r+} b[-e-]{+ro+}n[-éfi-]c{+oscopi+}a[-,-]{+.+} [-po-]{+Ma+}is [-au-]{+recente+}ment[-a-]{+e, tem+} {+sid+}o [-recr-]ut{+ilizada a tomografi+}a{+ co+}m[-en--]{+pu+}t{+ad+}o[- -]{+riz+}a{+da mu+}l[-v-]{+tislic+}e{+, p+}o[-la-]r {+s+}e{+r+} me[-lh-]{+n+}o[-ra-]{+s+} {+inv+}a[- c-]{+siv+}a{+.+}
+{++}
+{+Em +}paci[-dad-]e[- r-]{+nt+}es{+ com +}i[-d-]{+ns+}u[-al -]f[-un-]{+i+}ci[-o-]{+ê+}n{+ci+}a[-l,-] [-a-]{+re+}s[- -]{+pira+}t{+ó+}r[-oc-]{+i+}a[-s-]{+,+} [-gas-]{+p+}o{+de +}s[-as-]{+er+} {+nec+}e{+ssária+} a [-h-]i[-p-]{+ntubaçã+}o[-x-]{+ s+}e[-m-]{+let+}i{+v+}a[-.-] [-É-]{+do+} [-f-]{+p+}u[-nda-]{+l+}m[-en-]{+ão opos+}t{+o +}a{+o +}l{+ado+} {+d+}a [-r-]{+l+}es[-triç-]ão{+.+} [-de líquidos-]{+A+} int[-r-]{+ub+}a[-venos-]{+çã+}o[-s-] [-a-]p[-ó-]{+ode +}s{+er+} [-a-]{+difícil,+} e[-st-]{+m r+}a[-bili-]z[-aç-]ão {+de +}hem{+at+}o[-dinâ-]m[-ic-]a[-.-]
+
+[-D --]{+s,+} [-L-]{+l+}es[-ã-]{+ões +}o{+rofaríngeas+} {+associa+}da{+s+} [-árv-]o[-r-]{+u l+}e{+são+} traqueobrônquica[-Trata-se de um tipo incomum de-]{+.+} [-l-]{+N+}es[-ão, qu-]{+s+}e{+s+} c{+a-s+}os[-tuma-]{+,+} [-p-]{+indic+}a{+-+}s[-s-]{+e +}a[-r-] [-desp-]{+int+}er[-c-]{+v+}e[-bido -]n{+çã+}o [-exame -]{+c+}i[-n-]{+rúrg+}ic{+a imed+}ia[-l-]{+ta+}.[- -]{++}
+A{+o+}s [-l-]{+paci+}e[-sõ-]{+nt+}es [-ma-]{+estáve+}is{+,+} [-f-]{+o t+}r[-equ-]{+atam+}ent[-es -]o{+ +}c[-o-]{+i+}r{+ú+}r{+gico pod+}e[-m-]{+ ser+} p{+oste+}r[-óxim-]{+g+}a[-s-]{+do+} [-à-]{+até+} [-c-]a[-r-]{+ dim+}in[-a-]{+uição+} [-n-]{+d+}o [-t-]{+p+}r[-auma -]{+o+}c{+ess+}o{+ i+}n{+flama+}t[-us-]{+óri+}o [-(p-]{+l+}o[-r-]{+cal+} e[-xempl-]{+ d+}o[-,-] {+edem+}a{+. Em+} [-avu-]l{+e+}s[-ã-]{+ões men+}o{+res+} do [-brôn-]qu[-io-font-]e {+1/3 do +}di[-r-]{+âm+}e[-i-]t{+r+}o[-).-] [-Acarret-]{+d+}a [-al-]t[-a mo-]r[-t-]a[-l-]{+que+}i[-d-]a[-d-]{+ +}e[-,-] [-g-]e[-ral-]m{+ l+}e[-nt-]{+sõ+}e{+s+} {+brô+}n[-o lo-]{+qui+}ca[-l-]{+s,+} [-d-]{+p+}o[- aci-]de[-nte.-]
+[-O-]{+-+}s{+e+} [-sin-]{+opt+}a[-is-]{+r+} {+p+}e{+lo+} [-si-]{+tratame+}nto[-mas-] [-p-]{+c+}o[-dem -]{+n-+}ser{+vador.+} [-in-]{+L+}es[-p-]{+õ+}e[-cífico-]s[-,-] [-co-]m[-o ci-]a[-n-]{+i+}o[-s-]{+r+}e[-,-]{+s+} [-h-]{+d+}e[-mop-]{+ +}t[-is-]{+raqu+}e{+ia+}, [-enf-]{+car+}i[-sem-]{+n+}a [-su-]{+e +}b[-cutâ-]{+rô+}n[-e-]{+qui+}o[- -]{+-font+}e di[-spn-]{+r+}ei[-a. P-]{+t+}o{+ +}de[- ha-]ver[- as-sociaç-]ão [-a-]{+ser+} [-f-]{+t+}rat[-ur-]{+ad+}as [-de-]{+por+} {+tora+}co[-s-]t[-el-]{+omi+}a{+,+} [-e e-]s[-t-]e[-r-]n{+d+}o[-,-] {+qu+}e [-o pn-]{+l+}e[-u-]{+-sões +}m{+ai+}o[-tó-]r[-ax-]{+es+} [-é-]{+do+} {+q+}u[-m-]{+e 1/3+} [-acha-]do [-comu-]{+diâ+}m[-.-]{+etro+} [-O-]{+da+} [-p-]{+t+}r{+aque+}i[-ncip-]a[-l-] {+g+}e{+ra+}l[-e-]ment{+e sã+}o [-clíni-]{+tratadas +}co{+m+} {+re+}par[-a-]{+o+} [-d-]{+pr+}i[-agnóst-]{+már+}i[-c-]o [-é-]{+(Figura 11).+}
+{++}
+{+ +}
+{+Figura 11 -+} {+Lesã+}o [-g-]{+de t+}ra[-nd-]{+qu+}e{+ia+} v{+isu+}a{+li+}za[-mento -]d[-e ar -]a[-pós-] [-drenagem-]{+à+} tor[-á-]{+a+}c{+otom+}i[-c-]a[-.-] [-O-]{++}
+{+Fonte:+} [-d-]{+www.un+}i[-a-]{+fesp.br.+}
+{++}
+{+Per+}g{+u+}n[-ós-]t[-ico-]{+a+}
+{+2014+} [-é-]{+-+} [-c-]{+SANTA CASA-SP+}
+{+2. Um h+}o[-nfir-]m[-a-]{+em +}d[-o-]{+e+} [-por-]{+26+} [-bro-]{+a+}n[-c-]os[-copia.-] [-M-]{+c+}ai[-s-]{+u+} [-recent-]{+d+}e{+ 3 +}me[-n-]t{+ros d+}e[-,-] {+al+}t[-em-]{+ura+} s[-id-]o{+bre+} u[-tilizada-]{+m+} a[- TC mul-]{+n+}t[-islic-]e[-, -]p[-o-]{+a+}r{+o+} [-s-]e[-r-] [-m-]{+ch+}e[-n-]{+g+}o[-s-]{+u+} [-invasiv-]a[-.-]
+[-Em-]{+o+} p[-acie-]{+ro+}nt[-e-]{+o-socorro com má+}s{+cara de oxi-gênio+} com {+10L/m+}in[-suficiência-]{+.+} [-re-]{+E+}s[-pira-]t[-óri-]a[-,-]{+va+} [-p-]{+ansi+}o[-de -]s{+o +}e[-r-] [-n-]{+g+}e[-c-]{+m+}e[-ssária a i-]nt[-ubação-]{+e,+} [-s-]{+r+}e[-l-]{+f+}e[-t-]{+r+}i[-va -]{+n+}do [-pul-]m[-ão opos-]{+ui+}t[-o -]a[-o-] {+dificu+}l{+d+}ad[-o-]{+e+} [-d-]{+par+}a [-l-]{+r+}es[-ão-]{+pirar+}. A[- intubaçã-]o [-pod-]e[- s-]{+xam+}e[-r-] [-difí-]c[-i-]l{+ínico+}, [-em -]{+ap+}r{+esentav+}a[-zão-] {+pali+}de{+z+} [-h-]{+cutân+}e[-m-]a{+, +}t[-om-]a[-s,-]{+quicardia+} [-l-]e{+ di+}s[-õ-]{+pn+}e[-s-]{+ia.+} [-o-]{+O murmú+}r{+i+}o[-f-]{+ vesicul+}ar[-íng-]{+ +}e[-a-]s{+tava+} a[-ss-]{+b+}o[-c-]{+l+}i[-a-]d[-as -]o[-u-] [-lesã-]{+n+}o {+hemi+}t{+ó+}ra{+x es+}que[-ob-]r[-ô-]{+do, se+}n[-q-]{+do p+}u[-i-]{+n+}c{+ion+}a[-.-]{+do+} [-N-]e[-s-]{+ a +}se[-s-]{+guir+} [-c-]{+dren+}a[--s-]{+d+}o[-s-], [-indi-]c[-a--]{+om +}s{+aída d+}e {+gr+}a[- i-]n[-t-]{+d+}e[-r-]{+ +}v[-ençã-]o{+lume de+} [-cirúrgic-]a{+r e+} imediata[-.-]
+[-A-]{+ melhora d+}o[-s-] {+qua+}d{+r+}o{+. O paci+}ente[-s-] e[-stá-]v{+oluiu com +}e{+nf+}is[-,-]{+ema+} [-o-]{+de+} t[-r-]{+ecido celul+}a{+r subcu+}t{+âneo e borbulh+}amento [-ci-]{+pelo d+}r[-ú-]{+eno de tó+}r[-g-]{+ax. O ra+}i[-c-]o {+x +}p[-o-]{+ós-+}d{+r+}e[- s-]{+nag+}e[-r-]{+m+} {+a+}p[-o-]{+re+}s[-t-]e[-rg-]{+ntav+}a[-do-] {+fr+}at[-é -]{+ur+}a d[-iminuiçã-]o [-d-]{+1º a+}o [-p-]{+4º a+}r{+c+}o{+s +}c[-e-]{+o+}s{+tai+}s[-o-] [-i-]{+à esquerda, p+}n[-fla-]{+eu+}m[-a-]{+o+}tór{+ax de méd+}io [-l-]{+v+}o[-ca-]l{+ume+} e d{+ren+}o [-ed-]{+b+}em{+ posicion+}a{+do+}. [-E-]{+Co+}m [-lesões meno-]re[-s-]{+lação+} [-d-]{+a+}o qu[-e 1/3 -]{+a+}d{+r+}o{+,+} {+po+}d[-iâm-]e[-tr-]{+m+}o{+s+} [-d-]a[- t-]{+fi+}r{+m+}a{+r +}que[-ia-]{+:+} [-e-]{++}
+{+a)+} [-e-]{+co+}m [-lesõe-]{+o diagnó+}s{+tico+} [-brô-]{+i+}n[-qu-]ic{+i+}a[-s,-]{+l+} [-po-]de[--se-] [-o-]p{+neumo+}t[-a-]{+ó+}r{+ax+} {+hi+}pe[-l-]{+rtensivo, +}o tratamento [-con-s-]{+d+}e[-r-]{+finiti+}v[-ad-]o[-r.-] [-L-]{+r+}e[-sõ-]{+qu+}e[-s-]{+r+} [-mai-]o[-re-]{+ u+}s{+o+} de [-t-]{+2 d+}r[-aqu-]e[-ia,-]{+nos+} [-ca-]{+to+}r{+ác+}i[-na-]{+cos+}
+{+b)+} [-e-]{+a+} [-brônq-]{+p+}u[-i-]{+nçã+}o[--f-]{+ d+}o{+ e+}n[-t-]{+fis+}e{+ma+} d[-ir-]{+o t+}e{+c+}i{+do celular subcu+}t{+âne+}o [-d-]e{+m +}v[-e-]{+á+}r[-ã-]{+i+}o[- -]s[-er-] {+pon+}t[-ra-]{+os es+}t{+á indic+}ada[-s-]{++}
+{+c)+} [-por-]{+a+} toracotomia[-,-] [-s-]{+im+}e[-n-]d[-o que-]{+iata+} [-le-sõ-]es{+tá+} [-ma-]i[-ores que 1/3 -]{+n+}d[-o -]{+icada+}
+d{+) a +}i[-âme-]{+n+}t[-r-]{+ubaçã+}o {+en+}d[-a -]{+o+}traque[-ia ger-]al[-m-]{+ +}e[-n-]{+s+}t[-e-]{+á+} [-sã-]{+c+}o[- -]{+n+}tra[-t-]{+indic+}ada{+ apó+}s [-com-]{+a+} {+d+}re[-p-]{+n+}a[-ro-]{+gem de+} p[-ri-]{+neu+}m[-ári-]o[- (Figu-]{+tó+}ra{+x+} [-11).-]
+
+[- -]
+[-F-]{+h+}i[-gu-]{+pe+}r[-a 11 - L-]{+t+}e{+n+}s[-ã-]{+iv+}o [-d-]{++}
+e{+)+} [-tr-]a[-que-]{+ broncoscop+}ia [-vi-]{+e+}s[-ual-]{+tá +}i[-za-]{+n+}d{+ic+}a[- à tor-]{+d+}a[-c-]{++}
+{+Resp+}o{+s+}t{+a n+}o[-m-]{+ f+}i{+n+}a[-F-]{+l d+}o[-nte:-] [-www.unifes-]{+ca+}p[-.br.-]{+ítulo+}
+{++}
+E - Contusão cardíaca{++}
+Pode ocorrer lesão cardíaca no trauma fechado, por contusão da musculatura cardíaca, ruptura de câmara (em geral, apresentam tamponamento cardíaco) ou laceração de válvula, em 15 a 20% dos traumatismos de tórax graves, mais frequen-temente em associação à fratura de esterno. A lesão mais habitual é a do ventrículo direito, que se encontra mais próximo ao esterno em posição anterior.{++}
+Ocorrem desconforto torácico e hipotensão. Ao eletrocardiograma, estão presentes extrassístoles ventriculares múltiplas, taquicardia sinusal, fibrilação atrial, bloqueio de ramo (principalmente à direita) e alteração do[-s-] segmento[-s-] ST e onda T. Pode{+m+} ser realizado{+s+} um ecocardiograma para avaliação diagnóstica e dosagem dos níveis de CK-MB. O paciente deve permanecer sob monitorização eletrocardiográfica por, pelo menos, 24 horas, devido ao risco de desenvolvimento de arritmias. Normal-mente não requer nenhum tratamento específico, salvo naqueles que evoluem com problemas de contratilidade cardíaca.{++}
+{++}
+F - Ruptura traumática da aorta{++}
+{++}
+ {++}
+Figura 12 - Alargamento do mediastino por rotura da aorta: observar alargamento do mediastino superior a 6cm, apagamento do botão aórtico com obliteração da janela aortopulmonar, boné apical e desvio do brônquio-fonte esquerdo para baixo{++}
+{++}
+A maioria das vítimas com ruptura da aorta morre no local do trauma. As que chegam ao pronto-socorro apresentam le-sões incompletas, mais comumente próximas ao ligamento arterial (ligamento de Botallo), apresentando hematoma restrito ao mediastino. Se houver hipotensão, provavelmente decorrerá do sangramento de outro local, e não do da aorta, que certa-mente causaria o óbito.{++}
+A cinemática do trauma é importante nesses casos. Geralmente, há história de trauma por desaceleração, como nas que-das de altura, ejeção de veículo ou grandes colisões automobilísticas. A radiografia de tórax, apesar de normal em 1 a 2% dos casos, é importante para o diagnóstico (Figura 12). {++}
+{++}
+Tabela 3 - Sinais radiográficos sugestivos de rotura de aorta torácica{++}
+- Alargamento do mediastino =6cm em pessoas com menos de 60 anos e =8cm em pessoas com mais de 60 anos (sinal mais co{+-+}mum);{++}
+- Boné apical;{++}
+- Apagamento do contorno aórtico;{++}
+- Obliteração da janela aortopulmonar;{++}
+- Rebaixamento do brônquio-fonte esquerdo;{++}
+- Alargamento da linha periespinal;{++}
+- Hemotórax esquerdo;{++}
+- Fratura dos 2 primeiros arcos costais;{++}
+- Fratura da escápula;{++}
+- Desvio da traqueia para a direita;{++}
+- Desvio de sonda nasogástrica para a direita;{++}
+- Alargamento da linha peritraqueal.{++}
+Em caso de alteração radiográfica sugestiva, deve-se repetir a radiografia em posição ortostática (se as condições do paci-ente a permitirem). Se permanecer o alargamento, estará indicada a arteriografia, aind[-a-]{+a o método diagnóstico padrão, que evidencia lesão em apenas 3% dos traumatizados com alargamento do mediastino. +}
+{+Outros exames que auxiliam o diagnóstico são a tomografia de tórax simples ou multislice com contraste (que, isoladamen-te, pode+} {+f+}o{+rnecer+} [-métod-]o diagnóstico [-pa-]d[-rão, qu-]e {+c+}e[-vid-]{+rt+}e{+za), a a+}n[-c-]{+giotomograf+}ia [-l-]e[-são-] [-em-]{+o+} [-ap-]e[-n-]{+coc+}a[-s 3% -]{+r+}d{+i+}o[-s t-]{+g+}ra[-u-]ma{+ +}t[-iz-]{+r+}a[-do-]{+n+}s[- -]{+esofági+}co[-m-]{+.+} [-ala-]{+Po+}r[-ga-]{+ serem +}men[-t-]o{+s+} [-d-]{+invasi-v+}o{+s+} [-m-]e[-d-]{+ ma+}i{+s +}a{+ce+}s[-t-]{+síve+}i[-no.-]{+s,+} [-Outr-]os exames [-qu-]{+tomográficos são b+}e{+m+} {+m+}a[-ux-]i{+s so+}li{+cit+}a[-m -]{+d+}o{+s+} d[-iagnóstic-]o [-são-]{+que+} a {+ar+}t[-om-]{+eri+}ografia[- de-]{+.+}
+{++}
+{+O+} t[-ó-]ra[-x si-]{+ta+}m{+ento +}p[-l-]{+od+}e{+ +}s{+er feito+} {+p+}o[-u-]{+r+} [-mult-]{+c+}i[-sl-]{+rurg+}i{+a +}c{+onv+}e[- -]{+n+}c{+i+}o[-m-]{+nal+} [-c-]o{+u i+}ntra{+va+}s[-te (q-]{+c+}u[-e, iso-]la[-dam-]{+r.+}
+{++}
+{+P+}e{+rgu+}n[---]t[-e,-]{+a+}
+{+2013+} [-pode-]{+-+} [-fornec-]{+SES-SC +}
+{+3. D+}e{+nt+}r{+o+} {+d+}o{+s+} {+acha+}d[-i-]{+os r+}a[-gn-]{+diol+}ó[-st-]{+g+}ico{+s+} d[-e-]{+a+} [-ce-]r{+up+}t[-eza), -]{+ur+}a [-angio-]t[-omog-]ra[-f-]{+umát+}i{+c+}a {+d+}e [-o ecoc-]a[-rdi-]o[-g-]r{+t+}a[-ma-]{+,+} [-tr-]a[-n-]s[-e-]s[-ofág-]i[-co.-]{+nale+} [-Por-]{+a+} [-s-]{+alt+}er[-em me-]n[-os -]{+at+}i[-n-]va[-s-]{+ +}i[--v-]{+nc+}o[-s -]{+rr+}e[- m-]{+t+}a[-is-]{+:+}
+{+a)+} a[-cessív-]{+largam+}e[-is,-]{+nto+} {+d+}o[-s-] [-exa-]me{+dia+}s[- -]t[-omográf-]i[-c-]{+n+}o[-s-]{++}
+{+b)+} [-sã-]o[- -]b{+lit+}e[-m m-]{+r+}a[-is-]{+ção+} [-s-]{+d+}o[-li-]{+ +}c[-it-]{+aj+}ado[-s-]{+ aórtico+}
+{+c)+} d{+esvi+}o {+da tra+}que{+ia+} {+par+}a a{+ di+}r[-t-]e[-r-]i[-ogr-]{+t+}a[-fi-]{++}
+{+d) elev+}a[-.-]{+ção+} [-O-]{+do+} [-t-]{+b+}r[-atame-]{+ô+}n[-t-]{+qui+}o p[-ode-]{+rincipal+} {+e+}s{+qu+}er{+do+}
+{+e)+} [-f-]e[-it-]{+levaçã+}o [-p-]{+d+}o[-r-] [-ci-]{+b+}r{+ônq+}u{+io p+}r[-g-]i{+ncip+}a{+l+} [-conv-]{+dir+}e[-nc-]i{+t+}o[-n-]{++}
+{+Respost+}a[-l-] {+n+}o[-u-] {+f+}in[-trav-]a[-s-]{+l do +}c{+apít+}ul[-ar.-]{+o+}
+{++}
+G - Ruptura traumática do diafragma{++}
+A incidência é semelhante do lado direito (mais grave, normalmente com óbito na cena do acidente) e do esquerdo (mais comum nos serviços de urgência). Nos traumas contusos, em geral, ocorrem rupturas radiais grandes com herniação (Figura 13). As lesões por trauma penetrante acarretam, em sua maioria, perfurações pequenas{+,+} que resultam em hérnias diafragmá-ticas tardias.{++}
+Além da história clínica, o paciente pode apresentar dor torácica e sinais de insuficiência respiratória. Apesar de ser raro, é possível auscultar ruídos hidroaéreos no tórax quando há herniação de vísceras ocas. Alguns sinais radiológicos sugestivos são elevação, irregularidade ou obliteração do diafragma, densidade de partes moles acima do diafragma (“pneumotórax loculado”), desvio do mediastino para o lado oposto e derrame pleural.{++}
+Para aumentar a sensibilidade diagnóstica, é possível passar uma sonda nasogástrica e realizar raio x de tórax para visuali-zá-la na cavidade torácica. Pode-se fazer tal exame com contraste injetado pela sonda. Entretanto, nem mesmo a ressonância magnética pode fornecer o diagnóstico definitivo; somente a toracoscopia ou a laparoscopia o fazem. O tratamento é sempre cirúrgico, com a redução da hérnia e a correção do diafragma com sutura primária nas lesões menores ou utilização de próte-se (tela) nos ferimentos maiores.{++}
+{++}
+ {++}
+Figura 13 - Hérnia diafragmática esquerda: (A) raio x de tórax com nível hidroaéreo no hemitórax esquerdo; (B) intraoperatório com grande abaulamento do diafragma esquerdo; (C) estômago após redução do conteúdo herniado, com grande necrose de grande curvatu-ra e (D) gastrectomia total após a redução e a correção do diafragma{++}
+{++}
+H - Ferimento transfixante de mediastino{++}
+Este ferimento pode causar lesões de coração, grandes vasos, árvore traqueobrônquica ou esôfago. O diagnóstico é feito pela presença de orifício de entrada em um hemitórax e saída no outro, ou presença do projétil ao raio x no hemitórax con-tralateral ao do orifício de entrada. A presença de enfisema do mediastino sugere lesão esofágica ou traqueobrônquica, e hematoma do mediastino ou extrapleural apical sugere lesão traumática de grandes vasos.{++}
+Os pacientes com instabilidade hemodinâmica devem ser encaminhados ao centro cirúrgico, assim como aqueles que preenchem os critérios de toracotomia de emergência. Aos pacientes estáveis, a TC contrastada de tórax ou, preferencial-mente, a angiotomografia[-,-] [-é-]{+são+} o{+s+} exame{+s+} de escolha para a avaliação diagnóstica inicial, associada{+s+} ou não ao ecocardiograma, reservando-se a endoscopia ou o esofagograma e a arteriografia para aqueles com suspeita tomográfica de lesão esofágica ou vascular, respectivamente (Figura 14). {++}
+A mortalidade dessas lesões é de 20%, e 50% dos [-do-]{+paci+}entes são admitidos instáveis. A maioria dos estáveis terá avaliação di[---]agnóstica positiva, que indica uma intervenção cirúrgica. O tratamento dessas lesões ocorre conforme a situação hemodi{+-+}nâ[---]mica do paciente e as estruturas lesadas. {++}
+{++}
+ {++}
+Figura 14 - [-T-]{+Algoritmo de t+}ratamento das lesões transfixantes do mediastino{++}
+{++}
+5. Outras lesões torácicas{++}
+{++}
+A - Enfisema subcutâneo{++}
+Pode ocorrer por lesão de via aérea, laceração pulmonar ou, raramente, explosão (Figura 15). Se o paciente necessitar de ventilação mecânica, será prudente realizar a drenagem de tórax, pelo risco de pneumotórax hipertensivo.{++}
+{++}
+ {++}
+Figura 15 - T[-C-]{+omografia+} de tórax evidenciando enfisema subcutâneo, principalmente à esquerda; há também derrame pleural à esquer{+-+}da{++}
+{++}
+B - Lesões torácicas por esmagamento (asfixia traumática){++}
+O paciente com este tipo de trauma apresentará pletora no tronco, na face e nos membros superiores; além de petéquias secundárias à compressão aguda e transitória da veia cava superior. Podem estar presentes edema maciço e até edema ce-rebral.{++}
+{++}
+C - Ruptura esofágica por contusão{++}
+Trata-se de uma lesão bastante rara que acontece em casos de golpe de forte intensidade no abdome superior, levando à explosão do conteúdo gástrico no esôfago. O diagnóstico é feito por esofagoscopia ou esofagografia. Para tratamento, realiza-se ampla drenagem pleural e mediastinal. A lesão esofágica pode ser suturada; porém, se houver mais de 24 horas da lesão, será indicada derivação por esofagostomia.{++}
+{++}
+D - Fraturas de costela, esterno e escápula{++}
+A presença de lesão associada a essas fraturas é frequente. As de esterno estão associadas a contusões miocárdicas e a traumatismos raquimedulares e cranioencefálicos; as de costelas inferiores associam-se a lesão de órgãos intraperitoneais; as de escápula, a lesões de vias aéreas, grandes vasos ou contusão pulmonar pela alta energia envolvida. {++}
+Tais fraturas causam dor, que restringe os movimentos respiratórios, prejudicando a ventilação, e tosse. Há risco aumen-tado de atelectasias e pneumonia. O tratamento consiste em alívio da dor; com relação às fraturas, é conservador.{++}
+{++}
+6. Toracotomia de reanimação (na sala de emergência){++}
+{++}
+Classicamente, está indicada às vítimas de lesão penetrante, preferencialmente por arma branca, com parada cardíaca presenciada ou que cheguem à sala de emergência em AESP. Não é indicada para traumas contusos ou pacientes que não tenham sinais de vida após 5 minutos de reanimação cardiopulmonar. Os pacientes com maior possibilidade de sobrevida são aqueles com parada decorrente de tamponamento cardíaco, por traumatismo penetrante. {++}
+{++}
+ {++}
+ Figura 16 - Toracotomia de reanimação{++}
+{++}
+{+Dica+}
+Realiza-se uma toracotomia anterior esquerda após intubação traqueal (Figura 16). A toracotomia permite evacuação de tamponamento cardíaco, controle de hemorragias intratorácicas, massagem cardíaca aberta e clampeamento da aorta des-cendente. As taxas de sucesso são baixas em diversas casuísticas.{++}
+{++}
+7. Resumo{++}
+{++}
+Quadro-resumo{++}
+- 	O atendimento ao paciente com trauma de tórax segue as prioridades do ATLS®;{++}
+- 	Apesar da alta mortalidade, cerca de 85% dos casos são tratados apenas com drenagem pleural;{++}
+- 	Pneumotórax hipertensivo, hemotórax maciço, pneumotórax aberto, tórax flácido e tamponamento cardíaco são lesões com risco imediato à vida que devem ser diagnosticadas e tratadas no exame primário.{+ O diagnóstico, nessas situações, é eminentemente clínico.+}
+{++}
+{+Respostas+}
+{+1. E+}
+{+2. E+}
+{+3. D+}
