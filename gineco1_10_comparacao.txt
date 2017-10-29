@@ -1,0 +1,279 @@
+diff --git a/gineco1_10.txt b/gineco1_10.txt
+index 9dfb4bf..a78900b 100644
+--- a/gineco1_10.txt
++++ b/gineco1_10.txt
+@@ -1,5 +1,9 @@
+Infertilidade conjugal
+Flávia Fairbanks Lima de Oliveira Marino[- / -]
+Joji Ueno
+
+{+Resumo+}
+{+A infertilidade conjugal é definida como a ausência de gravidez após 1 ano de relações sexuais bem distribuídas ao longo do ciclo menstrual, sem uso de qualquer método contraceptivo, e atinge cerca de 15% dos casais. Fator feminino isolado cor-responde a 30% dos casos, fator masculino, 30%, cerca de 30% apresentam fator misto, e 10% são causas idiopáticas. Para a investigação masculina, inicia-se a avaliação do espermograma. Para a investigação feminina, dados da anamnese como idade, padrão menstrual, presença de dismenorreia e histórias de infecções genitais anteriores nos remetem a diagnósticos de anovulação ou fator tuboperitoneal. A propedêutica inicial inclui avaliação da reserva ovariana com dosagem do FSH até o 4º dia do ciclo, dosagens de outros hormônios que podem alterar o padrão ovulatório e ultrassonografia no período pré-ovulatório para a visualização do folículo dominante. A histerossalpingografia é o exame que avalia as condições das tubas uterinas, porém é realizado após afastar fator masculino grave e anovulação. A laparoscopia é indicada aos casos de suspeita de fator tuboperitoneal, como endometriose, e não é indicada em todos os casos.+}
+
+1. Introdução
+
+@@ -14,7 +18,7 @@ Idade	Taxa de infertilidade
+45 anos	87%
+50 anos	100%
+
+É importante diferenciar os conceitos de infertilidade (dificuldade em obter gestação espontaneamente após 12 meses de atividade sexual regular – 2 a 4 vezes por semana – e sem uso de métodos contraceptivos naturais e artificiais) e de esterili-dade (incapacidade permanente para a concepção). {+Também é importante não confundir infertilidade com abortamento de repetição. No 1º caso, não ocorre a concepção, e no último a paciente engravida mas a gestação é interrompida. A investiga-ção dessas 2 condições clínicas é completamente diferente. Neste capítulo, discutiremos a infertilidade.+}
+
+2. Classificação
+
+@@ -22,7 +26,7 @@ A - Infertilidade prim
+Nunca houve concepção.
+
+B - Infertilidade secundária
+História prévia de gestação[-;-]{+,+} porém, atualmente, há mais de 12 meses, com tentativas frustradas de nova gestação.
+
+3. Etiologia
+
+@@ -37,7 +41,9 @@ Fatores imunol
+Fatores congênitos: 2%;
+Fatores sexuais: 1%;
+Fatores endócrinos: 0,5%.
+
+[-É i-]{+I+}mportante
+[- ressaltar que, e-]{+E+}mbora a varicocele {+(dilatação varicosa das veias testiculares) +}seja um importante fator etiológico de infertilidade mascu{+-+}lina, apenas 15% dos portadores dessa afecção cursam com infertilidade.{+ +}
+
+B - Causas femininas
+Fator ovulatório: 35%;
+@@ -56,8 +62,10 @@ Para a mulher, os fatores de risco fundamentais s
+
+5. Investigação – propedêutica da infertilidade
+
+Para haver lógica na investigação, deve-se seguir um roteiro propedêutico. Nem todos os exames que serão comentados devem ser solicitados para todos os casais. Se for encontrado o provável fator de [-est-]{+inf+}er{+t+}ilidade durante esse roteiro prope{+-+}dêu[---]tico, podem-se dispensar outros exames após avaliação minuciosa do caso.
+
+{+Diagnóstico+}
+Em todos os casais, a investigação laboratorial deve incluir exames gerais para homem e mulher, como hemograma, tipa[---]gem sanguínea, VDRL, sorologia para rubéola (para a mulher) e sorologia para hepatites B e C e HIV. 
+
+A - Fator masculino
+Para o homem, devem-se solicitar especificamente espermograma com morfologia estrita de Kruger (que considera ape-nas os espermatozoides com cabeça oval) e processamento seminal prognóstico. O material deve ser colhido após 3 a 5 dias de abstinência.
+@@ -69,6 +77,8 @@ Motilidade progressiva*	=32% (5.000.000/mL)
+Morfologia estrita de Kruger	=4%
+* Antigas categorias A e B.
+
+{+Tema de prova+}
+{+É importante memorizar os critérios de Kruger da normalidade do espermocitograma. As provas de Residência Médica cos-tumam solicitar a análise do resultado e o julgamento quanto à sua normalidade ou anormalidade.+}
+
+Tabela 3 - Terminologia e significado da avaliação seminal
+Normozoospermia	Ejaculação normal
+@@ -84,12 +94,11 @@ Astenozoospermia	Motilidade diminu
+Necrozoospermia	Todos os espermatozoides inviáveis
+Criptozoospermia	Poucos espermatozoides, recuperados após centrifugação
+
+
+Diante de um espermograma normal, não há necessidade de repetição. Já um exame anormal deve ser repetido, prefe-rencialmente, com o mínimo de 15 dias e o máximo de 2 a 3 meses de intervalo entre as amostras. Em caso de disparidade entre ambas, uma 3ª pode ser solicitada. Duas análises alteradas indicam encaminhamento para o especialista.
+Para a mulher, dividiremos a investigação conforme os fatores etiológicos.
+
+B - Fator ovulatório
+Não existem exames capazes de predizer a qualidade oocitária, mas sim a reserva ovariana. Na prática, utilizamos as dosa-gens de hormônio folículo-estimulante (FSH) e estradiol basais (na fase folicular precoce, ao redor do 3º dia do ciclo). O FSH é o parâmetro mais sensível. FSH >10 a 15mUI/mL ou estradiol =60 a 80pg/mL indicam diminuição da reserva ovariana. Mais modernamente, a dosagem plasmática do hormônio antimülleriano, que é produzido pelas células da granulosa dos ovários, tem cada vez mais ocupado posição de destaque nessa avaliação. Quanto maiores seus valores, maior a população folicular. Assim, o valor diminui à medida que se aproxima a menopausa. O{+ fator antimülleriano tem se mostrado o principal preditor da reserva folicular ovariana. O+}utra forma eficiente de avaliar o potencial ovariano é a ul[---]trassonografia (USG) transvaginal, que pode ser realizada na fase folicular precoce, para a contagem dos folículos antrais (normal =6 em cada ovário), ou no período periovulatório (do 9º ao 11º dia), para verificar o volume das gônadas, a presença do folículo dominante, a textura do miomé{+-+}trio e a espessura do endométrio. A avaliação da reserva ovariana é importante para determinar a conduta. Se a reserva é baixa, opta-se pela Fertilização In Vitro (FIV) por atingir o resultado mais rapidamen[---]te. Além disso, é importante salientar que mesmo mulheres eumenorreicas e jovens podem ter baixa reserva e atingirem a menopausa mais precocemente. Estas mu{+-+}lheres podem beneficiar-se com a preservação da fertilidade, que hoje é realizada com o congelamento (vitrificação) de óvulos, podendo adiar a maternidade por décadas.
+Na atualidade, a avaliação da fase lútea tem pouca importância clínica, feita pela dosagem de progesterona na fase lútea média (determinada pela USG, geralmente entre o 19º e o 22º dias do ciclo). Valores acima de 10ng/mL são considerados normais. Por ser um exame invasivo, a análise histológica do endométrio não tem sido mais utilizada para avaliar a ovulação; é reservada para casos especiais, como a identificação de processos infecciosos. No futuro, talvez seja solicitada para avaliar marcadores responsáveis pela implantação. A curva de temperatura basal não é um preditor de ovulação confiável e não é mais recomendada.
+
+C - Fator tuboperitoneal
+@@ -105,34 +114,46 @@ Sorologias	Rub
+Dosagens hormonais	Fase folicular precoce	FSH, estradiol, CA-125*
+	Fase lútea média	Progesterona
+	Qualquer fase	TSH, prolactina, AMH**
+USG transvaginal	Avalia{+ção+} {+d+}o fator uterino e a reserva ovariana (contagem de folículos antrais na fase folicular precoce)
+Histerossalpingografia	Avalia{+ção+} {+d+}a cavidade uterina, a permeabilidade tubária e o fator tuboperitoneal
+* CA-125: normal até 35UI/mL – pode estar alterado em portadoras de endometriose ou de outras doenças, como mioma. Assim, sua relevância é pequena na propedêutica da infertilidade.
+** AMH: hormônio antimülleriano – ainda não faz parte da rotina e não é disponibilizado em muitos laboratórios, mas ajuda na deter[---]mi{+-+}nação da conduta.
+
+Obviamente, se na anamnese ou no exame físico tiver sido encontrado algum outro indício mais direcionado a outra alte-ração, deve-se explorá-lo. É o caso da queixa e/ou da visualização de leucorreia persistente (solicitar exame bacterioscópico e cultura de secreção vaginal com pesquisa de Chlamydia endocervical, bem como Mycoplasma e Ureaplasma). História pré-via de infecção pélvica ginecológica ou não (apendicite supurada) ou sintomas muito sugestivos de endometriose devem orientar a realização de VLP. Suspeita de sinéquias (curetagens ou endometrite prévias) indica, por sua vez, HSC.
+
+ 
+Figura 1 - (A) H[-SG-]{+isterossalpingografia+} com fator tuboperitoneal – observar a retenção do contraste e a dilatação tubária {+(provável hidros-salpinge) +}– e (B) com trompas “em arame”, sugestiva de aderência pélvica ou de tuberculose pélvica
+
+ 
+Figura 2 - Investigação de infertilidade
+
+{+Pergunta+}
+{+2011 - UNIRIO+}
+{+1. Um casal jovem procurou atendimento ambulatorial com queixa de esterilidade conjugal, uma vez que vinham tentando engravidar há 18 meses. Informaram que, apesar de relacionamentos anteriores com outros parceiros, com duração supe-rior a 12 meses, jamais tinham conseguido gravidez. Nesse caso, qual seria a investigação inicial?+}
+{+a) espermograma para o marido, e para a esposa pesquisa da ovulação (ultrassonografia seriada), mais níveis séricos de TSH, FSH e PRL+}
+{+b) espermograma com biópsia testicular para o marido, e para a esposa, pesquisa da ovulação (ultrassonografia seriada), histerossalpingografia e laparoscopia+}
+{+c) tratamento iniciado com citrato de clomifeno, uma vez que ocorrem poucos efeitos colaterais e alta taxa de sucesso na esterilidade sem causa aparente+}
+{+d) referência do casal para clínica de reprodução assistida para fertilização in vitro+}
+{+e) nada a fazer, uma vez que só após 3 anos de vida sexual sem contracepção é que fica estabelecida a esterilidade conjugal+}
+{+Resposta no final do capítulo+}
+
+6. Tratamentos
+
+No homem, fatores anatômicos, como varicocele, eventualmente podem ser corrigidos, dependendo do grau de acome-timento, e geralmente interrompem o processo de piora da qualidade seminal, mas podem não melhorar a taxa de gravidez. As infecções podem ser tratadas clinicamente. Es[-t-]{+s+}as e outras condições que determinam oligospermias ou má qualidade de parâmetros seminais devem ser avaliadas por profissional capacitado (andrologista). As azoospermias obstrutivas, como a causada pela vasectomia, podem ser tratadas com a reversão, com a PESA (Percutaneous Epididymal Sperm Aspiration) ou MESA (Microsurgical Epididymal Sperm Aspiration). A reversão possibilita a obtenção de gravidez natural (com coito), mas há necessidade de ausência de causa feminina de infertilidade, exige andrologista treinado em procedimentos microcirúrgicos e instalações adequadas, onerando o procedimento. A PESA é o procedimento mais simples, mas é realizada em locais que contam com bom laboratório de reprodução assistida. Com a MESA, consegue-se mais espermatozoides, até com possibilida-de de congelamento para posterior utilização, mas são poucos os andrologistas com experiência [-com -]{+n+}esta técnica. Outras técni{+-+}cas de obtenção de espermatozoides são mais raramente necessárias: TESE (testicular sperm extraction) e TESA (testicular sperm aspiration).
+Na mulher, existem vários tipos de tratamentos para a mesma paciente, contudo sempre um deles é o mais indicado. Normalmente, inicia-se pelo tratamento menos complexo, quando há esta possibilidade. O melhor tratamento é aquele que corrige a alteração que está comprometendo a fertilidade da maneira mais simples possível. Assim, muitas pacientes são be-neficiadas com o tratamento clínico, como antibióticos ou indutores de ovulação. É claro que o tratamento somente dará resultado se o restante da pesquisa básica for normal. Sempre se deve levar em conta o quadro clínico e o diagnóstico para determinar o melhor tratamento. Nesse contexto, é de extrema relevância a idade da paciente: as mais novas (<30 anos) podem esperar por tratamentos mais prolongados; as mais velhas (>35 anos) têm urgência por um resultado positivo. Moder-namente, a dosagem do AMH pode determinar a mudança da conduta em relação à idade. O AMH baixo em mulher jovem exige conduta que obtenha a gravidez o mais rápido possível ou congelamento de óvulos para preservação da fertilidade. Mulheres com mais de 35 anos e AMH elevado podem esperar um pouco mais para obter a gravidez, mas não se deve esque-cer que o aumento de alterações genéticas nos embriões (aneuploidias) leva a insucesso nos tratamentos de infertilidade (falha de implantação) e abortamentos. 
+O tratamento pode ser clínico, cirúrgico ou por reprodução assistida de baixa e alta complexidade.
+
+A - Tratamento clínico 
+As alterações hormonais geralmente são resolvidas com tratamento clínico e normalmente [-elas -]inexistem se a paciente é eu{+-+}menorreica. Pacientes que não ovulam podem engravidar com a{+ a+}dministração de indutores de ovulação (citrato de clomi[---]fe{+-+}no, letrozol, gonadotrofinas). {+O citrato de clomifeno é o indutor da ovulação mais utilizado. +}É sempre muito importante o controle do ciclo estimulado com ultrassonografia transvaginal e/ou dosagens hormonais. Os demais tratamentos clínicos objetivam adequar outros hormônios (prolactinas e tireoidianos, principalmente) que interferem na fisiologia reprodutiva ou sanar infecções genitais, com antibióticos ou cremes vaginais.
+
+B - Tratamento cirúrgico 
+O objetivo das cirurgias é a recuperação funcional e anatômica de órgãos genitais pélvicos e estruturas próximas. A cirur-gia deve ser feita por profissional capacitado focado em tratamentos de infertilidade devido às particularidades da fisiologia da reprodução. Operar útero, tubas e ovários de mulher infértil requer muito mais cuidado em relação àquelas com prole constituída. Numa 2ª cirurgia a taxa de sucesso é muito pequena. Atualmente, a maior parte das cirurgias pode ser realizada pela endoscopia ginecológica (laparoscopia e histeroscopia).
+Reversão de laqueadura: é realizada por laparotomia e técnica microcirúrgica com taxa de gravidez de até 80 a 90%, por-tanto ainda é a via de acesso preferencial da maioria dos especialistas. A videolaparoscopia robótica pode ser uma alter-nativa, mas não acrescenta sucesso maior do que a laparotomia na reversão da laqueadura e geralmente é mais onerosa, inclusive, em relação à FIV, sendo que esta é o modo de tratamento de escolha de muitos casais quando expostos à rela-ção custo[---]{+–+}benefício entre a reversão de laqueadura e a FIV{+. A reversão da laqueadura tubária também pode aumentar a probabilidade de gestação ectópica+};
+Endometriose: a doença pode causar dor e infertilidade, em decorrência da distorção da anatomia local ou produção de substâncias que dificultam a concepção. Nem sempre a gravidade desta doença está relacionada a infertilidade ou dor. O tratamento cirúrgico consiste na lise de aderências, exérese de endometriomas e eliminação dos focos de forma mais completa possível. A indicação cirúrgica e a radicalidade vão depender da queixa da paciente e dos recursos existentes. Deve haver equipe multidisciplinar para cirurgias radicais para eliminar focos de endometriose profunda, como ressec-ções intestinais. Se a queixa principal é a infertilidade, a equipe de ginecologistas deve ter experiência em restaurar a fertilidade e contar com recursos da reprodução assistida;
+Aderências pélvicas: aglutinação de órgãos localizados na parte baixa do abdome. Podem derivar de infecções que agri-dem localmente as estruturas e, no processo de cicatrização, determinam a distorção da anatomia local. Outras causas de aderência são endometriose e cirurgias anteriores. As aderências podem acarretar o isolamento dos ovários, impedindo o acesso às tubas, deformidades tubárias e até a oclusão tubária completa; com a cirurgia, realizam-se a lise de aderên-cias e a reconstrução pélvica para restaurar a funcionalidade. Porém, é importante salientar que elas podem se refazer em certo número de pacientes, por isso o cirurgião deve atentar para os detalhes para minimizar essa recorrência, que por menor que seja pode impedir a concepção;
+Alterações tubárias: o processo de fertilização geralmente ocorre nas tubas{+,+} e os pré-embriões ficam nelas por 5 a 7 dias após a fertilização. As tubas podem distorcer em virtude de aderências locais, comprometendo sua função. A VLP possi-bilita a retirada da tuba excessivamente danificada ou sua recuperação por meio da plástica. Ela, também, é a via de acesso para a remoção de hidrossalpinge, que pode ser causa de falha de implantação embrionária acarretada por em-briotoxicidade do líquido represado no interior da tuba;
+Mioma uterino: não costumava ser fácil determinar se ele é realmente a causa da infertilidade. Mas, em caso afirmativo, ele deve ser retirado. A laparotomia e miomectomia com cuidados microcirúrgicos podem ser opção mais interessante que a VLP quando houver miomas múltiplos e intramurais, pela maior possibilidade de palpar o útero para identificação dos nódulos. A VLP é indicada quando subserosos ou máximo de 3 miomas intramurais não muito grandes e fácil acesso. Quando faz saliência para cavidade uterina, deve ser retirado, em grande maioria, pela histeroscopia, quando a queixa é infertilidade.
+
+C - Reprodução assistida de baixa complexidade
+As técnicas de baixa complexidade (in vivo) compreendem a indução da ovulação com coito programado e a inseminação intrauterina (IIU), que podem ser empregadas isoladamente, mas que apresentam seu ápice quando associadas. As condições para sua indicação são: cavidade uterina íntegra; pelo menos 1 tuba normal; e sêmen adequado (morfologia estrita de Kruger =4% e concentração de espermatozoides móveis =5.000.000/mL). As principais indicações são fator ovulatório, fator masculi-no leve e endometriose estadios clínicos I e II. A indução da ovulação pode ser realizada com: 
+Citrato de clomifeno: 50 a 200mg/d VO, com início entre o 3º e o 5º dias do ciclo, por 5 dias consecutivos;
+@@ -141,35 +162,35 @@ Gonadotrofina purificada ou recombinante (rec-FSH): 75 a 150UI/d SC, a partir do
+O citrato de clomifeno é um agente não esteroide de estrutura muito semelhante à do estrogênio e atua como modulador seletivo dos receptores de estrogênio. Desta forma, quando está sob ação do clomifeno, o eixo hipotalâmico-hipofisário se torna insensível aos estrogênios endógenos, diminuindo a retroalimentação negativa hipofisária por esse hormônio e aumen-tando, assim, a secreção de FSH e LH (hormônio luteinizante). No útero, tem efeito antiestrogênico, atenuando a ação do estrogênio sobre o muco cervical e o endométrio; pode, algumas vezes, influenciar negativamente a implantação embrioná-ria. São contraindicações: cistos ovarianos, hepatopatias, tumor hipofisário, disfunções adrenais e tireoidianas não controla-das.
+Ressalte-se que, sempre que é utilizada terapêutica medicamentosa para a indução da ovulação, é obrigatória a monitori-zação, iniciada no 8º ou 9º dia do ciclo, com USG transvaginal seriada (em dias alternados no uso de hMG ou rec-FSH) para acompanhamento da evolução, número e grau de desenvolvimento folicular. Quando ao menos 1 folículo atinge o diâmetro médio de 18mm, administra-se gonadotrofina coriônica humana (HCG) para mimetizar o pico de LH e promover a ovulação. Também se recomenda suporte à fase lútea, com progesterona natural micronizada 400 a 800mg/d VO ou IV, em 2 tomadas, cerca de 3 a 5 dias após a ovulação. Havendo gravidez, manter a progesterona até a 12ª semana.
+A IIU consiste na deposição de espermatozoides selecionados dentro da cavidade uterina e deve ser realizada entre 36 e 40 horas após o HCG. O sêmen de doador pode ser usado, por exemplo, nas azoospermias irreversíveis e nas doenças gêni-cas. 
+A taxa de sucesso é de 20 a 30% por ciclo, e a taxa cumulativa, de 60 a 90%. As complicações principais são gravidez múl-tipla[- e-]{+,+} síndrome do hiperestímulo ovariano e infecção pélvica (rara). A gemelaridade chega a 25%. Os melhores resultados são obtidos entre 3 e 4 meses de tratamento, mas podem ser estendidos até 6 meses. Decorrido esse prazo, deve-se reco[---]mendar a mudança do método terapêutico.
+
+D - Reprodução assistida de alta complexidade
+As técnicas de alta complexidade (in vitro) incluem a FIV e a injeção intracitoplasmática de espermatozoide (ICSI). A condi-ção para indicação de FIV é apenas o sêmen adequado: morfologia estrita de Kruger =4% e concentração de espermatozoides móveis =3.000.000/mL. As indicações são fator tuboperitoneal, fator masculino leve e endometriose estadios clínicos I e II. A ICSI é indicada principalmente para fator masculino grave, podendo também ser indicada para endometriose estadios clínicos III e IV. As taxas de sucesso por tentativa de ambas as técnicas dependem da idade materna: <35 anos = 40 a 50%; 35 a 40 anos = 20%; >40 anos = 1%.
+
+ 
+Figura 3 - I[-CSI-]{+njeção intracitoplasmática de espermatozoide+}
+
+
+Na estimulação ovariana controlada, das técnicas de alta complexidade, as doses das medicações costumam ser maiores, a fim de maior recrutamento folicular. Utilizam-se as gonadotrofinas citadas com aplicações diárias e mais recentemente a alfa-corifolitropina (100µg/0,5mL ou 150µg/0,5mL) com aplicação que tem ação por 7 dias, simplificando o processo de estimula-ção ovariana, mas não devendo ser utilizada em pacientes com risco de hiperestimulação ovariana. Devem-se também utilizar medicações para evitar a ovulação e permitir a captação dos óvulos. Podem ser iniciadas na fase lútea do ciclo prévio à indu-ção da ovulação (agonistas do GnRH – ciclo longo) ou durante o próprio ciclo de indução da ovulação, quando ao menos 1 folículo tem diâmetro de 14mm (antagonistas do GnRH – ciclo curto). 
+Após a fertilização, os pré-embriões formados permanecem em cultivo laboratorial por 2 a 5 dias. Quando o pré-embrião atinge o estágio de 6 a 8 células, pode-se proceder à retirada de 1 ou 2 células, sem prejuízo ao seu desenvolvimento, para Diagnóstico Pré-Implantacional (DPI) de aneuploidias cromossômicas (por intermédio da hibridização fluorescente in situ – FISH) e de doenças monogenéticas (por reação em cadeia pela polimerase – PCR). O DPI-FISH está indicado para idade repro-dutiva avançada (>35 anos), antecedente de abortamentos recorrentes, filho anterior com anomalia cromossômica, pais por-tadores de anomalia cromossômica, malformações detectadas, restrição de crescimento intrauterino na gestação anterior, ICSI com sêmen de baixa qualidade e falhas sucessivas de FIV. O DIP-PCR deve ser indicado a casais com condições graves ou portadores de alelo de doenças genéticas e que desejam ter filho sem risco de transmissão da doença.{+ +}
+
+Tabela 5 - Tratamento da infertilidade, segundo a causa
+Fator 
+masculino	Vasectomia prévia	Reanastomose do deferente
+	Varicocele	Cirurgia (não se sabe se o tratamento melhora a fertilidade)
+	Alterações na concentração de esper{+-+}matozoi[---]des	>5.000.000/mL	IIU
+		3 a 5.000.000/mL	FIV
+		<3.000.000/mL	ICSI
+Fator 
+ovulatório	- Tratamento de endocrinopatias subjacentes;
+	- Indução da ovulação, FIV, ICSI.
+Fator tuboperi[---]toneal	Obstrução tubária	1ª opção	Recanalização por laparo{+-+}tomia/VLP
+		2ª opção	FIV, ICSI
+	Aderências pélvicas	1ª opção	Lise por VLP
+		2ª opção	FIV, ICSI
+	Endometriose	1ª opção	Exérese dos focos por VLP
+		2ª opção	FIV, ICSI
+Fator uterino	Pólipos, miomas, sinéquias	Exérese cirúrgica; indução da ovulação, FIV, ICSI
+Infertilidade sem causa aparen{+-+}te	Conduta expectante, indução da ovulação, FIV, ICSI
+
+7. Complicações do tratamento
+
+@@ -178,95 +199,85 @@ Quando houver suspeita do risco de SHO grave, o ciclo de estimula
+
+8. Normas éticas para a utilização das técnicas de reprodução assistida
+
+Em 201[-3-]{+5+}, o Conselho Federal de Medicina (CFM) apresentou nova resolução sobre a reprodução assistida. [-A seguir, reso-lução na íntegra.-]
+
+{+Tema de prova+}
+{+Tendo em vista as importantes normativas éticas, o assunto tem sido tema frequente nas questões de Residência Médica.+}
+
+A {+seguir, resolução na íntegra:+}
+{+A +}Resolução CFM nº 2.[-0-]1[-3-]{+21+}/201[-3-]{+5+} (publicada no Diário Oficial da União de [-09-]{+24+} de {+sete+}m[-ai-]{+br+}o de 201[-3-]{+5+}, Sec¸a~o I, p. 119) adota as normas e´ticas para a utilizac¸a~o das te´cnicas de reproduc¸a~o assistida[-,-] {+– sempre em defes+}a[-n-]{+ do aperf+}e[-x-]{+iço+}a[-s-]{+mento+} {+d+}a[-`-]{+s+} pr{+áticas +}e{+ da ob+}se{+rvâ+}n{+cia aos princípios éticos e bioé+}t{+icos qu+}e {+ajudarão a t+}r{+az+}e[-s-]{+r mai+}o[-l-]{+r seg+}u{+rança e efi+}c[-¸-]{+áci+}a[-~-]{+ a tratament+}o[-,-]{+s e+} {+pro+}c{+edi-ment+}o{+s +}m{+édicos – tornando-se +}o dispositivo deontol[-o´-]{+ó+}gico a ser seguido pelos m[-e´-]{+é+}dicos {+brasileiros +}e revoga{+ndo+} a Resolu[-c¸a~-]{+çã+}o CFM nº [-1-]{+2+}.[-957-]{+013+}/1{+3, publicada no Diário Oficial da União de +}0{+9 de maio de 2013, Seção I, p. 119+}. 
+O CFM, no uso das atribuic¸o~es conferidas pela Lei nº 3.268, de 30 de setembro de 1957, alterada pela Lei nº 11.000, de 15 de dezembro de 2004, regulamentada pelo Decreto nº 44.045, de 19 de julho de 1958, e Decreto nº 6.821, de 14 de abril de 2009[-.-]{+, e+}
+Considerando a i[-mporta^ncia da i-]nfertilidade humana como um problema de sau´de, com implicac¸o~es me´dicas e psicolo´gicas, e a legitimidade do anseio de supera´-la[-.-]{+;+}
+Considerando que o avanc¸o do conhecimento cienti´fico ja´ permite solucionar va´rios casos de problemas de reproduc¸a~o hu-mana[-.-]{+,+}
+Considerando que o pleno do Supremo Tribunal Federal, na sessa~o de julgamento de 05 de maio de 2011, reconheceu e qualificou como entidade familiar a unia~o esta´vel homoafetiva (adi 4.277 e adpf 132)[-.-]{+;+}
+Considerando a necessidade de harmonizar o uso destas te´cnicas com os princi´pios da Ética Me´dica[-.-]{+;+}
+Considerando, finalmente, o decidido na sessa~o plena´ria do C[-onselho -]F[-ederal de -]M[-edicina-] realizada em 16 de [-abri-]{+ju+}l{+ho+} de 201[-3-]{+5+}.
+Resolve:
+Art. 1º: adotar as normas e´ticas para a utilizac¸a~o das te´cnicas de reproduc¸a~o assistida, anexas a` presente resoluc¸a~o, como dispositivo deontolo´gico a ser seguido pelos me´dicos. 
+Art. 2º: revoga[--se-]{+r+} a Resoluc¸a~o CFM nº [-1-]{+2+}.[-957/-]{+0+}1{+3/2+}0{+13+}, publicada no Diário Oficial da União de 0[-6-]{+9+} de [-j-]{+m+}a[-ne-]i[-r-]o de 201[-1-]{+3+}, Sec¸a~o I, p. [-7-]{+11+}9, e demais disposic¸o~es em contra´rio. 
+Art. 3º: esta resoluc¸a~o entra em vigor na data de sua publicac¸a~o. Brasi´lia, 16 de [-abri-]{+ju+}l{+ho+} de 201[-3-]{+5+}. [-Normas e´ticas para a utilizac¸a~o das te´cnicas de reproduc¸a~o assistida -]
+
+{+- Normas e´ticas para a utilizac¸a~o das te´cnicas de reproduc¸a~o assistida +}
+I - Princi´pios gerais
+1 - As te´cnicas de Reproduc¸a~o Assistida (RA) te^m o papel de auxiliar a resoluc¸a~o dos problemas de reproduc¸a~o humana, faci-litando o processo de procriac¸a~o. 
+2 - As te´cnicas de RA podem ser utilizadas desde que exista probabilidade [-efetiva -]de sucesso e na~o se incorra em risco grave de sau´de para {+o(+}a{+)+} paciente ou o possi´vel descendente, {+s+}e{+ndo+} a idade ma´xima das candidatas a` gestac¸a~o de RA [-e´ -]de 50 anos. 
+3 - {+As exceções ao limite de 50 anos para participação do procedimento serão determinadas, com fundamentos técnicos e científicos, pelo médico responsável, e após esclarecimento quanto aos riscos envolvidos.+}
+{+4 - +}O consentimento {+livre e esclarecido +}informado sera´ obrigato´rio para todos os pacientes submetidos a`s te´cnicas de re{+-+}produc¸a~o assistida. Os aspectos me´dicos envolvendo a totalidade das circunsta^ncias da aplicac¸a~o de uma te´cnica de RA sera~o detalhadamente expostos, bem como os resultados obtidos naquela unidade de tratamento com a te´cnica proposta. As infor{+-+}mac¸o~es devem tambe´m atingir dados de cara´ter biolo´gico, juri´dico[-, e´tico-] e e[-cono^m-]{+´t+}ico. O documento de consentimento {+livre e esclarecido +}informado sera´ elaborado em formu[---]la´rio especial e estara´ completo com a concorda^ncia, por escrito, {+obti+}da[-s-]{+ a+} p{+artir d+}e{+ di+}s{+cu+}s[-oa-]{+-+}s{+ão+} {+bilater+}a{+l+} [-s-]e{+nt+}re[-m-] {+a+}s[-ubm-]{+ p+}e[-t-]{+ssoas envolv+}idas {+n+}a[-`-]s t[-e´-]{+é+}cnicas de reprodu[-c¸a~-]{+çã+}o assistida. 
+[-4-]{+5+} - As te´cnicas de RA na~o podem ser aplicadas com a intenc¸a~o de selecionar o sexo (presenc¸a ou ause^ncia de cromossomo Y) ou qualquer outra caracteri´stica biolo´gica do futuro filho, exceto quando se trate de evitar doenc¸as ligadas ao sexo do filho que venha a nascer. 
+[-5-]{+6+} - E´ proibida a fecundac¸a~o de oo´citos humanos[-,-] com qualquer outra finalidade que na~o a procriac¸a~o humana. 
+[-6-]{+7+} - O nu´mero ma´ximo de oo´citos e embrio~es a serem transferidos para a receptora na~o pode ser superior a 4. Quanto ao nu´mero de embrio~es a serem transferidos, são feitas as seguintes recomendac¸o~es{+ de acordo com a idade+}: a) mulheres com ate´ 35 anos: ate´ 2 embrio~es; b) mulheres entre 36 e 39 anos: ate´ 3 embrio~es; c) mulheres entre 40 e 50 anos: ate´ 4 embrio~es; d) nas situac¸o~es de doac¸a~o de o´vulos e embrio~es, considera-se a idade da doadora no momento da coleta dos o´vulos. 
+[-7-]{+8+} - Em caso de gravidez mu´ltipla, decorrente do uso de te´cnicas de RA, e´ proibida a utilizac¸a~o de procedimentos que visem à reduc¸a~o embriona´ria. 
+II - Pacientes das te´cnicas de RA 
+1 - Todas as pessoas capazes, que tenham solicitado o procedimento e cuja indicac¸a~o na~o se afaste dos limites desta reso-luc¸a~o, podem ser receptoras das te´cnicas de RA desde que os participantes estejam de inteiro acordo e devidamente esclare[---]ci{+-+}dos[- sobre a mesma-], [-de a-]co[-rdo c-]{+nf+}o{+r+}m[- a-]{+e+} legislac¸a~o vigente. 
+2 - E´ permitido o uso das te´cnicas de RA para relacionamentos homoafetivos e pessoas solteiras, respeitado o direito da ob-jec¸a~o de conscie^ncia {+por parte +}do me´dico. 
+{+3 - É permitida a gestação compartilhada em união homoafetiva feminina em que não exista infertilidade.+}
+III - Referente a`s cli´nicas, centros ou servic¸os que aplicam te´cnicas de RA 
+As cli´nicas, centros ou servic¸os que aplicam te´cnicas de RA sa~o responsa´veis pelo controle de doenc¸as infectocontagiosas, co-leta, manuseio, conservac¸a~o, distribuic¸a~o, transfere^ncia e descarte de material biolo´gico humano para a paciente de te´cnicas de RA, devendo apresentar como requisitos mi´nimos: 
+1 - Um diretor te´cnico [-responsa´vel por todos os procedimentos me´dicos e laboratoriais executados, que sera´,-]{+–+} obrigatoria[---]mente, um m[-e´-]{+é+}dico registrado no Conselho Regional de Medicina de sua jurisdi{+ção – com registro de espe+}c[-¸-]{+i+}a[-~-]{+lista em áreas de interface c+}o{+m a RA, que será responsável por todos os procedimentos médicos e laboratoriais executados+}. 
+2 - Um registro permanente (obtido por meio de informac¸o~es observadas ou relatadas por fonte competente) das gestac¸o~es, nascimentos e malformac¸o~es de fetos ou rece´m-nascidos, provenientes das diferentes te´cnicas de RA aplicadas na unidade em aprec¸o, bem como dos procedimentos laboratoriais na manipulac¸a~o de gametas e embrio~es. 
+3 - Um registro permanente das provas diagno´sticas a que e´ submetido o[- material biolo´gico humano que sera´ tr-]{+(+}a[-nsferido aos-]{+)+} paciente[-s das te´cnicas de RA-], com a finalidade prec[-i´-]{+í+}pua de evitar a transmiss[-a~-]{+ã+}o de doen[-c¸-]{+ç+}as. 
+4 - Os registros devera~o estar disponi´veis para fiscalizac¸a~o dos Conselhos Regionais de Medicina. 
+
+IV - Doac¸a~o de gametas ou embrio~es 
+1 - A doac¸a~o n[-unca-]{+ão+} [-t-]{+pod+}er[-a´-]{+á+} cara´ter lucrativo ou comercial. 
+2 - Os doadores na~o devem conhecer a identidade dos receptores e vice-versa. 
+3 - A idade limite para a doac¸a~o de gametas e´ de 35 anos para a mulher e 50 anos para o homem. 
+4 - [-O-]{+Será mantido, o+}brigatoriamente[- sera´ mantido-]{+,+} o sigilo sobre a identidade dos doadores de gametas e embrio~es, bem como dos recep{+-+}to[---]res. Em situac¸o~es especiais, [-as -]informac¸o~es sobre doadores, por motivac¸a~o me´dica, podem ser fornecidas exclusivamente para me´dicos, resguardando-se a identidade civil do{+(a)+} doador{+(a)+}. 
+5 - As cli´nicas, centros ou servic¸os [-qu-]{+ond+}e {+é f+}e[-mpreg-]{+it+}a[-m-] a doac¸a~o devem manter, de forma permanente, um registro [-de-]{+com+} dados cli´nicos de cara´ter geral, caracteri´sticas fenoti´picas e uma amostra de material celular dos doadores, de acordo com a legislac¸a~o vigente. 
+6 - Na regia~o de localizac¸a~o da unidade, o registro dos nascimentos evitara´ que um(a) doador(a) tenha produzido mais do que 2 gestac¸o~es de crianc¸as de sexos diferentes[-,-] [-n-]{+em +}uma a´rea de um milha~o de habitantes. 
+7 - A escolha dos doadores e´ de responsabilidade d[-a-]{+o+} [-uni-]{+mé+}d{+ico +}a[-d-]{+ssistent+}e. Dentro do possi´vel, devera´ garantir que o{+(a)+} doa{+-+}dor{+(a)+} tenha a maior semelhanc¸a fenoti´pica e [-imunolo´gica e -]a ma´xima possibilidade de compatibilidade com a receptora. 
+8 - Na~o sera´ permitido ao{+s+} m[-e´-]{+é+}dico[- responsa´vel pelas cli´nica-]s, {+f+}un{+c+}i[-dades -]o[-u se-]{+ná+}r[-v-]i[-c¸-]os[-,-] [-n-]e[-m-] {+dem+}a[-o-]{+i+}s integrantes da equipe multidisci[---]plinar [-que-]{+das+} [-ne-]{+c+}l{+ínic+}as{+,+} [-pr-]{+unidad+}es[-tam-]{+ ou+} servi[-c¸-]{+ç+}os, participarem como doadores nos programas de RA. 
+9 - E´ permitida a doac¸a~o volunta´ria de gametas{+ masculinos+}, bem como a situac¸a~o identificada como doac¸a~o compartilhada de oo´citos em RA, em que doadora e receptora, participando como portadoras de problemas de reproduc¸a~o, compartilham tanto do material biolo´gico quanto dos custos financeiros que envolvem o procedimento de RA. A doadora tem prefere^ncia sobre o material bi[---]olo´gico que sera´ produzido. 
+V - Criopreservac¸a~o de gametas ou embrio~es
+1 - As cli´nicas, centros ou servic¸os podem criopreservar espermatozoides, o´vulos e embrio~es e tecidos gona´dicos. 
+2 - O nu´mero total de embrio~es produzidos em laborato´rio sera´ comunicado aos pacientes, para que decidam quantos em-brio~es sera~o transferidos a fresco[-, devendo-]{+.+} [-o-]{+O+}s excedentes[-,-] vi[-a´-]{+á+}veis[-,-] [-s-]{+d+}e[-r-]{+v+}em {+ser +}criopreservados. 
+3 - No momento da criopreservac¸a~o, os pacientes devem expressar sua vontade, por escrito, quanto ao destino [-que-]{+a+} ser[-a´-] da[---]do aos embrio~es criopreservados[-, quer-] em caso de divo´rcio, doenc¸as graves ou falecimento{+,+} de um deles ou de ambos, e quando dese{+-+}jam doa´-los. 
+4 - Os embrio~es criopreservados com mais de 5 (cinco) anos podera~o ser descartados se esta for a vontade dos pacientes[-,-]{+.+} [-e-]{+A+} [-n-]{+utiliz+}a[-~-]{+çã+}o [-apena-]{+do+}s [-pa-]{+emb+}r[-a-]{+iões em+} pesquisas de c[-e´-]{+é+}lulas-tronco{+ não é obrigatória+}, conforme previsto na Lei de Biosseguranc¸a. 
+VI - Diagno´stico gene´tico pre´-implantac¸a~o de embrio~es
+1 - As te´cnicas de RA podem ser utilizadas a[-co-]pl{+ic+}adas a` selec¸a~o de embrio~es submetidos a diagno´stico de alterac¸o~es gene´ticas causadoras de doenc¸as[-.-] {+– podendo, nesses casos, serem doados para pesquisa ou descartados.+}
+2 - As te´cnicas de RA tambe´m podem ser utilizadas para tipagem do sistema HLA do embria~o, [-com -]{+n+}o intuito de selec[-¸a~-]{+i+}o[- de-]{+nar+} em{+-+}brio~es HLA-compati´veis com algum{+(a)+} filho(a) do casal ja´ afetado p[-or do-]e[-nc¸-]{+l+}a[-,-] doenc¸a e[-sta que tenha-] c{+uj+}o[-mo modalidade de-] tra[---]tamento efetivo {+seja +}o transplante de c[-e´-]{+é+}lulas-tronco[- ou-]{+,+} de {+ac+}o[-´-]r{+do com a le+}g{+isl+}a[-~-]{+çã+}o[-s-]{+ vigente+}. 
+3 - O tempo ma´ximo de desenvolvimento de embrio~es in vitro sera´ de 14 dias. 
+
+VII - Sobre a gestac¸a~o de substituic¸a~o (doac¸a~o tempora´ria do u´tero) 
+As cli´nicas, centros ou servic¸os de reproduc¸a~o [-hum-]a[-n-]{+ssistid+}a podem usar te´cnicas de RA para criarem a situac¸a~o identificada como gestac¸a~o de substituic¸a~o, desde que exista um problema me´dico que impec¸a ou contraindique a gestac¸a~o na doadora gene´tica ou em caso de unia~o homoafetiva. 
+1 - As doadoras tempora´rias do u´tero devem pertencer a` fami´lia de um dos parceiros [-nu-]{+e+}m parentesco consangui´neo ate´ o 4º grau (1º grau – ma~e; 2º grau – irma~/avo´; 3º grau – tia; 4º grau – prima)[-,-]{+.+} {+D+}em[- todos o-]{+ai+}s casos [-r-]es[-p-]{+tão suj+}eit[-ada-]{+os+} [-a-]{+à+} {+autor+}i[-d-]{+z+}a{+ção +}d[-e-]{+o+} {+Conse+}l[-imit-]{+ho R+}e{+gional+} de [-at-]{+M+}e[-´ 50 a-]{+dici+}n[-os-]{+a+}. 
+2 - A doac¸a~o tempora´ria do u´tero na~o podera´ ter cara´ter lucrativo ou comercial.
+3 - Nas cli´nicas de reproduc¸a~o {+assistida, +}os seguintes documentos e observac¸o~es devera~o constar no prontua´rio do pacien{+-+}te: 
+Termo de [-C-]{+c+}onsentimento [-I-]{+livre e esclarecido i+}nformado assinado pelos pacientes [-(pais gene´ticos) -]e pela doadora tempora´ria do u´tero, con[-sig-]-[-n-]{+templ+}a{+n+}do[-.-] [-Ob-]{+a+}s{+p+}e[-rvaçã-]{+ct+}o[-:-]{+s+} [-ge-]{+biop+}s[-ta-]{+i+}c[-¸a~-]o[- c-]{+ss+}o[-mpart-]{+c+}i[-lhad-]a{+is+} e[-nt-]{+ +}r{+iscos +}e{+nvolvidos+} [-h-]{+n+}o[-m-]{+ cicl+}o{+ gr+}a[-feti-]v{+ídic+}o[-s-]{+-puerperal+}, {+b+}em [-que-]{+como+} [-n-]a[-~-]{+spect+}o{+s+} {+l+}e[-x-]{+ga+}is[-te-] [-in-]{+da +}f[-ert-]ili[-d-]a[-de-]{+-ção+}; 
+Relato´rio me´dico com o perfil psicolo´gico, atestando adequac¸a~o cli´nica e emocional d{+e todos os envolvidos; +}
+{+Termo de Compromisso entre os pacientes e +}a doadora tempora´ria do u´tero[-;-] [-Descric¸a~o pelo me´dico assistente, pormenorizada e por escrito, dos aspectos me´dicos envolvendo todas as circunsta^ncias da aplicac¸a~o de uma te´cnica de RA, com dados de cara´ter biolo´gico, juri´dico, e´tico e econo^mico, bem como os resultados obti-dos naquela unidade de tratamento com a te´cnica proposta; -]
+[-Contrato entre os pacientes (pais gene´ticos) e a doadora tempora´ria do u´tero (qu-]{+(qu+}e recebe[-u-]{+rá+} o embria~o em seu u´tero[- e deu a` luz-]), estabe{+-+}lecendo claramente a questa~o da filiac¸a~o da [-crianc¸a; -]
+[-Os aspectos biopsicossociais envolvidos no ciclo gravi´dico-puerperal; -]
+[-Os riscos inerentes a` maternidade; -]
+[-A impossibilidade de interrupc¸a~o da gravidez apo´s -]{+cr+}i{+a+}n[-i-]c{+¸a; +}
+{+Garant+}ia[-do-]{+,+} {+p+}o{+r+} p{+a+}r[-oc-]{+t+}e[-sso-] [-ge-]{+do+}s[-t-]{+ p+}aci[-o-]{+e+}n[-al, salvo -]{+t+}e[-m-]{+s+} c[-as-]o[-s p-]{+nt+}r[-evis-]{+a+}t[-o-]{+ante+}s {+d+}e[-m-] [-l-]{+s+}e[-i ou auto-]r{+v+}i[--zad-]{+ç+}os [-ju-]d[-icialment-]e[-;-] {+R+}A[- garantia-]{+,+} de tratamento e acompanhamento me´dico, inclusive por equipes multidisciplinares, se necessa´rio, a` ma~e que doa[---]ra´ temporariamente o u´tero, ate´ o puerpe´rio; 
+[-A g-]{+G+}arantia do registro civil da crianc¸a pelos pacientes (pais gene´ticos), devendo esta documentac¸a~o ser providenciada duran[---]te a gravidez; 
+[-S-]{+Aprovação do cônjuge ou companheiro, apresentada por escrito, s+}e a doadora tempor[-a´-]{+á+}ria do [-u´-]{+ú+}tero for casada ou viver em uni[-a~-]{+ã+}o est[-a´-]{+á+}vel[-, devera´ apresentar, por escrito, a aprovac¸a~o do co^njuge ou companheiro-]. 
+VIII - Reproduc¸a~o assistida post-mortem
+[-E´-]{+É permitida a+} {+re+}p{+r+}o{+dução a+}ssi[-´v-]{+stida post-mort+}e[-l,-]{+m+} desde que haja autorizac¸a~o pre´via especi´fica do(a) falecido(a) para o uso do material biolo´gico criopreservado, de acordo com a legislac¸a~o vigente. 
+IX - Disposic¸a~o final 
+Casos de excec¸a~o, na~o previstos nesta resoluc¸a~o, dependera~o da autorizac¸a~o do C{+FM. +}
+
+{+- Exp+}o[-n-]s[-elh-]{+içã+}o [-R-]{+d+}e[-g-]{+ mot+}i{+v+}o[-nal-]{+s+} d{+a R+}e{+solução+} {+C+}M[-edici-]{+F +}n[-a.-]{+º+} {+2.121/2015+}
+
+[-Exposic¸a~o de motivos da resoluc¸a~o CFM nº 2.013/13 -]No Brasil, ate´ a presente data, na~o ha´ legislac¸a~o especi´fica a respeito da reproduc¸a~o assistida. Tra[-ns-]{+m+}itam no Congresso Nacio-nal, ha´ anos, diversos projetos a respeito do assunto, mas nenhum deles chegou a termo. 
+[-Considerando as dificuldades relativas ao assunto, o-]{+O+} Conselho Federal de Medicina [-produziu uma resoluc¸a~o -]([-Resoluc¸a~o -]CFM[- nº 1.957/10-]) [-o-]{+age semp+}r[-i-]e[-nta-]{+ em +}d[-or-]{+efes+}a do[-s-] [-m-]{+aperf+}e[-´d-]i[-c-]{+ç+}o[-s qu-]a{+me+}nto {+d+}a[-`-]s [-condu-]{+prá+}t{+ic+}as [-a ser-]e[-m-] [-adota-]da[-s-] {+obe+}di[-a-]{+ê+}n[-te-]{+cia+} [-d-]{+a+}os pr{+in-cípi+}o[-blema-]s [-de-]{+éti+}co[-rrente-]s [-da-]{+e+} [-pra´tica da reproduc¸a~o assist-]{+b+}i[-da, n-]o[-rma-]{+é+}ti[-zando as -]co[-nduta-]s{+,+} {+qu+}e[-´ticas-] a[- serem obedeci-]{+ju+}da[-s no exe-]r[-ci´ci-]{+ã+}o [-d-]a[-s-] t[-e´cnicas de -]r{+az+}e[-p-]r[-oduc¸a~o-] {+m+}a[-ssist-]i[-da. -]
+[-A Resoluc¸a~o CFM nº 1.957/10 m-]o[-st-]r[-ou-se-] s[-atisfato´-]{+egu+}r[-i-]{+anç+}a e efic[-az, balizando o controle dos pro-]{+á+}c[-essos de fertil-]i[-z-]a[-c¸a~o-] a[-ssistida. No-] [-en-]t{+r+}a[-n-]t[-o, -]a[-s -]m[-udanc¸as sociais e a constante e ra´pida evoluc¸a~o cienti´fica nessa a´rea tornaram necessa´ria a sua revisa~o. -]
+[-Uma insistente e reiterada solicitac¸a~o das cli´nicas de fertilidade de todo o pai´s foi a abordagem sobre o descarte de em-brio~es congelados, alguns ate´ com mais de 20 (vinte) anos, em abandono e entulhando os servic¸os. A comissa~o revisora obser-vou que a Lei de Biosseguranc¸a (Lei nº 11.105/05), em seu artigo 5º, inciso II, ja´ autorizava o descarte de embrio~es congelados ha´ 3 (tre^s) anos, contados a partir da data do congelamento, para uso em pesquisas sobre ce´lulas-tronco. A proposta e´ ampliar o prazo para 5 (cinco) anos, e na~o so´ para pesquisas sobre ce´lulas-tronco. -]
+[-Ou-]{+en+}t[-r-]os [-fator-]e[-s-] [-m-]{+pr+}o[-tiva-]{+ce+}d[-or-]{+im+}e{+nto+}s [-fora-]m[- a f-]{+édicos.+}
+{+M+}a[-l-]{+n+}t[-a d-]e{+r a+} limit[-e-]{+ação+} d[-e-]{+a+} idade [-p-]{+d+}a[-r-]{+s candidat+}a{+s+} [-o-]{+à+} [-u-]{+ge+}s{+taçã+}o d[-as-]{+e RA+} {+a+}t[-e´cnic-]{+é 50 +}a{+no+}s [-e-]{+foi+} {+prim+}o{+rdial,+} [-ex-]c{+om o obj+}e[-ss-]{+t+}ivo [-nu´m-]{+de pres+}er[-o-]{+var+} {+a sa-ú+}de {+da +}mulher{+, qu+}e[-s-] [-c-]{+p+}o[-m-]{+derá+} [-baix-]{+ter um+}a [-p-]{+sé+}r[-obab-]i{+e de comp+}li[-d-]{+c+}a[-d-]{+çõ+}e{+s+} [-d-]{+no p+}e{+ríodo+} grav[-i-]{+í+}d[-ez-]{+ico,+} de[-vi-]{+ acor+}do [-a`-]{+com+} [-id-]a[-de, que-] [-n-]{+m+}e{+di+}c[-ess-]i[-t-]{+n+}a[-m-] {+b+}a[- rec-]{+s+}e[-pc¸-]a[-~o -]d{+a +}e{+m+} [-o´-]{+e+}v[-ulos -]{+i-+}d[-o-]{+ênci+}a[-do-]s.
+[- -]
+[-Esse-]{+O+}s aspectos [-gerara-]m[- -]{+é+}d[-u´v-]i[-das -]c[-re-]{+o+}s[-c-]{+ +}en[-t-]{+volv+}e[-s-]{+ndo+} {+a t+}o[-r-]{+tal+}i[-un-]da[-s-]{+de+} d[-o-]{+a+}s [-Co-]{+circu+}ns[-elhos Regio-]{+tâ+}n[-a-]{+c+}i{+a+}s d[-e-]{+a+} [-Med-]{+apl+}ic[-in-]a[-,-]{+ção da+} {+re+}pro[-vocan-]d{+uçã+}o a[- nece-]ssi{+sti+}da[-de-]{+ foram+} de[- a-]t[-u-]al[-iz-]{+h+}a[-c¸o~es. -]
+[-O som-]{+d+}a{+-men+}t[-o´rio-]{+e+} [-d-]{+exp+}os[- fa-]to[-re-]s [-ci-]{+nes+}ta[-dos-] [-fo-]{+rev+}i{+são+} {+r+}e[-stud-]{+aliz+}ad[-o-]{+a+} pela [-c-]{+C+}omiss{+ão de Revisão d+}a[-~-]{+ Resoluçã+}o{+ CFM nº 2.013/13+}, em conjunto com repre{+-+}sentantes da Sociedade Brasileira de Re[---]produ[-c¸a~-]{+çã+}o Assistida, da Federa[-c¸a~-]{+çã+}o Brasileira das [-Ass-]{+S+}oci{+ed+}a[-çõ-]{+d+}es de Ginecologia e Obste{+-+}tr[-i´-]{+í+}cia e da Sociedade Brasileira de Repro[---]du[-c¸a~-]{+çã+}o Humana e Sociedade Brasileira de Gen[-e´-]{+é+}tica M[-e´-]{+é+}dica.
+
+9. Resumo
+
+@@ -275,15 +286,24 @@ Defini
+Insucesso do casal na obtenção da gestação após 12 meses de tentativas sem uso de métodos contraceptivos
+Etiologia
+- Causas: 30% causas femininas isoladas; 30% masculinas isoladas; 30% mistas e 10% idiopáticas;
+{+Etiologia+}
+- Principais fatores femininos: anovulação ou distúrbios ovulatórios, obstrução tubária, endometriose;
+- Principais fatores masculinos: endócrinos, malformações congênitas, varicocele, alterações na quantidade e na qualidade dos es{+-+}permatozoides.
+Investigação básica do casal
+- Para ambos: hemograma, tipagem sanguínea, VDRL, sorologia para hepatites B e C e HIV;
+- Para o homem: espermograma com morfologia estrita de Kruger e processamento seminal prognóstico (repetir, se alterado);
+- Para a mulher: sorologia para rubéola, dosagens hormonais (FSH, estradiol, CA-125, progesterona, TSH, prolactina), USG trans[---]va{+-+}ginal, HSG, investigação de perfil infeccioso endocervical (Chlamydia, Mycoplasma, Ureaplasma).
+Tratamentos
+- Baixa complexidade: indução da ovulação com coito programado e IIU;
+- Alta complexidade: FIV e ICSI.
+Principais complicações
+- Síndrome do hiperestímulo ovariano;
+- Gestação múltipla.
+
+{+Resposta +}
+{+1. A+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página+} {+XX+}
