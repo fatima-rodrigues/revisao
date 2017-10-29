@@ -1,8 +1,4 @@
-diff --git a/gastro1_2.txt b/gastro1_2.txt
-index 0d29672..e74558e 100644
---- a/gastro1_2.txt
-+++ b/gastro1_2.txt
-@@ -1,10 +1,14 @@
+
 Doença do refluxo gastroesofágico
 Fábio Carvalheiro / Eduardo Bertolli[- / -]
 Yeda Mayumi Kuboki / Rodrigo Biscuola Garcia[- / -]

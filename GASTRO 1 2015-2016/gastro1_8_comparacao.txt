@@ -1,8 +1,4 @@
-diff --git a/gastro1_8.txt b/gastro1_8.txt
-index 2231276..2c44ce1 100644
---- a/gastro1_8.txt
-+++ b/gastro1_8.txt
-@@ -1,19 +1,22 @@
+
 Síndromes pós-operações gástricas
 José Américo Bacchi Hora
 

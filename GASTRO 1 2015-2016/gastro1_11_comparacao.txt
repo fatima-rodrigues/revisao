@@ -1,8 +1,4 @@
-diff --git a/gastro1_11.txt b/gastro1_11.txt
-index c8635de..f3aa327 100644
---- a/gastro1_11.txt
-+++ b/gastro1_11.txt
-@@ -1,36 +1,32 @@
+
 Anatomia e fisiologia do intestino delgado
 Fábio Carvalheiro / Eduardo Bertolli[- / -]
 Allan Garms Marson /{+ +}Yeda Mayumi Kuboki[- / -]

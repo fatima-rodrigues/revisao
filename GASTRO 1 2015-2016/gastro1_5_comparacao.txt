@@ -1,8 +1,4 @@
-diff --git a/gastro1_5.txt b/gastro1_5.txt
-index fa9fbc9..19e8bf8 100644
---- a/gastro1_5.txt
-+++ b/gastro1_5.txt
-@@ -2,22 +2,37 @@ Dispepsia e Helicobacter pylori
+Dispepsia e Helicobacter pylori
 José Américo Bacchi Hora 
 
 

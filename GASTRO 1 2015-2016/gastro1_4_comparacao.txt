@@ -1,8 +1,4 @@
-diff --git a/gastro1_4.txt b/gastro1_4.txt
-index 54373f3..8c81406 100644
---- a/gastro1_4.txt
-+++ b/gastro1_4.txt
-@@ -1,70 +1,91 @@
+
 Anatomia e fisiologia do estômago
 Fábio Carvalheiro / Eduardo Bertolli[- / -]
 Allan Garms Marson / Yeda Mayumi Kuboki[- / -]

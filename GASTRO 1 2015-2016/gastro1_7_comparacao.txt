@@ -1,8 +1,4 @@
-diff --git a/gastro1_7.txt b/gastro1_7.txt
-index d4e7240..4c9a892 100644
---- a/gastro1_7.txt
-+++ b/gastro1_7.txt
-@@ -2,25 +2,29 @@ Tratamento cir
+Tratamento cir
 José Américo Bacchi Hora
 
 

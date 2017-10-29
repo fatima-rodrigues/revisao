@@ -1,8 +1,4 @@
-diff --git a/gastro1_14.txt b/gastro1_14.txt
-index a5afb05..837b280 100644
---- a/gastro1_14.txt
-+++ b/gastro1_14.txt
-@@ -1,28 +1,32 @@
+
 Anatomia e fisiologia do cólon
 José Américo Bacchi Hora 
 

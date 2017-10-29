@@ -1,8 +1,4 @@
-diff --git a/gastro1_13.txt b/gastro1_13.txt
-index 2cd81c7..4959f43 100644
---- a/gastro1_13.txt
-+++ b/gastro1_13.txt
-@@ -1,34 +1,33 @@
+
 Alterações funcionais dos intestinos
 Fábio Carvalheiro / Eduardo Bertolli[- / -]
 Allan Garms Marson / Yeda Mayumi Kuboki[- / -]

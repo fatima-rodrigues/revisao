@@ -1,8 +1,4 @@
-diff --git a/gastro1_9.txt b/gastro1_9.txt
-index 8f3eb58..73e4e2a 100644
---- a/gastro1_9.txt
-+++ b/gastro1_9.txt
-@@ -1,81 +1,77 @@
+
 Câncer gástrico
 Fábio Carvalheiro / Eduardo Bertolli[- / -]
 Allan Garms Marson / Yeda Mayumi Kuboki[- / -]

@@ -1,8 +1,4 @@
-diff --git a/gastro1_3.txt b/gastro1_3.txt
-index d461e60..d671f89 100644
---- a/gastro1_3.txt
-+++ b/gastro1_3.txt
-@@ -1,22 +1,24 @@
+
 Câncer de esôfago
 Fábio Carvalheiro / Eduardo Bertolli[- / -]
 Allan Garms Marson / Yeda Mayumi Kuboki[- / -]

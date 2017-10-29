@@ -1,8 +1,4 @@
-diff --git a/gastro1_6.txt b/gastro1_6.txt
-index f56bb99..caf83d2 100644
---- a/gastro1_6.txt
-+++ b/gastro1_6.txt
-@@ -1,64 +1,90 @@
+
 Doença ulcerosa péptica
 Fábio Carvalheiro / Eduardo Bertolli[- / -]
 Allan Garms Marson / Yeda Mayumi Kuboki[- / -]
