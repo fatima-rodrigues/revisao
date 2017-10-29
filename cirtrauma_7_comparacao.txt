@@ -1,0 +1,272 @@
+diff --git a/cirtrauma_7.txt b/cirtrauma_7.txt
+index b1cd45b..1d6a3c1 100644
+--- a/cirtrauma_7.txt
++++ b/cirtrauma_7.txt
+@@ -1,181 +1,226 @@
+Trauma raquimedular{++}
+Eduardo Bertolli[-1. Introd-]{++}
+{++}
+{+Res+}u[-çã-]{+m+}o[-A-]{++}
+{+Neste+} c[-olun-]a{+pítulo,+} [-c-]{+s+}er[-vical é-]{+á+} {+abordad+}o [-síti-]o {+trau+}ma[-is-] [-f-]r[-e-]{+a+}qu{+im+}e[-nte -]d[-e -]{+u+}l[-e-]{+ar. E+}s[-õe-]s{+e+} [-tr-]a{+ss+}u[-má-]{+n+}t[-icas-]{+o+} {+e+}n[-a c-]{+v+}ol[-una -]ve[-rtebral (55% dos-] c[-as-]o[-s). As r-]{+nc+}e[-g-]i[-ões -]to[-rácica-]s [-e -]{+b+}as[- -]t[-r-]an[-siçõ-]{+t+}e[-s-] t[-o-]{+eó+}r[-a-]{+i+}co[-lo-]{+s, +}m[-b-]a[-r-]{+s+} {+d+}e {+fáci+}l{+ c+}om[-bossac-]{+-p+}r[-a -]{+een+}são{+,+} [-re-]{+como o+}s[-p-]{+ de ch+}o{+que +}n[-sáv-]e{+urogên+}i[-s-]{+co+}, {+qu+}e[-m-] [-médi-]a[-,-]{+contece+} por [-15%-]{+lesão+} das [-l-]{+vias d+}es[-õ-]{+cendent+}es[-.-] [-Apr-]{+d+}o[-x-]{+ s+}i{+ste+}ma[-da-]{+ si+}m[-en-]{+pá+}t[-e-]{+ico+} [-25%-]{+da+} {+me+}d[-os-]{+ula+} {+es+}p[-ac-]i[-e-]n[-t-]{+al, +}e{+ o+}s {+de +}c{+h+}o[-m tra-]{+q+}u[-matismo-]{+e+} {+me+}d{+ul+}a{+r,+} [-c-]{+n+}o[-l-]{+ q+}u[-n-]a{+l há+} {+fl+}a[-pr-]{+cid+}e[-s-]{+z +}e[-ntam-] [-t-]{+pe+}r{+da +}a{+g+}u[-m-]{+d+}a [-crani-]{+d+}o[-enc-]{+s r+}ef[-á-]l[-ic-]{+ex+}o[- (TCE)-]{+s+} a{+pó+}s[-sociado,-] {+l+}e{+são+} [-c-]{+m+}e[-rc-]{+dul+}a{+r+} de [-5% -]d{+ur+}a[-s-]{+ção+} v[-ítim-]a[-s-]{+riável.+} [-co-]{+Alé+}m [-TCE apr-]{+d+}es{+s+}e{+s co+}n{+cei+}t[-am-]{+os,+} [-t-]{+são abo+}r{+d+}a[-um-]{+d+}a{+s as+} {+p+}r{+incip+}a[-qu-]i{+s lesões +}medular{+es+} [-(TRM). -]
+[-T-]{+relaci+}o{+na+}d[-o-]{+as a+} [-poli-]trauma[-tizado deve-] [-s-]{+m+}e[-r trata-]d[-o-]{+ular,+} como [-porta-]{+sín+}d{+r+}o{+mes cen-t+}r{+al+} [-d-]e [-l-]{+ant+}e[-sã-]{+ri+}o[- -]r{+ d+}a[-qui-]{+ +}medula[-r-], [-até-]{+síndrome de+} {+Brown-Sé+}qu[-e-]{+ard,+} s[-e p-]{+índ+}ro[-v-]{+m+}e {+d+}o con[-trário. A-]{+e+} m[-anip-]{+ed+}ula[--ção-]{+r+} [-dev-]e s[-er m-]ín[-i-]{+dro+}m[-a -]e [-cui-]da[-dosa, e-] {+c+}a[- imobiliz-]{+ud+}a[-ção,-] [-ad-]equ[-ad-]{+in+}a. [-Até 5%-]{+O+} [-d-]{+tem+}a[-s-] [-ví-]t[-im-]a[-s-]{+mbém+} {+po+}de [-TRM-]{+ser+} [-pi-]{+c+}o{+b+}ra[-m n-]{+d+}o [-s-]e{+m p+}r[-viç-]o[- de s-]{+v+}a[-ú-]{+s +}de[-. A-] [-p-]{+O+}r[-o--]t[-eçã-]o[- ad-]{+p+}e[-qua-]d{+i+}a [-da-]{+e+} [-coluna-]{+em+} [-(F-]{+s+}i[-g-]{+m+}u[-r-]{+l+}a[- 1) d-]{+çõ+}es{+ +}de [-o -]atendimento pr[-é-hosp-]{+át+}i{+co.+}
+{++}
+{+1. In+}t[-a-]{+rodução+}
+{++}
+{+A co+}l{+un+}a[-r-] [-p-]{+c+}er[-m-]{+v+}i[-te-]{+cal é+} o [-diagnó-]s{+í+}ti[-c-]o [-e o-]{+mais+} [-t-]{+f+}r[-atam-]{+equ+}ent[-o-]{+e+} de lesões [-com -]{+t+}r{+aumát+}i{+ca+}s{+ na +}co{+luna+} [-im-]{+v+}e[-dia-]{+r+}t[-o-]{+ebral+} [-à-]{+(55%+} [-vi-]d[-a-]{+os+} [-dur-]{+c+}a[-nte -]{+s+}o{+s). As+} {+r+}e[-xam-]{+giõ+}e{+s+} [-p-]{+to+}r[-im-]á[-r-]{+c+}i[-o,-]{+cas+} [-d-]e[-ixando-] a{+s+} {+tr+}a[-val-]{+ns+}i[-a-]ç[-ão porm-]{+õ+}e[-n-]{+s t+}or[-iz-]a[-d-]{+colomb+}a{+r+} e {+lomboss+}a[- ex-]c[-lu-]{+ra +}são [-de t-]r[-aumati-]{+e+}s[-m-]{+p+}o{+nsávei+}s{+,+} [-à-]{+em+} [-colun-]{+médi+}a{+,+} p[-a-]{+o+}r[-a-] [-o-]{+15%+} [-ex-]{+d+}a[-me-]{+s+} {+le+}s{+õ+}e[-cundário-]{+s+}. [- -]
+
+[-Figu-]{+Ap+}r[-a 1 - Im-]o[-bil-]{+x+}i[-zação adequ-]{+m+}ada[-, co-]m{+ente+} [-c-]{+25% d+}o[-lar-]{+s+} {+pa+}c[-erv-]i[-cal, h-]e[-adblock-]{+nte+}s [-e-]{+com+} t[-i-]ra[-n-]{+uma+}t[-e-]{+i+}s{+mo+} d[-e-]{+a+} co{+lu+}n[-t-]{+a apres+}en[-ção-]
+
+
+[-2.-]{+tam+} [-Av-]{+tr+}a[-li-]{+um+}a[-ção-] [-ini-]c[-ial-]
+
+[-Os p-]{+r+}a[-c-]{+n+}i{+o+}en[-t-]{+c+}e[-s -]{+fáli+}co[-m-] {+(+}T[-RM-]{+CE)+} {+associa+}d{+o, +}e[-vem-] [-s-]{+c+}er{+ca de+} {+5% d+}a{+s +}v[-al-]{+ít+}i{+m+}a[-do-]s co[-nfor-]m[-e-] [-a-]{+TCE+} [-p-]a[-d-]{+p+}r[-o-]{+ese+}n[-ização do Adv-]{+t+}a[-nced-]{+m+} [-T-]{+t+}rauma [-L-]{+raqu+}i[-f-]{+m+}e[- S-]{+d+}u[-ppo-]{+la+}r[-t-] ([-A-]T[-LS®-]{+RM+}). [-A-]{++}
+{+Todo+} p[-r-]o{+li+}t[-e-ção d-]{+r+}a[- col-]u[-n-]{+m+}a[- cerv-]{+t+}i[-c-]{+z+}a[-l-]{+do+} {+dev+}e{+ +}s[-tá-]{+er+} {+tr+}a[-ssoci-]{+t+}ad[-a-]{+o+} [-à-]{+como+} {+p+}o[-b-]{+r+}t[-ençã-]{+ad+}o{+r+} de [-uma via aér-]{+l+}e[-a-]{+são+} [-pe-]r{+aqui+}me[-ável -]du{+la+}r{+, +}a[-n-]t[-e o-]{+é+} {+qu+}e[-xam-]{+ s+}e pr[-imári-]o[-, s-]{+v+}e[-nd-]{+ +}o[-,-] [-p-]{+c+}o[-rta-]nt[-o, p-]{+rá+}rio[-r-]{+. A man+}i[-d-]{+pul+}a{+-ção +}de{+ve+} [-no at-]{+s+}e{+r mí+}n[-d-]im{+a +}e[-nto.-] [-N-]{+cuid+}a[- -]{+dos+}a[-v-]{+, e +}a{+ imobi+}li{+z+}ação{+,+} [-h-]{+ad+}e[-mo-]{+qua+}d[-inâmic-]a[-,-]{+.+} {+At+}é {+5% das vít+}im[-port-]a[-nte-]{+s+} d[-ifer-]e[-nc-]{+ TRM p+}i[-a-]{+o+}r{+am+} {+n+}o [-choqu-]{+s+}e[- hipo-]{+r+}v[-olêm-]i[-c-]{+ç+}o d[-os-]{+e+} [-choque-]s[- n-]{+aúd+}e[-u--]{+. A p+}ro[-gênic-]{+-teçã+}o {+ad+}e{+quada+} [-me-]d[-ul-]a[-r.-]
+[-O-] c[-h-]o[-q-]{+l+}u[-e -]n[-e-]{+a (Fig+}ur[-ogênico-]{+a+} [-é-]{+1)+} [-uma-]{+desde+} [-c-]o{+ ate+}ndi[-çã-]{+ment+}o {+pré-+}h[-em-]o[-dinâm-]{+sp+}i[-c-]{+t+}a{+lar+} p[-o-]{+e+}r[- l-]{+mit+}e[-sã-]{+ +}o d[-as v-]ia{+gnó+}s{+tico+} [-d-]e[-sc-]{+ o tratam+}en{+to +}de[-nt-]{+ lesõ+}es [-d-]{+c+}o{+m+} [-s-]{+r+}is[-tema-]{+co+} [-s-]im[-pát-]{+ed+}i[-c-]{+at+}o {+à vi+}da [-me-]du[-l-]{+r+}a{+nte o+} e[-s-]{+xame +}p{+r+}i[-nal-]{+mário+}, [-causan-]d[-o p-]e[-rd-]{+ix+}a[- -]{+n+}do [-tônus-]{+a+} {+a+}va[-s-]{+liaçã+}o[-m-]{+ p+}o[-t-]{+rmen+}or{+izada+} e [-d-]a [-in-]e[-rvaç-]{+xclus+}ão [-si-]{+de trau+}m[-pá-]{+a+}ti[-ca d-]{+sm+}o{+s à+} co{+luna pa+}ra[-çã-]{+ +}o[-.-] [-H-]{+exame secund+}á{+rio.+} [-v-]{++}
+{++}
+{+ +}
+{+Figur+}a[-s-]{+ 1 - Im+}o[-d-]{+b+}il[-at-]{+iz+}ação [-vis-]{+adequada, com colar +}cer{+vic+}al{+,+} {+h+}e[- -]{+a+}d[-os-] [-mem-]b[-r-]{+l+}o{+ck+}s [-inf-]e[-r-]{+ t+}i[-o-]r{+ant+}es[-,-] [-com-]{+de+} con[-sequente hipo-]ten[-s-]{+ç+}ão[- e -]{++}
+{++}
+{+Ví+}d{+eo+}
+{+Aval+}i[-minui-]{+a+}ção da [-freq-]{+col+}u[-ê-]n[-ci-]a c[-a-]{+e+}r[-día-]{+vi+}ca{+l+}
+ [-ou-]{++}
+{++}
+{++}
+{+2.+} {+Av+}a[-usênc-]{+l+}ia{+ção+} [-de taqu-]{+in+}ic[-ard-]ia[- ref-]l[-exa. A pres-]{++}
+{++}
+{+O+}s[-ão-] {+p+}a[-r-]{+cien+}te[-rial-]{+s+} [-nã-]{+c+}o{+m+} [-s-]{+TRM dev+}e{+m+} [-no-]{+se+}r[-m-]{+ av+}ali[-z-]a{+dos+} co{+nfor+}m{+e+} a [-re-]p{+adr+}o[-s-]{+n+}i{+za+}ção [-v-]{+d+}o[-lêmica,-] {+Advanc+}e{+d+} [-o t-]{+T+}ra[-ta-]{+u+}m[-ento-]{+a+} [-dev-]{+Lif+}e [-c-]{+Supp+}o[-nsisti-]r{+t+} [-no uso-]{+(ATLS®).+} [-de-]{+A+} [-vaso-]pr[-ess-]o[-r-]{+t+}e[-s.-]
+[-N-]{+-çã+}o {+da +}c[-h-]o[-q-]{+l+}u[-e-]{+na+} [-m-]{+c+}e[-dula-]r[-,-]{+vical+} [-h-]{+est+}á [-fl-]a{+sso+}ci{+a+}d[-ez-]{+a+} [-e-]{+à+} [-p-]{+obt+}e[-r-]{+nção +}d[-a-]{+e+} [-ag-]u[-d-]{+m+}a [-dos-]{+via+} {+aé+}re[-flexos -]a[-pós-] [-l-]{+p+}e[-são da -]{+r+}me[-dula d-]{+áv+}e{+l+} dura[-çã-]{+nte +}o [-v-]{+ex+}a[-riáv-]{+m+}e[-l.-] [-H-]{+prim+}á{+rio,+} [-p-]{+s+}e[-r-]{+n+}d[-a-]{+o,+} [-t-]{+p+}o{+r+}ta[-l da fu-]n[-çã-]{+t+}o{+,+} [-mot-]{+pri+}or{+id+}a[- -]{+d+}e [-s-]{+no at+}en[-s-]{+d+}i{+men+}t[-iv-]{+o. N+}a a[-b-]{+v+}a{+l+}i[-x-]{+açã+}o [-d-]{+hem+}o[- -]{+di+}n[-ível da lesão. Co-]{+â+}m[- o pass-]{+ic+}a[-r-]{+,+} [-do-]{+é+} [-te-]{+i+}mpo[-, há, também, -]r[-e-]t[-or-]{+a+}n[-o-]{+te+} d[-os re-]{+i+}f[-l-]e[-xos -]{+r+}e{+nciar+} [-evoluçã-]o [-para-]{+choque+} hip[-er-ref-]{+ovo+}l[-ex-]{+êm+}i[-a p-]{+c+}o[-r perda-] d[-a inibiçã-]o{+s+} c[-ranial. D-]{+hoq+}u[-rant-]e{+s+} [-o p-]{+n+}e{+u-+}r[-í-]o[-d-]{+gênic+}o [-d-]e[-ss-]{+ m+}e{+dular.+}
+{+	O+} choque[-,-] n[-ã-]{+eurogênic+}o é [-possível avali-]{+um+}a[-r-] {+c+}o[- da-]n{+diçã+}o [-r-]{+h+}e[-al. O -]{+mo+}di[-ag-]n[-óst-]{+âm+}i[---]c[-o-]{+a+} po[-de se-]r [-f-]{+l+}e[-it-]{+sã+}o [-pel-]{+d+}a{+s+} [-p-]{+vias d+}e[-r-]{+scen+}d[-a-]{+entes+} do [-reflexo bulbocaverno-]s[-o.-]
+[-A avaliação de défic-]i[-t-]s[- no -]{+t+}e[-xa-]m[-e-]{+a+} [-pr-]{+s+}im{+p+}á[-r-]{+t+}i{+c+}o [-b-]{+d+}a[-s-]{+ m+}e[-ia-]{+du+}-[-se-]{+la+} e[-m -]s{+p+}ina[-is -]l[-o-]{+, +}ca[-liz-]{+us+}a[-tóri-]{+nd+}o[-s-] {+p+}e[-vi-]{+r+}d[-entes,-]{+a+} {+d+}o [-que -]{+tô+}n[-em-]{+us+} {+va+}s[-e-]{+o+}m[-p-]{+oto+}r{+ +}e [-po-]d[-e-]{+a+} [-s-]{+in+}er[- a-]va[-lia-do n-]{+çã+}o {+s+}i[-nd-]{+mpát+}i[-ví-]{+ca +}d[-u-]o [-in-]co[-nsciente-]{+ração+}. [-O-]{+Há+} {+vaso+}di{+l+}a[-gnós-]t[-ic-]{+açã+}o [-de TRM de-]v[-e -]{+i+}s{+c+}er[- re-]al[-izado-] e [-mai-]{+do+}s [-b-]{+m+}em[- ca-]{+b+}r[-act-]{+os inf+}eri[-zad-]o{+res,+} [-n-]{+c+}o[- exa-]m[-e-] {+con+}se[-c-]{+q+}u{+e+}n[-dár-]{+tes h+}i{+p+}o[-. -]
+
+[-- Diag-]{+te+}n[-ó-]s[-tic-]{+ã+}o [-No-]{+e+} [-pac-]{+dim+}i[-e-]n[-te ac-]{+uiçã+}o[-r-]{+ +}da[-do e-] [-ale-]{+f+}r[-ta, s-]e[-m-]{+quência+} {+c+}a[-lte-]r{+dí+}a[-ções neurológi-]ca[-s,-] [-a-]{+ou+} ausência de [-do-]{+taquica+}r{+dia+} {+r+}e[- d-]{+fl+}e{+xa. A+} [-hi-]p[-e-]r{+es+}s{+ão art+}e{+rial +}n{+ão +}s[-ibi-]{+e norma+}li[-d-]{+z+}a[-de-] [-a-]{+c+}o{+m+} [-l-]{+a rep+}o[-ng-]{+siçã+}o [-da c-]{+v+}ol[-un-]{+êmic+}a{+,+} [-vert-]e[-b-]{+ pa+}ra[-l-] [-p-]{+o t+}rat[-ic-]ament{+o dev+}e{+m+} {+s+}e[-xclui-]{+r+} {+us+}a{+dos+} {+vaso+}pres[-ença de le-]s[-õ-]{+or+}es{+.+}
+{+No+} [-signifi-]c[-ativas,-]{+hoque+} m{+edul+}a[-s-]{+r,+} [-não-]{+há+} {+fl+}a[- ne-]c{+id+}e[-ssidad-]{+z +}e {+per+}da [-r-]a[-dio-]g[-rafia -]{+u+}da [-c-]{+d+}o[-luna-]{+s+} [-ce-]r[-vica-]{+ef+}l[- -]e[-m tod-]{+x+}o{+s+} {+a+}p[-o-]{+ós +}l[-itraumatizad-]{+esã+}o [-ou-]{+da+} [-co-]m[- tra-]{+ed+}u[-ma -]l[-ocaliz-]a[-do-] [-acima-]{+de+} d{+ur+}a{+ção+} [-cl-]{+v+}a{+riá+}v[-ícu-]{+e+}l[-a-].[-Em-]{+ Há+} p[-acient-]e[-s aco-]rda[-dos,-] [-aler-]{+to+}ta[-s,-]{+l+} {+da+}s[-em-] [-in-]f[-l-]u[-ê-]n[-ci-]{+ções motor+}a [-d-]e [-n-]{+s+}en[-hum -]{+si+}ti[-p-]{+va abaix+}o d{+o nív+}e{+l+} d[-rog-]a[-,-] [-n-]{+l+}e[-ur-]{+sã+}o[-l-]{+. C+}o[-gica-]m[-ente-] [-n-]o[-rmais,-] [-s-]{+t+}em[- -]{+p+}o[-utras-]{+,+} [-lesõ-]{+há r+}e[-s-]{+torno+} d[-i-]{+o+}s[-t-]{+ +}r[-ativa-]{+eflexo+}s e [-s-]e[-m dor no pesc-]{+v+}o{+lu+}ç{+ã+}o [-e n-]{+p+}a[- linh-]{+r+}a [-méd-]{+h+}i[-a, r-]{+p+}e[-ti-]r[-a-]{+-+}r[- co-]{+ef+}l[-ar c-]e[-rv-]{+x+}i[-c-]a[-l e-]{+,+} p[-alpa-]{+o+}r [-to-]{+per+}da[-s-] {+d+}a[-s-] [-vérte-]{+ini+}b[-ras-]{+ição+} c[-e-]r[-vic-]a{+n+}i[-s-]{+al+}. [-Se a-]{+D+}u[-sênci-]{+r+}a[- d-]{+nt+}e [-d-]o[-r,-] pe[-dir late-]r[-alizaçã-]{+íod+}o [-ativa -]{+d+}e[- -]{+s+}se[-,-] [-ainda assim-]{+choque+}, não [-ref-]{+s+}e[-rir-] [-d-]{+p+}o[-r,-]{+de+} [-so-]{+ava+}li[-cit-]ar [-flexã-]o [-e exte-]{+da+}n[-sã-]o {+re+}a[-tivas-]{+l+}. [-Ap-]{+O diagn+}ós{+tico+} {+pod+}e[-s-]{+ +}se[-s-]{+r+} [-pass-]{+feit+}o[-s, é-] p[-ossív-]el{+a+} p[-roced-]er[- à retira-]da do [-cola-]r[- c-]e[-rvica-]{+f+}l[- s-]e[-m-]{+xo+} [-ne-]{+bulbo+}c{+av+}e{+rno+}s[-s-]{+o.+}
+{++}
+{+A aval+}i[-d-]a{+ção +}de d[-e-]{+éficits no+} exame [-de -]{+pr+}im[-agem.-]
+[-Quant-]{+ári+}o {+b+}a[-o-]s{+eia-se+} [-do-]e{+m si+}n[-te-]{+ai+}s [-c-]{+l+}o[-m -]{+c+}al{+iza+}t[-e-]{+ó+}r[-ação d-]{+i+}o{+s+} [-nív-]e[-l -]{+vi+}de[- co-]n{+te+}s[-ciência-], [-a exclusã-]o [-de l-]{+qu+}e[-são na-] [-colu-]n[-a-]{+em+} [-v-]{+s+}e{+mp+}r[-t-]e[-bral-] [-r-]{+pod+}e[-qu-]{+ s+}er avalia[-çã-]{+-d+}o [-radi--]{+n+}o[-lógica,-] {+in+}d[-e-]{+i+}v[-en-]{+í+}d{+u+}o {+incon+}s{+ci+}e[-r-]{+nte.+} [-m-]{+O di+}a{+g+}n{+ós+}ti[-d-]{+c+}o[-s-] [-a-]de[-qua-]{+ TRM +}d[-am-]e[-nt-]{+v+}e [-imobilizado-]s[- até a-]{+er+} realiza[-ção -]do[-s-] e[-xa-]{+ +}m[-es.-]
+[-A-]{+ai+}s [-lesõ-]{+b+}e[-s -]m[-edul-]{+ c+}ar{+act+}e[-s-]{+rizado+} [-p-]{+n+}o[-d-]{+ +}e{+xa+}m{+e+} se[-r divi-]{+cun+}d{+ár+}i[-das-]{+o.+} [-de-]{++}
+{++}
+{+-+} {+Di+}a{+gnósti+}co[-rdo-] {++}
+{++}
+{+Di+}c[-o-]{+a+}
+{+E+}m [-o com-]p[-ort-]a[-m-]{+ci+}ent[-o s-]e[-n-]s[-itivo-mot-]{+ ac+}or[-. N-]{+d+}a{+dos,+} {+a+}le{+rta+}s[-ão-]{+,+} [-co-]{+se+}m[-p-]{+ inf+}l[-et-]{+uênci+}a d[-a-]{+e+} [-m-]{+n+}e[-d-]{+nh+}u[-la-]{+m+} [-esp-]{+t+}i[-nal,-]{+po+} {+d+}e[-stá-] {+drog+}a[-use-]{+, +}n[-t-]e[- q-]u[-a-]{+ro+}l[-qu-]{+ogicament+}e[-r-] [-fu-]n[-çã-]o{+rmais,+} {+se+}m{+ +}o{+u+}t[-o-]ra{+s+} [-ou -]{+le+}s{+õ+}e[-n-]s{+ d+}i{+stra+}tiva{+s+} [-abaixo d-]e [-det-]{+s+}e[-r-]m[-inado nível. Tal-] d[-iagnóstic-]o{+r+} n[-ã-]o p[-od-]e[- -]s[-er -]co[-ncluí-d-]{+ç+}o [-até qu-]e {+n+}a [-f-]{+linha médi+}a{+, deve-+}se [-d-]{+r+}e{+tirar o+} c[-h-]o[-qu-]{+lar c+}e{+rvical+} [-m-]e[-du-]{+ pa+}l{+p+}ar [-nã-]{+t+}o{+das+} [-e-]{+a+}s{+ vér+}te[-j-]{+br+}a{+s+} [-r-]{+c+}e[-sol-]{+r+}vi[-d-]{+c+}a{+is+}.[-Já-] {+Se ausê+}n{+ci+}a [-l-]{+d+}e[-são-] [-inc-]{+d+}o[-m-]{+r, +}p[-l-]e[-ta -]d[-a-]{+ir+} [-m-]{+lat+}e[-du-]{+ra+}l{+ização ativ+}a e{+ +}s[-p-]{+e, a+}in{+d+}a[-l,-] [-perm-]a{+ssim, +}n[-ece-]{+ão+} [-c-]{+ref+}er[-to g-]{+i+}r[-au-] d[-e funçã-]o{+r,+} s[-ens-]{+ol+}i[-t-]{+c+}i[-v-]{+t+}a{+r+} {+flexã+}o[-u-] [-mo-]{+e ex+}t{+ensã+}o[-r-]{+ ativ+}a{+s+}. [-O -]{+A+}p[-rogn-]ós[-tico,-] [-n-]esse{+s+} [-c-]{+p+}a[---]{+s+}so{+s+}, [-m-]{+pod+}e[-lh-]{+-se pr+}o{+cede+}r[-a-] [-s-]{+à ret+}i[-gnific-]{+r+}a[-tiv-]{+d+}a[-mente.-] [-A-]{+do+} [-p-]{+cola+}r[-es-]{+ c+}erv{+ic+}a[-ção da-]{+l+} se{+m +}n{+eces+}s[-ibil-]idade d[-a r-]e[-gião-] [-p-]e[-rian-]{+x+}a[-l-]{+me+} [-po-]de [-s-]{+imag+}e[-r-]{+m+} [-a-]{+ou+} [-únic-]a[- e-]v[-idênc-]{+al+}ia[- de fun-]ção [-r-]{+com +}es{+pec+}i[--du-]al[-, q-]{+ista.+}
+{++}
+{+Q+}u[-e-]{+anto+} a[-c-]o{+s pacie+}nte[-ce-]{+s+} [-p-]{+c+}o[-r-]{+m+} al[-guma p-]{+t+}er[-cep-]{+a+}ção [-s-]{+do nível d+}e{+ co+}ns[-or-]{+c+}i[-al -]{+ê+}n{+ci+}a [-r-]{+ou com m+}e[-g-]{+can+}i[-ã-]{+sm+}o{+s+} [-p-]{+d+}e{+ t+}r[-i-]a[-n-]{+um+}a[-l-] {+sug+}e[-/-]{+stiv+}o[-u-]{+s,+} [-pel-]a {+ex+}c{+lusã+}o[-ntraç-]{+ de le-s+}ão [-v-]{+na c+}olun[-tári-]a [-do -]{+v+}e[-sfínc-]{+r+}te{+b+}r[- an-]al {+r+}e[-x-t-]{+qu+}er[-no.-]
+[-O-] [-ní-]{+a+}v[-e-]{+a+}l{+iação+} [-neu-]r{+adi+}ológic[-o é-]{+a,+} de[-fi-]{+ve+}n[-i-]do [-como-]{+ser+} {+mantid+}o{+s+} [-po-]{+adequadame+}nt[-o-]{+e+} {+i+}m[-a-]{+ob+}i{+lizado+}s [-c-]a[-ud-]{+té a re+}al{+ização+} [-c-]{+d+}o{+s exames.+}
+{+As lesões +}m{+edulares+} p[-r-]{+od+}e{+m +}ser[-vação-] [-b-]{+d+}i[-l-]{+vidid+}a[-t-]{+s d+}e{+ acordo com o compo+}r{+t+}a[-l-]{+mento+} sensitivo-motor[-a-]. [-As-]{+Na+} les[-ões-]{+ão+} [-a-]c[-i-]{+o+}m{+plet+}a d[-e-]{+a+} [-T1-]{+medula+} [-g-]e[-r-]{+spin+}al[-m-]{+, +}e[-n-]{+s+}t[-e-]{+á+} [-c-]aus[-am t-]e{+n+}t[-r-]{+e qu+}a[-p-]l{+qu+}e[-gia,-]{+r+} [-e-]{+função+} {+motor+}a{+ ou sen+}s{+itiva+} abaixo[-,-] [-parapl-]{+d+}e[-gia.-] [-O-]{+determinado+} nível{+. Tal+} {+diagn+}ós[-se-]{+tico nã+}o pode ser [-diferente d-]{+c+}o[- -]n[-eurológi-]c{+luí-d+}o[-,-] [-o-]{+até+} qu[-al pod-]e {+a fa+}se[-r-] d[-ividido-]{+e+} {+choqu+}e{+ +}m{+edular+} n[-íveis-]{+ão+} [-s-]e[-n-]s[-i-]t[-ivo -]e{+ja+} [-moto-]r[-, di-]{+e+}s[-cut-]{+olv+}id[-os -]a{+.+}
+{+Já+} [-seguir:-]{+n+}a[-)-] [-Níve-]l[- s-]e[-n-]s[-itiv-]{+ã+}o [-É def-]in[-ido -]com[-o o d-]{+pl+}e[-rmá-]t[-omo-]{+a da+} m{+edul+}a[-i-]{+ e+}s{+pinal,+} [-b-]{+perm+}a[-ixo-]{+nece+} c{+ert+}o[-m-]{+ grau de+} funç[-ões-]{+ão+} sensitiva[-s-] [-n-]o[-rmais.-]{+u+} [-Der-]m[-át-]o[-m-]{+t+}o[- é uma á-]r[-e-]a{+.+} [-de-]{+O+} p[-ele ine-]r[-vada p-]o[-r uma ra-]{+gnóst+}i[-z-]{+co,+} ne[-rvo-]s[-a -]se[-gment-]{+ c+}a[-r-]{+-so,+} [-(Figu-]{+melho+}ra [-2). O-]s[- po-]{+ig+}n[-tos--]{+ifi+}c[-h-]a{+ti+}v{+am+}e[-, -]{+nt+}e[-m-]{+.+} [-t-]{+A pres+}er[-m-]{+vaçã+}o[-s-] d[-e-]{+a+} sensibilidade[-,-] [-s-]{+da regi+}ão[-:-] [-Tab-]{+p+}e[-l-]{+ri+}a[- 1 - Po-]n[-tos-ch-]a[-ve em-]{+l+} [-term-]{+p+}o[-s -]de se{+r a ú+}n[-sib-]i[-l-]{+ca ev+}id{+ênci+}a{+ +}de[-C5	-] [-Á-]{+função +}re{+si-du+}a{+l,+} [-sobr-]{+qu+}e {+ac+}o[- del-]{+n+}t[-oid-]e[-C6	 D-]{+c+}e[-do-] po{+r a+}l[-e-]g{+um+}a[-r-]
+[-C7	-] [-D-]{+p+}e[-do médi-]{+rcepçã+}o[-C8	-] [-D-]{+s+}e[-d-]{+ns+}o{+rial+} [-mí-]n{+a reg+}i[-m-]{+ã+}o[-T4	-] [-Mam-]{+per+}i{+ana+}l{+ e/ou pela contração voluntária do esfíncter anal ex-terno.+}
+{++}
+{+Quadro clínico+}
+{+O nível neurológico é definido como o ponto mais caudal com preservação bilateral sensitivo-motora. As lesões acima de T1 geralmente causam tetraplegia, e as abaixo, paraplegia. O nível ósseo pode ser diferente do neurológico, o qual pode ser dividido em níveis sensitivo e motor.+}
+{++}
+{+a) Nível sensitivo +}
+{+É definido como o dermátomo mais baixo com funções sensitivas normais. Dermátomo é uma área de pele inervada por uma raiz nervosa segmentar (Figura 2). Os pontos-chave, em termos de sensibilidade, são: +}
+{++}
+{+Tabela 1 - Pontos-chave em termos de sensibilidade+}
+{+C5	Área sobre o deltoide+}
+{+C6	Dedo polegar+}
+{+C7	Dedo médio+}
+{+C8	Dedo mínimo+}
+{+T4	Mamilo+}
+{+T6	Xifoide+}
+{+T10	Umbigo+}
+{+T12	Sínfise púbica+}
+{+L4	Face medial da coxa+}
+{+L5	Espaço entre o 1º e o 2º pododáctilos+}
+{+S1	Borda lateral do pé+}
+{+S3	Área da tuberosidade isquiática+}
+{+S4 e S5	Região perianal+}
+{++}
+{+ +}
+{+Figura 2 - Inervação cutânea dividida por dermátomos+}
+{++}
+{+b) Nível motor+}
+{+Os músculos são inervados por mais de 1 raiz nervosa, e cada qual inerva mais de 1 músculo. Entretanto, certos grupos musculares apresentam uma única raiz nervosa espinal. Os músculos-chave devem ser testados bilateralmente e avaliados com relação à força muscular. O esfíncter externo do ânus é testado durante o toque retal.+}
+{+A documentação da força muscular permite avaliar a melhora ou piora da função neurológica em exames sequenciais. Deve ser quantificada em uma escala de força que vai de zero a 5, pois podem ocorrer déficits parciais (Tabela 3). Os grupos musculares, com as respectivas raízes nervosas, a serem pesquisados nos exames sequenciais são apresentados a seguir:+}
+{++}
+{+Tabela 2 - Grupos musculares pesquisados nos exames sequenciais+}
+{+C5	Deltoides extensores+}
+{+C6	Extensores do punho+}
+{+C7	Extensores do cotovelo+}
+{+C8	Flexores dos dedos até o dedo médio+}
+{+T1	Adutores do dedo mínimo+}
+{+L2	Flexores do quadril+}
+{+L3	Extensores do joelho+}
+{+L4	Flexores dorsais do tornozelo+}
+{+L5	Extensores longos do hálux+}
+{+S1	Flexores plantares do tornozelo+}
+{++}
+{+Tabela 3 - Graduação da sensibilidade muscular+}
+{+Escores	Achados ao exame+}
+{+0	Paralisia total+}
+{+1	Contração visível de palpaçã+}o[-T6-]{++}
+{+2	Movimentação total, desde que eliminada a força da gravidade+}
+{+3	Movimentação total contra a força da gravidade+}
+{+4	Movimentação total, mas com a força muscular diminuída+}
+{+5+}	{+Força normal+}
+{++}
+{+Pergunta+}
+{+2015 - UEL+}
+{+1. A perda súbita da força nos membros inferiores e+} [-X-]{+da sens+}i[-fo-]{+b+}i{+lida+}de[-T10	-] [-U-]{+simetrica+}m{+ente a+}b{+a+}i[-g-]{+x+}o[-T12	-] [-Sínf-]{+da c+}i[-se-]{+catriz+} [-pú-]{+um+}bi{+li+}ca[-L4	-]{+l,+} [-F-]{+em um p+}ac{+ient+}e {+politrau+}m[-ed-]{+at+}i{+z+}a[-l -]d[-a-]{+o,+} [-c-]{+é f+}o[-x-]{+rtemente sugestiv+}a[-L5	-] [-E-]{+de le+}s[-p-]{+ão: +}
+a[-ç-]{+) n+}o {+di+}en{+céfalo+}
+{+b) no +}tr{+onco cer+}e{+bral+}
+{+c)+} {+n+}o [-1º -]{+tel+}e{+ncéfalo+}
+{+d)+} {+na c+}o{+luna+} [-2º-]{+cervical+}
+{+e)+} [-p-]{+na c+}o[-d-]{+luna t+}o[-d-]{+r+}ác[-t-]i[-l-]{+ca+}
+{++}
+{+Resp+}os[-S1	-]{+ta+} [-B-]{+n+}o[-r-]{+ final +}d{+o capítulo+}
+{++}
+{+3. Av+}a[- -]l{+i+}a[-te-]{+ção +}ra[-l -]d{+i+}o{+lógica+}
+{++}
+{+O+} [-pé-]
+[-S3	-]{+único+} [-Ár-]e{+x+}a{+me+} [-d-]{+r+}a{+diológico+} [-t-]{+q+}u[-b-]e[-r-]{+ p+}o[-sida-]de [-i-]s[-quiát-]{+er sol+}ic{+it+}a[-S4-]{+do+} {+como complem+}e{+nto+} [-S5	-]{+à+} [-Reg-]{+aval+}i{+aç+}ão p[-e-]{+rimá+}ria[-nal-] [-Figu-]{+é o +}ra{+io+} [-2-]{+x+} [---]{+de+} [-In-]{+p+}er[-v-]{+fil d+}a[-ção-] c{+ol+}u[-tâ-]n[-e-]a [-di-]{+cer+}vi[-did-]{+c+}a{+l.+} [-por d-]{+D+}e[-rmáto-]m[-o-]{+ai+}s[-b)-] [-Nív-]e[-l -]{+xa+}m[-otor-]
+[-O-]{+e+}s {+deve+}m[-úsculo-]{+ +}s{+er+} s[-ã-]o[- -]{+l+}i[-nerv-]{+cit+}ados [-por -]{+e+}m{+ p+}a{+c+}i{+ente+}s [-d-]e[- 1 ra-]{+stáve+}i[-z-]{+s+} [-n-]{+h+}e[-rv-]{+m+}o[-s-]{+dinamic+}a{+mente+}, {+conforme o nív+}e{+l+} [-cada-]{+em+} qu[-al-]{+e+} [-in-]{+s+}e[-rva-] [-mai-]s{+us-peita+} de [-1 múscu-]l{+esã+}o.[- Entret-]{++}
+{++}
+{+Di+}a{+g+}n{+ós+}t[-o, -]{+i+}c[-ert-]o[-s-]{++}
+{+O+} [-g-]r[-up-]{+ai+}o[-s-] [-mu-]{+x +}s[-cu-]{+imp+}l[-ar-]es [-apres-]{+c+}e[-nt-]{+rvic+}a[-m-]{+l+} [-u-]{+e+}m[-a-] [-ú-]{+i+}n{+c+}i{+dên+}c{+i+}a [-r-]{+l+}a[-iz n-]{+t+}er[-vos-]a{+l ou+} e[-s-]{+m +}p{+erf+}i[-na-]l[-.-] [-Os-]{+deve+} m[-úscul-]os[--ch-]{+tr+}a[-ve-]{+r+} [-devem-]{+a+} {+ba+}se[-r-] [-testa-]do[-s-] [-b-]{+crân+}i[-l-]{+o, +}a{+s 7 vér+}te{+b+}ra[-lmente-]{+s+} {+c+}e[- a-]{+r+}v[-al-]i{+c+}a[-do-]{+i+}s [-com-]{+e a+} {+t+}r[-el-]a{+nsi-+}ção [-à f-]{+c+}o[-rça -]m[-uscul-]{+ +}a[-r.-] [-O-]{+1ª+} [-esfínc-]{+vér+}te{+b+}r{+a+} [-ex-]t[-ern-]o{+rácica (Figura+} [-do-]{+3+} [-ânus-]{+-+} [-é-]{+A).+} [-test-]{+Su+}a[-do-] {+sensibili+}d[-ur-]a[-nt-]{+d+}e [-o-]{+é+} [-toqu-]{+d+}e {+85% pa+}r[-et-]a[-l.-]
+[-A-]{+ a+} d[-ocum-]e[-n-]t[-a-]{+ec+}ção d[-a-]{+e+} f[-o-]r[-ç-]a[- m-]{+t+}u{+ra+}s[-c-]{+. Q+}u[-l-]a[-r-]{+ndo não é+} p{+ossív+}e[-rmite-]{+l+} a{+ +}v{+isu+}ali{+z+}a[-r-]{+ção+} {+d+}a{+s+} {+últi+}m{+as vért+}e[-lho-]{+b+}ra{+s+} [-ou -]{+cervic+}a[- p-]i{+s +}o[-ra-]{+u+} da [-fu-]{+tra+}n{+si+}ção [-neu-]{+to+}r{+ac+}ol[-ógica e-]{+o+}m[- ex-]{+b+}a[-mes-]{+r,+} [-sequ-]{+pod+}e[-nciai-]{+m-+}s[-. Dev-]e [-se-]{+t+}r[- qu-]a[-ntifi-]c{+ion+}a[-da-]{+r+} [-em-]{+os+} [-u-]m[-a -]e{+mbro+}s[-cala-] [-d-]{+sup+}e[- f-]{+ri+}or[-ça qu-]e{+s+} [-v-]{+p+}a[-i de ze-]r[-o a 5, pois-]{+a+} [-p-]{+baix+}o[-dem-] o{+u +}co[-rre-]{+loca+}r [-déficits-]{+o+} pa[-r-]ci{+ente n+}a[-is-] [-(T-]{+ch+}a[-bel-]{+mad+}a [-3). Os gru-]{+“+}pos{+ição+} [-muscul-]{+do nad+}a{+do+}r[-es-]{+”+}, com [-resp-]e[-c-]{+x+}t[-ivas raíz-]e{+n+}s{+ão+} {+a+}n{+t+}er[-v-]{+i+}o[-sas,-]{+r+} [-a-]{+de um membro+} s{+up+}er{+ior +}e[-m-] p[-e-]{+o+}s[-qu-]{+ter+}i[-sa-]{+or +}do[-s-] [-n-]o[-s-]{+utro,+} [-ex-]{+par+}a[-mes-] [-sequ-]{+a r+}e[-nc-]{+t+}i{+r+}a[-i-]{+da do+}s[-,-] {+ombro+}s[-ã-]{+ d+}o {+c+}a{+m+}p{+o +}r[-esent-]ad{+i+}o[-s a-]{+lógico.+}
+{++}
+ [-se-]{++}
+{+Fi+}gu[-i-]r[-:-]
+
+[-Tabel-]a [-2-]{+3+} - [-Grupos muscul-]{+R+}a{+diog+}r[-es pesqu-]{+af+}i[-s-]a[-do-]s no[-s exa-]{+r+}m[-e-]{+ai+}s [-seq-]{+da col+}u[-e-]n{+a +}c{+erv+}i{+c+}a[-is-]
+[-C5	-]{+l:+} [-D-]{+(A) p+}e[-lto-]{+rf+}i[-des-]{+l;+} [-ex-]{+(B) an+}te[-nso-]r[-e-]{+opo+}s[-C6	 Ex-]te[-ns-]{+ri+}or[-es-] [-do-]{+e+} [-punho-]{+(+}C[-7	-]{+)+} [-Ex-]t[-e-]{+ra+}nsor{+al, +}e[-s-]{+m+} [-do-]{+que+} [-cot-]{+é p+}o{+ssí+}vel[-o-]
+[-C8	 Flexores-] [-d-]o{+b+}s[- d-]e[-dos -]{+rv+}a[-té o dedo-]{+r+} [-médi-]o[-T1	-] [-Aduto-]{+p+}r{+oc+}es[- d-]{+s+}o [-de-]{+o+}do[- mí-]n[-im-]{+t+}o[-L2	 Fl-]{+id+}e[-xor-]{+ +}e[-s-] [-do-]{+a+} [-qu-]a[-d-]r{+t+}i{+cu+}l[-L3	-]{+ação+} [-Ext-]en[-so-]{+t+}re[-s-] [-do-]{+a+} [-joelho-]
+[-L4	-]{+1ª+} [-Fl-]e[-xo-]{+ a 2ª vé+}r{+t+}e{+bra+}s [-do-]{+ce+}r[-s-]{+vic+}ais{++}
+{++}
+{+O+} [-d-]{+rai+}o {+x an+}t[-o-]{+e+}r[-n-]o[-zel-]{+p+}o[-L5	 Ex-]{+s+}te[-ns-]{+ri+}or[-es-] {+é aque+}l[-ongo-]{+e que mai+}s {+bem i+}d[-o-]{+entifica+} [-há-]lux[-S1	 Flexor-]{+açõ+}es [-p-]{+uni+}la[-n-]t[-ar-]e{+rai+}s d[-o-]{+as+} {+jun+}t[-o-]{+as a+}r[-noze-]{+ticu+}l[-o-]
+
+[-T-]a[-bel-]{+das (Figur+}a 3 - [-Graduação-]{+B). A+} {+inci-+}d{+ênci+}a [-se-]{+tra+}ns[-ib-]{+oral é ut+}ili[-d-]{+z+}ad[-e-]{+a+} [-musc-]{+q+}u[-lar-]
+[-Escores	Ach-]a{+n+}do[-s-] [-ao-]{+há+} {+susp+}e[-x-]{+it+}a[-m-]{+ d+}e[-0	Para-]{+ +}l[-i-]{+e+}s[-ia t-]{+ã+}o[-tal-]{+ de C+}1[-	-]{+ ou +}C{+2 n+}o{+ pacie+}nt[-raçã-]{+e c+}o{+m+} [-visív-]{+qu+}e[-l-]{+ixa+} de [-palpação-]
+[-2	M-]{+d+}o{+r cer+}vi[-ment-]{+c+}a[-ção-]{+l+} [-tot-]al{+ta+}, [-desd-]{+uma v+}e{+z+} que [-elimi-]{+co+}n[-ada-]{+segue+} a[- forç-]{+v+}a[- d-]{+li+}a[- g-]r{+ +}a[-vi-]d{+equ+}ad[-e-]
+[-3	Movi-]{+a+}ment[-ação-]{+e+} [-t-]o[-tal-] {+pro+}c{+esso od+}ont[-ra a f-]o[-rça -]{+i+}d[-a-]{+e+} {+(Fi+}g{+u+}ra[-vid-]{+ 3 - C). Su+}a[-de-]
+[-4	Mov-]{+ l+}im[-en-]{+i+}tação [-t-]{+sã+}o[-tal,-] [-m-]{+os p+}a{+ciente+}s com {+intub+}a{+ção+} [-f-]or[-ç-]{+o-tr+}a[- musc-]{+q+}u[-l-]{+e+}a[-r-]{+l,+} [-di-]{+e+}m[-in-]{+ q+}u[-ída-]
+[-5	Forç-]{+e +}a [-n-]{+T+}o[-r-]m[-al-]
+
+[-3. Avaliaçã-]o[- -]{+g+}ra[-diológ-]{+f+}i[-c-]a[-O-] [-únic-]{+C+}o[- exa-]m[-e r-]{+put+}ad[-i-]o[-lóg-]{+r+}i[-co que po-]{+za+}d[-e-]{+a+} [-ser-]{+(TC) é+} [-solicit-]a[-do-] [-co-]m{+elh+}o{+r+} [-c-]o[-m-]p[-l-]{+ção.+}
+{+S+}em{+pr+}e[-nto-] [-à-]{+que+} [-avaliação-]{+há+} {+sus+}p[-rimár-]{+e+}i{+t+}a [-é o ra-]{+clín+}i[-o x-]{+ca+} de [-pe-]{+t+}r[-f-]{+aumat+}i[-l-]{+smo+} da coluna cervical[-.-]{+,+} [-Dem-]a[-is-] [-ex-]{+radiografi+}a[-mes-] deve[-m-] ser [-so-]{+rea+}li[-cit-]{+z+}ad[-o-]{+a na+}s [-em-]{+3+} [-pa-]{+in+}ci[-e-]{+dê+}n[-te-]{+cia+}s [-estáve-]{+c+}i{+ta-da+}s{+,+} [-he-]{+au+}m[-odi-]{+e+}n{+t+}a[-mic-]{+ndo +}a[-m-]{+ s+}en[-t-]{+sibilidad+}e[-,-] [-confo-]{+pa+}r[-me-]{+a+} {+diagnóstic+}o [-nív-]{+d+}e[-l-] [-em-]{+fratura (até+} {+92%). Qual+}que[- se-]{+r+} sus[---]peita de {+anorma+}l{+idad+}e[-são.-]
+[-O-]{+ na+} ra{+d+}io[- x-]{+grafia+} simples [-cerv-]{+ind+}ica[-l-] [-em-]{+a+} {+TC.+}
+{++}
+{+D+}i{+ag+}n[-c-]{+óst+}i[-dên-]c{+o+}
+{+A tomograf+}ia {+de co+}l{+un+}a{+ ver+}te{+b+}ral {+é +}o[-u-] e{+xa+}m[- p-]e[-rfil-] de[-ve-] [-mo-]{+e+}s[-tr-]{+colh+}a[-r-] {+p+}a[- b-]{+r+}a[-se do-] c[-râ-]{+o+}n{+f+}i[-o, -]{+rm+}a[-s-]{+r+} [-7-]{+lesões+} v[-é-]{+e+}rtebra{+i+}s{+.+} [-c-]{+D+}e[-r-]v{+e-se sol+}ic[-a-]i[-s e-]{+tar+} a t{+omog+}ra[-ns-]{+f+}i[-ção com -]a [-1ª-]{+da+} vértebra [-torácica (Figura 3 - A).-]{+em+} [-S-]{+q+}u[-a s-]e[-n-]s[-ibilidade-]{+tão+} [-é-]{+e+} de[- 85%-]{+,+} p[-ara-]{+elo menos,+} {+um+}a [-dete-]{+a+}c[-ção-]{+ima+} [-d-]e [-frat-]{+o+}u{+t+}ra[-s.-] [-Qu-]a[-nd-]{+baix+}o [-nã-]{+d+}o [-é p-]{+l+}o{+cal +}s{+u+}s[-ív-]{+peito. +}
+{++}
+{+	Sempre qu+}e[-l-] [-a-]{+o+} [-visu-]{+p+}a[-l-]{+c+}i[-zação-]{+ente+} [-da-]{+e+}s[- úl-]ti[-mas -]v[-ért-]e[-b-]r[-as-] [-cerv-]{+s+}i[-ca-]{+ntomát+}i[-s -]{+c+}o[-u-] [-d-]{+e +}a [-t-]ra[-ns-]{+d+}i[-ção t-]o{+g+}ra[-colomb-]{+fi+}a[-r,-] [-pod-]e[-m--]s{+tiv+}e{+r+} [-t-]{+no+}r{+m+}a[-cion-]{+l, +}a[-r-] {+t+}o[-s -]m[-embr-]o[-s-]{+grafia+} s[-up-]er{+á +}i[-o--]{+ndicada. A +}res{+sonância+} [-p-]{+nucle+}ar[-a-] [-b-]{+m+}a{+gnét+}i[-xo-]{+ca é+} [-o-]u{+tilizada+} co[-l-]{+m+}o[-car-] [-o-]{+um+} [-p-]{+ex+}a{+me +}c[-i-]{+ompl+}e[-nt-]{+m+}e[- -]n{+t+}a{+r+} [-cha-]{+à to+}m{+ogr+}a[-d-]{+fi+}a{+,+} [-“posiç-]{+n+}ão {+sen+}do [-n-]{+solicit+}ada[-d-]{+ n+}o[-r”,-] {+iní+}c{+i+}o[-m-] [-extens-]{+da avaliaç+}ão{+.+}
+{+Há+} a[-n-]{+u+}t[-eri-]or[- d-]e{+s+} {+q+}u[-m -]e [-poster-]i[-or -]{+n+}d[-o-]{+icam a+} [-ou-]t[-r-]o[- me-]m[-bro superi-]o{+g+}r[-, p-]a[-r-]{+fi+}a {+de colun+}a [-r-]{+c+}e[-ti-]r{+vic+}a[-d-]{+l +}a {+to+}dos [-o-]{+e+}m[-br-]{+ c+}o[-s-]{+ma, já que até 2,5%+} d[-o-]{+aqueles+} c[-amp-]o{+m+} [-r-]{+inst+}a[-d-]{+b+}i[-o-]l[-óg-]i[-co.-]{+dade+} [-Figu-]{+ce+}r{+-vic+}a{+l+} [-3-]{+podem+} [---]{+ter+} [-R-]{+r+}adiografias normais{+. Além disso, 10%+} da{+queles+} co[-l-]{+m frat+}u[-n-]{+r+}a cervical[-:-] [-(A)-]{+têm+} [-perfil;-]{+uma+} [-(B)-]{+2ª+} {+fr+}a[-n-]t[-e-]{+u+}r{+a da c+}o[-pos-]{+luna ver+}te{+b+}r[-i-]{+al nã+}o[-r-] [-e-]{+contígua+} [-(C)-]{+e+} [-t-]{+vice-ve+}r[-an-]s[-or-]a[-l-], {+d+}e{+ +}m{+odo+} que [-é-]{+a+} p[-ossív-]{+aci+}e[-l-]{+ntes+} {+c+}o[-bs-]{+m fratura c+}erv{+ic+}a[-r-]{+l+} o{+u+} [-proc-]e[-sso-]{+m+} {+c+}o[-dontoide-]{+ma+} {+s+}e {+indic+}a a[-rticu-]{+ ava+}l{+i+}ação [-ent-]r[-e -]{+adiológic+}a [-1ª -]{+d+}e {+tod+}a [-2ª-]{+a coluna+} v[-é-]{+e+}rtebra[-s cervicais-]
+
+[-O raio-]{+l.+}
+{+A+} [-x-]{+RNM+} [-antero-]po[-st-]{+d+}e[-rior é-] [-aqu-]{+of+}e[-l-]{+r+}e[- qu-]{+c+}e{+r+} mais [-bem i-]de[-n-]t[-ific-]a[- -]l[-uxaçõ-]{+h+}es{+,+} [-u-]{+pri+}n{+c+}i[-l-]{+p+}a{+lmen+}te[-rais das-] [-ju-]n[-t-]a[-s-] a[-rticulad-]{+v+}a[-s (F-]{+l+}i[-gur-]a{+ção+} [-3-]{+de+} [---]{+partes+} [-B)-]{+moles+}. [-A i-]{+E+}n[-ci-dê-]{+treta+}n{+to, +}c[-ia-]{+omo+} [-tr-]{+o ex+}a[-n-]{+me pode +}s{+er dem+}ora[-l-]{+do,+} é {+pouco +}utilizad[-a quand-]o [-há -]{+na+}s[-u-]{+ fa+}s[-p-]e{+s inicia+}i{+s.+}
+{++}
+{+Pergun+}ta{++}
+{+2015+} [-de-]{+-+} [-lesã-]{+SURCE+}
+{+2. Um h+}o{+mem+} de [-C1-]{+55 anos+} {+f+}o[-u-]{+i+} [-C2-]{+admitido+} no [-d-]{+pr+}o[-e-]nt[-e -]{+o-so+}co[-m-]{+rro+} [-queix-]a{+pós+} [-de d-]{+s+}o{+f+}r[- c-]er[-vical alta,-] uma [-vez -]que[- consegue avaliar a-]d[-equ-]a{+ +}d[-ament-]e {+m+}o[- pr-]{+t+}oc{+icl+}e[-sso-]{+ta+} {+ch+}o[-do-]{+ca+}n[-toi-]d{+o-s+}e [-(Figu-]{+cont+}ra [-3 - C).-]{+uma+} [-S-]{+peq+}u{+en+}a [-li-]m[-i-]{+ure+}ta[-ção-]{+.+} [-são-]{+Refere que+} [-o-]{+u+}s{+ava+} {+ca+}pac[-i-]e[-n-]te[-s-] [-c-]{+n+}o[-m-] [-i-]{+mome+}nt[-ubaçã-]o [-orotr-]{+d+}a[---]{+ +}que{+d+}a[-l,-] e[-m-] que{+,+} [-a T-]{+c+}om[-ografia-] [-Computad-]o[-rizada-] [-(TC) é a mel-]{+c+}ho[-r opção.-]
+[-Sempre -]que{+,+} h[-á s-]{+o+}u[-sp-]{+v+}e[-ita-] [-clín-]{+h+}i[-ca d-]{+p+}e[- t-]r[-auma-]{+ex+}t[-i-]{+en+}s[-m-]{+ã+}o d[-a-]{+o+} {+pes+}co[-lun-]{+-ço. N+}a [-cer-]{+a+}v[-ic-]al[-, -]{+i+}a{+ção+} [-rad-]i[-ograf-]{+nic+}ia{+l,+} [-dev-]e[- s-]{+l+}e[-r-] [-r-]e{+st+}a[-lizada n-]{+v+}a[-s 3-] [-in-]c[-idê-]{+o+}n[-cia-]s[- -]ci{+en+}t[-a-das-]{+e+}, [-aum-]{+r+}e[-nt-]{+spir+}ando [-a -]se[-ns-]{+m d+}i[-b-]{+f+}i{+cu+}l[-i-]dade{+,+} [-para diagnó-]s[-tico d-]e{+m+} [-fratura (-]{+sin+}a[-té-]{+is+} [-92%).-]{+de+} [-Qual-]{+cho+}que[-r-]{+,+} [-s-]{+e q+}u[-sp-]ei[-t-]{+xav+}a{+-se+} de [-an-]{+d+}or[-malidade-] na r[-ad-]{+eg+}i{+ã+}o[-g-]{+ ce+}r[-af-]{+v+}i{+c+}a{+l+} {+po+}s{+ter+}i[-mpl-]{+or +}e[-s-] [-i-]n[-dica-]{+o+} a[- TC.-]
+[-A TC-]{+ntebraço+} d[-a-]{+ireito,+} [-c-]o[-lu-]n[-a-]{+de+} [-v-]{+s+}e[-r-]{+ no+}t{+a uma d+}e[-b-]{+fo+}r{+m+}a[-l é-]{+ção.+} {+N+}o exame [-de e-]s{+e+}c{+undári+}o[-l-]{+, +}h[-a-]{+á+} [-pa-]{+do+}r[-a-] [-a-]{+à+} [-confirm-]{+palp+}ação [-de-]{+na+} [-lesõ-]{+r+}e[-s-]{+gião+} [-ver-]{+pos+}te[-b-]r[-a-]i[-s.-]{+or+} [-Dev-]{+do p+}e[---]s[-e-]{+coço,+} s[-ol-]{+em déf+}icit[-ar a-] [-to-]mo[-grafia da vér-]t[-eb-]{+o+}r[-a em-] [-q-]{+o+}u{+ s+}e{+n+}s{+i+}t[-ã-]{+iv+}o{+.+} [-e-]{+Qual+} d[-e,-]{+as+} [-pe-]{+a+}l[-o-]{+ternativas+} [-m-]{+s+}e{+gui+}n[-o-]{+te+}s[-,-] [-1-]{+é+} a[-cima-] {+m+}e{+lhor+} {+c+}o{+nd+}ut[-r-]a {+p+}a[-b-]{+r+}a[-ixo-] [-do loc-]{+av+}al[- suspe-]i[-to.-]{+-ar+} [-S-]e{+ i+}m[-p-]{+obiliza+}r[-e que-] o paciente{+?+} [-es-]{++}
+{+a) man+}t[-iv-]er [-s-]i[-nto-]m[-át-]{+ob+}i[-c-]{+lizaçã+}o {+d+}e {+tod+}a [-r-]a[-di-]{+ c+}o[-grafi-]{+lun+}a e[-stiver-]{+m+} [-no-]{+p+}r[-m-]a[-l,-]{+ncha+} {+long+}a [-TC-]{+e+} [-s-]{+r+}e{+aliza+}r[-á-] [-in-]{+ra+}di[-c-]{+ogr+}a[-d-]{+fi+}a[-.-]{+s+} [-A-]{+de+} [-R-]{+p+}e[-ssonânc-]{+rf+}i[-a-]{+l,+} [-Nuc-]{+ob+}l[-e-]{+íqu+}a[-r-] [-M-]{+e +}a[-g-]n[-é-]t[-ica (RNM) é u-]{+eropos+}t{+er+}i[-liza-]{+or +}da co[-mo -]{+l+}u[-m ex-]{+n+}a[-me-] c[-ompl-]e[---]{+rvical +}
+{+b) +}m[-e-]{+a+}nt[-a-]{+e+}r [-à to-]{+i+}mo[-graf-]{+bil+}i{+z+}a[-, n-]{+ç+}ão [-sen-]d[-o-]{+e+} [-solici-]t[-a-]{+o+}da [-no-]{+a+} [-iní-]c[-i-]o[- d-]{+lun+}a {+em pr+}a[-v-]{+nch+}a{+ +}l[-iaçã-]o[-.-]
+[-Há -]{+ng+}a[-utores-] [-qu-]e [-indic-]{+re+}a[-m -]{+liz+}a{+r+} tomografia {+axial +}da coluna cervical [-a tod-]{+c+}o[-s-]{+m+} {+c+}o{+rte+}s [-pac-]{+f+}i[-e-]n[-te-]{+o+}s [-em -]{++}
+c[-oma, já que-]{+)+} {+m+}a{+n+}t[-é 2,5% daquel-]e[-s-]{+r+} co[-m ins-tabi-]l[-id-]a[-de-]{+r+} cervical [-pod-]{+s+}em[- te-]{+i+}r[- -]r[-adio-]{+í+}g[-raf-]i[-as n-]{+d+}o[-rmais.-] [-Além-]{+e+} [-d-]i[-ss-]{+m+}o[-, 10% -]{+biliza+}do{+re+}s [-pacient-]{+d+}e[-s-] c[-om fr-]a[-tur-]{+beç+}a [-c-]e{+ +}r[-vic-]{+e+}al[- -]{+iz+}a[-p-]r[-esentam-] [-u-]{+to+}m{+ografi+}a [-2ª fr-]a[-tur-]{+xi+}a{+l+} da coluna [-vert-]{+c+}e[-b-]r{+vic+}al [-nã-]{+c+}o{+m+} co[-n-]{+r+}t[-ígua -]e{+s+} [-v-]{+f+}i[-ce-ver-]{+no+}s[-a,-] {++}
+d[-e-]{+)+} m[-odo que -]a[- pacie-]nte[-s-]{+r+} co[-m fr-]{+l+}a[-tu-]r[-a-] cervical [-ou em coma -]se[- -]{+m+}i[-nd-]{+rríg+}i[-ca-]{+do+} [-a-]{+e+} [-aval-]i[-açã-]{+m+}o[- rad-]{+b+}i[-o-]l[-óg-]i[-c-]{+z+}a[- -]d{+or+}e{+s+} [-to-]d[-a a-]{+e+} c[-olun-]{+abeç+}a [-v-]e{+ +}r[-t-]e[-br-]al[-.-]
+[-A RNM-]{+izar+} [-po-]{+ra+}d[-e -]{+i+}o[-ferece-]{+g+}r[- m-]a{+f+}i{+a+}s de[-talhes,-] p{+e+}r{+f+}i[-ncipa-]l[-mente na-]{+,+} [-ava-]{+ob+}l[-i-]{+íqu+}a[-ção-] [-d-]e [-p-]a[-r-]{+n+}te[-s m-]{+rop+}o[-le-]s[-. En-]t[-r-]e[-tanto, como -]{+ri+}o{+r+} [-ex-]{+d+}a[-me-] [-p-]{+c+}o[-de ser-]{+luna+} [-d-]{+c+}e[-mo-]r{+vic+}a[-do, é-]{+l+} {++}
+{+Res+}po[-uco u-]{+s+}t[-iliz-]a[-do-] n[-as-]{+o+} f[-ases -]in[-i-]{+al do +}c[-i-]a[-is.-]{+pítulo+}
+{++}
+4. Conduta terapêutica{++}
+{++}
+A - Imobilização{++}
+A imobilização manual deve ser instituída imediatamente, não sendo retardadas as medidas terapêuticas do atendimento inicial para a colocação de dispositivos apropriados. A imobilização adequada em pacientes com fratura de coluna cervical inclui colar cervical semirrígido, prancha longa, head{+ +}blocks e tirantes. Deve-se manter a imobilização até a exclusão da pre-sença de fraturas (Figura 4).{++}
+{++}
+ {++}
+Figura 4 - Triagem do paciente com suspeita de traumatismo raquimedular{++}
+{++}
+Os pacientes devem ser removidos da prancha rígida tão logo seja possível, devido ao risco de formação de úlceras de decúbito que pode iniciar-se após 2 horas, quando com déficit sensitivo. Se houver dúvida da presença de lesão após o raio x, o colar deve ser mantido até a tomografia. Toda mobilização deve ser feita pela técnica de rolamento em bloco, preferenci-almente com 3 ou 4 pessoas.{++}
+Garantir um suporte ventilatório e hemodinâmico é essencial para não ocorrer piora do quadro por complicações sistêmi-cas. A tração cervical, assim como o uso de imobilizadores especiais tipo SOMI (Sternal Occipital Mandibular Immobiliz[-ation-]{+er+}) ou halo craniano, só deve ser colocada após a avaliação por equipe de {+Neurocirurgia ou +}Ortopedia especializada em coluna.{++}
+{++}
+B - Corticosteroides{++}
+Até a 7ª edição, o ATLS® preconizava a metilprednisolona em casos de TRM não penetrante nas primeiras 8 horas após o trauma, sendo a dose administrada de 30mg/kg nos primeiros 15 minutos, seguida de 5,4mg/kg/h nas outras 23 horas. Entre-tanto, nas 2 últimas edições, observa-se que não há evidência na literatura que suporte o uso de corticoides nessas situações. {++}
+Além disso, a administração de altas doses de corticoides aos traumatizados pode levar a efeitos indesejáveis na evolução. Dentre os efeitos colaterais observados com a utilização de corticoide nesses casos, pode haver elevação na incidência de complicações infecciosas e respiratórias, maior incidência de trombose venosa profunda, tromboembolismo pulmonar, he-morragia digestiva e pancreatite, piora na evolução de TCE associado e possibilidade de “mascarar” sintomas de traumatismo de vísceras abdominais ocas. {++}
+{++}
+C - Transferência {++}
+Na suspeita de lesão, deve-se consultar, assim que possível, neurocirurgião ou ortopedista. Se necessário, deve-se trans-ferir o paciente para uma instituição com recursos para lhe proporcionar um tratamento definitivo.{++}
+{++}
+D - Tratamento cirúrgico{++}
+{+	+}As 2 indicações clássicas para o tratamento de emergência das fraturas da coluna vertebral são a progressão do déficit neurológico e a presença de luxação com déficit neurológico parcial[-;-]{+,+} situações em que o paciente deve ser transferido para um serviço que disponha de ortopedista e/ou de neurocirurgião.{++}
+{++}
+{++}
+5. Síndromes medulares{++}
+{++}
+A - Síndrome central da medula {++}
+Mais comum em idosos submetidos a mecanismo de hiperextensão, ocorre por comprometimento vascular da medula, na área irrigada pela artéria vertebral anterior. {++}
+{++}
+Tabela 4 - Padrões característicos de lesão neurológica na síndrome central da medula{++}
+- Desproporção da perda de força motora nos membros superiores e nos membros inferiores (perda MMSS >MMII);{++}
+- Perda sensorial variável;{++}
+-[- -]{+	+}Lesão por hiperextensão em [-do-]{+paci+}entes com estenose preexistente do canal medular cervical;{++}
+-[- -]{+	+}Recuperação sequencial = 1º MMII, 2º função vesical, 3º MMSS, 4º mão;{++}
+- Prognóstico melhor {+do +}que o das lesões incompletas. {++}
+Todo esse quadro se deve à disposição anatômica das fibras do trato corticospinal, já que as fibras nervosas responsáveis pelas funções dos membros superiores estão localizadas na região central, enquanto as responsáveis pelos membros inferio-res estão situadas perifericamente.{++}
+{++}
+B - Síndrome anterior da medula [-M-]{++}
+{+	O quadro clínico da síndrome anterior da medula m+}anifesta-se por paraplegia e dissociação da perda sensorial (perda de sensibilidade à dor e à temperatura e preservação da sensibilidade proprioceptiva à vibração e à pressão)[-,-]{+.+} [-é-]{+É+} secundária ao infarto da medula no território da artéria vertebral anterior e é a lesão incompleta de pior prognóstico. Os principais meca{+-+}nismos associados são a compressão e/ou a flexão do canal medular.{++}
+{++}
+{++}
+C - Síndrome de Brown-Séquard{++}
+Trata-se de uma situação rara, por hemissecções da medula. [-O-]{+Nesta síndrome, o+}bservam-se comprometimento motor ipsi{+-+}lateral à lesão, perda da sensibilidade postural e perda da sensibilidade contralateral. Costuma ocorrer, ainda, algum grau de recuperação, sendo bom prognóstico.{++}
+{++}
+{++}
+D - Síndrome do cone medular{++}
+Caracteriza-se pela compressão mecânica externa da medula espinal, cujas manifestações clínicas variam de acordo com o local anatômico da lesão e podem incluir dor localizada, fraqueza, perda sensorial, incontinência e impotência. Além das fra-turas da coluna vertebral, pode ser consequente a neoplasias extramedulares, abscesso epidural, deformidades ósseas dos corpos vertebrais e outras condições.{++}
+{++}
+E - Síndrome da cauda equina{++}
+{++}
+Pode ser definida como a perda parcial ou total da{+s+} funç[-ão-]{+ões+} urinária, intestinal e sexual devida à compressão da cauda equina na região lombar. A lesão produzida é do tipo neurônio motor inferior ou paralisia flácida.[- -]{++}
+Nesse tipo, não há a condu[---]ção do estímulo de forma completa até a medula espinal e os reflexos, e o tônus muscular permanece diminuído ou ausente (flácido). A lesão, na maioria dos casos, é de forma incompleta, com preservação parcial da sensibilidade e da função motora, e não ocorrem hipertonia muscular e hiper-reflexia, porque os motoneurônios superiores estão intactos. {++}
+A etiologia mais comum nos casos agudos é a hérnia discal. A etiologia traumática é rara nessa síndrome.{++}
+{++}
+6. Lesões específicas{++}
+{++}
+A - Coluna cervical{++}
+A luxação atlantoccipital é rara e acontece por flexão associada à tração. A maioria dos pacientes com essa lesão morre antes do atendimento inicial. É frequente a associação dessa fratura à síndrome “do bebê sacudido” (shaking baby – Figura 5 - A). A fratura do atlas (C1) pode estar presente em até 5% das fraturas da coluna cervical, e 40% dos casos estão associados à fratura de C2. É mais frequente por explosão (fratura de Jefferson – Figura 5 - B) e sobrecarga axial e tem o diagnóstico con-firmado pelo raio x transoral ou pela TC.{++}
+{++}
+ {++}
+Figura 5 - (A) Deslocamento atlantoccipital: radiografia lateral com um hematoma enorme pré-vertebral (vermelho) {+e +}com {+um +}deslo{+-+}camento anterior do côndilo occipital (azul) e (B) fratura do atlas (fratura de Jefferson){++}
+{++}
+{++}
+As fraturas do áxis (C2) correspondem a 18% das fraturas da coluna cervical, e cerca de 60% são fraturas do odontoide. São 3 os tipos desta (Figura 6), sendo o [-tipo -]II (base do odontoide) o mais comum. A chamada fratura “do enforcado” com[---]promete o processo espinhoso e os elementos posteriores do C2 e acontece por lesão em extensão. As demais fraturas (20%) afetam o corpo, o pedículo, as massas laterais, as lâminas e o processo espinhoso. Podem ocor[---]rer fraturas e luxações de C3 a C7. O local mais frequente de fratura da coluna cervical é C5, e o [-local -]mais comum de sublu[---]xação está entre C5 e C6. Nas crianças, pode ocorrer a pseudoluxação de C3-C4, normalmente um achado incidental no exa[---]me radiológico, sem repercussões clínicas.{++}
+{++}
+ {++}
+Figura 6 - (A) Classificação das fraturas de odontoide: tipo I – processo odontoide propriamente dito{+ –+}, tipo II – base do processo odon{+-+}toi[---]de {+– +}e tipo III – com acometimento do corpo vertebral de C2; (B), (C) e (D) fraturas de processo odontoide visualizadas na [-TC-]{+tomografia+}
+{++}
+B - Coluna torácica{++}
+Entre T1 e T10, há 4 tipos de lesão, a maioria fraturas estáveis.{++}
+{++}
+Tabela 5 - Tipos de lesão da coluna torácica{++}
+- Lesões em cunha por compressão anterior;{++}
+- Lesões por explosão do corpo vertebral (Figura 7);{++}
+- Fraturas de Chance (fraturas transversas do corpo vertebral);{++}
+- Fraturas-luxações.{++}
+{++}
+ {++}
+Figura 7 - Lesão de T2 com explosão do corpo vertebral e lesão do processo transverso: (A) aspecto tomográfico e (B) correspondente na [-RNM-]{+ressonância magnética+}
+{++}
+As fraturas da junção toracolombar de T11 a L1 ocorrem por hiperflexão e rotações agudas; costumam ser instáveis e, normalmente, estão associadas à queda de altura e ao uso de cinto de segurança.{++}
+{++}
+C - Coluna lombar{++}
+Estão associadas a um menor risco de déficit neurológico completo. {++}
+{++}
+ {++}
+Figura 8 - Fratura transversa (de Chance) da 1ª vértebra lombar{++}
+{++}
+{+Dica+}
+A fratura de Chance, ou fratura transversa do corpo vertebral, deve ser investigada em traumas com mecanismo de desa[---]ce{+-+}leração e implica a investigação de lesões associadas, principalmente do duodeno e do pâncreas (Figura 8). Pacientes com a marca do cinto de segurança devem levantar a suspeita quanto a esse tipo de lesão.{++}
+{++}
+{++}
+7. Resumo{++}
+{++}
+Quadro-resumo{++}
+- O atendimento ao paciente com TRM segue a padronização do ATLS®, com imobilização adequada da coluna cervical até a exclusão da lesão;{++}
+- O choque neurogênico acontece por lesão das vias descendentes do sistema simpático da medula espinal, causando perda do tônus vasomotor e perda da inervação simpática do coração;{++}
+- No choque medular, há flacidez e perda aguda dos reflexos após lesão medular de duração variável;{++}
+- Não há evidências quanto ao uso de corticosteroides na fase aguda do TRM fechado.{++}
+{++}
+{+Respostas+}
+{+1. E+}
+{+2.+} {+B+}
