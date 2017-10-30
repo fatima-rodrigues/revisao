@@ -1,0 +1,172 @@
+diff --git a/obstetricia1_2.txt b/obstetricia1_2.txt
+index a235c81..bdf4736 100644
+--- a/obstetricia1_2.txt
++++ b/obstetricia1_2.txt
+@@ -1,6 +1,9 @@
+Modificações locais e sistêmicas no organismo mater{+-+}no
+Fábio Roberto Cabar
+
+{+Resumo+}
+{+Várias são as alterações ocorridas no corpo durante a gestação. Este capítulo aborda, de maneira abrangente, tanto modifi-cações locais do sistema reprodutor quanto modificações sistêmicas após a concepção. As alterações mais abordadas por questões ocorrem no sistema cardiovascular: a queda da pressão arterial é observada graças à diminuição da resistência periférica e à adição de um circuito de baixa pressão por meio da circulação uteroplacentária. Na gestação, ocorre aumento do volume sanguíneo acompanhando de menor aumento da celularidade vermelha, levando ao estado de hemodiluição, ou anemia fisiológica da gestação. Há diminuição da resistência vascular e aumento da frequência cardíaca, levando a queda dos níveis pressóricos. A síndrome hipercinética caracteriza o sistema cardiovascular na gestação. As alterações mais importan-tes acontecem no débito cardíaco e na distribuição dos fluxos sanguíneos aos diversos sistemas.+}
+
+1. Introdução
+
+Diversas alterações ocorrem em diferentes órgãos e sistemas da mulher grávida para possibilitar o adequado desenvolvi-mento do embrião durante a gestação.
+@@ -12,19 +15,26 @@ As exig
+A - Útero
+As modificações locais ou genitais acontecem principalmente no útero, local onde o ovo se nidifica e se desenvolve. O útero apresenta modificações de volume, consistência, forma, situação e coloração.
+Durante a gestação, acontecem hipertrofia e hiperplasia celular, que modificam o peso e o volume uterinos. O estímulo hormonal (principalmente estrogênico) e o crescimento fetal fazem que, ao final da gestação, o útero gravídico pese cerca de 1.000g e tenha capacidade de 4 a 5L. O crescimento do útero não é regular ao longo da gestação: por volta da 12ª semana, o fundo uterino pode ser palpado pouco acima da sínfise púbica; ao redor de 16 semanas, está a meia distância entre a sínfise e a cicatriz umbilical, passando a crescer 1cm por semana a partir desse momento.
+
+{+Dica+}
+{+A progesterona tem importante papel na manutenção da quiescência miometrial durante a fase de hipertrofia e hiperplasia das fibras musculares do miométrio.+}
+
+As glândulas cervicais também sofrem hiperplasia e hipertrofia desde o início da gestação, resultando, na maioria das ve-zes, na exposição da junção escamocolunar. Esse fato torna a ectocérvice friável e mais suscetível a traumatismos e sangra-mentos.
+Após a nidação, é verificado amolecimento na zona de implantação do embrião. Este se propaga por todo o órgão, princi-palmente nas regiões do istmo (sinal de Hegar – Figuras 1 e 2) e do colo uterino (sinal de Goodell). É a embebição gravídica que torna o útero mole e pastoso.
+ 
+Figura 1 - Avaliação para a presença do sinal de Hegar
+
+ 
+Figura 2 - Identificação de sinal de Hegar no útero
+
+Até a 20ª semana de gestação, o útero adquire forma esférica, ocupando os fórnices vaginais laterais (sinal de Nobile-Budin – Figura 3). Pouco depois, inicia-se a transformação da forma globosa para a cilíndrica.
+No 1º trimestre, o útero acentua a sua atitude fisiológica de anteversoflexão, ocasionando compressão vesical e polaciú-ria. Após esse período, verifica-se a dextroversão do órgão, o que muitos autores atribuem à presença do cólon sigmoide à esquerda. Com o crescimento do corpo uterino, o colo do útero é deslocado posteriormente. Próximo ao termo da gestação, a insinuação fetal proporciona o alinhamento do colo com o eixo vaginal. O comprimento do colo uterino reduz-se progressi-vamente até o parto.
+
+ 
+Figura 3 - Sinal de Nobile-Budin
+
+Devido ao maior afluxo sanguíneo à região genital, o corpo, o istmo e o colo do útero se tornam violáceos. A mesma alte-ração pode ser notada na vagina (sinal de Jacquemier) e na vulva (sinal de Kluge).
+
+ 
+Figura 4 - Sinal de Piskacek: abaulamento no local da implantação do embrião; projeção de crescimento uterino ao longo da gestação
+
+@@ -40,13 +50,18 @@ D - Mamas
+As mamas tornam-se túrgidas e doloridas no início da gestação. Também se verifica aumento do volume mamário desde o final do 1º mês, causado por hiperplasia glandular e proliferação dos canais galactóforos e ductos mamários.
+Em virtude de intensa vascularização, as veias superficiais da mama se tornam dilatadas e visíveis sob a pele (rede de Hal-ler). O mamilo é saliente e mais pigmentado. Ao seu redor, são observados vários pontos salientes, que são glândulas sebá-ceas hipertrofiadas (tubérculos de Montgomery – Figura 5). A progesterona, os estrogênios e a prolactina causam a expansão dos alvéolos e a hiperpigmentação da aréola secundária (sinal de Hunter). Depois dos primeiros meses, as mamas podem secretar colostro. 
+Estrias gravídicas, semelhantes às do abdome, podem ser observadas em consequência da hiperdistensão da pele ou de alterações do colágeno.
+
+ 
+Figura 5 - Tubérculos de Montgomery e aréola secundária na mama gravídica
+
+{+Diagnóstico+}
+{+São sinais prováveis de gravidez: sinal de Halban – presença de lanugem na testa, junto aos limites do couro cabeludo; sinal de Hegar – corresponde ao amolecimento do istmo do útero, permitindo a sua movimentação; sinal de Osiander – presença de pulso vaginal; sinal de Nobile-Budin – preenchimento dos fundos de sacos laterais ao toque vaginal; sinal de Jacquemier e sinal de Kluge – coloração violácea da vagina e da vulva, respectivamente; sinal de Hunter – denota a hiperpigmentação da aréola secundária; tubérculos de Montgomery – correspondentes à hipertrofia das glândulas sebáceas na região da aréola mamária. +}
+
+3. Modificações sistêmicas
+
+A - Postura e deambulação
+À medida que o útero aumenta, extrapolando os limites da pelve e se apoiando na parede abdominal, e as mamas aumen-tadas de volume pesam no tórax, o centro de gravidade da gestante é alterado. Para compensar esse fato e se manter em pé com equilíbrio, a gestante empina o ventre, joga o corpo para trás e afasta os pés para ampliar o polígono de sustentação. Observa-se progressiva lordose lombar associada a hipercifose cervical e marcha típica, com passos lentos e curtos, conheci-da como “marcha anserina”. Esses fatos são responsáveis por queixas comuns de dores lombares e cervicais.
+
+  
+Figura 6 - Alteração no eixo gravitacional da gestante, decorrente do progressivo aumento do volume abdominal e da embebição graví-dica das articulações
+
+@@ -69,6 +84,22 @@ Figura 8 - Linha nigra
+Figura 9 - Estrias abdominais em puerpério imediato
+
+D - Sistema digestório
+
+{+Pergunta+}
+{+2013 - UEL+}
+{+1. Com relação à hiperêmese gravídica, considere as afirmativas a seguir:+}
+{+I - Tabagismo e obesidade são fatores protetores.+}
+{+II - Baixo IMC pré-gravídico e fetos do sexo feminino aumentam o risco.+}
+{+III - Pode levar à encefalopatia de Wernicke.+}
+{+IV - Pode elevar temporariamente o TSH e baixar o T4 livre.+}
+{+Estão corretas:+}
+{+a) I, II+}
+{+b) I, IV+}
+{+c) III, IV+}
+{+d) I, II, III+}
+{+e) II, III, IV+}
+{+Resposta no final do capítulo+}
+
+Anorexia e náuseas são relativamente comuns no 1º trimestre da gestação. As gengivas tornam-se mais frágeis, podendo sangrar ao menor trauma. Não é comum o aumento na incidência de cáries.
+O aumento da pressão intraperitoneal e a progressiva diminuição da resistência do esfíncter esofágico inferior favorecem o refluxo gastroesofágico durante a gestação. Ademais, o esvaziamento gástrico retardado e a diminuição do peristaltismo intestinal, ambos causados por ação da progesterona na musculatura lisa, contribuem para as queixas de pirose retroesternal, sensação constante de plenitude gástrica e constipação intestinal, todas muito comuns.
+A histologia hepática não se altera durante a gestação. Observa-se aumento significativo nos níveis séricos de fosfatase al-calina pela produção placentária dessa enzima. A concentração plasmática de albumina diminui cerca de 20%, com decrésci-mo máximo no 2º trimestre de gestação. Com o aumento da produção de alfa e betaglobulinas, a relação albumina–globulina diminui de forma semelhante à encontrada nos casos de hepatopatia.
+@@ -79,11 +110,27 @@ A s
+A elevação do diafragma desvia o coração para a esquerda e causa pequena rotação no seu eixo longitudinal. Essa altera-ção faz que a área cardíaca da gestante pareça aumentada nas radiografias de tórax.
+Ocorre aumento da frequência cardíaca de repouso desde o 1º trimestre de gestação, atingindo aproximadamente 85bpm no 3º trimestre (cresce, em média, 4bpm entre 20 e 24 semanas, 12bpm entre 28 e 32 semanas e 14bpm entre 28 e 40 semanas). Da mesma forma, o débito cardíaco aumenta, a princípio rapidamente, depois de forma mais lenta, atingindo seu máximo antes da 20ª semana. Esse aumento na frequência e no débito cardíaco contribui para a elevação de 30 a 40% no rendimento cardíaco (volume/minuto). Notam-se, ao exame físico, desdobramento da 1ª bulha e sopro sistólico paraesternal em 90% dos casos, decorrente da hipercinesia própria da gravidez.
+Caracteristicamente, observa-se a redução dos níveis de pressão arterial, causada pelo desenvolvimento da placenta, ter-ritório de baixa resistência, que funciona como fístula arteriovenosa e causa diminuição da resistência vascular periférica, mais acentuada no início da gestação do que no termo, mostrando que a vasodilatação envolve territórios vasculares além do uteroplacentário. A pressão diastólica reduz-se mais significativamente (10 a 15mmHg). Os menores valores de pressão arte-rial são encontrados no 2º trimestre, e, a partir de então, esses níveis ascendem gradativamente até atingirem valores pré-gravídicos próximo ao termo. 
+
+{+Importante+}
+{+Os níveis pressóricos da gestante atingem seu patamar mais baixo no 2º trimestre de gestação.+}
+
+O útero aumentado comprime a veia cava inferior, dificultando o retorno venoso e aumentando a pressão venosa nos membros inferiores. Isso pode acarretar o aparecimento de edemas e varizes nesses membros.
+
+ 
+Figura 10 - Débito cardíaco comparativo entre não gestantes e diversos momentos da gravidez
+
+
+
+{+Pergunta+}
+{+2015 - HCV+}
+{+2. O sistema cardiovascular passa por adaptações durante a gravidez para permitir o adequado desenvolvimento da gesta-ção. Assinale a alternativa que apresenta a modificação circulatória correta: +}
+{+a) aumento do débito cardíaco, aumento do volume plasmático, diminuição da reatividade vascular, diminuição da resistên-cia periférica+}
+{+b) aumento do débito cardíaco, aumento do volume plasmático, aumento da reatividade vascular, diminuição da resistência periférica+}
+{+c) aumento do débito cardíaco, diminuição do volume plasmático, diminuição da reatividade vascular, diminuição da resis-tência periférica+}
+{+d) diminuição do débito cardíaco, aumento do volume plasmático, diminuição da reatividade vascular, diminuição da resis-tência periférica+}
+{+e) diminuição do débito cardíaco, aumento do volume plasmático, diminuição da reatividade vascular, aumento da resistên-cia periférica+}
+{+Resposta no final do capítulo+}
+
+F - Sangue
+A volemia aumenta cerca de 50% durante a gestação. O volume começa a se elevar durante o 1º trimestre, cresce mais rapidamente no 2º, atingindo valores máximos próximos à 28ª semana, e permanece estável até o termo. A hipervolemia atende às maiores demandas da gestante, particularmente do útero gravídico, e a prepara para as perdas hemorrágicas que ocorrem no parto.
+A hipervolemia resulta do aumento do volume plasmático e do número de células sanguíneas. O volume globular aumen-ta, em média, 250mL, decorrente da produção acelerada de hemácias, e não do aumento de sua vida média. Entretanto, os valores da hemoglobina e do hematócrito começam a diminuir entre o 3º e o 5º meses de gestação, pois o aumento do volu-me eritrocitário é proporcionalmente inferior ao do volume plasmático. Esse achado é conhecido como “anemia fisiológica da gravidez” ou “anemia dilucional”, e valores de hemoglobina >11g/dL são considerados normais durante a gestação.
+@@ -95,6 +142,7 @@ O sistema hemost
+ 
+Figura 11 - Alterações sanguíneas ao longo da gravidez e no pós-parto imediato
+
+
+G - Sistema respiratório
+O diâmetro da caixa torácica aumenta cerca de 2 a 3cm, e a circunferência, 6cm, pelo relaxamento das articulações cos-toesternais. O diafragma eleva-se 4cm durante o decorrer da gestação.
+O volume corrente aumenta 40% durante a gravidez. Ocorre diminuição progressiva do volume expiratório de reserva e do volume residual, com consequente redução da capacidade residual funcional. Entretanto, a capacidade total pulmonar não é alterada, pois, com discreto aumento na capacidade inspiratória, há a compensação dessa diminuição do volume de reserva expiratório.
+@@ -103,15 +151,18 @@ De 60 a 70% das gestantes relatam dispneia ao longo da gesta
+
+H - Sistema urinário
+O fluxo plasmático renal eleva-se rapidamente desde o início da gestação e se mantém em 1.200mL/min até o termo. A taxa de filtração glomerular também, e valores de 150mL/min são encontrados no último trimestre. Como consequência, observam-se aumento no clearance de creatinina e diminuição nas concentrações plasmáticas de ureia e creatinina. O au-mento na taxa de filtração glomerular da glicose, sem alteração de sua capacidade de reabsorção tubular, provoca o apareci-mento de glicosúria (glicosúria fisiológica da gravidez). Da mesma forma, até 300mg de proteína podem ser encontrados ao dia na urina das gestantes, achado que não pode ser classificado como patológico.
+A dextrorrotação do útero e a ação miorrelaxante da progesterona nos ureteres provocam certo grau de estase urinária ureteral. Esses fatores, somados à {+relativa +}alteração da imunidade da gestante, predispõem à infecção urinária. Desta forma, a bacte[---]riúria assintomática, definida como [-5-]{+presenc¸a de ao menos 10+}0.000{+UFC/mL em+} u[-n-]{+r+}i{+na coleta+}da{+ +}d[-es-]{+o+} [-f-]{+jat+}o[-r-]{+ +}m[-a-]{+e´+}d{+i+}o[-ras-] d[-e-]{+a+} {+mi+}c{+c¸a~+}o{+ e pe+}l[-ô-]{+o me+}n[-ia-]{+os 100UFC/mL+} em [-cult-]ur{+in+}a {+coleta+}d{+a por catet+}e{+rismo+} ur{+etral em ass+}in[-a-]{+tomáticos+}, tem indicação absoluta de tratamento durante a gestação. Trabalhos mostram que até 30% das gestantes com bacteriúria assintomática não tratada de[---]senvolvem ao menos 1 episódio de pielonefrite ao longo dos 9 meses de gestação. O tratamento da bacteriúria assintomática durante a gestação é eficaz na redução de incidência de pielonefrite na gravidez, parto prematuro e baixo peso ao nascer.
+
+{+Dica+}
+{+Pequenas quantidades de glicosúria e proteinúria são fisiológicas na gestação.+}
+
+Tabela 1 - Valores de referência dos testes para avaliação da função renal 
+Testes de função renal	Valores de referência a não gestantes	Valores de referên[---]cia a gestantes
+Ureia	De 20 a 40mg/dL	De 7 a 30mg/dL
+Creatinina	De 0,7 a 1,2mg/dL	De 0,5 a 0,9mg/dL
+Clearance de creatinina	De 90 a 120mL/min	De 135 a 155mL/min
+Microalbu[---]minúria	Negativa	De 5 a 30mg em 24 horas
+Proteinúria	<0,05mg/dL ou negati[---]va em 24 horas	Até 300mg/dL ou até 300mg em 24 horas
+
+I - Sistema endócrino
+Durante a gestação, a hipófise materna apresenta mudanças anatômicas e funcionais. Observa-se aumento significativo do volume glandular, especialmente do seu lobo anterior. Após o 3º mês, as células produtoras de prolactina aumentam de nú-mero. Após a implantação embrionária, a hipófise materna desempenha pouca influência na evolução da gestação. Desta forma, é possível o desenvolvimento normal desta e o parto de mulheres hipofisectomizadas, desde que recebam corticoste-roides, hormônios da tireoide e vasopressina. Sabe-se que a prolactina é o único hormônio hipofisário com aumento gradual de sua produção durante a gestação; esse hormônio excede o nível não gestacional desde o 1º trimestre e pode chegar a 210ng/mL no termo. A causa desse aumento não está totalmente esclarecida, porém se admite que os altos níveis séricos dos estrogênios determinem a hiperplasia dos prolactinócitos hipofisários e estimulem a liberação de prolactina por essas células.
+@@ -186,12 +237,12 @@ Respirat
+Renais
+- 	Aumento da filtração glomerular e do clearance de creatinina;
+- 	Diminuição de ureia e creatinina plasmáticas;
+- 	Presença de glicosúria e proteinúria{+ em pequena quantidade+};
+- 	Hidronefrose leve, principalmente à direita. 
+Endócrinas 
+- 	Aumento de T3 e T4, sem aumento dos níveis séricos livres (aumento de TBG);
+- 	Aumento da insulinemia no 1º trimestre, com tendência a hipoglicemia;
+- 	Aumento de resistência periférica a insulina pela produção de HPL, cortisol e esteroides, com tendência a hiperglice[---]mia. 
+Minerais
+- 	Fosfato inalterado;
+- 	Diminuição do magnésio sérico;
+@@ -202,7 +253,7 @@ Alcalose respirat
+- Hipertrofia e hiperplasia celular;
+- Amolecimento nas regiões do istmo (sinal de Hegar) e do colo uterino (sinal de Goodell);
+- Útero ocupando os fórnices vaginais laterais (sinal de Nobile-Budin);
+- Corpo, istmo e colo do útero violáceos – a mesma alteração pode ser notada na vagina (sinal de Jacquemier) e na vulva (sinal de Klu{+-+}ge).
+Ovários
+Veias ovarianas ampliadas
+Vulva e vagina
+@@ -211,3 +262,12 @@ Vulva e vagina
+- Pulso vaginal que pode tornar-se reconhecível nos fundos de saco laterais (sinal de Osiander);
+- Proliferação de células da camada intermediária e intensificação do padrão progestacional; 
+- Descamação celular que aumenta a concentração de glicogênio livre e diminui o pH vaginal durante a gravidez.
+
+{+Respostas+}
+{+1. D+}
+{+2. A+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
