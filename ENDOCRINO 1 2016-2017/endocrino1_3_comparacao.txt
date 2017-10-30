@@ -1,8 +1,4 @@
-diff --git a/endocrino1_3.txt b/endocrino1_3.txt
-index 2f707f4..17fe9ae 100644
---- a/endocrino1_3.txt
-+++ b/endocrino1_3.txt
-@@ -2,12 +2,11 @@ Diabetes mellitus - tratamento
+Diabetes mellitus - tratamento
 Leandro Arthur Diehl
 Rodrigo Antônio Brandão Neto
 

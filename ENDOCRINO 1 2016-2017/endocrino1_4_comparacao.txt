@@ -1,8 +1,4 @@
-diff --git a/endocrino1_4.txt b/endocrino1_4.txt
-index 8093f58..106ea1f 100644
---- a/endocrino1_4.txt
-+++ b/endocrino1_4.txt
-@@ -2,8 +2,7 @@ Complica
+Complica
 Leandro Arthur Diehl
 Rodrigo Antônio Brandão Neto
 

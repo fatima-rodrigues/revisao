@@ -1,8 +1,3 @@
-diff --git a/endocrino1_2.txt b/endocrino1_2.txt
-index 67cfb7d..11d0463 100644
---- a/endocrino1_2.txt
-+++ b/endocrino1_2.txt
-@@ -1,16 +1,15 @@
 Diabetes mellitus - diagnóstico
 [- -]Leandro Arthur Diehl
 Rodrigo Antônio Brandão Neto

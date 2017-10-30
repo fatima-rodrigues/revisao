@@ -1,8 +1,4 @@
-diff --git a/endocrino1_9.txt b/endocrino1_9.txt
-index b36a47a..c764bf0 100644
---- a/endocrino1_9.txt
-+++ b/endocrino1_9.txt
-@@ -1,9 +1,8 @@
+
 Diabetes mellitus - fisiopatologia e classifica{+-+}ção
 Leandro Arthur Diehl
 Rodrigo Antônio Brandão Neto

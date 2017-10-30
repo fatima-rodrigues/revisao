@@ -1,8 +1,3 @@
-diff --git a/endocrino1_5.txt b/endocrino1_5.txt
-index 2e43288..aa98bf1 100644
---- a/endocrino1_5.txt
-+++ b/endocrino1_5.txt
-@@ -1,8 +1,7 @@
 Complicações crônicas do diabetes mellitus
 Leandro Arthur Diehl
 
