@@ -1,0 +1,154 @@
+diff --git a/hemato_6.txt b/hemato_6.txt
+index 20f2b7f..37f35a1 100644
+--- a/hemato_6.txt
++++ b/hemato_6.txt
+@@ -1,45 +1,56 @@
+[-Abordagem in-]{+D+}i[-c-]{+stúrb+}i[-al-]{+os+} da hemostasia[- e trombose-]
+Fernanda Maria Santos[- / -]{++}
+Marcos Laercio Pontes Reis
+Fábio Freire José[- / -]{++}
+Kelly Roveran Genga
+{+Renato Akira Nishina Kuwajima+}
+
+[-Resumo-]
+Neste capítulo, serão abordados temas que fundamentam o entendimento de assuntos relativos às mais variadas altera[---]ções sanguíneas, como hemofilia e trombose. Para tanto, abrange temas relacionados à hemostasia primária, com a forma[---]ção do tampão plaquetário, e à hemostasia secundária, com a ativação da cascata da coagulação, cuja atividade pode ser avaliada por meio do Tempo de Protrombina (TP) e do Tempo de Tromboplastina Parcial Ativada (TTPA). 
+
+1. Introdução e fisiologia da coagulação
+
+A hemostasia é o processo resultante do equilíbrio entre proteínas pró-coagulantes, anticoagulantes e fibrinolíticas, para manter o sangue fluido e, quando necessário, coibir o sangramento. Tal equilíbrio é alcançado pelo bom funcionamento de vasos sanguíneos (endotélio), plaquetas, proteínas da coagulação, da fibrinólise e dos anticoagulantes naturais. Muitos fatores, genéticos ou adquiridos, podem contribuir para romper esse equilíbrio, levando a estados de hipocoagulabilidade ou hiper{+-+}coagulabilidade. Didaticamente, a hemostasia pode ser dividida em 3 etapas:
+
+ 
+Figura 1 - Etapas da hemostasia
+
+A - Hemostasia primária
+{++}
+{+Importante+}
+{+A hemostasia primária é responsável por estancar o sangramento por meio da formação do tampão plaquetário. Já a he-mostasia secundária é capaz de evitar o ressangramento por meio da formação de uma rede adesiva de fibrina que conso-lida o tampão plaquetário (a partir daí, chamado de coágulo).+}
+{++}
+Após lesão endotelial, ocorrem exposição do colágeno e vasoconstrição reflexa. Plaquetas circulantes aderem ao coláge{+-+}no por meio do fator de von Willebrand, liberado pelo endotélio em razão do estresse de cisalhamento. Essa adesão ocorre por intermédio das glicoproteínas Ib (GPIb) e Ia-IIa localizadas, respectivamente, na superfície das plaquetas e do colágeno. As plaquetas aderidas ao colágeno são ativadas, liberando secreções dos conteúdos granulares (adenosina difosfato, prostaglan{+-+}dinas, tromboxano A2 e serotonina), e sofrem alteração de sua estrutura, expondo outra glicoproteína de membrana: GP IIb/IIIa, responsável pela agregação plaquetária por meio da ligação dessa GP ao fibrinogênio: agregação plaqueta–plaqueta (Figura 2).
+As secreções dos grânulos plaquetários são responsáveis por maiores vasoconstrição, adesão, ativação e agregação pla{+-+}quetária. Assim, forma-se o tampão plaquetário, responsável pelo controle do sangramento em poucos minutos.
+Por fim, o tampão plaquetário tem atividade pró-coagulante, por meio da exposição de fosfolípides pró-coagulantes e complexos enzimáticos na superfície da plaqueta, o que resulta em inter-relação entre ativação plaquetária e ativação da cascata da coagulação.
+
+{++}
+ 
+Figura 2 - Hemostasia primária{+	+}
+
+B - Hemostasia secundária
+Hemostasia secundária é o nome dado às reações da cascata da coagulação, que consistem na ativação sequencial de uma série de pró-enzimas ou precursores proteicos inativos (zimógenos) em enzimas ativas, resultando na formação de fibras de fibrina que fortalecem o tampão plaquetário. 
+Todos os fatores de coagulação são produzidos pelo fígado, com exceção do fator VIII[-,-] [-qu-]e [-t-]{+do f+}a[-m-]{+tor de von Wille+}b[-ém-]{+rand,+} [-é-]{+que são+} secretado{+s+} pelo endotélio.
+Essa cascata da coagulação é dividida, didaticamente, em 2 vias principais: a via intrínseca (desencadeada por fatores de contato, de carga negativa, presentes no intravascular) e a via extrínseca (desencadeada pelo Fator Tecidual – FT), que con{+-+}fluem para uma via comum.
+Na via extrínseca, o fator VII circulante liga-se ao FT (tromboplastina) exposto pelo endotélio lesado e, juntos, ativam o fa{+-+}tor X (via comum).
+Na via intrínseca, o fator XII, na presença de Cininogênio de Alto Peso Molecular (CAPM) e pré-calicreína (PK), é ativado por fatores de contato (substâncias de carga negativa, como toxinas bacterianas). O XIIa ativa o fator XI, que atuará na ativação do fator IX. O fator IXa, na presença do VIIIa, ativa o fator X.
+Após a geração de fator Xa por ambas as vias, este se associa ao fator Va e ativa a protrombina (fator II) em trombina (fator IIa), sendo esta a responsável pela transformação do fibrinogênio em fibrina. O fator XIII é fundamental para a estabilização do coágulo de fibrina. 
+Cálcio e fosfolípides são cofatores importantes para a cascata da coagulação.
+
+{+Dica +}
+{+Os fatores de coagulação dependentes de vitamina K são: II, VII, IX, X, proteína C e S.+}
+{++}
+ 
+Figura 3 - Cascata da coagulação sanguínea: os zimógenos estão mostrados nas caixas brancas, e os fatores ativados, nas caixas [-p-]{+ve+}r{+m+}e[-t-]{+lh+}as; os fatores anticoagulantes (TFPI, proteína C ativada e antitrombina) e a plasmina estão mostrados nos círculos
+
+Tal maneira clássica de apresentar a cascata da coagulação é importante para o raciocínio na interpretação dos exames la{+-+}boratoriais, mas não é o que acontece no organismo. Fisiologicamente, sabe-se que o FT exposto após a lesão endotelial é o evento primário da cascata da coagulação, pois o complexo FT–VIIa ativa os fatores X e IX, gerando pequena quantidade de trombina. Sabe-se também que os fatores da antiga via intrínseca (como XI, IX, VIII) funcionam como amplificadores do pro{+-+}cesso dessa geração de trombina, peça-chave na formação do coágulo de fibrina. Tal amplificação ocorre na membrana das plaquetas ativadas (aquelas ativadas no processo da hemostasia primária), utilizadas como fonte de fosfolípides, importante para a localização do coágulo apenas no tecido lesado.
+
+Dica
+Três importantes substâncias agem como moduladoras da cascata da coagulação: antitrombina (AT), proteína C ativa-da/proteína S e inibidor da via do F{+ator +}T{+ecidual (FT)+}.
+
+A AT, produzida no fígado (e, possivelmente, nas células endoteliais), é um dos mais potentes inibidores da cascata da coa{+-+}gulação. Exerce seu papel como anticoagulante pela inibição da trombina, dos fatores XIIa, XIa, IXa, Xa e da calicreína. 
+O inibidor da via do FT bloqueia a ação do complexo VIIa–FT ao ligar-se com o fator Xa, diminuindo a geração de trombina em sua fase mais inicial. A principal fonte do inibidor da via do FT são as células endoteliais. 
+Outra molécula importante no controle da cascata da coagulação é a proteína C. A trombina gerada pela cascata da coagu{+-+}lação liga-se à trombomodulina, presente no endotélio sem lesão. O complexo trombomodulina–trombina ativa a proteína C circulante (PCa), e esta, a proteína S (PSa). Tanto a PCa quanto a PSa exercem seus papéis como anticoagulantes ao inativarem os fatores Va e VIIIa, bloqueando a geração de mais trombina. Além dessa ação anticoagulante, a proteína C ativada é capaz de bloquear a ação do PAI-1 (inibidor do ativador do plasminogênio-1) e do TAFI (Thrombin-Activatable Fibrinolysis Inhibitor – inibidor da fibrinólise ativado pela trombina), diminuindo o efeito supressivo desses compostos sobre a fibrinólise. Portanto, a proteína C ativada apresenta papel pró-fibrinolítico e, por fim, também é capaz de reduzir a resposta inflamatória por vários mecanismos. 
+
+ 
+Figura 4 - Modulação da cascata da coagulação
+@@ -47,15 +58,15 @@ Figura 4 - Modula
+Além desses mecanismos, o tromboxano, a prostaciclina e o óxido nítrico modulam a reatividade da parede vascular e das plaquetas, contribuindo para o controle da cascata da coagulação e para a fluidez do sangue.
+
+C - Fibrinólise
+Além das proteases da coagulação (fatores da coagulação) e da anticoagulação, o organismo conta também com um siste{+-+}ma fibrinolítico. O plasminogênio é uma proteína inativa circulante no plasma que se liga à fibrina à medida que o coágulo se forma e é convertido a plasmina no momento de sua ligação com a fibrina, sendo esta a responsável pela dissolução do coá{+-+}gulo, iniciando, assim, a fibrinólise. Essa conversão ocorre pela ação do ativador tecidual do plasminogênio (tPA – tissue Plas{+-+}minogen Activator), sintetizado pelo endotélio, e do ativador do plasminogênio tipo uroquinase (uPA – urokinase-type Plasmi{+-+}nogen Activator), secretado por diversos tecidos. A liberação endotelial do tPA é estimulada pela presença de trombina, sero{+-+}tonina, bradicinina, adrenalina e citocinas.
+Os compostos que controlam a fibrinólise são PAI, especialmente o PAI-1, TAFI e alfa-2-antiplasmina (age inibindo a plas{+-+}mina). O TAFI é ativado pelo complexo trombina–trombomodulina e liga-se à fibrina já parcialmente lisada, impedindo a liga{+-+}ção do plasminogênio e a formação de mais plasmina. 
+
+ 
+Figura 5 - Fibrinólise
+
+Vídeo
+Fisiopatologia da hemostasia
+ [- -]
+
+D - Avaliação laboratorial da hemostasia
+
+@@ -65,63 +76,66 @@ Na avalia
+Os exames laboratoriais que devem ser solicitados para a avaliação da hemostasia primária são:
+
+a)	Contagem de plaquetas com análise do sangue periférico (normal: 150 a 400.000/mm3)
+Sempre deve ser avaliada, tendo em vista que fazem parte da hemostasia primária. Utiliza-se usualmente o anticoagulante EDTA (tubo de tampa roxa) para coleta de sangue periférico; es[-t-]{+s+}e anticoagulante tem a capacidade de aglutinar plaquetas, resultando numa possível contagem final reduzida. Assim, um dos primeiros testes a ser solicitado é uma nova contagem de plaquetas, utilizando o anticoagulante citrato de sódio (tubo de tampa azul) e comparando o resultado encontrado. Pela análi{+-+}se de sangue periférico, pode-se avaliar a morfologia plaquetária (presença de macroplaquetas, comuns nas púrpuras trom{+-+}bocitopênicas imunes).
+
+ 
+Figura 6 - Plaquetas aglutinadas, típicas do uso de anticoagulante EDTA
+
+b)	Tempo de sangramento (teste de Duke: 1 a 3 minutos; teste de Ivy: 1 a 7 minutos)
+Avalia a integridade da parede vascular, das plaquetas e do fator de von Willebrand, sendo um teste da função da hemos{+-+}tasia primária in vivo; baseia-se em lesões de pequenos vasos, com perfuração de somente 1mm de profundidade. Podem ser realizados 2 testes: teste de Duke, em que a perfuração é realizada no lóbulo da orelha (pouco sensível, somente alterado em distúrbios graves plaquetários e de hemostasia primária) e o teste de Ivy, em que se realiza corte padronizado em antebraço com esfigmomanômetro insuflado a 40mmHg. 
+
+c) Perfil de von Willebrand
+Caracteriza-se basicamente pela dosagem do antígeno de von Willebrand, dosagem do cofator de ristocetina e curva de agregação plaquetária (Figura 7).
+
+d) Curva de agregação plaquetária: avalia a função plaquetária in vitro
+Baseia-se na medida de formação de agregados plaquetários após exposição a agente agregante (adenosina difosfato, adrenalina, ácido araquidônico, trombina ou colágeno). Esses agregados, então, são medidos pelo agregômetro, que se utiliza da espectrofotometria (capacidade de medir a variação de transmissão de luz por meio de uma suspensão de plaquetas). O resultado do teste, apresentado em porcentagem, reflete diretamente a quantidade de transmissão de luz e, logo, de forma{+-+}ção de agregados plaquetários.
+
+ 
+Figura 7 - Resultado de agregação plaquetária
+
+Para a análise da hemostasia secundária, deve-se lembrar a divisão didática em via intrínseca/extrínseca, pois assim é pos{+-+}sível desenvolver raciocínio clínico com a história do paciente e os exames laboratoriais.
+
+ 
+Figura 8 - Cascata da coagulação 
+
+Tabela 1 - Interpretação laboratorial da hemostasia secundária
+Testes	Significados	Resultados normais*
+Tempo de Protrombina (TP)	Avalia a via extrínseca, alterando-se nas deficiências dos fatores VII, X, V, II ou fibrinogênio, ou quando há presen[---]ça de inibidores.	11 a 14,5 segundos; possivelmente ex{+-+}pres[---]so em porcentagem (tempo de ati{+-+}vidade de protrombina): 70 a 100%
+Tempo de Tromboplastina Parci{+-+}al Ativada (TTPA)	Avalia a via intrínseca, alterando-se nas deficiências dos fatores XII, XI, IX, VIII, X, V, II ou fibrinogênio, ou quando há presença de inibidores. É sensível à presen{+-+}ça de heparina.	25 a 30 segundos; possivelmente ex{+-+}presso pela relação TTPA do paciente–TTPA nor[---]mal (RTTPA), cujo valor está normal até 1,2
+Tempo de trombina	Prolongado nas deficiências de fibrinogênio e na pre{+-+}sen[---]ça dos produtos de degradação do fibrinogê{+-+}nio/fibrina. É muito sensível à presença de heparina.	 9 a 15 segundos
+Fibrinogênio	Fornece quantificação dos níveis plasmáticos do fibri{+-+}no[---]gênio.	 195 a 365mg/dL
+Produtos de degradação do fibri{+-+}no[---]gênio/fibrina	Avalia a presença de fibrinólise e/ou fibrinogenólise.	 Negativo <5µg/mL
+D-dímero	Avalia a ocorrência de lise da fibrina estabilizada. 	 68 a 494mg/dL
+* Os valores podem variar de acordo com o laboratório de referência.
+
+{+Dica +}
+{+O TP/INR avalia a via extrínseca, o TTPA, a via intrínseca, e a via comum é avaliada por ambos.+}
+{++}
+Importante
+[-Apenas -]TP alargado corresponde [-a-]{+à+} [-d-]{+pres+}e[-ficiê-]n[-ci-]{+ç+}a [-ou-]{+de+} inibidor{+es ou deficiência+} de VII; [-apenas -]TTPA alargado, {+à +}deficiência ou inibidor{+es+} de VIII, IX, XI, XII, cininogênio de alto peso molecular e pré-calicreína; TP e TTPA {+(ambos) +}alargados, {+à +}deficiência ou inibidores da via comum – V, X, II, fibrinogênio.
+
+A variação nos reagentes comerciais utilizados para a realização do TP resulta em sensibilidade variável para a detecção de alterações no teste. Para padronizar a monitorização da terapia com anticoagulante oral, a Organização Mundial da Saúde estabeleceu um reagente de referência internacional e recomenda que o valor do TP seja dado na forma da razão de norma{+-+}tização internacional (INR). Como são usados diferentes tipos de fator tissular no reagente de TP, o uso da INR foi preconizado para padronizar mundialmente o resultado obtido durante o teste. Isso significa que o resultado da INR é praticamente o mesmo se usado em diferentes laboratórios no mundo inteiro. A INR nada mais é do que o TP corrigido a padrões mundiais. O uso de anticoagulantes orais é avaliado somente pela INR. Para o seu cálculo, cada fabricante do fator tissular fornece o ISI (Índice de Sensibilidade Internacional), que normalmente fica entre 1 e 2. Quanto mais próximo de 1 for o ISI, melhor a sensi{+-+}bilidade. O ISI é atribuído para cada lote de reagente preparado. O mesmo raciocínio se dá com o TTPA, que deve, preferen{+-+}cialmente, ser expresso na forma da relação do TTPA (que é conseguida pela divisão do TTPA do paciente pelo TTPA{+ normal+}). 
+
+Importante
+A fim de padronizar a monitorização dos pacientes que fazem uso de anticoagulante oral ([-hep-]{+cumarínicos como a varf+}arina), o valor do TP deve ser dado na forma de uma razão de normatização internacional, a INR.[- -]
+
+A diferença entre deficiência de fator e presença de inibidor é feita por meio do teste com o plasma do paciente mistura{+-+}do com plasma normal, à proporção 1:1. Em caso de deficiência, o alargamento do tempo em estudo será corrigido comple{+-+}tamente, visto que foi ofertado o fator deficiente. Em caso de presença de inibidor, após a mistura a 50%, o tempo não corri{+-+}ge ou o faz parcialmente.
+A utilidade dos testes de coagulação é avaliar a deficiência de fator ou presença de inibidor, detectadas pelo alargamento daqueles. O encurtamento dos testes é possível em algumas circunstâncias especiais, sendo as principais{+,+} erro de coleta e técnica inadequada na realização dos testes. Afastadas essas causas, os fatores de coagulação podem estar aumentados em neoplasias malignas, coagulação intravascular disseminada ou após exercícios, resultando no encurtamento dos testes.
+Finalmente, pode-se solicitar a dosagem dos fatores individualmente, como no caso da hemofilia A (fator VIII) e hemofilia B (fator IX).
+Para avaliar a fibrinólise, além dos anteriores, pode-se utilizar o teste do tempo de lise de euglobulina, que consiste em separar do plasma do paciente a fração de euglobulina (proteínas que incluem fibrinogênio, plasminogênio, plasmina ativa, ativadores e inibidores do pla{+s+}minogênio = ativadores da fibrinólise). Essa fração separada é ressuspensa juntamente com a trombina, e, a partir daí, conta-se o tempo para a formação do coágulo; tempo encurtado equivale a hiperfibrinólise, e tempo alargado, hipofibrinólise.
+
+[-2. -]Resumo
+
+Quadro-resumo
+Hemostasia primária
+- Consiste na adesão de plaquetas circulantes ao colágeno por meio do fator de von Willebrand liberado pelo endotélio;
+- Essa adesão ocorre por intermédio das glicoproteínas Ib (GPIb) e Ia-IIa localizadas, respectivamente, na superfície das plaquetas e do colágeno;
+- As plaquetas aderidas ao colágeno são ativadas, liberando secreções dos conteúdos granulares (adenosina difosfato, prostaglandi{+-+}nas, tromboxano A2, serotonina), e sofrem alteração de sua estrutura, expondo outra glicoproteína de membrana: GPIIb/IIIa, respon{+-+}sável pela agregação plaquetária por meio da ligação dessa GP ao fibrinogênio.
+Hemostasia secundária
+- Envolve as reações da cascata da coagulação, que consistem na ativação sequencial de uma série de pró-enzimas em enzimas ati{+-+}vas, resultando na formação de fibras de fibrina que fortalecem o tampão plaquetário;
+- Todos os fatores de coagulação são produzidos pelo fígado, com exceção do fator VIII[-,-] [-qu-]e [-t-]{+do f+}a[-m-]{+tor de von Wille+}b[-ém-]{+rand,+} [-é-]{+que são+} secreta{+-+}do{+s+} pelo endotélio;
+- A cascata da coagulação é dividida em via intrínseca e via extrínseca, que confluem para uma via comum;
+- Na via extrínseca, o fator VII circulante liga-se à tromboplastina exposta pelo endotélio lesado e, juntos, ativam o fator X (via co{+-+}mum);
+- Na via intrínseca, o fator XII, na presença de CAPM e PK, é ativado por fatores de contato e ativa o fator XI, que, por sua vez, atuará na ativação do fator IX. O fator IXa, na presença do VIIIa, ativa o fator X;
+- Três importantes substâncias agem como moduladoras da cascata da coagulação: AT, proteína C ativada/proteína S e inibidor da via do FT.
+Fibrinólise
+@@ -130,9 +144,4 @@ Fibrin
+Análise laboratorial
+- Os exames solicitados para avaliar a hemostasia primária são contagem de plaquetas com análise do sangue periférico, tempo de sangramento, curva de agregação plaquetária e perfil de von Willebrand;
+- Os exames solicitados para avaliar a hemostasia secundária são TP, TTPA, tempo de trombina, fibrinogênio, produtos de degradação fibrinogênio/fibrina, D-dímero;
+- Para avaliar a fibrinólise, pode-se solicitar teste do tempo de lise de euglobulina.[--]
+[--]
+[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
