@@ -1,8 +1,7 @@
 Patogênese do HIV e AIDS
 Durval A. G. Costa
-
-Resumo
-Este capítulo aborda os mecanismos pelos quais ocorre a infecção pelo vírus do HIV e como ele se multiplica nas células. A infecção pelo HIV leva a quadros de infecção, principalmente em células que expressam o antígeno CD4, ao qual o vírus se une. Para que ocorra a entrada do vírus nessas células, são necessários receptores dele, que podem ser de 2 tipos: CXCR4 ou CCR5. A patogênese da infecção viral se dá em algumas etapas: ligação, fusão, descompressão, transcrição reversa, inte-gração genômica, replicação genômica, síntese proteica e formação de novos vírus, sendo importante saber cada uma de-las, pois os medicamentos antirretrovirais agirão em algumas dessas etapas.
+ 
+Este capítulo aborda os mecanismos pelos quais ocorre a infecção pelo vírus do HIV e como ele se multiplica nas células. A infecção pelo HIV leva a quadros de infecção, principalmente em células que expressam o antígeno CD4, ao qual o vírus se une. Para que ocorra a entrada do vírus nessas células, são necessários receptores dele, que podem ser de 2 tipos: CXCR4 ou CCR5. A patogênese da infecção viral se dá em algumas etapas: ligação, fusão, descompressão, transcrição reversa, integração genômica, replicação genômica, síntese proteica e formação de novos vírus, sendo importante saber cada uma delas, pois os medicamentos antirretrovirais agirão em algumas dessas etapas.
 
 1. Introdução
 
@@ -14,27 +13,27 @@ A partir da década de 1990, especialmente a partir de 1996, a combinação de drog
 2. Conhecendo o vírus
 
 Dica
-O HIV é um retrovírus, ou seja, possui RNA como material genético. Isso significa que deve haver transcrição reversa para que se replique e se integre com a célula parasitada, dado importantíssimo na busca pelo bloqueio da infecção viral. 
+O HIV é um retrovírus, ou seja, possui RNA como material genético. Isso significa que deve haver transcrição reversa para que se replique e se integre com a célula parasitada, dado importantíssimo na busca pelo bloqueio da infecção viral.
 
 Ele pertence à subfamília lentivírus dos retrovírus humanos. Uma vez integrado ao material genético da célula, o DNA pró-viral é transcrito e traduzido em proteínas virais que, em última análise, originam novas partículas virais infectantes. 
 
 Tabela 1 - Tipos de HIV descobertos no mundo
 HIV 1	É responsável pela maioria das infecções pelo mundo. As terapias antirretrovirais são feitas para ele, assim como a maioria dos exames de identificação, como ELISA e western blot. São mais agressivos e evoluem para óbito com mais frequência.
-HIV 2	Existente quase exclusivamente na África, esse vírus tem evolução lenta, mas péssima resposta à terapia antirre-troviral existente, sendo muito difícil o tratamento. No Brasil, por Lei, sempre que é solicitada sorologia para HIV os 2 tipos são testados, mas não há casos descritos recentes desse tipo de infecção.
+HIV 2	Existente quase exclusivamente na África, esse vírus tem evolução lenta, mas péssima resposta à terapia antirretroviral existente, sendo muito difícil o tratamento. No Brasil, por Lei, sempre que é solicitada sorologia para HIV os 2 tipos são testados, mas não há casos descritos recentes desse tipo de infecção.
 
 Quando se fala no HIV, deve ser lembrado que a sua estrutura genômica possui genes com função estrutural e com fun-ções regulatórias. O genoma do HIV contém genes para 3 proteínas estruturais básicas e, no mínimo, 5 outras proteínas regu-latórias (que incluem glicoproteínas de membrana). Vamos falar primeiramente da estrutura genômica e, depois, da estrutura morfológica (proteínas). 
-Estrutura genômica: de acordo com a Tabela 2;
+Estrutura genômica: de acordo com a Tabela 2:
 
 Tabela 2 - Genes estruturais e acessórios
-Gag	Significa grupo antigênico; com o gene env, codifica as glicoproteínas da membrana viral e a cápsula do núcleo viral.
+Gag	Significa grupo antigênico; com o gene Env, codifica as glicoproteínas da membrana viral e a cáp-sula do núcleo viral.
 Pol	Significa polimerase; faz codificação para transcriptase reversa e para outras enzimas.
-Env	Significa envelope; é responsável pela diversidade genética das proteínas do envelope, o que dificulta a produ-ção de vacinas (mutações frequentes).
-Genes acessórios	São 6 genes: vif, vpu, vpr, tat, rev e nef. Aumentam a complexidade genética e, com isso, a dificuldade de vacinas. No caso do tat e do rev, são proteínas reguladoras que se acumulam no núcleo e se ligam a regiões definidas do RNA viral.
+Env	Significa envelope; é responsável pela diversidade genética das proteínas do envelope, o que difi-culta a produção de vacinas (mutações frequentes).
+Genes acessórios	São 6 genes: vif, vpu, vpr, tat, rev e nef. Aumentam a complexidade genética e, com isso, a dificul-dade de vacinas. No caso do tat e do rev, são proteínas reguladoras que se acumulam no núcleo e se ligam a regiões definidas do RNA viral.
 
 Estrutura morfológica: em cada vírus, 72 complexos glicoproteicos ficam integrados a uma membrana proteica. As glico-proteínas associadas são representadas na Tabela 3:
 
 Tabela 3 - Principais proteínas virais
-Gp120	Glicoproteína externa; pode ser detectada no soro ou no tecido linfático dos infectados, exatamente pela carac-terística de ser externa.
+Gp120	Glicoproteína externa; pode ser detectada no soro ou no tecido linfático dos infectados, exata-mente pela característica de ser externa.
 Gp41	Glicoproteína transmembrana; fica interligada com a gp120.
 P17	Proteína da matriz; é presa ao interior da membrana lipoproteica viral.
 Antígeno p24	Presente no núcleo; é utilizada para o diagnóstico precoce da infecção pelo HIV.
@@ -54,24 +53,48 @@ N (Non O non M): incomum;
 P (Pending new cases): descoberto em 2009.
 
 Importante
-É importante saber que, no Brasil, os subtipos mais comuns do HIV tipo 1 são o B e o F, ambos do grupo M (major), apesar de serem encontrados cada vez mais mistos ou outros subtipos do HIV 1.
+No Brasil, os subtipos mais comuns do HIV tipo 1 são o B e o F, ambos do grupo M (major), apesar de serem encontrados cada vez mais mistos ou outros subtipos do HIV 1.
 
  
-Figura 2 - Mapa com os subtipos no mundo: o principal motivo de conhecer tal dado é que, provavelmente, diferentes subtipos estão relacionados com menor transmissibilidade, risco de resistência primária, entre outras características
+Figura 2 - Mapa com os subtipos no mundo: o principal motivo de conhecer tal dado é que, provavelmente, diferentes subtipos estão relacio-nados com menor transmissibilidade, risco de resistência primária, entre outras características
 
-3. Epidemiologia 
+3. Transmissão do HIV
+
+A transmissão do HIV está relacionada ao contato com secreções que apresentam vírus e ainda ao sangue do paciente in-fectado. É importante reconhecer que o tempo de vida do vírus fora do corpo em uma gota de sangue parece ser pequeno, o que dificultaria a transmissão de um vírus através de instrumento com sangue coagulado, por exemplo. Da mesma maneira, não há risco de transmissão de contato com sangue infectado em pele íntegra, mas este risco ocorre se houver lacerações na pele ou contato com mucosas oculares, por exemplo.
+Não existe transmissão através da saliva, urina, secreção lacrimal ou suor, desde que estas estejam isentas da presença de sangue. Isso garante a ausência de risco com beijo, por exemplo. Nesta situação, a transmissão só poderia ocorrer se houves-se sangue na saliva, e o paciente receptor de um beijo na boca tivesse também a presença de laceração na região da boca. 
+A transmissão através da gestação pode ocorrer, principalmente no terceiro trimestre e no momento do parto (onde ocorre maior risco de contato do sangue da mãe com o da criança). 
+
+Tabela 4 - Principais mecanismos de transmissão 
+Sem risco (desde que sem sangue)
+- Saliva;
+- Urina;
+- Fezes;
+- Lágrimas;
+- Suor.
+Com risco
+- Relação sexual: oral, anal ou vaginal;
+- Contato com sangue: usuários de drogas intrave-nosas, transfusões não realizadas através de ban-co de sangue, contato com materiais perfurocor-tantes (agulhas, bisturis, alicates de unha etc.);
+- Transmissão materno-fetal;
+- Aleitamento materno.
+
+4. Epidemiologia 
 
 Antes de iniciar a discussão da doença como um todo, é importante entender por que ela se tornou tão importante do ponto de vista de morbidade e mortalidade, mesmo após o advento da terapia de associação com antirretrovirais (“coquetel de drogas”). Dados da UNAIDS (Programa Conjunto das Nações Unidas sobre HIV/AIDS) de 2014 estimam estabilização da do-ença em torno de 35 milhões de pessoas com o HIV no mundo até 2013. Desde 2001, novas infecções de HIV caíram 38%, segundo o mesmo programa. Mortes relacionadas diminuíram 35% desde que atingiram o pico, em 2005. O objetivo é o au-mento do número de pessoas em tratamento da AIDS. Até 2013, esse número era de 12,9 milhões de pessoas em uso de tratamento antirretroviral. 
-As mortes causadas pelo HIV caíram mais de 1/3 na última década, comparado aos números anteriores. Em 2013, 1,5 mi-lhão de pessoas morreu com AIDS no mundo, ao passo que, em 2004 e 2005, 2,5 milhões haviam morrido pela doença. O predomínio da epidemia é mundial, mas a África é o continente onde há mais infectados e óbitos. Apesar de ser um dos paí-ses com mais casos, os Estados Unidos, por sua vez, mantêm tendência a controle de infecção e sua cronicidade. 
+As mortes causadas pelo HIV caíram mais de 1/3 na última década, em comparação com os números anteriores. Em 2013, 1,5 milhão de pessoas morreu com AIDS no mundo, ao passo que, em 2004 e 2005, 2,5 milhões haviam morrido pela doença. O predomínio da epidemia é mundial, mas a África é o continente onde há mais infectados e óbitos. Apesar de ser um dos países com mais casos, os Estados Unidos, por sua vez, mantêm tendência a controle de infecção e sua cronicidade. 
 
  
-Figura 3 - Número de pessoas com HIV em tratamento no mundo em 2013: notar que os números absolutos representam até 50% dos pacientes que têm HIV no Brasil, enquanto só 15% em outras regiões, como no leste do Mediterrâneo
+Figura 3 - Número de pessoas com HIV em tratamento no mundo em 2013: notar que os números absolutos representam até 50% dos pacien-tes que têm HIV no Brasil, enquanto só 15% em outras regiões, como no leste do Mediterrâneo
 Fonte: OMS, 2013. 
 
-Atualmente, estima-se que a população mundial vivendo com HIV/AIDS seja de 32 milhões de pessoas, 734 mil no Brasil, segundo o Boletim Epidemiológico 2014. A expectativa da Organização Mundial da Saúde é que, em 2015, pelo menos meta-de dos pacientes no mundo esteja em tratamento (16 milhões de pessoas). 
+Os casos diagnosticados no Brasil estão aumentando, o que facilita o tratamento. De acordo com o Boletim Epidemiológico de 2015 há 798.366 casos de AIDS notificados no Brasil. Entretanto, o que chama atenção é o crescimento da doença entre jovens de 15 a 25 anos. Estes jovens não viveram a epidemia de AIDS sem possibilidade de tratamento da década de 90, co-nhecem as maneiras de proteção, mas optam por não se proteger. Eles são o novo desafio as políticas públicas de tratamento.
+O paciente que inicia o diagnóstico de HIV respeita uma sequência que forma uma cascata. Isso quer dizer que parte da população ainda não sabe o diagnóstico (Pessoas Vivendo com HIV-AIDS – PVHA), outros já têm o diagnóstico e, dentre eles, existem os já diagnosticados, ainda sem tratamento, os retidos em serviço de saúde que estão monitorizando sua infecção e outros já com tratamento (TARV). Esses números, no Brasil, melhoraram em relação a cascatas anteriores e são representados pelo Gráfico a seguir:
+
+ 
+Figura 4 - Número estimado de pessoas (em 1.000) na cascata do diagnóstico até o tratamento com indetecção da carga viral (objetivo final do tratamento): notar a discrepância entre os possíveis pacientes com HIV e aqueles com carga viral indetectável (menos da metade). 
+Fonte: Boletim Epidemiológico de HIV – dez/2015. 
 
 Importante
-Com base em dados do Ministério da Saúde de 2014, convém salientar que há 734 mil pessoas vivendo com HIV no Brasil (0,4% prevalência, 10,5% homossexuais e 5,9% usuários de drogas), com tendência de aumento novamente entre os ho-mens (1,8 homem:1 mulher), sendo maior na faixa etária entre 20 e 29 anos. Houve um aumento de 30% na quantidade de tratados a partir do protocolo de 2013, que indica o tratamento independente do valor de CD4. Os estados com as maiores taxas de incidência são Rio Grande do Sul e Amazonas, embora a região Sudeste ainda concentre a maior população com HIV.
+Com base em dados do Ministério da Saúde de 2015, convém salientar que há 798.000 pessoas vivendo com HIV no Brasil (0,4% de prevalência). A principal maneira de transmissão ainda é a relação sexual, em todas as faixas etárias. Apesar de a região Sudeste ser a que tem mais pessoas vivendo com HIV, ela é a única que apresenta queda na incidência de novos casos. Os homens mantêm a maior parte dos casos, com estabilização do crescimento de casos em mulheres.
 
 Pergunta
 2012 - FHEMIG
@@ -82,45 +105,45 @@ c) de acordo com o Ministério da Saúde, todo caso de sorologia positiva para HIV
 d) o maior número de casos acumulados concentra-se na região Sudeste devido ao maior aumento anual da taxa de inci-dência na região
 Resposta no final do capítulo
 
-4. Patogênese 
+5. Patogênese 
 
 A infecção pelo HIV leva a quadros de infecção, principalmente em células que expressam o antígeno CD4, ao qual o vírus se une. Para que o vírus entre, é necessário que haja receptores dele para promover essa entrada, que podem ser de 2 tipos, CXCR4 ou CCR5, este último o mais frequente. Pode acontecer de haver infecção ainda no epitélio, por meio das células de Langerhans, e o vírus já passar a barreira da pele em célula infectada.  
 
  
-Figura 4 - Aspecto da ligação do vírus ao linfócito: observe as 3 fases da ligação – o estado nativo, a ligação propriamente dita e a liga-ção ao correceptor, no domínio de fusão  
+Figura 5 - Aspecto da ligação do vírus ao linfócito: observe as 3 fases da ligação – o estado nativo, a ligação propriamente dita e a ligação ao correceptor, no domínio de fusão  
 Fonte: adaptado de SIERRA et al., 2005.
 
-Uma vez dentro da célula, o vírus pode replicar-se, levando-a a morte, ou integrar o seu genoma ao da célula hospedeira e permanecer latente por um período variável. Outras células infectadas pelo HIV são os linfócitos B, as células dendríticas e os macrófagos. Os linfócitos B são afetados tanto diretamente, pela infecção, quanto pelos efeitos indiretos sobre a função dos linfócitos T CD4+, o que pode levar a hipergamaglobulinemia policlonal e à diminuição da resposta a novos antígenos. 
+Uma vez dentro da célula, o vírus pode replicar-se, levando-a à morte, ou integrar o seu genoma ao da célula hospedeira e permanecer latente por um período variável. Outras células infectadas pelo HIV são os linfócitos B, as células dendríticas e os macrófagos. Os linfócitos B são afetados tanto diretamente, pela infecção, quanto pelos efeitos indiretos sobre a função dos linfócitos T CD4+, o que pode levar a hipergamaglobulinemia policlonal e à diminuição da resposta a novos antígenos. 
 Os macrófagos atuam como reservatórios para o HIV e servem para disseminá-lo para outros órgãos.
 
 Dica
 A imunodeficiência relacionada à infecção pelo HIV é mista, já que acomete tanto componentes do sistema imune celular quanto humoral.
 
  
-Figura 5 - Patogênese da penetração viral por relação sexual (epitélio peniano ou do endocérvice): observar que o vírus necessita de receptores específicos expressados (R5 ou X4) para entrar. Isso será importante no momento de discutirmos o mecanismo de ação de drogas antirretrovirais. A entrada pode acontecer pelo próprio vírus ou pela célula de Langerhans, que este contamina ainda no epitélio. Ainda é obscuro se os macrófagos teciduais seriam infectados primariamente. O certo é que, além de linfócitos T CD4+, células dendrí-ticas e linfócitos B também são infectados
+Figura 6 - Patogênese da penetração viral por relação sexual (epitélio peniano ou do endocérvice): observar que o vírus necessita de recepto-res específicos expressados (R5 ou X4) para entrar. Isso será importante no momento de discutirmos o mecanismo de ação de drogas antirre-trovirais. A entrada pode acontecer pelo próprio vírus ou pela célula de Langerhans, que este contamina ainda no epitélio. Ainda é obscuro se os macrófagos teciduais seriam infectados primariamente. O certo é que, além de linfócitos T CD4+, células dendríticas e linfócitos B também são infectados
 Fonte: adaptado de COHEN, 2011.
 
  
-Figura 6 - Determinação do tempo de infecção do momento em que o vírus entra no epitélio até a disseminação da infecção
+Figura 7 - Determinação do tempo de infecção do momento em que o vírus entra no epitélio até a disseminação da infecção
 Fonte: adaptado de COHEN et al., 2011.
 
 O ciclo de entrada do HIV é dividido em fases, e é importante conhecer os pontos de ação viral, pois, ao falar de medica-ções que combatem o vírus, são em vários desses pontos que as medicações agem. Portanto, a partir do momento que o vírus está dentro do corpo humano e encontra uma célula para parasitar, o ciclo pode ser dividido em:
 
-Tabela 4 - Divisão do ciclo
+Tabela 5 - Divisão do ciclo
 Ligação	O vírus acopla-se à célula, geralmente pelos receptores CCR5 ou CXCR4.
 Fusão	Neste momento, ocorre a fusão da membrana viral com a da célula hospedeira.
 Descompressão	Há a liberação de genes e enzimas virais dentro do citoplasma do hospedeiro.
 Transcrição reversa	Há a formação de fita de DNA viral a partir do RNA.
 Integração genômica	Ocorre integração do DNA viral com o DNA do hospedeiro. A partir desse ponto se considera que a célula (e consequentemente o corpo humano) está infectada pelo vírus. A enzima integrase é utilizada.
 Replicação genômica	O DNA da célula é utilizado para produzir material genético viral.
-Síntese proteica	O ribossomo da célula é utilizado para a produção de proteínas virais. A enzima protease é utilizada.
+Síntese proteica	O ribossomo da célula é utilizado para a produção de proteínas virais. A enzima pro-tease é utilizada.
 Formação de novos vírus	Com proteína e material genéticos produzidos, novas cápsulas são sintetizadas e novos vírus são liberados na circulação.
 
 Importante
-É necessário saber e compreender as etapas de infecção pelo HIV (ligação, fusão, descompressão, transcrição reversa, integração genômica, replicação genômica, síntese proteica e formação de novos vírus), pois cada medicamento antirre-troviral irá agir em alguma dessas etapas.
+É necessário saber e compreender as etapas de infecção pelo HIV (ligação, fusão, descompressão, transcrição reversa, integração genômica, replicação genômica, síntese proteica e formação de novos vírus), pois cada medicamento antirretroviral irá agir em alguma dessas etapas.
 
  
-Figura 7 - Ciclo de entrada do vírus HIV 
+Figura 8 - Ciclo de entrada do vírus HIV 
 
 Pergunta
 2011 - FMUSP-RP
@@ -134,51 +157,49 @@ Resposta no final do capítulo
 Atualmente, muito se discute sobre o papel da resposta inflamatória do paciente na primoinfecção pelo HIV, principal-mente o papel das células intestinais. É sabido que aqueles que apresentam infecção, mas não desenvolvem AIDS, apresenta-ram, no momento da infecção inicial pelo HIV, melhor resposta inflamatória com estímulo das placas de Peyer intestinais e tendência a controle de replicação viral sem necessidade de medicamentos. Isso é chamado de imunossenescência do HIV, e o paciente recebe o nome de respondedor de elite, pois haverá controle de replicação viral pelo próprio organismo, inde-pendente do uso de medicamentos. Em compensação, aquele que apresentar má resposta inflamatória (humoral e celular), com baixo estímulo das placas de Peyer intestinais, desenvolverá a doença mais pregressamente, com maior risco de AIDS em pouco tempo.
 O intestino é o sítio primordial na patogênese da infecção pelo HIV. A infecção primária leva às seguintes alterações intes-tinais:
 
-Tabela 5 - Alterações intestinais
+Tabela 6 - Alterações intestinais
 - Injúria da mucosa intestinal (enteropatia com apoptose de enterócitos, disfunção e defeitos no reparo da mucosa, síndrome de má absorção);
 - Perda maciça de LTCD4 local (LTM) – tecido linfático e lâmina própria;
 - Disseminação de produtos provenientes da microbiota local (antígenos e polissacarídeos) – ativação imune (cascata de citocinas – interferona tipo 1) – replicação viral (ciclo);
 - Influxo de LTCD4 ativados para o intestino.
 
 Importante
-O estímulo das placas de Peyer intestinais no momento da infecção pelo HIV provocam melhor resposta inflamatória e melhor controle da replicação viral sem o uso de medicamentos. Os pacientes que apresentam esse quadro são chamados respondedores de elite.
+O estímulo das placas de Peyer intestinais no momento da infecção pelo HIV provoca melhor resposta inflamatória e melhor controle da replicação viral sem o uso de medicamentos. Os pacientes que apresentam esse quadro são chamados respondedores de elite.
 
-  
-Figura 8 - Mecanismos normais desencadeados em um processo de resposta imune inata, levando, ao final, a uma resposta imune adaptativa. Podem produzir linfócitos B e T, interferona ou, ainda, neutrófilos, linfócitos Natural Killers (NKs) ou células dendríticas. O HIV impede essa cascata, bloqueando a resposta imune inata a partir da inflamação crônica desde a infecção inicial, levando à falência desse sistema de proteção habitual. 
+ 
+Figura 9 - Mecanismos normais desencadeados em um processo de resposta imune inata, levando, ao final, a uma resposta imune adaptativa. Podem produzir linfócitos B e T, interferona ou, ainda, neutrófilos, linfócitos Natural Killers (NKs) ou células dendríticas. O HIV impede essa cascata, bloqueando a resposta imune inata a partir da inflamação crônica desde a infecção inicial, levando à falência desse sistema de proteção habitual 
 Fonte: adaptado de LEVY et al., 2015. 
 
 A partir dessa imunopatogênese, o perfil do paciente pode ser dividido em tipos:
 
-Tabela 6 - Tipos de pacientes, de acordo com a evolução pós-infecção
+Tabela 7 - Tipos de pacientes, de acordo com a evolução pós-infecção
 Controladores de elite 
-(“elite controllers”)	São pacientes que, apesar de terem a infecção pelo vírus, têm capacidade importante de controle da viremia. A viremia é indetectável (<50cp/mL), mesmo sem o uso de medicamentos.
-Não progressores de longo termo (“long-term non progressors”)	Apresentam infecção pelo HIV e carga viral detectável baixa, entretanto evoluem para doença, em média, 8 anos após a infecção inicial. A contagem de CD4 é geralmente acima de 500/mm3.
+(“elite controllers”)	São pacientes que, apesar de terem a infecção pelo vírus, têm capacidade importante de controle da viremia. A viremia é indetectável (<50cp/mL), mesmo sem o uso de medicamen-tos.
+Não progressores de longo termo (“long-term non progressors”)	Apresentam infecção pelo HIV e carga viral detectável baixa, entretanto evoluem para doen-ça, em média, 8 anos após a infecção inicial. A contagem de CD4 é geralmente acima de 500/mm3.
 Não progressores
-(“non progressors”)	Apesar da carga viral detectável, não evoluem para doença e têm resposta celular vigorosa, multi-específica, policlonal e mantida.
+(“non progressors”)	Apesar da carga viral detectável, não evoluem para doença e têm resposta celular vigorosa, multiespecífica, policlonal e mantida.
 Progressores rápidos 
 (“rapid progressors”)	Evoluem para doença em até 6 meses e não apresentam resposta celular inicial efetiva. 
 
 Vídeo
 Morfologia e patogênese do HIV
-  
+ 
 
-5. Resumo
+Resumo
 
 Quadro-resumo
-Epidemiologia	- Recordando as tendências atuais da infecção pelo HIV:
-· Aumento da incidência no Brasil nos últimos 10 anos;
-· Aumento em mulheres, mas homens ainda na maioria;
-· Regiões do Brasil com maior incidência. 
+Epidemiologia	- Lembrar-se do aumento dos casos em jovens, tendência no Brasil nos últimos 2 anos.
+- Recorde a principal região do Brasil com casos e a única que tem diminuição (sudeste).
+Transmissão do HIV	- Compreender quais são os tipos de secreção que não transmitem HIV;
+- Saiba todas as formas de transmissão do HIV.
 Estrutura viral 	- Principais glicoproteínas virais;
-	- Subtipos mais prevalentes no Brasil.
-Patogênese do HIV	- Conhecer o ciclo do HIV;
-	- Conhecer o tempo para a entrada do vírus no organismo.
+	- Identificar a função principal de cada uma descrita no quadro;
+	- Conhecer os subtipos mais prevalentes no Brasil (B e F).
+Patogênese do HIV	- Conhecer o ciclo do HIV. Isso vai ser essencial para entender a ação dos antirretrovirais posterior-mente;
+	- Especial atenção a pontos dos medicamentos mais frequentes: transcrição reversa, inibição de proteases e inibição da entrada do vírus na célula;
+	- Conhecer o tempo para a entrada do vírus no organismo;
+	- Entender a dinâmica entre o contato inicial e o paciente ficar doente (diagrama).
 
-Respostas
+Respostas das questões do capítulo
 1. A
 2. D
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
