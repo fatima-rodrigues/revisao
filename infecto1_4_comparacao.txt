@@ -1,0 +1,572 @@
+diff --git a/infecto1_4.txt b/infecto1_4.txt
+index d770cae..44f0552 100644
+--- a/infecto1_4.txt
++++ b/infecto1_4.txt
+@@ -1,422 +1,482 @@
+Tratamento d[-a-]{+o+} {+HIV/+}AIDS{++}
+Durval A. G. Costa[-Resumo-]{++}
+{++}
+Neste capítulo, serão abordados temas relativos às principais drogas utilizadas no tratamento{+ do HIV/AIDS+}, bem como as prin{+-+}cipais situa[---]ções que indicam a terapêutica. O tratamento é recomendado a todos os pacientes com infecção pelo HIV, inde{+-+}pendente do valor de CD4, e é feito utilizando-se, como 1ª escolha, a associação de tenofovir, lamivudina e efavirenz (2 inibi{+-+}dores da transcriptase reversa análogos de nucleosídeos – ITRNs – e 1 inibidor de transcriptase reversa não análogo de nu{+-+}cleosí[---]deos – ITRNN), preferencialmente na associação de uma formulação a um comprimido em dose única (1 comprimido, 1x/d, contendo todos os medicamentos associados). Objetiva-se, com o tratamento, chegar a uma carga viral indetectável no período de 6 meses. O uso dessa terapia tem, como um dos principais efeitos colaterais, a lipodistrofia, que é a redução da gordura em áreas como nádegas, braços e face, e deposição na região abdominal, nas mamas e nas costas, formando a cha{+-+}mada giba. {++}
+{++}
+1. Tratamento antirretroviral{++}
+{++}
+A cada ano, descobrem-se mais alterações no corpo humano causadas pelo vírus per se, o que remete ao fato de que ele não diminui apenas linfócitos T CD4. Portanto, o problema não seria apenas a queda de imunidade celular. Os grandes estu-dos de seguimento de 20 anos de pacientes com HIV mostraram que aqueles que iniciaram tratamento (mesmo que com CD4 alto) sobreviveram por mais tempo e tiveram menos morbidade do que aqueles com ausência de tratamento por “CD4 bom”. O HIV causou mais tumores (e de vários tipos) em pacientes sem tratamento, mesmo entre aqueles com CD4 alto (500 ou mais). Também causou envelhecimento celular precoce de várias células (principalmente do sistema nervoso), além de ter aumentado as citocinas de inflamação no corpo cronicamente, levando a danos em órgãos-alvo (rins, coração, cérebro, pul-mão) pela sua simples existência. Em 2015, foram divulgados dados de estudo que avaliava apenas pacientes com CD4 >500, dividindo-os em grupos com e sem tratamento. Após a avaliação de 4.500 pacientes com CD4 >500, concluiu-se que todo paciente com infecção pelo HIV deve receber tratamento, pois houve redução na mortalidade em 50% em relação aos que não foram tratados. {++}
+Por outro lado, têm-se os medicamentos que são usados para tratamento, os antirretrovirais, cheios de efeitos colaterais; entre os mais comuns estão dislipidemias, lipodistrofia e alterações glicídicas. Soma-se ao fato a necessidade de adesão ao tratamento, fator que, se não realizado corretamente, leva a resistência do vírus aos medicamentos. Mesmo quando se diz que o HIV é uma doença crônica atualmente, como o diabetes e a hipertensão arterial, deve ser lembrado que a interrupção de um tratamento de diabetes ou hipertensão leva apenas ao descontrole destas. Em contrapartida, a interrupção de antirre-trovirais no tratamento do HIV leva a alto risco de resistência e ainda maior de disseminação da doença (já que as cargas virais estarão mais altas sem tratamento).{++}
+{++}
+ {++}
+Figura 1 - Mecanismos que levam ao envelhecimento celular prematuro: notar que a ausência de tratamento deixa o vírus livre para tais mecanismos, o que predispõe ao aparecimento de tumores, por exemplo, em longo prazo, principalmente se associados a outros vírus, como o citomegalovírus ou o vírus da família herpes. Em contrapartida, o tratamento com alguns antirretrovirais também levava a me[---]canismos de imunossenescência, o que está diminuindo com a terapia antirretroviral mais moderna{++}
+Fonte: adaptada de CLIFFORD et al., 2008. {++}
+{++}
+A finalidade de tratar um paciente com HIV é diminuir a piora da imunodeficiência e o risco de morbidades associadas ao vírus per se. Observe que o tratamento não aumenta a imunidade diretamente, apenas remove o vírus da corrente sanguínea, o que deixa o corpo livre para melhorar a imunidade. Entretanto, em pacientes que iniciam o tratamento com a contagem de CD4 muito baixa, essa recuperação será mais lenta do que o habitual (às vezes por anos). {++}
+{++}
+ {++}
+Figura 2 - Evolução clássica do aumento de linfócitos T CD4+ com o tratamento antirretroviral combinado – HAART (terapia antirretrovi[---]ral altamente ativa) – ou coquetel: observar que[-,-] para pacientes que iniciaram o tratamento com CD4 mais baixo (abaixo de 100), mesmo reali{+-+}zando o tratamento de maneira adequada, o CD4 não voltará ao valor normal (início de tratamento em fase tardia demais – vide texto); entre os pacientes que iniciam tratamento com CD4 mais alto, a chance de recuperação em um nível mais próximo do normal de CD4 é bem maior{++}
+Fonte: adaptado de HIRSCH.{++}
+{++}
+Seguindo uma tendência mundial, o Brasil assumiu o tratamento de pacientes infectados pelo HIV sugerindo o tratamento de todos aqueles vivendo com HIV/AIDS, independente do valor de CD4. Isso vale, principalmente, para os novos diagnósti-cos, mas ainda para os pacientes que já viviam com HIV, mas ainda não tratavam. Para todos os pacientes deve ser oferecido tratamento, o que significa que aqueles com infecção aguda pelo HIV também se enquadram nesse contexto, e o que antes era dúvida agora é também uma indicação na infecção aguda pelo HIV. {++}
+{++}
+Importante{++}
+Todo paciente HIV agudo deve começar o tratamento imediatamente, com o objetivo de diminuir a resposta inflamatória, reduzir o risco de doenças vasculares, aumentar as chances de um controle viral precoce e diminuir a transmissão, uma vez que é a fase de maior carga viral.{++}
+{++}
+A - Indicação atual de início da terapia {++}
+O valor de linfócitos T CD4 de uma pessoa que não tem HIV varia entre 700 e 1.000 células/mm3. Então, quando o CD4 es-tá abaixo de 700, deve-se iniciar o tratamento? Na verdade, não. O 1º entendimento é que não existe um número matemáti-co, mas uma avaliação de cada paciente para quadros clínicos específicos. Há 10 anos, já na era HAART (terapia com associa-ção de drogas), esperava-se que o paciente tivesse alguma doença oportunista para se iniciar o tratamento. Então se enten-deu que, em algumas situações, esperar poderia trazer sequelas importantes por uma doença oportunista. A partir de então, iniciou-se a busca pelo valor de CD4 abaixo do qual os riscos aumentam muito. {++}
+{++}
+a) O que se pode concluir até aqui? {++}
+Não há dúvidas de quem merece o tratamento quando as doenças oportunistas já apareceram. Então, qualquer paciente com sorologia para HIV e doença definidora de AIDS deve ser obrigatoriamente tratado, independente do valor de CD4. {++}
+{++}
+b) E os assintomáticos?{++}
+A recomendação brasileira para o tratamento de pessoas vivendo com HIV sofreu importantes mudanças. A primeira delas foi que a recomendação deixou de ser apenas uma sugestão para ser um protocolo de tratamento. Isso significa que as dire-trizes devem ser seguidas como citadas e, caso não sejam, devem ser justificadas. {++}
+{++}
+Dica{++}
+O tratamento é recomendado a todos com infecção pelo HIV, independente do valor de CD4.[- -]{++}
+{++}
+Um dos principais motivos (além dos citados) é a diminuição da transmissão do HIV. Na teoria, se houvesse tratamento de todas as pessoas que têm a infecção do HIV, a chance de transmissão seria próxima de zero. Entretanto, é fundamental que o paciente esteja preparado para tomar a medicação, o que significa que não se recebe o exame de HIV e se inicia a terapia imediatamente. O médico deve avaliar se o paciente terá condição de aderir a ela e, principalmente se ele quer tomar a me-dicação. Não adianta a prescrição de um tratamento para um indivíduo que não deseja utilizá-lo. As consequências podem ser a resistência a medicamentos ou à classe inteira deles.{++}
+{++}
+Tabela 1 - Fatores que facilitam a adesão ao tratamento{++}
+- Esquemas terapêuticos simplificados, como doses fixas combinadas, que permitem o uso de diferentes medicamentos em um mesmo comprimido;{++}
+- Apoio social;{++}
+- Conhecimento e compreensão sobre a enfermidade e o tratamento;{++}
+- Acolhimento e escuta ativa do paciente pela equipe multidisciplinar;{++}
+- Vínculo com os profissionais de saúde, equipe e serviço de saúde;{++}
+- Capacitação adequada da equipe multidisciplinar;{++}
+- Acesso facilitado aos antirretrovirais por meio do funcionamento e da localização adequada da unidade dispensadora de medica{+-+}men[---]tos;{++}
+- Parceria com Organizações da Sociedade Civil (OSCs).{++}
+{++}
+Além disso, o tratamento de doenças que podem atrapalhar o acompanhamento do HIV é um fator importante. Desta ma-neira, em um caso de doença psiquiátrica, por exemplo, é muito importante tratá-la antes, na medida do possível (por exem-plo, depressão). Em outras situações, deve ser tratada a {+doença +}oportunista primeiramente, como no caso da tuberculose ou da crip[---]tococose, por ao menos 2 semanas antes do tratamento antirretroviral, evitando a síndrome da resposta inflamatória. Por fim, a avaliação nutricional e o estímulo a exercícios físicos exercem papel fundamental na prevenção da lipodistrofia e no prepa[---]ro do paciente antes do tratamento. {++}
+A genotipagem pré-tratamento é indicada a pacientes com infecção transmitida por parceiro conhecido e cujo risco de resistência também se conhece e gestantes com infecção pelo HIV. A incidência de resistência primária no Brasil ainda é pe-quena (de 4 a 10%), mas a tendência é que o exame seja feito para todos, independentemente do tratamento. {++}
+{++}
+Dica{++}
+A realização da genotipagem é necessária para os casos de infecção transmitida por parceiro, no qual já se conhece o risco de resistência[-,-] e{+,+} também[- é indicada-]{+,+} para gestantes portadoras de HIV.[- -]{++}
+{++}
+Em algumas situações, o paciente deve saber que o risco [-é-]{+de+} m[-ai-]or[-:-]
+[-C-]{+rer +}o[-m-]{+u+} [-manifes-]t[-açõ-]e[-s-]{+r+} c{+omp+}l[-ín-]ica[-s de AIDS, independent-]{+çõ+}e[- da-]{+s+} co[-ntage-]m [-de-]{+a+} [-linfócit-]{+d+}o[-s T CD4+ -]e[- d-]{+nç+}a [-carga-]{+é+} [-v-]{+ma+}i{+o+}r[-al-]{+.+} [-pla-]{+E+}s[-má-]t[-ic-]a[-;-]
+[-A-]s{+ +}si[-ntomático com con-]t{+u-+}a[-gem d-]{+çõ+}e[- linfócito-]s [-T CD4+ <500 célula-]s[-/mm3,-]{+ão:+}
+{+-+} {+Pac+}i[-ndepend-]ente [-da presença de sint-]{+c+}om[-as ou da-] ma[-g-]ni[--tud-]{+f+}e[- d-]{+st+}a{+ções+} c[-arga v-]{+lín+}i[-r-]{+c+}a[-l;-]
+[-Ge-]s[-tant-]{+ d+}e{+ AIDS+}, independente d[-o valor d-]{+a contagem de linfócitos T CD4+ e da carga viral plasmáti-ca;+}
+{+- Assintomático com contagem de linfócitos T CD4+ <500 células/mm3, independente da presença de sintomas ou da mag-nitude da carga viral;+}
+{+- Gestante, independente do valor d+}a contagem de linfócitos T CD4+, aqui com a direta preocupação de evitar a transmis{+-+}são materno-fetal;{++}
+{+- +}Coinfecção com hepatite B e necessidade de tratamento: essa indicação vale quando há indicação de tratamento da he{+-+}pa[---]tite B. Isso acontece porque os análogos nucleosídicos que tratam essa hepatite têm ação sobre o HIV e poderiam indu{+-+}zir resistência no vírus se usados sem outros antirretrovirais;{++}
+{+- +}Doença cardiovascular com risco acima de 20%, segundo o escore de Framingham: os pacientes com cardiopatias graves evoluem com mais complicações cardíacas com o HIV, devendo diminuir esse risco;{++}
+{+- +}Neoplasias, quando houver a necessidade de terapia imunossupressora: isso vale também para as não definidoras de AIDS. Considerando que o paciente precisa fazer quimioterapia, quanto melhor o CD4, menor a chance de complicações de quimioterapia;{++}
+{+- +}Paciente HIV positivo com parceiro(a) negativo: aqui se sugere tratar para diminuir o risco de transmissão do HIV entre ambos.{++}
+Em resumo, as indicações para tratamento ficaram definidas da seguinte forma (Tabela 2):{++}
+{++}
+Tabela 2 - Indicações para tratamento dos pacientes com HIV segundo o Ministério da Saúde (dezembro/2013){+ +}
+- Todas as pessoas vivendo com HIV/AIDS, independentemente da contagem de CD4;{++}
+- Estímulo ao início imediato da terapia antirretroviral, na perspectiva de redução da transmissibilidade do HIV, considerando a moti-vação dessas pessoas.  {++}
+Sintomáticos{++}
+Incluindo tuberculose ativa, independentemente da contagem de CD4: iniciar a terapia antirretroviral após 2 semanas do início do tratamento de tuberculose.{++}
+Assintomáticos{++}
+CD4 =500 células/mm3	Iniciar a terapia antirretroviral[- na coinfecção HIV–HBV com indicação de tratamento para hepatite B-].{++}
+CD4 [-=-]{+>+}500 células/mm3	{+- +}Considerar terapia antirretroviral nas seguintes situações:[---]{++}
+{+?+} Neoplasias não definidoras de AIDS com indicação de quimioterapia ou radioterapia;[---]{++}
+{+?+} Doença cardiovascular estabelecida ou risco cardiovascular elevado (acima de 20%, se{+-+}gundo o escore de Framingham);[---]{++}
+{+?+} Coinfecção HIV–HCV;{++}
+{+? Iniciar a terapia antirretroviral na coinfecção HIV–HBV com indicação de tratamento pa+}-{+ra hepatite B;+}
+{+?+} Carga viral do HIV acima de 100.000 cópias/mL.{++}
+Sem contagem de linfócitos T CD4+ disponível	Na impossibilidade de obter contagem de CD4, não se deve adiar o início do tratamento. {++}
+Gestantes	Iniciar a terapia antirretroviral.{++}
+{++}
+Como o tratamento é por toda a vida, a escolha do antirretroviral e do momento para iniciá-lo passa, obrigatoriamente, pelo conhecimento e pelo consentimento do paciente. Alguns fatores facilitam a má adesão: efeitos colaterais, esquemas com posologias incompatíveis com as atividades diárias (por exemplo, prescreve-se um antirretroviral de uso noturno que provoque sonolência, mas o paciente trabalha à noite), número elevado de comprimidos, necessidade de restrição alimentar, falta de compreensão da prescrição e falta de informação sobre as consequências da má adesão. Se o paciente está assinto-mático, ele poderia aguardar o resultado da contagem de linfócitos T CD4. Entretanto, em locais onde não haja possibilidade de realizar rapidamente essa contagem, ela não é obrigatória.{++}
+{++}
+Pergunta{++}
+2014 - UFRJ {++}
+1. Uma mulher de 35 anos há 30 dias recebeu diagnóstico de tuberculose pulmonar por baciloscopia de escarro positiva e infecção pelo HIV, comparecendo hoje para consulta em uso apenas de esquema RHZE. Nega efeitos colaterais, e os exa{+-+}mes laboratoriais de acompanhamento estão normais. A conduta mais adequada, neste momento, é iniciar a terapia an{+-+}tirretroviral: {++}
+a) caso a contagem de linfócitos T-CD4 seja <350 células/mm3 {++}
+b) caso a contagem de linfócitos T-CD4 seja <500 células/mm3 {++}
+c) independente da contagem de linfócitos T-CD4, nesta consulta {++}
+d) após o término do tratamento da tuberculose{++}
+Resposta no final do capítulo{++}
+{++}
+B - Drogas recomendadas {++}
+Todas as classes de medicamentos contra o vírus recebem o nome de acordo com o local do ciclo do HIV. Os antirretrovi-rais são divididos em classes, portanto, de acordo com a função que exercem no bloqueio do ciclo:{++}
+{++}
+a) Inibidores da transcriptase reversa análogos de nucleosídeos {++}
+Os inibidores da transcriptase reversa análogos de nucleosídeos (ITRNs) ligam-se aos nucleosídeos com as bases específi-cas no momento da transdução do RNA para o DNA, impedindo a sua transformação. O 1º antirretroviral usado para trata-mento do HIV, o AZT (zidovudina), pertence a essa classe.{++}
+{++}
+b) Inibidores da transcriptase reversa não análogos de nucleosídeos {++}
+Os inibidores da transcriptase reversa não análogos de nucleosídeos (ITRNNs) fazem o mesmo que a classe anterior, entre-tanto usam moléculas que não têm o aminoácido diretamente (citosina, guanina, adenosina, uracila), mas sim análogos. A barreira genética para mutações é pequena, com risco de falha virológica mesmo com adesões não muito baixas.{++}
+{++}
+c) Inibidores de protease{++}
+Os Inibidores de Protease (IPs) agem após a integração do vírus com o DNA da célula infectada, no momento em que o primeiro está usando a segunda para produzir proteínas. Bloqueiam a enzima que faz tal serviço, a protease. Um dos primei-ros antirretrovirais dessa classe, o ritonavir é utilizado atualmente apenas como efeito sinérgico da associação com outro IP, o chamado efeito booster.{++}
+{++}
+d) Inibidores de entrada{++}
+Este grupo de antirretrovirais é utilizado tentando impedir que o vírus entre na célula. Existem 2 subclasses: os inibidores de fusão, representados pela enfuvirtida, e os inibidores de receptores de entrada, representados atualmente pelo maravi-roque (inibidor de CCR5). Como há 2 tipos de receptores de entrada (CCR5 e CXCR4), esse medicamento só tem efeito para aqueles que expressem apenas CCR5, e antes de prescrevê-lo deve ser feito o teste de tropismo de receptor. {++}
+{++}
+e) Inibidores de integrase{++}
+São medicamentos que agem na enzima integrase, que faz a integração do DNA viral com o DNA da célula parasitada, den-tro do núcleo celular.{++}
+{++}
+ {++}
+Figura 3 - Locais onde os antirretrovirais agem durante o ciclo do HIV: em vermelho estão as classes de antirretrovirais existentes atu[---]almente, no local apropriado do ciclo {++}
+Fonte: adaptado de CHEN, 2007.{++}
+{++}
+Tabela 3 - Antirretrovirais separados por classes{+ +}
+Antirretrovirais existentes no tratamento do HIV{++}
+ITRNs{++}
+- Zidovudina;{++}
+- Lamivudina;{++}
+- Didanosina;{++}
+- Estavudina;{++}
+- Abacavir;{++}
+- Tenofovir (é um análogo nucleotídeo, mas pertence a esta classe).{++}
+ITRNNs{++}
+- Efavirenz;{++}
+- Nevirapina;{++}
+- Etravirina (com barreira genética melhor).{++}
+IPs{++}
+- Atazanavir;{++}
+- Darunavir;{++}
+- Fosamprenavir;{++}
+- Indinavir;{++}
+- Lopinavir;{++}
+- Ritonavir (utilizado como booster);{++}
+- Saquinavir;{++}
+- Tipranavir.{++}
+Inibidores de entrada{++}
+- Enfuvirtida (pouco usado atualmente por ser subcutâneo, 2x/d) – inibidor de fusão;{++}
+- Maraviroque (realizar antes o teste do tropismo de receptor efetivo para CCR5).{++}
+{+Inibidores de integrase+}
+{+- Raltegravir;+}
+{+- Dolutegravir (incorporado apenas em 2016 ao esquema brasileiro).+}
+{++}
+Apresentados os antirretrovirais e entendidos seus locais de ação, discutiremos as recomendações de uso. A definição de HAART exige que se combinem drogas que ajam em locais diferentes ou no mesmo local com mais de 1 medicamento para efeito sinérgico. Por esse motivo, deve haver no mínimo 3 drogas em qualquer esquema antirretroviral. O Ministério da Saú-de recomenda 2 ITRNs associados a 1 ITRNN ou a 1 IP. {++}
+O tratamento antirretroviral preconizado pelo Ministério da Saúde direciona o início de tratamento para a maior quanti-dade de pessoas, com menor efeito colateral possível e maior possibilidade de adesão possíveis. Baseado nesses fatos, é pro-tocolado o uso de um único esquema como favorito, na associação de tenofovir, lamivudina e efavirenz (2 ITRNs e 1 ITRNN), de preferência na associação de uma formulação a um comprimido em dose única (1 comprimido, 1x/d, contendo todos os medicamentos associados). A seguir, esquema de terapia inicial (1ª linha):{++}
+{++}
+TDF + 3TC + EFV*{++}
+* Na apresentação de dose fixa combinada, sempre que disponível.{++}
+{++}
+Importante{++}
+O principal motivo da indicação como obrigatória do início com tenofovir, lamivudina e efavirenz (TDF/3TC/EFZ) no trata[---]mento do HIV é a apresentação de 1 c{+om+}p{+rimido+} 1x/d dessa formulação – isso aumenta a adesão ao tratamento, pois facilita a to[---]mada.{++}
+{++}
+Apesar de ser uma recomendação do protocolo do final de 2013, a formulação combinada de um comprimido só come-çou a ser distribuída em 2 estados brasileiros, Amazonas e Rio Grande do Sul, a partir de agosto de 2014. Essa formulação será oferecida inicialmente apenas para os novos tratamentos. {++}
+O AZT classicamente é criticado por conta dos efeitos colaterais, em curto e em longo prazos (veja neste capítulo os efei-tos). A partir do protocolo de 2013, essa droga deixou de ser utilizada como 1ª linha (o que já acontecia há anos em outros países), entretanto o esquema principal não é para todos. Pacientes que tenham alterações prévias da função renal devem evitar o uso de tenofovir, por exemplo[-.-]{+,+} [-A-]{+e a+}queles com alterações psiquiátricas devem evitar o efavirenz[-, por exemplo-]. Por esses motivos, existem regras no protocolo atual que devem ser seguidas, com a sequência indicada obrigatória. Na impossibi[---]lidade do uso de tenofovir, a sequência recomendada é a encontrada na Tabela 4.{++}
+{++}
+Tabela 4 - Protocolo para tratamento na impossibilidade do uso de tenofovir{++}
+	Utilizações	Situações{++}
+1ª opção	AZT	Contraindicação a tenofovir (TDF){++}
+2ª opção	Abacavir (ABC)	Contraindicação a TDF e AZT{++}
+3ª opção	Didanosina (ddI)	Contraindicação a TDF, AZT e ABC{++}
+Observação: a estavudina não é mais indicada para qualquer tratamento.{++}
+{++}
+Em pacientes com contraindicação ao uso de efavirenz, a ordem obrigatória é a relatada na Tabela 5.{++}
+{++}
+Tabela 5 - Protocolo para tratamento na impossibilidade do uso de efavirenz{++}
+	Utilizações	Situações{++}
+1ª opção	Nevirapina	Contraindicação a efavirenz{++}
+2ª opção	Lopinavir/ritonavir	Contraindicação a efavirenz e nevirapina{++}
+3ª opção	Atazanavir/ritonavir	Contraindicação a efavirenz, nevirapina e lopinavir/ritonavir{++}
+{++}
+Dica{++}
+Na contraindicação ao uso de tenofovir para tratamento do HIV, a 1ª escolha no lugar é a zidovudina, e, na contraindicação ao uso do efavirenz, a 1ª escolha é a nevirapina.{++}
+{++}
+A nevirapina é um ITRNN de baixa barreira genética e ligada a um risco maior de hepatotoxicidade e síndrome de Stevens-Johnson, principalmente em pacientes com valores maiores de CD4 (>350 para mulheres e 250 para homens). O lopinavir em associação ao potencializador de efeito ritonavir está relacionado [-c-]{+a+}o[-m-] aumento de lipídios e glicídios, devendo ser evitado em casos de diabetes mellitus ou dislipidemias. O atazanavir, associado ao ritonavir, tem igualdade de efeito em vários traba[---]lhos na comparação ao efavirenz (medicamento mais utilizado mundialmente). Há situações em que a preferência do antirre[---]trovi{+-+}ral é escolhida conforme a condição clínica associada. Apesar de já citadas, a Tabela 6 resume essas condições.{++}
+{++}
+Tabela 6 - Protocolo para tratamento em situações especiais{++}
+Condições clínicas	Recomendações	Comentários{++}
+Hepatite B	Dupla de ITRN/ITRNt preferencial: TDF + lamivu{+-+}dina (3TC)	Essa dupla tem ação contra o vírus da hepa[---]ti{+-+}te B.{++}
+Nefropatia	Dupla de ITRN/ITRNt preferencial: AZT + 3TC	Deve-se evitar o uso de TDF em razão da ne{+-+}frotoxicidade.{++}
+Tuberculose	Preferencialmente, EFV[-  -]	- Evitar uso de ritonavir;{++}
+- Iniciar terapia antirretroviral entre a 2ª e a 8ª semanas após o início do tratamento da tuberculose.{++}
+Gestação	Esquema preferencial: AZT + 3TC + lopina{+-+}vir/ritonavir (LPV/r)	O efavirenz é contraindicado.{++}
+{++}
+{+f) +}E as outras classes de medicamentos? {++}
+As classes mais novas (inibidores de entrada e inibidores de integrase) são atualmente reservadas para tratamentos de resgate, não para tratamento inicial. Novamente, o alto custo desses medicamentos impede que tais drogas sejam liberadas no Brasil para tratamentos iniciais. {++}
+{++}
+C - Como saber se o paciente está no caminho certo?{++}
+A 1ª carga viral deve ser feita entre 6 e 8 semanas após o início da terapia antirretroviral inicial, e se espera uma queda de pelo menos 2 logaritmos no exame. Com o passar dos meses, espera-se que a quantidade de vírus seja tão baixa que não haverá detecção no sangue, o famoso termo “carga viral indetectável”. {++}
+{++}
+Tabela 7 - Fatores que podem causar atraso na queda da carga viral{++}
+Carga viral pré-tratamento	Quanto maior, mais tempo demorará.{++}
+Valor inicial de CD4	Pacientes muito imunodeprimidos respondem mais lentamente.{++}
+Potência do esquema	Espera-se que alguns esquemas sejam mais rápidos em diminuir {+a +}carga viral.{++}
+Adesão	É a principal causa de demora da supressão e de falha terapêutica.{++}
+Tolerância aos medicamentos	Deve haver adaptação à rotina de vida do paciente.{++}
+{++}
+Importante{++}
+É esperado que todos os pacientes que iniciam tratamento de HIV adequadamente tenham supressão viral completa com carga viral indetectável em até 6 meses.[- -]{++}
+{++}
+D - Especificidades e principais efeitos colaterais dos antirretrovirais{++}
+As drogas utilizadas para tratamento do HIV não são isentas de efeitos adversos, e esse é o principal motivo pelo qual nem sempre é feito o tratamento antirretroviral em todos os pacientes com HIV. A Tabela 8 explica os principais efeitos adversos dos antirretrovirais. {++}
+{++}
+Tabela 8 - Efeitos adversos {++}
+Medicamentos	Observações importantes{++}
+Zidovudina	Anemia*, granulocitopenia*, náusea, vômitos, cefaleia, acidose láctica, insônia, anorexia, mialgia, hiperpigmentação{++}
+Estavudina	Neuropatia periférica, acidose láctica grave*, pancreatite{++}
+Lamivudina	Cefaleia, neuropatia*, fadiga, vômitos, diarreia e acidose láctica{++}
+Didanosina	Neuropatia periférica, pancreatite*, diarreia, cefaleia, vômitos, aumento de enzimas hepáti-cas e acidose láctica{++}
+Abacavir	Rash cutâneo*, reação de hipersensibilidade*, cefaleia e vômitos{++}
+Indinavir	Nefrolitíase*, diarreia, hiperglicemia e vômitos{++}
+Atazanavir	Aumento de bilirrubina indireta*{++}
+Saquinavir	Diarreia*, dor abdominal, vômitos, hiperglicemia e cefaleia{++}
+Ritonavir	Parestesia perioral, aumento de enzimas hepáticas, diarreia*, vômitos*, hiperglicemia e au[---]mento de triglicérides{++}
+Fosamprenavir	Vômitos, diarreia, rash cutâneo, hiperglicemia* e aumento de triglicérides*{++}
+Lopinavir-ritonavir	Hiperglicemia*, aumento de triglicérides* e de enzimas hepáticas{++}
+Efavirenz	Insônia*, pesadelos*, tontura, tinido e rash cutâneo{++}
+Nevirapina	Rash cutâneo*, toxicidade hepática*{++}
+* Esses são os mais importantes e cobrados em provas de Residência Médica.{++}
+{++}
+Seguem comentários sobre efeitos colaterais importantes de algumas dessas drogas.{++}
+{++}
+a) Toxicidade mitocondrial{++}
+Como os inibidores análogos competem com os nucleosídeos virais, também o farão com algumas células humanas, levan-do a quadros de acidose importante e mialgia associada, no padrão de toxicidade mitocondrial. Isso é visto principalmente na estavudina, além de ser um dos motivos pelos quais está sendo retirada do mercado.{++}
+{++}
+b) Neuropatia periférica{++}
+Até 30% dos pacientes em uso de ITRNs a apresentam. Cuidado importante deve ser tomado quando associado a outros medicamentos que potencializam a neuropatia, como a isoniazida, que faz tratamento e profilaxia para tuberculose.{++}
+{++}
+c) Hepatotoxicidade{++}
+É importante conhecer as drogas que podem causar alteração hepática, porque o paciente com AIDS muitas vezes precisa de tratamentos associados que também podem causar inflamação de hepatócitos, como o de tuberculose. Pode haver au-mento das enzimas hepáticas e acidose metabólica. Em geral, os causadores de alteração hepática são os ITRNs.{++}
+{++}
+d) Acidose láctica{++}
+A estavudina é a principal droga que leva ao quadro, principalmente por toxicidade mitocondrial (competição pelas mes-mas bases, tanto no ciclo do vírus quanto nas células humanas). Por esse motivo, é a última opção no tratamento inicial de pacientes com HIV. A didanosina, em menor escala, também causa o quadro. O tenofovir não apresenta toxicidade mitocon-drial, mas pela ação direta no rim pode causar uma acidose tubular renal tipo II (síndrome de Fanconi-like), levando a acidoses metabólicas de difícil controle, com necessidade de suspensão da medicação para controle.{++}
+{++}
+e) Lipodistrofia{++}
+{++}
+Importante{++}
+Medicamentos como a estavudina e o próprio HIV levam a alterações na distribuição de gordura, causando redução na regi{+-+}ão das nádegas, braços, pernas e face, e promovendo acúmulo na região abdominal, nas mamas e nas costas, formando giba.[- -]{++}
+{++}
+Essa é uma das mais recentes e difíceis situações causadas pelo HIV. Sabe-se atualmente que o vírus per se leva a altera-ções de deposição de gordura. Entretanto, a lipodistrofia é típica para alguns medicamentos. Entre os ITRNs, o mais conhecido é a estavudina. Entre os IPs, especialmente lopinavir, fosamprenavir e saquinavir causam lipodistrofia. Isso faz {+com +}que o pa{+-+}ciente não apresente morbidade pelo vírus, mas a aparência leva a consequências de depressão e dificuldades de adesão ao trata[---]mento. Existem 2 tipos de lipodistrofia:{++}
+Lipoatrofia: perda de gordura nas regiões das nádegas, nos braços e nas pernas, além da região da face (de esqueleto);{++}
+{++}
+ {++}
+Figura 4 - Lipoatrofia da face: além da retirada do antirretroviral causador, pode ser feito preenchimento com metacrilato para correção do defeito de face. A seta mostra a marca de expressão ressaltada na lipodistrofia{++}
+{++}
+Lipodeposição: acúmulo de gordura na região do abdome, [-na região -]das mamas e nas costas (giba). {++}
+{++}
+ {++}
+Figura 5 - Lipodeposição de gordura na região do dorso de um paciente com HIV: a correção deve ser retirar os medicamentos que cau[---]sam essa alteração e fazer lipoaspiração. Imagens como esta são muito comuns e presentes em pacientes que utilizam antirretrovirais há muitos anos. Além da troca do antirretroviral, é necessário o procedimento cirúrgico{++}
+{++}
+f) Hipersensibilidade a antirretrovirais{++}
+Pode ocorrer com quaisquer dos antirretrovirais, assim como com qualquer droga. Entretanto, algumas delas apresentam muito mais esse tipo de reação, chegando a 30% os pacientes com algum sinal. Na maioria das vezes, as reações são leves, mas em alguns casos podem levar a quadros graves, com síndrome de Stevens-Johnson e óbito por infecções secundárias. O aba-cavir é, com certeza, a droga que mais causa esse tipo de alteração. Entretanto, a nevirapina pode levar a quadros de rash, principalmente se iniciada em pacientes com CD4 alto (acima de 250 para mulheres e 350 para homens). Síndrome de Ste-vens-Johnson, necrólise epidérmica tóxica, nefrite intersticial aguda e pneumonite intersticial aguda podem ser todos efeitos secundários da hipersensibilidade.{++}
+{++}
+ {++}
+Figura 6 - Rash por abacavir: esse tipo de padrão já representa alta gravidade, com risco de evolução para complicações infecciosas secundá{+-+}rias e formação de bolhas. Nesses quadros, mesmo após a suspensão do medicamento, pode haver demora de semanas para alívio dos sinto{+-+}mas{++}
+{++}
+g) Alterações glicídicas{++}
+A realidade de alterações de glicemia é vista com vários antirretrovirais, mas mais especificamente com alguns IPs (lopina-vir, principalmente). As alterações referem-se à resistência periférica a insulina, levando inicialmente a intolerância a glicose e, posteriormente, diabetes tipo 2.{++}
+{++}
+h) Alterações lipídicas{++}
+Os IPs são os principais causadores de dislipidemias. Elas envolvem ambos os aumentos de LDL e de triglicérides. Esses da-dos são importantes, pois se associam ao aumento de risco cardiovascular na maioria dos pacientes com esse perfil aumenta-do em longo prazo. Por esse motivo, o paciente não morre mais de AIDS, mas de doenças cardiovasculares, especialmente as relacionadas à deposição de aterosclerose nas artérias.{++}
+{++}
+Pergunta{++}
+2008 - UFPR{++}
+2. O advento dos inibidores de protease, disponíveis comercialmente a partir de 1996, representou uma conquista no tratamento anti-HIV/AIDS pela sua grande eficácia, isto é, potência em diminuir a carga viral, diminuindo a possibilidade de o vírus criar resistência e de o paciente “ficar doente”. Por outro lado, seus efeitos colaterais podem trazer dificuldade para alguns pacientes. Assinale a alternativa que apresenta os principais efeitos colaterais relacionados à classe dos Inibi-dores de Protease (IP):{++}
+a) diarreia e alergia (rash){++}
+b) diabetes e alterações do sono{++}
+c) lipodistrofia e dislipidemia{++}
+d) cálculo urinário e hepatite{++}
+e) anemia e hepatite{++}
+Resposta no final do capítulo{++}
+{++}
+2. Síndrome de reconstituição imune{+ +}
+{++}
+A Síndrome de Reconstituição Imune (SRI) é uma condição explicada pela melhora da imunidade celular com a terapia an-tirretroviral. Funciona assim: quando um paciente apresenta imunidade celular muito baixa (normalmente abaixo de 100 células), não há capacidade do organismo de se defender de maneira adequada de algumas doenças, como tuberculose. Além de o paciente apresentar a doença, a resposta humoral será a única ativada em amplo espectro, levando a quadros diferentes da apresentação de uma tuberculose comum (quadro miliar, por exemplo). {++}
+ Quando o paciente com AIDS inicia a terapia antirretroviral, o controle da replicação viral faz que a imunidade celular vol-te a aparecer rapidamente. O que ocorre em seguida é que os linfócitos T CD4 voltam a existir, com produção de citocinas e macrófagos específicos contra essas doenças. Ainda que o paciente não tenha mais o bacilo da tuberculose, o corpo reco-nhecerá imunocomplexos como algo que até então não era reconhecido. Resultado: haverá uma resposta inflamatória inten-sa, com retorno dos sintomas que anteriormente aconteciam, como febre, gânglios e vários outros semelhantes.  [-As-]{++}
+{+O+} d[-oenç-]{+i+}a{+gnó+}s[- -]{+ti+}co[-njuntam-]{+ d+}e{+ SRI é clí+}n[-t-]{+ico e deve s+}e{+r+} co[-m -]{+nsiderad+}o [-HIV -]qu[-e-]{+ando+} [-m-]{+sin+}ais [-freq-]{+o+}u[-e-]{+ si+}nt[-e-]{+o+}m[-ente ap-]a[-recem-]{+s+} {+i+}n[-u-]{+fla+}ma[- SRI -]{+tório+}s[-ã-]{+ +}o[-:-]
+[-Tuber-]c[-ul-]o[-s-]{+rr+}e[-:-]{+m+} [-r-]{+d+}e{+n+}t[-o-]r[-n-]o de [-gânglios, febre,-]{+4+} [-tosse-]{+a+} [-e-]{+8+} s[-udor-]e{+mana+}s[-e;-]
+[-Cri-]{+ a+}p[-tococo-]{+ó+}s[-e-] [-n-]o [-s-]i[-s-]{+nício da +}te[-m-]{+rapi+}a {+a+}n[-e-]{+tir+}r[-voso c-]e[-n-]tr{+ovir+}al[-:-]{+, na+} re{+in+}t[-o-]r[-n-]{+oduçã+}o de [-c-]{+um +}e[-fal-]{+squ+}e[-i-]{+m+}a {+int+}e[- vô-]{+rro+}m{+p+}i[-t-]{+d+}o[-s;-]
+[-C-]{+ +}o[-ri-]{+u na m+}o[-rret-]{+d+}i[-n-]{+f+}i[-te-]{+cação+} p[-o-]{+a+}r{+a+} [-cito-]{+u+}m{+ +}e[-galovír-]{+sq+}u{+ema mai+}s[-:-] [-d-]{+ef+}i{+caz a+}p{+ós a fa+}l[-opi-]{+h+}a {+t+}e[- -]{+ra+}p{+êut+}i[-or-]{+ca.+}
+{++}
+{+Tabel+}a [-v-]{+9 - Critér+}i{+o+}s[-ual-] pa{+ra +}s{+u+}s[-ag-]{+p+}ei[-r-]{+t+}a[-. -] [-F-]{+clín+}i[-gura 7 - Qu-]{+c+}a[-dro-] de síndrome d[-e-]{+a+} reconstituição imune{++}
+{+- Piora+} {+d+}e[-m-] [-p-]{+doenç+}a[-ci-]{+ r+}e{+co+}n[-t-]{+h+}e[- -]c{+ida +}o[-m-]{+u+} {+surgi+}me[-lh-]{+nt+}o[-ra-] d{+e nov+}a [-i-]m[-u-]{+a+}ni[-dade c-]{+f+}e[-lul-]{+st+}a[-r-]{+ção+} após [-HAART: os -]{+i+}n[-ódul-]{+íci+}o[-s-] [-revela-r-]{+d+}a[-m-] [-s-]{+t+}e[-c-]r[-eção -]{+a+}p[-urulent-]{+i+}a[-,-] [-no ent-]ant{+irretr+}o{+viral;+}
+{+-+} [-com p-]{+Pr+}es[-quis-]{+enç+}a de [-bac-]i[-lo álco-]{+mun+}o[-l-áci-]d[-o--]{+ep+}res[-i-]s[-tente-]{+ão+} {+grav+}e {+(+}c[-ul-]{+on+}t[-ur-]a{+gem+} [-n-]{+d+}e[-g-]{+ LT-CD4+ <100) +}a{+n+}t[-iva-]{+e+}s[-,-] {+d+}o [-que sugere sí-]{+i+}n[-dr-]{+íci+}o[-me-] [-de-]{+ou+} [-re-c-]{+m+}o[-nst-]{+d+}i[-tu-]{+f+}i{+ca+}ção [-imune-]{+do+} [-pós-r-]e[-c-]{+sq+}u[-p-]e[-r-]{+ma;+}
+{+- Rel+}ação [-imun-]{+t+}e[-. O -]{+m+}p{+or+}a[-ci-]{+l +}ent{+r+}e [-havia-]{+o+} [-s-]i[-d-]{+níci+}o [-trata-]d[-o par-]a t[-ub-]er[-culose -]{+a+}p[-ulmon-]{+ia +}a[-r-]
+
+[-E-]nt{+ir+}ret[-ant-]{+r+}o[-, qu-]{+vir+}al[-quer-] [-do-]e[-nça-] [-p-]o[-de-] {+apa+}rec[-rud-]{+im+}e{+nto da+}s[-cer-] {+manif+}e[- -]{+s+}t[-r-]a[-n-]{+çõe+}s{+ in+}f[-or-]{+la+}ma{+tó+}r[---]{+ia+}s{+ (d+}e{+ntro+} {+d+}e[-m-] [-uma-]{+4+} [-SRI.-]{+a+} [-Deve-]{+8+} se[-r le-]m[-br-]a{+nas +}do [-que, -]{+i+}n[-a ma-]{+íc+}io{+ da te+}r{+ap+}ia [-d-]a[-s v-]{+ntirr+}e{+troviral).+}
+-[-zes,-] {+Pre+}se{+nça+} [-o-]{+de+} [-t-]r[-a-]{+espos+}ta{+ i+}m[-e-]{+u+}n[-to-]{+e,+} [-f-]{+vir+}o{+lóg+}i{+ca+} [-feit-]o{+u+} a[-dequ-]{+mb+}a[-d-]{+s +}a[-mente,-]{+pós+} {+i+}n[-ã-]{+íci+}o [-é a -]d[-oenç-]a [-qu-]{+t+}e{+rapia+} [-est-]a{+nti+}r[-á p-]re[-sen-]t[-e n-]{+r+}ov{+ir+}a[-mente,-]{+l;+}
+{+-+} [-apena-]{+Exclu+}s{+ão+} [-a r-]{+d+}e[-sposta-] [-in-]f[-l-]a[-m-]{+lh+}a{+ +}t[-ó-]{+e+}r[-i-]a[- in-]{+pêu+}t[-ens-]{+ic+}a, [-que l-]{+r+}e[-va -]a{+ção+} [-qu-]ad{+ve+}r[-o-]s{+a+} [-muit-]o{+u+} s{+up+}e[-melha-]{+ri+}n[-t-]{+f+}e[-s-]{+cção+}.[- -]
+[-O-]{++}
+{++}
+{+As+} d[-iag-]{+oe+}n[-ó-]{+ça+}s[-ti-]{+ +}co[- d-]{+njunt+}a[- SRI é f-]{+m+}e[-i-]{+n+}t[-o-]{+e+} com [-a pr-]o[-cura-] [-p-]{+HIV qu+}e[-lo-] {+m+}a[-g-]{+is frequ+}ente[- -]{+m+}e{+n+}t[-iológico-]{+e+} [-d-]a[- doenç-]{+p+}a[- de o-]r[-ig-]{+ec+}em[-,-] {+nu+}ma[-s-] {+SRI sã+}o{+:+}
+{+Tu+}b[-viament-]e[- nã-]{+rcul+}o[- -]se[-rá-]{+:+} {+r+}e[-ncon--]t{+o+}r[-ad-]{+n+}o[-.-] [-É-]{+de+} {+gânglio+}s{+, f+}e[-mp-]{+b+}re{+,+} [-importan-]t{+oss+}e [-d-]e{+ +}s[-ca-]{+udo+}r[-ta-]{+ese;+}
+{+C+}r[- a -]i[-nfe-]{+pto+}c[-çã-]o[- aguda n-]{+c+}o[-vam-]{+s+}e{+ +}n{+o sis+}te[-,-]{+ma+} [-p-]{+nerv+}o[-i-]s[- -]o {+cen+}tra[-tam-]{+l: r+}e[-n-]to{+rno+} [-é-]{+de+} {+ce+}f{+aleia +}e{+ vôm+}ito[- c-]{+s;+}
+{+C+}o[-m c-]{+ri+}or{+re+}ti[-co-]{+n+}i[-des, o qu-]{+t+}e po[-de-]r[-ia-] [-p-]{+c+}i{+t+}o[-r-]{+meg+}a{+loví+}r[- es-]{+u+}s[-a-]{+:+} d{+ipl+}o[-enç-]{+pi+}a [-cas-]{+e pi+}o{+ra+} v[-o-]{+isua+}l[-t-]{+ p+}ass{+ag+}e{+ira+}. [-P-]{++}
+{++}
+{+ +}
+{+Figura 7 - Quadr+}o{+ +}de s[-e-]{+índ+}r{+ome+} [-utiliza-]d[-a-]{+e+} [-p-]re[-d-]{+co+}n[-i-]s{+tituiçã+}o{+ imu+}n[-a,-]{+e+} [-1-]{+e+}m[-g/kg,-] p{+aciente com melh+}or{+a+} [-4-]{+da+} [-se-]{+i+}m[-a-]{+u+}n{+id+}a[-s,-]{+de+} {+celul+}a[-té-]{+r+} a{+pós+} [-me-]{+HAART: os nódu+}l[-h-]o{+s revela+}ra{+m+} {+se+}c{+reção puru+}l[-í-]{+e+}n[-ic-]{+t+}a{+, no+} e[-fe-]{+n+}t[-iv-]a[-.-]{+nto+} [-I-]{+co+}m{+ +}p{+esquisa de bacilo álcool-ácid+}o{+-+}r{+esistente e cul+}t{+ur+}a{+ +}n{+ega+}t{+ivas, o que suger+}e[-A-] síndrome de reconstituição imune [-é o -]p{+ós-+}r[-in-]{+e+}c[-ipal motivo -]{+u+}p[-a-]{+e+}ra[- n-]{+ç+}ão [-s-]{+imun+}e{+. O+} {+pac+}i{+e+}n[-ic-]{+te hav+}ia[-r-] {+sid+}o trata[-ment-]{+d+}o [-d-]{+par+}a tuberculose [-j-]{+p+}u[-nta-]{+l+}m[-ente c-]o[-m -]{+n+}a{+r+}
+{++}
+{+E+}nt[-ir-]ret[-rovir-]a[-is-]{+nto,+} qua[-ndo-]{+lquer+} {+d+}o[- paci-]en[-t-]{+ça pod+}e {+recru+}desc[-ob-]{+e+}r{+ +}e {+tr+}a{+n+}s[- 2 d-]{+f+}o[-enç-]{+rm+}a{+r-+}s{+e em+} [-j-]u[-nt-]{+m+}a[-s-]{+ SRI+}. [-Por-]{+Deve+} [-i-]s[-so, a -]{+e+}r{+ l+}e[-co-]m[-end-]{+br+}a[-çã-]{+d+}o [-é-]{+que,+} [-i-]n[-ici-]a[-r,-] [-pri-]m[-e-]{+a+}i{+o+}r{+i+}a[-m-]{+ das v+}e[-nt-]{+-z+}e{+s+}, {+se +}o tratamento [-da tubercul-]{+f+}o[-se (pr-]i[-ncipal causa-] [-d-]{+f+}e[- ób-]ito [-no p-]a[-ci-]{+dequadam+}ente{+,+} [-c-]{+nã+}o[-m-] [-HIV-]{+é+} [-no-]{+a+} [-Br-]{+doenç+}a[-sil),-] {+qu+}e[-,-] {+est+}a{+rá+} [-a-]p[-ós 2 -]{+re+}se[-ma-]n[-as -]{+t+}e {+nov+}a{+me+}nte[-s-]{+,+} [-d-]{+ap+}e{+nas+} [-2-]{+a+} [-m-]{+r+}e[---]s[-e-]{+po+}s[-,-]{+ta+} in[-ici-]{+fl+}a[--se o tr-]{+m+}at{+óri+}a[-mento-] [-a-]{+i+}nt[-irr-]e[-trovir-]{+ns+}a[-l-], {+que l+}ev[-it-]a[-ndo-] a [-sín-]{+qua+}dro[-me, -]s[-em-] {+m+}u[-l-]{+i+}t[-rapassar 2-]{+o+} {+se+}me[-s-]{+lhant+}es{+.+} [-do-]{++}
+{+O+} {+d+}i{+ag+}n[-íc-]{+óst+}i{+c+}o d[-o trat-]a[-m-]{+ SRI é f+}e[-n-]{+i+}to [-d-]{+com +}a [-tube-]{+p+}r[---]{+o+}cu{+ra pe+}lo[-se-] [-par-]a{+gente+} {+et+}i[-n-]{+ológ+}ic[-i-]{+o d+}a[-r-] [-t-]{+do+}e[-rapi-]{+nç+}a [-antirr-]{+d+}e[-tr-]{+ +}o[-vi-]r[-al-]{+igem+}, [-poi-]{+ma+}s {+obvi+}a[-u-]ment[-a a-]{+e+} [-m-]{+nã+}o[-rtalidade.-]
+
+[-P-]{+ s+}er[-gu-]{+á e+}n{+con-+}t{+r+}a[-2011 - UERJ-]
+[-3-]{+do+}. [-Um-]{++}
+{+Na+} {+sus+}p[-aci-]e[-n-]{+i+}t[-e-]{+a+} de [-32-]{+SRI,+} [-ano-]{+deve-+}s[-,-]{+e priorizar+} [-c-]o[-m-] diagnóstico [-r-]e[-c-]{+ tratam+}ent[-e-]{+o+} d[-e-]{+a+} [-tubercul-]{+d+}o[-s-]e{+nça+} [-d-]{+oportun+}is[-semin-]{+t+}a[-d-]{+. N+}a [-e-]{+maior+} [-neu-]{+pa+}r[-o-]t{+e d+}o[-xopl-]{+s c+}as[-m-]os[-e-], [-t-]{+sua r+}e[-m-]{+-solução+} {+é e+}s{+p+}o[-r-]{+ntânea, env+}ol{+vend+}o[-gia-] {+trat+}a{+me+}nt[-i-HIV p-]o{+ +}si{+ntomá+}ti[-va, -]co[-m-] [-c-]o[-ntagem-]{+u uso+} de [-l-]{+anti-+}inf{+lamat+}ó[-c-]{+r+}i[-t-]os [-CD4 = 23 célula-]{+e+}s[- -]{+t+}e[- ca-]r[-ga v-]{+o+}i[-r-]{+d+}a[-l = 591.000 cóp-]i[-a-]s. [-É-]{+A+} [-inic-]{+terap+}ia[-do-] [-tr-]a{+n+}t[-am-]{+irr+}e[-n-]t{+r+}o{+viral+} [-c-]{+nã+}o[-m-] {+d+}e[-squ-]{+v+}e[-ma-] [-RIPE, f-]{+s+}e[-nitoína,-]{+r+} [-sulfadiaz-]in[-a, pirime-]t[-a-]{+erro+}m{+p+}i[-n-]{+d+}a, [-á-]{+ex+}c[-id-]{+et+}o [-folí-]n[-ic-]o[-,-]{+s+} [-zidovudin-]{+c+}a[-,-]{+sos+} [-l-]{+gr+}a[-mi-]v[-udina -]e{+s. É+} {+s+}e[-favi-]{+mp+}re[-nz. Após 30-] [-d-]i{+mport+}a[-s-]{+nte+} de[- tr-]{+sc+}a{+r+}ta[-me-]{+r a i+}n[-t-]{+fecçã+}o[-,-] [-proc-]{+ag+}u[-r-]{+d+}a novamente{+,+} {+poi+}s[-eu-] [-médic-]o [-po-]{+t+}r[- qu-]a[-dr-]{+tament+}o [-de-]{+é+} fe[-bre al-]{+i+}t[-a-]{+o+} com c[-alaf-]{+o+}r{+t+}i{+c+}o{+ide+}s[-,-] [-l-]{+em mu+}i[-nf-]{+t+}o[-n-]{+s cas+}o[-d-]{+s, +}o[-megalia-] [-g-]{+qu+}e[-n-]{+ pod+}er[-al-]i[-z-]a[-da,-] [-dis--]p[-ne-]i{+or+}a[-, hipe-]r{+ +}e[-mi-]{+ss+}a [-c-]{+d+}o{+e+}n[-juntiv-]{+ç+}a[-l e-] [-infiltr-]{+c+}a[-d-]{+s+}o [-pulm-]{+v+}o[-n-]{+lt+}a[-r-]{+sse.+} [-à-]{+Pode+} {+se+}r[-ad-]{+ ut+}i[-ograf-]{+l+}i{+z+}a[- -]d[-e tór-]a[-x.-] [-S-]{+pr+}e[-u -]d[-iag-]{+-+}n[-óst-]i[-c-]{+s+}o{+na,+} {+1+}m[-ais-]{+g/kg,+} p[-r-]o[-váv-]{+r 4 s+}e[-l-]{+manas,+} {+at+}é [-de:-]a[-)-] [-ps-]{+m+}e[-udo-]l[-inf-]{+h+}o[-m-]{+r+}a [-pe-]{+c+}l{+ínic+}a {+e+}fe[-ni-]t{+iva. +}
+{++}
+{+Imp+}o[-ín-]{+rt+}a[-b)-]{+nte+}
+{+A+} síndrome de reconstituição imune[-c)-] {+é o p+}r[-es-]i[-stê-]nci{+p+}a{+l+} m[-ic-]o[-bac-]t[-er-]i{+vo p+}a[-n-]{+r+}a [-a-]{+nã+}o [-RIPE-]
+[-d)-]{+se+} [-l-]in[-f-]{+ici+}a[-den-]{+r +}o[-p-]{+ tr+}at[-i-]a[- g-]{+m+}en[-eraliza-]{+to +}da [-p-]{+tub+}er{+culo+}s[-ist-]e{+ ju+}nt{+am+}e[-Respos-]{+n+}t[-a-]{+e+} [-n-]{+c+}o{+m+} [-fin-]a[-l do capí-]{+n+}t[-ulo-]
+
+[-3. HIV -]{+irr+}e[- -]tr{+ovir+}a[-nsm-]is[-sã-]{+ quand+}o [-v-]{+o paci+}e[-r-]{+n+}t[-ical-]{+e+} [-A-]{+descobre+} [-tax-]a{+s 2+} d{+o+}e{+nças+} {+jun+}t[-r-]a[-n-]s[-m-]{+. Por +}iss[-ã-]o{+,+} [-vertic-]a[-l-] {+recomen+}d{+açã+}o [-HIV, sem-]{+é+} [-qu-]{+inici+}a[-lque-]r{+,+} {+pr+}i[-nt-]{+m+}e{+i+}r[-v-]{+am+}en[-ção-]{+te+}, [-si-]{+o +}t[-u-]{+r+}a[--s-]{+tam+}e{+nto+} [-em-]{+da+} t{+ubercul+}o{+se (p+}r{+i+}n[-o-]{+cipal causa+} de [-25,5%. Tra-]{+ó+}b[-alh-]{+it+}o [-re-]{+no pa+}c{+i+}ente [-publi-]c[-ad-]o{+m HIV+} no Brasil{+),+} e[-m-]{+, após+} 2[-011-] [-rev-]{+s+}e[-la tr-]{+m+}an{+a+}s[-missão-] e[-m-] [-tor-]{+a+}n[-o-]{+tes+} de [-1%,-]{+2+} m{+eses, inici+}a{+-+}s{+e+} o[-s-] [-d-]{+tr+}a[-d-]{+tament+}o[-s-] [-n-]a[-c-]{+nt+}i{+rretr+}o[-na-]{+v+}i[-s -]{+r+}a{+l, ev+}i{+ta+}nd{+o +}a s[-ã-]{+índr+}o{+me.+} {+Im+}po[-uco-]{+rtante+} con[-hec-]{+s+}id[-os.-]{+erar+} [-Q-]{+q+}u[-a-]{+e +}n[-d-]{+ã+}o se [-reali-zam as medi-]d[-as n-]e[-c-]{+v+}e[-ssárias-] [-pa-]{+ult+}ra[- -]p[-rofil-]a[-xi-]{+ss+}a[-,-]{+r 2+} {+m+}es[-s-]e{+s+} [-val-]{+d+}o[-r-] [-ca-]i[- aba-]{+níc+}i[-x-]o d[-e 1%. -]
+[-A-]{+o+} tra[-nsmissão ma-]t{+am+}e[-r-]n[-o-fe-]t[-al d-]o [-HIV-]{+da+} [-o-]{+tuber+}c{+ul+}o[-rr-]{+s+}e[-,-] p{+a+}r{+a +}in{+i+}ci[-p-]a[-lm-]{+r t+}e{+rapia a+}nt{+irr+}e{+troviral+}, [-em 2 m-]{+p+}o{+is au+}ment[-os: -]
+[-75%-]{+a+} [-d-]a[-s-] [-t-]{+mo+}r{+t+}a[-nsm-]{+l+}i[-ssões ocorr-]{+dad+}e[-m no mom-]{+.+}
+{++}
+{+P+}e{+rgu+}nt[-o do p-]a[-rto.-]{++}
+{+2011+} [-Daí-]{+-+} [-a-]{+UERJ+}
+{+3.+} [-i-]{+U+}m{+ +}p[-ortân-]{+a+}ci[-a-]{+ente+} de [-chegar-]{+32+} a[- esse mome-]n[-t-]o{+s,+} com [-carga v-]{+d+}i[-r-]a[-l i-]{+g+}n[-de--]{+ós+}t{+ico r+}ec{+en+}t[-áv-]e[-l;-]
+[-25%-] d[-as-]{+e+} t{+ube+}r[-an-]{+culo+}s[-m-]{+e d+}iss[-ões ocorr-]em[- a-]{+i+}n[-tes -]{+a+}d[-o p-]a[-rto,-] [-quas-]e {+neuro+}to[-d-]{+xopl+}as[- n-]{+m+}o[- 3º-]{+se,+} t[-rim-]e{+m +}s[-t-]{+o+}r[-e-]{+ologia+} [-d-]a{+nti-HIV+} [-ge-]{+po+}s{+i+}t{+iv+}a[-çã-]{+, c+}o[-.-]{+m+} [-P-]{+c+}o[-r-]{+n+}ta{+gem de li+}n{+fóci+}to[-,-]{+s+} [-ao-]{+CD4+} [-fa-]{+= 23 célu+}la[-r-]{+s+} e[-m-] [-t-]{+ca+}r{+g+}a[-nsm-]{+ v+}i{+ral = 591.000 cópia+}s[-são-]{+. É+} in{+iciado +}tra[-ú-]t{+am+}e[-ro, -]{+nt+}o [-ris-]co{+m+} {+esque+}ma[-ior-] [-é-]{+RIPE,+} {+fe+}n{+it+}o{+ína,+} [-3º-]{+sulfadiazina,+} [-t-]{+pi+}rime[-stre. -]
+[-A mono-]t[-er-]a[-p-]{+m+}i{+n+}a{+,+} {+á+}c{+id+}o[-m-] [-AZT-]{+folínico,+} {+zi+}d{+ov+}u[-ra-]{+di+}n[-te -]a{+,+} [-gest-]{+l+}a[-ção -]{+mivudi+}n[-ão-]{+a+} [-é-]{+e+} [-consid-]e[-r-]{+f+}a{+virenz. Após 30 +}d{+i+}a{+s+} [-um-]{+de+} tratamento{+,+} [-aceit-]{+pr+}o[- at-]{+c+}u{+ra nov+}a[-l-]mente[-.-] [-Is-]s{+eu médic+}o por{+ +}qu[-e -]{+a+}d[-ive-]r[-s-]o[-s-] [-es-tu-]d[-os-]{+e+} [-d-]{+f+}e[-monst-]{+b+}r[-am qu-]e a[- -]{+lt+}a[-ssociação de-] [-antirretr-]{+c+}o[-virais te-]m [-mais potên-]c[-i-]a[- p-]{+l+}a{+f+}r[-a-]{+ios,+} {+l+}in[-detecçã-]{+fon+}o[- -]d{+om+}e[- car-]ga[- v-]{+l+}i[-r-]a[-l e-] [-consequentem-]{+g+}en[--t-]e[- pa-]ra{+lizada,+} {+d+}i[-m-]{+s-+}p{+n+}e[-d-]i[-r -]a{+,+} [-transm-]{+h+}i[-ssão mat-]{+p+}er[-no-f-]e[-t-]{+mi+}a[-l-] [-d-]{+c+}o[- HIV. E-]n[-treta-]{+ju+}nt[-o,-]{+ival+} [-o-]{+e+} {+infil+}tra[-balh-]{+d+}o[--base-] [-q-]{+p+}u[-e de-]{+l+}mon[-st-]{+a+}r[-ou-] [-a-]{+à+} r[-e-]{+a+}d[-uçã-]{+i+}o[- d-]{+g+}r[-ást-]{+af+}i[-c-]a [-na-]{+de+} t{+ó+}ra[-ns-missão no-]{+x.+} [-mom-]{+S+}e{+u diag+}n{+ós+}t{+ic+}o [-do-]{+mais+} p[-a-]r[-t-]o{+vável+} [-(ACTG-]{+é+} [-086-]{+de:+}
+{+a+}) {+pse+}u[-ti-]{+do+}li[-zou AZT -]n{+f+}o[- intrap-]{+m+}a[-rto-] [-(a-]pe[-n-]{+l+}a[-s do-] [-i-]{+fe+}n[-íc-]i[-o do -]t[-r-]{+oín+}a{++}
+b[-alho-]{+)+} {+sín+}d[-e pa-]r[-to até o m-]ome[-nto-] {+d+}e[-m-] [-qu-]{+r+}e[- o -]co[-rd-]{+nstituiç+}ão [-umbil-]i[-cal é cla-]m[-p-]{+un+}e[-ado-]{++}
+{+c+})[-.-] [-Po-]r[- i-]{+e+}s{+i+}s[-o,-]{+tência+} {+mic+}o[- AZT -]{+b+}a{+cter+}i{+a+}n[-d-]a [-é -]a[- dr-]o[-ga-] {+RIPE+}
+d[-e-]{+)+} [-esco-]l[-h-]{+inf+}a[- -]{+deno+}pa[-r-]{+ti+}a [-o mom-]{+g+}en[-to -]{+eraliza+}d[-o-]{+a+} p[-a-]{+e+}r{+sis+}t[-o.-]
+
+[-Im-]{+ente+}
+{+Res+}po[-r-]{+s+}ta[-nte-]
+[-A-] [-mai-]{+n+}o[-r-]{+ f+}i{+n+}a{+l+} d{+o c+}a[-s-]{+pítulo+}
+{++}
+{+3. HIV e+} transmiss[-ões-]{+ão+} vertica[-is do-]{+l+} [-HIV-]{++}
+{+A+} [-ocorr-]{+taxa d+}e {+tra+}n[-o -]{+s+}m{+issã+}o[-m-]{+ v+}e[-n-]{+r+}t[-o-]{+ical+} do [-p-]{+HIV, sem qu+}a{+lque+}r{+ in+}t{+ervençã+}o, s{+itua-se +}e{+m tor+}n[-d-]o [-ap-]{+d+}e[-nas-] 25{+,5+}%{+.+} [-del-]{+Tr+}a[-s -]{+b+}a{+lho rece+}nte[-s do-] p{+ublic+}a[-rt-]{+d+}o[-,-] [-em-]{+no+} [-ge-]{+B+}ra{+si+}l [-no-]{+em+} [-3º-]{+2011+} [-trimest-]re[- d-]{+v+}e{+la+} [-ges-]t{+r+}a[-ç-]{+nsmiss+}ão[-.-] [-A --]{+em+} [-En-]t[-ã-]o[-, com-]{+rn+}o [-ficou-]{+de+} [-o-]{+1%,+} [-u-]{+ma+}s{+ +}o{+s+} d{+ad+}o{+s+} [-AZT-]{+nacionais+} {+ai+}n{+d+}a [-ge-]s[-taç-]ão[-? -]
+[-O-] [-us-]{+p+}o[- n-]{+uc+}o [-m-]{+c+}o[-me-]n[-to -]{+heci+}do{+s.+} [-p-]{+Qu+}a[-rt-]{+nd+}o {+s+}e [-para o -]re[-cém-n-]a[-sc-]{+l+}i[-do-]{+-zam+} {+a+}s[-ão-] m[-ant-]{+ed+}id[-o-]{+a+}s[-.-] [-O-]{+necessária+}s [-t-]{+pa+}ra[-b-]{+ profilaxia, esse v+}al[-h-]o[-s-]{+r+} [-ini-]c{+a+}i{+ ab+}ai[-s-]{+xo+} de {+1%. +}
+{+A +}transmissão [-(ACTG 086) -]m{+atern+}o[-s-]-{+fe+}t[-r-]a[-m-]{+l+} [-que-]{+do+} [-essa-]{+HIV+} [-m-]{+ocorr+}e[-dida-]{+,+} [-s-]{+princ+}i[-m-]p{+a+}l{+m+}e[-s r-]{+nt+}e[-duz-]{+,+} em [-a-]{+2 momen+}t[-é-]{+os:+} {++}
+75% [-o risco -]d[-e-]{+as+} transmiss[-ão, ainda-]{+ões+} [-qu-]{+ocorr+}e{+m+} n[-ã-]o [-t-]{+mom+}en[-ha-]{+to+} [-si-]do [-us-]{+p+}a[-d-]{+rt+}o{+.+} [-nenhum-]{+Daí+} a[-nt-]{+ +}i{+mpo+}r[-re-]t[-rov-]{+ânc+}i[--r-]a[-l-] d[-urant-]e [-a g-]{+ch+}e[-st-]{+g+}a[-ção.-]{+r+} [-Vej-]a [-o -]es[-qu-]{+s+}e[-ma-] {+mome+}n[-a-]{+to+} [-Tabela-]{+com+} [-9.-]
+
+[-T-]{+c+}a[-bel-]{+rg+}a [-9 - T-]{+v+}i[-pos de uso -]
+[-No momento do pa-]r[-to-]
+[-AZT-]{+al+} in[-j-]{+de-t+}e{+c+}tável[-- -]{+;+}
+2[-mg/kg-]{+5%+} da{+s+} {+trans+}m[-ã-]{+issõ+}e{+s+} [-na 1ª h-]{+oc+}or[-a-]{+rem+} [-d-]a[- i-]nte[-rnação para-]{+s+} {+d+}o parto[-;-]
+[-- 1mg/kg-]{+,+} [-d-]{+qu+}a[- mã-]{+s+}e [-a-]t[-é -]o{+das+} [-mome-]n[-t-]o [-do-]{+3º+} [-clampea-]{+tri+}me[-n-]{+s+}t[-o-]{+re+} d{+a gestaçã+}o{+.+} [-c-]{+P+}or[-dã-]{+tant+}o[-;-]
+[---]{+,+} [-N-]{+a+}o [-c-]{+f+}a[-so-]{+lar+} [-d-]e{+m+} [-cesá-]{+t+}r[-e-]a{+n+}s[- elet-]{+m+}i[-va-]s[-,-]{+são+} in[-ici-]{+tr+}a{+úte+}r{+o,+} o [-e-]{+ri+}s[-que-]{+co +}ma{+ior+} [-at-]é [-3 h-]{+n+}o[-ras-] [-an-]{+3º +}t{+rim+}es[- do par-]t[-o.-]
+[-Pa-]r[-a-]{+e.+} [-o-]{++}
+{+A+} [-recé-]m[--nascido-]
+[-Soluçã-]o[- -]{+n+}o{+te+}ra[-l-]{+pia+} [-de-]{+com+} AZT[-- 2mg/kg-] {+dur+}a{+nte+} [-cad-]a [-6-]{+gestação+} [-h-]{+nã+}o[-ras-] [-–-]{+é+} [-ini-]c{+ons+}i[-a-]{+de+}r[- -]a[-té -]{+d+}a [-8ª-]{+um+} [-ho-]{+t+}ra[- -]{+t+}a[-pós -]{+ment+}o [-p-]a[-r-]{+cei+}to[-;-]
+[---] [-U-]{+atualmente. Is+}so por{+que+} [-6-]{+diversos+} {+es-tudo+}s{+ d+}em[-a-]{+o+}n[-a-]s[- pa-]{+t+}ra{+m que+} a {+asso+}c[-r-]ia[-n-]ç[-a.-]
+
+[-B - E-]{+ão+} d[-urant-]e a[- g-]{+ntirr+}e[-s-]t[-açã-]{+r+}o[-? -]
+[-O e-]{+virai+}s[-qu-]{+ t+}em[-a-] {+m+}a[- -]{+i+}s[-er-] [-u-]{+po+}t{+ênc+}i[-liz-]a[-do-] [-n-]{+par+}a [-g-]{+ind+}e[-s-]t[-a-]{+ec+}ção de[-ve-] c[-onte-]{+a+}r{+ga+} [-3 d-]{+vi+}r[-og-]a[-s,-]{+l e+} co[-mo se fosse para tratame-]n[-to. Todas a-]s[- g-]e[-stant-]{+qu+}e[-s i-]n[-fec-]t[-adas pelo HIV dev-]em[- receber t-]e[-rapia a-]n{+-+}t[-irr-]e[-troviral-] para {+im+}p[-rev-]e[-nção -]d[-e-]{+ir a+} transmissão materno-fetal do [-vírus-]{+HIV+}. [-O obj-]{+Entr+}et[-iv-]{+ant+}o{+,+} [-da-]{+o+} t[-e-]ra[-pi-]{+b+}a[- é -]{+lho-b+}a{+se+} [-ca-]{+que demonst+}r[-g-]{+ou +}a [-vi-]r[-al-]{+edução+} [-in-]d[-e-]{+rás+}t[-e-]{+i+}c{+a na +}t[-ável-]{+rans-missão+} no momento do parto[-.-] {+(+}A{+CTG+} [-terapia deve-]{+–+} [-ser-]{+AIDS+} [-ma-]{+Cli+}n[-t-]i[-d-]{+c+}a{+l+} {+Tri+}a[-pó-]{+l+}s [-o pa-]{+G+}r[-t-]o{+up+} – [-q-]{+086) +}u[-a-]{+tilizou AZT +}n[-d-]o {+intr+}a[- -]pa[-cien-]{+r+}t[-e já-]{+o+} [-t-]{+(ap+}e[-m i-]n{+as +}d{+o +}i{+ní+}c[-a-çã-]{+i+}o d[-e-]{+o+} tra[-t-]{+b+}a[-ment-]{+lh+}o de {+p+}a[-co-]r[-do c-]{+t+}o[-m-] [-p-]a[-râme-]t[-r-]{+é +}o[-s-] [-clí-]{+mome+}n[-ic-]{+t+}o[-s-] e[- i-]m{+ q+}u[-n-]{+e +}o{+ cordão umbi+}l[-óg-]ic[-os-]{+al+} [-–-]{+é+} {+clampead+}o[-u-]{+).+} {+Por i+}s[-uspen-]s[-a-]{+o,+} [-–-]{+o AZT+} [-qu-]a{+i+}nd[-o-]{+a é+} a [-in-]d[-icaçã-]{+r+}o{+ga+} de [-t-]e[-r-]{+scolh+}a{+ +}p[-i-]{+ar+}a [-é-]{+o+} [-s-]{+m+}o[---]ment[-e-]{+o+} [-a-]{+do+} p{+a+}r[-eve-]{+to.+}
+{++}
+{+Importa+}n[-çã-]{+te+}
+{+A mai+}o{+ria+} d[-e-]{+as+} transmiss[-ão-]{+ões+} vertica[-l. A-]{+is+} [-Tabela-]{+do+} [-10-]{+HIV+} {+ocor+}r[-esum-]e [-as-]{+no+} [-c-]{+m+}o{+me+}n{+to +}d[-ições:-]
+
+[-Tabela 10 - C-]o[-ndições-] par[-a -]t[-erapia-]{+o,+} [-c-]{+send+}o[-m-] a[-ntirr-]{+p+}e[-trovir-]{+n+}a[-i-]s [-na-]{+25%+} [-g-]{+d+}e{+la+}s[-t-]{+ +}a[-ção-]
+[-I-]n[-dicação-]{+tes+} d[-e-]{+o+} [-tera-]p[-i-]a[- antir-]r[-e-]t[-r-]o[-viral-]{+,+} [-na-]{+em+} ge[-st-]{+r+}a[-çã-]{+l n+}o[-Sempre-] [-é-]{+3º+} [-fei-]t[-a, -]{+r+}i[-ndepend-]{+m+}e[-n-]{+s+}t{+r+}e d[-o-]{+e+} [-v-]{+gest+}a[-l-]{+çã+}o[-r de CD4-].{++}
+{++}
+A[-pós-] [-o-]{+-+} [-par-]{+En+}t{+ã+}o[-De-]{+,+} [-a-]co[-rd-]{+m+}o {+fi+}co[-m-]{+u+} o [-Consen-]{+u+}so d[-e-]{+o+} {+AZ+}T[-ratamento-] [-par-]{+n+}a [-HIV v-]{+g+}e[-r-]s{+taç+}ão{+?+} [-2013, o-]{++}
+{+O+} [-t-]{+P+}r[-atamen-]{+o+}to{+colo+} [-a-]{+Clí+}n[-t-]i[-r-]{+co e Di+}retr[-ov-]i[-ral dev-]{+z+}e[- -]s{+ T+}er[- m-]a[-n-]{+pêu+}ti[-do -]{+c+}a[-pó-]s [-o -]par[-to-]{+a+} {+Pr+}e[-m t-]{+vençã+}o{+ +}da[-s-] {+Tr+}a{+nsmi+}s{+são+} [-g-]{+V+}e[-s-]{+r+}t{+ic+}a[-nt-]{+l d+}e[-s-]{+ HIV+}, {+Síf+}i[-ndependente-]{+lis+} [-do-]{+e+} [-CD4.-]
+
+[-Im-]{+He+}p[-ort-]a[-n-]{+ti+}te[-Todas a-]s [-gest-]{+Vir+}a[-nte-]{+i+}s{+,+} p[-ort-]{+u-blic+}ado[-ras-] [-d-]e[- HIV-]{+m+} de[-v-]{+z+}em{+bro de 2015,+} rec{+om+}e[-b-]{+nda qu+}e[-r-] [-t-]{+s+}e[-r-]{+j+}a[-p-]{+ fe+}i{+t+}a [-ant-]{+z+}i[-rretr-]{+d+}ov{+ud+}i[-r-]{+n+}a{+ injetáve+}l para [-prevençã-]{+t+}o[- -]da {+ges+}t[-r-]an[-smissão ver-]t[-ical. O obj-]e[-tivo-] [-é-]{+que+} a[-tingi-]{+p+}r[- uma-]{+esente+} carga viral [-in-]detectável [-no-]{+após+} [-momento do p-]a[-rto.-]
+
+[-C-] [---]{+34+} [-Qu-]{+seman+}a[-l é o-] [-m-]{+d+}e[-lhor-] [-mom-]{+g+}e[-n-]{+s+}t{+açã+}o{+.+} [-p-]{+P+}ara [-iniciar -]{+t+}o{+das+} [-tr-]a{+s ges+}ta[-me-]nt[-o-]{+es+} [-an-]{+que es+}ti{+ve+}r[-r-]{+em ind+}et[-ro-]{+ectá+}v{+e+}i[-r-]{+s +}a[-l-]{+pós a 34ª+} {+sema+}na {+de +}gesta{+-+}ção[-?-]{+,+} [-Se-]{+não+} [-a-]{+será+} [-p-]{+m+}a[-c-]i[-e-]{+s +}n[-t-]e[- j-]{+cess+}á[- t-]{+r+}i[-nha-]{+o o+} {+us+}o d{+e zidovud+}i{+n+}a[-g-]{+ no mome+}n[-ós-]t[-ic-]o d[-ur-]{+o p+}a[-n-]{+r+}t[-e-]{+o.+} [-a-]{+O+} [-g-]es[-t-]{+quem+}a[-çã-]{+ d+}o[-,-] [-a-]{+uso+} [-t-]{+d+}e[-rap-]{+ zidovud+}i{+n+}a [-d-]{+é r+}e[-v-]{+pr+}e[- -]se[-r-]{+ntado+} {+n+}a[-p-]{+ Tab+}e[-n-]{+l+}a[-s-] [-m-]{+10.+}
+{++}
+{+T+}a[-nt-]{+bela 10 - T+}i{+pos +}d[-a,-]{+e+} [-aj-]us[-tand-]o {++}
+{+N+}o[-s-] [-antirr-]{+mom+}e{+n+}t[-r-]o[-virais-]{+ do+} par[-a -]{+t+}o[-s-]{++}
+{+AZT+} [-r-]i[-scos d-]{+nj+}e[- -]t{+áv+}e[-rato-]{+l+}
+{+- 2m+}g[-enici-]{+/kg +}da[-de.-] [-S-]{+mã+}e {+n+}a [-p-]{+1ª hor+}a[-c-]{+ da +}i[-e-]nte[- nu-]{+r+}n[-c-]{+ação par+}a [-us-]o[-u-] {+parto;+}
+{+- 1+}m[-e-]{+g/kg +}d[-ic-]a[-ções-] [-porqu-]{+mã+}e até {+o mom+}ent[-ã-]o [-nun-]{+do +}c{+l+}a[- -]{+m+}p[-r-]e[-cisou, o mo-]{+a+}mento {+do +}c[-e-]{+o+}r[--t-]{+dã+}o{+;+}
+{+-+} [-é a-]{+No+} [-p-]{+c+}a[-rtir-]{+so+} de [-14 -]{+ce+}s{+ár+}e[-man-]as e{+letivas+}, {+i+}n{+iciar +}o {+esque+}m[-áximo,-]{+a+} até [-a 28ª-]{+3+} [-seman-]{+hor+}a{+s+} [-(qu-]an{+tes +}do [-se inici-]{+p+}a[- o 3º t-]r[-imes-]t{+o.+}
+{+Pa+}r[-e,-]{+a+} [-c-]o[-m-] r[-is-]{+e+}c[-o -]{+é+}m{+-n+}a{+sc+}i{+d+}o[-r-]{++}
+{+-+} [-de-]{+A+} [-transm-]{+z+}i[-ssã-]{+d+}o[-). Sit-]{+v+}u{+din+}a[-çõ-]{+ dev+}e[-s-] [-qu-]{+s+}e{+r+} [-a-]u[-men-]t{+iliz+}a[-m -]{+d+}a c[-h-]{+om +}a[-nce-]{+s+} do{+ses+} [-contat-]{+pel+}o [-d-]{+pes+}o [-sangu-]e d[-a mã-]e {+a+}co[-m-]{+rdo+} {+c+}o{+m+} [-d-]a [-cr-]i{+d+}a[-nça-]{+de+} [-ant-]{+g+}es{+tacional+} do parto{+:+}
+{+?+} [-au-]{+RN co+}m{+ 35 s+}e{+ma+}n[-t-]a[-m-]{+s+} o{+u+} [-r-]{+ma+}is[-c-]{+: 4mg/kg/d+}o{+se,+} de {+12/12h;+}
+{+? RN en+}tr[-ansmissão.-]{+e 30+} [-N-]e[-s-]{+ 35 +}se[-s c-]{+man+}as{+: 2mg/kg/d+}os{+e+}, [-quant-]{+de 12/12h, p+}o{+r+} [-ma-]{+14 d+}i{+a+}s{+,+} [-pr-]e[-c-]{+ 3mg/kg/d+}o[-c-]{+se, d+}e {+12/12h, +}a {+par+}t[-e-]{+i+}r[-ap-]{+ do 15º d+}ia[-,-]{+; +}
+{+? RN com+} meno[-r o ri-]s[-co-] de [-tr-]{+30 sem+}an{+a+}s{+: 2+}m[-issã-]{+g/kg/d+}o[-.-]{+se,+} [-Tab-]{+d+}e[-la-] 1{+2/+}1{+2h;+}
+{+?+} [---]{+É+} [-S-]i{+mpor+}t[-u-]a[-ções -]{+nt+}e[-m-] que [-deve -]se[-r-]{+ja+} iniciado [-precocemente o trat-]a[-me-]{+i+}n[-to -]d[-ur-]a[-nte-] {+n+}a [-ge-]s[-t-]a[-ção (-]{+l+}a {+do +}part[-ir de-]{+o,+} [-14-]{+após+} {+o+}s[-em-]{+ cuid+}a{+dos i+}n{+ici+}a{+i+}s[-)-]
+[---] [-Des-]co[-la-]m[-ent-]{+ +}o [-p-]r{+ec+}é[-v-]{+m-nasc+}i{+d+}o{+,+} [-d-]e [-pl-]a[-cen-]t{+é +}a[-;-]
+[---] [-Sífilis;-]
+[---]{+4ª+} [-Us-]{+h+}o{+ra+} de {+vi+}d[-rog-]a[-s-];[---]{++}
+{+?+} [-Promiscuidade sexual-]{+O+} [-(-]{+t+}r[-isco -]a[-u-]{+ta+}ment[-ad-]o {+é +}p[-a-]r[-a -]o[-utra-]{+po+}s{+to+} [-d-]{+p+}o{+r 4 s+}e{+ma+}n[-ç-]as{+,+} [-sexu-]a[-lmen-]t[-e-]{+é+} [-tr-]a{+ defi+}n[-sm-]i[-ssíve-]{+ção do d+}i{+agnó+}s[-)-]{+tico+}.[-D -]{++}
+- [-Qual é o-]{+Em+} {+g+}es[-quema m-]{+t+}a[-i-]{+nte+}s [-ade-]qu[-ado d-]e t[-erap-]i{+nh+}a{+m+} {+c+}a[-ntirret-]r[-o-]{+ga +}viral [-n-]{+acim+}a [-g-]{+d+}e[-stação?-]
+[-Vários-] [-são-]{+1.000+} [-a-]c[-eitos, es-]{+ó+}p[-ec-]ia[-lmente -]s[-e a-]{+/mL+} [-pacie-]n[-te já -]o[-s-] [-uti-]{+ú+}l{+t+}i[-zava. Deve-]m{+o+} [-se-]{+t+}r[- ev-]i[-tados -]{+m+}es[-qu-]{+tr+}e[-m-]{+, +}as[- c-]{+s+}o[-m-]{+cia-se+} {+n+}e[-fa-]vir[-enz, est-]a[-vud-]{+p+}ina [-e did-]{+p+}a[-nosin-]{+r+}a[-,-] [-p-]o[-is-] [-há-]{+RN,+} [-ris-]co{+m 3+} d{+os+}e{+s+} [-terat-]{+(1ª d+}o[-g-]{+s+}e[-nicid-]{+ +}a[-de.-]{+té+} [-Nes-]{+48h, 2ª do+}se[-s-] [-c-]{+48h +}a{+pó+}s[-os,-] a [-troca-]{+1ª+} [-dev-]e {+3ª do+}se[-r-] [-realizada.-]{+96+} [-Pa-]{+ho+}ra[- ge-]s[-t-]{+ +}a[-nte-]{+pó+}s [-que-]{+a+} [-não-]{+2ª);+}
+{+- O+} us{+o d+}a[-m-] {+nevir+}a{+p+}in[-d-]a {+també+}m{+ ocorr+}e{+ +}d[-icam-]e[-ntos,-] [-2-]{+acordo+} [-sã-]{+c+}o{+m+} o{+ pe+}s{+o:+}
+{+?+} {+P+}es[-qu-]{+o d+}e[-m-]{+ n+}as{+cimento+} [-su-]{+>2k+}g[-eri-]{+: 12mg/+}dos[- p-]e[-lo-] [-Mini-]{+(1,2mL);+}
+{+? Pe+}s[-téri-]o d[-a-]{+e+} [-S-]{+n+}a[-úde:-]
+[-Zidovud-]{+sc+}i{+me+}n[-a-]{+to 1+},{+5+} [-l-]a{+ 2kg: 8+}m[-ivu-]{+g/+}d[-ina -]{+os+}e [-nevirapina-]{+(0,8mL)+};[-Zid-]{++}
+{+? Pes+}o[-vudina,-] [-lamivu-]d[-ina -]e [-lopinavir/rito-]na[-vir.-]
+[-Re-]{+s+}c[-ente-]{+i+}ment[-e, f-]o[-i-] [-aprovado-]{+<1,5kg:+} {+nã+}o us[-o de out-]{+a+}r[-o-] [-I-]{+NV+}P[-,-]{+.+}
+{++}
+{+B+} [-o-]{+-+} [-ataz-]{+E dur+}an[-avir,-]{+te+} a{+ ge+}s[-soci-]{+t+}a[-d-]{+çã+}o{+?+} [-ao-]{++}
+{+O+} [-riton-]{+esquem+}a[-vir,-] [-p-]a{+ se+}r[-a-] u[-s-]{+tilizad+}o na gestação[-. O-] {+d+}e[-fa-]v[-ir-]e[-nz foi-] [-re-]c[-enteme-]{+o+}nte{+r+} [-libe-]{+3 d+}r{+og+}a[-d-]{+s, como se f+}o{+sse+} para [-us-]{+tratamento. T+}o{+das+} [-n-]a{+s+} gesta[-ção,-]{+ntes+} {+infectad+}a{+s +}pe[-sar-]{+lo HIV+} de{+vem+} [-não-]{+receber+} ter[- s-]{+ap+}i[-do mud-]a[-do-] [-ofici-]a[-lme-]nt{+irr+}e[- p-]{+tr+}o{+vi+}r{+al+} [-f-]{+p+}a[-b-]r[-icantes n-]a [-i-]{+preve+}n[-dica-]ção de {+t+}r{+ansm+}is[-co-]s[- (c-]{+ã+}o[-n-]{+ ma+}t[-rov-]er[-s-]{+n+}o[-).-]{+-fetal+} [-P-]{+d+}o[-r-] [-es-]{+víru+}s[-e-]{+. O+} [-m-]o{+bje+}tivo[-,-] [-s-]{+da t+}e[-mp-]r[-e-]{+apia+} [-que-]{+é+} a [-pa-]c[-iente us-]ar{+ga+} [-med-]{+v+}i[-c-]{+r+}a[-ções,-]{+l+} {+in+}de[-v-]{+t+}e[-r-]{+ct+}á[- ser a-]v[-a-]{+e+}l[-iad-]{+ n+}o {+moment+}o [-risc-]{+d+}o par[-a o fe-]to. A [-Tab-]{+t+}e[-l-]{+rapi+}a [-12 l-]{+dev+}e[-mbra os-] [-risco-]s[- d-]e{+r+} [-c-]{+m+}a{+nti+}da [-um-]{+após+} [-d-]o[-s-] {+p+}a[-nti-]r[-re-]t[-r-]o[-virais.-]
+
+[-D-]{+, +}i[-ca-]
+[-D-]{+ndependent+}e [-acor-]do [-c-]{+val+}o[-m-]{+r+} [-o-]{+de CD4+} [-M-]ini[-stér-]{+c+}i[-o d-]a{+l.+} [-S-]{+A T+}a[-úd-]{+b+}e[-,-]{+la+} [-2-]{+11+} {+r+}es[-q-]u[-e-]m[-as-]{+e+} {+a+}s[-ão-] [-prop-]{+c+}o{+ndiçõe+}s[-t-]{+:+}
+{++}
+{+Tabela 11 - C+}o{+ndiçõe+}s para t{+e+}ra[-t-]{+pi+}a[-mento-] [-d-]{+c+}o{+m+} [-HIV dur-]ant{+irr+}e{+trovirais+} {+n+}a gestação[-: zidovudi-]{++}
+{+I+}n[-a, lamivu-]di[-n-]{+c+}a{+ção+} {+d+}e [-n-]{+t+}e[-vi-]rapi[-n-]a [-ou z-]{+ant+}i[-d-]{+rretr+}ov[-ud-]i{+ral +}na[-,-] [-l-]{+gest+}a{+ção+}
+{+Se+}m{+pre é fe+}i[-vud-]{+ta, +}in{+dependente do v+}a{+lor+} {+d+}e [-l-]{+CD4.+}
+{+Após +}o{+ +}p[-in-]a[-vir/-]r[-i-]to[-navir.-]
+
+[-Tab-]{++}
+{+D+}e[-l-]{+ +}a{+cordo+} [-12-]{+com+} [---]{+o+} [-Risc-]{+C+}o{+nsen+}s{+o+} d[-os-]{+e+} {+Tr+}a[-n-]t[-irr-]{+am+}e{+n+}t[-r-]o[-vi-]{+ pa+}ra[-is-]
+[-	D-]{+ HIV ve+}r{+sã+}o[-g-]{+ 2013, o tr+}a[-s-]{+tamento+} antirretrovi[---]ra[-i-]{+l deve +}s[-	Cat-]e[-go-]r{+ mant+}i{+do +}a{+pós+} [-FDA-]{+o+} [-(F-]{+part+}o{+ em t+}od{+as+} a[-nd-]{+s+} [-Dru-]g[- Admini-]{+e+}st[-r-]a[---]{+n+}t{+es, +}i[-o-]n[-) -]{+depe+}n[-a-]{+dente+} [-g-]{+do CD4.+}
+{++}
+{+Impo+}r{+t+}a[-vid-]{+nt+}e[-z	P-]{++}
+{+Tod+}as[-s-]{+ +}a{+s +}ge[-m-]{+stantes+} p{+ort+}a{+do+}ra{+s+} [-plac-]{+d+}e[-nta-] [-(r-]{+HIV d+}e[-lação-]{+vem+} rec[-ém-nascido–mã-]e[-)	Estudos-]{+ber+} {+ter+}a[-n-]{+p+}i[-m-]a[-is de-] [-c-]a[-rci-]n[-ogênese -]{+tirr+}e[-m long-]{+tr+}o[- p-]{+vi+}ra[-zo	Estudos-]{+l+} {+p+}a[-nim-]{+r+}a[-is de-] [-te-]{+p+}r[-atogên-]e[-s-]{+v+}e[-I-]n[-ibid-]{+çã+}o[-res-] da trans[-cr-]{+m+}i[--pta-]s[-e-]{+são+} [-re--]ver[-sa: -]{+tic+}a[-ná-]l[-ogos-]{+.+} [-de-]{+O+} [-nucleosí-de-]o[-s e nucl-]{+bj+}e[-o-]t[-í-de-]{+iv+}o[-s (ITRN-] [-e-]{+é+} [-ITRN-]{+a+}t[-)	Ab-]{+ingir um+}a{+ +}ca[-vi-]r[-	C	Sim-]{+ga+} [-(-]{+vi+}ra[-tos)	Pos-]{+l +}i{+nde+}t[-ivo (-]{+ec+}t[-umor-]{+áv+}e[-s ou-]{+l+} n[-ã-]o {+mome+}n{+t+}o [-fíga-]do[-,-] [-ti-]{+pa+}r[-e-]{+t+}o[-ide-]{+.+}
+{++}
+{+C+} [-em-]{+-+} [-r-]{+Qu+}a[-tos-]{+l+} [-e-]{+é+} [-prepúci-]o {+m+}e[- c-]l[-itó-]{+ho+}r[-is-] [-e-]m[- ca-]{+o+}m[-u-]{+e+}n[--d-]{+t+}o{+ para i+}n[-gos-]{+iciar+} [-e-]{+o+} {+t+}rat[-os)	Posi-]{+amen+}t[-iv-]o [-(-]an[-asa-]{+tir+}r[-ca -]e[- malf-]{+tr+}o{+vi+}r[--m-]a[-ções-]{+l na+} {+g+}es[-quelé-]t[-ic-]a[-s em roed-]{+çã+}o[-res:-]{+?+} [-dos-]{++}
+{+S+}e [-35-]{+a+} [-v-]{+paci+}e[-z-]{+nt+}e[-s-] [-supe-r-]{+já t+}i[-or-]{+nha+} [-à-]{+o+} [-hum-]{+di+}a{+g+}n[-a)-]{+óstico+} durante a [-organo-]g[-ên-]es[-e, n-]{+taç+}ão{+,+} [-obs-]{+a t+}er[-v-]a{+pia +}d[-o-]{+eve+} {+s+}e[-m-]{+r+} [-co-]{+ap+}e[-lho-]{+na+}s[-	Did-]{+ m+}an[-os-]{+t+}i[-n-]{+d+}a[-	B	Sim-]{+,+} [-(h-]{+aj+}u[-m-]{+st+}an{+do +}os[-)-] [-[0:5]	Neg-]a{+n+}ti[-vo (obs-]{+rr+}e{+t+}r{+o+}v{+ir+}a[-ção-]{+is+} p{+ara +}o{+s +}r{+iscos de+} t{+erat+}o{+genici+}da{+de. Em+} {+p+}a{+cientes+} vi[-da-]{+rgens+} de {+t+}r[-o-]{+atam+}e[-d-]{+nt+}o[-res)	Neg-]{+ +}a{+n+}ti{+rretro+}v{+iral, +}o[-	En-]{+ +}tr[-ici-]{+a+}ta[-bi-]{+me+}n[-a	B	D-]{+to d+}e{+ve +}s[-conh-]e{+r ini+}ci[-d-]a[-	Nã-]{+d+}o [-c-]o{+ +}m{+ais +}p[-l-]{+r+}e[-tad-]{+c+}o[-	N-]{+c+}e[-ga-]{+men+}t[-iv-]{+e p+}o[-	Lami-]{+ssí+}v[-ud-]{+el. S+}i{+tuações que aume+}n{+t+}a[-	C	Si-]m [-(-]{+a c+}h[-um-]an{+ce d+}o[-s)-] [-[~1]	Neg-]{+cont+}at[-iv-]o [-(-]{+d+}o[-b-]{+ +}s{+angu+}e[-rv-]{+ d+}a[-ç-]{+ m+}ã[-o-]{+e+} [-p-]{+c+}o[-r-]{+m+} [-t-]o[-da-] {+d+}a [-v-]{+cr+}i[-d-]{+anç+}a [-d-]{+ant+}e{+s+} [-roe-]do[-res)	Neg-]{+ p+}a{+r+}t[-iv-]o[-	Est-]{+ +}a[-v-]u[-di-]{+me+}n{+t+}a[-	C	Si-]m [-(macac-]o{+ ri+}s{+co de+} {+t+}r[-h-]{+ansmissão. N+}e[---]s[-u-]s[-)-]{+es+} [-[0,76]	P-]{+cas+}os[-i-]{+, quan+}t[-iv-]o [-(-]{+mais preco+}c{+e a ter+}a{+pia, +}m[-u-]{+e+}n[-d-]o[-ng-]{+r +}o{+ ri+}s{+co+} {+d+}e {+t+}ra[-to-]{+n+}s[-, e-]m[- do-]{+i+}s[-e-]s{+ão.+} [-m-]{++}
+{++}
+{+D - Q+}u[-it-]{+al é +}o e[-l-]{+squ+}e[-va-d-]{+m+}a[-s,-] [-tu-]m[-ore-]{+ai+}s {+a+}de[- fíg-]{+qu+}ado {+d+}e [-b-]{+t+}e[-x-]{+rap+}i[-g-]a[-)	Neg-]{+ +}a{+n+}ti[-v-]{+rretr+}o{+viral+} [-(m-]{+n+}a[-s,-] {+g+}e[-m-]{+stação?+}
+{+Ao+} {+avalia+}r{+ +}o[-e-]{+ +}do[-r-]{+cum+}e[-s,-]{+nto+} {+b+}r{+asil+}e[-duçã-]{+ir+}o de [-cálc-]i[-o -]n[-o -]{+dicaçõ+}es[-t-]{+ d+}e[-rno)-]
+[-	T-]{+ tratam+}en{+t+}o[-f-]{+ antirretr+}ovir[-	B	Si-]{+al e+}m [-(r-]{+gest+}a{+n+}t[-o-]{+e+}s {+d+}e {+deze+}m[-aca-]{+bro de 2015 (Proto+}-co[-s)	Nã-]{+l+}o {+Clíni+}co[-mpl-]{+ e Dir+}et[-ado	N-]{+riz+}e[-g-]{+s Ter+}a{+pêu+}ti{+cas para Pre+}v{+ençã+}o [-(em-]{+da+} {+Tr+}an[-i-]{+s+}m[-a-]is[- joven-]s[-, -]{+ã+}o[-st-]{+ V+}e[-omalác-]{+rt+}i{+c+}a[-,-]{+l+} d[-os-]e{+ HIV, Sífili+}s {+e Hep+}a[-l-]t{+ites Vir+}a{+i+}s)[-	Z-]{+, +}a[-l-]{+ prin+}ci[-t-]{+pal mud+}a[-bi-]n{+ç+}a[-	C	S-]{+ fo+}i[-m-] [-(m-]a{+ in+}c{+lusão do ef+}a{+virenz +}co[-s-]{+mo+} {+d+}r[-he--]{+oga +}s{+eg+}u[-s) [0,3-]{+ra+} {+n+}a [-0,5]	Po-]{+ge+}s[-i-]t[-iv-]{+açã+}o{+.+} [-(-]{+Div+}e[-m -]r{+s+}o[-edore-]s[-,-] {+traba+}l[-inf-]{+h+}o[-ma-]{+s+} [-tí-]m[-ico)	P-]os[-i-]t[-ivo-]{+raram+} [-(-]{+qu+}e[-m-] [-ro-]{+as l+}e[-dor-]{+sõ+}es[-,-] [-hid-]{+p+}r[-o-cefal-]{+év+}ia[-, do-]s{+ +}e[-s-]{+m+} {+r+}a[-l-]t[-a-]{+o+}s[-)-]
+[-	Zid-]{+ não se c+}o[-vudi-]n[-a	C	S-]{+f+}i{+rmaram e+}m [-(-]humanos[-)-]{+.+} [-[0,85]	Po-]{+De+}s[-i-]t[-ivo-]{+a+} [-(e-]m{+aneira,+} {+pa+}r[-oedo-]{+a facilita+}r{+ a ad+}es{+ão+}, {+o +}t{+rio +}u{+tilizado co+}mo[--res-] [-e-]p{+r+}i[-t-]{+m+}e[-l-]i{+r+}a[-is-] [-n-]{+opç+}ão [-i-]n[-vasiv-]o[-s-] [-n-]{+tr+}a[- v-]{+t+}a[-gi-]{+-me+}n[-a)	Posi-]t[-iv-]o [-(-]em [-roe-]{+a+}d{+ult+}o[-re-]s[-,-] [-d-]{+nã+}o[-se-]{+ gestantes (tenofovir, lamivudina e efavirenz) foi também aqui incluído, conforme segue:+}
+{++}
+{+Tabela 12 - Esquema de terapia antirretroviral+}
+{+1ª linha de tratamento	Medicamentos alternativos+}
+{+TDF + 3TC + EFV*	Contraindicação ao TDF: AZT+}
+{+	Contraindicação ao TDF e AZT: ABC+}
+{+	Contraindicação ao EFV: NVP+}
+{+2ª linha de tratamento	Medicamentos alternativos+}
+{+Contraindicação aos ITRNN	LPV/r+}
+{+Contraindicação ao LPV/r	ATV/r+}
+{+* Na apresentação de dose fixa combinada, sempre que disponível.  +}
+{+Fonte: Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, dez/2015.+}
+{++}
+{+Dica+}
+{+O tratamento atual do Ministério da Saúde para gestantes que nunca usaram medicação tem, como escolha preferencial, tenofovir, lamivudina e efavirenz, como no protocolo geral de tratamento em não gestantes.+}
+{++}
+{+Tabela 13 - Segurança dos antirretrovirais na gestação +}
+{+Antirretrovirais	Recomendações na gestação+}
+{+ITRNts+}
+{+Abacavir (ABC)	- Alta taxa de transferência placentária para o feto;+}
+{+	- Sem evidência de teratogenicidade em humanos;+}
+{+	- Reações de hipersensibilidade podem ocorrer em cerca de 5% a 8% em pacientes não gestan-tes. Porcentagens muito menores são fatais e normalmente associadas à reexposição ao medi-camento. A frequência das reações na gestação é desconhecida;+}
+{+	- O teste para o HLA-B*5701 identifica pacientes com risco de reações; contudo, não se encon-tra disponível no SUS. Caso seja realizado, deve-se documentar o procedimento no prontuário do paciente;+}
+{+	- As gestantes devem ser esclarecidas sobre sintomas de reação de hipersensibilidade.+}
+{+Lamivudina (3TC)	- Alta taxa de transferência placentária para o feto;+}
+{+	- Sem evidência de teratogenicidade em humanos;+}
+{+	 Se a paciente apresentar coinfecção HIV/HBV, pode haver flare viral de vírus B caso o medi-camento seja interrompido no pós-parto.+}
+{+Tenofovir (TDF)	- Alta taxa de transferência placentária para o feto;+}
+{+	- Sem evidência de teratogenicidade em humanos;+}
+{+	- Estudos em macacos (com doses 2x superiores que em humanos) mostraram redução do crescimento fetal e redução da porosidade óssea após 2 meses do início da terapia antirretrovi-ral. Estudos em humanos não mostraram efeito no crescimento intrauterino, embora um estu-do tenha observado baixo comprimento e circunferência cefálica.+}
+{+Zidovudina (AZT)	- Alta taxa de transferência placentária para o feto;+}
+{+	- Sem evidência de teratogenicidade em humanos.+}
+{+ITRNNs+}
+{+- ITRNNs são medicamentos recomendados pra uso em combinação com 2 ITRNs;+}
+{+- Reações de hipersensibilidade, incluindo toxicidade hepática e rash, são mais comuns em mulheres; não está claro se o risco au-menta na gestação.+}
+{+Efavirenz (EFV)	- Transferência placentária moderada para o feto;+}
+{+	- Em humanos, não existe aumento de risco de defeitos congênitos associados à exposição ao EFV no 1° trimestre de gestação.+}
+{+Nevirapina (NVP)	- Alta taxa de transferência placentária para o feto;+}
+{+	- Sem evidência de teratogenicidade em humanos;+}
+{+	- Tendência não significativa de aumento de toxicidade hepática associada a rash cutâneo em mulheres com CD4 =250 células/mm3; gestação não parece aumentar o risco;+}
+{+	- Níveis iniciais elevados de transaminases podem aumentar o risco de toxicidade de NVP;+}
+{+	- Mulheres que engravidam durante tratamento com NVP e estão tolerando bem a medicação podem mantê-lo, independentemente da contagem de LT-CD4+.+}
+{+IPs+}
+{+- Hiperglicemia, diabetes mellitus de início recente ou exacerbação de quadro prévio e cetoacidose diabética podem ocorrer em pacientes em uso de IP; não está claro se a gestação aumenta o risco;+}
+{+- Dados conflitantes sobre parto pré-termo em mulheres em uso de IP.+}
+{+Atazanavir (ATV)	- Transferência placentária baixa;+}
+{+	- Sem evidência de teratogenicidade humana;+}
+{+	- Deve ser administrado em baixa dose em esquemas que contenham RTV;+}
+{+	- Efeito in útero de exposição de ATV na bilirrubina indireta em RN é incerto. Elevações fisioló-gicos isoladas de bilirrubina em neonatos foram observados em alguns estudos clínicos.+}
+{+Darunavir (DRV)	- Transferência placentária mínima;+}
+{+	- Dados insuficientes para avaliar a teratogenicidade em humanos;+}
+{+	- Sem evidência de teratogenicidade em ratos ou coelhos;+}
+{+	- Deve ser administrado em baixa dose em esquemas que contenham RTV.+}
+{+Lopinavir/ritonavir (LPV/r)	- Transferência+} p{+lacentá+}r[-óx-]{+ia mín+}ima{+;+}
+{+	- Sem+} {+evi+}d{+ênci+}a [-l-]{+d+}e{+ +}t{+er+}a[-l)-]
+[-I-]{+toge+}ni[-b-]{+c+}id[-or-]{+ad+}e[-s-] [-d-]{+hum+}a{+na;+}
+{+	-+} [-t-]{+A solução o+}ra[-ns-]{+l +}c[-ri-p-]{+on+}t[-as-]{+ém 42% d+}e [-r-]{+álcool +}e[--v-]{+ 15% d+}e{+ p+}r[-sa-]{+opilenoglicol e+} não [-nucl-]{+é r+}e{+c+}o[-sí--]{+menda+}d{+a na g+}e[-o-]s{+ta-ção;+}
+	{+- +}D{+os+}e[-l-]{+ únic+}a[-v-]{+ d+}i{+á+}r[-d-]i[-n-]a[-	C	D-]{+ d+}e[-sco-]{+ LPV/r +}n[-h-]{+ão é r+}ec[-i-]{+omen+}da[-	Po-]{+da na ge+}s[-i-]t{+ação.+}
+{+R+}i[-v-]{+t+}o{+navir+} ({+r)	- Tr+}a[-d-]{+nsf+}e{+rê+}n[-om-]{+ci+}a[-s-] {+plac+}e{+ntária+} [-c-]{+b+}a[-rc-]i{+xa;+}
+{+	+}-[-no-]{+ Se+}m{+ evidênci+}a[-s-] d[-o-]{+e+} [-fí-]{+terato+}g{+enicid+}ad[-o-]{+e+} em [-cam-]{+h+}u{+ma+}n{+os;+}
+{+	+}-[-d-]{+ A s+}o[-ng-]{+luçã+}o[-s,-] [-m-]{+or+}a[-s-]{+l contém 43% de álcool e+} não {+é r+}e{+co+}m{+endada+} [-r-]{+n+}a{+ ges+}t{+açã+}o[-s,-]{+.+}
+{+Saquinavir (SQV)	-+} {+Transf+}e{+rência+} {+placen+}t[-u-]{+ária +}m{+ínima;+}
+{+	- Dad+}o[-re-]s [-d-]{+insufici+}e[- b-]{+nt+}e[-x-]{+s para aval+}i[-g-]a{+r+} [-em-]{+a+} {+teratogeni+}c{+id+}a{+de e+}m{+ h+}u{+ma+}n[--dong-]os[-)-]{+;+}
+	[-Pos-]{+- Sem ev+}i[-t-]{+dênc+}i[-v-]{+a de terat+}o{+genicidade+} [-(-]em r{+at+}o[-ed-]{+s ou c+}o[-r-]e{+lho+}s[-,-]{+;+}
+{+	-+} [-d-]{+D+}e[-f-]{+v+}e[-i-tos-] se[-pt-]{+r +}a{+dm+}i[-s ve-]n{+is+}tr[-icul-]a[-r-]{+do +}e[-s)-]
+[-	Ef-]{+m b+}a[-v-]i[-r-]{+xa dose +}e[-nz	D	Si-]m [-(-]{+e+}s[-í-]{+que+}m[-ios, r-]a[-to-]s {+qu+}e co{+nt+}e[-l-]{+n+}h[-os)-]{+am+} [-[~1]-]{+RTV;+}
+	[-Positivo-]{+- ECG+} [-(a-]de[-nom-]{+ b+}as{+e+} e{+m+} [-c-]{+p+}a[-r-]ci[---]{+e+}n[-oma-]{+te+}s [-d-]{+pel+}o f[-íg-]a[-d-]{+t+}o {+d+}e [-ad-]{+ter+}e[-no-]m[-a-] {+si+}do [-pulmã-]o[- -]{+bs+}e[-m c-]{+rv+}a[-mun-]do[-ngo-]s [-fême-]{+prolong+}a[-s, -]m[-as -]{+e+}n[-ã-]{+t+}o {+d+}e[-m-] [-m-]{+interv+}a[-ch-]{+l+}o[-s)	-]{+ +}P{+R e/+}o[-si-]{+u QT;+}
+{+	- Con+}t{+ra+}i[-v-]{+ndicad+}o [-(-]em {+paciente+}s[-í-]{+ co+}m{+ distúrb+}ios[-,-] [-anenc-]{+d+}e[--falia,-] [-a-]{+co+}n{+duçã+}o[-ftalmia,-] [-mi-]c{+a+}r[-oft-]{+dí+}a[-l-mi-]{+c+}a[-)-]
+[-	Nev-]{+.+}
+{+T+}i{+p+}ra[-pi-]na[-	C	S-]{+v+}i[-m-]{+r+} ([-humanos-]{+TPV+})[- [~1]-]	[-Positivo-]{+-+} [-(-]{+Tr+}a[-de-]n[-oma-]s[- -]{+f+}e[- ca-]r{+ên+}ci[---]{+a place+}n[-om-]{+tári+}a[-s-] [-d-]{+m+}o{+derada+} [-fíg-]{+relat+}ad[-o-]{+a+} em [-cam-]u{+m pacie+}n{+te;+}
+{+	+}-{+ Da+}do[-ngo-]s [-e rato-]{+in+}s[-)	N-]{+ufici+}e[-ga-]{+n+}t[-ivo-]
+[-IP-]{+e+}s[-	Am-]{+ +}p{+a+}r[-en-]{+a +}av{+al+}i{+a+}r[-	C	D-]{+ a t+}e[-sc-]{+rat+}o[-nh-]{+g+}e{+ni+}cida[-	Positivo (a-]de[-no-]{+ em hu+}ma{+no+}s{+; +}
+{+	-+} {+S+}e{+m+} [-carc-]{+ev+}i[---]{+dê+}n[-om-]{+ci+}a[-s-] d{+e terat+}o[- fí-]g{+enicid+}ad[-o-]{+e+} em [-c-]{+r+}a[-mun-dong-]{+t+}os [-ma-]{+e +}c{+oel+}hos{+; +}
+{+	-+} {+Dev+}e {+se+}r{+ +}a[-to-]{+dmini+}s[-)	N-]{+trada +}e[-g-]{+m b+}a[-t-]i[-v-]{+xa d+}o{+se+} [-(-]{+em esque+}mas {+que c+}o[-ss-]{+ntenham RTV.+}
+{+In+}i[-f-]{+b+}i[-caçã-]{+d+}o{+res+} de[-fici-]{+ +}ent{+rada +}e {+d+}e {+fusão +}
+{+D+}a[-l-]{+dos indisp+}on[-gam-]{+ív+}e{+is +}n[-to-]{+a+} [-tím-]{+l+}i[-co-]{+teratura+} {+sobr+}e[-m-] {+a te+}rato[-s-]{+genicidade+} {+dess+}e{+s+} {+medi+}c[-o-]{+am+}e[-lh-]{+nt+}os[-)-]
+[-	Ataza-]{++}
+{+E+}n[-a-]{+fu+}vir{+tida (T20)+}	[-B	Desco-]{+Tra+}n[-h-]{+sf+}e{+rên+}ci[-d-]a[-	Não-] [-com-]pl{+ac+}e{+n+}t{+ári+}a[-d-]{+ mínima +}o[-	Neg-]{+u b+}a[-t-]i[-vo-]
+[-	Fos-]{+xa+}
+{+M+}a[-mp-]r[-en-]avir[-	-]{+oque (MV+}C{+)+}	[-Desco-]{+- Mí+}n[-hec-]i[-d-]{+ma a b+}a[-	Posit-]i[-vo-]{+xa+} [-(-]t[-umo-]r[-e-]{+an+}s[- h-]{+f+}e[-páti-]{+rên+}c[-o-]{+ia+}s [-b-]{+plac+}en{+tár+}i[-gno-]{+a+}s{+;+} [-e-]{++}
+{+	-+} {+Se+}m{+ d+}a[-lign-]{+d+}os [-em roe-d-]{+s+}o{+b+}re[-s-] [-machos)	N-]{+t+}e[-g-]{+r+}at[-iv-]o[-	Indi-]{+ge+}n[-av-]i[-r	C	Mín-]{+c+}i[-m-]{+d+}a{+de em+} [-(-]humanos[-)	Pos-]{+.+}
+{+In+}i[-t-]{+b+}i[-vo (a-]d[-en-]o[-ma-]{+re+}s de [-t-]i{+nteg+}r{+as+}e{++}
+{+Dad+}o{+s +}i{+n+}d{+isponív+}e{+is+} [-em-]{+na+} {+lite+}rat[-o-]{+ura +}s{+obre+} [-m-]{+ter+}a[-ch-]{+t+}o[-s -]{+genicidad+}e[-m-] d[-o-]{+es+}ses {+medic+}a[-l-]{+men+}t[-a-]{+o+}s[-)	N-]{++}
+{+Ralt+}eg{+r+}a[-ti-]v[-o-]{+ir+} ([-mas-]{+RAL)	-+} [-coste-]{+A+}l{+t+}a[-s-] [-ex-]tra[---]n[-um-]{+sf+}er[-ár-]{+ênc+}ia[-s-] {+plac+}e[-m -]{+ntá+}r[-oe-]{+ia;+}
+{+	- Da+}do[-re-]s[-)-]
+[-	Lop-]{+ +}in[-av-]{+suf+}i[-r/-]
+[-r-]{+c+}i[-to-]{+e+}n{+tes para +}av{+al+}i{+a+}r[-	C	D-]{+ t+}e[-sc-]{+rat+}o[-nh-]{+g+}e{+ni+}cida[-	Não completa-]d[-o	N-]e[-gativo-] [-(-]{+em hu+}ma{+no+}s{+;+}
+{+	-+} [-r-]{+Aum+}e{+n+}t[-ard-]o d[-a-]{+e+} [-ossif-]{+var+}i[-c-]a[-ção-]{+ntes+} esquelética{+s+} em ratos[-)-]
+[-	N-]{+, s+}e[-lfinavir	B	Míni-]m[-a-] [-(h-]{+a+}um[-a-]{+e+}n[-os)	Posi-]t[-iv-]o [-(a-]de[-n-]{+ defeit+}o[-ma-]s e{+m+} c[-arci-n-]o[-ma-]{+elho+}s{+;+}
+{+	-+} [-folicu-]{+Re+}la[-re-]{+to+}s {+d+}e[-m-] [-r-]{+c+}a[-t-]{+s+}os[-)	N-]{+ de el+}e[-gati-]v{+açã+}o[-	Ri-]{+ de +}t[-o-]{+ra+}n{+s+}a[-v-]{+m+}i[-r	B	Mí-]n[-im-]a{+ses+} [-(human-]{+c+}o{+m u+}s[-)	P-]o[-si-]{+ +}t{+ard+}i[-v-]o [-(em-]{+na+} [-roedor-]{+g+}es[-, -]{+t+}a[-de-n-]{+çã+}o[-m-]{+. C+}as[- d-]o{+s+} [-fígad-]{+sever+}o{+s+} e [-car-]{+poten+}ci[-nom-]a[-s e-]{+l+}m{+ente+} [-r-]{+f+}at[-o-]{+ai+}s[-)	N-]{+, l+}e[-g-]{+sões de pele f+}at{+a+}i[-vo-]{+s+} [-(m-]{+e re+}a{+çõe+}s [-cr-]{+de h+}ip[-to-]{+e+}r[-qu-]{+sens+}i[-d-]{+b+}i{+lid+}a[- -]{+d+}e[-m-] r[-oedor-]e[-s)-]
+[-	S-]{+l+}a[-quin-]{+t+}a[-vir	B	Mínim-]{+d+}a [-(hu-]{+e+}m{+ +}a[-n-]{+dul-t+}os[-)	N-]{+ (n+}ão [-compl-]{+g+}e{+s+}ta[-do	Negativo-]
+[-I-]n[-ibidor-]{+t+}es{+);+}
+{+	-+} [-d-]{+Tablet+}e{+s+} [-fu-]{+ma+}s[-ão	Enfuvir-]ti[-da	B	D-]{+gáv+}e{+i+}s{+ +}con[-hecida	Não-]{+têm+} [-r-]{+f+}e{+nil+}al{+an+}i[-z-]{+n+}a[-d-]{+.+}
+{+F+}o[-	N-]{+nt+}e[-ga-]{+: Minis+}t{+ér+}i[-v-]o{+ da Saúde 2015.+}
+{++}
+E - O parto deve ser sempre cesárea?{++}
+Não, isso mudou. Pacientes com carga viral no momento do parto com valor acima de 1.000 cópias devem obrigatoria-mente ser submetidas a parto cesárea, pois essa ação diminui o risco de transmissão. Em pacientes com carga viral indetectá-vel, ou detectável, mas com valor abaixo de 1.000 cópias, a indicação do parto é obstétrica. Isso quer dizer que, desde que não haja nenhum motivo para cesárea (do ponto de vista não do HIV, mas da gestação), o parto normal pode ser realizado. Lembre-se: a gestante com HIV não pode amamentar, pois existe vírus no leite materno. Por esse motivo, devem-se fazer enfaixamento de mamas e medicações para o leite não descer.{++}
+{+ O Ministério da Saúde contraindica o aleitamento cruzado (amamentação da criança por outra nutriz), a alimentação mista (leite humano e fórmula infantil) e o uso de leite humano pasteurizado.+}
+{++}
+{+Importante+}
+{+Carga viral acima de 1.000 cópias/mL no último trimestre da gestação constitui indicação de cesárea eletiva para diminuir o risco de transmissão vertical. Abaixo de 1.000 cópias/mL, a via de parto deve ser preferencialmente vaginal. +}
+{++}
+F - Condição anômala: diagnóstico de HIV no momento do parto{++}
+Em uma situação como essas, é muito importante que o tratamento seja iniciado o mais precoce possível (lembre-se de que 75% das transmissões ocorrem no momento do parto, em pacientes nunca tratadas). {++}
+Nessa situação, além do tratamento antirretroviral inicialmente preconizado (por exemplo, zidovudina, lamivudina e lopi-navir/ritonavir), deve ser iniciado um comprimido de nevirapina, com a finalidade de passar a barreira placentária e diminuir a chance de infecção caso já tenha acontecido o contato do sangue materno com o fetal (lembre-se de que a paciente já chega em trabalho de parto).{++}
+{++}
+4. Profilaxias no HIV{++}
+{++}
+A profilaxia pós-exposição com acidentes perfurocortantes em profissionais de saúde é apresentada em outro capítulo, o de profilaxias e terapias pós-exposição. {++}
+{++}
+5. E a cura? {++}
+{++}
+Existe na literatura 1 caso de paciente que recebeu transplante de medula e teve a sorte de trocar o receptor de entrada com a medula nova. Como resultado, o vírus não conseguiu mais entrar em células para parasitar e foi decretado o 1º caso de cura do HIV no mundo. Entretanto, a grande dificuldade da cura da AIDS é que o vírus possui “santuários” em todo o corpo, aonde os medicamentos não conseguem chegar. Células da glia, da próstata, das suprarrenais, entre outros lugares, são possí-veis reservatórios. Desta forma, não há tratamentos com previsão de duração finita em fase avançada, e não há luz nesse lado da doença em curto prazo. Em outro caso, descrito em 2012, uma criança, filha de mãe HIV que recebeu tratamento antirre-troviral desde o início, mostrou negativação de carga viral inesperadamente, mesmo sem antirretrovirais. Após 2 anos, essa criança voltou a apresentar carga viral detectável no sangue, não confirmando cura nesse caso. {++}
+Diversos outros estudos de tratamento estão sendo desenvolvidos com o objetivo de expor o vírus que está “escondido” em locais conhecidos como santuários. Esse tipo de terapia, de retirar vírus latentes de santuários, acaba ativando outros vírus que estão latentes, como os da família herpes. Isso ocasiona um risco maior de complicações por essas outras doenças. Por isso, esse tipo de tratamento de “cura” estaria disponível inicialmente apenas para pacientes com infecção pelo HIV e valores altos de CD4. Nos próximos 5 anos, boas notícias aparecerão sobre tal assunto.{++}
+{++}
+ [- -]{++}
+Figura 8 - Organograma com as estratégias atuais na tentativa de erradicar o vírus do corpo definitivamente{++}
+Fonte: adaptado de DIAZ, 2015. {++}
+{++}
+As medidas que mais valem ainda são o uso de preservativos, mesmo para relações orais e entre casais em que ambos [-s-]{+são HIV positivo. O uso de seringas descartáveis por usuários de drogas é outra medida importante para evitar a transmissão do vírus.  +}
+{++}
+{+Resumo+}
+{++}
+{+Quadro-resumo+}
+{+Tratamento 	- Tratamento para todos, independente do valor de CD4. Guardar esta recomendação;+}
+{+	- Esquema preferencial de tratamento: tenofovir, lamivudina e efavirenz, apresentação em dose fixa combinada (1 comprimido por dia);+}
+{+	- Conhecer bem os efeitos colaterais das drogas do esquema principal preconizado. Especial atenç+}ão [-HIV p-]{+a+}os{+ efe+}it[-iv-]o[-.-]{+s+} [-O-]{+do+} [-us-]{+tenof+}o{+vir+} {+(toxicida+}de [-se-]r[-i-]{+e+}n[-g-]a[-s-]{+l),+} [-d-]e[-sc-]{+ ef+}a[-rtá-]v[-e-]i[-s po-]r{+enz+} [-u-]{+(di+}s[-uá-]{+tú+}r{+b+}ios de [-dr-]{+son+}o{+–vi+}g{+íli+}a[-s é-]{+);+}
+{+	-+} [-outr-]{+S+}a[- m-]{+b+}e[-di-]{+r +}da{+s+} {+s+}i[-mpor-]t{+u+}a[-nt-]{+çõ+}e{+s+} {+es+}p[-ara -]e[-v-]{+c+}i[-t-]a[-r-]{+is+} [-a-]{+onde+} {+an+}t{+irretrovi+}ra[-nsm-]is{+ e+}s[-ã-]{+pecífic+}o{+s+} d[-o -]{+e+}v[-írus.  -]
+
+[-6. R-]e[-su-]m[-o-]
+
+[-Q-]{+ ser +}u{+tiliz+}ad[-r-]o[--re-]s[-u-]{+ (exe+}m{+pl+}o[-Tr-]{+: hep+}at[-amen-]{+i+}t[-o-]{+e+} [-	--]{+B+} [-Ent-]{+– pr+}e[-nd-]{+f+}er[- -]{+ên+}c[-omo se-]{+ia+} [-com-]p[-o-]{+a+}r[-t-]a a [-me-]{+dup+}l[-hor-]a [-d-]{+tenof+}o{+vir+} [-CD4-]{++ lamivudina+} com[- -]o [-tr-]{+p+}a{+r+}t[-am-]e[-nto;-]
+[-	--] [-C-]{+d+}o[-nhecer-] [-as condiçõ-]es[- -]que{+ma;+} in[-d-]{+sufic+}i{+ên+}c{+i+}a[-m-] [-t-]r[-atam-]en[-to;-]
+[-	--]{+al+} [-Ente-]{+prévia, o+}nde[-r-] [-quai-]s{+e+} [-são-]{+evita+} [-os-]{+TDF, etc.).+}
+{+Terapia+} antirretrovira[-is sug-]{+l	Sab+}er[-id-]{+ +}os [-p-]e[-lo Mini-]s[-tério da Saúd-]{+qu+}e[- par-]{+m+}a{+s+} in[-íc-]{+d+}i{+cad+}o{+s+} de [-tratamento;-]
+[-	--]{+2ª+} [-Conh-]e{+s+}c[-er -]o[- -]l[-oc-]{+h+}a[-l de-] [-açã-]{+n+}o [-de cada -]c[-l-]as[-se-]{+o+} d[-e -]a[-nt-]{+ +}i[-rretr-]{+mp+}o[-v-]{+ssib+}i[-ra-]l{+idade+} [-no-]{+de+} [-cicl-]{+us+}o do [-HIV.-]
+[-T-]e[-rapia antirr-]{+squ+}e[-trovir-]{+m+}a[-l	P-]{+ p+}rincipa[-is-]{+l+} {+d+}e[-feitos-] [-colaterais-]{+TDF+} [-das-]{+++} [-drogas-]{+3TC + EFZ.+}
+HIV e gestação	- [-E-]{+Tratame+}nt{+o da g+}e{+sta+}n{+te des+}de[-r-] [-a-]{+o+} in[-di-]{+í+}c{+io da gest+}ação [-de-]{+para+} {+nega+}t{+iva+}r{+ c+}a[-t-]{+rga viral o qu+}a[-me-]nto [-em gest-]antes;{++}
+	{+ +}- Conhecer os momentos d{+e m+}a{+ior risco de+} transmissão[-;-]
+[-	--] [-Sabe-]{+(ho+}r{+a+} {+d+}o[-s-] [-medic-]{+p+}a[-men-]{+r+}to[-s-] [-u-]{+e 3º +}t{+r+}i[-liz-]{+mestre);+}
+{+	- Gr+}a{+n+}d[-o-]{+e+}s [-co-]m[-o-]{+udanças na+} terapia [-i-]{+de gesta+}n{+tes. Efav+}i[-ci-]{+renz, que antes er+}a{+ vi+}l{+ão+} na gestação[-.-]
+
+[-Resp-]{+, ag+}o[-st-]{+r+}a[-s-]
+[-1. C-]
+[-2. C-]
+[-3.-] [-B-]
+
+[-Dic-]{+p+}a[-P-]{+ss+}a[-r-]{+ +}a [-f-]{+ser +}i[-x-]{+ndic+}a[-r-]{+do+} {+com+}o [-que-]{+1ª+} es[-tud-]{+c+}o[-u-]{+lha+} [-nest-]e{+m+} [-ca-]p[-ítulo, t-]{+aci+}e[-s-]{+n+}te[- -]s{+ virg+}e[-u-]{+n+}s [-conh-]{+d+}e[-ci-]{+ trata+}mento[-s-]{+,+} [-res-]{+com cof+}o{+rmu+}l[-vend-]{+açã+}o {+(TDF + 3TC + EFZ) par+}a[-s-] [-q-]{+a+}u{+m+}e[-s-]{+n+}t[-õ-]{+ar a ad+}es{+ão.+} [-refer-]{++}
+{++}
+{+R+}e[-n-]{+spos+}t[-e-]{+a+}s {+d+}a[-o-]{+s+} [-tema.-]
+[-Q-]{+q+}uestões[-: página-] [-XX-]
+[-C-]{+d+}o[-men-]{+ capí+}t[-ári-]{+ul+}o[-s:-]{++}
+{+1.+} [-página-]{+C+}
+{+2.+} [-XX-]{+C+}
+{+3. B+}
