@@ -1,0 +1,160 @@
+diff --git a/cardio1_4.txt b/cardio1_4.txt
+index b84b2f1..8017140 100644
+--- a/cardio1_4.txt
++++ b/cardio1_4.txt
+@@ -3,14 +3,14 @@ Jos
+Rodrigo Antônio Brandão Neto
+Fabrício Nogueira Furtado
+
+[-Resumo-]Este capítulo trata das emergências hipertensivas. É primordial, aqui, que se tenha bem clara a diferença entre urgência e emergência hipertensiva. As urgências hipertensivas caracterizam-se por níveis pressóricos elevados (PAS >200mmHg e/ou PAD >120mmHg), sem sinais de lesão de órgãos-alvo ou piora de lesão prévia.[- -]{++}
+Drogas orais podem ser realizadas, como os benzodiazepínicos e analgésicos[-,-]{+ para controle de fatores desencadeantes da elevação da pressão arterial como ansiedade ou dor+} ou anti-hipertensivos como os inibidores da enzima conversora da angiotensina caso a [-PA-]{+pressão arterial+} se mantenha elevada. Já nas emergências, é obrigatória a presença de sofrimento teci{+-+}dual de órgãos-alvo, com risco iminente de vida, não obrigatoriamente associado a altos níveis pressóricos. O tratamento indicado é a infusão de drogas intravenosas, como o nitroprussiato de sódio. Torna-se fundamental, aqui, que o [-alun-]{+médic+}o consiga diferenciar as prin[---]cipais causas de emergência hipertensiva, ficando atento aos seguintes achados, rotineiros nas provas de Residência: alterações da consciência, déficits neurológicos e papiledema indicativos de encefalopatia hiperten{+-+}siva; presença de papiledema e hemorragias isoladas indicativas de hipertensão acelerada maligna; dor isquêmica com alterações no ele[---]trocardiograma que sugiram síndrome coronariana aguda; dor torácica dorsal, assimetria de pulsos e alargamentos do mediastino indicativos de dissecção aórtica; ou congestão pulmonar, B3 e hipóxia sugestivos de edema agudo de pulmão. Uma vez diagnosticada a causa, a conduta dirigida deverá ser feita, porém isso será visto com mais deta{+-+}lhes nos capítulos em que cada uma dessas doenças aparece separadamente.
+
+1. Definição
+
+As emergências caracterizam-se pela presença de sofrimento tecidual de órgãos-alvo, com risco iminente de vida, em ge-ral, mas não necessariamente associado a altos níveis pressóricos. Frequentemente, os valores pressóricos encontrados são significativamente elevados, mas não são eles que definem a condição de emergência, e sim a lesão [-d-]e{+m+} órgão-alvo e o risco iminente de vida. É o caso da encefalopatia hipertensiva, da cardiopatia isquêmica, do edema agudo de pulmão, da dissecção de aorta e do A{+cidente Vascular Encefálico (A+}V[-C-]{+E)+}, situações de gravidade clínica acentuada. O tratamento deve ocorrer no ambiente da sala de emergência ou da terapia intensiva, com a infusão de drogas intravenosas, como o nitroprussiato de sódio. {+Nesta condição, a pressão arterial média deve ser gradualmente reduzida em cerca de 10 a 20% na 1ª hora e em mais 5 a 15% durante as próximas 23 horas. +}É o caso da encefalopatia hiper[---]tensiva, da cardiopatia isquêmica, do edema agudo de pulmão, da dissecção de aorta e do AV[-C-]{+E+} hemorrágico.{+ +}
+
+Tabela 1 - Principais causas de emergências e urgências hipertensivas{+ +}
+Emergências hipertensivas
+Neurológicas
+- Encefalopatia hipertensiva;
+@@ -18,7 +18,6 @@ Neurol
+- Hemorragia subaracnóidea.
+Cardiovasculares
+- Dissecção aguda de aorta;
+[-- Infarto agudo do miocárdio;-]
+- Edema agudo de pulmão;
+- Síndromes coronarianas agudas.
+Crises adrenérgicas graves
+@@ -28,20 +27,20 @@ Associadas a gesta
+- Eclâmpsia;
+- Hipertensão maligna e acelerada (considerar emergência).
+Urgências hipertensivas
+Hipertensão associada a[-:-]
+- Insuficiência coronariana crônica;
+- I[-C-]{+nsuficiência cardíaca+};
+- Aneurisma de aorta;
+- AV[-C-]{+E+} isquêmico (prévio);
+- Glomerulonefrites agudas;
+- Pré-eclâmpsia.
+
+As urgências hipertensivas caracterizam-se por níveis pressóricos elevados, geralmente com níveis de P{+ressão Arterial Sis-tólica (P+}AS{+)+} >200mmHg e/ou P{+ressão +}A{+rterial +}D{+iastólica (PAD)+} >120mmHg, sem sinais evidentes de lesão [-d-]e{+m+} órgãos-alvo ou piora de lesão prévia. {+São considerados em urgência hipertensiva os pacientes relativamente assintomáticos com hipertensão grave (PAS =180 e/ou PAD =120), muitas vezes com cefaleia, mas sem lesão de órgão-alvo aguda. +}As drogas podem ser admi{+-+}nis[---]tradas pela via oral, e utilizam-se benzodiazepínicos para ansiedade e analgésicos para dor. Caso não haja controle da PA com essas medidas, podem-se utilizar bloqueadores dos canais de cálcio, betabloqueadores, diuréticos de alça e [-I-]{+i+}nibidores da [-E-]{+e+}nzima [-C-]{+c+}onversora de [-A-]{+a+}ngiotensina[- (IECAs)-].
+A seguir, um breve relato a respeito de algumas patologias.
+
+Pergunta
+2015 - UERJ
+1. João, de 72 anos, hipertenso de longa data, em uso irregular de medicação, traz seu amigo Carlos à unidade de Saúde da Família onde é cadastrado. Carlos, de 70 anos, apresenta náuseas, tonturas, cefaleia intensa, dificuldade de fala, fraqueza no dimídio direito e PA = 170x160mmHg. Enquanto Carlos é consultado, a enfermeira avalia João. Ela relata ao médico que ele está assintomático, apesar da PA = 180x110mmHg. Sobre as impressões diagnósticas e a conduta relacionada a esses paci[---]entes, é correto afirmar que: 
+a) João apresenta elevação da PA, e Carlos uma emergência hipertensiva: João deverá ser submetido a redução rápida da PA
+b) Carlos e João apresentam emergência hipertensiva e devem ser acompanhados na própria unidade com anti-hipertensivos orais
+c) João apresenta elevação da PA, e Carlos, emergência hipertensiva, devendo ser transferido rapidamente para Unidade de Pronto Atendimento
+@@ -49,11 +48,13 @@ d) Carlos e Jo
+Resposta no final do capítulo
+
+2. Dissecção aguda de aorta
+{++}
+A dissecção de aorta é classificada em tipo A, se envolve a aorta ascendente, e tipo B, se não a envolve. Em geral, as dis-secções proximais (tipo A) acontecem em indivíduos com anormalidades do colágeno (por exemplo, síndrome de Marfan), e as dissecções distais (tipo B), naqueles com H{+ipertensão Arterial Sistêmica (H+}AS{+)+} de longa data. As dissecções tipo A respon{+-+}dem melhor ao tratamento cirúrgi[---]co, enquanto as do tipo B ao tratamento clínico, embora ambas devam ser estabilizadas com tratamento clínico emergencial. 
+{++}
+ 
+Figura 1 - Dissecções de aorta: (A) ascendente e (B) descendente{+ – classificação de Stanford+}
+
+O quadro clínico manifesta-se por dor torácica severa, de início agudo, quase sempre anterior (retroesternal), irradiando-se frequentemente para o dorso (interescapular, inicialmente) e algumas vezes para o abdome, acompanhada de sintomas adrenérgicos. Essa apresentação ocorre em 90% dos casos e se deve à dissecção propriamente dita. Complicações da dissec-ção podem produzir outros sintomas, como síncope, sintomas neurológicos focais, sinais de isquemia em outros órgãos, [-IC-]{+insu-ficiência cardíaca+}, tamponamento cardíaco e paraplegia. 
+Ao exame físico, o paciente parece estar em choque, mas a PA quase sempre está elevada. Os pulsos podem apresentar-se assimétricos, e a PA medida em ambos os braços pode apresentar diferença significativa. É possível ouvir sopro de regurgi-tação aórtica, podendo-se encontrar sinais de tamponamento cardíaco e derrame pleural.
+O eletrocardiograma pode mostrar sinais de hipertrofia ventricular esquerda decorrente da HAS crônica, ser normal ou, eventualmente, mostrar isquemia miocárdica aguda, predominantemente nas derivações inferiores, quando a dissecção en-volve o óstio coronariano direito. Já a radiografia de tórax pode mostrar alargamento do mediastino e contorno aórtico anor-mal; é possível encontrar, ainda, sinais de derrame pericárdico e pleural. O exame normal não afasta o diagnóstico.
+O diagnóstico final pode ser obtido com angiotomografia de tórax ou ecocardiograma transesofágico (sensibilidade de 98%), eventualmente, com ressonância ou angiografia. O ecocardiograma transtorácico também pode ser usado, porém apre-senta sensibilidade menor (75% para dissecções do tipo A e apenas 40% para dissecções do tipo B). Para pacientes instáveis, deve-se utilizar o ecocardiograma transtorácico e, se não diagnosticada a dissecção, o transesofágico. 
+@@ -61,38 +62,47 @@ O principal fator que determina o risco de dissec
+Assim, o tratamento clínico deve incluir, simultaneamente, a redução da PAS (para próximo de 100 a 110mmHg) e a do fluxo aórtico pulsátil (dP/dT), o que pode ser obtido com um anti-hipertensivo de ação rápida, como o nitroprussiato de sódio, e de um betabloqueador parenteral, como o propranolol ou o metoprolol, para atingir a frequência cardíaca de 60bpm. É importante lembrar que o betabloqueador associado a vasodilatador é imprescindível, uma vez que o uso de vasodilatador isoladamente pode levar a taquicardia reflexa, aumentando a dP/dT e produzindo resultados deletérios ao paciente. O pro-pranolol pode ser usado na dose de 0,15mg/kg, iniciando-se com 1 a 2mg IV em 5 minutos, e repetindo-se a dose conforme necessário. Pode-se utilizar o metoprolol (Seloken®), iniciando-se com 5mg a cada 3 a 5 minutos para atingir a frequência cardíaca necessária (em geral, 15mg). É importante lembrar o alívio da dor, que pode ser alcançado com morfina, em doses de 3 a 6mg IV, até atingir analgesia adequada. 
+
+Diagnóstico
+São métodos de imagem para o diagnóstico de dissecção de aorta: eco transesofágico, angiotomografia de tórax e arterio{+-+}gra[---]fia.
+
+Pergunta
+2015 - UNICAMP
+2. Um homem de 78 anos refere que não está conseguindo controlar a PA há 3 meses. Antecedentes pessoais: tabagista, hipertenso há 20 anos, em uso de hidroclorotiazida. Exame físico: corado, hidratado, com FC = 72bpm e PA = 168x112mmHg. Pescoço: sopro audível na topografia da carótida direita. Coração: ausculta cardíaca sem alterações. Ex{+-+}tre[---]midades: pulsos pedioso e radial esquerdos diminuídos. A propedêutica diagnóstica a ser realizada é:
+a) ecocardiograma
+b) ultrassonografia com Doppler do membro inferior esquerdo
+c) angiotomografia de aorta
+d) Monitorização Ambulatorial da Pressão Arterial (MAPA)
+Resposta no final do capítulo
+
+3. Encefalopatia hipertensiva{+ +}
+{++}
+{+Importante +}
+{+O principal diagnóstico diferencial é com AVE hemorrágico, que se diferencia clinicamente por apresentar evolução súbita. Na dúvida, realizar tomografia de crânio que pode evidenciar edema da substância branca na região parieto-occipital (co-nhecida como PRESS – síndrome da leucoencefalopatia posterior), condição reversível após o controle pressórico.+}
+
+O fluxo sanguíneo cerebral é autorregulado dentro de limites específicos. Em normotensos, o fluxo sanguíneo cerebral permanece constante entre PA média de 60 a 120mmHg. Quando esta ultrapassa o limite superior da capacidade de autorre-gulação do fluxo sanguíneo, há a hiperperfusão cerebral, levando a disfunção endotelial, quebra da barreira hematoencefáli-ca com aumento da permeabilidade, edema cerebral e micro-hemorragias. Em normotensos, sinais de encefalopatia podem ocorrer com PA tão baixa quanto 160x100mmHg, enquanto indivíduos com HAS de longa data, por terem sua curva de autor-regulação desviada para a direita, podem não ter sinais e sintomas de encefalopatia com PA = 220x110mmHg ou maior. 
+A encefalopatia hipertensiva pode ser definida como uma síndrome cerebral orgânica aguda que resulta da falência do li[---]mite superior da autorregulação vascular cerebral. Clinicamente, caracteriza-se por início agudo ou subagudo de letargia, confusão, cefaleia, distúrbios visuais (incluindo amaurose) e convulsões (podem ser focais, generalizadas ou focais com gene-ralização). Em geral, a encefalopatia está associada [-à-]{+a+} HAS não tratada ou subtratada. Uma série de outras circunstâncias pode estar associada [-à hipertensão arteri-]a[-l-]{+ HAS+}, como doença renal, terapia imunossupressora, uso de eritropoetina, púrpura tromboci[---]topênica trom{+-+}bótica ou eclâmpsia.
+O exame de fundo de olho é obrigatório, devendo-se procurar por papiledema, hemorragias e exsudatos. Deve-se reali{+-+}zar tomografia de crânio para diagnóstico diferencial com AV[-C-]{+E+}. Em geral, a encefalopatia hipertensiva não produz sintomas neuro[---]lógicos focais, ao contrário dos AV[-C-]{+E+}s isquêmicos e hemorrágicos. 
+O tratamento pode ser realizado com nitroprussiato de sódio e anticonvulsivantes (fenitoína ou benzodiazepínicos), em caso de convulsões. Na 1ª hora de tratamento, o objetivo é reduzir em cerca de 20% a PA média ou uma PAD de 100mmHg (atingindo o valor mais alto dessas 2 opções). Deve-se ter muito cuidado com hipertensos de longa data e idosos, em quem a redução abrupta da PA pode causar isquemia cerebral por redução significativa do fluxo sanguíneo cerebral. Em caso de piora do estado neurológico, deve-se suspender ou reduzir a infusão do anti-hipertensivo. 
+{+O principal diagnóstico diferencial da emergência hipertensiva é o AVE hemorrágico, que se diferencia clinicamente por apresentar evolução súbita e déficit focal de forma mais frequente. Na dúvida, é adequada a realização de tomografia de crânio.+}
+
+4. Hipertensão maligna
+{++}
+A hipertensão maligna caracteriza-se por necrose fibrinoide das arteríolas e proliferação miointimal das pequenas arté{+-+}rias, manifestadas por neurorretinopatia e doença renal. É incomum nos dias de hoje, ocorrendo em, aproximadamente, 1% dos hipertensos. Sua mortalidade, se não tratada adequadamente, chega a 90% em 1 ano. Clinicamente, caracteriza-se por hiper[---]tensão e alterações de fundo de olho da retinopatia (graus I e II), sempre associados ao papiledema (grau III). Além disso, pode haver:
+Sintomas gerais: astenia, mal-estar, fadiga e perda de peso são muito frequentes;
+Sintomas cardiovasculares: [-ICC-]{+insuficiência cardíaca congestiva+} (apresentação inicial em 11% dos pacientes) e doença coro{+-+}nariana;
+Sintomas neurológicos: cefaleia, tontura, encefalopatia hipertensiva e AV[-C-]{+E+}s. 
+O envolvimento renal é comum, varia em gravidade e pode variar de proteinúria não nefrótica a franca perda de função renal. Há creatinina acima de 2,3mg/dL em 31% dos pacientes na apresentação. O tratamento da hipertensão maligna deve ser realizado prontamente, entretanto pode variar na dependência da forma de apresentação. Assim, naqueles com hiper{+-+}ten[---]são maligna não complicada (sintomas gerais, como papiledema, mas sem grande perda de função renal ou sintomas car{+-+}dio[---]vasculares ou neurológicos importantes), pode-se considerá-la uma urgência hipertensiva, e a redução da PA é possível mais lentamente ao longo de 24 a 48 horas, com anti-hipertensivos orais. Contudo, se a hipertensão maligna é complicada por outras emergências, como insuficiência coronariana aguda, edema agudo de pulmão ou encefalopatia hipertensiva, deve-se considerá-la uma verdadeira emergência hipertensiva e devem-se usar medicações parenterais, como o nitroprussiato de sódio, com o cuidado de não reduzir excessiva e abruptamente a PA. Deve-se estar atento, ainda, ao balanço hidroeletrolítico e à função renal, pois a depleção volêmica é muito comum entre esses pacientes.
+
+5. Edema agudo de pulmão
+{++}
+O edema agudo de pulmão comumente se apresenta com o paciente dispneico, cianótico e agitado, evoluindo com rápida deterioração para torpor, depressão respiratória e, eventualmente, apneia com parada cardíaca. Ele apresenta um diagnósti-co essencialmente clínico. O edema agudo hipertensivo deve ser tratado imediatamente com nitroglicerina ou nitroprussiato [-sublingual-], furosemida e morfina por via venosa. O paciente deve estar sentado, preferencialmente com as pernas pêndulas para fora da maca. O uso de ventilação mecânica não invasiva tem se mostrado uma das medidas mais importantes para a resolução dos sintomas. O anti-hipertensivo a ser usado geralmente recai sobre o nitroprussiato. Prefere-se nitroglicerina venosa em coro{+-+}nariopatas ou se a PA não for exageradamente elevada (pode-se usar arbitrariamente uma pressão sistólica inferior a 180mmHg como critério). Entre portadores de estenose mitral com boa função ventricular, pode ser usado beta[---]bloqueador por via venosa.
+
+6. Síndrome coronariana aguda
+[-Tratando especificamente do controle pressórico, inicialmente é feito nitrato sublingual, seguido de morfina por via veno-sa caso a dor não cesse. Após a obtenção de acesso venoso, deve ser administrado betabloqueador até que a frequência cardíaca seja reduzida para que, em seguida, a nitroglicerina seja administrada continuamente, com velocidade titulada para que se consiga reduzir a PA em até 30%. Não se deve buscar redução mais brusca, sob pena de reduzir a perfusão coronaria-na. Também não é objetivo deste capítulo abordar detalhes de como tratar as síndromes coronarianas agudas, apenas de-monstrar o arsenal disponível para o controle pressórico nesses casos. O IECA pode ser medicação importante para esses pacientes, mesmo que fiquem normotensos, por atuarem favoravelmente no processo de remodelação ventricular. No entan-to, é o último dos anti-hipertensivos aqui expostos a ser introduzido, uma vez que seus benefícios ocorrem em longo prazo e as medicações já descritas são mais importantes no controle agudo do quadro álgico. Por isso, só deve ser administrado após a estabilização do quadro clínico e, pelo menos, 6 horas do início do evento agudo.-]
+
+{+Tratando especificamente do controle pressórico, inicialmente é feito nitrato sublingual, seguido de morfina por via veno-sa caso a dor não cesse. Após a obtenção de acesso venoso, deve ser administrado betabloqueador até que a frequência cardíaca seja reduzida para que, em seguida, a nitroglicerina seja administrada continuamente, com velocidade titulada para que se consiga reduzir a PA em até 30%. Não se deve buscar redução mais brusca, sob pena de reduzir a perfusão coronaria-na. Também não é objetivo deste capítulo abordar detalhes de como tratar as síndromes coronarianas agudas, apenas de-monstrar o arsenal disponível para o controle pressórico nesses casos. O inibidor da enzima conversora de angiotensina pode ser medicação importante para esses pacientes, mesmo que fiquem normotensos, por atuarem favoravelmente no processo de remodelação ventricular. No entanto, é o último dos anti-hipertensivos aqui expostos a ser introduzido, uma vez que seus benefícios ocorrem em longo prazo e as medicações já descritas são mais importantes no controle agudo do quadro álgico. Por isso, só deve ser administrado após a estabilização do quadro clínico e, pelo menos, 6 horas do início do evento agudo.+}
+{++}
+7. Acidente vascular encefálico{+ +}
+
+É bastante comum encontrar PA elevada na vigência de A[-cidente Vascular Encefálico (A-]VE[-)-], o que quase sempre deixa dú[---]vida se essa PA foi causa ou consequência do evento cerebral. A maioria desses pacientes não precisa de qualquer tratamen[---]to para controle pressórico, pois, uma vez controladas a dor, a ansiedade e a agitação, a PA tenderá a ficar próxima de valores normais. A hipertensão nessa fase aguda pode ter um efeito benéfico em proteger a perfusão cerebral para áreas em pe[---]numbra. No entanto, em algumas condições, faz-se necessário tratamento. Seguindo as recomendações padronizadas pela American Heart Association, com pequenas adaptações, sugere-se o uso de nitroprussiato quando PA >180x110mmHg em pacientes com AVE hemorrági{+-+}co ou AVE isquêmico candidatos a trombólise. Os pacientes com AVE isquêmico, salvo os que preenchem critérios para trom{+-+}bólise, via de regra, devem ser tratados como urgências hipertensivas, com oferta inicial de alívio da dor e da ansiedade. Se esses 2 fatores são controlados e ainda assim o paciente apresenta PA >220x120mmHg, pode-se fazer uso do nitroprussiato para reduzir a PA entre 10 e 20% em 24 horas. A PA geralmente declina espontaneamente aos níveis anteriores ao AVE is{+-+}quêmico em 4 dias, sem qualquer tratamento anti-hipertensivo. Na hemorragia subaracnóidea, valem as mesmas sugestões feitas quanto ao tratamento do AVE hemorrágico, com a particularidade de que o nimodipino deve ser o 1º fármaco a fazer parte do arsenal terapêutico nessa condição, pois reduz o risco de infarto cerebral associado a vaso-espasmo. Em qualquer condição de AVE, a piora neurológica associada a redução da PA deve ser tratada com redução ou mesmo suspensão da ad{+-+}ministração do nitroprussiato.
+
+Dica
+A diferença entre a hipertensão arterial acelerada e a maligna é a presença de edema de papila ótica na oftalmoscopia nesta última.
+@@ -100,46 +110,43 @@ A diferen
+Tabela 2 - Achados de história e exame físico das diferentes emergências hipertensivas
+Emergências 
+hipertensivas	Anamnese	Exame físico	Comentários
+Edema agudo de pulmão	- Paciente angustiado e com dificulda{+-+}de para falar;
+- Geralmente, já apresenta algum grau de disfunção ventricular.	- Estertores pulmonares; 
+- Baixa saturação de oxigênio;
+- B3 e/ou B4; 
+- Pode ter estase de jugulares (não é obrigatório).	Às vezes, podem ocorrer sibi{+-+}los importantes, deixando dú{+-+}vidas com o diagnóstico dife{+-+}rencial de asma. 
+Síndrome coronaria{+-+}na agu[---]da 	- Dor ou sensação de opressão precor{+-+}dial; 
+- Pode ser acompanhada de náuseas, dispneia e sudorese fria.	- B4 presente; 
+- Pobres achados propedêuti{+-+}cos geralmente.	A caracterização minuciosa da dor é a etapa mais importante na investigação da síndrome. 
+Dissecção aguda de aorta	Dor lancinante, que pode ser precor{+-+}dial ou irradiar-se para as costas 	- Pode ter pulsos assimétricos; 
+- Pode ter sopro diastólico no foco aórtico.	É fundamental diferenciar de síndrome coronariana aguda. 
+Encefalopatia hiper{+-+}tensiva	Letargia, cefaleia, confusão, distúr{+-+}bios visuais e convulsões, todos com início agudo ou subagudo	Possivelmente, sem qualquer achado ao exame físico 	Usualmente, é necessário ex{+-+}clu[---]ir AV[-C-]{+E+} com tomografia. 
+Hipertensão maligna	Astenia, mal-estar, oligúria, sintomas vagos cardiovasculares e/ou neuroló{+-+}gicos 	Fundo de olho: papiledema 	Potencialmente fatal, seu di{+-+}ag[---]nóstico rápido só é possível com exame de fundo de olho. 
+Isquemi{+-+}as/hemorragias ce{+-+}rebrais	Súbita alteração neurológica (geral{+-+}men[---]te, motora ou sensitiva) 	[-Dependê-]{+Si+}n{+ais lo+}c{+al+}i{+z+}a[- de ven-]t{+ór+}i[-l-]{+os +}a[-çã-]o {+exa+}me[-câ-]{+ +}n{+eurológ+}ic[-a -]{+o+}	O diagnóstico diferencial é fei{+-+}to com várias outras condições clínicas, como hipo ou hiper{+-+}gli[---]cemia. 
+Eclâmpsia	Gestante após a 20ª semana de ges{+-+}tação ou até a 6ª semana após o par{+-+}to 	HAS e convulsões 	O diagnóstico prévio é de pré-eclâmpsia e desenvolve con{+-+}vul[---]sões.
+
+Tabela 3 - Drogas para uso em emergências hipertensivas
+Medicamentos	Doses	Início	Duração	Efeitos adversos {++}
+e precauções	Indicações
+Nitroprussiato de só{+-+}dio (vasodilatador arterial e venoso)	0,25 a 10[-m-]{+µ+}g/kg/min IV	Imediato	1 a 2 
+minutos	Náuseas, vômitos, intoxicação por cianeto (cuidado na insufi{+-+}ciência renal e hepática e na pressão intracraniana alta; hipotensão grave)	Maioria das emer-gências hipertensi{+-+}vas
+Nitroglicerina (vaso{+-+}dila[---]tador arterial e venoso)	5 a 100[-m-]{+µ+}g/min IV	2 a 5 
+minutos	3 a 5 
+minutos	Cefaleia, taquicardia reflexa, taquifilaxia, flushing, meta-hemoglobinemia	Insuficiência coro{+-+}na[---]riana; insufici{+-+}ência ventricular esquerda
+Hidralazina (vasodila{+-+}ta[---]dor de ação direta)	10 a 20mg IV ou 10 a 40mg IM de 6/6h	10 a 30 
+minutos	3 a 12 ho{+-+}ras	Taquicardia, cefaleia, vômitos. Piora da angina e do infarto (cui[---]dado com pressão intra{+-+}craniana elevada)	Eclâmpsia
+Metoprolol (bloquea{+-+}dor beta-adrenérgico seleti[---]vo)	5mg IV (repetir de 10/10min, se necessá{+-+}rio até 20mg)	5 a 10 mi{+-+}nutos	3 a 4 horas	Bradicardia, bloqueio atrioven{+-+}tri[---]cular avançado, [-IC-]{+insuficiência cardíaca+}, broncoespas[---]mo	Insuficiência coro{+-+}na[---]riana; dissecção aguda de aorta (em combinação com nitroprussiato de sódio)
+Esmolol (bloqueador beta-adrenérgico se{+-+}leti[---]vo de ação ultrar{+-+}rápida)	Ataque: 500µ/kg; infu{+-+}são intermitente: 25 a 50µ/kg/min; 
+? 25µ/kg/min cada 10 a 20min; máximo: 300µg/kg/min	1 a 2 minu{+-+}tos	1 a 20 mi{+-+}nutos	Náuseas, vômitos, bloqueio atrio[---]ventricular de 1º grau, espasmo brônquico, hipoten{+-+}são	Dissecção aguda de aorta (em com{+-+}bina[---]ção com nitro{+-+}prussia[---]to de só{+-+}dio); hiper[---]tensão pós-operatória grave
+Furosemida (diuréti{+-+}co)	20 a 60mg (repetir após 30 minutos)	2 a 5 minu{+-+}tos	30 a 60 minutos	Hipopotassemia	Insuficiência ven{+-+}tricu[---]lar esquerda; situa[---]ções de hiper{+-+}volemia
+Fentolamina (bloque[-a-]-{+a+}dor alfa-adrenérgico)	Infusão contínua: 1 a 5mg; máximo: 15mg	1 a 2 minu{+-+}tos	3 a 5 mi{+-+}nu[---]tos	Taquicardia reflexa, flushing, tontura, náuseas, vômitos	Excesso de cateco{+-+}la[---]minas
+[-8. -]
+Resumo
+
+Quadro-resumo{+ +}
+{+De forma geral, a urgência hipertensiva não cursa com lesão aguda em órgão-alvo. +}
+ 
+
+Respostas{+ das questões do capítulo+}
+1. C
+2. C[--]
+[--]
+[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
