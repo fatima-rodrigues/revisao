@@ -1,0 +1,209 @@
+diff --git a/cirtrauma_10.txt b/cirtrauma_10.txt
+index 567e971..b98e744 100644
+--- a/cirtrauma_10.txt
++++ b/cirtrauma_10.txt
+@@ -1,9 +1,8 @@
+Queimaduras
+André Oliveira Paggiaro[- -]
+Eduardo Bertolli
+
+[-Resumo-]Neste capítulo, serão abordadas as peculiaridades no atendimento ao grande queimado. O paciente queimado deve ser considerado politraumatizado e seu atendimento, seguir os passos do Advanced Trauma Life Support (ATLS®), consi{+-+}derando em cada etapa as peculiaridades desse atendimento ao paciente queimado [-como vi-]a[- aérea defini-]t[-iva precoce pelo risco de edema causado por queimadura da via a-]é[-rea,-] [-reposição volêmi-]c[-a mais agressiva devido à perda d-]{+h+}e[- líquido p-]{+g+}ar[-a o-] [-3º espaço-]{+à+} {+n+}e[- -]c[-álculo da -]e[-xten-]s[-ão e profundidade da le-]s[-ão, que influirão d-]i[-retamente na con-]d[-ut-]a[-, na hi-]d[-ratação -]e [-n-]{+d+}o enca{+-+}minhamento para o centro de queimaduras. Esses pacientes podem ter traumas associados de diversas naturezas, de modo que o assunto pode ser cobrado de inúmeras maneiras[-, chegando a 12% das questões de Cirurgia do Trauma-] nos concursos médicos.
+
+1. Introdução
+
+@@ -15,7 +14,8 @@ A principal classifica
+
+ 
+Figura 1 - Estrutura da pele
+
+ {+      +}
+Figura 2 - Camadas da pele: (A) superficial; (B) média; (C) profunda; queimaduras da pele em (D) 1º, (E) 2º e (F) 3º graus
+
+Outra maneira de dividir as queimaduras são os graus (Tabela 1). 
+@@ -36,7 +36,7 @@ Tabela 1 - Graus de queimadura
+- A cicatrização é mais lenta (de 2 a 4 semanas);
+- Pode deixar sequelas como discromia (superficial) e cicatriz (profunda).
+3º grau
+- Acomete todas as camadas da pele, inclusive o subcutâneo, podendo lesar tendões, ligamentos, ossos e músculos;{+ +}
+- É indolor;
+- Causa lesão branca ou marrom, seca, dura e inelástica (branca nacarada);
+- Não há regeneração espontânea, necessitando de enxertia;
+@@ -48,8 +48,7 @@ Figura 3 - Graus de queimadura
+
+Tabela 2 - Zonas de lesão nas queimaduras causadas pelo calor 
+Coagulação central	São tecidos do centro da queimadura que estão inviáveis, com lesão irreversível.
+Estase{+ +}intermediária	Caracteriza-se inicialmente por dilatação dos vasos sanguíneos e difusão capilar. Depois de 24 a 48 horas, os capilares dilatados são obstruídos, resultando na conversão desses tecidos na zona de coagu[---]lação, cuja lesão pode ser reversível com tratamento apropriado: resfriamento, reposição de líquidos e cuidados intensivos.
+Hiperemia externa	É formada por tecidos edemaciados viáveis.
+
+3. Fisiopatologia das lesões térmicas
+@@ -62,8 +61,8 @@ Figura 4 - Fisiopatologia das les
+A - Alterações hemodinâmicas
+Logo após a lesão térmica, predominam as alterações no sistema cardiovascular. Com a liberação de substâncias vasoativas a partir da área traumatizada, há modificação nas relações de pressão transvasculares com a permeabilidade capilar, promo-vendo a perda de líquidos e proteínas para o extravascular, com consequente hipotensão. Clinicamente, esse fato se eviden-cia pelo edema, que costuma atingir o seu pico entre 36 e 48 horas. Inicialmente, o débito cardíaco diminui proporcional-mente ao tamanho da queimadura, em associação ao aumento da resistência vascular periférica. 
+
+[-Quadr-]{+Imp+}o[- clí-]{+rta+}n[-ico-]{+te+}
+Se não é realizada reposição hídrica adequada após a lesão térmica, o quadro de desidratação e perda de líquido para o 3º espaço aumenta o risco de choque hipovolêmico, podendo ser agravado pela perda contínua de água pela superfície quei[---]mada, além de levar à redução da perfusão renal, com evolução para oligúria e insuficiência renal aguda.
+
+B - Alterações hematológicas
+Além da perda de plasma inicial, há destruição imediata de eritrócitos em proporção direta com a extensão da queimadu-ra. Há uma perda contínua variável, entre 8 e 12% da massa eritrocitária por dia, a partir do efeito da lise de células lesadas pelo calor e pela trombose microvascular nas áreas de tecido lesado que sofreram necrose. Outro fator atribuído à redução dos eritrócitos é o desvio do metabolismo proteico, favorecendo a construção de uma nova pele, em detrimento da formação de novas hemácias.
+@@ -74,8 +73,8 @@ No in
+D - Alterações gastrintestinais
+No início da lesão, o trato gastrintestinal responde com um quadro de íleo paralítico, principalmente com queimaduras de mais de 25% da Superfície Corpórea Queimada (SCQ). Após o 3º até o 5º dia, há um retorno da motilidade gastrintestinal. 
+
+[-Dic-]{+Import+}a{+nte+}
+Um risco comum do grande queimado é o desenvolvimento de lesões das mucosas gástrica e duodenal, secundárias a is[---]quemia focal, com risco de desenvolvimento de úlceras de Curling, adicionando a chance de hemorragia digestiva.[- -]
+
+E - Alterações imunológicas
+Atualmente, a principal causa de morte do paciente grande queimado são as infecções. Além da perda da barreira mecâ-nica natural da pele, a presença de tecido necrótico favorece a colonização por micro-organismos e as secreções do exsuda-to contêm determinados fatores imunológicos que geram depressão desse sistema, tanto celular quanto humoral. 
+@@ -84,14 +83,14 @@ Atualmente, a principal causa de morte do paciente grande queimado s
+
+A gravidade de uma queimadura é determinada pela temperatura e pelo tempo de exposição à fonte de calor. Sempre que estamos diante de um queimado, é essencial determinar a fonte (líquido quente, substância química, chama etc.), a dura-ção e a localização da exposição (ambiente aberto ou fechado, possibilidade de inalação) e os mecanismos de lesões associa-dos (explosão, queda). Esses fatores em conjunto influem diretamente no prognóstico e indicam os cuidados necessários para o tratamento. 
+
+[-T-]{+Impo+}r[-a-]ta[-me-]nt[-o-]{+e+}
+O paciente queimado deve ser considerado politraumatizado, e o seu atendimento deve seguir a padronização do Ad{+-+}vanced Trauma Life Support (ATLS®), observando prioritariamente a manutenção de uma via aérea pérvia e a estabilidade hemodi[---]nâmica. Em cada uma das etapas de atendimento do politraumatizado com queimaduras, existem especificidades a serem pesquisadas, o que exige cuidados especiais.[- -]
+
+A - Via aérea e proteção da coluna cervical
+A hipóxia é a causa mais frequente de morte por incêndio, corresponde a 50% das mortes na cena da queimadura e deve ser tratada e prevenida em todas as vítimas de incêndio. A intoxicação por CO resulta na formação de carbo-hemoglobina (HbCO), com afinidade pela hemoglobina 200 vezes maior do que o O2. Deste modo, causa desvio da curva de dissociação de O2 para a esquerda, facilitando a liberação de O2. O paciente evolui com cefaleia, náuseas ou vômitos, acidose, sonolência e até coma. A oximetria de pulso não é confiável. O tratamento consiste em administrar O2 a 100%, tendo como objetivo redu-zir HbCO para <20%.
+
+Tratamento
+Ao paciente queimado é fundamental a atenção aos riscos de obstrução das vias aéreas. Geralmente, os pacientes que so[---]freram queimaduras em lugares fechados, com inalação de fumaça ou gases tóxicos, apresentam risco de lesão inalató{+-+}ria e de evoluir com obstrução da via aérea alta por edema progressivo. Deve-se considerar indicação precoce de via aérea defi[---]nitiva em pacientes com sinais de lesão térmica das vias aéreas, mesmo que estejam conscientes.
+
+Pergunta
+2014 - PUC-RS
+@@ -104,16 +103,16 @@ e) analgesia com opioides
+Resposta no final do capítulo
+
+A lesão térmica das vias aéreas superiores está associada às queimaduras de face e tórax. O quadro clínico sugestivo é de edema de face, estridor, roncos e queimaduras de vibrissas nasais. A obstrução da via aérea pode ocorrer nas primeiras 2 a 4 horas após a queimadura ou um pouco mais tardiamente, após hidratação. Por isso, é recomendado manter o paciente em observação de 24 a 36 horas. Deve-se manter o máximo de atenção aos sinais e sintomas. Na suspeita, a intubação orotra-queal (IOT) precoce é o tratamento de escolha, antes que se desenvolva edema progressivo com a obstrução completa da via aérea. Quando há dificuldade, pode-se utilizar a broncoscopia com visão direta, mas esse procedimento não deve retardar a via aérea definitiva em caso de dúvida. Após 2 a 3 dias, o edema geralmente diminui. Os indicadores clínicos dessa resolução incluem capacidade do paciente de abrir os olhos, visualização da anatomia externa do pescoço, principalmente da cartilagem tireoide e da borda anterior do músculo esternocleidomastóideo, e capacidade de ventilar com o balão de tubo endotraqueal desinsuflado. A traqueostomia reserva-se a pacientes que necessitem de mais de 2 a 3 semanas de intubação. A cricotireoi-dostomia permite o acesso na urgência em adultos, sendo indicada em último caso às crianças.
+Nas lesões de via aérea baixa ou por inalação, ocorre uma pneumonite química cujo quadro clínico é semelhante ao da [-S-]{+s+}índrome da [-A-]{+a+}ngústia [-R-]{+r+}espiratória no [-A-]{+a+}dulto[- (SARA)-]. Os produtos químicos presentes na composição do agente inalado cau[---]sam inten{+-+}sa reação inflamatória com fechamento dos bronquíolos e atelectasia. A história típica caracteriza-se pela inalação em ambi{+-+}ente fechado, e o quadro clínico, por queimadura de vibrissas, face, lábios, pescoço e região superior do tórax, nariz chamus{+-+}cado, eritema e ulceração da boca, respiração ruidosa, retração intercostal, quadro broncoespástico e presença de partículas de carbono. A radiografia inicial de tórax é normal, mas costuma apresentar infiltrados intersticiais nas primeiras 24 a 48 ho{+-+}ras. A lesão é considerada grave quando há necessidade de ventilação mecânica por mais de 96 horas, [-p-]{+rel+}a{+ção PaO2–Fi+}O2 <250mmHg com FiO2 de 100% e radiografia de tórax com edema intersticial difuso. O diagnóstico precoce se faz por bron-coscopia. Devem ser realizadas IOT e ventilação mecânica com FiO2 >50% e limpeza frequente com aspiração da via aérea. A antibioticoterapia não deve ser usada profilaticamente, e os corticoides não mostraram eficácia.
+
+[-Dic-]{+Import+}a{+nte+}
+A presença de trauma da coluna cervical deve ser investigada principalmente nas lesões por queimaduras elétricas ex{+-+}tensas e explosões, pois são comuns as fraturas nesses tipos de mecanismo de trauma. Devem-se investigar fraturas em pacientes com queimaduras extensas por eletricidade e explosões, dado o mecanismo de trauma envolvido.
+
+B - Ventilação 
+Vítimas de explosões podem apresentar, frequentemente, um quadro de pneumotórax simples ou até mesmo hipertensi-vo, que precisa ser diagnosticado e tratado na avaliação inicial. Pneumotórax aberto também é possível. 
+
+Tratamento
+As queimaduras torácicas e abdominais de 3º grau podem formar uma espécie de carapaça que pode impedir a incursão respiratória, gerando distúrbio de ventilação. Nessa situação, é obrigatório realizar escarotomias para liberação da caixa torácica, as quais são incisões lineares que se estendem por meio de toda a espessura da pele queimada e permitem a sepa[---]ração da escara constritora.[- -]
+
+Devem ser realizadas 2 incisões bilaterais na linha axilar anterior para a liberação torácica, e, caso elas não sejam suficien-tes, podem ser interligadas por uma incisão horizontal na margem do gradeado costal como um grande “H” para a liberação abdominal (Figura 5). O fechamento dessas incisões dependerá da evolução do paciente, podendo-se optar pelo fechamento por 2ª intenção em casos mais graves.
+
+@@ -127,7 +126,7 @@ Devem ser puncionados ao menos 2 acessos calibrosos perif
+a) Regra da palma da mão
+A superfície da palma da mão do indivíduo, excluindo os dedos, equivale a 1% da área de superfície corpórea, sendo utili-zado para calcular o restante. É o menos fidedigno para avaliação da área queimada. 
+
+b) Regra dos 9 (Wallace){+ +}
+É um guia útil para determinar a extensão da área queimada e baseia-se no fato de que as regiões anatômicas correspon-dem a 9% ou o múltiplo de 9% da superfície corpórea (Figura 6). 
+O tamanho da cabeça da criança costuma ser maior do que o da do adulto, enquanto os membros inferiores são menores, proporcionalmente, em relação ao restante do corpo (Tabela 3). 
+
+@@ -141,22 +140,26 @@ Cabe
+Tronco anterior	18%	18%
+Tronco posterior	18%	18%
+Membros inferiores	18% cada (9% face anterior e 9% face posterior)	13,5% cada
+Membros superiores	9% cada (4,5% face anterior e 4,5% face posteri{+-+}or)	9% cada
+Períneo	1%	1%
+
+c) Regra de Lund-Browder
+É o mais confiável dos métodos, em que varia a representação das áreas da cabeça e dos membros inferiores com a idade, sendo o mais utilizado nas unidades de queimados. No entanto, é pouco prático na Emergência, porque é difícil a memoriza-ção das tabelas (Figura 7). 
+[- -]
+[-Figura 7 - Esquema de Lund-Browder para o cálculo de superfície corpórea queimada em adultos e em crianças-]
+
+[-Com base no cálculo da SCQ, começaram a ser desenvolvidas fórmulas de hidratação (Tabela 4). A primeira – fórmula de Brooke-Evans – pregava o uso de cristaloides e coloides em associação. Imaginava-se que o uso destes aumentaria a manu-tenção de líquidos no intravascular. Entretanto, isso não se confirmou, e surgiram novas fórmulas com base apenas no uso de cristaloides – Parkland e Brooke modificado. Estas 2 últimas são as mais usadas, sobretudo a de Parkland: -]
+
+{+ +}
+{+Figura 7 - Esquema de Lund-Browder para o cálculo de superfície corpórea queimada em adultos e em crianças +}
+
+{+Com base no cálculo da SCQ, começaram a ser desenvolvidas fórmulas de hidratação (Tabela 4). A primeira – fórmula de Brooke-Evans – pregava o uso de cristaloides e coloides em associação. Imaginava-se que o uso destes aumentaria a manu-tenção de líquidos no intravascular. Entretanto, isso não se confirmou, e surgiram novas fórmulas com base apenas no uso de cristaloides – Parkland e Brooke modificado. Estas 2 últimas são as mais usadas, sobretudo a de Parkland.+}
+{+ +}
+Reposição de 2 a 4mL de solução cristaloide x peso corpóreo 
+(kg) x SCQ (2º e 3º graus)
+
+[-Dic-]{+Import+}a{+nte+}
+O volume de reposição volêmica deve ser infundido em 24 horas, metade nas primeiras 8 horas e a outra metade nas 16 horas seguintes; lembrando que as primeiras 8 horas são contadas a partir do horário da queimadura, e não da chegada ao hospital. Por exemplo: se o paciente chegou ao pronto-socorro com 40% da superfície corpórea queimada há 3 horas, a 1ª metade deve ser administrada em 5 horas (8 horas - 3 horas do acidente).
+
+Tabela 4 - Fórmulas de reposição volêmica no paciente queimado
+{+Reposição+}	Evans	Brooke	Parkland	Brooke modificado
+Coloide	1mL/kg/%	0,5mL/kg/%	Não	Não
+Cristaloide	Ringer lactato 1mL/kg/%	Ringer lactato 1,5mL/kg/%	Ringer lactato 4mL/kg/%	Ringer lactato 2 a 3mL/kg/%
+Glicosado a 5%	2L/m3	2L/m3	Não	Não
+@@ -168,7 +171,7 @@ Independentemente da f
+
+Pergunta
+2015 - UEL
+2. Um paciente de 75kg apresentou queimadura de 3º grau comprometendo 45% da superfície corpórea. No atendi{+-+}mento inicial, foi realizado o cálculo de reposição volêmica pela fórmula de Parkland. Assinale a alternativa que apresen{+-+}ta, corre[---]tamente, o volume de cristaloides que o paciente deverá receber nas primeiras 8 horas de atendimento: 
+a) de 3.375 a 6.750mL
+b) de 4.225 a 8.450mL
+c) de 5.280 a 10.560mL
+@@ -182,10 +185,10 @@ Em raz
+E - Exposição e prevenção de hipotermia 
+Devem-se calcular a extensão e a profundidade da lesão, que influirão diretamente na conduta, na hidratação e no enca-minhamento para o centro de queimaduras. A SCQ e a profundidade da lesão são essenciais no prognóstico do paciente. A remoção de roupas, agentes plásticos e piche deve ser feita para evitar a exposição prolongada e o aumento das lesões.
+O resfriamento com água fria nas queimaduras causa alívio, mas só deve ser usado em queimaduras pequenas, para não causar hipotermia, sendo contraindicado nos locais de queimaduras com mais de 10% de SCQ. Envolver com toalhas secas diminui a contaminação e atenua a dor, pois evita o contato com o ar.
+Nas queimaduras por líquidos aquecidos, a temperatura do agente e a localização anatômica definem o grau da lesão. Nas queimaduras por chama, a gravidade é proporcional à chama e à duração da exposição. [-No-]{+Em paciente+}s {+p+}e[-x-]{+diá+}tr{+icos, principal-m+}e{+nte nos +}m{+en+}o{+re+}s de [-id-]{+2 +}a[-de-]{+nos+}, observam-se lesões mais profundas, uma vez que a pele é mais fina[-,-]{+;+} {+iss+}o [-que é pra-]t[-ic-]am[-ente-]{+bém+} [-vist-]{+p+}o[- -]{+d+}e[-m-] {+o+}c{+or-re+}r[-ianças-] [-co-]{+e+}m [-m-]{+paci+}en[-o-]{+te+}s {+i+}d[-e 2 an-]{+os+}os.
+
+[-T-]{+Impo+}r[-a-]ta[-me-]nt[-o-]{+e+}
+Nas queimaduras químicas, as roupas devem ser removidas imediatamente. Agentes sólidos e pós devem ser removidos primeiramente. A irrigação local exaustiva com água e soro deve ser iniciada, evitando-se agentes neutralizantes. A con{+-+}cen[---]tração do agente e a duração determinam a gravidade.[- -]
+
+Nas queimaduras elétricas, deve-se remover a vítima imediatamente da fonte de energia, com o cuidado de não vir a fazer parte do circuito elétrico, desligando a fonte de energia ou usando materiais não condutores. Queimaduras elétricas profun-das causam graves lesões musculares, e a presença de áreas de entrada e saída da corrente levanta a suspeita dessas lesões.
+
+@@ -196,7 +199,8 @@ Com a melhora do atendimento inicial dos pacientes grandes queimados, a principa
+
+Tabela 5 - Antimicrobianos tópicos mais comuns e suas vantagens e desvantagens
+	Vantagens	Desvantagens
+Sulfadiazina 
+de prata	- É indolor;
+- Tem visibilidade da ferida;
+- É de fácil uso (1 a 2x/d);
+- Mantém mobilidade.	Neutropenia
+@@ -213,17 +217,17 @@ Nitrato de prata a 0,5%	- N
+- Descoloração da ferida;
+- Troca várias vezes ao dia;
+- Hiponatremia e hipocalemia.
+
+Deve ser administrado toxoide tetânico a todos os pacientes. Antibióticos profiláticos normalmente não costumam ser ne-cessários, sendo, inclusive, contraindicados pela possibilidade de indução a resistência bacteriana.
+
+B - Tratamento cirúrgico: excisão e enxertia de pele
+Depois da estabilização do paciente, começam a ser realizadas as escarectomias, que consistem no debridamento do teci-do queimado inviável. É um procedimento extremamente sangrante, com limite de ressecção de 10 a 20% da SCQ.
+Atualmente, o tratamento padrão-ouro nos casos de queimadura de espessura total consiste na excisão tangencial do te-cido queimado e na sua cobertura cutânea imediata. Há 2 técnicas principais: excisão sequencial de camada fina de todos os tecidos inviáveis até atingir uma camada de tecidos viáveis; ou ressecção de todo o tecido até encontrar a fáscia muscular, para posterior enxertia. A enxertia de pele pode ser de espessura total ou parcial, ou por meio de lâmina ou em malha (meshgraft).
+
+[-Dic-]{+Import+}a{+nte+}
+O grande queimado apresenta uma resposta hipermetabólica, por isso tem grande gasto energético. Essa situação persis{+-+}te enquanto as feridas permanecem abertas, portanto o suporte nutricional deve ser iniciado em todo grande queimado o mais precocemente possível, preferencialmente por via enteral, por menor incidência de complicações, manutenção do trofismo intestinal e diminuição da translocação bacteriana.
+
+C - Nutrição
+
+A ingesta proteica recomendada é de 2,5 a 3g/kg/d. Para o cálculo da quantidade de calorias a ser fornecida, utilizamos a fórmula de Curreri e Luterman (1978) = adultos: (25kcal x P) + (40kcal x %SCQ); e crianças: (40 a 60kcal) x P.
+Como cerca de 20% desenvolvem íleo paralítico nas primeiras 24 horas, deve ser passada sonda nasogástrica. As úlceras gástricas pelo estresse, também chamadas úlceras de Curling, são comuns aos pacientes queimados. Por isso, sempre se deve realizar profilaxia com protetor gástrico. 
+
+@@ -234,13 +238,13 @@ Existem as les
+Outra situação é a chamada flash burn, em que não existe realmente a passagem de corrente pelo organismo. Na verdade, ocorre uma explosão, e a queimadura é causada por fogo. Não existem portas de entrada ou de saída da lesão, e as feridas são mais simples e menos profundas. É essencial a investigação completa do trauma, pois costuma estar associado a explosões com risco de fraturas e traumas abdominais. A lesão cardíaca é extremamente rara, com arritmias transitórias. A monitoriza-ção cardíaca deve ser instituída nas primeiras 24 a 48 horas. 
+
+Quadro clínico
+Nas queimaduras elétricas, ocorre lesão renal por conta da destruição de tecido muscular, havendo liberação de mioglo{+-+}bina e a sua excreção renal (mioglobinúria). Esse pigmento gera nefrotoxicidade e risco de insuficiência renal. Para evitar tal quadro em traumas elétricos, devem-se realizar uma hiper-hidratação com 7mL/kg/% de superfície corpórea queima{+-+}da de cristaloide em 24 horas, alcalinização da urina e estímulo de uma diurese osmótica com manitol, a fim de facilitar a elimina[---]ção de pigmentos de mioglobina.
+
+Também ocorre intenso dano muscular, com liberação de mioglobina e edema muscular. Esse edema pode aumentar a pressão dentro da fáscia, com risco de síndrome compartimental, especialmente nas extremidades. Assim, em toda queima-dura elétrica se deve monitorizar a circulação periférica nos membros. Em caso de aumento, deve-se realizar a fasciotomia. 
+
+Pergunta
+2015 - UERN
+3. A queimadura elétrica pode não produzir lesões cutâneas extensas, mas suas consequências sistêmicas podem ser exu[---]berantes, especialmente dos pontos de vista cardiológico e renal. A ocorrência de insuficiência renal aguda na fase aguda de uma queimadura desse tipo pode ser explicada, principalmente, por: 
+a) propagação da corrente elétrica até o rim com microlesões tubulares e vasculares
+b) lesão tubular térmica ocasionada pela corrente de alta voltagem
+c) mecanismo arritmogênico com redução do débito cardíaco
+@@ -266,7 +270,7 @@ Tabela 6 - Indica
+- Qualquer queimadura associada a trauma;
+- Hospitais sem condições ou pessoal especializado.
+
+[-8. -]Resumo
+
+Quadro-resumo
+- O atendimento à vítima de queimadura segue a mesma padronização proposta pelo ATLS®;
+@@ -274,15 +278,7 @@ Quadro-resumo
+- A reposição volêmica deve ser agressiva. A fórmula mais utilizada é a proposta por Parkland, que repõe de 2 a 4mL, por kg, por SCQ nas primeiras 24 horas;
+- O socorrista deve ter em mente as situações que exigem tratamento em centro especializado.
+
+Respostas{+ das questões do capítulo+}
+1. A
+2. A
+3. D[-Mapa mental -]
+[- -]
+
+[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
