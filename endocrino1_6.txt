@@ -1,8 +1,7 @@
 Síndrome metabólica
-										Leandro Arthur Diehl
+Leandro Arthur Diehl
 
-Resumo
-Neste capítulo, serão apresentados a Síndrome Metabólica (SM), um problema de saúde pública cada vez mais importante no Brasil, sua fisiopatologia, o envolvimento com outras síndromes (diabética, ovário policístico) e princípios de seu mane-jo. A SM associa-se à obesidade visceral e à resistência a insulina, sendo extremamente comum na população adulta, so-bretudo nos homens. Os critérios da I Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica definem “síndrome metabólica” na presença de quaisquer 3 (ou mais) dos seguintes critérios: circunferência abdominal >88cm em mulheres ou >102cm em homens; glicemia =110mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; colesterol HDL <50mg/dL em mulheres ou <40mg/dL em homens; pressão arterial =130x85mmHg ou uso de tratamento específico. Os critérios da International Diabetes Federation (IDF) definem “síndrome metabólica” na presença de circunferência abdominal aumentada (>80cm em mulheres e >90cm em homens, no Brasil) mais quaisquer 2 dos se-guintes critérios: glicemia =100mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; coles-terol HDL <50mg/dL em mulheres ou <40mg/dL em homens ou uso de tratamento específico; pressão arterial =130x85mmHg ou uso de tratamento específico. Pessoas com SM têm risco aumentado de doença cardiovascular (DCV) ou morte e de Diabetes Mellitus (DM) tipo 2. São comuns doenças associadas como síndrome dos ovários policísticos, doença hepática gordurosa não alcoólica, apneia do sono e algumas neoplasias. O tratamento da SM inclui perda de peso, hábitos de vida saudáveis, cessação do fumo e do abuso de álcool e manejo rigoroso das comorbidades, com vistas à prevenção de DM tipo 2 e de eventos cardiovasculares. Existem várias controvérsias sobre a definição, a importância clínica e a etiologia da SM. Alguns autores sugerem que o termo seja abandonado, em favor da denominação “risco cardiometabólico”, mais abrangente e sem a necessidade de critérios diagnósticos rígidos.
+Neste capítulo, será apresentada a Síndrome Metabólica (SM), um problema de saúde pública cada vez mais importante no Brasil: sua fisiopatologia, seu envolvimento com outras síndromes (diabética, ovário policístico) e os princípios de seu manejo. A SM associa-se à obesidade visceral e à resistência a insulina, sendo extremamente comum na população adulta, sobretudo nos homens. Os critérios da I Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica definem “síndrome metabólica” na presença de quaisquer 3 (ou mais) dos seguintes critérios: circunferência abdominal >88cm em mulheres ou >102cm em homens; glicemia =110mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; co-lesterol HDL <50mg/dL em mulheres ou <40mg/dL em homens; pressão arterial =130x85mmHg ou uso de tratamento especí-fico. Os critérios da International Diabetes Federation (IDF) definem “síndrome metabólica” na presença de circunferência abdominal aumentada (>80cm em mulheres e >90cm em homens, no Brasil) mais quaisquer 2 dos seguintes critérios: glicemia =100mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; colesterol HDL <50mg/dL em mu-lheres ou <40mg/dL em homens ou uso de tratamento específico; pressão arterial =130x85mmHg ou uso de tratamento es-pecífico. Pessoas com SM têm risco aumentado de doença cardiovascular (DCV) ou morte e de Diabetes Mellitus (DM) tipo 2. São comuns doenças associadas como síndrome dos ovários policísticos, doença hepática gordurosa não alcoólica, apneia do sono e algumas neoplasias. O tratamento da SM inclui perda de peso, hábitos de vida saudáveis, cessação do fumo e do abuso de álcool e manejo rigoroso das comorbidades, com vistas à prevenção de DM tipo 2 e de eventos cardiovasculares. Existem várias controvérsias sobre a definição, a importância clínica e a etiologia da SM. Alguns autores sugerem que o termo seja abandonado, em favor da denominação “risco cardiometabólico”, mais abrangente e sem a necessidade de critérios diagnós-ticos rígidos.
 
 1. Introdução
 
@@ -16,9 +15,9 @@ A controvérsia observada com relação à nomenclatura da SM também se reflete na s
 Várias propostas de critérios diagnósticos para SM podem ser encontradas na literatura médica. O que todas elas apresen-tam em comum (Figura 1) é a inclusão de marcadores para: 
 Fatores de risco cardiovascular: hipertensão arterial e dislipidemia – geralmente, hipertrigliceridemia e colesterol HDL baixo; 
 Distúrbios do metabolismo da glicose: resistência a insulina, hiperinsulinemia, glicemia alterada em jejum ou após teste de tolerância a glicose, diagnóstico prévio de Diabetes Mellitus (DM); 
-Obesidade: índice de massa corpórea, cintura abdominal ou relação cintura–quadril.
+Obesidade: Índice de Massa Corpórea (IMC), cintura abdominal ou relação cintura–quadril.
 
-  
+ 
 Figura 1 - Componentes da síndrome metabólica
 
 A diferença entre os vários critérios se dá nos valores de corte (cut-offs) utilizados e no número de fatores necessários para satisfazer à definição diagnóstica. Algumas sociedades propuseram a inclusão de outros fatores de risco cardiovascular (microalbuminúria). Outro ponto de divergência entre os vários critérios é a inclusão ou não de sabidamente diabéticos. En-quanto algumas sociedades defendem que o diagnóstico de SM seja igualmente válido para pacientes com DM, outras argu-mentam que um dos principais usos clínicos da SM é a predição do risco futuro de DM, portanto seria desnecessário o diag-nóstico em pacientes que já apresentam diabetes. 
@@ -27,13 +26,13 @@ Os critérios diagnósticos mais frequentemente citados na literatura e utilizados
 
 Tabela 1 - Critérios diagnósticos para síndrome metabólica, de diferentes sociedades
 	OMS (1998)	NCEP-ATP III (2001)	IDF (2005)
-Glicemia	Diabetes prévio, glicemia de jejum alterada, intolerância a glicose ou resistência a insulina	Glicemia de jejum =100mg/dL ou em tratamento específico 	Glicemia de jejum =100mg/dL ou diabetes prévio
-Obesidade	IMC >30kg/m2 ou relação cintura–quadril >85cm (mulheres) e >90cm (homens)	Cintura =88cm (mulheres) ou =102cm (homens)	Cintura aumentada, com valores de corte, dependendo da etnia 
-Triglicérides	=150mg/dL	=150mg/dL ou em tratamento espe-cífico	=150mg/dL ou em tratamento específico
-Colesterol HDL	<39mg/dL (mulheres) e <35mg/dL (homens)	<50mg/dL (mulheres) e <40mg/dL (homens)	<50mg/dL (mulheres) e <40mg/dL (homens) ou em tratamento espe-cífico
-Pressão arterial	=140x90mmHg	=130x85mmHg ou em tratamento específico	=130x85mmHg ou em tratamento específico
+Glicemia	Diabetes prévio, glicemia de jejum alterada, intolerância a glicose ou resistência a insulina	Glicemia de jejum =100mg/dL ou em trata-mento específico 	Glicemia de jejum =100mg/dL ou diabetes pré-vio
+Obesidade	IMC >30kg/m2 ou relação cintura–quadril >85cm (mulheres) e >90cm (homens)	Cintura =88cm (mulheres) ou =102cm (homens)	Cintura aumentada, com valores de corte, dependen-do da etnia 
+Triglicérides	=150mg/dL	=150mg/dL ou em trata-mento específico	=150mg/dL ou em trata-mento específico
+Colesterol HDL	<39mg/dL (mulheres) e <35mg/dL (homens)	<50mg/dL (mulheres) e <40mg/dL (homens)	<50mg/dL (mulheres) e <40mg/dL (homens) ou em tratamento específico
+Pressão arterial	=140x90mmHg	=130x85mmHg ou em tra-tamento específico	=130x85mmHg ou em tra-tamento específico
 Outros	Microalbuminúria =20µg/min ou =30mg/g de creatinina	--	--
-Necessários para diag-nóstico 	Glicemia + 2 dos anteriores	3 dos anteriores	Obesidade + 2 dos anteriores
+Necessários para diagnóstico 	Glicemia + 2 dos anteriores	3 dos anteriores	Obesidade + 2 dos anterio-res
 
 As definições de obesidade central pelo critério da IDF são específicas para a etnia. Os valores de corte para a circunfe-rência abdominal de europeus são os mais utilizados (94cm para homens e 80cm para mulheres). Os valores para norte-americanos provavelmente continuarão a seguir a orientação do NCEP-ATP III. Para sul-americanos, devem ser considerados 90cm para homens e 80cm para mulheres (conforme a recomendação da IDF), mesmos valores da população sul-asiática, até que estejam disponíveis dados específicos para a América do Sul. Deve-se dar preferência sempre pela origem étnica do paciente, a despeito de seu lugar de moradia, ao escolher valores de circunferência abdominal. Os valores de cintura para cada grupo étnico estão na Tabela 2.
 
@@ -56,7 +55,7 @@ Leste do Mediterrâneo e Oriente Médio**	Usar valores dos europeus.
 Em 2004, a Sociedade Brasileira de Hipertensão, com a Sociedade Brasileira de Diabetes (SBD), a Sociedade Brasileira de Cardiologia e a Associação Brasileira para o Estudo da Obesidade lançaram a I Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica, para tentar uniformizar a conduta dos médicos brasileiros com relação à detecção e ao manejo desse problema clínico. A diretriz aponta para o uso preferencial dos critérios do NCEP-ATP III, uma vez que essa definição parece ser a mais prática, simples e econômica (dispensando avaliações mais complexas e custosas, como a dosagem de insu-lina, microalbuminúria ou teste de tolerância oral a glicose para o diagnóstico da SM). Entretanto, a mesma diretriz sugere algumas modificações nos critérios originais do NCEP-ATP III: os indivíduos em uso de anti-hipertensivos ou hipolipemiantes podem preencher os critérios referentes a pressão arterial e triglicérides (independentemente dos níveis pressóricos ou lipídicos no momento da avaliação médica). Essa alteração foi necessária para evitar que fossem excluídos da definição de SM os pacientes que tivessem apresentado valores prévios alterados de pressão arterial ou triglicérides, de forma a preencher os critérios diagnósticos de SM correspondentes, mas que, no momento atual, tivessem normalizado esses valores com o uso de tratamento medicamentoso específico. A I Diretriz Brasileira recomenda que os pacientes com diagnóstico de DM2 tam-bém preencham o critério referente à glicemia alterada. 
 A medida da cintura (circunferência abdominal) deve ser feita no meio da distância entre a crista ilíaca e o rebordo costal inferior (Figura 2). Pacientes com glicemia de jejum alterada, mas ainda não em níveis de diabetes (ou seja, entre 100 e 125mg/dL) ou com 2 ou mais fatores de risco para DM, devem ser submetidos a teste de tolerância oral a glicose, embora não seja necessário para o diagnóstico de SM.
 
-  
+ 
 Figura 2 - Medida da circunferência abdominal
 
 A definição de SM recomendada pela referida diretriz para uso no Brasil é a apresentada na Tabela 3.
@@ -72,6 +71,18 @@ Necessários para o diagnóstico de SM	Quaisquer 3 dos critérios anteriores
 * Possivelmente, esse critério será alterado em breve para =100mg/dL, obedecendo às recomendações da ADA (2004) para defini-ção de glicemia de jejum alterada.
 
 Em 2009, a SBD publicou um novo posicionamento oficial, em que tece várias considerações sobre a SM e conclui que, embora ambas as definições sejam úteis e amplamente utilizadas na prática clínica (a do NCEP-ATP III, mais utilizada por car-diologistas; e a da IDF, preferida por endocrinologistas), a SBD dá preferência à definição da IDF, visto que esta valoriza mais a importância da obesidade visceral e da resistência a insulina como alterações fundamentais da síndrome, muito embora fal-tem estudos para definir o melhor valor de corte de circunferência abdominal a ser adotado para a população brasileira. A controvérsia continua em documentos mais recentes: as V Diretrizes Brasileiras de Dislipidemias e Prevenção da Aterosclero-se (2013) recomendam o uso dos critérios diagnósticos da IDF, enquanto as VI Diretrizes Brasileiras de Hipertensão (2010) recomendam o uso dos critérios do NCEP-ATP III.
+Para tentar dirimir tantas controvérsias quanto aos critérios diagnósticos para SM, em 2009 foi realizada uma reunião de consenso entre representantes da IDF, da American Heart Association e do National Institutes of Health (que havia proposto originalmente os critérios do NCEP-ATP III), em que todos concordaram em gerar uma versão “harmonizada” desses critérios, os quais são apresentados na Tabela 4.
+
+Tabela 4 - Critérios “harmonizados” para diagnóstico da síndrome metabólica (2009)
+Componentes	Valores de corte
+Glicemia de jejum	=100mg/dL ou uso de medicação hipoglicemiante
+Cintura abdominal	Elevada (de acordo com a população e o país)*
+Triglicérides	=150mg/dL ou uso de tratamento específico
+Colesterol HDL	<50mg/dL (mulheres) ou <40mg/dL (homens)
+Pressão arterial	PAS =130mmHg ou PAD =85mmHg ou uso de tratamento específico
+Necessários para o diagnóstico de SM	Quaisquer 3 dos critérios anteriores
+* Para identificar cintura aumentada, recomenda-se usar os valores de corte da IDF para não europeus, e os da IDF ou do NCEP-ATP III para europeus, até que mais dados estejam disponíveis.
+
 Em adolescentes entre 10 e 16 anos, o diagnóstico de SM pode ser feito com os critérios da IDF, com 2 pequenas diferen-ças: a medida da cintura abdominal deve ser comparada com a média para o sexo e a idade (considerada aumentada acima do percentil 90); e o valor de corte para colesterol HDL é inferior a 40mg/dL para ambos os sexos. Entre os adolescentes com mais de 16 anos, o diagnóstico de SM é feito com os mesmos critérios de adultos, no entanto este não é validado para crian-ças com menos de 10 anos.
 
 3. Fisiopatologia
@@ -79,13 +90,13 @@ Em adolescentes entre 10 e 16 anos, o diagnóstico de SM pode ser feito com os cr
 Apesar de a obesidade visceral e a resistência a insulina parecerem os principais fatores responsáveis pelo surgimento das anormalidades componentes da SM, provavelmente não são os únicos. De fato, as evidências de um papel causal da resis-tência insulínica com relação à SM são incompletas e controversas, sem permitir conclusões sólidas a respeito. Na média, indivíduos com SM têm maior resistência a insulina do que indivíduos sem SM. Entretanto, há aqueles com resistência (de-monstrada por estudos bioquímicos) que não apresentam os componentes da SM, assim como há indivíduos com diagnóstico de SM sem evidências bioquímicas.
 Fatores genéticos provavelmente desempenham um papel pelo menos parcial na determinação da SM, haja vista que al-gumas mutações (por exemplo, no gene do receptor da insulina, ou no PPAR-gama) podem provocar um estado de resistên-cia a insulina e manifestações compatíveis com a SM. 
 O envelhecimento também aumenta significativamente o risco de SM, o que é demonstrado pela maior prevalência dessa síndrome entre indivíduos de faixas etárias mais avançadas. É muito provável, no entanto, que a maioria dos casos de SM tenha etiologia multifatorial e complexa, associando uma predisposição genética a fatores ambientais (sedentarismo, dieta altamente calórica e rica em gorduras saturadas, acúmulo de gordura na região abdominal) que contribuem para o seu de-sencadeamento.
-Dentre as anormalidades fisiopatológicas observadas em portadores de SM, as mais comumente citadas na literatura estão expostas na Tabela 4.
+Dentre as anormalidades fisiopatológicas observadas em portadores de SM, as mais comumente citadas na literatura estão expostas na Tabela 5.
 
-Tabela 4 - Anormalidades fisiopatológicas na síndrome metabólica
+Tabela 5 - Anormalidades fisiopatológicas na síndrome metabólica
 Aumento dos níveis de ácidos graxos livres circulantes
-Os ácidos graxos livres no plasma aumentam de forma diretamente proporcional à quantidade de tecido adiposo depositado no com-partimento visceral abdominal. Esses adipócitos apresentam lipólise mais acentuada do que os adipócitos em outras localizações (subcutâneo), entretanto o tecido adiposo subcutâneo do tronco também contribui para o aumento dos ácidos graxos livres circulantes.
+Os ácidos graxos livres no plasma aumentam de forma diretamente proporcional à quantidade de tecido adiposo depositado no com-partimento visceral abdominal. Esses adipócitos apresentam lipólise mais acentuada do que os adipócitos em outras localizações (sub-cutâneo), entretanto o tecido adiposo subcutâneo do tronco também contribui para o aumento dos ácidos graxos livres circulantes.
 Fosforilação em serina dos substratos do receptor de insulina (IRSs)
-A fosforilação em serina dos IRSs nos tecidos-alvo desse hormônio (fígado, músculos) diminui a sinalização intracelular na cascata geralmente ativada pela insulina e o transporte de glicose transmembrana. Essa fosforilação é estimulada por altos níveis de ácidos graxos circulantes. 
+A fosforilação em serina dos IRSs nos tecidos-alvo desse hormônio (fígado, músculos) diminui a sinalização intracelular na cascata ge-ralmente ativada pela insulina e o transporte de glicose transmembrana. Essa fosforilação é estimulada por altos níveis de ácidos gra-xos circulantes. 
 Acúmulo de lipídios no músculo e no fígado (esteatose)
 A esteatose hepática e muscular interfere na sinalização intracelular da insulina e reduz a captação de glicose nesses tecidos. A estea-tose hepática pode evoluir para esteato-hepatite não alcoólica e cirrose. 
 Alteração na secreção de hormônios pelos adipócitos
@@ -96,7 +107,7 @@ Estado pró-trombótico
 Nota-se secreção aumentada do inibidor do ativador do plasminogênio-1 (PAI-1) e do fibrinogênio, estimulada pelas citocinas inflama-tórias. 
 Aumento na síntese de Very-Low Density Lipoprotein (VLDL) 
 pelo fígado e aumento da atividade da Cholesteryl Ester Transfer Protein (CETP)
-A síntese hepática de VLDL é estimulada pela grande oferta de ácidos graxos livres, levando a aumento dos triglicérides e consequente redução do HDL plasmático (maior atividade da CETP). A atividade aumentada da CETP também é uma das responsáveis pela altera-ção no padrão das partículas de LDL, que se tornam menores e mais densas (tipo B), atingem a camada íntima com mais facilidade e são mais oxidadas, o que as torna mais aterogênicas. 
+A síntese hepática de VLDL é estimulada pela grande oferta de ácidos graxos livres, levando a aumento dos triglicérides e consequente redução do HDL plasmático (maior atividade da CETP). A atividade aumentada da CETP também é uma das responsáveis pela alteração no padrão das partículas de LDL, que se tornam menores e mais densas (tipo B), atingem a camada íntima com mais facilidade e são mais oxidadas, o que as torna mais aterogênicas. 
 Hipertensão arterial
 Acontece pelo aumento da retenção de sódio e água e pela ativação do sistema nervoso simpático, pela hiperinsulinemia (em pacien-tes com resistência a insulina). 
 Disfunção endotelial
@@ -111,13 +122,13 @@ Uma grande meta-análise, publicada em 2007, incluindo um grande número de pacien
 Por essa razão, as V Diretrizes Brasileiras de Dislipidemias reconhecem a SM como um “fator agravante de risco”, ou seja, um paciente que tenha um risco de evento cardiovascular estimado pelos escores de risco como “moderado” deve ser ele-vado à categoria de risco superior (alto risco) caso apresente a SM. Portanto, seu manejo deve ser mais agressivo, visando à prevenção de eventos e morte cardiovascular.
 
 Dica
-Uma das grandes utilidades do diagnóstico da SM é a predição para o diabetes, ou seja, o aumento do risco de evolução para diabetes nos portadores da síndrome (4 vezes).
+Uma das grandes utilidades do diagnóstico da SM é a predição de risco de diabetes tipo 2, que é 4 vezes maior nos porta-dores da síndrome.
 
-A SM, contudo, apresenta associação ainda mais forte ao risco de DM2 do que ao risco para DCV, o que torna o diagnósti-co especialmente útil para a predição do risco de evolução para diabetes. Estima-se que portadores de SM tenham risco 4 vezes maior de DM2 (Tabela 5), por isso vários autores (inclusive algumas sociedades, como o European Group for the Study of Insulin Resistance – EGIR – e a American Association of Clinical Endocrinologists – AACE) sugerem que o diagnóstico não seja realizado em portadores de diabetes, pois uma das maiores utilidades da detecção daquela síndrome, a predição de risco elevado de DM, seria perdida em já diabéticos. Além disso, a identificação da SM provavelmente não acrescenta informação de risco ou motiva alteração de conduta com relação a diabéticos sem SM. Outro fato é que a maioria dos portadores de DM2 (70 a 80%) apresenta SM. 
+A SM, contudo, apresenta associação ainda mais forte ao risco de DM2 do que ao risco para DCV, o que torna o diagnósti-co especialmente útil para a predição do risco de evolução para diabetes. Estima-se que portadores de SM tenham risco 4 vezes maior de DM2 (Tabela 6), por isso vários autores (inclusive algumas sociedades, como o European Group for the Study of Insulin Resistance – EGIR – e a American Association of Clinical Endocrinologists – AACE) sugerem que o diagnóstico não seja realizado em portadores de diabetes, pois uma das maiores utilidades da detecção daquela síndrome, a predição de risco elevado de DM, seria perdida em já diabéticos. Além disso, a identificação da SM provavelmente não acrescenta informação de risco ou motiva alteração de conduta com relação a diabéticos sem SM. Outro fato é que a maioria dos portadores de DM2 (70 a 80%) apresenta SM. 
 
-Tabela 5 - Risco relativo de complicações associadas à síndrome metabólica
+Tabela 6 - Risco relativo de complicações associadas à síndrome metabólica
 Complicações	RR (comparado a indivíduos sem SM)
-Doença cardiovascular	2,18
+DCV	2,18
 Mortalidade cardiovascular	1,91
 Mortalidade geral	1,6
 DM2	4
@@ -126,15 +137,17 @@ Observação: risco independente dos componentes individuais da SM.
 Essa questão, entretanto, é controversa. Alguns autores sugerem que a detecção de SM em portadores de DM2 seja um adicional de risco, devendo-se intensificar o tratamento, embora não haja evidências sólidas de que suportem essa recomen-dação.
 A I Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica recomenda que o diagnóstico seja feito tanto em diabéticos como em não diabéticos, sendo o diagnóstico prévio de diabetes suficiente para preencher um dos componen-tes da definição da SM (glicemia alterada). Outras patologias frequentemente associadas, intimamente relacionadas à presen-ça de obesidade central e resistência a insulina, além da DCV e do DM2, são: síndrome dos ovários policísticos, doença hepá-tica gordurosa não alcoólica, apneia obstrutiva do sono, hiperuricemia (com eventual gota ou nefrocalculose) e certas formas de câncer (mama, cólon, próstata, endométrio). 
 
-5. Síndrome metabólica e síndrome dos ovários micropolicísti-cos 
+5. Síndrome metabólica e síndrome dos ovários micropolicísticos 
 
-A síndrome dos ovários micropolicísticos (SOMP) é uma das endocrinopatias mais comuns em mulheres na idade reprodu-tiva e uma das causas mais comuns de infertilidade feminina. Caracteriza-se por 3 critérios principais:
+A síndrome dos ovários micropolicísticos (SOMP) é uma das endocrinopatias mais comuns em mulheres na idade reprodu-tiva (afeta de 6 a 10% dessa população) e uma das causas mais comuns de infertilidade feminina. Caracteriza-se por 3 critérios principais:
 Hiperandrogenismo: clínico (hirsutismo, acne) e/ou laboratorial (aumento dos androgênios plasmáticos);
-Disfunção ovariana: demonstrada por oligoanovulação crônica e/ou ovários de aspecto micropolicísticos à ultrassonogra-fia;
+Disfunção ovulatória: demonstrada por oligoanovulação crônica e/ou ovários de aspecto micropolicísticos à ultrassonogra-fia;
 Ausência de outras causas de hiperandrogenismo ou doenças relacionadas: principalmente, hiperplasia adrenal congênita não clássica, tumores secretores de androgênios, uso de drogas com ação androgênica, síndrome de Cushing, hiperpro-lactinemia e hipotireoidismo.
-A SOMP associa-se a manifestações típicas de resistência a insulina, como hiperinsulinemia, intolerância a glicose, dislipi-demia aterogênica, acúmulo de gordura abdominal e risco aumentado de hipertensão, DM2 e doenças cardiovasculares. A maioria tem excesso de peso (com acúmulo de tecido adiposo principalmente na região do tronco). Os achados clínicos e laboratoriais estão resumidos na Tabela 6.
 
-Tabela 6 - Alterações clínicas e laboratoriais na síndrome dos ovários micropolicísticos
+Importante
+A síndrome dos ovários micropolicísticos (SOMP) associa-se a manifestações típicas de resistência a insulina, como hiperin-sulinemia, intolerância a glicose, dislipidemia aterogênica, acúmulo de gordura abdominal e risco aumentado de hiperten-são, DM2 e doenças cardiovasculares, além de câncer do endométrio. Cerca de 50 a 80% têm excesso de peso (com acú-mulo de tecido adiposo principalmente na região do tronco).
+
+Tabela 7 - Alterações clínicas e laboratoriais na síndrome dos ovários micropolicísticos
 Hiperandrogenismo
 - Hirsutismo;
 - Acne;
@@ -148,11 +161,13 @@ Distúrbios ovulatórios
 - Atresia folicular;
 - Infertilidade.
 Problemas associados
-- Obesidade central (mais de 50% dos casos);
-- Maior risco de diabetes tipo 2, hipertensão e DCV.
+- Obesidade central 50 a 80% dos casos);
+- Maior risco de diabetes tipo 2, hipertensão e DCV;
+- Maior risco de carcinoma do endométrio.
 Alterações laboratoriais
 - Aumento dos androgênios plasmáticos: testosterona livre, androstenediona;
 - Aumento do LH (proporção LH/FSH >2);
+Alterações laboratoriais
 - Redução da Sex Hormone-Binding Globulin (SHBG);
 - Hipertrigliceridemia e HDL baixo;
 - Hiperuricemia;
@@ -164,7 +179,7 @@ A SOMP tem manifestações clínicas que incluem elevação do hormônio luteinizante 
 Figura 3 - Hirsutismo na síndrome dos ovários micropolicísticos
 
 Embora a fisiopatologia exata não seja totalmente elucidada, os estudos demonstram interação entre a resistência a insuli-na nos tecidos periféricos e nos ovários com alterações complexas da secreção de gonadotrofinas e androgênios (Figura 4). É possível que a hiperinsulinemia compensatória para a resistência a insulina promova secreção excessiva de androgênios pe-los ovários, o que dificulta a ovulação, e redução da produção hepática de SHBG, o que pode aumentar ainda mais os níveis plasmáticos de testosterona livre.
-Entre as pacientes com SOMP, a perda de peso muitas vezes alivia grande parte dos sinais e sintomas atribuídos à síndro-me. Entretanto, mesmo mulheres portadoras com peso normal frequentemente apresentam sinais de resistência a insulina. O uso de sensibilizadores, como a metformina, promove melhora significativa no padrão menstrual e recuperação da ovulação, com restauração da fertilidade, em boa parcela das pacientes com SOMP, e pode ser uma boa opção entre aquelas com SOMP que desejam ter filhos. O uso de anticoncepcionais orais e de agentes antiandrogênicos (ciproterona, drospirenona, espironolactona, finasterida etc.) pode ajudar a diminuir as manifestações androgênicas da síndrome (principalmente a acne e a seborreia), embora seu efeito no hirsutismo seja mais limitado, e essas drogas podem ser boas opções para a paciente com SOMP que não deseja engravidar. 
+Entre as pacientes com SOMP, a perda de peso muitas vezes alivia grande parte dos sinais e sintomas atribuídos à síndro-me. Entretanto, mesmo mulheres portadoras com peso normal frequentemente apresentam sinais de resistência a insulina. O uso de sensibilizadores, como a metformina, promove melhora significativa no padrão menstrual e recuperação da ovulação, com restauração da fertilidade, em boa parcela das pacientes com SOMP, e pode ser uma boa opção entre aquelas com SOMP que desejam ter filhos; outra opção é o clomifeno para indução da ovulação. Os anticoncepcionais orais (combinação estrogênio/progestogênio), no entanto, são considerados agentes de 1ª linha nas pacientes que não desejam engravidar, pois podem ajudar a diminuir as manifestações androgênicas da síndrome (principalmente a acne e a seborreia), embora seu efei-to no hirsutismo seja mais limitado, e ajudam a reduzir o risco de câncer endometrial. Outras opções são os agentes antian-drogênicos (ciproterona, drospirenona, espironolactona, finasterida etc.), que podem ser interessantes para o tratamento do hirsutismo, mas devem sempre ser usados com métodos contraceptivos. 
 
  
 Figura 4 - Fisiopatologia da síndrome dos ovários micropolicísticos
@@ -172,46 +187,41 @@ Figura 4 - Fisiopatologia da síndrome dos ovários micropolicísticos
 6. Manejo
 
 Tratamento
-A perda de 5 a 10% do peso inicial tem benefícios incontestáveis. Além de todas as medidas não farmacológicas, os paci-entes com IMC >25 a 27 têm indicação da utilização da sibutramina ou orlistate. 
+A perda de 5 a 10% do peso inicial tem benefícios incontestáveis. Além de todas as medidas não farmacológicas, os pacien-tes com IMC >25 a 27 podem ter benefício com o uso de orlistate.
 
 O correto manejo deve envolver o controle agressivo de todas as comorbidades e fatores de risco cardiovascular, bem como uma intervenção constante dirigida à adoção de um estilo de vida saudável e ao abandono de práticas nocivas (tabagis-mo, uso abusivo de álcool). Antiagregação plaquetária e pesquisa de isquemia assintomática devem ser indicadas, conforme o grau de risco do indivíduo. 
 O tratamento da obesidade leva a benefícios incontestáveis, com relação a perfil metabólico, controle pressórico e risco de complicações. As estratégias não farmacológicas para perda de peso são essenciais e devem ser reforçadas em toda con-sulta do paciente com SM, embora sua eficácia seja modesta e, na maioria das vezes, temporária. Portanto, em pacientes com SM e IMC >27kg/m2 (ou >25kg/m2, segundo alguns autores), o uso de medicamentos antiobesidade, em associação às mudan-ças de estilo de vida, pode estar bem indicado. 
-Tanto a sibutramina quanto o orlistate são drogas seguras (desde que respeitadas suas contraindicações) e eficazes, con-forme resultados de vários estudos clínicos. A sibutramina pode ser mais bem indicada a pacientes com comportamento compulsivo (episódios de binge eating, “beliscar” compulsivo, comer noturno), enquanto o orlistate pode ser a melhor opção àqueles com contraindicação à sibutramina ou com ingestão excessiva de gorduras. Perda de peso de 5 a 10% do peso inicial já produz benefícios clínicos significativos, portanto pode ser usada como meta inicial do tratamento.
-O uso de medicamentos antiobesidade sempre deve estar associado a intervenções no estilo de vida e acompanhado por médico experiente no manejo dessas drogas. Maiores informações sobre o tratamento da obesidade podem ser encontradas no capítulo de Obesidade e, com relação ao tratamento do diabetes, no capítulo de Diabetes Mellitus – Tratamento, enquanto mais detalhes sobre o tratamento de hipertensão e dislipidemia podem ser vistos no livro de Cardiologia.
+O orlistate é uma droga segura, e seu uso é aprovado no Brasil para pacientes com IMC entre 25 e 29kg/m2 que tenham outras comorbidades associadas ao excesso de peso, ou para IMC de 30kg/m2, na falha do tratamento não farmacológico. A sibutramina é atualmente contraindicada àqueles com IMC abaixo de 30kg/m2, mas pode ser uma opção para obesos com falha das mudanças do estilo de vida. A sibutramina pode ser mais bem indicada a pacientes com comportamento compulsivo (episódios de binge eating, “beliscar” compulsivo, comer noturno), enquanto o orlistate pode ser a melhor opção àqueles com contraindicação à sibutramina ou com ingestão excessiva de gorduras. Perda de peso de 5 a 10% do peso inicial já pro-duz benefícios clínicos significativos, portanto pode ser usada como meta inicial do tratamento.
+O uso de medicamentos antiobesidade sempre deve estar associado a intervenções no estilo de vida e acompanhado por médico experiente no manejo dessas drogas. Maiores informações sobre o tratamento da obesidade podem ser encontradas no capítulo de Obesidade e, com relação ao tratamento do diabetes, no capítulo de Diabetes Mellitus - Tratamento, enquanto mais detalhes sobre o tratamento de hipertensão e dislipidemia podem ser vistos no livro de Cardiologia.
 
 7. Controvérsias
 
-Vários problemas relativos à identificação e à importância da SM foram levantados por especialistas no assunto. A Euro-pean Association for the Study of Diabetes, juntamente com a ADA, reuniu vários especialistas em 2005 para estudar os pon-tos de maior controvérsia com relação à SM, os quais foram resumidos na Tabela 7.
+Vários problemas relativos à identificação e à importância da SM foram levantados por especialistas no assunto. A Euro-pean Association for the Study of Diabetes, juntamente com a ADA, reuniu vários especialistas em 2005 para estudar os pon-tos de maior controvérsia com relação à SM, os quais foram resumidos na Tabela 8.
 
-Tabela 7 - Controvérsias sobre a síndrome metabólica
+Tabela 8 - Controvérsias sobre a síndrome metabólica
 - Os critérios para o diagnóstico da SM são ambíguos, e a razão para o uso dos valores de corte sugeridos é mal definida; 
 - O valor de incluir o DM na definição da SM é questionável; 
 - A validade de usar a resistência a insulina como etiologia unificadora é incerta; 
-- Não há razão clara para incluir ou excluir outros fatores de risco cardiovascular; 
-- A medida de risco de DCV varia e depende dos fatores de risco específicos presentes em cada indivíduo; 
+- Não há razão clara para incluir ou excluir outros fatores de risco cardiovascular;
+- A medida de risco de DCV varia e depende dos fatores de risco específicos presentes em cada indivíduo;
 - O risco cardiovascular associado à SM não parece ser maior que a soma das suas partes*;
-- O tratamento da SM não é diferente do que o tratamento dos seus componentes; 
+- O tratamento da SM não é diferente do que o tratamento dos seus componentes;
 - A importância clínica da identificação da SM não é clara.
-* Depois disso, uma grande meta-análise (publicada em 2007) demonstrou que o risco cardiovascular associado à SM é maior do que o risco determinado pelos seus componentes isolados. 
+* Depois disso, uma grande meta-análise (publicada em 2007) demonstrou que o risco cardiovascular associado à SM é maior do que o risco determinado pelos seus componentes isolados.
 
 Devido a todas essas incertezas e controvérsias, vários autores sugerem abandonar a denominação “síndrome metabóli-ca”, visto que o aglomerado de fatores de risco cardiovascular que a compõe é definido de forma arbitrária pelas várias soci-edades, com controvérsias sobre os melhores critérios diagnósticos, e a sua etiologia permanece obscura (embora a resistên-cia insulínica desempenhe um papel relevante). Todas essas dificuldades tornam difícil o seu reconhecimento como uma “síndrome”. 
 Os mesmos autores, entretanto, argumentam que o achado de vários fatores de risco cardiometabólico, em um mesmo indivíduo, tenha utilidade para predizer o risco de DM e DCV e para motivar o médico a pesquisar e tratar todas as anormali-dades. Talvez uma melhor denominação fosse “risco cardiometabólico”, um termo defendido inclusive pela ADA, pois é mais amplo, inclui outros possíveis fatores de risco cardiovascular e é, possivelmente, mais prático, dispensando critérios diagnós-ticos muitas vezes arbitrários.
 
-8. Resumo
+Resumo
 
 Quadro-resumo
 -	A SM associa-se à obesidade visceral e à resistência a insulina, embora estes não sejam, possivelmente, os únicos fatores causais; 
 - 	A SM é extremamente comum, observada em 24 a 30% da população adulta, e é ainda mais comum (>40%) entre idosos e obesos; 
 - 	Fatores de risco incluem excesso de peso, fatores genéticos e envelhecimento; 
-- 	A definição de SM recomendada para uso no Brasil é a do NCEP-ATP III, com algumas modificações (conforme a I Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica, de 2004), embora a SBD, mais recentemente (em 2009), tenha re-comendado a adoção dos critérios da IDF; 
-- 	Os critérios da I Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica definem “síndrome metabólica” na presença de quaisquer 3 (ou mais) dos seguintes critérios: circunferência abdominal >88cm em mulheres ou >102cm em homens; gli-cemia =110mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; colesterol HDL <50mg/dL em mulhe-res ou <40mg/dL em homens; pressão arterial =130x85mmHg ou uso de tratamento específico;
-- 	Os critérios da IDF definem “síndrome metabólica” na presença de circunferência abdominal aumentada (>80cm em mulhe-res e >90cm em homens, no Brasil) mais quaisquer 2 dos seguintes critérios: glicemia =100mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; colesterol HDL <50mg/dL em mulheres ou <40mg/dL em homens ou uso de tratamento específico; pressão arterial =130x85mmHg ou uso de tratamento específico;
+- 	A definição de SM recomendada para uso no Brasil é a do NCEP-ATP III, com algumas modificações (conforme a I Diretriz Bra-sileira de Diagnóstico e Tratamento da Síndrome Metabólica, de 2004), embora a SBD, mais recentemente (em 2009), tenha reco-mendado a adoção dos critérios da IDF; 
+- 	Os critérios da I Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica definem “síndrome metabólica” na presença de quaisquer 3 (ou mais) dos seguintes critérios: circunferência abdominal >88cm em mulheres ou >102cm em homens; glicemia =110mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; colesterol HDL <50mg/dL em mu-lheres ou <40mg/dL em homens; pressão arterial =130x85mmHg ou uso de tratamento específico;
+- 	Os critérios da IDF definem “síndrome metabólica” na presença de circunferência abdominal aumentada (>80cm em mulheres e >90cm em homens, no Brasil) mais quaisquer 2 dos seguintes critérios: glicemia =100mg/dL ou diabetes prévio; triglicérides =150mg/dL ou uso de tratamento específico; colesterol HDL <50mg/dL em mulheres ou <40mg/dL em homens ou uso de tratamento específico; pressão arterial =130x85mmHg ou uso de tratamento específico;
 - 	Pessoas com SM apresentam aumento de 1,5 a 2 vezes no risco de DCV ou morte (exceto pacientes diabéticos, nos quais a presença de SM não parece aumentar esse risco) e aumento de 4 vezes no risco de DM2;
-- 	Outras doenças associadas incluem síndrome dos ovários policísticos, doença hepática gordurosa não alcoólica, apneia do sono e algumas neoplasias; 
-- 	O tratamento da SM não é diferente do tratamento dos seus componentes, incluindo perda de peso, hábitos de vida saudá-veis, cessação do fumo e do abuso de álcool, e manejo rigoroso das comorbidades (hipertensão arterial, hiperglicemia e dislipidemia), com vistas à prevenção de DM2 e de eventos cardiovasculares; 
-- 	Existem várias controvérsias sobre a definição, a importância clínica e a etiologia da SM; alguns autores sugerem que o termo seja abandonado, em favor da denominação “risco cardiometabólico”, mais abrangente e sem a necessidade de critérios diagnósticos rígidos. 
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
+- 	Outras doenças associadas incluem síndrome dos ovários policísticos, doença hepática gordurosa não alcoólica, apneia do so-no e algumas neoplasias; 
+- 	O tratamento da SM não é diferente do tratamento dos seus componentes, incluindo perda de peso, hábitos de vida saudá-veis, cessação do fumo e do abuso de álcool, e manejo rigoroso das comorbidades (hipertensão arterial, hiperglicemia e dislipide-mia), com vistas à prevenção de DM2 e de eventos cardiovasculares; 
+- 	Existem várias controvérsias sobre a definição, a importância clínica e a etiologia da SM; alguns autores sugerem que o termo seja abandonado, em favor da denominação “risco cardiometabólico”, mais abrangente e sem a necessidade de critérios diagnósti-cos rígidos. 
