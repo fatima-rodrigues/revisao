@@ -1,8 +1,4 @@
-diff --git a/infecto1_2.txt b/infecto1_2.txt
-index 7474bef..45adbb2 100644
---- a/infecto1_2.txt
-+++ b/infecto1_2.txt
-@@ -1,8 +1,7 @@
+
 Infecção pelo HIV e AIDS
 Durval A. G. Costa
 

@@ -1,8 +1,4 @@
-diff --git a/infecto1_1.txt b/infecto1_1.txt
-index 86e0640..2c9e4fb 100644
---- a/infecto1_1.txt
-+++ b/infecto1_1.txt
-@@ -1,8 +1,7 @@
+
 Patogênese do HIV e AIDS
 Durval A. G. Costa
 [-Resumo-]{+ +}

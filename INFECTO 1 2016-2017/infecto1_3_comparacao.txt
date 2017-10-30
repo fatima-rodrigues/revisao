@@ -1,8 +1,3 @@
-diff --git a/infecto1_3.txt b/infecto1_3.txt
-index 2ce5886..73b5d32 100644
---- a/infecto1_3.txt
-+++ b/infecto1_3.txt
-@@ -1,8 +1,7 @@
 {+   +}Manifestações oportunistas na AIDS
 Durval A. G. Costa
 

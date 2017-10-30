@@ -1,8 +1,4 @@
-diff --git a/infecto1_4.txt b/infecto1_4.txt
-index d770cae..44f0552 100644
---- a/infecto1_4.txt
-+++ b/infecto1_4.txt
-@@ -1,422 +1,482 @@
+
 Tratamento d[-a-]{+o+} {+HIV/+}AIDS{++}
 Durval A. G. Costa[-Resumo-]{++}
 {++}
