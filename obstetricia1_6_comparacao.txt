@@ -1,0 +1,131 @@
+diff --git a/obstetricia1_6.txt b/obstetricia1_6.txt
+index b240bbe..76ee7f6 100644
+--- a/obstetricia1_6.txt
++++ b/obstetricia1_6.txt
+@@ -1,17 +1,21 @@
+O trajeto
+Fábio Roberto Cabar
+
+{+Resumo+}
+{+Este capítulo discorrerá sobre o canal do parto, sendo importante sedimentar a pelvimetria, que avalia as medidas internas dos estreitos da bacia e confere ao obstetra a capacidade de avaliar o prognóstico do parto. São avaliados, no estreito supe-rior, o conjugado verdadeiro (obstétrico), o conjugado anatômico, o conjugado diagonal, os diâmetros transversos médio e máximo, os diâmetros oblíquos esquerdo e direito. Já no estreito médio, mede-se o diâmetro biciático; e, no estreito inferi-or, a conjugata exitus e o diâmetro bituberoso. +}
+
+1. Definição
+
+O trajeto, também conhecido como canal de parto, estende-se do útero à fenda vulvar. Nele, há 3 estreitamentos anula-res: o orifício cervical, o diafragma pélvico e a fenda vulvovaginal. Ele é constituído por estrutura dura e mais resistente, for-mada por ossos, articulações e ligamentos, e por outra estrutura mais flexível, chamada “bacia mole” – que compreende o diafragma pélvico e o urogenital.
+
+2. Bacia obstétrica
+
+A bacia obstétrica é constituída por 8 ossos: 2 ílios, 2 ísquios, 2 pubes, o sacro e o cóccix. É importante ressaltar que os os-sos ílio, ísquio e pube se fundem e, juntos, formam o osso ilíaco.
+
+ 
+Figura 1 - Bacia
+
+Os ossos da bacia unem-se entre si pelas articulações sínfise púbica (une os 2 pubes), sinostoses sacroilíacas (unem os os-sos ilíacos ao sacro) e sacrococcígea (articula o cóccix com o sacro). Por ação hormonal, es{+pecialmente pela progesterona, es+}sas articulações tornam-se mais frouxas durante a gestação{+ (participação do fenômeno de embebição gravídica)+}.
+O estreito superior divide a pelve em grande e pequena bacia. A pequena bacia, também chamada escavação, está locali-zada abaixo do estreito superior e é de maior interesse para o obstetra, pois representa o canal ósseo por onde o feto passa durante o parto.
+
+A - Estreitos da bacia
+@@ -35,6 +39,9 @@ Conjugado diagonal: mede 12cm e vai da borda inferior da s
+Diâmetro transverso médio: mede 12cm e é equidistante do promontório e da face posterior da sínfise púbica;
+Diâmetro oblíquo esquerdo e direito: mede 12cm e se estende da eminência ileopectínea à articulação sacroilíaca do la-do oposto; 
+
+{+Dica+}
+{+O conjugado obstétrico pode ser calculado a partir da medida do conjugado diagonal: basta medir o conjugado diagonal e subtrair 1,5cm do valor encontrado.+}
+
+ 
+Figura 2 - Pelves falsa e verdadeira
+
+@@ -44,11 +51,16 @@ Di
+Figura 3 - Diâmetros do estreito médio da bacia
+
+b) No estreito inferior
+Conjugata exitus: está na direção anteroposterior, mede 9 a 9,5cm e vai da borda inferior da sínfise púbica à ponta do cóccix. No desprendimento fetal, aumenta {+de 1,5 a +}2cm com a retropulsão cóccica;
+Diâmetro bituberoso: mede 11cm, é transverso e vai da face interna de uma tuberosidade isquiática à outra.
+
+{+Tema de prova+}
+{+Conjugata vera anatômica = 11cm, conjugata vera obstétrica = 10,5cm e conjugata diagonalis = 12cm são bastante frequen-tes nas provas de Residência Médica+}
+
+ 
+Figura 4 - Diâmetros da escavação: (a) diâmetros anteroposteriores; (b) eixo pélvico formado pela linha que une os centros dos planos dos estreitos superior, médio e inferior; (c) ângulo de inclinação pélvica que mede 60° (Bumm) e (*) Conjugata exitus
+
+
+C - Tipos 
+Há 4 tipos fundamentais de bacia, de acordo com o formato do estreito superior. Leva-se em conta a importância prática das suas conformações no prognóstico do parto.
+
+@@ -64,6 +76,9 @@ Bacia masculina. Corresponde a 20% dos casos e 
+d) Bacia platipeloide
+Bacia achatada. Corresponde a 5% dos casos; a insinuação, de maneira geral, ocorre na variedade de posição transversa, pois o estreito superior é ovalado, com diâmetro anteroposterior reduzido. Se não houver distocia de insinuação, o prognós-tico do parto será bom. As espinhas ciáticas são proeminentes, o sacro é largo, curvo e côncavo, e as paredes da escavação são divergentes. O diâmetro bituberoso é grande.
+
+{+Importante+}
+{+A bacia androide é a que apresenta pior prognóstico para o parto vaginal.+}
+
+ 
+Figura 5 - Tipos de bacia
+
+@@ -71,7 +86,7 @@ D - Exame cl
+Pelvimetria interna: avaliação clínica dos diâmetros internos da bacia pelo toque vaginal. É uma importante etapa do exa-me físico da gestante, pois é capaz de fornecer informações sobre prognóstico da via de parto. As principais medidas obser-vadas são:
+
+a) Ângulo subpúbico 
+[-=-]{+Deve ser igual ou superior a +}90°. 
+
+b) Espinhas ciáticas 
+Proeminência e distância entre elas (são esperados 10,5cm). 
+@@ -86,6 +101,16 @@ A pelvimetria externa 
+ 
+Figura 6 - Determinação digital do conjugado diagonal
+
+{+Pergunta+}
+{+2015 - IOG+}
+{+1. O diâmetro anteroposterior do estreito superior da pelve materna, que representa a menor distância entre o promon-tório do sacro e a sínfise púbica, é denominado: +}
+{+a) conjugata vera anatômica +}
+{+b) conjugata vera obstétrica +}
+{+c) 2º plano de Hodge +}
+{+d) conjugata diagonalis +}
+{+e) 1º plano de Hodge +}
+{+Resposta no final do capítulo+}
+
+3. Bacia mole
+
+A bacia mole compreende o diafragma pélvico e o diafragma urogenital.
+@@ -97,7 +122,7 @@ O m
+O músculo levantador do ânus é composto pelos feixes puborretal, pubococcígeo e ileococcígeo. Suas fibras mais anterio-res se originam do dorso do corpo do pube, enquanto as mais laterais, de um espessamento da fáscia que reveste a face in-terna do músculo obturador interno. Esse espessamento é chamado arco tendíneo do levantador do ânus e chega posterior-mente à espinha isquiática. Deste modo, cada músculo levantador do ânus se ocasiona ao longo de uma linha semicircular localizada na parede lateral da pelve, indo da espinha isquiática à face posterior do corpo do pube.
+O diafragma pélvico exerce importante papel na contenção visceral, contraindo-se quando há aumento das pressões ab-dominal e pélvica e dando sustentação aos órgãos pélvicos, impedindo o seu prolapso. Age como esfíncter vaginal e participa, de forma significativa, do controle voluntário da micção e da evacuação.
+A inervação do músculo levantador do ânus é fornecida, em sua face pélvica, por ramos provenientes do 3º e do 4º ra-mos ventrais sacrais. A parte puborretal recebe, em sua face perineal, um ramo do nervo pudendo. O músculo isquiococcí-geo é inervado pelo 4º e pelo 5º ramos ventrais sacrais. 
+[- -]
+ 
+Figura 7 - Visão superior da musculatura pélvica
+
+@@ -120,25 +145,34 @@ M
+- Isquiococcígeo.	- Transverso superficial do períneo;
+- Bulboesponjoso;
+- Isquiocavernoso.
+Origem	- Espinha isquiáti[---]ca e pube;
+- Espinha isquiáti[---]ca.	- Tuberosidade isquiática;
+- Tendão do períneo;
+- Tuberosidade isquiática.
+Inserção	- Cóccix;
+- Sacro e cóccix.	- Tendão do períneo;
+- Raiz do clitóris;
+- Arco púbico e ramos do clitóris.
+Ação	{+- +}Sustentação das vísceras pélvicas; 
+[-a-]{+- A+}uxílio na defeca[---]ção{+.+}	- Sustentação das vísceras pélvicas;
+- Constrição da uretra e da vagina;
+- Ereção do clitóris.
+
+4. Resumo
+
+Quadro-resumo
+- A bacia é constituída por 8 ossos: 2 ílios, 2 ísquios, 2 pubes, o sacro e o cóccix. Os ossos ílio, ísquio e pube fundem-[- -]se e for[---]mam o osso ilíaco;
+- O estreito superior apresenta configuração diversa conforme o tipo de bacia. Em 50% das vezes, é de forma arredondada{+ (bacia ginecoide)+}; 
+- Diâmetros mais importantes do estreito superior:
+· Conjugado verdadeiro: 10,5cm, do promontório ao ponto mais saliente da face interna da sínfise púbica;
+· Conjugado anatômico: 11cm, do promontório ao meio da borda superior da sínfise púbica;
+· Conjugado diagonal: 12cm, da borda inferior da sínfise púbica até o promontório.
+- Existem 4 tipos fundamentais de bacia, de acordo com o formato do estreito superior. Leva-se em consideração a importância prática de suas conformações no prognóstico do parto. 
+
+{+Resposta+}
+{+1. B+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
