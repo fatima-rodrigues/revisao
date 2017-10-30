@@ -1,0 +1,214 @@
+diff --git a/hemato_9.txt b/hemato_9.txt
+index cda0160..6ab48ce 100644
+--- a/hemato_9.txt
++++ b/hemato_9.txt
+@@ -1,14 +1,17 @@
+Trombofilias
+Fernanda Maria Santos[- / -]
+Marcos Laercio Pontes Reis
+Fábio Freire José[- / -]
+Kelly Roveran Genga
+{+Renato Akira Nishina Kuwajima+}
+
+[-Resumo-]
+Neste capítulo, serão abordadas as principais doenças envolvidas{+ nas trombofilias+}, como as decorrentes da mutação no fator V de Leiden, deficiência de antitrombina e proteína C, além das tromboses causadas por cirurgias, trauma, gestação e uso de anticon[---]cepcionais orais. O texto aborda, ainda, os principais tratamentos utilizados, com heparina ou com agentes cumaríni{+-+}cos como a varfarina.
+
+1. Introdução
+
+A trombose está relacionada ao desequilíbrio de um dos fatores da chamada tríade de Virchow: estase sanguínea, lesão endotelial e hipercoagulabilidade (Figura 1). Exemplos comuns dessas situações são a cirurgia com longos períodos de imobili{+-+}zação (estase), doenças hereditárias ou adquiridas com redução das substâncias que atuam na modulação da cascata da coa{+-+}gulação ou fibrinólise, como a deficiência de antitrombina (AT – alteração da coagulação), e a arteriosclerose, que provoca alterações endoteliais severas (lesão endotelial).
+Em 80% dos casos de trombose, é possível identificar um fator de risco para o evento trombótico e, em muitos casos, de{+-+}tectar múltiplos fatores.
+
+Tabela 1 - Risco para tromboembolismo venoso 
+- Idade >40 anos;
+@@ -34,52 +37,54 @@ Tabela 1 - Risco para tromboembolismo venoso
+Figura 1 - Tríade de Virchow
+
+Dica
+Pessoas com fatores de risco expostas a situações de risco (como cirurgias prolongadas) devem receber profilaxia para tromboembolismo venoso.[- -]
+
+A - Trombofilias hereditárias
+Compreendem situações em que a trombose acontece por alteração de substâncias moduladoras da coagulação ou fibri{+-+}nólise herdadas por meio de mutação genética, associada ou não a fatores desencadeantes. Os pacientes, uma vez tendo apresentado episódio de trombose, poderão necessitar de anticoagulação por toda a vida, a depender das circunstâncias nas quais a trombose ocorrer. As trombofilias hereditárias mais prevalentes são presença do Fator V de Leiden (FVL) e da muta{+-+}ção do gene da protrombina, que compreendem, juntas, 50 a 60% dos casos. 
+{+Segundo o Harrison, os testes para investigação de trombofilias hereditárias não são indicados imediatamente após um evento trombótico significativo, pois podem transitoriamente depletar algumas proteínas do plasma e levar a um diagnóstico equivocado de deficiência hereditária de antitrombina III, proteína C e S. A anticoagulação também pode interferir em alguns dos testes funcionais, sendo que a heparina pode reduzir os níveis de antitrombina e a varfarina reduzir os níveis de proteína C e S, levando potencialmente ao erro diagnóstico.+}
+
+Importante
+As trombofilias hereditárias mais associadas a eventos trombóticos, em ordem decrescente, são homozigose para o fator V de Leiden (mutante e resistente à inativação pela proteína C), deficiência de antitrombina e deficiência de proteína C.
+
+O estudo para a pesquisa das trombofilias hereditárias mais comuns consiste em pesquisa molecular do FVL e da mutação do gene da protrombina, dosagem de AT, proteína C e proteína S. Idealmente, antes de pesquisar a mutação do FVL, devemos solicitar, como triagem das mutações do fator V, o teste de Resistência à Proteína C Ativada (RPCA). Nos casos de resultados alterados (tempo <120 segundos), devemos partir para a pesquisa molecular do FVL, já que é a mutação mais frequente en{+-+}volvendo o fator V. Entretanto, existem outras mutações (bem mais raras) que levam à alteração na RPCA e são causas de trombofilias, como o fator V Cambridge, fator V Nara e fator V Liverpool. Atualmente, é bastante discutível a relação causal entre hiper-homocisteinemia e tromboembolismo venoso (TEV), sendo tal pesquisa não obrigatória. Além disso, a pesquisa molecular para a mutação da enzima metilenotetra-hidrofolato redutase (MTHFr) não deve ser solicitada rotineiramente, haja vista ser uma mutação relativamente comum (em heterozigose) e sem correlação clínica definida. Alguns casos podem se beneficiar da pesquisa da mutação JAK2, como na presença de trombose esplâncnica sem causas aparentes devido à associa{+-+}ção entre TEV e neoplasias mieloproliferativas crônicas. 
+{+É importante salientar que, após um evento trombótico agudo, é interessante aguardar em torno de 3 meses para iniciar a investigação de trombofilias, e o evento agudo, por si só, pode dificultar a investigação; o tratamento com heparinas pode reduzir os níveis de antitrombina III, e os cumarínicos podem reduzir os níveis de proteína C e S, o que pode gerar falsos posi-tivos. Porém, caso esses exames estejam normais, a hipótese de trombofilia pode ser excluída. +}
+Diante de um evento trombótico, aqueles que devem ser investigados para trombofilia hereditária são: 
+
+Tabela 2 - [-I-]{+Si+}t{+uaçõ+}e[-n-]s [-d-]{+qu+}e in{+dicam in+}vestigação {+de trombofilia hereditária +}
+- Trombose idiopática;
+- Trombose em indivíduos com idade abaixo de 50 anos;
+- História familiar de trombose (em familiares com menos de 50 anos);
+- Trombose recorrente;
+- Trombose em locais pouco comuns{+ (retina, mesentério e cérebro)+};
+- Associação de trombose venosa e arterial;
+- Tromboflebite migratória;
+- Púrpura fulminante;
+- Resistência a heparina. 
+
+a) Fator V de Leiden
+Trata-se de uma mutação genética que resulta na formação de fator V mutante, resistente à inativação pela proteína C. Es{+-+}sa resistência é um dos principais fatores de risco para TEV, sendo a mutação do FVL uma das causas. A presença da mutação aumenta o risco de doença trombótica em 3 a 10 vezes para heterozigotos e em 80 vezes para homozigotos e é maior quando associada a outros fatores de risco (utilização de contraceptivos orais, gravidez, imobilização após cirurgias, traumatismo ou doenças malignas). Essa mutação também favorece abortos espontâneos, e descreve-se possível correlação com a síndrome microangiopática, conhecida como síndrome HELLP.
+
+Importante
+O uso de anticoncepcionais hormonais, gravidez, trauma e imobilização aumenta[-m-] o risco de trombose nos pacientes com o fator V mutante. Além disso, essa trombofilia aumenta as chances de abortamento espontâneo e de síndrome HELLP.
+
+Estima-se que, no Brasil, tal gene esteja presente em cerca de 2 a 4% da população, e a detecção é feita por meio da pes{+-+}quisa da mutação por biologia molecular.
+
+b) Deficiência de AT
+Doença autossômica dominante, em que ocorre síntese reduzida do inibidor dos fatores IIa, Xa, XIa e IXa. Como a anticoa{+-+}gulação nos pacientes acometidos de trombose é feita inicialmente pela heparina não fracionada, caracteristicamente esses indivíduos têm maior dificuldade de alcançar níveis de anticoagulação, visto que a ação dessa heparina depende da AT.
+O diagnóstico é feito pela dosagem dos níveis da atividade de AT sérica.
+
+c) Deficiência de proteína C
+Doença autossômica dominante que pode apresentar-se sob 3 formas clínicas características, além da Trombose Venosa Profunda (TVP):{+	+}
+
+Tabela 3 - Formas clínicas
+- Tromboflebite superficial recorrente;
+- Púrpura fulminante neonatal: ocorre em recém-nascidos com deficiência grave, nos primeiros dias de vida, manifestando-se como tromboses venosa e arterial extensas e rapidamente progressivas, culminando com coagulação intravascular disseminada (CIVD) e falência de múltiplos órgãos, caso não seja feita a reposição do fator deficiente;
+- Necrose cutânea induzida pela varfarina: necrose extensa e rapidamente progressiva que acontece nos primeiros dias de uso da var{+-+}fa[---]rina (habitualmente, altas doses) em pacientes com deficiência de proteína C, em razão do período transitório inicial de hipercoa{+-+}gu[---]labilidade, visto que a proteína C é dependente da vitamina K[-;-]
+[-- O diagnóstico é feito pela pesquisa da atividade da proteína C sérica-].
+
+[-d)-]{+O+} [-Defic-]{+d+}i[-ê-]{+ag+}n{+ósti+}c{+o é feito pela pesqu+}i{+sa d+}a {+ativida+}de {+da +}proteína [-S-]{+C+} {+sérica.+}
+
+{+d) Deficiência de proteína S +}
+Trata-se de uma doença autossômica dominante. A proteína S é uma glicoproteína dependente da vitamina K e é cofator da proteína C. Sintetizada por células hepáticas, endoteliais e megacariócitos, apenas a sua forma circulante livre possui ativi{+-+}dade anticoagulante. Sua ação se dá pelo aumento da velocidade de inativação dos fatores Va e VIIIa, na presença da proteína C. Fase aguda do evento trombótico, gravidez, uso de contraceptivos orais ou agentes varfarínicos são causas de diminuição da atividade da proteína S e devem ser considerados na avaliação laboratorial. Sempre que possível, a dosagem da sua forma livre deve ser solicitada na suspeita dessa patologia. 
+
+Pergunta
+2008 - FMUSP-RP 
+@@ -91,18 +96,18 @@ d) doen
+Resposta no final do capítulo
+
+B - Trombofilias adquiridas
+Como principais exemplos de trombofilia adquirida, têm-se gestação e puerpério, associados ao risco de trombose 6 ve{+-+}zes maior em razão de diversos fatores: diminuição do nível sérico de proteína C, estase sanguínea pela compressão ute{+-+}rina, imobilização prolongada e obesidade;
+Cirurgia e trauma: devido à exposição de grande quantidade de fator tecidual por lesão endotelial, imobilidade prolonga{+-+}da e patologia de base. O risco trombótico é bastante aumentado em pacientes submetidos a procedimento cirúrgico, principalmente cirurgias ortopédica, vascular, neurológica e oncológica. Outros fatores de risco que aumentam ainda mais o risco trombótico nessa população são idade, evento trombótico prévio, trombofilia hereditária, tempo cirúrgico e imobi{+-+}lização prolongada. Os pacientes devem receber profilaxia antitrombótica primária no período pós-operatório, pois, sem isso, o risco de TVP sintomática e embolia pulmonar é bastante alto;
+Neoplasias malignas: decorrentes da exposição de fator tecidual em células neoplásicas, levando à formação excessiva de trombina, manifestando-se como tromboflebite migratória (síndrome de Trousseau), endocardite trombótica não infeccio{+-+}sa ou CIVD crônica;
+Deficiência adquirida da AT: decorre de consumo (CIVD, pré-eclâmpsia e eclâmpsia), diminuição de síntese (doença hepá{+-+}tica) e perda urinária (síndrome nefrótica); 
+Deficiência adquirida de proteína C: em razão de consumo em infecções graves, CIVD e pós-operatório;
+Anemias hemolíticas: hemoglobinúria paroxística noturna (trombose venosa, principalmente no leito hepático, ou arteri{+-+}al), anemia falciforme e talassemia;
+Hiperviscosidade: plasmática (mieloma múltiplo, Waldenström), eritrocitária (policitemia vera), leucocitária (leucemia agu{+-+}da) ou plaquetária (trombocitemia essencial, mieloproliferação crônica);
+Medicamentos: talidomida, L-asparaginase, bevacizumabe e anticoncepcional oral/terapia de reposição hormonal;
+Síndrome do anticorpo antifosfolípide (SAAF).
+
+Dica
+As principais causas de trombofilias adquiridas incluem gestação/puerpério, cirurgias (especialmente as ortopédicas), neo-plasias malignas e uso de anticoncepcionais hormonais.[- -]
+
+Tabela 4 - Causas de hipercoagulabilidade
+Adquiridas
+@@ -113,7 +118,7 @@ Adquiridas
+- Uso de anticoncepcionais, gestação;
+- SAAF;
+- Trombocitopenia por heparina;
+- Deficiência de vitamina B12 ou de ácido fólico{+ (por elevar as concentrações de homocisteína)+}.
+Congênitas
+- Deficiência de AT;
+- Fator V resistente à proteína C (fator V de Leiden);
+@@ -122,60 +127,66 @@ Cong
+- Mutação do gene da protrombina;
+- Raros: disfibrinogenemia, plasminogênio mutante.
+
+{+- +}Síndrome do anticorpo antifosfolípide (SAAF)
+Caracterizada por fenômenos trombóticos (venosos e/ou arteriais) e/ou morbidade gestacional na presença persistente de alguma evidência laboratorial de anticorpos antifosfolípides, essa síndrome pode ocorrer como uma doença primária, responsável pela maioria dos casos (na ausência de outra patologia) ou que faz parte de outra doença, geralmente lúpus eri{+-+}tematoso sistêmico. Outras condições associadas são neoplasia, infecções e drogas.
+Os principais anticorpos antifosfolípides são anticoagulante lúpico, anticardiolipina e antibeta-2-glicoproteína I.
+O anticoagulante lúpico é uma IgM ou uma IgG autoimune que provoca o prolongamento paradoxal do Tempo de Trom{+-+}boplastina Parcial Ativada (TTPA) in vitro e leva ao aumento do risco trombótico e a abortos de repetição. O TTPA prolongado, que não se corrige com a adição de plasma normal, com Tempo de Protrombina (TP) e fibrinogênio normais, é bastante carac{+-+}terístico. O tempo de Russel, realizado com veneno de cobra, é o teste mais específico.
+Os anticorpos anticardiolipina ou antibeta-2-glicoproteína I também podem ser IgM ou IgG e afetam diretamente a camada fosfolípide plaquetária, levando, paradoxalmente, à plaquetopenia e à trombose, por ativação das plaquetas e formação de microcoágulos. Também estão associados a abortamentos de repetição, por microtrombos placentários.
+O diagnóstico deve basear-se nos critérios de Sydney (ou classificação de Sapporo revisada). 
+
+Tabela 5 - Diagnóstico de síndrome do anticorpo antifosfolípide
+Critérios clínicos
+Presença de trombose vascular ou morbidade gestacional	Trombose vascular: 1 ou mais episódios de trombose venosa, arterial ou de pe{+-+}quenos vasos confirmada por exame de imagem ou biópsia em qualquer órgão ou tecido (lembrar que trombose venosa superficial não é critério clínico para SAAF)
+	Morbidade gestacional: óbito fetal =10 semanas de gestação, sem causa evi{+-+}dente em feto morfologicamente normal; ou 1 ou mais partos prematuros antes de 34 semanas de gestação por eclâmpsia, pré-eclâmpsia ou insufici[---]ência pla{+-+}centária; ou 3 ou mais perdas gestacionais inexplicadas com mais de 10 sema{+-+}nas de gestação (ausência de anormalidades cromossômicas pater[---]nas ou cau{+-+}sas maternas anatômicas ou hormonais)
+Critérios laboratoriais
+Presença de anticorpos antifosfolípides em 2 ou mais ocasiões com pelo menos 12 semanas entre estas (e menos de 5 anos antes de alguma manifestação clínica)	Presença de anticorpos anticardiolipina IgG e/ou IgM em títulos moderados a altos (>40U{+I+}); presença de anticorpos antibeta-2-glicoproteína I IgG ou IgM em títulos >percentil 99; presença de anticoagulante lúpico (detectado de acordo {+com +}guidelines nacionais ou internacionais)
+
+Importante
+Considera-se definido o diagnóstico de síndrome do anticorpo antifosfolípide na presença de pelo menos 1 critério clínico (trombose vascular ou morbidade gestacional) em associação a{+,+} no mínimo{+,+} 1 critério laboratorial (presença de anticorpos anti[---]fosfolípides em 2 ou mais ocasiões com pelo menos 12 semanas entre estas e menos de 5 anos antes de alguma manifestação clínica).
+
+C - Tratamento dos eventos trombóticos
+
+a) Heparina
+
+Importante
+A heparina é a medicação comumente utilizada no tratamento de eventos trombóticos, iniciada assim que se dá a trombose. A forma não fracionada exige controle por meio do tempo de tromboplastina parcial ativada (deve ficar entre 1,5 e 2{+,5+}), enquanto a forma de baixo peso molecular não o exige.[- -]
+
+A heparina é uma substância que atua ampliando em 1.000 a 4.000 vezes a capacidade inibitória da AT. A heparina não fracionada inibe os fatores IIa, Xa, IXa, XIa, sendo necessário o controle do nível terapêutico por meio do TTPA (manter entre 1,5 e 2{+,5+} vezes o valor basal). As Heparinas de Baixo Peso Molecular (HBPMs – enoxaparina, dalteparina, tinzaparina, nadro{+-+}parina) inibem apenas os fatores IXa, Xa e XIa, não necessitando do controle com o TTPA, mas em casos especiais como obesi{+-+}dade e insuficiência renal, a monitorização por meio da dosagem do fator anti-Xa é bastante útil.
+A heparina deve ser iniciada imediatamente diante de episódio agudo de trombose. Como complicação desse tratamento, podem-se ter sangramento e Trombocitopenia Induzida pela Heparina (TIH). Em casos de sangramento, está indicada a inter{+-+}rupção do tratamento até ser resolvida a causa; e, em casos de sangramentos graves, pode-se utilizar a protamina, o antídoto da heparina.
+A TIH acontece em 2 a 5% dos pacientes que recebem heparina, é imunologicamente mediada e inicia-se entre o 4º e o 10º dias de uso, sendo mais associada à heparina não fracionada quando comparada à ocorrência após o uso de HBPM.
+A TIH está relacionada a eventos trombóticos com potencial risco de vida. Sua patogenia é explicada por um mecanismo imune, em que os pacientes desenvolvem anticorpos contra o complexo heparina – fator-4-plaquetário. Uma vez presentes, os anticorpos promovem ativação plaquetária por meio dos seus receptores Fc. As plaquetas liberam mais fator-4-plaquetário, uma proteína encontrada nos seus grânulos alfa com alta afinidade de ligação com a heparina. Essa ligação forma um complexo multimolecular heparina–fator-4-plaquetário, que é o alvo antigênico dos anticorpos formados. A ligação dos anticorpos aos antígenos se dá na superfície das plaquetas e das células endoteliais, resultando em agregação e destruição plaquetária, e lesão das células endoteliais. Consequentemente, ocorrem ativação da cascata da coagulação e aumento na síntese de trombina. Todos esses fatores aumentam o risco de complicações tromboembólicas, sendo os mais frequentes os TEVs, especialmente nos membros inferiores, e embolia pulmonar. As complicações arteriais geralmente envolvem as gran{+-+}des artérias dos membros inferiores, levando a isquemia aguda das extremidades.
+Diante da suspeita de TIH (diminuição de pelo menos 50% da contagem plaquetária basal do paciente, sem justificativa), é obrigatória a suspensão imediata da heparina. A contagem de plaquetas geralmente se normaliza após 7 a 10 dias da inter{+-+}rupção. Entretanto, só a sua suspensão não é suficiente, devendo ser instituída nova anticoagulação, pelo alto risco trombóti{+-+}co, até que a contagem plaquetária se normalize.
+A HBPM não é recomendada como alternativa para anticoagulação na TIH, por apresentar reatividade cruzada in vitro com os anticorpos formados em mais de 90% dos casos. Anticoagulantes orais também não devem ser usados como substitutos da heparina: apresentam lento início de ação e promovem queda dos níveis de proteína C que, associada ao aumento na gera{+-+}ção de trombina já existente nesses pacientes, coloca-os em risco maior de complicações tromboembólicas. Seu uso tem sido associado à gangrena venosa de extremidades. A terapia com anticoagulante oral deve ser postergada até que a trombocito{+-+}penia seja resolvida.
+Em virtude da participação da trombina na patogênese da TIH, a alternativa ideal para anticoagulação deve incluir uma droga que reduza a síntese/ação de trombina. Entre essas drogas estão os inibidores diretos da trombina, a hirudina, ar{+-+}gatrobana ou bivalirudina, e um inibidor indireto da trombina, o danaparoide. Fondaparinux (inibidor do fator Xa) é alternati{+-+}va.
+O tratamento dos episódios agudos de trombose, obviamente, baseia-se na anticoagulação. Exceto nos casos de plaqueto{+-+}penia por heparina, sugere-se uma forma dessa droga (não fracionada ou de baixo peso molecular) nos primeiros 2 a 5 dias, podendo-se iniciar o anticoagulante oral (varfarina sódica, por exemplo) concomitantemente, e retirando-se a heparina após ação evidente do cumarínico (prolongamento de TP, com INR – razão de normatização internacional – acima de 2, por pelo menos 2 dias consecutivos).
+
+b) Anticoagulantes orais
+{+Nas primeiras 48 horas de uso, o cumarínico pode ter efeito pró-coagulante, piorando a trombose ou provocando uma complicação clássica – a trombose cutânea hemorrágica secundária à trombose de pequenos vasos.+}
+A classe de drogas genericamente conhecida como agentes cumarínicos compõe o arsenal terapêutico utilizado para a an{+-+}ticoagulação em longo prazo nos pacientes com TEV. 
+Tais drogas agem no fígado, inibindo a gamacarboxilação dos resíduos de ácido glutâmico da região N-terminal dos fatores da coagulação dependentes da vitamina K (fatores II, VII, IX, X, proteínas C e S), por meio do bloqueio da ação da enzima vita{+-+}mina K redutase, importante na redução da vitamina K da forma inativa para a forma ativa. São absorvidas no intestino e transportadas no plasma por meio de ligação a albumina. O metabolismo acontece também no fígado, e a droga é excretada sob forma hidroxilada na urina. 
+A alta sensibilidade do teste de protrombina para detectar redução nos fatores que são dependentes de vitamina K é o racional para o seu uso na monitorização dessa classe de medicamento.
+{+É importante lembrar que, inicialmente, os cumarínicos têm efeito pró-coagulante (por inibição da proteína C que tem meia-vida mais curta – 14 horas), podendo ocorrer piora do quadro, ou causando uma complicação clássica, conhecida como necrose cutânea induzida pela varfarina (Figura 2).+}
+
+
+{+  +}
+{+Figura 2 - Necrose cutânea induzida pela varfarina+}
+
+Importante
+Os [-medicamentos -]cumarínicos são comumente utilizados para tratamento em longo prazo dos pacientes com eventos trombóticos. A var{+-+}farina é a medicação mais usada, devendo-se fazer seu controle por meio do INR (entre 2 e 3 aproxima[---]damente).
+
+Existem 2 tipos de cumarínicos comercialmente disponíveis no Brasil: a varfarina (Marevan® e Coumadin®) e a femprocu{+-+}mona (Marcoumar®). A varfarina tem meia-vida de 35 horas, e a femprocumona, de 4 a 5 dias. Pela menor meia-vida plasmá{+-+}tica da varfarina, tal droga apresenta melhor perfil para utilização clínica, com menores riscos de superdosagem e controle mais fácil da anticoagulação, justificando sua maior utilização nos ensaios clínicos em todo o mundo.
+Os fatores da coagulação dependentes da vitamina K também têm diferentes meias-vidas, sendo a mais curta a do fator VII (6 horas){+, e da proteína C (14 horas)+}. As meias-vidas mais longas dos fatores IX (24 horas), X (25 a 60 horas) e II (50 a 80 horas) são as responsáveis pela latência no efeito terapêutico dos anticoagulantes orais. No tratamento do TEV, a varfarina deve ser iniciada no 1º dia de tratamento, concomitantemente ao começo da heparinização, após se obterem os valores basais de TP (INR) e TTPA. A dose atualmente preconizada é de 1 comprimido de 5mg, 1x/d, em jejum, com controle periódico do INR nos primeiros dias de tratamento para ajuste da dosagem. 
+Uma vez que as proteínas C e S são anticoagulantes naturais também dependentes da vitamina K, pode haver diminuição mais acentuada dessas proteínas por ocasião do início da anticoagulação oral, precipitando eventos trombóticos, até que todos os fatores vitamina K-dependentes estejam diminuídos. Tais casos caracteristicamente cursam com necrose de pele e do tecido celular subcutâneo, sendo especialmente comuns em pacientes com deficiência hereditária de proteína C ou pro{+-+}teína S e também nos portadores da SAAF. Essa complicação deve ser tratada com suspensão da varfarina, administração de vitamina K e heparinização plena. Nos casos severos, pode-se administrar proteína C recombinante. As complicações decor{+-+}rentes de sangramento em consequência da anticoagulação excessiva (INR >3) devem ser tratadas com reposição de vitamina K e, se houver sangramento com risco de vida, transfusão de plasma fresco congelado ou infusão do complexo protrombínico ativado (Tabela 6).
+
+Tabela 6 - Tratamento da anticoagulação excessiva
+INR	Condutas
+[-3 <INR-]{+Entre+} [-<5-]{+3+} [-s-]e[-m-] [-sangramento-]{+5+}	Interromper por 1 dia e diminuir as doses subsequentes; monitorizar frequentemente até alcançar a dose ideal.
+{+Entre +}5 [-=INR-]{+e+} [-<-]9 [-sem sangramento-]	Suspender o medicamento até o INR ideal, administrar vitamina K 2,5mg VO e repetir o INR em 24 horas. Ajustar as doses subsequentes do anticoagulante.
+INR =9 sem sangramento	Suspender o medicamento e administrar vitamina K 5 a 10mg VO. Repetir o INR em 24 horas e ajustar doses subsequentes.
+Sangramento excessivo inde{+-+}pen[---]dente do INR	Suspender anticoagulante, administrar vitamina K 10mg IV e complementar com complexo pro-trombínico, plasma fresco congelado, ou fator VII ativado, a depender da urgência e das condições do paciente.
+
+São inúmeros os fatores que interferem na dose ideal de cada paciente: genéticos (alguns pacientes metabolizam muito lentamente os anticoagulantes orais, necessitando de doses extremamente baixas), alimentação (alimentos que contenham vitamina K) e diversos medicamentos (alteram o metabolismo da vitamina K e do anticoagulante oral).
+A utilização contínua de anticoagulantes orais tem várias indicações (Tabela 7), porém os critérios variam entre as diferen{+-+}tes instituições e as particularidades de cada paciente. A avaliação cuidadosa do risco trombótico de cada paciente e da reso{+-+}lução ou persistência dos fatores capazes de desencadear a trombose são os elementos fundamentais da utilização racional dessa terapêutica.
+
+Tabela 7 - Indicações para uso contínuo de anticoagulantes orais
+Indicações	Intervalos de INR ideais	Duração
+@@ -186,24 +197,26 @@ Trombose por s
+Tratamento de embolia pulmonar: 1º episódio	2 a 3	3 a 6 meses
+Alto risco de embolia recorrente	2 a 3	Toda a vida
+Prevenção de embolia sistêmica: prótese valvar biológica	2 a 3	3 meses
+Infarto agudo do miocárdio (se indicado, prevenir embolia sis{+-+}têmica)	2 a 3	Critério clínico
+Doença valvar cardíaca (após evento trombótico ou se o átrio esquerdo for >5,5cm)	2 a 3	Toda a vida
+Fibrilação atrial crônica ou intermitente	2 a 3	Toda a vida
+Cardioversão	2 a 3	3 semanas antes e 4 semanas depois da cardiover[---]são, se o ritmo sinusal foi mantido
+Próteses valvares aórticas mecânicas	2 a 3	Toda a vida
+{+Próteses valvares aórticas mecânicas em FA	2,5 a 3,5	Toda a vida+}
+Próteses valvares aórticas biológicas	2 a 3	Critério clínico (3 meses)
+Próteses valvares mitrais mecânicas{+, independente do ritmo+}	
+2{+,5+} a 3{+,5+}	Toda a vida
+Próteses valvares mitrais biológicas	2 a 3	3 meses
+
+c) Outros anticoagulantes
+Existem outros anticoagulantes que podem ser utilizados no tratamento da trombose, alguns não disponíveis no Brasil (ini{+-+}bidores diretos da trombina: hirudina, argatrobana; inibidores do Xa), outros em estudo (inibidores do fator VIIa, inibidores do fator IXa).
+No Brasil, existem anticoagulantes disponíveis para profilaxia primária de trombose em algumas situações (cirurgias orto{+-+}pédicas), mas nem todos foram liberados para uso no tratamento da trombose, aguardando estudos. São exemplos os novos anticoagulantes orais: a rivaroxabana (inibidor do fator Xa) e a dabigatrana (inibidor direto da trombina), que apresentam como vantagem sobre os cumarínicos o fato de não necessitarem de monitorização laboratorial, vantagem sobre as HBPMs a administração oral, e a desvantagem de não apresentem antídoto específico nos casos de sangramento. A seguir, detalhare{+-+}mos as principais informações, já que estes estão aprovados para uso:
+Fondaparinux: [-uma molécula sintética que -]co[-nsiste na sequência pentassacarídea altamente ativa. Co-]mo as HBPM{+s+}, é quase exclusivamente metabolizada pelo rim, e seu uso deve ser evitado ou utilizado com precaução em doentes com insufici[---]ência renal grave. Atua, mediado pela trombina, na inibição do fator Xa. Farmaco{+-+}cinética previsível permite a dosagem baseada no peso. Possui meia-vida longa (17 a 21 horas) e permite dose única diá{+-+}ria, mas a ausência de características de carga necessárias leva a falta de ligação ao sulfato de protamina, portanto, ne{+-+}nhum agente de neutralização efetiva exis[---]te. Aprovado para tratamento de TEV e TEP, profilaxia de eventos trombóticos em cirurgias ortopédicas e cirurgias ab[---]dominais;
+Etexilato de dabigatrana: anticoagulante oral que é aprovado para uso para prevenção de acidente vascular cerebral e embolia sistêmica em pacientes com fibrilação atrial não valvular. É uma pró-droga que é convertida em dabigatrana com efeito de pico dentro de 2 horas. O estado de equilíbrio é alcançado dentro de 3 dias. Como há a excreção renal de cer[---]ca de 80%, é necessário o ajuste para a função renal diminuída. Nem o INR, nem o TTPA podem ser utilizados para con[---]trolar de forma confiável o efeito da droga. Não há antídoto disponível para reverter seus efeitos, embora a droga possa ser re{+-+}movida por diálise. Atua como inibidor direto da trombina, sendo aprovada também como profilaxia em pacientes cirúrgi{+-+}cos e tratamento e prevenção secundária de TEV;
+Rivaroxabana: inibidor anti-Xa oral [-que é -]aprovado para prevenção de TVP, para pós-cirurgia de quadril ou joelho, pre[---]venção da acidente vascular cerebral em fibrilação atrial não valvular e no tratamento da TVP/TEP. Sua meia-vida é de 5 a 13 horas (maior entre idosos). Como ele não tem antídoto, o sangramento por rivaroxabana associado pode ser tratado através da retirada da droga, enquanto se dissipa o efeito anticoagulante, e por administração de carvão ativado (se a do[---]se foi feita recentemente);
+[-Edo-]{+Api+}xabana: droga [-recentemente -]aprovada para tratamento de TEV e profilaxia de eventos trombóticos em portadores de FA crônica não valvular. Droga usada por via oral, atua como inibidor direto do fator Xa.  
+	[- -]
+[-2. -]
+Resumo
+
+Quadro-resumo
+Trombofilias hereditárias
+@@ -224,15 +237,10 @@ Heparina
+- Inibe os fatores IIa, Xa, IXa, XIa, sendo necessário o controle do nível terapêutico por meio do TTPA; 
+- A HBPM inibe apenas os fatores IXa, Xa e XIa, não necessitando do controle com o TTPA;
+- Complicações: sangramentos e TIH;
+- TIH: ativação da cascata da coagulação e aumento na síntese de trombina, o que aumenta o risco de complicações tromboembóli{+-+}cas. Em caso de suspeita de TIH, deve-se suspender a heparina imediatamente.
+Anticoagulantes orais
+- A classe de drogas genericamente conhecida como agentes cumarínicos compõe o arsenal terapêutico utilizado para a anticoagula{+-+}ção em longo prazo nos pacientes com TEV;
+- Tais drogas agem no fígado, inibindo a gamacarboxilação dos resíduos de ácido glutâmico da região N-terminal dos fatores da coa{+-+}gu[---]lação dependentes da vitamina K (fatores II, VII, IX, X, proteínas C e S).
+
+Resposta[-1. C-]
+
+[-Dica-]
+[-Para-] [-fix-]{+d+}a[-r o-] que[- e-]st[-ud-]{+ã+}o[-u-] [-neste-]{+do+} capítulo
+[-, teste seus problemas resolvendo as questões referentes ao tema-]{+1+}.[-Questões: página XX-] C[-omentários: página XX-]
