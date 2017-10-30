@@ -1,8 +1,4 @@
-diff --git a/gineco1_1.txt b/gineco1_1.txt
-index b7c119e..6292729 100644
---- a/gineco1_1.txt
-+++ b/gineco1_1.txt
-@@ -1,6 +1,11 @@
+
 Anatomia, embriologia e malformações
  do trato reprodutivo feminino
 Flávia Fairbanks Lima de Oliveira Marino[- / -]

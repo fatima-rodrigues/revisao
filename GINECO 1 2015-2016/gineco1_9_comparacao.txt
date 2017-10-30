@@ -1,8 +1,4 @@
-diff --git a/gineco1_9.txt b/gineco1_9.txt
-index 240b123..41e24ff 100644
---- a/gineco1_9.txt
-+++ b/gineco1_9.txt
-@@ -1,21 +1,32 @@
+
 Moléstia inflamatória pélvica aguda
 Flávia Fairbanks Lima de Oliveira Marino[- / -]
 Camila Martim Sequeira {+Neto+}

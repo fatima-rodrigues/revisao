@@ -1,8 +1,4 @@
-diff --git a/gineco1_4.txt b/gineco1_4.txt
-index 0dc506b..73e6d56 100644
---- a/gineco1_4.txt
-+++ b/gineco1_4.txt
-@@ -1,17 +1,21 @@
+
 Síndrome pré-menstrual, 
 dismenorreia e dor pélvica crônica
 Flávia Fairbanks Lima de Oliveira Marino

@@ -1,8 +1,4 @@
-diff --git a/gineco1_2.txt b/gineco1_2.txt
-index 59bfb8e..fe74cad 100644
---- a/gineco1_2.txt
-+++ b/gineco1_2.txt
-@@ -1,71 +1,100 @@
+
 Fisiologia menstrual
 Flávia Fairbanks Lima de Oliveira Marino
 

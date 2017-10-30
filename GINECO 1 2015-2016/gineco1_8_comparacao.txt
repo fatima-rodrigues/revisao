@@ -1,8 +1,4 @@
-diff --git a/gineco1_8.txt b/gineco1_8.txt
-index f0fcd68..7629516 100644
---- a/gineco1_8.txt
-+++ b/gineco1_8.txt
-@@ -1,5 +1,9 @@
+
 Vulvovaginites e cervicites
 Flávia Fairbanks Lima de Oliveira Marino[- / -]
 Camila Martim Sequeira Neto

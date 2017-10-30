@@ -1,8 +1,4 @@
-diff --git a/gineco1_10.txt b/gineco1_10.txt
-index 9dfb4bf..a78900b 100644
---- a/gineco1_10.txt
-+++ b/gineco1_10.txt
-@@ -1,5 +1,9 @@
+
 Infertilidade conjugal
 Flávia Fairbanks Lima de Oliveira Marino[- / -]
 Joji Ueno

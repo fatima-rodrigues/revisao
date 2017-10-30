@@ -1,8 +1,4 @@
-diff --git a/gineco1_3.txt b/gineco1_3.txt
-index 44c3444..62ff068 100644
---- a/gineco1_3.txt
-+++ b/gineco1_3.txt
-@@ -1,9 +1,14 @@
+
 Planejamento familiar
 Flávia Fairbanks Lima de Oliveira Marino
 

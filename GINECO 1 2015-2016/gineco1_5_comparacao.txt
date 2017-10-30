@@ -1,8 +1,4 @@
-diff --git a/gineco1_5.txt b/gineco1_5.txt
-index afe3762..5d6a90d 100644
---- a/gineco1_5.txt
-+++ b/gineco1_5.txt
-@@ -1,20 +1,27 @@
+
 Endometriose
 Flávia Fairbanks Lima de Oliveira Marino
 

@@ -1,8 +1,4 @@
-diff --git a/gineco1_6.txt b/gineco1_6.txt
-index f29d6f6..3e64a28 100644
---- a/gineco1_6.txt
-+++ b/gineco1_6.txt
-@@ -1,31 +1,40 @@
+
 Mioma uterino
 Flávia Fairbanks Lima de Oliveira Marino[- / -]
 Camila Martim Sequeira Neto
