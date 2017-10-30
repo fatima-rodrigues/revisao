@@ -1,0 +1,360 @@
+diff --git a/obstetricia1_5.txt b/obstetricia1_5.txt
+index f2613ef..1e9f0d4 100644
+--- a/obstetricia1_5.txt
++++ b/obstetricia1_5.txt
+@@ -1,13 +1,16 @@
+Assistência pré-natal
+Fábio Roberto Cabar
+
+{+Resumo+}
+{+A assistência pré-natal visa abordar todas as alterações próprias da gestação, além das orientações em casos especiais, quando necessário. É imprescindível no sentido de prevenir doenças fetais e maternas, sendo que o Ministério da Saúde preconiza no mínimo 6 consultas pré-natais. Anamnese, exame físico, exames laboratoriais, sorologias e indicação de vaci-nação, colpocitologia oncótica e ultrassonografia obstétrica fazem parte do acompanhamento e serão detalhados a seguir. +}
+
+1. Definição
+
+A diminuição das morbimortalidades materna e perinatal está relacionada a um tripé constituído por planejamento famili-ar (gravidez desejada e planejada), assistência pré-natal e assistência ao parto. Tendo como principal objetivo os cuidados com a saúde da gestante e do concepto, a assistência pré-natal atua em caráter preventivo, assistencial e educacional.
+O acompanhamento médico durante a gravidez visa proporcionar higidez ao organismo materno (orientar hábitos de vida, dieta e atividade física); amparar social e psicologicamente; educar para o parto; ensinar noções de puericultura; pesquisar e tratar estados mórbidos preexistentes que compliquem ou agravem a gestação ou o parto; prevenir, diagnosticar e tratar patologias próprias da gravidez.
+O pré-natal deve ser iniciado o mais precocemente possível. O ideal é que a mulher realize acompanhamento pré-concepcional, em que problemas passíveis de correção possam ser diagnosticados antes da gestação. Deve-se prescrever ácido fólico 3 meses antes da concepção para profilaxia de malformação fetal (defeitos de fechamento do tubo neural). A dose recomendada é de 0,4 a 0,8mg/d em população de baixo risco e de 5mg/d em mulheres com alto risco de gerarem fetos com defeitos de fechamento do tubo neural. O ácido fólico pode ser recomendado até o final da gestação, a fim de prevenir não malformação fetal, mas outras morbidades maternas, como a anemia megaloblástica.
+A Organização Mundial da Saúde (OMS) considera ideal a realização de 4 consultas no pré-natal e 1 no período pós-parto. Na 1ª visita, recomendada até a 16ª semana de gestação, deve ser avaliado o risco obstétrico. A detecção de qualquer risco implica atenção especializada, com avaliação e seguimentos adicionais e, se necessário, encaminhamento para um serviço de nível mais complexo. Na ausência de risco, o acompanhamento pré-natal deve seguir as recomendações para a atenção bási-ca na assistência pré-natal.
+De acordo com o Ministério da Saúde do Brasil, “o principal objetivo da atenção pré-natal e puerperal é acolher a mulher desde o início da gravidez, assegurando, ao fim da gestação, o nascimento de uma criança saudável e a garantia do bem-estar materno e neonatal. Uma atenção pré-natal e puerperal qualificada e humanizada se dá por meio da incorporação de condu-tas acolhedoras e sem intervenções desnecessárias; do fácil acesso a serviços de saúde de qualidade, com ações que inte-grem todos os níveis da atenção: promoção, prevenção e assistência à saúde da gestante e do recém-nascido, desde o aten-dimento ambulatorial básico ao atendimento hospitalar para alto risco. Estados e municípios, por meio das unidades integran-tes de seu sistema de saúde, devem garantir atenção pré-natal e puerperal realizada em conformidade com os parâmetros estabelecidos a seguir: 1. Captação precoce das gestantes com realização da primeira consulta de pré-natal até 120 dias da gestação e 2. Realização de, no mínimo, seis consultas de pré-natal, sendo, preferencialmente, [-uma-]{+1+} no [-primeiro-]{+1º+} trimestre, [-duas-]{+2+} no [-segundo-]{+2º+} trimestre e [-três-]{+3+} no [-terceiro-]{+3º+} trimestre da gestação.”
+De forma semelhante, a Federação Brasileira das Associações de Ginecologia e Obstetrícia (FEBRASGO) estabelece que o número mínimo seja de 6 consultas pré-natais: 1 no 1º trimestre, 2 no 2º trimestre e 3 no último trimestre. A maior frequên-cia de consultas no último trimestre da gestação visa à avaliação do risco perinatal e das intercorrências clínico-obstétricas mais comuns nessa fase: doença hipertensiva específica da gestação e suas complicações (eclâmpsia, síndrome HELLP), diabe-tes gestacional, trabalho de parto prematuro, restrição de crescimento fetal, óbito fetal etc. O acompanhamento da mulher só deve ser encerrado após o 42º dia pós-parto, período em que deve ter sido realizada a consulta de puerpério.
+No Hospital das Clínicas da Faculdade de Medicina da USP, o número de consultas depende da existência de intercorrên-cias clínicas e/ou obstétricas no decorrer da gravidez. Não sendo constatado risco obstétrico, a gestante realiza consulta men-sal até a 32ª semana de gestação, quinzenal até a 36ª semana e, a partir de então, tem retorno semanal até o parto. As gestan-tes de alto risco podem e devem ser acompanhadas a intervalos menores, conforme a gravidade da sua patologia.
+De qualquer maneira, sabe-se que o importante não é a quantidade de consultas, mas a qualidade da atenção pré-natal. A redução no número de consultas está associada, entretanto, à insatisfação da gestante quanto aos cuidados pré-natais. A consulta deve seguir um roteiro com os mesmos itens de uma consulta clínica: anamnese, exame físico e solicitação de exa-mes subsidiários.
+@@ -17,15 +20,15 @@ De qualquer maneira, sabe-se que o importante n
+A anamnese em Obstetrícia coleta dados que permitem analisar as condições pregressas e atuais do organismo materno, de modo a inferir sobre o seguimento da gestação atual.
+
+A - Idade
+
+O conhecimento da idade é imprescindível, em virtude da maior ou da menor incidência de determinadas doenças em certas faixas etárias. Considera-se favorável para o desenvolvimento da gestação a idade compreendida entre 18 e 28 anos, período em que os órgãos genitais internos e externos atingem o seu pleno desenvolvimento fisiológico e anatômico. Consi-dera-se primigesta jovem quando a paciente tem a 1ª gestação antes de 18 anos. Da mesma forma, será considerada idosa quando sua idade for superior a 35 anos. Nesse caso, deve-se orientá-la quanto à possibilidade de diagnóstico pré-natal de algumas síndromes cromossômicas ou genéticas, especialmente a síndrome de Down.
+
+[-B-]{+Diagnóstico+}
+{+Somente a biópsia de+} [---]{+vilo+} [-E-]{+coriônico exclui to+}t{+alme+}n{+te o risco de alterações cromossôm+}i{+c+}a{+s em gestantes idosas. +}
+
+{+B - Etnia+}
+Ressalta-se a maior incidência de hipertensão arterial crônica, anemia falciforme, miomatose uterina e outras patologias entre as gestantes negras. Diferenças raciais também acompanham variações na bacia óssea: mulheres negras têm maior incidência de bacia do tipo androide. Esse fato é compensado pela maior plasticidade da cabeça dos fetos dessa etnia, o que favorece o parto pela via vaginal.
+
+C - Queixa principal
+
+Um grande número de gestantes procura o médico obstetra “apenas” para fazer seguimento pré-natal, sem apresentar, necessariamente, nenhuma queixa específica. Entretanto, algumas são relativamente frequentes durante a gravidez; o escla-recimento de que não representam risco à gestação muitas vezes tem efeito positivo sobre o estado emocional. As principais queixas são:
+
+a) Náuseas e vômitos
+@@ -62,43 +65,53 @@ k) Leucorreia
+As gestantes comumente apresentam fluxo vaginal aumentado sem causa patológica. O hiperestrogenismo estimula a pro-dução de muco pelas glândulas cervicais. A mudança do pH vaginal (mais ácido) pode favorecer infecções por fungos. Duran-te a gestação, as infecções genitais (vulvovaginites, cervicites) devem ser adequadamente investigadas e tratadas, pois podem causar complicações como trabalho de parto prematuro, rotura prematura de membranas ovulares e infecção fetal. O diag-nóstico e o respectivo tratamento não diferem substancialmente dos realizados no período pré-gestacional. Deve-se, apenas, estar atento às drogas com potencial teratogênico.
+
+D - Antecedentes pessoais
+
+Os antecedentes pessoais devem ser investigados com atenção pela possibilidade de repercussão, no feto, de processo mórbido adquirido pela gestante ou de sequela materna de doença antiga. As doenças infecciosas que devem ter especial atenção são sífilis, toxoplasmose, rubéola, hepatite, AIDS etc.
+Doenças crônicas (em tratamento ou não), especialmente hipertensão arterial sistêmica, diabetes mellitus, colagenoses, cardiopatias, pneumopatias e hemopatias, precisam ser acompanhadas com cuidado, pois podem oferecer risco ao desenvol-vimento da gestação.
+
+E - Hábitos
+
+A mulher grávida deve ser encorajada a não fumar ou, pelo menos, a diminuir o número de cigarros por dia. O fumo au-menta o risco de morte fetal, descolamento prematuro de placenta, placenta prévia, restrição de crescimento fetal, entre outros. Esse efeito parece estar relacionado à quantidade de cigarros consumidos, e é maior o risco quando o consumo ex-cede 10 cigarros/dia.
+A ingestão de álcool durante a gestação também deve ser evitada. É relatada chance de restrição de crescimento fetal, malformações fetais e até retardo mental em gestações de mulheres que ingerem álcool durante a gravidez. Recém-nascidos prematuros de gestantes que ingerem 7 ou mais doses de bebida alcoólica por semana, e/ou 3 ou mais doses na mesma oca-sião, têm maior risco de lesão cerebral (hemorragia cerebral e destruição da substância branca). Não há nenhuma evidência de quantidade segura de consumo de álcool durante a gravidez, logo se recomenda a completa abstinência.
+{+Importante+}
+{+A ingestão de álcool na gestação é absolutamente contraindicada. Não há dose considerada segura durante a gestação.+}
+
+Com relação à utilização de drogas ilícitas durante a gravidez, sabe-se que o uso de cocaína aumenta significativamente o risco de descolamento prematuro de placenta e de rotura prematura das membranas.
+A gestante deve ser orientada a realizar exercícios físicos leves, que têm ação psicológica muito benéfica, capazes de me-lhorar-lhe a disposição, aumentar-lhe a sensação de segurança, torná-la mais ágil, diminuir dores e contribuir para a manu-tenção da boa postura. Além disso, o exercício aeróbico regular parece melhorar ou manter a capacidade física e a boa ima-gem corpórea. Gestantes saudáveis devem ser avaliadas antes de iniciar atividade física; devem ser evitados exercícios que as coloquem em risco de quedas ou de trauma abdominal. Os exercícios de respiração também ajudam, principalmente na pre-paração para o trabalho de parto.
+{+Durante toda a gestação, a paciente deve ser orientada a realizar dieta fracionada e balanceada, composta especialmente por alimentos nutritivos e pouco calóricos. Um ganho de peso insuficiente está relacionado a maior risco de restrição de crescimento fetal e mortalidade perinatal, e um ganho excessivo de peso pode estar associado a doenças maternas, como diabetes gestacional.+}
+
+{+Tabela 1 - Recomendação de ganho de peso ao longo da gestação de acordo com o Ministério da Saúde+}
+{+Ganho de peso+}
+{+Baixo peso	12,5 a 18kg+}
+{+Adequado	11,5 a 16kg+}
+{+Sobrepeso	7 a 11,5kg+}
+{+Obesidade	5 a 9kg+}
+
+A atividade sexual durante o 3º trimestre não está associada ao aumento da mortalidade perinatal nem ao aumento da prematuridade, independente da presença de vaginose bacteriana ou de tricomoníase.
+[-Durante toda a gestação, a paciente deve ser orientada a realizar dieta fracionada e balanceada, composta especialmente por alimentos nutritivos e pouco calóricos. O ganho de peso indicado é de 7 a 11kg durante os 9 meses. Um ganho de peso insuficiente está relacionado a maior risco de restrição de crescimento fetal e mortalidade perinatal, e um ganho excessivo de peso pode estar associado a doenças maternas, como diabetes gestacional.-]
+
+F - Antecedentes familiares
+
+As doenças familiares devem ser interrogadas. Não podem ser esquecidos diabetes mellitus, cardiopatias, hipertensão ar-terial sistêmica, neoplasias, doenças autossômicas recessivas ou dominantes, alterações do metabolismo de aminoácidos e lipídios, eclâmpsia etc. 
+
+G - Antecedentes ginecológicos
+
+Intercorrências ginecológicas (doenças, tratamentos, cirurgias prévias) que possam trazer repercussão direta sobre a ges-tação precisam ser conhecidas.
+Características do ciclo menstrual, confiabilidade da Data da Última Menstruação (DUM), uso de métodos contraceptivos, presença de dismenorreia, dispareunia ou sinusorragia devem ser questionados. Também é importante caracterizar os ante-cedentes sexuais, como início da atividade sexual, número de parceiros etc.
+A existência de antecedentes mórbidos e seus tratamentos também devem ser conhecidos: moléstia inflamatória pélvica aguda, displasias cervicais, incontinência urinária de esforço etc. Cirurgias como miomectomias, colpoperioplastias, uretrocis-topexias[-,-]{+ e+} amputações de colo uterino podem interferir no planejamento do pré-natal e na eleição da via de parto.
+
+H - Antecedentes obstétricos
+
+A evolução da gestação anterior pode se repetir na gravidez atual. Há necessidade do conhecimento da idade gestacional à interrupção da gestação, peso do recém-nascido, via de parto, ocorrência de doença hipertensiva específica da gestação, diabetes gestacional, hidropisia fetal ou qualquer outra complicação. Abortamentos de repetição ou óbitos fetais intraútero precisam ser conhecidos, e suas possíveis causas, investigadas.
+A evolução do parto também deve ser analisada. Diante de cesárea prévia, a possibilidade de nova intervenção depende da indicação da cesárea anterior. Partos vaginais espontâneos prévios favorecem a repetição da via de parto. Em caso de cesariana, deve-se investigar, além da indicação, o tipo de histerotomia realizada, já que, em gestações interrompidas antes de 30 semanas, a histerotomia corpórea é mais utilizada.
+Recomenda-se intervalo de 2 anos entre as gestações. Em intervalos superiores a 10 anos, a atividade do organismo femi-nino equivale à da 1ª gestação; a evolução da gravidez, bem como o parto, acontece como na gestante primigesta.
+
+I - História obstétrica atual
+
+Deve-se investigar a presença de alguma intercorrência na atual gestação, como sangramento genital, infecções sistêmicas ou uso de medicamentos.
+Para o cálculo da idade gestacional, expressa em semanas, é necessário o conhecimento da DUM. Também se pode calcu-lar a Data Provável do Parto (DPP) por meio da regra de Näegele, a qual prevê a duração de 280 dias para a gestação. Para o cálculo, somam-se 7 ao 1º dia da última menstruação e subtraem-se 3 deste mês. 
+
+{+Dica+}
+{+Regra de Näegele: dia da última menstruação + 7 e mês da última menstruação - 3.+}
+
+Exemplos:	
+1 - DUM = 13.09.201[-4-]{+5+} e DPP = 13 + 7 e 9 - 3 = 20.06.201[-5-]{+6+}.
+2 - DUM = 27.06.201[-4-]{+5+} e DPP = 27 + 7 e 7 - 3 = 04.04.201[-5-]{+6+}.
+Para calcular a idade gestacional, soma-se o número de dias da DUM à data desejada, dividindo o resultado por 7. Exem-plo:
+DUM = 20.10.201[-4-]{+5+}; data do cálculo = 11.01.201[-5-]{+6+}.
+IG = 11 + 30 + 31 + 11 = 87: 7 = 12 semanas e 3 dias.
+Se a paciente tiver dificuldade em informar a DUM (irregularidade menstrual, não se lembra etc.), a ultrassonografia obs-tétrica realizada precocemente (até 20 semanas) apresenta boa acurácia para a determinação da idade gestacional.
+
+@@ -108,62 +121,61 @@ O exame f
+Na 1ª consulta, deve ser feito o exame das mamas, com especial atenção à presença de nodulações no parênquima ou de alterações mamilares que poderiam dificultar a amamentação (inversão de mamilos, mamilos planos etc.). O colostro pode estar presente à expressão das mamas.
+Deve-se realizar a medida da altura uterina com o auxílio de fita métrica. Com o útero retificado, mede-se o arco uterino a partir da sínfise púbica até o fundo do útero (que deverá estar delimitado com a borda cubital da mão). O útero cresce, em média, 4cm por mês, havendo boa correlação entre a idade gestacional (em semanas) e a altura uterina (em cm) entre a 18ª e a 32ª semanas. Próximo à 40ª semana, a altura uterina tem cerca de 34cm. A constatação de uma medida maior que a espe-rada pode estar relacionada a erro na idade gestacional, polidrâmnio, gemelaridade, macrossomia fetal etc. Medidas menores podem significar restrição de crescimento fetal, oligoâmnio etc.
+
+ {+ +}
+Figura 1 - Medida da altura uterina da sínfise púbica ao fundo uterino
+
+Tabela [-1-]{+2+} - Avaliação da altura uterina 
+Gráficos	Pontos	Condutas
+ 	Entre as curvas inferiores e superiores	Seguir calendário de atendimento de rotina.
+ 	Acima da curva superior	- Atentar para a possibilidade de erro de cálculo da idade gestacional. Deve ser vista pelo médico da unidade e ava[---]liada a possibilidade de polidrâmnio, macrossomia, ge[---]melaridade, mola hidatiforme, mio{+-+}matose e obesidade;
+		- Solicitar ultrassonografia, se possível;
+		- Caso permaneça dúvida, marcar retorno em 15 dias para reavaliação ou, se possível, encaminhamento para serviço de alto risco.
+ 	Abaixo da curva inferior	- Atentar para a possibilidade de erro de cálculo da idade gestacional. Deve ser vista pelo médico da unidade e ava[---]liada a possibilidade de feto morto, oligodrâmnio ou res[---]trição de crescimento intrauterino;
+		- Solicitar ultrassonografia, se possível;
+		- Caso permaneça dúvida, marcar retorno em 15 dias para reavaliação ou, se possível, encaminhamento para serviço de alto risco.
+Consultas subsequentes
+Gráficos	Traçados	Interpretações	Condutas
+ 	Evoluindo entre as curvas superiores e inferiores.	O crescimento é normal.	Seguir calendário básico.
+ 	- Evoluindo acima da curva superior e com a mesma inclinação desta;	- É possível que a idade gestaci{+-+}onal seja maior que a estima{+-+}da;	- Encaminhar gestante à con[---]sulta médica para:
+· Confirmar o tipo de curva;
+· Confirmar a idade gestacio[---]nal, se possível, com ultras[---]sonografia;
+· Referir ao pré-natal de alto risco, na suspeita de desvio do cresci{+-+}mento fetal.
+	- Evoluindo abaixo da curva inferior e com a mesma inclinação desta.	- É possível que a idade gestaci{+-+}onal seja menor que a estima{+-+}da.	
+ 	Evoluindo acima da curva superior e com inclinação maior que esta.	É possível tratar-se de gestação múltipla, polidrâmnio, macros{+-+}somia ou outra situação.	Referir ao pré-natal de alto risco. Se possível, solicitar ultrassonografia.
+ 	Evoluindo com inclinação persistentemente menor que a curva inferior.	Se o traçado cruzar a curva inferior ou estiver afas[---]tando-se dela, haverá provável restrição do crescimento fetal.	Referir ao pré-natal de alto risco.
+Fonte: Ministério da Saúde.
+
+A palpação obstétrica é um recurso de extremo valor e tempo obrigatório no exame da gestante. No último trimestre, au-xilia no diagnóstico da situação, da posição e da apresentação fetal. A paciente deve estar em decúbito dorsal horizontal, com as pernas estendidas, o ventre descoberto e a bexiga vazia. Pode ser usado como roteiro de exame aquele descrito pela escola alemã de Leopold e Sellheim:
+
+1º tempo: exploração do fundo uterino; delimita-se o fundo do útero, reconhecendo a altura uterina, a sua forma, a situ-ação fetal e o polo fetal que o ocupa.
+
+ {+ +}
+Figura 2 - 1º tempo 
+
+2º tempo: exploração do dorso; visa determinar a posição fetal, reconhecendo, com as mãos, o lado ocupado pelo dorso do feto e o lado onde estão os membros fetais.
+
+ {+ +}
+Figura 3 - 2º tempo
+
+3º tempo: exploração da mobilidade do polo que está no estreito superior; procura-se apreender o polo entre o polegar e o dedo médio, imprimindo-lhe movimentos de lateralidade que indicam o grau de penetração na bacia (manobra de Leo-pold ou de Pawlick). Quando já há certo grau de insinuação, o polo insinuado na bacia apresenta-se pouco móvel.
+
+ {+ +}
+Figura 4 - 3º tempo
+
+4º tempo: exploração da escava; o examinador, de costas para a paciente, espalma as mãos sobre as fossas ilíacas e as desloca em direção ao hipogástrio, paralelamente à arcada crural. Com as pontas dos dedos, procura penetrar na pelve para averiguar o grau de penetração do polo apresentado no estreito superior da bacia. Desta maneira, pode-se também reco-nhecer a cabeça fetal, que ocupa completamente a escava e é um corpo volumoso, de superfície regular, resistente e irredu-tível, ou o polo pélvico, que, ocupando parcialmente a escava, é corpo mais volumoso que a cabeça, esferoide, de superfície irregular, resistente, mas redutível. A escava vazia sugere apresentação córmica.
+
+ {+ +}
+Figura 5 - 4º tempo
+
+
+A técnica da escola francesa compreende apenas 3 tempos; primeiramente a exploração da escava, em seguida a explo-ração do fundo uterino e, depois, a exploração do dorso fetal.
+Os Batimentos Cardíacos Fetais (BCFs) podem ser percebidos pela ultrassonografia a partir da 7ª à 8ª semana de gestação, pelo sonar entre 10 e 12 semanas e pelo estetoscópio de Pinard por volta da 20ª semana. A frequência cardíaca fetal oscila entre 120 e 160bpm.
+
+ {+ +}
+Figura 6 - Estetoscópio de Pinard
+
+Ao exame ginecológico, devem-se identificar lesões, tumores ou anormalidades genitais que possam dificultar ou impedir o parto via vaginal, bem como verificar a integridade e a estática perineais. O exame especular permite diagnosticar vulvova-ginites, presença de ectrópio, pólipos cervicais ou outras lesões passíveis de investigação com colposcopia e biópsia. E, por meio do toque vaginal, podem ser determinados o tamanho, a forma e a consistência do útero e avaliadas a posição e a per-meabilidade do colo uterino. Também pode ser realizada a avaliação da bacia (conjugados e diâmetros dos estreitos superior, médio e inferior).
+
+Tabela [-2-]{+3+} - Avaliação da [-PA-]{+pressão arterial+}
+Achados	Condutas
+- Níveis de PA conhecidos e normais antes da gestação:
+· Manutenção dos mesmos níveis de PA.	- Níveis tensionais normais:
+@@ -172,40 +184,46 @@ Achados	Condutas
+· Praticar atividade física;
+· Diminuir a ingestão de sal;
+· Aumentar a ingestão hídrica.
+- Níveis de PA desconhecidos antes da gesta[---]ção:
+· Valores da pressão inferiores a 140x90mmHg.	
+- Níveis de PA conhecidos e normais antes da gestação:
+· Aumento da PA em nível <139x90mmHg ({+mas com algum +}sinal de alerta).	- Paciente com suspeita de pré-eclâmpsia leve:
+· Repetir medida após período de repouso (preferencialmente após 4 horas);
+· Remarcar consulta em 7 ou 15 dias;
+· Orientar para a presença de sintomas como cefaleia, epigastralgia, escotomas, ede{+-+}ma, redução, volume ou presença de “espuma” na urina, redução de movi[---]mentos fe{+-+}tais;
+· Orientar repouso, principalmente pós-prandial, e controle de movimentos fetais;
+· Verificar a presença de proteína em exame de urina tipo I. Se possível, solicitar pro{+-+}teinúria – fita urinária com resultado positivo e/ou dosagem em urina de 24 horas –, positivo a partir de 300mg/24h). 
+- Níveis de PA desconhecidos antes da gesta[---]ção:
+· Valores de PA = 140x90mmHg, sem sinto[---]mas e sem ganho ponderal >500g semanal.	
+Níveis de PA superiores a 140x90mmHg, pro[---]tei{+-+}núria positiva e/ou sintomas clínicos (cefa[---]leia, epigastralgia, escotomas, reflexos tendí[---]neos aumentados)	- Paciente com suspeita de pré-eclâmpsia grave:
+· Referir imediatamente a pré-natal de alto risco e/ou a unidade de referência hospi{+-+}talar.
+Paciente com hipertensão arterial crônica mode{+-+}rada, ou grave, ou em uso de medicação anti-hipertensiva	- Paciente de risco:
+· Referir a pré-natal de alto risco.
+Fonte: Ministério da Saúde.
+
+{+Vídeo+}
+{+Exame físico+}
+{+  +}
+
+4. Exames subsidiários
+
+A - Ultrassonografia obstétrica
+
+A OMS recomenda que, para gestações de baixo risco, não há necessidade de ultrassonografia durante o pré-natal.
+A ultrassonografia de rotina no 1º trimestre, apesar de detectar precocemente gestações múltiplas e reduzir a taxa de in-dução do parto nas gestações pós-termo, não reduz a mortalidade perinatal. Na 2ª metade da gravidez em gestações de baixo risco, ou como rastreamento universal, não confere benefício à mãe ou ao recém-nascido por não reduzir a taxa de indução do parto ou de cesariana nem a prematuridade, a mortalidade perinatal ou a natimortalidade. Não há dados com relação aos potenciais efeitos psicológicos do exame rotineiro nessa fase da gravidez nem nos resultados neonatais em curto e longo prazos.
+Considerando que de 11 a 42% das idades gestacionais estimadas pela DUM são incorretas, a FEBRASGO recomenda ofe-recer à gestante, na 1ª consulta de pré-natal, exame ultrassonográfico para determinar e assegurar a confiabilidade da idade gestacional. Idealmente, o exame é realizado entre 10 e 13 semanas, utilizando-se Comprimento Cabeça–Nádegas (CCN) para determinar a idade gestacional. A partir da 15ª semana, a estimativa da idade gestacional é feita por meio da medida do diâ-metro biparietal. Entretanto, se for possível um único exame ultrassonográfico durante toda a gestação, a FEBRASGO orienta realizá-lo entre a 18ª e a 22ª semanas, pois tal avaliação possibilitaria estimar a idade gestacional com pequena margem de erro (7 a 14 dias) e avaliar a morfologia fetal, rastreando possíveis malformações fetais.
+Alguns serviços universitários, como a Clínica Obstétrica da Faculdade de Medicina da USP, recomendam que o exame ul-trassonográfico seja realizado, pelo menos, 1 vez por trimestre mesmo nas gestações de baixo risco.
+O 1º exame pode ser solicitado a partir da 8ª semana para a vis[-ibi-]{+ua+}lização do saco gestacional e dos BCFs, diagnóstico de gestação múltipla (e sua corionicidade e amnionicidade) e, principalmente, confirmação da idade gestacional. Para a datação, são usados o diâmetro médio do saco gestacional e o CCN, considerado o método mais fidedigno para essa estimativa, uma vez que o erro é de apenas 3 a 5 dias. Deve-se medir o comprimento longitudinal do embrião na posição neutra em corte mediossagital.
+Para pacientes com fatores de risco para aneuploidias (idade materna maior que 35 anos, filho nascido com malformação, abortamentos de repetição no 1º trimestre), deve ser oferecida ultrassonografia obstétrica entre a 11ª e a 14ª semanas para a medida da Translucência Nucal (TN), a qual possibilita o rastreamento de cromossomopatias. Quando alterada, também indi-ca maior risco para anomalias cardíacas, hérnia diafragmática, onfalocele, megabexiga, anomalia de body-stalk, acondrogêne-se etc. O exame é considerado alterado com medida da TN [->3-]m{+aior que o percentil 95 para a determinada idade gestacional.+}
+
+{+Diagnóstico+}
+{+O exame de translucência nucal deve ser realizado entre 11 e 13 se+}m{+anas e 6+} {+dias de gestação e será considerado alterad+}o{+ q+}u{+ando a medida for+} maior {+do +}que o percentil 95 para [-a -]determinada idade gestacional.
+
+No 2º trimestre, por volta da 20ª à 24ª semana, está indicada a ultrassonografia morfológica. Esse exame, realizado nesse período, apresenta boa sensibilidade para a detecção de malformações fetais. Pode, ainda, ser realizada a confirmação da idade gestacional, porém com maior imprecisão (erro de 7 a 14 dias).
+No 3º trimestre (entre a 32ª e a 36ª semanas), deve ser realizada ultrassonografia obstétrica para avaliação do crescimen-to fetal, volume do líquido amniótico, localização e maturidade placentária, apresentação fetal e avaliação do bem-estar fetal por meio do perfil biofísico fetal.
+Qualquer alteração observada no exame clínico (crescimento uterino discordante, sangramento genital etc.) pode exigir um novo exame para a confirmação diagnóstica.
+O Ministério da Saúde destaca que a ultrassonografia de rotina durante a gestação permanece como assunto controverso e ressalta que não existe demonstração científica de que esse procedimento, rotineiramente realizado, tenha qualquer efeti-vidade sobre a redução da morbidade e da mortalidade perinatal ou materna. Entretanto, admite, conforme dito, que há evidência científica de que sua realização precoce durante a gravidez se relaciona com melhor determinação da idade gesta-cional, detecção precoce de gestações múltiplas e malformações fetais clinicamente não suspeitas. Desta maneira, o Ministé-rio da Saúde enfatiza que a ultrassonografia pode ser recomendada como rotina nos locais onde ela esteja disponível e no início da gestação. A sua não realização, entretanto, não constitui omissão nem diminui a qualidade do pré-natal.
+
+B - Hemograma
+
+Realizado na 1ª consulta de pré-natal, o hemograma auxilia no diagnóstico de anemias, infecções ou alterações plaquetá-rias. O Ministério da Saúde inclui, em suas recomendações, hemoglobina e hematócrito, além da dosagem de plaquetas.
+São considerados normais os níveis de hemoglobina de até 11g/dL por conta do fenômeno da hemodiluição gestacional. A anemia verdadeira apresenta valores <11g/dL e pode ser consequente à deficiência de ferro, com hematócrito <32%, e o Volume Corpuscular Médio (VCM) e a Concentração de Hemoglobina Corpuscular Média (CHCM), normais ou diminuídos. É necessário, nesses casos, investigar os níveis de ferro sérico, a capacidade de ligação do ferro e os níveis de ferritina plasmá-tica. 
+O achado de hemácias normocrômicas e volumosas (VCM >99) e CHCM normal ou pouco diminuído fala a favor de anemia megaloblástica por deficiência de ácido fólico ou de vitamina B12.
+@@ -215,50 +233,61 @@ O fen
+A gestante deve receber suplementação de ferro na dose de 40 a 60mg/d (200 a 300mg de sulfato ferroso) a partir do 2º trimestre, triplicada quando do diagnóstico de anemia ferropriva. Deve-se orientar quanto à ingestão do ferro antes das re-feições, quando a absorção intestinal é maior. A suplementação de ácido fólico favorece o aumento dos níveis de hemoglobi-na e folato no parto até 6 semanas depois, mas não há evidências para avaliar qualquer outro efeito no prognóstico materno e fetal.
+
+C - Tipagem sanguínea
+
+A determinação do grupo sanguíneo (ABO) e do fator Rh deve ser realizada na 1ª consulta de pré-natal. O estudo estará encerrado se a gestante for Rh positivo e não tiver antecedentes obstétricos sugestivos de doença hemolítica perinatal.
+Em caso de gestante Rh negativo e parceiro Rh positivo e/ou desconhecido, devem-se solicitar o teste de Coombs indireto e a sua titulação. Gestantes não sensibilizadas (Coombs indireto negativo) repetem o exame mensalmente até a 28ª semana, quando será realizada a profilaxia com imunoglobulina anti-D.
+Gestantes com pesquisa de anticorpos irregulares positiva deverão ser acompanhadas em serviços de alta complexidade para a realização de propedêutica mais apurada. Gestantes Rh negativo não sensibilizadas, por sua vez, devem receber imu-noglobulina anti-D após abortamento, gravidez ectópica, mola hidatiforme, biópsia de vilo corial (120µg antes de 12 semanas e 300µg após essa idade gestacional), amniocentese e cordocentese (300µg). A administração de imunoglobulina também deve ser considerada quando da realização de versão externa ou da ocorrência de trauma abdominal. Nas situações de san-gramento do 2º e do 3º trimestres, devem-se considerar exames que quantifiquem a hemorragia fetomaterna, para adminis-trar a dose adequada. A administração de imunoglobulina anti-D deve ser considerada antes de 12 semanas de gravidez em mulheres com ameaça de abortamento com embrião vivo.
+
+D - Glicemia de jejum
+
+O Ministério da Saúde recomenda a dosagem da glicemia de jejum como 1º teste para a avaliação do estado glicêmico. O exame deve ser solicitado a todas as gestantes, na 1ª consulta do pré-natal, como teste de rastreamento para o Diabetes Mel-litus Gestacional (DMG), independente da presença de fatores de risco. Se a gestante está no 1º trimestre, a glicemia de je-jum auxilia a detectar alterações prévias da tolerância a glicose; 2 valores >105mg/dL ou 1 valor de glicemia de jejum >200mg/dL fazem o diagnóstico e encerram a investigação.
+O rastreamento do DMG é realizado ao longo da gestação por critérios clínicos e laboratoriais. O American Congress of Obstetricians and Gynecologists e a American Diabetes Association recomendam o rastreamento universal de todas as gestan-tes entre 24 e 28 semanas, exceto para mulheres de baixo risco (idade <25 anos, grupo étnico de baixo risco, peso pré-gestacional normal, sem história de mau resultado obstétrico, de metabolismo anormal de glicose e de diabetes em parentes de 1º grau). 
+Gestantes com diabetes tipo 1 ou 2, ou com DMG, devem ser acompanhadas por profissional médico experiente e capaci-tado a seguir gestações de alto risco.
+
+E - Colpocitologia oncótica
+
+O pré-natal é uma excelente oportunidade para rastreamento de câncer de colo uterino por meio da colpocitologia oncó-tica. Durante a gestação, frequentemente ocorre a exteriorização da junção escamocolunar, o que facilita o diagnóstico de alterações cervicais. Sob a influência hormonal da gestação, as secreções cervicovaginais estão aumentadas, elevando o pH vaginal, alterando a flora bacteriana local e facilitando algumas infecções. No conteúdo cervicovaginal, pode-se rastrear a presença de Chlamydia, Trichomonas, Gardnerella, fungos etc.
+A gestação, por si só, não representa aumento do risco de displasias ou de neoplasias cervicais. Entretanto, as neoplasias de colo uterino apresentam pior prognóstico (comportamento mais agressivo).
+
+F - Urina tipo I
+
+O exame de urina auxilia no diagnóstico de infecções urinárias, além de fornecer elementos para o diagnóstico de uropa-tias e afecções sistêmicas.
+A dextrorrotação do útero e a ação miorrelaxante da progesterona nos ureteres provocam certo grau de estase urinária ureteral. Esses fatores, somados à alteração da imunidade da gestante, predispõem às infecções urinárias durante a gestação. A presença de leucocitúria significativa ou a descrição de bactérias na urina obriga a cultura de urina. A bacteriúria assinto-mática[-, definida como 50.000UFC em cultura de urina,-] tem indicação absoluta de tratamento. Trabalhos mostram que até 30% das gestantes com bacteriúria assintomática não tratadas desenvolvem ao menos 1 episódio de pielonefrite ao longo dos 9 meses. O tratamento é eficaz na redução da incidência de pielonefrite na gravidez, parto prematuro e baixo peso ao nascer.
+Devido ao aumento da taxa de filtração glomerular, pequenas quantidades de proteína e glicose podem ser encontradas na urina da gestante.
+
+G - Sorologias 
+
+Estão indicadas sorologias de HIV, sífilis (VDRL) e hepatites B e C no 1º trimestre. Se resultarem negativas, os mesmos exa-mes deverão ser repetidos no 3º trimestre. A sorologia para infecção de toxoplasmose também deve ser feita em todos os lugares onde o exame esteja disponível.  
+O Ministério da Saúde recomenda a repetição do exame de sorologia para sífilis em torno da 32ª semana, no momento do parto ou em caso de abortamento. O VDRL é um exame inespecífico e passível de resultados falsos positivos por reação cru-zada em pacientes com colagenoses, hanseníase, malária, mononucleose infecciosa, entre outras. Na sífilis, essa reação se torna positiva em torno de 4 semanas após a infecção e permite rastreamento de cura por acompanhamento da diminuição das titulações. As pacientes tratadas apresentam, em sua maioria, VDRL negativo após 2 anos do tratamento. Títulos maiores que 1/8 indicam a necessidade de testes mais específicos, como o TPI e o FTA-ABS.
+
+{+Dica+}
+{+Nos últimos anos, vem aumentando o número de casos de sífilis congênita. +}
+
+A FEBRASGO recomenda que a gestante seja rastreada quanto à sua imunidade contra rubéola, se ainda não o foi antes da gravidez. Pacientes imunizadas (IgG positivo e IgM negativo) não necessitam de pesquisa complementar. As mulheres não imunes (IgG e IgM negativos) devem ser aconselhadas quanto aos riscos da infecção durante a gestação e devem ser orienta-das a se vacinarem no puerpério. Apesar disso, o Ministério da Saúde não estabelece o rastreamento de rotina para a rubéola na gestação.
+Também de acordo com a FEBRASGO, o rastreamento da hepatite B deve ser realizado na 1ª consulta de pré-natal para que intervenções pós-natais possam ser oferecidas ao recém-nascido para a redução da transmissão vertical (pesquisa de antígeno HBs). Mulheres com risco aumentado podem ser vacinadas com segurança durante a gravidez e devem ser rastrea-das novamente antes ou no momento do parto. O rastreamento da hepatite C deve ser oferecido às de risco (presidiárias, usuárias de drogas injetáveis, gestantes HIV positivo, mulheres expostas a derivados de sangue ou submetidas a transfusão com hemoderivados, parceiras de homens HIV positivo, mulheres com alteração da função hepática, com múltiplos parceiros ou tatuadas).
+
+{+Pergunta+}
+{+2011 - UNICAMP+}
+{+1. Uma gestante, no 1º trimestre, apresenta sorologia para hepatite B com AgHBs reagente, AgHBe reagente e anti-HBc reagente. Nunca realizou sorologia e nega uso de drogas ilícitas e transfusões. Assinale a alternativa correta:+}
+{+a) existe alto risco de comprometimento fetal, pois não existem intervenções para a redução da transmissão vertical+}
+{+b) existe alto risco de transmissão vertical, e está indicada imunoprofilaxia com vacina e imunoglobulina específica (HBIg) ao recém-nascido+}
+{+c) o risco de transmissão vertical será baixo se forem realizadas cesárea eletiva e vacinação na gestante; o aleitamento ma-terno poderá ser liberado+}
+{+d) há necessidade de cesárea eletiva e administração de vacina para o recém-nascido; o aleitamento materno está contrain-dicado+}
+{+Resposta no final do capítulo+}
+
+Pacientes com suspeita clínica (exantema, febre, mialgia) ou laboratorial (IgM positivo) de infecção aguda de rubéola de-vem ser acompanhadas pelo risco de infecção e consequente malformação fetal. Entretanto, não há tratamento específico para esses casos nem a possibilidade de interrupção legal da gestação em fetos com malformações.
+Na Clínica Obstétrica da Faculdade de Medicina da USP, é realizado o rastreamento para toxoplasmose (sorologias IgG e IgM) na 1ª consulta. As pacientes suscetíveis à infecção pelo T. gondii recebem orientações higienodietéticas específicas (não comer carne crua ou malpassada, evitar contato com fezes de gatos etc.), e a sorologia é repetida [-bi-]me{+n+}s[-tr-]almente. Quando há forte suspeita de infecção aguda por toxoplasmose, a gestante deve receber espiramicina 3g/d, e pode ser feito o diagnóstico de infecção fetal por meio de exames invasivos (amniocentese, cordocentese) ou pela observação de malformações fetais à ultrassonografia morfológica. Nesses casos, a terapia é realizada com sulfadiazina, pirimetamina[-,-]{+ e+} ácido folínico, intercalando a cada 3 semanas com espiramicina até o final da gestação. O risco de infecção fetal por toxoplasmose aumenta com o evoluir da gestação; entretanto, o risco de malformação fetal diminui na medida em que a gestação avança.
+{+Em caso de exposição de gestante a paciente com diagnóstico de varicela, pode-se dispor do uso de imunoglobulina espe-cífica para prevenção da doença, dentro das primeiras 72 horas do contato.+}
+
+{+- Outros exames+}
+A alfafetoproteína (AFP) é uma proteína produzida no fígado e na alantoide. No 2º trimestre de gestação, aquela encon-trada no líquido amniótico aparece por filtração renal, sendo dependente da produção de urina fetal. Essa proteína atinge a circulação materna pelas vias transamniótica e transplacentária, existindo por volta da 16ª semana de gestação a proporção de 1:50.000 entre AFP nos soros materno e fetal. A concentração no soro materno aumenta progressivamente durante a gravidez. A AFP se encontra aumentada no líquido amniótico e no soro materno de grávidas com fetos apresentando defeitos de fechamento do tubo neural. Em gestações com fetos portadores de gastrosquise, onfalocele, nefrose fetal e nas situações de hemorragia fetomaterna, a concentração de AFP no soro materno também está elevada.
+A trissomia do 21 (síndrome de Down) associa-se a reduzidas concentrações de AFP e estriol não conjugado no soro ma-terno e com níveis elevados de beta-HCG. E a trissomia do 18 está associada a níveis baixos de AFP, beta-HCG e estriol não conjugado no plasma materno.
+
+H - Protoparasitológico de fezes
+
+O exame protoparasitológico de fezes identifica protozoários e parasitas no trato gastrintestinal e permite tratamento adequado de acordo com protocolo específico. Sempre que não há contraindicação ao uso de droga recomendada, o trata-mento deve ser realizado durante a gestação, pois muitas vezes as parasitoses intestinais podem levar a anemia.
+
+Tabela [-3-]{+4+} - Medicamentos indicados na terapêutica das helmintíases e protozooses intestinais durante a gestação
+Helmintíases	Medicamentos	Posologias
+Ancilostomíase	Mebendazol	100mg, 2x/d VO, durante 3 dias
+Ascaridíase	Mebendazol	100mg, 2x/d VO, durante 3 dias seguidos
+Enterobíase 	Mebendazol	100mg, 2x/d VO, durante 3 dias seguidos
+Esquistossomose	Oxamniquina, praziquantel e ditioletiona	Contraindicados: tratamento no puerpério
+Estrongiloidíase	Tiabendazol	50mg/kg/d VO, 2 tomadas (ma[---]nhã/noite), durante 4 dias segui[---]dos
+Himenolepíase	Praziquantel e niclosamida	Contraindicados: tratamento no puerpério
+Teníase	Mebendazol	200mg, 2x/d VO (manhã/noite), durante 4 dias seguidos
+Tricuríase	Mebendazol	100mg, 2x/d VO, durante 3 dias seguidos
+@@ -266,36 +295,46 @@ Protozooses	Medicamentos	Posologias
+Amebíase	Metronidazol	250mg, 3x/d VO, durante 10 dias
+Giardíase	Metronidazol	250mg, 2x/d VO, durante 7 dias seguidos
+
+{+Pergunta+}
+{+2011 - FMUSP-RP+}
+{+2. Uma gestante de 24 anos, com idade gestacional de 8 semanas, sem nenhum risco gestacional detectável pela história clínica, vem para a sua 1ª consulta pré-natal. Além do tipo sanguíneo e do fator Rh, qual dos seguintes conjuntos de exames agrega aqueles com maior evidência de benefícios?+}
+{+a) sorologias para sífilis, H+}I{+V-1, hepatite B e HTLV I/II; cultura para+} {+vaginose bacteriana; avaliação glicêmica+}
+{+b) sorologias para sífilis, HIV+}-{+1, hepatite B e toxoplasmose;+} [-C-]{+uroc+}ultura{+;+} {+li+}p{+idogr+}a{+ma+}
+{+c) so+}r{+ologi+}a{+s+} [-St-]{+pa+}r{+a sífilis, HIV-1, h+}ep{+atite B e rubéola; cul+}t{+ura para vagin+}o{+se ba+}c{+teriana; avaliaçã+}o{+ gli+}c{+êmi+}c[-u-]{+a+}
+{+d) sorologia+}s {+p+}a[-g-]{+r+}a{+ sífi+}l{+is, HIV-1, hep+}a[-c-]ti{+te B e toxopl+}a{+smos+}e{+;+} [-(g-]{+u+}r{+ocult+}u{+ra; avaliação glicêmica+}
+{+Res+}po{+sta+} [-B)-]{+no final do capítulo+}
+
+{+I - Cultura para Streptococcus agalactiae (grupo B)+}
+O Streptococcus agalactiae faz parte da microbiota de membranas mucosas de seres humanos e animais, colonizando prin-cipalmente os tratos intestinal e geniturinário. A grande relevância médica desse micro-organismo está na contaminação de neonatos, podendo ocasionar quadros graves de sepse, pneumonia e meningite.
+Está presente na vagina ou no ânus de aproximadamente 10 a 30% das gestantes de maneira transitória, intermitente ou crônica. A transmissão vertical chega a 50% dos recém-nascidos na 1ª hora de vida quando a gestante apresenta cultura vagi-nal ou perianal positiva. A pesquisa de infecção deve ser realizada entre a 35ª e a 37ª semanas de gestação, mediante coleta de swab anal e vaginal. 
+
+5. Vacinação 
+
+As evidências comprovam que a imunização da gestante contra o tétano é a medida mais simples e benéfica para reduzir a mortalidade neonatal e a ocorrência de tétano materno. Desta forma, o Ministério da Saúde preconiza a vacina [-du-]{+tri+}pla {+antibac-teriana +}tipo adulto {+(dTPa – difteria, tétano e pertussis acelular) +}ou, na sua falta, a vacina com o toxoide tetânico, para a prote{+-+}ção da gestante e a prevenção do tétano neonatal.
+Todas as vacinas de vírus vivos atenuados estão contraindicadas durante a gestação, e esta deve ser evitada nos 30 dias que sucedem a aplicação dessas vacinas. Assim, as gestantes não devem ser vacinadas, por exemplo, contra febre amarela, rubéola, sarampo, caxumba, poliomielite (Sabin), varicela etc. 
+As modificações do sistema imunológico durante a gravidez podem aumentar a probabilidade de complicações da gripe (pneumonia), especialmente no 3º trimestre. Por isso, deve-se oferecer vacina contra influenza a toda gestante durante a estação de gripe. A vacinação está contraindicada a mulheres com história de hipersensibilidade a ovo de galinha ou aos componentes da vacina.
+A prevalência de hepatite B em gestantes varia com a endemicidade da infecção na região geográfica e a população estu-dada. Do ponto de vista clínico, a associação de hepatite viral aguda e gravidez é pouco frequente. Os riscos de transmissão vertical aumentam quando se têm alta carga viral materna, altos títulos de marcadores como o antígeno de superfície (AgHBs) e a presença do antígeno “e” (AgHBe), marcador de replicação viral. Além disso, o risco de infecção do concepto após uma hepatite B aguda, autolimitada, ocorrida na gravidez, depende do período gestacional da infecção. Será maior o risco se a mãe se infectar no 3º trimestre. A vacina contra a hepatite B [-não -]é [-contra-]indicada na gestação.
+O Ministério da Saúde {+também +}recomenda a imunoglobulina contra hepatite B associada à aplicação de vacina aos recém-nascidos de mães soropositivas para vírus da hepatite B.
+Não há contraindicação à vacinação contra pneumococo, meningococo ou raiva, de acordo com a necessidade individual.
+
+Tabela [-4-]{+5+} - Vacinação contra tétano 
+Observar história de imunização antitetânica, com{+-+}provada pelo cartão de vacina	Condutas
+Sem nenhuma dose registrada	Iniciar esquema vacinal o mais precocemente possível, independentemente da idade gestacional, com 3 doses, com intervalo de 60 dias ou, no mínimo, 30 dias.
+Menos de 3 doses	Completar as 3 doses o mais precocemente possível, com intervalo de 60 dias ou, no mínimo, 30 dias.
+3 doses ou mais, a última há menos de 5 anos	Não é necessário vacinar.
+3 doses ou mais, a última há mais de 5 anos	Aplicar 1 dose de reforço.
+Fonte: Ministério da Saúde.
+
+[---]{+Tema de prova+}
+{+As+} [-V-]{+vac+}i[-t-]{+n+}a{+s reco+}m{+endadas pelo M+}in{+istério da Saúde durante +}a{+ ge+}s{+tação são um+} {+tema frequente nas provas de Residência Médica.+}
+
+{+6. Suplementação vitamínica+}
+
+A utilização de suplementos vitamínicos, isoladamente ou em complexos multivitamínicos, no período pré-gestacional ou no 1º trimestre, não previne abortamentos precoces, abortamentos tardios ou perdas fetais. Em locais onde a deficiência de vitamina A é prevalente, a suplementação dessa substância é benéfica na redução da mortalidade materna (todos os estados do Nordeste e norte de Minas Gerais).
+Não há evidências de que a suplementação com vitamina D durante a gravidez traga benefícios na redução do baixo peso ao nascer. Desta forma, a suplementação de rotina não deve ser oferecida a toda gestante. Da mesma forma, os dados atuais são insuficientes para indicar a suplementação de vitamina C isolada ou em suplementos combinados para benefício fetal ou neonatal. Aparentemente, não há redução da natimortalidade, da morte perinatal ou da restrição de crescimento fetal.
+Os dados atuais também são insuficientes para indicar a suplementação de vitamina E isolada ou em suplementos combi-nados para benefício fetal ou neonatal. Não houve redução da natimortalidade, da morte perinatal ou da restrição de cresci-mento fetal.
+
+Tabela [-5-]{+6+} - Necessidades diárias de vitaminas e minerais na gestação
+Vitaminas e minerais	Necessidades diárias
+Ferro	30mg
+Zinco	15mg
+@@ -306,16 +345,16 @@ Folato	0,4mg
+Vitamina C	50mg
+Vitamina D	5µg (200UI)
+
+[-6-]{+7+}. Resumo 
+
+Quadro-resumo
+- 	O ácido fólico previne defeitos de fechamento do tubo neural e deve ser prescrito 3 meses antes da concepção para pro[---]filaxia adequada;
+- 	Gestantes devem ser orientadas quanto a dieta fracionada, com ingestão de alimentos de alto valor nutritivo. O ganho de peso ideal varia de 7 a 11kg (ganho total); 
+- 	Existe boa correlação entre a altura uterina e a idade gestacional entre a 18ª e a 32ª semanas de gestação. Na 40ª se[---]mana, a altura uterina média é de 34cm.
+Ultrassonografia obstétrica
+1º trimestre
+- 	Confirmar gestação tópica, BCF, diagnóstico de gemelaridade e idade gestacional;
+- [-	-]O CCN é o melhor método para cálculo da idade gestacional (3 a 5 dias de erro);
+- 	Medir TN entre 11 e 14 semanas para rastreamento de cromossomopatias (principalmente, trissomia 21).
+2º trimestre
+Entre 20 e 24 semanas, ultrassonografia morfológica para rastreamento de malformações
+@@ -324,5 +363,15 @@ Entre 20 e 24 semanas, ultrassonografia morfol
+- 	Avaliar crescimento fetal, líquido amniótico, maturidade e inserção placentária e vitalidade fetal;
+-	A hemoglobina durante a gestação é considerada normal até 11mg/dL. Também são normais leucocitose de até 15.000 leucóci-tos/mm3 (sem desvio) e plaquetas entre 120.000 e 320.000/mm3;
+-	Preconizar a reposição de ferro a partir do 2º trimestre (sulfato ferroso, 300mg/d);
+- 	Gestantes Rh negativo e pai da criança Rh positivo ou indeterminado devem realizar Coombs indireto; se negativo, repe[---]tir mensalmente até 28 semanas e administrar imunoglobulina anti-D[- (Rhogam®)-]. Se positivo, encaminhar para pré-natal de alto risco;
+- 	Tratar bacteriúria assintomática [-(>50.000UFC na urocultura) -]é obrigatório, pelo risco de pielonefrite durante a gestação{+;+}
+{+- Vacinas recomendadas no pré-natal: tétano (dT), pertussis acelular, influenza e hepatite B.+}
+
+{+Respostas+}
+{+1+}.{+ B+}
+{+2. D+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
