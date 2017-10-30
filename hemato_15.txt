@@ -1,0 +1,416 @@
+Mieloma múltiplo
+Fernanda Maria Santos / Marcos Laercio Pontes Reis
+Fábio Freire José / Kelly Roveran Genga
+
+Resumo
+O Mieloma Múltiplo (MM) é uma neoplasia maligna dos plasmócitos, acometendo indivíduos mais idosos com média de idade ao redor dos 65 anos. Trata-se de uma doença incurável até o momento, apresentando, como principais sintomas, dor óssea, podendo estar presentes lesões líticas decorrentes do aumento da atividade osteoclástica, anemia (associada a fraqueza e astenia), poliúria e polidipsia (associadas a lesão renal), infecções e sangramentos. O tratamento realizado é feito com combinações quimioterápicas que contenham corticoterapia (dexametasona ou prednisona), associadas a talidomida ou lenalidomida e bortezomibe; após alcance de resposta máxima, o paciente deve ser encaminhado ao transplante de células-tronco hematopoéticas autogênico.
+
+1. Introdução
+
+O Mieloma Múltiplo (MM) é uma neoplasia maligna das células plasmáticas, ou plasmócitos. Essas células são linfócitos B maduros destinados a produzir imunoglobulinas (anticorpos), normalmente presentes na medula óssea, mas que podem ser encontrados em todo o corpo, em qualquer lugar que exista uma resposta imune.
+Os plasmócitos produzem diferentes anticorpos, de acordo com os estímulos antigênicos (ou seja, levam ao aumento policlonal de imunoglobulinas). No MM, entretanto, ocorre a proliferação de um único tipo de plasmócito neoplásico, produtor de um único tipo de imunoglobulina (ou de fragmentos desta), sem necessidade de estímulo antigênico, levando ao chamado aumento monoclonal de tal proteína, que resulta no seu pico monoclonal (proteína M), detectado no sangue e/ou na urina. 
+
+Importante
+O MM é uma neoplasia maligna dos plasmócitos que irão produzir um tipo determinado de imunoglobulina, na ausência de estímulo antigênico, causando um pico monoclonal da proteína associada (proteína M).
+
+O MM corresponde a 1% de todos os tipos de câncer e a 10% das neoplasias hematológicas. A incidência é de, aproximadamente, 4 casos por 100.000 habitantes/ano nos países industrializados, sendo mais comuns em negros que em brancos, e acometendo mais homens que mulheres, segundo trabalhos norte-americanos. A doença acomete, principalmente, indivíduos mais velhos, com idade média de 65 anos, entretanto 10 e 2% dos casos são de pessoas com menos de 50 e 40 anos, respectivamente, denotando a tendência atual de aumento de incidência em faixas etárias mais precoces. 
+
+Dica
+O MM acomete indivíduos mais idosos e, até o momento, é uma doença incurável, responsável por 20% de todas as mortes por neoplasia hematológica. 
+
+A etiologia do MM é bastante questionável. Há trabalhos relatando que exposição a benzeno, inseticidas, herbicidas e radiação pode estar relacionada ao desenvolvimento dessa doença, mas todos com número pequeno de casos, não conclusivos. Outros estudos tentam ainda mostrar associação a herpes-vírus e sarcoma de Kaposi (HSV-8), mas sem sucesso. O papel da herança genética também é incerto, porém há raros relatos de casos de doença familiar.
+Entretanto, há um consenso de que anormalidades cromossômicas têm importância na patogênese do mieloma. Essas anormalidades citogenéticas, encontradas com frequência, como trissomias (cromossomos 3, 5, 7, 9, 11, 15, 18, 19, 21), monossomias (8, 13, 16, 20, 22), translocações dos tipos t(11;14), t(8;14) e t(14;18), hipodiploidias e deleções, determinam rearranjos genéticos que aumentam a expressão de certos genes (proto-oncogenes que se tornam oncogenes) e diminuem a atividade de outros (como as mutações do gene supressor p53). 
+
+Tabela 1 - Principais alterações determinadas por mutações encontradas no mieloma múltiplo
+- Aumento da expressão do oncogene bcl-2, causando a inibição do fenômeno da apoptose; 
+- Justaposição do oncogene c-Myc ao gene das imunoglobulinas (principalmente no mieloma IgA); 
+- Mutações dos oncogenes da família “ras” (Ki-ras, H-ras); 
+- Deleção 6q-, associada à presença de lesões osteolíticas no MM; 
+- Deleção 7q-, associada à resistência ao quimioterápico Adriamicina®, por maior expressão da glicoproteína P na célula mielomatosa; 
+- Mutações do antígeno Fas (receptor da família TNF – fator de necrose tumoral), relacionada a apoptose e associada a algumas condi-ções de autoimunização que ocorrem no MM, como a formação de anticorpos antieritrocitários (que resulta em anemia tipo hemolíti-ca) e antiplaquetários. 
+
+Importante
+A translocação mais encontrada na patogênese do MM envolve os cromossomos 11 e 14; vale destacar que as deleções 13q e 17p, quando detectadas, conferem pior prognóstico à doença, principalmente esta última.
+
+2. Fisiopatologia
+
+Após anormalidade genética, origina-se um clone de plasmócitos anômalos, produtores de proteína monoclonal, resultando em uma condição clínica chamada Gamopatia Monoclonal de Significado Indeterminado (GMSI). É necessário que novas anormalidades citogenéticas aconteçam para que o plasmócito anômalo interaja com as células do estroma medular e proteínas da matriz extracelular por meio de moléculas de adesão, desencadeando vias produtoras de citocinas (IL-6, IGF-1, VEGF, alfa-SDF-1), responsáveis pelo crescimento e pela sobrevida da célula tumoral, efeito antiapoptótico e inclusive de droga-resistência. 
+
+Importante
+Na fisiopatologia do MM, inicialmente ocorre uma modificação genética gerando plasmócitos anômalos, responsáveis pela produção de uma proteína monoclonal associada a gamopatia monoclonal de significado indeterminado. Para que se de-senvolva a neoplasia, é necessário que novas anormalidades citogenéticas aconteçam. 
+
+O crescimento descontrolado dos plasmócitos, a inibição de sua apoptose e o aumento da síntese de proteína M têm várias consequências clínicas, incluindo destruição óssea, anemia, aumento da viscosidade plasmática, supressão da síntese das imunoglobulinas normais e insuficiência renal (responsáveis pelo quadro clínico do MM).
+Algumas alterações no microambiente celular têm sido relacionadas à progressão da GMSI para MM, como aumento da angiogênese, supressão da imunidade celular e produção excessiva de citocinas como IL-6 e VEGF (fator de crescimento do endotélio vascular).
+ Em alguns casos, a doença pode permanecer assintomática por anos, pois o crescimento tumoral pode ser muito lento. 
+
+A - Proteína M
+As imunoglobulinas são proteínas formadas por 4 cadeias polipeptídicas: 2 cadeias pesadas e 2 leves (Figura 1). As cadeias pesadas podem ser de 5 tipos e dão nome ao tipo de imunoglobulina (M, G, A, D e E), enquanto as cadeias leves são de 2 tipos: lambda e kappa.
+
+ 
+Figura 1 - Estrutura de uma molécula de imunoglobulina 
+
+As imunoglobulinas formadas normalmente têm diferentes cadeias pesadas e ambas as cadeias leves, sendo, portanto, policlonais, enquanto as proteínas sintetizadas por plasmócitos e linfócitos B neoplásicos ou monoclonais têm sempre o mesmo tipo de cadeias pesadas e/ou leves, sendo então chamadas de proteína M (proteína monoclonal). 
+
+Tabela 2 - Resultado da síntese excessiva da proteína M
+- Déficit de produção e do funcionamento normal das imunoglobulinas normais; 
+- Quadro de hiperviscosidade: a depender da quantidade e do tipo da imunoglobulina (quanto maior em tamanho e quantidade, maior o risco de sintomas relacionados ao aumento da viscosidade sanguínea – maior risco com a IgM); 
+- Ligação a fatores de coagulação com disfunção destes, ocasionando quadros de sangramento;
+- Pseudo-hiponatremia;
+- Redução do ânion-gap;
+- Ligação a hormônios circulantes, resultando em disfunções endócrinas variadas;
+- Disfunção renal por depósito de cadeias leves.
+
+Em cerca de 30% dos casos, a proteína monoclonal produzida não é uma imunoglobulina inteira, somente fragmentos desta; quando essa proteína é uma cadeia leve (kappa ou lambda), pode passar pelos glomérulos renais e ser excretada na urina, sendo chamada proteína de Bence-Jones. Em outros casos, ainda mais raros, a proteína M é formada apenas por cadeias pesadas (ocasionando a chamada doença das cadeias pesadas). Existem ainda raríssimos casos em que o MM, apesar da proliferação excessiva de plasmócitos, não é capaz de produzir cadeias de imunoglobulina, chamado de “mieloma não secretor”.
+
+Dica
+No MM há uma proteína excretada na urina, a proteína de Bence Jones (fragmento de imunoglobulina de cadeia leve que passa pelos glomérulos renais).
+
+A eletroforese de proteínas é o exame laboratorial capaz de avaliar a concentração das proteínas séricas e a proporção das diferentes frações, permitindo quantificar as imunoglobulinas que se movem de forma heterogênea pelo campo elétrico, e, quando há componente monoclonal, este se move de maneira homogênea, formando um pico na região gama (menos comum na região beta ou alfa 2 – Figuras 2 e 3). A quantidade de anticorpo deve ser de, no mínimo, 0,5g/dL para ser detectada por esse método, podendo passar despercebida entre pacientes com neoplasia pouco secretora. 
+
+ 
+Figura 2 - Eletroforese de proteínas: padrão normal
+
+ 
+Figura 3 - Eletroforese de proteínas: padrão monoclonal na região gama
+
+A imunoeletroforese de proteínas ou a imunofixação são exames que confirmam a monoclonalidade da proteína, mesmo em pequenas quantidades, sendo exame muito mais sensível e específico do que a eletroforese, devendo, sempre que possível, ser solicitado em associação à eletroforese de proteínas tradicional. 
+O encontro da proteína monoclonal não é exclusivo do mieloma e pode ser detectado em outras situações: outras doenças dos plasmócitos (amiloidose primária, macroglobulinemia de Waldenström), linfoproliferações malignas (leucemia linfoide crônica, linfomas B ou T), outras neoplasias (leucemia mieloide crônica, câncer de mama, câncer de cólon), outras doenças não neoplásicas (cirrose, sarcoidose), doenças autoimunes (artrite reumatoide, miastenia gravis) e raras doenças de pele (líquen mixedematoso, xantogranuloma necrobiótico). 
+
+B - Doença óssea
+
+Importante
+No MM, ocorrem maior ativação dos osteoclastos e, paralelamente, inibição de osteoblastos por ação de citocinas locais, resultando, desse desequilíbrio entre osteoblastos e osteoclastos, a presença de hipercalcemia, osteoporose difusa, lesões líticas, diminuição da estatura e suscetibilidade a fraturas patológicas. Isso gera, também, dor óssea, que é o sintoma mais presente na doença. 
+
+A dor óssea é o sintoma mais comum do mieloma e acomete 70% dos pacientes. Existe intensa inter-relação entre os plasmócitos anômalos e as outras células do estroma medular, incluindo osteoclastos e osteoblastos. O “acoplamento” normal entre a função dos osteoclastos e osteoblastos é responsável pelo reparo e remodelamento ósseos. No MM, observa-se au-mento da ativação de osteoclastos pelo desequilíbrio entre osteoprotegerina (OPG) e RANKL, com diminuição da primeira e aumento do segundo. A OPG, um receptor solúvel que se liga ao RANKL, impede a conexão RANK–RANKL e, consequente-mente, a formação de osteoclastos e a reabsorção óssea. Com o aumento do RANK, ocorre um excesso na interação entre o fator ativador NFKb (RANK) e o seu ligand RANKL e estímulo anormal da absorção óssea pelos osteoclastos.
+Também contribuem para a ativação dos osteoclastos a produção anômala de interleucinas de ação local (IL-6, TNF-beta, IL-1) e a maior expressão das chamadas beta-3-integrinas.
+Paralelamente, ocorre inibição de osteoblastos por ação das mesmas citocinas locais, resultando, desse desequilíbrio entre osteoblastos e osteoclastos, a presença de hipercalcemia, osteoporose difusa, lesões líticas, diminuição da estatura e suscetibilidade a fraturas patológicas.
+
+ 
+Figura 4 - Achatamento de vértebras por fraturas patológicas 
+
+ 
+Figura 5 - Lesão lítica no crânio
+
+C - Anemia
+A anemia no MM resulta da substituição de precursores eritroides por células neoplásicas, da liberação de citocinas (em especial o TNF) que inibem a eritropoese normal e da disfunção renal que acomete grande parte dos pacientes. Pequena porcentagem destes apresenta anemia megaloblástica secundária à deficiência de vitamina B12 ou folato, de etiologia não esclarecida. Neutropenia e plaquetopenia são extremamente raras.
+
+D - Disfunção renal
+
+Importante
+A insuficiência renal no MM é causada por acúmulo tubular de proteínas monoclonais de cadeias leves (que leva a atrofia, obstrução e inflamação dos túbulos renais) e ocorre em virtude da hipercalcemia.
+
+A creatinina sérica está aumentada em 50% ao diagnóstico (>2mg/dL em 20%), e pode-se estabelecer correlação entre presença e severidade da disfunção renal ao diagnóstico e sobrevida (80% de sobrevida em 1 ano para creatinina 1,5mg/dL x 50% para creatinina >2,3mg/dL). Existem 2 fatores principais que contribuem para a insuficiência renal:
+Acúmulo tubular de proteínas monoclonais de cadeias leves, resultando em nefropatia obstrutiva (rim do mieloma), caracterizada por atrofia dos túbulos proximais, obstrução dos túbulos distais e coletores, inflamação e fibrose intersticial; esta se caracteriza como a 1ª causa de insuficiência renal no MM;
+Hipercalcemia: é a 2ª principal causa de nefropatia, ocasionando diminuição da capacidade de concentração urinária, por induzir resistência ao hormônio antidiurético, levando a poliúria e desidratação; a hipercalciúria acarreta um aumento da diurese por osmose e, consequentemente, deplec¸a~o vole^mica e insuficiência renal do tipo pre´-renal (causa vômitos e anorexia). A vasoconstrição renal presente nesses casos aumenta a toxicidade das cadeias leves. Pode ocorrer, ainda, depósito de cálcio nos túbulos renais, evoluindo para nefrite intersticial.
+Outros fatores também importantes são o uso de drogas nefrotóxicas (anti-inflamatórios não esteroides e contrastes radi-ográficos), infecções e hiperuricemia, que podem contribuir na evolução para a falência renal.
+Cinquenta por cento dos pacientes que apresentam creatinina <4g/dL manifestam reversão completa da função renal após o início do tratamento. Também tem valor prognóstico a recuperação completa da função renal após o tratamento: sobrevida de 28 meses para aqueles que a recuperam e 4 meses para os que não a recuperam. 
+
+E - Efeitos neurológicos
+A radiculopatia configura-se como a principal complicação neurológica do MM, resultante, em geral, de plasmocitoma paravertebral compressivo ou colapso vertebral. Compressão da medula espinal por plasmocitoma ou fragmento ósseo é uma emergência médica e necessita de intervenção imediata, com radioterapia e/ou com corticoterapia em altas doses. 
+Plasmocitoma no sistema nervoso central é raro e, quando ocorre, em geral se deve a extensão de lesão na calota craniana ou na base do crânio.
+A hipercalcemia pode ser responsável por sintomas como letargia, fraqueza, depressão e confusão mental. 
+A hiperviscosidade pode causar cefaleia, fadiga, distúrbio visual ou até sinais e sintomas de isquemia cerebral. 
+Neuropatia periférica, pouco comum, ocorre como resultado do depósito de substância amiloide ou efeito adverso de medicamento (talidomida, bortezomibe). 
+Finalmente, as infecções (em especial a varicela-zóster) podem levar a quadros neurológicos, como a paralisia de Bell. 
+
+F - Infecções
+As infecções são causadas por:
+Diminuição da produção e aumento da destruição das imunoglobulinas normais (por elevação do catabolismo); 
+Diminuição dos linfócitos T CD4+; 
+Diminuição de plasmócitos normais; 
+Comprometimento da função de neutrófilos, monócitos/macrófagos e do sistema complemento;
+Uso de medicamentos imunossupressores, como a dexametasona.
+Todos esses fatores levam a maior suscetibilidade de infecções, principalmente por bactérias encapsuladas (em especial, o S. pneumoniae). 
+
+Dica
+As principais manifestações clínicas infecciosas no MM são pneumonia e pielonefrite, e os principais agentes, Staphylococcus aureus, Klebsiella pneumoniae e Escherichia coli. Infecção viral, como o herpes-zóster, também é comum. 
+
+G - Hiperviscosidade
+Trata-se de complicação em menos de 10% dos pacientes com diagnóstico de mieloma, mais comum nos casos de IgA e IgM. As altas concentrações de proteína M plasmática levam ao aumento da viscosidade do plasma, responsável por distúrbio circulatório, que se manifesta principalmente por disfunções cerebral, pulmonar, cardíaca e renal. Geralmente, está associada à manifestação hemorrágica pela associação coagulopatia e distúrbio circulatório, provocados pelo excesso de imunoglobulina.
+
+Tabela 3 - Fisiopatologia
+Achados clínicos	Mecanismos patogênicos
+Alterações ósseas, hipercalcemia	Expansão tumoral, ativação de osteoclasto, inibição de osteoblasto
+Insuficiência renal	Depósito de cadeia leve, hipercalcemia, amiloidose, nefropatia pelo urato, lesão tubular pela cadeia leve, toxicidade por anti-inflamatório não hormonal ou contraste
+Anemia, fadiga	Infiltração da medula óssea, inibição da eritropoese, diminuição da eritropoetina, citocinas
+Infecção recorrente	Hipogamaglobulinemia, baixa contagem de CD4, diminuição de plasmócitos normais, alteração da função dos neutrófilos, monócitos, macrófagos e complemento
+Sintomas neurológicos	Hiperviscosidade, hipercalcemia, compressão, depósito de amiloide
+Sangramento	Disfunção de plaquetas, interferência do excesso de imunoglobulinas nos fatores de coagulação
+
+3. Tipos de mieloma
+
+As diferentes imunoglobulinas produzidas pelas várias formas do MM caracterizam padrões de doença variados. A imunoglobulina mais comum produzida no MM é a IgG, e a mais rara, a IgE. O MM IgA é aquele associado à monoclonalidade da imunoglobulina A, sendo comumente ligado ao envolvimento extraósseo, conferindo pior prognóstico. O MM IgD (produção exacerbada e exclusiva de imunoglobulina D) está frequentemente ligado à leucemia de células plasmáticas e às lesões renais mais severas.
+
+Tabela 4 - Distribuição dos diferentes tipos
+Tipos de proteínas monoclonais (proteína M)	Percentuais (%)
+IgG	52
+IgA	21
+IgD	2
+IgE	<0,01
+Apenas cadeia leve kappa ou lambda	16
+Apenas cadeia pesada (G ou A)	<1
+2 ou mais paraproteínas	2
+Ausência de paraproteínas	3
+IgM	0,5
+
+4. Quadro clínico
+
+Importante
+O quadro clínico do MM manifesta-se comumente por dor óssea, anemia (associada a fraqueza e astenia), poliúria e poli-dipsia (associadas a lesão renal), infecções e sangramentos.
+
+A maior parte dos pacientes de MM (cerca de 70%) apresenta dor de intensidade variável, frequentemente no dorso ou nas costelas, que piora ao movimento e melhora ao repouso. Dor súbita e severa sugere fratura patológica ou colapso de corpo vertebral. Mal-estar geral, fraqueza e queixas vagas são frequentes e comumente associadas a anemia. Perda ponderal ocorre em 24% dos casos, ao passo que febre ocorre em menos de 1% e, quando presente, provavelmente diz respeito à manifestação de quadro infeccioso.
+A hipercalcemia, presente em 30% ao diagnóstico, pode ser assintomática, apresentar sintomas inespecíficos, como astenia, obstipação e depressão, ou sintomas mais severos, como poliúria, polidipsia, desidratação, náusea e vômito, confusão mental, rebaixamento do nível de consciência ou até coma. A precipitação tubular de sais de cálcio piora a função renal desses indivíduos.
+O risco de infecção é bastante alto, devido aos fatores já mencionados. Apesar de a pneumonia por pneumococo ser a “infecção clássica” associada ao MM, outras bactérias, como hemófilos e estafilococos, são encontradas habitualmente. Também ocorrem infecções por herpes-zóster. A infecção bacteriana é responsável por 45% dos óbitos nos primeiros 60 dias do diagnóstico. 
+Na síndrome de hiperviscosidade, o quadro clínico pode ser bastante severo, com sangramento de mucosas (epistaxe é frequente), distúrbios visuais, hipoacusia, cefaleia, sonolência (até coma), infarto agudo do miocárdio e grande quantidade de sintomas neurológicos isquêmicos, causados pela redução da oxigenação tecidual.
+O risco aumentado de sangramento é causado pela ligação das proteínas monoclonais aos fatores de coagulação e às plaquetas, e muito raramente há trombocitopenia. A uremia, quando presente, piora os quadros hemorrágicos. 
+Deve-se suspeitar da compressão da medula espinal por plasmocitoma ou fragmento ósseo quando há dor intensa, fraqueza e parestesia de membros, disfunção ou incontinência urinária ou fecal. Compreende uma emergência médica. 
+
+5. Exames laboratoriais 
+
+As manifestações laboratoriais incluem:
+Hemograma:
+Anemia normocítica e normocrômica em 75% dos casos; 
+Leucopenia (<4.000/mm3) e plaquetopenia (<100.000/mm3) são bastante raras, apresentando-se em 20 e 5% dos casos, respectivamente;
+Leucemia de células plasmáticas é definida como plasmocitose no sangue periférico >2.000/mm3, bastante rara (15% dos casos) e de prognóstico muito ruim. 
+Análise do sangue periférico: formação do chamado rouleaux de hemácias (glóbulos vermelhos empilhados – “empilhamento de moedas”, em virtude do excesso de paraproteínas séricas); 
+
+ 
+Figura 6 - Hemácias “em rouleaux”
+
+Mielograma ou biópsia de medula óssea: evidencia >10% de plasmócitos monoclonais maduros, pró-plasmócitos ou plasmoblastos;
+Imunofenotipagem ou imuno-histoquímica: importante para comprovar a monoclonalidade do plasmócito: detecta cadeia kappa ou lambda, nunca ambas – a relação kappa–lambda >4:1 ou <1:2 preenche a definição de monoclonalidade kappa ou lambda, respectivamente. Desta forma, é possível a diferenciação de quadros com plasmocitose reacional;
+
+ 
+Figura 7 - Células plasmáticas 
+
+Citogenética: não há alteração citogenética típica ou diagnóstica do MM, mas se pode investigar, por meio do exame de cariótipo convencional ou preferencialmente por técnicas mais sensíveis, como o FISH (hibridização fluorescente in situ), à procura de alterações que tenham valor prognóstico e possam influenciar a conduta terapêutica; o cariótipo conven-cional, por sua vez, é de extrema dificuldade nessa doença, pelo baixo índice mitótico plasmocitário, com pobres resul-tados e ausência de metáfases;
+Índice de replicação plasmocitária na medula óssea: pouco utilizado na prática clínica, mas de valor prognóstico importan-te: índice =1% apresenta pior prognóstico quando comparado com índice <1%;
+Identificação da imunoglobulina monoclonal: possível em 97% dos casos com o arsenal diagnóstico atual.
+Sangue: eletroforese de proteínas revela, de forma quantitativa, a presença de pico de proteína monoclonal; imunoele-troforese de proteínas ou imunofixação são importantes no esclarecimento da monoclonalidade de forma qualitativa;
+Urina – proteinúria de 24 horas e eletroforese de proteínas: quantifica a perda proteica e diferencia a perda de albu-mina (síndrome nefrótica) da perda de proteína monoclonal (de Bence Jones), além de fazer análise quantitativa.
+Imunofixação de proteínas na urina: determinação qualitativa da proteína M; pesquisa de cadeias leves livres em pacien-tes oligossecretores, nos quais não se identifica alteração na eletroforese de proteínas ou na imunofixação.
+
+Importante
+A urina I detecta aumento de proteína à custa de albumina, mas não proteína monoclonal, portanto não pode ser utilizada para a triagem de mieloma. Deve-se solicitar imunoeletroforese ou imunofixação para detecção da proteína monoclonal e eletroforese para quantificação. 
+
+Em 3% dos casos, não é possível identificar a proteína monoclonal (mesmo com a pesquisa de cadeia leve livre no sangue ou na urina), ao que se dá o nome de mieloma não secretor. Os pacientes não têm risco de desenvolver doença renal e apresentam prognóstico semelhante ao do mieloma secretor;
+A dosagem das imunoglobulinas séricas é importante para detectar redução das imunoglobulinas normais;
+Cálcio sérico, ureia e creatinina geralmente elevados;  
+Diminuição do ânion-gap, secundária a hipercalcemia e pela presença de IgG aumentada (catiônica);
+Ácido úrico e coagulograma eventualmente alterados. 
+Estudo radiológico por meio de:
+Raio x de esqueleto, em que se esperam encontrar osteoporose difusa, lesões líticas e/ou fraturas patológicas em aproximadamente 80% ao diagnóstico. Os locais mais acometidos são corpos vertebrais, calota craniana, caixa torácica, pelve, úmero e fêmur;
+Ressonância nuclear magnética ou tomografia computadorizada são importantes para os pacientes que referem dor, mas sem alterações ao raio x, e para avaliar os casos de síndrome compressiva;
+Cintilografia com tecnécio sestamibi e PET scan necessitam de mais estudos para determinar sua utilidade na prática clínica;
+A dosagem de beta-2-microglobulina está elevada em 75% ao diagnóstico, indicando tanto carga tumoral quanto valor prognóstico.
+
+6. Critérios de diagnóstico 
+
+Para o diagnóstico de mieloma, novos critérios foram instituídos pela Mayo Clinic e pelo International Myeloma Working Group, sendo necessária a presença destes 3 fatores:
+Para proteína monoclonal sérica ou urinária, não é estipulado nenhum valor mínimo, visto que 40% apresentam <3g/dL dessa proteína (porém esta deve estar presente);
+Presença de >10% de plasmócitos monoclonais na medula óssea ou plasmocitoma;
+Presença de sintomas, ou seja, alteração em tecidos/órgãos-alvo – pelo menos 1 dos 4 sintomas: calcemia elevada, insuficiência renal, anemia e lesão óssea lítica (bone lesion) – conhecido pelo acrônimo CRAB.
+
+Diagnóstico
+Para o diagnóstico do MM, devem estar presentes proteína monoclonal sérica ou urinária, presença de mais de 10% de plasmócitos ou plasmocitoma e presença de calcemia, insuficiência renal, anemia e lesão lítica (pelo menos 1 dos 4). Além disso, os principais sintomas incluem cálcio >1mg/dL acima da normalidade (C), creatinina >2mg/dL (R), Hb <10g/dL ou 2g/dL abaixo do normal (A), bem como lesões ósseas (B), formando o acrônimo “CRAB”.
+
+A diferença entre mieloma indolente (ou smoldering) e mieloma sintomático se faz exatamente pela presença de lesões de órgão-alvo (“CRAB”), ausentes no indolente, presentes no MM sintomático.
+
+Pergunta
+2013 - SANTA CASA-SP
+1. Um homem de 69 anos procura atendimento médico por fadiga crônica, perda de peso, edema nas pernas e falta de ar. Há meses tem sensibilidade diminuída nos dedos, diarreia, empachamento pós-alimentar, aumento da espessura da língua e tonturas ao se levantar. Traz exames que revelam hepatomegalia, aumento da área cardíaca e proteinúria. Foi encon-trado fragmento da cadeia leve de imunoglobulina no sangue e na urina. Qual doença se associa a esse quadro com mais frequência?
+a) mieloma múltiplo
+b) doença de Crohn e retocolite ulcerativa
+c) artrite reumatoide
+d) osteomielite crônica
+e) leucemias
+Resposta no final do capítulo
+
+7. Estadiamento e prognóstico 
+
+O sistema de estadiamento de Durie e Salmon é utilizado desde 1975, porém diversos novos parâmetros foram adicionados na avaliação prognóstica dos pacientes com MM, com especial destaque para o ISS (International Staging System), que utiliza a beta-2-microglobulina e a albumina como fatores prognósticos, sendo mais usado atualmente.
+
+Tabela 5 - Sistema de estadiamento de Durie e Salmon  
+Estadios	Critérios	Medidas da massa de células do mieloma (células x 1012/m 2)
+Estadio I (A ou B): massa celular baixa	-	Todos os itens a seguir:
+·	Valor de hemoglobina >10g/dL;
+·	Valor de cálcio sérico normal ou <12mg/dL;
+·	Na radiografia, estrutura óssea normal (escala 0) ou apenas plas-mocitoma ósseo solitário;
+·	Baixa taxa de produção de componente M com valor de IgG <5g/dL e de IgA <3g/dL;
+·	Proteína de Bence Jones <4g/24h.	<0,6
+Estadio II (A ou B): massa celular intermediária	Não atende aos critérios de estadio I nem de estadio III.	0,6 a 1,2
+Estadio III (A ou B): massa celular elevada	-	1 ou mais dos seguintes itens:
+·	Valor de hemoglobina <8,5g/dL;
+·	Valor de cálcio sérico >12mg/dL;
+	Lesões ósseas líticas avançadas (escala 3); 
+·	Alta taxa de produção de componente M com valor de IgG >7g/dL e de IgA >5g/dL;
+·	Proteína de Bence Jones >12g/24h.	>1,2
+
+Tabela 6 - Subclassificação
+Subclassificação A	Função renal relativamente normal (valor de creatinina sérica <2mg/dL)
+Subclassificação B	Função renal anormal (valor de creatinina sérica >2mg/dL)
+
+Tabela 7 - International Staging System
+Estadiamentos	Critérios	Sobrevida (meses)
+I	- Beta-2-microglobulina sérica <3,5mg/dL;
+- Albumina sérica >3,5g/dL.	62
+II	NEM I ou II	44
+III	Beta-2-microglobulina sérica >5,5	29
+
+Outros fatores de prognóstico são anormalidade citogenética – hipodiploidia, deleção do 13q ou 17p, t(4;14) e t(4;16) –, índice de replicação plasmocitária =3%, DHL aumentado, VHS aumentado, célula plasmática circulante e escala de performance status.
+
+Pergunta
+2015 - INCA
+2. Um portador de mieloma múltiplo, de diagnóstico recente, virgem de tratamento específico, há 1 mês apresentando hiporexia, fraqueza e constipação e, nos últimos 2 dias, evoluindo com letargia e confusão mental, é trazido ao pronto-socorro por familiares, devido à piora dos sintomas neurológicos. Ao exame físico, não há sinais neurológicos focais, com PA = 120x80mmHg, FC = 88bpm, FR = 18irpm, além de desidratado (2+/4+) e afebril. Exames: gasometria arterial normal; glicemia = 90; sódio = 135mEq/L; potássio = 4,5mEq/L; cálcio iônico = 1,83mmol/L (VR = 1,15 a 1,35); ureia = 85 (VR <40); e creatinina = 1,6 (VR <1,4). É incorreto dizer, sobre esse paciente, que:
+a) o tratamento da doença de base – mieloma múltiplo – tem importante papel no controle da hipercalcemia em um 2º mo-mento 
+b) hiper-hidratação, uso de corticoide e emprego de diuréticos de alça (assim que restaurada a volemia) devem ser o trata-mento imediato inicial 
+c) a hipercalcemia é secundária à insuficiência renal, e os sintomas do paciente são totalmente justificáveis pela uremia
+d) o bisfosfonato (pamidronato) faz parte do arsenal terapêutico contra a hipercalcemia no mieloma múltiplo
+Resposta no final do capítulo
+
+8. Variantes de importância clínica da doença dos plasmócitos
+
+A - Gamopatia monoclonal de significado indeterminado
+A chamada “gamopatia monoclonal de significado indeterminado” (MGUS, na sigla em inglês) é uma patologia em que o pico monoclonal aparece, mas não se evidencia mieloma ativo, ou seja, há proteína monoclonal em pequena quantidade (<3g/dL), plasmocitose medular discreta (<10%) e ausência de alteração em órgão-alvo (ausência de CRAB). Também devem ser excluídas doenças autoimunes e outras linfoproliferações, visto que a MGUS pode estar associada a essas doenças. 
+A GMSI pode evoluir para doença sintomática de proliferação plasmocitária (MM, amiloidose primária) ou para linfoproliferação (linfoma não Hodgkin, leucemia linfoide crônica e macroglobulinemia de Waldenström). O risco de progressão é pequeno, em torno de 1% ao ano. É bastante comum permanecer estável ou sofrer mínimas alterações nos níveis de proteína monoclonal por muitos anos. Se a MGUS permanecer estável por 2 anos, apenas 30% desenvolverão MM após 10 anos de evolução.
+
+B - Mieloma indolente
+Também conhecido como mieloma assintomático ou smoldering. Nesse tipo de mieloma, há proteína monoclonal =3g/dL, plasmocitose >10%, porém não se detectam lesões de órgãos-alvo, que devem ser lembradas pelo acrônimo CRAB.
+
+C - Plasmocitoma
+Trata-se do acúmulo de células do mieloma de forma localizada. Existem 2 tipos: 
+Plasmocitoma solitário ósseo: lesão lítica única;
+Plasmocitoma extramedular: forma massas tumorais nos tecidos moles, nas mais variadas localizações, mais comumente no tecido submucoso, na nasofaringe e no seio paranasal. Quando ocorre na medula espinal, pode ocasionar compressão e deslocamento de nervos, situação que configura emergência médica.
+Ambas as situações cursam com ausência de plasmocitose medular e de lesão de órgãos-alvo (CRAB), e apenas 30% dos casos apresentam proteína M no sangue ou na urina. Ambos os plasmocitomas são altamente responsivos a radioterapia local. 
+A evolução é variável: cerca de 50% dos pacientes vivem aproximadamente 10 anos. Entretanto, cerca de 2/3 daqueles com plasmocitoma ósseo desenvolvem MM nos 3 anos subsequentes ao diagnóstico. O plasmocitoma extramedular raramente recidiva ou progride para mieloma.
+
+D - Macroglobulinemia de Waldenström
+Trata-se da proliferação neoplásica desordenada de pequenos linfócitos que maturam até plasmócitos, atualmente chamada linfoma linfoplasmocítico, com produção excessiva de IgM, cujas características biológicas provocam a maioria das manifestações clínicas. Acomete, principalmente, indivíduos de idade média de 60 anos, sendo caracterizada clinicamente por hiperviscosidade, crioglobulinemia, coagulopatia, polineuropatia e deposição tecidual de amiloide.
+Em contraste com o mieloma, tal doença cursa com linfadenomegalia e hepatoesplenomegalia. A principal manifestação clínica é de hiperviscosidade, visto que a IgM é uma molécula grande. Não apresenta lesão lítica nem hipercalcemia. Deve-se evidenciar o pico monoclonal correspondendo a IgM, com mielograma usualmente seco e maior necessidade de biópsia de medula óssea.
+
+Dica
+O mieloma IgM cursa com lesão lítica, ao contrário da macroglobulinemia de Waldenström.
+
+E - Mieloma osteoesclerótico/síndrome de POEMS
+Esta síndrome rara corresponde ao acrônimo: Polineuropatia, Organomegalia, Endocrinopatia, Monoclonal (presença de proteína monoclonal) e Skin (lesões de pele). Não é necessária a presença de todos os sintomas para se pensar em POEMS: a polineuropatia periférica crônica desmielinizante é a principal manifestação clínica, em conjunto com a proteína monoclonal (que usualmente é cadeia leve lambda). Presume-se que o plasmócito produza substância tóxica aos nervos periféricos, resultando na polineuropatia. É uma doença cuja mediana de idade está em torno de 50 anos. Em contraste com o MM, não se observa plasmocitose na medula (usualmente menos de 5%), além da ausência de alterações no hemograma e na bioquímica. Outros possíveis achados são hepatoesplenomegalia, hiperpigmentação de pele, ginecomastia, edema, baqueteamento digital, hipertricose, testículos atróficos e impotência.
+
+F - Amiloidose primária
+Situação em que plasmócitos monoclonais sintetizam cadeias leves monoclonais, que se depositam em estrutura fibrilar virtualmente em qualquer tecido (menos no sistema nervoso central), tornando-o mais rígido e aumentado de tamanho. Caracteriza-se principalmente por aumento da língua (macroglossia), disfagia, sensação de empachamento, neuropatia periférica e autonômica, disfunção renal com aumento do volume dos rins, insuficiência cardíaca congestiva e hepatomegalia.
+Os sintomas gerais são extremamente vagos, como fadiga e perda de peso.
+Nos exames laboratoriais, encontram-se plasmocitose <10% e proteína monoclonal <3g/dL, além da alteração decorrente de cada tecido acometido.
+Vale destacar que pode existir superposição de patologias, ou seja, há a possibilidade de o paciente apresentar MM (preenchendo os critérios diagnósticos para tal) e, ainda, a presença de depósito amiloide tecidual, caracterizando amiloidose.
+De forma geral, deve-se suspeitar de amiloidose quando há:
+Proteinúria intensa (usualmente em níveis de síndrome nefrótica), com ou sem insuficiência renal;
+Insuficiência cardíaca ou suspeita de cardiomiopatia restritiva;
+Hepatomegalia inexplicada;
+Neuropatia periférica idiopática.
+
+9. Tratamento
+
+Pacientes com critérios para tratamento do MM devem receber combinações quimioterápicas que contenham corticote-rapia (dexametasona ou prednisona), associadas a talidomida ou lenalidomida e bortezomibe, usualmente por 4 a 6 ciclos. Após o alcance de resposta máxima, o paciente é encaminhado para o transplante de células-tronco hematopoéticas autogê-nico. Deve-se deixar claro, porém, que esse tipo de transplante não tem fim curativo, mas sim proporcionar maior sobrevida livre de doença e maior sobrevida global. A radioterapia está indicada nos casos de plasmocitoma.
+
+A - Tratamento da doença de base
+A 1ª e mais importante decisão é certificar-se de que a terapia é necessária. Classicamente, os pacientes com GMSI e mieloma indolente (assintomático) não devem ser tratados, mas atentamente observados (porém, existem novos trabalhos que estimulam o tratamento precoce dessas condições). Atualmente, não existem terapias capazes de intensificar a regulação imunológica do mieloma inicial ou de reduzir a probabilidade de ativação da doença; logo, ainda não se pode falar em cura para tais pacientes. 
+Entretanto, já existem vários esquemas quimioterápicos que induzem a remissão prolongada, em especial se essa for seguida de 1 ou 2 transplantes de células-tronco hematopoéticas autogênico (ou seja, com células-tronco colhidas do próprio paciente). Há ainda opções disponíveis em fase de pesquisa, como vacinas anti-idiotípicas. 
+O tratamento antimieloma específico é recomendado quando o mieloma é sintomático, refletido por aumento no componente M e/ou lesões de órgãos-alvo (CRAB).
+
+Tabela 8 - Problemas que justificam o tratamento
+- Lesões osteolíticas, osteoporose intensa; 
+- Anemia: Hb <10g/dL ou queda de 2g/dL do valor basal;
+- Creatinina >2mg/dL;
+- Cálcio sérico >11,5mg/dL;
+- Plasmocitoma; 
+- Dano neural ou outro dano significativo ao tecido ou órgão, causado pelo mieloma ou pela proteína deste. 
+
+Os objetivos gerais do tratamento são resolver os sintomas específicos e controlar a doença de modo geral. A opção terapêutica depende de 2 decisões: determinar se o paciente é candidato ou não ao transplante de células-tronco hematopoéticas (idade, performance status e comorbidades são responsáveis por essa decisão). 
+
+Tabela 9 - Elegibilidade ao transplante de células-tronco hematopoéticas
+Pacientes não candidatos
+- Idade >70 anos;
+- Disfunção hepática (bilirrubina >2mg/dL);
+- Disfunção renal (creatinina >2,5mg/dL);
+- Insuficiência cardíaca classe III ou IV da NYHA (New York Heart Association);
+- Performance status ruim (ECOG 3 ou 4).
+
+Estratificação de risco: pacientes com anormalidade citogenética de mau prognóstico são estratificados como de alto risco; os demais são risco standard;
+Alterações citogenéticas de alto risco: t(4;11), t(14;16), del 17p, del 13q, hipodiploidia.
+
+a) Candidatos
+Não é recomendado o uso de alquilantes (melfalana), pois esse quimioterápico resulta em pobre coleta de células-tronco para posterior transplante;
+Todos os pacientes, independente do risco, devem receber esquema quimioterápico que contenha bortezomibe, um agente inibidor de proteassoma. Inicialmente utilizado somente como 3ª linha de quimioterapia, atualmente é indicado como 1ª linha, bem como em recaídas ou recidivas, pelos excelentes resultados obtidos.
+
+b) Não candidatos 
+O tratamento consiste em pulsos de alquilante (melfalana) associado a corticoide e bortezomibe. A combinação mais usada é bortezomibe, melfalana + prednisona, associados ou não a talidomida. Nesse caso, como não se pretende consolidar o tratamento do paciente com transplante, opta-se por prolongar o tratamento para 9 a 12 ciclos de quimioterapia;
+A radioterapia é reservada para o tratamento de plasmocitoma, tratamento de dor por lesão óssea não controlada com quimioterapia, ou para alguns quadros compressivos (exemplo: síndrome da cauda equina); 
+A terapia de manutenção usualmente se faz com talidomida, por no máximo 2 anos, observando-se acuradamente a presença de efeitos colaterais, especialmente a neuropatia periférica, que contraindiquem seu uso; pode-se, ainda, fazer uso do bortezomibe como terapia de manutenção, segundo alguns protocolos mais novos e ainda não consensuais;
+Terapia de suporte (em que se incluem eritropoetina, uso de bisfosfonatos para combater a doença óssea do mieloma e antibioticoterapia profilática).
+
+c) Recidivas
+Em casos de recidiva, se em menos de 6 meses, deve-se proceder ao novo protocolo quimioterápico; se após 6 meses de remissão, pode-se tentar o mesmo protocolo quimioterápico utilizado previamente. Em qualquer uma das formas há necessidade de consolidação com transplante de células-tronco hematopoéticas, que pode ser novamente autogênico ou, ainda, alogênico de intensidade reduzida. Em pacientes que inicialmente já possuem risco alto, a fim de evitar recidivas, pode-se ainda optar pelo tandem TCTH autogênico (2 autogênicos no intervalo de 6 meses) ou ainda pelo tandem autoalo (ou seja, um TCTH autogênico e posterior TCTH alogênico de intensidade reduzida, também com intervalo de 6 meses). 
+
+d) Tratamentos novos e emergentes
+Denosumabe: anticorpo monoclonal contra RANKL – ativador de osteoclasto;
+Holmium®: radiação com alvo em lesões do esqueleto.
+
+B - Tratamento das complicações
+
+a) Hiperviscosidade
+Manejado com plasmaférese, para redução da paraproteinemia e reposição do volume com albumina.
+
+b) Hipercalcemia
+Hidratação intensa (observar o status hemodinâmico do paciente) com solução salina (3.000mL/m2/24h), associada a diurético (furosemida 20 a 40mg) e corticoide. Hipercalcemia extrema (>18mg/dL) pode exigir hemodiálise de urgência, associada às medidas anteriores.
+Além disso, devem ser utilizados os bisfosfonatos (pamidronato ou ácido zoledrônico). Essas drogas ligam-se avidamente às lacunas de absorção óssea, e, por não serem metabolizadas, altas concentrações são mantidas nos ossos por longos períodos e internalizadas pelos osteoclastos, inibindo a reabsorção óssea e reduzindo drasticamente os níveis de cálcio. O mecanismo exato de inibição dos osteoclastos ainda não foi completamente elucidado, mas o bisfosfonato parece ter também um efeito antiangiogênico. Seu uso reduz eventos ósseos como fratura patológica, cirurgia óssea e compressão medular.
+
+c) Anemia
+Pode ser manejada com eritropoetina recombinante (Eprex®; Hemax®) 150 a 250U/kg, 2x/sem ou, se extremamente sintomática, com transfusões (nunca transfundir hemácias em paciente com sintomas de hiperviscosidade antes da plasmaférese, pelo alto risco de complicação pela piora da viscosidade).
+
+d) Infecções
+As infecções mais comuns são do trato urinário e do respiratório, e deve ser instituída a antibioticoterapia o mais precoce possível. O uso de antibioticoterapia profilática com sulfametoxazol-trimetoprima ou quinolona durante os 3 primeiros meses de tratamento é recomendado, apesar de ainda não ser consensual. O tratamento com imunoglobulina é indicado para pacientes com infecção bacteriana recorrente e hipogamaglobulinemia. O uso de aciclovir ou valaciclovir para profilaxia de herpes-zóster é recomendado àqueles que utilizam bortezomibe.
+
+e) Insuficiência renal
+A detecção precoce da lesão renal auxilia no tratamento. Medidas gerais de suporte devem ser instaladas (hidratação volumosa, alcalinização), e os casos em que haja indicação, manejados com hemodiálise. 
+
+f) Compressão medular
+Constitui indicação de cirurgia descompressiva de urgência, radioterapia e/ou corticoterapia.
+
+10. Resumo
+
+Quadro-resumo
+Suspeita de mieloma
+Quadro típico: idosos, com sintomas vagos, anemia inexplicada, dor óssea com lesão lítica identificada em exame de imagem, altera-ção da função renal, elevação da calcemia e identificação de proteína monoclonal no sangue ou na urina
+Critérios de diagnóstico
+- Plasmocitose medular >10% ou plasmocitoma; 
+- Proteína monoclonal no sangue ou na urina;
+- CRAB (principalmente, lesões ósseas líticas). 
+Sintomas para diagnóstico
+- Lesão de órgão-alvo: hipercalcemia, insuficiência renal, anemia ou lesão óssea lítica;
+- C: Cálcio >1mg/dL acima da normalidade;
+- R: disfunção Renal;
+- A: Anemia;
+- B: Bone (lesões líticas ou osteoporose).
+Tratamento
+Bisfosfonato (pamidronato, ácido zoledrônico)
+- Tratamento importante para doença óssea: diminui eventos de fratura, hipercalcemia e dor. Investiga-se também impacto na progres-são da doença;
+- Complicação em uso prolongado: insuficiência renal e necrose de mandíbula;
+- Avaliação da elegibilidade para TCTH autogênico;
+Quimioterapia
+Esquemas que contenham bortezomibe
+Observação: GMSI e mieloma estadio IA não devem ser tratados inicialmente.
+Prognóstico
+· Albumina;
+· ?eta-2-microglobulina;
+· Citogenética: hipodiploidia, del 13q, del 17p, t(4;11), t(14;16);
+· Performance status;
+· Índice de replicação plasmocitária =3%.
+Variantes das doenças plasmocitárias
+- Amiloidose primária;
+- Síndrome de POEMS.
+
+Respostas
+1. A
+2. C
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
