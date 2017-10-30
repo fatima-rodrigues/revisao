@@ -1,9 +1,7 @@
 Atendimento inicial ao politraumatizado
 José Américo Bacchi Hora 
-Eduardo Bertolli
 
-Resumo
-O atendimento ao politraumatizado obedece a uma sequência de ações (avaliação primária e secundária) preconizadas pelo Advanced Trauma Life Support (ATLS®), que serão abordadas neste capítulo. A avaliação primária obedece à ordem A, B, C, D e E, em que A corresponde a vias aéreas com proteção da coluna cervical (Airway), B é respiração e ventilação (Breathing), C é circulação com controle da hemorragia (Circulation), D é incapacidade, ou estado neurológico (Disability), e E corresponde a exposição com controle do ambiente (Exposure). Na avaliação secundária, são investigadas alergias, medicações em uso, passado médico e gravidez, líquidos e sólidos ingeridos e ambiente do trauma (AMPLA). Por conta disso, entender essa se-quência é a base para responder à maioria das questões de Cirurgia de Trauma nos concursos médicos.
+O atendimento ao politraumatizado obedece a uma sequência de ações (avaliação primária e secundária) preconizadas pelo Advanced Trauma Life Support (ATLS®) que serão abordadas neste capítulo. A avaliação primária obedece à ordem A, B, C, D e E, em que A corresponde a vias aéreas com proteção da coluna cervical (Airway), B é respiração e ventilação (Breathing), C é circulação com controle da hemorragia (Circulation), D é incapacidade, ou estado neurológico (Disability), e E corresponde a exposição com controle do ambiente (Exposure). Na avaliação secundária, são investigadas alergias, medicações em uso, passado médico e gravidez, líquidos e sólidos ingeridos e ambiente do trauma (método AMPLA). Por conta disso, entender essa sequência é a base para responder à maioria das questões de Cirurgia de Trauma nos concursos médicos.
 
 1. Introdução
 
@@ -12,10 +10,12 @@ O trauma representa a principal causa de mortalidade entre os mais jovens, acarr
  
 Figura 1 - Padrão da mortalidade no trauma
 
- 
-Figura 2 - Distribuição trimodal dos óbitos por trauma, segundo Trunkey
 
-No início dos anos 1980, com o objetivo de melhorar o atendimento inicial aos pacientes politraumatizados, o American College of Surgeons, por meio do seu Comitê de Trauma, criou uma padronização de condutas hoje seguida em vários países, inclusive o Brasil. O Suporte Avançado de Vida no Trauma (Advanced Trauma Life Support – ATLS®) visa sistematizar as condu-tas no atendimento desses pacientes, com base no reconhecimento e no tratamento das lesões com maior risco à vida. Neste e nos demais capítulos, seguiremos as condutas preconizadas no ATLS®.
+ 
+Figura 2 - Distribuição trimodal dos óbitos por trauma, segundo Trunkey 
+Fonte: http://www.basics.org.uk/images/basics_in_action_images/TriM%20Death
+
+No início dos anos 1980, com o objetivo de melhorar o atendimento inicial aos pacientes politraumatizados, o American College of Surgeons, por meio do seu Comitê de Trauma, criou uma padronização de condutas hoje seguida em vários países, inclusive o Brasil. O Suporte Avançado de Vida no Trauma (Advanced Trauma Life Support – ATLS®) visa sistematizar as condutas no atendimento desses pacientes, com base no reconhecimento e no tratamento das lesões com maior risco à vida. Neste e nos demais capítulos, seguiremos as condutas preconizadas no ATLS®.
 
 Pergunta
 2013 - IFF
@@ -28,7 +28,10 @@ Resposta no final do capítulo
 
 2. Triagem e atendimento pré-hospitalar
 
-O atendimento pré-hospitalar às vítimas de trauma muitas vezes ocorre em situações adversas, em que a equipe de socor-ristas pode estar exposta a riscos químicos, físicos e até biológicos. O 1º e mais importante princípio do atendimento pré-hospitalar é garantir a segurança da cena antes do início de qualquer procedimento.
+O atendimento pré-hospitalar às vítimas de trauma muitas vezes ocorre em situações adversas, em que a equipe de socorristas pode estar exposta a riscos químicos, físicos e até biológicos. 
+
+Importante
+O 1º e mais importante princípio do atendimento pré-hospitalar às vítimas de trauma é garantir a segurança da cena antes do início de qualquer procedimento. 
 Também são comuns desastres com múltiplas vítimas, situações em que se torna necessária a triagem destas, classificando-as de acordo com a gravidade das lesões. Isso permite o atendimento pré-hospitalar adequado e a otimização dos recursos humanos e estruturais para o atendimento.
 Na fase pré-hospitalar, costumam-se utilizar escalas ou escores para estratificar as vítimas segundo a gravidade. Uma das mais utilizadas, o START (Simple Triage And Rapid Treatment), utiliza como parâmetros clínicos capacidade de locomoção, respiração, enchimento capilar e nível de consciência de acordo com um algoritmo (Figura 3). 
 
@@ -38,17 +41,17 @@ Figura 3 - Escala START
 Também cabe à equipe pré-hospitalar e de regulação médica determinar as chamadas zonas quente, morna e fria.
 
 Tabela 1 - Zonas quente, morna e fria 
-Zona quente	Epicentro do acidente, onde se deve evitar o excesso de pessoas e recursos, pelo risco de novos eventos adversos
-Zona morna	Região segura mais próxima do evento, onde se deve montar o posto médico avançado para tratamento inicial das víti-mas mais graves
+Zona quente	Epicentro do acidente, onde se deve evitar o excesso de pessoas e recursos, pelo risco de novos even-tos adversos
+Zona morna	Região segura mais próxima do evento, onde se deve montar o posto médico avançado para trata-mento inicial das vítimas mais graves
 Zona fria	Região mais segura, onde se deve concentrar a maior parte dos recursos humanos e materiais para o atendimento
 
-Estabelecida a gravidade das vítimas, é importante avaliar se os recursos humanos e estruturais são suficientes para aten-der a todos. 
+Estabelecida a gravidade das vítimas, é importante avaliar se os recursos humanos e estruturais são suficientes para atender a todos. 
 
-Tratamento
-Quando o número de vítimas excede a capacidade de atendimento, aquelas com maiores chances de sobrevivência são atendidas prioritariamente, pois demandam menor gasto de tempo, de equipamentos, de recursos e de pessoal. Quando o número de vítimas não excede a capacidade de atendimento, os pacientes com maior risco e considerados mais graves são atendidos primeiramente. 
+Importante
+Quando o número de vítimas excede a capacidade de atendimento, aquelas com maiores chances de sobrevivência são atendidas prioritariamente, pois demandam menor gasto de tempo, de equipamentos, de recursos e de pessoal. Quando o número de vítimas não excede a capacidade de atendimento, os pacientes com maior risco e considerados mais graves são atendidos primeiramente.
 
 Dica
-Crianças, idosos e gestantes apresentam peculiaridades, mas não são, per se, prioridade no atendimento em situações de múltiplas vítimas. 
+Crianças, idosos e gestantes apresentam peculiaridades, mas não são, per se, prioridade no atendimento em situações de múltiplas vítimas.
 
 3. Avaliação inicial
 
@@ -82,22 +85,22 @@ ABCDE do trauma
 A - Manutenção das vias aéreas com controle da coluna cervical
 
 Dica
-A permeabilidade das vias aéreas é a 1ª medida do atendimento. 
+A permeabilidade das vias aéreas é a 1ª medida do atendimento.
 
 Enquanto o simples ato de conseguir falar indica que a via aérea está pérvia naquele momento, pacientes com respiração ruidosa ou roncos e os inconscientes apresentam maior risco de comprometimento. Corpos estranhos e fraturas faciais, man-dibulares e traqueolaríngeas também podem comprometer a permeabilidade. 
 A retirada de corpos estranhos e a realização de manobras simples para a estabilização das vias aéreas, como a elevação do queixo (chin lift) e a anteriorização da mandíbula (jaw thrust), devem ser feitas imediatamente, sempre com proteção da coluna cervical (Figura 4). Em alguns casos, essas medidas não são suficientes para uma via aérea pérvia, tornando-se neces-sária uma via aérea definitiva, por meio de intubação oro ou nasotraqueal ou de cricotireoidostomia. 
 
  
-Figura 4 - Estabilização das vias aéreas: (A) chin lift e (B) jaw thrust; em ambas, deve-se evitar a extensão cervical
+Figura 4 - Estabilização das vias aéreas: (A) chin lift e (B) jaw thrust; em ambas, deve-se evitar a extensão cervical 
 
-Todo paciente com traumatismo fechado acima da clavícula, com alteração do nível de consciência ou vítima de trauma multissistêmico deve ser considerado portador de lesão da coluna cervical, até que se prove o contrário. Logo, torna-se ne-cessária a estabilização da coluna cervical, por dispositivos como colar rígido e head blocks, ou por manobras manuais simples. Isso previne a lesão medular iatrogênica, nos casos de lesão óssea ou ligamentar, ou leva a piora de traumatismo medular preexistente, nos casos de instabilidade cervical. Durante o atendimento inicial, o objetivo é estabilizar a coluna, e não diag-nosticar o traumatismo raquimedular. É importante ressaltar que a prancha rígida serve apenas como meio de transporte, não como método de imobilização.
+Todo paciente com traumatismo fechado acima da clavícula, com alteração do nível de consciência ou vítima de trauma multissistêmico deve ser considerado portador de lesão da coluna cervical, até que se prove o contrário. Logo, torna-se necessária a estabilização da coluna cervical, por dispositivos como colar rígido e head blocks, ou por manobras manuais simples. Isso previne a lesão medular iatrogênica, nos casos de lesão óssea ou ligamentar, ou leva a piora de traumatismo medular preexistente, nos casos de instabilidade cervical. Durante o atendimento inicial, o objetivo é estabilizar a coluna, e não diagnosticar o traumatismo raquimedular. É importante ressaltar que a prancha rígida serve apenas como meio de transporte, não como método de imobilização.
 
 B - Respiração e ventilação
 A permeabilidade das vias aéreas não significa ventilação adequada. Após a obtenção e a certificação da permeabilidade das vias aéreas, são necessários a integridade e o bom funcionamento dos pulmões, da parede torácica e do diafragma para que aconteça a correção da hipóxia por meio da hematose adequada.
-Nessa fase do atendimento, é importante identificar e tratar as lesões com risco imediato à vida (Tabela 4). O diagnóstico dessas condições é clínico e demanda tratamento imediato. Independente da lesão, todo politraumatizado deve receber oxigênio suplementar, e, sempre que possível, a saturação deve ser medida continuamente por meio de oxímetro de pulso.
+Nessa fase do atendimento, é importante identificar e tratar as lesões com risco imediato à vida (Tabela 4). O diagnóstico dessas condições é clínico e demanda tratamento imediato. Independente da lesão, todo politraumatizado deve receber oxigênio suplementar e, sempre que possível, a saturação deve ser medida continuamente por meio de oxímetro de pulso.
 
 Tabela 4 - Lesões com risco imediato à vida
-- Obstrução das vias aéreas;
+- Obstrução das vias aéreas; 
 - Pneumotórax hipertensivo;
 - Hemotórax maciço;
 - Tamponamento cardíaco;
@@ -105,18 +108,18 @@ Tabela 4 - Lesões com risco imediato à vida
 
 C - Circulação com controle da hemorragia
 
-Dica
-A perda sanguínea é a principal causa de mortes evitáveis por trauma. Todo paciente politraumatizado com hipotensão e taquicardia deve ser considerado hipovolêmico até que se prove o contrário. 
+Importante
+A perda sanguínea é a principal causa de mortes evitáveis por trauma. Todo paciente politraumatizado com hipotensão e taquicardia deve ser considerado hipovolêmico até que se prove o contrário.
 
 A avaliação hemodinâmica baseia-se em parâmetros clínicos como frequência cardíaca, pressão arterial, diurese e nível de consciência.
-As hemorragias externas devem ser identificadas e controladas durante o exame primário, preferencialmente por meio de compressão direta. A reposição volêmica, quando indicada, deve ser precoce. Preconiza-se a inserção de 2 cateteres de grosso calibre nas veias periféricas, com coleta de amostra de sangue para tipagem, prova cruzada e outros exames, como beta-HCG (gonadotrofina coriônica humana – para excluir ou confirmar gestação), amilasemia (quando aumentada, sugere lesão pancreática), gasometria arterial (para avaliação da qualidade de ventilação), seguidos da infusão de fluidos com solu-ções cristaloides aquecidas, dentre as quais, a de Ringer lactato é a preferida. O volume a ser infundido depende de quanto se estima que o paciente tenha perdido com a hemorragia, geralmente se iniciando com 1 ou 2L nos adultos e 20mL/kg nas crianças. A temperatura ideal é de 39°C, a fim de se evitar a hipotermia, altamente deletéria à vítima de trauma. 
+As hemorragias externas devem ser identificadas e controladas durante o exame primário, preferencialmente por meio de compressão direta. A reposição volêmica, quando indicada, deve ser precoce. Preconiza-se a inserção de 2 cateteres de grosso calibre nas veias periféricas, com coleta de amostra de sangue para tipagem, prova cruzada e outros exames, como beta-HCG (gonadotrofina coriônica humana – para excluir ou confirmar gestação), amilasemia (quando aumentada, sugere lesão pancreática), gasometria arterial (para avaliação da qualidade de ventilação), seguidos de infusão de fluidos com solu-ções cristaloides aquecidas, dentre as quais, a de Ringer lactato é a preferida. O volume a ser infundido depende de quanto se estima que o paciente tenha perdido com a hemorragia, geralmente se iniciando com 1 ou 2L nos adultos e 20mL/kg nas crianças. A temperatura ideal é de 39°C, a fim de se evitar a hipotermia, altamente deletéria à vítima de trauma. 
 No caso de sangramentos intracavitários, especialmente hemorragias abdominais, a reposição volêmica pode não ser sufi-ciente, e a cirurgia deve ser indicada. A prioridade inicial é o controle da hemorragia, não a normalização dos parâmetros hemodinâmicos.
 
 D - Avaliação neurológica
 Nesta fase do atendimento, realiza-se um exame neurológico rápido, priorizando a investigação do nível de consciência e do tamanho e da reatividade das pupilas.
-Preconiza-se a avaliação do nível de consciência pela Escala de Coma de Glasgow (ECG). Trata-se de um método facilmente exequível, com base em 3 parâmetros clínicos que recebem pontuações (Tabela 5). A pontuação mínima é 3, e a máxima, 15, sendo classificado como comatoso todo paciente com escore <9. Quando se apresenta rebaixamento do nível de consciência, é necessário revisar vias aéreas, ventilação, oxigenação e perfusão, pois alterações nessas funções vitais podem comprome-ter o nível de consciência. Todo paciente em coma tem indicação de via aérea definitiva.
+Preconiza-se a avaliação do nível de consciência pela escala de coma de Glasgow. Trata-se de um método facilmente exequível, com base em 3 parâmetros clínicos que recebem pontuações (Tabela 5). A pontuação mínima é 3, e a máxima, 15, sendo classificado como comatoso todo paciente com escore =8. Quando se apresenta rebaixamento do nível de consciência, é necessário revisar vias aéreas, ventilação, oxigenação e perfusão, pois alterações nessas funções vitais podem comprometer o nível de consciência. Todo paciente em coma tem indicação de via aérea definitiva.
 
-Tema de prova
+Tema frequente de prova
 A escala de coma de Glasgow sempre é cobrada nas provas de Residência.
 
 Tabela 5 - Escala de coma de Glasgow
@@ -124,12 +127,14 @@ Abertura ocular (O)	Espontânea	4
 	Ao estímulo verbal	3
 	Ao estímulo doloroso	2
 	Sem resposta	1
-Melhor resposta verbal (V)	Orientado	5
+Melhor resposta 
+verbal (V)	Orientado	5
 	Confuso	4
 	Palavras inapropriadas	3
 	Sons incompreensíveis	2
 	Sem resposta	1
-Melhor resposta motora (M)	Obediência a comandos	6
+Melhor resposta 
+motora (M)	Obediência a comandos	6
 	Localização da dor	5
 	Flexão normal (retirada)	4
 	Flexão anormal (decorticação)	3
@@ -143,18 +148,18 @@ Durante a fase inicial, o paciente deve ser despido para avaliação do dorso, do 
 
 5. Medidas auxiliares à avaliação primária
 
-Durante o exame primário, o socorrista deve usar, sempre que possível, medidas que auxiliem a avaliação e a monitoriza-ção do paciente. Na avaliação primária, o socorrista precisa determinar se será necessário transferi-lo para o hospital onde será realizado o tratamento definitivo.
+Durante o exame primário, o socorrista deve usar, sempre que possível, medidas que auxiliem a avaliação e a monitorização do paciente. Na avaliação primária, o socorrista precisa determinar se será necessário transferi-lo para o hospital onde será realizado o tratamento definitivo.
 
 A - Monitorização não invasiva
-Todos os politraumatizados, durante a avaliação inicial, devem ter monitorizados o traçado eletrocardiográfico e a satura-ção de oxigênio com oxímetro de pulso. A gasometria pode ser avaliada na amostra de sangue colhida no exame primário. Se possível, também deve ser feita a avaliação da pressão arterial.
+Todos os politraumatizados, durante a avaliação inicial, devem ter monitorizados o traçado eletrocardiográfico e a saturação de oxigênio com oxímetro de pulso. A gasometria pode ser avaliada na amostra de sangue colhida no exame primário. Se possível, também deve ser feita a avaliação da pressão arterial.
 
 B - Sondagens urinária e gástrica
-A diurese é o principal parâmetro para a avaliação da resposta à expansão volêmica. Logo, a sondagem vesical deve ser realizada em todos os traumatizados, exceto na suspeita de lesão uretral, que ocorre quando há sangue no meato peniano, equimose perineal, sangue no escroto, deslocamento cranial da próstata ou fratura pélvica.
-A distensão gástrica pode levar a reflexos vagais em crianças, além de aumentar o risco de vômitos e de broncoaspiração. A passagem da sonda gástrica está indicada principalmente àqueles em ventilação mecânica ou com trauma abdominal. A colocação da mesma sonda está contraindicada na suspeita de fratura da base do crânio e da lâmina crivosa, pela possibilida-de de penetração da sonda na cavidade craniana. Em casos como esse, opta-se pela passagem da sonda orogástrica.
+A diurese é o principal parâmetro para a avaliação da resposta à expansão volêmica. Logo, a sondagem vesical deve ser realizada em todos os traumatizados, exceto na suspeita de lesão uretral, que ocorre quando há sangue no meato uretral, equimose perineal, sangue no escroto, deslocamento cranial da próstata ou fratura pélvica.
+A distensão gástrica pode levar a reflexos vagais em crianças, além de aumentar o risco de vômitos e de broncoaspiração. A passagem da sonda gástrica está indicada principalmente àqueles em ventilação mecânica ou com trauma abdominal. A colocação da mesma sonda está contraindicada na suspeita de fratura da base do crânio e da lâmina crivosa, pela possibilidade de penetração da sonda na cavidade craniana. Em casos em que haja hematoma periorbital bilateral (sinal do “guaxinim”), saída de sangue ou líquor pelo tímpano ou hematoma de mastoide (sinal de Battle), opta-se pela passagem da sonda orogástrica.
 
 C - Radiografias e procedimentos diagnósticos
-Algumas radiografias podem ser realizadas durante o processo de reanimação, na própria sala de emergência. As chama-das radiografias da avaliação inicial incluem as radiografias de bacia e tórax na incidência anteroposterior, além da coluna cervical em perfil. Tais exames radiológicos podem ser feitos ao final da avaliação primária, após a estabilização hemodinâmi-ca, com os demais procedimentos diagnósticos necessários.
-A ultrassonografia de abdome direcionada ao trauma e o lavado peritoneal também podem ser utilizados na avaliação de pacientes chocados que necessitem de pesquisa de sangramento intraperitoneal. Tomografias e demais exames devem ser feitos, quando há indicação, após a estabilização completa.
+Algumas radiografias podem ser realizadas durante o processo de reanimação, na própria sala de emergência. As chamadas radiografias da avaliação inicial incluem as radiografias de bacia e tórax na incidência anteroposterior, além da coluna cervical em perfil. Tais exames radiológicos podem ser feitos ao final da avaliação primária, após a estabilização hemodinâmica, com os demais procedimentos diagnósticos necessários.
+A ultrassonografia de abdome direcionada ao trauma (Focused Assessment Sonography in Trauma – FAST) e o lavado peritoneal diagnóstico também podem ser utilizados na avaliação de pacientes chocados que necessitem de pesquisa de sangramento intraperitoneal. Tomografias e demais exames devem ser feitos, quando há indicação, após a estabilização completa.
 
 Pergunta
 2012 - PUC-RS 
@@ -174,10 +179,10 @@ Resposta no final do capítulo
 
 6. Avaliação secundária
 
-A avaliação secundária consiste na história detalhada e no exame pormenorizado do paciente e deve ser realizada somen-te após o exame primário. O sucesso das medidas de reanimação se obtém com a normalização das funções vitais. 
+A avaliação secundária consiste na história detalhada e no exame pormenorizado do paciente e deve ser realizada somente após o exame primário. O sucesso das medidas de reanimação se obtém com a normalização das funções vitais. 
 
 A - História 
-Toda a história deve incluir o mecanismo do trauma, a presença ou ausência de outras vítimas no local e os dados locais colhidos pela equipe de resgate pré-hospitalar, dados que podem fornecer importantes informações acerca da energia ciné-tica e do potencial de gravidade do trauma. Se houver familiares, também devem ser consultados, para fornecerem informa-ções úteis. Há um método mnemônico para que a história clínica possa ser “AMPLA”.
+Toda a história deve incluir o mecanismo do trauma, a presença ou ausência de outras vítimas no local e os dados locais colhidos pela equipe de resgate pré-hospitalar, dados que podem fornecer importantes informações acerca da energia cinética e do potencial de gravidade do trauma. Se houver familiares, também devem ser consultados, para fornecerem informações úteis. Há um método mnemônico para que a história clínica possa ser “AMPLA”.
 
 Tabela 6 - Método mnemônico “AMPLA”
 A	Alergia
@@ -190,7 +195,7 @@ B - Exame físico
 Pode ser definido como um exame físico pormenorizado da cabeça aos pés. Há uma frase que resume o procedimento nesta etapa: “dedos e tubos em todos os orifícios”. Pode-se dividir o exame físico pormenorizado nestes segmentos: cabeça, face e pescoço; tórax; abdome, períneo, reto e vagina; sistema musculoesquelético; e exame neurológico completo.
 
 C - Medidas auxiliares, radiografias e procedimentos diagnósticos
-Com o paciente estável respiratória e hemodinamicamente, é possível realizar todos os exames complementares necessá-rios para o diagnóstico das lesões traumáticas específicas dos diversos órgãos e aparelhos, como tomografias, radiografias contrastadas e de extremidades, endoscopias e ultrassonografias. 
+Com o paciente estável respiratória e hemodinamicamente, é possível realizar todos os exames complementares necessários para o diagnóstico das lesões traumáticas específicas dos diversos órgãos e aparelhos, como tomografias, radiografias contrastadas e de extremidades, endoscopias e ultrassonografias. 
 
 7. Reavaliação, monitorização contínua e cuidados definitivos
 
@@ -199,9 +204,9 @@ A monitorização dos sinais vitais deve ser contínua, por meio de um exame físico
 Tratamento
 Após o término das avaliações, a vítima de trauma deve ser encaminhada para o tratamento específico de suas lesões. No caso de o hospital onde ocorreu a avaliação inicial não dispor dos recursos necessários para o tratamento, o paciente deve ser transferido para um local com condições de oferecer o tratamento completo. A transferência não deve ser retardada pela realização de exames diagnósticos, e nenhum politraumatizado deve ser transportado sem a presença de um médico, que por sua vez deve continuar com a reavaliação contínua durante o transporte.
 
-O registro no prontuário de todas as etapas do atendimento, alterações clínicas e resultados de exames é de suma impor-tância e deve ser feito pelo médico que conduziu o caso. Evidências forenses, por sua vez, devem ser comunicadas às autori-dades responsáveis.
+O registro no prontuário de todas as etapas do atendimento, alterações clínicas e resultados de exames é de suma impor-tância e deve ser feito pelo médico que conduziu o caso. Na presença de evidências forenses (como projéteis de armas de fogo), estas devem ser comunicadas e entregues às autoridades responsáveis.
 
-8. Resumo
+Resumo
 
 Quadro-resumo
 - O atendimento ao politraumatizado deve ser padronizado de acordo com a gravidade das lesões;
@@ -210,14 +215,6 @@ Quadro-resumo
 - Nenhuma etapa pode ser antecipada antes que a anterior esteja resolvida – exame primário, medidas auxiliares e reavaliação; exame secundário, medidas auxiliares e reavaliação. O indivíduo deve ser constantemente reavaliado, sempre seguindo o ABCDE;
 - A transferência deve ser precoce, para um local capaz de fornecer tratamento adequado.
 
-Respostas
+Respostas das questões do capítulo
 1. B
 2. C
-
-Mapa mental
- 
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
