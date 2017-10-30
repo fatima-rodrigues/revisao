@@ -1,0 +1,256 @@
+diff --git a/cardio1_8.txt b/cardio1_8.txt
+index 6edaeaf..d50b921 100644
+--- a/cardio1_8.txt
++++ b/cardio1_8.txt
+@@ -1,14 +1,12 @@
+Síncope
+[-Rodrigo Antônio Brandão Neto-]
+José Paulo Ladeira
+Fabrício Nogueira Furtado
+R{+odrigo Antônio Brandão N+}e[-sum-]{+t+}o
+{+ +}Os objetivos deste capítulo são identificar as causas e instituir o manuseio adequado nos quadros de síncope. Lembraremos[-,-] aqui[-,-] que a síncope é um evento clínico comum, que demanda maior atenção entre os pacientes com insuficiência cardíaca, aqueles com mais de 45 anos, portadores de arritmia e eletrocardiograma alterado. Suas causas são multifatoriais, tendo maior relevância os eventos de causa neurocardiogênica. A anamnese e o exame físico são importantes na identificação do mecanismo da síncope. O diagnóstico diferencial envolve as crises convulsivas e as causas psiquiátricas. Para o tratamento, teremos uma abordagem direcionada à causa da síncope, tendo, como principais exemplos, as neuromediadas{+,+} em que se devem evitar eventos precipitantes e {+estimular +}a realização de manobras para abortar o episódio (como deitar-se, manobras de con[---]trapressão). Já para a s[-i-]{+í+}ncope vasovagal, sugere-se evitar desidratação, longos períodos em ortostase e situações de risco[-, assim-]{+.+} {+Re+}com[-o-]{+enda-se+} aumentar a ingesta hídrica, realizar exercício {+físico +}moderado, tilt training ou {+indicar +}drogas ({+por +}exemplo{+,+} midodrina) nas recor[---]rências.
+
+1. Introdução e definições
+
+A síncope é responsável por mais de 3% de todas as consultas no pronto-socorro. Cerca de 20% da população adulta já experiment[-aram-]{+ou+} um episódio que pudesse ser descrito como síncope, e aproximadamente de 1 a 6% das internações hospi[---]tala{+-+}res nos Estados Unidos a têm como causa. Na maioria das vezes, é um evento limitado e benigno, mas que pode causar injúrias (descritas em até 30%), aflição e complicações psicológicas em pacientes e familiares. Na avaliação, deve-se ter em mente que existem 4 principais fatores envolvidos no risco de eventos adversos:
+1 - Idade =45 anos. 
+2 - História de insuficiência cardíaca.
+3 - História de arritmias ventriculares.
+@@ -16,35 +14,34 @@ A s
+Os pacientes que não apresentam nenhum desses fatores têm de 4 a 7% de risco de apresentar eventos adversos, en-quanto os pacientes com 3 ou 4 fatores de risco têm de 58 a 80% de chance de apresentá-los.
+
+Importante 
+A síncope é definida como perda súbita e breve da consciência e do tônus postural, com recuperação espontânea e sem sequelas neurológicas. Quase todas as formas cursam com diminuição ou interrupção transitória do fluxo sanguíneo cere-bral. A causa mais frequente é a neurocardiogênica (ou vasovagal). A pré-síncope, por sua vez, é apenas a percepção de uma perda de consciência iminente com quadro clínico prodrômico, semelhante ao da síncope.[- -]
+
+2. Epidemiologia
+
+O maior estudo epidemiológico sobre o assunto consistiu em um seguimento de 822 pacientes no estudo de coorte de Framingham; por cerca de 17 anos, o estudo verificou que a taxa de eventos sincopais aumentava de cerca de 5 eventos a cada 1.000 pessoas/ano, no grupo entre 20 e 29 anos, para cerca de 20 a cada 1.000 pessoas/ano, no grupo com mais de 80 anos, mostrando aumento considerável com a idade, que se tornava muito importante a partir dos 70 anos. Ainda nesse estu-do, a incidência não foi diferente a depender do sexo, embora outros tenham demonstrado diferenças, com incidência um pouco maior no sexo feminino. 
+
+Dica
+Os homens têm maior probabilidade de causa cardiológica de síncope.[- -]
+
+3. Etiologia 
+
+As causas mais frequentes estão descritas na Tabela 1. 
+
+Importante
+A chamada síncope vasovagal, ou neurocardiogênica, é a principal. Os pacientes apresentam profunda vasodepressão, devi[---]do à falência abrupta da modulação autonômica sobre o aparelho cardiovascular, além de importante diminuição da fre[---]quência cardíaca por reflexos neuromediados. Alguns autores subdividem esses casos em síncope vasodepressora ou sínco[---]pe cardioinibitória.[- -]
+
+Tabela 1 - Causas de síncope{+ +}
+Tipos ou causas 	Prevalência média (%, variação entre estudos)
+Síncope mediada neurologicamente (neurocardiogênica)[-	40-] [-a 60-]
+[-Sínc-]o[-pe-]{+u+} vasovagal	30 a [-5-]{+6+}0
+[-S-]{+Card+}í[-n-]{+a+}c[-op-]{+a (ex+}e{+mplo:+} [-s-]{+card+}i{+omiopa+}t[-u-]{+i+}a[-c-]{+ h+}i[-on-]{+pertrófic+}a[-l-]{+)+}	{+10 a 2+}5[-Sín-]{+ (estu+}d[-r-]o{+s antigos <20)+}
+{+Arrit+}m[-e-]{+ias+} {+car+}d{+íacas (exempl+}o{+:+} {+bradiarritmia+}s{+ +}e{+ taqu+}i[-o-]{+arritmi-as)	14 (4+} [-c-]a{+ 26)+}
+{+Neu+}ro{+lógica (+}t[-íde-]o{+das)+}	1{+0+}
+Hipotensão ortostática	1 a 14
+{+Síncope situacional	5+}
+Medicações	3 (0 a 7)
+[-Tra-]{+Sí+}n[-sto-]{+d+}r[-n-]o[-s-]{+me+} [-psiquiátric-]{+d+}o[-s	1 a-] [-5-]
+[-N-]{+s+}e[-urológ-]i[-ca (t-]o[-das)	10-]
+[-Cardíaca (ex:-] car[-di-]o[-miopa-]t[-ia hip-]{+íd+}e[-rtrófica)-]{+o+}	1[-0 a 25 (estudos antigos <20)-]
+Doença cardíaca orgânica	3 (1 a 8)
+[-A-]{+T+}r[-ritmi-]a{+n+}s[- ca-]{+to+}r[-díaca-]{+no+}s [-(ex: bradiarritmia-]{+p+}s[- e ta-]{+i+}qui[-arri-]{+á+}t[-m-]{+r+}i[-a-]{+co+}s[-)-]	1[-4 (4-] a [-26)-]{+5+}
+Causa desconhecida	5 a 20 (estudos antigos >30)
+
+Tabela 2 - Outras causas importantes de síncope
+@@ -56,9 +53,9 @@ Tabela 2 - Outras causas importantes de s
+- Hipotensão ortostática;
+- Hipoxemia;
+- Insuficiência adrenal;
+- Síncope situacional (precipitada por tosse, defecação e micção com esforço), considerada variante da síncope vasovagal.{+ +}
+
+A síncope apresenta causa desconhecida em cerca de 5 a 20% dos casos, mas estudos antigos relatam que mais de 30% não têm causa detectável (31% no estudo de Framingham e 34% em análise de 5 estudos publicada em 1997). O uso de novos métodos diagnósticos, como o tilt[---]{+ +}table test, diminuiu significativamente esses números.
+
+Tabela 3 - Medicamentos que podem levar à doença 
+- Antiarrítmicos; 
+@@ -70,17 +67,25 @@ Tabela 3 - Medicamentos que podem levar 
+
+4. Achados clínicos
+
+A anamnese e o exame físico minucioso são os principais instrumentos para o diagnóstico da causa da síncope. O principal objetivo é detectar pacientes com risco aumentado de óbito ou de complicações que necessitarão de investigação adicional imediata ou de internação.{+ São sinais de alerta na apresentação clínica que demandam internação:+}
+{+- Síncope durante exercício físico;+}
+{+- Síncope em posição supina;+}
+{+- Palpitações que ocorrem no momento da síncope;+}
+{+- História familiar de morte súbita;+}
+{+- Doença arterial coronariana (IAM ou cateterismo prévio), especialmente se associado a insuficiência cardíaca;+}
+{+- Insuficiência cardíaca de qualquer etiologia, especialmente se baixa fração de ejeção;+}
+{+- Doença cardíaca estrutural (tumor intracardíaco, doença valvar, cardiomiopatia hipertrófica);+}
+{+- Achados do ECG: taquicardia ventricular não sustentada, ondas delta, intervalo QT corrigido curto ou longo, síndrome de Brugada, presença de ondas épsilon sugestivas de displasia arritmogênica de ventrículo direito.+}
+
+Tabela 4 - Tipos {+de síncope+}
+Vasovagal
+Também conhecida como desmaio comum, é mediada pelo estresse emocional ou ortostático. Geralmente é precedida por pródro{+-+}mos como sudorese, náusea e palidez cutânea.
+Situacional
+Ocorre logo após acessos de tosse, micção ou evacuação, o que facilita o diagnóstico. Geralmente, é determinada por descarga vagal. 
+Síndrome do seio carotídeo
+A manipulação mecânica do seio carotídeo é responsável pelo episódio de síncope. Os sinais e sintomas podem ser reproduzidos pela massagem do seio. Acomete, principalmente, os idosos. 
+Hipotensão ortostática
+Apresenta queda progressiva da pressão arterial com a posição ortostática, e ocorre diminuição da pressão sistólica medida com paci[---]ente em pé por 3 minutos maior que 20mmHg em relação à pressão arterial medida após o mesmo indivíduo ficar 5 minutos deitado.
+Associada a arritmias
+- Geralmente associadas a:
+· FC <40bpm ou bloqueios sinoatriais repetidos ou pausa sinusal >3 segundos; 
+@@ -94,7 +99,7 @@ Associada a outras doen
+É considerada quando acontece em pacientes com estenose aórtica grave, hipertensão pulmonar, embolia pulmonar, dissecção aórtica ou mixoma atrial grande. 
+
+Quadro clínico
+Entre pacientes com diagnóstico de doença cardíaca e síncope, os fatores mais fidedignos de predição de síncope por causa cardíaca parecem ser desencadeados pelo decúbito ou estar relacionados aos esforços, ou, ainda, síncope associada a con[---]vulsões. Dentre aqueles sem doença cardíaca, a presença de palpitações parece correlacionar-se com maior possibilidade de síncope por causa cardíaca; em neuromediadas, a diferença de tempo, entre o 1º e o 2º episódios, de mais de 4 anos, desconforto abdominal que precede as crises e náuseas e diaforese no período de recuperação são fatores sugestivos des[---]se diagnóstico. Fadiga após o episódio sincopal também foi associada, em estudos, a maior probabilidade de síncope vasova[---]gal.  
+
+5. Exames complementares
+
+@@ -104,35 +109,35 @@ Na maioria dos pacientes com ECG normal e sem doen
+Um 1º episódio de síncope sem achados sugestivos de etiologia cardíaca ou neurológica não necessita de testes além do ECG. Por outro lado, testes diagnósticos são recomendados a casos recorrentes, episódios graves (que envolvem lesões ou acidentes) e pacientes com ocupações de alto risco (como pilotos de avião).
+
+Dica
+Na maioria dos pacientes com eletrocardiograma normal e sem doença cardíaca, a síncope neuromediada é a principal hipó[---]tese diagnóstica.
+
+Tabela 5 - Achados do exame físico que podem sugerir a causa da síncope
+Achados	Possibilidades
+Hipotensão ortostática	Desidratação, uso de medicações de risco e outras causas de dis{+-+}função autonômica
+Ictus desviado, sopro de regurgitação mitral e B3, sugerindo disfunção ventricular	Baixo débito cardíaco ou taquicardias ventriculares
+Hipotensão e/ou assistolia ventricular durante massagem do seio carotídeo	Síndrome (hipersensibilidade) do seio carotídeo
+Sopros de ejeção (estenose aórtica e cardiomiopatia hiper{+-+}trófi[---]ca obstrutiva)	Obstrução ao fluxo de saída do ventrículo esquerdo
+
+Tabela 6 - Achados do eletrocardiograma que podem sugerir a causa da síncope 
+Achados	Possibilidades
+Intervalo QT longo	Taquicardia ventricular tipo torsades de pointes
+Infarto do miocárdio prévio	Taquicardia ventricular
+Atraso de condução e bloqueio de ramo ou de fascículo	Bradicardia
+Bloqueio do ramo direito com elevação do segmento ST e inver[---]são da onda T em derivações precordiais (V1-V3)	Síndrome de Brugada
+Ectopia atrial e ventricular	Inespecífica: possível indicação de substrato para arritmias
+Síndrome de pré-excitação (onda delta)	Síndrome de Wolff-Parkinson-White
+
+Entre pacientes com episódio único, a possibilidade de recorrência em 2 anos é pequena, segundo a maioria dos estudos, mas entre aqueles com mais de 1 episódio em tempo recente predomina a necessidade de investigação. Em jovens e com provável síncope neurocardiogênica, o teste de escolha para avaliação é o tilt[---]{+ +}table test, o qual também pode ser útil a idosos, com síncope inexplicada. Também chamado de teste da inclinação, é um exame desenvolvido para identificar a síncope neu-rogênica que acomete pacientes de todas as idades, mas principalmente adultos jovens e adolescentes. Para realizá-lo, o paciente é colocado sobre uma mesa basculante especial que permite avaliá-lo em diversas inclinações (0,8 e -30°). Simulta-neamente, é monitorizado com ECG e é realizada medida não invasiva da pressão arterial a cada 2 minutos. O princípio é promover sobrecarga adaptativa ao sistema nervoso autônomo do indivíduo e avaliar sua resposta. Na Tabela 7, descrevem-se as indicações, sugeridas pela European Society of Cardiology (ESC). 
+
+Di[-c-]a{+gnóstico+}
+Quando o provável mecanismo envolvido é neurocardiogênico, o teste de escolha para avaliação é o tilt[---]{+ +}table test, útil tam[---]bém em idosos com síncope inexplicada.
+
+Tabela 7 - Principais indicações do tilt[---]{+ +}table test 
+Classe I
+1 - Episódio sincopal único em pacientes em situações de alto risco – ocorrência ou risco de lesão física ou ocupacional.
+2 - Episódios recorrentes: 
+[-a)-]{+-+} Sem evidência de doença estrutural cardiovascular.
+[-b)-]{+-+} Doença cardiovascular presente, mas outras causas de síncope excluídas com testes diagnósticos.
+3 - Situações em que seja importante demonstrar síncope neuromediada.
+Classe II
+1 - Quando verificar o comportamento hemodinâmico na síncope, alteração de manejo.
+@@ -140,7 +145,7 @@ Classe II
+3 - Avaliação de pacientes (principalmente idosos) com “quedas” recorrentes inexplicáveis – investigação de tonturas recorrentes ou pré-síncope. 
+4 - Avaliação de síncope inexplicada em situações, como neuropatias periféricas ou disautonomias.
+Classe III
+1 - Avaliação do tratamento.{+ +}
+
+Em pacientes sem doença cardíaca, um resultado positivo do teste (hipotensão ou bradicardia desencadeadas por ele) é considerado diagnóstico, mas, naqueles com doença cardíaca estrutural, devem ser excluídas complicações dessas doenças. 
+O ecocardiograma também pode ser utilizado para a avaliação do paciente com síncope. As recomendações da ESC suge-rem realizar o exame sempre que há suspeita de causa cardíaca, mas apenas estenose aórtica severa, dissecção aórtica, tu-mores cardíacos obstrutivos, tamponamento pericárdico e anomalias congênitas das artérias coronárias podem ser diagnosti-cados como causa de síncope com certeza por meio desse exame.
+@@ -172,7 +177,9 @@ Devem-se diferenciar epis
+
+Diagnóstico diferencial
+A diferenciação entre síncope e crises convulsivas pode, ocasionalmente, ser difícil, mas, em episódios convulsivos, a recu-peração da consciência tende a levar mais tempo.
+
+Quando ocorre atividade motora rítmica (clônica ou mioclônica), o diagnóstico mais provável é crise convulsiva, porém a síncope pode ser acompanhada de rápidos movimentos {+mioclônicos +}similares[-.-] {+a crise convulsiva, decorrentes da isquemia cerebral transitória.+}
+Eventualmente, observação em laboratórios especializados e eletroencefalograma são necessários para a correta diferen{+-+}ciação das 2 patologias.
+Transtornos psiquiátricos podem levar a episódios de síncope de repetição. Os principais diagnósticos psiquiátricos, nesse caso, são transtorno da ansiedade generalizada e depressão maior (Tabela 9).
+
+Tabela 9 - Diagnósticos diferenciais 
+@@ -186,10 +193,11 @@ A hipotens
+Quando ocorrem diminuições pressóricas menores associadas a quadro de sintomas semelhantes, também é provável o diagnóstico. A doença pode ser causada por hipovolemia, uso de medicações como diuréticos, neuropatias autonômicas pri-márias ou secundárias (diabetes, uremia, amiloidose etc.) e endocrinopatias como insuficiência adrenal e feocromocitoma (hipertensão associada a episódios de hipotensão postural). A maioria relaciona-se ao uso de medicações, e os pacientes, na maioria das vezes, têm idade superior a 60 anos.
+O tratamento inclui evitar situações de vasodilatação periférica ou que dificultam o retorno venoso, como banhos quen-tes, exercício isométrico, grandes refeições e permanecer em pé por grandes períodos. Assim, pequenas refeições com alta quantidade de carboidratos podem ser benéficas a quem recebe agentes pressóricos durante o dia. Uma opção seria cafeína durante a refeição, pois tem ação pressórica e bloqueia o receptor de adenosina. A elevação da cabeceira (decúbito) de 5 a 20° ativa o sistema renina–angiotensina–aldosterona e pode ser útil. Meias compressivas também são recomendadas, e pode haver necessidade de expansão volêmica. Em casos de sintomas recorrentes, pode ser preciso instituir dieta rica em sal e fludrocortisona em doses de 0,1 a 1mg/d, pois aliviam os sintomas. Outras opções farmacológicas incluem anti-inflamatórios não esteroides e agonistas alfa-1-adrenérgicos como a midodrina. Há relatos do uso da fluoxetina para essa situação.
+
+B - Hipersensibilidade e síndrome do seio carotídeo{+ +}
+É considerada uma variante da síncope vasovagal. Em alguns pacientes, a massagem do seio carotídeo leva a grande queda da frequência cardíaca, que pode ou não ser associada a um declínio da pressão arterial. Essa reação é descrita como hiper-sensibilidade do seio carotídeo, e tal resposta exacerbada pode decorrer de 2 fatores, isoladamente ou em conjunto:
+Cardioinibitório: predomínio na queda da frequência cardíaca; 
+Vasodepressor: declínio da pressão arterial na ausência de significativa bradicardia.
+{+A massagem do seio carotídeo está indicada para pacientes >40 anos com síncope de etiologia desconhecida após a avali-ação inicial, devendo ser evitada em paciente com acidente isquêmico transitório ou acidente vascular encefálico nos últimos 3 meses e em pacientes com sopro carotídeo.+}
+Os critérios para o seu diagnóstico são:
+Assistolia ventricular =3s (devida à parada sinusal e ao BAV);
+Diminuição da pressão arterial sistêmica de 50mmHg ou mais; 
+@@ -197,11 +205,11 @@ Reprodu
+O manejo consiste, principalmente, em evitar a compressão da região cervical por gravatas, colares ou outros. O trata-mento envolve as mesmas táticas utilizadas para hipotensão ortostática ou síncope vasovagal, evitando medicações que pos-sam causar bradicardia e hipotensão, bem como vasoconstritores como midodrina ou inibidores da recaptação de serotonina, em pacientes com a forma vasodepressora. Aqueles com a forma cardioinibitória, caso apresentem episódios recorrentes, podem beneficiar-se com marca-passo.  
+
+C - Síncope vasovagal
+Em todas as estatísticas, a síncope vasovagal é a causa mais frequente de síncope e apresenta curso em geral benigno, mas pode estar associada a injúrias devido [-às-]{+a+} quedas. Os episódios têm como característica ocorrer em posição ortostática, rara-mente com o paciente deitado, sentado ou em atividade física.
+Normalmente há pródromo de mal-estar abdominal. Os episódios são em geral desencadeados por situações de estresse emocional, a perda de consciência é de curta duração, e há fase de recuperação, que pode ser associada a náuseas e fadiga.
+Diversas medicações foram utilizadas na tentativa de diminuir os episódios de síncope:
+Pacientes com formas cardioinibitórias pareciam ter benefício com betabloqueadores, pois estes diminuem a pressão in-tracavitária cardíaca, de forma a suprimir o reflexo vasovagal; 
+Também foi descrito o uso da escopolamina, que, provavelmente, tem ação central, com inibição das eferências vagais, parecendo eficaz nas síncopes com componente cardioinibitório importante. A fludrocortisona seria particularmente efi{+-+}caz nas crises vasodepressoras;
+Inibidores da recaptação de serotonina, como a fluoxetina. 
+
+Dica
+@@ -215,16 +223,16 @@ As s
+A maioria dos pacientes com síncope cardíaca por arritmia não tem sintomas prodrômicos, e o quadro é súbito, o que po-de ajudar a diferenciá-la da síncope vasovagal. Por outro lado, em doenças cardíacas estruturais, a síncope costuma ser de-sencadeada por esforço físico ou por vasodilatação arterial (calor ou medicação). 
+
+Dica
+Os episódios de {+síncope de +}origem cardíaca não têm sintomas prodrômicos e têm início súbito.
+
+A estenose aórtica é muito mais frequente em idosos, e os pacientes podem apresentar a tríade de dispneia aos esforços, dor torácica anginosa e síncope aos esforços. Todas implicam pior prognóstico, e pacientes com dispneia aos esforços têm mortalidade de 50% em 2 anos, caso não seja realizada nenhuma intervenção. Indivíduos com síncope isolada apresentam prognóstico melhor. 
+A cardiomiopatia hipertrófica é mais comum em jovens, embora também seja possível em indivíduos com mais de 60 anos. Eles apresentam, ainda, alto risco de morte súbita, com algumas séries demonstrando mortalidade de 40% em 1 ano após um episódio sincopal. 
+Os indivíduos com embolia pulmonar também podem, por vezes, apresentar síncope. Em algumas séries, até 13[-5-]{+%+} têm tal complicação, normal entre aqueles com grandes êmbolos. 
+O tratamento depende da causa da síncope, mas as causas cardíacas mostram pior prognóstico, sendo esse o principal fa-tor envolvido em eventos adversos, com possibilidade de IAM ou acidente vascular cerebral e morte de 2 a 3 vezes maior em tais grupos. 
+
+Pergunta
+2015 - UNICAMP
+2. Uma jovem de 14 anos, previamente hígida, vem para avaliação após ter desmaiado em um acampamento de bandei-rantes. Refere que, após 48 horas de acampamento, por volta de 8 da manhã, quando estavam em formação para hastear a bandeira, lembra-se apenas de uma leve tontura. Nega outros sinais e sintomas e, quando recobrou a consciência, con{+-+}se[---]guiu levantar-se sem problemas. Exame físico: IMC = percentil 85, FC = 60bpm, FR = 14irpm e PA = 100x60mmHg; sem outras alterações. A hipótese diagnóstica é:
+a) hipoglicemia
+b) síndrome convulsiva
+c) hipotensão postural
+@@ -242,7 +250,7 @@ Resposta no final do cap
+
+Pergunta
+2010 - PUC-PR
+4. L.W., de 30 anos, do sexo feminino, apresenta história de crises recorrentes de perda do estado de consciência e atonia postural precedidas por náuseas, zumbido bilateral e diminuição da acuidade visual. As crises ocorriam no período diurno, durante a sua jornada de trabalho como balconista em uma loja de roupas, onde permanecia a maior parte do tempo em pé. Há 5 dias, ocorreu o último episódio, quando acordou para ir ao banheiro. Seu esposo conta que a viu sentada com o corpo enrijecido, sofrendo abalos musculares de 15 segundos. Houve recuperação espontânea da orientação e da consci{+-+}ên[---]cia de forma simultânea. Com base nesses dados, qual é a principal hipótese diagnóstica?
+a) síncope neurocardiogênica
+b) epilepsia
+c) síncope cardiogênica
+@@ -250,6 +258,7 @@ d) cataplexia
+e) síncope cerebrovascular
+Resposta no final do capítulo
+
+
+7. Avaliação 
+
+ 
+@@ -261,32 +270,32 @@ Tabela 10 - Tratamento
+Síndromes neuromediadas	- Orientar sobre a condição benigna do quadro; 
+- Evitar eventos precipitantes; 
+- Reconhecer os sintomas premonitórios; 
+- Orientar sobre manobras para abortar o episódio (como deitar-se, manobras de contrapres[---]são).
+Síncope vasovagal	- Evitar desidratação, longos períodos em ortostase, ambientes fechados e quen{+-+}tes e punções venosas;
+- Aumentar a ingesta hídrica e de sal (na ausência de hipertensão arterial sistê{+-+}mica);
+- Realizar exercício moderado e tilt training (treinos em prancha de tilt[---]{+ +}table test);
+- Drogas (quando há recorrência frequente ou trauma associado): midodrina, fludrocortisona.
+Síndrome do seio carotídeo	- Marca-passo cardíaco: para formas cardioinibitórias ou mistas;
+- Nas formas vasodepressoras, o tratamento é semelhante ao da síncope vasova{+-+}gal.
+Síncope situacional	- Evitar/aliviar o mecanismo de disparo: tosse, defecação, micção, estresse emo{+-+}cional, dor intensa;
+- Quando não é possível controlar o evento de disparo, manter volemia adequada e evitar ortostase prolongada.
+Hipotensão ortostática	- Evitar diuréticos, vasodilatadores e álcool;
+- Evitar mudança brusca de postura, período prolongado em posição supina, am{+-+}bientes quen[---]tes, exercício extenuante e refeições copiosas;
+- Aumentar a ingesta hídrica e de sal;
+- Elevar a cabeceira da cama durante o sono;
+- Em casos de difícil controle, realizar tratamento farmacológico (fludrocortisona, midodrina).
+Disfunção do nó sinusal	Marca-passo cardíaco (preferencialmente atrial ou dupla câmara)
+Doença do sistema de condução atrio[---]ventricular	Marca-passo atrioventricular
+Taquicardias supraventriculares ou ventriculares paroxísticas	- Ablação por cateter;
+- Drogas antiarrítmicas;
+- Cardiodesfibrilador implantável.
+Doenças cardíacas ou cardiopulmona[---]res estru{+-+}turais: isquemia miocárdica aguda ou infarto, embolia pulmonar, tamponamento pericárdi{+-+}co, estenose aórtica, cardiomiopatia hipertró{+-+}fica	- Tratamento farmacológico ou revascularização;
+- Anticoagulação e trombólise, quando houver indicação;
+- Punção pericárdica e drenagem;
+- Cirurgia valvar;
+- Tratamento farmacológico ou cirúrgico.
+
+[-9. -]Resumo
+
+Quadro-resumo
+- A síncope é um evento clínico comum, que demanda maior atenção entre os pacientes com insuficiência cardíaca, aqueles com mais de 45 anos, portadores de arritmia e ECG alterado; 
+@@ -294,13 +303,8 @@ Quadro-resumo
+- A anamnese e o exame físico são importantes na identificação do mecanismo da síncope; 
+- O diagnóstico diferencial envolve as crises convulsivas e as causas psiquiátricas. 
+
+Respostas{+ das questões do capítulo+}
+1. A
+2. D
+3. D
+4. A[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
