@@ -1,0 +1,245 @@
+diff --git a/obstetricia1_9.txt b/obstetricia1_9.txt
+index 7065ef3..c13bfcb 100644
+--- a/obstetricia1_9.txt
++++ b/obstetricia1_9.txt
+@@ -1,45 +1,68 @@
+Gestação gemelar
+Fábio Roberto Cabar
+
+{+Resumo+}
+{+A gestação múltipla é definida como aquela proveniente de 1 ou mais ciclos ovulatórios, resultando no desenvolvimento de mais de 1 embrião ou na sua divisão, independente do número final de recém-nascidos. As questões relacionadas a este capítulo focam principalmente os tipos de gemelares e a síndrome de transfusão fetofetal. As gestações dizigóticas resultam da fecundação de mais de 1 óvulo, e os embriões apresentam materiais genéticos diferentes; cada embrião desenvolve seus próprios cório e âmnio, e as gestações são sempre dicoriônicas e diamnióticas. As monozigóticas resultam da divisão de mas-sa embrionária inicial única, e os embriões resultantes apresentam carga genética idêntica: quando a divisão do blastocisto acontece em até 72 horas, podem ser encontrados 2 placentas e 2 sacos amnióticos (gestação dicoriônica diamniótica); quando a divisão acontece entre o 4º e o 8º dias após a fertilização, resulta em 1 placenta e 2 cavidades amnióticas (gesta-ção monocoriônica diamniótica); quando a divisão ocorre entre o 8º e o 13º dias após a fertilização, as gestações são mono-coriônicas e monoamnióticas. Os gêmeos unidos são resultantes da falha da separação completa dos embriões e ocorrem quando o processo de divisão é tardio (ao redor do 15º ao 17º dias). A síndrome da transfusão fetofetal é uma complicação específica e exclusiva das gestações monocoriônicas, ocorrendo em cerca de 10 a 15% destas. O mecanismo primário se baseia na transferência desigual de sangue entre as circulações dos 2 fetos por meio de anastomoses vasculares placentá-rias. O gêmeo-doador apresenta anemia e restrição do crescimento fetal grave, acompanhados de oligúria e oligoidrâmnio, enquanto o receptor apresenta sobrecarga circulatória e policitemia, o que pode levar ao desenvolvimento de complica-ções cardíacas e hidropisia. +}
+
+1. Introdução
+
+A gestação múltipla é definida como aquela proveniente de 1 ou mais ciclos ovulatórios, resultando no desenvolvimento de mais de 1 embrião ou na sua divisão, independentemente do número final de recém-nascidos. Observa-se aumento em sua frequência durante as 2 últimas décadas. Em gestações como essa, há aumento de cerca de 5 a 6 vezes da mortalidade neonatal quando comparadas com gestações únicas, respondendo por cerca de 10 a 15% da mortalidade perinatal.
+
+2. Incidência e epidemiologia
+
+A incidência é de 7:1.000 nascimentos no Japão, 10:1.000 na Europa e na América do Norte e de 40:1.000 em alguns paí-ses da África. Alguns fatores demográficos interferem na frequência de gestações dizigóticas, cuja ocorrência é mais comum quando há história familiar materna e aumento da idade materna e da paridade. No entanto, o uso cada vez mais frequente de medicações para a indução da ovulação e a transferência de múltiplos embriões por ciclo de reprodução assistida são os principais responsáveis pelo aumento acentuado observado ao longo das últimas décadas.
+
+Tabela 1 - Principais fatores de risco
+Técnicas de repro[---]dução assistida	A utilização delas faz aumentar a incidência{+.+}
+Idade materna	Até os 37 anos, tem-se a incidência de gêmeos dizigóticos aumentada com a idade materna. Após essa idade, a incidência cai anualmente{+.+}
+Paridade	Aumenta a incidência de gemelares em multíparas (1,5% em primigestas e 3% em quartiges{+-+}tas){+.+}
+Etnia	A incidência é maior em negras (1/80) quando comparadas a caucasianas (1/100) e asiáticas (1/155){+.+}
+
+A incidência de gestações monozigóticas é relativamente constante na população, porém algumas situações fazem aumen-tar as chances de divisão do embrião, como a demora da passagem do ovo fecundado nas trompas e a ocorrência de micro-traumas no blastocisto durante a manipulação realizada nos procedimentos de reprodução assistida.
+
+3. Zigoticidade e corionicidade
+
+As gestações múltiplas podem ser classificadas segundo a zigoticidade ou a corionicidade.
+As {+gestações +}dizigóticas resultam da fecundação de mais de 1 óvulo, e os embriões apresentam materiais genéticos dife{+-+}rentes[-;-]
+[-As-]{+.+} [-gestaçõe-]{+A+}s monozigóticas resultam da divisão de massa embrionária inicial única, e os embriões resultantes apresentam carga genética idêntica.
+Cerca de 2/3 das gestações gemelares naturalmente concebidas são dizigóticas, e 1/3, monozigóticas. O aumento obser-vado na incidência delas deve-se, principalmente, à maior frequência de gestações dizigóticas; entretanto, as técnicas de reprodução assistida, mesmo que em menor proporção, também favorecem a ocorrência de gestações monozigóticas.
+Nas dizigóticas, cada embrião desenvolve seus próprios cório e âmnio (sempre dicoriônicas e diamnióticas). As monozigó-ticas, por sua vez, têm corionicidade e amnionicidade variáveis, conforme o momento em que ocorre a divisão da massa em-brionária. Em cerca de 25% dos casos, quando a divisão do blastocisto ocorre em até 72 horas, podem ser encontrados 2 placentas e 2 sacos amnióticos (gestação dicoriônica diamniótica). Em 74%, a divisão acontece entre o 4º e o 8º dias após a fertilização, quando já ocorreu a diferenciação das células que dão origem ao cório, resultando em 1 placenta e 2 cavidades amnióticas (gestação monocoriônica diamniótica). Em aproximadamente 1% dos casos, a divisão do blastocisto ocorre entre o 8º e o 13º dias após a fertilização, isto é, quando já se formaram a placa coriônica e o saco amniótico, originando as gestações monocoriônicas monoamnióticas.
+Os gêmeos unidos são resultantes da falha da separação completa dos embriões e ocorrem quando o processo de divisão é tardio (ao redor do 15º ao 17º dias).
+
+ 
+Figura 1 - Classificação segundo a zigoticidade, a corionicidade e a amnionicidade
+
+A corionicidade sempre pode ser determinada com exatidão por meio de ultrassonografia (USG) precoce. A presença de monocorionicidade (única placenta) sempre implica monozigoticidade; por outro lado, as gestações dicoriônicas (2 placentas) podem ter origem monozigótica ou dizigótica. Nesses casos, o diagnóstico pode ser feito somente quando há discordância entre os sexos fetais ou investigado por meio de estudos do DNA (gêmeos com sexos diferentes são sempre dizigóticos e dicoriônicos, enquanto gêmeos do mesmo sexo podem ser tanto monozigóticos como dizigóticos).
+As complicações fetais são mais frequentes nas gestações monocoriônicas em comparação com as dicoriônicas. Portanto, na prática, a determinação da corionicidade, em vez da zigoticidade, é o fator mais importante para a conduta pré-natal e o principal determinante do prognóstico gestacional.
+O melhor período para determinar a corionicidade e a amnionicidade é o 1º trimestre da gestação (6 a 8 semanas), quan-do a acurácia da USG chega a 100%. A gestação dicoriônica pode ser diagnosticada a partir da 5ª semana pela identificação de mais de 1 saco gestacional e da presença de septo espesso entre eles. Após a 9ª semana, a projeção do componente coriôni-co entre as membranas amnióticas, identificado na base da inserção placentária, forma o sinal do lambda (twin-peak sign – Figura 2), característico dessa gestação. Com a evolução desta, ocorre a regressão da camada coriônica, e o sinal se torna mais difícil de ser identificado. Assim, a ausência deste[-,-] após o 1º trimestre[-,-] não exclui a possibilidade de gestação dicoriônica, pois as massas placentárias podem se fundir e apresentar aspecto de massa placentária única, sem o sinal do lambda. Por outro lado, a identificação desse sinal em qualquer estágio da gestação deve ser considerada para o diagnóstico de dicorionicidade.
+
+ 
+Figura 2 - Sinal do lambda (seta)
+
+Nas gestações monocoriônicas, a partir da 6ª semana, pode-se identificar mais de 1 embrião no interior do mesmo saco gestacional (Figura 3), e o âmnio se torna visível a partir da 8ª semana. No final do 1º trimestre, há a fusão das membranas amnióticas adjacentes, originando um septo fino entre as 2 cavidades amnióticas, que se insere de maneira abrupta na pla-centa, formando o sinal do “T”.
+Durante o 2º trimestre da gestação, a avaliação da corionicidade torna-se mais difícil. São características das gestações di-coriônicas a persistência do sinal do lambda, a identificação de fetos com sexos discordantes e/ou a presença de placentas inseridas em locais diferentes da cavidade uterina.
+A avaliação da corionicidade por meio de exames invasivos pode ser realizada excepcionalmente, nos casos avançados e com fetos do mesmo sexo, em que a determinação é fundamental para a condução do caso.
+
+{+Diagnóstico+}
+{+Na ultrassonografia, a gestação gemelar dicoriônica apresenta sinal do lambda, enquanto a gestação gemelar monocoriônica apresenta o sinal do “T”.+}
+
+ 
+Figura 3 - Gestação gemelar monocoriônica com 5 semanas
+
+4. Diagnóstico
+
+Do ponto de visto clínico, os sinais e sintomas relacionados à gestação gemelar são volume uterino maior do que o espe-rado para a idade gestacional (via de regra, a altura uterina é 5cm maior do que a esperada entre 20 e 30 semanas gestacio-nais), presença de 2 polos cefálicos à palpação, ausculta de 2 ritmos cardíacos com frequências diferentes entre si e diferen-tes da da mãe. Todos esses achados são tardios e podem ser facilmente falseados. Atualmente, a USG durante o 1º trimestre permite diagnosticar, com segurança, praticamente todos os casos.
+
+5. Particularidades e complicações maternas relacionadas
+
+As adaptações maternas habituais durante a gravidez são ainda mais comuns. A expansão volêmica observada é maior que a observada nas gestações únicas (em média, 1.960mL x 1.570mL, respectivamente). Observa-se estado de circulação hiper-dinâmica, decorrente, sobretudo, do aumento do débito cardíaco materno (cerca de 20% acima do que ocorre nas gestações únicas), atribuído ao aumento do volume de ejeção sistólica proporcionado pelo aumento da volemia e da pré-carga.
+Da mesma forma, é observado maior aumento no volume abdominal e no recrutamento de músculos acessórios para a respiração, que pode ocasionar queixas mais frequentes de dispneia nessas gestantes. Não se observa o impacto dessas alte-rações na homeostase gasosa e no equilíbrio acidobásico quando comparadas com gestações únicas. Algumas gestantes po-dem apresentar, ainda, quadros de pielectasia renal em razão da compressão da drenagem ureteral pelo útero sobredisten-dido.
+Do ponto de vista das complicações, as gestações gemelares associam-se ao aumento de todas elas, exceto o pós-datismo e a macrossomia fetal. Observam-se maior frequência de anemia, hiperêmese gravídica, Doença Hipertensiva Específica da Gestação (DHEG), placenta prévia, descolamento prematuro de placenta, infecção puerperal, edema pulmonar e óbito ma-terno. O diagnóstico e a conduta específica não são diferentes dos adotados para gestações únicas.
+A hipertensão arterial é uma das complicações maternas mais incidentes, com frequência 2 vezes maior de DHEG nessas gestantes, sobretudo das formas graves e de instalação precoce. Os aspectos relacionados ao diagnóstico e ao tratamento não diferem com relação à abordagem nas gestações únicas, com exceção de que os níveis de ácido úrico encontrados nas gesta-ções gemelares são superiores aos valores habitualmente observados nas gestações únicas. 
+Os estudos são contraditórios quanto ao diabetes gestacional; apesar de muitos pesquisadores relatarem aumento de sua incidência nas gestações gemelares, outros estudos não sustentam tal hipótese.
+A amniorrexis prematura é mais frequente em gestações múltiplas (7 a 10%). Rotineiramente, a ruptura acontece nas membranas do saco gestacional do 1º gemelar, entretanto pode ocorrer também na outra cavidade amniótica, especialmente após procedimentos invasivos (por exemplo, amniocentese). O período de latência (tempo entre a ruptura das membranas e o parto) parece significativamente menor que o encontrado em gestações únicas, porém o manejo desses casos segue as recomendações para estas. Diante do nascimento de 1 dos fetos em idade gestacional extremamente prematura, alguns hos-pitais relatam sucesso em postergar o parto do(s) remanescente(s). Essa conduta deve ser vista como medida de exceção, para a qual são recomendadas a instituição de antibioticoterapia, a circlagem cervical e a tocólise profilática. 
+
+6. Complicações fetais
+
+Do ponto de vista fetal, a gemelaridade também aumenta as chances de complicações como óbito fetal, malformações fe-tais, acidentes de cordão e apresentação fetal anômala durante o trabalho de parto. O diagnóstico de baixo peso ao nascer é frequente devido à maior incidência de prematuridade e Restrição do Crescimento Fetal (RCF). Algumas das intercorrências são exclusivas de gestações múltiplas, como a síndrome da transfusão fetofetal e a discordância entre os fetos quanto a alte-rações morfológicas, da vitalidade fetal e do crescimento fetal.
+A duração média da gestação gemelar é de aproximadamente 35 semanas, e da gestação trigemelar, de 32 semanas. As-sim, o parto prematuro ocorre em 30 a 50% dos casos e, pela alta frequência, a prematuridade é o principal fator determi-nante das elevadas taxas de morbidade e mortalidade associadas a esse tipo de gestação. O prognóstico dos recém-nascidos prematuros de gestações múltiplas é similar ao observado em gestações únicas da mesma idade gestacional. O risco de parto pré-termo é maior nas gestações monocoriônicas.
+Os testes que demonstraram melhor desempenho para a predição de parto prematuro foram a avaliação do comprimento do colo uterino por USG e a determinação da fibronectina fetal em secreção cervicovaginal. O comprimento do colo uterino em gestações gemelares se reduz gradualmente, de 47mm na 13ª semana a 32mm na 32ª semana; colo uterino com compri-mento menor que 20mm na 24ª semana de gestação indicaria maior risco de parto pré-termo. Estudos prospectivos randomi-zados que testaram a efetividade da circlagem cervical não mostraram efeitos benéficos desse tratamento em gestações ge-melares. A internação hospitalar rotineira e o repouso no leito também não demonstraram benefícios. Recomenda-se, no entanto, a redução das atividades físicas, com a adequação da jornada e da carga de trabalho.
+@@ -53,35 +76,59 @@ Tamb
+O prognóstico do gemelar remanescente depende de fatores como corionicidade, idade gestacional em que ocorre o óbi-to, causa específica deste e intervalo de tempo do óbito fetal até o nascimento do outro gemelar. Nas gestações monocoriô-nicas, quando 1 dos fetos morre, há 25% de chances de morte do outro gemelar e 25% de chances de sequela neurológica no feto sobrevivente. Isso se deve a hipotensão e isquemia abruptas secundárias ao desbalanço hemodinâmico no feto so-brevivente, cuja volemia é exsanguinada para o território vascular do gemelar morto. Pelo elevado risco de sequelas no so-brevivente, recomenda-se monitorização ultrassonográfica periódica para o diagnóstico de anormalidades no desenvolvimen-to do sistema nervoso central. Em gestações dicoriônicas, não há anastomoses vasculares entre as placentas, e o risco de desequilíbrio hemodinâmico para o gemelar remanescente é mínimo. Nesses casos, o feto que morre pode ser reabsorvido ou permanecer envolvido pelas membranas e ser comprimido contra a parede uterina materna (feto papiráceo).
+Quando a causa específica do óbito fetal não influencia o aumento do risco para o feto sobrevivente, a conduta pode ser expectante. A coagulação intravascular disseminada raramente acontece em gestações gemelares com feto morto. Diante do óbito de ambos, a via de parto preferencial é a vaginal, com acompanhamento laboratorial materno até o parto.
+No tocante a malformações fetais, sua incidência em gestações gemelares é de aproximadamente 5 a 6%, maior que a en-contrada em gestações únicas. Essa incidência é ainda maior nas gestações monozigóticas, provavelmente pelo processo de divisão da massa embrionária. Nesse grupo, as anormalidades estão comumente relacionadas aos defeitos da linha média e incluem holoprosencefalia, defeitos abertos do tubo neural, extrofia da cloaca e malformações cardíacas. Também as gesta-ções monocoriônicas estão associadas a risco 2 a 3 vezes maior de malformação fetal do que as dicoriônicas.
+
+7. Complicações específicas
+
+A síndrome de transfusão fetofetal é uma complicação específica e exclusiva das gestações monocoriônicas: acontece em cerca de 10 a 15% destas. O mecanismo primário consiste na transferência desigual de sangue entre as circulações dos 2 fetos por meio de anastomoses vasculares placentárias do tipo arteriovenosas, que funcionam como se fossem fístulas. 
+O gêmeo-doador apresenta anemia e RCF grave acompanhados de oligúria e oligoidrâmnio, enquanto o gêmeo-receptor apresenta sobrecarga circulatória e policitemia, o que pode levar ao desenvolvimento de insuficiência cardíaca e a hidropisia fetal. Polidrâmnio no feto-receptor leva ao aumento da pressão intrauterina, que pode prejudicar ainda mais a circulação placentária.
+Os casos graves, em que há o desenvolvimento de polidrâmnio agudo, manifestam-se entre 16 e 24 semanas de gestação. Quando não tratados, esses casos associam-se a taxas de mortalidade de 80 a 100%. Isso se deve, especialmente, às altas taxas de óbito fetal espontâneo de 1 ou ambos os fetos, abortamento, amniorrexis prematura e parto prematuro. A morte de 1 deles (geralmente o receptor morre antes) leva a alterações hemodinâmicas que resultam em hipovolemia acentuada do feto sobrevivente, com alta morbidade (especialmente sequelas neurológicas) e alta mortalidade.
+
+{+Importante+}
+{+De acordo com recomendações do Ministério da Saúde, o achado ultrassonográfico de polidrâmnio (maior bolsão vertical >8cm) em uma das cavidades amnióticas e oligoidrâmnio (maior bolsão vertical <2cm) na outra, independente do tamanho dos fetos, atesta o fenômeno de transfusão fetofetal, devendo a gestante ser encaminhada a serviço terciário de atenção perinatal.+}
+
+{+Pergunta+}
+{+2012 - UFF+}
+{+1. A síndrome da transfusão fetofetal é diagnosticada quando:+}
+{+a) em gestação monocoriônica e diamniótica, observa-se Doppler umbilical normal e alterado nos fetos considerados como receptor e doador, respectivamente+}
+{+b) em gestação dicoriônica e diamniótica, ocorre discordância do crescimento fetal superior a 25% no feto considerado como receptor+}
+{+c) em gestação monocoriônica e diamniótica, observa-se a sequência polidrâmnio (maior bolsão vertical >10cm) – oligoi-drâmnio (maior bolsão vertical <2cm) nos fetos considerados como receptor e doador, respectivamente+}
+{+d) em gestação monocoriônica e monoamniótica, nota-se diminuição do crescimento fetal superior a 25% no feto conside-rado como doador+}
+{+e) em gestação monocoriônica e diamniótica, ocorre óbito de 1 dos+} {+fetos+}
+{+Resposta no final do capítulo+}
+
+Tabela 2 - Achados ultrassonográficos que caracterizam a síndrome de transfusão fetofetal
+- Gestação gemelar com confirmação ultrassonográfica da monocorionicidade durante o 1º trimestre da gestação. Nos casos sem di[---]ag{+-+}nóstico precoce da corionicidade, o exame ultrassonográfico deve demonstrar gestação gemelar com fetos do mesmo sexo, massa pla{+-+}centária única e membrana interamniótica fina;
+- Os fetos não devem apresentar malformações estruturais;
+- Encontra-se polidrâmnio na cavidade amniótica do feto receptor, cuja bexiga urinária está distendida;
+- Encontra-se oligoidrâmnio na cavidade do feto doador, cuja bexiga urinária muitas vezes não é identificável;
+- O receptor, geralmente, tem biometria compatível à idade gestacional e, nos casos graves, pode apresentar sinais de comprometi[---]mento da função cardíaca, além de hidropisia;
+- O doador apresenta, frequentemente, RCF e alterações no Doppler das artérias umbilicais, como aumento dos índices de resistência e/ou diástole zero ou reversa.
+
+Tabela 3 - Classificação da síndrome de transfusão fetofetal
+Estágio 1	Somente diferença na quantidade de líquido amniótico nas 2 cavidades amnióticas
+Estágio 2	Diferença na quantidade de líquido amniótico associada à anúria do doador – bexiga não identificada pela USG
+Estágio 3	Diferença de volume de líquido amniótico, anúria e alteração do Doppler do doador
+Estágio 4	Diferença de volume de líquido amniótico, anúria, alteração do Doppler e anasarca do receptor
+Estágio 5	Óbito de 1 dos gêmeos
+
+Algumas técnicas foram propostas para o tratamento dessa complicação, com o objetivo de melhorar a sobrevida dos fe-tos. A seguir, serão descritas algumas delas.
+
+A - Amniodrenagem
+O polidrâmnio, quando progressivo, leva ao desconforto materno e torna o útero tenso à palpação. A remoção do excesso de líquido amniótico por meio da amniocentese, procedimento de fácil execução e que não requer material especial, alivia o polidrâmnio associado à síndrome de transfusão fetofetal e reduz o risco de amniorrexis e trabalho de parto prematuro, pro-longando, dessa forma, a duração da gestação. É frequente a formação repetitiva do polidrâmnio; nesse caso, o procedimento pode ser repetido (de 1 a 6 intervenções durante a gestação).
+Em estágios avançados, a taxa de sobrevida de pelo menos 1 feto após o tratamento é de 40%, e a taxa de sobrevida dos 2 fetos é de 20%. O risco de sequelas neurológicas varia de 17 a 33%. As complicações ocorrem em aproximadamente 5 a 10% dos casos e incluem óbito fetal ou abortamento até 48 horas após, amniorrexis e descolamento prematuro de placenta.
+
+B - Cirurgia endoscópica intrauterina com laser
+Essa cirurgia se baseia no exame direto da superfície placentária, por meio de fetoscopia, para identificação e coagulação com laser dos vasos que cruzam o equador delimitado pela membrana interamniótica e comunicam uma metade funcional da placenta com a outra. Esse método age especificamente na fisiopatologia da doença e é realizado em poucos centros de refe-rência, pois requer material especializado e treinamento apropriado.
+Em estágios avançados, a taxa de sobrevida de apenas 1 feto após o tratamento é de 75%; de ambos, é de 40%; a incidên-cia de sequelas neurológicas é de 4,2%. As complicações associadas são as mesmas que as descritas para a amniodrenagem, entretanto a morbidade materna é maior, por ser um procedimento mais invasivo.
+
+C - Septostomia
+A septostomia consiste na criação de um orifício na membrana interamniótica comunicando as 2 cavidades amnióticas. É realizada com a amniodrenagem, empregando-se o mesmo material. A taxa de sobrevida é de 40 a 83%, e o mecanismo de atuação se dá pelo efeito combinado do alívio do polidrâmnio com o equilíbrio entre as pressões das cavidades amnióticas. Essa técnica apresenta os mesmos riscos descritos para a amniocentese e o risco específico de entrelaçamento dos cordões, uma vez que a gestação está sendo transformada em monoamniótica.
+
+D - Feticídio seletivo
+
+a) Transfusão fetofetal
+O feticídio seletivo representa a interrupção seletiva da vida de 1 dos gêmeos e deve ser realizado por meio de técnica que evite o comprometimento circulatório do gemelar sobrevivente. É somente indicado aos casos com sinais de morte in-trauterina iminente de 1 dos fetos. As taxas de sobrevida são de, no máximo, 50%, e o número de casos relatados até hoje é pequeno. As técnicas empregadas incluem clampeamento do cordão umbilical por intermédio de fetoscopia e embolização vascular guiada pela USG. Os riscos maternos associados dependem da técnica empregada.
+
+b) Discordância de peso entre os fetos
+A discordância de crescimento fetal pode ser definida de diferentes formas:
+Diferença de peso em valores absolutos de 250 a 300g entre o gêmeo maior e o menor;
+@@ -89,62 +136,110 @@ Diferen
+Diferença entre os perímetros abdominais fetais >20mm.
+Tal discordância acontece em 5 a 15% das gestações gemelares e está associada ao aumento do risco de óbito fetal e de mortalidade neonatal. Pode decorrer de diferenças na placentação e no potencial genético individual (nas gestações dizigóti-cas), anormalidades de inserção do cordão, discordância quanto a malformações congênitas e síndromes genéticas e/ou in-fecção congênita; nuliparidade materna, gestações monocoriônicas e ocorrência de síndrome de transfusão fetofetal tam-bém estão relacionadas a maior incidência de discordância de crescimento fetal. Nos casos com discordância de peso fetal sem causa aparente, a morbidade neonatal está relacionada à corionicidade e à ocorrência de RCF, e não à discordância pro-priamente dita.
+Diante da discordância entre os pesos fetais em uma gestação gemelar, deve-se realizar vigilância do padrão de cresci-mento de cada um e acompanhamento dos parâmetros de vitalidade fetal, como o volume de líquido amniótico, o perfil biofí-sico fetal e o estudo dopplervelocimétrico, principalmente quando há diagnóstico de RCF em 1 ou ambos os fetos. Não há evidências da resolução dos casos somente em função de crescimento fetal discordante.
+
+c) Gêmeo acárdico
+A ocorrência de gêmeo acárdico (Figura 4) é de cerca de 1% das gestações monocoriônicas e representa o grau máximo de anormalidade vascular nessas gestações.
+O gemelar anormal apresenta múltiplas malformações estruturais, que incluem ausência do coração ou presença de órgão rudimentar e ausência do polo cefálico, associada ou não a alterações dos membros superiores. O tronco pode estar presen-te, podendo desenvolver edema acentuado, ou, ainda, apresentar-se como uma massa amorfa.
+
+ 
+Figura 4 - Feto acárdico: morfologia parcial do tronco e dos membros inferiores
+
+Tais fetos não sobrevivem após o nascimento em virtude das múltiplas e graves anormalidades. Sua perfusão sanguínea in-trauterina se mantém pela presença de anastomose arterioarterial com o outro feto. O gemelar normal (doador), atuando como bomba para o feto anormal (acárdico), morre em 50 a 70% das gestações devido à insuficiência cardíaca congestiva ou ao parto pré-termo decorrente de polidrâmnio grave.
+O tratamento desses casos é realizado por meio da oclusão do fluxo sanguíneo para o gêmeo acárdico, por ligadura en-doscópica, coagulação com laser do cordão umbilical ou embolização dos vasos umbilicais dentro do abdome do feto acárdico por intermédio da injeção de álcool absoluto. Nos casos de gestação em fase tardia (próximo à viabilidade do feto normal), o tratamento consiste na realização do parto.
+
+8. Gestação monoamniótica
+
+As gestações gemelares monoamnióticas correspondem a cerca de 1% de todas as monozigóticas e estão associadas ao risco de 50 a 75% de óbito fetal intrauterino devido, principalmente, ao enovelamento dos cordões umbilicais e à consequen-te interrupção do fluxo sanguíneo. Outros fatores associados às perdas fetais são as malformações e o parto prematuro.
+O diagnóstico baseia-se na demonstração da presença de 2 fetos no interior do mesmo saco gestacional, sem membrana interposta, ou na demonstração do enovelamento do cordão umbilical no exame de Doppler com fluxo colorido. Os pais, por sua vez, devem estar cientes quanto ao risco de óbito súbito inexplicado. O momento ideal para a interrupção da gestação é motivo de controvérsias; alguns autores indicam parto na 32ª semana, enquanto outros consideram que o risco de óbito súbi-to diminui no 3º trimestre, o que justificaria retardar o momento do parto. Esse limite deve ser estabelecido individualmente, de acordo com as condições disponíveis de cuidados intensivos neonatais.
+
+- Gêmeos unidos
+A união dos gêmeos é um evento raro, que acomete aproximadamente 1 a cada 50.000 gestações. O diagnóstico ultrasso-nográfico é possível a partir da identificação de gestação gemelar com massa placentária única, falha na demonstração de membrana interamniótica e fetos que não se separam.
+A união pode ser anterior (toracópagos, onfalópagos ou tóraco-onfalópagos), posterior (pigópagos), dos polos cefálicos (craniópagos) ou caudal (isquiópagos). O prognóstico depende do local de união, dos órgãos envolvidos e da extensão dessa união, além da presença de eventuais malformações. Geralmente, o prognóstico é definido pela possibilidade de correção de cardiopatias frequentemente encontradas. É obrigatória a ecocardiografia fetal no pré-natal. Quando o prognóstico é ruim, o parto pode acontecer por via vaginal e depende, especialmente, da dimensão dos fetos.
+
+ 
+Figura 5 - Gêmeos unidos (união anterior)
+
+9. Gestações trigemelares ou de ordem maior
+
+O aumento observado na frequência de gestações trigemelares ou de ordem maior é ainda mais significativo que o en-contrado para gemelares. A redução do número de embriões transferidos em ciclos de reprodução assistida poderia contri-buir para a diminuição dessa ocorrência.
+Essas gestações podem ser mono ou polizigóticas, com diversas combinações possíveis de corionicidade e amnionicidade. A avaliação ultrassonográfica durante o 1º trimestre nesses casos permite estabelecer a corionicidade com acurácia e auxilia a orientação do acompanhamento durante o restante da gestação.
+Se, em gestações gemelares, o risco de complicações é alto, em gestações de ordem maior, os riscos passam a ser extre-mamente elevados, com prognóstico muito reservado, especialmente quando o número de fetos é maior ou igual a 4. Todas as complicações citadas também ocorrem nas gestações com 3 ou mais fetos.
+Como nas gestações gemelares, o principal fator de morbidade e mortalidade perinatal nesses casos é a alta incidência de prematuridade. A duração da gestação é inversamente proporcional ao número de fetos. Dessa forma, a idade gestacional média do parto em trigemelares gira em torno de 33 semanas, e a prematuridade ocorre em 90%, agravando ainda mais o risco perinatal. Para as gestações com 4 ou mais fetos, virtualmente todos os casos nascem prematuros.
+
+10. Acompanhamento pré-natal
+
+O acompanhamento pré-natal das gestações gemelares envolve um número maior de consultas quando comparado ao pré-natal de gestações únicas. As consultas mais frequentes permitem diagnosticar precocemente desvios na evolução da gestação, como a ocorrência de DHEG. Não há, no entanto, um número mínimo de consultas definido como ideal para esses casos.
+A abordagem multidisciplinar permite atenção global, como o atendimento nutricional, que orienta quanto à dieta ade-quada para atender à maior demanda calórica, de proteínas, vitaminas, minerais e ácidos graxos essenciais.
+Os exames laboratoriais solicitados no acompanhamento pré-natal das gestações gemelares são os mesmos preconizados para as gestações únicas. Entretanto, pelo risco maior de anemia materna, sugere-se a repetição trimestral das dosagens de hemoglobina materna. Por essa razão, a suplementação de ferro e de ácido fólico deve ser obrigatória em tais casos.
+A realização de exames ultrassonográficos periódicos é essencial para o acompanhamento dessas gestações. As gestações dicoriônicas podem ser examinadas mensalmente, e as monocoriônicas devem ser avaliadas quinzenalmente a partir da 16ª semana para o diagnóstico da síndrome de transfusão fetofetal.
+A partir do 3º trimestre, são realizados exames ultrassonográficos mais frequentes para acompanhamento do crescimento fetal e testes de vitalidade fetal. A avaliação do volume de líquido amniótico nas gestações gemelares pode ser realizada pela técnica do maior bolsão vertical, em vez da medida do índice de líquido amniótico.
+{+O Ministério da Saúde ressalta que apenas nos casos de trabalho de parto efetivo entre 24 e 34 semanas se preconiza a corticoterapia para acelerar a maturação pulmonar fetal; o uso profilático nesse período deve estar reservado apenas às gestações trigemelares.+}
+
+11. Resolução da gestação e parto
+
+A idade gestacional ideal para a resolução das gestações gemelares é controversa. A curva de mortalidade perinatal de-monstra elevação do risco a partir de 38 semanas. Gestações monocoriônicas, mesmo sem evidências de síndrome de trans-fusão fetofetal ou RCF, apresentam risco de óbito fetal súbito maior que as dicoriônicas. Por esse motivo, recomenda-se a resolução das gestações monocoriônicas na 36ª semana e das dicoriônicas entre a 37ª e a 38ª semanas.
+As complicações mais comuns do parto na gestação múltipla são as distocias funcionais, apresentação fetal anômala, pro-lapso de cordão, descolamento prematuro de placenta e hemorragias pós-parto. A assistência a esses casos exige a presença de equipe obstétrica capacitada, com anestesistas, neonatologistas e equipe de Enfermagem. Deve-se garantir acesso venoso calibroso, manter oxigenação adequada e evitar episódios maternos de hipotensão, além de solicitar reserva de hemoderiva-dos.
+A via de parto ainda é discutível. Alguns estudos sugerem que a cesárea eletiva poderia reduzir em até 75% o risco de óbi-to perinatal em gestações a termo. As complicações relacionadas ao parto vaginal se devem, principalmente, ao risco de óbito do 2º gemelar por anoxia.
+Para a escolha da via, são consideradas a apresentação dos fetos e a idade gestacional. Para gestações a termo, quando o 1º gemelar ou ambos são cefálicos, sem outras complicações, pode-se optar pela via vaginal. Em casos em que o 1º gemelar não é cefálico ou apresenta peso estimado menor que o 2º (com diferença =500g), opta-se pela cesárea. O mesmo vale para gestações pré-termo com fetos viáveis ou em que o peso estimado seja <1.500g.
+
+{+Dica+}
+{+Trigemelares beneficiam-se de cesárea, bem como fetos portadores de síndrome de transfusão fetofetal, gemelares mono-amnióticos e gemelaridade imperfeita (fetos acolados).+}
+
+O trabalho de parto em gestações gemelares pode ser conduzido com ocitocina por via intravenosa e sob monitorização contínua de ambos os fetos. A analgesia é indispensável.
+Após o nascimento do 1º gemelar, é importante manter o cordão deste clampeado para evitar a exsanguinação do outro feto. Procede-se, então, à amniotomia da 2ª bolsa, e aguarda-se a evolução por um período máximo de 10 minutos. Ocorren-do insinuação e boa evolução nesse período, procede-se à assistência ao parto vaginal. Não ocorrendo a insinuação ou se a apresentação do 2º gemelar for córmica, pode-se realizar versão interna e extração pélvica antes do enluvamento fetal pelo útero contraído. Quando ocorre o enluvamento, a fim de tentar evitar a cesárea no 2º gemelar, podem ser utilizadas drogas anestésicas inalatórias que promovem o relaxamento uterino e permitem manobras obstétricas.
+{+É importante ter em mente que, nos partos de gemelares por via vaginal, o intervalo entre o nascimento dos fetos não de-ve exceder 30 minutos; a partir daí, salvo em condições de vitalidade asseguradas, deve-se considerar cesárea para o 2º gemelar.+}
+Algumas distocias são específicas de gestações gemelares. Entre elas, destacam-se:
+
+Tabela 4 - Distocias específicas de gestações gemelares
+Compactação	Insinuação completa e simultânea dos polos fetais de ambos os gêmeos, impedindo a sua descida
+Colisão	Contato de um gêmeo com o outro, impedindo a descida de um deles
+Encravamento mútuo	Adaptação completa da superfície inferior do mento de 1 dos gêmeos ao mento do outro gemelar
+Impactação	Encaixe de parte de 1 dos gêmeos com o outro, com insinuação simultânea
+
+ 
+Figura 6 - Embate de faces em gravidez gemelar
+
+{+Pergunta+}
+{+2013 - UEL+}
+{+2. Com relação à gestação gemelar, atribua V (Verdadeiro) ou F (Falso) às afirmativas a seguir:+}
+{+(  ) A morte fetal nas gestações monocoriônicas monoamnióticas ocorre devido ao entrelaçamento entre os cordões umbi-licais.+}
+{+(  ) A transfusão feto–feto é uma complicação comum nas gestações dicoriônicas.+}
+{+(  ) Fetos siameses ocorrem quando a divisão celular ocorreu entre o 3º e o 8º dia.+}
+{+(  ) Quando a divisão celular ocorre nas primeiras 72 horas, a gestação será dicoriônica diamniótica.+}
+{+(  ) Translucência nucal aumentada de um dos gemelares no 1º trimestre de gestação é preditor de transfusão feto–feto nas gestações dicoriônicas.+}
+{+Assinale a sequência correta:+}
+{+a) V, F, V, F, V+}
+{+b) V, F, F, V, F+}
+{+c) F, V, V, F, F+}
+{+d) F, V, F, V, V+}
+{+e) F, F, V, V, V+}
+{+Resposta no final do capítulo+}
+
+12. Resumo
+
+Quadro-resumo
+- As gestações dizigóticas resultam da fecundação de mais de 1 óvulo, e os embriões apresentam materiais genéticos diferen[---]tes; cada embrião desenvolve seus próprios cório e âmnio – são sempre dicoriônicas e diamnióticas;
+- As gestações monozigóticas resultam da divisão de massa embrionária inicial única, e os embriões resultantes apresentam carga genética idêntica; a corionicidade e a amnionicidade são variáveis, conforme o momento da divisão da massa embrio[---]nária: 
+· Quando a divisão do blastocisto acontece em até 72 horas, podem ser encontrados 2 placentas e 2 sacos amnióticos (gesta[---]ção dico{+-+}riônica diamniótica);
+· Quando a divisão acontece entre o 4º e o 8º dias após a fertilização, resulta em 1 placenta e 2 cavidades amnióticas (gesta[---]ção mo{+-+}nocoriônica diamniótica);
+· Quando a divisão ocorre entre o 8º e o 13º dias após a fertilização, as gestações são monocoriônicas e monoamnióticas.
+- Os gêmeos unidos são resultantes da falha da separação completa dos embriões e ocorrem quando o processo de divisão é tardio (ao redor do 15º ao 17º dias);
+- O melhor período para a determinação da corionicidade e da amnionicidade é o 1º trimestre da gestação;
+- A gestação dicoriônica pode ser diagnosticada pela identificação da projeção do componente coriônico entre as membranas amnióti{+-+}cas, identificado na base da inserção placentária (formação do sinal do lambda);
+- Na gestação monocoriônica, no final do 1º trimestre, há a fusão das membranas amnióticas adjacentes, originando um sep[---]to fino entre as 2 cavidades amnióticas que se insere de maneira abrupta na placenta, formando o sinal do “T”;
+- A gemelaridade aumenta as chances de complicações como óbito fetal, malformações fetais, acidentes de cordão e apre[---]sentação fetal anômala durante o trabalho de parto;
+- O diagnóstico de baixo peso ao nascer é frequente devido à maior incidência de prematuridade e RCF;
+- Algumas das intercorrências são exclusivas de gestações múltiplas: a síndrome da transfusão fetofetal e a discordância entre os fetos quanto a alterações morfológicas, de vitalidade fetal e do crescimento fetal;
+- A idade gestacional ideal para a resolução das gestações gemelares é controversa. Frequentemente, indica-se: 
+[-   -]· Gemelares dicoriônicos e diamnióticos: 38 semanas; [-   -]
+· Monocoriônicos e diamnióticos: 36 semanas; [-   -]
+· Monocoriônicos e monoamnióticos: 34 semanas.
+
+{+Respostas+}
+{+1. C+}
+{+2. B+}
+
+{+Dica+}
+{+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.+}
+{+Questões: página XX+}
+{+Comentários: página XX+}
