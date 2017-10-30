@@ -1,0 +1,363 @@
+diff --git a/cardio1_2.txt b/cardio1_2.txt
+index 9be6992..9e073fb 100644
+--- a/cardio1_2.txt
++++ b/cardio1_2.txt
+@@ -3,27 +3,25 @@ Jos
+Rodrigo Antônio Brandão Neto
+Fabrício Nogueira Furtado
+
+[-Resumo-]Este capítulo visa abordar, de forma bastante abrangente, uma das situações clínicas que têm se mostrado grave problema de saúde pública em todo o mundo{+, a Hipertensão Arterial Sistêmica (HAS)+}. Nesse contexto, são aborda{+-+}das as principais teorias sobre a fisiopatologia da doença: a neurogênica e a do desbalanço na reabsorção de sódio e água, além dos fatores de risco associados à [-hipertensão arte-rial sistêmica-]{+HA+}, como sobrepeso e obesidade, ingesta de sódio, estilo de vida, etnia e história familiar. Discute[-m-]-se, ainda, o modo de fazer o diagnóstico, com 2 ou mais medidas de pressão arterial diastólica, em 2 visitas subsequentes, =90mmHg, ou pressão arterial sistólica =140mmHg, e um importante tema: a avaliação das lesões em órgãos-alvo (retinopatia, nefro[---]patia, cardiopatia), intimamente ligadas a complicações em longo prazo da [-hipertensão-]{+HAS+} e que representam altos custos na saúde. {+A última publicação relevante sobre o tema foi a 7ª Diretriz Brasileira Sobre Hipertensão Arterial em setembro de 2016, cujo conteúdo já está incluso neste capítulo.+}
+
+1. Introdução
+A Hipertensão Arterial Sistêmica (HAS){+, doença altamente prevalente,+} representa um dos maiores problemas de sa{+-+}úde pública no Brasil e no mundo, ge[---]rando elevado custo médico-social, principalmente por sua participação em com{+-+}plicações, como na doença cerebrovascular, na doença arterial coronariana, na Insuficiência Cardíaca (IC), na insufici{+-+}ência renal crônica, na retinopatia hipertensiva e na insuficiência vascular periférica. É uma condição clínica multifato{+-+}rial, caracterizada por níveis elevados e sustentados da Pres[---]são Arterial (PA). Associa-se frequentemente a alterações funcionais e/ou estruturais dos órgãos-alvo (coração, encéfalo, rins e vasos sanguíneos) e a alterações metabólicas, com consequente aumento do risco de eventos cardiovasculares fatais e não fatais. Tem alta prevalência e baixas taxas de controle, sendo importante problema de saúde pública. A Organização Mundial da Saúde estima que, atualmente, 1 em cada 3 pessoas no mundo é hipertensa (mais de 2 bilhões de pessoas). Na China, cerca de 200 milhões de habitan{+-+}tes são hipertensos. 
+[-N-]{+Dad+}o{+s+} [-B-]{+norte-ame+}r{+ic+}a{+no+}s[-il,-] de[-sde-] [-a-]{+2015+} [-déc-]{+revel+}a[-d-]{+r+}a{+m+} [-d-]{+qu+}e [-1960, -]a[-s-] [-do-]{+HAS +}e[-nça-]s[- c-]{+t+}a[-rdio-]va[-scula-]{+ p+}res[- (DCVs) -]{+en+}t[-êm-]{+e+} [-sup-]e[-ra-]{+m 69% +}do[- a-]s {+pac+}i[-nf-]e[-ctoco-]nt[-agiosa-]{+e+}s com[-o-] {+1º e+}p[-r-]i[-nc-]{+sód+}i[-p-]{+o de inf+}a[-l-]{+rto+} [-c-]a{+g+}u[-sa-]{+do+} d[-e-]{+o+} m{+i+}o{+cá+}r[-te-]{+dio+}, [-com-]{+77% de+} {+A+}c{+id+}e[-r-]{+n+}t[-a-]{+e+} [-p-]{+V+}a[-rti-]{+s+}c[-ipação d-]{+ul+}a{+r+} [-HAS -]{+E+}n{+c+}e[-sse -]f[-at-]{+álic+}o{+ (AVE)+}, [-pois-]{+75%+} [-esta é u-]{+co+}m [-do-]{+In+}s[- -]{+u+}f[-atores ma-]i[-s releva-]{+ciê+}n[-tes-]{+cia+} [-p-]{+C+}ar{+díac+}a [-o-]{+(IC)+} [-des-]e[-nv-]{+ 60% c+}o[-lvi-]m[-ento-] d{+o+}e[-sse-]{+nça+} {+ar+}t[-ipo d-]e{+rial+} [-do-]{+p+}e[-nç-]{+riféric+}a. A[-lguns-] [-auto-]{+HAS é +}res[- c-]{+p+}ons[-id-]{+áv+}e[-ram-]{+l+} [-que-]{+por+} 4[-0-]{+5+}% das mortes [-por A-]c[-i-]{+ar+}d[-ente V-]{+í+}a[-s-]c[-ular Cerebr-]a[-l (AVC)-]{+s+} e [-2-]5{+1+}% das mor[--tes por doença ar-]te[-rial coronariana -]s[-ão-] decorrentes de [-H-]A[-S-]{+VE+}.
+No [-p-]{+Br+}a[-í-]s{+il+}, {+desd+}e[-m-] [-20-]{+a década de 196+}0[-3-], [-27,4%-]{+as+} do{+ença+}s [-óbitos foram -]ca[-usa-]{+r+}d{+i+}o{+va+}s[- po-]{+cula+}r{+es+} {+(+}DCVs[-,-]{+)+} [-a-]t[-ingindo 37%-]{+êm+} [-q-]{+s+}u[-ando -]{+p+}e[-xcluí-]{+ra+}do[-s-] [-o-]{+a+}s [-ób-]i{+nfec+}to[-s por -]c{+ont+}a[-u-]{+gio+}sas {+co+}m[-al-]{+o+} [-def-]{+pr+}in{+c+}i[-d-]{+p+}a[-s e vio-]l[-ên-]{+ +}c[-i-]a[-.-]{+usa+} [-Em-]{+de+} [-2007-]{+morte+}, [-f-]{+c+}o[-ra-]m [-r-]{+c+}e[-gis-]{+r+}t{+a pa+}r{+ticip+}a{+ção +}da[-s-] [-1.157.509-]{+HAS+} [-inter-]n[-açõ-]es{+se fato,+} po[-r-]{+is+} [-DCV-]{+e+}s{+ta+} [-no-]{+é+} [-SUS.-]{+um+} [-C-]{+d+}o{+s fatores +}m{+ais+} rel{+ev+}a[-ção-]{+ntes+} {+par+}a[-os-] [-cust-]o[-s,-] {+des+}e[-m -]n{+v+}o[---]{+l+}v[-e-]{+i+}m[-br-]{+ent+}o de{+sse+} [-2009, h-]{+tip+}o[-uve-] {+de doença. Alguns autores consideram que 40% das mortes por AVE e 25% das mortes por doença arterial coronariana são decorrentes de HAS.+}
+{+No Brasil, a HAS atinge 32,5% (36 milhões) de indivíduos adultos, mais de 60% dos idosos, contribuindo direta ou in-diretamente para 50% das mortes por DCV. Junto com o diabetes mellitus, suas complicações (cardíacas, renais e AVE) têm impacto elevado na perda da produtividade do trabalho e da renda familiar, estimada em mais de US$ 4 bilhões entre 2006 e 2015. Em 2013 ocorreram mais de 1.100.000 óbitos, dos quais cerca de 30% foram decorrentes de DCV, a principal causa de morte no país. +}
+{+As taxas de mortalidade têm apresentado redução ao longo dos anos, com exceção das doenças hipertensivas, que aumentou entre 2002 e 2009 e mostrou tendência a redução desde 2010. As taxas de doenças hipertensivas no perí-odo oscilaram de 3+}9{+/+}1{+00+}.[-97-]{+00+}0 {+hab+}i{+ta+}nte{+s (2000) pa+}r{+a 42/100.000 habitantes. As doe+}n{+ças isquêmicas do cor+}aç[-õ-]{+ão saíram de 120,4/100.000 habitant+}es {+(2000) +}p{+ara 92/100.000 habitantes (2013), e as doenças cerebr+}o{+vascula+}r{+es+} [-DCV-]s{+aíram de 137+},{+7/100.000 habitantes (2000) para 89/100.000+} [-resul-]{+habi+}tan[-do em um cus-]t[-o d-]e{+s+} [-R$165.46-]{+(20+}1[-.644,3-]3[- (DATASUS-])[-.-]{+;+} [-A-]{+também+} [-d-]{+h+}o{+uv+}e[-nça-] re[-nal-]{+dução+} [-termin-]{+d+}a[-l,-] [-outra-]{+IC+} con[-dição frequ-]{+g+}e[-n-]{+s+}t[-e n-]{+iv+}a[- HAS-], [-ocasiono-]{+q+}u{+e+} {+v+}a[- -]{+r+}i[-nclusã-]o{+u+} de [-9-]4{+7,7/100+}.[-282-]{+000+} {+hab+}i{+ta+}n[-divíduo-]{+te+}s [-em-]{+(2000)+} p[-rogr-]a[-m-]{+r+}a [-de diálise no SUS-]{+24+},{+3/100.000+} [-reg-]{+hab+}i[-s-]t[-r-]an[-do-se 9.486 óbi-]t[-os -]e[-m-]{+s+} {+(+}20[-07-]{+13)+}.{+ +}
+A principal causa de morte de origem cardiovascular em todas as regiões é o AV[-C-]{+E+}, acometendo as mulheres em maior proporção. Um dos principais desafios no tratamento da hipertensão é a realização do diagnóstico precoce, de{+-+}vido à inexis[---]tência de sintomas precoces específicos. Dos pacientes com diagnóstico de hipertensão, atingir o alvo terapêutico é{+,+} muitas vezes{+,+} difícil, e é necessário o uso combinado de várias drogas, o que tem impacto na redução da adesão ao tratamento medi[---]camentoso. Hoje, cerca de 30 milhões de brasileiros são hipertensos e estima-se que ape{+-+}nas 10% terão adesão e meta tera[---]pêutica atingidas.[- -]
+2. Fisiopatologia 
+
+Apesar de não estarem muito bem estabelecidos todos os mecanismos associados à HAS, 2 teorias explicam a maio{+-+}ria dos casos: a neurogênica e a do desbalanço na absorção de sódio e água.
+A teoria neurogênica sustenta a ideia de que o sistema nervoso autônomo teria o seu set point pressórico alterado para um patamar mais elevado, determinando elevação da PA. A teoria do desbalanço do controle da absorção de sódio sustenta a ideia de que ocorre perda da capacidade de excreção adequada de sódio frente à quantidade de sódio ingerido, determi[---]nando a retenção de sódio e de água. 
+
+Importante
+Duas teorias são as mais aceitas para explicar os mecanismos associados à [-hipertensão arterial sistêmica-]{+HAS+}: a neurogênica, por disfunção do sistema nervoso autônomo, e a do desbalanço na absorção de sódio e água, decorrente da perda da capacida[---]de de excreção de sódio. O principal mecanismo de regulação da pressão arterial é o sistema renina–angiotensina–aldosterona.[-O sistema renina–angiotensina–aldosterona é o principal mecanismo de regulação da PA. Em situações de hipoperfusão renal, por estímulo da mácula densa (1), ocorre a liberação da renina, uma enzima renal. Por sua vez, a renina (2) ativa a angi-otensina (3), um hormônio que provoca contração das paredes musculares das pequenas artérias (arteríolas), aumentando a PA. A angiotensina também desencadeia a liberação do hormônio aldosterona pelas glândulas suprarrenais (4), provocando a retenção de sódio e a excreção de potássio. O sódio promove a retenção de água e, dessa forma, provoca a expansão do volume sanguíneo e o aumento da PA. Esse é o principal sistema de modulação da PA. -]
+ 
+{+O sistema renina–angiotensina–aldosterona é o principal mecanismo de regulação da PA. Em situações de hipoper-fusão renal, por estímulo da mácula densa (1), ocorre a liberação da renina, uma enzima renal. Por sua vez, a renina (2) ativa a angiotensina (3), um hormônio que provoca contração das paredes musculares das pequenas artérias (arterío-las), aumentando a PA. A angiotensina também desencadeia a liberação do hormônio aldosterona pelas glândulas su-prarrenais (4), provocando a retenção de sódio e a excreção de potássio. O sódio promove a retenção de água e, dessa forma, provoca a expansão do volume sanguíneo e o aumento da PA. Esse é o principal sistema de modulação da PA. +}
+{+  +}
+Figura 1 - Regulação da pressão arterial: sistema renina–angiotensina–aldosterona
+
+Vídeo
+@@ -31,38 +29,70 @@ Sistema renina
+ 
+
+3. Fatores de risco
+Existem vários fatores de risco para o desenvolvimento da HAS, e a maioria pode ser eliminada apenas com hábitos saudá[---]veis e cuidados com a saúde.
+
+Tabela 1 - Fatores de risco 
+Idade	Existe relação direta entre idade e desenvolvimento de HAS; acima de 65 anos, a prevalência é de 60%.
+Gênero e etnia	Até os 50 anos, a prevalência é maior entre homens, invertendo-se a tendência após essa idade. Também é mais prevalente nas raças não brancas. No Brasil, mulheres negras têm o dobro da incidência de HAS do que as brancas.
+Sobrepeso e obesidade	Mesmo em jovens, a obesidade aumenta o risco de HAS; o aumento de 2,4kg/m2 acima do índi{+-+}ce de massa corpórea adequado já eleva o risco.
+Ingesta de sal	A ingesta excessiva de sal está associada à HAS; já foram identificadas populações indígenas em que o sal não faz parte da dieta e não foram encontrados casos.
+Álcool	O consumo excessivo de álcool determina elevação da PA e aumento da mortalidade cardiovas{+-+}cular em geral.
+Sedentarismo	A atividade física protege o indivíduo de desenvolver HAS, mesmo em pré-hipertensos.
+Fatores socioe[---]conômicos	No Brasil, a HAS é mais prevalente em pessoas com baixa escolaridade.
+História familiar	A contribuição de fatores genéticos no desenvolvimento da HAS é bem estabelecida, mas não há como utilizá-los para predizer o risco de desenvolvimento.
+
+Importante
+A maioria dos fatores de risco para [-hipertensão arterial sistêmica-]{+HAS+} pode ser eliminada apenas com hábitos saudáveis e cuida[---]dos com a saú{+-+}de.[-4. Diagnóstico-]
+
+{+4. Diagnóstico +}
+A medida da PA deve ser feita em toda {+oportunidade de +}consulta médica, {+independentemente da especialidade, +}porém isso nem sempre é realizado corretamente. Deve ser afe[---]rida com manguito apropriado para a circunferência do braço (o cuff insuflável deve recobrir, pelo menos, 80% da circunfe[---]rência do braço), com repouso de, no mínimo, 5 a 10 minutos e abstinência de nicotina, álcool e cafeína de ao menos 30 mi[---]nutos. Devem ser realizadas medidas nos 2 braços, considerando a medida de maior valor para referência e certificando-se de que o indivíduo não está de bexiga cheia, pernas cruzadas e nem praticou exercícios nos últimos 90 minutos. Todos esses fatores podem influenciar a medida da PA.
+
+Importante
+Para indivíduos com idade superior a 18 anos, o diagnóstico de [-hipertensão arterial sistêmica-]{+HAS+} é feito sempre que se obtêm 2 ou mais medidas de [-P-]{+p+}ressão [-A-]{+a+}rterial [-D-]{+d+}iastólica[- (PAD)-], em 2 visitas subsequentes, iguais ou acima de 90mmHg, ou [-P-]{+de p+}ressão [-A-]{+a+}rterial [-S-]{+s+}istóli{+-+}ca[- (PAS)-]{+,+} maior{+es+} ou igua[-l-]{+is+} a 140mmHg. Como pode haver grande labilidade da pressão arterial, as medidas devem ser feitas em diferentes ocasiões ao longo de semanas ou meses, a menos que ocorram sintomas.[-Dica-]
+[-O diagnóstico de hipertensão arterial sistêmica envolve 2 ou mais medidas de PAD =90mmHg em 2 visitas subsequentes ou PAS =140mmHg.-]
+
+Há situações em que a medida d[-e-]{+a+} PA pode estar falsamente elevada, decorrente de estresse ou de outros fatores, princi[---]palmente de aspecto psicológico. Nesses casos, pode-se lançar mão de 3 artifícios diagnósticos: a Medida Resi{+-+}dencial da PA (MRPA), a Medida Ambulatorial da PA (MAPA) e a automedida da PA (AMPA). O objetivo desses artifícios é minimizar ao má[---]ximo o estresse da visita ao médico, o desconforto do exame e da medida da PA[- e-]{+,+} permitir maior nú{+-+}mero de medidas[-,-]{+ e+} ofere[---]ce[-ndo-]{+r uma+} ideia mais precisa da variação da PA durante o dia[-.-] [-O-]{+na+} {+vid+}a[-umento-] [-t-]r{+e+}a[-nsi-]{+l e co+}t[-ór-]i[-o -]d{+ian+}a [-PA-]{+do pacien-te. O aumento transitório da PA+} associado a estresse ou ansiedade não constitui doença hipertensiva, mas pode indicar propensão para HAS no futuro.
+{+A+} {+MRP+}A[-s-] [-princip-]{+é um+}a[-is-] [-in-]{+mo+}d{+al+}i[-c-]{+d+}a[-çõ-]{+d+}e[-s-] de [-MAPA s-]{+mediç+}ão[-:-]
+[-Susp-]{+ r+}e{+al+}i[-t-]{+z+}a[- -]d[-e-]{+a com+} [-“hi-]p[-e-]r{+o+}t[-ensã-]{+ocol+}o [-d-]{+específic+}o{+,+} cons[-ul-]{+is+}t[-ór-]i[-o” ou “-]{+n+}do [-ave-]n[-t-]a[-l-] {+o+}b[-ra-]{+te+}n[-c-]{+çã+}o[-”;-]
+[-Suspeita-] de {+3 m+}e[-pisó-]di[-o-]{+çõe+}s [-d-]{+p+}e{+la+} {+man+}h[-ipo-]{+a~, an+}te[-n-]s[-ã-]{+ d+}o [-art-]{+d+}e[-ri-]{+sjejum e d+}a[-l-] [-sin-]tom[-ática.-]
+[-Av-]a[-li-]{+d+}a[-ção-] da {+m+}e[-f-]{+d+}ic[-áci-]a{+ção, e 3+} [-d-]a{+`+} {+noi+}te[-rapêutica:-]{+,+} [-Qu-]an[-d-]{+tes do jantar, durante 5 dias. Outra opção é realizar 2 medições em cada uma dessas 2 sessões, durante 7 dias. São considerados anormais valores de PA =135x85mmHg.+}
+{+A MAPA e´ o método que permite o registro indireto e intermitente da PA durante 24 horas ou mais, enquanto o paci-ente realiza suas atividades habituais durante os peri´odos de vigi´lia e sono. Uma de suas caracteri´sticas mais especi´ficas e´ a possibilidade de identificar as alterac¸o~es circadianas da PA, sobretudo em relação às medições durante o sono, que têm implicac¸o~es progno´sticas considera´veis. Sa~o atualmente consideradas anormais as me´dias de PA de 24 horas =130x80mmHg, vigi´lia =135x85mmHg e sono =120x70mmHg (Tabela 2).+}
+
+{+Tabela 2 - Valores de PAS e PAD para definição de HAS por MRPA e MAPA+}
+{+Categoria	PAS (mmHg)		PAD (mmHg)+}
+{+Consultório	=140	e/ou	=90+}
+{+MAPA+}
+{+Vigília+}
+{+Sono+}
+{+24h	+}
+{+=135+}
+{+=120+}
+{+=135	+}
+{+e/ou+}
+{+e/ou+}
+{+e/ou	+}
+{+=85+}
+{+=70+}
+{+=80+}
+{+MRPA	=135	e/ou	=85+}
+{+PAS: Pressão Arterial Sistólica; PAD: Pressão Arterial Diastólica.+}
+
+{+As principais indicações de MAPA e MRPA são (Tabela 3):+}
+
+{+Tabela 3 - Indicações clínicas para a medicação da PA fora do consultório para fins de diagnóstico+}
+{+Indicações clínicas para MAPA e MRPA+}
+{+- Suspeita de hipertensão “do avental branco”:+}
+{+· HAS estágio 1 no consultório;+}
+{+· PA alta no consultório em indivíduos.+}
+{+- Suspeita de hipertensão mascarada:+}
+{+· PA entre 130x85mmHg e 139x89mmHg no consultório;+}
+{+· PA <140x90mmHg no consultório em indivíduos assintomáticos com lesão de órgão-alvo ou com alto risco cardiovascular to-tal.+}
+{+- Identificação do efeito “do avental branco” em hipertensos;+}
+{+- Grande variaçã+}o [-a-]{+de+} PA {+no +}c{+onsultório na mesm+}a{+ con+}su{+lt+}a{+ ou em consu+}l{+tas+} {+diferentes;+}
+{+- Hi+}p{+ot+}e{+nsão postural, pós-p+}r[-m-]an{+dial, na s+}e[-ce-]{+sta ou induzida por fá+}r{+macos;+}
+{+- PA+} elevada[-,-] {+de consultório suspeit+}a{+ de +}p{+ré-+}e{+clâmp+}s{+i+}a{+ em mulhe+}r{+es+} {+grávi+}da{+s;+}
+{+-+} {+C+}o[-t-]{+nf+}i{+r+}m[-iz-]ação d[-o-]{+e+} {+hiper+}t{+ensão +}r[-a-]{+esis+}t[-am-]ent{+e.+}
+{+Indicaçã+}o {+específicas par+}a{+ MAPA+}
+{+- Discordâ+}n[-t-]{+c+}i[--h-]{+a +}i{+m+}p[-e-]{+o+}rt[-e-]{+a+}n[-sivo-]{+te+} [-pa-]{+ent+}r{+e +}a {+PA n+}o [-diag-]{+co+}n[-ó-]s{+ul+}t{+ór+}i[-c-]o [-d-]e [-hi-pert-]e[-n-]{+m ca+}s[-ão-]{+a;+}
+{+-+} {+Av+}a[-rter-]{+l+}ia[-l-]{+ção+} [-r-]{+do d+}es[-ist-]{+c+}en{+so duran+}te o[-u-] [-“ef-]{+sono;+}
+{+- Susp+}eit[-o-]{+a+} d{+e HAS +}o{+u+} {+f+}a[-ven-]{+l+}ta[-l-] [-branco”;-]
+[-Q-]{+de q+}u[-an-]{+e+}d[-o-]{+a+} {+d+}a PA [-c-]{+dur+}a{+nte o +}s{+ono habit+}ual e[-stiv-]{+m p+}e[-r-]{+ssoas+} co[-ntrol-]{+m +}a[-d-]{+pnei+}a {+d+}e [-h-]{+s+}o[-uver i-]n[-díci-]o[-s-]{+,+} d{+oenç+}a [-pe-]r[-sistê-]{+e+}n{+al +}c{+rôn+}i{+c+}a ou d{+i+}a[- progr-]{+b+}e[-ssão d-]{+t+}e{+s;+}
+{+-+} {+Ava+}l[-es-]{+iaç+}ão d[-e-]{+a+} [-ó-]{+va+}r[-gãos--]{+i+}a{+bi+}l[-vo-]{+idade da PA+}.
+
+Pergunta
+2014 - UFF
+@@ -77,7 +107,7 @@ Resposta no final do cap
+ 
+Figura 2 - Diagnóstico de hipertensão arterial sistêmica
+
+Tabela [-2-]{+4+} - Metodologia correta para aferição da pressão arterial
+Preparo do paciente para medida da PA
+1 - Explicar o procedimento ao paciente. 
+2 - Oferecer repouso de, pelo menos, 5 minutos em ambiente calmo. 
+@@ -93,62 +123,74 @@ Medida da PA
+2 - Selecionar o manguito de tamanho adequado ao braço. 
+3 - Colocar o manguito sem deixar folgas, cerca de 2 a 3cm acima da fossa cubital. 
+4 - Centralizar o meio da parte compressiva do manguito sobre a artéria braquial. 
+5 - Estimar o nível da PAS (palpar o pulso radial e inflar o manguito até o seu desaparecimento, desinflar rapidamente e aguardar 1 minuto antes da medi{+-+}da). 
+6 - Palpar a artéria braquial na fossa cubital e colocar a campânula do este{+-+}toscópio sem compressão excessiva. 
+7 - Inflar rapidamente até ultrapassar de 20 a 30mmHg o nível estimado da PAS.
+8 - Proceder a deflação lentamente (velocidade de 2 a 4mmHg/s).
+9 - Determinar a PAS na ausculta do 1º som (fase I de Korotkoff), que é um som fraco seguido de batidas regulares, e, posteriormente, aumentar ligei{+-+}ramente a velocidade de deflação. 
+10 - Determinar a PAD no desaparecimento do som (fase V de Korotkoff).
+11 - Auscultar cerca de 20 a 30mmHg abaixo do último som para confirmar seu desaparecimento e depois proceder a deflação rápida e completa.
+12 - Se os batimentos persistirem até o nível zero, determinar a PAD no aba{+-+}famento dos sons (fase IV de Korotkoff) e anotar valores da sistóli{+-+}ca/diastólica/zero. 
+13 - Esperar de 1 a 2 minutos antes de novas medidas. 
+14 - Informar os valores de PA obtidos para o paciente. 
+15 - Anotar os valores e o membro. 
+
+Dica
+A aplicação correta da técnica para aferição da pressão arterial é essencial para o acompanhamento e o diagnós{+-+}tico da [-hi-]{+HAS.+}
+{+Em +}p{+acient+}e{+s obesos com ci+}r[---]{+cunferência de antebraço acima de 50cm de diâme+}t{+ro e na ausência d+}e{+ ma+}n{+guito adequado, a pres+}são arterial {+pode +}s{+er aval+}i[-s-]{+ada no an+}t[-ê-]{+ebraço co+}m[-i-]{+ aus+}c{+ult+}a{+ do pulso radial+}.
+
+A partir dos valores encontrados, deve-se orientar o paciente para nova aferição e avaliação clínica, conforme a Ta{+-+}bela [-3-]{+5+}.
+
+Tabela [-3-]{+5+} - Recomendações para [-reaval-]i[-açã-]{+níci+}o da [-pressão ar-]ter{+ap+}ia[-l-]
+[-PA-] [-i-]{+a+}n{+t+}i[-c-]{+-h+}i[-al (mmHg)	S-]{+p+}e[-guim-]{+rt+}en[-tos-]
+[-Si-]s[-tól-]i[-c-]{+v+}a{+:+} [-	D-]i[-as-]{+n+}t[-ólica	-]
+[-<130	<85	R-]e[-avalia-]r[- -]{+v+}e[-m 1 ano. Estimular muda-]nç[-a-]{+õe+}s no estilo de vida[-.-] [-130-]{+e+} {+ter+}a[- 139	85 -]{+pi+}a [-89	Re-]{+f+}a[-v-]{+rm+}a{+co+}l{+ógica+}
+{+S+}i{+tu+}a{+ções	Ab+}r{+angência+} [-e-]{+(+}m{+edida+} [-6 -]{+casual)	Reco+}me[-s-]{+ndaçõ+}es[-. In-]{+	Cla+}s[-i-]s[-t-]{+es	Níve+}i[-r-]{+s+} {+d+}e[-m-] [-mu-]{+evi+}d{+ênci+}a
+{+Início de interve+}nç[-a-]{+õe+}s no estilo de vida[-. -]
+[-140 a 159-]	[-90 a-]{+Todos+} [-99	C-]o[-nfirmar-]{+s+} e[-m-]{+stágios+} [-2-]{+de+} [-m-]{+hip+}e[-s-]{+rt+}e[-s. Co-]ns[-id-]{+ão +}e[-rar-] [-MAPA/MR-]PA[-.-]{+ =+} 1[-60-]{+35+} a 1[-7-]{+3+}9[-	100-]{+x85+} a [-10-]{+8+}9{+mmHg+}	[-C-]{+A+}o[-nf-]{+ d+}i[-rm-]a[-r em 1 mês. Co-]{+g+}n{+ó+}s{+t+}i[-derar MAPA/MRPA. -]
+[-=180-]{+co+}	[-=110-]{+I+}	[-Realizar -]{+A+}
+{+	H+}i[-nt-]{+p+}er[-v-]{+t+}en[-çã-]{+s+}o{+s+} [-medicam-]e[-n-]{+s+}t{+ági+}os[-a-] [-im-]{+2 +}e{+ 3	Ao +}dia{+gnós+}t[-a -]{+ic+}o[-u reaval-]{+	I	A+}
+{+	H+}i[-a-]{+pe+}r{+tensos+} e[-m-]{+stágio+} 1 [-sema-na.-]
+
+[-D-]e a[-cord-]{+lt+}o {+ris+}co[-m-] {+CV	A+}o [-v-]{+di+}a[-l-]{+gnóstic+}o[-r -]{+	I	B+}
+{+	Hi+}p{+e+}r{+t+}e{+n+}s{+o+}s[-ór-]{+ +}i[-c-]{+dos+}o{+s+} [-en-]co[-ntr-]{+m id+}ad[-o, o-]{+e+} [-p-]a[-cien-]t[-e -]é [-classific-]{+79 +}a[-d-]{+n+}o{+s	PAS+} {+=170mmHg	IIa	B+}
+{+	Hi+}p[-o-]{+e+}r[- -]{+t+}e{+n+}s[-tági-]os {+i+}d[-a HAS,-]{+osos+} co[-nfor-]m[-e a-] [-T-]{+id+}a[-b-]{+d+}e[-la-] [-4.-]{+=80+} [-Tabel-]a{+nos	PAS+} [-4-]{+=160mmHg	IIa	B+}
+{+Início+} [---]{+de+} [-Cl-]{+ter+}a[-ss-]{+p+}i{+a +}f[-ic-]a[-çã-]{+rmac+}o[- d-]{+lógic+}a[- -]{+	Hi+}p{+e+}r{+t+}e{+n+}s[-sã-]o{+s+} [-art-]e[-r-]{+stág+}i[-al,-]{+o I+} [-d-]e [-a-]{+ris+}co{+ CV mode+}r{+a+}do [-c-]o[-m-]{+u+} {+b+}a[- med-]i{+xo	Aguar+}da{+r 3+} [-c-]a{+ 6 mese+}s[-ual-] {+p+}e[-m-]{+lo+} [-c-]{+efeit+}o{+ de i+}n[-sul-]t[-ó-]{+e+}r{+venções no est+}i{+l+}o [-(>18-]{+de+} {+vida	II+}a{+	B+}
+{+	I+}n{+divídu+}os[-)-]
+[-Classifi-]{+ +}c[-ações	-]{+om +}PA[-S-] [-(-]{+= 130 a 139x85 a 89+}mmHg[-)	PAD-] [-(m-]{+e DCV preexistente ou alto risco CV	Ao diagnóstico	IIb	B+}
+{+	Indivíduos com PA = 130 a 139x85 a 89m+}mHg[-)-]
+[-Ó-]{+ sem DCV preexistente e risco de CV baixo ou moderado	Não recomendado	III	--+}
+{+PA: Pressão Arterial; PAS: Pressão Arterial Sistólica; CV: cardiovascular; DCV: doença cardiovascular.+}
+{+Fonte: VII Diretriz sobre Hipertensão Arterial 2016.+}
+
+{+De acordo com o valor pressórico encontrado, o paciente é classificado por estágios da HAS, conforme a Tabela 6. +}
+
+{+Tabela 6 - Classificação da pressão ar+}t{+er+}i{+al, de acordo co+}m{+ +}a[-	<-]{+ medida casual em consultório a partir de +}1[-20	<-]8[-0-]{+ anos de idade+}
+{+Classificação	PAS (mmHg)	PAD (mmHg)+}
+Normal	[-<-]{+=+}1[-3-]{+2+}0	[-<-]{+=+}8[-5-]
+[-L-]{+0+}
+{+Pré-h+}i[-mít-]{+pe+}r[-of-]{+t+}e{+nsão+}	1[-30-]{+21+} a 139	8[-5-]{+1+} a 89
+Hipertensão[-	E-]{+ e+}stágio 1	140 a 159	90 a [-99-]
+[-	E-]{+99+}
+{+Hipertensão e+}stágio 2	160 a 179	100 a 10[-9-]
+[-	E-]{+6+}
+{+Hipertensão e+}stágio 3	=180	=110
+[-	E-]{+Quando a PAS e a PAD +}s{+i+}t[-á-]{+uam-se em cate+}g{+orias diferentes, a ma+}io{+r deve ser utilizada para classificação da PA.+}
+{+Considera-se hipertensão sistólica isolada se PAS+} [-4	-]=140[-	-]{+mmHg e PAD +}<90{+mmHg, devendo a mesma ser classificada em estágios 1, 2 e 3.+}
+
+5. Classificação 
+
+Tema {+frequente +}de prova
+A classificação da hipertensão é tema recorrente das provas de Residência Médica, por isso deve ser estudada com atenção.
+
+{+ +}
+{+Figura 3 - Possibilidade de diagnóstico de acordo com a medida casual de PA, MAPA ou medidas domiciliares (considerar o diag-nóstico de pré-hipertensão para valores de PAS entre 121 e 139 e/ou PAD entre 81 e 89mmHg)+}
+
+
+HAS: PAS =140mmHg e/ou PAD =90mmHg, em medida de consultório, em 2 ou mais medidas obtidas em condições ideais e em ocasiões diferentes;
+Essencial: não tem causa identificada; corresponde à grande maioria dos casos;
+Secundária: representa de 5 a 10% dos casos, em que uma causa secundária é associada à gênese da hipertensão. Mui{+-+}tas vezes, essas causas são curáveis, resolvendo a HAS;
+Acelerada: hipertensão acentuada, associada à perda rápida da função renal, exsudatos ou hemorragias no exame do fun[---]do do olho, sem papiledema;
+Maligna: hipertensão acentuada com papiledema e necrose fibrinoide da camada íntima das pequenas artérias;
+Complicada: HAS associada a lesão de órgãos-alvo[-:-]{+, como+} AV[-C-]{+E+}, I[-nsuficiência -]C[-ardíaca-] [-C-]{+c+}ongestiva[- (ICC)-], insuficiência renal crônica, infarto agudo do miocárdio e aneurismas;
+[-Hipertens-]{+N+}ão [-d-]{+c+}o[- ave-]nt[-al b-]r[-anc-]o{+lada+}: {+definida +}quando{+,+} {+mesm+}o [-p-]{+sob tr+}a[-ci-]{+tam+}ent[-e-]{+o+} a[-prese-]nt[-a -]{+i-hi+}per{+ten+}si[-st-]{+vo, o paci+}ente[-m-]{+ p+}e{+rma+}n[-t-]{+ec+}e [-val-]{+c+}o[-res-]{+m a PA+} elevad[-os de PA-]{+a+} [-(=140x90mmHg)-]{+tanto+} no consultório [-e val-]{+c+}o[-res -]m[-édi-]o[-s-] [-c-]{+f+}o[-nsi-]{+ra +}de{+le po+}r{+ +}a{+lgum +}dos [-nor-]{+2 +}m[-ai-]{+étodo+}s [-na A-]{+(+}M[-P-]A[-, MR-]PA ou M[-A-]{+R+}PA{+)+};
+[- -]{+Ef+}e[-m-]{+ito “do+} a{+ven+}t[-é 10-]{+al+} {+br+}an{+c+}o[-s,-]{+”:+} [-70%-]{+e´ a+} d{+if+}e[-s-]{+r+}en[-volv-]{+c¸a de pressa~o entr+}e{+ as +}m{+edidas obtidas no consulto´rio e fora dele, desde que essa diferenc¸a seja igual ou superior+} {+a 20mm+}H{+g na P+}AS[-;-]{+ e/ou 10mm+}H{+g na PAD. Essa situação não muda o diagnóstico, ou seja, se o indivíduo é normotenso, permanecerá normotenso, e se é h+}iper[-t-]{+tenso, continuará sendo hipertenso; pode, contudo, alterar o estágio e/ou dar a falsa impressão de necessidade de adequações no esquema terapêutico;+}
+{+Hipertensão “do avental branco”: situac¸a~o cli´nica caracterizada por valores anormais da PA no consulto´rio, pore´m com valores considerados normais pela MAPA ou MRPA. Com base em 4 estudos populacionais, a prevale^ncia global da hipertensão “do avental branco” e´ de 13% e atinge cerca de 32% dos hipertensos, sendo mais comum nos pacientes em estágio 1;+}
+{+Hipertensão mascarada: é caracterizada por valores normais da PA no consulto´rio, pore´m com PA elevada pela MAPA ou medidas residenciais. A prevale^ncia da hipertensão mascarada e´ de cerca de 13% em estudos de base populacional. Va´rios fatores podem elevar a PA fora do consulto´rio em relac¸a~o a` PA nele obtida, como idade jovem, sexo masculino, tabagismo, consumo de a´lcool, atividade fi´sica, hipertensa~o induzida pelo exerci´cio, ansiedade, estresse, obesidade, dia-betes, doença renal crônica e histo´ria familiar de HAS. A prevale^ncia e´ maior quando a PA do consulto´rio esta´ no ni´vel limítrofe. Meta-ana´lises de estudos prospectivos indicam que a incidência de eventos cardiovasculares e´ cerca de 2 ve-zes maior na hipertensão mascarada do que na normotensa~o, sendo comparada à da HAS. Em diabe´ticos, a hipertensão mascarada esta´ associada a um risco aumentado de nefropatia, especialmente quando a elevac¸a~o da PA ocorre durante o sono. Esta condição deve ser pesquisada em indivíduos com PA normal ou limítrofe e mesmo nos hipertensos con-trolados, mas com sinais de lesões em órgãos-alvo, histórico familiar positivo para HAS, risco cardiovascular alto, e medida casual fora do consultório anormal. O risco de desenvolver l+}e[-n-]são [-mascara-]d{+e órgão-+}a[-:-]{+lvo+} [-qu-]{+é semelh+}an[-do-]{+te+} [-o-]{+a+} paciente{+s+} [-a-]{+hi-+}p[-r-]e[-s-]{+rt+}en[-ta val-]{+s+}o{+s;+}
+{+Hipe+}r{+t+}e{+n+}s{+a~o+} [-n-]{+sist+}o[-rm-]{+´lic+}a{+ +}is{+olada:+} de{+finida como+} PA{+S+} {+aume+}n{+tad+}a[-s-] co{+m PAD +}n[-su-]{+orma+}l{+. A hiper+}t[-a-]{+en+}s{+ão+} [-méd-]{+sistól+}ica{+ i+}s{+olada+} e [-v-]a[-lo-]{+ p+}res[- médio-]{+-+}s{+ão+} {+d+}e{+ pu+}l[-e-vado-]s{+o+} [-n-]{+s+}a[- MRPA -]{+~+}o[-u-] [-MAPA;-]{+importantes+} {+fat+}o{+res de+} risco cardiovascular [-é -]{+e+}m[-uito-] p[-róximo -]a[-o-]{+cientes+} d[-os-]{+e+} {+me+}i[-nd-]{+a-+}i[-ví-]d[-uos hip-]{+ad+}e[-rt-]{+ +}e[-n-]{+ ido+}sos;
+Hipertensão refratária ou resistente: condição clínica em que não há controle dos níveis pressóricos, apesar de 3 ou mais classes farmacológicas estarem em uso (obrigatoriamente 1 delas deve ser um diurético).
+[-			-]
+Pergunta
+2011 - FMUSP[- -]-[- -]R[-IBEIRÃO -]P[-RETO-]
+2. Um homem de 52 anos, assintomático, realizou exame anual de rotina que foi normal, com média da PA (3 medi{+-+}das) = 132x86mmHg. Foi solicitado eletrocardiograma, que evidenciou sobrecarga do ventrículo esquerdo e alterações difu[---]sas da repolarização ventricular. A seguir, foi solicitada Monitorização Ambulatorial da Pressão Arterial (MAPA), que evidenciou média das medidas em vigília de 142x90mmHg e média das medidas durante o sono de 132x84mmHg. Di[---]ante do exposto, o diagnóstico é:
+a) normotensão
+b) hipertensão do avental branco
+c) hipertensão mascarada
+@@ -156,10 +198,29 @@ d) hipertens
+Resposta no final do capítulo
+
+6. Avaliações clínica e laboratorial
+A avaliação clínica e laboratorial do paciente hipertenso tem o objetivo de identificar fatores de risco associados a HAS, pesquisar lesões clínicas ou subclínicas em órgãos-alvo, identificar a presença de outras doenças associadas, defi{+-+}nir o risco cardiovascular global e avaliar indícios para o diagnóstico de hipertensão arterial secundária. A análise de exames gerais do recém-diagnosticado permite melhor compreensão do contexto da HAS{+. +}
+{+Os fatores de risco adicional que devem ser investigados na anamnese são idade+} ([-T-]{+>55 +}a[-b-]{+nos em homens e >65 anos e mulher+}e{+s), tabagismo, dis+}l{+ipidemi+}a{+s (triglicérides+} {+>1+}5{+0mg/dL, LDLc >100mg/dL, HDLc <40mg/dL+})[-.-]{+,+} [-T-]{+di+}abe{+tes e história fami+}l{+iar de DCV prematura (>55 +}a{+nos+} {+em homens e >6+}5 {+anos e mulheres). Existem novos fatores de risco identificados que ainda não foram incorporados aos escores atuais de avaliação de risco, mas que devem ser levados em conta na avaliação como glicemia de jejum entre 100mg/dL e 125mg/dL, hemoglobina glicada (HbA1c) anormal, obesidade ab-dominal (síndrome metabólica), Pressão de Pulso (PP = PAS - PAD) >65mmHg em idosos, história de pré-eclâmpsia e história familiar de HAS (em hipertensos limítrofes).+}
+
+{+Tabela 7 - Exame físico do paciente hipertenso+}
+{+- Medição da PA nos 2 braços; +}
+{+- Peso, altura, índice de massa corpórea e frequência cardíaca; +}
+{+- Circunferência abdominal;+}
+{+- Sinais de lesões de órgão-alvo;+}
+{+- Cérebro: déficits motores ou sensoriais; +}
+{+- Retina: lesões à fundoscopia; +}
+{+- Artérias: ausência de pulsos, assimetrias ou reduções, lesões cutâneas, sopros; +}
+{+- Coração: desvio do ictus, presença de B3 ou B4, sopros, arritmias, edema periférico, crepitações pulmonares;+}
+{+- Sinais que sugerem causas secundárias; +}
+{+- Características cushingoides; +}
+{+- Palpação abdominal: rins aumentados (rim policístico); +}
+{+- Sopros abdominais ou torácicos (renovascular, coartação de aorta, doença da aorta ou ramos); +}
+{+- Pulsos femorais diminuídos (coartação de aorta, doença da aorta ou ramos); +}
+{+- Diferença da PA nos braços (coartação de aorta e estenose de subclávia). +}
+
+{+O exame físico também deve avaliar a medida do Índice Tornozelo-Braquial (ITB) e realização da fundoscopia. Para o cálculo do ITB, utiliza-se a medição da PAS no braço e no tornozelo, em ambos os lados. Define-se como normal uma relação PAS braço–PAS tornozelo acima de 0,90, definindo-se a presença de doença arterial periférica como: leve, se a relação é de 0,71 a 0,90; moderada, 0,41 a 0,70; e grave, 0,00 a 0,40.+}
+{+A avaliação laboratorial visa identificar alterações subclínicas e lesões de órgãos-alvo para melhorar a sensibilidade na melhor definição do risco cardiovascular.+}
+
+{+Tabela 8 +}- Avaliação laboratorial
+Avaliação inicial de rotina para o hipertenso
+- Análise de urina; 
+- Potássio plasmático; 
+@@ -168,42 +229,59 @@ Avalia
+- Colesterol total, HDL e triglicérides plasmáticos**; 
+- Ácido úrico plasmático; 
+- Eletrocardiograma convencional; 
+- Pacientes hipertensos diabéticos, hipertensos com síndrome metabólica e hipertensos com [-3-]{+2+} ou mais fatores de risco: reco{+-+}menda-se pesquisa de microalbuminúria – índice albumina[-–-]{+/+}creatinina em amostra isolada de urina (mg de albumina/g de creatinina ou mg de albumina/mmo[-l-]{+L+} de creatinina) – normal <30mg/g ou <2,5mg/mmo[-l-]{+L+};
+- Pacientes com glicemia de jejum entre 100 e 125mg/dL: recomenda-se determinar a glicemia 2 horas após sobrecarga oral de glicose (75g); 
+- Em hipertensos estágios 1 e 2 sem hipertrofia ventricular esquerda ao eletrocardiograma, mas com 3 ou mais fatores de risco, consi[---]derar o ecocardiograma para a detecção de hipertrofia ventricular esquerda;
+- Para hipertensos com suspeita clínica de IC, considerar o ecocardiograma para a avaliação das funções sistólica e diastólica[-. -]
+[-*-]{+;+}
+{+-+} [-Calcul-]{+R+}a{+diog+}r[- a T-]a[-x-]{+fi+}a de [-Fil-]t{+ó+}ra[-ção-]{+x+} [-Glomerul-]{+p+}ar[- Estim-]a[-d-]{+ p+}a{+cientes+} [-(TFGE)-]{+com+} {+sus+}pe[-l-]{+it+}a [-fórmu-]{+c+}l{+ínic+}a de [-Co-]{+a+}c[-kr-]o[-f-]{+me+}t[--Gaul-]{+imen+}t{+o+} [-57: TFGE (mL-]{+cardíaco+}/{+pul+}m[-i-]{+o+}n[-) = (140 -]{+ar;+}
+- [-id-]{+Ecoc+}a{+r+}d[-e) x pes-]{+i+}o[- (k-]g[-)-]{+rama+} [-/-]{+para+} {+pa+}c[-r-]{+i+}e[-a-]{+n+}t{+e com ev+}i{+dê+}n{+c+}i[-n-]a [-p-]{+e+}l{+etroc+}a[-sm-]{+rdiogr+}á[-t-]{+f+}ica [-(mg/-]d[-L) x 72-]{+e+} {+hi+}p[-a-]{+ert+}r{+ofi+}a [-h-]{+d+}o[-m-]{+ v+}en[-s; pa-]{+t+}r[-a m-]{+íc+}ul[-her-]{+o +}es[-, m-]{+q+}u[-ltiplica-]{+e+}r[- -]{+do ou clínica de IC;+}
+{+- Ultrassonografia de carótidas na presença de sopro carotídeo ou evidência de doença aterosclerótica arterial de outro terri-tório;+}
+{+- Ultrassonografia de abdome na presença de sopros ou massa abdominal;+}
+{+- Hb1c para pacientes com história familiar de diabetes tipo 2 ou diagnóstico prévio de diabetes tipo 2 e obesidade;+}
+{+- Teste ergométrico na suspeita de doença arterial coronariana estável, diabetes ou antecedente familiar para doença arteri-al coronariana em pacientes com PA controlada.+}
+{+* Calcular a Taxa De Filtração Glomerular Estimada (TFGE) pela fórmula de Cockroft-Gault: TFGE (mL/min) = (140 - idade) x peso (kg) / creatinina plasmática (mg/dL) x 72 para homens; para mulheres, multiplicar +}o resultado por 0,85. Interpreta{+-+}ção: função renal normal: >90mL/min; disfunção renal leve: 60 a 90mL/min; disfunção renal moderada: 30 a 60mL/min e disfunção renal grave: <30mL/min.
+** {+Avaliar o Ritmo de Filtração Glomerular estimado (RFGe) pela fórmula disponível em www.nefrocalc.net.+}
+{+*** +}O colesterol LDL é calculado pela fórmula: colesterol LDL = colesterol total - colesterol HDL - triglicérides/5 (quando a dosagem de triglicérides for abaixo de 400mg/dL).
+
+Outra avaliação válida para o hipertenso é o exame de fundoscopia óptica. A classificação mais utilizada divide a re{+-+}tinopa[---]tia hipertensiva em [-3-]{+4+} graus, de acordo com a severidade do acometimento. O 1º estágio relaciona-se mais com níveis pressó[---]ricos passados, enquanto aqueles de graus II e III se relacionam mai[-s-]{+s com níveis pressóricos atuais. O nível IV se correlaciona+} com {+urgê+}n[-ív-]{+cias/em+}e{+rgênc+}i{+a+}s {+hi+}p{+e+}r{+t+}e{+n+}s[-sór-]i[-cos atu-]{+v+}a[-i-]s.
+
+Tabela [-6-]{+9+} - Classificação da retinopatia hipertensiva
+Grau[- I-]	[-E-]{+Alterações fundoscópica+}s{+	Al+}t{+e+}r{+açõ+}e{+s clínicas+}
+{+1	- Vasoconstr+}i{+ção;+}
+{+- Tor+}t{+uosid+}a{+de;+}
+{+- Au+}mento {+do reflexo +}arteriolar[- rel-]{+.	P+}aci[-o-]{+e+}n{+te +}a[-d-]{+ssintomátic+}o
+{+2	-+} {+Gr+}a[-o-]{+u 1+} [-v-]as[-oe-]s[-p-]{+oci+}a[-sm-]{+d+}o a{+:+}
+{+  · C+}r[-t-]{+uzam+}e[-ri-]{+nt+}o[-lar-] [-ou-]{+AV+} [-o-]pa[-cif-]{+tológ+}ic{+o;+}
+{+  · Fios de prat+}a{+/ouro.	Fun+}ção {+cardíaca, renal e cer+}e{+bral são+} [-cruz-]{+s+}a[-men-]t[-o-]{+i+}s[- p-]{+f+}at[-ol-]ó[-g-]{+r+}i[-co-]{+a+}s
+{+3	- +}Grau [-II	Hemorragi-]{+2 +}as[- “em -]{+so+}c[-ham-]{+i+}a[- -]d[-e-]{+o+} [-vel-]a[-”-]{+:+}
+ [-ou-] [-puntiformes,-]{+·+} [-e-]{+E+}xsudatos [-moles (manchas -]algodonos[-a-]{+o+}s[-)-]{+;+}
+ [-ou-] [-duros-]{+·+} {+H+}e[- -]m[-icr-]o[-aneu-]r{+rag+}i[-s-m-]as[-Grau III-]{+.+}	[-Alg-]{+F+}un{+çõe+}s [-ou to-]{+car+}d[-os os -]{+í+}ac[-h-]a[-dos-]{+,+} [-a-]{+re+}n[-t-]{+al e c+}e[-rio-]re[-s-]{+bral+} {+po+}de{+m e+}s[-cri-]t[-os -]a[-sso-]{+r +}c{+ompromet+}i[-a-]d[-o-]{+a+}s
+[- -]{+4	Gr+}a[-o-]{+u 4 ++} edema de [-d-]{+pap+}i{+la	Funçõe+}s{+ +}c[-o-]{+ardíaca,+} [-ó-]{+renal e cerebral com+}p{+rome+}ti[-co-]{+das+}
+
+ 
+Figura [-3-]{+4+} - Retinopatias hipertensivas, de graus I[-, II-] [-e-]{+a+} I[-II, respectivamente-]{+V+}
+
+[-Dic-]{+Import+}a{+nte+}
+Estabelecido o diagnóstico de [-hipertensão arterial sistêmica-]{+HAS+}, a avaliação deve ser focada em 3 aspectos: estratificação do risco cardiovascu{+-+}lar, avaliação complementar e da probabilidade d[-a hipert-]e[-nsão-] a[-rterial-]{+ HA+} ser de origem secundária e não de origem essencial.
+
+1 - Estratificação de risco de DCV: é feita considerando {+vários fatores – +}os níveis pressóricos, a presença de fatores de risco para DCV e a lesão de órgãos-alvo (Figura [-4-]{+5+}), conforme a Tabela [-7-]{+10+}. A partir da estratificação (risco cardiovascu{+-+}lar), estabelece-se a aborda[---]gem terapêutica.
+
+Pergunta
+2013 - UFAM
+3. Jonas, de 62 anos, refere crises hipertensivas no último mês, tendo sido atendido no pronto-socorro 4 vezes, e sua pres[---]são oscilou entre 140 e 156x80mmHg. Sua mãe é hipertensa, e hoje sua pressão arterial é de 150x90mmHg. Vo{+-+}cê, en[---]quanto seu médico, pode:
+a) dizer que Jonas apresenta hipertensão arterial sistêmica estágio 2
+b) dizer que, se iniciarmos terapia medicamentosa, devemos dar preferência a um vasodilatador direto
+c) orientar Jonas a fazer o tratamento não medicamentoso, dependendo do risco cardiovascular
+d) dizer que devemos avaliar seu risco de evento cardiovascular e, de acordo com ele, iniciar, ou não, tratamento medi{+-+}ca[---]mentoso
+e) dentre as medidas não medicamentosas, incentivar a prática de atividade física, o consumo de álcool e de sal na dieta
+Resposta no final do capítulo
+
+ 
+Figura [-4-]{+5+} - Acometimento de órgãos-alvo na doença hipertensiva
+
+Tabela [-7-]{+10+} - Componentes para a estratificação do risco individual 
+{+Identificação dos fatores de risco cardiovasculares+}
+{+Nível pressórico (estágios 1 a 3)+}
+Identificação dos fatores de risco cardiovasculares
+- Fatores de risco maiores:
+· Tabagismo;
+@@ -220,7 +298,7 @@ Les
+· Angina ou infarto agudo do miocárdio prévio;
+· Revascularização miocárdica prévia;
+· IC.
+- Episódio isquêmico ou AV[-C-]{+E+};
+- Nefropatia;
+- Doença vascular arterial de extremidades;
+- Retinopatia hipertensiva; 
+@@ -233,14 +311,14 @@ Identificar fatores de risco para DCVs;
+Diagnosticar doenças associadas à HAS; 
+Diagnosticar causas secundárias. 
+
+3 - Determinação da probabilidade de causa secundária: deve-se suspeitar de hipertensão de causa secundária nos casos de início precoce (antes dos 30 anos), tardio (após os 50 anos), ausência de história familiar, descontrole inespe{+-+}rado da PA e hipertensão refratária. Outros sinais podem estar presentes e estão listados na Tabela [-8-]{+11. A doença pa-renquimatosa renal é a principal causa de HAS secundária, em especial a glomerulopatia diabética e a glomeruloescle-rose segmentar focal idiopática+}.
+
+Tabela [-8-]{+11+} - Indícios de hipertensão arterial sistêmica secundária
+- Início da hipertensão antes dos 30 anos ou após os 50;
+- Hipertensão arterial grave (estágio 3) e/ou resistente à terapia;
+- Tríade do feocromocitoma: palpitações, sudorese e cefaleia em crises; 
+- Uso de medicamentos e drogas que possam elevar a PA; 
+- Fácies ou biótipo de doença que cursa com hipertensão: doença renal, hiper{+-+}tireoidismo, acromegalia e síndrome de Cushing; 
+- Presença de massas ou de sopros abdominais; 
+- Assimetria de pulsos femorais; 
+- Aumento da creatinina sérica ou TFGE diminuída; 
+@@ -248,42 +326,39 @@ Tabela 8 - Ind
+- Exame de urina anormal (proteinúria ou hematúria); 
+- Sintomas de apneia durante o sono. 
+
+Tabela [-9-]{+12+} - Causas de hipertensão arterial sistêmica secundária
+Uso de 
+estrogênios	Mais comum entre mulheres acima dos 35 anos. Em geral, a PA retorna ao normal algumas sema{+-+}nas após a suspensão da medicação.
+Doença renal	Causa mais comum de HAS secundária, pode ser resultado de doença glomerular, tubular, policísti{+-+}ca ou nefropatia diabética.
+Doença 
+renovascular	Presente em 1 a 2% dos hipertensos. Em jovens, a causa mais comum é a displasia fibromuscular. No restante, deve-se à doença aterosclerótica da porção proximal das artérias renais; pode ser uni ou bilateral (25% dos casos – Figura [-5-]{+6+}).
+
+ 
+Figura [-5-]{+6+} - Hipertensão arterial sistêmica renovascular por estenose bilateral de artérias renais   
+
+Deve-se suspeitar de doença renovascular em casos de início precoce (antes dos 30 anos), tardio (após os 50 anos), pre[---]sença de sopro abdominal (epigástrico), presença de insuficiência arterial periférica e piora de função renal com inibidores da enzima de conversão.
+
+Importante
+Deve-se suspeitar de doença renovascular em casos de início precoce (antes dos 30 anos), tardio (após os 50 anos), presen[---]ça de sopro abdominal (epigástrico), presença de insuficiência arterial periférica e piora de função renal com inibidores da enzima de conversão. 
+
+O exame de eleição para o diagnóstico é a arteriografia; testes não invasivos, como a ultrassonografia com Doppler de ar[---]térias renais, cintilografia renal com DTPA (com ou sem teste do captopril) e a angiorressonância, também podem ser utiliza[---]dos. Para a doença fibromuscular, o tratamento de escolha é a angioplastia com stent. Na doença ateroscleró{+-+}tica, grande par[---]te dos indivíduos permanece hipertensa, mesmo após restauração do fluxo renal; a angioplastia é indi{+-+}cada apenas quando há hipertensão refratária ou perda de função renal.
+Feocromocitoma: caracteristicamente, apresenta-se de forma episódica e se acompanha de intensos sinais de ativação adrenérgica. O diagnóstico pode ser feito por meio da dosagem de catecolaminas na urina ou no plasma ou de seus me[---]tabólitos como a metanefrina;
+Hiperaldosteronismo primário: geralmente, por adenoma de suprarrenal ou hiperplasia; deve-se suspeitar na presen{+-+}ça de hipocalemia e baixo nível de renina plasmática. Antes considerado causa rara de hipertensão, alguns acreditam ser a principal causa de hipertensão secundária atualmente.
+Outros distúrbios endócrinos, como a síndrome de Cushing, a acromegalia, o hipertireoidismo e o hipotireoidismo também podem iniciar sua apresentação com HAS.
+A coarctação da aorta é uma situação rara em adultos. E a HAS, associada à gestação, também caracteriza uma forma se[---]cundária de hipertensão.
+
+Importante
+Após o diagnóstico de [-hipertensão arterial sistêmica-]{+HAS+}, a avaliação envolve 3 componentes: estratificação do risco cardiovascu[---]lar, avaliação complementar e probabilidade de a [-hipertensão arterial-]{+HA+} ser de origem secundária.[-10. -]
+
+Resumo
+
+Quadro-resumo
+- A forma de aferição da PA deve ser corretamente aplicada, pois os critérios diagnósticos da HAS são dependentes da forma de aferição; 
+- Os critérios para definição da HAS baseiam-se na aferição pressórica em 2 consultas consecutivas;
+- A partir dos valores da PA, fatores de risco associados e existência de lesão em órgãos-alvo, as metas dos valores pres{+-+}sóricos a serem atingidos são diferentes; 
+- A existência de fatores de risco, história ou alterações laboratoriais sugestivas de causa secundária da HAS demanda investigação[-; -]
+
+[-Respostas-]
+[-1. B-]
+[-2. C-]
+[-3-].[- D-]
+
+[-Dica-]
+[-Para fixar o que estudou n-]{+R+}es[-te ca-]p[-ítul-]o[-, teste seu-]s[- conhecimen-]t[-o-]{+a+}s [-resolven-]d[-o -]as questões [-referentes a-]{+d+}o [-tem-]{+c+}a[-.-]
+[-Questões: -]p[-ágina XX-]
+[-Comen-]{+í+}t[-ári-]{+ul+}o
+[-s: página XX-]{+1.	B+}
+{+2.	C+}
+{+3.	D+}
