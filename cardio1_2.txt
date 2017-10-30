@@ -1,0 +1,289 @@
+Hipertensão arterial sistêmica - conceitos fundamentais
+José Paulo Ladeira
+Rodrigo Antônio Brandão Neto
+Fabrício Nogueira Furtado
+
+Resumo
+Este capítulo visa abordar, de forma bastante abrangente, uma das situações clínicas que têm se mostrado grave problema de saúde pública em todo o mundo. Nesse contexto, são abordadas as principais teorias sobre a fisiopatologia da doença: a neurogênica e a do desbalanço na reabsorção de sódio e água, além dos fatores de risco associados à hipertensão arte-rial sistêmica, como sobrepeso e obesidade, ingesta de sódio, estilo de vida, etnia e história familiar. Discutem-se, ainda, o modo de fazer o diagnóstico, com 2 ou mais medidas de pressão arterial diastólica, em 2 visitas subsequentes, =90mmHg, ou pressão arterial sistólica =140mmHg, e um importante tema: a avaliação das lesões em órgãos-alvo (retinopatia, nefro-patia, cardiopatia), intimamente ligadas a complicações em longo prazo da hipertensão e que representam altos custos na saúde. 
+
+1. Introdução
+
+A Hipertensão Arterial Sistêmica (HAS) representa um dos maiores problemas de saúde pública no Brasil e no mundo, ge-rando elevado custo médico-social, principalmente por sua participação em complicações, como na doença cerebrovascular, na doença arterial coronariana, na Insuficiência Cardíaca (IC), na insuficiência renal crônica, na retinopatia hipertensiva e na insuficiência vascular periférica. É uma condição clínica multifatorial, caracterizada por níveis elevados e sustentados da Pres-são Arterial (PA). Associa-se frequentemente a alterações funcionais e/ou estruturais dos órgãos-alvo (coração, encéfalo, rins e vasos sanguíneos) e a alterações metabólicas, com consequente aumento do risco de eventos cardiovasculares fatais e não fatais. Tem alta prevalência e baixas taxas de controle, sendo importante problema de saúde pública. A Organização Mundial da Saúde estima que, atualmente, 1 em cada 3 pessoas no mundo é hipertensa (mais de 2 bilhões de pessoas). Na China, cerca de 200 milhões de habitantes são hipertensos. 
+No Brasil, desde a década de 1960, as doenças cardiovasculares (DCVs) têm superado as infectocontagiosas como principal causa de morte, com certa participação da HAS nesse fato, pois esta é um dos fatores mais relevantes para o desenvolvimento desse tipo de doença. Alguns autores consideram que 40% das mortes por Acidente Vascular Cerebral (AVC) e 25% das mor-tes por doença arterial coronariana são decorrentes de HAS.
+No país, em 2003, 27,4% dos óbitos foram causados por DCVs, atingindo 37% quando excluídos os óbitos por causas mal definidas e violência. Em 2007, foram registradas 1.157.509 internações por DCVs no SUS. Com relação aos custos, em no-vembro de 2009, houve 91.970 internações por DCVs, resultando em um custo de R$165.461.644,33 (DATASUS). A doença renal terminal, outra condição frequente na HAS, ocasionou a inclusão de 94.282 indivíduos em programa de diálise no SUS, registrando-se 9.486 óbitos em 2007.
+A principal causa de morte de origem cardiovascular em todas as regiões é o AVC, acometendo as mulheres em maior proporção. Um dos principais desafios no tratamento da hipertensão é a realização do diagnóstico precoce, devido à inexis-tência de sintomas precoces específicos. Dos pacientes com diagnóstico de hipertensão, atingir o alvo terapêutico é muitas vezes difícil, e é necessário o uso combinado de várias drogas, o que tem impacto na redução da adesão ao tratamento medi-camentoso. Hoje, cerca de 30 milhões de brasileiros são hipertensos e estima-se que apenas 10% terão adesão e meta tera-pêutica atingidas. 
+
+2. Fisiopatologia 
+
+Apesar de não estarem muito bem estabelecidos todos os mecanismos associados à HAS, 2 teorias explicam a maioria dos casos: a neurogênica e a do desbalanço na absorção de sódio e água.
+A teoria neurogênica sustenta a ideia de que o sistema nervoso autônomo teria o seu set point pressórico alterado para um patamar mais elevado, determinando elevação da PA. A teoria do desbalanço do controle da absorção de sódio sustenta a ideia de que ocorre perda da capacidade de excreção adequada de sódio frente à quantidade de sódio ingerido, determi-nando a retenção de sódio e de água. 
+
+Importante
+Duas teorias são as mais aceitas para explicar os mecanismos associados à hipertensão arterial sistêmica: a neurogênica, por disfunção do sistema nervoso autônomo, e a do desbalanço na absorção de sódio e água, decorrente da perda da capacida-de de excreção de sódio. O principal mecanismo de regulação da pressão arterial é o sistema renina–angiotensina–aldosterona.
+
+O sistema renina–angiotensina–aldosterona é o principal mecanismo de regulação da PA. Em situações de hipoperfusão renal, por estímulo da mácula densa (1), ocorre a liberação da renina, uma enzima renal. Por sua vez, a renina (2) ativa a angi-otensina (3), um hormônio que provoca contração das paredes musculares das pequenas artérias (arteríolas), aumentando a PA. A angiotensina também desencadeia a liberação do hormônio aldosterona pelas glândulas suprarrenais (4), provocando a retenção de sódio e a excreção de potássio. O sódio promove a retenção de água e, dessa forma, provoca a expansão do volume sanguíneo e o aumento da PA. Esse é o principal sistema de modulação da PA. 
+
+ 
+Figura 1 - Regulação da pressão arterial: sistema renina–angiotensina–aldosterona
+
+Vídeo
+Sistema renina–angiotensina–aldosterona
+ 
+
+3. Fatores de risco
+
+Existem vários fatores de risco para o desenvolvimento da HAS, e a maioria pode ser eliminada apenas com hábitos saudá-veis e cuidados com a saúde.
+
+Tabela 1 - Fatores de risco 
+Idade	Existe relação direta entre idade e desenvolvimento de HAS; acima de 65 anos, a prevalência é de 60%.
+Gênero e etnia	Até os 50 anos, a prevalência é maior entre homens, invertendo-se a tendência após essa idade. Também é mais prevalente nas raças não brancas. No Brasil, mulheres negras têm o dobro da incidência de HAS do que as brancas.
+Sobrepeso e obesidade	Mesmo em jovens, a obesidade aumenta o risco de HAS; o aumento de 2,4kg/m2 acima do índice de massa corpórea adequado já eleva o risco.
+Ingesta de sal	A ingesta excessiva de sal está associada à HAS; já foram identificadas populações indígenas em que o sal não faz parte da dieta e não foram encontrados casos.
+Álcool	O consumo excessivo de álcool determina elevação da PA e aumento da mortalidade cardiovascular em geral.
+Sedentarismo	A atividade física protege o indivíduo de desenvolver HAS, mesmo em pré-hipertensos.
+Fatores socioe-conômicos	No Brasil, a HAS é mais prevalente em pessoas com baixa escolaridade.
+História familiar	A contribuição de fatores genéticos no desenvolvimento da HAS é bem estabelecida, mas não há como utilizá-los para predizer o risco de desenvolvimento.
+
+Importante
+A maioria dos fatores de risco para hipertensão arterial sistêmica pode ser eliminada apenas com hábitos saudáveis e cuida-dos com a saúde.
+
+4. Diagnóstico
+
+A medida da PA deve ser feita em toda consulta médica, porém isso nem sempre é realizado corretamente. Deve ser afe-rida com manguito apropriado para a circunferência do braço (o cuff insuflável deve recobrir, pelo menos, 80% da circunfe-rência do braço), com repouso de, no mínimo, 5 a 10 minutos e abstinência de nicotina, álcool e cafeína de ao menos 30 mi-nutos. Devem ser realizadas medidas nos 2 braços, considerando a medida de maior valor para referência e certificando-se de que o indivíduo não está de bexiga cheia, pernas cruzadas e nem praticou exercícios nos últimos 90 minutos. Todos esses fatores podem influenciar a medida da PA.
+
+Importante
+Para indivíduos com idade superior a 18 anos, o diagnóstico de hipertensão arterial sistêmica é feito sempre que se obtêm 2 ou mais medidas de Pressão Arterial Diastólica (PAD), em 2 visitas subsequentes, iguais ou acima de 90mmHg, ou Pressão Arterial Sistólica (PAS) maior ou igual a 140mmHg. Como pode haver grande labilidade da pressão arterial, as medidas devem ser feitas em diferentes ocasiões ao longo de semanas ou meses, a menos que ocorram sintomas.
+
+Dica
+O diagnóstico de hipertensão arterial sistêmica envolve 2 ou mais medidas de PAD =90mmHg em 2 visitas subsequentes ou PAS =140mmHg.
+
+Há situações em que a medida de PA pode estar falsamente elevada, decorrente de estresse ou de outros fatores, princi-palmente de aspecto psicológico. Nesses casos, pode-se lançar mão de 3 artifícios diagnósticos: a Medida Residencial da PA (MRPA), a Medida Ambulatorial da PA (MAPA) e a automedida da PA (AMPA). O objetivo desses artifícios é minimizar ao má-ximo o estresse da visita ao médico, o desconforto do exame e da medida da PA e permitir maior número de medidas, ofere-cendo ideia mais precisa da variação da PA durante o dia. O aumento transitório da PA associado a estresse ou ansiedade não constitui doença hipertensiva, mas pode indicar propensão para HAS no futuro. As principais indicações de MAPA são:
+Suspeita de “hipertensão do consultório” ou “do avental branco”;
+Suspeita de episódios de hipotensão arterial sintomática.
+Avaliação da eficácia da terapêutica: 
+Quando a PA casual permanecer elevada, apesar da otimização do tratamento anti-hipertensivo para o diagnóstico de hi-pertensão arterial resistente ou “efeito do avental branco”;
+Quando a PA casual estiver controlada e houver indícios da persistência ou da progressão de lesão de órgãos-alvo.
+
+Pergunta
+2014 - UFF
+1. A pressão arterial de um indivíduo adulto que não esteja em uso de medicação anti-hipertensiva e sem comorbida-des associadas é considerada normal quando a PAS e a PAD são, respectivamente:
+a) <100mmHg e <85mmHg
+b) <130mmHg e <85mmHg
+c) <120mmHg e <70mmHg
+d) <120mmHg e <100mmHg
+e) <100mmHg e <75mmHg
+Resposta no final do capítulo
+
+ 
+Figura 2 - Diagnóstico de hipertensão arterial sistêmica
+
+Tabela 2 - Metodologia correta para aferição da pressão arterial
+Preparo do paciente para medida da PA
+1 - Explicar o procedimento ao paciente. 
+2 - Oferecer repouso de, pelo menos, 5 minutos em ambiente calmo. 
+3 - Evitar bexiga cheia. 
+4 - Não praticar exercícios físicos de 60 a 90 minutos antes. 
+5 - Não ingerir bebidas alcoólicas, café ou alimentos e não fumar 30 minutos antes. 
+6 - Manter pernas descruzadas, pés apoiados no chão e dorso recostado na cadeira e permanecer relaxado. 
+7 - Remover roupas do braço no qual será colocado o manguito. 
+8 - Posicionar o braço na altura do coração (nível do ponto médio do esterno ou 4ª espaço intercostal), apoiado, com a palma da mão voltada para cima e o cotovelo ligeiramente fletido. 
+9 - Solicitar para que não fale durante a medida. 
+Medida da PA
+1 - Medir a circunferência do braço. 
+2 - Selecionar o manguito de tamanho adequado ao braço. 
+3 - Colocar o manguito sem deixar folgas, cerca de 2 a 3cm acima da fossa cubital. 
+4 - Centralizar o meio da parte compressiva do manguito sobre a artéria braquial. 
+5 - Estimar o nível da PAS (palpar o pulso radial e inflar o manguito até o seu desaparecimento, desinflar rapidamente e aguardar 1 minuto antes da medida). 
+6 - Palpar a artéria braquial na fossa cubital e colocar a campânula do estetoscópio sem compressão excessiva. 
+7 - Inflar rapidamente até ultrapassar de 20 a 30mmHg o nível estimado da PAS.
+8 - Proceder a deflação lentamente (velocidade de 2 a 4mmHg/s).
+9 - Determinar a PAS na ausculta do 1º som (fase I de Korotkoff), que é um som fraco seguido de batidas regulares, e, posteriormente, aumentar ligeiramente a velocidade de deflação. 
+10 - Determinar a PAD no desaparecimento do som (fase V de Korotkoff).
+11 - Auscultar cerca de 20 a 30mmHg abaixo do último som para confirmar seu desaparecimento e depois proceder a deflação rápida e completa.
+12 - Se os batimentos persistirem até o nível zero, determinar a PAD no abafamento dos sons (fase IV de Korotkoff) e anotar valores da sistólica/diastólica/zero. 
+13 - Esperar de 1 a 2 minutos antes de novas medidas. 
+14 - Informar os valores de PA obtidos para o paciente. 
+15 - Anotar os valores e o membro. 
+
+Dica
+A aplicação correta da técnica para aferição da pressão arterial é essencial para o acompanhamento e o diagnóstico da hiper-tensão arterial sistêmica.
+
+A partir dos valores encontrados, deve-se orientar o paciente para nova aferição e avaliação clínica, conforme a Tabela 3.
+
+Tabela 3 - Recomendações para reavaliação da pressão arterial
+PA inicial (mmHg)	Seguimentos
+Sistólica 	Diastólica	
+<130	<85	Reavaliar em 1 ano. Estimular mudanças no estilo de vida. 
+130 a 139	85 a 89	Reavaliar em 6 meses. Insistir em mudanças no estilo de vida. 
+140 a 159	90 a 99	Confirmar em 2 meses. Considerar MAPA/MRPA. 
+160 a 179	100 a 109	Confirmar em 1 mês. Considerar MAPA/MRPA. 
+=180	=110	Realizar intervenção medicamentosa imediata ou reavaliar em 1 sema-na.
+
+De acordo com o valor pressórico encontrado, o paciente é classificado por estágios da HAS, conforme a Tabela 4. 
+
+Tabela 4 - Classificação da pressão arterial, de acordo com a medida casual em consultório (>18 anos)
+Classificações	PAS (mmHg)	PAD (mmHg)
+Ótima	<120	<80
+Normal	<130	<85
+Limítrofe	130 a 139	85 a 89
+Hipertensão	Estágio 1	140 a 159	90 a 99
+	Estágio 2	160 a 179	100 a 109
+	Estágio 3	=180	=110
+	Estágio 4	=140	<90
+
+5. Classificação 
+
+Tema de prova
+A classificação da hipertensão é tema recorrente das provas de Residência Médica, por isso deve ser estudada com atenção.
+
+HAS: PAS =140mmHg e/ou PAD =90mmHg, em medida de consultório, em 2 ou mais medidas obtidas em condições ideais e em ocasiões diferentes;
+Essencial: não tem causa identificada; corresponde à grande maioria dos casos;
+Secundária: representa de 5 a 10% dos casos, em que uma causa secundária é associada à gênese da hipertensão. Muitas vezes, essas causas são curáveis, resolvendo a HAS;
+Acelerada: hipertensão acentuada, associada à perda rápida da função renal, exsudatos ou hemorragias no exame do fun-do do olho, sem papiledema;
+Maligna: hipertensão acentuada com papiledema e necrose fibrinoide da camada íntima das pequenas artérias;
+Complicada: HAS associada a lesão de órgãos-alvo: AVC, Insuficiência Cardíaca Congestiva (ICC), insuficiência renal crônica, infarto agudo do miocárdio e aneurismas;
+Hipertensão do avental branco: quando o paciente apresenta persistentemente valores elevados de PA (=140x90mmHg) no consultório e valores médios considerados normais na AMPA, MRPA ou MAPA; em até 10 anos, 70% desenvolvem HAS;
+Hipertensão mascarada: quando o paciente apresenta valores normais de PA nas consultas médicas e valores médios ele-vados na MRPA ou MAPA; o risco cardiovascular é muito próximo ao dos indivíduos hipertensos;
+Hipertensão refratária ou resistente: condição clínica em que não há controle dos níveis pressóricos, apesar de 3 ou mais classes farmacológicas estarem em uso (obrigatoriamente 1 delas deve ser um diurético).
+			
+Pergunta
+2011 - FMUSP - RIBEIRÃO PRETO
+2. Um homem de 52 anos, assintomático, realizou exame anual de rotina que foi normal, com média da PA (3 medidas) = 132x86mmHg. Foi solicitado eletrocardiograma, que evidenciou sobrecarga do ventrículo esquerdo e alterações difu-sas da repolarização ventricular. A seguir, foi solicitada Monitorização Ambulatorial da Pressão Arterial (MAPA), que evidenciou média das medidas em vigília de 142x90mmHg e média das medidas durante o sono de 132x84mmHg. Di-ante do exposto, o diagnóstico é:
+a) normotensão
+b) hipertensão do avental branco
+c) hipertensão mascarada
+d) hipertensão primária estadio I
+Resposta no final do capítulo
+
+6. Avaliações clínica e laboratorial
+
+A avaliação clínica e laboratorial do paciente hipertenso tem o objetivo de identificar fatores de risco associados a HAS, pesquisar lesões clínicas ou subclínicas em órgãos-alvo, identificar a presença de outras doenças associadas, definir o risco cardiovascular global e avaliar indícios para o diagnóstico de hipertensão arterial secundária. A análise de exames gerais do recém-diagnosticado permite melhor compreensão do contexto da HAS (Tabela 5). 
+
+Tabela 5 - Avaliação laboratorial
+Avaliação inicial de rotina para o hipertenso
+- Análise de urina; 
+- Potássio plasmático; 
+- Creatinina plasmática*; 
+- Glicemia de jejum; 
+- Colesterol total, HDL e triglicérides plasmáticos**; 
+- Ácido úrico plasmático; 
+- Eletrocardiograma convencional; 
+- Pacientes hipertensos diabéticos, hipertensos com síndrome metabólica e hipertensos com 3 ou mais fatores de risco: recomenda-se pesquisa de microalbuminúria – índice albumina–creatinina em amostra isolada de urina (mg de albumina/g de creatinina ou mg de albumina/mmol de creatinina) – normal <30mg/g ou <2,5mg/mmol;
+- Pacientes com glicemia de jejum entre 100 e 125mg/dL: recomenda-se determinar a glicemia 2 horas após sobrecarga oral de glicose (75g); 
+- Em hipertensos estágios 1 e 2 sem hipertrofia ventricular esquerda ao eletrocardiograma, mas com 3 ou mais fatores de risco, consi-derar o ecocardiograma para a detecção de hipertrofia ventricular esquerda;
+- Para hipertensos com suspeita clínica de IC, considerar o ecocardiograma para a avaliação das funções sistólica e diastólica. 
+* Calcular a Taxa de Filtração Glomerular Estimada (TFGE) pela fórmula de Cockroft-Gault 57: TFGE (mL/min) = (140 - idade) x peso (kg) / creatinina plasmática (mg/dL) x 72 para homens; para mulheres, multiplicar o resultado por 0,85. Interpretação: função renal normal: >90mL/min; disfunção renal leve: 60 a 90mL/min; disfunção renal moderada: 30 a 60mL/min e disfunção renal grave: <30mL/min.
+** O colesterol LDL é calculado pela fórmula: colesterol LDL = colesterol total - colesterol HDL - triglicérides/5 (quando a dosagem de triglicérides for abaixo de 400mg/dL).
+
+Outra avaliação válida para o hipertenso é o exame de fundoscopia óptica. A classificação mais utilizada divide a retinopa-tia hipertensiva em 3 graus, de acordo com a severidade do acometimento. O 1º estágio relaciona-se mais com níveis pressó-ricos passados, enquanto aqueles de graus II e III se relacionam mais com níveis pressóricos atuais.
+
+Tabela 6 - Classificação da retinopatia hipertensiva
+Grau I	Estreitamento arteriolar relacionado ao vasoespasmo arteriolar ou opacificação e cruzamentos patológicos
+Grau II	Hemorragias “em chama de vela” ou puntiformes, exsudatos moles (manchas algodonosas) ou duros e microaneuris-mas
+Grau III	Alguns ou todos os achados anteriores descritos associados ao edema de disco óptico
+
+ 
+Figura 3 - Retinopatias hipertensivas, de graus I, II e III, respectivamente
+
+Dica
+Estabelecido o diagnóstico de hipertensão arterial sistêmica, a avaliação deve ser focada em 3 aspectos: estratificação do risco cardiovascular, avaliação complementar e da probabilidade da hipertensão arterial ser de origem secundária e não de origem essencial.
+
+1 - Estratificação de risco de DCV: é feita considerando os níveis pressóricos, a presença de fatores de risco para DCV e a lesão de órgãos-alvo (Figura 4), conforme a Tabela 7. A partir da estratificação (risco cardiovascular), estabelece-se a aborda-gem terapêutica.
+
+Pergunta
+2013 - UFAM
+3. Jonas, de 62 anos, refere crises hipertensivas no último mês, tendo sido atendido no pronto-socorro 4 vezes, e sua pres-são oscilou entre 140 e 156x80mmHg. Sua mãe é hipertensa, e hoje sua pressão arterial é de 150x90mmHg. Você, en-quanto seu médico, pode:
+a) dizer que Jonas apresenta hipertensão arterial sistêmica estágio 2
+b) dizer que, se iniciarmos terapia medicamentosa, devemos dar preferência a um vasodilatador direto
+c) orientar Jonas a fazer o tratamento não medicamentoso, dependendo do risco cardiovascular
+d) dizer que devemos avaliar seu risco de evento cardiovascular e, de acordo com ele, iniciar, ou não, tratamento medica-mentoso
+e) dentre as medidas não medicamentosas, incentivar a prática de atividade física, o consumo de álcool e de sal na dieta
+Resposta no final do capítulo
+
+ 
+Figura 4 - Acometimento de órgãos-alvo na doença hipertensiva
+
+Tabela 7 - Componentes para a estratificação do risco individual 
+Identificação dos fatores de risco cardiovasculares
+- Fatores de risco maiores:
+· Tabagismo;
+· Dislipidemias;
+· Diabetes mellitus;
+· Nefropatia;
+· Idade acima de 60 anos.
+- História familiar de DCV em:
+· Mulheres com menos de 65 anos;
+· Homens com menos de 55 anos. 
+Lesões em órgãos-alvo e DCVs
+- Doenças cardíacas:
+· Hipertrofia do ventrículo esquerdo;
+· Angina ou infarto agudo do miocárdio prévio;
+· Revascularização miocárdica prévia;
+· IC.
+- Episódio isquêmico ou AVC;
+- Nefropatia;
+- Doença vascular arterial de extremidades;
+- Retinopatia hipertensiva; 
+- Demência vascular. 
+
+2 - Avaliação complementar – seus objetivos são:
+Confirmar o diagnóstico de HAS; 
+Avaliar lesões de órgãos-alvo; 
+Identificar fatores de risco para DCVs; 
+Diagnosticar doenças associadas à HAS; 
+Diagnosticar causas secundárias. 
+
+3 - Determinação da probabilidade de causa secundária: deve-se suspeitar de hipertensão de causa secundária nos casos de início precoce (antes dos 30 anos), tardio (após os 50 anos), ausência de história familiar, descontrole inesperado da PA e hipertensão refratária. Outros sinais podem estar presentes e estão listados na Tabela 8.
+
+Tabela 8 - Indícios de hipertensão arterial sistêmica secundária
+- Início da hipertensão antes dos 30 anos ou após os 50;
+- Hipertensão arterial grave (estágio 3) e/ou resistente à terapia;
+- Tríade do feocromocitoma: palpitações, sudorese e cefaleia em crises; 
+- Uso de medicamentos e drogas que possam elevar a PA; 
+- Fácies ou biótipo de doença que cursa com hipertensão: doença renal, hipertireoidismo, acromegalia e síndrome de Cushing; 
+- Presença de massas ou de sopros abdominais; 
+- Assimetria de pulsos femorais; 
+- Aumento da creatinina sérica ou TFGE diminuída; 
+- Hipopotassemia espontânea; 
+- Exame de urina anormal (proteinúria ou hematúria); 
+- Sintomas de apneia durante o sono. 
+
+Tabela 9 - Causas de hipertensão arterial sistêmica secundária
+Uso de 
+estrogênios	Mais comum entre mulheres acima dos 35 anos. Em geral, a PA retorna ao normal algumas semanas após a suspensão da medicação.
+Doença renal	Causa mais comum de HAS secundária, pode ser resultado de doença glomerular, tubular, policística ou nefropatia diabética.
+Doença 
+renovascular	Presente em 1 a 2% dos hipertensos. Em jovens, a causa mais comum é a displasia fibromuscular. No restante, deve-se à doença aterosclerótica da porção proximal das artérias renais; pode ser uni ou bilateral (25% dos casos – Figura 5).
+
+ 
+Figura 5 - Hipertensão arterial sistêmica renovascular por estenose bilateral de artérias renais   
+
+Deve-se suspeitar de doença renovascular em casos de início precoce (antes dos 30 anos), tardio (após os 50 anos), pre-sença de sopro abdominal (epigástrico), presença de insuficiência arterial periférica e piora de função renal com inibidores da enzima de conversão.
+
+Importante
+Deve-se suspeitar de doença renovascular em casos de início precoce (antes dos 30 anos), tardio (após os 50 anos), presen-ça de sopro abdominal (epigástrico), presença de insuficiência arterial periférica e piora de função renal com inibidores da enzima de conversão. 
+
+O exame de eleição para o diagnóstico é a arteriografia; testes não invasivos, como a ultrassonografia com Doppler de ar-térias renais, cintilografia renal com DTPA (com ou sem teste do captopril) e a angiorressonância, também podem ser utiliza-dos. Para a doença fibromuscular, o tratamento de escolha é a angioplastia com stent. Na doença aterosclerótica, grande par-te dos indivíduos permanece hipertensa, mesmo após restauração do fluxo renal; a angioplastia é indicada apenas quando há hipertensão refratária ou perda de função renal.
+Feocromocitoma: caracteristicamente, apresenta-se de forma episódica e se acompanha de intensos sinais de ativação adrenérgica. O diagnóstico pode ser feito por meio da dosagem de catecolaminas na urina ou no plasma ou de seus me-tabólitos como a metanefrina;
+Hiperaldosteronismo primário: geralmente, por adenoma de suprarrenal ou hiperplasia; deve-se suspeitar na presença de hipocalemia e baixo nível de renina plasmática. Antes considerado causa rara de hipertensão, alguns acreditam ser a principal causa de hipertensão secundária atualmente.
+Outros distúrbios endócrinos, como a síndrome de Cushing, a acromegalia, o hipertireoidismo e o hipotireoidismo também podem iniciar sua apresentação com HAS.
+A coarctação da aorta é uma situação rara em adultos. E a HAS, associada à gestação, também caracteriza uma forma se-cundária de hipertensão.
+
+Importante
+Após o diagnóstico de hipertensão arterial sistêmica, a avaliação envolve 3 componentes: estratificação do risco cardiovascu-lar, avaliação complementar e probabilidade de a hipertensão arterial ser de origem secundária.
+10. Resumo
+Quadro-resumo
+- A forma de aferição da PA deve ser corretamente aplicada, pois os critérios diagnósticos da HAS são dependentes da forma de aferição; 
+- Os critérios para definição da HAS baseiam-se na aferição pressórica em 2 consultas consecutivas;
+- A partir dos valores da PA, fatores de risco associados e existência de lesão em órgãos-alvo, as metas dos valores pressóricos a serem atingidos são diferentes; 
+- A existência de fatores de risco, história ou alterações laboratoriais sugestivas de causa secundária da HAS demanda investigação; 
+
+Respostas
+1. B
+2. C
+3. D
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
