@@ -1,0 +1,331 @@
+diff --git a/endocrino1_5.txt b/endocrino1_5.txt
+index 2e43288..aa98bf1 100644
+--- a/endocrino1_5.txt
++++ b/endocrino1_5.txt
+@@ -1,8 +1,7 @@
+Complicações crônicas do diabetes mellitus
+Leandro Arthur Diehl
+
+[-Resumo-]Neste capítulo, serão apresentados a avaliação e o manejo das principais complicações crônicas microvasculares (retino[---]pa{+-+}tia diabética, doença renal diabética e neuropatia diabética) e macrovasculares (doença arterial coronariana, acidente vas{+-+}cular e gangrena periférica) da síndrome diabética. As complicações microvasculares do Diabetes Mellitus (DM) apre[---]sentam nítida relação com a duração deste e o nível de controle de glicemia. Os principais mecanismos responsáveis pelas compli{+-+}cações microvasculares no DM relacionam-se à hiperglicemia crônica. A retinopatia diabética, por exemplo, é a principal causa de cegueira adquirida em adultos. Deve ser pesquisada anualmente com exame de Fundo de Olho (FO – fotorretino{+-+}grafia com pupilas dilatadas), e o tratamento de suas formas graves deve ser feito com fotocoagulação com laser de argônio, capaz de prevenir a evolução para cegueira. A doença renal do diabetes é a principal causa de doença renal em estágio terminal em países desenvolvidos. A excreção urinária de albumina, {+anteriormente conhecida com+}o[-u-] “microalbuminúria”, é o marca[---]dor mais precoce e mais sensível para o rastreamento da doença renal do diabetes e pode ser feito anualmente com a dosagem da E{+xcreção Urinária de Albumina (E+}UA{+)+} combinada com a estimativa da Taxa de Filtração Glomerular (TFG) a partir da dosagem de creatinina sérica. O manejo da doença renal do diabetes envolve o controle glicêmico e lipídico rigoroso, a manutenção da pressão arterial em níveis recomendados{+,+} [-(-]usa[-r -]{+nd+}o bloque[-i-]{+ad+}o{+res+} do sistema renina–angiotensina–aldosterona{+,+} com{+o um+} Inibidor da Enzima Conversora da Angiotensina (IECA) ou Bloqueador do Receptor da Angiotensina (BRA)[- e a restrição da ingesta de sódio e, possivelmente, de proteínas)-]. A neuropatia diabética acomete cerca de 50% dos diabéticos e pode ter as mais variadas apresenta{+-+}ções, pois atinge tanto o sistema nervoso somático como o autonômico, em diversos níveis. A forma mais co[---]mum de neuro{+-+}patia diabética é a polineuropatia sensitivo-motora distal, que cursa com alterações da sensibilidade (hipo[---]estesia ou aneste{+-+}sia) em extremidades, com progressão centrípeta, podendo ter sintomas dolorosos associados, sendo aqui indicado o uso de anticonvulsivantes (pregabalina, gabapentina), tricíclicos (amitriptilina), inibidores seletivos da recaptação de serotonina (duloxetina, venlafaxina) e, eventualmente, opioides ou outras drogas. O pé diabético é uma das principais complicações da polineuropatia sensitivo-motora distal e uma das que mais se podem prevenir com os cuidados adequados. Algumas varian{+-+}tes das neuropatias diabéticas que serão vistas neste capítulo são a autonômica, e as mononeuropatias (acometendo III, IV ou VI pares cranianos, ou os nervos mediano ou ulnar). O rastreamento das compli[---]cações microvasculares do DM deve ser feito rotineiramente com o exame dos pés, teste do monofilamento de 10g, dosagem da EUA e estimativa da TFG a partir da creatinina plasmática, além da fundoscopia com pupila dilatada, ao menos 1 vez ao ano, em todos os pacientes com DM. O rastreamento de complicações crônicas microvasculares deve ser inicia[---]do nos pacientes com DM tipo 2 desde o momento do diagnóstico do diabetes, e nos diabéticos tipo 1, a partir de 5 anos de diabetes e a partir da puberdade. [-E a-]{+A+}s doenças car{+-+}diovasculares são a principal causa de morte entre diabéticos, prin[---]cipalmente a doença arterial coronariana.
+
+1. Introdução 
+
+@@ -12,15 +11,15 @@ Tabela 1 - Mecanismos fisiopatol
+Aumento do metabolismo de glicose pela via dos polióis
+Em níveis glicêmicos elevados, ocorre aumento da conversão de glicose em sorbitol intracelular, o que consome NADPH e diminui a defesa celular contra espécies reativas de oxigênio. 
+Formação de produtos finais de glicação avançada (AGEs)
+O acúmulo de glicose nos tecidos leva à produção de AGEs intracelulares, que alteram a função de diversas proteínas (enzimas, com{+-+}po[---]nentes estruturais) e aumentam o estresse oxidativo.
+Ativação da proteinoquinase C (PKC)
+A hiperglicemia acarreta acúmulo de diacilglicerol (DAG) no interior das células do endotélio. O DAG age como um ativador da via da PKC, que provoca disfunção endotelial por redução da produção de óxido nítrico e estímulo à endotelina.
+Síntese aumentada de hexosaminas
+Na presença de altos níveis de glicose, uma parte da frutose-6-fosfato intracelular é desviada da via glicolítica e convertida pela glico-samina em glicosamina-6-fosfato e, depois, em UDP-N-acetilglicosamina, uma molécula que estimula a síntese de PAI-1, regula a ex{+-+}pressão de alguns genes e liga-se covalentemente a algumas proteínas, alterando a sua função. 
+Aumento do estresse oxidativo
+A hiperglicemia sustentada leva ao consumo de moléculas protetoras contra a formação de espécies reativas de oxigênio, o que leva ao aumento do estresse oxidativo e ao dano celular pela modificação de macromoléculas (peroxidação de lipídios, desnaturação de proteí[---]nas etc.).
+Autoimunidade
+No D[-iabetes Mellitus (D-]M[-)-] tipo 1, o fenômeno autoimune parece contribuir, ao menos em parte, para desencadear complicações crôni[---]cas como a neuro{+-+}patia, pois cerca de 5% dos portadores de DM1 já apresentam sinais de comprometimento neuropático no momento do diagnóstico. 
+
+O DM também aumenta significativamente (em 2 a 4 vezes) o risco de doenças ateroscleróticas, consideradas complica-ções macrovasculares do diabetes (infarto do miocárdio, acidente vascular cerebral, insuficiência arterial periférica, ateros-clerose das artérias renais etc.). Entretanto, a hiperglicemia não é o único fator responsável pela doença macrovascular, visto que outros fatores de risco comumente presentes nos diabéticos (hipertensão arterial, dislipidemia, obesidade, resistência a insulina) parecem contribuir com a glicemia elevada para aumentar o risco de aterosclerose nessa população.
+
+@@ -31,12 +30,12 @@ A retinopatia 
+As lesões mais precoces são representadas pelos microaneurismas retinianos, causados pela perda dos pericitos capilares. Os exsudatos duros também são lesões iniciais provocadas pelo extravasamento de substâncias (lipídios) pela alteração da permeabilidade tecidual. As lesões endoteliais progridem até formar áreas não perfundidas (isquêmicas), que podem se ma-nifestar na forma de edema ou de exsudatos algodonosos (manchas algodonosas). O achado de microaneurismas, edema ou exsudatos define a retinopatia não proliferativa (Figura 1).
+
+ 
+Figura 1 - Fundoscopia com retinopatia pré-proliferativa: notam-se os exsudatos (manchas amareladas), duros (bem delimitados) e algodono{+-+}sos ou moles (limites imprecisos)
+
+Em uma fase mais avançada, a isquemia de retina provoca neoformação vascular (mediada por sinalizadores como o beta-TGF, VEGF, IGF-1 e outros). Os vasos neoformados acabam recobrindo áreas mais ou menos extensas da retina, provocando perda visual. Podem cursar com hemorragias intrarretinianas ou no humor vítreo, com o risco de cegueira súbita. A presença de neovascularização e/ou de hemorragia vítrea define a retinopatia proliferativa (Figura 2).
+
+ 
+Figura 2 - Fundoscopia com retinopatia proliferativa: nota-se o crescimento de novos vasos desorganizados sobre o disco óptico e even[---]tuais focos de hemorragia na retina
+
+Vários fatores aumentam o risco de retinopatia diabética, os quais são apresentados na Tabela 2. Fatores genéticos podem ser importantes para determinar o risco de formas mais graves (proliferativa), já que nem todos aqueles com retinopatia leve evoluem para formas mais severas da doença.
+
+@@ -50,7 +49,7 @@ Tabela 2 - Fatores de risco para retinopatia diab
+- Fatores genéticos (associados às formas graves de retinopatia). 
+
+Dica
+O exame de FO periódico é obrigatório no paciente diabético porque a retinopatia pode evoluir assintomática até a perda da visão.[- -]
+
+Os pacientes com retinopatia diabética, em geral, evoluem assintomáticos até a perda da visão (que pode ser abrupta, no caso de uma hemorragia), o que dificulta a detecção da retinopatia. Daí decorre a importância do rastreamento (screening) de todos os diabéticos, mesmo assintomáticos, com exames de FO periódicos, a fim de detectar precocemente as alterações e instituir medidas eficazes para prevenir a progressão da perda visual. 
+Outro tipo de lesão ocular é o edema macular, que pode apresentar, como manifestação inicial, a perda de visão central. Ao contrário da retinopatia proliferativa, em que a perda visual é geralmente severa e permanente, o edema macular pode causar perda visual moderada e reversível. Sua presença também deve constar da classificação de risco do paciente (se pre-sente ou ausente), independente do grau de retinopatia.
+@@ -62,7 +61,7 @@ Tabela 3 - Classifica
+Retinopatia não proliferativa
+Leve	Apenas microaneurismas
+Moderada	Graus intermediários entre a leve e a severa
+Severa	Mais de 20 micro-hemorragias retinianas em cada um dos 4 quadrantes; ou dilatação venosa (“ensalsi{+-+}chamento”) em, pelo menos, 2 quadrantes; ou anormalidades microvasculares intrarretinianas em pelo menos 1 quadrante
+Retinopatia proliferativa
+Neovascularização retiniana e/ou hemorragia vítrea ou pré-retiniana
+Edema macular
+@@ -92,12 +91,11 @@ Acontece em 6% dos diab
+
+A doença renal do diabetes, anteriormente conhecida como nefropatia diabética, é a maior causa de insuficiência renal em estágio terminal nos países desenvolvidos e responde por 40 a 44% dos casos que iniciam programa dialítico nos Estados Unidos. Além disso, a mortalidade de diabéticos que ingressam em diálise é maior do que a de não diabéticos (sobrevida mé-dia de 26 meses, ou cerca de 50% de sobrevida em 2 anos). 
+Além de se associar à perda de função renal, a presença de albuminúria aumenta significativamente o risco de eventos cardiovasculares, principal causa de morte nessa população.
+Entre os diabéticos, cerca de 20 a 40% acabam evoluindo com doença renal mais avançada, com Excreção Urinária de Al-bumina (EUA) >300mg/24h, sem diferença entre os tipos de diabetes (DM1 ou DM2). Em média, a doença renal s{+urg+}e [-instal-]{+5 +}a 7 anos após o início da hiperglicemia. No DM2, como a hiperglicemia pode estar presente vários anos antes do diagnóstico do diabetes, estima-se que 14 a 24% já apresentem EUA aumentada no momento em que o diabetes é detectado. Entre os paci-entes com EUA normal no diagnóstico do DM, cerca de 30 a 35% evoluem com EUA elevada (>30mg/24h) em um período de 10 anos.
+
+A - Fisiopatologia 
+O principal mecanismo fisiopatológico da doença renal do diabetes é, provavelmente, a hiperfiltração glomerular. De fato, vários estudos demonstram que as anormalidades hemodinâmicas glomerulares são mais importantes, na fisiopatologia da nefropatia diabética, que a hiperglicemia. Anormalidades funcionais do aparelho justaglomerular levam à vasoconstrição das arteríolas glomerulares. Em conjunto com a hipertensão arterial sistêmica e a hiperglicemia (levando à diurese osmótica), ocorre um aumento inicial da pressão intraglomerular e da Taxa de Filtração Glomerular (TFG). A hiperfiltração glomerular decorrente desses fenômenos aumenta a permeabilidade dos glomérulos à passagem de macromoléculas, inclusive a albumi-na. A albuminúria elevada contribui para potencializar a injúria tubulointersticial, por mecanismos complexos. Portanto, a 1ª anormalidade clinicamente detectável é o aumento da EUA, configurando a fase inicial da doença renal do diabetes (antiga-mente conhecida como “microalbuminúria”, “nefropatia incipiente”, “nefropatia inicial” ou “nefropatia pré-clínica”), com aumento leve a moderado da EUA (entre 30 e 300mg/24h, ou entre 30 e 300mg/g de creatinina). Nessa fase, a alteração renal ainda é reversível se o paciente conseguir obter e manter controle rigoroso da pressão arterial e dos níveis lipídicos e glicêmicos.
+Caso o paciente continue a manter níveis pressóricos elevados, o acúmulo de proteínas na matriz mesangial leva a escle-rose focal e perda de função dos glomérulos afetados. Com isso, os glomérulos restantes serão expostos a um aumento ainda maior da sua taxa de filtração, com grande perda de proteínas, esclerose do mesângio e perda de função, configurando uma cascata que desencadeará aumento progressivo da EUA (ultrapassando 300mg/24h, ou 300mg/g de creatinina). Essa já é uma fase mais avançada da doença renal (antigamente conhecida como “macroalbuminúria”, ou “nefropatia clínica”), quando, geralmente, já se consegue detectar proteínas presentes no exame simples de urina e o paciente começa a apresentar queda da TFG. O dano renal, nesta etapa, já é irreversível, e a progressão para síndrome nefrótica e doença renal em estágio termi-nal é inevitável (embora possa ser retardado pelo controle rigoroso da pressão arterial, pela inibição do eixo renina–angiotensina–aldosterona e pela restrição da ingesta de proteínas).
+[-A presença de glomeruloesclerose focal, à biópsia renal, é um achado patognomônico da doença renal do diabetes, e é conhecida como nódulos de Kimmelstiel-Wilson. -]
+Uma característica da insuficiência renal causada pelo diabetes é que o paciente continua a apresentar rins de volume normal (ou mesmo aumentado) e excreção urinária de proteínas aumentada, mesmo na presença de uma TFG extremamente reduzida.
+Entre diabéticos tipo 2, a doença renal costuma ser mais heterogênea, visto que, frequentemente, apresentam outras comorbidades (hipertensão, dislipidemia, aterosclerose, obesidade, hiperuricemia) que contribuem para o prejuízo da função renal. Por isso, cerca de 25% dos diabéticos tipo 2 que evoluem com queda significativa da TFG não apresentam aumento da EUA.
+
+@@ -105,8 +103,12 @@ B - Terminologia
+Os termos “microalbuminúria” e “macroalbuminúria”, antigamente muito utilizados para denominar as situações em que o paciente apresenta EUA entre 30 e 300mg/24h, ou >300mg/24h, respectivamente, não devem ser mais utilizados. Atualmen-te, as nomenclaturas mais utilizadas para denominar essas situações são: “EUA moderadamente aumentada” (para EUA entre 30 e 300mg/24h) ou “EUA severamente aumentada” (para EUA >300mg/24h) – ou, ainda, apenas “EUA aumentada”, englo-bando ambas as situações, conforme as recomendações mais atuais da SBD (Tabela 5).
+
+C - Diagnóstico e classificação 
+O diagnóstico, classicamente, é realizado pela medida da EUA, o marcador mais importante e mais precoce da doença re-nal do diabetes, além de ser um bom preditor de risco de progressão da doença renal. Em pacientes com DM1 e EUA mode-radamente aumentada (30 a 300mg/24h), estima-se que, após 10 anos, 30% regridam para EUA normal, 25 a 30% permane-çam com EUA moderadamente aumentada e 40 a 45% progridam para EUA severamente aumentada (>300mg/24h, ou >300mg/g de creatinina). Daqueles que atingem esta etapa de EUA severamente aumentada, 50% evoluem para doença renal em estágio terminal em 10 anos e 75%, em 20 anos. 
+
+[-Devido ao seu bo-]{+I+}m[- valor -]p{+o+}r[-edi-]t[-ivo, em suma, -]a{+nte+}
+{+A+} EUA é o exame mais [-uti-]{+sensíve+}l[-i-zado-]{+ e+} atualmente {+o mais utilizado +}para rastreamento da doença renal [-em-]{+do+} diab[-é-]{+e+}t[-ico-]{+e+}s.[- -]
+
+A EUA deve ser medida, preferencialmente, em amostra isolada de urina, tendo em vista sua praticidade, coleta mais sim-ples, menor custo e boa acurácia, em comparação com a urina de 24 horas. Na amostra isolada, podem-se dosar: apenas a albumina isoladamente, ou a albumina em associação à creatinina urinária (para a determinação da relação albumi{+-+}na[-–-]{+/+}creatinina urinária). O último método tem a vantagem de corrigir a EUA para a concentração da urina, já que a excreção de creatinina é relativamente fixa, permitindo uma estimativa um pouco mais confiável da albuminúria de 24 horas. No entan{+-+}to, a acurácia para detecção clínica da doença renal é a mesma, usando apenas a albumina ou a relação albumina[-–-]{+/+}creatinina. 
+Qualquer alteração da dosagem de EUA (“microalbuminúria”) deve ser confirmada, em pelo menos 2 de 3 amostras colhi-das em um intervalo de 3 a 6 meses. A presença de 2 dosagens de EUA aumentadas, dentro desse intervalo, define o diagnós-tico de doença renal do diabetes.
+A SBD (2015) usa os valores apresentados na Tabela 5 para classificar os pacientes de acordo com os valores da EUA. Já as diretrizes da National Kidney Foundation para doença renal crônica (KDIGO, 2013) recomendam o uso da classificação apre-sentada na Tabela 6.
+
+@@ -138,22 +140,22 @@ Tabela 7 - Causas de eleva
+- Exercício extenuante; 
+- Glomerulonefrite difusa aguda. 
+
+
+Dica
+O paciente diabético pode evoluir com piora progressiva da doença renal sem proteinúria, por isso a estimativa da TFG deve ser realizada {+como rotina +}no acompanhamento.
+
+Apesar de a EUA ser o melhor marcador, alguns pacientes (principalmente com DM2) evoluem com piora progressiva da função renal sem elevação significativa dos níveis de proteinúria, o que pode provocar alguns rastreamentos falsos negativos quando o screening é realizado apenas com microalbuminúria. Por isso, as recomendações mais recentes da American Diabe-tes Association (ADA) e da SBD orientam que o rastreamento de nefropatia seja realizado não só com a dosagem da EUA, mas também com a estimativa da TFG utilizando a dosagem de creatinina sérica. 
+O cálculo da TFG deve ser feito, preferencialmente, por meio da equação MDRD ou da CKD-EPI, mais acuradas do que a fórmula de Cockroft-Gault (esta última costuma superestimar a TFG em diabéticos e em pessoas com doença renal). As equa-ções MDRD e CKD-EPI são um pouco mais complexas, mas podem ser usadas calculadoras on-line (como a disponível em www.mdrd.com) ou usando aplicativos para smartphone ou tablet. 
+
+a) Estimativa da TFG pela fórmula de Cockroft-Gault
+
+TFG = (140 [-–-]{+-+} idade) x peso x 0,85 (se mulher)
+Cr x 72
+Cr = creatinina sérica em mg/dL{+.+}
+
+b) Estimativa da TFG pela fórmula MDRD
+
+TFG = 186 x (Cr)- 1,154 x (idade)- 0,203 x 0,742 (se mulher) x 1,212 
+(se negro)
+
+De acordo com o valor estimado de TFG, o paciente pode ser classificado em diferentes estágios de gravidade da doença renal crônica, conforme a classificação da National Kidney Foundation (Tabela 8). 
+
+@@ -179,17 +181,17 @@ Tabela 9 - Rastreamento da doen
+D - Manejo 
+
+Dica 
+Todo paciente com doença renal do diabetes deve receber tratamento com IECA ou BRA, mesmo os normo[---]tensos.[- -]
+
+Confirmada a presença de doença renal do diabetes pela presença de EUA persistentemente aumentada, está indicado o bloqueio do eixo renina–angiotensina–aldosterona, usando um Inibidor da Enzima Conversora da Angiotensina (IECA) ou um Bloqueador do Receptor da Angiotensina II (BRA), mesmo em pacientes normotensos. {+A ação nefroprotetora dessas drogas deve-se ao efeito de redução da pressão intraglomerular, por meio da inibição da angiotensina II e consequente vasodilata-ção da arteríola eferente do glomérulo. +}
+Tanto os IECAs como os BRAs podem ser utilizados{+,+} com eficácia semelhante.{+ +}Na intolerância a uma das classes, pode-se substituir a medicação por uma da outra classe (por exemplo, substituindo o IE[---]CA por um BRA no caso de tosse seca). Reco{+-+}menda-se a monitorização mensal dos níveis de creatinina e potássio após o início dessas medicações, devido ao risco de elevação da creatinina e da hipercalemia, reavaliando a albuminúria em 6 a 12 meses. O objetivo é normalizar a EUA em paci{+-+}entes com EUA moderadamente aumentada e reduzir a EUA para <500mg/d, nos paci[---]entes com EUA severamente aumenta{+-+}da.
+O controle pressórico é fundamental para evitar a progressão da doença renal. A ADA recomenda, nas suas diretrizes de 201[-5-]{+6+}, manter a pressão arterial abaixo de 140x90mmHg em todos os diabéticos com ou sem doença renal, ou, opcionalmen-te, abaixo de 130x80mmHg nos pacientes mais jovens, se esse nível pressórico puder ser obtido sem aumento do risco de efeitos adversos do tratamento anti-hipertensivo (hipotensão postural, distúrbios hidroeletrolíticos etc.). As últimas diretrizes da SBD, por outro lado, recomendam que o paciente com doença renal do diabetes mantenha a PA <140x80mmHg. 
+Geralmente, é necessária a associação de 2 a [-3-]{+4+} drogas anti-hipertensivas para atingir um bom controle da PA. O nível pressórico atingido parece mais importante para a proteção renal do que a classe de agentes anti-hipertensivos utilizados. Se o paciente não for capaz de obter bom controle pressórico apenas com IECA ou BRA, devem-se associar tiazídicos, bloquea-dores dos canais de cálcio (anlodipino) ou betabloqueadores, conforme necessário. Não se devem associar 2 drogas bloque-adoras do sistema renina–angiotensina–aldosterona (por exemplo, IECA + BRA-II ou IECA + alisquireno), pela falta de evidên-cia de benefícios clínicos significativos e pelo risco aumentado de efeitos adversos (hipotensão, hipercalemia).
+Outras medidas importantes para prevenir a piora da função renal são: controle glicêmico estrito (visando à A1c <7%), [-manutenção dos lipídios em níveis adequados (-]uso de estatinas objetivando [-LDL <100 ou <70mg/dL, ou -]redução de 30[-%-] ou 50%{+ do colesterol LDL plasmático+}, a depender d{+a idade e d+}o {+grau de +}risco cardio{+-+}vascular do paciente[-)-], uso de antiagregantes plaquetários e cessação do tabagismo. 
+A redução da ingesta de proteínas [-foi-]{+é+} [-prop-]o[-s-]{+u+}t[-a, po-]r{+a+} m[-u-]{+ed+}i[-tos -]{+d+}a[-nos, como-] {+q+}u[-ma -]e[-stratégia-] [-ca-]p[-az -]{+o+}de [-r-]{+s+}e[-duzi-]r {+benéfic+}a {+em +}p[-rogr-]{+acient+}es[-são-] [-da-]{+com+} doença renal [-n-]{+d+}o diabetes. [-No-]{+A+} [-entanto-]{+ADA+}, [-a-]{+no+}s [-diretrize-]s[- am-]e[-ricana-]{+u+}s [-ma-]{+gu+}i[-s rec-]{+d+}e{+li+}n[-t-]es [-(ADA,-]{+de+} 201[-5) não-]{+6,+} recomenda[-m a restrição rotineira-] [-d-]a ingesta proteica[-,-] [-pois as evi-]d[-ências-]{+e+} {+0,8g/kg/+}d[-e-] [-b-]e[-nefício-]{+m+} [-dess-]{+p+}a[- -]{+c+}i{+e+}nte[-rvenção -]s{+ n+}ão [-confl-]{+d+}i[-t-]a[-n-]{+lí+}t[-es (dim-]i[-nui a EUA, ma-]{+co+}s{+;+} n[-ã-]o{+s+} pa[-re-]c{+i+}e[- re-]{+n+}t[-ardar a-]{+es+} [-p-]e[-rda-]{+m+} d[-a TFG, espec-]i[-a-]{+á+}l[-m-]{+is+}e{+, +}n[-t-]{+ív+}e{+is+} [-e-]m[- ind-]{+a+}i[-víduo-]s [-s-]{+alt+}o[-b-]{+s de+} con[-tr-]{+sum+}o[-le-] pr{+ot+}e[-ssór-]ico [-rigoros-]{+p+}o[-). Assi-]{+de+}m[-, a ADA-] s[-ug-]er[-e que a-] re[-striçã-]{+c+}o[- da ing-]{+m+}e[-st-]{+nd+}a[- -]d[-e-]{+os+} p{+a+}r[-oteín-]a[-s se-] {+p+}re[-stri-]{+ve+}n[-ja aos cas-]{+çã+}o[-s-] [-mais-]{+de+} [-grav-]{+d+}es[- o-]{+n+}u[- refra-]t[-á-]ri{+çã+}o[-s-]. A SBD, na {+sua +}última diretriz [-brasileira -](201[-5), também adotou essa nova postura, e passou a-]{+5),+} recomenda[-r-] restrição {+moderada +}da ingesta proteica ([-<1-]{+0,8+}g/kg/d) [-ape-]n[-as para -]os casos de {+progressão da +}DRD com [-EUA-]{+redução+} [->300mg/g-]{+da TFG,+} de[- cr-]{+v+}e[-ati-]n{+do o pac+}i{+e+}n[-a-]{+te+} {+pr+}e{+ferir o+} co{+nsu+}m{+o de+} {+ca+}r{+n+}e[-dução-] d{+e galinh+}a [-TFG-]{+à carne vermelha+}.
+A restrição do consumo de sódio é fundamental: pacientes com doença renal do diabetes devem ingerir no máximo [-2,4g de sódio ao dia (equivalente a 6g de sal de cozinha ao dia), conforme recomendações da ADA (2015), ou no máximo -]1,5g de sódio ao dia (equivalente a 3,75g de cloreto de sódio por dia), conforme a SBD (201[-4-]{+5+}).
+A suplementação de vitamina D (preferencialmente, com calcitriol) também pode ser benéfica, reduzindo a doença óssea e, possivelmente, a albuminúria e a mortalidade de pacientes com doença renal do diabetes.
+O rastreamento de complicações da doença renal crônica (anemia, hiperparatireoidismo secundário, doença óssea etc.) deve ser iniciado quando o paciente apresenta TFG abaixo de 60mL/min/1,73m2. Os pacientes em estágio 4 ou 5 da National Kidney Foundation (ou seja, com TFG <30mL/min) devem ser encaminhados prontamente para um nefrologista, para manejo adequado das complicações da [-DRC-]{+doença renal crônica+} e programação do tratamento de substituição renal.
+O tratamento dialítico nos pacientes com diabetes costuma ser iniciado mais precocemente do que em renais crônicos não diabéticos, estando indicado geralmente quando a TFG cai abaixo de 20mL/min/1,73m2. A via de diálise (hemodiálise ou diálise peritoneal) deve ser escolhida de acordo com a avaliação individualizada pelo nefrologista. 
+Se não houver contraindicações, como doença cardiovascular (DCV) avançada, estará indicado o transplante renal, pois a mortalidade dos diabéticos em esquema de diálise é extremamente elevada (75% em 5 anos, comparada a apenas 20% em transplantados).
+O resumo das recomendações da SBD (2015) para o manejo da doença renal do diabetes está exposto na Tabela 10.
+@@ -198,12 +200,11 @@ Tabela 10 - Recomenda
+Parâmetros	Metas
+Medidas gerais	- Cessação do tabagismo;
+	- Uso de ácido acetilsalicílico.
+Ingesta proteica	[-<1-]{+0,8+}g/kg/d se [-EUA >300m-]{+pro+}g[- -]{+ressã+}o[-u-]{+ da DRD e+} redução da TFG
+Ingesta de sódio	<1,5g/d (ou 3,75g/d de sal de cozinha)
+A1c	<7% (individualizar)
+Vitamina D	[-Rep-]{+D+}os[-ição-]{+agem+} de [-calc-]{+v+}it[-riol par-]a[- prevenção de doe-]{+mi+}n[-ç-]a [-óssea-]
+[-Colesterol L-]D[-L	--] [-Pa-]{+sé+}r{+ic+}a {+em +}pacientes com [-DCV-]{+TFG+} [-prévia ou LDL >19-]{+<6+}0m[-g/d-]L[-: reduz-]{+/m+}i[-r 50%-]{+n+} e[-m-] re[-la-]{+posi+}ção [-ao ba-]s[-al,-]{+e+} [-ou-]{+níveis+} <[-7-]{+3+}0[-m-]{+n+}g/[-d-]{+m+}L
+[-;-]
+[-	--]{+Lípides+} [-P-]{+pl+}a[-r-]{+smáticos	Est+}a{+tinas em+} pacientes com [-40 -]{+m+}a{+is+} [-75-]{+de 40+} anos e{+/ou+} [-LDL >100-]{+co+}m[-g/dL:-] {+DCV p+}r[-eduz-]{+év+}i[-r-]{+a+} [-30%-]{+ou+} [-e-]m[- re-]{+últip+}l[-açã-]o{+s+} {+f+}a{+t+}o[- ba-]{+re+}s[-al,-] {+de risc+}o[-u-] [-<100mg/-]{+car+}d[-L.-]{+iovascular+}
+Pressão arterial	<140x80mmHg (<130x80mmHg se paciente jovem e se for possível obter essas metas com poucas drogas e poucos efeitos adversos do tratamento)
+Bloqueio do sistema renina–angiotensina–aldosterona	IECA ou BRA: eficácia semelhante (não associar IECA + BRA)
+Encaminhamento para o nefrologista	Com TFG <30mL/min/1,73m2
+@@ -224,13 +225,13 @@ Polineuropatia sim
+Focal e multifocal	- Cranial;
+	- Toracolombar;
+	- Amiotrofia diabética;
+	- Mononeuropatias.{+ +}
+{+Outras	+}Neuropatia inflamatória crônica desmielinizante
+
+A - Neuropatia hiperglicêmica
+Geralmente, acomete indivíduos com diagnóstico recente de DM e níveis de glicemia muito elevados. Cursa com anorma-lidades reversíveis da condução nervosa, manifestando, principalmente, hipoestesias e parestesias em extremidades. Trata-se de um distúrbio funcional do nervo, com regressão rápida à normalidade após a melhora do controle glicêmico.
+
+B - {+	+}Polineuropatia simétrica distal (ou sensitivo-motora crônica)
+Trata-se da forma mais comum, com prevalência em torno de 25 a 50% dos pacientes com DM. Em 10% dos DM2, já está presente no momento do diagnóstico. 
+Cursa com alterações da sensibilidade, com progressão centrípeta, e os primeiros sintomas são a hipoestesia ou a pareste-sia “em bota e luva” (Figura 3). As primeiras sensações perdidas, em geral, são a térmica e a dolorosa, e a propriocepção é a última a ser acometida. A queixa mais comum é dor, principalmente noturna, do tipo queimação ou choque, associada ou não a anodinia e cãibras. Evolui, após um período variável, para anestesia completa nas extremidades, o que determina (nos pés) a distribuição anormal da pressão, provocando deformidades (artropatia de Charcot), com alto risco de amputação. 
+
+@@ -282,19 +283,20 @@ Tabela 13 - Manifesta
+Hipotensão postural
+Queda de 20mmHg na pressão sistólica, ou 10mmHg na diastólica, medidas em decúbito dorsal e 1 minuto após assumir a posição ortostática
+Regulação anormal da frequência cardíaca
+Taquicardia em repouso, falta de variação da frequência cardíaca com exercício ou manobra de Valsalva (intervalo RR fixo ao eletro{+-+}cardiograma), pouca tolerância ao exercício físico
+Denervação do miocárdio
+Isquemia silenciosa (10 a 15% dos episódios de infarto agudo do miocárdio ocorrem de forma indolor em portadores de neuropa[---]tia autonômica cardiovascular)
+Arritmias cardíacas
+Taquiarritmias, fibrilação ventricular
+Morte súbita
+Duas vezes mais comum em portadores de neuropatia autonômica cardiovascular
+
+Alguns testes funcionais podem ser realizados nesses pacientes, como o tilt table para aqueles com importante hipotensão postural sintomática, ou a avaliação da variação do intervalo RR no eletrocardiograma.[-  -]
+Os pacientes com síncopes de repetição, ou que apresentam hipoaldosteronismo hiporreninêmico com hipercalemia, po-dem beneficiar-se de fludrocortisona (Florinef®, 0,1 a 0,4mg/d), embora essa medicação não deva ser usada rotineiramente, pelo risco de hipertensão arterial e edema periférico. Medidas simples, como a elevação da cabeceira da cama, evitar mu-danças posturais bruscas e o uso de meias elásticas compressivas, podem reduzir os episódios de hipotensão postural. Beta-bloqueadores cardiosseletivos (atenolol ou metoprolol) podem ser úteis. Pacientes com neuropatia cardiovascular devem ser muito bem avaliados antes de iniciar um programa de atividade física, devido ao risco de arritmias e de isquemia silenciosa.
+
+b) Trato gastrintestinal
+Manifesta-se com anormalidades de motilidade, absorção e secreção do aparelho gastrintestinal. Está presente em cerca de 15% dos diabéticos. A neuropatia autonômica gastrintestinal é caracterizada, clinicamente, por 2 problemas principais:
+
+Gastroparesia diabética
+Apresenta-se com náuseas, vômitos e plenitude pós-prandiais e outros sintomas dispépticos. O tratamento é realizado, inicialmente, com agentes procinéticos, como a metoclopramida, a domperidona e a bromoprida. Em pacientes não respon-dedores, pode-se utilizar a eritromicina, que se liga aos receptores de motilina no trato gastrintestinal, melhorando sua moti-lidade, com a dose inicial de 250mg a cada 8 horas.
+
+@@ -303,6 +305,7 @@ Os pacientes podem alternar per
+
+c) Aparelho geniturinário
+Apresenta-se com 2 manifestações principais:
+
+Disfunção erétil
+Está presente em cerca de 28% dos homens com DM. Costuma ser multifatorial, porém, na maioria, a neuropatia autonô-mica é o determinante mais importante. Pode apresentar melhora com inibidores da fosfodiesterase (sildenafila, vardenafila ou tadalafila), mas algumas vezes pode necessitar de doses altas dessas medicações. Drogas de uso intracavernoso ou intrau-retral (papaverina, fentolamina e prostaglandinas) também podem ser úteis. Nos casos sem resposta, deve-se encaminhar para avaliação urológica e avaliação da necessidade de prótese peniana.
+
+@@ -317,6 +320,9 @@ A resposta fisiol
+D - Neuropatias periféricas focais
+A maioria ocorre entre idosos, cursando com recuperação parcial ou completa do déficit motor na maioria dos casos, em-bora a recuperação total possa levar várias semanas ou meses. Pode ocorrer em nervos periféricos e cranianos. Nos casos de mononeuropatia craniana, o nervo mais comumente envolvido é o III par craniano, com oftalmoplegia – geralmente, ptose palpebral unilateral com reflexo fotomotor preservado (Figura 4). O nervo periférico mais envolvido é o mediano. Outros frequentemente atingidos são o VI e o VII pares cranianos e o nervo ulnar.
+
+{+Importante+}
+{+O nervo mais comumente envolvido é o III par craniano, com oftalmoplegia – geralmente, ptose palpebral unilateral com reflexo fotomotor preservado (Figura 4). O nervo periférico mais envolvido é o mediano.+}
+
+  
+Figura 4 - Mononeuropatia diabética, afetando o III par craniano à direita
+
+@@ -329,6 +335,9 @@ Na maioria dos casos, ocorre recupera
+
+5. Pé diabético
+
+{+Importante+}
+{+O DM é a principal causa de amputação de membro inferior não traumática.+}
+
+A mais terrível complicação da neuropatia diabética é a úlcera neuropática (mal perfurante plantar), que constitui a prin-cipal causa de internação de diabéticos nos Estados Unidos, também responsável por 40 a 60% das amputações não traumáti-cas de membros inferiores naquele país. De fato, 85% das amputações desses membros em diabéticos são precedidas por 1 ou mais úlceras nos pés (Figura 5). 
+Diabéticos têm um risco 17 vezes maior de amputação de pés em comparação a não diabéticos. Úlceras tendem a torna-rem-se infectadas em pelo menos 50% dos casos. Além disso, aqueles submetidos a amputação apresentam alta mortalidade (50% em 3 anos) em razão das comorbidades frequentemente associadas (nefropatia, neuropatia autonômica, aterosclerose).
+
+@@ -352,17 +361,24 @@ Tabela 14 - Fatores de risco para 
+
+A - Prevenção
+Devem-se recomendar ao diabético: lubrificação adequada da pele dos pés; evitar andar descalço ou com calçados aber-tos devido ao risco de trauma; tratamento de calosidades e de anormalidades das unhas por podólogo e, caso deformidades estejam presentes, calçados específicos após a avaliação por especialista dos pés. 
+É fundamental a detecção precoce do pé de risco, pois [-é um trabalho pr-]e[-vent-]{+x+}i[-vo qu-]{+st+}e{+m+} {+med+}i[-n-]{+das, +}c[-lui-]{+omo+} a educação do paciente[-.-]{+,+} [-O-]{+o+} uso de calçados adequados e [-o-]{+a+} [-t-]{+cor+}r[-atam-]e[-nt-]{+çã+}o d{+e outr+}as [-an-]{+c+}o[-r-]m[-al-]{+orb+}idades {+nos pés, que +}são capazes de reduzir em 40 a 85% o risco de amputações{+ (Tabela 15)+}.
+
+{+Tabela 15 - Medidas para prevenção de amputação no pé diabético+}
+{+Medida	Detalhes+}
+{+Calçados adequados	Os calçados devem ser de tamanho apropriado, bem ajustados ao formato e+} {+tamanho dos pés, macios, que acolchoem os pés e redistribuam a pressão; pessoas com de-formidades dos pés podem precisar de calçados extralargos ou extraprofundos (feitos sob medida).+}
+{+Educação do paciente	Os pacientes devem ser orientados quando ao cuidado apropriado com os pés (inclu-sive unhas, que devem ser cortadas em linha reta) e à importância do exame diário dos pés (por inspeção ou palpação) para detecção precoce de quaisquer lesões. Evitar andar descalço. Lavar os pés diariamente e secar bem entre os dedos.+}
+{+Avaliação vascular	Pacientes com sintomas de claudicação intermitente, ou com pulsos diminuídos ou ausentes em pés, devem ser prontamente encaminhados para avaliação por cirurgião vascular, para avaliar necessidade de revascularização do membro afetado.+}
+{+Tratamento de comorbidades	Fissuras e xerose devem ser tratadas com uso diário de hidratantes para a pele. Onicomicose e micose interdigital devem ser tratadas com antifúngicos. Calos, bo-lhas, úlceras ou outras lesões devem ser prontamente avaliadas e tratadas por médi-co (evitar uso de “calicidas” ou emplastros). Áreas de pressão excessiva na planta dos pés devem ter a pressão aliviada pelo uso de órteses.+}
+{+Infecção	O paciente deve ser instruído a procurar o médico imediatamente se notar sinais de infecção, para pronta instituição do tratamento adequado (ver adiante).+}
+
+B - Rastreamento
+A pesquisa de neuropatia periférica deve ser realizada pelo menos anualmente, usando o monofilamento de 10g (monofi-lamento de Semmes-Weinstein), conforme mostra a Figura 6, e com exame clínico cuidadoso dos pés no mínimo 1 vez por ano. O monofilamento deve ser aplicado com pressão suficiente para encurvar-se em, pelo menos, 4 locais na região plantar de ambos os pés (hálux e extremidades distais do 1º, 3º e 5º metatarsos), perguntando ao paciente se sentiu a pressão nes-ses locais. Um erro na percepção da pressão padronizada de 10g já é considerado um teste positivo. Esse teste simples tem sensibilidade próxima de 90% para detecção de neuropatia com risco de amputação.
+Os pés devem ser classificados de acordo com sua categoria de risco, sendo que aqueles de maior risco devem ter avalia-ção mais frequente, conforme proposto na Tabela 1[-5-]{+6+}. Outros exames (como a eletroneuromiografia) podem ser necessários nos casos de dúvida diagnóstica. Na suspeita de insuficiência arterial, pode-se realizar Doppler vascular ou angiografia. O índi-ce tornozelo–braço é útil para detectar casos subclínicos de insuficiência vascular crônica nos membros inferiores.[- -]
+
+ 
+Figura 6 - Aplicação do monofilamento de 10g na identificação do pé de risco
+
+Tabela 1[-5-]{+6+} - Classificação em graus de risco de amputação
+Riscos	Características	Avaliações
+--	Neuropatia ausente	1 vez ao ano
+1	Neuropatia presente	2 vezes ao ano
+@@ -372,9 +388,9 @@ Riscos	Caracter
+C - Manejo da úlcera em pé diabético
+O paciente com neuropatia diabética apresenta diminuição de sensibilidade a traumas, permitindo o desenvolvimento de lesões, e a disfunção autonômica pode associar-se a diminuição da transpiração (anidrose) nas extremidades, pele seca e maior propensão a desenvolver fissuras que servem como porta de entrada para infecções.
+A doença arterial periférica, por si só, raramente causa ulceração (10% dos casos). Porém, quando ocorrem trauma e in-fecção locais, a demanda por aporte sanguíneo supera a disponibilidade local, com o desenvolvimento de lesão. A ultrassono-grafia com Doppler nesses pacientes pode apresentar resultados enganadores, e o fator mais associado a isquemia significati-va é a ausência de pulsos tibial posterior e pedioso.
+A classificação de Wagner é a mais utilizada para caracterizar as úlceras de pacientes com pé diabético (Tabela 1[-6-]{+7+}).
+
+Tabela 1[-6-]{+7+} - Classificação de Wagner das úlceras no pé diabético
+0 - Pé de risco, sem úlcera. 
+1 - Úlcera superficial. 
+2 - Úlcera profunda. 
+@@ -382,26 +398,28 @@ Tabela 16 - Classifica
+4 - Gangrena parcial. 
+5 - Gangrena completa. 
+
+A Tabela 1[-7-]{+8+} mostra os aspectos a serem considerados no tratamento das úlceras em pacientes com pé diabético:
+
+Tabela 1[-7-]{+8+} - Fatores no tratamento da úlcera no pé diabético
+1 - Determinar se o fluxo arterial é adequado. 
+2 - Tratar a infecção apropriadamente. 
+3 - Remover a pressão da úlcera e das áreas adjacentes.
+
+A avaliação clínica, conforme comentado, é o meio mais apropriado para determinar a adequação da circulação local, e, em caso de dúvida, outros procedimentos podem ser necessários, como a arteriografia.
+O tratamento apropriado de infecção local é muito importante na evolução, e a antibioticoterapia tópica não costuma ser apropriada. Indivíduos com úlceras neuropáticas e circulação adequada não apresentam indicação de antibioticoterapia, exceto quando há claros sinais clínicos de infecção, como descarga purulenta, eritema local ou celulite. A{+s infecções costu-mam ser tipicamente polimicrobianas, com germes aeróbios e anaeróbios. +}
+{+A+} antibioticoterapia pode ser guiada por cultura de secreções locais nos pacientes com lesões consideradas leves (com celulite <2cm e infecção limitada à pele e ao tecido subcutâneo). A cobertura deve ser dirigida para Staphylococcus aureus e Streptococcus do grupo A, podendo-se utilizar, nessa situação, cefalosporinas de 1ª ou de 2ª geração, amoxicilina com clavu{+-+}lanato ou clindamicina por 7 a 14 dias de tratamento. 
+Os pacientes com lesões moderadas (celulite >2cm, linfangite e abscesso profundo envolvendo músculos, tendões e os-sos) necessitam de cobertura antibiótica de maior espectro, contra agentes Gram positivos, Gram negativos e anaeróbios. Conforme a gravidade do caso, é definido o uso de terapia intravenosa ou oral por 2 a 4 semanas, constituindo opções tera-pêuticas: [-ampi-]c[-ilin-]a[-/sul-]{+r+}ba[-cta-]{+penê+}m{+icos+}, [-cef-]a[-lo-]s[-p-]{+s+}o[-r-]{+c+}i[-n-]a[-s-]{+ção+} de [-3ª g-]{+p+}e[-ração, -]{+ni+}ci[-prof-]l[-ox-]{+in+}a[-c-]{+ e +}in{+ibid+}o{+r+} [-ou-]{+da+} [-l-]{+p+}e[-vofloxa-]{+ni+}ci{+li+}n[-o, -]{+as+}e[-rt-]{+ (+}a{+m+}p[-e-]{+icili+}n[-ém o-]{+a/s+}u{+lbactam,+} piperacili[---]na/tazobactam {+ou +}a[-ss-]{+m+}o{+xi+}ci{+lin+}a[-d-]{+/clavulanat+}o[-s-]{+)+} [-à-]{+ou,+} [-cl-]{+a+}inda{+, u+}m[-icin-]a[-.-]
+[-As-] [-in-]{+fluoroquinolona associada a clindamicina. +}
+{+As in+}fe[-cçõe-]{+cçõe+}s consideradas graves, além de apresentarem as condições descritas nas infecções moderadas, são acompa-nhadas de instabilidade hemodinâmica ou metabólica. Nesses casos, {+o paciente deve ser hospitalizado e +}a terapia deve ser {+iniciada como urgência, +}necessariamente por via intravenosa e com ampla cobertura microbiana, [-inclui-]{+pode+}ndo [-ca-]{+se+}r[-b-]{+ usad+}a{+s as mesmas o+}p{+ções d+}e{+ a+}n[-êm-]{+tib+}i[-c-]o[-, p-]{+t+}i[-p-]{+cot+}era[-cil-]{+p+}i[-n-]a[-/-]{+ descri+}ta[-zob-]{+s p+}a{+ra infe+}c[-t-]{+ções moderad+}a{+s; frequente+}m[-,-]{+ente são+} {+necessári+}as{+ intervençõe+}s[-o-]{+ +}ci{+rúrgic+}a{+s (debri+}d{+ament+}o[-s-]{+).+} {+C+}a{+so+} [-v-]{+h+}a[-n-]{+ja +}com{+promet+}i[-ci-]{+me+}n[-a-]{+to+} {+ósse+}o[-u-] {+(osteomielite), o tra+}t{+am+}e{+nto antibiót+}ico{+ +}p[-la--]{+ode ser +}n{+ecessár+}i{+o por mais tempo (6 a 12 sema+}na{+s)+}.
+
+6. Rastreamento das complicações microvasculares no diabetes mellitus
+
+Tabela 1[-8-]{+9+} - Resumo das recomendações da Sociedade Brasileira de Diabetes (2015) 
+Complicações	Métodos de 
+rastreamento	Periodicidade 
+no DM1	Periodicidade no DM2
+Retinopatia	Preferencialmente, fotorretinografia com pupilas dilatadas	Anualmente, a partir da puber{+-+}dade e >5 anos de DM	Anualmente, desde o diagnósti{+-+}co do DM
+Doença renal do diabetes	EUA em amostra isolada de urina + estimativa da TFG a partir da creati[---]ni{+-+}na sérica (usando equação MDRD ou CKD-EPI)	Anualmente, a partir da puber{+-+}dade e >5 anos de DM	Anualmente, desde o diagnósti{+-+}co do DM
+Neuropatia	Exame dos pés + teste do monofila-mento de 10g + pesquisa de reflexos + medida da pressão arterial em decúbi{+-+}to e na posição ortostática	Anualmente, a partir da puber{+-+}dade e >5 anos de DM	Anualmente, desde o diagnósti{+-+}co do DM
+Outros	Medida da pressão arterial	Em todas as consultas	Em todas as consultas
+
+7. Aterosclerose e doença cardiovascular no diabetes mellitus
+@@ -413,6 +431,7 @@ A dislipidemia aterog
+A hipertensão arterial é observada em, pelo menos, 70% dos indivíduos com DM2 (pelo menos 40%, já no diagnóstico do DM) e está relacionada à obesidade e à síndrome metabólica, sendo, pelo menos, 2 vezes mais comum do que em não diabé-ticos da mesma idade. Em pacientes com DM1, a hipertensão arterial geralmente surge após a instalação de nefropatia.
+Todos esses fatores, além do estado inflamatório sistêmico crônico (elevação da proteína C reativa de alta sensibilidade), do estado pró-trombótico (aumento do PAI-1), entre outros, contribui para que os diabéticos tenham um risco 2 a 4 vezes maior de DCV, quando comparados a populações sem diabetes. Uma grande meta-análise recente concluiu que o risco de DCV era 3,1 a 3,7 vezes maior entre diabéticas do que entre não diabéticas, e 1,9 a 2,1 vezes maior entre diabéticos do que entre não diabéticos.
+Um estudo clássico acompanhou, durante 7 anos, pacientes normais, pacientes com DCV prévia sem diabetes, diabéticos sem DCV prévia e diabéticos com DCV prévia, para avaliar o risco de novos eventos (infarto do miocárdio ou morte cardiovas-cular) nesse período nos diferentes grupos (Figura 7). Observou-se que o risco de um novo evento era o mesmo, comparan-do-se o grupo de diabéticos sem DCV prévia (15,4%) e o grupo com DCV prévia sem diabetes (15,9%). Tal risco era ainda mai-or no grupo com ambos, diabetes e DCV prévia (42% em 7 anos). Por esse motivo, o DM hoje é visto como uma condição que, por si só, confere alto risco de eventos cardiovasculares ao portador (>20% em 10 anos).
+
+  
+Figura 7 - Risco de infarto do miocárdio ou morte cardiovascular em 7 anos
+Fonte: HAFFNER et al., 1998. 
+@@ -423,35 +442,35 @@ Portanto, exames para rastreamento de doen
+Para diabéticos com alto risco cardiovascular assintomáticos, a ADA não recomenda a pesquisa rotineira de isquemia co-ronariana silenciosa, pois o prognóstico é o mesmo com revascularização ou com tratamento clínico intensivo.
+Por todos esses motivos, o paciente diabético deve receber tratamento multifatorial, visando ao adequado controle não só da glicemia, mas também de todos os potenciais fatores de risco cardiovascular (hipertensão, dislipidemia etc.) a fim de obter a máxima proteção contra eventos ateroscleróticos.
+Quanto ao controle pressórico, o alvo de tratamento deve ser <140x90mmHg para todos os pacientes diabéticos, ou <130x80mmHg nos mais jovens, se esta meta mais baixa pode ser obtida sem grandes riscos de efeitos adversos pelo trata-mento. O United Kingdom Prospective Diabetes Study, por exemplo, mostrou que o controle rigoroso da pressão arterial per-mitiu redução de 21% no risco de infarto, 32% no risco de morte e 44% no risco de acidente vascular cerebral em pacientes com DM2. As drogas de escolha são os IECAs (ou BRAs), associados a tiazídicos em baixas doses e/ou bloqueadores dos canais de cálcio. Betabloqueadores estão indicados para aqueles com DCV prévia. Geralmente, são necessárias 3 ou mais drogas para obter o controle pressórico adequado.
+Os lipídios devem ser adequadamente controlados com [-hábitos d-]{+m+}e[- v-]{+d+}ida[- -]s{+ não f+}a[-udáve-]{+rmacológ+}i{+ca+}s, associados ao uso de estatinas nos dia[---]béticos com [-r-]{+ma+}is[-c-]{+ de 40 an+}o{+s+} {+e/ou co+}m{+ DCV prévi+}a{+ ou com múlt+}i{+plo+}s {+f+}a[-l-]to{+res+} de [-evento-]{+ri+}s{+co+} cardiovascular[-es-].
+ 
+Pergunta
+201[-5-]{+2+} - [-FMJ-]{+UCPEL+}
+1. [-O-]{+Uma+} [-di-]{+p+}a[-b-]{+ci+}e{+n+}te[-s-] [-m-]{+d+}e[-llitus-] [-é-]{+60+} [-um-]a[- doe-]n[-ça-]{+os,+} [-qu-]{+ob+}e[- cur-]sa{+,+} com [-níveis sér-]{+d+}i[-cos -]a[-ume-]{+g+}n[-tado-]{+ó+}s[- de gl-]{+t+}ico[-se,-] [-poden-]d[-o g-]e[-rar-] [-compl-]{+D+}i[-c-]a[-çõ-]{+bet+}es {+M+}e[-m d-]{+ll+}i[-verso-]{+tu+}s [-órgã-]{+(DM) há 2 an+}os{+,+} {+apr+}e[- si-]s[-t-]e[-m-]{+nt+}a{+-+}s[-.-]{+e+} [-C-]{+c+}om {+c+}re[-l-]a[-ção -]{+tinin+}a [-ess-]{+pl+}a[- enfer-]{+s+}m{+át+}i[-d-]{+c+}a{+ = 3,2mg/+}d[-e-]{+L+}, [-é c-]{+p+}o[-rre-]t[-o af-]{+áss+}i[-rmar que:-]
+[-a) -]o[-s-] [-valores-]{+=+} [-de-]{+4,5mEq/L,+} glicemia de jejum [-utilizados para-]{+=+} [-dia-]{+230m+}g[-nóstico-]{+/dL+} e [-s-]e{+co+}g[-uimento não se b-]{+r+}a[-se-]{+f+}ia[-m-] {+r+}e[-m-]{+nal+} [-si-]n[-t-]o{+r+}ma[-s-]{+l+}, [-mas-]{+EQU+} [-na-]{+com+} pro[-bab-]{+teinú-r+}i{+a (++) e g+}li[--d-]{+cosúri+}a{+. O fun+}d[-e-]{+o+} de [-ev-]ol[-uçã-]{+h+}o [-pa-]{+most+}ra [-r-]e[-tinop-]{+xsud+}at[-ia -]o[-u-]{+s+} {+algodo+}n{+osos +}e[-fr-]{+ hem+}o[-p-]{+rr+}a[-t-]{+g+}ia[-b)-]{+s+} [-valo-]re{+tiniana+}s{+.+} [-d-]{+Apres+}e{+nta+} [-glic-]{+ed+}em[-i-]a de [-jejum-]{+MMII+} [-acima-]{+(++/4+)+} [-d-]e {+PA = +}1[-2-]6{+0x90m+}m{+H+}g[-/dL-]{+,+} [-nã-]{+sem us+}o {+de +}a{+nti-hi+}p{+e+}r{+t+}e{+n+}s[-e-]{+ivo. Assi+}n[-t-]a[-m-]{+le+} [-bo-]a [-c-]{+assertiva que melh+}or{+ se +}rela[-çã-]{+ci+}o{+na+} com o[-s-] [-v-]{+c+}a[-l-]{+s+}o{+ p+}r[-e-]{+o-po+}s{+to:+}
+{+a)+} a[-cim-]{+ p+}a{+ciente+} de{+verá+} [-200-]{+ser sub+}m[-g/-]{+eti+}d[-L,-]{+a+} a{+ +}p{+unção bi+}ó{+p+}s{+ia+} [-2 ho-]r{+en+}a[-s-]{+l,+} [-d-]{+uma v+}e{+z+} [-t-]{+qu+}e{+ o diagnó+}st[-e-]{+ico+} de [-tol-]{+n+}e{+f+}r[-ânc-]{+opat+}ia {+di+}a[- gl-]{+bét+}ic[-ose-]{+a+} [-o-]{+é imp+}r[-a-]{+ováve+}l[-c)-] [-a-]{+tendo+} [-glic-]em{+ v+}i{+st+}a [-de-]{+o+} [-j-]{+t+}e[-ju-]m{+po+} [-c-]{+de ev+}o[-ntin-]{+l+}u[-a-]{+ção+} {+d+}a [-s-]{+DM+}
+{+b) dev+}er{+á+} [-um-]{+ser+} [-méto-]do{+sada+} [-efic-]a[-z-] [-p-]{+micr+}o{+albuminú+}r{+ia+} [-ter-]{+da+} {+p+}a[-l-]{+cien+}t[-a-]{+e e deverão+} se{+r i+}n[-s-]i[-b-]{+c+}i[-l-]{+ados, +}i{+me+}d{+i+}a[-d-]{+tament+}e, [-ap-]{+IECA +}e[-s-]{+ metformin+}a
+{+c) t+}r{+ata-se+} de p{+r+}o[-uco-]{+vável+} {+do+}e{+nça va+}s[-pecífi-]c{+ul+}a[-d)-]{+r+} [-o-]{+da+} {+ar+}t{+ér+}i[-po-]{+a+} [-2-]{+renal+} [-d-]{+c+}o{+m+} [-d-]{+nefropat+}ia[-b-]{+ isquêmica +}e{+ a pacien+}te{+ deverá +}s{+er+} {+sub+}me[-lli-]t[-us po-]{+i+}d[-e,-]{+a+} [-co-]{+a u+}m{+a+} {+angi+}o[- -]t[-e-]{+o+}m[-p-]o[-,-]{+grafia+} [-l-]{+r+}e[-v-]{+n+}a[-r-]{+l+}
+{+d)+} [-à-]{+trata-se+} de[-st-]{+ p+}r[-uiçã-]o{+vável+} [-d-]{+n+}e{+fropatia+} [-c-]{+diab+}é[-lul-]{+tic+}a[-s-] [-b-]e[-t-]{+ +}a[-,-] [-d-]{+principal m+}e[-v-]{+d+}id[-o-]{+a+} a[-o-] s[-u-]{+e+}r[-gi-]{+ tomada nesse mo+}mento{+,+} [-d-]e{+m+} [-an-]t[-ico-]{+e+}r[-p-]{+m+}os [-a-]{+de +}n[-ti-ilh-]{+efropr+}ot[-as-]e[-)-]{+-ção,+} [-a-]{+é+} [-muda-]{+o i+}n[-ça-]{+ício+} d[-o-]{+e+} [-cut-]{+IECA+} o[-ff-]{+u+} {+bloquea+}do[-s-]{+r+} [-val-]{+d+}o{+ +}re[-s-]{+ceptor+} da {+an+}g[-l-]i[-c-]{+ot+}e[-m-]{+ns+}i{+n+}a
+{+e)+} [-d-]{+trata-s+}e [-j-]{+d+}e[-jum-] p[-a-]r[-a -]o{+vável+} [-diag-]n[-ós-]{+efropa+}ti[-co do-]{+a+} diab[-e-]{+é+}t[-es-]{+ica+} [-m-]e[-ll-]{+ a pr+}i[-tus-]{+ncipal+} m[-o-]{+e+}di[-ficou-]{+da+} a [-mo-]{+se+}r{+ +}t{+om+}a[-li-]da[-de-] {+ness+}e[-m-] [-l-]{+m+}o{+me+}n[-go praz-]{+t+}o{+,+} em {+te+}r[-azã-]{+m+}o{+s+} de [-muda-]n{+efroprote-+}ç[-as n-]{+ã+}o{+, é a+} {+m+}e[-sti-]l{+h+}o{+ra+} d[-e vida-]{+o+} [-qu-]{+control+}e g[-er-]{+licêmic+}o[-u-]
+Resposta no final do capítulo
+
+[-8. -]Resumo 
+
+Quadro-resumo
+- 	As complicações microvasculares do DM (retinopatia, neuropatia e doença renal do diabetes) apresentam nítida relação com a duração do DM e o nível de controle de glicemia (risco maior quanto mais alta a A1c). O controle glicêmico rigoroso desde o diag[---]nós{+-+}tico do DM é a melhor forma de prevenir sua ocorrência; 
+- 	Os principais mecanismos responsáveis pelas complicações microvasculares no DM relacionam-se à hiperglicemia crônica e incluem: acúmulo de sorbitol intracelular (pela via dos polióis); disfunção endotelial pela ativação da PKC; acúmulo de produtos finais da glicosilação avançada (AGEs) e aumento da formação de espécies reativas de oxigênio e maior estresse oxidativo;
+- 	A retinopatia diabética é a principal causa de cegueira adquirida em adultos. Deve ser pesquisada anualmente com exame de FO (fotorretinografia com pupilas dilatadas); 
+- 	Microaneurismas são as lesões mais precoces na retinopatia diabética. Exsudatos duros e algodonosos, áreas de edema, mi{+-+}cro-hemorragias e dilatação venosa também podem ser vistos na retinopatia não proliferativa; 
+- 	O achado de neovascularização retiniana e/ou hemorragia vítrea ou pré-retiniana define a retinopatia proliferativa; 
+- 	O tratamento das formas graves de retinopatia (não proliferativa severa, proliferativa, edema macular) é feito com a fotoco[---]a{+-+}gulação com laser de argônio, capaz de prevenir a evolução para cegueira;
+- 	A doença renal do diabetes é a principal causa de doença renal em estágio terminal em países desenvolvidos (40% dos casos);[- -]
+- 	A EUA, ou “microalbuminúria”, é o marcador mais precoce e mais sensível para rastreamento da doença renal do diabetes;[- -]
+- 	O rastreamento da doença renal do diabetes deve ser realizado anualmente com a dosagem da EUA (preferencialmente, em amostra isolada de urina) combinada com a estimativa da TFG a partir da dosagem de creatinina sérica (usando a equação MDRD ou CKD-EPI);[- -]
+- 	O manejo da doença renal do diabetes envolve o controle glicêmico e lipídico rigoroso, a manutenção da pressão arterial em níveis <140x90mmHg (ou <130x80mmHg nos pacientes mais jovens, se esta meta não aumentar muito o risco de efeitos adversos do tratamento), o bloqueio do sistema renina–angiotensina–aldosterona usando IECA ou BRA (mesmo em normotensos) e a restrição da ingesta de [-sódio e, possivelmente, de -]proteínas{+ e sódio+};
+- 	Diabéticos com TFG <20mL/min/1,73m2 já apresentam indicação para terapia de substituição renal (diálise);
+- 	A mortalidade de diabéticos em diálise é altíssima (50% em 2 anos), mas pode ser diminuída com transplante renal;
+- 	A neuropatia diabética acomete cerca de 50% dos diabéticos e pode ter as mais variadas apresentações, pois atinge tanto o sistema nervoso somático como o autonômico, em diversos níveis;[- -]
+- 	A forma mais comum de neuropatia diabética é a polineuropatia sensitivo-motora distal, que cursa com alterações da sensibi-lidade (hipoestesia ou anestesia) em extremidades, com progressão centrípeta, podendo ter sintomas dolorosos associados;[- -]
+- 	O exame com monofilamento de 10g ajuda a detectar alterações sensitivas da polineuropatia sensitivo-motora distal; 
+- 	O manejo da dor neuropática, na polineuropatia sensitivo-motora distal, pode ser feito com o uso de anticonvulsivantes (pre-gabalina, gabapentina), tricíclicos (amitriptilina), inibidores seletivos da recaptação de serotonina (duloxetina, venlafaxina) e, eventu-almente, opioides ou outras drogas; 
+- 	O pé diabético é uma das principais complicações da polineuropatia sensitivo-motora distal e uma das que mais se podem prevenir com os cuidados adequados; 
+@@ -459,17 +478,12 @@ Quadro-resumo
+- 	A neuropatia autonômica cursa com grande impacto na qualidade de vida e na mortalidade de diabéticos, mas é frequente-mente subdiagnosticada; 
+- 	Na presença de neuropatia autonômica cardiovascular, há intolerância a exercício, hipotensão postural e risco aumentado de isquemia silenciosa, arritmias e morte súbita (3 vezes mais comum);
+- 	Mononeuropatias (acometendo III, IV ou VI par craniano, ou os nervos mediano ou ulnar) também podem ser manifestações da neuropatia diabética, mais comuns em idosos com DM2. Costumam ser autolimitadas e exigem controle glicêmico rigoroso; 
+- O rastreamento das complicações microvasculares do DM deve ser feito rotineiramente com o exame dos pés, teste do monofila{+-+}men[---]to de 10g, dosagem da EUA e estimativa da TFG a partir da creatinina plasmática, além da fundoscopia com pupila dilatada, pe{+-+}lo me[---]nos 1 vez ao ano, em todos os pacientes com DM;
+- O rastreamento de complicações crônicas microvasculares deve ser iniciado nos pacientes com DM2 desde o momento do diagnóstico do diabetes, e nos diabéticos tipo 1, a partir de 5 anos de diabetes e a partir da puberdade;
+- 	A DCV é 2 a 4 vezes mais comum entre portadores de diabetes e corresponde à principal causa de morte entre diabéticos (principalmente a doença arterial coronariana);
+- 	Um paciente diabético que nunca apresentou um evento cardiovascular tem o mesmo risco de infarto do miocárdio ou morte cardiovascular, em 7 anos, do que um indivíduo não diabético que já sofreu um infarto;
+- 	Para a prevenção da DCV em diabéticos, é fundamental o controle agressivo da glicemia, pressão arterial, lipídios, antiagrega-ção plaquetária e cessação do tabagismo;[- -]
+- 	Não é recomendada a pesquisa rotineira de isquemia silenciosa em diabéticos assintomáticos.[- -]
+
+[-Resposta-]
+[-1. A-]
+
+[-Dica-]
+[-Para fixar o que estudou n-]{+R+}es[-te ca-]p[-ítul-]o[-, te-]st[-e seus conhecimentos-]{+a+} [-resolven-]d[-o -]a[-s-] quest[-ões referentes-]{+ão+} [-a-]{+d+}o [-tem-]{+c+}a[-.-]
+[-Questões: -]p[-ágina XX-]
+[-Comen-]{+í+}t[-ári-]{+ul+}o
+[-s: página-]{+1.+} [-XX-]{+D+}
