@@ -1,8 +1,4 @@
-diff --git a/obstetricia1_2.txt b/obstetricia1_2.txt
-index a235c81..bdf4736 100644
---- a/obstetricia1_2.txt
-+++ b/obstetricia1_2.txt
-@@ -1,6 +1,9 @@
+
 Modificações locais e sistêmicas no organismo mater{+-+}no
 Fábio Roberto Cabar
 

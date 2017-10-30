@@ -1,9 +1,4 @@
-diff --git a/obstetricia1_3.txt b/obstetricia1_3.txt
-index d7d0a9d..ea7f255 100644
---- a/obstetricia1_3.txt
-+++ b/obstetricia1_3.txt
-@@ -1,6 +1,9 @@
-[-    -]Relações uterofetais
+Relações uterofetais
 Fábio Roberto Cabar
 
 {+Resumo+}

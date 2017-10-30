@@ -1,8 +1,4 @@
-diff --git a/obstetricia1_5.txt b/obstetricia1_5.txt
-index f2613ef..1e9f0d4 100644
---- a/obstetricia1_5.txt
-+++ b/obstetricia1_5.txt
-@@ -1,13 +1,16 @@
+
 Assistência pré-natal
 Fábio Roberto Cabar
 

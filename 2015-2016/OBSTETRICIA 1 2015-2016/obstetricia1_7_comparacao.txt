@@ -1,8 +1,4 @@
-diff --git a/obstetricia1_7.txt b/obstetricia1_7.txt
-index 0c5821b..19de483 100644
---- a/obstetricia1_7.txt
-+++ b/obstetricia1_7.txt
-@@ -1,6 +1,14 @@
+
 O parto
 Fábio Roberto Cabar
 

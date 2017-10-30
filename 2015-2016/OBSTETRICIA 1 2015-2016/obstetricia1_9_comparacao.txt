@@ -1,8 +1,4 @@
-diff --git a/obstetricia1_9.txt b/obstetricia1_9.txt
-index 7065ef3..c13bfcb 100644
---- a/obstetricia1_9.txt
-+++ b/obstetricia1_9.txt
-@@ -1,45 +1,68 @@
+
 Gestação gemelar
 Fábio Roberto Cabar
 

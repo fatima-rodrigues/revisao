@@ -1,8 +1,4 @@
-diff --git a/obstetricia1_1.txt b/obstetricia1_1.txt
-index e63e649..6adab95 100644
---- a/obstetricia1_1.txt
-+++ b/obstetricia1_1.txt
-@@ -1,43 +1,60 @@
+
 Fisiologia da gestação
 Fábio Roberto Cabar
 

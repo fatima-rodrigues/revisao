@@ -1,8 +1,4 @@
-diff --git a/obstetricia1_8.txt b/obstetricia1_8.txt
-index 01f6964..e016490 100644
---- a/obstetricia1_8.txt
-+++ b/obstetricia1_8.txt
-@@ -1,6 +1,9 @@
+
 Tocurgia
 Fábio Roberto Cabar
 
