@@ -1,8 +1,7 @@
 Lesões cervicais
 Eduardo Bertolli
 
-Resumo
-Neste capítulo, serão abordadas as lesões cervicais mais comuns, como as que envolvem trauma penetrante que atravessa o músculo platisma e que podem ser causadas por projéteis de arma de fogo e arma branca, bem como as condutas quando se tem um caso de trauma cervical, como indicação precoce de via aérea definitiva na presença de lesões suspeitas de com-prometimento dessa via, hematomas expansivos e sangramentos. Além disso, serão abordados os 2 principais tratamentos nos casos de lesões cervicais: não operatório (paciente estável do ponto de vista respiratório e hemodinâmico) e operató-rio, com indicação de cervicotomia exploradora quando há hematoma em expansão, hemorragia externa profusa, obstrução das vias aéreas e enfisema subcutâneo rapidamente progressivo. 
+Neste capítulo, serão abordadas as lesões cervicais mais comuns, como as que envolvem trauma penetrante que atravessa o músculo platisma e que podem ser causadas por projéteis de arma de fogo e arma branca, bem como as condutas quando se tem um caso de trauma cervical, como indicação precoce de via aérea definitiva na presença de lesões suspeitas de compro-metimento dessa via, hematomas expansivos e sangramentos. Além disso, serão abordados os 2 principais tratamentos nos casos de lesões cervicais: não operatório (paciente estável do ponto de vista respiratório e hemodinâmico) e operatório, com indicação de cervicotomia exploradora quando há hematoma em expansão, hemorragia externa profusa, obstrução das vias aéreas e enfisema subcutâneo rapidamente progressivo. 
 
 1. Introdução
 
@@ -18,32 +17,31 @@ Fonte: www.trauma.org.
 A anatomia da região cervical é bastante complexa. Basicamente, o pescoço é dividido pelo músculo esternocleidomastói-deo (ECM) em triângulos anterior e posterior. Do ponto de vista cirúrgico, divide-se o pescoço em 3 zonas (Tabela 1 e Figura 2):
 
 Tabela 1 - Divisão anatômica do pescoço
-Zona I	Abaixo da membrana cricotireóidea. São ferimentos da transição cervicotorácica, onde há estruturas vasculares importantes. O acesso a essa região pode ser combinado cervicotorácico.
+Zona I	Abaixo da membrana cricotireóidea. São ferimentos da transição cervicotorácica, onde há estruturas vasculares impor-tantes. O acesso a essa região pode ser combinado cervicotorácico.
 Zona II	Constitui a região cervical propriamente dita, cujos ferimentos podem ser completamente explorados por meio de cervicotomia.
-Zona III	Acima do ângulo da mandíbula até a base do crânio. Os acessos cirúrgicos são difíceis, podendo necessitar de luxação da mandíbu-la e de craniotomias de base para exploração local.
+Zona III	Acima do ângulo da mandíbula até a base do crânio. Os acessos cirúrgicos são difíceis, podendo necessitar de luxação da mandíbula e de craniotomias de base para exploração local. 
 
  
-Figura 2 - Anatomia cirúrgica da região cervical, demonstrando a divisão em triângulo anterior e posterior pelo músculo esternocleido-mastóideo, além da divisão em 3 zonas
+Figura 2 - Anatomia cirúrgica da região cervical, demonstrando a divisão em triângulo anterior e posterior pelo músculo esternocleidomas-tóideo, além da divisão esquemática em 3 zonas 
 
 3. Diagnóstico e avaliação inicial
 
 O paciente com lesão cervical deve ser atendido de acordo com as prioridades preconizadas pelo Advanced Trauma Life Support (ATLS®). A via aérea pode estar comprometida por lesão direta da laringe ou da traqueia, hematoma em expansão ou sangramento na via aérea. Nesses casos, deve ser assegurada uma via aérea definitiva precocemente. A proteção da coluna cervical é indispensável.
 
-Tratamento
+Dica
 Hematoma cervical em expansão é indicação de via aérea definitiva, mesmo no paciente consciente.
 
 A reposição volêmica é importante, principalmente na suspeita de lesões vasculares. A região cervical pode ser sede de traumatismos raquimedulares ou até mesmo de lesões da base do crânio, que devem ser avaliadas já no exame primário. A suspeita de trauma nessa região contraindica a intubação nasotraqueal e a passagem de sonda nasogástrica. 
-No exame físico das lesões penetrantes, identificam-se os orifícios de entrada e de saída para elucidar a trajetória do agente agressivo e tentar determinar as possíveis lesões. Os ferimentos não devem ser tocados digitalmente ou explorados na sala de admissão, pelo risco de eliminar o tamponamento de uma possível lesão vascular cujo sangramento já tenha cessa-do.
+No exame físico das lesões penetrantes, identificam-se os orifícios de entrada e de saída para elucidar a trajetória do agente agressor e tentar determinar as possíveis lesões. Os ferimentos não devem ser tocados digitalmente ou explorados na sala de admissão, pelo risco de eliminar o tamponamento de uma possível lesão vascular cujo sangramento já tenha cessado.
 Alguns sinais clínicos podem indicar a necessidade de exploração cirúrgica. Outros sinais e sintomas, por sua vez, podem indicar a presença de lesões específicas nas estruturas do pescoço (Tabela 2). 
 
 Tabela 2 - Sinais e sintomas de lesões específicas na região cervical
-Lesão de via aérea e di-gestiva superior	- Estridor;
+Lesão de via aérea e digestiva superior	- Estridor;
 	- Enfisema subcutâneo;
 	- Disfagia;
 	- Hemoptise ou hematêmese;
 	- Epistaxe.
-Lesão 
-vascular	- Sangramento ativo;
+Lesão vascular	- Sangramento ativo;
 	- Hematoma expansivo ou pulsátil;
 	- Sopro;
 	- Ausência de pulso carotídeo, temporal ou oftálmico;
@@ -55,7 +53,7 @@ Lesão neurológica	- Desvio da língua;
 
 Pergunta
 2007 - UNICAMP 
-1. Uma mulher de 22 anos é admitida com ferimento penetrante que transfixa a região cervical. Ao exame físico, há lesão em zona II do pescoço, hemorragia local e estridor respiratório. As estruturas anatômicas que devem ser investigadas são: 
+1. Uma mulher de 22 anos é admitida com ferimento penetrante que transfixa a região cervical. Ao exame físico, há lesão em zona II do pescoço, hemorragia local e estridor respiratório. As estruturas anatômicas que devem ser investi-gadas são:
 a) faringe, laringe e artérias vertebrais 
 b) cordão espinal, principais troncos nervosos cervicais e cajado da aorta
 c) traqueia, esôfago e carótidas
@@ -74,28 +72,29 @@ A - Não operatório
 A conduta não operatória das lesões cervicais depende de alguns pré-requisitos. O paciente deve estar estável dos pon-tos de vista respiratório e hemodinâmico. Outro ponto importante é a disponibilidade de recursos diagnósticos no serviço. Caso esses critérios não sejam estabelecidos, indica-se a cervicotomia. Os exames realizados devem abranger os 3 principais componentes anatômicos do pescoço, ou seja, os sistemas cardiovascular, respiratório e digestivo (Tabela 3). 
 
 Tabela 3 - Investigação para tratamento conservador
-- Raio x de coluna cervical em incidências anteroposterior e lateral, incluindo as 7 vértebras cervicais, a base do crânio e a 1ª torácica;
-- Arteriografia dos sistemas carotídeo e vertebral: é o padrão-ouro na lesão vascular, apesar de ser possível a utilização da ultrassono-grafia com Doppler ou da tomografia computadorizada helicoidal multislice;
-- Endoscopia digestiva alta rígida ou flexível e/ou esofagograma: a sensibilidade deste é de 70 a 80%; a probabilidade do diagnóstico de lesão esofágica aumenta quando associado a esofagoscopia;
+- Raio x de coluna cervical em incidências anteroposterior e lateral, incluindo as 7 vértebras cervicais, a base do crânio e a 1ª toráci-ca;
+- Arteriografia dos sistemas carotídeo e vertebral: é o padrão-ouro na lesão vascular, apesar de ser possível a utilização da ultrasso-nografia com Doppler ou da tomografia computadorizada helicoidal multislice;
+- Endoscopia digestiva alta rígida ou flexível e/ou esofagograma: a sensibilidade deste é de 70 a 80%; a probabilidade do diagnósti-co de lesão esofágica aumenta quando associado a esofagoscopia;
 - Laringoscopia e broncoscopia: para exclusão de lesão de laringe e traqueia. A tomografia computadorizada também pode avaliar lesão laríngea.
 
 O trauma contuso é mais raro. A avaliação das lesões vasculares, nesse caso, começa com a ultrassonografia com Doppler, complementada, posteriormente, com a arteriografia, se necessário. Pode ocorrer lesão da íntima, com trombose de caróti-das. A lesão raquimedular deve ser avaliada com parâmetros clínicos e radiografia de coluna cervical. A tomografia pode ser útil para as lesões de laringe, principalmente nas tentativas de estrangulamento. A lesão esofágica no trauma contuso é muito rara, e, geralmente, o diagnóstico é clínico.
 
 Dica
-Algumas lesões traqueais podem ser tratadas conservadoramente, desde que sejam menores que 1/3 das circunferências da traqueia ou cartilaginosas. Também podem ser tratadas conservadoramente lesões isoladas em oligossintomáticos.
+Algumas lesões traqueais podem ser tratadas conservadoramente, desde que sejam menores que 1/3 das circunferên-cias da traqueia ou cartilaginosas. Também podem ser tratadas conservadoramente lesões isoladas em oligossintomáticos.
 
 B - Cirúrgico
 Além das contraindicações para o tratamento não operatório, são indicações de cervicotomia exploradora a instabilidade hemodinâmica não responsiva, o hematoma em expansão, a hemorragia externa profusa, a obstrução das vias aéreas, a piora dos sinais neurológicos e o enfisema subcutâneo rapidamente progressivo.
 
 Pergunta
 2008 - UNIRIO 
-2. Qual das assertivas a seguir está em desacordo com a conduta a ser tomada no paciente com traumatismo do pescoço?
+2. Qual das assertivas a seguir está em desacordo com a conduta a ser tomada no paciente com traumatismo do pesco-ço?
 a) pacientes com sinais abertos de lesão no trajeto vascular ou aerodigestório requerem exploração cirúrgica
 b) pacientes com lesões penetrantes na zona II são, em geral, levados diretamente para a sala de operações
 c) pacientes com lesões penetrantes nas zonas I e III devem ser submetidos, quando possível, a angiografia pré-operatória
-d) o traumatismo fechado do pescoço, com frequência, compromete a laringe, e a lesão é facilmente identificada pela larin-goscopia direta
+d) o traumatismo fechado do pescoço, com frequência, compromete a laringe, e a lesão é facilmente identificada pela laringoscopia direta
 e) a endoscopia intraoperatória é um adjuvante útil nos casos com alta suspeita de lesão aerodigestória
 Resposta no final do capítulo
+
 a) Vias de acesso
 A exploração do pescoço é feita por meio de incisão na borda anterior do ECM, estendendo-se desde o ângulo da mandí-bula até a junção esternoclavicular. Para melhor exposição da zona III, é possível deslocar a mandíbula anteriormente. Um prolongamento supraclavicular permite o acesso à zona I, podendo ser prolongada para uma esternotomia mediana ou com-binada com uma toracotomia. Quando for necessária a exploração cervical bilateral, as incisões nas bordas anteriores do ECM poderão ser conectadas (incisão “em colar”). É preciso ter em mente a posição do ducto torácico à esquerda, já que a sua lesão pode acarretar fístula quilosa no pós-operatório.
 
@@ -107,13 +106,13 @@ Tabela 4 - Indicação de cervicotomia exploradora
 - Lesões da glândula tireoide.
 
 Dica
-Deve-se suspeitar de lesões de laringe na avaliação inicial na presença da tríade composta por rouquidão, enfisema e fratura palpável, pois constituem uma das indicações de traqueostomia na avaliação inicial. 
+Deve-se suspeitar de lesões de laringe na avaliação inicial na presença da tríade composta por rouquidão, enfisema e fratura palpável, pois constituem uma das indicações de traqueostomia na avaliação inicial.
 
 b) Lesão de via aérea
 Sempre que se torna necessário o acesso à traqueia, deve-se ter em mente que o istmo da tireoide pode ser ligado e sec-cionado para evitar sangramentos e lesões iatrogênicas. Lesões traqueais podem ser reparadas sendo realizados debridamen-to e sutura primária. Lesões maiores, com perda tecidual, são tratadas na fase inicial com traqueostomia, seguida de recons-truções traqueais programadas eletivamente. As anastomoses traqueais são realizadas conforme a Figura 4.
 
  
-Figura 4 - Anastomose cricotraqueal ou traqueotraqueal: (A) dissecção e secção da área traumatizada. A seta aponta a porção mem-branosa 2mm mais comprida; (B), (C) e (D) sutura posterior tipo chuleio contínuo; (E) sutura contínua fixada com o 1º ponto separado; (F) pontos separados nos anéis traqueais e (G) anastomose completada
+Figura 4 - Anastomose cricotraqueal ou traqueotraqueal: (A) dissecção e secção da área traumatizada. A seta aponta a porção membranosa 2mm mais comprida; (B), (C) e (D) sutura posterior tipo chuleio contínuo; (E) sutura contínua fixada com o 1º ponto separado; (F) pontos separados nos anéis traqueais e (G) anastomose completada
 
 Suturas simples devem ser realizadas com pontos separados (Figura 5):
 
@@ -123,43 +122,39 @@ Figura 5 - Sutura simples da traqueia
 c) Lesões do esôfago
 
 Tratamento
-Lesões do esôfago diagnosticadas com menos de 12 horas do trauma podem ser reparadas primariamente. Após 12 horas, realiza-se a exclusão do órgão com uma esofagostomia cervical e ampla drenagem, pelo risco de infecção cervical e de me-diastinite posterior. A esofagectomia fica reservada aos casos de lesão de diagnóstico tardio no esôfago intratorácico.
+Lesões do esôfago diagnosticadas com menos de 12 horas do trauma podem ser reparadas primariamente. Após 12 horas, realiza-se a exclusão do órgão com uma esofagostomia cervical e ampla drenagem, pelo risco de infecção cervical e de mediastinite posterior. A esofagectomia fica reservada aos casos de lesão de diagnóstico tardio no esôfago intratorácico.
 
 Sempre que o paciente é submetido a sutura de esôfago ou de hipofaringe, uma sonda nasoenteral deve ser passada no intraoperatório, para permitir o aporte nutricional no pós-operatório enquanto ocorre a cicatrização das lesões.
 
 d) Lesão vascular
 As lesões venosas podem causar grandes hematomas cervicais, principalmente no comprometimento da veia jugular in-terna. Em ferimentos unilaterais, essa veia pode ser ligada sem grandes repercussões clínicas para o paciente. Já nas lesões bilaterais, a ligadura é factível, porém com edema facial importante e de difícil controle no pós-operatório.
 Quanto às lesões arteriais, as lesões da carótida estão presentes em 11 a 13% dos traumas cervicais. A artéria carótida comum é acometida mais frequentemente. As lesões carotídeas devem ser tratadas com reparo primário, com a utilização de shunt, quando necessário. A carótida externa pode ser ligada.
-A lesão carótida pode acontecer no trauma contuso, sendo, em 90% dos casos, da artéria carótida interna. Metade dos pacientes permanece assintomática.
+A lesão carotídea pode acontecer no trauma contuso, sendo, em 90% dos casos, da artéria carótida interna. Metade dos pacientes permanece assintomática.
 
  
-Figura 6 - Aspecto do intraoperatório de lesão da artéria carótida comum por arma de fogo 
+Figura 6 - Aspecto do intraoperatório de lesão da artéria carótida comum por arma de fogo
 Fonte: www.trauma.org.
 
 Tratamento
-O acesso cirúrgico aos vasos cervicais nos terços proximal e médio do pescoço é possível por meio de incisão longitudinal ou oblíqua anterior ao músculo esternocleidomastóideo (ECM), do manúbrio ao mastoide; seguida de abertura do músculo platisma, com dissecção e rebatimento posterior do ECM. Realiza-se a ligadura do tronco venoso tireolinguofacial, com am-plo acesso à artéria carótida comum, à sua bifurcação e à veia jugular interna (Figura 7).
+O acesso cirúrgico aos vasos cervicais nos terços proximal e médio do pescoço é possível por meio de incisão longitudinal ou oblíqua anterior ao músculo esternocleidomastóideo (ECM), do manúbrio ao mastoide; seguida de abertura do músculo platisma, com dissecção e rebatimento posterior do ECM. Realiza-se a ligadura do tronco venoso tireolinguofacial, com amplo acesso à artéria carótida comum, à sua bifurcação e à veia jugular interna (Figura 7).
 
-Quando a lesão for mais alta, deverá ser realizada a extensão distal da incisão para a região infra-auricular posterior, com secção da inserção mastoide do músculo ECM; assim, associada ou não à fixação das arcadas dentárias com a mandíbula em subluxação anterior, é possível isolar e tratar lesões até 2cm da entrada da artéria carótida interna no crânio. Trata-se de um acesso difícil, de modo que as lesões nessa região devem, sempre que possível, ser tratadas por meio de arteriografia.
+Quando a lesão for mais alta, deverá ser realizada a extensão distal da incisão para a região infra-auricular posterior, com secção da inserção mastoide do músculo ECM; assim, associada ou não à fixação das arcadas dentárias com a mandíbula em subluxação anterior, é possível isolar e tratar lesões até 2cm da entrada da artéria carótida interna no crânio. 
+
+Tratamento
+Trata-se de um acesso difícil, de modo que as lesões nessa região devem, sempre que possível, ser tratadas por meio de arteriografia.
+
 
  
 Figura 7 - Acesso aos vasos cervicais nos terços proximal e médio do pescoço
 
-5. Resumo
+Resumo
 
 Quadro-resumo
-- 	O atendimento ao paciente com lesão cervical deve seguir as prioridades do ATLS®;
-- 	A via aérea definitiva deve ser precoce na presença de lesões suspeitas, como hematomas expansivos ou sangramentos;
-- 	O tratamento não operatório só pode ser indicado a pacientes estáveis hemodinamicamente em centros com todos os recursos diagnósticos necessários;
-- 	Ferimentos na zona I podem necessitar de acesso combinado com toracotomias, e ferimentos na zona III, na presença de lesão vascular, devem ser tratados com arteriografia seletiva.
+- O atendimento ao paciente com lesão cervical deve seguir as prioridades do ATLS®;
+- A via aérea definitiva deve ser precoce na presença de lesões suspeitas, como hematomas expansivos ou sangramentos;
+- O tratamento não operatório só pode ser indicado a pacientes estáveis hemodinamicamente em centros com todos os recursos diagnósticos necessários;
+- Ferimentos na zona I podem necessitar de acesso combinado com toracotomias, e ferimentos na zona III, na presença de lesão vascular, devem ser tratados com arteriografia seletiva.
 
-Respostas
+Respostas das questões do capítulo
 1. C
 2. D
-
-Mapa mental 
- 
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
