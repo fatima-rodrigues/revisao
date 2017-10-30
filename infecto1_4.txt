@@ -1,7 +1,7 @@
-Tratamento da AIDS
+Tratamento do HIV/AIDS
 Durval A. G. Costa
-Resumo
-Neste capítulo, serão abordados temas relativos às principais drogas utilizadas no tratamento, bem como as principais situa-ções que indicam a terapêutica. O tratamento é recomendado a todos os pacientes com infecção pelo HIV, independente do valor de CD4, e é feito utilizando-se, como 1ª escolha, a associação de tenofovir, lamivudina e efavirenz (2 inibidores da transcriptase reversa análogos de nucleosídeos – ITRNs – e 1 inibidor de transcriptase reversa não análogo de nucleosí-deos – ITRNN), preferencialmente na associação de uma formulação a um comprimido em dose única (1 comprimido, 1x/d, contendo todos os medicamentos associados). Objetiva-se, com o tratamento, chegar a uma carga viral indetectável no período de 6 meses. O uso dessa terapia tem, como um dos principais efeitos colaterais, a lipodistrofia, que é a redução da gordura em áreas como nádegas, braços e face, e deposição na região abdominal, nas mamas e nas costas, formando a chamada giba. 
+
+Neste capítulo, serão abordados temas relativos às principais drogas utilizadas no tratamento do HIV/AIDS, bem como as prin-cipais situações que indicam a terapêutica. O tratamento é recomendado a todos os pacientes com infecção pelo HIV, inde-pendente do valor de CD4, e é feito utilizando-se, como 1ª escolha, a associação de tenofovir, lamivudina e efavirenz (2 inibi-dores da transcriptase reversa análogos de nucleosídeos – ITRNs – e 1 inibidor de transcriptase reversa não análogo de nu-cleosídeos – ITRNN), preferencialmente na associação de uma formulação a um comprimido em dose única (1 comprimido, 1x/d, contendo todos os medicamentos associados). Objetiva-se, com o tratamento, chegar a uma carga viral indetectável no período de 6 meses. O uso dessa terapia tem, como um dos principais efeitos colaterais, a lipodistrofia, que é a redução da gordura em áreas como nádegas, braços e face, e deposição na região abdominal, nas mamas e nas costas, formando a cha-mada giba. 
 
 1. Tratamento antirretroviral
 
@@ -9,13 +9,13 @@ A cada ano, descobrem-se mais alterações no corpo humano causadas pelo vírus per
 Por outro lado, têm-se os medicamentos que são usados para tratamento, os antirretrovirais, cheios de efeitos colaterais; entre os mais comuns estão dislipidemias, lipodistrofia e alterações glicídicas. Soma-se ao fato a necessidade de adesão ao tratamento, fator que, se não realizado corretamente, leva a resistência do vírus aos medicamentos. Mesmo quando se diz que o HIV é uma doença crônica atualmente, como o diabetes e a hipertensão arterial, deve ser lembrado que a interrupção de um tratamento de diabetes ou hipertensão leva apenas ao descontrole destas. Em contrapartida, a interrupção de antirre-trovirais no tratamento do HIV leva a alto risco de resistência e ainda maior de disseminação da doença (já que as cargas virais estarão mais altas sem tratamento).
 
  
-Figura 1 - Mecanismos que levam ao envelhecimento celular prematuro: notar que a ausência de tratamento deixa o vírus livre para tais mecanismos, o que predispõe ao aparecimento de tumores, por exemplo, em longo prazo, principalmente se associados a outros vírus, como o citomegalovírus ou o vírus da família herpes. Em contrapartida, o tratamento com alguns antirretrovirais também levava a me-canismos de imunossenescência, o que está diminuindo com a terapia antirretroviral mais moderna
+Figura 1 - Mecanismos que levam ao envelhecimento celular prematuro: notar que a ausência de tratamento deixa o vírus livre para tais mecanismos, o que predispõe ao aparecimento de tumores, por exemplo, em longo prazo, principalmente se associados a outros vírus, como o citomegalovírus ou o vírus da família herpes. Em contrapartida, o tratamento com alguns antirretrovirais também levava a mecanismos de imunossenescência, o que está diminuindo com a terapia antirretroviral mais moderna
 Fonte: adaptada de CLIFFORD et al., 2008. 
 
 A finalidade de tratar um paciente com HIV é diminuir a piora da imunodeficiência e o risco de morbidades associadas ao vírus per se. Observe que o tratamento não aumenta a imunidade diretamente, apenas remove o vírus da corrente sanguínea, o que deixa o corpo livre para melhorar a imunidade. Entretanto, em pacientes que iniciam o tratamento com a contagem de CD4 muito baixa, essa recuperação será mais lenta do que o habitual (às vezes por anos). 
 
  
-Figura 2 - Evolução clássica do aumento de linfócitos T CD4+ com o tratamento antirretroviral combinado – HAART (terapia antirretrovi-ral altamente ativa) – ou coquetel: observar que, para pacientes que iniciaram o tratamento com CD4 mais baixo (abaixo de 100), mesmo realizando o tratamento de maneira adequada, o CD4 não voltará ao valor normal (início de tratamento em fase tardia demais – vide texto); entre os pacientes que iniciam tratamento com CD4 mais alto, a chance de recuperação em um nível mais próximo do normal de CD4 é bem maior
+Figura 2 - Evolução clássica do aumento de linfócitos T CD4+ com o tratamento antirretroviral combinado – HAART (terapia antirretroviral altamente ativa) – ou coquetel: observar que para pacientes que iniciaram o tratamento com CD4 mais baixo (abaixo de 100), mesmo reali-zando o tratamento de maneira adequada, o CD4 não voltará ao valor normal (início de tratamento em fase tardia demais – vide texto); entre os pacientes que iniciam tratamento com CD4 mais alto, a chance de recuperação em um nível mais próximo do normal de CD4 é bem maior
 Fonte: adaptado de HIRSCH.
 
 Seguindo uma tendência mundial, o Brasil assumiu o tratamento de pacientes infectados pelo HIV sugerindo o tratamento de todos aqueles vivendo com HIV/AIDS, independente do valor de CD4. Isso vale, principalmente, para os novos diagnósti-cos, mas ainda para os pacientes que já viviam com HIV, mas ainda não tratavam. Para todos os pacientes deve ser oferecido tratamento, o que significa que aqueles com infecção aguda pelo HIV também se enquadram nesse contexto, e o que antes era dúvida agora é também uma indicação na infecção aguda pelo HIV. 
@@ -33,7 +33,7 @@ b) E os assintomáticos?
 A recomendação brasileira para o tratamento de pessoas vivendo com HIV sofreu importantes mudanças. A primeira delas foi que a recomendação deixou de ser apenas uma sugestão para ser um protocolo de tratamento. Isso significa que as dire-trizes devem ser seguidas como citadas e, caso não sejam, devem ser justificadas. 
 
 Dica
-O tratamento é recomendado a todos com infecção pelo HIV, independente do valor de CD4. 
+O tratamento é recomendado a todos com infecção pelo HIV, independente do valor de CD4.
 
 Um dos principais motivos (além dos citados) é a diminuição da transmissão do HIV. Na teoria, se houvesse tratamento de todas as pessoas que têm a infecção do HIV, a chance de transmissão seria próxima de zero. Entretanto, é fundamental que o paciente esteja preparado para tomar a medicação, o que significa que não se recebe o exame de HIV e se inicia a terapia imediatamente. O médico deve avaliar se o paciente terá condição de aderir a ela e, principalmente se ele quer tomar a me-dicação. Não adianta a prescrição de um tratamento para um indivíduo que não deseja utilizá-lo. As consequências podem ser a resistência a medicamentos ou à classe inteira deles.
 
@@ -44,37 +44,38 @@ Tabela 1 - Fatores que facilitam a adesão ao tratamento
 - Acolhimento e escuta ativa do paciente pela equipe multidisciplinar;
 - Vínculo com os profissionais de saúde, equipe e serviço de saúde;
 - Capacitação adequada da equipe multidisciplinar;
-- Acesso facilitado aos antirretrovirais por meio do funcionamento e da localização adequada da unidade dispensadora de medicamen-tos;
+- Acesso facilitado aos antirretrovirais por meio do funcionamento e da localização adequada da unidade dispensadora de medica-mentos;
 - Parceria com Organizações da Sociedade Civil (OSCs).
 
-Além disso, o tratamento de doenças que podem atrapalhar o acompanhamento do HIV é um fator importante. Desta ma-neira, em um caso de doença psiquiátrica, por exemplo, é muito importante tratá-la antes, na medida do possível (por exem-plo, depressão). Em outras situações, deve ser tratada a oportunista primeiramente, como no caso da tuberculose ou da crip-tococose, por ao menos 2 semanas antes do tratamento antirretroviral, evitando a síndrome da resposta inflamatória. Por fim, a avaliação nutricional e o estímulo a exercícios físicos exercem papel fundamental na prevenção da lipodistrofia e no prepa-ro do paciente antes do tratamento. 
+Além disso, o tratamento de doenças que podem atrapalhar o acompanhamento do HIV é um fator importante. Desta ma-neira, em um caso de doença psiquiátrica, por exemplo, é muito importante tratá-la antes, na medida do possível (por exem-plo, depressão). Em outras situações, deve ser tratada a doença oportunista primeiramente, como no caso da tuberculose ou da criptococose, por ao menos 2 semanas antes do tratamento antirretroviral, evitando a síndrome da resposta inflamatória. Por fim, a avaliação nutricional e o estímulo a exercícios físicos exercem papel fundamental na prevenção da lipodistrofia e no preparo do paciente antes do tratamento. 
 A genotipagem pré-tratamento é indicada a pacientes com infecção transmitida por parceiro conhecido e cujo risco de resistência também se conhece e gestantes com infecção pelo HIV. A incidência de resistência primária no Brasil ainda é pe-quena (de 4 a 10%), mas a tendência é que o exame seja feito para todos, independentemente do tratamento. 
 
 Dica
-A realização da genotipagem é necessária para os casos de infecção transmitida por parceiro, no qual já se conhece o risco de resistência, e também é indicada para gestantes portadoras de HIV. 
+A realização da genotipagem é necessária para os casos de infecção transmitida por parceiro, no qual já se conhece o risco de resistência e, também, para gestantes portadoras de HIV.
 
-Em algumas situações, o paciente deve saber que o risco é maior:
-Com manifestações clínicas de AIDS, independente da contagem de linfócitos T CD4+ e da carga viral plasmática;
-Assintomático com contagem de linfócitos T CD4+ <500 células/mm3, independente da presença de sintomas ou da magni-tude da carga viral;
-Gestante, independente do valor da contagem de linfócitos T CD4+, aqui com a direta preocupação de evitar a transmissão materno-fetal;
-Coinfecção com hepatite B e necessidade de tratamento: essa indicação vale quando há indicação de tratamento da hepa-tite B. Isso acontece porque os análogos nucleosídicos que tratam essa hepatite têm ação sobre o HIV e poderiam induzir resistência no vírus se usados sem outros antirretrovirais;
-Doença cardiovascular com risco acima de 20%, segundo o escore de Framingham: os pacientes com cardiopatias graves evoluem com mais complicações cardíacas com o HIV, devendo diminuir esse risco;
-Neoplasias, quando houver a necessidade de terapia imunossupressora: isso vale também para as não definidoras de AIDS. Considerando que o paciente precisa fazer quimioterapia, quanto melhor o CD4, menor a chance de complicações de quimioterapia;
-Paciente HIV positivo com parceiro(a) negativo: aqui se sugere tratar para diminuir o risco de transmissão do HIV entre ambos.
+Em algumas situações, o paciente deve saber que o risco de morrer ou ter complicações com a doença é maior. Estas situ-ações são:
+- Paciente com manifestações clínicas de AIDS, independente da contagem de linfócitos T CD4+ e da carga viral plasmáti-ca;
+- Assintomático com contagem de linfócitos T CD4+ <500 células/mm3, independente da presença de sintomas ou da mag-nitude da carga viral;
+- Gestante, independente do valor da contagem de linfócitos T CD4+, aqui com a direta preocupação de evitar a transmis-são materno-fetal;
+- Coinfecção com hepatite B e necessidade de tratamento: essa indicação vale quando há indicação de tratamento da he-patite B. Isso acontece porque os análogos nucleosídicos que tratam essa hepatite têm ação sobre o HIV e poderiam indu-zir resistência no vírus se usados sem outros antirretrovirais;
+- Doença cardiovascular com risco acima de 20%, segundo o escore de Framingham: os pacientes com cardiopatias graves evoluem com mais complicações cardíacas com o HIV, devendo diminuir esse risco;
+- Neoplasias, quando houver a necessidade de terapia imunossupressora: isso vale também para as não definidoras de AIDS. Considerando que o paciente precisa fazer quimioterapia, quanto melhor o CD4, menor a chance de complicações de quimioterapia;
+- Paciente HIV positivo com parceiro(a) negativo: aqui se sugere tratar para diminuir o risco de transmissão do HIV entre ambos.
 Em resumo, as indicações para tratamento ficaram definidas da seguinte forma (Tabela 2):
 
-Tabela 2 - Indicações para tratamento dos pacientes com HIV segundo o Ministério da Saúde (dezembro/2013)
+Tabela 2 - Indicações para tratamento dos pacientes com HIV segundo o Ministério da Saúde (dezembro/2013) 
 - Todas as pessoas vivendo com HIV/AIDS, independentemente da contagem de CD4;
 - Estímulo ao início imediato da terapia antirretroviral, na perspectiva de redução da transmissibilidade do HIV, considerando a moti-vação dessas pessoas.  
 Sintomáticos
 Incluindo tuberculose ativa, independentemente da contagem de CD4: iniciar a terapia antirretroviral após 2 semanas do início do tratamento de tuberculose.
 Assintomáticos
-CD4 =500 células/mm3	Iniciar a terapia antirretroviral na coinfecção HIV–HBV com indicação de tratamento para hepatite B.
-CD4 =500 células/mm3	Considerar terapia antirretroviral nas seguintes situações:
-- Neoplasias não definidoras de AIDS com indicação de quimioterapia ou radioterapia;
-- Doença cardiovascular estabelecida ou risco cardiovascular elevado (acima de 20%, segundo o escore de Framingham);
-- Coinfecção HIV–HCV;
-- Carga viral do HIV acima de 100.000 cópias/mL.
+CD4 =500 células/mm3	Iniciar a terapia antirretroviral.
+CD4 >500 células/mm3	- Considerar terapia antirretroviral nas seguintes situações:
+? Neoplasias não definidoras de AIDS com indicação de quimioterapia ou radioterapia;
+? Doença cardiovascular estabelecida ou risco cardiovascular elevado (acima de 20%, se-gundo o escore de Framingham);
+? Coinfecção HIV–HCV;
+? Iniciar a terapia antirretroviral na coinfecção HIV–HBV com indicação de tratamento pa-ra hepatite B;
+? Carga viral do HIV acima de 100.000 cópias/mL.
 Sem contagem de linfócitos T CD4+ disponível	Na impossibilidade de obter contagem de CD4, não se deve adiar o início do tratamento. 
 Gestantes	Iniciar a terapia antirretroviral.
 
@@ -82,7 +83,7 @@ Como o tratamento é por toda a vida, a escolha do antirretroviral e do momento p
 
 Pergunta
 2014 - UFRJ 
-1. Uma mulher de 35 anos há 30 dias recebeu diagnóstico de tuberculose pulmonar por baciloscopia de escarro positiva e infecção pelo HIV, comparecendo hoje para consulta em uso apenas de esquema RHZE. Nega efeitos colaterais, e os exames laboratoriais de acompanhamento estão normais. A conduta mais adequada, neste momento, é iniciar a terapia antirretroviral: 
+1. Uma mulher de 35 anos há 30 dias recebeu diagnóstico de tuberculose pulmonar por baciloscopia de escarro positiva e infecção pelo HIV, comparecendo hoje para consulta em uso apenas de esquema RHZE. Nega efeitos colaterais, e os exa-mes laboratoriais de acompanhamento estão normais. A conduta mais adequada, neste momento, é iniciar a terapia an-tirretroviral: 
 a) caso a contagem de linfócitos T-CD4 seja <350 células/mm3 
 b) caso a contagem de linfócitos T-CD4 seja <500 células/mm3 
 c) independente da contagem de linfócitos T-CD4, nesta consulta 
@@ -94,7 +95,6 @@ Todas as classes de medicamentos contra o vírus recebem o nome de acordo com o l
 
 a) Inibidores da transcriptase reversa análogos de nucleosídeos 
 Os inibidores da transcriptase reversa análogos de nucleosídeos (ITRNs) ligam-se aos nucleosídeos com as bases específi-cas no momento da transdução do RNA para o DNA, impedindo a sua transformação. O 1º antirretroviral usado para trata-mento do HIV, o AZT (zidovudina), pertence a essa classe.
-
 
 b) Inibidores da transcriptase reversa não análogos de nucleosídeos 
 Os inibidores da transcriptase reversa não análogos de nucleosídeos (ITRNNs) fazem o mesmo que a classe anterior, entre-tanto usam moléculas que não têm o aminoácido diretamente (citosina, guanina, adenosina, uracila), mas sim análogos. A barreira genética para mutações é pequena, com risco de falha virológica mesmo com adesões não muito baixas.
@@ -109,10 +109,10 @@ e) Inibidores de integrase
 São medicamentos que agem na enzima integrase, que faz a integração do DNA viral com o DNA da célula parasitada, den-tro do núcleo celular.
 
  
-Figura 3 - Locais onde os antirretrovirais agem durante o ciclo do HIV: em vermelho estão as classes de antirretrovirais existentes atu-almente, no local apropriado do ciclo 
+Figura 3 - Locais onde os antirretrovirais agem durante o ciclo do HIV: em vermelho estão as classes de antirretrovirais existentes atualmente, no local apropriado do ciclo 
 Fonte: adaptado de CHEN, 2007.
 
-Tabela 3 - Antirretrovirais separados por classes
+Tabela 3 - Antirretrovirais separados por classes 
 Antirretrovirais existentes no tratamento do HIV
 ITRNs
 - Zidovudina;
@@ -137,6 +137,9 @@ IPs
 Inibidores de entrada
 - Enfuvirtida (pouco usado atualmente por ser subcutâneo, 2x/d) – inibidor de fusão;
 - Maraviroque (realizar antes o teste do tropismo de receptor efetivo para CCR5).
+Inibidores de integrase
+- Raltegravir;
+- Dolutegravir (incorporado apenas em 2016 ao esquema brasileiro).
 
 Apresentados os antirretrovirais e entendidos seus locais de ação, discutiremos as recomendações de uso. A definição de HAART exige que se combinem drogas que ajam em locais diferentes ou no mesmo local com mais de 1 medicamento para efeito sinérgico. Por esse motivo, deve haver no mínimo 3 drogas em qualquer esquema antirretroviral. O Ministério da Saú-de recomenda 2 ITRNs associados a 1 ITRNN ou a 1 IP. 
 O tratamento antirretroviral preconizado pelo Ministério da Saúde direciona o início de tratamento para a maior quanti-dade de pessoas, com menor efeito colateral possível e maior possibilidade de adesão possíveis. Baseado nesses fatos, é pro-tocolado o uso de um único esquema como favorito, na associação de tenofovir, lamivudina e efavirenz (2 ITRNs e 1 ITRNN), de preferência na associação de uma formulação a um comprimido em dose única (1 comprimido, 1x/d, contendo todos os medicamentos associados). A seguir, esquema de terapia inicial (1ª linha):
@@ -145,10 +148,10 @@ TDF + 3TC + EFV*
 * Na apresentação de dose fixa combinada, sempre que disponível.
 
 Importante
-O principal motivo da indicação como obrigatória do início com tenofovir, lamivudina e efavirenz (TDF/3TC/EFZ) no trata-mento do HIV é a apresentação de 1 cp 1x/d dessa formulação – isso aumenta a adesão ao tratamento, pois facilita a to-mada.
+O principal motivo da indicação como obrigatória do início com tenofovir, lamivudina e efavirenz (TDF/3TC/EFZ) no tratamento do HIV é a apresentação de 1 comprimido 1x/d dessa formulação – isso aumenta a adesão ao tratamento, pois facilita a tomada.
 
 Apesar de ser uma recomendação do protocolo do final de 2013, a formulação combinada de um comprimido só come-çou a ser distribuída em 2 estados brasileiros, Amazonas e Rio Grande do Sul, a partir de agosto de 2014. Essa formulação será oferecida inicialmente apenas para os novos tratamentos. 
-O AZT classicamente é criticado por conta dos efeitos colaterais, em curto e em longo prazos (veja neste capítulo os efei-tos). A partir do protocolo de 2013, essa droga deixou de ser utilizada como 1ª linha (o que já acontecia há anos em outros países), entretanto o esquema principal não é para todos. Pacientes que tenham alterações prévias da função renal devem evitar o uso de tenofovir, por exemplo. Aqueles com alterações psiquiátricas devem evitar o efavirenz, por exemplo. Por esses motivos, existem regras no protocolo atual que devem ser seguidas, com a sequência indicada obrigatória. Na impossibi-lidade do uso de tenofovir, a sequência recomendada é a encontrada na Tabela 4.
+O AZT classicamente é criticado por conta dos efeitos colaterais, em curto e em longo prazos (veja neste capítulo os efei-tos). A partir do protocolo de 2013, essa droga deixou de ser utilizada como 1ª linha (o que já acontecia há anos em outros países), entretanto o esquema principal não é para todos. Pacientes que tenham alterações prévias da função renal devem evitar o uso de tenofovir, por exemplo, e aqueles com alterações psiquiátricas devem evitar o efavirenz. Por esses motivos, existem regras no protocolo atual que devem ser seguidas, com a sequência indicada obrigatória. Na impossibilidade do uso de tenofovir, a sequência recomendada é a encontrada na Tabela 4.
 
 Tabela 4 - Protocolo para tratamento na impossibilidade do uso de tenofovir
 	Utilizações	Situações
@@ -168,17 +171,17 @@ Tabela 5 - Protocolo para tratamento na impossibilidade do uso de efavirenz
 Dica
 Na contraindicação ao uso de tenofovir para tratamento do HIV, a 1ª escolha no lugar é a zidovudina, e, na contraindicação ao uso do efavirenz, a 1ª escolha é a nevirapina.
 
-A nevirapina é um ITRNN de baixa barreira genética e ligada a um risco maior de hepatotoxicidade e síndrome de Stevens-Johnson, principalmente em pacientes com valores maiores de CD4 (>350 para mulheres e 250 para homens). O lopinavir em associação ao potencializador de efeito ritonavir está relacionado com aumento de lipídios e glicídios, devendo ser evitado em casos de diabetes mellitus ou dislipidemias. O atazanavir, associado ao ritonavir, tem igualdade de efeito em vários traba-lhos na comparação ao efavirenz (medicamento mais utilizado mundialmente). Há situações em que a preferência do antirre-troviral é escolhida conforme a condição clínica associada. Apesar de já citadas, a Tabela 6 resume essas condições.
+A nevirapina é um ITRNN de baixa barreira genética e ligada a um risco maior de hepatotoxicidade e síndrome de Stevens-Johnson, principalmente em pacientes com valores maiores de CD4 (>350 para mulheres e 250 para homens). O lopinavir em associação ao potencializador de efeito ritonavir está relacionado ao aumento de lipídios e glicídios, devendo ser evitado em casos de diabetes mellitus ou dislipidemias. O atazanavir, associado ao ritonavir, tem igualdade de efeito em vários trabalhos na comparação ao efavirenz (medicamento mais utilizado mundialmente). Há situações em que a preferência do antirretrovi-ral é escolhida conforme a condição clínica associada. Apesar de já citadas, a Tabela 6 resume essas condições.
 
 Tabela 6 - Protocolo para tratamento em situações especiais
 Condições clínicas	Recomendações	Comentários
-Hepatite B	Dupla de ITRN/ITRNt preferencial: TDF + lamivudina (3TC)	Essa dupla tem ação contra o vírus da hepa-tite B.
-Nefropatia	Dupla de ITRN/ITRNt preferencial: AZT + 3TC	Deve-se evitar o uso de TDF em razão da nefrotoxicidade.
-Tuberculose	Preferencialmente, EFV  	- Evitar uso de ritonavir;
+Hepatite B	Dupla de ITRN/ITRNt preferencial: TDF + lamivu-dina (3TC)	Essa dupla tem ação contra o vírus da hepati-te B.
+Nefropatia	Dupla de ITRN/ITRNt preferencial: AZT + 3TC	Deve-se evitar o uso de TDF em razão da ne-frotoxicidade.
+Tuberculose	Preferencialmente, EFV	- Evitar uso de ritonavir;
 - Iniciar terapia antirretroviral entre a 2ª e a 8ª semanas após o início do tratamento da tuberculose.
-Gestação	Esquema preferencial: AZT + 3TC + lopinavir/ritonavir (LPV/r)	O efavirenz é contraindicado.
+Gestação	Esquema preferencial: AZT + 3TC + lopina-vir/ritonavir (LPV/r)	O efavirenz é contraindicado.
 
-E as outras classes de medicamentos? 
+f) E as outras classes de medicamentos? 
 As classes mais novas (inibidores de entrada e inibidores de integrase) são atualmente reservadas para tratamentos de resgate, não para tratamento inicial. Novamente, o alto custo desses medicamentos impede que tais drogas sejam liberadas no Brasil para tratamentos iniciais. 
 
 C - Como saber se o paciente está no caminho certo?
@@ -187,12 +190,12 @@ A 1ª carga viral deve ser feita entre 6 e 8 semanas após o início da terapia ant
 Tabela 7 - Fatores que podem causar atraso na queda da carga viral
 Carga viral pré-tratamento	Quanto maior, mais tempo demorará.
 Valor inicial de CD4	Pacientes muito imunodeprimidos respondem mais lentamente.
-Potência do esquema	Espera-se que alguns esquemas sejam mais rápidos em diminuir carga viral.
+Potência do esquema	Espera-se que alguns esquemas sejam mais rápidos em diminuir a carga viral.
 Adesão	É a principal causa de demora da supressão e de falha terapêutica.
 Tolerância aos medicamentos	Deve haver adaptação à rotina de vida do paciente.
 
 Importante
-É esperado que todos os pacientes que iniciam tratamento de HIV adequadamente tenham supressão viral completa com carga viral indetectável em até 6 meses. 
+É esperado que todos os pacientes que iniciam tratamento de HIV adequadamente tenham supressão viral completa com carga viral indetectável em até 6 meses.
 
 D - Especificidades e principais efeitos colaterais dos antirretrovirais
 As drogas utilizadas para tratamento do HIV não são isentas de efeitos adversos, e esse é o principal motivo pelo qual nem sempre é feito o tratamento antirretroviral em todos os pacientes com HIV. A Tabela 8 explica os principais efeitos adversos dos antirretrovirais. 
@@ -207,7 +210,7 @@ Abacavir	Rash cutâneo*, reação de hipersensibilidade*, cefaleia e vômitos
 Indinavir	Nefrolitíase*, diarreia, hiperglicemia e vômitos
 Atazanavir	Aumento de bilirrubina indireta*
 Saquinavir	Diarreia*, dor abdominal, vômitos, hiperglicemia e cefaleia
-Ritonavir	Parestesia perioral, aumento de enzimas hepáticas, diarreia*, vômitos*, hiperglicemia e au-mento de triglicérides
+Ritonavir	Parestesia perioral, aumento de enzimas hepáticas, diarreia*, vômitos*, hiperglicemia e aumento de triglicérides
 Fosamprenavir	Vômitos, diarreia, rash cutâneo, hiperglicemia* e aumento de triglicérides*
 Lopinavir-ritonavir	Hiperglicemia*, aumento de triglicérides* e de enzimas hepáticas
 Efavirenz	Insônia*, pesadelos*, tontura, tinido e rash cutâneo
@@ -231,24 +234,24 @@ A estavudina é a principal droga que leva ao quadro, principalmente por toxicida
 e) Lipodistrofia
 
 Importante
-Medicamentos como a estavudina e o próprio HIV levam a alterações na distribuição de gordura, causando redução na região das nádegas, braços, pernas e face, e promovendo acúmulo na região abdominal, nas mamas e nas costas, formando giba. 
+Medicamentos como a estavudina e o próprio HIV levam a alterações na distribuição de gordura, causando redução na regi-ão das nádegas, braços, pernas e face, e promovendo acúmulo na região abdominal, nas mamas e nas costas, formando giba.
 
-Essa é uma das mais recentes e difíceis situações causadas pelo HIV. Sabe-se atualmente que o vírus per se leva a altera-ções de deposição de gordura. Entretanto, a lipodistrofia é típica para alguns medicamentos. Entre os ITRNs, o mais conhecido é a estavudina. Entre os IPs, especialmente lopinavir, fosamprenavir e saquinavir causam lipodistrofia. Isso faz que o paciente não apresente morbidade pelo vírus, mas a aparência leva a consequências de depressão e dificuldades de adesão ao trata-mento. Existem 2 tipos de lipodistrofia:
+Essa é uma das mais recentes e difíceis situações causadas pelo HIV. Sabe-se atualmente que o vírus per se leva a altera-ções de deposição de gordura. Entretanto, a lipodistrofia é típica para alguns medicamentos. Entre os ITRNs, o mais conhecido é a estavudina. Entre os IPs, especialmente lopinavir, fosamprenavir e saquinavir causam lipodistrofia. Isso faz com que o pa-ciente não apresente morbidade pelo vírus, mas a aparência leva a consequências de depressão e dificuldades de adesão ao tratamento. Existem 2 tipos de lipodistrofia:
 Lipoatrofia: perda de gordura nas regiões das nádegas, nos braços e nas pernas, além da região da face (de esqueleto);
 
  
 Figura 4 - Lipoatrofia da face: além da retirada do antirretroviral causador, pode ser feito preenchimento com metacrilato para correção do defeito de face. A seta mostra a marca de expressão ressaltada na lipodistrofia
 
-Lipodeposição: acúmulo de gordura na região do abdome, na região das mamas e nas costas (giba). 
+Lipodeposição: acúmulo de gordura na região do abdome, das mamas e nas costas (giba). 
 
  
-Figura 5 - Lipodeposição de gordura na região do dorso de um paciente com HIV: a correção deve ser retirar os medicamentos que cau-sam essa alteração e fazer lipoaspiração. Imagens como esta são muito comuns e presentes em pacientes que utilizam antirretrovirais há muitos anos. Além da troca do antirretroviral, é necessário o procedimento cirúrgico
+Figura 5 - Lipodeposição de gordura na região do dorso de um paciente com HIV: a correção deve ser retirar os medicamentos que causam essa alteração e fazer lipoaspiração. Imagens como esta são muito comuns e presentes em pacientes que utilizam antirretrovirais há muitos anos. Além da troca do antirretroviral, é necessário o procedimento cirúrgico
 
 f) Hipersensibilidade a antirretrovirais
 Pode ocorrer com quaisquer dos antirretrovirais, assim como com qualquer droga. Entretanto, algumas delas apresentam muito mais esse tipo de reação, chegando a 30% os pacientes com algum sinal. Na maioria das vezes, as reações são leves, mas em alguns casos podem levar a quadros graves, com síndrome de Stevens-Johnson e óbito por infecções secundárias. O aba-cavir é, com certeza, a droga que mais causa esse tipo de alteração. Entretanto, a nevirapina pode levar a quadros de rash, principalmente se iniciada em pacientes com CD4 alto (acima de 250 para mulheres e 350 para homens). Síndrome de Ste-vens-Johnson, necrólise epidérmica tóxica, nefrite intersticial aguda e pneumonite intersticial aguda podem ser todos efeitos secundários da hipersensibilidade.
 
  
-Figura 6 - Rash por abacavir: esse tipo de padrão já representa alta gravidade, com risco de evolução para complicações infecciosas secundárias e formação de bolhas. Nesses quadros, mesmo após a suspensão do medicamento, pode haver demora de semanas para alívio dos sintomas
+Figura 6 - Rash por abacavir: esse tipo de padrão já representa alta gravidade, com risco de evolução para complicações infecciosas secundá-rias e formação de bolhas. Nesses quadros, mesmo após a suspensão do medicamento, pode haver demora de semanas para alívio dos sinto-mas
 
 g) Alterações glicídicas
 A realidade de alterações de glicemia é vista com vários antirretrovirais, mas mais especificamente com alguns IPs (lopina-vir, principalmente). As alterações referem-se à resistência periférica a insulina, levando inicialmente a intolerância a glicose e, posteriormente, diabetes tipo 2.
@@ -266,23 +269,33 @@ d) cálculo urinário e hepatite
 e) anemia e hepatite
 Resposta no final do capítulo
 
-2. Síndrome de reconstituição imune
+2. Síndrome de reconstituição imune 
 
 A Síndrome de Reconstituição Imune (SRI) é uma condição explicada pela melhora da imunidade celular com a terapia an-tirretroviral. Funciona assim: quando um paciente apresenta imunidade celular muito baixa (normalmente abaixo de 100 células), não há capacidade do organismo de se defender de maneira adequada de algumas doenças, como tuberculose. Além de o paciente apresentar a doença, a resposta humoral será a única ativada em amplo espectro, levando a quadros diferentes da apresentação de uma tuberculose comum (quadro miliar, por exemplo). 
  Quando o paciente com AIDS inicia a terapia antirretroviral, o controle da replicação viral faz que a imunidade celular vol-te a aparecer rapidamente. O que ocorre em seguida é que os linfócitos T CD4 voltam a existir, com produção de citocinas e macrófagos específicos contra essas doenças. Ainda que o paciente não tenha mais o bacilo da tuberculose, o corpo reco-nhecerá imunocomplexos como algo que até então não era reconhecido. Resultado: haverá uma resposta inflamatória inten-sa, com retorno dos sintomas que anteriormente aconteciam, como febre, gânglios e vários outros semelhantes.  
+O diagnóstico de SRI é clínico e deve ser considerado quando sinais ou sintomas inflamatórios ocorrem dentro de 4 a 8 semanas após o início da terapia antirretroviral, na reintrodução de um esquema interrompido ou na modificação para um esquema mais eficaz após a falha terapêutica.
+
+Tabela 9 - Critérios para suspeita clínica de síndrome da reconstituição imune
+- Piora de doença reconhecida ou surgimento de nova manifestação após início da terapia antirretroviral;
+- Presença de imunodepressão grave (contagem de LT-CD4+ <100) antes do início ou modificação do esquema;
+- Relação temporal entre o início da terapia antirretroviral e o aparecimento das manifestações inflamatórias (dentro de 4 a 8 semanas do início da terapia antirretroviral).
+- Presença de resposta imune, virológica ou ambas após início da terapia antirretroviral;
+- Exclusão de falha terapêutica, reação adversa ou superinfecção.
+
 As doenças conjuntamente com o HIV que mais frequentemente aparecem numa SRI são:
 Tuberculose: retorno de gânglios, febre, tosse e sudorese;
 Criptococose no sistema nervoso central: retorno de cefaleia e vômitos;
 Coriorretinite por citomegalovírus: diplopia e piora visual passageira. 
 
  
-Figura 7 - Quadro de síndrome de reconstituição imune em paciente com melhora da imunidade celular após HAART: os nódulos revela-ram secreção purulenta, no entanto com pesquisa de bacilo álcool-ácido-resistente e cultura negativas, o que sugere síndrome de re-constituição imune pós-recuperação imune. O paciente havia sido tratado para tuberculose pulmonar
+Figura 7 - Quadro de síndrome de reconstituição imune em paciente com melhora da imunidade celular após HAART: os nódulos revelaram secreção purulenta, no entanto com pesquisa de bacilo álcool-ácido-resistente e cultura negativas, o que sugere síndrome de reconstituição imune pós-recuperação imune. O paciente havia sido tratado para tuberculose pulmonar
 
 Entretanto, qualquer doença pode recrudescer e transformar-se em uma SRI. Deve ser lembrado que, na maioria das ve-zes, se o tratamento foi feito adequadamente, não é a doença que estará presente novamente, apenas a resposta inflamatória intensa, que leva a quadros muito semelhantes. 
-O diagnóstico da SRI é feito com a procura pelo agente etiológico da doença de origem, mas obviamente não será encon-trado. É sempre importante descartar a infecção aguda novamente, pois o tratamento é feito com corticoides, o que poderia piorar essa doença caso voltasse. Pode ser utilizada prednisona, 1mg/kg, por 4 semanas, até a melhora clínica efetiva. 
+O diagnóstico da SRI é feito com a procura pelo agente etiológico da doença de origem, mas obviamente não será encon-trado. 
+Na suspeita de SRI, deve-se priorizar o diagnóstico e tratamento da doença oportunista. Na maior parte dos casos, sua re-solução é espontânea, envolvendo tratamento sintomático ou uso de anti-inflamatórios esteroidais. A terapia antirretroviral não deve ser interrompida, exceto nos casos graves. É sempre importante descartar a infecção aguda novamente, pois o tratamento é feito com corticoides em muitos casos, o que poderia piorar essa doença caso voltasse. Pode ser utilizada pred-nisona, 1mg/kg, por 4 semanas, até a melhora clínica efetiva. 
 
 Importante
-A síndrome de reconstituição imune é o principal motivo para não se iniciar o tratamento da tuberculose juntamente com antirretrovirais quando o paciente descobre as 2 doenças juntas. Por isso, a recomendação é iniciar, primeiramente, o tratamento da tuberculose (principal causa de óbito no paciente com HIV no Brasil), e, a após 2 semanas e antes de 2 me-ses, inicia-se o tratamento antirretroviral, evitando a síndrome, sem ultrapassar 2 meses do início do tratamento da tuber-culose para iniciar terapia antirretroviral, pois aumenta a mortalidade.
+A síndrome de reconstituição imune é o principal motivo para não se iniciar o tratamento da tuberculose juntamente com antirretrovirais quando o paciente descobre as 2 doenças juntas. Por isso, a recomendação é iniciar, primeiramente, o tratamento da tuberculose (principal causa de óbito no paciente com HIV no Brasil), e, após 2 semanas e antes de 2 meses, inicia-se o tratamento antirretroviral, evitando a síndrome. Importante considerar que não se deve ultrapassar 2 meses do início do tratamento da tuberculose para iniciar terapia antirretroviral, pois aumenta a mortalidade.
 
 Pergunta
 2011 - UERJ
@@ -294,34 +307,41 @@ d) linfadenopatia generalizada persistente
 Resposta no final do capítulo
 
 3. HIV e transmissão vertical 
-
 A taxa de transmissão vertical do HIV, sem qualquer intervenção, situa-se em torno de 25,5%. Trabalho recente publicado no Brasil em 2011 revela transmissão em torno de 1%, mas os dados nacionais ainda são pouco conhecidos. Quando se reali-zam as medidas necessárias para profilaxia, esse valor cai abaixo de 1%. 
 A transmissão materno-fetal do HIV ocorre, principalmente, em 2 momentos: 
 75% das transmissões ocorrem no momento do parto. Daí a importância de chegar a esse momento com carga viral inde-tectável;
 25% das transmissões ocorrem antes do parto, quase todas no 3º trimestre da gestação. Portanto, ao falar em transmissão intraútero, o risco maior é no 3º trimestre. 
-A monoterapia com AZT durante a gestação não é considerada um tratamento aceito atualmente. Isso porque diversos es-tudos demonstram que a associação de antirretrovirais tem mais potência para indetecção de carga viral e consequentemen-te para impedir a transmissão materno-fetal do HIV. Entretanto, o trabalho-base que demonstrou a redução drástica na trans-missão no momento do parto (ACTG 086) utilizou AZT no intraparto (apenas do início do trabalho de parto até o momento em que o cordão umbilical é clampeado). Por isso, o AZT ainda é a droga de escolha para o momento do parto.
+A monoterapia com AZT durante a gestação não é considerada um tratamento aceito atualmente. Isso porque diversos es-tudos demonstram que a associação de antirretrovirais tem mais potência para indetecção de carga viral e consequentemen-te para impedir a transmissão materno-fetal do HIV. Entretanto, o trabalho-base que demonstrou a redução drástica na trans-missão no momento do parto (ACTG – AIDS Clinical Trials Group – 086) utilizou AZT no intraparto (apenas do início do trabalho de parto até o momento em que o cordão umbilical é clampeado). Por isso, o AZT ainda é a droga de escolha para o momento do parto.
 
 Importante
-A maioria das transmissões verticais do HIV ocorre no momento do parto, sendo apenas 25% delas antes do parto, em geral no 3º trimestre de gestação. 
+A maioria das transmissões verticais do HIV ocorre no momento do parto, sendo apenas 25% delas antes do parto, em geral no 3º trimestre de gestação.
 
 A - Então, como ficou o uso do AZT na gestação? 
-O uso no momento do parto e para o recém-nascido são mantidos. Os trabalhos iniciais de transmissão (ACTG 086) mos-tram que essa medida simples reduz em até 75% o risco de transmissão, ainda que não tenha sido usado nenhum antirretrovi-ral durante a gestação. Veja o esquema na Tabela 9.
+O Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, pu-blicado em dezembro de 2015, recomenda que seja feita zidovudina injetável para toda gestante que apresente carga viral detectável após a 34 semana de gestação. Para todas as gestantes que estiverem indetectáveis após a 34ª semana de gesta-ção, não será mais necessário o uso de zidovudina no momento do parto. O esquema do uso de zidovudina é representado na Tabela 10.
 
-Tabela 9 - Tipos de uso 
+Tabela 10 - Tipos de uso 
 No momento do parto
 AZT injetável
 - 2mg/kg da mãe na 1ª hora da internação para o parto;
 - 1mg/kg da mãe até o momento do clampeamento do cordão;
 - No caso de cesáreas eletivas, iniciar o esquema até 3 horas antes do parto.
 Para o recém-nascido
-Solução oral de AZT
-- 2mg/kg a cada 6 horas – iniciar até a 8ª hora após o parto;
-- Uso por 6 semanas para a criança.
+- A zidovudina deve ser utilizada com as doses pelo peso e de acordo com a idade gestacional do parto:
+? RN com 35 semanas ou mais: 4mg/kg/dose, de 12/12h;
+? RN entre 30 e 35 semanas: 2mg/kg/dose, de 12/12h, por 14 dias, e 3mg/kg/dose, de 12/12h, a partir do 15º dia; 
+? RN com menos de 30 semanas: 2mg/kg/dose, de 12/12h;
+? É importante que seja iniciado ainda na sala do parto, após os cuidados iniciais com o recém-nascido, e até a 4ª hora de vida;
+? O tratamento é proposto por 4 semanas, até a definição do diagnóstico.
+- Em gestantes que tinham carga viral acima de 1.000 cópias/mL no último trimestre, associa-se nevirapina para o RN, com 3 doses (1ª dose até 48h, 2ª dose 48h após a 1ª e 3ª dose 96 horas após a 2ª);
+- O uso da nevirapina também ocorre de acordo com o peso:
+? Peso de nascimento >2kg: 12mg/dose (1,2mL);
+? Peso de nascimento 1,5 a 2kg: 8mg/dose (0,8mL);
+? Peso de nascimento <1,5kg: não usar NVP.
 
 B - E durante a gestação? 
-O esquema a ser utilizado na gestação deve conter 3 drogas, como se fosse para tratamento. Todas as gestantes infectadas pelo HIV devem receber terapia antirretroviral para prevenção de transmissão materno-fetal do vírus. O objetivo da terapia é a carga viral indetectável no momento do parto. A terapia deve ser mantida após o parto – quando a paciente já tem indica-ção de tratamento de acordo com parâmetros clínicos e imunológicos – ou suspensa – quando a indicação de terapia é so-mente a prevenção de transmissão vertical. A Tabela 10 resume as condições:
+O esquema a ser utilizado na gestação deve conter 3 drogas, como se fosse para tratamento. Todas as gestantes infectadas pelo HIV devem receber terapia antirretroviral para prevenção de transmissão materno-fetal do vírus. O objetivo da terapia é a carga viral indetectável no momento do parto. A terapia deve ser mantida após o parto, independente do valor de CD4 inicial. A Tabela 11 resume as condições:
 
-Tabela 10 - Condições para terapia com antirretrovirais na gestação
+Tabela 11 - Condições para terapia com antirretrovirais na gestação
 Indicação de terapia antirretroviral na gestação
 Sempre é feita, independente do valor de CD4.
 Após o parto
@@ -331,54 +351,99 @@ Importante
 Todas as gestantes portadoras de HIV devem receber terapia antirretroviral para prevenção da transmissão vertical. O objetivo é atingir uma carga viral indetectável no momento do parto.
 
 C - Qual é o melhor momento para iniciar o tratamento antirretroviral na gestação? 
-Se a paciente já tinha o diagnóstico durante a gestação, a terapia deve ser apenas mantida, ajustando os antirretrovirais para os riscos de teratogenicidade. Se a paciente nunca usou medicações porque até então nunca precisou, o momento cer-to é a partir de 14 semanas e, no máximo, até a 28ª semana (quando se inicia o 3º trimestre, com risco maior de transmissão). Situações que aumentam a chance do contato do sangue da mãe com o da criança antes do parto aumentam o risco de transmissão. Nesses casos, quanto mais precoce a terapia, menor o risco de transmissão. 
-
-Tabela 11 - Situações em que deve ser iniciado precocemente o tratamento durante a gestação (a partir de 14 semanas)
-- Descolamento prévio de placenta;
-- Sífilis;
-- Uso de drogas;
-- Promiscuidade sexual (risco aumentado para outras doenças sexualmente transmissíveis).
+Se a paciente já tinha o diagnóstico durante a gestação, a terapia deve ser apenas mantida, ajustando os antirretrovirais para os riscos de teratogenicidade. Em pacientes virgens de tratamento antirretroviral, o tratamento deve ser iniciado o mais precocemente possível. Situações que aumentam a chance do contato do sangue da mãe com o da criança antes do parto aumentam o risco de transmissão. Nesses casos, quanto mais precoce a terapia, menor o risco de transmissão. 
 
 D - Qual é o esquema mais adequado de terapia antirretroviral na gestação?
-Vários são aceitos, especialmente se a paciente já os utilizava. Devem ser evitados esquemas com efavirenz, estavudina e didanosina, pois há risco de teratogenicidade. Nesses casos, a troca deve ser realizada. Para gestantes que não usam ainda medicamentos, 2 são os esquemas sugeridos pelo Ministério da Saúde:
-Zidovudina, lamivudina e nevirapina;
-Zidovudina, lamivudina e lopinavir/ritonavir.
-Recentemente, foi aprovado o uso de outro IP, o atazanavir, associado ao ritonavir, para uso na gestação. O efavirenz foi recentemente liberado para uso na gestação, apesar de não ter sido mudado oficialmente por fabricantes na indicação de riscos (controverso). Por esse motivo, sempre que a paciente usar medicações, deverá ser avaliado o risco para o feto. A Tabela 12 lembra os riscos de cada um dos antirretrovirais.
+Ao avaliar o documento brasileiro de indicações de tratamento antirretroviral em gestantes de dezembro de 2015 (Proto-colo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais), a principal mudança foi a inclusão do efavirenz como droga segura na gestação. Diversos trabalhos mostraram que as lesões prévias em ratos não se confirmaram em humanos. Desta maneira, para facilitar a adesão, o trio utilizado como primeira opção no trata-mento em adultos não gestantes (tenofovir, lamivudina e efavirenz) foi também aqui incluído, conforme segue:
+
+Tabela 12 - Esquema de terapia antirretroviral
+1ª linha de tratamento	Medicamentos alternativos
+TDF + 3TC + EFV*	Contraindicação ao TDF: AZT
+	Contraindicação ao TDF e AZT: ABC
+	Contraindicação ao EFV: NVP
+2ª linha de tratamento	Medicamentos alternativos
+Contraindicação aos ITRNN	LPV/r
+Contraindicação ao LPV/r	ATV/r
+* Na apresentação de dose fixa combinada, sempre que disponível.  
+Fonte: Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais, dez/2015.
 
 Dica
-De acordo com o Ministério da Saúde, 2 esquemas são propostos para tratamento do HIV durante a gestação: zidovudina, lamivudina e nevirapina ou zidovudina, lamivudina e lopinavir/ritonavir.
+O tratamento atual do Ministério da Saúde para gestantes que nunca usaram medicação tem, como escolha preferencial, tenofovir, lamivudina e efavirenz, como no protocolo geral de tratamento em não gestantes.
 
-Tabela 12 - Riscos dos antirretrovirais
-	Drogas 
-antirretrovi-rais	Categoria FDA (Food and Drug Administra-tion) na 
-gravidez	Passagem para 
-placenta (relação recém-nascido–mãe)	Estudos animais de 
-carcinogênese em longo prazo	Estudos animais de 
-teratogênese
-Inibidores da transcri-ptase re-versa: análogos de nucleosí-deos e nucleotí-deos (ITRN e ITRNt)	Abacavir	C	Sim (ratos)	Positivo (tumores ou não no fígado, tireoide em ratos e prepúcio e clitóris em camun-dongos e ratos)	Positivo (anasarca e malfor-mações esqueléticas em roedores: dose 35 vezes supe-rior à humana) durante a organogênese, não observado em coelhos
-	Didanosina	B	Sim (humanos) [0:5]	Negativo (observação por toda a vida de roedores)	Negativo
-	Entricitabina	B	Desconhecida	Não completado	Negativo
-	Lamivudina	C	Sim (humanos) [~1]	Negativo (observação por toda a vida de roedores)	Negativo
-	Estavudina	C	Sim (macacos rhe-sus) [0,76]	Positivo (camundongos e ratos, em doses muito eleva-das, tumores de fígado e bexiga)	Negativo (mas, em roedores, redução de cálcio no esterno)
-	Tenofovir	B	Sim (ratos e maca-cos)	Não completado	Negativo (em animais jovens, osteomalácia, doses altas)
-	Zalcitabina	C	Sim (macacos rhe-sus) [0,3 a 0,5]	Positivo (em roedores, linfoma tímico)	Positivo (em roedores, hidro-cefalia, doses altas)
-	Zidovudina	C	Sim (humanos) [0,85]	Positivo (em roedores, tumo-res epiteliais não invasivos na vagina)	Positivo (em roedores, dose próxima da letal)
-Inibidores da transcri-ptase re-versa não nucleosí-deos	Delavirdina	C	Desconhecida	Positivo (adenomas e carci-nomas do fígado em camun-dongos, mas não em ratos, e tumores de bexiga em camun-dongos)	Positivo (em roedores, defei-tos septais ventriculares)
-	Efavirenz	D	Sim (símios, ratos e coelhos) [~1]	Positivo (adenomas e carci-nomas do fígado e adenoma do pulmão em camundongos fêmeas, mas não em machos)	Positivo (em símios, anence-falia, anoftalmia, microftal-mia)
-	Nevirapina	C	Sim (humanos) [~1]	Positivo (adenomas e carci-nomas do fígado em camun-dongos e ratos)	Negativo
-IPs	Amprenavir	C	Desconhecida	Positivo (adenomas e carci-nomas do fígado em camun-dongos machos e ratos)	Negativo (mas ossificação deficiente e alongamento tímico em ratos e coelhos)
-	Atazanavir	B	Desconhecida	Não completado	Negativo
-	Fosamprenavir	C	Desconhecida	Positivo (tumores hepáticos benignos e malignos em roe-dores machos)	Negativo
-	Indinavir	C	Mínima (humanos)	Positivo (adenomas de tireoide em ratos machos em doses altas)	Negativo (mas costelas extra-numerárias em roedores)
-	Lopinavir/
-ritonavir	C	Desconhecida	Não completado	Negativo (mas retardo da ossificação esquelética em ratos)
-	Nelfinavir	B	Mínima (humanos)	Positivo (adenomas e carci-nomas foliculares em ratos)	Negativo
-	Ritonavir	B	Mínima (humanos)	Positivo (em roedores, ade-nomas do fígado e carcinomas em ratos)	Negativo (mas criptorquidia em roedores)
-	Saquinavir	B	Mínima (humanos)	Não completado	Negativo
-Inibidores de fusão	Enfuvirtida	B	Desconhecida	Não realizado	Negativo
+Tabela 13 - Segurança dos antirretrovirais na gestação 
+Antirretrovirais	Recomendações na gestação
+ITRNts
+Abacavir (ABC)	- Alta taxa de transferência placentária para o feto;
+	- Sem evidência de teratogenicidade em humanos;
+	- Reações de hipersensibilidade podem ocorrer em cerca de 5% a 8% em pacientes não gestan-tes. Porcentagens muito menores são fatais e normalmente associadas à reexposição ao medi-camento. A frequência das reações na gestação é desconhecida;
+	- O teste para o HLA-B*5701 identifica pacientes com risco de reações; contudo, não se encon-tra disponível no SUS. Caso seja realizado, deve-se documentar o procedimento no prontuário do paciente;
+	- As gestantes devem ser esclarecidas sobre sintomas de reação de hipersensibilidade.
+Lamivudina (3TC)	- Alta taxa de transferência placentária para o feto;
+	- Sem evidência de teratogenicidade em humanos;
+	 Se a paciente apresentar coinfecção HIV/HBV, pode haver flare viral de vírus B caso o medi-camento seja interrompido no pós-parto.
+Tenofovir (TDF)	- Alta taxa de transferência placentária para o feto;
+	- Sem evidência de teratogenicidade em humanos;
+	- Estudos em macacos (com doses 2x superiores que em humanos) mostraram redução do crescimento fetal e redução da porosidade óssea após 2 meses do início da terapia antirretrovi-ral. Estudos em humanos não mostraram efeito no crescimento intrauterino, embora um estu-do tenha observado baixo comprimento e circunferência cefálica.
+Zidovudina (AZT)	- Alta taxa de transferência placentária para o feto;
+	- Sem evidência de teratogenicidade em humanos.
+ITRNNs
+- ITRNNs são medicamentos recomendados pra uso em combinação com 2 ITRNs;
+- Reações de hipersensibilidade, incluindo toxicidade hepática e rash, são mais comuns em mulheres; não está claro se o risco au-menta na gestação.
+Efavirenz (EFV)	- Transferência placentária moderada para o feto;
+	- Em humanos, não existe aumento de risco de defeitos congênitos associados à exposição ao EFV no 1° trimestre de gestação.
+Nevirapina (NVP)	- Alta taxa de transferência placentária para o feto;
+	- Sem evidência de teratogenicidade em humanos;
+	- Tendência não significativa de aumento de toxicidade hepática associada a rash cutâneo em mulheres com CD4 =250 células/mm3; gestação não parece aumentar o risco;
+	- Níveis iniciais elevados de transaminases podem aumentar o risco de toxicidade de NVP;
+	- Mulheres que engravidam durante tratamento com NVP e estão tolerando bem a medicação podem mantê-lo, independentemente da contagem de LT-CD4+.
+IPs
+- Hiperglicemia, diabetes mellitus de início recente ou exacerbação de quadro prévio e cetoacidose diabética podem ocorrer em pacientes em uso de IP; não está claro se a gestação aumenta o risco;
+- Dados conflitantes sobre parto pré-termo em mulheres em uso de IP.
+Atazanavir (ATV)	- Transferência placentária baixa;
+	- Sem evidência de teratogenicidade humana;
+	- Deve ser administrado em baixa dose em esquemas que contenham RTV;
+	- Efeito in útero de exposição de ATV na bilirrubina indireta em RN é incerto. Elevações fisioló-gicos isoladas de bilirrubina em neonatos foram observados em alguns estudos clínicos.
+Darunavir (DRV)	- Transferência placentária mínima;
+	- Dados insuficientes para avaliar a teratogenicidade em humanos;
+	- Sem evidência de teratogenicidade em ratos ou coelhos;
+	- Deve ser administrado em baixa dose em esquemas que contenham RTV.
+Lopinavir/ritonavir (LPV/r)	- Transferência placentária mínima;
+	- Sem evidência de teratogenicidade humana;
+	- A solução oral contém 42% de álcool e 15% de propilenoglicol e não é recomendada na gesta-ção;
+	- Dose única diária de LPV/r não é recomendada na gestação.
+Ritonavir (r)	- Transferência placentária baixa;
+	- Sem evidência de teratogenicidade em humanos;
+	- A solução oral contém 43% de álcool e não é recomendada na gestação.
+Saquinavir (SQV)	- Transferência placentária mínima;
+	- Dados insuficientes para avaliar a teratogenicidade em humanos;
+	- Sem evidência de teratogenicidade em ratos ou coelhos;
+	- Deve ser administrado em baixa dose em esquemas que contenham RTV;
+	- ECG de base em pacientes pelo fato de terem sido observados prolongamento de intervalo PR e/ou QT;
+	- Contraindicado em pacientes com distúrbios de condução cardíaca.
+Tipranavir (TPV)	- Transferência placentária moderada relatada em um paciente;
+	- Dados insuficientes para avaliar a teratogenicidade em humanos; 
+	- Sem evidência de teratogenicidade em ratos e coelhos; 
+	- Deve ser administrada em baixa dose em esquemas que contenham RTV.
+Inibidores de entrada e de fusão 
+Dados indisponíveis na literatura sobre a teratogenicidade desses medicamentos
+Enfuvirtida (T20)	Transferência placentária mínima ou baixa
+Maraviroque (MVC)	- Mínima a baixa transferências placentárias; 
+	- Sem dados sobre teratogenicidade em humanos.
+Inibidores de integrase
+Dados indisponíveis na literatura sobre teratogenicidade desses medicamentos
+Raltegravir (RAL)	- Alta transferência placentária;
+	- Dados insuficientes para avaliar teratogenicidade em humanos;
+	- Aumento de variantes esqueléticas em ratos, sem aumento de defeitos em coelhos;
+	- Relatos de casos de elevação de transaminases com uso tardio na gestação. Casos severos e potencialmente fatais, lesões de pele fatais e reações de hipersensibilidade relatada em adul-tos (não gestantes);
+	- Tabletes mastigáveis contêm fenilalanina.
+Fonte: Ministério da Saúde 2015.
 
 E - O parto deve ser sempre cesárea?
 Não, isso mudou. Pacientes com carga viral no momento do parto com valor acima de 1.000 cópias devem obrigatoria-mente ser submetidas a parto cesárea, pois essa ação diminui o risco de transmissão. Em pacientes com carga viral indetectá-vel, ou detectável, mas com valor abaixo de 1.000 cópias, a indicação do parto é obstétrica. Isso quer dizer que, desde que não haja nenhum motivo para cesárea (do ponto de vista não do HIV, mas da gestação), o parto normal pode ser realizado. Lembre-se: a gestante com HIV não pode amamentar, pois existe vírus no leite materno. Por esse motivo, devem-se fazer enfaixamento de mamas e medicações para o leite não descer.
+ O Ministério da Saúde contraindica o aleitamento cruzado (amamentação da criança por outra nutriz), a alimentação mista (leite humano e fórmula infantil) e o uso de leite humano pasteurizado.
+
+Importante
+Carga viral acima de 1.000 cópias/mL no último trimestre da gestação constitui indicação de cesárea eletiva para diminuir o risco de transmissão vertical. Abaixo de 1.000 cópias/mL, a via de parto deve ser preferencialmente vaginal. 
 
 F - Condição anômala: diagnóstico de HIV no momento do parto
 Em uma situação como essas, é muito importante que o tratamento seja iniciado o mais precoce possível (lembre-se de que 75% das transmissões ocorrem no momento do parto, em pacientes nunca tratadas). 
@@ -393,30 +458,25 @@ A profilaxia pós-exposição com acidentes perfurocortantes em profissionais de sa
 Existe na literatura 1 caso de paciente que recebeu transplante de medula e teve a sorte de trocar o receptor de entrada com a medula nova. Como resultado, o vírus não conseguiu mais entrar em células para parasitar e foi decretado o 1º caso de cura do HIV no mundo. Entretanto, a grande dificuldade da cura da AIDS é que o vírus possui “santuários” em todo o corpo, aonde os medicamentos não conseguem chegar. Células da glia, da próstata, das suprarrenais, entre outros lugares, são possí-veis reservatórios. Desta forma, não há tratamentos com previsão de duração finita em fase avançada, e não há luz nesse lado da doença em curto prazo. Em outro caso, descrito em 2012, uma criança, filha de mãe HIV que recebeu tratamento antirre-troviral desde o início, mostrou negativação de carga viral inesperadamente, mesmo sem antirretrovirais. Após 2 anos, essa criança voltou a apresentar carga viral detectável no sangue, não confirmando cura nesse caso. 
 Diversos outros estudos de tratamento estão sendo desenvolvidos com o objetivo de expor o vírus que está “escondido” em locais conhecidos como santuários. Esse tipo de terapia, de retirar vírus latentes de santuários, acaba ativando outros vírus que estão latentes, como os da família herpes. Isso ocasiona um risco maior de complicações por essas outras doenças. Por isso, esse tipo de tratamento de “cura” estaria disponível inicialmente apenas para pacientes com infecção pelo HIV e valores altos de CD4. Nos próximos 5 anos, boas notícias aparecerão sobre tal assunto.
 
-  
+ 
 Figura 8 - Organograma com as estratégias atuais na tentativa de erradicar o vírus do corpo definitivamente
 Fonte: adaptado de DIAZ, 2015. 
 
 As medidas que mais valem ainda são o uso de preservativos, mesmo para relações orais e entre casais em que ambos são HIV positivo. O uso de seringas descartáveis por usuários de drogas é outra medida importante para evitar a transmissão do vírus.  
 
-6. Resumo
+Resumo
 
 Quadro-resumo
-Tratamento 	- Entender como se comporta a melhora do CD4 com o tratamento;
-	- Conhecer as condições que indicam tratamento;
-	- Entender quais são os antirretrovirais sugeridos pelo Ministério da Saúde para início de tratamento;
-	- Conhecer o local de ação de cada classe de antirretroviral no ciclo do HIV.
-Terapia antirretroviral	Principais efeitos colaterais das drogas
-HIV e gestação	- Entender a indicação de tratamento em gestantes;
-	- Conhecer os momentos da transmissão;
-	- Saber os medicamentos utilizados como terapia inicial na gestação.
+Tratamento 	- Tratamento para todos, independente do valor de CD4. Guardar esta recomendação;
+	- Esquema preferencial de tratamento: tenofovir, lamivudina e efavirenz, apresentação em dose fixa combinada (1 comprimido por dia);
+	- Conhecer bem os efeitos colaterais das drogas do esquema principal preconizado. Especial atenção aos efeitos do tenofovir (toxicidade renal), e efavirenz (distúrbios de sono–vigília);
+	- Saber das situações especiais onde antirretrovirais específicos devem ser utilizados (exemplo: hepatite B – preferência para a dupla tenofovir + lamivudina como parte do esquema; insuficiência renal prévia, onde se evita TDF, etc.).
+Terapia antirretroviral	Saber os esquemas indicados de 2ª escolha no caso da impossibilidade de uso do esquema principal de TDF + 3TC + EFZ.
+HIV e gestação	- Tratamento da gestante desde o início da gestação para negativar carga viral o quanto antes;
+	 - Conhecer os momentos de maior risco de transmissão (hora do parto e 3º trimestre);
+	- Grandes mudanças na terapia de gestantes. Efavirenz, que antes era vilão na gestação, agora passa a ser indicado como 1ª escolha em pacientes virgens de tratamento, com coformulação (TDF + 3TC + EFZ) para aumentar a adesão. 
 
-Respostas
+Respostas das questões do capítulo
 1. C
 2. C
 3. B
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
