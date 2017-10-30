@@ -1,0 +1,153 @@
+diff --git a/cirtrauma_2.txt b/cirtrauma_2.txt
+index 53f2c9c..fe03f02 100644
+--- a/cirtrauma_2.txt
++++ b/cirtrauma_2.txt
+@@ -1,8 +1,7 @@
+Vias aéreas
+Eduardo Bertolli
+
+[-Resumo-]Neste capítulo, serão abordadas as principais medidas para garantir vias aéreas pérvias, por meio de um modo definitivo de manutenção, como a intubação endotraqueal, a colocação de máscara laríngea nos casos de via aérea difícil e a realização de cricotireoidostomia quando há edema de glote, fratura de laringe e hemorragia orofaríngea. Manter a via aérea pérvia é a prioridade no atendimento de todo politraumatizado, independen[---]temente da etiologia, devendo o médico atentar para sinais de comprometimento dessa via, como taquipneia, respiração ruidosa, sangue na orofaringe e rebaixamento do nível de cons{+-+}ciência. O cuidado inicial com a via aérea deve ser lembrado em quase todas as questões de Cirurgia do Trauma, sejam objeti{+-+}vas, sejam discursi[---]vas.
+
+1. Introdução
+
+@@ -14,34 +13,34 @@ A permeabilidade da via a
+Taquipneia, respiração ruidosa, alteração do nível de consciência e sangue na orofaringe podem ser sinais de comprome-timento das vias aéreas.
+
+Tabela 1 - Sinais de obstrução das vias aéreas
+Observação do paciente	Agitação (sugere hipóxia), torpor (sugere hipercapnia), cianose, tiragem e uso de muscula{+-+}tura acessória para ventilação
+Ausculta	Respiração ruidosa, roncos, gorgolejos, estridor (sinais de obstrução parcial da laringe ou faringe), rouquidão (obstrução funcional da laringe)
+Palpação	Posicionamento anormal da traqueia no pescoço e crepitações
+
+Durante a avaliação inicial, o paciente capaz de falar garante que, neste momento, a sua via aérea está pérvia. Portanto, deve-se, inicialmente, estimular a resposta verbal. A incapacidade de resposta ou respostas inapropriadas podem sugerir alteração do nível de consciência ou comprometimento das vias aéreas ou da ventilação.
+
+[-Dic-]{+Import+}a{+nte+}
+Pacientes inconscientes por trauma cranioencefálico, com sensório diminuído por abuso de álcool ou drogas, e aqueles portadores de lesões torácicas, que impedem adequada ventilação, necessitam de via aérea definitiva. Caso o paciente apresente vômitos, há risco significativo de aspiração do conteúdo gástrico. Nesse caso, devem ser realizadas a aspiração da orofaringe com cânula rígida e a rotação do paciente para a posição de decúbito lateral. Caso os vômitos sejam recor{+-+}rentes e não haja exclusão da hipótese de lesão da coluna cervical, também deve ser considerada a intubação com o intuito de proteger a via aérea.
+
+Deve-se fornecer oxigênio num fluxo de 10 a 12L/min, por meio de máscara facial com reservatório de oxigênio bem adaptada. A avaliação da oxigenação é realizada pela oximetria de pulso, que mede continuamente a saturação de oxigênio no sangue arterial. Para a sua verificação, é necessário manter uma perfusão periférica adequada. 
+
+[-Dic-]{+Import+}a{+nte+}
+Uma via aérea pérvia não é sinônimo de ventilação adequada. A ventilação pode estar comprometida por obstrução das vias aéreas, trauma de tórax, alteração do nível de consciência e lesões raquimedulares. Vítimas de queimaduras ou ex{+-+}plosões podem apresentar lesão térmica e devem ser avaliadas quanto à necessidade de uma via aérea definitiva preco{+-+}cemente.
+
+3. Etiologia
+
+A - Trauma de face
+Em geral, é acompanhado de sangramento, aumento de secreções e avulsões dentárias, colaborando para a obstrução das vias aéreas. Fraturas da mandíbula causam perda do suporte normal da língua. Os pacientes apresentam sinais de obstrução, principalmente na posição supina. Nesse caso, é fundamental a aspiração{+ com aspirador rígido+}, e, dependendo da situação, pode ser necessária uma via aérea definitiva.
+
+B - Trauma cervical
+Lesões por instrumentos penetrantes que causem hemorragia podem deslocar e obstruir as vias aéreas. Pode ocorrer le-são direta da laringe ou da traqueia, com obstrução e sangramento. Nesses casos, é necessário um acesso definitivo imediato às vias aéreas. 
+Hematomas cervicais também podem expandir e comprimir a traqueia. Quando isso ocorre, a indicação de via aérea defi-nitiva deve ser precoce, para evitar complicações ou dificuldades técnicas.
+
+C - Trauma de laringe 
+{+A tríade clínica na fratura de laringe trata-se de uma lesão rara. Quando presente, deve-se tentar a intubação orotraqueal cuidadosa, possivelmente com o auxílio de um fibroscópio flexível. Se isso não for possível, ou na indisponibilidade do méto-do, essa será uma das poucas condições em que se indica a traqueostomia de emergência.+}
+
+Dica
+A tríade clínica na fratura de laringe é composta de rouquidão, enfisema de subcutâneo e fratura palpável.[- Trata-se de uma lesão rara. Quando presente, deve-se tentar a intubação orotraqueal cuidadosa, possivelmente com o auxílio de um fibros-cópio flexível. Se isso não for possível, ou na indisponibilidade do método, essa será uma das poucas condições em que se indica a traqueostomia de emergência.-]
+
+4. Tratamento
+
+@@ -57,48 +56,53 @@ d) apneia obstrutiva, presen
+Resposta no final do capítulo
+
+A - Técnicas de manutenção das vias aéreas
+Em pacientes com rebaixamento do nível de consciência, a queda da língua pode ser responsável pela obstrução da via aérea. Existem 2 manobras possíveis nessa situação, bem como alguns equipamentos auxiliares (Figura 1): a elevação do quei-xo (chin lift) e a protrusão da mandíbula (jaw thrust), além do uso de cânulas naso ou orofaríngeas (cânula de Guedel). A cânu-la de Guedel deve ter o tamanho da distância da comissura labial ao lobo da orelha ipsilateral. [-I-]{+Em adultos, i+}nicialmente[-,-] coloca-se a cânula orofaríngea voltada para o palato duro e, depois, deve-se girá-la conforme mostrado na Figura 1. Apesar de pro{+-+}teger da que[---]da da língua, desencadeia reflexo de vômito e é mal tolerada no {+paciente +}consciente. A cânula nasofaríngea, ainda que mais bem tole[---]rada, é pouco utilizada por não permitir uma proteção adequada da queda da língua.
+
+ 
+Figura 1 - (A) Elevação do mento (chin lift) sem hiperextensão do pescoço; (B) anteriorização da mandíbula (jaw thrust) pela preensão dos ângulos do maxilar inferior; (C) uso de cânula orofaríngea (Guedel), que deve ser inserida por trás da língua – não deve ser usada em indiví{+-+}duo consciente, pois pode provocar engasgo e vômito –, e (D) demonstração de alocação da cânula de Guedel. Observação: o colar cervical foi intencionalmente removido para melhor demonstrar os procedimentos{+ +}
+
+{+B - Via aérea difícil +}
+
+[-B-]{+São fatores que sugerem maior dificuldade na ventilação pulmonar com máscara facial:+}
+{+- IMC =30kg/m2;+}
+{+- Presença de barba;+}
+{+- Classificação de Mallampati =III;+}
+{+- Idade >57 anos;+}
+{+- Protrusão mandibular reduzida;+}
+{+- Distância tireoide–mento <6cm;+}
+{+- História de ronco.+}
+
+{+C+} - Via aérea definitiva 
+
+Dica
+Define-se como via aérea definitiva a presença de um dispositivo com balonete (cuff) insuflado na traqueia, devidamente fixado, conectado a um sistema de ventilação assistida e a uma fonte de oxigênio a 100%.
+
+[- -]Existem 3 tipos de via aérea definitiva: sonda orotraqueal, sonda nasotraqueal e via aérea cirúrgica (cricotireoidostomia {+cirúrgica +}e traqueostomia). Indica-se a via aérea definitiva a todo paciente incapaz de manter a permeabilidade das vias aé{+-+}reas (Tabela 2). 
+
+Tabela 2 - Indicações 
+- Apneia;
+- Proteção das vias aéreas contra aspiração por vômitos ou sangue;
+- T{+rauma cranioencefálico (T+}CE{+)+} com escala de coma de Glasgow =8;{+ +}
+- Risco de obstrução por lesão de traqueia ou laringe, hematoma cervical ou retrofaríngeo, estridor e lesões térmicas;
+- Fraturas maxilofaciais graves;
+- Convulsão persistente;
+- Incapacidade de manter oxigenação com máscara de O2;
+- Necessidade de ventilação: paralisia neuromuscular, movimentos respiratórios inadequados, TCE grave com necessidade de hiperventi[---]lação.
+
+a) Intubação endotraqueal
+O médico deve optar pela intubação orotraqueal ou pela nasotraqueal, conforme sua experiência. A intubação nasotra-queal é contraindicada àqueles em apneia ou com TCE em que há a suspeita de trauma da base do crânio. Deve-se sempre atentar para a possibilidade de lesão cervical durante a intubação, de modo que o colar cervical deve ser mantido enquanto se realiza o procedimento, a menos que um 2º socorrista faça a estabilização manual da coluna cervical do paciente.
+Para confirmar o correto posicionamento da sonda, devem-se auscultar ambos os hemitórax e a região epigástrica (a intu-bação do esôfago resultará em borborigmos auscultados no epigástrio). O método mais fidedigno de confirmação da intuba-ção é a dosagem de CO2 expirado pelo capnógrafo. {+Se disponível, a detecção de CO2 expirado por capnógrafo colorimétrico também pode ser empregada. +}A sonda de intubação deve ser adequadamente fixada, e, sempre que o paciente for mobiliza{+-+}do, a fixação e o correto posicionamento deverão ser checados (Figura 2). A 1ª conduta diante daqueles que chegam intuba{+-+}dos ao hospital é confirmar a posição correta do tubo (reavaliar o “A”).
+
+ {+ +}
+Figura 2 - Intubação orotraqueal: (A) intubação com compressão cricoide {+(manobra de Sellick) +}e (B) exemplo de fixação da cânula
+
+Como a maioria das vítimas de trauma não está em jejum, o socorrista precisa estar familiarizado com a sequência de intu-bação rápida. 
+
+[-T-]{+Impo+}r[-a-]ta[-me-]nt[-o-]{+e+}
+Durante a intubação, o colar cervical deve ser mantido, a menos que um 2º socorrista faça a estabilização da coluna cer{+-+}vical. O método mais fidedigno para confirmar a intubação é a dosagem de CO2 expirado pelo capnógrafo.[- -]
+[-Figura 3 - Sequência de intubação rápida-]
+
+[-Vídeo-]
+[-Intubação orotraqueal-]
+ 
+{+Figura 3 - Sequência de intubação rápida +}
+
+b) Dispositivos auxiliares
+Na eventualidade de uma via aérea difícil, o socorrista deve estar habituado com o uso de dispositivos auxiliares, como a máscara laríngea, o tubo traqueoesofágico (Combitube®) e o Bougie (Figura 4). A última edição do Advanced Trauma Life Support (ATLS®) propõe um outro dispositivo, que é a máscara laríngea que permite intubação.
+@@ -109,12 +113,12 @@ Figura 4 - Dispositivos auxiliares: (A) m
+Tanto a máscara laríngea quanto o Combitube® são inseridos às cegas e servem como medida provisória até que se consi-ga uma via aérea adequada. Nenhum desses dispositivos deve ser considerado uma via aérea definitiva. O Bougie funciona como um fio-guia, também passado às cegas. A partir de sinais indiretos, como o relevo dos anéis traqueais e a percepção da dicotomização em brônquios principais, considera-se que ele está na traqueia, então a sonda traqueal é passada sobre ele.
+Como o próprio nome diz, a máscara laríngea que permite intubação é um dispositivo que possibilita a colocação de um tubo endotraqueal por dentro da máscara, permitindo assim a intubação “às cegas” (Figura 5).
+
+ {+  +}
+Figura 5 - Representação do uso da máscara laríngea que permite intubação{+. Coloca-se a máscara laríngea da maneira habitual e, pelo seu interior, introduz-se o tubo orotraqueal +}
+
+Pergunta
+2010 - UFRN 
+2. Considerando-se o procedimento de intubação orotraqueal com protocolo de sequência rápida em paciente critica{+-+}men[---]te enfermo, a sequência correta dos procedimentos a serem realizados é:
+a) preparação, pré-medicação, pré-oxigenação, paralisia muscular, intubação, monitorização pós-intubação
+b) pré-oxigenação, preparação, pré-medicação, paralisia muscular, intubação, monitorização pós-intubação
+c) preparação, pré-oxigenação, pré-medicação, paralisia muscular, intubação, monitorização pós-intubação
+@@ -122,7 +126,7 @@ d) pr
+Resposta no final do capítulo
+
+c) Via aérea cirúrgica
+É indicada aos casos de impossibilidade de intubação naso ou orotraqueal, como edema de glote, fratura de laringe e he-morragia orofaríngea grave (Figura 6). A cricotireoidostomia é o procedimento de escolha na Emergência, exceto {+na presen-ça de fratura de laringe e +}entre cri[---]anças menores de 12 anos, para não causar lesão da cartilagem cricoide, estrutura funda{+-+}mental nessa faixa etária para a sus[---]tentação da laringe.
+
+ 
+Figura 6 - Via aérea definitiva
+@@ -135,29 +139,21 @@ Figura 7 - Sequ
+No procedimento por punção (Figura 8), é feita a inserção de uma agulha na membrana cricotireóidea. Deve ser conecta-da a uma fonte de oxigênio a 15L/min, realizando insuflação intermitente. Capaz de oxigenar o paciente por 30 a 45 minutos em função da retenção de CO2, esse tipo de método ventilatório pode ser utilizado como ponte antes da cricotireoidostomia cirúrgica nos pacientes em apneia.
+
+ 
+Figura 8 - Cricotireoidostomia por punção{+ +}
+
+Dica
+Na cricotireoidostomia, o uso de uma seringa com líquido facilita a percepção de que a agulha está adequadamente colocada.
+
+A traqueostomia não deve ser feita durante o atendimento inicial do politraumatizado, salvo nas [-duas-]{+2+} situações apresen[---]tadas: menores de 12 anos e trauma de laringe. Nas demais, preconiza-se que a traqueostomia seja realizada no centro cirúr[---]gico, após a estabilização do paciente.
+
+[-5. -]Resumo
+
+Quadro-resumo
+- Garantir a permeabilidade das vias aéreas e a ventilação adequada é prioridade no atendimento do politraumatizado;
+- Todo paciente com risco de comprometimento da via aérea necessita de uma via aérea definitiva. A 1ª opção é a intubação tra[---]queal;
+- Na impossibilidade da intubação, realiza-se a cricotireoidostomia. Só se realiza a traqueostomia na sala de emergência em situa[---]ções especiais (menores de 12 anos e trauma de laringe);
+- Durante toda avaliação das vias aéreas, deve-se proteger a coluna cervical.
+
+Respostas{+ das questões do capítulo+}
+1. C
+2. C[-Mapa mental -]
+[- -]
+
+[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
