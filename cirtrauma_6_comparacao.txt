@@ -1,0 +1,164 @@
+diff --git a/cirtrauma_6.txt b/cirtrauma_6.txt
+index 3eeaf17..1be2f0f 100644
+--- a/cirtrauma_6.txt
++++ b/cirtrauma_6.txt
+@@ -1,8 +1,7 @@
+Trauma cranioencefálico
+Eduardo Bertolli
+
+[-Resumo-]Neste capítulo, será abordado o trauma cranioencefálico, causa muito comum de óbito no trauma. A avaliação desse tipo de trauma respeita a sequência do Advanced Trauma Life Support (ATLS®), correspondendo à etapa D do atendimento, que con{+-+}siste em avaliação neurológica, em que se avaliam nível de consciência, pupilas e sinais de localização de lesões. O nível de consciência é estimado pela escala de coma de Glasgow (ECG), em que são atribuídos pontos às melhores respostas do pacien{+-+}te em 3 parâmetros clínicos (abertura ocular, melhor resposta verbal e melhor resposta motora).[- O trauma cranioen-cefálico chega a ser cobrado em 8,5% das questões de Cirurgia do Trauma e serve de base para questões de Neurologia, Neurocirurgia e Medicina Intensiva.-]
+
+1. Introdução
+
+@@ -19,8 +18,8 @@ Fechado	- Alta energia: acidentes automobil
+Penetrante	- Ferimento por arma de fogo;
+	- Outros ferimentos.
+Gravidades
+Leve	Escore da Escala de Coma de Glasgow (ECG) de 1[-4-]{+3+} a 15: 3% de necessidade de cra{+-+}niotomia
+Moderado	Escore ECG de 9 a 1[-3-]{+2+}: 9% de craniotomia
+Grave	Escore ECG de 3 a 8: 19% de craniotomia
+Morfologias
+Fraturas do crânio	- De calota: lineares ou estreladas, com ou sem afundamento, expostas ou fechadas;
+@@ -46,27 +45,24 @@ O aumento da PIC leva a queda na Press
+PPC = PAM - PIC
+
+Importante
+É importante manter a Pressão Arterial Média (PAM) normal para manter a perfusão cerebral. Pressão de perfusão cere{+-+}bral <70mmHg relaciona-se a evolução desfavorável. Outro índice importante é o fluxo sanguíneo cerebral, cujo valor normal é de 50mL por 100g de cérebro por minuto. Se esse fluxo diminui para menos de 20 a 25mL, a atividade eletro{+-+}encefalográfica desaparece. Se menor de 5mL, há morte celular com consequente lesão irreversível. Se a PAM cai para valores menores do que 50mmHg, há diminuição abrupta do fluxo sanguíneo cerebral. Para evitar lesões, deve-se tentar manter a PAM e evacu[---]ar hematomas precocemente.
+
+4. Avaliação inicial
+
+A avaliação inicial segue a padronização do Advanced Trauma Life Support (ATLS®). Como a hipóxia pode causar alteração do nível de consciência, pacientes com rebaixamento sensório têm indicação de via aérea definitiva. A proteção da coluna cervical deve ser mantida até a exclusão completa da lesão. A correção de perdas volêmicas também é importante, pois al-guns casos de alteração neurológica podem ser secundários a hipovolemia.
+Durante o exame primário, a avaliação neurológica consta de um exame rápido, em que se avaliam nível de consciência, pupilas e sinais de localização de lesões. O nível de consciência é estimado pela ECG (ou GCS – Glasgow Coma Score), em que são atribuídos pontos às melhores respostas do paciente em 3 parâmetros clínicos (Tabela 2).{+ O conceito de melhor resposta deve ser aplicado principalmente quando houver diferença entre lados ou segmentos apendiculares.+}
+
+Tabela 2 - Escala de coma de Glasgow
+Abertura ocular (O)	Espontânea	4
+	Ao estímulo verbal	3
+	Ao estímulo doloroso	2
+	Sem resposta	1
+Melhor{+ +}resposta verbal (V)	Orientado 	5
+	Confuso	4
+	Palavras inapropriadas 	3
+	Sons incompreensíveis 	2
+	Sem resposta 	1
+Melhor{+ +}resposta motora (M)	Obediência a comandos	6
+	Localização da dor	5
+	Flexão normal (retirada)	4
+	Flexão anormal (decorticação)	3
+@@ -81,12 +77,11 @@ Figura 2 - Anisocoria: miose 
+
+Tabela 3 - Avaliação da reação pupilar
+Tamanho da pupila	Respostas à luz	Interpretações
+Midríase unilateralmente	Lenta ou ausente	Compressão do III nervo (oculomotor) secundária a hernia{+-+}ção tentorial, seguida de ptose palpebral e paresia muscular medial (olho para baixo e para fora)
+Midríase bilateralmente	Lenta ou ausente	- Perfusão cerebral inadequada;
+		- Paralisia bilateral do III nervo.
+Midríase unilateralmente ou igual	Reação cruzada (Marcus Gunn)	Lesão do II nervo (óptico)
+Miose bilateral	Difícil determinar	- Drogas (opiáceo);
+		- Lesão da ponte;
+		- Encefalopatia metabólica.
+Miose unilateral	Preservada	Lesão do trato simpático
+@@ -95,8 +90,8 @@ J
+
+5. Gravidade 
+
+A - Leve (ECG = 1[-4-]{+3+} [-e-]{+a+} 15)
+Aproximadamente 80% dos pacientes com TCE que chegam ao pronto-socorro são classificados como TCE leve. Cerca de 3% apresentam piora inesperada, que resulta em disfunção neurológica grave se não diagnosticada precocemente e tratada de forma adequada. O ideal é fazer uma Tomografia Computadorizada (TC) de crânio em todos os portadores de TCE, especi-almente na presença de história de manifestação mais significativa, como perda momentânea da consciência, amnésia ou cefaleia grave. Se a tomografia não estiver disponível, {+ou se não houver mecanismo de trauma importante, +}esses pacientes deverão ser observados no hospital por 12 a 24 horas.
+
+ 
+Figura 3 - Conduta no trauma cranioencefálico leve
+@@ -113,17 +108,17 @@ Tabela 4 - Outros crit
+- Impossibilidade de retorno rápido ao hospital.
+* Pacientes que necessitam de avaliação de neurocirurgião devem ser transferidos precocemente caso não haja disponibilidade no serviço.
+
+B - Moderado (ECG = 9 a 1[-3-]{+2+})
+Aproximadamente 10% das vítimas de TCE que chegam ao pronto-socorro têm TCE moderado, e cerca de 10 a 20% destes apresentam piora e entram em coma. Devem ser tomadas todas as precauções para proteger as vias aéreas. A TC de crânio deve ser sempre realizada nessa situação. 
+
+Tratamento
+Cerca de 9% dos pacientes com trauma cranioencefálico moderado necessitarão de intervenção cirúrgica. O paciente é internado para observação, mesmo com tomografia normal. São realizadas avaliações neurológicas frequentes, e a tomo{+-+}gra[---]fia de crânio será repetida se as condições piorarem e/ou preferencialmente antes da alta. Se o paciente melhora (90%), ele recebe alta e seguimento ambulatorial. Em caso de piora ou manutenção do quadro (10%), repete-se a tomo{+-+}grafia, e o paci[---]ente passa a ser tratado como trauma cranioencefálico grave.
+
+C - Grave (ECG = 3 a 8)
+São os pacientes incapazes de obedecer a ordens simples, mesmo após a estabilização cardiopulmonar. A lesão cerebral é, com frequência, agravada por agressões secundárias. A presença de hipotensão na admissão é acompanhada de um au-mento significativo da taxa de mortalidade (60% contra 27%). A presença de hipóxia somada a hipotensão está associada à mortalidade de 75%. Portanto, no TCE grave, é imperativo que a estabilização cardiopulmonar seja alcançada rapidamente (Figura 4).
+
+[-Dic-]{+Import+}a{+nte+}
+Todos aqueles com trauma cranioencefálico grave devem ser submetidos a intubação endotraqueal precoce e ventilação com oxigênio a 100%. A hiperventilação pode ser usada cautelosamente em pacientes que apresentem piora na escala de coma de Glasgow ou dilatação pupilar. A pCO2 deve ser mantida entre [-2-]{+3+}5 [-e-]{+++} 3[-5-]mmHg.
+
+A hipotensão não é consequência do TCE (exceto em estágios terminais com insuficiência medular). A hipotensão decor-re, mais comumente, de perda importante de sangue ou de lesão da medula espinal, tamponamento cardíaco ou pneumotó-rax hipertensivo. Logo, no paciente hipotenso com TCE, devem ser excluídas todas as outras causas de hipovolemia. Cerca de 50% dos pacientes com TCE grave apresentam lesões sistêmicas importantes.
+
+@@ -131,20 +126,20 @@ A hipotens
+Figura 4 - Atendimento inicial do paciente com trauma cranioencefálico grave 
+
+6. Lesões específicas
+
+A - Fraturas do crânio
+
+a) Calota
+Podem ocorrer lesões lineares ou estreladas, com ou sem afundamento, expostas ou fechadas. Estará indicada a redução cirúrgica se houver afundamentos maiores{+ que a espessura da calota craniana adjacente+}, sinais de hipertensão intracraniana, perda de líquido cerebrospinal ou fraturas expostas (Figura 5).
+
+ 
+Figura 5 - Fratura complexa da calota craniana por acidente de moto 
+Fonte: www.trauma.org.
+
+b) Base do crânio
+A fratura da base do crânio é comum nos traumas fechados. São vários os sinais clínicos que sugerem esse tipo de lesão, cuja confirmação diagnóstica pode ser obtida pela TC com cortes coronais. Na presença dos sinais clínicos, [-faz-]{+tem+}-se a suspeita de fratura da base do crânio, portanto sondas e tubos não podem ser passados por via nasal. O tratamento, na maioria das vezes, é conservador.
+
+Quadro clínico
+Os principais sinais de fratura da base do crânio são equimose periorbital (“olhos de guaxinim”), equimose retroauricular ou do mastoide (sinal de Battle), fístula liquórica (rinorreia ou otorreia), hemotímpano e paralisia do VII par (nervo facial).[- -]
+
+ 
+Figura 6 - Fratura da base do crânio: (A) aspecto tomográfico e (B) sinal dos “olhos de guaxinim”
+@@ -190,7 +185,7 @@ Contus
+
+Pergunta
+2014 - UEL 
+2. Um paciente sofreu acidente de carro há 3 horas, sem perda de consciência. Há 1 hora, começou a ficar sonolento, com dificuldade de movimentar o membro superior direito. Ao exame, apresenta midríase à esquerda. Na radiografia de crâ[---]nio, observa-se fratura temporal esquerda. O diagnóstico é:
+a) ataque isquêmico transitório
+b) comoção cerebral
+c) contusão cerebral
+@@ -217,9 +212,9 @@ Les
+- TC de crânio muitas vezes normal;
+- Pacientes com TCE grave e TC de crânio normal com possível lesão axonal difusa;
+- Como mecanismo do trauma, força de cisalhamento consequente à aceleração rotacional da cabeça.
+Anormalidades fundamentais em estudos anato{+-+}mopato[---]lógicos	- Lesão focal do corpo caloso;
+	- Lesão da porção rostral do tronco encefálico;
+	- Alterações morfológicas dos axônios sob a forma de esferoides de retra{+-+}ção.
+
+D - Ferimentos penetrantes do crânio
+São, normalmente, lesões graves, que necessitam do mesmo tratamento inicial de qualquer outro trauma. Essas lesões en-tre pacientes suicidas têm características próprias que as tornam mais graves, pela pouca distância e pelo trajeto provável com alta incidência de lesão vascular (artéria cerebral média e seus ramos – Figura 7 - E).
+@@ -227,16 +222,15 @@ A maioria requer tratamento cir
+Alguns fatores associam-se ao pior prognóstico, como ECG <5, lesões por projéteis de alta velocidade, posturas de desce-rebração, decorticação, flacidez ou midríase fixa, lesões cruzando a linha média e transcerebrais e/ou transventriculares. Pacientes com ferimentos penetrantes e Glasgow de 3 a 4, na maioria das vezes, não são considerados cirúrgicos.
+
+7. Tratamento clínico 
+
+Devem ser adotadas medidas que visem prevenir lesão secundária em um cérebro já lesado. Devem-se evitar a desidrata-ção e a sobrecarga hídrica, além de manter o paciente normovolêmico e euglicêmico, e recomenda-se solução salina isotôni-ca ou Ringer lactato. A hiponatremia causa edema cerebral e deve ser evitada ou tratada agressivamente quando presente. O ATLS®, em sua 9ª edição, mantém a preconização quanto ao uso de soluções salinas isotônicas ou de Ringer lactato.
+Soluções salinas hipertônicas de 3 a 23,4% podem ser utilizadas para reduzir a PIC, preferencialmente em pacientes hipo-volêmicos, por não agirem como diurético. Entretanto, nesses pacientes, a redução da PIC dificilmente será obtida com solu-ção salina ou manitol.
+A hiperventilação deve ser usada com moderação, mantendo a pCO2 ao redor de 3[-0-]{+5 + 3+}mmHg e por um período limitado. De[---]ve-se evitar pCO2 <25mmHg. Sua diminuição resulta em vasoconstrição cerebral, que leva à redução do volume intracrani{+-+}ano. Inicialmente, ajuda a reduzir a pressão intracerebral, porém, se prolongada ou agressiva, pode levar a isquemia cerebral. Já a hipercapnia (pCO2 >45mmHg) promove vasodilatação e aumento da PIC.
+O manitol é um diurético osmolar utilizado para a redução da PIC e deve ser evitado em pacientes hipotensos, pois agrava a hipovolemia. As indicações mais precisas são comatosos que têm pupilas normais e evoluem com dilatação pupilar com ou sem hemiparesia, ou pacientes com ambas as pupilas dilatadas e não reativas e não hipotensos. A furosemida pode ser utiliza-da juntamente com o manitol quando a PIC está elevada, após consulta com neurocirurgião.
+Esteroides não são recomendados no tratamento agudo do TCE. Barbitúricos são eficientes na redução da PIC refratária a outras medidas, mas não devem ser usados na presença de hipotensão ou hipovolemia. Quanto aos anticonvulsivantes, pode-se utilizar a fenitoína na 1ª semana pós-trauma, como profilaxia de convulsões. A epilepsia pós-traumática ocorre em 5% dos pacientes admitidos com TCE e em 15% daqueles com TCE grave.
+
+Pergunta
+2012 - SANTA CASA-SP 
+3. No atendimento do paciente vítima de trauma de crânio, além da proteção das vias aéreas com estabilização da colu{+-+}na, são medidas importantes:
+a) pO2 =80mmHg e reposição hídrica normovolêmica
+b) SatO2 = 90% e reposição hídrica normovolêmica
+c) SatO2 = 90% e reposição hídrica com hipovolemia
+@@ -248,7 +242,7 @@ Resposta no final do cap
+
+Está indicado nas lesões do couro cabeludo (debridamento, hemostasia e sutura da lesão), fraturas com afundamento do crânio (devem ser reduzidas, se profundas) e lesões intracranianas de massa (devem ser tratadas pelo neurocirurgião). Em geral, realiza-se a preparação do lado em que a pupila está dilatada. A trepanação de emergência só deve ser realizada por médico treinado, com a anuência e a orientação de um neurocirurgião. Na necessidade de avaliação neurocirúrgica, a trans-ferência não deve ser postergada em detrimento da realização de exames diagnósticos.
+
+[-9. -]Resumo
+
+Quadro-resumo
+- O atendimento ao paciente com TCE segue a padronização do ATLS®. A coluna cervical deve permanecer imobilizada até a exclusão de lesão. Pacientes inconscientes têm indicação de via aérea definitiva;
+@@ -260,15 +254,7 @@ Quadro-resumo
+- Existem vários tipos de lesões específicas, como fratura de crânio, lesões intracranianas focais (hematomas extradural e subdural, contusões e hematomas intracerebrais), lesões intracranianas difusas (concussão leve, concussão cerebral clássica e lesão axonal difusa) e os ferimentos penetrantes do crânio;
+- O tratamento pode ser clínico ou cirúrgico.
+
+Respostas{+ das questões do capítulo+}
+1. B
+2. D
+3. A[-Mapa mental -]
+[- -]
+
+[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
