@@ -1,8 +1,7 @@
-Manifestações oportunistas na AIDS
+   Manifestações oportunistas na AIDS
 Durval A. G. Costa
 
-Resumo
-Neste capítulo, serão abordadas, de forma abrangente, as principais afecções que acometem o paciente HIV positivo, espe-cialmente quando a doença evolui para AIDS. As complicações neurológicas (como neurotoxoplasmose, neurotuberculose, neurocriptococose e linfoma do sistema nervoso central), as pulmonares (como pneumocistose, tuberculose pulmonar, micobacteriose atípica e infecções fúngicas), as do trato gastrintestinal (monilíase, candidíase esofágica, tumores e diarrei-as) e as de pele (herpes-zóster, herpes-simples, sarcoma de Kaposi) são as mais comuns. Essas manifestações costumam aparecer principalmente quando a carga de linfócitos T CD4 está baixa (em geral, abaixo de 500), sendo a resposta celular pouco eficiente no combate às infecções.
+Neste capítulo, serão abordadas, de forma abrangente, as principais afecções que acometem o paciente HIV positivo, especi-almente quando a doença evolui para AIDS. As complicações neurológicas (como neurotoxoplasmose, neurotuberculose, neurocriptococose e linfoma do sistema nervoso central), as pulmonares (como pneumocistose, tuberculose pulmonar, mico-bacteriose atípica e infecções fúngicas), as do trato gastrintestinal (monilíase, candidíase esofágica, tumores e diarreias) e as de pele (herpes-zóster, herpes-simples, sarcoma de Kaposi) são as mais comuns. Essas manifestações costumam aparecer principalmente quando a carga de linfócitos T CD4 está baixa (em geral, abaixo de 500), sendo a resposta celular pouco efici-ente no combate às infecções.
 
 1. Doenças oportunistas 
 
@@ -26,14 +25,16 @@ Perda de peso e adinamia
 Diarreia crônica	
 
 2. Doenças oportunistas específicas
+
 Serão divididas por aparelhos, para tentar facilitar o entendimento e a memorização das doenças mais habituais em cada sistema do organismo. A Tabela 2 resume as principais por cada tipo de aparelho.
 
 Tabela 2 - Principais doenças oportunistas específicas
 Sistemas	Doenças associadas ao HIV
 Neurológico	- Meningite/encefalite pelo HIV ou pelo vírus herpes;
 	- Neuropatias periféricas pelo HIV;
-	- Infecções parasitárias: neurotoxoplasmose, neurocriptococose;
+	- Infecções parasitárias: neurotoxoplasmose;
 	- Neurossífilis;
+	- Neurocriptococose;
 	- Neurotuberculose;
 	- Tumorais: linfoma do Sistema Nervoso Central (SNC).
 Pulmonar	- Pneumonia por P. jirovecii;
@@ -43,13 +44,13 @@ Pulmonar	- Pneumonia por P. jirovecii;
 Trato 
 gastrintestinal	- Monilíase oral e esofágica;
 	- Esofagite por vírus: herpes, citomegalovírus (CMV), idiopática;
-	- Diarreia crônica: isosporíase, criptosporidíase, microsporidíase, CMV, micobacterioses atípicas, salmonelose não tifoídica;
+	- Diarreia crônica: isosporíase, criptosporidíase, microsporidíase, CMV, micobacterioses atípicas, salmone-lose não tifoídica;
 	- Pancreatite por CMV, pelo HIV;
 	- Úlceras intestinais por CMV, salmonelose; 
 	- Tumores: linfomas de estômago, mesentéricos, intestinais. 
 Hematológico	- Pancitopenia pelo HIV, por citomegalovirose;
 	- Púrpura trombocitopênica idiopática.
-Nefrológico	- Glomerulonefrites: glomeruloesclerose segmentar e focal (mais comum); rapidamente progressi-va (ambas pelo HIV);
+Nefrológico	- Glomerulonefrites: glomeruloesclerose segmentar e focal (GESF), sendo a mais frequente a variante co-lapsante da GESF; rapidamente progressiva (ambas pelo HIV);
 	- Infecção renal aguda por CMV ou tuberculose disseminada.
 Cardíaco	- Miocardite/cardite pelo HIV;
 	- Tumores: linfoma cardíaco.
@@ -58,9 +59,10 @@ Oftalmológico	- Coriorretinite: toxoplasmose, CMV;
 Dermatológico	Virais: herpes-zóster, herpes-simples disseminado, CMV, molusco contagioso
 
 3. Sistemas nervosos central e periférico
-Diversas alterações podem ocorrer no sistema nervoso associadas diretamente ao vírus ou a doenças oportunistas.
 
-Tabela 3 - Doenças do sistema nervoso central associadas ao HIV
+Diversas alterações podem ocorrer no sistema nervoso, associadas diretamente ao vírus ou a doenças oportunistas.
+
+Tabela 3 - Doenças do sistema nervoso associadas ao HIV
 Doenças relacionadas ao HIV
 - Meningite asséptica;
 - Encefalite relacionada ao HIV;
@@ -78,13 +80,13 @@ A - Alterações pelo HIV
 Após 30 anos do início da infecção pelo HIV, muito se aprendeu sobre o comportamento do vírus como causador de le-sões per se. A 1ª mudança é que 100% daqueles com infecção aguda apresentam grande quantidade de vírus também no SNC, já que a célula da glia é um dos santuários conhecidos do vírus atualmente. 
 
 Importante
-Caso seja feito um exame de liquor em um paciente com HIV agudo, ele aparecerá com uma característica de meningite viral (celularidade razoavelmente alta, glicose normal, proteína aumentada ou predomínio de linfócitos). Caso seja realizado um exame de carga viral no liquor, este mostrará alta quantidade de vírus. 
+Caso seja feito um exame de liquor em um paciente com HIV agudo, ele aparecerá com uma característica de meningite viral (celularidade razoavelmente alta, glicose normal, proteína aumentada ou predomínio de linfócitos). Caso seja realizado um exame de carga viral no liquor, este mostrará alta quantidade de vírus.
 
 a) Encefalite/meningite pelo HIV
-Nos pacientes com HIV agudo, principalmente, pode ocorrer infecção com síndrome clássica de uma meningite viral: cefa-leia, febre baixa e pleocitose liquórica com predomínio de linfócitos. O tratamento é basicamente hidratação e analgesia. 
-
+Nos pacientes com HIV agudo, principalmente, pode ocorrer infecção com síndrome clássica de uma meningite viral: cefa-leia, febre baixa e pleocitose liquórica com predomínio de linfócitos. O tratamento é basicamente hidratação e analgesia.
+ 
 Dica
-A cultura nas meningites/encefalites por HIV é habitualmente negativa, por isso se cita o termo “meningite asséptica” nes-ses casos. 
+A cultura nas meningites/encefalites por HIV é habitualmente negativa, por isso se cita o termo “meningite asséptica” nes-ses casos.
 
 b) Demência pelo HIV
 Neste perfil, os pacientes têm HIV em período latente ou crônico. É um diagnóstico de exclusão, mas geralmente é con-firmado com carga viral presente e alta no SNC de indivíduos com diagnóstico prévio de HIV há muitos anos. O tratamento deve ser feito com medicações antirretrovirais que tenham boa penetração no SNC. Pode ocorrer inclusive em pacientes que tenham bom controle de carga viral no sangue (indetectável), mas alta carga viral no liquor, pelo motivo de não haver pene-tração da barreira hematoencefálica por vários medicamentos. Existe, inclusive, uma escala dessas medicações, com um esco-re para boa penetração. Qualquer doença oportunista no SNC deve ter preferência para tratamento com essas drogas.
@@ -97,25 +99,26 @@ Inibidores análogos nucleosídeos	Zidovudina	- Abacavir;
 - Estavudina.	- Tenofovir;
 - Zalcitabina.
 Inibidores não análogos nucleosí-deos	Nevirapina	Efavirenz	Etravirina	--
-Inibidores de protease	Indinavir/ritonavir	- Darunavir/ritonavir;
-- Fosamprenavir/ritonavir;
+Inibidores de protease	Indinavir/
+ritonavir	- Darunavir/ritonavir;
+- Fosamprena-vir/ritonavir;
 - Indinavir;
 - Lopinavir/ritonavir.	- Atazanavir;
-- Atazanavir/ritonavir;
+- Atazana-vir/ritonavir;
 - Fosamprenavir.	- Nelfinavir;
 - Ritonavir;
 - Saquinavir;
 - Tipranavir.
 Inibidores de entrada	--	Maraviroque	--	Enfuvirtida
 Inibidores de integrasse	--	Raltegravir	--	--
-Observação: o somatório dos antirretrovirais deve resultar pelo menos 4 para boa penetração no SNC.
+Observação: o somatório dos antirretrovirais deve resultar em pelo menos 4 para boa penetração no SNC.
 Fonte: LETENDRE et al., 2010.
 
 c) Polineuropatia pelo HIV
 Geralmente, é um diagnóstico polietiológico, já que o paciente se encontra na maior parte dos casos desnutrido e com perda vitamínica pela sua condição, facilitando neuropatias periféricas. Normalmente, ocorre em extremidades, principal-mente nos membros inferiores, com queixa de fadiga e parestesia, além de dor ocasional. O tratamento inclui terapia antirre-troviral e melhora dos suportes vitamínico (geralmente vitaminas do complexo B) e nutricional. Caso persista dor, eletroneu-romiografia deve ser realizada, e o uso de drogas como gabapentina alivia bastante os sintomas. 
 
-B - Toxoplasmose do sistema nervoso central
-É a manifestação neurológica mais comum no paciente HIV positivo, relacionada ao quadro de imunodepressão, causando efeito de massa no SNC de indivíduos acometidos. O quadro clínico costuma ser subagudo, com duração de 2 a 3 semanas. Os sinais e os sintomas mais frequentes são alterações sensoriais (50 a 90%), hemiparesia e outros sinais focais (60%), cefaleia (50%), convulsões (30%), acidentes cerebrovasculares (30%) e sinais de irritação meníngea (menos de 10%). Febre é uma queixa comum, e podem estar presentes confusão e coma.
+B - Toxoplasmose do sistema nervoso central 
+É a manifestação neurológica mais comum no paciente HIV positivo, relacionada ao quadro de imunodepressão, causando efeito de massa no SNC de indivíduos acometidos. Apresenta risco de ocorrência em pacientes com CD4 abaixo de 200 célu-las/mm3, com risco acentuado abaixo de 100 células/mm3. O quadro clínico costuma ser subagudo, com duração de 2 a 3 semanas. Os sinais e os sintomas mais frequentes são alterações sensoriais (50 a 90%), hemiparesia e outros sinais focais (60%), cefaleia (50%), convulsões (30%), acidentes cerebrovasculares (30%) e sinais de irritação meníngea (menos de 10%). Febre é uma queixa comum, e podem estar presentes confusão e coma.
 
 Importante
 A toxoplasmose é a manifestação neurológica oportunista mais comum nos pacientes com HIV, causando efeito de massa no sistema nervoso central, que gera sintomas como alterações sensoriais, hemiparesia, cefaleia, convulsões, acidente vascular cerebral, febre e até coma.
@@ -123,9 +126,12 @@ A toxoplasmose é a manifestação neurológica oportunista mais comum nos pacientes
 Apesar de a sorologia para Toxoplasma gondii ser positiva em 84%, pode ocorrer de negativar sorologia previamente po-sitiva ou toxoplasmose aguda sem capacidade de produzir anticorpos. Esses dados ocorrem entre 5 e 15% dos casos.
 
  
-Figura 2 - (A) Tomografia com lesão expansiva na região da cápsula interna; a seta vermelha mostra o realce após a infusão com con-traste, e (B) a mesma paciente com uma ressonância mostrando a cápsula contrastada (seta amarela) e a grande área de edema (seta vermelha)
+Figura 2 - (A) Tomografia com lesão expansiva na região da cápsula interna; a seta vermelha mostra o realce após a infusão com contraste, e (B) a mesma paciente com uma ressonância mostrando a cápsula contrastada (seta amarela) e a grande área de edema (seta vermelha)
 
 A Tomografia Computadorizada (TC) de crânio classicamente mostra múltiplas lesões hipodensas com reforço anelar de contraste (1 a 2cm de tamanho), envolvendo, preferencialmente, os gânglios da base, junção da substância branca e cinzenta. O edema perilesional pode fazer grandes estragos, inclusive com desvio de linha média, situação que deve ser tratada com corticoides. A Ressonância Nuclear Magnética (RNM) consegue visualizar lesões que, às vezes, são imperceptíveis na TC e é muito útil no diagnóstico diferencial com outras lesões do SNC no paciente com AIDS. O liquor é inespecífico, com proteína discretamente aumentada, mas não acima de 150mg/dL. A coleta do liquor é indicada para afastar outras doenças, como criptococose ou tuberculose de SNC. Pode ser realizada detecção de DNA de T. gondii por técnicas de PCR no líquido cere-brospinal. Entretanto, a especificidade do exame ainda é questionável, pois, muitas vezes, pode haver falsos positivos. Atual-mente, tem-se preferido PCR do tipo real time, com melhor sensibilidade e especificidade.
+
+Importante
+Convém lembrar-se do padrão da imagem na neurotoxoplasmose: lesões hipodensas, próximos aos gân-glios da base e com realce anelar (duplo anel contrastado). 
 
  
 Figura 3 - Ressonâncias de encéfalo – lesões em regiões características (geralmente próximas ao 3º ventrículo): (A) a lesão exige um esforço maior para visualização (seta) e (B) observa-se maior lesão com edema importante perilesional (área escura)
@@ -134,6 +140,7 @@ O padrão-ouro para o diagnóstico é a biópsia cerebral. Entretanto, pelos locais 
 
 Dica
 O padrão-ouro para o diagnóstico de neurotoxoplasmose é a biópsia cerebral, porém, devido aos danos desse procedi-mento, opta-se por um tratamento empírico aos pacientes com forte suspeita de toxoplasmose.
+
 - Diagnósticos diferenciais de toxoplasmose no sistema nervoso central
 Considera-se a prevalência de cada tipo de doença para fazer os diferenciais.
 
@@ -151,25 +158,29 @@ Por exemplo, pacientes com lesão única à TC podem ter linfoma como principal cau
 Tabela 6 - Esquemas para tratamento
 	Esquemas 	Características e doses
 1ª escolha	Sulfadiazina 500mg
-+	- 3 comprimidos, 6/6h, por 42 dias (4 a 6g/d);
-- Risco alto de anemia. Hepatotoxicidade frequente. Insufici-ência renal por cristalização. 
++	- A dose é de 4 a 6g/d, dependendo do peso. O recomendado é 1.000mg, 6/6h (peso <60kg), ou 1.500mg, 6/6h (peso > 60kg), por 42 dias;
+- Risco alto de anemia. Hepatotoxicidade frequente. Insuficiência renal por cristalização. 
 	Pirimetamina 25mg 
-+	2 comprimidos, 1x/d, por 42 dias
++	- Dose de ataque de 200mg no 1º dia;
+- A partir do 2º dia, 2 comprimidos de 50mg, 1x/d se abaixo de 60kg, ou 75mg se acima de 60kg, por 42 dias.
 	Ácido folínico 15mg	- 1 comprimido, 1x/d;
 - Usado para evitar anemia. A sulfa bloqueia a transformação de ácido fólico em ácido folínico no corpo, causando anemia por deficiência de folato;
-- Diferente do acido fólico (5mg), pois já é o produto da de-gradação da forma ativa desse mesmo ácido. 
-2ª escolha	Substituição apenas de sulfadiazina por clindamicina, em pacientes alérgicos a sulfa	- 600mg, 6/6h, por 42 dias;
-- Uso prolongado de clindamicina pode levar a colite pseudo-membranosa.
-Terapia adjuvante	Corticoides: dexametasona	4mg, 6/6h, em paciente com desvios de linha média
-Profilaxia secundária	Mesmas drogas do esquema de ataque, mas com dose menor da 1ª droga	- Se com sulfadiazina: 500mg, 6/6h;
+- Diferente do acido fólico (5mg), pois já é o produto da degradação da forma ativa desse mesmo ácido. 
+2ª escolha	Substituição apenas de sul-fadiazina por clindamicina, em pacientes alérgicos a sulfa	- 600mg, 6/6h, VO ou IV, por 42 dias; 
+- Uso prolongado de clindamicina pode levar a colite pseudomembranosa.
+Terapia adju-vante	Corticoides: 
+dexametasona	4mg, 6/6h, em paciente com desvios de linha média ou sinais de edema ce-rebral
+Profilaxia se-cundária 	Mesmas drogas do esquema de ataque, mas com dose menor da 1ª droga	- Se com sulfadiazina: 500mg a 1g, 6/6h;
 		- Se com clindamicina: 300mg, 6/6h.
-	Dose menor da pirimetamina	- Pirimetamina 25mg, 1x/d;
+	Dose menor da pirimetami-na	- Pirimetamina 25mg a 50mg, 1x/d;
 		- Duração até que o nível de CD4 fique >200. 
 
-Tratamento
-O tratamento da toxoplasmose é empírico, sendo o de 1ª escolha o esquema com sulfadiazina + pirimetamina + ácido folí-nico, por 42 dias.
+Lembrar que a profilaxia primária da toxoplasmose no sistema nervoso central é feita em pacientes que nunca tiveram a doença e que apresentam contagem de CD4 abaixo de 200 células/mm3. Ela é feita apenas com sulfametoxazol-trimetoprima, que também faz profilaxia primária para toxoplasmose, como descrito adiante. Deve ser mantida até que o valor de CD4 per-maneça acima de 200 células/mm3, por pelo menos 2 dosagens com intervalo mínimo de 3 meses. 
 
-Apesar de o tratamento ser feito com medicações via oral na maioria das vezes, o paciente deve permanecer internado nos primeiros dias, e deve ser programado novo exame de imagem em 15 dias, para o acompanhamento da resposta. Pacien-tes com mais de 3 semanas de tratamento que não apresentem qualquer melhora da lesão devem ser biopsiados, para des-cartar tumores ou outras alterações do SNC. Aqueles com crise convulsiva no início do quadro devem ser hidantalizados (feni-toína 100mg, 8/8h) para diminuir o risco de novas convulsões.
+Tratamento
+O tratamento da neurotoxoplasmose é empírico, sendo o de 1ª escolha o esquema com sulfadiazina + pirimetamina + ácido folínico, por 42 dias.
+
+Apesar de o tratamento ser feito com medicações via oral na maioria das vezes, o paciente deve permanecer internado nos primeiros dias, e deve ser programado novo exame de imagem em 15 dias para o acompanhamento da resposta. Pacien-tes com mais de 3 semanas de tratamento que não apresentem qualquer melhora da lesão devem ser biopsiados, para des-cartar tumores ou outras alterações do SNC. 
 
 Pergunta
 2014 - UFSC
@@ -194,33 +205,33 @@ Pode haver efeito de massa a exemplo da toxoplasmose, mas as paredes são bem mai
 O liquor não se apresenta com pleocitose nem com grande quantidade de células neoplásicas, o que dificulta o tratamen-to. Pode ser normal em até metade dos casos. Geralmente, o óbito ocorre em quase 100% dos pacientes, ainda que sejam realizadas radioterapia e quimioterapia. 
 
  
-Figura 4 - Duas lesões causadas por linfoma do sistema nervoso central, vistas à ressonância nuclear magnética: alguns aspectos favo-recem o diagnóstico de linfoma em detrimento da toxoplasmose: lesão única, não visualização da cápsula, lesão opaca, geralmente hipercaptante. Em imagens como essas, o tratamento empírico de toxoplasmose pode significar a morte precoce do paciente em 1 ou 2 meses, por isso a biópsia é necessária
+Figura 4 - Duas lesões causadas por linfoma do sistema nervoso central, vistas à ressonância nuclear magnética: alguns aspectos favorecem o diagnóstico de linfoma em detrimento da toxoplasmose: lesão única, não visualização da cápsula, lesão opaca, geralmente hipercaptante. Em imagens como essas, o tratamento empírico de toxoplasmose pode significar a morte precoce do paciente em 1 ou 2 meses, por isso a biópsia é necessária
 
 D - Leucoencefalopatia multifocal progressiva
-A LEMP é causada por um poliomavírus, o vírus JC. Após a toxoplasmose e o linfoma, é uma das doenças mais prevalentes no SNC associada ao HIV. Tem predileção pelo cérebro e causa uma degeneração progressiva da substância branca, geralmen-te cortical. O paciente não costuma ter déficits focais tão importantes quanto na toxoplasmose. A evolução é lenta (dura me-ses), ao contrário do linfoma, que é rápido. 
+A LEMP é causada por um poliomavírus, o vírus JC. Após a toxoplasmose e o linfoma, é uma das doenças mais prevalentes no SNC associada ao HIV. Tem predileção pelo cérebro e causa uma degeneração progressiva da substância branca, geralmen-te cortical, sinal conhecido como “dedo de luva”. O paciente não costuma ter déficits focais tão importantes quanto na toxo-plasmose. A evolução é lenta (dura meses), ao contrário do linfoma, que é rápido. 
 
 Importante
-A leucoencefalopatia multifocal progressiva é causada pelo vírus JC, que causa uma degeneração progressiva da substância branca, levando a déficits cognitivos leves e perda de força inicialmente. O diagnóstico é feito pela detecção do vírus no PCR do liquor, e o tratamento é feito com o uso de antirretrovirais, a fim de aumentar o número de linfócitos T CD4.
+A leucoencefalopatia multifocal progressiva é causada pelo vírus JC, que causa degeneração progressiva da substância branca, levando a déficits cognitivos leves e perda de força inicialmente. O diagnóstico é feito pela detecção do vírus no PCR do liquor, e o tratamento é feito com o uso de antirretrovirais, a fim de aumentar o número de linfócitos T CD4.
 
 Em geral, a doença manifesta-se em pessoas com CD4 muito baixo, normalmente inferior a 50 células. Como o quadro clí-nico é lento, há demora na apresentação de déficits perceptíveis. Às vezes, distúrbios cognitivos leves e perdas de força dis-cretas são os primeiros sintomas. 
 
  
-Figura 5 - Ressonância nuclear magnética com imagem sugestiva de leucoencefalopatia multifocal progressiva: observar, neste caso, que toda a área com hipersinal na região occipital direita da imagem apresenta reentrâncias, o sinal “do dedo de luva” – essas reen-trâncias não são mais do que as delimitações da substância branca (doente) para a substância cinzenta (sadia)
+Figura 5 - Ressonância nuclear magnética com imagem sugestiva de leucoencefalopatia multifocal progressiva: observar, neste caso, que toda a área com hipersinal na região occipital direita da imagem apresenta reentrâncias, o sinal “do dedo de luva” – essas reentrâncias não são mais do que as delimitações da substância branca (doente) para a substância cinzenta (sadia)
 
 O diagnóstico de certeza é feito pela biópsia cerebral, com confirmação. Entretanto, pela agressividade do exame, é muito utilizada a detecção do vírus JC por PCR no liquor, com sensibilidade razoável. 
 Não existe tratamento específico eficaz contra a LEMP. A melhora da imunidade ajuda a deixar o vírus JC em latência. Por isso, a principal medida para o tratamento é o uso de antirretrovirais, com tentativa de recuperação da resposta celular pre-cocemente. A mortalidade chega a quase 100%, e o paciente sobrevive de 6 meses a 2 anos, em média. 
 
 E - Tuberculose do sistema nervoso central
-A tuberculose do SNC pode ocorrer de diversas maneiras. A encefalite viral é a forma mais frequente, associada ou não a meningite. Outras manifestações podem ocorrer, entretanto as mais comuns são abscesso por tuberculose e tuberculose miliar do SNC, ambas causando lesões focais. Mundialmente, acomete cerca de 5% daqueles com doença no SNC, mas estima-se que, no Brasil, esse número seja bem maior, pela endemicidade de tuberculose no nosso meio. 
+A tuberculose do SNC pode ocorrer de diversas maneiras. A encefalite é a forma mais frequente, associada ou não a me-ningite. Outras manifestações podem ocorrer, entretanto as mais comuns são abscesso por tuberculose e tuberculose miliar do SNC, ambas causando lesões focais. Mundialmente, acomete cerca de 5% daqueles com doença no SNC, mas estima-se que, no Brasil, esse número seja bem maior, pela endemicidade de tuberculose no nosso meio. 
 Clinicamente, há febre, cefaleia e alteração progressiva do nível de consciência (uma característica sempre presente nas meningoencefalites). O comprometimento de pares cranianos (especialmente III, IV, VI e VII pares) é bastante frequente. 
 
  
-Figura 6 - Ressonâncias de pacientes com tuberculose com lesão focal: (A) várias lesões que poderiam fazer diagnóstico diferencial com toxoplasmose, exceto pela ausência de lesões na região em que a toxoplasmose é mais comum, e (B) lesões são causadas por tubercu-lose miliar, e o diagnóstico diferencial principal é feito com neurocisticercose com lesões calcificadas – em ambos os casos, o liquor geralmente é sugestivo de tuberculose 
+Figura 6 - Ressonâncias de pacientes com tuberculose com lesão focal: (A) várias lesões que poderiam fazer diagnóstico diferencial com toxo-plasmose, exceto pela ausência de lesões na região em que a toxoplasmose é mais comum, e (B) lesões são causadas por tuberculose miliar, e o diagnóstico diferencial principal é feito com neurocisticercose com lesões calcificadas – em ambos os casos, o liquor geralmente é sugestivo de tuberculose 
 
-O exame de liquor, nesse caso, é essencial ao diagnóstico. A celularidade é aumentada, mas não muito (até 500 célu-las/mm3, em geral), proteinorraquia elevada (dado muito importante; até 40% dos casos pode chegar a 500mg/dL). Outras alterações liquóricas são glicorraquia diminuída (média de 4 a 40mg/dL, mas bem mais alta do que uma meningite com bacté-rias habituais) e pesquisa de BAAR raramente positiva. A cultura permite o diagnóstico definitivo, entretanto leva de semanas a meses, sendo utilizado, portanto, o PCR para micobacteriose.
+O exame de liquor, nesse caso, é essencial ao diagnóstico. A celularidade é aumentada com predomínio de linfócitos (apesar de poder ter predomínio de polimorfonucleares no início da infecção), mas não muito (até 500 células/mm3, em ge-ral), e proteinorraquia elevada (dado muito importante; até 40% dos casos pode chegar a 500mg/dL). Outras alterações li-quóricas são glicorraquia diminuída (média de 4 a 40mg/dL, mas bem mais alta do que uma meningite com bactérias habituais) e pesquisa de BAAR raramente positiva. A cultura permite o diagnóstico definitivo, entretanto leva de semanas a meses, sen-do utilizado, portanto, o PCR para micobacteriose.
 
 Importante
-O PCR para micobacteriose tornou-se ferramenta valiosa para o diagnóstico, pois apresenta alta sensibilidade. A dosagem da enzima adenosina deaminase apenas sugere tuberculose se muito aumentada, mas não é patognomônica dessa doença no sistema nervoso central. 
+O PCR para micobacteriose tornou-se ferramenta valiosa para o diagnóstico, pois apresenta alta sensibilidade. A dosagem da enzima adenosina deaminase apenas sugere tuberculose se muito aumentada, mas não é patognomônica dessa doença no sistema nervoso central.
 
 A regra é a TC de crânio ser normal, raramente ocorrendo tuberculoma. A RNM mostra lesões intracerebrais sem efeito de massa em 50 a 70% dos casos. O raio x de tórax deve sempre ser feito, pois metade dos pacientes apresenta lesão pulmo-nar não visualizada.
 O diagnóstico diferencial da meningoencefalite tuberculosa é feito com meningite por C. neoformans. Quando há lesões visíveis, os diagnósticos diferenciais principais são com toxoplasmose, neurocisticercose e linfoma do SNC. 
@@ -236,15 +247,17 @@ Rifampicina	10mg/kg/d; máximo de 600mg/d; tratamento por 9 meses
 Isoniazida	10mg/kg de peso; máximo de 300mg/d; tratamento por 9 meses
 Pirazinamida	35mg/kg de peso; máximo de 1.600mg/d; tratamento apenas nos 2 primeiros meses
 Etambutol	25mg/kg de peso; máximo de 1.100mg/d; apenas nos 2 primeiros meses
-Corticoides	- Dexametasona: 4mg 6/6h (IV no início) nos 2 primeiros meses; ou
+Corticoides	- Dexametasona: 4mg, 6/6h (IV no início), nos 2 primeiros meses; ou
 - Prednisona: 1 a 2mg/kg/d nos 2 primeiros meses.
 
 Tratamento
-Utiliza-se o esquema com 4 drogas para o tratamento da neurotuberculose: rifampicina + isoniazida por 9 meses e pirazi-namida + etambutol nos 2 primeiros meses. Associados a essas drogas, utilizam-se ainda corticoides (dexametasona ou prednisona) nos 2 primeiros meses, a fim de evitar a piora do quadro clínico com o início do tratamento.
+Utiliza-se o esquema com 4 drogas para o tratamento da neurotuberculose: rifampicina + isoniazida por 9 meses e pirazinamida + etambutol nos 2 primeiros meses. Associados a essas drogas, utilizam-se ainda corticoides (dexametasona ou prednisona) nos 2 primeiros meses, a fim de evitar a piora do quadro clínico com o início do tratamento.
 
 Por último, lembrar que todo paciente que fizer diagnóstico de tuberculose necessita de um teste de HIV, dada a alta pre-valência dessa associação no Brasil. É sugerida a leitura do capítulo de tuberculose para mais informações sobre as profilaxias e a realização de PPD no paciente HIV positivo. 
 
 F - Criptococose
+Doença oportunista fúngica que está entre as mais frequentes no paciente com AIDS, a criptococose é uma das mais fatais oportunistas relacionadas à AIDS. A hipertensão intracraniana é responsável por 90% das mortes por meningite criptocócica nas duas primeiras semanas após o início do tratamento.
+O paciente muitas vezes precisa de punções liquóricas diárias, única maneira de diminuir a hipertensão intracraniana. Na punção, deve ser sempre medida a pressão de abertura, e pressões acima de 20cm de água são consideradas acima do nor-mal. 
 A criptococose é uma doença causada pelo fungo Cryptococcus spp. Existem 2 tipos de fungos normalmente causadores da doença em humanos:
 C. neoformans: é o mais comum em pacientes HIV positivo, com incidência normalmente de meningoencefalite fúngica; habita principalmente em fezes de pombos;
 C. gatti: este tipo é o mais prevalente na população HIV negativo; vive em árvores e solo; normalmente, causa abscessos fúngicos (criptococomas). 
@@ -252,9 +265,9 @@ Para o perfil de paciente que discutimos aqui, o C. neoformans é o principal age
 Os sintomas são lentos, e os que geralmente ocorrem são febre e cefaleia (75% dos pacientes). Alterações de comporta-mento são relatadas (como em toda encefalite). Podem ocorrer torpor, crises convulsivas, coma e óbito. Como o fungo entra pelo pulmão, é muito frequente o encontro de fungos ao lavado broncoalveolar, ainda que não haja queixa pulmonar.  
 
 Importante
-O C. neoformans é o principal agente causador da criptococose, sendo os sintomas lentos, incluindo cefaleia e febre, crises convulsivas, até coma e óbito. O diagnóstico é feito por meio da pesquisa do fungo no líquor pela tinta da China, e o trata-mento é feito com a anfotericina B, associada ou não a 5-flucitosina.
+O C. neoformans é o principal agente causador da criptococose, sendo os sintomas lentos, incluindo cefaleia e febre, crises convulsivas, até coma e óbito. O diagnóstico é feito por meio da pesquisa do fungo no liquor pela tinta da China, e o trata-mento é feito com a anfotericina B, associada ou não a 5-flucitosina.
 
-O liquor é muito semelhante ao da tuberculose, com celularidade aumentada e predomínio de linfócitos. As diferenças começam em um nível de proteína geralmente mais baixo que na tuberculose e na glicose, que pode estar normal. Ocorre aumento de pressão intracraniana pelo aumento da produção liquórica, e esse é um dado importante no momento da coleta do liquor, já que a pressão liquórica será aumentada. A pesquisa do fungo no liquor pela tinta da China é positiva em 70 a 94% dos casos, e a cultura para C. neoformans é positiva em 95 a 100%. 
+O liquor é muito semelhante ao da tuberculose, com celularidade aumentada e predomínio de linfócitos. As diferenças co-meçam em um nível de proteína geralmente mais baixo que na tuberculose e na glicose, que pode estar normal. Ocorre au-mento de pressão intracraniana pelo aumento da produção liquórica, e esse é um dado importante no momento da coleta do liquor, já que a pressão liquórica será aumentada. A pesquisa do fungo no liquor pela tinta da China é positiva em 70 a 94% dos casos, e a cultura para C. neoformans é positiva em 95 a 100%. 
 
  
 Figura 8 - Rara imagem de abscessos por Cryptococcus spp.: notar múltiplos pequenos cistos próximos à região da cápsula interna e do 3º ventrículo, bilateralmente. Há aumento da produção liquórica como um estímulo do corpo para eliminar o fungo e como um estímulo do fungo no plexo coroide, pela afinidade proteica. Por esse motivo, a hipertensão intracraniana deve-se ao aumento de liquor, e não ao edema compressivo (por isso, não adianta usar corticoides para tratamento)
@@ -262,29 +275,38 @@ Figura 8 - Rara imagem de abscessos por Cryptococcus spp.: notar múltiplos peque
  
 Figura 9 - Exame de tinta da China, mostrando múltiplos Cryptococcus, alguns com divisão (em brotamento). A tinta nanquim utilizada nesse exame só não consegue corar o fungo, pela sua grossa cápsula, facilitando o diagnóstico
 
-O tratamento de escolha é feito com a anfotericina B, associada ou não a 5-flucitosina. O esquema sugerido é com a dose de 0,7 a 1mg/kg/d, IV, de anfotericina B e de 100mg/kg/d, VO, de flucitosina, durante 15 a 30 dias – fase de indução (o tempo de tratamento nessa fase dependerá da melhora liquórica). Como são necessárias altas doses de anfotericina, o uso de anfo-tericina lipossomal pode ser escolhido, pela possibilidade de uso de 3 a 5mg/kg/d. 
-O tratamento com fluconazol (400mg, 12/12h) por mais 6 a 8 semanas é indicado na 2ª fase, chamada de fase de consoli-dação. Na última fase, a de manutenção, recomenda-se manter o fluconazol, 200mg/d, até uma adequada reconstituição imu-ne com o tratamento do HIV (entre 1 e 2 anos).
+O tratamento de escolha é feito com a anfotericina B, associada ou não a 5-flucitosina. O esquema sugerido é com a dose de 0,7 a 1mg/kg/d, IV, de anfotericina B e de 100mg/kg/d, VO, de 5-flucitosina, durante 15 a 30 dias – fase de indução (o tempo de tratamento nessa fase dependerá da melhora liquórica). Como são necessárias altas doses de anfotericina, o uso de anfotericina lipossomal pode ser escolhido, pela possibilidade de uso de 3 a 5mg/kg/d. 
+O tratamento com fluconazol (400mg, 12/12h) por mais 6 a 8 semanas é indicado na 2ª fase, chamada de fase de consoli-dação. Na última fase, a de manutenção, recomenda-se manter o fluconazol, 200mg/d, até uma adequada reconstituição imu-ne (com CD4 acima de 200 células/mm3 e pelo menos 6 meses de tratamento). Isso pode durar de 1 a 2 anos, e recaídas po-derão ocorrer se o paciente não aderir ao tratamento. 
 
 Tabela 8 - Opções terapêuticas para o tratamento da criptococose entre pacientes com HIV
 Esquemas	Medicações e doses	Efeitos adversos
-Padrão (mais estudado)	Anfotericina B: 1mg/kg/d, durante 2 a 4 sema-nas, seguidas de fluconazol oral por mais 8 se-manas*	-	Anfotericina: calafrios, febre, flebite, anemia, acidose tubular renal, hipocalemia;
+Padrão (mais estudado)	Anfotericina B: 1mg/kg/d, durante 2 a 4 se-manas, seguidas de fluconazol oral por mais 8 semanas*	-	Anfotericina: calafrios, febre, flebite, anemia, aci-dose tubular renal, hipocalemia;
+- A insuficiência renal é um dos principais eventos adversos relacionados ao uso da anfotericina deso-xicolato;
 - Fluconazol: náusea, rash, hepatotoxicidade.
-Boa opção**	Anfotericina B: 0,7mg/kg/d, associada a flucito-sina 25mg/kg/dose, de 6/6h, durante 2 semanas; seguidos de fluconazol oral por mais 8 semanas*	- Flucitosina: toxicidade medular, rash, hepatotoxicidade, náusea e vômitos;
+Boa opção**	Anfotericina B: 0,7mg/kg/d, associada a fluci-tosina 25mg/kg/dose, de 6/6h, durante 2 se-manas; seguidos de fluconazol oral por mais 8 semanas*	- Flucitosina: toxicidade medular, rash, hepatotoxici-dade, náusea e vômitos;
 - Problema: há alguns anos não é fabricada no Brasil. 
 Opção***	Anfotericina lipossomal: de 3 a 6mg/kg/d	Semelhantes aos da anfotericina B, embora demorem mais a aparecer
-Opção***	Anfotericina em emulsão lipídica: 5mg/kg/d	Semelhantes aos da anfotericina B, mais importantes do que os da lipossomal, mas menores do que os da anfote-ricina B habitual
+Opção***	Anfotericina em emulsão lipídica: 5mg/kg/d	Semelhantes aos da anfotericina B, mais importantes do que os da lipossomal, mas menores do que os da anfotericina B habitual
 * Trocar por fluconazol apenas em caso de boa resposta, avaliada pela diminuição das células fúngicas no líquido cerebrospinal.
-** Esquema limitado por 2 razões: pouca disponibilidade da flucitosina e pela toxicidade medular; a vantagem é a mais rápida esteriliza-ção do liquor.
+** Esquema limitado por 2 razões: pouca disponibilidade da flucitosina e pela toxicidade medular; a vantagem é a mais rápida este-rilização do liquor.
 *** Preparações especiais de anfotericina – vantagens: menor toxicidade renal, mais bem tolerada e possibilidade de usar doses maiores; desvantagem: custo muito alto.
 
 A mortalidade da criptococose em pacientes com infecção pelo HIV é alta (chega a 90%). Os fatores que aumentam a mor-talidade são:
 Baixa celularidade no exame liquórico: a baixa quantidade de células (leucócitos) no exame do liquor indica resposta celu-lar pífia e grande possibilidade de óbito;
-Pressão liquórica alta persistente: indivíduos com pressão liquórica acima de 40cm de água por mais de 1 semana têm alta mortalidade, e deve ser discutida derivação para melhora desse risco
+Pressão liquórica alta persistente: indivíduos com pressão liquórica acima de 40cm de água por mais de 1 semana têm alta mortalidade, e deve ser discutida derivação para melhora desse risco.
+
+Tabela 9 - Fatores relacionados com pior prognóstico na meningite criptocócica
+- Alteração do estado mental;
+- Hipertensão intracraniana;
+- Titulação de látex para Cryptococcus sp. >1:1.024 no liquor;
+- Contagem de leucócitos <20 células/µL no liquor.
 
 G - Outras manifestações neurológicas
 Existem diversas outras manifestações neurológicas causadas por doenças oportunistas na AIDS. Algumas delas merecem alguns comentários:
+
 a) Encefalite pela família herpes
-Pode ser herpética ou por CMV. No último caso, tende a ser mais grave e, eventualmente, fatal, com difícil diagnóstico. Na dúvida, em meningites/encefalites com suspeita de diagnóstico, o tratamento deve ser iniciado precocemente, para diminuir a mortalidade. Se houver herpes, o tratamento é com aciclovir 10mg/kg/dose, 8/8h. Se houver CMV, tratar com ganciclovir 10mg/kg, 12/12h.
+Pode ser herpética ou por CMV. No último caso, tende a ser mais grave e, eventualmente, fatal, com difícil diagnóstico. Na dúvida, em meningites/encefalites com suspeita de diagnóstico, o tratamento deve ser iniciado precocemente, para diminuir a mortalidade. Se houver herpes, o tratamento é com aciclovir 10mg/kg/dose, 8/8h. Se houver CMV, tratar com ganciclovir 10mg/kg/d, 12/12h, ou 5mg/kg/dose, também a cada 12 horas. 
+
 b) Abscessos bacterianos cerebrais
 Apesar de não ter associação clara com imunodepressão diretamente, entram como diagnóstico diferencial, pela caracte-rística da imagem radiológica, sendo confundidos principalmente com neurotoxoplasmose. Devem ser diagnosticados por ressonância com espectrofotometria e, ainda, por biópsia. O liquor pode ser normal nesses casos, pois o abscesso pode estar capsulado. O tratamento, normalmente, compreende ceftriaxona 2g, 12/12h, VO, e metronidazol 500mg, 8/8h, VO, por 4 a 6 semanas.
 
@@ -294,60 +316,68 @@ Figura 10 - Abscesso cerebral, com lesão “em anel” semelhante à da toxoplasmose.
 c) Neurossífilis
 Existe uma maior chance de infecção no SNC pela sífilis em pessoas com HIV/AIDS, o que obriga todo paciente HIV positivo com VDRL no sangue positivo a fazer uma coleta de liquor; ele mostra celularidade aumentada (5 a 100 células/mm3), com predomínio de mononucleares, proteinorraquia de 45 a 200mg/dL e VDRL positivo (sensibilidade de 65% e especificidade de 100%). 
 A TC pode mostrar poucas alterações específicas (captação do contraste nas meninges, infartos e atrofia cortical).
-Se confirmar infecção em SNC, não se pode utilizar penicilina benzatina, que não ultrapassa a barreira hematoencefálica. O tratamento é realizado com penicilina cristalina 4.000.000U, 4/4h, por 14 dias e está indicado àqueles com VDRL positivo no liquor. Aos pacientes alérgicos sugere-se dessensibilização, e o uso de ceftriaxona pode apresentar falha de até 25%. 
-Quanto ao diagnóstico diferencial das principais doenças neurológicas do sistema nervoso central no HIV e seu respectivo sinal marcante: tuberculose – meningoencefalite causando cefaleia e tuberculoma raro com CD4 <50; criptococose – menin-goencefalite causando cefaleia e criptococoma raro com CD4 <50; toxoplasmose – lesão focal com paresia e contraste com sinal do halo; leucoencefalopatia multifocal progressiva – lesão focal progressiva; linfoma do sistema nervoso central – lesão focal, sendo o principal diagnóstico diferencial com neurotoxoplasmose.
+Se confirmar infecção em SNC, não se pode utilizar penicilina benzatina, que não ultrapassa a barreira hematoencefálica. O tratamento é realizado com penicilina cristalina 4.000.000UI, 4/4h, por 14 dias e está indicado àqueles com VDRL positivo no liquor. Aos pacientes alérgicos sugere-se dessensibilização, e o uso de ceftriaxona pode apresentar falha de até 25%. 
+
+d) Diagnóstico diferencial entre as doenças oportunistas do sistema nervoso central
+Quanto ao diagnóstico diferencial das principais doenças neurológicas do sistema nervoso central no HIV e seu respectivo sinal marcante, convém memorizar as seguintes características das principais doenças:
+Tuberculose: meningoencefalite, causando cefaleia e tuberculoma raro com CD4 <50;
+Criptococose: meningoencefalite, causando cefaleia e criptococoma raro com CD4 <50; 
+Toxoplasmose: lesão focal com paresia e contraste com sinal do halo; 
+Leucoencefalopatia multifocal progressiva: lesão focal progressiva;
+Linfoma do sistema nervoso central: lesão focal, sendo o principal diagnóstico diferencial com neurotoxoplasmose.
 
 4. Doenças pulmonares associadas ao HIV
+
 As manifestações pulmonares associadas ao HIV incluem doenças infecciosas e tumores. 
 
 Dica
 Sem dúvida, a infecção pulmonar associada ao HIV mais comum é a pneumocistose, clássica na abertura da história da AIDS, vitimando milhões no início da epidemia.
 
-O diagnóstico diferencial de um quadro pulmonar em um paciente com AIDS passa, com certeza, por 3 infecções, pelo menos: além da pneumocistose, por ser muito frequente no Brasil, também a tuberculose pulmonar e, ainda, a pneumonia bacteriana, doença mais frequente do parênquima pulmonar em qualquer tipo. As causas de alterações pulmonares na AIDS estão exemplificadas na Tabela 9.
+O diagnóstico diferencial de um quadro pulmonar em um paciente com AIDS passa, com certeza, por 3 infecções, pelo menos: além da pneumocistose, por ser muito frequente no Brasil, também a tuberculose pulmonar e, ainda, a pneumonia bacteriana, doença mais frequente do parênquima pulmonar em qualquer tipo. As causas de alterações pulmonares na AIDS estão exemplificadas na Tabela 10.
 
-Tabela 9 - Agentes etiológicos associados a doenças pulmonares no HIV
+Tabela 10 - Agentes etiológicos associados a doenças pulmonares no HIV 
 Agentes etiológicos	Espécies
-Fungos	- Pneumocystis jirovecii;
-	- H. capsulatum*;
-	- C. neoformans*;
-	- Candida sp.*.
+Fungos	- Pneumocystis jirovecii*;
+	- H. capsulatum;
+	- C. neoformans;
+	- Candida sp.
 Bactérias	- Pneumococo (como na população em geral)*;
-	- Hemófilos*;
-	- P. aeruginosa*;
-	- Legionella*;
-	- Nocardia*.
-Micobactérias	- M. tuberculosis;
-	- M. avium*;
-	- M. kansasii*.
-Virais	- CMV*;
-	- Herpes-simples*;
-	- Adenovírus*.
-Protozoário	Toxoplasma gondii*
-Neoplasias	- Linfoma*;
-	- Sarcoma de Kaposi*.
+	- Hemófilos;
+	- P. aeruginosa;
+	- Legionella;
+	- Nocardia.
+Micobactérias	- M. tuberculosis*;
+	- M. avium;
+	- M. kansasii.
+Virais	- CMV;
+	- Herpes-simples;
+	- Adenovírus.
+Protozoário	Toxoplasma gondii
+Neoplasias	- Linfoma;
+	- Sarcoma de Kaposi.
 * Agentes etiológicos mais frequentes.
 
 A - Pneumocistose
 É uma infecção causada por um fungo (que já foi classificado como bactéria), mudando de nome por causa da reclassifica-ção para Pneumocystis jirovecii (antes P. carinii). Este foi o principal causador de óbitos no início da epidemia da AIDS e, até hoje, ainda mata, se não tratado adequadamente. Entretanto, o uso de terapia com combinação de drogas com alta potência (HAART) fez com que sua incidência diminuísse muito, já que é mais frequente em pacientes com CD4 abaixo de 200. 
 A pneumocistose manifesta-se clinicamente com tosse seca, febre baixa (geralmente de até 39°C) e dispneia progressiva. Como o quadro é progressivo e insidioso, passa algum tempo até que a dispneia comece a atrapalhar o paciente nas funções habituais, confundindo o quadro clínico com uma pneumonia atípica.  
-A radiografia de tórax pode ser normal em até 10% dos casos, e a imagem pode ser dificilmente visualizada, pois pode ha-ver confusão com raio x pouco penetrado. 
+A radiografia de tórax pode ser normal em até 10% dos casos, e a imagem pode ser dificilmente visualizada, pois pode ha-ver confusão com raio x pouco penetrado.
 
 Importante
 A imagem típica do raio x na pneumocistose é a de um infiltrado reticular heterogêneo, difuso, bilateral e simétrico, mas que parte dos hilos pulmonares, lembrando uma asa de vespertilionídeo peri-hilar.
 
- 
-Figura 11 - A imagem do raio x lembra por vezes um raio x pouco penetrado; observando com cuidado, nota-se infiltrado reticulonodular a partir do hilo pulmonar
 
  
-Figura 12 - A tomografia computadorizada mostra a mesma paciente do raio x anterior: notar que o parênquima apresenta infiltrado reticulonodular difuso, partindo do centro e poupando a periferia
+Figura 11 - A imagem do raio x lembra por vezes um raio x pouco penetrado; observando-se com cuidado, nota-se infiltrado reticulonodular a partir do hilo pulmonar
+
+ 
+Figura 12 - A tomografia computadorizada mostra a mesma paciente do raio x anterior: notar que o parênquima apresenta infiltrado reticu-lonodular difuso, partindo do centro e poupando a periferia
 
 Os exames de sangue mostram pouca alteração de leucócitos. Entretanto, o aumento da desidrogenase láctica – DHL (apesar de inespecífico) é fator que reforça a suspeita de pneumocistose. A gasometria arterial demonstra redução dos níveis de pO2 para menos de 70mmHg em cerca de 80%.
 
 Importante
-Achados importantes no diagnóstico de pneumocistose incluem infiltrado intersticial pulmonar, bilateral, a partir dos hilos pulmonares, hipoxemia na gasometria com pO2 baixa (geralmente abaixo de 70%) e aumento de DHL.
+Achados importantes no diagnóstico de pneumocistose incluem infiltrado intersticial pulmonar, bilateral, a partir dos hilos pulmonares, hipoxemia na gasometria com pO2 baixa (geralmente abaixo de 70mmHg) e aumento de DHL.
 
-O diagnóstico pode ser feito pela pesquisa do P. jirovecii no escarro induzido, mas pode haver contaminação oral, e o la-vado broncoalveolar protegido tem maior especificidade (e chega a 90% de sensibilidade).
-O tratamento é feito com:
+O diagnóstico pode ser feito pela pesquisa do P. jirovecii no escarro induzido, mas pode haver contaminação oral, e o la-vado broncoalveolar protegido tem maior especificidade (e chega a 90% de sensibilidade). O tratamento é feito com:
 Sulfametoxazol-trimetoprima (Bactrim®)
 É a droga de escolha. Dose de 15 a 20mg/kg/d do componente trimetoprima, divididos em 3 a 4 vezes durante 14 a 21 di-as. Como as doses utilizadas são altas, muitos (cerca de 50%) apresentam efeitos adversos; os mais comuns são rash cutâneo, adinamia, pancitopenia, hepatite, nefrite e aumento de bilirrubinas.
 Pentamidina
@@ -360,15 +390,15 @@ Atovaquona (750mg/dose, 8/8h)
 Não disponível no Brasil.
 Corticoides
 Devem ser utilizados sempre que a hipoxemia é importante (pO2 <70mmHg ou gradiente alveoloarterial >35mmHg). 
-Utilizam-se essas drogas porque, com o tratamento clínico, a morte do fungo libera citocinas que induzem a uma reação de broncoespasmo importante nos alvéolos, geralmente a partir do 3º dia de tratamento. Em pacientes com hipoxemia im-portante, haverá insuficiência respiratória com risco de intubação orotraqueal e óbito. O corticoide diminui o processo infla-matório, a chance de intubação e a chance de fibrose pulmonar sequelar. Deve ser iniciado com corticoide intravenoso, ge-ralmente metilprednisolona 1mg/kg/dose, 6/6h, ou hidrocortisona 100mg, 8/8h, IV nos primeiros dias e, posteriormente, substituir por prednisona, até desmamar, antes do 21º dia de tratamento.
+Utilizam-se essas drogas porque, com o tratamento clínico, a morte do fungo libera citocinas que induzem a broncoespas-mo, geralmente a partir do 3º dia de tratamento. Em pacientes com hipoxemia importante, haverá insuficiência respiratória com risco de intubação orotraqueal e óbito. O corticoide diminui o processo inflamatório, a chance de intubação e a chance de fibrose pulmonar sequelar. Deve ser iniciado com corticoide intravenoso, geralmente metilprednisolona 1mg/kg/dose, 6/6h, ou hidrocortisona 100mg, 8/8h, IV nos primeiros dias e, posteriormente, substituir por prednisona, até desmamar, antes do 21º dia de tratamento.
 
 Importante
-A profilaxia para pneumocistose deve ser feita com sulfametoxazol-trimetoprima 400/80 2cp/d. A profilaxia primária é destinada para aqueles com CD4 abaixo de 200 e que nunca tiveram a doença; e a profilaxia secundária é para quem já apresentou a doença e visa evitar que ela volte, até que o CD4 fique acima de 200 por 6 meses consecutivos.
+A profilaxia para pneumocistose deve ser feita com sulfametoxazol-trimetoprima 400/80, 2cp/d. A profilaxia primária é destinada àqueles com CD4 abaixo de 200 e que nunca tiveram a doença; e a profilaxia secundária é para quem já apre-sentou a doença e visa evitar que ela volte, até que o CD4 fique acima de 200 por 6 meses consecutivos.
 
-Outras opções para profilaxia: sulfametoxazol-trimetoprima 400/80mg; 2 comprimidos, 3x/sem se CD4 acima de 100, ou 2 comprimidos, 1x/d ( se CD4 <100). Em alérgicos a sulfas, pode ser usada dapsona 100mg/d, VO, ou pentamidina aerossol 300mg a cada mês, via Respirgard II® (inalatória). 
+Outras opções para profilaxia: sulfametoxazol-trimetoprima 400/80mg; 2 comprimidos, 3x/sem se CD4 acima de 100, ou 2 comprimidos, 1x/d (se CD4 <100). Em alérgicos a sulfas, pode ser usada dapsona 100mg/d, VO, ou pentamidina aerossol 300mg a cada mês, via Respirgard II® (inalatória). 
 Deve ser lembrado que a profilaxia apenas reduz o risco de pneumocistose, mas não impede que o paciente apresente a doença, principalmente se a resposta celular for muito baixa. Em indivíduos que fazem uso da profilaxia, entretanto, o risco é até 10 vezes menor de se adquirir pneumocistose.
 
-Tabela 10 - Resumo das principais medicações para tratamento da pneumocistose
+Tabela 11 - Resumo das principais medicações para tratamento da pneumocistose
 Drogas	Doses e características
 Sulfametoxazol-trimetoprima	- 15 a 20mg/kg/d de trimetoprima, 6/6h, por 21 dias;
 	- Rash cutâneo é uma característica que ocorre em até 50% dos pacientes, em dose alta;
@@ -378,7 +408,7 @@ Pentamidina	- 3 a 4mg/kg/d, por 21 dias;
 	- Alterações de glicemia ocorrem na metade dos pacientes (hipo ou hiperglicemia);
 	- Outros sintomas: febre, rash cutâneo, hepatite, hipercalemia ou hipocalcemia, nefrotoxicida-de, anemia, plaquetopenia;
 	- Pancreatite não é tão frequente, mas, se ocorre, é fatal.
-Clindamicina-primaquina (separada-mente)	- Clindamicina: 600mg/dose, de 6/6 a 8/8h, por 21 dias;
+Clindamicina-primaquina (separa-damente)	- Clindamicina: 600mg/dose, de 6/6 a 8/8h, por 21 dias;
 	- Primaquina: 30mg, 1x/d, VO;
 	- Clindamicina pode causar intolerância do trato gastrintestinal e colite pseudomembranosa;
 	- Primaquina leva a anemia hemolítica se o paciente tem deficiência de G6PD.
@@ -391,21 +421,22 @@ b) infecção pelo vírus HIV com doença oportunista definidora de AIDS/pneumonia p
 c) pneumonia por Mycobacterium tuberculosis
 d) infecção pelo vírus HIV com doença oportunista definidora de AIDS/pneumocistose
 e) infecção pelo vírus HIV com doença oportunista definidora de AIDS/tuberculose pulmonar
-Resposta no final do capítulo 
+Resposta no final do capítulo
 
 B - Tuberculose pulmonar
 O paciente com AIDS tem prevalência aumentada de tuberculose pulmonar (de fato, em qualquer lugar do corpo). Pode haver 2 perfis com o binômio HIV–tuberculose:
+
 a) Tuberculose antes da AIDS
 Mesmo em pacientes com CD4 alto, a chance de tuberculose é aumentada, e, nesse caso, esperam-se por cavitações e quadro típico, como em um paciente sem HIV. Pela alta prevalência de associação entre tuberculose e HIV no Brasil, há reco-mendação do Ministério da Saúde para testes de HIV em todo paciente com tuberculose pulmonar recém-diagnosticada.
 
  
-Figura 13 - Tuberculose em paciente com CD4 acima de 350: espera-se, neste perfil de paciente, imagem em ápice pulmonar com a presença de cavitação e sintomas típicos
+Figura 13 - Tuberculose em paciente com CD4 acima de 350: espera-se, neste perfil, imagem em ápice pulmonar com a presença de cavitação e sintomas típicos
 
 b) Tuberculose com AIDS já instalada
 Neste caso, não se deve esperar por cavitações habituais. Isso acontece porque, muitas vezes, não há resposta celular pa-ra produzir cavidades (lembrando que apenas a resposta humoral está ativa); por isso, o padrão da tuberculose no HIV é dife-rente da população geral.
 
  
-Figura 14 - Nota-se um infiltrado reticulonodular, como se o raio x tivesse levado um “tiro de cartucheira”. A imagem é difusa, sem localização característica em ápice, nem formação de cavernas. É um quadro típico de tuberculose miliar pulmonar, comum entre paci-entes com CD4 <350 (mais frequente <200) 
+Figura 14 - Nota-se um infiltrado reticulonodular, como se o raio x tivesse levado um tiro de cartucheira. A imagem é difusa, sem localização característica em ápice, nem formação de cavernas. É um quadro típico de tuberculose miliar pulmonar, comum entre pacientes com CD4 <350 (mais frequente <200) 
 
 Importante
 Há 2 perfis de tuberculose, antes e depois da AIDS. Antes, espera-se por cavitações e quadro clínico típico, como em um paciente sem HIV; depois da AIDS já instalada, não se deve esperar por cavitações habituais, pois não há resposta celular para que se produzam cavidades.
@@ -420,14 +451,14 @@ O tratamento da tuberculose é realizado com rifampicina, isoniazida, pirazinamid
 
 Apenas para recordação, segue o esquema de tratamento atual da tuberculose: 
 
-Tabela 11 - Esquema de tratamento da tuberculose
+Tabela 12 - Esquema de tratamento da tuberculose
 Regimes	Fármacos	Faixas de peso	Unidades/doses	Meses
-RHZE, fase intensiva	RHZE, 150/75/400 275mg, com-primido em dose fixa combinada	20 a 35kg	2 comprimidos	2
+RHZE, fase intensiva	RHZE, 150/75/400/275mg, com-primido em dose fixa combinada	20 a 35kg	2 comprimidos	2
 		36 a 50kg	3 comprimidos	
 		>50kg	4 comprimidos	
-RH, fases de manuten-ção	RH, 150/75mg, cápsula 	20 a 35kg	2 cápsulas 150/75mg	4
-		36 a 50kg	3 cápsulas 150/75mg	
-		>50kg	4 cápsulas 150/75mg	
+RH, fases de manu-tenção	RH, 150/75mg, cápsula 	20 a 35kg	2 cápsulas 	4
+		36 a 50kg	3 cápsulas 	
+		>50kg	4 cápsulas 	
 Fonte: Ministério da Saúde, 2010 – Manual de recomendações para controle de tuberculose no Brasil.
 
 Importante
@@ -439,9 +470,9 @@ Dica
 O principal causador de pneumonias no paciente HIV positivo é o S. pneumoniae.
 
 Da mesma maneira que em pacientes HIV negativo, a incidência de pneumonias é muito presente nessa população. O principal causador de pneumonias no paciente HIV positivo é o S. pneumoniae. Entretanto, alguns dados são diferentes. O paciente HIV positivo tem de 5 a 6 vezes mais risco de pneumonias e, ao desenvolvê-las, morre mais por complicações (até 4 vezes mais). Esse perfil de paciente também tem maior risco de bacteriemias em uma pneumonia.  
-Apesar de o agente mais frequente ser o S. pneumoniae, outros aumentam a sua prevalência nessa população. É o caso da Legionella pneumophila, que intensifica muito sua incidência entre aqueles com infecção pelo HIV. Em pacientes com CD4 menor do que 200, há grande risco de infecção sistêmica por S. pneumoniae. A Tabela 12 mostra alguns dados de agentes etiológicos nessa população.
+Apesar de o agente mais frequente ser o S. pneumoniae, outros aumentam a sua prevalência nessa população. É o caso da Legionella pneumophila, que intensifica muito sua incidência entre aqueles com infecção pelo HIV. Em pacientes com CD4 menor do que 200 há grande risco de infecção sistêmica por S. pneumoniae. A Tabela 13 mostra alguns dados de agentes etiológicos nessa população.
 
-Tabela 12 - Causadores mais frequentes de pneumonia da comunidade em pacientes HIV positivo
+Tabela 13 - Causadores mais frequentes de pneumonia da comunidade em pacientes HIV positivo
 Agentes causadores	Frequências
 S. pneumoniae	Até 70% dos casos; doença invasiva mais prevalente em pacientes com AIDS
 H. influenzae	3 a 40% dos casos
@@ -449,18 +480,18 @@ P. aeruginosa	3 a 10% dos casos
 Gram negativos outros	7 a 9% dos casos
 Legionella pneumophila	40 vezes mais risco
 
-As características clínicas são, em geral, as mesmas de uma pneumonia comunitária em paciente HIV negativo. Febre, cala-frios, tosse e expectoração amarelo-esverdeada, dor pleurítica e dispneia podem ocorrer. Alteração da ausculta pulmonar acontece na maioria dos pacientes com pneumonia bacteriana. O quadro é semelhante ao de não portadores do vírus. Desta maneira, portanto, pode ir desde quadros mais leves, até pneumonia com insuficiência respiratória.
+As características clínicas são, em geral, as mesmas de uma pneumonia comunitária em paciente HIV negativo. Febre, cala-frios, tosse e expectoração amarelo-esverdeada, dor pleurítica e dispneia podem ocorrer. Alteração da ausculta pulmonar acontece na maioria dos pacientes com pneumonia bacteriana. O quadro é semelhante ao de não portadores do vírus. Desta maneira, portanto, pode ir desde quadros mais leves até pneumonia com insuficiência respiratória.
 A radiografia de tórax, normalmente, apresenta alterações semelhantes ao imunocompetente: infiltrados focais, segmen-tares ou lobares.
 
  
-Figura 15 - A pneumonia no HIV apresenta características muito semelhantes às de um paciente HIV negativo. Entretanto, pela quanti-dade de outras infecções que podem causar imagens como esta, o paciente acaba fazendo, concomitantemente, exames de escarro. O tratamento da pneumonia, no entanto, não deve ser postergado, pelo risco de complicações. Muitas vezes, o quadro clínico pode ser evolutivo de uma pneumonia atípica, como o desta imagem, e o tratamento também deve englobar essas bactérias
+Figura 15 - A pneumonia no HIV apresenta características muito semelhantes às de um paciente HIV negativo. Entretanto, pela quantidade de outras infecções que podem causar imagens como esta, o paciente acaba fazendo, concomitantemente, exames de escarro. O tratamento da pneumonia, no entanto, não deve ser postergado, pelo risco de complicações. Muitas vezes, o quadro clínico pode ser evolutivo de uma pneumonia atípica, como o desta imagem, e o tratamento também deve englobar essas bactérias
 
 O tratamento é o mesmo que o indicado para pneumonia bacteriana de comunidade em pacientes HIV negativo. A preva-lência de resistência bacteriana do S. pneumoniae é semelhante à da população em geral. A resposta geralmente está dentro das primeiras 48 a 72 horas. Se a resposta não for satisfatória nesse período de tempo, deverão ser investigados diagnósticos como pneumonia por P. jirovecii e tuberculose pulmonar.
 
 Tratamento
 O tratamento da pneumonia em pacientes HIV positivo é semelhante ao indicado para pneumonia bacteriana de comuni-dade em pacientes HIV negativo (com macrolídeo/betalactâmico).
 
-O paciente HIV positivo deve ser vacinado anualmente contra gripe (quadros que facilitam o risco de infecções bacteria-nas secundárias) e, a cada 5 anos, contra pneumococo. A vacina é distribuída gratuitamente na rede pública.
+O paciente HIV positivo deve ser vacinado anualmente contra gripe (quadros que facilitam o risco de infecções bacterianas secundárias) e, a cada 5 anos, contra pneumococo. A vacina é distribuída gratuitamente na rede pública.
 
 Dica
 Mais de 2 episódios de pneumonia bacteriana num intervalo de 1 ano associados a infecção pelo HIV sorologicamente confirmada já define o paciente como AIDS, independente do valor de CD4.
@@ -471,7 +502,7 @@ a) Sarcoma de Kaposi (SK)
 Deve-se lembrar que este tipo de tumor está associado à infecção pelo HIV e por um vírus da família herpes, o HHV-8. As lesões principais são na pele, mas pode haver quadro de tumor visceral. Quando ocorre SK em vísceras, deve sempre ser investigado pulmão (trato respiratório todo com broncoscopia), além de trato digestivo (com endoscopia e colonoscopia) em busca de lesões viscerais, o que muda o prognóstico. O tratamento é feito com o próprio antirretroviral, mas, em lesões vis-cerais ou múltiplas lesões de pele, a quimioterapia pode ser utilizada.
 
  
-Figura 16 - Raio x de paciente com sarcoma de Kaposi pulmonar: a imagem é inespecífica, e o diagnóstico de suspeita dá-se por lesões sugestivas na pele. A confirmação é feita por broncoscopia com biópsia
+Figura 16 - Raio x de paciente com sarcoma de Kaposi pulmonar: a imagem é inespecífica, e o diagnóstico de suspeita dá-se por lesões suges-tivas na pele. A confirmação é feita por broncoscopia com biópsia
 
 b) Micobacterioses atípicas
 M. avium e M. kansasii podem levar a quadros pulmonares com aspecto miliar e que são pouco diferenciados da imagem apresentada para M. tuberculosis miliar na Figura 17. Entretanto, só costuma acometer pacientes com CD4 <50, e seu diagnós-tico é feito principalmente por meio de culturas. O tratamento é feito, normalmente, com um macrolídeo (geralmente clari-tromicina 500mg, 12/12h), etambutol 400mg (3 comprimidos, 1x/d) e uma quinolona (geralmente moxifloxacino 400mg/d ou levofloxacino 500mg/d). Pode, ainda, ser utilizada isoniazida 5 a 10mg/kg/d. As demais medicações do esquema primário (rifampicina, pirazinamida) têm pouco efeito para esse tipo de bactéria.
@@ -479,33 +510,38 @@ M. avium e M. kansasii podem levar a quadros pulmonares com aspecto miliar e que
  
 Figura 17 - Tomografia computadorizada de tuberculose miliar com aspecto reticulonodular, confirmada posteriormente como M. avium. Entre pacientes com CD4 baixo, M. tuberculosis também pode apresentar imagens desta forma, o que obriga a sempre solicitar culturas para identificar o tipo
 
-c) Criptococose pulmonar
-Esta doença acomete mais frequentemente o SNC, entretanto a porta de entrada é sempre o pulmão. Desta maneira, 100% dos que têm meningite criptocócica apresentam também o fungo no pulmão. O tratamento da meningite criptocócica aborda também o foco pulmonar. Por isso, casos de pneumonia sem resposta com antibióticos devem ser sempre investiga-dos com broncoscopia, para procurar por criptococose.
-d) Toxoplasmose pulmonar
+c) Toxoplasmose pulmonar
 De difícil diagnóstico, talvez seja menos rara do que parece, mas é subdiagnosticada. O quadro pulmonar é de febre, tosse e infiltrado intersticial, sendo confundido com uma pneumonia atípica. Lesões oculares associadas a quadro pulmonar devem ser sempre investigadas para o descarte de pneumonia por Toxoplasma.
-e) Histoplasmose
-É mais frequente no paciente HIV positivo do que na população em geral. O agente causador da histoplasmose é o H. cap-sulatum. Não é necessário contato com cavernas, como classicamente é procurado no paciente imunocompetente. O pacien-te apresenta febre persistente, associada a tosse. Geralmente, se formam granulomas ou áreas de aumento de gânglios para-aórticos e mediastinais. O diagnóstico é feito por biópsia de linfonodos, e o tratamento compreende anfotericina 1mg/kg/d ou itraconazol 200mg/d. 
+
+d) Histoplasmose
+É mais frequente no paciente HIV positivo do que na população em geral. O agente causador da histoplasmose é o H. cap-sulatum. Não é necessário contato com cavernas, como classicamente é procurado no paciente imunocompetente. O pacien-te apresenta febre persistente, associada a tosse. Geralmente, se formam granulomas ou áreas de aumento de gânglios para-aórticos e mediastinais. 
+A doença se apresenta de maneiras diferentes de acordo com o valor de CD4. Para pacientes com CD4 acima de 300 célu-las/mm3, o quadro é muito semelhante ao de imunocompetentes, com lesão pulmonar e pneumonia com infiltrado reticulo nodular. Entretanto, em pacientes com CD4 abaixo de 300 células/mm3, especialmente abaixo de 150 células/mm3, a doença é disseminada, levando a aumento de gânglios, hepatoesplenomegalia e, por vezes, lesões de pele.
+O diagnóstico é feito por biópsia de linfonodos ou de lesões de pele. 
+O tratamento antifúngico da forma moderada a grave deve ser realizado preferencialmente com anfotericina B e seguir as seguintes fases:
+1 - Tratamento inicial (pelo menos 2 semanas): anfotericina B desoxicolato 0,7 a 1mg/kg/d (totalizando cerca de 35 mg/kg de peso). O tempo de tratamento com anfotericina deve ser prolongado para 6 semanas em pacientes com lesão no sistema nervoso central.
+2 - Consolidação (por pelo menos 12 meses): itraconazol 200mg, 2x/d. Após 12 meses de consolidação, deve-se conside-rar mudança para a fase de manutenção (profilaxia secundária) em pacientes com cura clínica e sem sinais radiológicos e sorológicos de doença ativa.
+3 - Manutenção (tempo indeterminado): itraconazol 200mg/d. Considerar a suspensão após o período mínimo de 1 ano de tratamento de manutenção, ausência de sintomas e LT-CD4+ >150 células/mm3, estável por mais de 6 meses.
 
  
 Figura 18 - Quadro de histoplasmose pulmonar em paciente HIV positivo e quadro crônico: a imagem mostra, próximo ao hilo esquerdo, opacificações referentes a granulomas e aumento de gânglios para-hilares
 
-f) Criptococose pulmonar
-A infecção pulmonar por criptococose é a porta de entrada para a infecção do sistema nervoso central, já discutida ante-riormente. Todo paciente com infecção no SNC tem alguma lesão pulmonar primária por criptococo. Entretanto, o quadro pulmonar pode vir isoladamente, sem quadro neurológico. Nessas situações, a criptococose pulmonar faz diagnóstico dife-rencial com a própria tuberculose, ou com pneumonias de repetição. 
-Lesões de pele do tipo vesículas com biópsia mostrando o criptococo ajudam a aumentar a chance de confirmação de imagens pulmonares suspeitas. Da mesma forma, a presença da antigenemia para criptococo no sangue (pesquisa do antígeno para criptococo) também aumenta a possibilidade da lesão pulmonar ser pelo fungo. O diagnóstico de certeza é feito com a biópsia pulmonar, com imagem do fungo encontrada no anatomopatológico. 
+e) Criptococose pulmonar
+A infecção pulmonar por criptococose é a porta de entrada para a infecção do sistema nervoso central, já discutida ante-riormente. Todo paciente com infecção no SNC tem alguma lesão pulmonar primária por Cryptococcus. Entretanto, o quadro pulmonar pode vir isoladamente, sem quadro neurológico. Nessas situações, a criptococose pulmonar faz diagnóstico dife-rencial com a própria tuberculose, ou com pneumonias de repetição. 
+Lesões de pele do tipo vesículas com biópsia mostrando o Cryptococcus ajudam a aumentar a chance de confirmação de imagens pulmonares suspeitas. Da mesma forma, a presença da antigenemia para Cryptococcus no sangue (pesquisa do antí-geno para Cryptococcus) também aumenta a possibilidade da lesão pulmonar ser pelo fungo. O diagnóstico de certeza é feito com a biópsia pulmonar, com imagem do fungo encontrada no anatomopatológico. 
 No paciente imunocomprometido com lesão pulmonar, o tratamento é semelhante ao da neurocriptococose, conforme já discutido no tópico relativo a esta doença.
 
  
-Figura 19 - Pulmão de paciente HIV positivo com infecção por criptococose pulmonar; o diagnóstico é confirmado por biópsia pulmonar – observar que a imagem lembra padrão de tuberculose disseminada, com cavitações e padrão disseminado, portanto, em pacientes como este, além da pesquisa de bacilo álcool-ácido-resistente no escarro, deve ser solicitada antigenemia para criptococo e, quando possível, utilizada a biópsia pulmonar para o diagnóstico 
+Figura 19 - Pulmão de paciente HIV positivo com infecção por criptococose pulmonar; o diagnóstico é confirmado por biópsia pulmonar – observar que a imagem lembra padrão de tuberculose disseminada, com cavitações e padrão disseminado, portanto, em pacientes como este, além da pesquisa de bacilo álcool-ácido-resistente no escarro, deve ser solicitada antigenemia para Cryptococcus e, quando possível, utilizada a biópsia pulmonar para o diagnóstico 
 Fonte: arquivo pessoal.
 
-Algumas características são importantes para ressaltar num quadro pulmonar em um paciente HIV positivo. A Tabela 13 marca algumas características próprias.
+Algumas características são importantes para ressaltar num quadro pulmonar em um paciente HIV positivo. A Tabela 14 marca algumas características próprias.
 
-Tabela 13 - Características clínicas relacionadas às doenças pulmonares entre os pacientes HIV positivo
+Tabela 14 - Características clínicas relacionadas às doenças pulmonares entre os pacientes HIV positivo
 Características 	Doenças relacionadas 
 Doenças mais frequentes em um quadro pulmonar	- Pneumonia bacteriana;
 	- Pneumocistose;
 	- Tuberculose.
-Se já teve doença pulmonar prévia: aumenta a chance de ela recorrer	- Pneumonia bacteriana;
+Se já teve doença pulmonar prévia, aumenta a chance de ela recorrer	- Pneumonia bacteriana;
 	- Pneumocistose;
 	- Pneumonia fúngica.
 Aumento de desidrogenase láctica	Pneumocistose, apesar de não ser patognomônico
@@ -527,7 +563,7 @@ Hepatoesplenomegalia, linfadenopatia ou infiltração de medula óssea	- Tuberculos
 
 Pergunta
 2011 - UFRJ
-3. Uma mulher de 37 anos, com pápulas e placas violáceas disseminadas por todo o corpo há 4 meses. Tosse seca, dispneia e dor torácica à esquerda, há 2 meses. Radiografia de tórax: lesões de limites imprecisos bilateralmente e derrame pleural esquerdo. O diagnóstico mais provável é:
+3. Uma mulher de 37 anos apresenta pápulas e placas violáceas disseminadas por todo o corpo há 4 meses, além de tosse seca, dispneia e dor torácica à esquerda há 2 meses. Radiografia de tórax: lesões de limites imprecisos bilateralmente e derrame pleural esquerdo. O diagnóstico mais provável é:
 a) pneumocistose com manifestação pulmonar
 b) sarcoma de Kaposi
 c) granulomatose de Wegener com vasculite cutânea
@@ -535,9 +571,10 @@ d) tuberculose pulmonar
 Resposta no final do capítulo
 
 5. Doenças gastrintestinais associadas ao HIV
+
 A doença oportunista mais frequente englobada neste grupo é a monilíase esofágica. O fato é que, por baixo de um “tape-te” de monilíase esofágica, podem existir muitas outras lesões, que serão aqui discutidas. Para facilitar o entendimento, po-dem-se dividir as doenças por parte do trato digestivo.
 
-Tabela 14 - Doenças associadas ao HIV – trato gastrintestinal
+Tabela 15 - Doenças associadas ao HIV – trato gastrintestinal
 Esôfago
 - Candidíase esofágica;
 - CMV esofágico;
@@ -554,25 +591,27 @@ Intestino
 - Tumores: SK.
 
 A - Esôfago
+
 a) Candidíase esofágica
 Até 80% de todos os pacientes que evoluírem com AIDS apresentarão esta condição. Por isso, é a 1ª causa de odinofagia em pacientes HIV positivo, e, na falta de endoscopia, é a doença a ser tratada empiricamente. Além da odinofagia, vômitos e sensação de dor retroesternal são queixas frequentes. Geralmente, a monilíase oral está presente (praticamente 100% das candidíases esofágicas apresentam candidíase oral, mas o contrário não é verdade).
 
  
-Figura 20 - Monilíase esofágica: como a lesão encobre praticamente toda a luz do esôfago, é importante repetir o exame após o fim do tratamento para avaliar melhora e descartar lesões não visualizadas por baixo de toda essa infecção
+Figura 20 - Monilíase esofágica: como a lesão encobre praticamente toda a luz do esôfago, é importante repetir o exame após o fim do tra-tamento para avaliar melhora e descartar lesões não visualizadas por baixo de toda essa infecção
 
-O tratamento da infecção é feito com fluconazol 100mg/d, durante 14 dias (utilizado intravenoso em caso de vômitos). Ca-so haja recorrência, é recomendado repetir com dose dobrada. Mesmo em pacientes que realizaram endoscopia antes do início do tratamento, esta deve ser repetida depois dele, pois podem existir lesões por baixo do “tapete de monília” não visu-alizadas, como câncer ou úlceras esofágicas. 
+O tratamento da infecção é feito com fluconazol 200mg/d, durante 14 dias (utilizado intravenoso em caso de vômitos). No 1º dia de tratamento, sugere-se dose dobrada de 400mg. Caso haja recorrência, é recomendado repetir com dose dobrada, ou seja, até 400mg/d. Mesmo em pacientes que realizaram endoscopia antes do início do tratamento, esta deve ser repetida depois dele, pois podem existir lesões por baixo do “tapete de monília” não visualizadas, como câncer ou úlceras esofágicas. 
 
 Importante
-A candidíase esofágica é uma afecção muito comum em pacientes com AIDS (até 80%), associada a monilíase oral. O trata-mento é feito com fluconazol 100mg/d por 14 dias. 
+A candidíase esofágica é uma afecção muito comum em pacientes com AIDS (até 80%), associada a monilíase oral. O trata-mento é feito com fluconazol 400mg de ataque e 200mg/d por 14 dias.
 
 b) Infecção por citomegalovírus no esôfago
 O 2º tipo de infecção mais prevalente no paciente com AIDS na região do esôfago é a infecção pelo CMV. Ele causa lesão disseminada por todo corpo na AIDS, sendo um dos principais parceiros do HIV para causar complicações. É a causa mais fre-quente de úlcera esofágica no paciente HIV positivo, com cerca de metade de todas as úlceras de esôfago.
 
  
-Figura 21 - Duas úlceras de esôfago confirmadas como citomegalovírus em biópsia (circundadas). A biópsia é sempre necessária, ape-sar de a característica e o perfil das lesões serem bastante sugestivos
+Figura 21 - Duas úlceras de esôfago confirmadas como citomegalovírus em biópsia (circundadas). A biópsia é sempre necessária, apesar de a característica e o perfil das lesões serem bastante sugestivos
 
-A úlcera é a principal apresentação de CMV esofágico. Geralmente, é puntiforme (ao contrário do herpes, em que é mais larga) e não costuma causar lesões extensas, mas sim profundas, inclusive com perfuração. Não há melhora com fluconazol se houver por cima a candidíase. O principal sintoma clínico é a disfagia. Dor retroesternal, vômitos e odinofagia também estão naturalmente presentes.
-O tratamento é feito com ganciclovir 5mg/kg/dose, 12/12h, por, pelo menos, 14 dias. Lembrar que o ganciclovir é uma droga pancitopênica, o que pode piorar a condição do paciente. Por esse motivo, os tratamentos não começam antes de haver confirmação ou falha de tratamento prévia.
+A úlcera é a principal apresentação de CMV esofágico. Geralmente, é puntiforme (ao contrário do herpes, em que é mais larga) e não costuma causar lesões extensas, mas sim profundas, inclusive com perfuração. Em paciente que apresenta candi-díase, o CMV passa a ser diagnóstico diferencial quando ocorre tratamento da infecção fúngica no esôfago, mas a queixa de dor persiste. O principal sintoma clínico é a disfagia. Dor retroesternal, vômitos e odinofagia também estão naturalmente presentes.
+O tratamento é feito com ganciclovir 5mg/kg/dose, 12/12h, por, pelo menos, 14 dias. Lembrar que o ganciclovir é uma droga pancitopênica, o que pode piorar a condição do paciente. Por esse motivo, os tratamentos não começam antes de haver confirmação ou falha de tratamento prévia com uso de aciclovir (lembrando que aciclovir não trata CMV; apenas her-pes).
+
 c) Infecção por herpes no esôfago
 A infecção por herpes é menos comum do que as 2 anteriores, representando apenas 20% das úlceras de esôfago. Nesse caso, as lesões são superficiais, mas mais extensas do que as do CMV.
 
@@ -587,15 +626,15 @@ Figura 23 - Sarcoma de Kaposi no duodeno, em que as lesões podem ser enegrecidas
 
 C - Intestino
 As lesões intestinais podem ser divididas em infecciosas ou tumorais. Independente da causa etiológica, o sinal intestinal mais frequente é a diarreia, que ocorre em até 60% dos pacientes com AIDS (em países pobres, este número pode ser maior por conta de outras causas associadas). A diarreia é dividida em:
-Aguda: até 3 semanas de evolução. Nesse caso, as causas são muito parecidas com as de diarreia na população em geral no que diz respeito à infecção por bactérias como Shigella spp., Campylobacter, Yersinia e Clostridium difficile. Além dis-so, alguns vírus também assemelham-se aos da população geral (rotavírus, adenovírus, coronavírus). Entretanto, ao falar de Salmonella, deve-se lembrar que a S. typhi (causadora da febre tifoide) é menos comum nesses pacientes do que ou-tros tipos de Salmonella. S. paratyphi, S. enteritidis e S. typhimurium são frequentes causadores e, inclusive, ajudam a fe-char o diagnóstico de AIDS em um paciente com infecção pelo HIV e cultura positiva para essas bactérias. Ainda relacio-nado ao paciente HIV positivo, são frequentes as diarreias agudas por neoplasias, como SK.
+Aguda: até 3 semanas de evolução. Nesse caso, as causas são muito parecidas com as de diarreia na população em geral no que diz respeito à infecção por bactérias como Shigella spp., Campylobacter, Yersinia e Clostridium difficile. Além disso, alguns vírus também se assemelham aos da população geral (rotavírus, adenovírus, coronavírus). Entretanto, ao falar de Salmonella, deve-se lembrar que a S. typhi (causadora da febre tifoide) é menos comum nesses pacientes do que outros tipos de Salmonella. S. paratyphi, S. enteritidis e S. typhimurium são frequentes causadores e, inclusive, ajudam a fechar o diagnóstico de AIDS em um paciente com infecção pelo HIV e cultura positiva para essas bactérias. Ainda relacionado ao paciente HIV positivo, são frequentes as diarreias agudas por neoplasias, como SK.
 
-Tabela 15 - Causas de diarreia aguda (incidência)
-- Campylobacter jejuni: 4 a 15%;
-- C. difficile: 3 a 15%;
-- Vírus entéricos: 4 a 15%;
+Tabela 16 - Causas de diarreia aguda (incidência) 
+- Idiopática: 25 a 40%;
 - E. coli: 10 a 20%;
 - Salmonelose: 5 a 15%;
-- Idiopática: 25 a 40%;
+- Campylobacter jejuni: 4 a 15%;
+- Vírus entéricos: 4 a 15%;
+- C. difficile: 3 a 15%;
 - Shigelose: 2%.
 
 Faz-se diagnóstico com coprocultura e parasitológico de fezes. O tratamento é específico para cada tipo de bactéria. Desta forma, para salmoneloses e shigeloses, o tratamento é feito com ciprofloxacino 500mg, 12/12h, VO, por 10 a 14 dias. Para parasitoses, o tratamento é feito empiricamente com albendazol ou direcionado para cada parasitose (vide capítulo de parasi-toses).
@@ -607,7 +646,7 @@ A diarreia crônica pode, ainda, ser causada por CMV disseminado, com possibilida
 As micobactérias são causas de diarreia frequente no paciente HIV positivo com CD4 baixo. As atípicas são mais frequen-tes, levando a infartos mesentéricos por aumento de gânglios nessas regiões, lesões na luz do intestino e diarreias crônicas, com sudorese e febre. O diagnóstico é feito pela cultura para micobactérias nas fezes (e no sangue, já que a disseminação é hematogênica). O tratamento de micobacterioses atípicas envolve uma quinolona (levofloxacino 500mg, 1x/d), um macrolí-deo (azitromicina 500mg, 1x/d) e etambutol 400mg, 3 comprimidos, 1x/d, por 12 a 18 meses. 
 O próprio HIV pode levar a quadros de enterites crônicas, principalmente em pacientes com CD4 baixo e carga viral alta. O diagnóstico é feito com colonoscopia com biópsia, e o tratamento é feito com os próprios antirretrovirais, para controle da replicação viral. 
 
-Tabela 16 - Diarreia crônica (incidência)
+Tabela 17 - Diarreia crônica (incidência)
 - Criptosporídio: 20%;
 - CMV: 20%;
 - Microsporidíase: 20%;
@@ -617,11 +656,11 @@ Tabela 16 - Diarreia crônica (incidência)
 - Idiopática e pelo próprio HIV: 20 a 30%.
 
 Importante
-As lesões estomacais e intestinais relacionadas ao HIV geralmente se dividem em infecciosas ou tumorais. As lesões gás-tricas são do tipo tumoral, e as mais comuns são linfomas (geralmente indolentes, do tipo B) e sarcoma de Kaposi. As afecções intestinais podem ser do tipo infecciosas, causadas principalmente pelos agentes Campylobacter e Clostridium difficile, além dos vírus rotavírus, adenovírus e coronavírus, e também tumorais, causando frequentemente as diarreias agudas, como a neoplasia no sarcoma de Kaposi.
+As lesões estomacais e intestinais relacionadas ao HIV geralmente se dividem em infecciosas ou tumorais. As gástricas são do tipo tumoral, e as mais comuns são linfomas (geralmente indolentes, do tipo B) e sarcoma de Kaposi. As afecções intestinais podem ser do tipo infecciosas, causadas principalmente pelos agentes Campylobacter e Clostridium difficile, além dos vírus rotavírus, adenovírus e coronavírus, e também tumorais, causando frequentemente as diarreias agudas, como a neoplasia no sarcoma de Kaposi. A incidência varia de acordo com o valor de CD4.
 
 Pergunta
 2010 - UERJ
-4. Isospora belli foi identificada no exame parasitológico de fezes de um artista plástico de 29 anos, com AIDS e diarreia crônica. De início, a droga de escolha para o tratamento da infecção foi eficaz no controle do problema intestinal, mas houve recidiva da diarreia 1 mês depois, com as mesmas características anteriores. Uma contagem de linfócitos CD4 registrou 116 células/µL. Neste momento, o tratamento mais adequado requer o emprego de:
+4. Isospora belli foi identificada no exame parasitológico de fezes de um artista plástico de 29 anos, com AIDS e diarreia crônica. De início, a droga de escolha para o tratamento da infecção foi eficaz no controle do problema intestinal, mas houve recidiva da diarreia 1 mês depois, com as mesmas características anteriores. Uma contagem de linfócitos CD4 regis-trou 116 células/µL. Neste momento, o tratamento mais adequado requer o emprego de:
 a) albendazol
 b) nitazoxanida
 c) metronidazol
@@ -629,18 +668,19 @@ d) sulfametoxazol-trimetoprima
 Resposta no final do capítulo
 
 6. Manifestações dermatológicas
+
 As manifestações dermatológicas são extremamente importantes na AIDS e são essenciais para suspeitar de um diagnósti-co de doença imunodepressora. A regra é que as lesões podem ser muito sugestivas de uma doença, mas é essencial a bióp-sia para confirmar, pois elas podem apresentar quadros que enganam apenas visualmente. 
 
 A - Herpes-zóster
 Não é necessária uma imunidade muito baixa para o seu aparecimento. Isso significa que uma reativação deste vírus pode ser o 1º sinal de queda de CD4, e as lesões podem aparecer em torno de 500 de CD4. Muitas vezes, esse tipo de lesão leva ao diagnóstico de uma infecção pelo HIV. 
 
 Importante
-No paciente HIV positivo, a lesão por herpes-zóster pode acometer múltiplos dermátomos e envolver, inclusive, olhos, necessitando de terapia intravenosa. 
+No paciente HIV positivo, a lesão por herpes-zóster pode acometer múltiplos dermátomos e envolver, inclusive, olhos, necessitando de terapia intravenosa.
 
  
 Figura 24 - Lesão por herpes-zóster na região do dorso, cuja principal característica é o acometimento de dermátomos, com neuropatia que aparece antes mesmo das lesões de pele
 
-O tratamento é feito com aciclovir (800mg/dose, 5x/d, VO, durante 7 dias em casos limitados a um dermátomo). Medica-ções também eficazes são valaciclovir (500mg/dose, 8/8h, VO) ou fanciclovir (500mg/dose, 8/8h, VO). Deve-se lembrar de que, em casos graves, disseminados ou com acometimento ocular e/ou visceral, a preferência é pelo aciclovir (10mg/kg, 8/8h, IV) ou foscarnete (40mg/kg, 8/8h, IV), durante 7 a 10 dias.
+O tratamento é feito com aciclovir (800mg/dose, 5x/d, VO, durante 7 dias, em casos limitados a um dermátomo). Medica-ções também eficazes são valaciclovir (500mg/dose, 8/8h, VO) ou fanciclovir (500mg/dose, 8/8h, VO). Deve-se lembrar de que, em casos graves, disseminados ou com acometimento ocular e/ou visceral, a preferência é pelo aciclovir (10mg/kg, 8/8h, IV) ou foscarnete (40mg/kg, 8/8h, IV), durante 7 a 10 dias.
 
 B - Herpes-simples
 As lesões do paciente HIV positivo tendem a ser mais graves, com acometimento de várias regiões do organismo ao mes-mo tempo, e não lesão única, como de costume. O tratamento é feito com as mesmas drogas para o herpes-zóster, porém em menor dosagem (aciclovir 400mg, 5x/d; valaciclovir 500mg, 12/12h; ou fanciclovir 500mg, 12/12h).
@@ -649,59 +689,59 @@ As lesões do paciente HIV positivo tendem a ser mais graves, com acometimento de
 Figura 25 - Lesão de pele sugestiva de herpes-simples: como já dito, a regra é, na dúvida, biopsiar, já que outros vírus podem causar lesões semelhantes (citomegalovírus, molusco contagioso), além de fungos (como Cryptococcus) 
 
 C - Sarcoma de Kaposi
-Deve haver associação do HIV ao herpes-vírus tipo 8 (HHV8) para aparecer em pacientes com AIDS. Quase não é visto atu-almente, por conta do tratamento com multidrogas para o HIV (HAART). As lesões cutâneas podem surgir em qualquer locali-zação e acometer mucosas, inclusive. As lesões são vermelho-violáceas com halo equimótico. Se houver lesões de vísceras, geralmente são de trato digestivo e respiratório. Por esse motivo, é obrigatória a realização de broncoscopia, endoscopia e colonoscopia em pacientes com lesão de pele. Para lesões únicas e em pele apenas, o tratamento antirretroviral é suficiente. Entretanto, em caso de lesões múltiplas de pele ou de vísceras, o tratamento quimioterápico é necessário.
+Deve haver associação do HIV ao herpes-vírus tipo 8 (HHV-8) para aparecer em pacientes com AIDS. Quase não é visto atualmente, por conta do tratamento com multidrogas para o HIV (HAART). As lesões cutâneas podem surgir em qualquer localização e acometer mucosas, inclusive. As lesões são vermelho-violáceas com halo equimótico. Se houver lesões de vísce-ras, geralmente são de trato digestivo e respiratório. Por esse motivo, é obrigatória a realização de broncoscopia, endoscopia e colonoscopia em pacientes com lesão de pele. Para lesões únicas e em pele apenas, o tratamento antirretroviral é suficien-te. Entretanto, em caso de lesões múltiplas de pele ou de vísceras, o tratamento quimioterápico é necessário.
 
  
 Figura 26 - Sarcoma de Kaposi; com o advento da HAART, lesões múltiplas como estas são cada vez mais raras
 
 Tratamento 
-Quando se têm poucas lesões (até 3) do sarcoma de Kaposi, apenas em pele, o tratamento é apenas com antirretrovirais, que melhoram as lesões. Quando há muitas lesões de pele e/ou de vísceras (trato gastrintestinal ou pulmonar), o tratamen-to é feito com radioterapia e/ou quimioterapia, além da terapia antirretroviral. 
+Quando se têm poucas lesões (até 3) do sarcoma de Kaposi, apenas em pele, o tratamento é apenas com antirretrovirais, que melhoram as lesões. Quando há muitas lesões de pele e/ou de vísceras (trato gastrintestinal ou pulmonar), o trata-mento é feito com radioterapia e/ou quimioterapia, além da terapia antirretroviral.
 
 D - Angiomatose bacilar
 É causada pela Bartonella quintana e B. henselae, além de fazer diagnóstico diferencial com SK. As lesões podem ser violá-ceas ou cursar com pápulas vermelhas, vasculares e friáveis, muitas vezes dolorosas, associadas a bacteriemia e envolvimento visceral. 
 O diagnóstico de certeza é feito com biópsia das lesões, coloração com HE ou com coloração específica (Warthin-Starry). A angiomatose é tratada com eritromicina (250 a 500mg, 6/6h, VO) ou doxiciclina (100mg, 12/12h, VO), por um mínimo de 4 a 6 semanas (eventualmente, 3 a 4 meses). Em casos graves, pode-se associar rifampicina.
 
  
-Figura 27 - Angiomatose bacilar: o principal diagnóstico diferencial é feito com sarcoma de Kaposi; a biópsia é essencial para o diagnós-tico, mas o tratamento empírico pode ser realizado
+Figura 27 - Angiomatose bacilar: o principal diagnóstico diferencial é feito com sarcoma de Kaposi; a biópsia é essencial para o diagnóstico, mas o tratamento empírico pode ser realizado
 
 Existem, ainda, outras doenças dermatológicas associadas ao HIV, como molusco contagioso, foliculite pelo HIV, criptoco-cose e tuberculose de pele. Novamente, é importante que se lembre: o diagnóstico diferencial é realizado por biópsia, pela complexidade de lesões que podem aparecer. 
 
 7. Lesões oculares associadas ao HIV
 
 - Citomegalovírus ocular
-É a 1ª causa de lesão ocular no HIV, sendo a lesão mais frequente de cegueira no paciente com AIDS. Nesse caso, ocorre retinite como acometimento mais frequente. Cerca de metade daqueles com infecção pelo HIV apresenta hemorragias retini-anas e infiltrados algodonosos, na maioria assintomáticos.
+É a 1ª causa de lesão ocular no HIV, sendo a causa mais frequente de cegueira no paciente com AIDS. Nesse caso, ocorre retinite como acometimento mais frequente. Cerca de metade daqueles com infecção pelo HIV apresenta hemorragias retini-anas e infiltrados algodonosos, na maioria assintomáticos.
 A retinite por CMV ocorre em pacientes com CD4 <50 e, normalmente, começa com borramento ou diminuição da acui-dade visual. As manifestações são bilaterais, mas assimétricas (afetam mais um olho do que o outro). O fundo de olho pode mostrar exsudatos retinianos, branco-amarelados, comumente associados a hemorragias em áreas adjacentes a grandes va-sos. O diagnóstico é feito pelo fundo de olho e deve ser confirmado por um oftalmologista experiente. Pode ser, ainda, reali-zado PCR para o vírus no sangue (DNA-CMV).
-O tratamento da retinite por CMV deve ser feito o quanto antes, já que o retardo leva necessariamente a lesões definiti-vas e cegueira total. Como o CD4 é normalmente baixo, após o tratamento, deve ser instituída a profilaxia secundária, já que a reativação é frequente. A Tabela 17 resume as principais drogas para tratamento.
+O tratamento da retinite por CMV deve ser feito o quanto antes, já que o retardo leva necessariamente a lesões definiti-vas e cegueira total. Como o CD4 é normalmente baixo, após o tratamento, deve ser instituída a profilaxia secundária, já que a reativação é frequente. A Tabela 18 resume as principais drogas para tratamento.
 
  
 Figura 28 - Retinite por citomegalovírus: esse tipo de lesão deve ser reconhecido por um oftalmologista, e o diagnóstico diferencial é feito com toxoplasmose e sífilis – o uso de PCR para citomegalovírus no sangue é uma ferramenta importante para tentar melhorar o diagnóstico
 
-Tabela 17 - Tratamento para lesões oculares associadas ao HIV
+Tabela 18 - Tratamento para lesões oculares associadas ao HIV
 Medicamentos	Doses e observações
 Ganciclovir	- Indução com 5mg/kg, 12/12h, IV, por 14 dias; a manutenção é feita com 5 a 6mg/kg/dose, 1x/d, 5x/sem;
 	- É o mais tradicional tratamento para o CMV;
-	- Pode causar citopenias, febre (48%), intolerância do trato gastrintestinal (náusea e vômitos, dor abdominal: 19 a 48%), rash (10%), outros mais raros (confusão, convulsões, transtornos psiquiátricos);
+	- Pode causar citopenias, febre (48%), intolerância do trato gastrintestinal (náusea e vômitos, dor abdominal: 19 a 48%), rash (10%) e outros mais raros (confusão, convulsões, transtornos psiquiátricos);
 	- Até 30% dos pacientes não toleram a medicação, sobretudo por causa de neutropenia grave (piorada pelo uso de AZT).
 Valganciclovir	- Indução com 900mg, de 12/12h, VO, por 14 a 21 dias; manutenção de 900mg, 1x/d;
 	- Efeitos colaterais são semelhantes aos do ganciclovir intravenoso;
 	- Não existe no Brasil;
-	- Estudos recentes mostraram a segurança e a eficácia do valganciclovir no tratamento da retinite por CMV.
+	- Estudos recentes mostraram a segurança e a eficácia do valganciclovir no tratamento da re-tinite por CMV.
 Foscarnete	- Indução de 90mg/kg, 12/12h, IV, durante 14 dias; manutenção de 90 a 120mg/kg, 1x/d, IV. Como alternativa, a indução pode ser feita com 60mg/kg, 8/8h;
 	- Estudos mostram eficácia semelhante ao ganciclovir;
-	- Pode causar: nefrotoxicidade (30%), cefaleia e fadiga (100%), náusea (80%), febre (25%), distúrbios eletrolíticos (cálcio, magnésio, fósforo, potássio), arritmias, convulsão;
+	- Pode causar: nefrotoxicidade (30%), cefaleia e fadiga (100%), náusea (80%), febre (25%), distúrbios eletrolíticos (cálcio, magnésio, fósforo, potássio), arritmias e convulsão;
 	- Efeitos colaterais são diminuídos com hidratação vigorosa antes da administração da droga e evitando concomitantes drogas nefrotóxicas.
 Cidofovir	- Não foi comparado com ganciclovir em estudos randomizados; 
 	- Indução de 5mg/kg, 2x/sem, IV; manutenção de 5mg/kg, 2/2sem.
 
-Várias outras lesões oculares entram como diagnóstico diferencial da retinite por CMV. A Tabela 18 descreve essas infec-ções e suas características principais.
+Várias outras lesões oculares entram como diagnóstico diferencial da retinite por CMV. A Tabela 19 descreve essas infec-ções e suas características principais.
 
 Importante
 A coriorretinite por citomegalovírus é a principal doença que atinge o olho em associação ao HIV, sendo a amaurose muito frequente. No aparecimento dos sintomas, as lesões já são extensas.
 
-Tabela 18 - Lesões com diagnóstico diferencial da retinite por citomegalovírus
+Tabela 19 - Lesões com diagnóstico diferencial da retinite por citomegalovírus
 Doenças oculares	Características
 Retinite sifilítica	- Apresenta lesões no SNC concomitante;
-	- É tratada com penicilina cristalina 4.000.000U 4/4h.
+	- É tratada com penicilina cristalina 4.000.000UI, 4/4h.
 Micobacterioses oculares	- Causam principalmente infiltrados em coroide, mas não costumam cursar com cegueira; 
 	- O tratamento é semelhante ao da tuberculose extrapulmonar habitual.
 Meningite criptocócica com compressão do nervo óptico	Lesão grave, com cegueira em 100% dos casos
@@ -712,19 +752,20 @@ Toxoplasmose ocular	- É a 2ª maior causa de lesões oculares no HIV;
 	- É obrigatório a pacientes com neurotoxoplasmose fazer fundo de olho para investigar lesões oculares.
 
 8. Outros órgãos acometidos
+
 Diversos órgãos podem ser acometidos por doenças oportunistas no HIV. Para não nos alongarmos, lembraremos as prin-cipais doenças relacionadas a cada sistema faltante.
 
 A - Rins
-A nefropatia associada ao HIV é uma condição tão importante que, atualmente, entrou como critério de definição de início de tratamento. A lesão prevalente é uma glomeruloesclerose segmentar e focal. O diagnóstico é sugerido por uma dosagem de proteinúria de 24 horas, ultrassonografia mostrando rins de tamanhos normais ou aumentados (mesmo em fase avançada) e exclusão de outras causas (pielonefrite, uropatia obstrutiva) e é confirmado por biópsia renal. Para tratamento, é necessá-rio que se inicie o mais precocemente possível com terapia antirretroviral, além de inibidores da enzima conversora de angi-otensina e corticosteroides.
+A nefropatia associada ao HIV é uma condição tão importante que, atualmente, entrou como critério de definição de início de tratamento. A lesão prevalente é uma glomeruloesclerose segmentar e focal, com o subtipo colapsante o mais comum no paciente HIV. O diagnóstico é sugerido por uma dosagem de proteinúria de 24 horas, ultrassonografia mostrando rins de tamanhos normais ou aumentados (mesmo em fase avançada) e exclusão de outras causas (pielonefrite, uropatia obstrutiva) e é confirmado por biópsia renal. Para tratamento, é necessário que se inicie o mais precocemente possível com terapia antir-retroviral, além de inibidores da enzima conversora de angiotensina e corticosteroides.
 
 B - Alterações hematológicas
 Os pacientes com valores baixos de CD4, normalmente, apresentam uma infiltração medular do próprio HIV, levando a pancitopenias. Entretanto, diversas outras doenças oportunistas podem levar a anemias, o que torna o diagnóstico da causa de alteração hematológica muito difícil. O perfil da anemia (normocítica, hipocrômica, crônica) ajuda muito no diagnóstico.
 
-Tabela 19 - Causas mais frequentes de anemia no HIV
+Tabela 20 - Causas mais frequentes de anemia no HIV
 - Anemia de doença crônica: infecção pelo HIV, infecções oportunistas, neoplasias;
 - Anemia ferropriva: sangramento no trato gastrintestinal (linfoma, carcinoma, SK, enterite por CMV, lesões esofágicas, outras);
 - Anemia por infiltração de medula óssea: micobactérias não tuberculosas, tuberculose, CMV, histoplasmose, criptococose, linfoma;
-- Anemia medicamentosa: hemólise (dapsona, primaquina), megaloblástica (AZT), mielossupressão (ganciclovir, foscarnete, sulfonami-das, trimetoprima, aciclovir, pirimetamina, pentamidina, interferona);
+- Anemia medicamentosa: hemólise (dapsona, primaquina), megaloblástica (AZT), mielossupressão (ganciclovir, foscarnete, sulfo-namidas, trimetoprima, aciclovir, pirimetamina, pentamidina, interferona);
 - Anemia por deficiência de vitamina B12 ou ácido fólico;
 - Aplasia pura de células vermelhas: parvovírus B19;
 - Anemia por hemólise mediada por anticorpos.
@@ -734,26 +775,30 @@ Algumas alterações específicas de séries devem ser lembradas. No caso de queda d
 C - Cardíacas
 As cardites são alterações frequentes pelo próprio HIV. A miocardite pelo HIV leva a insuficiências cardíacas graves e po-de, inclusive, ser causa de óbito. O diagnóstico é feito por ecocardiograma e carga viral alta de HIV. O tratamento é feito com terapia antirretroviral. 
 
-9. Resumo
+Resumo
 
 Quadro-resumo
-Complicações neurológicas (mais comuns na sequência)	- Neurotoxoplasmose;
-	- Neurotuberculose;
-	- Neurocriptococose;
-	- Linfoma do SNC.
-Complicações pulmonares	- Pneumocistose;
-	- Tuberculose pulmonar;
-	- Micobacterioses atípicas;
-	- Infecções fúngicas pulmonares.
-Outras complicações marcantes	Pele (herpes-zóster principalmente)
+- Convém lembrar-se das 3 doenças oportunistas mais frequentes e saiba-as de maneira mais completa, com quadro clínico, trata-mento e profilaxias, em ordem decrescente:
+? Monilíase esofágica;
+? Pneumocistose;
+? Neurotoxoplasmose.
+Complicações neurológicas (mais comuns na sequência)	- Neurotoxoplasmose: mais frequente das doenças em sistema nervoso central. Tra-tamento empírico para lesões focais sempre vai ser para ela. Saber o tratamento inicial e a 2ª opção, pois é frequente a alergia ao tratamento inicial feito com sulfa-diazina;
+	- Neurotuberculose: encefalite e/ou meningite são as apresentações mais comuns, e lesão focal é rara;
+	- Neurocriptococose: lesão fúngica mais frequente em sistema nervoso central. Alta mortalidade e tratamento prolongado e difícil;
+	- Linfoma do SNC: tumor mais frequente associado ao HIV. Se for primário do SNC, mais frequente em CD4 abaixo de 100 células/mm3;
+Complicações pulmonares	- Pneumocistose: doença pulmonar mais frequente na AIDS. Deve ser tratada empi-ricamente sempre que o padrão do raio x for intersticial, associado a febre baixa, DHL alto e tosse seca;
+	- Tuberculose pulmonar: principal causa de óbito nos pacientes com AIDS. Importan-te no Brasil, a pesquisa do bacilo sempre é necessária em pacientes com AIDS. Lembrar que em CD4 baixo raramente causa cavitação e o padrão é micronodular (miliar);
+	- Micobacterioses atípicas: frequentes em pacientes com CD4 abaixo de 50 célu-las/mm3. Profilaxia primária para pacientes com estes valores de CD4 deve ser feito com macrolídeos até a melhora da imunidade, com CD4 acima de 50 células/mm3;
+	- Infecções fúngicas pulmonares: menos frequentes que as 3 citadas. Lembrar dos aspectos mais importantes da criptococose pulmonar (porta de entrada para poste-rior neurocriptococose) e histoplasmose.
+Gastrintestinais	- Lembrar principalmente da monilíase esofágica (doença oportunista mais frequen-te), seu tempo de tratamento e doenças associadas (pode haver úlceras abaixo do “tapete” de fungos no esôfago, que só serão visualizados após o tratamento da mo-nilíase);
+	- Herpes: lesões esofágicas principalmente. Diagnóstico diferencial com CMV;
+	- CMV: lesões em esôfago, principal causa de úlcera na região. Diagnóstico deve ser confirmado por biópsia;
+	- Sarcoma de Kaposi: pouco frequente, mas com aumento da incidência em pacien-tes com CD4 baixo e com lesões violáceas em esôfago, estomago ou intestino. Quando há lesões de pele, lembrar que é essencial a investigação de lesões no trato digestivo com colonoscopia e endoscopia.
+Pele	Herpes-zóster: lembrar que é um dos sintomas iniciais na queda do CD4 abaixo de 500 células/mm3. Isso obriga o clínico a pensar em pedir exame de HIV sempre que um paciente sem outras comorbidades aparentes aparecer com herpes-zóster. 
+Olho	Retinite por CMV: principal causa de cegueira em pacientes com AIDS. É importante que seja realizado diagnóstico rápido no começo dos sintomas, e deve-se iniciar tratamento imediato para evitar sequelas definitivas.
 
-Respostas
+Respostas das questões do capítulo
 1. A
 2. D
 3. B
 4. D
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
