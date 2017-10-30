@@ -1,8 +1,7 @@
 Infecção pelo HIV e AIDS
 Durval A. G. Costa
 
-Resumo
-Este capítulo sobre infecção pelo HIV e AIDS, aborda mais especificamente as formas de infecção (aguda, latente a AIDS propriamente dita), bem como as maneiras pelas quais é possível fazer o diagnóstico, utilizando-se, para tanto, o teste soro-lógico “2 ELISA + 1 western blot”, ou o teste rápido, com 2 testes rápidos modernos positivos, de fabricantes diferentes. Na infecção pelo HIV, há uma sequência de acontecimentos até chegar à AIDS: transmissão viral (de 2 a 3 semanas), síndrome retroviral aguda (de 2 a 3 semanas), recuperação + soroconversão, infecção crônica assintomática (média de 8 anos), se-guida de infecção sintomática/AIDS (média de 15 meses), e, por fim, óbito por doença oportunista. O conhecimento dessa sequência é importante, uma vez que por meio dela é possível avaliar em que fase o paciente está e, a partir daí, traçar o melhor plano terapêutico e avaliar o prognóstico da doença.
+Este capítulo sobre infecção pelo HIV e AIDS, aborda mais especificamente as formas de infecção (aguda, latente e a AIDS propriamente dita), bem como as maneiras pelas quais é possível fazer o diagnóstico, utilizando-se, para tanto, o teste soroló-gico “2 ELISA + 1 western blot”, ou o teste rápido, com 2 testes rápidos modernos positivos, de fabricantes diferentes. Na infecção pelo HIV, há uma sequência de acontecimentos até chegar à AIDS: transmissão viral (de 2 a 3 semanas), síndrome retroviral aguda (de 2 a 3 semanas), recuperação e soroconversão, infecção crônica assintomática (média de 8 anos), seguida de infecção sintomática/AIDS (média de 15 meses), e, por fim, óbito por doença oportunista. O conhecimento dessa sequên-cia é importante, uma vez que por meio dela é possível avaliar em que fase o paciente está e, a partir daí, traçar o melhor plano terapêutico e avaliar o prognóstico da doença.
 
 1. Tipos de infecção
 
@@ -18,14 +17,15 @@ C - HIV fase AIDS
 Neste momento, quebra-se o equilíbrio de linfócitos T CD4, e outras infecções oportunistas aparecem. É a fase de compli-cações da doença, com óbito certeiro se o tratamento ideal não é realizado. 
 
 Importante
-Convém memorizar a sequência de acontecimentos até chegar à AIDS: transmissão viral (de 2 a 3 semanas), síndrome re-troviral aguda (de 2 a 3 semanas), recuperação + soroconversão, infecção crônica assintomática (média de 8 anos), seguida de infecção sintomática/AIDS (média de 15 meses), e, por fim, óbito por doença oportunista.
+Convém memorizar a sequência de acontecimentos até chegar à AIDS: transmissão viral (de 2 a 3 semanas), síndrome re-troviral aguda (de 2 a 3 semanas), recuperação e soroconversão, infecção crônica assintomática (média de 8 anos), seguida de infecção sintomática/AIDS (média de 15 meses), e, por fim, óbito por doença oportunista.
 
-2. HIV agudo – síndrome do HIV agudo
+2. HIV agudo – síndrome do HIV agudo 
 
-A síndrome enquadra-se nos diagnósticos de síndrome mono-like e deve ser pensada sempre como diferencial dessas doenças. Entre todos aqueles que se infectam, cerca de 35 a 50% desenvolverão algum tipo de sinal ou sintoma na fase agu-da, caracterizando como HIV agudo. Nessa fase, o vírus já realizou a integração com o material genético da célula parasitada, já produz células novas virais e destrói em massa células parasitadas. Por isso, a quantidade de vírus no sangue é altíssima, sendo o ponto onde haverá maior replicação viral durante toda a história da infecção. Nesse momento, cada vírus produz cerca de 109 (1 trilhão) de novos vírus, com uma quantidade por mL de vírus de mais de 106 (mais de 1 milhão de cópias por mL).
+A síndrome enquadra-se nos diagnósticos de síndrome mono-like e deve ser pensada sempre como diferencial dessas doenças. A infecção inicial pelo HIV não é sempre percebida. Apesar de haver sinais possíveis em até 90% dos casos, em me-nos da metade dos pacientes (50%) ocorrem sintomas do tipo “mono-like”. Portanto, o médico generalista deve estar atento às possíveis alterações presentes na fase aguda. Nessa fase, o vírus já realizou a integração com o material genético da célula parasitada, já produz células novas virais e destrói em massa as células parasitadas. Por isso, a quantidade de vírus no sangue é altíssima, sendo o ponto onde haverá maior replicação viral durante toda a história da infecção. Nesse momento, cada vírus produz cerca de 109 (1 trilhão) de novos vírus, com uma quantidade por mL de vírus de mais de 106 (mais de 1 milhão de cópias por mL).
+Nesta fase da doença, além da dificuldade do diagnóstico clínico pelos sintomas, há a dificuldade laboratorial. Na maioria das vezes, os exames de HIV de triagem nessa fase estão negativos, pois demoram de 3 a 4 semanas para positivar e estamos falando de um momento inicial da infecção, que ocorre após o contágio principalmente nas 3 primeiras semanas da infecção viral. Por isso nesta fase não se realizam as sorologias tradicionais para diagnóstico, e sim a dosagem de marcadores mais pre-coces, como a carga viral do HIV ou a dosagem do antígeno p24 (para completar o assunto de diagnóstico, ler a parte relativa ao diagnóstico de HIV adiante para entender o tempo de positividade de cada exame).
 
 A - Como identificar uma infecção aguda pelo HIV?
-Cerca de 2 a 4 semanas após a infecção inicial do HIV, as manifestações se iniciam e se mantêm por 14 dias, mas com vari-ação de alguns dias até 10 semanas. O quadro clínico caracteriza-se por uma ampla combinação de sinais e sintomas inespecí-ficos, conforme descrito na Tabela 1.
+ A síndrome do HIV agudo dura entre 3 e 4 semanas, apesar de haver descrições de persistência por períodos maiores de tempo. Como os sintomas normalmente se resolvem sem tratamento específico, é vista pelo paciente como uma “virose” ou quadro autolimitado, o que faz que não procure atendimento médico na maioria das vezes. O quadro clínico caracteriza-se por uma ampla combinação de sinais e sintomas inespecíficos, conforme descrito na Tabela 1.
 
 Tabela 1 - Sinais e sintomas no HIV agudo
 Achados	Incidência (%)
@@ -44,7 +44,7 @@ Placas em orofaringe	12
 Sintomas neurológicos	12
 
 Quadro clínico
-O quadro clínico na fase inicial do HIV agudo apresenta-se principalmente com febre, polimicroadenopatia, faringite, fadiga e rash cutâneo. 
+O quadro clínico na fase inicial do HIV agudo apresenta-se principalmente com febre, polimicroadenopatia, faringite, fadiga e rash cutâneo.
 
 A febre costuma ser baixa, mas em 30% pode ir além de 39°C. A linfadenopatia surge na 2ª semana da doença, acometen-do, mais comumente, as regiões cervical, axilar e inguinal, e apresenta resolução espontânea na maioria dos casos. Pode ocorrer hepatoesplenomegalia. O rash cutâneo ocorre na forma de exantema morbiliforme ou maculopapular, de início no tronco, podendo envolver extremidades, inclusive palma das mãos e plantas dos pés. São descritas ainda urticárias e lesões nas mucosas jugal e esofágica, levando a quadros de odinofagia e disfagia. 
 
@@ -57,7 +57,7 @@ Pergunta
 I - A doença AIDS ocorre, em média, cerca de 1 a 2 anos após o paciente ser infectado.
 II - Os anticorpos anti-HIV podem não ser detectáveis (anti-HIV ELISA falso negativo) nas primeiras 4 a 6 semanas após o indivíduo ter sido infectado, o que se denomina “janela imunológica”.
 III - As manifestações clínicas da infecção primária pelo HIV, quando ocorrem, geralmente acontecem de 2 a 4 semanas após o indivíduo ter sido infectado. A infecção primária pelo HIV é autolimitada e tem duração de cerca de 2 a 4 semanas.
-IV - É comum um período de latência clínica, isto é, ausência de sintomas, entre a infecção primária pelo HIV e as manifesta-ções clínicas de AIDS. Esse período dura, em média, em torno de 8 a 10 anos.
+IV - É comum um período de latência clínica, isto é, ausência de sintomas, entre a infecção primária pelo HIV e as manifes-tações clínicas de AIDS. Esse período dura, em média, em torno de 8 a 10 anos.
 V - Na infecção primária pelo HIV, tipicamente ocorre queda do CD4. Algumas semanas depois, há elevação do CD4 para níveis inferiores a antes da infecção primária, e em seguida, ao longo dos anos, vai diminuindo progressivamente.
 Estão corretas:
 a) I, II, III 
@@ -67,13 +67,13 @@ d) III, IV, V
 e) I, II, IV, V 
 Resposta no final do capítulo
 
-A meningite asséptica é a manifestação neurológica mais comum e, laboratorialmente, caracteriza-se por uma pleocitose linfocítica, com evolução autolimitada. Em recente estudo israelense de 2011, observou-se que 100% daqueles com infecção aguda pelo HIV tinham carga viral alta no liquor, assim como no sangue. Isso implica dizer que muitas das encefalites virais diagnosticadas pelos médicos diariamente podem ser, na verdade, infecções agudas pelo HIV, com manifestação neurológica como única. Várias manifestações neurológicas podem surgir, como cefaleia retro-orbitária e síndrome de Guillain-Barré, no entanto todas as alterações neurológicas são passageiras, sem sequelas.
+A meningite asséptica é a manifestação neurológica mais comum e, laboratorialmente, caracteriza-se por uma pleocitose linfocítica, com evolução autolimitada. Em recente estudo israelense de 2011, observou-se que 100% daqueles com infecção aguda pelo HIV tinham carga viral alta no liquor, assim como no sangue. Isso implica dizer que muitas das encefalites virais diagnosticadas pelos médicos diariamente podem ser, na verdade, infecções agudas pelo HIV, com manifestação neurológica como único sintoma. Várias manifestações neurológicas podem surgir, como cefaleia retro-orbitária e síndrome de Guillain-Barré, no entanto todas as alterações neurológicas são passageiras, sem sequelas.
 
  
-Figura 2 - Principais sintomas que podem aparecer na infecção aguda pelo HIV: notar que, considerando os sintomas como gerais, mui-tos poderiam ser confundidos com gripe ou TORSCH (síndrome mono-like)
+Figura 2 - Principais sintomas que podem aparecer na infecção aguda pelo HIV: notar que, considerando os sintomas como gerais, muitos poderiam ser confundidos com gripe ou TORSCH (síndrome mono-like)
 
 Importante
-Como no máximo 50% dos pacientes apresentam sintomas de HIV agudo, a avaliação de epidemiologia + quadro viral/mono-like é importante para o diagnóstico. Atualmente, sabe-se que quanto antes iniciar o tratamento do HIV melhor será o prog-nóstico. 
+Como, no máximo, 50% dos pacientes apresentam sintomas de HIV agudo, a avaliação de epidemiologia + quadro vi-ral/mono-like é importante para o diagnóstico. Atualmente, sabe-se que, quanto antes se iniciar o tratamento do HIV, me-lhor será o prognóstico.
 
 B - Diagnóstico 
 O diagnóstico sorológico será discutido em conjunto com o diagnóstico geral, para facilitar o entendimento de qual me-lhor exame solicitar em cada momento. 
@@ -85,6 +85,7 @@ Independente de todos esses dados, que já suportavam o tratamento do HIV agudo, 
 3. Diagnóstico 
 
 Os diagnósticos do HIV e da AIDS podem ser feitos de maneiras diferentes e com várias formas de abordagem. Existem muitos testes sorológicos, e cada um é usado por diferentes motivos (custo, eficácia, confirmação e rapidez). Há ainda os fatores que ajudam no diagnóstico clínico da AIDS. Começaremos falando dos testes sorológicos e do fluxo para diagnóstico da infecção pelo HIV, sendo 2 os tipos de testes sorológicos no diagnóstico deste.
+A avaliação de risco de exposição ao HIV por meio de materiais como sangue, líquidos cavitários e outros está descrita es-pecificamente no capítulo de Imunizações e terapia pós-exposição e não será abordada neste capítulo.
 
 A - Testes de triagem
 Como o próprio nome diz, são os inicialmente utilizados quando se pede uma sorologia de HIV. Isso significa que tais testes devem ter alta sensibilidade, pois não devem passar falsos negativos, mas normalmente não têm alta especificidade, o que pode deixar passar falsos positivos. Na prática: se der negativo, será realmente negativo, mas se der positivo poderá ser nega-tivo.
@@ -101,7 +102,7 @@ No momento em que falamos de testes sorológicos, surge a dúvida: mas não podem e
 a) Período de eclipse
 Tem esse nome porque é o período em que não há possibilidade alguma de diagnóstico da infecção pelo HIV, já que não existem quaisquer marcadores que estejam na corrente sanguínea e que possam ser detectados. Com as técnicas modernas de detecção, o período de eclipse caiu para 7 dias normalmente, quando não se consegue detectar qualquer marcador de infecção.
 
-b)	Detecção quantitativa de carga viral do HIV
+b) Detecção quantitativa de carga viral do HIV
 Doze dias após o período de eclipse, com os métodos modernos de PCR (reação de cadeia de polimerase) em tempo real, pode-se encontrar vírus na circulação. Entretanto, o exame não é considerado teste de triagem nem de confirmação, e o diagnóstico não pode ser feito por ele. É muito útil no diagnóstico de infecção aguda pelo HIV, em que as sorologias estarão negativas. 
 
 c) Detecção de antígeno p24
@@ -114,10 +115,10 @@ e) Janela imunológica
 Enfim, é definida como o período que vai desde o momento da infecção até o indivíduo começar a produzir anticorpos, ou seja, soma-se o período de eclipse (7 dias) + o período de aparecimento dos primeiros anticorpos (em geral, 22 dias após o eclipse).
 
 Dica 
-A janela imunológica do HIV é de 29 dias, em média, com os exames atuais. 
+A janela imunológica do HIV é de 29 dias, em média, com os exames atuais.
 
 f) Western blot 
-Exames como esse detectam os antígenos virais mais tardiamente (depois do ELISA), mas de uma maneira mais específica. No caso do Western Blot (WB), ele procura 10 “bandas”, que são as proteínas virais, sendo que 4 (Gp120, Gp160, p24, Gp41) são específicas do HIV, e bastam 2 delas positivas para que o exame saia como “reagente”. 
+Exames como esse detectam os antígenos virais mais tardiamente (depois do ELISA), mas de maneira mais específica. No caso do Western Blot (WB), ele procura 10 “bandas”, que são as proteínas virais, sendo que 4 (Gp120, Gp160, p24 e Gp41) são específicas do HIV, e bastam 2 delas positivas para que o exame saia como “reagente”. 
 
  
 Figura 3 - Marcadores virais na infecção aguda do HIV, do momento em que o paciente é infectado em diante: notar que o marcador mais precoce é mesmo a carga viral de HIV; notar ainda o período chamado de eclipse 
@@ -136,57 +137,49 @@ Importante
 Se um exame é negativo para HIV (tanto ELISA quanto western blot ou similares), sabendo-se que a janela é de 29 dias, pode ser repetido o exame em 1 mês (alguns serviços preconizam no máximo 3 meses) para que se exclua o momento da janela imunológica. Entretanto, janelas imunológicas de 6 meses não são mais vistas com os exames atuais.
 
 D - Diagnóstico sorológico
-Seguiremos a recomendação do Ministério da Saúde para diagnóstico sorológico. Didaticamente, o exame de sorologia é dividido em etapas:
-
-Tabela 3 - Divisão em etapas do exame de sorologia
-Etapa I	- Serve para liberar exames negativos logo nos testes de triagem (lembrando que estes têm alta sensibilida-de):
-· Se o exame é positivo, ele é encaminhado para um 2º exame do mesmo material, com outro teste de tria-gem e já confirmatório, do tipo immunoblot ou imunofluorescência indireta; 
-· Se o exame de confirmação é positivo, segue-se para a etapa II;
-· Se o 2º exame de triagem deu valor negativo, como o 1º de triagem era positivo, pode se tratar de uma so-roconversão em andamento, e os exames devem ser repetidos em 30 dias. 
-Etapa II	Nesta etapa, é feita a 2ª coleta do mesmo paciente, no caso de teste de triagem e confirmatório positivos, para descartar troca de material dentro do laboratório, ainda que os testes de triagem e confirmatórios sejam positi-vos.
-Etapa III	- Oficialmente, essa etapa é realizada nos pacientes com teste de triagem e confirmação positivos, mas uma 2ª coleta com divergência entre os testes de triagem e confirmatórios iniciais (immunoblot ou imunofluorescência indireta):
-· A recomendação é a realização de um teste de confirmação mais fidedigno, o WB, que não é usado sempre como o 1º confirmatório pelo alto custo. Lembrando que essas são as recomendações do Ministério da Saúde. Se qualquer laboratório aceitar fazer WB como confirmatório logo quando os de triagem resultam positivos, não haverá problema, mas a etapa III não será necessária. 
-
-Importante
- O western blot é guardado como etapa III do diagnóstico sorológico do HIV habitualmente apenas pelo alto custo. Caso o laboratório queira implantar o exame como confirmatório já na etapa I, quando o teste de triagem é realizado, ele pode ser utilizado nessa fase. Entretanto, se o teste de triagem inicial for positivo e o western blot negativo, a janela imunológica deverá ser aventada, e novos exames serão feitos após 30 dias. 
+O diagnóstico sorológico do HIV deve respeitar o tempo de infecção. Desta forma, um paciente que tem suspeita de HIV agudo não pode ter os mesmos tipos de pedidos que um paciente com suspeita de infecção há algum tempo. Da mesma ma-neira, um teste negativo com exposição ao risco (por exemplo, relação sexual desprotegida) com menos de 30 dias deve ser repetido após o período de janela para identificação por meio dos exames convencionais. 
+Algumas explicações devem ser fornecidas para melhor entendimento dos exames existentes. Para resumir a lógica dos exames, segue outro gráfico, retirado do Manual Técnico do Ministério da Saúde para diagnóstico de HIV:
 
  
-Figura 4 - Realização de testes de sorologia para HIV
+Figura 4 - Marcadores plasmáticos da infecção pelo HIV ao longo do tempo
 
-Para resumir, vale lembrar que a sorologia de HIV nunca pode ser liberada positiva de 1 amostra apenas, ainda que se fa-çam os 2 tipos de testes. Também nunca pode ser liberada por testes de triagem apenas, ainda que se façam coletas diferen-tes. 
+Podemos dividir os testes de HIV em 3 tipos: imunoensaios (ELISA, quimioluminescência etc.), testes rápidos de HIV (por sangue ou fluido oral) e exames complementares (imunofluorescência indireta, WB etc.).
+Especificamente relativo aos imunoensaios (por exemplo, ELISA), eles são classificados em 4 gerações:
+1ª geração: testavam apenas o anti-IgG, por isso demoravam de 4 a 6 semanas para positivar. Não são mais utilizados atu-almente;
+2ª geração: utilizam peptídios sintéticos derivados do HIV, e, apesar de ser melhor que os de 1ª geração, ainda demoram para positivar-se (em torno de 4 semanas);
+3ª geração: utilizam antígenos recombinantes e por isso detectam IgM e IgG, com sensibilidade melhor que a dos outros exames e detecção em 22 dias em média;
+4ª geração: detectam simultaneamente o antígeno p24 e anticorpos anti-HIV. A janela diagnóstica cai para 14 dias em mé-dia, sendo o melhor tipo de imunoensaio que pode ser utilizado no momento.  
+Os exames complementares (antes chamados confirmatórios) servem ainda para fornecer confirmação de exames iniciais que podem dar falso positivo (especialmente os imunoensaios). Eles são o WB, o immunoblot e a imunofluorescência indireta. Para o mais conhecido desses exames, o WB, é definido positivo quando há pelo menos 2 bandas positivas (de 10 testadas), entre as exclusivas do HIV: p24, gp41, gp120 e gp160.
+Atualmente existem os testes moleculares (por exemplo, PCR carga viral de HIV), que antes não eram utilizados para diag-nóstico, apenas para complementação e prévia de tratamento. 
+O fluxograma de testagem é descrito a seguir:
+
+ 
+Figura 5 - O fluxograma parece difícil, mas é bastante simplificado: bastam 2 testes de fabricantes diferentes positivos para fechar o diagnós-tico. Este é apenas um dos fluxogramas para testagem. Entretanto, todos seguem o mesmo padrão: 1º teste positivo = realizar 2º teste; se 2º teste positivo = diagnóstico de HIV. Se discordantes, será necessário 3º teste para confirmação
+Fonte: Ministério da Saúde. 
 
 a) Diagnóstico por testes rápidos
-Os testes rápidos foram muito utilizados no passado para situações em que não havia chance de aguardar um resultado de uma sorologia e a consequência de não tomar uma atitude poderia ser drástica. Desta maneira, 2 eram as situações em que o teste rápido era realizado:
-Gestantes, no momento do parto, sem sorologias para HIV ou sem sorologias do 3º trimestre, pelo risco de passagem do HIV para o recém-nascido no momento do parto;
-Acidentes com material biológico, com risco para o profissional que se acidentava.
-Posteriormente, 2 outras situações entraram na rotina do teste rápido:
-Localidades com dificuldade de realização de sorologias;
-Pacientes com tuberculose (em que sempre deve ser investigado HIV).
-Entretanto, a melhoria na qualidade dos testes rápidos, com o aumento da sensibilidade e da especificidade, fez que mui-tos se assemelhassem aos exames de sorologias, com a vantagem das altas especificidade e sensibilidade (características em que é necessária a associação de 2 tipos de testes – de triagem e confirmatório). Essas características fizeram que fosse de-cretada uma Portaria, com a possibilidade de testes rápidos para diagnóstico mesmo fora das situações citadas. Para isso, os testes deveriam ser de última geração, como Rapid Check®, Bio-Manguinhos e Determine®.
-Para o diagnóstico, é necessária a utilização simultânea de 2 testes diferentes, sem necessidade de uma nova coleta, já que o teste é feito na presença do paciente. Se os 2 exames tiverem resultados discordantes entre si, será necessária a reali-zação de um 3º tipo de exame, para confirmação ou exclusão. Entretanto, esses exames só são utilizados em indivíduos acima de 18 meses (antes disso, pode haver anticorpos maternos que os falseiem).
+Os testes rápidos também evoluíram notavelmente nos últimos anos. Com o aumento da sensibilidade e especificidade dos exames, eles passaram a ser os testes de preferência em centros de testagem, pelo motivo principal da rapidez no resul-tado. Conforme será discutido a seguir, a grande desvantagem é que ainda podem ocorrer falsos positivos, o que obriga o examinador a realizar 2 testes de fabricantes diferentes quando 1 é positivo. Além dos testes rápidos com amostras de san-gue ou plasma, o teste com fluido oral (saliva) também se popularizou, e está incluído nesta amplitude de exames. 
 
  
-Figura 5 - Testes rápidos para diagnóstico de HIV
-
-Importante
-O teste sorológico para diagnóstico do HIV poderia ser resumido como “2 ELISA + 1 western blot”, o que significa 2 exames de triagem positivos em amostras diferentes (ELISA é um exemplo), com pelo menos 1 confirmatório positivo (western blot é um exemplo, mas por ser mais caro é guardado apenas para confirmação de etapa III, quando outro confirmatório dá resul-tado diferente do exame de triagem inicial). No teste rápido, bastam 2 testes rápidos modernos positivos, de fabricantes diferentes.
+Figura 6 - Exemplos de testes rápidos para o HIV negativos; apenas a linha “C” de controle está marcada e a linha “T” de teste é negativa
+Fonte: adaptado do Ministério da Saúde. 
 
 Pergunta
 2011 - UFSC
 2. Um homem de 28 anos iniciou, há 3 semanas, com odinofagia, febre constante de 38°C, mialgias e cefaleia. Percebeu também a presença de úlceras na mucosa oral. Relata relações sexuais desprotegidas frequentes nos últimos 2 meses. Realizou anti-HIV há 6 meses, que foi negativo. O médico aventa a hipótese de infecção aguda pelo HIV. Qual(is) exame(s) laboratorial(is) pode(m) confirmar este diagnóstico?
 a) imunofluorescência indireta negativa para HIV
 b) enzima imunoensaio (ELISA) positivo para HIV
-c) contagem de linfócitos CD4 <300 células/micro e carga viral >100.000 cópias
+c) contagem de linfócitos CD4 <300 células/mL e carga viral >100.000 cópias
 d) sorologia para HIV negativa e antígeno p24 positivo
 e) sorologia para HIV positiva e carga viral <100.000 cópias
 Resposta no final do capítulo
 
 b) Determinação de um caso de AIDS
 Para facilitar a identificação de um caso de AIDS, o Ministério da Saúde unificou os critérios de avaliação desde o protoco-lo de tratamento de 2014. Assim, para se fazer o diagnóstico, devem-se ter:
-- Diagnóstico sorológico de HIV determinado pelos passos anteriores; 
-- Presença de pelo menos 1 das manifestações de imunodepressão avançada, mostradas na Tabela 4.
+Diagnóstico sorológico de HIV determinado pelos passos anteriores; 
+Presença de pelo menos 1 das manifestações de imunodeficiência avançada, mostradas na Tabela 3.
 
-Tabela 4 - Manifestações de imunodeficiência avançada (doenças definidoras de AIDS)
+Tabela 3 - Manifestações de imunodeficiência avançada (doenças definidoras de AIDS)
 - Síndrome consumptiva associada ao HIV (perda involuntária de mais de 10% do peso habitual) associada a diarreia crônica (2 ou mais episódios por dia com duração =1 mês) ou fadiga crônica e febre =1 mês;
 - Pneumonia por Pneumocystis jirovecii;
 - Pneumonia bacteriana recorrente (2 ou mais episódios em 1 ano);
@@ -211,24 +204,28 @@ Tabela 4 - Manifestações de imunodeficiência avançada (doenças definidoras de AI
 - Nefropatia ou cardiomiopatia sintomática associada ao HIV.
 
 Importante
-Quando se avalia um paciente e se diz que há candidíase oral, esta não é sinal de imunodeficiência avançada. Mesmo que o paciente tenha sorologia confirmando o HIV, ele não pode ser classificado como AIDS, a menos que haja candidíase esofá-gica.
+Quando se avalia um paciente e se diz que há candidíase oral, esta não é sinal de imunodeficiência avançada. Mesmo que o paciente tenha sorologia confirmando o HIV, ele não pode ser classificado como AIDS, a menos que haja candidíase esofágica.
 
-4. Resumo
+Resumo
 
 Quadro-resumo
-HIV agudo	- Lembrar-se das principais características clínicas do HIV agudo; síndrome mono-like;
-	- Conhecer o momento do diagnóstico do HIV agudo;
-	- Entender sobre o tratamento desse tipo de infecção.
-Diagnóstico laboratorial	- Entender o momento de cada exame, de acordo com o momento da infecção;
-	- Saber sobre a janela imunológica;
-	- Entender as fases do diagnóstico.
-Diagnóstico clínico	Conhecer o que é necessário para o diagnóstico de um caso de AIDS.
+HIV agudo	- Síndrome mono-like;
+	- Sintomas inespecíficos;
+	- 2 a 3 semanas após a infecção inicial, com duração de 2 semanas em média;
+	- Autolimitado;
+	- Sorologias habituais negativas nesta fase;
+	- Realizar carga viral para HIV ou pesquisa de antígeno p24 para diagnóstico nesta fase;
+	- Importante pensar em HIV agudo nos sintomas gerais de uma mono-like. Atenção ao diagnóstico diferencial;
+	- Atualmente recomendado tratamento a todos os pacientes que fizerem diagnóstico na fase aguda (ver capítulo de tratamento para melhor discussão).
+Diagnóstico laboratorial	- Nunca realizar diagnóstico de HIV apenas com um tipo de método positivo; 
+	- Exames complementares têm maior possibilidade diagnóstica atual, com uso inclusive de carga viral do HIV para diagnóstico (que antes não era aceito);
+	- Janela imunológica atual: poucos dias (até 14 dias da infecção inicial) com os exames mais moder-nos de detecção como a dosagem da proteína p24 e a própria carga viral do HIV;
+	- Imunofluorescência e WB podem demorar até 4 semanas para viragem. Cuidado com falso negati-vos;
+	- Uso de teste rápido de HIV cada vez mais difundido;
+	- Lembrar que teste rápido faz diagnóstico de HIV, sem necessidade de confirmação com outros tes-tes.
+Diagnóstico clínico	- Cada vez menos necessário, com o diagnóstico laboratorial mais acessível;
+	- Conhecer as 3 principais doenças oportunistas que fazem diagnóstico de AIDS (monilíase esofagia-na, pneumocistose e neurotoxoplasmose) – reforço no capítulo de doenças oportunistas.
 
-Respostas
+Respostas das questões do capítulo
 1. B
 2. D
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
