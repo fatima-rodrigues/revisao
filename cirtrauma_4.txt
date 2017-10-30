@@ -1,25 +1,24 @@
 Choque
 Eduardo Bertolli
 
-Resumo
-Neste capítulo, será abordada a avaliação do paciente politraumatizado e em estado de choque, o qual no trauma geralmen-te é do tipo hipovolêmico (embora possam eventualmente estar presentes os tipos cardiogênico e neurogênico). Essa avali-ação é feita por meio de sinais clínicos como taquicardia, pele fria e pegajosa, taquipneia, alteração do nível de consciência e diminuição da pressão de pulso. O tratamento do paciente com choque segue as prioridades do Advanced Trauma Life Sup-port (ATLS®), sendo a 1ª medida o controle da hemorragia, seguido da reposição volêmica adequada. O diagnóstico e o ma-nejo adequado das condições de choque hipovolêmico no trauma têm um impacto importante na mortalidade.
+Neste capítulo, será abordada a avaliação do paciente politraumatizado e em estado de choque, o qual no trauma geralmente é do tipo hipovolêmico (embora possam eventualmente estar presentes os tipos cardiogênico e neurogênico). Essa avaliação é feita por meio de sinais clínicos como taquicardia, pele fria e pegajosa, taquipneia, alteração do nível de consciência e diminuição da pressão de pulso. O tratamento do paciente com choque segue as prioridades do Advanced Trauma Life Support (ATLS®), sendo a 1ª medida o controle da hemorragia, seguido da reposição volêmica adequada. O diagnóstico e o manejo adequado das condições de choque hipovolêmico no trauma têm um impacto importante na mortalidade.
 
 1. Definição
 
-Define-se choque como a situação em que há perfusão orgânica e oxigenação tecidual inadequadas. No politraumatizado, a causa mais comum de choque é a hipovolemia decorrente da hemorragia. Logo, toda vítima de trauma que se apresente fria e taquicárdica está em choque até que se prove o contrário.
+Define-se choque como a situação em que há perfusão orgânica e oxigenação tecidual inadequadas. No politraumatizado, a causa mais comum de choque é a hipovolemia decorrente da hemorragia. Logo, toda vítima de trauma que se apresente fria e taquicárdica está em choque hipovolêmico até que se prove o contrário.
 
 2. Fisiologia
 
-A resposta inicial do organismo diante da perda sanguínea consiste em vasoconstrição periférica (circulações cutânea, muscular e visceral), na tentativa de preservar a perfusão de órgãos nobres (rins, coração e cérebro). Ocorre também au-mento da Frequência Cardíaca (FC), com o intuito de manter o débito cardíaco. Na maioria das vezes, a taquicardia é o sinal mais precoce do choque. 
-A vasoconstrição e o aumento da FC decorrem da liberação de catecolaminas endógenas, que aumentam a Resistência Vascular Sistêmica (RVS). Inicialmente, com a vasoconstrição e o aumento da FC, a Pressão Arterial (PA) permanece inalterada. Se a perda sanguínea persistir, sem haver reposição, o paciente apresentará hipotensão. Se o processo não for revertido, ocorrerão, em sequência, lesão celular progressiva, agravamento do edema tecidual e morte celular. Esse processo é resul-tante da perda sanguínea e da hipoperfusão.
-Outros tipos de choque serão discutidos posteriormente neste capítulo, mas, apesar de diferentes mecanismos, a respos-ta final torna-se semelhante. A fisiopatologia dos diferentes tipos de choque está representada na Figura 1.
+A resposta inicial do organismo diante da perda sanguínea consiste em vasoconstrição periférica (circulações cutânea, muscular e visceral), na tentativa de preservar a perfusão de órgãos nobres (rins, coração e cérebro). Ocorre também aumento da Frequência Cardíaca (FC), com o intuito de manter o débito cardíaco. Na maioria das vezes, a taquicardia é o sinal mais precoce do choque. 
+A vasoconstrição e o aumento da FC decorrem da liberação de catecolaminas endógenas, que aumentam a Resistência Vascular Sistêmica (RVS). Inicialmente, com a vasoconstrição e o aumento da FC, a Pressão Arterial (PA) permanece inalterada. Se a perda sanguínea persistir, sem haver reposição, o paciente apresentará hipotensão. Se o processo não for revertido, ocorrerão, em sequência, lesão celular progressiva, agravamento do edema tecidual e morte celular. Esse processo é resultante da perda sanguínea e da hipoperfusão.
+Outros tipos de choque serão discutidos posteriormente neste capítulo, mas, apesar de diferentes mecanismos, a resposta final torna-se semelhante. A fisiopatologia dos diferentes tipos de choque está representada na Figura 1.
 
  
 Figura 1 - Fisiopatologia
 
 3. Diagnóstico
 
-Os primeiros sinais clínicos do choque são taquicardia e vasoconstrição cutânea, que se manifestam como pele fria e dia-forética (pegajosa). A FC, normalmente, é maior em recém-nascidos, diminuindo progressivamente até a idade adulta. Assim, valores considerados normais a crianças e adolescentes não são os mesmos em adultos (Tabela 1). 
+Os primeiros sinais clínicos do choque são taquicardia e vasoconstrição cutânea, que se manifestam como pele fria e diaforética (pegajosa). A FC, normalmente, é maior em recém-nascidos, diminuindo progressivamente até a idade adulta. Assim, valores considerados normais a crianças e adolescentes não são os mesmos em adultos (Tabela 1). 
 
 Tabela 1 - Frequência cardíaca considerada como taquicardia conforme a idade
 Lactente	>160bpm
@@ -34,7 +33,7 @@ A estimulação adrenérgica causa sudorese e deixa a pele fria e pegajosa. Há redu
 
 4. Etiologia
 
-No trauma, divide-se a etiologia do choque em hemorrágica e não hemorrágica, sendo o choque hemorrágico o mais co-mum, responsável por 90% dos casos. As causas de choque não hemorrágico são menos frequentes, porém se deve suspeitar delas como diagnóstico diferencial nos casos em que não há resposta clínica com as medidas iniciais.
+No trauma, divide-se a etiologia do choque em hemorrágica e não hemorrágica, sendo o choque hemorrágico o mais comum, responsável por 90% dos casos. As causas de choque não hemorrágico são menos frequentes, porém se deve suspeitar delas como diagnóstico diferencial nos casos em que não há resposta clínica com as medidas iniciais.
 
 Dica
 Todo paciente politraumatizado em choque deve ser considerado hipovolêmico, até que se prove o contrário.
@@ -42,13 +41,13 @@ Todo paciente politraumatizado em choque deve ser considerado hipovolêmico, até 
 A - Choques não hemorrágicos
 
 a) Cardiogênico 
-Consiste na falência do mecanismo de bomba do coração, causando diminuição da pós-carga. Pode ser causado por con-tusão miocárdica, tamponamento cardíaco, embolia gasosa e infarto agudo do miocárdio associado ao trauma. Normalmente a FC está normal, com hipotensão.
+Consiste na falência do mecanismo de bomba do coração, causando diminuição da pós-carga. Pode ser causado por contusão miocárdica, tamponamento cardíaco, embolia gasosa e infarto agudo do miocárdio associado ao trauma. Normalmente a FC está normal, com hipotensão.
 
 b) Neurogênico 
-Acontece na lesão medular, e a hipotensão decorre da perda do tônus simpático, que causa diminuição da resistência vascular periférica, levando à queda da PA. O efeito é acentuado pela hipovolemia. Se o paciente não apresentar hipovole-mia, o quadro clínico será de hipotensão sem taquicardia ou vasoconstrição cutânea.
+Acontece na lesão medular, e a hipotensão decorre da perda do tônus simpático, que causa diminuição da resistência vascular periférica, levando a queda da PA. O efeito é acentuado pela hipovolemia. Se o paciente não apresentar hipovolemia, o quadro clínico será de hipotensão sem taquicardia ou vasoconstrição cutânea. Não se deve confundir choque neurogênico com medular, que é um fenômeno neurológico e será discutido em outro capítulo.
 
 c) Séptico
-É raro na admissão do paciente traumatizado e possível em um paciente com contaminação peritoneal por conteúdo in-testinal que demora algumas horas para chegar ao hospital. O paciente apresenta-se, inicialmente, com volume circulante normal, discreto aumento da FC, pele rósea e quente, discreta queda pressórica e pulso cheio. Com a evolução do choque, o quadro clínico torna-se semelhante ao do choque hipovolêmico.
+É raro na admissão do paciente traumatizado e possível em um paciente com contaminação peritoneal por conteúdo intestinal que demora algumas horas para chegar ao hospital. O paciente apresenta-se, inicialmente, com volume circulante normal, discreto aumento da FC, pele rósea e quente, discreta queda pressórica e pulso cheio. Com a evolução do choque, o quadro clínico torna-se semelhante ao do choque hipovolêmico.
 É possível determinar o tipo de choque com base em parâmetros clínicos e hemodinâmicos (Tabelas 2 e 3).
 
 Tabela 2 - Diagnóstico: resposta hemodinâmica e sinais clínicos
@@ -66,13 +65,13 @@ Diurese	Diminuída	Diminuída	Diminuída	Diminuída
 
 B - Choque hemorrágico
 Hemorragia consiste em perda aguda de volume sanguíneo. O sangue é responsável por 7% do peso corpóreo nos adultos e, nas crianças, por 8 a 9%, sempre considerando o peso ideal. Desta maneira, um adulto de 70kg tem, aproximadamente, 5L de sangue.
-Todo paciente traumatizado em choque, até que se prove o contrário, deve ser conduzido como vítima de choque hipo-volêmico. É possível estimar o percentual volêmico perdido por meio de parâmetros clínicos (Tabela 3). A partir disso, orien-ta-se a reposição volêmica, que deve ser monitorizada pela melhora desses parâmetros.
-É útil lembrar que fraturas e lesões de partes moles podem ser responsáveis por alterações hemodinâmicas. A perda san-guínea local pode ser volumosa. Em fraturas de ossos longos, como úmero e tíbia, há perda de cerca de 750mL. Fraturas do fêmur podem sangrar até 2.000mL. Em fraturas da bacia, vários litros de sangue podem acumular-se no retroperitônio. A lesão de partes moles acarreta, também, edema local com perda adicional de líquido, diminuindo ainda mais o volume intra-vascular.
+Todo paciente traumatizado em choque, até que se prove o contrário, deve ser conduzido como vítima de choque hipovolêmico. É possível estimar o percentual volêmico perdido por meio de parâmetros clínicos (Tabela 3). A partir disso, orienta-se a reposição volêmica, que deve ser monitorizada pela melhora desses parâmetros.
+É útil lembrar que fraturas e lesões de partes moles podem ser responsáveis por alterações hemodinâmicas. A perda sanguínea local pode ser volumosa. Em fraturas de ossos longos, como úmero e tíbia, há perda de cerca de 750mL. Fraturas do fêmur podem sangrar até 2.000mL. Em fraturas da bacia, vários litros de sangue podem acumular-se no retroperitônio. A lesão de partes moles acarreta, também, edema local com perda adicional de líquido, diminuindo ainda mais o volume intravascular.
 
 Tabela 3 - Classificação
 	Classe I	Classe II	Classe III	Classe IV
 Perda sanguínea (mL)	Até 750	750 a 1.500	1.500 a 2.000	>2.000
-Perda sanguínea (% volume sanguí-neo) 	Até 15	15 a 30	30 a 40	>40
+Perda sanguínea (% volume sanguíneo) 	Até 15	15 a 30	30 a 40	>40
 Frequência de pulso (bpm)	<100	>100	>120	>140
 Pressão arterial	Normal	Normal	Diminuída	Diminuída
 Pressão de pulso	Normal ou aumentada	Diminuída	Diminuída	Diminuída
@@ -80,20 +79,25 @@ Frequência respiratória (irpm)	14 a 20	20 a 30	30 a 40	>35
 Diurese (mL/h)	>30	20 a 30	5 a 15	Oligúria/anúria
 Estado mental	Levemente ansioso	Moderadamente ansioso	Ansioso, confuso	Confuso, letárgico
 Reposição volêmica	Cristaloide	Cristaloide	Cristaloide e sangue	Cristaloide e sangue
+
 5. Avaliação inicial do paciente com choque hemorrágico
 
 O paciente traumatizado em choque é sempre tratado inicialmente como hipovolêmico, com o objetivo de restabelecer as perfusões orgânica e celular com sangue adequadamente oxigenado. O princípio básico a ser seguido é o de interromper o sangramento e repor as perdas de volume. É importante lembrar que, durante o atendimento inicial, as prioridades são seguidas conforme o ABCDE. 
 Durante a avaliação de via aérea, deve-se sempre se lembrar de fornecer oxigênio suplementar, para manter os níveis de saturação de hemoglobina acima de 95%. A avaliação neurológica do paciente em choque provavelmente estará alterada e não implicará, necessariamente, lesões intracranianas, podendo refletir apenas a perfusão inadequada do cérebro.
-A dilatação gástrica pode ser causa de hipotensão inexplicada ou de arritmias cardíacas, por estímulo vagal. Está frequen-temente presente no traumatizado, principalmente na criança, e torna difícil o tratamento do choque, além de elevar o risco de aspiração do conteúdo gástrico. Deve-se passar uma sonda nasogástrica ou orogástrica, para descompressão, e aspirá-la para remover o conteúdo gástrico. Em todo traumatizado, deverá ser colocada uma sonda urinária para monitorização contí-nua da diurese e avaliação da presença de hematúria, exceto em caso de suspeita de traumatismo uretral.
+A dilatação gástrica pode ser causa de hipotensão inexplicada ou de arritmias cardíacas, por estímulo vagal. Está frequentemente presente no traumatizado, principalmente na criança, e torna difícil o tratamento do choque, além de elevar o risco de aspiração do conteúdo gástrico. Deve-se passar uma sonda nasogástrica ou orogástrica, para descompressão, e aspirá-la para remover o conteúdo gástrico. Em todo politraumatizado que esteja em choque deverá ser colocada uma sonda urinária para monitorização contínua da diurese e avaliação da presença de hematúria, exceto em caso de suspeita de traumatismo uretral.
 
 6. Tratamento do choque hemorrágico
 
-A 1ª etapa no tratamento das hemorragias é o controle do sangramento. Hemorragias externas devem ser comprimidas ou tratadas com elevação do membro. O uso de torniquetes deve ser restrito ao ambiente intra-hospitalar e desde que seja possível controlar o tempo em que o membro ficará garroteado. Medidas hemostáticas, como suturas, não devem ser realiza-das durante o exame primário.
+A 1ª etapa no tratamento das hemorragias é o controle do sangramento. Hemorragias externas devem ser comprimidas ou tratadas com elevação do membro. O uso de torniquetes deve ser restrito ao ambiente intra-hospitalar e desde que seja possível controlar o tempo em que o membro ficará garroteado. Medidas hemostáticas, como suturas, não devem ser realizadas durante o exame primário.
 
-Tratamento
+Importante
 A reposição volêmica, quando indicada, deve ser precoce. Preconiza-se a punção de 2 acessos venosos periféricos, já que o fluxo de líquido será maior quanto mais curto e calibroso for o cateter (lei de Poiseuille). No ato da punção, deve ser colhida uma amostra de sangue para tipagem, dosagem de hemoglobina, hematócrito (úteis para controle do quadro hemorrágico), amilase, beta-HCG e eventuais exames toxicológicos.
 
-A passagem de cateter venoso central não deve ser realizada no atendimento inicial, pois, além de consistir em um acesso longo e fino, apresenta o risco de punção iatrogênica com pneumotórax ou hematoma da carótida. Na impossibilidade de acesso periférico, devem ser realizadas as dissecções venosas (flebotomias). Em crianças menores de 6 anos, é possível reali-zar o acesso intraósseo, que deverá ser utilizado apenas durante a reanimação. A punção é realizada na superfície anterome-dial da tíbia, de 1 a 3cm abaixo da tuberosidade tibial.
+A passagem de cateter venoso central não deve ser realizada no atendimento inicial, pois, além de consistir em um acesso longo e fino, apresenta o risco de punção iatrogênica com pneumotórax ou hematoma da carótida. Na impossibilidade de acesso periférico, devem ser realizadas as dissecções venosas (flebotomias). Em crianças menores de 6 anos, é possível realizar o acesso intraósseo, que deverá ser utilizado apenas durante a reanimação. A punção é realizada na superfície anteromedial da tíbia, de 1 a 3cm abaixo da tuberosidade tibial.
+
+ 
+Figura 2 - Esquema de punção intraóssea
+
 Para a reposição volêmica, devem ser utilizadas soluções cristaloides isotônicas aquecidas, preferencialmente a 39°C. O Ringer lactato é a solução preferencial por apresentar composição mais semelhante à do plasma humano (Tabela 4). Mesmo assim, há risco de acidose hiperclorêmica, principalmente entre pacientes com insuficiência renal.
 
 Tabela 4 - Principais soluções utilizadas na prática diária, comparadas com o plasma e o sangue total (concentrações em mEq/L)
@@ -115,12 +119,12 @@ d) punção venosa profunda; veia subclávia – 2 acessos
 e) punção venosa profunda; veia subclávia direita 
 Resposta no final do capítulo
 
-É importante lembrar que 2/3 da “água corpórea” estão no intracelular e apenas 1/3 no extracelular. Do volume extrace-lular, apenas 1/3 fica no espaço intravascular, ficando os 2/3 restantes no espaço intercelular. Daí a regra “3 para 1”, ou seja, para cada 3L de volume reposto, apenas 1L vai para o intravascular. Assim, com base no quadro clínico, estima-se a perda sanguínea, sendo necessária a reposição de 3 vezes esse valor.
+É importante lembrar que 2/3 da “água corpórea” estão no intracelular e apenas 1/3 no extracelular. Do volume extracelular, apenas 1/3 fica no espaço intravascular, ficando os 2/3 restantes no espaço intercelular. Daí a regra “3 para 1”, ou seja, para cada 3L de volume reposto, apenas 1L vai para o intravascular. Assim, com base no quadro clínico, estima-se a perda sanguínea, sendo necessária a reposição de 3 vezes esse valor.
 
-Dica
+Importante
 Uma das mudanças da nova edição do ATLS® tange à reposição volêmica. Preconiza-se uma reposição inicial de 1.000mL a 2.000mL, sendo que volumes subsequentes devem se basear na resposta do paciente. A reposição adequada de volume deve restabelecer, no adulto, o débito urinário de aproximadamente 0,5mL/kg/h. Na criança de 0 a 3 anos, o objetivo é uma diurese de 2mL/kg/h; na de 3 a 5 anos, de 1mL/kg/h; e na criança entre 5 e 12 anos, espera-se atingir de 0,5 a 1mL/kg/h. A resposta à reposição volêmica inicial pode ser rápida, transitória ou mínima, ou ausente (Tabela 5).
 
-A infusão contínua de grandes quantidades de volume na tentativa de normalizar a PA não substitui o controle definitivo da hemorragia. Além disso, em ferimentos penetrantes com hemorragia, o retardo da reposição volêmica agressiva, até que o controle definitivo do sangramento seja realizado, pode prevenir hemorragias maiores. A decisão entre restaurar a perfusão versus os riscos de aumento da hemorragia fizeram que fosse aceita uma pressão sanguínea abaixo dos níveis normais, deno-minada “reanimação balanceada”, “reanimação controlada”, “reanimação hipotensiva” ou “hipotensão permissiva”.
+A infusão contínua de grandes quantidades de volume na tentativa de normalizar a PA não substitui o controle definitivo da hemorragia. Além disso, em ferimentos penetrantes com hemorragia, o retardo da reposição volêmica agressiva, até que o controle definitivo do sangramento seja realizado, pode prevenir hemorragias maiores. A decisão entre restaurar a perfusão versus os riscos de aumento da hemorragia fizeram que fosse aceita uma pressão sanguínea abaixo dos níveis normais, denominada “reanimação balanceada”, “reanimação controlada”, “reanimação hipotensiva” ou “hipotensão permissiva”.
 
 Tabela 5 - Respostas à reposição volêmica
 	Resposta rápida	Resposta 
@@ -132,14 +136,14 @@ Necessidade de mais cristaloide 	Baixa	Alta	Alta
 Necessidade de sangue	Baixa	Moderada ou alta	Imediata
 Necessidade de cirurgia	Possível	Provável	Muito provável
 
-Os pacientes com resposta transitória apresentam sangramento persistente ou reanimação inadequada até o momento. Aqueles com resposta mínima ou ausente provavelmente necessitam de intervenção cirúrgica imediata para controle hemor-rágico, porém devem ser lembradas as causas de choque não hemorrágico, como o cardiogênico por contusão cardíaca ou tamponamento e o pneumotórax hipertensivo, como causa do choque que não responde à reposição volêmica. 
+Os pacientes com resposta transitória apresentam sangramento persistente ou reanimação inadequada até o momento. Aqueles com resposta mínima ou ausente provavelmente necessitam de intervenção cirúrgica imediata para controle hemorrágico, porém devem ser lembradas as causas de choque não hemorrágico, como o cardiogênico por contusão cardíaca ou tamponamento e o pneumotórax hipertensivo, como causa do choque que não responde à reposição volêmica. 
 
 A - Reposição de sangue
 O sangue deve ser reposto na forma de concentrado de hemácias. O objetivo é aumentar a capacidade de transporte de oxigênio do volume intravascular. Está indicada transfusão a pacientes com perda estimada >30% do volume sanguíneo total. 
 Idealmente, devem ser realizadas provas cruzadas, utilizando sangue com tipo específico ABO e Rh. Na indisponibilidade do tipo específico ou na falta de tempo, deve-se utilizar sangue tipo O e, em mulheres em idade fértil, Rh negativo.
 
 B - Avaliação invasiva
-A principal causa de resposta inadequada ao tratamento de choque é a hemorragia oculta ou não diagnosticada. Os idosos e os portadores de choque de causa não hemorrágica devem ser transferidos para unidade de terapia intensiva para ade-quada monitorização, inclusive da Pressão Venosa Central (PVC).
+A principal causa de resposta inadequada ao tratamento de choque é a hemorragia oculta ou não diagnosticada. Os idosos e os portadores de choque de causa não hemorrágica devem ser transferidos para unidade de terapia intensiva para adequada monitorização, inclusive da Pressão Venosa Central (PVC).
 
 Tabela 6 - Doenças possivelmente indicadas pelos valores de pressão venosa central 
 PVC inicial alta	- Doença pulmonar obstrutiva crônica;
@@ -152,29 +156,29 @@ Aumento excessivo da PVC	- Hipertransfusão;
 	- Disfunção cardíaca;
 	- Tamponamento cardíaco ou pneumotórax.
 
-No paciente com suspeita de sangramento intracavitário, principalmente abdominal, que não responde às medidas de re-animação, a avaliação pelo cirurgião deve ser precoce, pois, muitas vezes, o controle da hemorragia só é obtido na laparoto-mia exploradora. 
+No paciente com suspeita de sangramento intracavitário, principalmente abdominal, que não responde às medidas de reanimação, a avaliação pelo cirurgião deve ser precoce, pois, muitas vezes, o controle da hemorragia só é obtido na laparotomia exploradora. 
 
 7. Problemas no atendimento de pacientes com choque
 
-Algumas situações podem confundir o socorrista no momento de diagnosticar o choque hipovolêmico. Na maioria das ve-zes, são circunstâncias em que as manifestações clínicas demoram a surgir e o diagnóstico de choque é subestimado.
-
+Algumas situações podem confundir o socorrista no momento de diagnosticar o choque hipovolêmico. Na maioria das vezes, são circunstâncias em que as manifestações clínicas demoram a surgir e o diagnóstico de choque é subestimado.
+	
 A - Idade 
 Idosos apresentam menor atividade simpática, em virtude de um déficit de resposta dos receptores às catecolaminas, e podem não apresentar aumento da FC. Além disso, a doença oclusiva aterosclerótica torna os órgãos vitais extremamente sensíveis à diminuição do fluxo sanguíneo. A utilização frequente de medicações crônicas deve ser lembrada: os diuréticos causam depleção crônica de volume, e o uso de betabloqueadores pode mascarar os sinais de choque. Nesse caso, deve-se utilizar monitorização invasiva mais precocemente.
 
 B - Atletas 
-Apresentam volume sanguíneo aumentado em 15 a 20% e débito cardíaco aumentado em até 6 vezes, além de FC normal na faixa de 50bpm. Esses pacientes têm capacidade compensatória maior à perda sanguínea e poucas manifestações de hipo-volemia.
+Apresentam volume sanguíneo aumentado em 15 a 20% e débito cardíaco aumentado em até 6 vezes, além de FC normal na faixa de 50bpm. Esses pacientes têm capacidade compensatória maior à perda sanguínea e poucas manifestações de hipovolemia.
 
 C - Gravidez 
 Há hipervolemia fisiológica, sendo necessária maior perda sanguínea para manifestar anormalidades de perfusão, tanto para a mãe quanto para o feto.
 
 D - Medicamentos e marca-passo
-Os bloqueadores beta-adrenérgicos e os bloqueadores dos canais de cálcio alteram significativamente a resposta hemo-dinâmica à hemorragia. Portadores de marca-passo cardíaco não têm aumento da FC em virtude da perda sanguínea. Deve ser realizada monitorização da PVC para orientar a reposição volêmica.
+Os bloqueadores beta-adrenérgicos e os bloqueadores dos canais de cálcio alteram significativamente a resposta hemodinâmica à hemorragia. Portadores de marca-passo cardíaco não têm aumento da FC em virtude da perda sanguínea. Deve ser realizada monitorização da PVC para orientar a reposição volêmica.
 
 Importante
 São fatores que alteram o diagnóstico de choque: idosos (menor atividade simpática), atletas (volume sanguíneo aumentado e FC em torno de 50bpm), gravidez (hipervolemia fisiológica), uso de betabloqueadores e bloqueadores dos canais de cálcio.
 
 Pergunta
-2013 - SES-SC 
+2013 - SES-SC
 2. Assinale (V) para Verdadeiro ou (F) para Falso, com relação ao choque no trauma:
 (  ) Nos idosos, deve-se ter atenção redobrada no trauma, podendo não tolerar facilmente o choque hipovolêmico. 
 (  ) Os atletas têm um mecanismo de compensação melhor do que os não atletas.
@@ -187,23 +191,15 @@ d) V, F, V
 e) V, V, F
 Resposta no final do capítulo
 
-8. Resumo
+Resumo
 
 Quadro-resumo
--	Choque significa perfusão inadequada com baixa oxigenação tecidual. No trauma, todo paciente frio e taquicárdico está em choque, até que se prove o contrário;
-- 	Todo choque em paciente politraumatizado é hipovolêmico até que se prove o contrário;
-- 	O tratamento dos pacientes com choque segue as prioridades do ATLS®. A 1ª medida é o controle da hemorragia, seguido da reposição volêmica adequada;
-- 	O melhor parâmetro para avaliar a resposta à reposição volêmica é a diurese;
-- 	Idosos, atletas, gestantes ou usuários de determinadas medicações podem ter o diagnóstico de choque subestimado.
+- Choque significa perfusão inadequada com baixa oxigenação tecidual. No trauma, todo paciente frio e taquicárdico está em choque, até que se prove o contrário;
+- Todo choque em paciente politraumatizado é hipovolêmico até que se prove o contrário;
+- O tratamento dos pacientes com choque segue as prioridades do ATLS®. A 1ª medida é o controle da hemorragia, seguido da reposição volêmica adequada;
+- O melhor parâmetro para avaliar a resposta à reposição volêmica é a diurese;
+- Idosos, atletas, gestantes ou usuários de determinadas medicações podem ter o diagnóstico de choque subestimado.
 
-Respostas
+Respostas das questões do capítulo
 1. B
 2. E
-
-Mapa mental 
- 
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
