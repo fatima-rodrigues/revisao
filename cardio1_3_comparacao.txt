@@ -1,0 +1,257 @@
+diff --git a/cardio1_3.txt b/cardio1_3.txt
+index 42deda8..b871669 100644
+--- a/cardio1_3.txt
++++ b/cardio1_3.txt
+@@ -3,136 +3,145 @@ Jos
+Rodrigo Antônio Brandão Neto
+Fabrício Nogueira Furtado
+
+[-Resumo-]Este capítulo [-tr-]a[-t-]{+bord+}a [-d-]o tratamento da hipertensão arterial sistêmica. Os valores pressóricos, a presença de lesão em órgãos-alvo e fatores de risco associados a doenças cardiovasculares são fundamentais na decisão da melhor tera{+-+}pêutica. Medi[---]das não medicamentosas devem ser inicialmente estimuladas nesses pacientes; entre elas, temos res{+-+}trição de sal, contro[---]le do peso, restrição de álcool, restrição ao tabagismo e atividade física. É preciso atentar-se sempre aos estágios da hiper[---]tensão arterial sistêmica. Para o estágio 1 com risco cardiovascular baixo ou moderado, inicia-se monoterapia, sendo boas opções os diuréticos tiazídicos, os inibidores da enzima conversora da angiotensi{+-+}na e os bloqueadores dos canais de cál[---]cio. Para o estágio 1 com risco cardiovascular alto e estágios 2 e 3, tem-se preconizado a associação de 2 drogas de classes diferentes e em baixas doses. A associação de anti-hipertensivos deve seguir a lógica de não combinar medicamentos com mecanismos de ação similares, exceto a associação de diuréticos tiazídicos ou de alça a diuréticos poupadores de potássio. Aqueles que aderem ao tratamento com es{+-+}quema de 3 drogas otimizadas sem controle constituem hipertensão resisten[---]te. A 4ª droga acrescentada para esses casos deve ser espironolactona seguida de simpatolíticos centrais e betabloquea[---]dores. 
+
+1. Tratamento
+[--]
+[-A decisão ter-]{+N+}a{+ +}p[-êu-]{+rá+}tica c[-o-]{+lí+}n[-s-]i[-der-]{+c+}a, a[-lém de valores-] [-pr-]es[-só-]{+t+}r{+atif+}ic[-os, presenç-]a{+ção+} d[-e-]{+o+} [-le-]{+ri+}s[-ã-]{+c+}o [-em ó-]{+ca+}r[-gã-]{+di+}o[-s--]{+v+}a{+scu+}l[-vo-]{+ar+} [-e-]{+(CV)+} [-f-]{+no p+}a{+cien+}t[-or-]e[-s-] [-d-]{+hip+}e[- -]r[-i-]{+ten+}s[-c-]o [-mai-]{+p+}o[--r-]{+d+}e[-s-] [-vinculado-]s{+er+} {+b+}as[-soci-]{+e+}ad[-os -]a [-DCVs.-]{+em+} [-A-]{+2+} estra{+-+}tégia{+s+} [-t-]{+dif+}er[-apêu-]{+en+}t[-ica, assim como a-]{+e+}s{+.+} [-met-]{+N+}a[-s-] pr{+im+}e[-ssór-]i[-c-]{+r+}a[-s-]{+,+} [-a-]{+o+} [-ser-]{+obj+}e[-m a-]ti[-ngi-]{+vo +}da[-s,-]{+ avaliação+} é determina[-da pela est-]r[-atificação-] [-de-]{+o+} risco [-cardi-]{+gl+}o[-v-]{+b+}a[-scu-]l[-ar-] d[-o pac-]i{+retam+}ente[-, como-] [-d-]{+r+}e[-s-]{+la+}c[-r-]i[-t-]o[- -]na{+do+} [-Tabela-]{+à+} [-1.-]
+[-Inic-]{+h+}i[-a-se sem-]p[-r-]e[- o t-]r[-a-]t[-am-]en[-to c-]{+-sã+}o[-m-]{+.+} [-m-]{+N+}e[-dida-]s{+se+} [-nã-]{+cas+}o{+,+} [-farm-]a{+ +}c[-o-]l[-ógic-]as[-, como or-]{+s+}i[-ent-]{+fic+}ação d{+o r+}i[-etéti-]{+s+}c[-a-]{+o+} [-(-]d[-i-]e[-ta DASH-]{+pende+} [-–-]{+dos+} [-Di-]{+nív+}e[-t-]{+is d+}a[-ry-] [-Ap-]pr[-oa-ch-]es[- to St-]{+sã+}o[-p-] [-Hype-]{+a+}rte[-ns-]{+r+}i[-on) e estímu-]{+a+}l[-o-]{+,+} [-à-]{+dos+} {+f+}at[-ivida-]{+ores +}de [-fís-]{+r+}i{+s+}c[-a.-]{+o+} [-E-]{+a+}ss{+oci+}a{+do+}s{+,+} [-mo-]d[-ific-]a[-çõe-]s [-no-]{+le+}s[- hábito-]{+õe+}s [-d-]e{+m+} [-vida s-]{+órg+}ão[- mai-]s{+-alvo+} e[-ficientes-] [-em-]{+da+} {+pre+}se[- tra-ta-]n{+ça +}d[-o-]{+e+} d{+o+}e{+nça+} ca[-s-]{+rdi+}o[-s le-]v[-e-]{+a+}s{+cular+} [-e-]{+(DCV)+} [-m-]o{+u +}d{+o+}e{+nça +}r{+en+}a{+l. Na segun+}d[-o-]{+a e+}s[-.-]{+tratégia,+} [--]
+[-O-]{+o+} objeti{+-+}vo [-do-]{+é+} {+de+}t{+e+}r[-ata-]m[-e-]{+i+}n[-to f-]ar[-mac-]{+ +}o[-lóg-]{+ r+}i{+s+}co d[-a HAS-]{+e+} [-é,-]{+um+} [-prior-]i[-tar-]{+nd+}i[-am-]{+víduo des+}en[-t-]{+volv+}e[-, -]r{+ DCV +}e[-duzir-]{+m+} {+ger+}a{+l+} [-m-]{+n+}o{+s p+}r[-b-]{+óx+}i[-dade-]{+mos+} [-e-]{+10+} a{+nos.+} {+E+}m{+b+}or[-talid-]a[-d-]{+ +}e{+ssa+} [-p-]{+f+}or[- DCVs, qu-]{+m+}a[-n--]{+ +}d[-o-]{+e+} a[-s med-]{+val+}i[-d-]{+-+}a[-s-]{+ção+} não [-farm-]{+sej+}a{+ espe+}c[-ológ-]{+íf+}ica[-s-] [-nã-]{+para +}o [-sur-]{+pacien+}te[-m-] [-efe-]{+h+}i{+per+}t[-o ou qua-]{+e+}n[-d-]{+s+}o{+,+} {+p+}o[- u-]{+i+}s[-o-] {+po+}de [-medicação -]se{+r+} [-f-]{+re+}a{+li+}z{+ada+} [-n-]e[-c-]{+m qualqu+}e[-ssá-]r{+ ind+}i{+vídu+}o [-d-]e[-sd-]{+ntr+}e [-o-]{+30+} [-início-]{+e+} [-do-]{+74+} [-di-]a[-g--]n[-óstic-]o[-.-]
+[--]
+[-T-]{+s, v+}a[-b-]{+le r+}e{+ssa+}l{+t+}a{+r+} [-1-]{+que+} [---]{+a+} [-Est-]{+Hipe+}r[-a-]t[-ificaç-]{+ens+}ão [-d-]{+Art+}e[- -]ri{+al Si+}s{+têmi+}c{+a (HAS) é +}o {+pr+}in[-div-]{+c+}i[-du-]{+p+}al [-do p-]{+f+}a[-cien-]t[-e-]{+or+} [-hip-]{+d+}e{+ +}r[-ten-]{+i+}s{+c+}o[-,-] [-a-]{+CV. A+} partir d[-os-]{+a+} [-f-]a[-t-]{+valiaçã+}o[-res-] d[-e-]{+o+} risco [-associ-]{+CV, +}ado[-s e-]{+tam-se+} [-do-]{+estratégia+}s [-nív-]{+t+}e{+rapêut+}i{+cas e meta+}s pressóric[-o-]{+a+}s[--]
+[-R-]{+ d+}i{+ferente+}s[-co-] [-c-]{+p+}ar[-diov-]a[-s-]{+ +}c[-ul-]a[-r-]{+da+} {+p+}a[-di-]ci[-o-]{+e+}n[-al-]{+te+}, de acordo com [-o-]s[- nív-]e{+u r+}is{+co+} {+indivi+}d{+ualiz+}a{+do+} [-PA-]{+como+} {+d+}e{+scrito+} {+n+}a [-pr-]{+Tab+}e[-s-]{+la 1 +}e{+ +}n[-ç-]a {+Figura 1. Ain+}d{+a não +}e{+xiste uma+} f{+orm+}a[-t-]{+ validada n+}o{+ B+}r[-e-]{+a+}s{+il+} de {+avaliação do +}risco{+ CV. Além disso+}, {+algumas mu+}l{+her+}es[-õ-]{+ jov+}e{+n+}s {+ten+}de{+m+} [-órgãos--]a[-lvo e-] [-DCV-]
+[-F-]{+um+}a[-tor-]{+ +}es{+timativa+} de risco[-	PA-]
+[-F-]{+ m+}a[-tore-]{+i+}s[-	N-]{+ baixa d+}o{+ que a +}r[-m-]{+e+}al[-	Limítrof-]{+ +}e[-	Hi-]{+, +}p[-e-]{+o+}r{+ ou+}t{+ro lado, hom+}ens[-ão-] [--]
+[-e-]{+mai+}s[-tág-]{+ +}i{+dos+}o{+s+} [-1	Hip-]{+são g+}er{+almen+}te{+ ide+}n{+tificado+}s[-ã-]{+ com+}o [--]{+d+}e[-s-]{+ al+}t[-ági-]o [-2	Hipe-]r[-ten-]{+i+}s[-ã-]{+c+}o{+,+} [--]{+m+}es[-tági-]{+m+}o [-3-]
+[-S-]{+s+}em fator{+es+} de risco[-	Sem-] r[-i-]{+elevante+}s[-co-]{+.+} [-adic-]{+Ass+}i[-on-]{+m, +}a{+ uti+}l[-	R-]i[-sc-]{+zaçã+}o [-b-]{+de m+}ai[-xo	Ri-]s[-co-] {+de uma for+}m[-é-]{+a +}d{+e class+}i[-o	R-]{+f+}i[-s-]c{+açã+}o [-al-]{+permi+}t[-o-]
+[-1-]{+e+} {+um+}a [-2-]{+melhor+} [-fat-]{+c+}o{+mp+}re{+en+}s{+ão+} d[-e-]{+o+} risco{+ CV no paciente hipertenso.+}
+{+Inicia-se sempre o tratamento com medidas não farmacológicas, como orientação dietética (dieta DASH – Dietary Approaches to Stop Hypertension) e estímulo à atividade física. Essas modificações nos hábitos de vida são mais eficien-tes em se tratando de casos leves e moderados. +}
+{+O objetivo do tratamento farmacológico da HAS é, prioritariamente, reduzir a morbidade e a mortalidade por DCVs, quando as medidas não farmacológicas não surtem efeito ou quando o uso de medicação se faz necessário desde o início do diagnóstico.+}
+{++}
+{+Tabela 1 - Estratificação de risco individual no paciente hipertenso de acordo com fatores de risco adicionais, presença de lesão em órgão-alvo e de doença cardiovascular ou renal+}
+{+	PAS = 130 a 139 ou PAD = 85 a 89	HAS estágio 1+}
+{+PAS = 140 a 159 ou PAD = 90 a 99	HAS estágio 2+}
+{+PAS = 160 a 179 ou PAD = 100 a 109	HAS estágio 3+}
+{+PAS =180 ou PAD =110+}
+{+Sem fator de risco	Sem risco adicional	Risco baixo	Risco moderado	Risco alto+}
+{+1 a 2 fatores de risco	Risco baixo	Risco moderado	Risco alto	Risco alto+}
+{+=3 fatores de risco	Risco moderado	Risco alto	Risco alto	Risco alto+}
+{+Presença de LOA, DCV, DRC ou DM	Risco alto	Risco alto	Risco alto	Risco alto+}
+{+PAS: Pressão Arterial Sistólica; PAD: Pressão Arterial Diastólica; DRC: Doença Renal Crônica; DM: Diabetes Mellitus; LOA: Lesões em Órgãos-Alvo; DCV: doença cardiovascular.+}
+{++}
+{+Tabela 2 - Recomendações para início de terapia anti-hipertensiva: intervenções no estilo de vida e terapia farmacológica+}
+{+Situações	Abrangências (medida casual)	Recomendações	Classes	Níveis de evidência+}
+{+Início de intervenções no estilo de vida	Todos os estágios de hipertensão e PA = 135 a 139x85 a 89mmHg	Ao diagnóstico	I	A+}
+{+	Hipertensos estágio 2 e 3	Ao diagnóstico	I	A+}
+{+	Hipertensos estágio 1 e alto risco CV	Ao diagnóstico	I	B+}
+	[-R-]{+Hipertensos +}i{+do+}s{+os +}co{+m+} [-ba-]i[-x-]{+dade até 79 an+}o{+s+}	[-R-]{+PAS =140mmHg	IIa	B+}
+{+	Hipertensos +}i{+doso+}s{+ +}co{+m+} [-b-]{+idade =80 anos	PAS =160mmHg	II+}a{+	B+}
+{+Iníc+}i[-x-]o{+ de terapia farmacológica+}	[-R-]{+Hipertensos estágio 1 e r+}isco {+CV +}m[-é-]{+odera+}d{+o ou ba+}i{+x+}o	[-Ri-]{+Aguardar 3 a 6 me+}s[-c-]{+es pelo efeit+}o [-mé-]d{+e intervenções no est+}i{+l+}o{+ de vida+}	[-R-]{+IIa	B+}
+{+	Ind+}i{+víduo+}s{+ +}co{+m PA =+} [-muito-]{+130+} a[-lto-]{+ 1+}3{+9x85+} [-ou-]{+a+} {+89+}m[-ais-]{+mHg+} [-fator-]e[-s-] [-de-]{+DCV+} {+p+}r{+eex+}is[-co-]{+tente+} ou {+a+}l[-esã-]{+t+}o [-de ó-]r[-gão-]{+i+}s[--alv-]{+c+}o {+CV	A+}o[-u-] dia[-bete-]{+gnó+}s[- melli-]t[-us	R-]i[-s-]co[- mé-]{+	IIb	B+}
+{+	In+}di{+vídu+}o[-	Ri-]s[-co-] [-alto	Ris-]co{+m PA = 130+} a[-lto	Risco-]{+ 139x85+} a[-lto	Risco-] {+89+}m[-uito-]{+mHg e+} [-alto-]DCV[-	Risco-] [-alto	R-]{+preex+}is[-co mui-]t[-o al-]{+en+}t[-o	R-]{+e e r+}isco [-muito-]{+CV+} {+b+}a[-lto	R-]i[-sc-]{+x+}o [-muit-]o{+u+} {+moder+}a[-lt-]{+d+}o	[-Risc-]{+Nã+}o [-muit-]{+rec+}o[- -]{+mend+}a[-lt-]{+d+}o{+	III	 --+}
+
+Tabela [-2-]{+3+} - Identificação de fatores de risco associados a lesões em órgãos-alvo
+- Hipertrofia do ventrículo esquerdo;
+- Angina do peito ou infarto agudo do miocárdio prévio;
+- Revascularização miocárdica prévia;
+- I[-C-]{+nsuficiência cardíaca+};
+- A[-VC-]{+cidente vascular encefálico+};
+- Isquemia cerebral transitória;
+- Alterações cognitivas ou demência vascular;
+- Nefropatia;
+- Doença vascular arterial de extremidades;
+- Retinopatia hipertensiva;
+- A pacientes com 3 ou mais fatores de risco [-cardiovascular-]{+CV+}, considerar marcadores mais precoces da lesão [-d-]e{+m+} órgãos-alvo, como:
+· Microalbuminúria (índice albumina/creatinina em amostra isolada de urina);
+· Parâmetros ecocardiográficos: remodelação ventricular, funções sistólica e diastólica;
+· Espessura do complexo íntimo-média da carótida (ultrassonografia vascu{+-+}lar);
+· Rigidez arterial;
+· Função endotelial.
+
+[-Após-] {+ +}
+{+Figur+}a [-c-]{+1 - C+}lassificação d[-o-]{+e+} risco [-de evento -]cardiovascular {+a+}d{+ici+}o{+nal+} [-hipe-]{+(PA: P+}r[-t-]e[-n-]s{+sã+}o[-,-] [-é-]{+Arterial; AVE:+} {+Acide+}n{+t+}e{+ Vascular En+}ce[-ss-]{+f+}á{+lico; DAC: Doença Arte+}ri{+al Cor+}o{+nariana; IC:+} {+Insuficiência Car+}d{+íaca; DAP: Do+}e{+nça Ar+}ter[-m-]i{+al Periférica; DRC: Doença Renal Crô+}n{+ic+}a{+; RACur: +}r{+elação+} {+albu+}m{+ina–cr+}e{+a+}t{+inin+}a[-s-] [-p-]{+u+}r{+inária; LOA: L+}es[-só-]{+ão de Órgão-Alvo; HVE: Hipe+}r{+trof+}i[-c-]a[-s-] {+Ventricul+}a{+r+} {+E+}s{+qu+}er{+da; VOP: Velocidad+}e[-m-] {+d+}a[-ti-]{+ O+}n[-gi-]da{+ de Pul+}s{+o; ITB:+} {+Índi+}c{+e T+}o[-m-]{+rnozelo-Braquial;+} {+PAS: Pressã+}o {+Ar+}t{+e+}r{+i+}a{+l Sis+}t{+ólic+}a[-m-]{+; PAD: Pr+}e[-nt-]{+ssã+}o [-d-]{+Arteri+}a{+l+} [-HAS.-]{+Diastólica)+}
+
+[-Tabela 3 - Metas tera-]{+A+}p[-êutica-]{+ó+}s [-do p-]a[-ciente hipertenso,-] c[-onforme níveis pre-]{+la+}ss[-ór-]i[-cos e r-]{+f+}i[-sco -]ca[-rdi-]{+çã+}o[-vascular-]
+[-Metas-] d[-e val-]o[-res da-] [-p-]r[-essão a serem obt-]i[-da-]s[- -]co[-m-] [-o-]{+de+} [-tratam-]{+ev+}ento[--]{+ +}C[-ategorias	Metas-]{+V+} [-(n-]{+d+}o [-mínimo)-]
+[-H-]{+h+}ipertenso[-s estágios-]{+,+} [-1-]{+é+} {+n+}e[- 2 -]c[-om ri-]{+e+}s[-co cardiova-]s[-cula-]{+á+}r[- ba-]i[-x-]o [-e mé-]d[-io	<140x90mmHg-]
+[-Hip-]e[-r-]te[-nsos e limít-]r[-ofes co-]m[- risco card-]i[-ovascul-]{+n+}ar [-alto	130x80m-]m[-Hg-]
+[-Hip-]e[-r-]t[-enso-]{+a+}s [-e limít-]{+p+}r[-of-]es[- com ri-]s[-co ca-]{+ó+}r[-d-]i[-ovas-]c[-ul-]a[-r muito-]{+s+} a[-lto, ou com 3 ou-] [-mai-]s[- fator-]e[-s d-]{+r+}e{+m+} [-risco	-]
+[-Di-]a[-be-]t[-es mell-]i[-tus	-]
+[-Sí-]n[-drome metaból-]{+g+}i[-c-]{+d+}a{+s+} {+c+}o[-u-]{+m+} [-lesã-]o [-de órgão-alvo	-]
+[-Hiper-]t[-ensos nef-]r[-op-]ata[-s co-]m[- prot-]e[-i-]n[-úri-]{+to d+}a [->1g/L	-]{+HAS.+}
+
+[-Após-]{+Tabela 4+} {+- Met+}a{+s+} {+terapêuti+}c[-l-]as[-s-]{+ do pac+}i[-f-]{+ente h+}i{+pertenso, +}c[-açã-]o{+nforme+} [-d-]{+níveis pressóric+}o{+s e+} risco cardiovascular[- -]{++}
+{+Categorias	M+}e{+tas+} {+recomenda+}da{+s	Classes	Níveis+} de[-f-]{+ ev+}i{+dê+}n{+c+}i[-çã-]{+a+}
+{+Hipertens+}o{+s+} [-d-]e{+stágios 1+} [-m-]e[-ta-]{+ 2, com ri+}s{+co+} [-t-]{+CV baixo e mod+}era{+do e HAS estágio 3	<140x90mmHg	I	A+}
+{+Hi+}p[-êu-]{+ertensos es+}t{+ág+}i{+os 1 e 2 +}c[-a-]{+om ri+}s{+co+} [-d-]{+CV alt+}o{+	<130x80mmHg*	I	A**+}
+{+* Para+} paciente{+s+} [-hipert-]{+com do+}en{+ça+}s{+ cor+}o{+narianas+}, [-é-]{+a PA+} n{+ão dev+}e{+ fi+}c{+ar <120x70mmHg, particularm+}e{+nte com a dia+}s[-sár-]{+tól+}i{+c+}a a{+baixo+} {+de 60mmHg, pelo r+}i[-n-]{+sco +}d{+e h+}i{+poperfusão +}c{+oron+}a[-ç-]{+riana, les+}ão {+miocár+}d{+ic+}a e[-s-]{+ even+}t[-r-]{+os c+}a[-tég-]{+rd+}i{+ov+}a[- t-]{+scular+}e{+s.+}
+{+** Pa+}ra[-pêu-]{+ diabé+}tic{+os, +}a [-(T-]{+cl+}a[-b-]{+sse de recomendação é IIB, nív+}el{+ de evidênci+}a [-4)-]{+B+}.[- -]
+
+{+Diante das evidências mais recentes, o Eighth Joint National Committee (JNC 8), responsável pela determinação das diretrizes americanas para tratamento da hipertensão arterial, estabelece metas de tratamento que já não diferem entre pacientes diabéticos e não diabéticos. Para esses 2 grupos de pacientes com idade inferior a 60 anos, recomen-da-se que sejam atingidos níveis de pressão arterial que não ultrapassem 140x90mmHg, mesmo naqueles com doença renal. Para aqueles com idade igual ou maior que 60 anos, os valores da pressão arterial não devem ultrapassar 150x90mmHg. As diretrizes da American Diabetes Association 2015 (que são seguidas pela Sociedade Brasileira de Diabetes) preconizam alvos de PA <140x90mmHg para adultos diabéticos e <130x80mmHg para populações específi-cas, como adultos jovens, desde que não haja ônus no tratamento.+}
+{+Após a classificação do risco CV e da definição de metas terapêuticas do paciente hipertenso, é necessária a indica-ção da estratégia terapêutica (+}Tabela [-4-]{+5). +}
+{++}
+{+Tabela 5+} - Estratégia terapêutica para o paciente hipertenso, a partir do seu risco cardiovascular
+Decisão terapêutica da hipertensão arterial, segundo o risco [-cardiovascular-]{+CV+}
+Categorias de risco	Estratégias
+Sem risco adicional	Tratamento não medicamentoso isolado
+Risco baixo	Tratamento não medicamentoso isolado por até 6 meses (se não atingir a meta, associar tratamento medicamentoso)
+Risco médio, alto ou muito alto	Tratamento não medicamentoso + medica{+-+}mentoso
+
+{+ +}
+Importante
+A estratégia terapêutica, assim como os valores pressóricos a serem atingidos, é determinada pelos valores pressó{+-+}ricos inici[---]ais, lesão de órgãos-alvo e fatores de risco cardiovasculares adicionais. Em pacientes de risco cardiovas{+-+}cular médio, alto ou muito alto, o tratamento medicamentoso deve ser iniciado precocemente.
+
+A - Tratamento não farmacológico
+[--]Tabela [-5-]{+6+} - Dieta DASH
+- Escolher alimentos com pouca gordura saturada, colesterol e gordura total. [-Por e-]{+E+}xemplo[-,-]{+s:+} carne magra, aves e peixes, em pequena quantidade;
+- Comer muitas frutas e hortaliças, aproximadamente de 8 a 10 porções/dia (1 porção = 1 concha média);
+- Incluir 2 ou 3 porções de laticínios desnatados ou semidesnatados por dia;
+- Preferir os alimentos integrais, como pão, cereais e massas integrais ou de trigo integral;
+- Comer oleaginosas (castanhas), sementes e grãos, de 4 a 5 porções/semana (1 porção = 1/3 de xícara ou 40g de castanhas, 2 colheres de sopa ou 14g de sementes, ou 1/2 xícara de feijões ou ervilhas cozidas e secas);
+- Reduzir a adição de gorduras e consumir margarina light e óleos vegetais insaturados (como azeite, soja, milho, canola);
+- Evitar a adição de sal aos alimentos. Evitar, também, molhos e caldos pron{+-+}tos, além de produtos industrializados;
+- Diminuir ou evitar o consumo de doces e bebidas com açúcar.
+
+As principais medidas são restrição de sal, controle do peso, restrição de álcool, restrição ao tabagismo, suplemen{+-+}tação de cálcio, potássio e magnésio e prescrição de atividade física. Após tais orientações, há a prescrição de medica{+-+}ção, lembrando que o controle dos níveis pressóricos deve ser mais rigoroso nos diabéticos, coronariopatas e pacien{+-+}tes com hipertrofia ven[---]tricular esquerda, pois estes têm maior risco de progressão para lesão de órgãos-alvo.
+Hipertensos com excesso de peso devem ser incluídos em programas de emagrecimento com restrição da ingestão calóri[---]ca e aumento de atividade física. A meta é alcançar índice de massa corpórea inferior a 25kg/m2 e circunferência da cintura inferior a 102cm para homens e 88cm para mulheres, embora a diminuição de 5 a 10% do peso corpóreo inicial já seja sufici[---]ente para reduzir a PAS em hipertensos leves. A seguir, as medidas de mudança do estilo de vida e seu impacto sobre os valo[---]res pressóricos (Tabela [-6-]{+7+}).
+
+Tabela [-6-]{+7+} - Mudanças nos hábitos de vida e seus impactos nos valores da pressão arterial
+Modificações	Recomendações	Redução aproximada na PAS
+Controle de peso	Manter o peso na faixa normal (índice de massa corpórea entre 18,5 e 24,9kg/m2). 	5 a 20mmHg para cada 10kg de peso reduzido
+Padrão alimentar	Adotar dieta rica em frutas e vegetais e alimentos com bai{+-+}xa densida[---]de calórica e baixo teor de gorduras saturadas e totais. 	8 a 14mmHg
+Redução de consu{+-+}mo de sal	Reduzir a ingestão de sódio para não mais de 100mmol/d = 2,4g de sódio (6g de sal/d = 4 colheres de café rasas de sal = 4g + 2g de sal próprio dos alimentos).	2 a 8mmHg
+Moderação no con{+-+}sumo de álcool	Limitar o consumo a 30g/d de etanol para os homens e 15g/d para mulheres. 	2 a 4mmHg
+Exercício físico	Habituar-se à prática regular de atividade física aeróbica, como cami[---]nhadas por pelo menos 30 minutos por dia, 3 a 5 vezes/semana. 	4 a 9mmHg
+
+B - Tratamento farmacológico
+O anti-hipertensivo ideal deve apresentar características como tratamento em dose única, baixo custo e poucos efeitos colaterais. Infelizmente, não há, até agora, droga para monoterapia com todas as características do medicamen{+-+}to ideal. Algu[---]mas classes específicas de drogas têm indicação preferencial em determinados pacientes por adicionarem benefícios ao con[---]trole e à evolução de outras doenças associadas (Tabelas [-7-]{+8+} e [-8-]{+9+}).
+
+Tabela [-7-]{+8+} - Forte indicação para escolha terapêutica da hipertensão arterial sistêmica
+Situações clínicas	Medicamentos
+Diabetes mellitus tipo 1 com proteinúria	Inibidores da Enzima Conversora da An{+-+}giotensina (IECAs)
+Diabetes mellitus tipo 2	IECA e inibidor AT2
+IC[-C-]{+ congestiva+}	IECA, betabloqueador e diuréticos
+Pós-infarto agudo do miocárdio	Betabloqueador e IECA
+HAS sistólica isolada (idosos)	Diuréticos e bloqueadores dos canais de cálcio
+
+Tabela [-8-]{+9+} - Escolha terapêutica preferencial em situações especiais
+Negros	Tiazídicos/bloqueadores dos canais de cálcio
+Idosos	Tiazídicos + betabloqueador, bloqueadores dos canais de cálcio, IECA e bloqueadores dos receptores da angiotensi[---]na
+Gestantes	Alfametildopa, bloqueio dos canais de cálcio, betabloqueadores 
+
+Tema {+frequente +}de prova
+O mecanismo de ação, as principais indicações e os efeitos colaterais dos diuréticos, betabloqueadores e inibido{+-+}res da en[---]zima conversora da angiotensina são itens sempre cobrados nas provas de Residência Médica.
+
+As classes disponíveis para tratamento são:[-  -]
+
+a) Diuréticos 
+São drogas seguras, de baixo custo, amplamente utilizadas e que apresentam melhor efeito em negros e idosos. São reco[---]mendadas como 1ª escolha para monoterapia ou associação a outra categoria de drogas e podem ter benefício adicional em IC[-C-]{+ congestiva+} e insuficiência renal crônica. Os efeitos colaterais mais comuns são hiperuricemia, hipergli{+-+}cemia, aumento de LDL, rash cutâneo, hipocalemia e impotência. Drogas que pertencem a tal grupo são a hidrocloroti{+-+}azida e a clortalidona, sendo a [-primei-ra-]{+1ª+} a droga de escolha deste grupo.
+
+b) Betabloqueadores 
+Mais utilizados em jovens, trazem benefício adicional a pacientes com angina estável, infarto agudo prévio, manifes{+-+}tações somáticas de ansiedade, enxaqueca e IC (apenas para carvedilol, bisoprolol e metoprolol). Associados a vasodila{+-+}tadores, evi[---]tam a taquicardia reflexa. Devem ser usados com cautela em casos de diabetes, dislipidemias, bloqueios atrioventriculares e doença pulmonar obstrutiva. Seus efeitos colaterais mais comuns são fadiga, indisposição, depres{+-+}são, broncoespasmo, bradi[---]arritmias, insônia, impotência sexual, hipertrigliceridemia, hiperglicemia, descompensação de IC e de insuficiência arterial periférica. Também bloqueiam a resposta fisiológica à hipoglicemia e retardam a neogli{+-+}cogênese, podendo mascarar os sinais clínicos da hipoglicemia. São drogas desse grupo o propranolol, o atenolol, o carvedilol e o metoprolol.
+
+c) Bloqueadores dos canais de cálcio
+Têm boa indicação para coronariopatas, com efeito melhor em negros e idosos, principalmente para controle da hi{+-+}perten[---]são leve e moderada. Nifedipino, anlodipino, verapamil e diltiazem pertencem a tal grupo.
+
+d) IECAs 
+São pouco eficazes em negros, mas têm eficácia melhorada quando associada ao diurético. São os agentes de esco{+-+}lha em pacientes com diabetes tipo 1 com microalbuminúria ou proteinúria, assim como disfunção renal. Há indicação, também, para aqueles com diabetes tipo 2 e alteração renal. Naqueles com alto risco de eventos [-cardiovasculare-]{+CV+}s, são capazes de reduzir a mortalidade e o número de eventos mórbidos. Drogas de escolha na IC e na disfunção ventricular assintomá{+-+}tica não alteram a glicemia e o perfil lipídico, sendo bem toleradas durante o uso. Podem desencadear tosse seca, angi{+-+}oedema, elevação transi[---]tória da ureia e da creatinina (em especial, na presença de estenose bilateral das artérias re{+-+}nais). Drogas como captopril, enalapril, lisinopril e ramipril têm essa ação.
+
+e) BRA-II
+Há evidências de que os bloqueadores do receptor da angiotensina II possam reduzir risco [-cardiovascular-]{+CV+} em indivíduos hiper{+-+}tensos, diabéticos e com IC. Seu custo mais elevado e efeito protetor semelhante limitam o uso a pacientes que desen-volvem tosse com IECA. No entanto, parece haver menor incidência de efeitos colaterais. Drogas como losartana, can{+-+}desarta[---]na e irbesartana pertencem a tal grupo e estão indicadas primariamente aos que não toleram IECAs. 
+
+f) Agentes de ação simpatolítica central 
+Metildopa e clonidina têm seu uso reduzido para a hipertensão severa, não controlada com as outras categorias de drogas. Agem estimulando os adrenorreceptores centrais, diminuindo o fluxo simpático e gerando vasodilatação e redução da fre[---]quência cardíaca. Há baixa adesão de tratamento devido aos efeitos colaterais (impotência sexual, de{+-+}pressão, anemia hemolí[---]tica e teste de Coombs positivo) e ao risco de hipertensão rebote quando o uso é interrompido abruptamente.
+
+g) Vasodilatadores arteriolares diretos
+Seus principais representantes são a hidralazina e o minoxidil. Podem causar taquicardia reflexa e, quando suspen{+-+}sos, produzir hipertensão rebote. São utilizados na hipertensão de difícil controle, principalmente quando em associa{+-+}ção à altera[---]ção renal.
+A seguir, são listados efeitos benéficos do uso de determinadas classes de medicações no controle de outras doen{+-+}ças as[---]sociadas (Tabela [-9-]{+10+}), assim como efeitos indesejáveis em algumas associações (Tabela 1[-0-]{+1+}).
+
+Tabela [-9-]{+10+} - Possíveis efeitos benéficos adjacentes para nortear a escolha terapêutica
+Situações clínicas	Medicamentos
+Angina	Betabloqueador e bloqueador dos canais de cálcio
+Doença aterosclerótica	IECA
+@@ -143,23 +152,26 @@ Osteoporose	Tiaz
+Prostatismo	Alfabloqueador (prazosina)
+Insuficiência renal crônica	IECA e inibidor AT2
+
+Tabela 1[-0-]{+1+} - Prováveis efeitos indesejáveis da escolha terapêutica e doenças de base/condições clínicas
+Situações clínicas	Medicamentos
+Broncoespasmo	Betabloqueador
+Depressão	Betabloqueador e alfa-agonista central
+Gota	Diurético
+Bloqueio atrioventricular	Betabloqueador e bloqueador dos canais de cálcio (não diidropiridínico)
+IC[-C-]{+ congestiva+}	Alfabloqueador, bloqueador dos canais de cálcio e betabloqueador
+Doença vascular periférica	Betabloqueador
+Gravidez	IECA e inibidor AT2
+Insuficiência renal crônica	Agentes poupadores de potássio
+Doença renovascular bila{+-+}teral	IECA e inibidor AT2
+
+ {+ +}
+Figura [-1-]{+2+} - Tratamento da hipertensão{+, conforme resposta terapêutica (TNM: tratamento não medicamentoso; BCC:+} {+Bloqueador dos Canais de Cálcio; BRA: Bloqueador do Receptor de Angiotensina)+}
+
+
+{+ +}
+{+Figura 3 - Associações possíveis de drogas anti-hipertensivas +}
+{++}
+Tabela 1[-1-]{+2+} - Drogas para hipertensão arterial sistêmica e suas doses terapêuticas
+	Medicamentos	Posologia (mg)	Número 
+de tomadas/d
+		Mínima	Máxima	
+@@ -173,9 +185,11 @@ Al
+Poupadores de potássio	Amilorida	2,5	10	1
+	Espironolactona	25	100	1 a 2
+	Triantereno	50	100	1
+Bloqueadores dos {++}
+canais de cálcio	Verapamil Retard	120	480	1 a 2
+	Diltiazem AP, SR ou CD	180	480	1 a 2
+Antagonistas dos {++}
+canais de cálcio	Anlodipino	2,5	10	1
+	Felodipino	5	20	1 a 2
+	Isradipino	2,5	20	2
+	Lacidipino	2	8	1
+@@ -185,7 +199,7 @@ Antagonistas dos canais de c
+	Nifedipino Retard	20	60	2 a 3
+	Nisoldipino	5	40	1 a 2
+	Nitrendipino	10	40	2 a 3
+IECA{+s+}	Benazepril	5	20	1
+	Captopril	25	150	2 a 3
+	Cilazapril	2,5	5	1
+	Delapril	15	30	1 a 2
+@@ -196,7 +210,8 @@ IECA	Benazepril	5	20	1
+	Quinapril	10	20	1
+	Ramipril	2,5	10	1
+	Trandolapril	2	4	1
+Bloqueadores de {++}
+receptor AT1	Candesartana	8	32	1
+	Irbesartana	150	300	1
+	Losartana	25	100	1
+	Olmesartana	20	40	1
+@@ -229,7 +244,7 @@ Vasodilatadores diretos	Hidralazina	50	150	2 a 3
+
+Pergunta
+2015 - INCA
+1. Uma idosa[-,-] de 76 anos[-,-] consultou-se há cerca de 15 dias com o seu clínico[-,-] [-ond-]e foi diagnosticada hipertensão arterial e optou-se por iniciar tratamento medicamentoso. Retorn[-a-]{+ou+} para consulta de controle[-, onde-] apresenta{+ndo+} PA = 120x83mmHg, FC = 74bpm e hiponatremia com sódio = 132mEq/L. Qual dos seguintes medicamentos foi prova{+-+}velmente receitado à paciente? 
+a) furosemida
+b) propranolol 
+c) espironolactona 
+@@ -237,21 +252,19 @@ d) hidroclorotiazida
+Resposta no final do capítulo
+
+2. Hipertensão arterial resistente
+[--]Quando o paciente não responde à terapia combinada de 3 classes diferentes (obrigatoriamente 1 delas é um diu{+-+}rético), fica caracterizada a hipertensão resistente.{+ +}Nessa condição, devem-se buscar causas que determinem tal com{+-+}portamento, como obesidade, consumo excessivo de álcool, apneia do sono e causas secundárias de hipertensão. Na ausência desses fato[---]res de refratariedade, é recomendada a associação de espironolactona e simpatolíticos centrais e betabloqueadores.[--]
+
+Dica
+Na hipertensão arterial sistêmica resistente, há refratariedade ao controle pressórico, apesar da terapia combinada de 3 classes diferentes (1 deve ser diurético).
+
+[-3. -]Resumo
+{++}
+Quadro-resumo
+{+-+} {+O tratamento deve levar em conta o risco CV do paciente, seus níveis pressóricos atuais e a meta pressórica a ser atingi-da;+}
+{+- A estratégia terapêutica de mudanças de hábito de vida deve ser adotada em todas as faixas de risco CV, independen-temente do nível pressórico;+}
+{+- Dieta DASH, perda de peso, restrição de sal, atividade física e cessação do tabagismo são as medidas não farmacológica de maior impacto no risco CV;+}
+{+- Qualquer droga anti-hipertensiva pode ser utilizada para atingir a meta pressórica; existem opções preferencias em pa-cientes negros (tiazídicos/bloqueadores de canais de cálcio), idosos (tiazídicos e betabloqueadores) e gestantes (alfa-metildopa e betabloqueador).+}
+
+[-Resposta-]
+[-1. D-]
+
+[-Dica-]
+[-Para fixar o que estudou n-]{+R+}es[-te ca-]p[-ítul-]o[-, teste seu-]s[- conhecimen-]t[-os-]{+a+} [-resolven-]d[-o -]a[-s-] quest[-ões referentes-]{+ão+} [-a-]{+d+}o [-tem-]{+c+}a[-.-]
+[-Questões: -]p[-ágina XX-]
+[-Comen-]{+í+}t[-ári-]{+ul+}o[-s: página-]{++}
+{+1.+} [-XX-]{+D+}
