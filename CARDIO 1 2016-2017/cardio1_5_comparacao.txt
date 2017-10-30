@@ -1,8 +1,4 @@
-diff --git a/cardio1_5.txt b/cardio1_5.txt
-index 91f554a..38816cb 100644
---- a/cardio1_5.txt
-+++ b/cardio1_5.txt
-@@ -1,14 +1,13 @@
+
 Dislipidemia e fatores de risco para doença cardiovascu[---]lar{+ +}
 José Paulo Ladeira
 Rodrigo Antônio Brandão Neto

@@ -1,8 +1,4 @@
-diff --git a/cardio1_7.txt b/cardio1_7.txt
-index 123b09f..48b158a 100644
---- a/cardio1_7.txt
-+++ b/cardio1_7.txt
-@@ -3,8 +3,7 @@ Jos
+Jos
 Rodrigo Antônio Brandão Neto
 Fabrício Nogueira Furtado
 

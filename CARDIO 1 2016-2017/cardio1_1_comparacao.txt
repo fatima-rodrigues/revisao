@@ -1,8 +1,4 @@
-diff --git a/cardio1_1.txt b/cardio1_1.txt
-index 1fde90c..1bf16fd 100644
---- a/cardio1_1.txt
-+++ b/cardio1_1.txt
-@@ -1,42 +1,37 @@
+
 Anatomia e fisiologia cardíaca básica{+ +}
 José Paulo Ladeira
 Victor Ales Rodrigues

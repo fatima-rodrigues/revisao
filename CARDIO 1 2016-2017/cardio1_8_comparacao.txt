@@ -1,8 +1,4 @@
-diff --git a/cardio1_8.txt b/cardio1_8.txt
-index 6edaeaf..d50b921 100644
---- a/cardio1_8.txt
-+++ b/cardio1_8.txt
-@@ -1,14 +1,12 @@
+
 Síncope
 [-Rodrigo Antônio Brandão Neto-]
 José Paulo Ladeira
