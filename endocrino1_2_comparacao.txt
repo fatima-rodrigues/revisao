@@ -1,0 +1,201 @@
+diff --git a/endocrino1_2.txt b/endocrino1_2.txt
+index 67cfb7d..11d0463 100644
+--- a/endocrino1_2.txt
++++ b/endocrino1_2.txt
+@@ -1,16 +1,15 @@
+Diabetes mellitus - diagnóstico
+[- -]Leandro Arthur Diehl
+Rodrigo Antônio Brandão Neto
+
+[-Resumo-]Neste capítulo, será apresentado o modelo atual de diagnóstico da síndrome diabética. O conhecimento dos diferentes testes diagnósticos e da sua estratégia de utilização epidemiológica é essencial para o atendimento ao paciente diabético. Convém lembrar que o rastreamento do diabetes é recomendado a pacientes com mais de 45 anos ou fatores de risco para o desen{+-+}volvimento da doença. O diagnóstico de Diabetes Mellitus (DM) é definido por glicemia de jejum =126mg/dL, glicemia de 2 horas após Teste de Tolerância a Glicose (TTG) =200mg/dL, A1c =6,5%{+,+} ou glicemia ocasional =200mg/dL em paciente com sintomas clássicos de diabetes (poliúria, polidipsia). A positividade de quaisquer dos parâmetros descritos confirma o diagnós{+-+}tico. Na ausência de hiperglicemia comprovada, os resultados devem ser confirmados com a repetição dos testes. Deve-se solicitar TTG 75g de glicose {+par+}a todos com glicemia de jejum limítrofe (entre 100 e 125mg/dL). O TTG também está bem indi{+-+}cado a indivíduos de mais alto risco de diabetes (presença de vários fatores de risco, história famili[---]ar, DM gestacional prévio, síndrome metabólica, pré-diabetes). Glicemia de jejum entre 100 e 125mg/dL{+,+} ou glicemia 2 horas após TTG entre 140 e 199mg/dL, {+ou A1c entre 5,7 e 6,4%, +}na ausência de critérios que confirmem diabetes, são consideradas pré-diabetes, com alto risco de evolução para DM. A principal medida para a prevenção do aparecimento de diabetes em pré-diabéticos é a alteração dos hábitos de vida, embora o uso de metformina possa ser considerado entre aqueles de mais alto risco (obesos jovens ou mulheres com histórico d[-a-]{+e+} [-form-]{+di+}a{+betes+} gestacional).
+
+1. Testes diagnósticos empregados
+
+Os procedimentos empregados para o diagnóstico de Diabetes Mellitus (DM) são: 
+Glicemia de jejum: medida da glicose no sangue venoso (soro ou plasma), após jejum de 8 a 12 horas; 
+Teste de Tolerância a Glicose (TTG, TTOG ou GTT): após a administração (oral) de glicose anidra (75g, ou 1,75mg/kg para crianças) ou de dose equivalente de dextrose (82,5g), diluída em 250 a 300mL de água, ingerida em até 5 minutos, sen[---]do coletado sangue para a mensuração da glicemia nos tempos{+:+} zero {+(em jejum de 8 horas) +}e 120 minutos após a ingestão;
+Glicemia casual: medida de glicose no sangue venoso, colhida a qualquer momento do dia, independentemente de o pa{+-+}ci[---]ente ter se alimentado ou não. É aceita como método diagnóstico de DM apenas em indivíduos sintomáticos, ou seja, com sintomas característicos de diabetes (perda de peso involuntária, polidipsia, poliúria etc.);
+Hemoglobina glicada (A1c): reflete a média das glicemias dos últimos 3 meses. Foi aceita como mais um método diagnósti-co para DM em 2010, pelas associações europeia e norte-americana de diabetes, e em 2011, pela Sociedade Brasileira de Diabetes (SBD).
+Pela sua praticidade e pelo baixo custo, a medida da glicemia de jejum é o procedimento mais utilizado para fazer o diag-nóstico de DM. A A1c, embora possa ser usada como método diagnóstico adicional, deve, preferencialmente, ser confirmada com alguma medida de glicemia, visto que a sua correlação com esta é boa, mas tem limitações. Além disso, não são todos os métodos laboratoriais para a dosagem de A1c que servem para o diagnóstico de diabetes.
+O uso de tiras reagentes de glicemia capilar ou glicosúria não é adequado para o diagnóstico de DM, assim como a glice-mia venosa pós-prandial não tem utilidade para esse fim.
+@@ -23,7 +22,7 @@ Tabela 1 - Situa
+- Todos os pacientes com glicemia de jejum alterada (entre 100 e 125mg/dL);
+- Indivíduos >45 anos em investigação de síndrome metabólica;
+- Indivíduos com 2 ou mais fatores de risco para DM (Tabela 2);
+- Puérperas que apresentaram diabetes gestacional (testar novamente com 6 a 12 semanas de puerpé[---]rio). 
+
+Tabela 2 - Fatores de risco para diabetes tipo 2
+- Sedentarismo; 
+@@ -31,7 +30,7 @@ Tabela 2 - Fatores de risco para diabetes tipo 2
+- Hipertensão arterial (PA =140x90mmHg);
+- HDL <35mg/dL ou triglicérides >250mg/dL; 
+- Diabetes gestacional prévio ou história de ter dado à luz recém-nascido com peso >4kg; 
+- História de abortos de repetição ou mortalidade perinatal (possivelmente associada a diabetes gestacional não diagnosti[---]cado); 
+- Intolerância a glicose ou glicemia de jejum alterada prévia; 
+- Síndrome dos ovários policísticos; 
+- Outras condições associadas à resistência insulínica (exemplo: obesidade severa com acantose nigricans); 
+@@ -39,10 +38,10 @@ Tabela 2 - Fatores de risco para diabetes tipo 2
+- Uso de medicações com potencial de elevar a glicemia (glicocorticoides etc.). 
+
+B - Considerações sobre a A1c 
+A HbA1c (ou simplesmente A1c) é formada por uma reação de glicação não enzimática irreversível entre a glicose sanguí-nea e a hemoglobina. Sua dosagem mostrou-se capaz de avaliar o risco de desenvolvimento de muitas das complicações crô-nicas do DM, do mesmo modo que as determinações de colesterol podem predizer o risco de desenvolvimento de doença cardiovascular.[- -]
+Tradicionalmente, a A1c tem sido considerada representativa da média ponderada global das glicemias médias diárias (in-cluindo glicemias de jejum e pós-prandial) durante os últimos 3 a 4 meses. Entretanto, sabe-se que as glicemias mais recentes (do último mês) são as maiores determinantes do valor da A1c, determinando em torno de 50% do seu valor.{+ +}
+A seguir, a Tabela 3 demonstra a relação entre níveis de A1c e glicemia média, com base nos resultados do estudo ADAG (A1c-Derived Average Glucose), especificamente desenhado para avaliar a correlação entre esses 2 parâmetros.
+[- -]
+Tabela 3 - Correspondência entre a A1c (%) e a glicemia média estimada nos últimos 3 meses, de acordo com o ADAG (2008)
+Nível de A1c (%)	Glicemia média (mg/dL)
+5	97
+@@ -76,7 +75,6 @@ Fatores causadores de redu
+- Anemia da insuficiência renal;
+- Intoxicação por chumbo;
+- Excesso de vitaminas C e E;
+[-Fatores causadores de aumento da A1c-]
+- Presença de hemoglobina carbamilada, na insuficiência renal;
+- Deficiência de ferro;
+- Presença de hemoglobina acetilada, devido ao uso de doses elevadas de salicilatos;
+@@ -87,23 +85,27 @@ Fatores causadores de aumento da A1c
+
+A evolução da normoglicemia para o DM2 ocorre ao longo de um período de tempo variável, durante o qual o indivíduo frequentemente passa por estágios intermediários de alterações da glicemia. Essas alterações intermediárias da glicose plas-mática, que ainda não preenchem os critérios diagnósticos de diabetes, recebem o nome de “pré-diabetes” e podem ocorrer no jejum, excesso após uma carga de carboidratos (pós-prandial), ou em ambos os momentos. 
+Antigamente, havia as categorias “glicemia de jejum alterada”, para os pacientes com glicemia de jejum entre 100 e 125/dL, e “tolerância diminuída a glicose”, para aqueles com glicemia 2 horas após TTG entre 140 e 199mg/dL. Atualmente, ambas as categorias foram englobadas na denominação comum “pré-diabetes”, que inclui os 2 estados intermediários citados.
+A importância dessas alterações discretas da glicemia está no risco aumentado que os pacientes com pré-diabetes apre-sentam de progressão para DM (4 a 12% ao ano) e de doença cardiovascular. Segundo alguns estudos, há maior risco de os indivíduos com alteração da glicemia pós-prandial evoluírem para diabetes e doença cardiovascular.[-  -]
+Os critérios diagnósticos para diabetes e pré-diabetes estão expostos na Tabela 5. É importante frisar que, se o paciente tem critérios discordantes (por exemplo, glicemia de jejum na faixa de pré-diabetes, mas glicemia pós-teste de tolerância oral na faixa de diabetes), o diagnóstico será a alteração mais grave (no exemplo, o paciente terá diabetes e não pré-diabetes).
+[-Deve-se lembrar que todos os pacientes devem ter pelo menos 2 exames alterados, para confirmar o diagnóstico de dia-betes (ou pré-diabetes). Uma possível exceção seriam os pacientes com quadro extremamente óbvio, como, por exemplo, pacientes muito sintomáticos ou portadores de complicações agudas ou crônicas do diabetes – nesse caso, o diagnóstico poderia ser confirmado com um exame apenas.-]
+
+[-T-]{+Import+}a[-b-]{+nte+}
+{+Deve-s+}e{+ +}l{+embr+}a{+r+} [-5-]{+que+} [---]{+todos+} [-Val-]o[-r-]{+s pacient+}es de{+vem+} [-g-]{+ter pe+}l[-ic-]{+o men+}os{+ 2 exam+}e{+s+} [-p-]{+a+}l{+ter+}a{+do+}s{+ para confir+}m[-á-]{+ar o diagnós+}tic{+o de di+}a{+be-tes+} ([-mg/-]{+ou pré-+}d[-L-]{+iabetes+}){+.+}
+
+{+Uma possível exceção+} para {+confirmação d+}o diagnóstico [-d-]{+s+}e{+m+} {+2 exames altera+}d{+os ser+}ia[-b-]{+m os paci+}e{+n+}tes {+co+}m{+ quadro +}e{+xtre-mamente óbvio, como, por exemp+}l[-l-]{+o, pac+}i{+en+}t{+es m+}u{+ito sintomático+}s {+ou portadores d+}e {+com+}p{+licações agudas ou c+}r[-é--]{+ônicas do +}diabetes [-(d-]{+– n+}e{+sse caso, o diagnóstico+} {+poderi+}a{+ ser +}co{+nfi+}r{+ma+}do com {+um exame apenas.+}
+
+{+T+}a{+bela 5 -+} [-S-]{+Val+}o[-ci-]{+r+}e{+s +}d{+e glicose pl+}a{+smática (mg/+}d[-e-]{+L)+} [-B-]{+pa+}ra{+ o diagnó+}s{+t+}i[-l-]{+co d+}e{+ d+}i[-r-]a{+betes mellitus+} {+e pré-+}d{+iabet+}e{+s (American+} Diabetes{+ Association+}, 201[-4-]{+6+})
+Categorias	Jejum*	2 horas após 75g de glicose	Casual**	A1c (%)
+Glicemia normal	<100	<140	--	<5,7
+Pré-diabetes 	100 a 125	140 a 199	--	5,7 a 6,4
+DM	=126	=200	=200 com sintomas clás[---]sicos***	=6,5
+* O jejum é definido como a falta de ingestão calórica por, no mínimo, 8 horas.
+** A glicemia plasmática casual é definida como aquela realizada a qualquer hora do dia, sem ser observado o intervalo desde a úl{+-+}tima refeição.
+*** Os sintomas clássicos de DM incluem poliúria, polidipsia e perda inexplicável de peso.
+Observação: a positividade de quaisquer dos parâmetros diagnósticos descritos confirma o diagnóstico de diabetes. Na ausência de hiperglicemia inequívoca, os resultados devem ser confirmados com a repetição dos testes. 
+
+Pergunta
+2013 - UFSC
+1. Uma paciente de 64 anos, com Índice de Massa Corpórea (IMC) = 34, em exames de rotina apresentou hemograma sem alterações, colesterol total = 230mg/dL, HDL = 35mg/dL, glicemia de jejum = 185mg/dL e creatinina = 1,3mg/dL. Exames posteriores evidenciaram glicemia de jejum = 200mg/dL. Em consulta de retorno, relata poliúria, fadiga e aste[---]nia. Considerando os dados clínicos apresentados, assinale a alternativa que apresenta a hipótese diagnóstica mais prová[---]vel:
+a) síndrome de obesidade com hipoventilação
+b) diabetes mellitus tipo 2
+c) diabetes insipidus nefrogênico
+@@ -116,21 +118,22 @@ Resposta no final do cap
+Medidas de prevenção do DM são provavelmente eficazes em reduzir o impacto desfavorável sobre a morbimortalidade, principalmente pelo fato de que algumas ações simples são capazes de evitar complicações cardiovasculares. Ainda assim, há controvérsias quanto à necessidade de exames de screening ou rastreamento. A ADA recomenda o screening para pacientes com risco elevado de DM, enquanto a US Preventive Services Task Force e a SBD não tomam posição definitiva sobre o assunto. 
+A ADA recomenda a coleta de exames de rastreamento para todos os adultos com IMC normal a partir dos 45 anos (pelo menos 1 vez a cada 3 anos). Entretanto, se o paciente apresentar mais algum fator de risco para DM, o screening deverá ser iniciado mais cedo e realizado com maior frequência. Para rastreamento, pode-se usar glicemia de jejum, TTG ou A1c, a crité-rio médico. Além disso, em pacientes com sinais ou sintomas sugestivos de hiperglicemia descompensada (Tabela 7), a avalia-ção laboratorial deverá ser, obviamente, imediata. 
+
+Tabela 6 - Indicações de screening para diabetes mellitus em indivíduos assintomáticos, conforme recomendações da American Diabe[---]tes Association (201[-5-]{+6+})
+1 - Todos os adultos com excesso de peso (IMC [->-]{+=+}25kg/m2{+, ou =23kg/m2 em asiáticos+}) e que apresentam ao menos 1 fator de risco para DM:
+- Sedentarismo;
+- Familiar de 1º grau com DM;
+{+- Etnia de alto risco (negro, indígena, asiático);+}
+- Hipertensão arterial (PA =140x90mmHg);
+- HDL <35mg/dL {+e/+}ou triglicérides >250mg/dL;
+- Diabetes gestacional prévio ou história de ter dado à luz recém-nascido com peso >4kg;
+- [-Intole-]{+P+}r[-ância a glicose ou glicem-]{+é-d+}ia[- de j-]{+b+}e[-jum al-]te[-rada-]{+s+} prévi[-a-]{+o+};
+- Síndrome dos ovários policísticos;
+- Outras condições associadas à resistência insulínica (exemplo: obesidade severa[- com-]{+,+} acantose nigricans);
+- História de doença cardiovascular*. 
+2 - Na ausência dos fatores de risco citados, em todos os indivíduos =45 anos.
+3 - Se os resultados são normais, o exame deve ser repetido pelo menos a cada 3 anos**.
+* Outros possíveis fatores de risco para DM são: história de abortos de repetição ou mortalidade perinatal (possivelmente associada a diabetes gestacional não diagnosticado); uso de medicações com potencial de elevar a glicemia – glicocorticoides etc.
+** Considerar repetições mais frequentes do exame (a cada 6 a 12 meses) ou utilização do TTG (em vez de glicemia de jejum) em gru{+-+}pos de alto risco (glicemia de jejum alterada ou tolerância diminuída a glicose prévias, com piora progressiva dos níveis glicêmicos; presença de complicações crônicas compatíveis com DM – retinopatia, neuropatia; hipertensão arterial ou doença coronariana). 
+
+Tabela 7 - Sintomas sugestivos de diabetes mellitus que indicam avaliação imediata da glicemia
+1 - Poliúria e polidipsia. 
+@@ -149,69 +152,75 @@ Recomenda-se, para a preven
+Alguns medicamentos também demonstraram reduzir o risco de evolução para DM em pacientes de alto risco, em vários estudos (Tabela 8). Esses medicamentos, portanto, poderiam ser utilizados quando houvesse impedimento ou falência das medidas modificadoras do estilo de vida. 
+
+Dica
+A metformina deve ser considerada em pacientes com risco moderado e alto de evolução para DM tipo 2{+,+} em conjunto com medidas de mudança de estilo de vida[-,-] ou na falha destas.[- -]
+
+A SBD recomenda que, além das mudanças de estilo de vida, o uso de metformina poderia ser considerado para os jovens com risco moderado/alto de DM2 (especialmente os obesos jovens, com idade <65 anos), desde que não haja contraindica-ção para a medicação. A ADA também recomenda que o uso de metformina seja considerado, em conjunto com as mudanças de estilo de vida, nos pacientes com pré-diabetes de mais alto risco, especialmente nos obesos jovens (<60 anos e IMC >35kg/m2), nas mulheres com diabetes gestacional prévio, ou nos pacientes com hiperglicemia mais severa ou progressiva, apesar das modificações de estilo de vida. 
+
+Tabela 8 - Intervenções capazes de reduzir o risco de progressão para diabetes em indivíduos de alto risco (pré-diabéticos)
+Intervenções	Redução de risco
+[-Mudanças de estilo de vida	58%-]
+[-Metformina	31%-]
+[-Acarbose	25%-]
+Pioglitazona	72%
+{+Mudanças de estilo de vida	58%+}
+Orlistate	37%
+{+Metformina	31%+}
+Inibidores da enzima conversora de angiotensina/bloqueadores do receptor da angiotensina	26%
+{+Acarbose	25%+}
+
+Tabela 9 - Condutas recomendadas no pré-diabetes
+Condutas recomendadas	Pacientes pré-diabéticos
+Mudanças de Estilo de Vida (MEVs)	Todos
+MEVs + metformina	Pré-diabéticos com risco mais elevado de progressão para o dia{+-+}betes, especialmente obesos jovens ou com diabetes gestacional prévio, ou na falha de MEVs
+
+5. Diabetes mellitus gestacional (rastreamento e diagnóstico)
+
+Há muitas controvérsias na literatura sobre a melhor forma de rastreamento e diagnóstico do Diabetes Gestacional (DG). {+A+} {+ADA, por exemplo, reconhece pelo menos 2 maneiras válidas de rastrear DG, usando uma etapa (TTG com 75g de glicose) ou duas etapas (TTG inicial com 50g de glicose, seguido de outro TTG com 100g de glicose nas gestantes em que o 1º teste vem alterado).+}
+
+{+A - Rastreamento em uma etapa (TTG 75g) +}
+{+Esta é a abordagem recomendada pela ADA como método de escolha para rastreamento do DG em todas as gestantes sem histórico prévio de diabetes: realiza-se um teste oral de tolerância a glicose, com 75g de glicose (TTG 75g), após jejum de 8 horas, entre a 24ª e a 28ª semanas de gestação, com coleta de sangue para determinação da glicemia venosa em 3 tempos: zero, 1 hora e 2 horas. O diagnóstico de DG é confirmado se pelo menos 1 desses 3 valores está alterado, de acordo com os valores derivados do estudo HAPO, apresentados na Tabela 10.+}
+
+{+Tabela 10 - Valores de corte para diagnóstico de diabetes gestacional em uma etapa (teste de tolerância a glicose 75g) – American Dia-betes Association, 2016+}
+{+Glicemia (horário)	Valor de corte+}
+{+Jejum (tempo zero)	=92mg/dL+}
+{+1 hora	=180mg/dL+}
+{+2 horas	=153mg/dL+}
+{+Observação: basta 1 dos valores alterado para confirmar DG.+}
+
+[-A-]{+B+} - R{+astr+}e[-co-]{+a+}men[-daçõ-]{+to +}e[-s-]{+m+} [-n-]{+2 et+}a[-cion-]{+p+}a[-i-]s ([-SBD/FEBRAS-]{+TT+}G[-O,-]{+s+} [-2-]{+com 50g e 1+}00[-8-]{+g+})[-As-] 
+[-úl-]{+Es+}t[-im-]a[-s-] [-diretrizes-]{+é+} [-d-]a [-SBD-]{+abordagem+} p[-a-]r{+opost+}a {+pel+}o [-d-]{+Nat+}i{+on+}a[-g-]{+l I+}n[-ó-]sti[-co d-]{+tut+}e{+s+} [-DG f-]o[-ram-]{+f+} [-l-]{+He+}a{+lth (mi+}n[-ça-]{+istério +}da[-s-] {+saúd+}e[-m 2008,-] [-em-]{+dos+} [-e-]{+E+}s[-forç-]{+tad+}o{+s+} [-co-]{+U+}n[-junt-]{+id+}o{+s):+} [-c-]{+t+}o[-m-]{+das+} a{+s+} [-Fed-]{+g+}e[-r-]{+st+}a[-ção-]{+n-tes+} [-Bra-]s[-il-]e[-ira-]{+m+} d{+i+}a{+gnó+}s{+tico+} [-Ass-]{+prévi+}o[-c-]{+ de d+}ia[-çõ-]{+bet+}es de[- G-]{+ver+}i[-n-]{+am r+}e[-co-]{+a+}l[-og-]i{+z+}a{+r+} [-e-]{+um+} [-Obs-]te{+s+}t[-rí-]{+e ini+}cia{+l+} [-(FEBRASGO),-]{+de+} [-fin-]{+rastre+}a[-l-]ment[-e-]{+o+} [-unifi-]c[-and-]o{+m+} [-as-]{+50g+} [-r-]{+d+}e{+ gli+}co[-mendaçõe-]s[- d-]e {+(pod+}endo[-crino-logistas e-] [-ob-]s[-t-]e[-t-]r[-as,-] [-ante-]r{+eal+}i{+zad+}o[-rmente-] [-diferent-]e[-s-]{+m+} {+qualqu+}e[-m-]{+r+} [-v-]{+hor+}ário[-s-] {+do di+}a{+, di+}spe[-cto-]{+n+}s[-.-]
+[-D-]{+ando j+}e{+jum+} [-ac-]{+n+}o{+tu+}r[-d-]{+n+}o{+),+} com {+col+}e[-ss-]{+t+}a[-s-] d[-ir-]e[-triz-]{+ sangu+}e{+ apó+}s[-,-] [-o-]{+1+} {+ho+}ra[-s-]{+, en+}tre{+ +}a[-mento-] [-d-]{+24ª +}e [-DM-]{+a 28ª+} {+sema+}na{+s de+} gestação{+.+} [-deve -]{+Na+}s[-er-] [-f-]{+g+}e[-i-]{+s+}t[-o com -]a[- cole-]{+n+}t[-a d-]e{+s+} [-glic-]em[-ia-] [-d-]{+qu+}e [-j-]e[-jum -]{+st+}e[-m-]{+ 1º+} t[-odas as paci-]e[-n-]{+s+}te[-s na 1ª-] [-con-]{+e+}s[-ul-]t[-a de-]{+á+} [-pré-nat-]al[-. En-]t[-re aqu-]e[-l-]{+r+}a[-s-]{+do+} [-c-]{+(+}o[-m-]{+u+} [-glic-]{+s+}e[-mia inici-]{+j+}a[-l-]{+,+} [-<85-]{+=140+}mg/dL{+)+}, o [-r-]{+di+}a{+gnó+}st[-r-]{+ico de DG s+}e{+ri+}a[-m-]{+ +}ent{+ã+}o [-é -]con[-s-]{+f+}i[-de-]r{+m+}ado {+por um +}n[-egati-]{+o+}vo [-e-]{+TTG,+} {+dest+}a [-glic-]{+v+}e[-mi-]{+z após 8 hor+}a{+s+} de jejum [-deve s-]e[-r-] [-r-]e{+m+}p{+r+}e[-tida -]{+g+}a[-pós-]{+ndo+} {+um+}a [-20ª -]s{+obr+}e[-m-]{+c+}a[-n-]{+rg+}a[-.-] [-Pacient-]{+d+}e[-s-] [-com-]{+100g de+} glic{+os+}e{+, co+}m[-ias-] [-a-]{+co+}l[-t-]e[-r-]{+t+}a{+ +}d[-a-]{+e +}s{+angue+} {+ve+}nos{+o+} p{+a+}r[-imeiros-]{+a+} [-tri-]me{+n+}s[--t-]{+u+}r[-es da gest-]ação [-(-]{+da glicemi+}a{+ +}n{+os +}te{+mpo+}s [-d-]{+z+}e{+ro,+} [-24-]{+1+} [-sem-]{+hor+}a[-n-]{+, 2 hor+}as[-)-] [-t-]e[-ndem-] [-a-]{+3+} {+hora+}s{+. N+}e{+sta abo+}r{+dagem,+} considera[-da-]{+-+}s[-,-]{+e+} [-atual-]{+co+}m[-ente,-]{+o+} portadora[-s-] de [-di-]{+DG +}a[-bet-]{+ g+}es[- -]t[-ipo-]{+ante+} [-2-]{+que+} [-(-]{+a+}pr[-é-g-]es{+en+}ta[-ci-]{+r pel+}o{+ me+}n{+os 2 v+}al[-).-]
+[-Cas-]o{+res+} a[- g-]l[-ic-]{+t+}e[-mi-]{+r+}a[- -]d[-e jejum -]{+o+}s[-eja-] [-=85mg/-]{+(+}d[-L,-]{+os+} [-a-]{+4+} [-pacien-]te[- -]{+sta+}d[-eve -]{+o+}s[-er-]{+)+} [-subm-]{+n+}e{+s+}t[-ida-]{+e+} [-à-]{+TTG+} co[-nfir-]m[-ação-] [-d-]{+100g. N+}o [-di-]{+ent+}a[-g-]n[-ós-]t[-ic-]o, [-usand-]o{+s+} {+val+}o{+res+} [-TTG (75g),-]{+de+} co[-m cole-]{+r+}t[-a de glic-]e[-mia-] {+p+}a[- ze-]r[-o e -]a[-os 120 minutos,-] {+d+}e[-n-]t[-re a 24ª e a 28ª s-]e{+r+}m[-a-]{+i+}na[-s-]{+r+} [-d-]{+s+}e [-g-]es[-tação. Ca-]s[-o -]a{+s+} glicemia{+s+} [-d-]e{+stão+} [-2-]{+ou+} [-h-]{+nã+}o{+ alte+}ra[-s -]{+d+}a[-pó-]s {+t+}a{+mbém+} s{+ã+}o[-brecarga de-] [-gli-]co[-s-]{+ntrov+}e[- -]{+rso+}s[-eja =140mg/dL-], e{+xi+}st[-á def-]in[-i-]do {+pel+}o [-diag-]{+me+}n[-óstic-]o{+s+} [-de-]{+2+} [-DG.-]{+propostas+} [-S-]{+d+}e {+v+}a[- 1ª g-]l[-ic-]{+or+}e[-mia-]{+s+} de [-jejum f-]{+c+}or{+te+} [-=110mg/-]d[-L, -]{+if+}e[-nt-]re[-ta-]n[---]t[-o, o TTG pod-]e[-rá -]s[-er-] [-disp-]{+(Tab+}e[-nsado, bastando, para confirmar o diagnóstico, uma 2ª glicemia de jejum no mesmo nível (Figura 1). -]
+[-Quanto às gestantes com maior risco de DM gestacional (mais velhas, com história prévia de alterações glicêmicas ou que deram à luz recém-nascidos macrossômicos), o rastreamento pode ser feito mais precocemente. O diagnóstico deve ser rea-lizado conforme os critérios da Tabel-]{+l+}a 1[-0.-]
+[- -]
+[-Figura -]1[- - Recomendações para rastreamento e diagnóstico do diabetes gestacional (SBD e FEBRASGO, 2008-]){+.+}
+
+Tabela 1[-0-]{+1+} - [-C-]{+Valores de co+}r[-i-]t[-é-]{+e pa+}r[-ios-]{+a+} diagnóstico[-s (SBD-] {+d+}e [-FEBRASGO, 2008) -]
+[-- Glicem-]{+d+}ia[- d-]{+b+}e[- j-]{+t+}e[-jum-]{+s+} [-=110m-]g[-/dL -]e[-m, pel-]{+staci+}o{+nal+} [-m-]e[-nos,-]{+m+} 2 [-m-]e[-did-]{+tap+}as ([-o valor d-]{+t+}e[- cor-]{+s+}te de [-100mg/dL, u-]t[-i-]{+o+}l{+erânc+}i[-z-]a[-do-] [-par-]a [-adu-]{+g+}l[-t-]{+ic+}os[- -]e[-m-] {+100+}g[-eral,-]{+)+} [-não-]{+–+} [-fo-]{+Amer+}i[- -]{+c+}a[-i-]n[-da-] [-val-]{+D+}i[-dado n-]a[- g-]{+b+}e[-s-]{+-+}t{+es Associ+}a[-çã-]{+ti+}o[-);-]
+[---]{+n,+} {+2016+}
+Glicemia [-2 -]{+(+}hor{+ário)	V+}a{+lore+}s {+segundo C+}a{+r+}p[-ó-]{+enter/Coustan	Valore+}s [-75-]{+se+}g[- -]{+un+}d[-e-]{+o+} [-glic-]o[-s-]{+ NDDG+}
+{+J+}e{+jum+} ([-TTG)-]{+tempo+} {+zero)	=95mg/dL	+}=1[-4-]0{+5+}mg/dL
+[-; -]
+[-- Glicemia-]{+1+} [-a-]{+h+}o[- ac-]{+r+}a[-so -]{+	+}=[-20-]{+18+}0mg/dL[- e-]{+	=190+}m{+g/dL+}
+{+2+} [-p-]{+hor+}a[-ciente-]s[- co-]{+	=155+}m[- sinto-]{+g/dL	=165+}m[-as-]{+g/dL+}
+{+3+} [-típic-]{+h+}o{+ra+}s[-. -]{+	=140mg/dL	=145mg/dL+}
+Observação: [-ba-]s[-ta 1-]{+ão+} [-d-]{+necessári+}os [-3-]{+2+} [-c-]{+valo+}r[-i-]{+es al+}t[-é-]{+e+}r[-i-]{+ad+}os para {+c+}o[- diag-]n[-óst-]{+f+}i[-co-]{+rmar DG+}.
+
+[-B-]{+C+} - R{+astr+}e[-comend-]a[-çõ-]{+m+}e[-s i-]nt{+o s+}e[-r-]{+gu+}n[-aci-]{+d+}o[-n-]{+ +}a[-is-] [-(2010)-]
+[-E-]{+SBD+}
+{+Co+}m{+o+} [-m-]{+se ess+}a[-rço-] [-d-]{+qu+}e{+stão+} [-2010,-]{+já não+} fo[-i-]{+sse+} {+com+}p[-ub-]licad[-o n-]a [-D-]{+o sufic+}i[-ab-]e{+n+}te[-s-]{+,+} [-C-]a[-re-] [-um-]{+SBD,+} [-conse-]n{+a+}s[-o-] [-d-]{+su+}a{+s+} [-Internationa-]{+ú+}l[- Associa-]ti[-on of Di-]{+m+}a[-bete-]s [-an-]d[- P-]{+i+}re[-gnancy S-]t[-udy G-]r[-oup-]{+ize+}s ([-IADPSG-]{+2016+}), [-contendo novas -]recomenda[-ções-] [-para-]{+que+} o [-di-]{+r+}a[-gnó-]st[-ico do DG, com b-]{+re+}a[-s-]{+m+}e{+nto+} {+s+}e[-m-]{+ja+} re[-su-]{+a+}l[-t-]{+iz+}ado[-s-] [-d-]e{+m+} [-est-]u[-dos-]{+ma+} [-pros-p-]e[-c-]t[-ivos recentes que demonstraram -]a[-umento de risco de com-]p[-licações maternas e fet-]a[-is a partir de valores glicêmicos mais baixos que os classicamente utilizados para detecção de DG (Tabela 11). Acredita-se que a adoção desses novos critérios-], [-usando valores de corte bem mais baixos de glicemia de j-]e[-ju-]m[-, -]p[-ode aumenta-]r[- em 2 ou até 3 v-]e[-zes -]{+gand+}o [-númer-]o [-de-]{+TTG+} {+75+}g{+ +}e[-sta-]nt{+r+}e[-s-] [-identific-]a[-das-] [-com-]{+24ª+} [-DG.-]{+e+} [-Ess-]{+28ª d+}e[-s-] [-novo-]{+ge+}s[- cri-]t[-éri-]{+açã+}o[-s-], [-dada -]{+m+}a{+s+} su[-a m-]{+g+}e[-lho-]r[- sensibilidad-]e {+qu+}e o{+s+} [-gr-]{+v+}a[-n-]{+lores +}de [-p-]{+c+}o{+r+}te[-ncial-] [-par-]a [-r-]{+s+}e[-duzi-]r{+em+} [-co-]{+e+}mp[-licaçõ-]{+r+}e{+gado+}s d[-a-]{+evem+} [-DG,-]{+ser+} {+o+}s{+ da Organizaç+}ão [-at-]{+M+}u{+ndi+}al[-ment-]{+ da Saúd+}e [-os-]{+(OMS, 2013),+} {+a+}pre[-f-]{+s+}e[-ri-]{+nta+}dos [-p-]{+n+}a[-r-]{+ Tabel+}a [-o-]{+12,+} di[-ag-]{+fe-re+}n[-ós-]t[-ico d-]es[-ta,-] [-ten-]d[-o -]{+aquele+}s[-ido-] [-ad-]{+pr+}o{+pos+}t[-ad-]os pela ADA[- e pela SBD-].
+
+Tabela 1[-1-]{+2+} - [-C-]{+Valores de co+}r[-i-]t[-é-]{+e pa+}r[-ios-]{+a+} diagnóstico[-s-] d[-a IADPSG-]
+[---]{+e+} [-Gl-]{+d+}i[-c-]{+ab+}e[-m-]{+tes gestac+}i{+on+}a{+l+} [-d-]e{+m+} [-jej-]um{+a+} [-=92m-]{+etapa (TTG 75+}g[-/-]{+) – Socie+}d[-L;-]{+ade+} [---]{+Brasileira de Diabetes,+} {+2016+}
+Glicemia [-1 -]{+(+}hor{+ário)	DG	Di+}a{+betes+} {+fr+}a[-pós-]{+nco+} [-75-]{+(pré-+}g[- d-]e[- gli-]{+sta+}c{+i+}o[-s-]{+nal)+}
+{+J+}e{+jum+} ([-GTT-]{+tempo zero+}){+	92 a 125mg/dL	=126mg/dL+}
+{+1+} {+hora	+}=180mg/dL[-; -]{+	-+}-[- Glicemia -]
+2 horas{+	153+} a[-pós-] [-75-]{+199m+}g[- -]{+/+}d[-e glicose (GTT) -]{+L	+}=[-153-]{+200+}mg/dL[-. -]
+Observação: basta 1 dos [-3 c-]{+valo+}r[-i-]{+es al+}t[-é-]{+e+}r[-i-]{+ad+}o[-s-] para {+c+}o[- diag-]n[-óst-]{+f+}i[-co-]{+rmar DG+}.{+	+}
+
+[-C-]{+De+} [---]{+acordo+} [-A-]com[-panhamento-] [-pós-g-]es[-t-]{+s+}a[-c-]{+s d+}i[-onal-]
+[-Apó-]{+retrize+}s{+,+} o {+ras+}t[-é-]r{+ea+}m[-i-]{+e+}n{+t+}o d{+e DM n+}a g[-r-]{+est+}a[-vi-]{+ção +}de[-z,-]{+ve+} [-a-]s{+er+} [-paci-]{+f+}e[-n-]{+i+}t[-es-]{+o+} com [-DG-]{+a coleta+} de[-v-]{+ glic+}em{+ia+} [-s-]{+d+}e[-r-] [-s-]{+jej+}u[-b-]m{+ +}e{+m +}t[-i-]{+o+}das a{+s+} [-um novo TTG, -]{+paci+}ent[-re a 6ª -]e{+s+} {+n+}a 1[-2-]ª [-sema-]{+co+}n[-a-]s{+ulta+} de p[-ue-]r[-p-]é[-rio, para re-]{+-n+}a[-v-]{+t+}al[-iação-]. [-Na maioria dos casos-]{+Se+}, [-há rev-]{+n+}e[-r-]s[-ão para a-]{+se+} [-t-]{+m+}o[-l-]{+m+}e[-rância -]n{+t+}o[-rmal-]{+,+} a glic[-os-]e[- após o tér-]mi[-no-]{+a+} d[-a-]{+e+} [-g-]{+j+}e[-sta-]{+jum já for =126mg/dL, é feito o diagnóstico de diabetes pré-gestacional, ou seja, trata-se de diabetes mellitus que já existia antes da gestação (provável tipo 2). Se a gli-cemia nesse momento estiver entre 92 e 125mg/dL, será feito o diagnóstico de diabetes gestacional. Em ambas as situações, o resultado deve ser confirmado com uma 2ª glicemia de jejum, colhida em um dia diferente. Se a glicemia em jejum no 1º trimestre for <92mg/dL, então estará indicada reavalia+}ção[-,-] {+com o TTG 75g no 2º tri+}m{+estre. +}
+{+No TTG 75g, +}a{+ +}s{+er+} [-vá-]r{+eal+}i{+zad+}o{+ entre a 24ª e a 28ª semana+}s {+de g+}est{+ação (se não ho+}u{+ver +}d[-o-]{+iagnó+}s{+tico+} pr{+évi+}o{+ de diabetes ou DG), a ge+}s{+tante que a+}p{+r+}e[-c-]{+sen+}t{+ar glicem+}i{+a de jejum =126mg/dL ou com 2 horas =200mg/dL de+}v{+erá ser c+}o{+n+}s{+iderada+} {+co+}mo{+ por-tadora de diabete+}s[-t-]{+ f+}ra[-m que-]{+nco,+} o{+u+} [-ri-]s[-co-]{+eja,+} d{+iab+}e[- -]{+t+}e[-volução-]{+s+} p[-a-]r[-a DM2 -]é[- -]{+-g+}e[-x-]{+s+}t[-rem-]a[-me-]{+cio+}n[-te -]al[-to-], de [-17-]{+acordo com+} a [-6-]{+OMS (201+}3[-%-]{+). Por isso, o+} d[-e-]{+iag+}n{+ós+}t[-r-]{+ic+}o de [-5 a-]{+DG+} [-16-]{+deve+} [-ano-]s[-, -]{+e+}r[-azã-]{+ feit+}o {+a+}pe[-l-]{+n+}a{+s+} [-qu-]{+n+}a[-l-]{+s+} {+g+}es[-sas p-]{+t+}a[-cie-]ntes [-merec-]{+qu+}e[-m-] [-o-]{+ap+}r[-i-]{+es+}ent[-açõ-]e{+m o+}s [-p-]{+v+}a{+lo+}r[-a-]{+es+} {+a+}pre[-v-]{+s+}en[-çã-]{+tad+}o{+s+} [-d-]{+na Tab+}e{+la+} [-DM-]{+1+}2{+,+} [-e -]{+b+}a[-comp-]{+st+}an[-h-]{+do 1 dos v+}a[-m-]{+lor+}e[-n-]{+s al+}t{+erados n+}o {+TTG 75g para +}c[-u-]{+onf+}i[-d-]{+rm+}a[-d-]{+r +}o{+ diagnó+}s{+tic+}o.
+
+{+D - Acompanhamento pós-gestacional+}
+{+Após o término da gravidez, as pacientes com DG devem ser reavaliadas, a partir da +}6{+ª semana de puerpério, com uma gli-cemia de jejum ou um novo TTG 75g+}. {+Na maioria dos casos, há reversão para a tolerância normal a glicose após o término da gestação, mas vários estudos prospectivos mostram que o risco de evolução para DM2 é extremamente alto, de 15 a 50%, razão pela qual essas pacientes merecem orientações para prevenção de DM2 (manutenção do peso adequado, dieta equili-brada e atividade física regular, eventualmente metformina) e acompanhamento cuidadoso, com dosagem periódica da gli-cemia.+}
+
+Resumo 
+
+Quadro-resumo
+- 	O rastreamento do diabetes é recomendado para pacientes com mais de 45 anos ou com {+excesso de peso e +}fatores de risco para o desenvol[---]vimento da doença; 
+- 	O diagnóstico de DM é definido por: glicemia de jejum =126mg/dL, glicemia 2 horas após TTG =200mg/dL, A1c =6,5%, ou gli{+-+}cemia ocasional =200mg/dL em paciente com sintomas clássicos de diabetes (poliúria, polidipsia). Glicemia capilar e glicosúria não servem para o diagnóstico;
+- A positividade de quaisquer dos parâmetros diagnósticos descritos confirma o diagnóstico de diabetes. Na ausência de hiperglicemia comprovada, os resultados devem ser confirmados com a repetição dos testes;
+- 	Deve-se solicitar TTG com 75g de glicose para todos os pacientes com glicemia de jejum limítrofe (entre 100 e 125mg/dL), visto que até 25% desses indivíduos já são diabéticos (com predominância de hiperglicemia pós-prandial); 
+- 	O TTG também está bem indicado para indivíduos de mais alto risco de diabetes (presença de vários fatores de risco, histó[---]ria familiar, DM gestacional prévio, síndrome metabólica, pré-diabetes); 
+- 	Glicemia de jejum entre 100 e 125mg/dL ou glicemia 2 horas após TTG entre 140 e 199mg/dL, na ausência de critérios que confirmem diabetes, são consideradas pré-diabetes, com alto risco de evolução para DM; 
+- 	A principal medida para a prevenção do aparecimento de diabetes em pacientes pré-diabéticos é a alteração dos hábitos de vida (redução de risco de 58%), embora o uso de metformina possa ser considerado em pacientes de mais alto risco (obesos jovens ou mulheres com histórico de DG). 
+
+Resposta[-1. B-]
+
+[-Dica-]
+[-Para-] [-fix-]{+d+}a[-r o-] que[- e-]st[-ud-]{+ã+}o[-u-] [-neste-]{+do+} capítulo
+[-, teste seus conhecimentos resolvendo as questões referentes ao tema-]{+1+}.[-Questões: página XX-]
+[-Comentários: página XX-] {+B+}
