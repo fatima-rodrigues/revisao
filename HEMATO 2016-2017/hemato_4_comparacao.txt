@@ -1,8 +1,4 @@
-diff --git a/hemato_4.txt b/hemato_4.txt
-index 42bc071..4ed183d 100644
---- a/hemato_4.txt
-+++ b/hemato_4.txt
-@@ -1,26 +1,29 @@
+@@
 {+ +}Anemias [-pós-hemorrágicas e -]hiperproliferativas
 Fernanda Maria Santos[- / -]
 Marcos Laercio Pontes Reis

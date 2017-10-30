@@ -1,8 +1,4 @@
-diff --git a/hemato_9.txt b/hemato_9.txt
-index cda0160..6ab48ce 100644
---- a/hemato_9.txt
-+++ b/hemato_9.txt
-@@ -1,14 +1,17 @@
+
 Trombofilias
 Fernanda Maria Santos[- / -]
 Marcos Laercio Pontes Reis

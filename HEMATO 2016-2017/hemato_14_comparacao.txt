@@ -1,8 +1,4 @@
-diff --git a/hemato_14.txt b/hemato_14.txt
-index d83879d..d8dcb23 100644
---- a/hemato_14.txt
-+++ b/hemato_14.txt
-@@ -1,14 +1,17 @@
+
 Linfomas[- -]
 Marcos Laercio Pontes Reis[- / -]
 Fernanda Maria Santos

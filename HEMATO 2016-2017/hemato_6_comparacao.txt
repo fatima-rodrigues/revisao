@@ -1,8 +1,4 @@
-diff --git a/hemato_6.txt b/hemato_6.txt
-index 20f2b7f..37f35a1 100644
---- a/hemato_6.txt
-+++ b/hemato_6.txt
-@@ -1,45 +1,56 @@
+
 [-Abordagem in-]{+D+}i[-c-]{+stúrb+}i[-al-]{+os+} da hemostasia[- e trombose-]
 Fernanda Maria Santos[- / -]{++}
 Marcos Laercio Pontes Reis

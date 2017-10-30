@@ -1,9 +1,3 @@
-diff --git a/hemato_15.txt b/hemato_15.txt
-index c323540..529228f 100644
---- a/hemato_15.txt
-+++ b/hemato_15.txt
-@@ -1,56 +1,49 @@
-
 Mieloma múltiplo
 Fernanda Maria Santos[- / -]
 Marcos Laercio Pontes Reis

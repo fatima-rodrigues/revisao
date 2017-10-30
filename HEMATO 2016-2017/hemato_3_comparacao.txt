@@ -1,8 +1,4 @@
-diff --git a/hemato_3.txt b/hemato_3.txt
-index bd9a712..c98321f 100644
---- a/hemato_3.txt
-+++ b/hemato_3.txt
-@@ -1,32 +1,34 @@
+@@
 Anemias {+hi+}po{+p+}r[- deficiênc-]{+ol+}i[-a d-]{+f+}e[- p-]r[-odução-]{+ativas+}
 Fernanda Maria Santos[- / -]
 Marcos Laercio Pontes Reis

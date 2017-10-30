@@ -1,8 +1,4 @@
-diff --git a/hemato_5.txt b/hemato_5.txt
-index d34caac..5ae80a6 100644
---- a/hemato_5.txt
-+++ b/hemato_5.txt
-@@ -1,13 +1,16 @@
+
 Pancitopenias
 [- -]Fernanda Maria Santos[- / -]
 Marcos Laercio Pontes Reis

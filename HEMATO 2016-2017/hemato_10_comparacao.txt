@@ -1,8 +1,4 @@
-diff --git a/hemato_10.txt b/hemato_10.txt
-index a95a0f0..977f228 100644
---- a/hemato_10.txt
-+++ b/hemato_10.txt
-@@ -1,53 +1,56 @@
+@@
 Visão geral das neoplasias hematológicas
 Fernanda Maria Santos[- / -]
 Marcos Laercio Pontes Reis

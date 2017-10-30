@@ -1,8 +1,4 @@
-diff --git a/hemato_2.txt b/hemato_2.txt
-index cab89f9..7a75988 100644
---- a/hemato_2.txt
-+++ b/hemato_2.txt
-@@ -1,27 +1,30 @@
+@@
 [-A-]{+Visão global das a+}nemias
 Fernanda Maria Santos[- / -]
 Marcos Laercio Pontes Reis

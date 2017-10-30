@@ -1,8 +1,4 @@
-diff --git a/hemato_8.txt b/hemato_8.txt
-index ba8a323..7f3c139 100644
---- a/hemato_8.txt
-+++ b/hemato_8.txt
-@@ -1,268 +1,265 @@
+
 Distúrbios das hemostasias secundária e ter{+-+}ciária{++}
 Fernanda Maria Santos[- / -]{++}
 Marcos Laercio Pontes Reis{++}

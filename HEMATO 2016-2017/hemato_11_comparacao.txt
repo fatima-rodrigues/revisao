@@ -1,8 +1,3 @@
-diff --git a/hemato_11.txt b/hemato_11.txt
-index 7eb4be1..4c467e0 100644
---- a/hemato_11.txt
-+++ b/hemato_11.txt
-@@ -1,34 +1,37 @@
 Leucemias agudas[- -]
 Marcos Laercio Pontes Reis[- / -]
 Fernanda Maria Santos

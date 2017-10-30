@@ -1,8 +1,4 @@
-diff --git a/hemato_12.txt b/hemato_12.txt
-index da25500..8ca3f92 100644
---- a/hemato_12.txt
-+++ b/hemato_12.txt
-@@ -1,16 +1,19 @@
+
 Leucemias crônicas
 Marcos Laercio Pontes Reis[- / -]
 Fernanda Maria Santos

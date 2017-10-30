@@ -1,8 +1,4 @@
-diff --git a/hemato_16.txt b/hemato_16.txt
-index b94a8fa..1d7baa2 100644
---- a/hemato_16.txt
-+++ b/hemato_16.txt
-@@ -1,118 +1,106 @@
+
 
 
 Hemoterapia

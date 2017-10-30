@@ -1,8 +1,4 @@
-diff --git a/hemato_13.txt b/hemato_13.txt
-index 94b4b3d..49dd1c5 100644
---- a/hemato_13.txt
-+++ b/hemato_13.txt
-@@ -1,19 +1,22 @@
+
 Neoplasias mieloproliferativas (não LMC)
 Marcos Laercio Pontes Reis[- / -]
 Fernanda Maria Santos
