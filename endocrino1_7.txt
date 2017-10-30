@@ -1,0 +1,387 @@
+Obesidade
+									Leandro Arthur Diehl
+Rodrigo Antônio Brandão Neto 
+
+Resumo
+Neste capítulo, será apresentado um dos maiores problemas de saúde publica atual, bem como aspectos de sua etiologia, complicações e o seu manejo farmacológico e cirúrgico atual. A obesidade é diagnosticada pelo Índice de Massa Corpó-rea (IMC – peso em kg dividido pelo quadrado da altura em metros). Valores entre 18,5 e 24,9kg/m2 consideraremos normais. Um IMC entre 25 e 29,9kg/m2 definiremos como sobrepeso e IMC =30kg/m2, obesidade propriamente dita (sen-do obesidade leve ou classe I, IMC entre 30 e 34,9kg/m2; moderada ou classe II, IMC entre 35 e 39,9kg/m2; e grave ou classe III, IMC =40kg/m2). Em crianças e adolescentes, o diagnóstico de sobrepeso é realizado pelo percentil de IMC com-parado à média de crianças do mesmo sexo e faixa etária. Considera-se normal percentil até 85; sobrepeso, entre 85 e 95; e obesidade, percentil >95. Nos últimos anos, tem havido um expressivo aumento na prevalência de obesidade em todo o mundo, com tendência a continuar aumentando. A obesidade localizada na região abdominal (androide) é a que se associa ao maior risco de doenças cardiovasculares e de Diabetes Mellitus (DM) tipo 2, notando-se risco elevado em homens com circunferência abdominal acima de 94cm e mulheres acima de 80cm. Pacientes obesos são muito mais acometidos por complicações metabólicas, cardiovasculares, respiratórias (apneia do sono), hepáticas (esteatose hepáti-ca), osteoarticulares, litíase biliar, algumas neoplasias e transtornos psiquiátricos. O tratamento da obesidade deve sem-pre incluir recomendações para mudanças nos hábitos alimentares, prática de atividade física e psicoterapia comporta-mental se necessário. Medicações são indicadas a pacientes com IMC >30kg/m2 ou IMC >25kg/m2 na presença de comor-bidades importantes, sempre em conjunto com as mudanças do estilo de vida. Sibutramina e orlistate são as drogas antio-besidade mais utilizadas, levando a perda de peso e diminuição das complicações da obesidade. O tratamento cirúrgico está indicado a casos de obesidade grave, em que o risco de complicações do excesso de peso é maior do que o risco do próprio procedimento cirúrgico, ou seja, IMC =40kg/m2, ou IMC =35 na presença de comorbidades graves, em casos de obesidade com mais de 5 anos de duração, após falha do tratamento clínico por ao menos 2 anos, e na ausência de con-traindicações ao procedimento (alcoolismo, drogadição, transtornos psiquiátricos graves, alto risco cirúrgico). A técnica de Fobi-Capella é bastante usada, procedimento misto que reúne características restritivas (redução do volume gástrico) e disabsortivas (desvio do trânsito do intestino delgado, com anastomose em Y de Roux). Com mortalidade <1% nas mãos de cirurgiões experientes, a perda média é de 35 a 40% do peso inicial em 1 a 2 anos.
+
+1. Introdução
+
+Obesidade, segundo definição da Organização Mundial da Saúde (1998), é o acúmulo anormal ou excessivo de gordura corpórea, até um nível em que a saúde seja comprometida. Trata-se de uma doença crônica complexa e multifatorial, com importante aumento do risco de complicações, como diabetes mellitus tipo 2, doenças cardiovasculares, osteoartropatias degenerativas, neoplasias etc. 
+
+2. Diagnóstico
+
+Há vários métodos para diagnosticar o excesso de gordura corpórea, como a densitometria (DEXA), a bioimpedância, a medição da água corpórea total usando isótopos marcados e outros (determinação da densidade corpórea por imersão em água, tomografia, ultrassonografia etc.), que, em geral, são restritos a situações de pesquisa devido ao seu alto custo. 
+O método mais simples, econômico e prático para o diagnóstico da obesidade é a determinação do chamado Índice de Massa Corpórea (IMC), calculado pela seguinte fórmula: 
+
+IMC = peso (em kg) dividido pelo quadrado da altura 
+(em metros)
+
+Pela sua simplicidade, o IMC é o meio mais utilizado atualmente para o diagnóstico clínico da obesidade. Apesar de apre-sentar alguns problemas, como o fato de não ser capaz de distinguir a composição corpórea (indivíduos extremamente mus-culosos, por exemplo, podem apresentar IMC alto, apesar de apresentarem baixa porcentagem de gordura corpórea) e de ser falsamente elevado em situações como anasarca ou cifose, apresenta boa correlação com o risco de doenças associadas a obesidade (diabetes, hipertensão, osteoartrose, doença cardiovascular) e mortalidade (aumenta progressivamente a partir de 30kg/m2). Em indivíduos com IMC de 35 ou mais, o risco de morte prematura é 2 vezes maior do que o de pessoas magras. Mulheres obesas com IMC acima de 40, por sua vez, têm risco 13 vezes maior de morte súbita. No estudo de Framingham, homens com excesso de peso apresentaram taxa de mortalidade quase 4 vezes maior do que homens com peso normal.
+
+Tabela 1 - Classificação do peso corpóreo segundo o índice de massa corpórea
+IMC (kg/m2)	Diagnósticos
+<18,5	Baixo peso
+18,5 a 24,9	Normal
+25 a 29,9	Sobrepeso
+30 a 34,9	Obesidade classe I
+35 a 39,9	Obesidade classe II
+=40	Obesidade classe III
+Observação: alguns autores também incluem a categoria Obesidade classe IV, ou Superobesidade, para indivíduos com IMC =50. 
+
+Um método relativamente simples de avaliação da composição corpórea, muito utilizado por nutricionistas e outros profis-sionais da área de saúde, é a plicometria, em que é realizada a aferição da espessura das pregas cutâneas em vários pontos padronizados, com os valores comparados a uma tabela para obter a porcentagem de gordura corpórea do indivíduo. 
+Outra técnica que pode avaliar essa porcentagem é a bioimpedância. Considera-se normal, no homem, um percentual de gordura corpórea entre 18 e 25%, e na mulher, entre 20 e 30%. Pode-se considerar obeso o homem com mais de 25% de gordura corpórea e a mulher com mais de 30%.
+Vários trabalhos demonstraram que a obesidade localizada principalmente na região abdominal ou acima da cintura, cha-mada androide, centrípeta ou central, está relacionada a maior risco de complicações metabólicas e cardiovasculares; ao contrário da obesidade que se concentra principalmente na região coxofemoral, ou obesidade ginecoide, que se associa, predominantemente, a problemas musculoesqueléticos e insuficiência venosa nos membros inferiores. 
+A obesidade androide, apesar do nome, não é exclusiva do sexo masculino, assim como a obesidade ginecoide pode ser encontrada em homens. A primeira se deve ao acúmulo de gordura preferencialmente na região abdominal (subcutânea e visceral – no omento e no mesentério), enquanto a segunda se deve ao acúmulo predominante de tecido adiposo subcutâ-neo em quadris, nádegas e coxas. 
+A tomografia e a ressonância magnética são os métodos mais acurados para a mensuração da gordura visceral, mas têm al-to custo. Por isso, a medida da circunferência abdominal é, em geral, utilizada na prática clínica como medida indireta da gor-dura visceral. Considera-se normal circunferência abdominal <94cm (em homens) ou <80cm (em mulheres), embora esses valores de referência possam variar dependendo da população (etnia) estudada. A circunferência abdominal está fortemente associada ao risco de eventos cardiovasculares, como já foi demonstrado por vários estudos (Tabela 2). Homens com cintura >102cm apresentam risco 4,6 vezes maior de, pelo menos, 1 fator de risco cardiovascular, o que também é observado em mulheres com cintura >88cm (risco 2,6 vezes maior). 
+
+Tabela 2 - Risco de complicações cardiovasculares associado à circunferência abdominal
+	Homens	Mulheres
+Elevado	Cintura >94cm	Cintura >80cm
+Muito elevado	Cintura >102cm	Cintura >88cm
+
+A Relação Cintura–Quadril (RCQ) também tem correlação significativa com o risco de complicações cardiovasculares e me-tabólicas da obesidade. Considera-se aumentada RCQ >0,85 em mulheres e >0,9 em homens.  
+Em crianças, o diagnóstico é feito pelo percentil do IMC, ou seja, pela comparação do IMC da criança com a média de IMC de crianças do mesmo sexo e da mesma faixa etária. Define-se obesidade quando a criança está com um percentil do IMC =95 e sobrepeso quando esse percentil está entre 85 e 95. Os dados mais comumente utilizados para comparação em crianças são os do Centers for Disease Control and Prevention americano (CDC, 2000), na forma de gráficos (curvas) nas Figuras 1 e 2.
+ 
+Figura 1 - Distribuição do índice de massa corpórea na faixa etária de 2 a 20 anos, sexo feminino (Centers for Disease Control and Pre-vention, 2000)
+
+ 
+Figura 2 - Distribuição do índice de massa corpórea na faixa etária de 2 a 20 anos, sexo masculino (Centers for Disease Control and Pre-vention, 2000)
+
+3. Epidemiologia
+
+Atualmente, a obesidade é uma das condições mais comuns no atendimento médico primário. Sua prevalência vem au-mentando expressivamente nas últimas décadas (praticamente triplicou, desde 1980), tanto em países desenvolvidos quanto em países em desenvolvimento. O excesso de peso, portanto, é um dos principais problemas de saúde pública neste começo do século XXI, visto que, atualmente, mais de 1,6 bilhão de adultos encontra-se acima do peso ideal (300 milhões de obesos). 
+O fenômeno caracterizado pela coexistência, num mesmo período, de casos de obesidade (geralmente, em adultos) e desnutrição (em geral, em crianças), observado em vários países pobres, é conhecido como transição nutricional e denota o acesso da população carente a alimentos de baixa qualidade (ricos em carboidratos e gorduras, mas pobres em proteínas e oligoelementos de maior valor nutritivo).
+No Brasil, o excesso de peso já é o transtorno nutricional mais prevalente, ultrapassando em muito os números da desnu-trição. Cerca de 52% da população adulta do Brasil (quase 70 milhões de pessoas) estão acima do peso, e aproximadamente 18% apresentam obesidade, segundo dados do estudo Vigitel, de 2014. Essa prevalência vem crescendo significativamente nas últimas décadas (em 2011, por exemplo, eram 49% com excesso de peso e 16% com obesidade). Por outro lado, o baixo peso corpóreo (indicativo de desnutrição) é observado em apenas 4% dos adultos brasileiros, segundo a Pesquisa de Orça-mentos Familiares divulgada pelo IBGE em 2003 (Tabela 3). 
+
+Tabela 3 - Prevalência de baixo peso, sobrepeso ou obesidade entre adultos brasileiros, comparando diferentes momentos 
+Diagnósticos	Homens (%)	Mulheres (%)
+	1974 a 1975	1989	2002 a 2003	2011	2013	2014	1974 a 1975	1989	2002 a 2003	2011	2013	2014
+Baixo peso	7,2	3,8	2,8	--*	--*	--*	10,2	5,8	5,4	--*	--*	--*
+Excesso de peso	18,6	29,5	41	52	54,7	56,5	28,6	40,7	39,2	45	47,4	49,1
+Obesidade	2,8	5,1	8,8	16	17,5	18,2	7,8	12,8	12,7	16	17,5	18,2
+* A prevalência de baixo peso não foi avaliada no Vigitel.
+
+Também no Brasil, as maiores prevalências de obesidade atualmente são observadas entre homens com renda familiar per capita superior a 5 salários mínimos. Enquanto uma tendência de crescimento da prevalência de obesidade, no momento, está sendo observada entre homens de todas as classes sociais e regiões do país, entre as mulheres essa tendência de cres-cimento está restrita às classes sociais mais baixas na região Nordeste. Entre mulheres de outras regiões e classes sociais, a prevalência vem se estabilizando ou, até mesmo, declinando nos últimos anos.
+Nos Estados Unidos, um dos países com mais obesos no mundo, cerca de 80% da população apresentam excesso de peso, 35% apresentam obesidade, e 5% obesidade classe III (antigamente conhecida como obesidade mórbida). No mesmo país, o gasto com o tratamento da obesidade e suas complicações corresponde a 6% dos gastos totais com saúde, que equivalem a um montante superior a 3 bilhões de dólares ao ano. 
+Outras regiões em que houve um aumento expressivo da prevalência de obesidade nas últimas décadas, além da América do Norte, foram as ilhas de Samoa (onde 75% dos adultos são obesos), leste da Europa, Austrália, China e Oriente Médio.
+Se nenhuma medida efetiva for tomada para conter o avanço da obesidade, será provável que o número de obesos dobre em todo o mundo até 2025, segundo estimativas da Organização Mundial da Saúde, passando a afetar mais de 50% dos adul-tos nos Estados Unidos e mais de 30% dos adultos no Brasil.
+A pandemia de obesidade atinge adultos, adolescentes e crianças de ambos os sexos e de todas as classes socioeconômi-cas. Estudos observacionais realizados nos Estados Unidos mostram que o número de crianças obesas aumentou 2 vezes, e o de adolescentes obesos, 3 vezes desde 1980. Naquele país e em vários outros, observa-se, ainda, aumento na incidência das doenças relacionadas à obesidade nessa faixa etária, como diabetes tipo 2, dislipidemia, esteato-hepatite não alcoólica, ap-neia do sono, entre outras. 
+A obesidade paterna é um fator de risco importante para obesidade infantil – 2/3 das crianças com ambos os pais obesos serão obesas, comparados a 50% quando apenas 1 dos pais é obeso e 10% quando ambos os pais são magros. O risco de um paciente continuar obeso na vida adulta é de 50% se ele era obeso na infância, e 80% se ele era obeso na adolescência.
+
+Pergunta
+2015 - UERN
+1. Sobre a obesidade, assinale a alternativa correta:
+a) o determinante mais imediato da obesidade é o balanço energético positivo
+b) a obesidade pode ser compreendida como um agravo de caráter unifatorial
+c) o SISVAN tem o objetivo de fazer o diagnóstico descritivo e analítico da situação alimentar e nutricional apenas da popu-lação obesa do Brasil
+d) a simples medida da gordura corpórea está mais relacionada com a variação de risco de adoecer e morrer do que a distribuição regional de gordura
+Resposta no final do capítulo
+
+4. Regulação do peso corpóreo
+
+O peso corpóreo é estreitamente regulado em humanos por um complexo sistema que envolve, principalmente, o hipotá-lamo, o tecido adiposo e o trato gastrintestinal. Um grande número de moléculas contribui para tal regulação, e citaremos as principais delas.
+
+A - Hipotálamo
+Trata-se do centro da regulação do peso corpóreo, em que são recebidos e integrados os sinais vindos da periferia e emi-tidos sinais químicos e nervosos que regularão a fome e o gasto energético basal. Há 2 sistemas antagônicos e complementa-res no hipotálamo, conforme exposto na Tabela 4. 
+
+Tabela 4 - Vias nervosas hipotalâmicas responsáveis pela regulação do peso corpóreo
+“Via catabólica” – neurônios secretores de POMC e CART 
+- Envolvem: neurônios que secretam pró-opiomelanocortina (POMC) e transcrito relacionado à cocaína e à anfetamina (CART), bem como o hormônio estimulador da melanina (alfa-MSH);
+- São neurônios estimulados pela leptina, dentre outros;
+- Levam a aumento do gasto energético (termogênese), diminuição do apetite e, consequentemente, perda de peso (correspondendo à via catabólica);
+- Localizam-se, predominantemente, na área ventromedial do hipotálamo (antigamente denominada área da saciedade);
+- Lesões na área ventromedial acarretam hiperfagia e obesidade;
+- Os que são estimulados pela leptina (entre outros) levam a aumento do gasto energético (termogênese).  
+“Via anabólica” – neurônios secretores de NPY e AgRP
+- Envolvem: neurônios que secretam neuropeptídio Y (NPY) e proteína relacionada ao agouti (AgRP);
+- São estimulados pela grelina e inibidos pela leptina (entre outros);
+- Levam a redução do gasto energético, aumento do apetite e consequente ganho de peso (via anabólica); 
+- Também estão localizados na área ventromedial do hipotálamo (núcleos ventromedial e arqueado).
+
+Outra região do hipotálamo essencial para a regulação do peso é a área lateral que, juntamente com o núcleo paraventri-cular, recebe aferentes da área ventromedial. A área lateral do hipotálamo integra os sinais das vias catabólica e anabólica. O NPY e a AgRP (sinais anabólicos) inibem a ativação dos receptores da melanocortina (MC4R e MC3R), enquanto a POMC/alfa-MSH e o CART (sinais catabólicos) aumentam a atividade desses receptores. A ativação de MC4R no núcleo paraventricular e na área lateral leva a saciedade, e a ativação de MC3R aumenta o gasto energético. Lesões na área lateral do hipotálamo cos-tumam cursar com hipofagia, perda de peso e redução do crescimento.
+
+B - Tecido adiposo
+O tecido adiposo é o local onde é armazenada energia. Quando a ingesta calórica diária é igual ao gasto energético (em número de calorias), a reserva de energia do corpo é mantida constante, e não há variação do peso corpóreo. Por outro lado, quando a ingesta excede o gasto (entrada de calorias pela dieta ? gasto de calorias pelo metabolismo basal + atividade física + efeito termogênico dos alimentos), ocorre o balanço energético positivo, e as calorias excedentes são transformadas em triglicérides e armazenadas nos adipócitos. 
+Além da sua função como reserva de energia na forma de triglicérides, as células adiposas têm um importante papel na regulação do metabolismo, por intermédio da secreção de várias substâncias com ação endócrina, dentre elas a leptina e a adiponectina. Quanto maior a quantidade de tecido adiposo, maiores os níveis plasmáticos de leptina e menores os de adipo-nectina.
+A leptina é ligada aos receptores no hipotálamo, em que ocasiona diminuição do apetite e aumento do gasto calórico. Grande parte dos humanos obesos apresenta altos níveis de leptina sérica, indicando possível resistência hipotalâmica ao hormônio.
+A adiponectina é produzida pelos adipócitos em quantidade inversamente proporcional à porcentagem de gordura cor-pórea em adultos. Baixos níveis de adiponectina, como os encontrados em humanos obesos, aumentam a resistência a insuli-na e estão associados ao Diabetes Mellitus (DM) tipo 2 e aos demais componentes da síndrome metabólica. 
+Quando há excesso de gordura corpórea, aumenta também a produção de outras substâncias bioativas pelos adipócitos, como resistina, fator de necrose tumoral alfa (TNF-alfa), interleucina-6, inibidor do ativador do plasminogênio-1 (PAI-1) e outras citocinas, as quais podem contribuir para aumentar o risco de diabetes e doença cardiovascular em obesos.
+
+C - Trato gastrintestinal
+O trato gastrintestinal produz várias substâncias que ajudam a regular o peso corpóreo. Na situação de jejum, as células do fundo gástrico secretam altos níveis de grelina, que age no hipotálamo estimulando o apetite e a busca por alimento, além de estimular a secreção de hormônio de crescimento (GH) pela hipófise. Os níveis de grelina caem rapidamente logo após uma refeição e também na cirurgia bariátrica (Fobi-Capella).
+No período pós-prandial imediato, ocorre, além da redução dos níveis de grelina, aumento pronunciado da concentração plasmática de insulina, colecistocinina, peptídio YY3-36 e peptídio glucagon-like 1 (GLP-1), entre outros, que inibem o apetite, retardam o esvaziamento gástrico e aumentam ligeiramente o gasto energético. 
+Uma importante consequência da complexidade do mecanismo regulatório do peso corpóreo é a sua tendência a manter o peso constante em longo prazo, apesar de existirem pequenas variações no consumo calórico e no gasto energético em curto prazo. Além disso, vários estudos indicam que a resposta adaptativa à perda de peso costuma ser muito mais vigorosa, em humanos, do que a resposta ao ganho de peso. Um obeso que começa a perder peso com uma dieta hipocalórica, por exemplo, pode ter redução em torno de 8kcal/kg de massa magra ao dia no seu gasto energético, dificultando a perda de peso adicional. No jejum prolongado ou em uma restrição calórica importante, essa queda do metabolismo basal pode chegar a 30%. Esse é um dos fatores responsáveis pela recuperação de peso em grande parcela dos obesos, após a perda de alguns quilos com a restrição calórica.
+
+Tabela 5 - Principais moléculas produzidas fora do sistema nervoso central e envolvidas na regulação do peso corpóreo e do metabolis-mo 
+Moléculas	Onde são produzidas	Funções fisiológicas	Como estão na obesidade
+Grelina	Fundo gástrico	Estímulo ao apetite no período pré-prandial e
+à secreção de GH	Sem alterações
+Leptina	Tecido adiposo	Sinalização ao hipotálamo do “estoque” de gordura corpórea	Aumentada (humanos obesos frequentemente são resistentes a leptina)
+Adiponectina	Tecido adiposo	Estimulo à sensibilidade a insuli-na	Diminuída
+Insulina	Pâncreas	Estimulo à captação de glicose pelos tecidos periféricos	Aumentada (humanos obesos frequentemente são resistentes a insulina)
+Colecistocinina, PYY3-36	Intestino delgado	Inibição do apetite e retardo do esvaziamento gástrico	Sem alterações
+
+ 
+Figura 3 - Modelo neuroendócrino da regulação do peso corpóreo
+Fonte: SCHWARTZ et al. 
+
+5. Por que há tantos obesos?
+
+A obesidade é uma doença multifatorial, causada, na grande maioria, pela interação entre fatores ambientais (representa-dos pelos hábitos de vida) e pela predisposição genética do indivíduo.
+
+A - Fatores ambientais e de comportamento
+O equilíbrio entre a ingesta e o gasto energético é muito delicado, portanto pequenas flutuações em um desses compo-nentes podem levar a variação importante do peso ao longo do tempo. Como exemplo, podemos citar que o aumento de 1% na ingesta calórica diária leva ao ganho médio de 1kg/ano. Nas últimas décadas, com a industrialização e a urbanização, os indivíduos assumiram trabalhos mais sedentários e novas atividades de lazer (televisão, computador etc.), com importante redução do gasto energético diário. Nunca houve tantas opções de alimentos tão densamente calóricos, com alto conteúdo de gorduras e alto índice glicêmico, que, caracteristicamente, estão prontos para consumo no trabalho, no descanso, no au-tomóvel etc. Além disso, são pouco custosos, livremente disponíveis e altamente palatáveis, devido à gordura e ao açúcar, levando à tendência de consumo maior do que o necessário. Uma pesquisa do IBGE sobre o padrão alimentar do brasileiro mostrou que, de 1974 a 2003, houve um aumento de 50% no consumo de carnes, 16% no consumo de óleos vegetais, 80% no consumo de refeições prontas e 400% no consumo de biscoitos. Erros alimentares comuns no Brasil são o excesso de açúcar refinado (responsável por 13% da ingesta calórica diária, em média) e o baixo consumo de frutas e verduras. O estudo Vigitel, de 2011, mostrou que o brasileiro consome largas quantidades de refrigerantes, carnes e leite integral.
+
+B - Genética
+É possível que características genéticas influenciem o crescente número de pessoas obesas. Isso se explica pelo fato de que, na Pré-História (antes do advento da agricultura e da pecuária), os indivíduos com maior facilidade para engordar e me-nor gasto energético basal (o chamado fenótipo poupador, ou thrifty phenotype) conseguiram sobreviver melhor aos fre-quentes períodos de escassez alimentar e reproduzir-se. Com isso, houve uma pressão evolutiva, selecionando indivíduos com maior facilidade para ganhar peso. 
+Algumas causas de obesidade monogênica (derivadas de mutações em um único gene) já foram identificadas. A mais co-mum em humanos é a mutação do MC4R (presente em, aproximadamente, de 2 a 3% dos obesos). Mutações do gene e do receptor da leptina também podem causar obesidade, potencialmente tratável com a reposição de leptina recombinante humana.
+Sabe-se, ainda, que algumas síndromes genéticas costumam apresentar a obesidade como uma das suas características mais marcantes. É o caso da síndrome de Prader-Willi, causa mais comum de obesidade sindrômica, que cursa com hipogona-dismo, deficiência de GH e hiperfagia e obesidade severas. 
+
+C - Causas hormonais
+O excesso de peso pode ser facilitado por alterações hormonais. O hipotireoidismo, por exemplo, pode associar-se a dis-creto ganho de peso (3 a 5kg), por redução de gasto energético de repouso e retenção líquida, mas geralmente cursa com hiporexia, portanto não é uma causa comum de obesidade. 
+Outras deficiências hormonais podem ser associadas à diminuição da atividade metabólica, como ocorre no pan-hipopituitarismo, no hipogonadismo e na deficiência de GH. 
+O excesso hormonal também pode levar a aumento de peso. O exemplo mais típico é o hipercortisolismo (síndrome de Cushing), que, tipicamente, leva ao depósito de gordura centrípeta, com os membros afinados pelo consumo muscular. A acromegalia também se associa frequentemente a ganho de peso excessivo.
+
+D - Outras causas 
+Várias medicações predispõem a ganho de peso, devido ao aumento do apetite ou à redução da saciedade (exemplo: psi-cotrópicos), ou efeito anabólico direto (exemplo: insulina). Lesões hipotalâmicas (como as decorrentes de um macroadenoma hipofisário ou do seu tratamento, por exemplo) podem perturbar a regulação normal do gasto energético e do apetite e de-terminar obesidade por vezes severa. A Tabela 6 apresenta uma relação das principais causas de obesidade secundária em humanos.
+
+Tabela 6 - Principais causas de obesidade secundária
+Causas genéticas
+- Monogênicas: mutações no gene do MC4R (mais comum), leptina, receptor da leptina, POMC, PPAR-gama, peptídio YY, CCKR;
+- Síndromes associadas à obesidade: Prader-Willi, Bardet-Biedl, X frágil, osteodistrofia hereditária de Albright, Ahlstrom, Cohen. 
+Endocrinopatias
+- Pan-hipopituitarismo; 
+- Hipogonadismo; 
+- Deficiência de GH; 
+- Síndrome de Cushing; 
+- Acromegalia; 
+- Insulinoma; 
+- Hipotireoidismo (geralmente causa discreto ganho de peso, da ordem de 3 a 5kg).
+Uso de medicamentos
+- Corticosteroides; 
+- Psicotrópicos: antidepressivos tricíclicos, paroxetina, mirtazapina, benzodiazepínicos, antipsicóticos, lítio; 
+- Anticonvulsivantes: valproato, gabapentina, carbamazepina; 
+- Antidiabéticos: insulina, sulfonilureias;
+- Outros: ciproeptadina, betabloqueadores.
+Lesões hipotalâmicas
+
+6. Complicações 
+
+Importante
+A obesidade é uma doença, e as suas principais complicações são metabólicas, as quais aumentam o risco cardiovascular, osteoarticular, transtornos psiquiátricos e neoplasias (mama, rins, endométrio, cólon).
+
+A Organização Mundial da Saúde definiu a obesidade como uma doença pelas importantes repercussões do excesso de peso sobre a morbimortalidade e a qualidade de vida do indivíduo e pelo grande impacto em saúde pública.
+As complicações do excesso de peso são mais graves quanto maior é o grau de obesidade. As principais comorbidades re-lacionadas são as complicações metabólicas: resistência a insulina, hiperinsulinemia, DM2, dislipidemia (hipertrigliceridemia, baixo HDL e aumento das partículas pequenas e densas de LDL) e Hipertensão Arterial Sistêmica (HAS), que aumentam muito o risco de morbidade e mortalidade cardiovascular. A associação de todos esses fatores de risco cardiovascular configura a síndrome metabólica. Outras complicações extremamente comuns são a doença cardíaca e a colecistopatia litiásica.
+Homens costumam apresentar acúmulo de gordura, principalmente na região do abdome (obesidade centrípeta – visce-ral), que cursa com aumento da resistência insulínica e do risco cardiovascular. Por outro lado, mulheres costumam ter maior acúmulo de tecido adiposo na região do quadril e das coxas (obesidade centrífuga – subcutânea), com maior risco de doenças osteoarticulares (artrose de joelhos e quadris) e varizes nos membros inferiores. Algumas neoplasias (mama, rins, endomé-trio, cólon) são mais comuns em obesos. Podem ocorrer transtornos psiquiátricos como ansiedade, depressão, desajuste social, estigmatização e isolamento nessa população.
+
+A - Hipertensão arterial sistêmica
+Há relação direta entre o IMC e a pressão arterial, comprovada por grandes estudos clínicos, e a prevalência de hiperten-são aumenta linearmente com a obesidade. Há referências de que até 50% da população de obesos apresentem níveis pres-sóricos acima do normal ou estão em tratamento para HAS, com prevalência 2 vezes maior do que as pessoas com IMC nor-mal. Estima-se que, para cada quilo de peso acima do normal, o risco de hipertensão aumenta em 4%. 
+
+B - Dislipidemia
+Vários estudos mostram que o IMC se correlaciona de forma linear com colesterol total, colesterol LDL e triglicérides plasmáticos, além da correlação inversa com o colesterol HDL. Enquanto o ganho de peso na vida adulta se associa ao desen-volvimento de um perfil lipídico aterogênico (aumento do colesterol total e dos triglicérides, elevação discreta do colesterol LDL e mudança do padrão do LDL com o predomínio das partículas menores e mais densas – tipo B –, e redução do colesterol HDL), a perda de peso, por outro lado, geralmente provoca redução de triglicérides e LDL e aumento do HDL. 
+
+C - Resistência a insulina e diabetes mellitus
+O aumento do tecido adiposo central (visceral) apresenta relação direta com a resistência insulínica e a hiperinsulinemia. A resistência a insulina, provavelmente, é a anormalidade mais comumente encontrada em associação à obesidade central, pela maior liberação de ácidos graxos livres pela gordura visceral, redução da adiponectina e aumento de citocinas inflamató-rias (exemplo: TNF-alfa). 
+Vários estudos mostram forte associação entre o IMC e o risco de DM2. Mulheres com sobrepeso, por exemplo, têm risco 8 vezes maior, enquanto mulheres com IMC acima de 35kg/m2 têm aumento de risco de 39 vezes. 
+
+D - Doença cardiovascular
+O risco de aterosclerose está aumentado, principalmente em níveis de IMC maiores que 23kg/m2 em homens e 22kg/m2 em mulheres. Já o risco de doenças tromboembólicas também é aumentado e pode estar relacionado aos estados pró-inflamatório e pró-trombótico associados a resistência insulínica, obesidade e, finalmente, aterosclerose.
+O risco de doença cardiovascular é pelo menos 3 vezes maior em obesos do que em pessoas com IMC normal. A preva-lência de qualquer doença cardiovascular é de 37% em obesos, 21% em pacientes com sobrepeso e 10% em pacientes com peso normal. Esse aumento de risco permanece significativo mesmo após ajuste para outros fatores de risco (hipertensão, dislipidemia), o que levou a American Heart Association a declarar que a obesidade é um fator de risco independente para coronariopatia.
+O risco de tais complicações correlaciona-se bem com o conteúdo de gordura visceral abdominal e pode ser avaliado por meio da medida da circunferência abdominal. O risco cardiovascular está aumentado em homens com cintura >94cm e em mulheres com cintura >80cm e muito aumentado naqueles com cintura >102cm e naquelas com cintura >88cm.
+Obesos também apresentam o dobro de risco de insuficiência cardíaca congestiva em comparação a indivíduos com IMC normal. 
+
+E - Doenças respiratórias
+A restrição ventilatória por aumento da pressão sobre a parede torácica pode acarretar hipoventilação e maior tolerância a hipercapnia, hipóxia ou ambos (síndrome de Pickwick).
+Outra condição bastante prevalente entre obesos é a síndrome da apneia/hipopneia do sono, em que acontecem dificul-dades ventilatórias, apesar de esforços inspiratórios presentes, pela obstrução parcial ou completa das vias aéreas altas. Nes-sas situações, a hipóxia e a hipercapnia resultantes desencadeiam importante descarga adrenérgica, com consequentes picos hipertensivos (e maior risco de desenvolver HAS crônica), aumento do risco de arritmias ventriculares e morte súbita. Deve-se considerar a polissonografia a pacientes com sonolência diurna e circunferência do pescoço >40cm. A apneia obstrutiva do sono está presente em, pelo menos, 50% daqueles com IMC =40kg/m2. 
+
+F - Doenças hepáticas
+A obesidade também está relacionada a alterações da função hepática, provavelmente provocadas pela resistência a insu-lina, sendo a mais importante delas a Doença Hepática Esteatótica Não Alcoólica (DHENA), também conhecida como doença gordurosa do fígado (fatty liver disease). Dentre as alterações hepáticas que podem fazer parte da DHENA e que apresentam relação com a obesidade visceral, estão a hepatomegalia, a esteatose hepática, a Esteato-Hepatite Não Alcoólica (EHNA), fi-brose e cirrose hepáticas, e hepatocarcinoma. O grau de dano tecidual hepático se correlaciona com o IMC. Embora as ami-notransferases sejam as enzimas mais frequentemente alteradas na DHENA (principalmente a TGP), não se correlacionam com a gravidade da alteração histológica; muitos pacientes evoluem para fibrose ou cirrose com níveis de TGO e TGP dentro da normalidade. Devem-se excluir outras causas de lesão hepática (uso de álcool, hepatites virais, medicamentos, distúrbios congênitos).
+
+ 
+Figura 4 - Esteatose hepática: hiperecogenicidade do parênquima hepático e borramento das margens vasculares
+
+A DHENA é a doença hepática mais comum nos Estados Unidos, hoje, com sua frequência acompanhando o aumento alar-mante nos casos de obesidade. Estima-se que de 6 a 33% (em média, 20%) dos adultos apresentem algum grau da doença. Cursa, geralmente, de forma assintomática e costuma ser detectada por exames realizados por outros motivos (transaminases, ultrassonografia). Há discussão sobre as indicações de biópsia hepática em obesos e em indivíduos com a síndrome metabóli-ca, uma vez que pacientes acima do peso normal mostraram, à biópsia, 75% de prevalência de esteatose, 20% de esteato-hepatite e 2% de cirrose hepática oligossintomática. A prevalência de acometimento hepático é ainda maior em obesos com DM2 (70%) e/ou hipertrigliceridemia. Pode haver evolução para cirrose, com possível indicação de transplante hepático. A perda de peso, em geral, leva à regressão da maioria das alterações (exceto fibrose), mas perdas rápidas e muito pronuncia-das, como a que ocorre após a cirurgia bariátrica, ou alterações cíclicas do peso podem piorar a EHNA. Algumas medicações também podem ajudar a reduzir as alterações hepáticas, como metformina, pioglitazona, genfibrozila e atorvastatina, mas o melhor resultado é obtido com a perda de peso (pelo menos 5 a 10% de redução do peso corpóreo). Vitamina E (800mg/d) é uma boa opção em pacientes não diabéticos.
+A evolução dos pacientes com EHNA ainda não é bem definida pela literatura, mas aqueles com esteatose isolada sem fi-brose e inflamação parecem apresentar bom prognóstico. Deve-se acrescentar, porém, que a cirrose hepática é a 2ª maior causa de morte a pacientes com diagnóstico de EHNA, após as doenças cardiovasculares, com risco relativo 7 vezes maior que o da população com as mesmas características demográficas. 
+A colecistopatia litiásica é outra patologia associada à obesidade. Os cálculos costumam ser de colesterol, formados pela secreção hepática excessiva desse lipídio na bile, que fica supersaturada. O risco de colecistopatia é 3 vezes maior em obe-sos. Curiosamente, tanto a obesidade como a perda de peso podem aumentar o risco de cálculos biliares. Cerca de 10 a 25% dos obesos submetidos a dieta muito restrita acabam desenvolvendo cálculos nos primeiros meses de emagrecimento, 1/3 deles com sintomas.
+
+G - Neoplasias
+Em mulheres obesas, há aumento do risco de câncer de mama, endométrio (de 34 a 56% dos casos de neoplasia endome-trial ocorrem em obesas), ovários, cérvice, rins, vesícula biliar e cólon. Em homens, há aumento do risco de câncer de cólon, rins e, possivelmente, de próstata.
+
+H - Outras patologias
+Outras complicações associadas incluem osteoartrose de quadris e joelhos, principalmente em idosos; catarata; hiperuri-cemia e gota; refluxo gastroesofágico; em mulheres, infertilidade, irregularidade menstrual e hiperandrogenismo, relaciona-dos à Síndrome dos Ovários Policísticos (SOP); acantose nigricans; transtornos psiquiátricos (depressão, ansiedade, distúrbios alimentares) e dificuldades de ajustamento social (menor taxa de matrimônios e de maternidade).
+
+I - Mortalidade
+A obesidade reduz a expectativa de vida. O aumento de risco de morte começa a existir a partir de 25 a 29kg/m2. Assim, com IMC =30kg/m2, a mortalidade se eleva em 40 a 60%, e, com IMC =40kg/m2, é praticamente dobrada. Uma pessoa de 25 anos, com obesidade classe III, apresenta redução de 12 anos na sua expectativa de vida, em comparação a um indivíduo não obeso da mesma idade.
+Nos Estados Unidos, atualmente, 300.000 mortes ocorrem todo ano em decorrência da obesidade, tornando-a a 2ª maior causa prevenível de morte naquele país, perdendo apenas para o tabagismo. 
+
+Tabela 7 - Complicações associadas à obesidade
+Cardiovasculares	Hipertensão arterial, doença arterial coronariana, insuficiência cardíaca congestiva e insuficiência venosa
+Metabólicas	Resistência a insulina, DM2 e síndrome metabólica
+Lipídicas	Aumento dos triglicérides, redução do HDL e acúmulo de partículas de LDL pequenas e densas
+Respiratórias	Hipoventilação e hipercapnia (Pickwick) e apneia obstrutiva do sono
+Gastrintestinais	Doença gordurosa do fígado, colecistopatia litiásica e refluxo gastroesofágico
+Neoplasias	Em mulheres: mama, endométrio, ovários, cérvice, rins, vesícula biliar, cólon; em homens: cólon, rins
+Osteoarticulares	Osteoartrose de quadris, joelhos, coluna lombar; gota
+Outros	SOP, catarata, acantose nigricans, depressão e desajuste social
+Mortalidade	Redução da expectativa de vida, mais importante quanto maior o IMC (em geral, a partir de 30kg/m2), principalmente por causas cardiovasculares; maior risco de morte súbita; obesidade como 2ª maior causa de morte prevenível nos Estados Unidos
+
+7. Tratamento não farmacológico
+
+Tratamento
+O objetivo inicial do tratamento não farmacológico da obesidade é a perda de 5% do peso corpóreo em 6 meses.
+
+O tratamento da obesidade deve contemplar o paciente obeso como um todo, visando a um estilo de vida mais saudável, com redução do risco de complicações decorrentes do excesso de peso. A perda deste, mesmo modesta, pode produzir melhoras clínicas significativas nos controles pressórico, lipídico e glicêmico, com melhor qualidade de vida. 
+O objetivo ideal seria a normalização do IMC em todos os casos, mas nem sempre essa é uma meta possível; por isso, ge-ralmente se estabelece, como objetivo razoável, a perda de 5% do peso inicial em 6 meses. Uma perda de 10% do peso inicial é considerada ótima.  
+O principal componente do tratamento, que deve ser orientado para qualquer grau de obesidade, é a mudança dos hábi-tos de vida, expostos a seguir.
+
+A - Reeducação alimentar 
+A diminuição do número médio de calorias ingeridas no dia é o principal determinante dietético da perda de peso. O pa-ciente deve aprender a alimentar-se de forma nutricionalmente equilibrada, com restrição calórica moderada (de 500 a 1.000 calorias/dia, na ingesta), preferencialmente em longo prazo, visando a um balanço energético negativo. 
+Durante muito tempo, acreditou-se que, para um indivíduo perder 1kg de peso corpóreo, deveria simplesmente acumular um déficit calórico de, aproximadamente, 7.000 calorias. Assim, em pacientes estáveis em seu peso, uma dieta com 600 calo-rias a menos do que a ingestão habitual levaria à perda de 1kg em cerca de 10 dias. Apesar de esse modelo teórico ser sim-ples e atraente, as evidências científicas mostram que há mais variáveis envolvidas no processo, fazendo com que a determi-nação do peso perdido seja um pouco mais complexa. 
+Por exemplo, quando um indivíduo começa a restringir a ingesta de calorias e/ou aumentar sua atividade física, implemen-tando um balanço calórico negativo por alguns dias, há uma readaptação do gasto energético corpóreo, que tende a diminuir, bem como do apetite, que tende a aumentar. Ao mesmo tempo, a perda de alguns quilogramas já provoca redução da quan-tidade de calorias necessárias para efetuar um mesmo exercício físico. Portanto, em geral, depois que o indivíduo perde algum peso, nas primeiras semanas, com relativa facilidade, surge um mecanismo de compensação, que determina que a velocidade de perda de peso diminui dali em diante. 
+Dietas com restrição calórica moderada (reduzindo de 500 a 1.000kcal/dia) são geralmente mais fáceis de implementar e seguir. No entanto, dietas mais restritivas, que podem chegar a consumo extremamente baixo de calorias (por exemplo, 800kcal/dia), podem causar perda de peso inicial mais rápida e ser utilizadas em alguns casos. No entanto, a perda de peso média, em um prazo mais longo (6 meses ou 1 ano depois) é praticamente a mesma com dietas de restrição calórica modera-da ou intensa. 
+Em geral, é mais fácil diminuir o valor calórico da dieta restringindo os alimentos de maior densidade calórica, como os doces e as gorduras. Existem várias dietas “da moda”, com restrições de componentes dietéticos diferentes, mas a eficácia de todas as diferentes dietas parece ser a mesma em longo prazo (após 6 meses a 1 ano), caso o consumo calórico total seja semelhante entre elas.
+
+B - Atividade física regular 
+Evita a perda de massa magra (músculo) que, normalmente, ocorre com a restrição calórica e ajuda a manter um gasto energético adequado, além de melhorar a capacidade física e produzir impacto positivo sobre os fatores de risco cardiovas-cular. Mesmo que o indivíduo obeso não perca muito peso, se ele começar a exercitar-se, terá saúde melhor. São recomen-dadas atividades moderadas, de baixo impacto, durante 30 a 60 minutos, na maior parte dos dias da semana. Também ajuda a prevenir a recuperação de peso após perda significativa (ou seja, ajuda na manutenção do peso em longo prazo). 
+
+C - Psicoterapia comportamental 
+Auxilia no controle dos estímulos que desencadeiam a busca por alimento, no manejo do estresse e na prevenção de re-caídas. Os suportes social e familiar são importantes. 
+
+8. Farmacoterapia
+
+Está indicada para os pacientes com IMC acima de 30kg/m2 ou aos pacientes com IMC acima de 25kg/m2 que apresentem comorbidades importantes relacionadas ao excesso de peso. Deve ser iniciada sempre em conjunto com a orientação das mudanças do estilo de vida e reservada àqueles que não conseguiram atingir seus objetivos de tratamento com dieta, exercí-cio e terapia comportamental. Uma orientação fundamental sobre medicações para perda de peso é que jamais devem ser usadas isoladamente, mas integradas ao tratamento completo, juntamente com a orientação das mudanças do estilo de vida e o tratamento das comorbidades. Além disso, sempre devem ser prescritas e acompanhadas por um médico com experiência no uso desses medicamentos. 
+Todas as medicações disponíveis atualmente produzem um efeito transitório sobre o peso, com habitual recuperação após a suspensão da droga, por isso a mudança de hábitos é fundamental. Alguns autores sugerem o uso prolongado de me-dicações antiobesidade (visto que se trata de uma doença crônica), uma vez que o uso desses medicamentos por períodos prolongados (2 a 3 anos) pode reduzir a recuperação tardia do peso, observada em >90% dos submetidos a tratamento clíni-co.
+No entanto, tais medicações podem se associar a efeitos adversos significativos. O relato de efeitos adversos psiquiátricos e cardiovasculares dos anorexígenos (femproporex, anfepramona e mazindol), por exemplo, motivou a Anvisa a proibir sua comercialização no Brasil em dezembro de 2011. No entanto, em 2013, foi aprovado no Congresso Nacional o Projeto de Decreto Legislativo (PDC) 1.123/2013, que liberou novamente a comercialização desses anorexígenos em território nacional. Apesar de liberados para comercialização, os anorexígenos não estão disponíveis nas farmácias brasileiras, provavelmente por falta de interesse comercial dos laboratórios farmacêuticos.
+Os medicamentos atualmente disponíveis no país para tratamento da obesidade são os apresentados a seguir.
+
+A - Sacietógenos – sibutramina 
+A sibutramina bloqueia a recaptação de noradrenalina e serotonina no sistema nervoso central, além de causar perda de, pelo menos, 5% do peso em cerca de 90% dos usuários, com perda média de 6 a 10kg em 1 ano. Tem ação principalmente sobre a saciedade, reduzindo a quantidade das refeições. Vários estudos indicaram que é uma droga segura para uso por tempo prolongado (por até 2 anos), respeitadas suas contraindicações (Tabela 8), inclusive ajudando a prevenir a recupera-ção tardia de peso quando usada por tempo prolongado. Deve-se iniciar com dose de 10mg/d, podendo variar até 15mg/d.  
+Seu uso associa-se a discreto aumento da pressão arterial (de 2 a 4mmHg) e da frequência cardíaca, mas tal efeito tende a ser contrabalanceado pela redução pressórica que acompanha a perda de peso. Também pode produzir taquicardia, hiper-tensão arterial, sudorese, boca seca, insônia e obstipação. 
+No final de 2009, um estudo realizado na Europa (SCOUT) com indivíduos >55 anos, IMC >25 e DM2 ou doença cardiovas-cular prévia demonstrou que o uso de sibutramina esteve associado a risco 16% maior de eventos cardiovasculares (infarto agudo do miocárdio e acidente vascular cerebral não fatais), sem aumento de mortalidade. Por essa razão, a European Medi-cines Agency e Food and Drug Administration recomendaram a sua retirada dos mercados europeu e norte-americano, res-pectivamente. No Brasil, a Anvisa, por meio da RDC 13/2010, aumentou o controle sobre o uso, exigindo receituário B2 (azul, numerado) para comercialização, ampliando a lista de contraindicações da droga. Em 2011, uma nova norma (RDC 52/2011) ampliou as restrições ao uso, exigindo termo de consentimento em 3 vias para seu aviamento e propondo novas contraindi-cações (extremos de idade e falta de resposta).
+
+Tabela 8 - Contraindicações à sibutramina
+- Cardiopatias: arritmias cardíacas, insuficiência cardíaca congestiva; 
+- Hipertensão arterial não controlada (PA >145x90mmHg);
+- Doenças psiquiátricas (síndrome do pânico, transtorno bipolar) ou uso de inibidores da monoaminoxidase (MAO);
+- Glaucoma grave; 
+- Doença arterial periférica; 
+- História prévia de doenças cardiovasculares ou cerebrovasculares; 
+- DM2 associado a mais 1 fator de risco cardiovascular;
+- IMC <30kg/m2;
+- Idade <18 ou >65 anos;
+- Uso de outras medicações com ação no sistema nervoso central;
+- Falta de resposta (perda mínima de 2kg) após 4 semanas de uso da droga.
+
+B - Inibidores da lipase intestinal – orlistate
+O orlistate reduz a absorção dos triglicérides da dieta em 30%, pela inibição das lipases intestinais, levando a perda de aproximadamente 10% do peso inicial em 12 meses. Também reduz a recuperação de peso pela metade após o 1º ano de tratamento. Há evidências de que é uma droga segura para uso prolongado e ocasiona alterações benéficas no perfil lipídico (redução de colesterol total e LDL), nos níveis pressóricos, na EHNA e no controle glicêmico em DM2, podendo, inclusive, prevenir o surgimento de diabetes (redução de risco de 37% em 4 anos) em indivíduos de alto risco.
+Seus efeitos colaterais correlacionam-se à presença de gordura nas fezes: flatulência, meteorismo, diarreia, e esteatorreia e urgência fecal, dependendo da ingesta de gordura. Inibe, parcialmente, a absorção de vitaminas lipossolúveis, por isso al-guns autores recomendam a suplementação de vitaminas A, D, E e K durante o uso prolongado de orlistate, embora raramen-te se observe deficiência clínica dessas vitaminas. Outro inconveniente é o alto custo. 
+A dose recomendada é de 60 a 120mg, antes das 2 ou 3 principais refeições. Doses maiores do que 360mg/d não pare-cem trazer benefícios adicionais.
+
+C - Outras drogas
+
+a) Inibidores seletivos da recaptação de serotonina 
+A fluoxetina pode ser útil em obesos com depressão, ansiedade, bulimia ou transtorno de compulsão alimentar periódica (binge eating disorder). Geralmente, é necessário o uso de doses altas (40 a 60mg/d de fluoxetina) para obter o efeito sacie-tógeno. A perda de peso é modesta (de 2 a 6kg) e acontece nos primeiros 3 a 4 meses, estabilizando-se em seguida. Possíveis efeitos adversos são cefaleia, insônia, perda da libido e ansiedade. Outros inibidores, como a sertralina, também podem cau-sar discreta perda de peso, enquanto outras drogas do grupo (paroxetina, citalopram) costumam se associar a ganho de peso.
+
+b) Bupropiona
+Trata-se de um antidepressivo bloqueador da recaptação de noradrenalina e dopamina, muito utilizado para a cessação do tabagismo, com efeito anorexiante que leva a perda de peso média de 2 a 5kg em 1 ano (na dose de 400mg). Pode causar convulsão em altas doses, motivo pelo qual é contraindicado a epilépticos.
+
+c) Topiramato
+É um anticonvulsivante que, na dose de 100 a 200mg/d, leva à perda de 4 a 9% do peso inicial em 6 meses, por ação glu-tamatérgica (anorexiante). Ao contrário de outras drogas, não parece ter perda de eficácia com o uso prolongado (mesmo após 76 semanas). Entretanto, produz efeitos adversos com frequência (parestesias, sedação, perda de atenção e dificuldade de concentração em 10 a 50%), sendo comum sua descontinuação por esse motivo (20 a 30% dos pacientes).
+
+d) Metformina
+É um antidiabético oral que reduz a liberação hepática de glicose, se associa a discreta redução de peso (em média, de 2 a 5kg em 6 meses) e, por isso, é a droga de 1ª escolha a diabéticos tipo 2 obesos. 
+
+e) Agonistas de GLP-1
+São drogas antidiabéticas injetáveis (uso subcutâneo) que se associam a diminuição do apetite e perda de peso, por isso podem ser uma opção interessante para diabéticos tipo 2 obesos que necessitam de intensificação do tratamento. Incluem a exenatida (Byetta®), a liraglutida (Victoza®) e a lixisenatida (Lyxumia®). A liraglutida, usada em doses altas (3mg/d, maiores do que as utilizadas para o tratamento do DM2: 0,6 a 1,2mg/d), associa-se à perda média de 5 a 7kg num prazo de 20 semanas, e foi aprovada nos Estados Unidos para tratamento da obesidade, mesmo em não diabéticos. No Brasil, essas medicações ainda são aprovadas exclusivamente para tratamento do DM2.
+
+D - Drogas não indicadas 
+Há vários tipos de tratamento divulgados pela mídia, para os quais não há evidência de eficácia, ou mesmo segurança, e que não devem ser recomendados pelo médico na terapêutica da obesidade: fitoterápicos, mesoterapia, auriculoterapia, acupuntura, diuréticos, laxantes, ioga, suplementos dietéticos etc. Alguns compostos sabidamente provocam complicações, como o hormônio tireoidiano, que leva a perda de peso à custa de perda de massa muscular e tireotoxicose, com suas reper-cussões sobre o sistema cardiovascular e os ossos. Por isso, esse tipo de substância não tem lugar no tratamento da obesida-de. 
+
+E - Perspectivas 
+
+a) Agonistas seletivos 5-HT2c
+Possuem ação anorexígena semelhante a drogas antigas, como a fenfluramina e a dexfenfluramina, mas não apresentam ligação ao receptor 5-HT2b, responsável pela toxicidade cardíaca (valvopatia), sendo, portanto, mais seguros que essas dro-gas. Um representante é a lorcaserina, que mostrou redução de 5% do peso inicial em 47% dos pacientes tratados (compara-do a 20% no grupo placebo) em um estudo, sem efeitos adversos graves. A lorcaserina já é comercializada nos Estados Uni-dos, com o nome comercial Belviq®.
+
+b)	Inibidores da recaptação de noradrenalina, dopamina e serotonina
+Têm ação inibidora do apetite e promotora de saciedade, além de provável aumento do gasto energético (termogênese). Em um estudo, a tesofensina mostrou eficácia maior do que as drogas atuais com relação a perda de peso (perda média supe-rior a 10% do peso em 24 semanas), com efeitos adversos semelhantes aos da sibutramina (principalmente adrenérgicos).
+
+c) Novos inibidores das lipases intestinais
+O cetilistate tem eficácia semelhante à do orlistate, com menor frequência de efeitos adversos intestinais graves (diar-reia).
+
+d) Zonisamida
+Trata-se de um anticonvulsivante que leva a aumento da atividade dopaminérgica e serotoninérgica, com ação anorexíge-na. Tem eficácia moderada para perda de peso e parece interessante para obesos com compulsão alimentar, embora efeitos adversos sejam comuns (fadiga, alterações cognitivas). Há estudos com a associação a bupropiona, com melhores resultados. 
+
+e) Bupropiona/naltrexona
+A associação das drogas leva a redução de 5% do peso em cerca de metade dos tratados, com melhor resultado do que o uso das drogas isoladas, mas com maior taxa de efeitos colaterais, levando a alta taxa de abandono (aproximadamente 50%, geralmente por náusea). Ainda não foi aprovado nos Estados Unidos, por preocupações com efeitos adversos cardiovascula-res. O nome comercial proposto pelo fabricante é Contrave®.
+
+f) Topiramato/fentermina
+A associação das drogas leva a perda de 6,7 a 8,9% de peso, comparada ao placebo, no período de 1 ano. Essa associação já está disponível no mercado norte-americano, com o nome comercial Qsymia®.
+
+g) Novos antagonistas do sistema endocanabinoide
+O 1º representante dessa classe, o rimonabanto, chegou ao mercado brasileiro em 2007, e sua comercialização foi sus-pensa em 2008 por vários relatos de depressão e comportamento suicida associados. Seu mecanismo de ação é o bloqueio da ligação dos endocanabinoides endógenos aos seus receptores tipo 1 (CB1) no sistema nervoso central. Reduz a impulsivi-dade, o desejo e o prazer de comer e possivelmente tem efeitos diretos no metabolismo glicídico e lipídico por meio da inte-ração com outros receptores nos tecidos periféricos (sobretudo no tecido adiposo). Na dose de 20mg/d, levou a redução de 5 a 8kg em 6 a 12 meses, ou cerca de 5% do peso inicial, além de melhora do perfil lipídico, dos níveis glicêmicos e da sensibi-lidade a insulina. A melhora dos parâmetros metabólicos observada é cerca de 2 vezes maior do que a esperada para o nível de perda de peso obtido, o que sugere que o rimonabanto tenha um mecanismo de ação sensibilizador a insulina, parcial-mente independente da perda ponderal. Entre seus efeitos adversos, além do transtorno de humor (depressão), que motivou o fabricante a retirá-lo do mercado, foram descritos ansiedade, náuseas, vômitos, diarreia, cefaleia e tonturas. Novas drogas dessa classe, como o taranabanto, estão em fase de pesquisa.
+
+9. Cirurgia bariátrica
+
+Importante
+A cirurgia está indicada quando as complicações da obesidade são maiores do que o risco do procedimento (IMC >40kg/m2 ou 35kg/m2 e comorbidades graves). A mais utilizada é a gastroplastia com bypass gastrintestinal em Y de Roux (cirurgia de Fobi-Capella). 
+
+As diversas técnicas cirúrgicas utilizadas no tratamento da obesidade são chamadas cirurgias bariátricas. O tratamento ci-rúrgico está indicado a casos graves, em que o risco de complicações do excesso de peso é maior que o risco do próprio procedimento cirúrgico, ou seja, IMC =40kg/m2 ou IMC =35kg/m2 na presença de comorbidades graves que melhorem com a perda de peso.  
+São consideradas comorbidades importantes para essa finalidade: hipertensão arterial, DM2, apneia do sono, doenças ar-ticulares degenerativas, doença coronariana, dislipidemias ou outras doenças determinadas pela obesidade com risco de morte. A razão dessa indicação também é reforçada pela evidência de que o tratamento clínico, em pacientes com tal grau de obesidade, mesmo que consiga boa perda de peso em curto prazo, torna-se insuficiente para diminuir o risco do paciente, já que 95% acabam recuperando o peso após alguns anos. Com a cirurgia bariátrica, a perda de peso obtida é mais intensa e duradoura, portanto há redução mais significativa do risco de complicações associadas à obesidade.
+A I Diretriz Brasileira de Obesidade (2008) estabelece, ainda, que a seleção de pacientes para cirurgia requer uma história de obesidade com duração de pelo menos 5 anos, sem êxito com o tratamento convencional supervisionado por profissionais qualificados por no mínimo 2 anos, e a ausência de contraindicações (Tabela 9). O paciente também deve ter idade entre 18 e 65 anos, grau de risco cirúrgico aceitável, boa expectativa de vida pós-operatória, capacidade intelectual mínima para en-tender os cuidados com o tratamento e bom suporte familiar. 
+Dentre as contraindicações, as mais importantes são abuso de álcool ou drogas, úlcera péptica ativa e doenças psiquiátri-cas severas (psicose, depressão grave), história de tentativa de suicídio, risco cirúrgico extremamente elevado (ASA IV) e impossibilidade de seguimento. Transtornos psiquiátricos (depressão) não são contraindicação definitiva, podendo o paciente realizar a cirurgia se houver a autorização do psiquiatra após tratamento adequado. Além disso, deve-se afastar, no pré-operatório, a presença de endocrinopatias que possam ser responsáveis pelo excesso de peso (exemplo: síndrome de Cus-hing).
+
+Tabela 9 - Indicações de tratamento cirúrgico (Resolução CFM nº 1.942/2010)
+- Paciente com IMC =40kg/m2;
+- Paciente com IMC entre 35 e 39,9kg/m2 com comorbidades agravadas pela obesidade e que melhoram com a perda de peso: DM2, apneia do sono, hipertensão arterial, dislipidemia, coronariopatia, osteoartrites etc.;
+- Tratamento clínico insatisfatório supervisionado por, pelo menos, 2 anos;
+- Idade >18 anos. Idosos (>65 anos) e jovens entre 16 e 18 anos podem eventualmente ser operados, mas exigem precauções especiais e o risco–benefício deve ser muito bem analisado;
+- Não uso de drogas ilícitas ou alcoolismo; 
+- Ausência de quadros psicóticos ou demenciais graves ou moderados; 
+- Compreensão, por parte do paciente e dos familiares, dos riscos e das mudanças de hábitos inerentes à cirurgia e da necessidade de acompanhamento pós-operatório com a equipe multidisciplinar, em longo prazo; 
+- Risco cirúrgico aceitável; 
+- Presença de equipe capacitada para os cuidados pré e transoperatórios e o seguimento pós-operatório: cirurgião treinado, endocrino-logista, nutrólogo/nutricionista, psiquiatra ou psicólogo. 
+
+A regulamentação atual do Conselho Federal de Medicina (Resolução CFM nº 1.942/2010) reconhece e aceita diversas técnicas cirúrgicas para o tratamento da obesidade. Essas técnicas estão apresentadas na Tabela 10, e as principais estão ilus-tradas na Figura 5.
+A técnica mais utilizada e estudada, a gastroplastia com bypass gastrintestinal em Y de Roux (cirurgia de Fobi-Capella), as-socia-se a perda de 35 a 40% do peso inicial em 1 ano, com redução da mortalidade em 10 anos e expressiva melhora das comorbidades, levando à remissão do DM2 em cerca de 70%, hipertensão em 65% e apneia obstrutiva do sono em 40 a 80%. A mortalidade perioperatória, originalmente em torno de 2 e 5%, atualmente é menor do que 1% em centros de excelência. A gastrectomia vertical (sleeve) é outra técnica cirúrgica que vem sendo cada vez mais utilizada, por ser tecnicamente mais simples e induzir a perda de peso comparável à obtida com a cirurgia de Fobi-Capella.
+No entanto, o acompanhamento em longo prazo dos pacientes submetidos à cirurgia bariátrica mostra que o insucesso ci-rúrgico (definido como a perda de menos de 50% do excesso de peso) ocorre em 5 a 16%. Além disso, muitos que evoluem com boa perda de peso em curto prazo acabam evoluindo com recuperação tardia (cerca de 9% voltam ao peso pré-operatório em 10 anos). Por isso, é fundamental continuar a fazer acompanhamento médico pós-operatório e manter hábitos de vida saudável, para evitar recidiva tardia da obesidade grave.
+
+Tabela 10 - Procedimentos cirúrgicos para o tratamento da obesidade
+Tipos	Procedimentos	Comentários
+Restritivos	Balão intragástrico	Método adjuvante no preparo pré-operatório de superobesos (IMC >50), com eficácia menor do que outras técnicas (menor perda de peso e uso por, no máximo, 6 meses)
+	Gastroplastia vertical bandada (Mason)	Menor perda de peso e maior taxa de complicações do que outros procedimentos, estando em desuso 
+	Banda gástrica ajustável	Método reversível, com baixo risco cirúrgico, mas com perda de peso menor do que com outras técnicas
+	Gastrectomia vertical (sleeve)	Eficácia semelhante à da técnica de Fobi-Capella, com técnica cirúrgi-ca mais simples (sem manipulação do intestino) e menor risco de deficiências de vitaminas e oligoelementos; redução da secreção de grelina, hormônio gástrico que aumenta o apetite; uso cada vez mais frequente 
+Disabsortivos	Derivação jejunoileal	Proscrita, em vista da alta incidência de complicações metabólicas e nutricionais
+Mistos	Gastroplastia em Y de Roux (Fobi-Capella)	Predominantemente restritiva; técnica mais utilizada; eficaz, porém tecnicamente mais complexa 
+	Derivação biliopancreática com gastre-ctomia horizontal (Scopinaro)	Predominantemente disabsortiva; menor restrição à ingesta alimen-tar e maior perda de peso, à custa de maior risco de deficiências nutricionais graves
+	Derivação biliopancreática com gastre-ctomia vertical e preservação do piloro (duodenal switch)	Predominantemente disabsortiva; menor restrição à ingesta alimen-tar e maior perda de peso, à custa de maior risco de deficiências nutricionais graves
+
+ 
+Figura 5 - Principais técnicas cirúrgicas para tratamento da obesidade: (A) banda gástrica ajustável; (B) gastroplastia vertical com banda (Mason); (C) gastrectomia vertical (sleeve); (D) gastroplastia com bypass gastrintestinal em Y de Roux (Fobi-Capella); (E) derivação biliopancreática (Scopinaro) e (F) derivação jejunoileal
+
+10. Resumo 
+
+Quadro-resumo
+- 	A obesidade é diagnosticada pelo IMC, calculado por intermédio da fórmula: peso (em kg) dividido pelo quadrado da altura (em metros). Consideram-se valores normais entre 18,5 e 24,9kg/m2;
+- 	Define-se sobrepeso na presença de IMC entre 25 e 29,9kg/m2 e obesidade na presença de IMC =30kg/m2. Além disso, pode-se classificar a obesidade em 3 graus: leve ou classe I (IMC 30 a 34,9kg/m2), moderada ou classe II (IMC 35 a 39,9kg/m2) e grave ou classe III (IMC =40kg/m2);
+- 	Em crianças e adolescentes, o diagnóstico de sobrepeso é realizado pelo percentil de IMC comparado à média de crianças do mesmo sexo e faixa etária. Considera-se normal percentil até 85; sobrepeso, entre 85 e 95; e obesidade, percentil >95;
+- 	Nos últimos 20 a 30 anos, tem havido um expressivo aumento na prevalência de obesidade entre crianças, adolescentes a adultos em todo o mundo, com tendência a continuar aumentando (podendo dobrar até 2025). Existe, atualmente, 1,6 bilhão de adul-tos com excesso de peso; 
+- Mais de 50% dos adultos brasileiros apresentam excesso de peso (IMC >25), e 18% são obesos (IMC >30); 
+- 	A obesidade localizada na região abdominal (androide) é a que se associa ao maior risco de doenças cardiovasculares e de DM2, notando-se risco elevado em homens com circunferência abdominal acima de 94cm e mulheres acima de 80cm;
+- 	Complicações metabólicas, cardiovasculares, respiratórias (apneia do sono), hepáticas (esteatose hepática), osteoarticulares, litíase biliar, algumas neoplasias e transtornos psiquiátricos são mais comuns em indivíduos obesos; 
+- 	O tratamento da obesidade deve sempre incluir recomendações para mudanças nos hábitos alimentares (restrição de 500 a 1.000kcal/d) e prática de atividade física regular, além de psicoterapia comportamental àqueles com dificuldades de adesão; 
+- 	A eficácia das mudanças de hábitos de vida é modesta, e >90% dos obesos recuperam o peso em longo prazo; 
+- 	Medicações são indicadas a pacientes com IMC >30kg/m2 ou com IMC >25kg/m2 na presença de comorbidades importantes, sempre em conjunto com as mudanças do estilo de vida;
+- 	Sibutramina e orlistate são as drogas antiobesidade mais estudadas e utilizadas, levando a perda de peso média de 5 a 10% do peso corpóreo em 6 a 12 meses. Também têm efeito benéfico sobre as complicações da obesidade e podem prevenir a recupera-ção do peso quando usadas em longo prazo (>1 ano); 
+- 	Constituem contraindicações ao uso da sibutramina: cardiopatia grave (insuficiência cardíaca congestiva, doença arterial coronariana), hipertensão arterial mal controlada, transtornos alimentares (anorexia e bulimia), DM2 com alto risco cardiovascular, extremos de idade e falta de resposta à medicação; 
+- 	O tratamento cirúrgico está indicado a casos de obesidade grave, em que o risco de complicações do excesso de peso é maior do que o risco do próprio procedimento cirúrgico, ou seja, IMC =40kg/m2, ou IMC =35 na presença de comorbidades graves, em casos de obesidade >5 anos de duração, após falha do tratamento clínico por pelo menos 2 anos, e na ausência de contraindicações ao pro-cedimento (alcoolismo, drogadição, transtornos psiquiátricos graves, alto risco cirúrgico);
+- 	A técnica mais utilizada para tratamento da obesidade é a cirurgia de Fobi-Capella, procedimento misto que reúne caracterís-ticas restritivas (redução do volume gástrico) e disabsortivas (desvio do trânsito do intestino delgado, com anastomose em Y de Roux). Com mortalidade <1% nas mãos de cirurgiões experientes, a perda média é de 35 a 40% do peso inicial em 1 a 2 anos.
+
+Resposta
+1. A
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
