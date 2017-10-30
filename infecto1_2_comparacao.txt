@@ -1,0 +1,190 @@
+diff --git a/infecto1_2.txt b/infecto1_2.txt
+index 7474bef..45adbb2 100644
+--- a/infecto1_2.txt
++++ b/infecto1_2.txt
+@@ -1,8 +1,7 @@
+Infecção pelo HIV e AIDS
+Durval A. G. Costa
+
+[-Resumo-]Este capítulo sobre infecção pelo HIV e AIDS, aborda mais especificamente as formas de infecção (aguda, latente {+e +}a AIDS propriamente dita), bem como as maneiras pelas quais é possível fazer o diagnóstico, utilizando-se, para tanto, o teste soro[---]ló{+-+}gico “2 ELISA + 1 western blot”, ou o teste rápido, com 2 testes rápidos modernos positivos, de fabricantes diferentes. Na infecção pelo HIV, há uma sequência de acontecimentos até chegar à AIDS: transmissão viral (de 2 a 3 semanas), síndrome retroviral aguda (de 2 a 3 semanas), recuperação [-+-]{+e+} soroconversão, infecção crônica assintomática (média de 8 anos), se[---]guida de infecção sintomática/AIDS (média de 15 meses), e, por fim, óbito por doença oportunista. O conhecimento dessa sequên{+-+}cia é importante, uma vez que por meio dela é possível avaliar em que fase o paciente está e, a partir daí, traçar o melhor plano terapêutico e avaliar o prognóstico da doença.
+
+1. Tipos de infecção
+
+@@ -18,14 +17,15 @@ C - HIV fase AIDS
+Neste momento, quebra-se o equilíbrio de linfócitos T CD4, e outras infecções oportunistas aparecem. É a fase de compli-cações da doença, com óbito certeiro se o tratamento ideal não é realizado. 
+
+Importante
+Convém memorizar a sequência de acontecimentos até chegar à AIDS: transmissão viral (de 2 a 3 semanas), síndrome re-troviral aguda (de 2 a 3 semanas), recuperação [-+-]{+e+} soroconversão, infecção crônica assintomática (média de 8 anos), seguida de infecção sintomática/AIDS (média de 15 meses), e, por fim, óbito por doença oportunista.
+
+2. HIV agudo – síndrome do HIV agudo{+ +}
+
+A síndrome enquadra-se nos diagnósticos de síndrome mono-like e deve ser pensada sempre como diferencial dessas doenças. [-E-]{+A infecção inicial pelo HIV não é sempre percebida. Apesar de haver sinais possíveis em até 90% dos casos, em me-nos da metade dos pacientes (50%) ocorrem sintomas do tipo “mono-like”. Portanto, o médico generalista deve estar atento às possíveis alterações presentes na fase aguda. Nessa fase, o vírus já realizou a integração com o material genético da célula parasitada, já produz células novas virais e destrói em massa as células parasitadas. Por isso, a quantidade de vírus no sangue é altíssima, sendo o ponto onde haverá maior replicação viral durante toda a história da infecção. Nesse mome+}nt{+o, cada vírus produz ce+}r{+ca d+}e {+109 (1 +}t{+rilhã+}o{+) +}d{+e nov+}os {+vírus, com um+}a{+ +}qu{+antidad+}e[-l-]{+ por mL d+}e{+ víru+}s [-qu-]{+d+}e {+mai+}s{+ d+}e {+106 (ma+}i[-nf-]{+s d+}e[-cta-]{+ 1 +}m[-,-]{+ilhão+} [-c-]{+d+}e[-r-]{+ +}c{+ópi+}a{+s+} [-de-]{+por+} [-35-]{+mL).+}
+{+Nesta+} {+f+}a{+se+} [-50%-]{+da+} d[-esenv-]o[-lv-]e[-rão-]{+nça,+} al[-gu-]{+é+}m [-tipo-]{+da+} d{+ificuldad+}e [-s-]{+do d+}i[-n-]a{+gnóstico c+}l{+ínico+} {+pel+}o[-u-]{+s+} sintoma{+s,+} [-na-]{+há+} [-f-]a[-se-] [-ag-]{+dific+}u[---]{+l+}da[-,-]{+de+} [-c-]{+l+}a{+bo+}ra[-c-]t[-e-]{+o+}ri[-z-]a[-nd-]{+l. Na mai+}o{+ria das vezes,+} [-c-]o{+s exa+}m[-o-]{+es de+} HIV {+de tri+}ag[-udo.-]{+em+} [-N-]{+n+}essa fase{+ estão negativos+}, {+pois dem+}o{+ram de 3 a 4 semanas para+} {+positi+}v[-í-]{+a+}r[-us-] [-já-]{+e+} [-r-]e{+st+}a[-liz-]{+m+}o[-u-]{+s+} {+f+}a[- integr-]{+l+}a[-çã-]{+nd+}o [-co-]{+de u+}m {+m+}o[- -]m[-aterial g-]en[-é-]t{+o in+}ic[-o-]{+ial+} da {+infe+}c[-él-]{+ção, q+}u[-la-]{+e+} [-pa-]{+ocor+}r{+e +}a{+pó+}s[-itada,-] [-j-]{+o cont+}á{+gio+} pr[-oduz -]{+in+}c[-élul-]{+ip+}a[-s-]{+lmente+} n[-ov-]as [-v-]{+3 prime+}ira[-i-]s [-e de-]s[-trói -]em[- m-]{+an+}as[-s-]{+ d+}a {+infe+}c[-élulas-]{+ção+} [-paras-]{+v+}i[-tad-]{+r+}a[-s-]{+l+}. Por isso[-, a-] [-qua-]n{+es+}t[-id-]a[-de de-] [-víru-]{+fa+}s{+e+} n{+ã+}o s[-angu-]e [-é -]{+re+}al[-tíss-]i[-m-]{+z+}a[-,-]{+m+} {+a+}s[-endo-] {+s+}o[- p-]{+r+}o[-nt-]{+l+}o{+gias+} {+tradici+}on[-de h-]a[-verá-]{+is+} [-m-]{+p+}a[-io-]r{+a+} [-repl-]{+d+}i[-c-]a[-çã-]{+gnóstic+}o{+,+} [-v-]{+e s+}i[-r-]{+m +}a[-l-] d[-ur-]{+os+}a[-nt-]{+g+}e{+m+} [-to-]d[-a-]{+e+} {+m+}a[- histó-]r[-i-]{+c+}a[- -]d[-a-]{+ores+} {+ma+}i[-nf-]{+s pr+}e{+-+}c[-çã-]o[-. N-]{+c+}es[-se-]{+,+} [-m-]{+c+}om[-ent-]o[-,-]{+ a+} ca[-d-]{+rg+}a v[-í-]{+i+}r[-us-]{+al+} [-pro-]d{+o HIV o+}u[-z-] [-cerc-]a d{+osag+}e{+m+} [-109 (1 trilhã-]{+d+}o[-)-] [-d-]{+antíg+}e[- -]no[-vos-] [-ví-]{+p24 (pa+}r[-us,-]{+a+} com[- um-]{+plet+}a{+r o+} [-qu-]a{+ssu+}nt[-ida-]{+o +}de [-p-]{+diagnóstic+}o{+, le+}r [-mL-]{+a+} [-d-]{+part+}e [-ví-]r[-us d-]e{+lativa+} [-m-]a{+o d+}i{+agnó+}s{+tico+} de [-106-]{+HIV+} [-(m-]a{+d+}i[-s-]{+ante para+} {+enten+}de{+r+} [-1-]{+o+} {+te+}m[-ilhã-]{+p+}o de [-có-]p{+osit+}i{+vid+}a[-s-]{+de+} [-por-]{+de cada+} {+exa+}m[-L-]{+e+}).
+
+A - Como identificar uma infecção aguda pelo HIV?
+[-Ce-]{+ A sínd+}r[-c-]{+ome do HIV +}a{+gudo+} d{+ura entr+}e [-2-]{+3+} [-a-]{+e+} 4 semanas{+,+} ap[-ó-]{+e+}s{+ar+} {+de h+}a{+ver+} [-inf-]{+d+}e{+s+}c{+ri+}ç[-ão-]{+ões+} {+de pers+}i{+stê+}n[-i-]cia[-l-] [-d-]{+p+}o{+r+} [-HIV, a-]{+período+}s ma[-n-]i[-f-]{+or+}es{+ de +}t[-açõ-]e[-s-]{+mpo. Como+} {+o+}s[-e-] {+s+}in[-ici-]{+tomas norm+}a{+l+}m{+ente+} {+s+}e {+re+}s{+olv+}e{+m+} {+se+}m{+ tr+}a[-n-]t[-ê-]{+a+}m{+ento+} {+es+}p{+ecífic+}o[-r-]{+,+} [-14-]{+é+} [-d-]{+v+}i[-a-]s[-,-]{+ta+} [-m-]{+pelo p+}a[-s-]{+ciente+} com{+o+} {+uma “+}v{+irose” ou qu+}a{+d+}r{+o autol+}i[---]{+mit+}a[-çã-]{+d+}o{+,+} [-d-]{+o qu+}e {+f+}a[-lg-]{+z q+}u{+e +}n[-s-]{+ão+} [-dias-]{+procure+} at{+endimento m+}é{+dico+} [-10-]{+na+} [-se-]ma[-n-]{+iori+}a{+ das veze+}s. O quadro clínico caracteriza-se por uma ampla combinação de sinais e sintomas inespecí[---]ficos, conforme descrito na Tabela 1.
+
+Tabela 1 - Sinais e sintomas no HIV agudo
+Achados	Incidência (%)
+@@ -44,7 +44,7 @@ Placas em orofaringe	12
+Sintomas neurológicos	12
+
+Quadro clínico
+O quadro clínico na fase inicial do HIV agudo apresenta-se principalmente com febre, polimicroadenopatia, faringite, fadiga e rash cutâneo.[- -]
+
+A febre costuma ser baixa, mas em 30% pode ir além de 39°C. A linfadenopatia surge na 2ª semana da doença, acometen-do, mais comumente, as regiões cervical, axilar e inguinal, e apresenta resolução espontânea na maioria dos casos. Pode ocorrer hepatoesplenomegalia. O rash cutâneo ocorre na forma de exantema morbiliforme ou maculopapular, de início no tronco, podendo envolver extremidades, inclusive palma das mãos e plantas dos pés. São descritas ainda urticárias e lesões nas mucosas jugal e esofágica, levando a quadros de odinofagia e disfagia. 
+
+@@ -57,7 +57,7 @@ Pergunta
+I - A doença AIDS ocorre, em média, cerca de 1 a 2 anos após o paciente ser infectado.
+II - Os anticorpos anti-HIV podem não ser detectáveis (anti-HIV ELISA falso negativo) nas primeiras 4 a 6 semanas após o indivíduo ter sido infectado, o que se denomina “janela imunológica”.
+III - As manifestações clínicas da infecção primária pelo HIV, quando ocorrem, geralmente acontecem de 2 a 4 semanas após o indivíduo ter sido infectado. A infecção primária pelo HIV é autolimitada e tem duração de cerca de 2 a 4 semanas.
+IV - É comum um período de latência clínica, isto é, ausência de sintomas, entre a infecção primária pelo HIV e as manifes{+-+}ta[---]ções clínicas de AIDS. Esse período dura, em média, em torno de 8 a 10 anos.
+V - Na infecção primária pelo HIV, tipicamente ocorre queda do CD4. Algumas semanas depois, há elevação do CD4 para níveis inferiores a antes da infecção primária, e em seguida, ao longo dos anos, vai diminuindo progressivamente.
+Estão corretas:
+a) I, II, III 
+@@ -67,13 +67,13 @@ d) III, IV, V
+e) I, II, IV, V 
+Resposta no final do capítulo
+
+A meningite asséptica é a manifestação neurológica mais comum e, laboratorialmente, caracteriza-se por uma pleocitose linfocítica, com evolução autolimitada. Em recente estudo israelense de 2011, observou-se que 100% daqueles com infecção aguda pelo HIV tinham carga viral alta no liquor, assim como no sangue. Isso implica dizer que muitas das encefalites virais diagnosticadas pelos médicos diariamente podem ser, na verdade, infecções agudas pelo HIV, com manifestação neurológica como únic{+o sintom+}a. Várias manifestações neurológicas podem surgir, como cefaleia retro-orbitária e síndrome de Guillain-Barré, no entanto todas as alterações neurológicas são passageiras, sem sequelas.
+
+ 
+Figura 2 - Principais sintomas que podem aparecer na infecção aguda pelo HIV: notar que, considerando os sintomas como gerais, mui[---]tos poderiam ser confundidos com gripe ou TORSCH (síndrome mono-like)
+
+Importante
+Como{+,+} no máximo{+,+} 50% dos pacientes apresentam sintomas de HIV agudo, a avaliação de epidemiologia + quadro vi{+-+}ral/mono-like é importante para o diagnóstico. Atualmente, sabe-se que{+,+} quanto antes {+se +}iniciar o tratamento do HIV{+,+} me{+-+}lhor será o prog[---]nóstico.[- -]
+
+B - Diagnóstico 
+O diagnóstico sorológico será discutido em conjunto com o diagnóstico geral, para facilitar o entendimento de qual me-lhor exame solicitar em cada momento. 
+@@ -85,6 +85,7 @@ Independente de todos esses dados, que j
+3. Diagnóstico 
+
+Os diagnósticos do HIV e da AIDS podem ser feitos de maneiras diferentes e com várias formas de abordagem. Existem muitos testes sorológicos, e cada um é usado por diferentes motivos (custo, eficácia, confirmação e rapidez). Há ainda os fatores que ajudam no diagnóstico clínico da AIDS. Começaremos falando dos testes sorológicos e do fluxo para diagnóstico da infecção pelo HIV, sendo 2 os tipos de testes sorológicos no diagnóstico deste.
+{+A avaliação de risco de exposição ao HIV por meio de materiais como sangue, líquidos cavitários e outros está descrita es-pecificamente no capítulo de Imunizações e terapia pós-exposição e não será abordada neste capítulo.+}
+
+A - Testes de triagem
+Como o próprio nome diz, são os inicialmente utilizados quando se pede uma sorologia de HIV. Isso significa que tais testes devem ter alta sensibilidade, pois não devem passar falsos negativos, mas normalmente não têm alta especificidade, o que pode deixar passar falsos positivos. Na prática: se der negativo, será realmente negativo, mas se der positivo poderá ser nega-tivo.
+@@ -101,7 +102,7 @@ No momento em que falamos de testes sorol
+a) Período de eclipse
+Tem esse nome porque é o período em que não há possibilidade alguma de diagnóstico da infecção pelo HIV, já que não existem quaisquer marcadores que estejam na corrente sanguínea e que possam ser detectados. Com as técnicas modernas de detecção, o período de eclipse caiu para 7 dias normalmente, quando não se consegue detectar qualquer marcador de infecção.
+
+b)[-	-]{+ +}Detecção quantitativa de carga viral do HIV
+Doze dias após o período de eclipse, com os métodos modernos de PCR (reação de cadeia de polimerase) em tempo real, pode-se encontrar vírus na circulação. Entretanto, o exame não é considerado teste de triagem nem de confirmação, e o diagnóstico não pode ser feito por ele. É muito útil no diagnóstico de infecção aguda pelo HIV, em que as sorologias estarão negativas. 
+
+c) Detecção de antígeno p24
+@@ -114,10 +115,10 @@ e) Janela imunol
+Enfim, é definida como o período que vai desde o momento da infecção até o indivíduo começar a produzir anticorpos, ou seja, soma-se o período de eclipse (7 dias) + o período de aparecimento dos primeiros anticorpos (em geral, 22 dias após o eclipse).
+
+Dica 
+A janela imunológica do HIV é de 29 dias, em média, com os exames atuais.[- -]
+
+f) Western blot 
+Exames como esse detectam os antígenos virais mais tardiamente (depois do ELISA), mas de [-uma -]maneira mais específica. No caso do Western Blot (WB), ele procura 10 “bandas”, que são as proteínas virais, sendo que 4 (Gp120, Gp160, p24[-,-]{+ e+} Gp41) são específicas do HIV, e bastam 2 delas positivas para que o exame saia como “reagente”. 
+
+ 
+Figura 3 - Marcadores virais na infecção aguda do HIV, do momento em que o paciente é infectado em diante: notar que o marcador mais precoce é mesmo a carga viral de HIV; notar ainda o período chamado de eclipse 
+@@ -136,57 +137,49 @@ Importante
+Se um exame é negativo para HIV (tanto ELISA quanto western blot ou similares), sabendo-se que a janela é de 29 dias, pode ser repetido o exame em 1 mês (alguns serviços preconizam no máximo 3 meses) para que se exclua o momento da janela imunológica. Entretanto, janelas imunológicas de 6 meses não são mais vistas com os exames atuais.
+
+D - Diagnóstico sorológico
+[-Seguiremos a recomendação do Ministério da Saúde para-]{+O+} diagnóstico sorológico[-.-] [-Di-]d[-aticamente, -]o [-exame-]{+HIV+} de{+ve+} [-so-]r[-olog-]{+espe+}i{+t+}a{+r+} [-é dividid-]o {+t+}em[- eta-]p[-as:-]
+
+[-Tabela 3-]{+o+} [---]{+de+} [-D-]i[-vis-]{+nfecç+}ão{+.+} {+D+}e[-m e-]{+s+}ta[-pas-] [-d-]{+f+}o[- exa-]{+r+}m[-e-]{+a,+} [-de-]{+um+} [-sorologia-]
+[-Eta-]pa[- I	- S-]{+ci+}e[-rv-]{+nt+}e [-para lib-]{+qu+}e[-rar-] {+t+}e[-xa-]m[-es-] [-n-]{+susp+}e[-gat-]i[-vos-]{+ta+} [-lo-]{+de HIV a+}g{+ud+}o n{+ã+}o[-s-] [-t-]{+pod+}e[-s-]{+ +}te{+r o+}s [-d-]{+m+}e{+smos+} t[-r-]i[-ag-]{+pos d+}e[-m-] [-(l-]{+p+}e[-mbran-]{+di+}do{+s+} que [-estes tê-]{+u+}m {+p+}a[-lta sensibil-]{+c+}i[-da-d-]e[-):-]
+[-· S-]{+nt+}e {+c+}o[- exa-]m[-e-] [-é po-]s{+uspe+}it[-ivo,-]{+a+} [-el-]{+d+}e [-é encam-]in[-had-]{+fecçã+}o [-para-]{+há+} {+alg+}um [-2º -]{+t+}e[-xa-]m[-e d-]{+p+}o{+. Da+} mesm[-o-]{+a+} ma[-t-]{+-n+}e[-r-]i{+r+}a[-l-], [-com o-]u[-tro-]{+m+} teste [-d-]{+n+}e[- -]{+ga+}t[-r-]i[-a-ge-]{+vo co+}m e[- já c-]{+xp+}o[-nf-]{+s+}i[-rm-]{+ção +}a[-tó-]{+o +}ri{+sc+}o[-,-] [-d-]{+(p+}o{+r+} [-ti-]{+exem+}p{+l+}o{+,+} [-immun-]{+relaçã+}o[-b-]{+ sexua+}l{+ despr+}ot{+egida)+} {+c+}o[-u-]{+m+} [-i-]m[-u-]{+e+}no[-fluore-]s[-cênc-]{+ de 30 d+}ia{+s+} [-in-]d[-i-]{+eve ser +}re{+pe+}t{+ido +}a[-;-]{+pós+} [-·-]{+o+} [-S-]{+p+}e[- -]{+ríod+}o {+d+}e[-x-]{+ j+}a[-m-]{+n+}e{+la para+} {+i+}de[- co-]n{+ti+}fi[-rm-]{+c+}ação [-é -]po[-sitivo, segue-se para a etapa II;-]
+[-· Se o 2º exame de triagem deu valor negativo, como o 1º de triagem era positivo, pode se tratar de uma so-roconversão em andamento, e os exames devem ser repetidos em 30 dias. -]
+[-Etapa II	Nesta etapa, é feita a 2ª coleta do mesmo paciente, no caso de teste de triagem e confirmatório positivos, para descartar troca de material dentro do laboratório, ainda que os testes de triagem e confirmatórios sejam positi-vos.-]
+[-Etapa III	- Oficialmente, essa etapa é realizada nos pacientes com teste de triagem e confirmação positivos, mas uma 2ª coleta com divergência entre os testes de triagem e confirmatórios iniciais (immunoblot ou imunofluorescência indireta):-]
+[-· A recomendação é a realização de um teste de confirmação mais fidedigno, o WB, que não é usado sempre como o 1º confirmatório pelo alto custo. Lembrando que essas são as recomendações do Ministério da Saúde. Se qualquer laboratório aceitar fazer WB como confirmatório logo quando os de triagem resultam positivos, não haverá problema, mas a etapa III não será necessária. -]
+
+[-Importante-]
+[- O western blot é gua-]r[-dado-] [-co-]m[-o -]e[-tapa III do diagnóstico sorológ-]i[-c-]o do[- HIV habitualmente apenas pelo alto custo. Ca-]s[-o o laboratório queira implantar o-] exame{+s+} [-como confirmatório já na etapa I, quando o teste de tr-]{+convenc+}i{+on+}a{+is. +}
+{+Al+}g[-e-]{+u+}m{+as+} [-é r-]e[-a-]{+xp+}li[-z-]{+c+}a[-do, el-]{+çõ+}e{+s+} [-po-]de{+vem+} ser [-utilizad-]{+f+}o[- -]{+r+}ne[-ss-]{+cid+}a{+s+} [-f-]{+p+}a[-s-]{+ra m+}e[-.-]{+lhor+} [-E-]{+e+}nt[-r-]e[-ta-]{+ndime+}nto[-,-] {+do+}s[-e-] [-o-]{+exames+} [-t-]e{+xi+}ste[- d-]{+nt+}e{+s.+} [-t-]{+Pa+}r[-i-]a[-g-]{+ r+}e{+su+}m[- -]i[-n-]{+r a lóg+}ic[-i-]a[-l for-] [-p-]{+d+}os[-itivo-] e[- o w-]{+xam+}es[-t-]{+, segu+}e[-rn-] [-bl-]o{+u+}t{+ro+} [-ne-]g[-at-]{+ráf+}i[-v-]{+c+}o, {+retir+}a{+do+} [-j-]{+do M+}an[-el-]{+u+}a{+l+} [-imu-]{+Téc+}n[-ológ-]ic[-a-]{+o+} d[-everá-]{+o+} {+Mini+}s[-e-]{+té+}r{+io+} [-aventa-]da[-,-] [-e novos ex-]{+S+}a[-m-]{+úd+}e[-s-] [-se-]{+pa+}r[-ão-]{+a+} [-fe-]{+d+}i[-tos -]a[-p-]{+gn+}ós[- 30-]{+tico+} d[-ias.-]{+e+} {+HIV:+}
+
+ 
+Figura 4 - [-Re-]{+Marc+}a{+dores p+}l{+asmát+}i[-z-]{+cos d+}a{+ infec+}ção {+pelo HIV ao longo do tempo+}
+
+{+Po+}de{+mos dividir os+} testes de {+HIV em 3 tipos: imunoen+}s{+ai+}o[-r-]{+s (ELISA, quimi+}ol{+uminescência etc.), testes rápidos de HIV (p+}o{+r san+}g{+ue ou fluido oral) e exames complementares (imunofluorescência ind+}i{+ret+}a{+,+} {+WB etc.).+}
+{+Es+}p{+ecific+}a{+mente +}r{+el+}a{+tivo+} [-H-]{+aos imunoensaios (por exemplo, EL+}I[-V-]{+SA), eles são classificados em 4 gerações:+}
+{+1ª geração: testavam apenas o anti-IgG, por isso demoravam de 4 a 6 semanas para positivar. Não são mais utilizados atu-almente;+}
+{+2ª geração: utilizam peptídios sintéticos derivados do HIV, e, apesar de ser melhor que os de 1ª geração, ainda demoram para positivar-se (em torno de 4 semanas);+}
+{+3ª geração: utilizam antígenos recombinantes e por isso detectam IgM e IgG, com sensibilidade melhor que a dos outros exames e detecção em 22 dias em média;+}
+{+4ª geração: detectam simultaneamente o antígeno p24 e anticorpos anti-HIV. A janela diagnóstica cai para 14 dias em mé-dia, sendo o melhor tipo de imunoensaio que pode ser utilizado no momento.  +}
+{+Os exames complementares (antes chamados confirmatórios) servem ainda para fornecer confirmação de exames iniciais que podem dar falso positivo (especialmente os imunoensaios). Eles são o WB, o immunoblot e a imunofluorescência indireta. Para o mais conhecido desses exames, o WB, é definido positivo quando há pelo menos 2 bandas positivas (de 10 testadas), entre as exclusivas do HIV: p24, gp41, gp120 e gp160.+}
+{+Atualmente existem os testes moleculares (por exemplo, PCR carga viral de HIV), que antes não eram utilizados para diag-nóstico, apenas para complementação e prévia de tratamento. +}
+{+O fluxograma de testagem é descrito a seguir:+}
+
+[-Pa-]{+ +}
+{+Figu+}ra [-res-]{+5 - O fl+}u[-mi-]{+xog+}r[-,-]{+ama+} [-v-]{+p+}a[-l-]{+rec+}e {+difíci+}l[-e-]{+, +}m[-br-]a[-r-]{+s+} [-que-]{+é+} {+b+}a{+stante+} s[-oro-]{+imp+}l[-og-]i{+fic+}a[- -]d[-e HIV-]{+o:+} [-nunc-]{+b+}a{+stam+} [-pode-]{+2+} {+te+}s{+t+}e[-r-]{+s+} [-lib-]{+d+}e{+ fab+}r{+ic+}a{+ntes +}d[-a-]{+iferentes+} positiv{+os par+}a [-d-]{+f+}e{+char+} [-1-]{+o+} {+di+}a[-m-]{+gnós-tic+}o{+. E+}st[-ra-]{+e é+} apenas[-, ainda-] [-q-]u[-e-]{+m+} {+do+}s[-e-] f[-a-ç-]{+luxogr+}am[- o-]{+a+}s [-2 ti-]p[-os de-]{+ara+} test[-es. T-]a{+ge+}m[-bém-]{+.+} {+E+}n[-unc-]{+tret+}a{+nto,+} [-p-]{+t+}od[-e-]{+os+} se[-r-]{+guem+} [-lib-]{+o m+}e[-r-]{+smo p+}ad[-a-]{+rão: 1º teste+} po{+sitivo = realiza+}r {+2º +}teste{+; +}s{+e+} [-d-]{+2º test+}e {+posi+}t[-r-]{+ivo = d+}iag{+nóstico d+}e[-m-] [-ap-]{+HIV. S+}e[-nas,-] [-a-]{+d+}i[-n-]{+scor+}da[- qu-]{+nt+}e{+s,+} se{+rá+} [-façam -]{+ne+}c{+essári+}o[-l-]{+ 3º t+}e{+s+}t{+e par+}a[-s-] [-di-]{+con+}f[-e-]{+i+}r[-e-]{+mação+}
+{+Fo+}n[---]te{+: Mini+}s{+tério da Saúde+}. 
+
+a) Diagnóstico por testes rápidos
+Os testes rápidos [-for-]{+t+}am[- -]{+bé+}m[-uito-] [-uti-]{+evo+}l[-iz-]{+uír+}a[-dos-]{+m+} no[- passado para si-]t[-u-]a[-ções -]{+v+}e{+l+}m[- qu-]{+ent+}e n[-ã-]o{+s+} [-hav-]{+últ+}i[-a-]{+mos+} [-ch-]an[-ce-]{+os.+} [-de-]{+Com+} [-aguardar-]{+o+} {+a+}um[- r-]e[-sul-]{+n+}t[-ad-]o d[-e um-]a s[-oro-]{+ensibi+}l[-og-]i{+d+}a[- -]{+d+}e [-a-]{+e+} [-con-]{+e+}s{+p+}e[-quên-]ci{+ficid+}a[- -]de [-nã-]{+d+}o{+s+} [-tom-]{+ex+}a[-r u-]m[-a-]{+es,+} [-atitud-]e{+les+} p[-ode-]{+assa+}r[-i-]{+am +}a ser [-drá-]{+o+}s[-tica.-] [-D-]{+t+}est[-a man-]e[-ira,-]{+s+} [-2-]{+de+} {+pref+}er[-am as s-]{+ênc+}i[-tu-]a[-ções-] em [-qu-]{+c+}e[- -]{+ntr+}o{+s de+} test{+ag+}e{+m,+} [-rá-]p{+elo mot+}i[-d-]{+v+}o [-e-]{+p+}r{+incipal d+}a r[-e-]a[-l-]{+p+}i[-za-]d[-o:-]
+[-Gestant-]e[-s,-]{+z+} no [-mom-]{+r+}e[-n-]{+sul-+}t[-o do p-]a[-rt-]{+d+}o[-, sem-]{+.+} [-sor-]{+C+}o[-l-]{+nf+}o[-gias pa-]r[-a HIV ou se-]m{+e+} s[-o-]{+e+}r[-olog-]{+á d+}i[-a-]s[- -]{+cuti+}do [-3º-]{+a+} [-trime-]s[-tr-]e{+guir+}, [-pelo-]{+a+} {+g+}r[-isco -]{+an+}de [-pas-]{+de+}s{+vant+}agem [-do-]{+é+} [-HIV-]{+que+} [-p-]a[-r-]{+ind+}a {+p+}o[- r-]{+d+}e[-cé-]m[--nascido-] [-n-]o[- m-]{+c+}o[-m-]{+rr+}e[-nto-]{+r+} [-d-]{+fals+}o{+s+} p[-art-]o[-;-]
+[-Ac-]{+s+}i[-den-]t[-e-]{+ivo+}s{+,+} [-c-]o[-m-] [-mat-]{+qu+}e[-rial-] {+o+}b{+r+}i[-oló-]g[-ico,-]{+a+} [-c-]o[-m-] [-r-]{+exam+}i[-sco p-]{+n+}a{+do+}r[-a-] [-o-]{+a+} [-p-]r[-ofission-]{+e+}al{+izar+} [-que-]{+2+} {+te+}s{+t+}e{+s+} [-aci-]de[-nt-]{+ f+}a[-v-]{+bric+}a[-.-]
+[-Pos-]{+n+}te[-r-]{+s d+}i[-o-]{+fe+}r[-m-]ente[-, 2-]{+s+} [-o-]{+q+}u[-tr-]a[-s-]{+ndo+} {+1 é po+}sit[-uações-]{+ivo.+} [-entrara-]{+Alé+}m [-na rotina -]do{+s+} teste{+s+} rápido[-:-]
+[-Localidade-]s com [-dificuld-]a[-de de -]{+most+}r[-e-]a[-lização-]{+s+} de s{+an-gue +}o[-ro-]{+u p+}l[-ogi-]as[-;-]
+[-P-]{+m+}a[-cientes-]{+,+} [-c-]o[-m-] t[-ub-]e[-rculo-]s{+t+}e [-(e-]{+co+}m [-q-]{+fl+}u[-e sempre deve ser invest-]i[-ga-]do [-HIV).-]
+[-Entretanto, a melh-]or[-ia n-]a{+l+} [-qu-]{+(s+}ali[-d-]{+v+}a[-de dos-]{+)+} t[-e-]{+ambém +}s[-t-]e[-s-] [-rá-]p{+opular+}i[-d-]{+z+}o[-s-]{+u+}, [-com o aum-]e[-nto da-] [-s-]e[-n-]s{+tá +}i[-bi-]{+nc+}l[-ida-]{+uí+}d[-e-]{+o+} {+n+}e[- d-]{+st+}a [-es-]{+am+}p[-ecific-]{+l+}i[-da-]{+tu+}de[-,-] [-f-]{+d+}e[-z-] [-qu-]e[- -]{+xa+}m[-ui-tos s-]e[- a-]s[-semelhassem aos exames de sorologias, com a vantagem das altas especificidade e sensibilidade (características em que é necessária a associação de 2 tipos de testes – de triagem e confirmatório). Essas características fizeram que fosse de-cretada uma Portaria, com a possibilidade de testes rápidos para diagnóstico mesmo fora das situações citadas. Para isso, os testes deveriam ser de última geração, como Rapid Check®, Bio-Manguinhos e Determine®.-]
+[-Para o diagnóstico, é necessária a utilização simultânea de 2 testes diferentes, sem necessidade de uma nova coleta, já que o teste é feito na presença do paciente. Se os 2 exames tiverem resultados discordantes entre si, será necessária a reali-zação de um 3º tipo de exame, para confirmação ou exclusão-]. [-Entretanto, esses exames só são utilizados em indivíduos acima de 18 meses (antes disso, pode haver anticorpos maternos que os falseiem).-]
+
+ 
+Figura [-5-]{+6+} - [-Test-]{+Ex+}e[-s rá-]{+m+}p[-id-]{+l+}os [-para diagnóstico -]de [-HIV-]
+
+[-Importante-]
+[-O -]teste[- -]s[-o-]{+ +}r[-ológ-]{+áp+}i[-c-]{+d+}o{+s+} para [-diagnóstico d-]o HIV [-poderia ser resumido como “2 ELISA + 1 wester-]n[- blot”, o qu-]e[- si-]g[-nific-]a[- 2 exames de triagem posi-]tivos[- em-]{+;+} a[-mostras difer-]{+p+}en[-te-]{+a+}s [-(ELISA é um-]{+a+} [-exemp-]l[-o), com-]{+inha+} [-pelo-]{+“C”+} [-m-]{+d+}e[-nos 1-] con[-firma-]t[-ó-]r[-io positiv-]o{+le+} [-(w-]est[-ern blot é um exemplo,-]{+á+} ma[-s po-]r[- ser mais -]ca[-ro é guar-]da[-do-] [-ap-]e[-nas-] [-par-]a [-conf-]{+l+}i[-rmação de etap-]{+nh+}a [-III,-]{+“T”+} [-quan-]d[-o outro-]{+e+} [-confirma-]t[-ório dá r-]es[-ul-tado diferen-]te [-do-]{+é+} {+n+}e[-x-]{+g+}a[-me de -]t[-riagem inic-]i{+v+}a
+[-l). N-]{+F+}o[- tes-]{+n+}te{+:+} [-rápi-]{+a+}d[-o, b-]a[-s-]{+p+}ta[-m 2 testes rápi-]do[-s-] [-mo-]d[-ern-]o[-s-] [-pos-]{+M+}i{+nis+}t{+ér+}i[-v-]o[-s,-] d[-e fabric-]a[-ntes-] {+Saú+}d[-if-]e[-rentes-].{+ +}
+
+Pergunta
+2011 - UFSC
+2. Um homem de 28 anos iniciou, há 3 semanas, com odinofagia, febre constante de 38°C, mialgias e cefaleia. Percebeu também a presença de úlceras na mucosa oral. Relata relações sexuais desprotegidas frequentes nos últimos 2 meses. Realizou anti-HIV há 6 meses, que foi negativo. O médico aventa a hipótese de infecção aguda pelo HIV. Qual(is) exame(s) laboratorial(is) pode(m) confirmar este diagnóstico?
+a) imunofluorescência indireta negativa para HIV
+b) enzima imunoensaio (ELISA) positivo para HIV
+c) contagem de linfócitos CD4 <300 células/m[-icro-]{+L+} e carga viral >100.000 cópias
+d) sorologia para HIV negativa e antígeno p24 positivo
+e) sorologia para HIV positiva e carga viral <100.000 cópias
+Resposta no final do capítulo
+
+b) Determinação de um caso de AIDS
+Para facilitar a identificação de um caso de AIDS, o Ministério da Saúde unificou os critérios de avaliação desde o protoco-lo de tratamento de 2014. Assim, para se fazer o diagnóstico, devem-se ter:
+[-- -]Diagnóstico sorológico de HIV determinado pelos passos anteriores; [-- -]
+Presença de pelo menos 1 das manifestações de imunode[-pressão-]{+ficiência+} avançada, mostradas na Tabela [-4-]{+3+}.
+
+Tabela [-4-]{+3+} - Manifestações de imunodeficiência avançada (doenças definidoras de AIDS)
+- Síndrome consumptiva associada ao HIV (perda involuntária de mais de 10% do peso habitual) associada a diarreia crônica (2 ou mais episódios por dia com duração =1 mês) ou fadiga crônica e febre =1 mês;
+- Pneumonia por Pneumocystis jirovecii;
+- Pneumonia bacteriana recorrente (2 ou mais episódios em 1 ano);
+@@ -211,24 +204,28 @@ Tabela 4 - Manifesta
+- Nefropatia ou cardiomiopatia sintomática associada ao HIV.
+
+Importante
+Quando se avalia um paciente e se diz que há candidíase oral, esta não é sinal de imunodeficiência avançada. Mesmo que o paciente tenha sorologia confirmando o HIV, ele não pode ser classificado como AIDS, a menos que haja candidíase esofá[---]gica.
+
+[-4. -]Resumo
+
+Quadro-resumo
+HIV agudo	- [-L-]{+Síndrome mono-like;+}
+{+	- Sintomas inespecíficos;+}
+{+	- 2 a 3 semanas após a infecção inicial, com duração de 2 semanas em média;+}
+{+	- Autolimitado;+}
+{+	- Sorologias habituais negativas nesta fase;+}
+{+	- Realizar carga viral para HIV ou pesquisa de antígeno p24 para diagnóstico nesta fase;+}
+{+	- Importante pensar em HIV agudo nos sintomas gerais de uma mono-like. Atenção ao diagnóstico diferencial;+}
+{+	- Atualmente recomendado tratamento a todos os pacientes que fizerem diagnóstico na fase aguda (ver capítulo de tratamento para melhor discussão).+}
+{+Diagnóstico laboratorial	- Nunca realizar diagnóstico de HIV apenas com um tipo de método positivo; +}
+{+	- Exames complementares têm maior possibilidade diagnóstica atual, com uso inclusive de carga viral do HIV para diagnóstico (que antes não era aceito);+}
+{+	- Jan+}e{+la i+}m[-b-]{+unológica atual: poucos dias (até 14 dias da infecção inicial) com os exames mais moder-nos de detecção como a dosagem da proteína p24 e a p+}r{+ópria carg+}a{+ vi+}r{+al do HIV;+}
+{+	+}-{+ Imunofluorescência e WB podem demorar até 4 +}se{+manas para viragem.+} {+Cuida+}d{+o com f+}a{+l+}s{+o+} [-pri-]n[-cip-]{+eg+}a{+t+}i{+-vo+}s{+;+}
+{+	- Uso de+} [-carac-]te[-rí-]st[-icas-]{+e+} [-clín-]{+ráp+}i[-cas -]do {+de +}HIV {+c+}a[-gu-]d[-o;-]{+a+} [-síndrom-]{+v+}e{+z+} m[-o-]{+ais difu+}n[-o-l-]{+d+}i[-ke-]{+do+};
+	- [-Conhec-]{+L+}e{+mbra+}r [-o-]{+que+} [-mom-]{+t+}e[-n-]{+s+}t[-o-]{+e+} {+rápi+}do {+faz +}diagnóstico d[-o-]{+e+} HIV{+,+} [-agudo;-]
+[-	--]{+sem+} [-E-]n[-t-]e[-n-]{+cessida+}de[-r-] [-sobr-]{+d+}e {+c+}o[- t-]{+nfi+}r[-ata-]m[-ent-]{+açã+}o [-desse-]{+com+} {+ou+}t[-ip-]{+r+}o{+s+} [-d-]{+t+}e[- inf-]{+s-t+}e[-cção-]{+s+}.
+Diagnóstico {+c+}l[-aborator-]{+ín+}i[-al-]{+co+}	- [-Enten-]{+Ca+}d[-er-]{+a+} [-o-]{+vez+} m[-om-]en[-t-]o{+s+} [-d-]{+n+}e[- -]c[-ada exame, d-]e[- aco-]{+ssá+}r[-do com -]{+i+}o{+,+} [-m-]{+c+}om[-ent-]{+ +}o d[-a -]i{+ag+}n[-fe-]{+ósti+}c[-çã-]o[-;-]
+[-	--] [-S-]{+l+}ab[-er s-]o[-b-]r[-e -]a[- j-]{+tori+}a[-ne-]l[-a-] [-i-]m[-unológ-]{+a+}i[-c-]{+s +}a{+cessível+};
+	- [-E-]{+Co+}n[-t-]{+h+}e[-nd-]{+c+}er as [-f-]{+3 princip+}a{+i+}s{+ do+}e{+nça+}s [-d-]o{+portunistas que fazem+} diagnóstico[-.-]{+ de AI+}D[-iag-]{+S (mo+}n[-óst-]i[-co c-]lí[-nico	Conhec-]{+as+}e[-r-] {+es+}o{+fagia-na,+} [-q-]{+pne+}u{+mocistos+}e [-é-]{+e+} ne[-cessá-]{+u+}r[-i-]o[- -]{+toxo+}p{+l+}a{+smose) – +}r[-a-]{+eforço+} {+n+}o [-di-]{+c+}a[-gnós-]{+pí+}t[-ic-]{+ul+}o de [-um caso -]d{+o+}e{+nças+} [-AIDS-]{+oportunistas+}.
+
+Respostas{+ das questões do capítulo+}
+1. B
+2. D[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
