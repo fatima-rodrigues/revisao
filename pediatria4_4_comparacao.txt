@@ -1,0 +1,328 @@
+diff --git a/pediatria4_4.txt b/pediatria4_4.txt
+index a022c21..cde73b4 100644
+--- a/pediatria4_4.txt
++++ b/pediatria4_4.txt
+@@ -1,285 +1,323 @@
+Normas para comunicantes de doenças infecciosas[- -]{++}
+Adriana Prado Lombardi[- / -]{++}
+José Roberto Vasconcelos de Araújo [-/ -]{++}
+Marcelo Higa{++}
+Juliana Tiemi Saito Komati[- / -]{++}
+Ana Thamilla Fonseca{++}
+Danniella Corrêa Netto Pedroso Lenharo[-Resu-]{++}
+{+Vivian A+}m[-o-]{+aral+}
+{++}
+Conhecer as medidas de controle das doenças infecciosas é importante para a proteção individual e para o fornecimento de subsídios à saúde pública, na medida em que podem interferir nas etapas de transmissão e controle das doenças infec{+-+}ciosas. Neste capítulo em especial, serão abordadas medidas que devem ser tomadas nos casos de comunicantes das prin{+-+}cipais doenças infecciosas nos dias de hoje, como a doença meningocócica, a meningite por H. influenzae, a cólera, as he{+-+}patites A e B, a rubéola e a varicela. A doença meningocócica envolve quimioprofilaxia feita em todos os comunicantes íntimos de um caso exposto de 7 a 10 dias do começo dos sintomas, devendo ser iniciada o mais precocemente possível, de preferência nas primeiras 24 horas (contatos familiares, quartéis, orfanatos, creches, pré-escolas, pessoas expostas diretamente a secreções de retrofaringe). A droga de escolha é a rifampicina, por 2 dias. Na meningite por H. influenzae, a quimioprofilaxia deve ser realizada em todos os que tiveram contato domiciliar, nos casos em que há criança menor de 4 anos no domicílio, sendo a droga de escolha a rifampicina durante 4 dias. No caso da cólera, evita-se a transmissão com medidas básicas de higiene, como lavagem das mãos e uso de água tratada e/ou fervida, não sendo necessário o isolamento do portador. Já na hepatite A, a prevenção pode ser feita por meio dos cuidados básicos de higiene e com vacinas que se apresentam sob 2 formas: a primeira é usada em 2 doses, com intervalo de 6 meses, a partir de 12 meses; a 2ª é combina{+-+}da com a vacina contra hepatite B e deve ser feita no tempo zero, 30 e 180 dias. Na hepatite B, o modo de transmissão compreende solução de continuidade (pele, mucosas), relação sexual, via parenteral (agulhas contaminadas, tatuagens), fluidos corpóreos, sangue, procedimentos odontológicos, hemodiálise, transmissão vertical pela mãe portadora e contatos íntimos. A vacina está disponível na rede básica de saúde e deve ser aplicada, atualmente, em 4 doses, a 1ª logo após o nascimento e as demais aos 2, 4 e 6 meses, na forma da vacina pentavalente. Também pode ser utilizada logo após a expo{+-+}sição ao vírus àqueles que não são imunes – a chamada vacinação de bloqueio. Na rubéola, a prevenção é feita por meio da vacinação aos 12 meses de vida, e crianças ou adultos com rubéola devem ser afastados da escola, da creche ou do local de trabalho por 7 dias após o rash (durante o período de transmissibilidade); o 1º passo é verificar o real estado imunitário documentado (carteira de vacinação) dos contactantes para indicar vacinação. Para a prevenção de varicela, pode-se apli{+-+}car a vacina em dose única em crianças com mais de 12 meses e em 2 doses após os 13 anos, podendo ser usada, também, em até 3 dias da exposição quando o risco de complicações é elevado. Já a imunoglobulina humana antivaricela-zóster pode ser aplicada em até 96 horas após o contato com o caso-índice, para gestantes suscetíveis e imunocomprometidos. {++}
+{++}
+1. Introdução{++}
+{++}
+Algumas doenças infecciosas encontram-se erradicadas em nosso meio (varíola e poliomielite) e outras eliminadas (sa{+-+}rampo), porém há aquelas que podem persistir (rubéola congênita e hepatite B), apesar da existência de medidas eficazes de prevenção, como a vacinação.{++}
+Recentemente, novas medidas de controle para as doenças infecciosas foram adotadas no país, como a introdução das va{+-+}cinas contra o pneumococo e o meningococo C, além da vacinação contra a influenza A H1N1. Assim, o objetivo é reduzir o número de casos e controlar essas doenças transmissíveis. A avaliação do impacto dessa nova medida no controle começará a ser verificada com informações técnicas, fundamentadas em dados válidos e confiáveis, garantindo uma decisão adequada e ajustada à nossa realidade para a programação de ações em saúde. {++}
+Desde o início da década de 1980, algumas doenças infecciosas passaram a ser registradas (doenças infecciosas emergen{+-+}tes) ou foram reintroduzidas no Brasil, destacando-se o HIV/AIDS (1980), a dengue hemorrágica (1982), a cólera (1991) e a hantavirose (1993). Dentre estas, somente a cólera apresentou redução significativa na última década.{++}
+Três etapas são necessárias para a transmissão de agentes infecciosos para pessoas não infectadas. Na 1ª etapa, o patóge{+-+}no precisa ser excretado de um sítio de infecção, como o gastrintestinal (vírus, bactérias e parasitas); na 2ª etapa, a transmis{+-+}são ocorre de pessoa a pessoa; e, finalmente, a inoculação precisa ser em indivíduo suscetível ao agente infectante. Um exemplo é a doença diarreica aguda (rotavírus), que tem início com a excreção dos vírus pela diarreia da criança doente. A transferência para outra criança pode ser feita por mãos contaminadas por fezes da própria criança ou de seu protetor; a etapa final é a inoculação em sítios suscetíveis, como levar as mãos contaminadas à boca. Após essa etapa, há início ou não de infecção gastrintestinal, uma vez que vários fatores podem permear o início da doença: imunização prévia pela vacina contra o rotavírus, infecção em lactente jovem (<3 meses) ou imunossuprimidos.{++}
+Conhecer as medidas de controle das doenças infecciosas é importante para a proteção individual e para fornecer subsí{+-+}dios à saúde pública, na medida em que podem interferir nas etapas de transmissão e controle das doenças infecciosas. {++}
+No Brasil, a Portaria nº 5 do Ministério da Saúde, de 21 de fevereiro de 2006, incluiu a notificação de casos suspeitos ou confirmados de influenza humana por novo subtipo, em um total de 41 doenças e agravos. Na dependência do potencial de transmissão para determinada doença, devem ser tomadas medidas de controle, a saber:{++}
+Medidas de higiene;{++}
+Tratamento de contactuantes;{++}
+Medidas de controle e de prevenção;{++}
+Notificações;{++}
+Discussão de normas de controle de algumas doenças infecciosas de maior prevalência em nosso meio.{++}
+{++}
+2. Doença meningocócica{++}
+{++}
+As manifestações mais comuns das doenças causadas pela Neisseria meningitidis são a meningite, a sepse e a artrite, que podem ocorrer de forma isolada ou combinada. As crianças com meningite desenvolvem febre, mal-estar, cefaleia intensa, náuseas, vômitos e prostração. Nos casos de crianças, a instalação da doença é súbita. Quando ocorre sob a forma de sepse meningocócica (com ou sem meningite), pode estar presente rash característico no tronco e nas extremidades e, ocasional{+-+}mente, evoluir para uma forma fulminante (púrpura fulminans). As complicações podem ser necrose profunda com perda de tecidos, paralisias, abscesso cerebral, hidrocefalia sequelar e choque séptico.{++}
+O reservatório da Neisseria meningitidis é o indivíduo doente ou portador (de 5 a 10%). Entretanto, quando uma criança frequenta creche e adquire infecção meningocócica, a colonização aumenta e pode chegar a 50% ou mais em adultos e cri{+-+}anças.{++}
+{++}
+Importante {++}
+A população de risco para doença meningocócica são crianças com deficiência de anticorpos ou complemento, ou asple{+-+}nia anatômica ou funcional, com destaque, em nosso meio, para os falcêmicos.{++}
+{++}
+O contato íntimo e direto é o modo de transmissão que pode ocorrer. Enquanto o patógeno estiver presente na nasofa-ringe, apresentará período de incubação de 2 dias ou semanas a partir do contágio, e a maioria das crianças com formas inva-sivas o faz na 1ª semana. O período infeccioso é de 24 horas, mas é importante lembrar que em creches a bactéria pode disseminar-se muito rapidamente.{++}
+O tipo de precaução recomendada para meningite por meningococo é do tipo particulado (droplet), devendo-se usar iso{+-+}lamento e máscaras sempre que estiver a menos de 1,5m do paciente, avental descartável e luvas nas primeiras horas, para evitar contato com pele não intacta ou mucosa (meningococcemia). O uso de antibióticos (terapêutico ou profilático) erradica o patógeno em 24 horas, tempo de isolamento do doente.{++}
+O diagnóstico é, usualmente, feito com a recuperação da bactéria no líquido cerebrospinal (LCE) ou no sangue (hemocul{+-+}tura). A cultura de orofaringe não é utilizada para estabelecer o diagnóstico. O tratamento hospitalar é realizado com penicili{+-+}na em doses elevadas, cefotaxima ou, ainda, ceftriaxona intravenosas.{++}
+{++}
+Importante{++}
+A quimioprofilaxia da doença meningocócica, segundo o Ministério da Saúde, realizada pela Vigilância Sanitária, deve ser feita em todos os comunicantes íntimos de um caso exposto de 7 a 10 dias do começo dos sintomas, devendo ser inicia{+-+}da o mais precocemente possível, de preferência nas primeiras 24 horas (contatos familiares, quartéis, orfanatos, cre{+-+}ches, pré-escolas, pessoas expostas diretamente a secreções de retrofaringe). A droga de escolha é a rifampicina.{++}
+{++}
+Tabela 1 - Esquema quimioprofilático para comunicantes íntimos de caso exposto de doença meningocócica{++}
+Rifampicina	Doses	Vias de administração	Frequência	Duração{++}
+Adultos	600mg	Oral	12/12h	2 dias{++}
+>1 mês até 10 anos	10mg/kg (máximo 600mg)	Oral	12/12h	2 dias{++}
+<1 mês	5mg/kg (máximo 600mg)	Oral	12/12h	2 dias{++}
+{++}
+De rotina, não é recomendada aos profissionais da saúde, desde que tenham tomado precauções respiratórias no atendi{+-+}mento ao paciente (máscara, óculos, luvas e avental) na intubação orotraqueal ou na aspiração de secreções.{++}
+O caso-índice precisa receber a quimioprofilaxia antes da alta, a menos que seu tratamento tenha sido realizado com ceftriaxona, que também é um potente erradicador de meningococo da orofaringe. Antibióticos como o cloranfenicol ou as penicilinas não atingem níveis suficientes em lágrimas ou saliva para tal finalidade. {++}
+O paciente pode ser retirado do isolamento respiratório após 24 horas do início da antibioticoterapia, porém é aconse{+-+}lhável que seja mantido o isolamento de secreções. Contudo, após a suspensão de tais antibióticos, o meningococo volta a recolonizar a orofaringe em 27% dos casos.{++}
+Trata-se de uma doença de notificação compulsória.{++}
+{++}
+3. Meningite por Haemophilus influenzae{+ +}
+{++}
+Antes da introdução da vacina contra o H. influenzae, cepas tipo B dessa bactéria Gram negativa eram responsáveis por 97% das infecções invasivas em crianças. Os sinais e os sintomas desse tipo de meningite são semelhantes aos de todos os tipos de doença: início súbito, piora rápida da condição clínica da criança, febre, calafrios, irritação meníngea (vista em crian{+-+}ças maiores). A suspeita diagnóstica baseia-se na história e no exame físico, e são coletados os exames laboratoriais, que de{+-+}vem incluir LCE e culturas. A cultura do LCE é o padrão-ouro para o diagnóstico de meningite por H. influenzae. O resultado dessa cultura leva algum tempo para apresentar resultados, motivo pelo qual deve ser notificado o caso suspeito.{++}
+A infecção com H. influenzae, na ausência de doença, é chamada de colonização ou estado de portador. O reservatório é o homem, e o modo de transmissão é de pessoa a pessoa, saliva e secreções, principalmente nasais, com porta de entrada pela nasofaringe. O período de incubação é de 2 a 4 dias, e a transmissão ocorre enquanto o patógeno está na nasofaringe.{++}
+A antibioticoterapia adequada erradica o patógeno em 24 horas; por isso, durante esse período, o paciente deve ser iso{+-+}lado. As complicações são paralisias, abscesso cerebral, hidrocefalia, entre outras. O tratamento é feito com cloranfenicol ou ceftriaxona, entretanto, caso seja usada a 1ª das drogas, deve-se associar outro antibiótico com cobertura para Streptococcus e Neisseria até que se tenha o resultado da cultura do LCE.{++}
+{++}
+Importante {++}
+A quimioprofilaxia da meningite por Haemophilus influenzae deve ser realizada em todos os que tiveram contato domicili{+-+}ar, se há criança menor de 4 anos no domicílio. No caso de creches e pré-escolas, somente quando há comunicantes menores de 4 anos e com presença de 2 ou mais casos. A droga de escolha é a rifampicina.{++}
+{++}
+Tabela 2 - Esquema quimioprofilático para comunicantes de caso exposto de meningite por Haemophilus influenzae{++}
+Rifampicina	Doses	Vias {++}
+de administração	Frequência	Duração{++}
+Adultos	600mg	Oral	1x/d	4 dias{++}
+>1 mês até 10 anos	20mg/kg (máximo 600mg)	Oral	1x/d	4 dias{++}
+<1 mês	10mg/kg (máximo 600mg)	Oral	1x/d	4 dias{++}
+{++}
+4. Cólera{++}
+{++}
+Trata-se de uma infecção intestinal aguda causada pelo Vibrio cholerae, cuja transmissão acontece por meio de alimentos contaminados pelo doente ou pelo portador, frutos do mar, peixe cru ou água contaminada, enquanto se elimina o embrião nas fezes, ou seja, por cerca de 20 dias, a contar do início dos sintomas. O reservatório do Vibrio cholerae é o homem, e o tempo de incubação após o contágio é de algumas horas a 5 dias.{++}
+Caracteriza-se por quadro de início súbito de diarreia volumosa com perda maciça de água, apresentando ou não vômitos e dor abdominal. Possui como complicações desidratação, hipocalcemia, acidose metabólica hiperclorêmica resultante da perda de bicarbonato pelas fezes, colapso circulatório, choque e insuficiência renal (do tipo pré-renal). Na criança, em espe{+-+}cial, pode cursar com coma, convulsões e hipoglicemia.{++}
+O diagnóstico pode ser presuntivo (clínico-epidemiológico) ou laboratorial por meio da cultura de fezes, e o diagnóstico diferencial engloba as diarreias com outra etiologia (infecciosas e inflamatórias).{++}
+Entre as infecciosas, é importante ressaltar que podem ser causadas por bactérias (Vibrio cholerae, E. coli, Salmonella sp., Shigella sp. e outras), por vírus (adenovírus entérico, rotavírus, citomegalovírus e outros), ou mesmo por parasitas (Giardia lamblia, Entamoeba histolytica, Strongyloides stercoralis e outros). A maioria dos casos de diarreia ou gastr[-o-]enterite é viral. Entre as causas não infecciosas de diarreia, podem ser citadas as ligadas a má absorção, intoxicação alimentar e processos alérgicos e inflamatórios.{++}
+A abordagem da criança com diarreia aguda (início com menos de 14 dias) tem o objetivo de avaliar o grau de desidrata{+-+}ção e repor líquidos e eletrólitos, prevenir a propagação do enteropatógeno e, em episódios selecionados, determinar o agente etiológico e instituir terapia específica, quando indicada.{++}
+{++}
+Importante {++}
+No caso da cólera, evita-se a transmissão com medidas básicas de higiene, como lavagem das mãos e uso de água tratada e/ou fervida. Não é necessário o isolamento do portador. {++}
+{++}
+A notificação deve ser feita imediatamente nos casos suspeitos ou confirmados (por intermédio da cultura de fezes em meio apropriado). Na prática, isso não se aplica individualmente, mas aos surtos ou em caso de suspeita deles.{++}
+{++}
+5. Hepatite A{++}
+{++}
+Cerca de 1/4 das crianças infectadas pelo vírus da hepatite A tem algum sintoma, contrapondo-se com 3/4 dos adultos. Ou seja, na infância, os quadros apresentam-se, frequentemente, nas formas oligossintomáticas ou assintomáticas. Os sinais típi{+-+}cos entre as crianças são icterícia, colúria, acolia e mal-estar; diarreia é sintoma comum entre as crianças, mas raro nos adul{+-+}tos. Os humanos são as únicas fontes do vírus da hepatite A. O modo de transmissão é fecal-oral, veiculação hídrica e alimen{+-+}tos contaminados; o reservatório natural é o homem; o período de incubação é de 15 a 45 dias; e a transmissão ocorre em até 2 semanas antes da manifestação dos sintomas e até 2 semanas a partir da doença.{++}
+O período de infecciosidade entre os indivíduos sintomáticos estende-se por 10 dias do início da colúria, pois as partículas virais não são mais detectadas nas fezes; é quando a criança pode voltar a frequentar a creche, por exemplo.{++}
+{++}
+Tabela 3 - Possibilidades do diagnóstico sorológico do vírus da hepatite A{++}
+IgM	IgG	Resultados{++}
+(-)	(-)	Suscetível e não infectado{++}
+(+)	(-)	Infectado atual ou infectado há poucos meses{++}
+(+)	(+)	Infectado entre 2 e 6 meses{++}
+(-)	(+)	Infectado há mais de 6 meses{++}
+{++}
+A prevenção pode ser feita por meio dos cuidados básicos de higiene e de vacinas. Há 2 tipos disponíveis no Brasil: mono{+-+}valente e combinada. A primeira é usada em 2 doses, com intervalo de 6 meses, a partir de 12 meses de idade; e a segunda é combinada com a vacina contra hepatite B e deve ser feita no tempo zero, 30 e 180 dias. Dependendo do tipo de vacina utili{+-+}zado, pode ser aplicado a partir do 1º ano de vida. Atualmente, o calendário básico de vacinação disponível pelo Sistema Único de Saúde (SUS) preconiza 1 dose de vacina contra hepatite A aos 1[-2-]{+5+} meses.{++}
+A complicação mais temida é a hepatite fulminante (alterações de coagulação e encefalopatia hepática), e o diagnóstico é clínico-laboratorial (sorologias). O diferencial é com as outras formas de hepatite. A notificação é obrigatória, segundo a Por{+-+}taria nº 104 do Ministério da Saúde, de 25 de janeiro de 2011.{++}
+{++}
+6. Hepatite B{++}
+{++}
+O modo de transmissão desse tipo de hepatite, de notificação compulsória, compreende a solução de continuidade (pele, mucosas), relação sexual, via parenteral (agulhas contaminadas, tatuagens, perfuração de orelha), fluidos corpóreos, sangue, procedimentos odontológicos, hemodiálise, transmissão vertical pela mãe portadora e contatos íntimos.{++}
+O período de incubação é de 30 a 180 dias, e a transmissão ocorre desde a 3ª semana antes da manifestação clínica até o final da doença. A hepatite B também pode apresentar-se sob a forma crônica.{++}
+Uma vez que muitas infecções são assintomáticas, os testes sorológicos são os meios mais acurados para o diagnóstico da infecção pelo vírus da hepatite B (HBV). A Tabela 4 identifica cada condição imunológica.{++}
+{++}
+Tabela 4 - Condições sorológica e imunológica da hepatite B{++}
+Interpretação do quadro sorológico da infecção pelo HBV{++}
+HBsAg	HBeAg	Anti-HBc IgM	Anti-HBc IgG	Anti-HBe	Anti-HBs*	Interpretações{++}
++	+	+	+	-	-	Infecção aguda pelo HBV{++}
++	+	-	+	-	-	Infecção crônica pelo HBV ou final de infecção aguda{++}
++	-	-	+	+	-	Infecção crônica pelo HBV ou final de infecção aguda{++}
++	-	-	+	-	-	Infecção crônica pelo HBV ou final de infecção aguda{++}
+-	-	+	+	-	-	Infecção recente pelo HBV no início do período de con[---]vales{+-+}cença{++}
+-	-	-	+	-	-	Infecção antiga pelo HBV com cicatriz sorológica{++}
+-	-	-	+	+	+	Infecção imune passada pelo HBV com cicatriz sorológi[---]ca{++}
+-	-	-	+	-	+	Infecção imune passada pelo HBV{++}
+-	-	-	-	-	+	Resposta imune vacinal{++}
+-	-	-	-	-	-	Suscetibilidade{++}
+Observação: investigar, sempre, todos os comunicantes em quaisquer das situações anteriores. {++}
+* Com o tempo, o anti-HBs pode estar em níveis indetectáveis pelos testes sorológicos.{++}
+{++}
+As complicações são infecção, cirrose, carcinoma e sepse, além da hepatite fulminante. A prevenção é feita com desin{+-+}fecção de secreções e objetos de pessoas sabidamente portadoras do vírus, orientação para o parceiro sexual, para compar{+-+}tilhamento de material odontológico e rastreamento em banco de sangue. É importante lembrar que a vacina é o método mais seguro de prevenção, [-a-]{+já+} qu[-al não é garantida-]{+e+} nem com o uso de preservativos{+ a prevenção é garantida+}.{++}
+A vacina está disponível na rede básica de saúde e deve ser aplicada, atualmente, em 4 doses. A 1ª, logo após o nascimen{+-+}to, e as demais aos 2, 4 e 6 meses, na forma da vacina pentavalente. Também pode ser utilizada logo após a exposição ao vírus para aqueles que não são imunes, a chamada vacinação de bloqueio.{++}
+{++}
+7. Rubéola{++}
+{++}
+Trata-se de uma doença exantemática que pode apresentar-se assintomática, ou mesmo ser confundida com outras doen{+-+}ças exantemáticas. Entre os casos típicos, rash e adenopatia são os sinais mais comuns. O exantema aparece inicialmente na face e, em seguida, espalha-se pelo tronco e pelos membros. O enantema da rubéola é observado no período prodrômico ou no 1º dia, sendo conhecido como manchas de Forchheimer (sobre o palato mole). {++}
+Febre baixa, linfonodos aumentados e poliartralgia fazem parte do quadro clínico, principalmente em adolescentes e mu{+-+}lheres. É uma doença causada por vírus cujo reservatório é o homem, e a transmissão ocorre pelo contato direto com a pes{+-+}soa contaminada durante os primeiros 5 a 7 dias de contágio, durante o período de viremia.{++}
+O período de incubação varia de 14 a 21 dias. A transmissão é feita por partículas (droplets) ou contato direto. A compli{+-+}cação mais temida é a rubéola durante a gravidez, pelos riscos à criança. O diagnóstico é clínico, epidemiológico e laboratori{+-+}al, com diferencial com as outras doenças exantemáticas. {++}
+{++}
+Dica{++}
+A prevenção da rubéola é feita por meio da vacinação aos 12 meses de vida.{+ A vacina também é aplicada aos 15 meses de vida (tetraviral). +}
+{++}
+Crianças e adultos com rubéola devem ser afastados da escola, da creche ou do local de trabalho por 7 dias após o rash (durante o período de transmissibilidade), e o 1º passo é verificar o real estado imunitário documentado (carteira de vacina{+-+}ção) dos contactantes para indicar vacinação. Deve-se lembrar que essa vacina não bloqueia a evolução da doença em pesso{+-+}as que já estão no período de incubação.{++}
+Crianças com rubéola congênita devem ser consideradas potencialmente infectantes do nascimento até o 1º ano de idade ou, quando disponível, apresentem cultura viral na nasofaringe e urina negativas após 3 meses do quadro. Os pais devem ser alertados quanto ao risco de transmissão para suscetíveis, principalmente gestantes e durante internação hospitalar para cirurgias como as cardíacas, comuns nas crianças com síndrome da rubéola congênita. Estas não devem ter contato com casos e/ou comunicantes durante o período em que são transmissoras ou de incubação. Quando expostas a um doente, devem ser avaliadas sorologicamente o mais rápido possível, para posterior acompanhamento e orientação. {++}
+Acrescente-se que são de notificação compulsória tanto a rubéola adquirida após o nascimento quanto a congênita. {++}
+{++}
+8. Varicela{++}
+{++}
+Trata-se de doença exantemática causada pelo vírus varicela-zóster, cujo reservatório é o homem e o modo de transmis{+-+}são é o contato direto (trato respiratório) ou com secreções (lesão de pele), indiretamente por objetos. O período de incuba{+-+}ção é de 14 a 16 dias, e a transmissão pode ocorrer até 2 dias antes da erupção cutânea. Deve-se lembrar que a varicela é extremamente contagiosa. Os sintomas são rash e caracterizam-se por:{++}
+Evolução rápida de mácula para pápula, vesícula, pústula e crosta;{++}
+Distribuição central das lesões;{++}
+Prurido intenso;{++}
+Presença de lesões em todos os estágios em qualquer local;{++}
+Duração de 3 ou 4 dias para as lesões em grupos, com distribuição centrípeta das lesões.{++}
+Um sinal muito característico é o polimorfismo regional, ou seja, em uma mesma região do corpo é possível encontrar le{+-+}sões em diferentes graus evolutivos, o que indica que a doença é benigna.{++}
+As complicações são infecção (celulite, impetigo), encefalite, síndrome de Reye comumente associada ao uso de ácido acetilsalicílico e meningite. O diagnóstico é clínico e epidemiológico, tendo como diferenciais todas as outras doenças exan{+-+}temáticas, infecções cutâneas (impetigo) e estrófulo (alergia a picadas).{++}
+Com relação aos contactantes, deve-se evitar a disseminação da doença em creches ou em escolas, por isso a criança do{+-+}ente deve ser afastada de locais como esses, sendo a média de afastamento de 5 a 7 dias. A transmissão ocorre em até 2 dias antes do aparecimento da erupção cutânea, até todas as lesões estarem no estágio de crosta.{++}
+{++}
+Importante{++}
+A vacina contra varicela pode ser aplicada em dose única em crianças com mais de 12 meses e em 2 doses após os 13 anos. O calendário básico de vacinação disponível pelo SUS preconiza a vacina tetra viral (varicela + SCR) aos 15 meses, 1 dose. Pode ser usada, também, em até 3 dias da exposição quando o risco de complicações é elevado.{++}
+{++}
+É importante lembrar que pacientes em uso crônico de ácido acetilsalicílico não devem ser vacinados, por precaução. {++}
+A notificação é obrigatória apenas nos casos em que há surto de varicela, ocasião em que deve ser utilizada a vacina profi{+-+}laticamente (hospitais e creches) até 72 horas do contato.{++}
+{++}
+Importante {++}
+A imunoglobulina humana antivaricela-zóster pode ser aplicada em até 96 horas após o contato com o caso-índice, para gestantes suscetíveis e imunocomprometidos. Recém-nascidos de mães que apresentam varicela nos últimos 5 dias antes e até 48 horas depois do parto e recém-nascidos prematuros com 28 semanas ou menos de gestação, indepen{+-+}dente de história materna de varicela, têm indicação de receberem, também, a imunoglobulina específica.{++}
+{++}
+Indivíduos internados em contato com o caso-índice devem permanecer em isolamento até o 21º dia após o contato (pe{+-+}ríodo de incubação) e só retirados do isolamento após tal período e, obviamente, caso não tenham manifestado a doença.{++}
+Em creches, a vacina contra varicela está indicada a partir da ocorrência do 1º caso, no período máximo de até 4 semanas desde o último caso. Serão vacinadas as crianças na faixa etária de 1 a 5 anos, suscetíveis a varicela.{++}
+Crianças com varicela devem permanecer afastadas de suas atividades em creches e escolas de qualquer tipo durante o período mínimo de 7 dias ou mais, até que todas as lesões se apresentem na fase de crosta.{++}
+{+ +}
+Pergunta{++}
+2013 - UERJ{++}
+1. Um paciente de 2 anos e 6 meses, frequentando uma creche, apresentou quadro clínico compatível com varicela. A pediatra responsável pela creche recomendou que: {++}
+a) todas as crianças fossem medicadas com aciclovir a fim de diminuir a possibilidade de contágio com a varicela {++}
+b) todas as crianças fiquem em contato com o paciente para se contaminarem com varicela, já que se trata de doença be[---]nigna {++}
+c) as famílias observem atentamente as crianças para o aparecimento de vesículas e outros sinais clínicos da varicela, pois já houve o contato com o vírus {++}
+d) fosse realizada a vacinação de todas as crianças saudáveis e que não possuam esquema completo de vacinação para varicela, o mais precoce possível, pois essa ação é eficaz na prevenção ou na modificação da expressão da varicela, tor{+-+}nan[---]do-a mais branda {++}
+Resposta no final do capítulo{++}
+{++}
+9. [-D-]{+C+}o{+qu+}e[-nç-]{+luche+}
+{++}
+{+T+}a[-s d-]{+b+}e{+la+} [-n-]{+5 - C+}o{+ndu+}t[-i-]{+a +}f[-ic-]{+rente +}a[-ção-]{+ um+} c{+as+}o[-mp-]{+ s+}u[-l-]s[-ór-]{+pe+}i[-a-]{+to+} [-A-]{+de+} [-P-]{+coqueluche+}
+{+- N+}o[-r-]t{+ific+}ar{+ imed+}ia[- -]{+tame+}n[-º 104, d-]{+t+}e{+;+}
+{+-+} [-25 d-]{+R+}e[- j-]a[-ne-]{+l+}i{+za+}r[-o-] [-d-]{+col+}e[- 2011,-]{+ta+} de[-fine-] {+m+}a[-s -]ter[-minolog-]ia[-s-]{+l+} [-adota-]d[-as-]{+e+} na[- legi-]s[-laçã-]o[- n-]{+f+}a[-c-]{+r+}i[-o-]n{+ge par+}a[-l,-] c[-onfo-]{+ultu+}r[-m-]{+a d+}e {+B+}o[- -]{+r+}d[-ispos-]{+e+}t[-o no R-]e[-gu-]{+l+}la[-m-]{+ p+}e[-n-]{+r+}t[-o San-]{+uss+}i[-tár-]{+s;+}
+{+- Bloque+}io [-Intern-]{+v+}aci[-o-]nal [-2005 (RSI 2005), e-]{+para+} a{+s+} {+c+}r[-el-]{+i+}a{+n+}ç[-ão-]{+as+} de [-do-]{+2 mes+}e[-nça-]s[-,-] a[-gr-]{+ 6 +}a[-v-]{+n+}os {+compl+}e[- even-]tos{+,+} [-e-]{+co+}m [-s-]{+v+}a[-úde públi-]{+cina pentavalente ou DTP;+}
+{+- Tratamento dos casos suspeitos e desencadear medidas de controle;+}
+{+- Quimioprofilaxia para os contatos/comunicantes (macrolídeos): +}
+{+· Crianças menores de 1 ano independentemente da situação vacinal e período de tosse;+}
+{+· Crianças menores de 7 anos com esquema vacinal incompleto;+}
+{+· Com mais de 7 anos, que tiveram contato próximo com um caso suspeito de coqueluche ou contato com um comunicante vulnerável no mesmo domicílio, no período de até 21 dias.+}
+{+- Identificar comunicantes sintomáticos para a coleta de material de nasofaringe ou coletar amostra de um comunicante íntimo mais próximo assintomático;+}
+{+- Em caso de hospitalização, o isolamento respiratório de gotículas até 5 dias após o início do tratamento com antibiótico.+}
+{++}
+{+10. Difteria+}
+{++}
+{+Tabela 6 - Conduta diante de um caso suspeito de difteria+}
+{+- Notificar imediatamente;+}
+{+- Hospitalizar o paciente;+}
+{+- Coletar material para diagnóstico laboratorial;+}
+{+- Manter isolamento respiratório por gotículas, durante 14 dias, após a introdução da antibioticoterapia;+}
+{+- Administração do soro antidiftérico o mais rapidamente possível;+}
+{+- Iniciar antibioticoterapia (eritromicina, penicilina cristalina ou procaína);+}
+{+- Vacinação dos comunicantes (Tabela 7);+}
+{+- Realizar pesquisa de portadores entre os comunicantes pela coleta de material de naso e orofaringe e de lesão de pele;+}
+{+- Comunicantes que trabalham com manipulação de alimentos, ou contato frequente com grande número de crianças nos grupos de maior risco ou com pessoas imunodeprimidas, recomenda-se o afastamento de seus locais de trabalho até que se tenha o resultado da cultura e, se positiva, até 48 horas após o início do antibiótico;+}
+{+- Quimioprofilaxia: comunicantes que não foram submetidos a coleta de material para pesquisa e portadores;+}
+{+- Controle dos portadores: vacina + quimioprofilaxia + coleta de material de controle 2 semanas após tratamento.+}
+{++}
+{+Tabela 7 - Vacinação dos comunicantes+}
+{+Historia vacinal	Menores de 7 anos	7 anos ou mais+}
+{+	<1 ano	=1 ano	+}
+{+Não vacinados	Iniciar o esquema com pentavalente.	Iniciar o esquema com DTP.	Iniciar o esquema com dT.+}
+{+Vacinação incompleta	Completar o esquema com pentavalente.	Completar o esquema com DTP.	Completar o esquema com a dT.+}
+{+Vacinação completa	Não se aplica.	Aplicar 1 dose de dT como reforço, se a última dose foi aplicada há mais de 5 anos .+}
+{++}
+{+11. Doenças de notificação compulsória+}
+{++}
+{+A Portaria nº 104, de 25 de janeiro de 2011, define as terminologias adotadas na legislação nacional, conforme o disposto no Regulamento Sanitário Internacional 2005 (RSI 2005), e a relação de doenças, agravos e eventos em saúde públi+}ca de notificação compulsória em todo o território nacional e estabelece fluxo, critérios, responsabilidades e atribuições aos profis{+-+}sionais e serviços de saúde.{++}
+{++}
+Tabela [-5-]{+8+} - Lista de Notificação Compulsória{++}
+- Acidentes por animais peçonhentos;{++}
+- Atendimento antirrábico;{++}
+- Botulismo;{++}
+- Carbúnculo ou antraz;{++}
+- Cólera;{++}
+- Coqueluche;{++}
+- Dengue;{++}
+- Difteria;{++}
+- Doença de Creutzfeldt-Jakob;{++}
+- Doença meningocócica e outras meningites;{++}
+- Doença de Chagas aguda;{++}
+- Esquistossomose;{++}
+- Eventos adversos pós-vacinação;{++}
+- Febre amarela;{++}
+- Febre do Nilo ocidental;{++}
+- Febre maculosa;{++}
+- Febre tifoide;{++}
+- Hanseníase;{++}
+- Hantavirose;{++}
+- Hepatites virais;{++}
+- Infecção pelo HIV em gestantes e crianças expostas ao risco de transmissão vertical;{++}
+- Influenza humana por novo subtipo;{++}
+- Intoxicações exógenas (por substâncias químicas, incluindo agrotóxicos, gases tóxicos e metais pesados);{++}
+- Leishmaniose tegumentar americana;{++}
+- Leishmaniose visceral;{++}
+- Leptospirose;{++}
+- Malária;{++}
+- Paralisia flácida aguda;{++}
+- Peste;{++}
+- Poliomielite;{++}
+- Raiva humana;{++}
+- Rubéola;{++}
+- Sarampo;{++}
+- Sífilis adquirida;{++}
+- Sífilis congênita;{++}
+- Sífilis em gestante;{++}
+- AIDS;{++}
+- Síndrome da rubéola congênita;{++}
+- Síndrome do corrimento uretral masculino;{++}
+- Síndrome respiratória aguda grave associada ao coronavírus;{++}
+- Tétano;{++}
+- Tuberculose;{++}
+- Tularemia;{++}
+- Varíola;{++}
+- Violência doméstica, sexual e/ou outras violências.{++}
+{++}
+Tabela [-6-]{+9+} - Lista de Notificação Compulsória Imediata{++}
+I - Caso suspeito ou confirmado de:{++}
+- Botulismo;{++}
+- Carbúnculo ou antraz;{++}
+- Cólera;{++}
+- Dengue nas seguintes situações:{++}
+· Dengue com complicações;{++}
+· Síndrome do choque da dengue;{++}
+· Febre hemorrágica da dengue;{++}
+· Óbito por dengue;{++}
+· Dengue pelo sorotipo DENV-4 nos estados sem transmissão endêmica desse sorotipo.{++}
+- Doença de Chagas aguda;{++}
+- Doença conhecida sem circulação ou com circulação esporádica no território nacional que não consta no Anexo I da Portaria nº 104, como: rocio, Mayaro, Oropouche, Saint Louis, Ilhéus, mormo, encefalites equinas do leste, oeste e venezuelana, chikungunya, ence{+-+}falite japonesa, entre outras;{++}
+- Febre amarela;{++}
+- Febre do Nilo ocidental;{++}
+- Hantavirose;{++}
+- Influenza humana por novo subtipo;{++}
+- Peste;{++}
+- Poliomielite;{++}
+- Raiva humana;{++}
+- Sarampo;{++}
+- Rubéola;{++}
+- Síndrome respiratória aguda grave associada ao coronavírus;{++}
+- Varíola;{++}
+- Tularemia;{++}
+- Síndrome da rubéola congênita.{++}
+II - Surto ou agregação de casos ou óbitos por:{++}
+- Difteria;{++}
+- Doença meningocócica;{++}
+- Doença transmitida por alimentos em embarcações ou aeronaves;{++}
+- Influenza humana;{++}
+- Meningites virais;{++}
+- Outros eventos de potencial relevância em saúde pública, após a avaliação de risco de acordo com o Anexo II do RSI 2005, desta{+-+}cando-se:{++}
+· Alteração no padrão epidemiológico de doença conhecida, independente de constar no Anexo I da Portaria nº 104;{++}
+· Doença de origem desconhecida;{++}
+· Exposição a contaminantes químicos;{++}
+· Exposição a água para consumo humano fora dos padrões preconizados pela Secretaria de Vigilância em Saúde;{++}
+· Exposição ao ar contaminado, fora dos padrões preconizados pela Resolução do Conselho Nacional do Meio Ambiente;{++}
+· Acidentes envolvendo radiações ionizantes e não ionizantes por fontes não controladas, por fontes utilizadas nas atividades indus{+-+}triais ou médicas e acidentes de transporte com produtos radioativos da classe 7 da ONU;{++}
+· Desastres de origem natural ou antropogênica quando há desalojados ou desabrigados;{++}
+· Desastres de origem natural ou antropogênica quando houver comprometimento da capacidade de funcionamento e infraestrutu{+-+}ra das unidades de saúde locais em consequência do evento.{++}
+III - Doença, morte ou evidência de animais com agente etiológico que pode acarretar a ocorrência de doenças em huma-nos, destacando-se, entre outras classes de animais:{++}
+- Primatas não humanos;{++}
+- Equinos;{++}
+- Aves;{++}
+- Morcegos:{++}
+· Raiva: morcego morto sem causa definida ou encontrado em situação não usual, tais como: voos diurnos, atividade alimentar di{+-+}urna, incoordenação de movimentos, agressividade, contrações musculares, paralisias, encontrado durante o dia no chão ou em paredes.{++}
+- Canídeos:{++}
+· Raiva: canídeos domésticos ou silvestres que apresentaram doença com sintomatologia neurológica e evoluíram para morte em um período de até 10 dias ou confirmado laboratorialmente para raiva;{++}
+· Leishmaniose visceral: 1º registro de canídeo doméstico em área indene, confirmado por meio da identificação laboratorial da es{+-+}pécie Leishmania chagasi.{++}
+- Roedores silvestres:{++}
+· Peste: roedores silvestres mortos em áreas de focos naturais de peste.[-10. -]{++}
+{++}
+Resumo{++}
+{++}
+Quadro-resumo{++}
+Doença meningocócica{++}
+A quimioprofilaxia, segundo o Ministério da Saúde e realizada pela Vigilância Sanitária, deve ser feita em todos os comunicantes íntimos de casos expostos de 7 a 10 dias do início dos sintomas e iniciada o mais precocemente possível, de preferência nas primei{+-+}ras 24 horas (contatos familiares, quartéis, orfanatos, creches, pré-escolas, pessoas expostas diretamente a secreções de retrofa{+-+}ringe). A droga de escolha é a rifampicina. Para adultos, a dose é de 600mg, VO, 12/12h, por 2 dias; para crianças >1 mês até 10 anos, a dose é de 10mg/kg VO (máxima 600mg), 12/12h, por 2 dias; para <1 mês, 5mg/kg VO (máxima 600mg), 12/12h, por 2 dias.{++}
+Meningite por H. influenzae{++}
+A quimioprofilaxia deve ser feita em todos os que tiveram contato domiciliar, se há criança <4 anos no domicílio. No caso de cre{+-+}ches e pré-escolas, só quando há comunicantes <4 anos e com 2 ou mais casos. A droga de escolha é a rifampicina. Para adultos, dose de 600mg/d VO, 1x/d, por 4 dias; para crianças >1 mês até 10 anos, 20mg/kg VO, 1x/d, por 4 dias; para <1 mês, 10mg/kg, VO, 1x/d, por 4 dias. {++}
+Normas para afastamento de creches e escolas para hepatite A{++}
+O período de infecciosidade entre os sintomáticos estende-se por 10 dias do início da colúria.{++}
+Normas para afastamento de creches e escolas para rubéola{++}
+O período de infecciosidade entre sintomáticos se estende por 7 dias após o rash. Crianças com rubéola congênita devem ser consi{+-+}deradas infectantes do nascimento até 1 ano.{++}
+Normas para afastamento de creches e escolas para varicela{++}
+Indivíduos com varicela devem ficar afastados de suas atividades sociais durante o período mínimo de 7 dias ou mais, até que todas as lesões se apresentem na fase de crosta.{++}
+{++}
+Resposta{+ da questão do capítulo+}
+1. D
