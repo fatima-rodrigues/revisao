@@ -1,0 +1,268 @@
+diff --git a/epidemio3_2.txt b/epidemio3_2.txt
+index f1036ff..bce84bb 100644
+--- a/epidemio3_2.txt
++++ b/epidemio3_2.txt
+@@ -1,58 +1,56 @@
+Saúde e doença
+[- -]Marília Louvison
+Thaís Minett
+Alex Jones F. Cassenote 
+Marina Gemma
+
+[-Resumo-]O conceito de saúde e doença e o processo de adoecimento dos indivíduos e das populações sofrem alterações ao longo dos anos. P[-a-]{+odemo+}s{+ con+}s{+iderar que h+}ou[--s-]{+v+}e {+evolução +}do conceito simples de saúde [-como a -]{+(+}ausência de doença{+)+} {+par+}a teorias mais complexas, que [-v-]{+conc+}e{+b+}em o indi[---]víduo como [-um -]ser biopsicossocial, considerando o adoecimento composto por elementos ambientais, sociais e biológicos.
+
+1. Introdução
+
+O conceito de saúde reflete a conjuntura social, econômica, política e cultural. Ou seja, saúde não representa a mesma coisa para todas as pessoas e dependerá então da época, do lugar e da classe social. Os valores individuais e as concepções científicas, religiosas e filosóficas também estão associados a esse conceito. Inicialmente, para chegar a uma apropriação con{+-+}creta dos conceitos de saúde e doença, faz-se necessária uma compreensão etimológica dos 2 vocábulos. Segundo Reiner (2008), doença provém do latim dolentia, derivado de dolor e dolore, que querem dizer “dor” e “doer”. Já saúde, também do latim, vem de salutis, derivado do radical salus, com significação de “salvar”, “livrar do perigo”, “afastar riscos e/ou saudar”, “cumprimentar”, “desejar saúde”.
+
+2. Conceito de “saúde” e “doença”
+
+A - Saúde
+No senso comum, muitas vezes a saúde é definida como ausência de doença, e doença, inversamente, como falta ou per{+-+}turbação da saúde. Na prática clínica, as pessoas são examinadas e rotuladas como doentes ou saudáveis em função de julga{+-+}mentos baseados em resultados de exames clínicos e/ou laboratoriais, que informam a ausência ou a presença de anormali{+-+}dades (PEREIRA, 2002).
+Além de estar naturalizado na comunidade, e mesmo na clínica, esse conceito simplista fez parte da chamada teoria nega{+-+}tiva do processo saúde–doença, que data da década de 1970 e foi escrita por Christopher Boorse (BOORSE, 1975, 1976, 1977, 1986). O autor referia que doença seria, por conseguinte, o termo de referência pelo qual a saúde poderia ser negati{+-+}vamente definida. Almeida Filho e Jucá (2002) explicam que, no Brasil, o nome de Boorse é praticamente desconhecido e não há referências à sua contribuição em quaisquer dos textos analíticos fundamentais da área de Saúde Coletiva no país.
+O conceito de saúde proposto pela Organização Mundial da Saúde (OMS) em 1948 refere-se a esta não apenas como a ausência de doença, mas como o completo bem-estar físico, mental e social. Embora seja antiga, uma vez que data da origem da própria OMS, essa definição continua a ser utilizada pelo órgão na atualidade (OMS, 2011). Contudo, Segre e Ferraz (1997) avaliam que essa definição, até avançada para a época em que foi realizada é, no momento, qualificada como irreal, ultrapas{+-+}sada e unilateral, uma vez que atingir o “completo” refere uma utopia. A definição da OMS pode ser tratada mais como um símbolo ideal, um compromisso ou um horizonte a ser buscado.
+No final do século XX[- e no início do século XXI-], o conceito de saúde estava intrinsecamente relacionado ao modelo biomédico, em que doença era tratada como “desajuste ou falha nos mecanismos de adaptação do organismo ou [-uma -]ausência de reação aos estímulos a cuja ação está exposta[- (...)-]; processo [-(-]{+este +}que[-)-] conduz a uma perturbação da estrutura ou da função de um órgão, de um sistema ou de todo o organismo ou de suas funções vitais” (JÉNICEK; CLÉROUX, 1985).
+O c[-hamado c-]onceito “ampliado e positivo de saúde” foi defendido e registrado na 8ª Conferência Nacional de Saúde, denominada como Conferência Pré-Constituinte, realizada de 17 a 21 de março de 1986. Saúde seria, então, a resultante das condições de alimentação, habitação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde. Seria, assim, [-antes de tudo, -]o resultado das formas de organização social da produção[-, as-] qu[-ais-]{+e+} podem gerar grandes desigualdades nos níveis de vida (BRASIL, 1987).[-A saúde, no texto da Constituição de 1988, reflete o ambiente político de redemocratização do país e, principalmente, a força do movimento sanitário na luta pela ampliação dos direitos sociais.-]
+O grande mérito da concepção presente na Constituição de 1988 reside, justamente, na explicitação dos determinantes sociais da saúde e da doença, muitas vezes negligenciados nas concepções que privilegiam a abordagem individual e subindi-vidual.
+
+
+Dica
+Segundo a Constituição Brasileira de 1988, “a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal igualitário às ações e aos serviços para sua promoção, proteção e recuperação” (BRASIL, 1988).
+
+B - Doença
+O conceito de doença, sob a ótica médica, refere o aposto de saúde da mesma ideologia, a chamada “teoria negativa do processo saúde–doença”; a distinção entre o normal e o patológico {+pode +}se{+r+} [-dá-]{+vista+} de maneira quantitativa, tanto para os fenômenos orgânicos quanto para os mentais. A doença constitui em falta ou excesso de excitação dos tecidos abaixo ou acima do grau que constitui o estado normal (COELHO; ALMEIDA FILHO, 1999). Nessa perspectiva, a doença [-s-]e[- localiza-]{+stá+} dentro do indivíduo e {+pode +}se{+r+} defin[-e-]{+ida+} como um fenômeno isolado, com causas biológicas e muitas vezes a ser tratado com medica{+-+}mentos.
+Do ponto de vista social, a melhor forma de comprovar empiricamente o caráter histórico da doença não é conferida pelo estudo de suas características nos indivíduos, mas sim quanto ao processo que ocorre na coletividade humana. A natureza social da doença não se veri?ca no “caso clínico”, mas no modo característico de adoecer e morrer nos grupos humanos. Ainda que provavelmente a “história natural” da tuberculose, por exemplo, seja diferente hoje do que era há 100 anos, não é nos estudos dos tuberculosos que se apreende melhor o caráter social da doença, mas nos perfis patológicos que os grupos sociais apresentam (LAURELL, 1976).
+Deste modo, doença não é mais do que um constructo que guarda relação com o sofrimento, com o mal, mas não lhe cor{+-+}responde integralmente. Quadros clínicos semelhantes, com os mesmos parâmetros biológicos, prognóstico e implicações para o tratamento, podem afetar pessoas diferentes de forma distinta, resultando em diferentes manifestações de sintomas e desconforto, com comprometimento diferenciado de suas habilidades de atuar em sociedade[-. O conhecimento clínico pretende balizar a aplicação apropriada do conhecimento e da tecnologia, o que implica que seja formulado nesses termos. No entanto, do ponto de vista do bem-estar individual e do desempenho social, a percepção individual sobre a saúde é que conta-] (EVANS; STODDART, 1994; OLIVEIRA; EGRY, 2000).
+O processo saúde–doença da coletividade[-, em si,-] pode ser entendido como o modo específico pelo qual ocorre, nos grupos, o processo biológico de desgaste e reprodução, destacando como momentos particulares a presença de um funcionamento biológico diferente, com consequências para o desenvolvimento regular das atividades cotidianas, isto é, o surgimento da doença (LAURELL, 1983). A seguir, serão apresentados alguns modelos que auxiliarão no entendimento dos conceitos aqui apresentados.
+
+3. Os modelos explicativos do processo saúde–doença{+ (MSD)+}
+
+[-Importante-]São modelos explicativos do processo saúde–doença: biomédico – agentes físicos, químicos e biológicos que causam do-ença nos indivíduos, independente do contexto psicossocial; e{+ e+}cológico (História Natural da Doença) – considera a intera-ção, o relacionamento e o condicionamento de 3 elementos fundamentais da “tríade ecológica”: o ambiente, o agente e o hospedeiro, sendo a doença resultante de um desequilíbrio nas autorregulações existentes nesse sistema e que se desen[---]vol{+-+}ve em 2 períodos consecutivos, o pré-patogênico e o patogênico.
+{+Historicamente, pode-se dizer que há uma evolução de paradigmas em se tratando de ensino de MSD. Mais recentemen-te, no Brasil, as Diretrizes Curriculares Nacionais para o curso de Medicina (2014) orientam para uma formação que considere as dimensões da diversidade biológica, subjetiva, étnico-racial, de gênero, orientação sexual, socioeconômica, política, ambi-ental, cultural, ética e demais aspectos que compõem o espectro da diversidade humana que singularizam cada pessoa ou cada grupo social.+}
+
+A - O modelo biomédico
+O discurso da Medicina apoia suas observações e formulações, predominantemente, a partir da perspectiva do modelo biomédico. Esse modelo, refletindo o potencial técnico-instrumental das biociências, exclui o contexto psicossocial dos signi{+-+}ficados, nos quais uma compreensão plena e adequada dos pacientes e de suas doenças depende de alternativas de compre{+-+}ensão de saúde e doença. 
+A formação do médico, bem como {+a +}de outros profissionais da saúde, est[-á-]{+eve+} ancorada no modelo biomédico{+ desde sua existência+}, fato que favorece{+u+} a construção de uma postura de desconsideração aos aspectos psicossociais tanto dele quanto do paciente (DE MARCO, 2006).{+ +}
+De acordo com o modelo biomédico (Figura 1), as doenças advêm de agentes externos (químicos, físicos ou biológicos) que causam mudanças físicas no ser humano. O modelo biomédico vê o corpo humano como uma máquina muito complexa, com partes que se inter-relacionam, obedecendo a leis naturais e psicologicamente perfeitas, assim pressupõe que a máqui{+-+}na complexa (o corpo) precise constantemente de inspeção por parte de um especialista.[- -]
+
+ 
+Figura 1 - Modelo biomédico de saúde–doença
+
+[-Hi-]{+A+}s[-toricamente, há 2-] perspectivas da doença no modelo biomédico{+ são+}: a Patologia, que considera o mecanismo etiopatogênico, e, desta forma, existiriam 2 categorias de doenças – infecciosas e não infecciosas; e a Clínica, que privilegia a abordagem dos sinais e sintomas, caracterizando, por sua vez, as doenças em agudas e crônicas. Esse modelo arremete o pensamento ao início dos estudos cursados na faculdade. Nesse sentido, o estudante deve conhecer a Anatomia e a Fisiologia e, após, a Patologia e a Clínica, pois sem conhecer os aspectos fisiológicos ou normais não seria possível identificar aqueles ditos patológicos.
+Diante da etiologia da doença, o modelo biomédico adota uma lógica unicausal, também designada lógica linear, procu{+-+}rando-se identificar uma causa a qual, por determinação mecânica, unidirecional e progressiva, explicaria o fenômeno do adoecer, direcionando a explicação a se tornar universal. É nessas condições epistemológicas que o modelo biomédico, nas ciências da saúde, tende a reproduzir conhecimentos universais relativos aos seres humanos (PUTTINI; PEREIRA JUNIOR; OLI{+-+}VEIRA, 2010).
+
+B - O modelo ecológico (História Natural da Doença)
+
+Importante
+No lugar de considerar saúde e doença como componentes de um sistema binário, do tipo presença–ausência, pode ser mais adequado concebê-las como um processo no qual o ser humano passa por múltiplas situações, que exigem de seu meio interno um trabalho de compensações e adaptações sucessivas. 
+
+Sabe-se que o curso de uma doença não é uniforme no organismo; sendo assim, pode apresentar grande variabilidade de um caso para outro. Embora essa variabilidade seja elevada, sugere-se que as doenças progridam segundo alguns padrões descritos. Donabedian (1973) descreveu 5 das principais categorias apresentadas (Figura 2):{+ +}
+
+ 
+Figura 2 - Padrões de evolução das doenças
+@@ -62,8 +60,8 @@ A - Evolu
+B - Evolução aguda, clinicamente evidente e com rápida recuperação (exemplo: viroses respiratórias).
+C - Evolução sem alcance do limiar clínico (exemplo: hepatite anictérica e dengue clássica).
+D - Evolução crônica que progride fatalmente após longo período (exemplo: doenças cardiovasculares e degenerativas).
+E - Evolução crônica que intercala períodos assintomáticos com períodos de exacerbação (exemplo: doenças psiquiátri{+-+}cas).
+Para exemplificar essa questão, observe a Figura 3, que trata do padrão de evolução da infecção por HIV: (A) infecção primária; (B) síndrome aguda da infecção por HIV, com ampla disseminação viral em órgãos linfoides; (C) latência clínica; (D) presença de sintomas constitucionais; (E) doenças oportunistas e (F) óbito. Atualmente, com a evolução da terapia antirretro{+-+}viral, a doença tende a permanecer no seu estágio C, ou seja, latência clínica, a depender de vários fatores, como adesão ao tratamento, resistência viral às drogas e falhas clínicas observadas; esse quadro pode ser alterado e o paciente evoluir para o óbito. 
+
+ 
+Figura 3 - Padrão de evolução da infecção por HIV
+@@ -77,21 +75,21 @@ Fonte: LEAVELL; CLARK, 1976; com modifica
+
+ 
+Figura 5 - Modelo da História Natural da Doença mostrando as etapas, barreiras e posição do horizonte clínico em relação à evolução da doença
+Fonte: adaptado de http://www.epsjv.fiocruz.br/pdtsp/index.php?s_livro_id=6&area_id=2&capitulo_id=13&autor_id=&sub_capitulo_id=20&arquivo=ver_conteudo_2{+.+}
+
+Tema frequente de prova
+O modelo de História Natural da Doença segundo Leavell e Clark é tema frequente n[-as pr-]o[-va-]s [-de Residê-]{+co+}nc[-ia-]{+ursos+} [-M-]{+m+}édic[-a-]{+os+}.
+
+Segundo Leavell e Clark, a HND é o conjunto de processos interativos que criam o estímulo patológico no meio ambiente ou em qualquer outro lugar, passando pela resposta do homem ao estímulo, até as alterações que levam a defeito, invalidez, recuperação ou morte.
+Batistella (2007) explica ainda que esse modelo considera a interação, o relacionamento e o condicionamento de 3 ele{+-+}mentos fundamentais da chamada “tríade ecológica” (Figura 4): o ambiente, o agente e o hospedeiro. A doença seria resul{+-+}tante de um desequilíbrio nas autorregulações existentes no sistema.
+O modelo da HND compreende a determinação das doenças em 2 domínios: o meio externo e o meio interno. Esses do{+-+}mínios são mutuamente exclusivos, consecutivos e complementares. Enquanto, no meio externo, [-s-]e[- -]{+xis+}te[-m-] a interação determi{+-+}nante e {+o +}agente[-, ou seja,-] {+(+}desenvolvem-se as etapas necessárias para a implantação da doença{+)+}, no meio interno [-tem-se-]{+há+} o locus onde se desenvolve a doença[-, ou seja,-] {+(+}onde se processa, progressivamente, uma série de modificações bioquímicas, fisiológicas e histológicas próprias a cada enfermidade{+)+}. Em ambos os meios, há fatores contribuintes com o processo.
+O modelo da HND considera ainda 2 períodos consecutivos, articulados e complementares, nos quais se desenvolvem o processo de instalação, o desenvolvimento e o desfecho da patologia: período pré-patogênico e período patogênico (Figura 4 - A e B). Pode-se considerar também que as sequelas estejam fora do período da patogênese (Figura 5).
+
+Pergunta
+2011 - SES-SC 
+1. A História Natural da Doença é uma contribuição da Saúde Pública para a compreensão da evolução das doenças no ser humano. Sobre esse modelo de saúde, escolha a alternativa correta: 
+a) o modelo da História Natural da Doença é um esforço para reforçar as teorias da determinação social da doença 
+b) a História Natural da Doença é uma modelagem com forte influência da Teoria dos Sistemas e corresponde a uma tenta[---]ti{+-+}va de sistematização ou síntese da evolução dos agravos à saúde humana com ênfase preventiva 
+c) a História Natural da Doença relativiza o ambiente por considerar que as condições sociais sejam determinantes para a produção de doenças no ser humano 
+d) a História Natural da Doença divide o processo saúde–doença em condições suscetíveis à atenção primária e condições sensíveis apenas à ação de serviços de saúde dos níveis secundário e terciário
+e) o período pré-patogênico do modelo da História Natural da Doença tem como fronteira divisória o horizonte clínico, que caracteriza a identificação de cada patologia
+@@ -103,30 +101,32 @@ Importante
+O período pré-patogênico refere-se ao 1º período da História Natural da Doença, quando os distúrbios patológicos ainda não se manifestaram no indivíduo. Trata-se da própria evolução das inter-relações dinâmicas, que envolvem, de um lado, os condicionantes sociais e ambientais e, do outro, os fatores próprios do suscetível, até que chegue a uma configuração favorável à instalação da doença. 
+
+Neste período, há a interação entre os fatores que estimulam o desencadeamento de uma doença no organismo e as condições que permitem a existência desses fatores, além de sua ação no hospedeiro (início biológico da doença).
+Assim, pessoas com boas condições socioeconômicas e de saneamento, por exemplo, dificilmente adoecem de cólera (fa{+-+}tor socioambiental), enquanto usuários de drogas injetáveis que compartilham seringas têm maior risco de contrair o vírus HIV ou hepatite B ou C (fator individual, comportamental). Em ambas as situações, os indivíduos não estão doentes, contudo esse “risco” pode ser entendido como uma pressão natural que tende a levar o sujeito para o outro lado do diagrama (perío{+-+}do patológico). Alguns dos fatores que compreendem a tríade (ambiente, agente e hospedeiro) serão discutidos a seguir.
+
+- Fatores sociais
+Incluem as características sociais, econômicas, políticas e culturais das populações. O componente social das coletividades traz as relações que se estabelecem entre as pessoas, segundo a sua inserção no processo produtivo. As pessoas não são iguais em termos de renda, escolaridade, ocupação, oportunidades de trabalho, hábitos culturais, crenças, entre outros; além da desigualdade entre as diversas comunidades em relação, por exemplo, à cobertura por serviços de saúde ou em relação à cobertura por saneamento básico. A desigualdade social atua não apenas como causa ou associada a problemas de saúde, mas, também, como determinante do tipo de intervenção necessária no processo saúde–doença das comunidades (Tabela 1).
+
+Tabela 1 - Fatores sociais no processo saúde–doença
+- Em 1982, o epidemiologista César G. Victora e colaboradores realizaram um[-a-] [-p-]es[-q-]{+t+}u[-isa de gran-]d[-e-]{+o+} p[-o-]r[-t-]{+osp+}e[- na -]c{+t+}i[-dade de Pel-]{+v+}o[-tas-] [-(RS), em que estudara-]{+co+}m 6.000 [-crianças -]nascid[-as em h-]os[-pitais-] [-da cidade, prospecti-]v[-amente acompanhadas nos pr-]i[-meiros anos de -]v[-ida. Os auto-res realizaram estud-]os em [-crianças -]hospi{+-+}ta[-l-]i[-zada-]s [-que morreram, consistin-]d[-o n-]a [-bus-]c[-a por -]i[-nformações -]d[-e como eram a -]a[-limentação, o crescimento e o -]de[-senvolvimento-] de[-las,-] [-inclusiv-]{+P+}e[- psico-]l[-ógic-]o[-, e -]{+t+}as [-condições em que viviam-]{+(RS)+}. Tratou-se de um estudo epidemiológico longitudinal[- prospectivo-], também chamado de coorte;
+- A pesquisa foi planejada com o objetivo de avaliar a influência [-sobre a saúde infantil -]de diversos fatores: perinatais, demográficos, ambientais, alimentares e assistenciais, [-dentr-]{+s+}o[- d-]{+br+}e [-um qu-]a[-dro-] [-mai-]s[- -]a[-mplo -]{+ú+}de[-finido-] [-pel-]{+d+}a[- e-]s[-trutura-] [-so-]c{+r+}ia[-l-]{+nças+}. Dentre as diversas observa[---]ções feitas no estudo, em relação aos fatores sociais, os auto{+-+}res observaram o claro papel da desigualdade social no processo saúde–doença na infância. [-Assim, n-]{+N+}otou-se que as crianças de famílias mais pobres, em relação àquelas de famílias mais ricas, nascem com menor peso, apresentam maiores mortalidades perinatal e in{+-+}fantil, são hospitalizadas com maior frequência, crescem menos, rece[---]bem assistência médica de pior qualidade, têm desenvolvimen{+-+}to psicológico inferior em todas as áreas e vivem em condições ambi[---]entais menos saudáveis;
+- Por ocasião desse estudo, os autores puderam fazer um diagnóstico da situação das crianças do município de Pelotas e propor ações de saúde e medidas de intervenção visando à melhora da assistência materno-infantil na região (VICTOR; BARROS; VAUGHAN, 1988).
+
+- Fatores ambientais
+Incluem tanto o ambiente físico como o representado pelos seres vivos. Na perspectiva do ambiente físico, têm-se o rele{+-+}vo, a altitude, o clima e a umidade do ar, que favorecem o desenvolvimento de certas fauna e flora em detrimento de outras, além de favorecerem ou não a proliferação de agentes patogênicos, como parasitas ou vetores; também influenciam a distri{+-+}buição das populações, com maior ou menor densidade demográfica, contribuindo para o desenvolvimento de enfermidades. 
+Com relação ao ambiente representado pelos seres vivos, têm-se agentes patogênicos e vetores, reservatórios de agentes patogênicos, animais peçonhentos e plantas venenosas, como agentes que podem influenciar a saúde das populações e dos indivíduos.
+[-Modernamente, o-]{+O+} estudo da influência exercida pelos fatores naturais do ambiente físico na produção de doenças tornou-se menos im{+-+}portante do que o conhecimento da ação desenvolvida pelos agentes aí agregados artificialmente. O progresso e o desenvol{+-+}vimento industrial criaram problemas epidemiológicos novos, resultantes da poluição ambiental. O ambiente físico que envol{+-+}ve o homem moderno condiciona o aparecimento de doenças cuja incidência se tornou crescente a partir da urbanização e da industrialização. As doenças cardiovasculares, as alterações mentais e o câncer pulmonar estão também associados a fato{+-+}res do ambiente físico (ROUQUAYROL, 1994).
+
+- Fatores do hospedeiro
+Incluem os fatores genéticos que, além de poderem predeterminar algumas patologias (por exemplo: hemofilia, anemia falciforme), podem apenas tornar o indivíduo mais ou menos suscetível à ação de agentes patogênicos ou ambientais que causarão alguma doença (a fenilcetonúria, por exemplo, cujo diagnóstico precoce, associado à correção da dieta – fator am{+-+}biental –, permite o desenvolvimento adequado do indivíduo); também incluem aspectos relacionados ao estilo de vida das pessoas. Nesse caso, podem-se citar, como exemplos, o sedentarismo associado ao estresse, a dieta hipergordurosa e o hábi{+-+}to de fumar, que, provavelmente, propiciam o aparecimento de algum distúrbio cardiovascular e, caso haja uma predisposi{+-+}ção genética para essa patologia, maior a chance de o indivíduo apresentar a enfermidade e talvez mais precocemente.
+O modelo da HND exibe abrangência multifatorial. Interessantemente, multifatorialidade não significa uma simples soma dos diferentes fatores condicionantes da doença, mas sim um sinergismo ou uma interação desses fatores. Em outras pala{+-+}vras, 2 fatores condicionantes de uma determinada patologia, quando atuam de forma sinérgica, aumentam o risco de desen{+-+}volvimento da doença[-, que seria menor caso esses fatores agissem isoladamente-]. Assim, por exemplo, um indivíduo de 40 anos, que faz atividade física, não é tabagista e tem história familiar de hipertensão arterial, tem menor risco de desenvolver a doença (ou irá desenvolvê-la mais tard[-iament-]e) que um indivíduo da mesma faixa etária, com mesma história familiar, que tenha os hábitos de fumar e de não praticar exercícios.
+
+b) Período patogênico
+A HND tem seguimento com sua evolução no homem. O período patogênico refere-se ao período no qual os distúrbios patológicos se manifestam, ou seja, quando o indivíduo está doente.
+
+Importante
+No período patogênico, a interação entre os fatores condicionantes sociais e ambientais e os fatores próprios do hospe{+-+}deiro já causou alterações bioquímicas em nível celular e distúrbios na forma e na função de órgãos e sistemas, culmi{+-+}nando com a manifestação da doença, que evoluirá para um defeito permanente (ou sequela), para a cronicidade, para a morte ou para a cura. 
+
+A depender do processo patológico instalado e de condições do próprio indivíduo, essa etapa pode não ser linear com[-o em-] al{+-+}teração fisiológica[- a-]{+,+} sinais e sintomas, morte e/ou invalidez ou recuperação. Poderá ocorrer algo mais próximo ao apresentado na Figura 2, com alguns casos evoluindo direto para óbito ou outros, ditos crônicos, flutuando em torno do limiar clínico sem ou com evolução para óbito.
+Leavell e Clark (1976) consideram 4 níveis de evolução da doença nesse período (Figura 4 - B e Tabela 2). Na Tabela 3 são apresentados 2 exemplos de evolução de doença no período patogênico (tuberculose e doença coronariana), segundo essa mesma ideologia.
+
+Tabela 2 - Fatores sociais no processo saúde–doença
+@@ -135,27 +135,26 @@ Tabela 2 - Fatores sociais no processo sa
+3 - Doença precoce discernível	Essa é a etapa das manifestações clínicas, em que surgem os sinais e sintomas da doença. A patologia pode evoluir para cura, cronicidade, invalidez ou morte (Figura 4 - B).
+4 - Doença avançada	A doença pode progredir até um estado de cronicidade ou incapacidade, que pode evoluir para cura, invalidez permanente ou morte (Figura 4 - B).
+
+
+Tabela 3 - Período patogênico: estágios de Leavell e Clark para tuberculose e doença coronariana
+Estágios	Tuberculose	Doença coronariana
+Interação estímulo–hospedeiro	O indivíduo tem má nutrição.	O indivíduo apresenta elevada concentração sérica de colesterol.
+Patogênese precoce	A radiografia de tórax tem imagem suspeita de tuber{+-+}culose.	Formam-se placas ateromatosas nos vasos coronarianos.
+Doença precoce discer{+-+}nível	O indivíduo apresenta os seguintes sinais e sintomas: tosse com expectoração por mais de 4 semanas, inape{+-+}tência, perda de peso, febre vespertina, sudorese notur{+-+}na.	O indivíduo pode ter angina aos esforços.
+Doença avançada	O indivíduo trata e fica curado, ou não trata e vai a óbi{+-+}to, ou apresenta complicação importante ficando com sequelas.	O indivíduo sofre infarto e vai a óbito, ou pode ser necessária intervenção e ele pode passar a ter algumas restrições em suas atividades habituais.
+
+Batistella (2007) comenta ainda que o exame dos diferentes fatores relacionados ao surgimento de uma doença, a utiliza{+-+}ção da estatística nos métodos de investigação e os desenhos metodológicos permitiram significativos avanços na prevenção de doenças. Outra vantagem desse modelo teórico reside no fato de possibilitar a proposição de barreiras à evolução da doença mesmo antes de sua manifestação clínica (pré-patogênese), ou mesmo quando a doença já se estabeleceu (patogêne{+-+}se). Essa ideia também é compartilhada com os criadores do modelo, Leavell e Clark (LAPREGA, 2005).
+
+c) {+	+}Prevenção de doenças da ótica da História Natural da Doença
+Paim (2008) explica que, a partir das influências da Medicina Preventiva, foi difundido o modelo da HND, estabelecendo 5 níveis de prevenção, cujas medidas poderiam ser aplicadas de forma integral em distintos momentos do processo saúde–doença (Figura 4 - C).
+
+Importante
+Na 1ª fase de prevenção, na qual haveria a possibilidade de um desequilíbrio entre o agente, o hospedeiro e o ambiente, cabem medidas de promoção da saúde e de proteção específica, cujos procedimentos foram chamados de prevenção primária. Já o período patogênico é aquele destinado a ações diagnósticas e de tratamento precoce, bem como a limita{+-+}ção da invalidez ou incapacidade, correspondendo à prevenção secundária ou 2ª fase de prevenção. Ainda nesse perío{+-+}do patogênico, seria possível conseguir a prevenção terciária por meio da reabilitação, equivalendo à 3ª fase de preven{+-+}ção. 
+
+A seguir, serão detalhadas algumas atividades realizadas em cada um dos 5 níveis de prevenção.
+
+- Prevenção primária
+Inclui medidas inespecíficas e específicas de proteção à saúde. As medidas inespecíficas ou gerais são aquelas de caráter mais amplo, {+que +}não visam à proteção do indivíduo ou das coletividades contra alguma doença em especial[-,-]{+;+} [-ma-]s[- sim-]{+ão+} ações {+gerais +}de promoção da saúde[- (gerais)-]. Já as medidas específicas estão voltadas a algum problema de saúde em particular ou a uma doença específica (Tabela 4).
+Portanto, a prevenção primária atua na fase pré-patogênica da HND, ou seja, com o foco para o momento anterior à inte{+-+}ração entre o agente causador do distúrbio à saúde e o indivíduo suscetível. Vale lembrar que existe uma pressão natural (a interação entre os elementos da tríade ecológica) que pode levar o indivíduo a passar para o período patogênico da HND. O objetivo é impedir tal fato.
+
+Tabela 4 - Exemplos de prevenção primária
+	Promoção da saúde (medidas inespecíficas)	Proteção específica (medidas específicas)
+@@ -170,9 +169,9 @@ A
+- Proteção contra acidentes;
+- Aconselhamento genético;
+- Pré-natal;
+- Quimio[-te-]{+p+}r{+ofil+}a[-p-]{+x+}ia.{+ +}
+Exemplos	- Água clorada;
+- Leite pasteurizado.	- Cuidados para evitar a transmissão transfusional do agente etiológico da doença de Chagas (Trypa{+-+}nosoma cruzi);
+- Fluoretação da água.
+
+- Prevenção secundária
+@@ -189,11 +188,12 @@ A
+- Hospitalização quando necessário.
+Exemplos	- Uso de antibióticos em processos infecciosos;
+- Uso de anti-inflamatórios não hormonais em processos reumatológicos.	- Uso de ácido acetilsalicílico nos casos de infarto agudo do miocárdio;
+- Uso de anticoagulante nos casos de trombose veno{+-+}sa profunda.
+
+Portanto, a prevenção secundária atua na fase patogênica da HND, ou seja, no momento em que já houve a interação do agente patogênico (meio ambiente–indivíduo), e o organismo apresenta reações a essa interação. A pressão natural que existe, neste momento, diz respeito à evolução do indivíduo para óbito ou sequela permanente; o objetivo é impedir esse tipo de evolução.
+
+- Prevenção terciária
+[-A-]{+Se a+}s medidas primárias e secundárias estabelecidas não foram suficientes, e as reações do organismo ao agente patogê{+-+}nico resultaram em alguma alteração [-do mesm-]{+c+}o[-: -]m[-orte,-] sequela permanente ou cronicidade[-. No 1º caso, não existe mais nada a ser feito; já para os outros-], existe um grupo de atividades que podem atuar no sentido de reabilitar o indivíduo, buscando sua readaptação mesmo com o dano coexistente (Tabela 6).
+
+Tabela 6 - Exemplos de prevenção terciária
+Reabilitação
+@@ -202,26 +202,31 @@ A
+	- Reintegração socioeconômica;
+	- Educação para anulação de preconceitos.
+Exemplos	- Acupuntura para o alívio da dor em portadores de síndrome pós-poliomielite;
+	- Fisioterapia motora para recuperação de movimento dos membros em pacientes com sequelas de aciden[---]te vascular cerebral;
+	- Cirurgia para descompressão neural no alívio das dores associadas a neurite em hanseníase.
+
+Vale lembrar que as atividades de prevenção apresentadas (Tabelas 4, 5 e 6) são colocadas em termos genéricos, ou seja, dependem diretamente do tipo de doença a ser considerada. Poderá ocorrer ocasião em que alguma atividade de promoção à saúde para uma doença {+pode +}se[-ja-]{+r+} considerada proteção específica para outra, e assim por diante.
+
+Tabela 7 - Exemplo da História Natural da Doença no caso da desnutrição e das medidas de prevenção
+Período
+pré-patogênico	Período patogênico
+	Patologia precoce	Patologia avançada	Defeito
+Prevenção primária	Prevenção secundária	Prevenção terciária
+Educação alimentar em escolas, pro{+-+}gra[---]mas de merenda escolar	Suplementos na assis-tência pré e pós-natal, enriquecimento dos alimentos	História alimentar + mani-festações físicas + testes laboratoriais que apontam a necessidade de suple{+-+}menta[---]ção específica	Tratamento do raqui-tismo antes do apare{+-+}ci[---]mento de deformi{+-+}dades ósseas	Reabilitação do paciente cego por hipovitaminose A; reabilitação de pacien{+-+}tes com sequelas neuroló{+-+}gicas por beribéri
+Promoção da saúde	Proteção específica	Diagnóstico e tratamento precoces	Limitação da incapaci-dade	Reabilitação
+
+O [-m-]{+M+}odelo [-e-]{+E+}cológico do processo saúde–doença é amplamente difundido na atualidade, sobretudo pela vasta aplicação na prevenção de doenças. Outros autores complementam essa teoria com alguns níveis de prevenção, como a prevenção pri{+-+}mordial sugerida por Alwan (1997) e a prevenção quaternária de Jamoulle (2000), completando-se, assim, 5 níveis de pre{+-+}venção em saúde (ALMEIDA, 2005). 
+
+[-A seguir, na Tabela 8,-]{+-+} [-ap-]{+P+}re[-s-]{+v+}en[-tam-se -]{+çã+}o[-s-] [-sig-]{+quater+}n{+ár+}i[-fic-]a[-dos-] [-dess-]e[-s novos-] {+pri+}mo{+r+}d[-e-]{+ia+}l[-os de prevenção.-]
+
+[-Tabel-]{+Norm+}a{+n+} [-8 --]{+e+} [-Pr-]{+T+}e[-v-]{+ss+}e[-nção-]{+r (2009)+} {+ex+}p[-r-]{+l+}i{+ca+}m{+ que +}o[-rd-]{+ conce+}i[-al-]{+to+} {+d+}e [-p-]{+P+}revenção [-q-]{+Q+}uaternária{+ (+}P{+Q) p+}r[-evençã-]{+opost+}o p{+o+}r[-i-]{+ Ja+}mo[-r-]{+ulle, Mé+}di{+co de F+}a{+mí-+}l[-P-]{+ia e C+}o{+munida+}de [-s-]{+b+}e[-r-]{+lga,+} {+alm+}e{+jou si+}nte[-nd-]{+t+}i[-d-]{+z+}a{+r+} [-c-]{+de f+}o{+r+}m[-o-]{+a+} o[- -]{+pera+}c{+i+}on[-junto-]{+al+} [-d-]e {+n+}a[-tiv-]{+ l+}i[-d-]{+ngu+}a[-d-]{+g+}e[-s-]{+m+} [-que-]{+médica+} v{+ár+}i{+o+}s[-am-] [-ev-]{+cr+}it[-a-]{+é+}r[- -]{+i+}o{+s e+} {+propost+}a{+s +}par[-eciment-]{+a +}o {+man+}e{+jo+} {+d+}o e[-stabele-]{+x+}c[-im-]e[-nt-]{+ss+}o de [-pad-]{+inte+}r[-õ-]{+v+}e[-s-]{+nção+} [-d-]e [-vi-]{+me+}d[-a soc-]i{+c+}al{+ização+}, {+tanto diagnóstica quanto terapêutica. A PQ foi definida de forma direta e simples como a detecção de indivíduos em risco de tratamento excessivo para protegê-los de novas intervenções médicas inapropriadas e sugerir-lhes alternativas eticamente aceitáveis.+}
+{+A conceituação foi proposta no contexto clássico dos 3 níveis de prevenção de Leavell e Clark, assim a PQ surge como 4º e último tipo de prevenção, não relacionada ao risco de doenças e sim ao risco de adoecimento iatrogênico, ao excessivo intervencionismo diagnóstico e terapêutico e a medicalização desnecessária. É considerada PQ qualquer ação que atenue ou evite as consequências do intervencionismo médico excessivo que implica atividades médicas desnecessárias:+}
+{+- Excesso de tratamento;+}
+{+- Excesso de rastreamento;+}
+{+- Excesso de exames complementar+}e[-conôm-]{+s;+}
+{+- Med+}ica{+lização de+} {+fat+}o[-u-]{+res de+} {+ris+}c{+o.+}
+{+A PQ impõe +}u[-l-]{+ma es+}t[-u-]r{+it+}a[-l-] [-qu-]{+nec+}e[- -]s{+sidade d+}e {+o profis+}s{+ion+}a[-be-]{+l+} estar {+atua+}li[-g-]{+z+}ado{+ +}s{+obre+} [-a-]{+os+} e{+studos científicos de boa qua+}l{+idad+}e{+ +}v{+ol-t+}ado{+s para avaliar a relação+} risco[- d-]{+–ben+}e{+fício+} do{+ tratam+}en[-ça.-]{+to+} [-Ess-]e {+rastreame+}n[-ív-]{+to, o qu+}e[-l-] [-d-]{+significa qu+}e pre[-v-]{+cisa usar a m+}e{+dici+}n[-ção-]{+a+} {+b+}a[-tu-]{+sea-da em evidênci+}a{+s+}, [-p-]{+inex+}or[-t-]a{+velme+}nt[-o-]{+e+}, {+p+}a[-ntes que su-]r[-j-]a[-m-] [-fator-]{+b+}e[-s-]{+m+} [-d-]e[- ri-]{+mba+}s[-co (po-]{+a+}r[- exemplo-], [-leg-]{+técn+}i[-sl-]{+c+}a[-ção-] e[-stabel-]{+ +}e{+ti+}c[-endo -]am[-bi-]ente[-s-]{+,+} [-livre-]s{+ua+} de[- taba-]c{+isã+}o[-)-].
+[-P-]{+A p+}revenção [-quaterná-]{+p+}ri[-a-]
+[-Visa detecta-]{+mo+}r[- in-]di[-víduos em-]{+al+} [-risc-]{+p+}o[- -]de s[-obr-]e[-t-]r[-atam-]{+ +}ent[-o (overm-]e{+n+}di[-caliz-]{+d+}a[-tion),-] com{+o+} o {+c+}o[-b-]{+n+}j[-e-]{+un+}t[-iv-]o de [-pro-]{+a+}t{+ividad+}e[-gê-lo-]s [-do int-]{+qu+}e[-r-]{+ +}v[-encion-]is{+a+}m[-o-] [-méd-]{+ev+}i[--c-]{+tar +}o [-impró-]{+a+}p{+a+}r{+ec+}i[-o, alé-]m{+ento+} [-d-]e [-visar à-]{+o+} [-cap-]{+est+}a{+be-le+}ci{+men+}t[-açã-]o de p{+adrõ+}es{+ de vida +}so{+ci+}a[-s-]{+l,+} {+e+}co{+nô+}m{+ica +}o{+u+} c[-ons-]u[-mido-]{+ltu+}ra{+l que pos+}s{+am+} [-d-]e{+star+} [-cu-]{+l+}i{+ga+}d{+os a elev+}ado{+ ri+}s{+co+} de [-saú-]d{+o+}e{+nça+}. Esse nível de prevenção [-decorre-]{+atua,+} [-d-]{+p+}o[-s cus-]{+rtan+}to[-s-]{+,+} [-cresce-]{+a+}ntes {+qu+}e[-m-] s{+urj+}a[-úde nos-]{+m+} [-úl-]{+fa+}t[-im-]o{+re+}s [-40-]{+de+} [-ano-]{+ri+}s[-, -]co[-nsequentes-] [-a-]{+(p+}o{+r+} e[-nvelh-]{+x+}e[-ci-]m[-ento da -]p{+l+}o[-pu-]{+, legis+}lação e[- -]{+st+}a[-o d-]{+b+}e[-s-]{+lec+}en[-v-]{+d+}o[-lvi-]{+ a+}m{+bi+}ent[-o t-]e[-cno-]{+s +}l[-óg-]i[-co -]{+vr+}e[-m -]s[-aú-]{+ +}de{+ tabaco)+}.
+
+Pergunta
+2010 - UNIFESP 
+@@ -236,61 +241,53 @@ Resposta no final do cap
+4. Outros modelos explicativos do processo saúde–doença
+
+A - Modelos dos determinantes sociais de saúde
+[-A Commission on Social Determinants of Health (CSDH, 2005) coloca que n-]{+N+}os últimos 15 anos vários modelos vêm sendo desenvolvidos para demonstrar os mecanismos por meio dos quais os de{+-+}terminantes sociais de saúde afetam os resultados na saúde. Nesse contexto, são pontuados os Determinantes Sociais da Saú{+-+}de (DSSs): condições socioeconômicas, culturais e ambientais de uma sociedade que se relacionam com as condições de vida e trabalho de seus membros (como habitação, saneamento, ambiente de trabalho, serviços de saúde e educação, além da trama de redes sociais e comunitárias), influenciando a situação de saúde da população[-.-] {+(CSDH, 2005).+}
+Um dos mais importantes modelos de determinantes sociais trata da influência das camadas, explicando como as desigual{+-+}dades sociais na saúde são resultado das interações entre os diferentes níveis de condições, desde o nível individual até o de comunidades afetadas por políticas de saúde nacionais (Figura 6). Observe que os indivíduos estão no centro da Figura 6 e têm idade, gênero e fatores genéticos que indubitavelmente influenciam seu potencial de saúde final. A camada imediata{+-+}mente externa representa o comportamento e os estilos de vida das pessoas. As pessoas expostas a circunstâncias de desvan{+-+}tagem tendem a exibir uma prevalência maior de fatores comportamentais, como fumo e dieta pobre, e também se deparam com barreiras financeiras maiores ao escolherem um estilo de vida mais saudável (CSDH, 2005).
+
+ 
+Figura 6 - Modelo de Dahlgren e Whitehead: influência em camadas
+Fonte: WHITEHEAD; DAHLGREN apud [-B-]{+CA+}R{+V+}A[-SI-]L{+HO; MARCHIORI+}, 20[-06-]{+12+}.
+
+A influência da sociedade e da comunidade é demonstrada na próxima camada. Essas interações sociais e pressões ocultas influenciam o comportamento pessoal da camada abaixo, para melhor ou pior. Para os grupos mais próximos do fim da escala social, compostos por pessoas que vivem em condições de extrema privação, os indicadores de organização comunitária registram uma disponibilidade menor de redes e sistemas de apoio, além de menos serviços sociais e lazer em atividades comunitárias e modelos de segurança mais frágeis (CSDH, 2005).
+No próximo nível, encontramos fatores relacionados a condições de vida e de trabalho, disponibilidade de alimentos e acesso a ambientes e serviços essenciais. Nessa camada, as pessoas em desvantagem social correm risco diferenciado criado por condições habitacionais mais humildes, exposição a condições mais perigosas ou estressantes de trabalho e acesso menor aos serviços (CSDH, 2005).
+O último dos níveis inclui as condições econômicas, culturais e ambientais prevalecentes na sociedade como um todo. Es{+-+}sas condições, como o estado econômico e as condições do mercado de trabalho do país, influenciam todas as outras cama{+-+}das. O padrão de vida de uma dada sociedade, por exemplo, pode influenciar a escolha de um indivíduo acerca de habitação, trabalho e interações sociais, assim como hábitos alimentares. Da mesma forma, alguns fatores podem influenciar o padrão de vida e a posição socioeconômica, dependendo das crenças culturais sobre a posição das mulheres na sociedade ou da atitude geral sobre as comunidades étnicas minoritárias (CSDH, 2005).
+
+B - Modelo biopsicossocial
+O modelo biopsicossocial (ou holístico) permite que a doença seja vista como um resultado da interação de mecanismos celulares, teciduais, organísmicos, interpessoais e ambientais. Assim, o estudo de qualquer doença deve incluir o indivíduo, seu corpo e seu ambiente circundante como componentes essenciais de um sistema total (único ou particular). 
+
+Dica
+A teoria do modelo biopsicossocial, na qual há a interação de 3 fatores no processo saúde–doença, foi formulada por Engel e considera que os fatores psicossociais podem operar para facilitar, manter ou modificar o curso da doença, em{+-+}bora o seu peso relativo possa variar de doença para doença, de um indivíduo para outro e até mesmo entre 2 episódios diferentes da mesma doença no mesmo indivíduo (FAVA; SININO, 2010).
+
+Vários autores explicam que o sofrimento e a doença, bem como o processo de envelhecimento e a morte, fazem parte da existência humana. Com relação a esses fenômenos naturais, os significados e os sistemas de explicação não se reduzem a eventos clínicos que podem ser detectados no organismo humano, mas estão intimamente relacionados às características de cada sociedade e a cada época (BOLTANSKI, 1989; CANGUILHEM, 1990; ROGERS, 1991; RADLEY, 1994; TRAVERSO-YÉPEZ, 2001).
+De Marco (2005) explica ainda que esse modelo proporciona uma visão integral do ser e do adoecer que compreende as dimensões físicas, psicológicas e sociais. Quando incorporado ao modelo de formação do médico, coloca a necessidade de que o profissional, além do aprendizado e da evolução das habilidades técnico-instrumentais, evolua também as capacidades relacionais, que permitem o estabelecimento de um vínculo adequado e uma comunicação efetiva.
+
+[-5. -]Resumo
+
+Quadro-resumo
+Definições de saúde
+OMS, 1948	“Estado de completo bem-estar físico, mental e social, e não somente a ausência de doença ou enfer{+-+}mida[---]de.”
+B[-RASIL-]{+rasil+}, 1987 	O chamado conceito ampliado e positivo de saúde foi defendido e registrado na 8ª Conferência Nacional de Saúde, definindo que “saúde é a resultante das condições de alimentação, habitação, educação, ren{+-+}da, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde. É, assim, antes de tudo, o resultado das formas de organização social da produção, as quais podem gerar grandes desigualdades nos níveis de vida”.
+C[-ONSTITUIÇÃO-]{+onstituição+} 
+B[-RASILEIRA-]{+rasileira+}, 1988	“Direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à re{+-+}dução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e aos serviços, para sua promoção, proteção e recuperação.”
+Modelos que explicam o processo saúde–doença
+Modelo biomédico
+Modelo biomédico	Sustentado pela lógica unicausal e pela visão do corpo humano como uma máquina complexa, o mode{+-+}lo biomédico explica o processo de adoecimento pela ação de um agente (químico, físico ou biológico) no corpo humano, sem considerar o contexto psicossocial. 
+Tríade ecológica (HND)
+LEAVELL; 
+CLARK, 1976	“Conjunto de processos interativos que cria o estímulo patológico no meio ambiente, ou em qualquer outro lugar, passando pela resposta do homem ao estímulo, até as alterações que levam a defeito, in{+-+}validez, recu[---]peração ou morte.” Pode ser dividida em 2 períodos (pré-patogênico e patogênico).
+Período pré-patogênico	A patologia ainda não foi manifestada, e os determinantes intrínsecos ao sujeito estruturam disposi{+-+}ções ao adoecimento: são os agentes físicos, químicos, biopatógenos, nutricionais, genéticos e determi{+-+}nantes econômicos, culturais e psicossociais. Esse período etiológico está também designado no nível de atenção primária, porque podemos atuar coletivamente agindo com ações de prevenção, promoven{+-+}do a saúde (com educação, por exemplo) e fazendo a proteção específica da saúde (por exemplo, com vacinas).
+Período patogênico	Já se encontra ativo o processo patológico, período em que a doença se processa naturalmente no corpo do ser humano. Iniciam-se as primeiras alterações no estado de normalidade, pela atuação de agentes patogê[---]nicos. Seguem-se perturbações bioquímicas em nível celular, provocando distúrbios na forma e função de órgãos e sistemas, evoluindo para as seguintes possibilidades: defeito permanente (sequela), cronicidade, morte ou cura.
+Níveis de prevenção sob a ótica da HND
+Prevenção primária	Inclui medidas de proteção à saúde que atuam na fase pré-patogênica da doença. Exemplos: alimenta{+-+}ção adequada, saneamento básico, vacinação.
+Prevenção secundária 	Atua interrompendo a evolução da doença, ou seja, na fase patogênica. Exemplos: exames de rastrea{+-+}mento, uso de antibióticos.
+Prevenção terciária	Atua quando as reações do organismo ao agente patogênico resultaram em alguma alteração ao orga{+-+}nismo, que pode levar a sequela, dano ou cronicidade. Trata-se da reabilitação. Exemplos: fisioterapia, terapia ocu[---]pacional.
+Outros níveis de prevenção
+Prevenção primordial	Atividades que visam evitar o aparecimento e o estabelecimento de padrões de vida social, econômica ou cultural que possam estar ligados a elevado risco de doença. Atua antes que surjam fatores de risco. Exem[---]plo: legislação estabelecendo ambientes livres de tabaco.
+P[-revenção -]
+[-quaternária-]{+Q+}	Visa detectar indivíduos em risco de sobretratamento, com o objetivo de protegê-los do intervencionis{+-+}mo médico impróprio, além de visar à capacitação de pessoas como consumidoras de cuidados de saú{+-+}de.
+Outros modelos explicativos do processo saúde–doença
+Determinantes soci[---]ais da saúde – in[---]fluência das camadas	“As desigualdades sociais na saúde são resultado das interações entre os diferentes níveis de condições, desde o nível individual até o de comunidades afetadas por políticas de saúde nacionais.”
+Modelo biopsicosso[---]cial	Permite que a doença seja vista como um resultado da interação de mecanismos celulares, teciduais, orga[---]nísmicos, interpessoais e ambientais. Assim, o estudo de qualquer doença deve incluir o indivíduo, seu corpo e seu ambiente circundante como componentes essenciais de um sistema total (único ou par{+-+}ticular).
+
+Respostas{+ das questões do capítulo+}
+1. B
+2. B[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
