@@ -1,34 +1,36 @@
 GIST
- Eduardo Bertolli / Allan Garms Marson
-Yeda Mayumi Kuboki / Rodrigo Biscuola Garcia
+
+Eduardo Bertolli
+Allan Garms Marson
+Yeda Mayumi Kuboki
+Rodrigo Biscuola Garcia
 Lúcia C. Barcellos Kunen
 
-Resumo
-O tema deste capítulo são os tumores estromais gastrintestinais (gastrointestinal stromal tumors – GISTs). Esse tipo de neo-plasia pode ocorrer em qualquer órgão do trato digestivo e tem algumas peculiaridades, frequentemente cobradas em concursos médicos, como aspectos diagnósticos e princípios de ressecção cirúrgica. Podem ocorrer em qualquer ponto do trato gastrintestinal (TGI), e as localizações mais comuns são o estômago (40 a 60%) e o jejuno/íleo (25 a 30%); duodeno (5%), colorreto (5 a 15%) e esôfago (=1%) são menos comuns. São raros os casos no retroperitônio, sem associação ao TGI, além do mesentério (7%) e do omento. São mais frequentes na 6ª década de vida, com discreto predomínio no sexo mascu-lino (54%). Além disso, representam 80% dos tumores mesenquimais do aparelho digestivo e constituem 5% de todos os sarcomas. Têm sido identificadas mutações genéticas herdadas no gene Kit. Parece que a lesão precursora é uma hiperpla-sia nas células intersticiais de Cajal. Indivíduos com neurofibromatose do tipo 1 também têm alta incidência (mais frequen-tes no delgado – 70% – e múltiplos). Metastizam frequentemente para fígado e peritônio e raramente para linfonodos regi-onais; metástase pulmonar é incomum. Dentre os exames complementares, a tomografia de abdome (achado de massa de contornos lisos com captação do contraste) é considerada o exame de escolha. Entre os diagnósticos diferenciais de GIST mais comuns estão os leiomiossarcomas, leiomiomas, schwannomas e tumores dos nervos autônomos do TGI. A análise imuno-histoquímica é de extrema importância no diagnóstico diferencial dos GISTs e de outras neoplasias mesenquimais. Entre os marcadores, 95% têm positividade para c-Kit (antígeno CD117); no entanto, 5% têm c-Kit negativo. O potencial de malignidade baseia-se nos 2 fatores prognósticos mais reconhecidos na literatura por meio dos critérios de Fletcher: o tamanho do tumor e o índice mitótico. A ressecção cirúrgica completa é o tratamento-padrão, pois é a única modalidade capaz de proporcionar cura. A neoadjuvância pode ser realizada nos casos de tumores de difícil ressecção. Os principais agentes quimioterápicos são imatinibe e sunitinibe: ambos agem diretamente nas tirosinoquinases, acarretam efeitos cola-terais menos intensos e são indicados de forma exclusiva na doença metastática, irressecável e recorrente e como adju-vância nos tumores de alto risco.
+O tema deste capítulo são os tumores estromais gastrintestinais (gastrointestinal stromal tumors – GISTs). Esse tipo de neoplasia pode ocorrer em qualquer órgão do trato digestivo e tem algumas peculiaridades, frequentemente cobradas em concursos médicos, como aspectos diagnósticos e princípios de ressecção cirúrgica. Podem ocorrer em qualquer ponto do trato gastrintestinal (TGI), e as localizações mais comuns são o estômago (40 a 60%) e o jejuno/íleo (25 a 30%); duodeno (5%), colorreto (5 a 15%) e esôfago (=1%) são menos comuns. São raros os casos no retroperitônio, sem associ-ação ao TGI, além do mesentério (7%) e do omento. São mais frequentes na 6ª década de vida, com discreto predomínio no sexo masculino (54%). Além disso, representam 80% dos tumores mesenquimais do aparelho digestivo e constituem 5% de todos os sarcomas. Têm sido identificadas mutações genéticas herdadas no gene Kit. Parece que a lesão precurso-ra é uma hiperplasia nas células intersticiais de Cajal. Indivíduos com neurofibromatose do tipo 1 também têm alta inci-dência (mais frequentes no delgado – 70% – e múltiplos). Metastizam frequentemente para fígado e peritônio e rara-mente para linfonodos regionais; metástase pulmonar é incomum. Dentre os exames complementares, a tomografia de abdome (achado de massa de contornos lisos com captação do contraste) é considerada o exame de escolha. Dentre os diagnósticos diferenciais de GIST mais comuns estão os leiomiossarcomas, leiomiomas, schwannomas e tumores dos ner-vos autônomos do TGI. A análise imuno-histoquímica é de extrema importância no diagnóstico diferencial dos GISTs e de outras neoplasias mesenquimais. Entre os marcadores, 95% têm positividade para c-Kit (antígeno CD117); no entanto, 5% têm c-Kit negativo. O potencial de malignidade baseia-se nos 2 fatores prognósticos mais reconhecidos na literatura por meio dos critérios de Fletcher: o tamanho do tumor e o índice mitótico. A ressecção cirúrgica completa é o tratamento-padrão, pois é a única modalidade capaz de proporcionar cura. A neoadjuvância pode ser realizada nos casos de tumores de difícil ressecção. Os principais agentes quimioterápicos são imatinibe e sunitinibe: ambos agem diretamente nas tiro-sinoquinases, acarretam efeitos colaterais menos intensos e são indicados de forma exclusiva na doença metastática, irressecável e recorrente e como adjuvância nos tumores de alto risco.
 
-1. Introdução
+1.	Introdução
 
-Os tumores estromais gastrintestinais (gastrointestinal stromal tumors – GISTs) representam a neoplasia mesenquimal mais comum desse sítio. Apesar disso, parecem constituir somente 1% dos cânceres primários do trato gastrintestinal (TGI). Origi-nam-se das células intersticiais de Cajal, responsáveis pela motilidade intestinal, e expressam o receptor Kit. 
+	Os tumores estromais gastrintestinais (gastrointestinal stromal tumors – GISTs) representam a neoplasia mesen-quimal mais comum desse sítio. Apesar disso, parecem constituir somente 1% dos cânceres primários do trato gastrin-testinal (TGI). Originam-se das células intersticiais de Cajal, responsáveis pela motilidade intestinal, e expressam o re-ceptor Kit. 
 
 Importante
-Os tumores estromais gastrintestinais (GISTs) podem ocorrer em qualquer ponto do TGI, e as localizações mais comuns são o estômago (40 a 60%) e jejuno/íleo (25 a 30%); duodeno (5%), colorreto (5 a 15%) e esôfago (=1%) são menos comuns. São raros os casos no retroperitônio, sem associação ao TGI, além do mesentério (7%) e omento.
+Os GISTs podem ocorrer em qualquer ponto do TGI, e as localizações mais comuns são o estômago (40 a 60%) e jejuno/íleo (25 a 30%); duodeno (5%), colorreto (5 a 15%) e esôfago (=1%) são menos comuns. São raros os casos no retroperitônio, sem associação ao TGI, além do mesentério (7%) e omento.
 
-Uma característica dos GISTs é a expressão da proteína c-Kit, um receptor tirosinoquinase transmembrana responsável por várias funções celulares, como proliferação, adesão, apoptose e diferenciação celular. A mutação do gene Kit está impli-cada na gênese do tumor.
-Epidemiologicamente, sua incidência é, em geral, de 7 a 20/1.000.000 de habitantes nos Estados Unidos, cerca de 4.000 a 6.000 casos/ano. São mais frequentes na 6ª década de vida, com discreto predomínio no sexo masculino (54%). Além disso, representam 80% dos tumores mesenquimais do aparelho digestivo e constituem 5% de todos os sarcomas. Ocorrem predo-minantemente em indivíduos de meia-idade e idosos, raramente antes dos 40 anos.
-A maioria é esporádica, mas têm sido identificadas mutações genéticas herdadas no gene Kit (GIST familiar, com famílias predispostas a desenvolver múltiplos GISTs gástricos e intestinais; fenótipo e achados moleculares semelhantes ao esporádi-co, mas presença de hiperplasia difusa das células de Cajal). Parece que a lesão precursora é uma hiperplasia nas células intersticiais de Cajal. Indivíduos com neurofibromatose do tipo 1 também têm alta incidência (mais frequentes no delgado – 70% – e múltiplos).
+	Uma característica dos GISTs é a expressão da proteína c-Kit, um receptor tirosinoquinase transmembrana res-ponsável por várias funções celulares, como proliferação, adesão, apoptose e diferenciação celular. A mutação do gene Kit está implicada na gênese do tumor.
+	Epidemiologicamente, sua incidência é de, em geral, 7 a 20/1.000.000 de habitantes nos Estados Unidos, cerca de 4.000 a 6.000 casos/ano. São mais frequentes na 6ª década de vida, com discreto predomínio no sexo masculino (54%). Além disso, representam 80% dos tumores mesenquimais do aparelho digestivo e constituem 5% de todos os sarcomas. Ocorrem predominantemente em indivíduos de meia-idade e idosos, raramente antes dos 40 anos.
+	A maioria é esporádica, mas têm sido identificadas mutações genéticas herdadas no gene Kit (GIST familiar, com famílias predispostas a desenvolver múltiplos GISTs gástricos e intestinais; fenótipo e achados moleculares semelhantes ao esporádico, mas presença de hiperplasia difusa das células de Cajal). Parece que a lesão precursora é uma hiperpla-sia nas células intersticiais de Cajal. Indivíduos com neurofibromatose do tipo 1 também têm alta incidência (mais fre-quentes no delgado – 70% – e múltiplos).
 
 Importante
 Os GISTs metastizam frequentemente para fígado e peritônio e, raramente, para linfonodos regionais; metástase pulmonar é incomum. 
 
-2. Patologia
+	2. Patologia
 
-Os GISTs têm 3 padrões histológicos: fusocelular (70%), epitelioide (20%) e misto (10%). Manifestam-se, mais comumente, com nódulos entre a camada submucosa e a muscular própria, sendo possível um nódulo-satélite. A sincronicidade desses tumores é rara, e sua malignidade, representada pelas metástases hepáticas e pela invasão local. Raramente são acometidos linfonodos ou outros sítios.
-Entre os diagnósticos diferenciais de GIST mais comuns, estão os leiomiossarcomas, leiomiomas, schwannomas e tumores dos nervos autônomos do TGI. A análise imuno-histoquímica é de extrema importância no diagnóstico diferencial dos GISTs e de outras neoplasias mesenquimais. Entre os marcadores, 95% apresentarão positividade para c-Kit (antígeno CD117, que é parte do receptor transmembrana tirosinoquinase, que é produto do proto-oncogene Kit) e proteína transmembrana com atividade tirosinoquinase. No entanto, 5% dos GISTs apresentam c-Kit negativo. Uma explicação parcial provém do achado de mutações ativas em outro receptor transmembrana tirosinoquinase Kit, o receptor alfa do fator de crescimento derivado de plaquetas (PDGFRA), em alguns GISTs Kit-negativos. A inativação do complexo succinato desidrogenase (SDH) parece ser um evento nos GISTs com ausência de mutação Kit/PDGFRA. Além disso, é importante ressaltar que melanomas, câncer de pul-mão pequenas células e sarcoma de Ewing podem apresentar c-Kit positivo. Outros marcadores com possível positividade são CD34 (60 a 70%), actina de músculo liso (30 a 40%), proteína S-100 (5%), desmina e queratina (1 a 2%). 
+	Os GISTs têm 3 padrões histológicos: fusocelular (70%), epitelioide (20%) e misto (10%). Manifestam-se, mais comumente, com nódulos entre a camada submucosa e a muscular própria, sendo possível um nódulo-satélite. A sin-cronicidade desses tumores é rara, e sua malignidade, representada pelas metástases hepáticas e pela invasão local. Raramente são acometidos linfonodos ou outros sítios.
+	Entre os diagnósticos diferenciais de GIST mais comuns, estão os leiomiossarcomas, leiomiomas, schwannomas e tumores dos nervos autônomos do TGI. A análise imuno-histoquímica é de extrema importância no diagnóstico diferen-cial dos GISTs e de outras neoplasias mesenquimais. Entre os marcadores, 95% apresentarão positividade para c-Kit (antígeno CD117, que é parte do receptor transmembrana tirosinoquinase, que é produto do proto-oncogene Kit) e proteína transmembrana com atividade tirosinoquinase. No entanto, 5% dos GISTs apresentam c-Kit negativo. Uma ex-plicação parcial provém do achado de mutações ativas em outro receptor transmembrana tirosinoquinase Kit, o recep-tor alfa do fator de crescimento derivado de plaquetas (PDGFRA), em alguns GISTs Kit-negativos. A inativação do com-plexo succinato desidrogenase (SDH) parece ser um evento nos GISTs com ausência de mutação Kit/PDGFRA. Além disso, é importante ressaltar que melanomas, câncer de pulmão pequenas células e sarcoma de Ewing podem apresen-tar c-Kit positivo. Outros marcadores com possível positividade são CD34 (60 a 70%), actina de músculo liso (30 a 40%), proteína S-100 (5%), desmina e queratina (1 a 2%). 
 
 Importante
-Evita-se o termo “benigno” quando se fala de um GIST, pois possui comportamento biológico variado e o seguimento por longos períodos vem evidenciando que virtualmente todos têm potencial de malignidade, mesmo aqueles =2cm com acha-dos histológicos brandos.
+Evita-se o termo “benigno” quando se fala de um GIST, pois possui comportamento biológico variado e o segui-mento por longos períodos vem evidenciando que virtualmente todos têm potencial de malignidade, mesmo aqueles =2cm com achados histológicos brandos.
 
-O potencial de malignidade baseia-se nos 2 fatores prognósticos mais reconhecidos na literatura por meio dos critérios de Fletcher.
+	O potencial de malignidade baseia-se nos 2 fatores prognósticos mais reconhecidos na literatura por meio dos critérios de Fletcher.
 
 Tabela 1 - Potencial de malignidade, segundo critérios de Fletcher
 Riscos de malignidade	Tamanho (cm)	Índice mitótico (/50 CGA)
@@ -44,32 +46,31 @@ CGA: Campo de Grande Aumento.
 Dica
 Está incluído como de alto risco o GIST que sofre ruptura, independente do tamanho ou do índice mitótico. 
 
-Um estudo evidenciou que a mortalidade nos GISTs de delgado foi de 39%, mais do que 2 vezes aquela vista nos tumores gástricos.
-A característica do tumor na Tomografia Computadorizada (TC) e na ultrassonografia endoscópica pode correlacionar-se com o risco de recorrência. Tumores maiores do que 5cm, lobulados, com contrastação heterogênea, infiltração da gordura mesentérica, ulceração, linfadenopatia regional ou crescimento exofítico mais provavelmente metastizam. O contraste são as lesões homogêneas e com crescimento endoluminal.
+	Um estudo evidenciou que a mortalidade nos GISTs de delgado foi de 39%, mais do que 2 vezes aquela vista nos tumores gástricos.
+	A característica do tumor na Tomografia Computadorizada (TC) e na ultrassonografia endoscópica pode correla-cionar-se com o risco de recorrência. Tumores maiores do que 5cm, lobulados, com contrastação heterogênea, infil-tração da gordura mesentérica, ulceração, linfadenopatia regional ou crescimento exofítico mais provavelmente metas-tizam. O contraste são as lesões homogêneas e com crescimento endoluminal.
 
-3. Quadro clínico e diagnóstico
+	3. Quadro clínico e diagnóstico
 
-Alguns tumores mesenquimais são assintomáticos e são achados de exames ou cirurgias; mais frequentemente apresen-tam sintomas inespecíficos como saciedade precoce e distensão. A manifestação pode ser variada, dependendo da localiza-ção e do tamanho, e pode ter início com um quadro de obstrução, principalmente em locais como a cárdia, o piloro, a válvula ileocecal e o reto. Dor, perda de peso e massas palpáveis associam-se a tumores grandes e que, muitas vezes, sugerem malig-nidade. Alguns tumores crescem tão rapidamente em relação ao suprimento vascular que geram uma área de necrose, ulce-rando a mucosa adjacente e causando quadros de melena e enterorragia. Hipotireoidismo é efeito colateral comum dos ini-bidores da tirosinoquinase, como sunitinibe, mas dados sugerem hipotireoidismo como manifestação paraneoplásica (degra-dação excessiva do hormônio tireoidiano causada pela expressão aumentada da enzima inativadora iodotironina deiodinase 3 no tumor). 
-Geralmente, seu diagnóstico é sugerido pelo achado de massa subepitelial à endoscopia ou outro exame de imagem; à endoscopia, costuma ser identificado como massa submucosa de margens lisas, mucosa normal e saliente para o lúmen (Figu-ra 1). A biópsia convencional não costuma obter tecido suficiente para definir o diagnóstico. 
+	Alguns tumores mesenquimais são assintomáticos e são achados de exames ou cirurgias; mais frequentemente apresentam sintomas inespecíficos como saciedade precoce e distensão. A manifestação pode ser variada, dependen-do da localização e do tamanho, e pode ter início com um quadro de obstrução, principalmente em locais como a cár-dia, o piloro, a válvula ileocecal e o reto. Dor, perda de peso e massas palpáveis associam-se a tumores grandes e que, muitas vezes, sugerem malignidade. Alguns tumores crescem tão rapidamente em relação ao suprimento vascular que geram uma área de necrose, ulcerando a mucosa adjacente e causando quadros de melena e enterorragia. Hipotireoi-dismo é efeito colateral comum dos inibidores da tirosinoquinase, como sunitinibe, mas dados sugerem hipotireoidismo como manifestação paraneoplásica (degradação excessiva do hormônio tireoidiano causada pela expressão aumentada da enzima inativadora iodotironina deiodinase 3 no tumor). 
+	Geralmente, seu diagnóstico é sugerido pelo achado de massa subepitelial à endoscopia ou outro exame de imagem; à endoscopia, costuma ser identificado como massa submucosa de margens lisas, mucosa normal e saliente para o lúmen (Figura 1). A biópsia convencional não costuma obter tecido suficiente para definir o diagnóstico. 
 
 Diagnóstico
 Dentre os exames complementares para o diagnóstico do GIST, a tomografia de abdome (achado de massa de contornos lisos com captação do contraste) é considerada o exame de escolha (Figura 2 - A). 
 
- A tomografia de abdome permite determinar a localização do tumor, seu tamanho, a densidade da lesão e a presença de metástases. A ressonância pode ser preferida em GISTs de reto ou fígado, por serem estruturas fixas, provendo melhor defi-nição anatômica.
-A PET-CT pode ter papel na detecção de metástases e na avaliação da resposta terapêutica, mas ainda não é considerada um exame mandatório na condução do caso, uma vez que tumores de pouca proliferação podem dar um resultado falso ne-gativo na PET (pouca atividade celular e, consequentemente, pouca avidez da glicose pelo tumor). Como muitos GISTs apre-sentam pouca proliferação celular, a PET ainda é um exame controverso.
+	A tomografia de abdome permite determinar a localização do tumor, seu tamanho, a densidade da lesão e a presença de metástases. A ressonância pode ser preferida em GISTs de reto ou fígado, por serem estruturas fixas, pro-vendo melhor definição anatômica.
+	A PET-CT pode ter papel na detecção de metástases e na avaliação da resposta terapêutica, mas ainda não é considerada um exame mandatório na condução do caso, uma vez que tumores de pouca proliferação podem dar um resultado falso negativo na PET (pouca atividade celular e, consequentemente, pouca avidez da glicose pelo tumor). Como muitos GISTs apresentam pouca proliferação celular, a PET ainda é um exame controverso.
 
  
-Figura 1 - Lesão subepitelial gástrica com ulcerações em sua superfície, confirmada posteriormente como GIST 
+Figura 1 - Lesão subepitelial gástrica com ulcerações em sua superfície, confirmada posteriormente como tumor estromal gastrintestinal 
 Fonte: Gastrocentro.
-
  
 Figura 2 - (A) Tomografia evidenciando lesão retrogástrica, hipervascular, encapsulada, com umbilicação central, compatível com GIST, e (B) achado intraoperatório de lesão em parede gástrica posterior
 
-A ultrassonografia endoscópica pode ser utilizada para facilitar a localização da lesão e guiar punções. Entretanto, devido à natureza hipervascular dos GISTs e à possibilidade de implantação de células tumorais, as punções aspirativas devem ficar restritas aos casos em que o diagnóstico pré-operatório pode modificar a conduta (suspeita de doença metastática ou uso de imatinibe pré-operatório). A sensibilidade diagnóstica da biópsia por agulha fina em um estudo foi de 82%, e a especificidade, de 100%.
+	A ultrassonografia endoscópica pode ser utilizada para facilitar a localização da lesão e guiar punções. Entretanto, devido à natureza hipervascular dos GISTs e à possibilidade de implantação de células tumorais, as punções aspirativas devem ficar restritas aos casos em que o diagnóstico pré-operatório pode modificar a conduta (suspeita de doença metastática ou uso de imatinibe pré-operatório). A sensibilidade diagnóstica da biópsia por agulha fina em um estudo foi de 82%, e a especificidade, de 100%.
 
 Pergunta
 2014 - CREMESP
-1. Um homem de 50 anos queixa-se de epigastralgia, anorexia, sensação de plenitude gástrica precoce (empachamento), náuseas e vômitos pós-alimentares frequentes, há cerca de 6 meses. Diz que perdeu cerca de 10% de seu peso nesse perí-odo. Nega febre. A endoscopia digestiva alta revelou lesão elevada de antro gástrico, com mucosa aparentemente preser-vada. Na tomografia computadorizada de abdome, foi descrito espessamento no antro gástrico, não tendo sido achados linfonodos nem lesões secundárias. Assinale a hipótese diagnóstica mais provável:
+1. Um homem de 50 anos queixa-se de epigastralgia, anorexia, sensação de plenitude gástrica precoce (empacha-mento), náuseas e vômitos pós-alimentares frequentes, há cerca de 6 meses. Diz que perdeu cerca de 10% de seu peso nesse período. Nega febre. A endoscopia digestiva alta revelou lesão elevada de antro gástrico, com mucosa aparentemente preservada. Na tomografia computadorizada de abdome, foi descrito espessamento no antro gástrico, não tendo sido achados linfonodos nem lesões secundárias. Assinale a hipótese diagnóstica mais provável:
 a) GIST (gastrointestinal stromal tumor) gástrico
 b) lesão gástrica de Dieulafoy
 c) adenocarcinoma gástrico
@@ -77,18 +78,27 @@ d) adenoma gástrico
 e) linfoma gástrico
 Resposta no final do capítulo
 
+	A metástase hepática do GIST costuma ser uma massa com centro necrótico e escurecido e periferia espessada, podendo ser única ou múltipla.
+ 
+Figura 3 - Tumor estromal gastrintestinal gástrico com grande metástase hepática 
+
 4. Tratamento
 
 Tratamento
-A ressecção cirúrgica completa é o tratamento-padrão para o GIST, pois é a única modalidade capaz de proporcionar cura. 
+A ressecção cirúrgica completa é o tratamento-padrão para o GIST, pois é a única modalidade capaz de proporci-onar cura. 
 
 A - Cirurgia
-Todos os GISTs =2cm devem ser ressecados (graduação 1A), mas não há consenso quanto ao manejo de lesões menores. Sugere-se que os GISTs <2cm com alto risco de recorrência baseado na ultrassonografia endoscópica (bordas irregulares, espaços císticos, ulceração, focos ecogênicos ou heterogeneidade) devem ser ressecados. Em tumores sem esses achados, acompanhamento endoscópico é uma opção. A quimioterapia e a radioterapia têm papel pouco relevante, exceto no uso de quimioterápicos específicos como terapia-alvo. É desnecessária a biópsia prévia se a lesão é ressecável, principalmente pela dificuldade de caracterização histológica e, também, pelo fato de tais lesões em vísceras ocas se localizarem abaixo da mucosa e, portanto, com risco de disseminação tumoral à punção, reservando-se a casos de doença inicialmente irressecável, de preferência guiada por ultrassonografia endoscópica.
-O objetivo da cirurgia é a ressecção completa com margens livres e cápsula intacta, sendo suficientes as ressecções em bloco com margens de 1 a 2cm. A videolaparoscopia poderá ser realizada sempre que a equipe cirúrgica estiver treinada e puder realizar ressecção total do tumor por via videocirúrgica.
-As lesões com suspeita de invasão de órgãos adjacentes devem ser tratadas com cirurgia radical, por meio da ressecção em monobloco do órgão acometido. A técnica cirúrgica deve ser meticulosa para prevenir a ruptura intraoperatória do tu-mor, que está associada ao pior prognóstico e a posterior surgimento de novos implantes. Não há benefício em ressecções anatômicas ou linfadenectomias, pois o GIST não tem disseminação linfática. Entretanto, durante a cirurgia, devem ser avalia-dos cuidadosamente o fígado e o fundo de saco de Douglas, tal como epíploon e cúpulas diafragmáticas.
-Após a ressecção primária, muitos pacientes desenvolverão recorrência, e, em alguns casos, a ruptura do tumor no intra-operatório leva a recorrência no peritônio. A média de tempo de recorrência é de 1,5 a 2 anos, e os principais locais de reci-diva são o peritônio e o fígado, sendo a chance de cura com nova cirurgia extremamente baixa (<10%). A ressecção macros-cópica total é possível em cerca de 85% dos pacientes com tumor primário localizado, obtendo-se margens microscópicas livres em 70 a 95% dos casos. Os GISTs gástricos tendem a exibir um curso clínico mais favorável do que os provenientes do intestino delgado, e os tumores de cólon se associam a índices de recorrência similares aos dos situados no delgado.
-A sobrevida em 5 anos com cirurgia exclusiva R0, isto é, ressecção completa macro e microscópica, é de 54%, aproximan-do-se de 100% para tumores com menos de 2cm e baixa contagem mitótica e menos de 25% para os tumores metastáticos. A sobrevida mediana é de 66 meses. Ainda não há consenso quanto à conduta após ressecções R1 (com doença residual mi-croscópica), podendo ser excisão, observação ou adjuvância.
-As metástases deverão ser ressecadas sempre que houver possibilidade de controle total da doença. 
+
+	Todos os GISTs =2cm devem ser ressecados (graduação 1A), mas não há consenso quanto ao manejo de lesões menores. Sugere-se que os GISTs <2cm com alto risco de recorrência baseado na ultrassonografia endoscópica (bordas irregulares, espaços císticos, ulceração, focos ecogênicos ou heterogeneidade) devem ser ressecados. Em tumores sem esses achados, acompanhamento endoscópico é uma opção. A quimioterapia e a radioterapia têm papel pouco relevante, exceto no uso de quimioterápicos específicos como terapia-alvo. É desnecessária a biópsia prévia se a lesão é ressecável, principalmente pela dificuldade de caracterização histológica e, também, pelo fato de tais lesões em vís-ceras ocas se localizarem abaixo da mucosa e, portanto, com risco de disseminação tumoral à punção, reservando-se a casos de doença inicialmente irressecável, de preferência guiada por ultrassonografia endoscópica.
+	O objetivo da cirurgia é a ressecção completa com margens livres e cápsula intacta, sendo suficientes as ressec-ções em bloco com margens de 1 a 2cm. A videolaparoscopia poderá ser realizada sempre que a equipe cirúrgica esti-ver treinada e puder realizar ressecção total do tumor por via videocirúrgica.
+	As lesões com suspeita de invasão de órgãos adjacentes devem ser tratadas com cirurgia radical, por meio da ressecção em monobloco do órgão acometido. A técnica cirúrgica deve ser meticulosa para prevenir a ruptura intrao-peratória do tumor, que está associada a pior prognóstico e posterior surgimento de novos implantes. Não há benefício em ressecções anatômicas ou linfadenectomias, pois o GIST não tem disseminação linfática. Entretanto, durante a cirur-gia, devem ser avaliados cuidadosamente o fígado e o fundo de saco de Douglas, como epíploon e cúpulas diafragmáti-cas.
+
+	Importante
+	O GIST não tem disseminação linfática, portanto não requer linfadenectomias amplas
+	
+	Após a ressecção primária, muitos pacientes desenvolverão recorrência, e, em alguns casos, a ruptura do tumor no intraoperatório leva a recorrência no peritônio. A média de tempo de recorrência é de 1,5 a 2 anos, e os principais locais de recidiva são o peritônio e o fígado, sendo a chance de cura com nova cirurgia extremamente baixa (<10%). A ressecção macroscópica total é possível em cerca de 85% dos pacientes com tumor primário localizado, obtendo-se margens microscópicas livres em 70 a 95% dos casos. Os GISTs gástricos tendem a exibir um curso clínico mais favorável do que os provenientes do intestino delgado, e os tumores de cólon se associam a índices de recorrência similares aos dos situados no delgado.
+	A sobrevida em 5 anos com cirurgia exclusiva R0, isto é, ressecção completa macro e microscópica, é de 54%, aproximando-se de 100% para tumores com menos de 2cm e baixa contagem mitótica e menos de 25% para os tumo-res metastáticos. A sobrevida mediana é de 66 meses. Ainda não há consenso quanto à conduta após ressecções R1 (com doença residual microscópica), podendo ser excisão, observação ou adjuvância.
+	As metástases deverão ser ressecadas sempre que há a possibilidade de controle total da doença. 
 
 Pergunta
 2011 - UEL
@@ -98,42 +108,38 @@ II - O tumor não pode ser fraturado ou rompido durante sua retirada da cavidade 
 III - No tratamento radical, a linfadenectomia D2 ou D1 deve ser realizada com a ressecção gástrica.
 IV - A ressecção “em cunha” translaparoscópica pode ser empregada nas lesões exofíticas.
 Estão corretas:
-a) 	I, II 
-b) 	I, III 
-c) 	III, IV 
-d) 	I, II, IV 
-e) 	II, III, IV 
+a) I, II 
+b) I, III 
+c) III, IV 
+d) I, II, IV 
+e) II, III, IV 
 Resposta no final do capítulo
 
 B - Quimioterapia
 
 Tratamento
-Os principais agentes quimioterápicos para tratamento do GIST são imatinibe e sunitinibe. Ambos agem diretamente nas tirosinoquinases, acarretam efeitos colaterais menos intensos e são indicados de forma exclusiva na doença metastática, irressecável e recorrente, e como adjuvância nos tumores de alto risco.
-
-A neoadjuvância pode ser realizada nos casos de tumores de difícil ressecção. Ocorre enquanto o tumor apresenta sinais de regressão até um nível máximo, sem tempo preestabelecido. Se utilizada, deve-se continuar com imatinibe (Glivec®) após cirurgia indefinidamente, até a progressão da doença. Para pacientes com doença localmente avançada não metastática ou borderline, sugere-se terapia com imatinibe em vez de ressecção (graduação 2C). Também pode ser benéfico àqueles com GIST em esôfago, junção esofagogástrica, duodeno ou reto distal, permitindo cirurgia menos radical. Àqueles com GIST metas-tático potencialmente ressecável (metástase peritoneal e hepática) sugere-se imatinibe em vez de cirurgia (graduação 2C); se desenvolverem progressão da doença, há pouco ganho com a cirurgia (graduação 1B), mas, tornando-se ressecáveis após imatinibe (ou sunitinibe, se resistência a este), cirurgia deve ser considerada.
-A adjuvância, aprovada recentemente, é recomendada para tumores de alto risco, conforme classificação de Fletcher (Tabela 1). É recomendada terapia adjuvante com inibidor da tirosinoquinase (imatinibe 400mg/d) por, no mínimo, 3 anos, em vez de 1 ano, nos pacientes com GIST primário de alto risco completamente ressecado (graduação 1A). O American College of Surgeons Oncology Group (ACOSOG) está realizando 2 estudos prospectivos para GISTs localizados e submetidos à ressecção total e ao uso de imatinibe adjuvante, com bons resultados. O objetivo é avaliar a eficácia do imatinibe como adjuvante da cirurgia. Essa eficácia é medida com o impacto na sobrevida livre de doença e na sobrevida global. Atualmente, preconiza-se a utilização do imatinibe em casos de doença avançada, com ênfase nas localmente avançadas com objetivo de neoadjuvância. 
-Entre os intolerantes ao imatinibe ou refratários, sugere-se um trial com sunitinibe (a função tireóidea deve ser avaliada e monitorizada frequentemente). Uma alternativa aos pacientes com progressão da doença recebendo 400mg/d de imatinibe é aumentar a dose para 800mg/d.
-Para seguimento, recomenda-se, após cirurgia, TC a cada 3 ou 6 meses por 3 a 5 anos e, após, anualmente. Após o início da quimioterapia, realiza-se TC após 3 meses (Figura 3) ou PET-CT até 2 semanas a partir do início do ciclo, nos locais com tal possibilidade (Figura 4). A resposta deve ser medida pela diminuição do tamanho e da densidade da lesão. 
-
- 
-Figura 3 - (A) GIST irressecável de estômago antes do tratamento e (B) 8 semanas após quimioterapia com imatinibe
+Os principais agentes quimioterápicos para tratamento do GIST são imatinibe e sunitinibe. Ambos agem diretamen-te nas tirosinoquinases, acarretam efeitos colaterais menos intensos e são indicados de forma exclusiva na doença metastática, irressecável e recorrente, e como adjuvância nos tumores de alto risco.
+	
+	A neoadjuvância pode ser realizada nos casos de tumores de difícil ressecção. Ocorre enquanto o tumor apre-senta sinais de regressão até um nível máximo, sem tempo preestabelecido. Se utilizada, deve-se continuar com imati-nibe (Glivec®) após cirurgia indefinidamente, até a progressão da doença. Para pacientes com doença localmente avançada não metastática ou borderline, sugere-se terapia com imatinibe em vez de ressecção (graduação 2C). Também pode ser benéfico àqueles com GIST em esôfago, junção esofagogástrica, duodeno ou reto distal, permitindo cirurgia menos radical. Àqueles com GIST metastático potencialmente ressecável (metástase peritoneal e hepática) sugere-se imatinibe em vez de cirurgia (graduação 2C); se desenvolverem progressão da doença, há pouco ganho com a cirurgia (graduação 1B), mas, tornando-se ressecáveis após imatinibe (ou sunitinibe, se resistência a este), cirurgia deve ser considerada.
+	A adjuvância, aprovada recentemente, é recomendada para tumores de alto risco, conforme classificação de Fletcher (Tabela 1). É recomendada terapia adjuvante com inibidor da tirosinoquinase (imatinibe 400mg/d) por, no mínimo, 3 anos, em vez de 1 ano, nos pacientes com GIST primário de alto risco completamente ressecado (graduação 1A). O American College of Surgeons Oncology Group (ACOSOG) está realizando 2 estudos prospectivos para GISTs loca-lizados e submetidos à ressecção total e ao uso de imatinibe adjuvante, com bons resultados. O objetivo é avaliar a eficácia do imatinibe como adjuvante da cirurgia. Essa eficácia é medida com o impacto na sobrevida livre de doença e na sobrevida global. Atualmente, preconiza-se a utilização do imatinibe em casos de doença avançada, com ênfase nas localmente avançadas com objetivo de neoadjuvância. 
+	Entre os intolerantes ao imatinibe ou refratários, sugere-se um trial com sunitinibe (a função tireóidea deve ser avaliada e monitorizada frequentemente). Uma alternativa aos pacientes com progressão da doença recebendo 400mg/d de imatinibe é aumentar a dose para 800mg/d.
+	Para seguimento, recomenda-se, após cirurgia, TC a cada 3 ou 6 meses por 3 a 5 anos e, após, anualmente. Após o início da quimioterapia, realiza-se TC após 3 meses (Figura 4) ou PET-CT até 2 semanas a partir do início do ciclo, nos locais com tal possibilidade (Figura 5). A resposta deve ser medida pela diminuição do tamanho e da densidade da le-são. 
 
  
-Figura 4 - (A) Meta hepática com captação anormal na PET-CT e (B) 4 semanas após quimioterapia com imatinibe
+Figura 4 - (A) Tumor estromal gastrintestinal irressecável de estômago antes do tratamento e (B) 8 semanas após quimiote-rapia com imatinibe
 
-5. Resumo 
+
+ 
+Figura 5 - (A) Meta hepática com captação anormal na PET-CT e (B) 4 semanas após quimioterapia com imatinibe
+
+Resumo 
 
 Quadro-resumo
-- 	Os GISTs são as neoplasias mesenquimais mais comuns do TGI, e o seu diagnóstico, normalmente, requer confirmação imu-no-histoquímica (presença de c-Kit); 
+- 	Os GISTs são as neoplasias mesenquimais mais comuns do TGI, e o seu diagnóstico, normalmente, requer confir-mação imuno-histoquímica (presença de c-Kit); 
 - Os principais fatores relacionados ao prognóstico são o tamanho do tumor e o índice mitótico;
 - 	Sempre que possível, o tratamento deve ser realizado com cirurgia, respeitando-se margem de segurança e sem necessidade de linfadenectomia; 
 - 	A quimioterapia com imatinibe pode ser usada como neoadjuvância em tumores irressecáveis, terapia única ou adjuvância após a ressecção.
 
-Respostas 
+Respostas das questões do capítulo
 1. A  
 2. D
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
