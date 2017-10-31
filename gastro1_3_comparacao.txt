@@ -1,8 +1,4 @@
-diff --git a/gastro1_3.txt b/gastro1_3.txt
-index 19d0c34..3af6f31 100644
---- a/gastro1_3.txt
-+++ b/gastro1_3.txt
-@@ -1,73 +1,70 @@
+
 Afecções motoras do esôfago
 Fábio Carvalheiro[- / -]
 Eduardo Bertolli

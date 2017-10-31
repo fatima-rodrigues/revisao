@@ -1,8 +1,4 @@
-diff --git a/gastro1_8.txt b/gastro1_8.txt
-index 5991893..0854ec8 100644
---- a/gastro1_8.txt
-+++ b/gastro1_8.txt
-@@ -1,71 +1,70 @@
+
 Doença ulcerosa péptica
 {+				+}Fábio Carvalheiro[- / -]
 Eduardo Bertolli

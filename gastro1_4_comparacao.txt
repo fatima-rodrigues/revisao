@@ -1,8 +1,4 @@
-diff --git a/gastro1_4.txt b/gastro1_4.txt
-index c8cc075..15d1972 100644
---- a/gastro1_4.txt
-+++ b/gastro1_4.txt
-@@ -1,32 +1,34 @@
+
 Afecções mecânicas do esôfago
 Fábio Carvalheiro[- / -]
 Eduardo Bertolli

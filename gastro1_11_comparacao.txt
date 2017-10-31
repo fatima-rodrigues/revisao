@@ -1,744 +1,0 @@
-diff --git a/gastro1_11.txt b/gastro1_11.txt
-index 7f5589c..bfad53d 100644
---- a/gastro1_11.txt
-+++ b/gastro1_11.txt
-@@ -1,391 +1,502 @@
-[-Cânc-]{++}
-{+N+}e[-r-]{+oplasia+} gástric[-o-]{+a benigna e maligna+}
-Fábio Carvalheiro[- / -]{++}
-Eduardo Bertolli{++}
-Allan Garms Marson[- / -]{++}
-Yeda Mayumi Kuboki{++}
-Rodrigo Biscuola Garcia[- / -]{++}
-Lúcia C. Barcellos Kunen[-Resumo-]{++}
-{++}
-{++}
-Neste capítulo, ser[-á-]{+ão+} abordad[-o-]{+as+} [-o-]{+as+} [-câ-]n[-c-]e{+oplasias gást+}r{+icas+} [-d-]{+b+}e{+nignas+} e[-stô-]{+ +}ma{+li+}g[-o-]{+nas+}. E{+ntre a+}s{+ le+}s{+õ+}e{+s+} [-é -]{+nã+}o [-2º -]{+epi+}t{+el+}i[-po-]{+ais+} [-d-]{+b+}e{+nignas,+} [-tum-]{+ab+}or[- -]d[-o tr-]a[-to dig-]{+r+}e{+mo+}s[-t-]{+ l+}i[-v-]{+p+}o[- -]ma[-i-]s{+,+} [-cobrad-]{+lei+}o[- n-]{+mi+}o{+ma+}s{+,+} {+s+}c[-o-]{+hwan+}n[-cur-s-]o{+ma+}s{+,+} {+he+}m[-éd-]{+ang+}i[-c-]o{+ma+}s, [-principalmen-]t{+umor+}e{+s+} {+d+}e[-m-] [-q-]{+cél+}u[-estõe-]{+la+}s [-sob-]{+g+}r[-e f-]a[-to-]{+nula+}res{+,+} [-de -]{+pânc+}r[-i-]{+ea+}s[-co,-] {+ec+}t[-i-]{+ó+}p{+ic+}o[-s-]{+,+} [-h-]{+c+}isto[-ló-]{+ +}g[-ico-]{+á+}s[- e tratamen-]t[-o ci-]r[-úrg-]ico[-.-] [-O-]{+e+} {+du+}p[-r-]{+l+}i[-n-]c[-ip-]a[-l tip-]{+çã+}o [-hi-]{+cí+}st[-ológ-]ic[-o na neoplasi-]a gástrica{+.+} [-é-]{+Os+} {+lip+}o[- -]{+m+}a{+s po+}de[-n-]{+m +}oc[-arcin-]o{+rrer e+}m[-a,-] [-p-]{+todo +}o[-r-] {+t+}r[-ep-]{+ato gast+}r{+int+}es[-en-]t{+in+}a[-r-]{+l,+} [-94%-]{+mas+} [-do-]s{+ão+} [-c-]{+m+}a{+i+}s{+ c+}o{+mun+}s [-de -]n[-e-]o[-pl-]{+ trato g+}as{+trintest+}i{+n+}a{+l+} [-m-]{+b+}a[-l-]i[-gna-]{+xo.+} [-d-]{+N+}o estômago[-,-] s[-end-]{+ã+}o [-em-]{+raros+} [-1980-]{+(<5%+} [-a-]{+dos+} {+li+}p{+omas gast+}r{+o+}in[-c-]{+test+}i[-p-]{+n+}a[-l-]{+is).+} [-cau-]{+O+}s[-a-] [-d-]{+l+}e[- -]{+i+}mo[-rtal-]{+m+}i[-d-]{+om+}a[-de-]{+s+} [-p-]{+sã+}o[-r-] [-ne-]o[-pla-]s[-ia; hoje,-] [-oc-]{+t+}u[-pa a 2ª p-]{+m+}o{+re+}s[-ição.-] [-O-]{+gá+}s[- -]t{+r+}i[-p-]{+c+}os [-d-]{+b+}e[- câ-]n[-cer -]{+i+}g[-á-]{+no+}s[-tr-]{+ ma+}i{+s +}co[- i-]{+mu+}n[-te-]s[--t-]{+. Orig+}ina[-l -]{+m-s+}e d[-ifuso, pel-]a c[-l-]a[-ssific-]{+mad+}a[-ção-] [-hi-]{+mu+}s[-to-]{+cu+}l{+ar pr+}ó[-g-]{+pr+}i[-c-]a [-de-]{+ou,+} [-L-]{+r+}a[-u-]r{+am+}en{+te+}, {+da mu+}s[-ão-]{+cular+} [-2-]{+da mucosa.+} {+H+}e{+ma+}n[-t-]{+g+}i[-d-]{+om+}a[-de-]s [-b-]i{+ntra-abd+}o[-lóg-]{+m+}i[-c-]{+n+}a{+i+}s [-que-]{+são+} [-dife-]r[-em qu-]a[-nt-]{+r+}o{+s+} {+for+}a [-epi-]d[-emiol-]o{+ fí+}g[-i-]a{+do+}, {+s+}e[-ti-]{+nd+}o[--l-]{+ +}o{+ +}g{+ástr+}i[-a,-]{+co+} {+res+}p[-at-]o[-gê-]n[-e-]s{+áv+}e{+l+} [-e com-]por[-tamento.-] [-O-]{+<0,05%+} de[-senvolvimento é-] [-multifa-]to[-ri-]{+d+}a[-l-]{+s+} [-e-]{+as+} [-e-]n[-v-]{+e+}o{+p+}l[-ve -]as[-pecto-]{+ia+}s {+g+}a[-mb-]{+str+}i[-e-]nt[-ais e g-]e[-né-]{+s+}ti[-co-]{+nai+}s[- -]. [-O-]{+Há 2+} tipo{+s+} [-int-]{+d+}e[-sti-]{+ hema+}n{+giom+}a[-l-]{+:+} [-é-]{+o cavernoso,+} mais comum{+,+} e[-ntre-] [-h-]o{+ capilar. Tu+}m[-ens-]{+or+} {+d+}e [-ido-]{+célula+}s[-o-]{+ granulare+}s[-,-] é {+tu+}m[-ai-]{+or submuco+}s{+o+} [-p-]r[-ev-]a[-lente-]{+ro,+} [-e-]{+co+}m [-á-]{+o+}r{+ig+}e{+m nas célul+}as de {+Schw+}a[-lt-]{+n, podend+}o [-ris-]{+o+}co{+rrer+} e{+m+} [-prov-]{+qu+}a[-ve-]l[-m-]{+qu+}e[-n-]{+r par+}te [-liga-]do {+tr+}a{+to+} [-f-]{+g+}a{+s+}t[-o-]r{+int+}e[-s do me-]{+st+}i[-o-]{+nal, mas+} a{+ +}m[-b-]{+a+}i[-ente. Já-]{+oria+} o{+corre+} [-tip-]{+n+}o [-difu-]{+e+}s{+ôfag+}o{+,+} [-é-]{+sendo+} i[-g-]{+ncom+}u[-al-]m[-ente-] [-freque-]n[-te-]{+o+} e{+stô+}m[- -]a[-mb-]{+g+}o[-s-]{+.+} [-o-]{+Pâncrea+}s [-s-]e[-x-]{+ctópic+}o[-s,-] [-ma-]{+é def+}i[-s-]{+nido+} com[-um-]{+o+} [-em-]{+a+} [-jov-]{+pr+}e[-n-]s[-, -]e{+nça+} de [-p-]{+tec+}i{+d+}o[-r-] p[-rog-]{+a+}n[-ós--]{+creá+}tico [-do -]que {+nã+}o {+possu+}i{+ co+}nt[-est-]in{+uid+}a[-l. O-]{+de+} {+ana+}t{+ôm+}i[-po-]{+ca+} [-dif-]{+o+}u{+ va+}s{+cular c+}o{+m+} [-é-]{+o+} {+co+}r[-es-]po{+ do pâ+}n{+crea+}s[-áv-]{+. Ocorr+}e[-l,-] [-at-]{+us+}ualmente[-,-] [-p-]{+n+}o[-r-] [-3-]{+estômago (6+}0[-%-] [-dos-]{+a+} [-c-]{+70%), n+}a[-sos-] {+gran+}de c[-a-]{+u+}r[-cinom-]{+v+}a[- gás-]t{+u+}r[-ico.-]{+a+} [-De-]{+ju+}nt[-re -]o[-s-] [-f-]{+à p+}a[-to--]re[-s -]de [-risco, no ti-]po[- inte-]st{+er+}i[-nal-]{+or+} [-há-]{+do+} [-g-]a[-s-]{+n+}tr[-ite-]{+o.+} [-atrófi-]{+S+}c{+hw+}a[-, -]{+nno+}m[-et-]a{+ é neo+}plasia [-intestin-]{+rar+}a[-l e-] d[-isplasi-]a[-.-] [-Qu-]{+b+}a{+i+}n[-to -]{+h+}a[-o-] [-qua-]d[-r-]o{+s+} [-clí-]n[-ic-]{+erv+}o{+s+}, [-s-]{+p+}o[-m-]{+d+}en[-te 50% -]do{+ ser lesõe+}s [-dia-]g{+ra+}n[-o-]{+des, +}s{+ubepi+}t{+el+}i[-c-]a[-do-]{+i+}s{+,+} c[-om cân-]{+res+}ce{+ndo pa+}r{+a luz+} gástric[-o-]{+a+} [-tê-]{+e, rara+}m{+ente,+} [-do-]{+apres+}en[-ç-]{+t+}a{+m+} [-c-]{+hem+}o[-nfinad-]{+rr+}a[- -]{+gi+}a[-o-] [-sít-]{+d+}i[-o locorre-]g[-ional, -]e[- -]s[-omente me-]t{+iv+}a[-de-]{+.+} [-daquele-]{+Po+}s{+sui+} [-co-]m[- -]{+arca+}do{+r+}e[-nça-]{+s+} [-a-]p[-arentemen-]{+osi+}t[-e reg-]i{+v+}o[-nal-]{+s+} p[-odem realiz-]ar[- cirurgi-]a p{+r+}ote{+í+}n[-ci-]a[-lmente-] [-curativa-]{+S-100+}. C[-âncere-]{+isto+}s [-cir-]{+de d+}u[-rg-]{+pl+}ica[-m-]{+ção são l+}e[-nt-]{+sõ+}e{+s+} c[-uráve-]{+ongên+}i{+ta+}s [-são-]{+rara,+} geralmente assintomáticos{+ nos adultos+}. [-A-]{+Na+} endoscopia [-dige-]{+ob+}s[-ti-]{+er+}va{+-se+} [-a-]l[-ta é o método diagnó-]{+e+}s[-tic-]{+ã+}o [-de e-]s{+ubmu+}co[-lh-]{+s+}a, [-e -]{+m+}a[-pli-]c{+i+}a[--se-]{+,+} {+n+}a [-classific-]{+gr+}a[-ção -]{+n+}de [-Bo-]{+cu+}r{+vatu+}r[-m-]a[-nn,-]{+.+} [-qu-]{+O cânc+}e{+r+} d[-ivid-]e [-o carcino-]{+estô+}ma[- -]g[-ástric-]o [-avançado-]{+é+} [-em-]{+o+} [-4-]{+2º+} tipo[-s,-] [-s-]{+d+}e[-g-]{+ t+}u[-nd-]{+m+}o{+r+} {+d+}o {+tr+}a[-sp-]{+to dig+}e[-c-]{+s+}t{+iv+}o ma{+is +}c{+ob+}r{+ado n+}os{+ +}c[-ópi-]{+on+}c{+urs+}o[-;-]{+s+} [-e-]{+médicos+}, {+princip+}al[-é-]m{+ente+} [-d-]e{+m+} [-faz-]{+qu+}e{+stões sob+}r{+e+} {+f+}a{+tores+} [-anál-]{+de r+}i[---]s[-e-]{+co+}, [-já -]{+ti+}pos[-sibil-]{+ h+}i{+s+}t[-a -]o[- -]{+lóg+}i[-ní-]c[-io d-]o{+s+} e[-s-]{+ +}t{+r+}a[-di-]{+t+}amento[-,-] {+c+}i[-nd-]{+rúrg+}ic[-ando se o tum-]o[-r-]{+.+} [-é-]{+O+} pr[-eco-]{+in+}c[-e-]{+ipal+} {+tip+}o[-u avançado,-] {+hi+}s[-eu -]t[-amanh-]{+ológic+}o [-e su-]{+n+}a [-l-]{+ne+}o[-ca-]{+p+}l{+as+}i[-z-]a[-ção. A-] [-Tomo-]g{+ást+}r[-af-]i{+c+}a [-C-]{+é +}o[-mput-]{+ +}ad{+en+}o{+ca+}r{+c+}i[-zad-]{+nom+}a{+,+} [-(TC)-]{+por+} [-d-]{+r+}e[- abdom-]{+pr+}e{+sentar+} [-é-]{+94%+} [-um-]{+dos+} [-mét-]{+cas+}o{+s +}d{+e ne+}o{+plasia+} m[-u-]{+al+}i[-t-]{+gna d+}o e[-fic-]{+stôm+}a[-z-]{+go+}, [-ta-]{+se+}n[-t-]{+d+}o [-p-]{+em 1980 +}a{+ p+}r{+incip+}a{+l+} [-t-]{+ca+}u[-more-]s{+a+} [-menor-]{+d+}e[-s-] [-co-]mo[- av-]{+rt+}a[-nç-]{+lid+}ad{+e p+}o[-s.-]{+r+} [-P-]{+ne+}o[-ssibi-]{+p+}l{+as+}i[-t-]a{+;+} [-a-]{+hoje,+} {+ocup+}a[-v-]{+ +}a[-l-]{+ 2ª pos+}i[-a-]ção{+.+} [-de metá-]{+O+}s{+ +}t[-a-]{+ipo+}s{+ d+}e[-s-] [-h-]{+cânc+}e[-p-]{+r g+}á{+s+}t{+r+}ic[-as, da-]{+o+} [-pr-]{+int+}es[-e-]{+ti+}n[-ç-]a{+l e+} d{+ifuso, p+}e{+la+} {+c+}l{+ass+}i[-n-]f{+icaçã+}o[-n-]{+ hist+}o{+lógica +}d[-os-]{+e+} {+L+}au[-m-]{+r+}en[-tado-]{+, +}s{+ão+} [-e-]{+2+} {+entida+}de{+s+} {+b+}i[-nv-]{+ológic+}as[-ão-] [-d-]{+qu+}e {+dif+}e[-st-]r[-uturas-]{+em+} {+qu+}a[-djace-]n[---]t[-es,-]{+o+} [-f-]a[-z-]{+ +}e[-n-]{+pi+}d{+emiol+}o{+gia,+} e[-s-]t[-ad-]{+iolog+}ia[-men-]{+, pa+}to{+gênese e+} [-lo-]co{+mpo+}r[-r-]{+tam+}e[-gio-]n[-al-]{+to+}. O {+d+}es[-tad-]{+envolv+}i[-a-]mento [-abdo-]{+é +}m[-ina-]{+u+}l[- -]{+ti+}f{+ator+}i[-n-]al [-é f-]e[-ito-] {+e+}n{+v+}o{+lve+} [-intr-]a[-o-]{+s+}pe[-ra-]{+c+}t[-óri-]o{+s+} {+ambi+}e[- -]{+ntai+}s{+ +}e{+ +}g[-u-]e[- -]{+nétic+}os{+. O+} [-cri-]t[-ér-]i{+p+}o[-s TNM.-] [-Relat-]i[-vo ao tra-]{+n+}t[-am-]e[-n-]{+s+}t[-o, a cirurgia-padrão com -]in[-tuito cur-]a[-tivo-]{+l+} é [-a gastrecto-]m[-i-]a{+is+} com{+um+} [-linfad-]en[-ec-]t{+re h+}om[-ia-]{+ens+} [-D2,-]{+e+} i{+do+}s[-t-]o{+s,+} é[-,-] [-l-]{+ma+}i[-nf-]{+s prev+}a[--d-]{+l+}en[-ec-]t[-omia-]{+e+} e[-st-]{+m ár+}e[-ndid-]a{+s+} de{+ al+}t[-e-]{+o +}r[-m-]i[-nada -]s[-empr-]{+co +}e p{+rovav+}el[-a-]{+mente+} l[-ocal-]i[-z-]{+g+}a[-ção -]do {+a fa+}t[-um-]or[-.-]{+es+} [-Portant-]{+d+}o[-,-] [-u-]m[-a l-]{+e+}i[-nf-]{+o +}a[-d-]{+mbi+}en[-ec-]t[-omia D2 d-]e{+.+} [-um-]{+Já o+} t[-um-]{+ip+}o[-r-] d[-e -]{+i+}fu[-ndo gá-]s[-tric-]o {+é igualme+}n[-ão-]{+te+} {+f+}re{+quen+}t[-ira os-]{+e+} [-m-]e[-s-]m{+ amb+}os [-linfonod-]os [-d-]{+s+}e{+xos,+} [-u-]ma[- l-]i[-nfadene-]{+s +}c[-t-]om[-ia D2 de -]um [-tu-]{+e+}m[-or-] [-d-]{+jov+}e[- a-]n[-tro. O-]s{+,+} [-fat-]{+e de pi+}or[-es-] prognóstico[-s-] [-sã-]{+d+}o[-,-] {+qu+}e[-m-] o[-rdem de-] [-relevâ-]{+i+}n[-c-]{+test+}i{+n+}a[-,-]{+l.+} [-o-]{+O+} [-es-]t[-ad-]i{+p+}o [-TNM, a -]dif[-e-]{+uso é +}re[-nciaçã-]{+sp+}o{+nsável,+} {+a+}tu[-mor-]al[- -]{+ment+}e{+,+} {+p+}o{+r+} [-status-]{+30%+} d[-a margem-]{+os+} [-d-]{+c+}a[- re-]s[-secçã-]o[-.-]
-
-[-1.-]{+s+} [-Epi-]de[-miologi-]{+ +}a[-D-]{+d+}eno[-min-]{+c+}a[--se -]{+r+}c{+in+}om[-o câncer-]{+a+} gástrico{+. Dentre+} o{+s+} {+f+}a{+tores +}de[-noca-]{+ +}r[-c-]i[-n-]{+sc+}o[-ma-], [-p-]{+n+}o[-r-] [-represen-]t[-ar 94% dos cas-]{+ip+}o[-s de-] {+i+}n{+t+}e[-opla-]s{+t+}i[-a malig-]na{+l+} [-de-]{+há+} [-estôma-]g[-o. Den-]{+as+}tr{+it+}e a[-s ou-]tr[-as -]{+ófi+}ca[-usas-], {+m+}e[-s-]t[-ão -]{+ap+}l{+as+}i[-nfom-]a[-,-] {+in+}t[-umor -]est[-rom-]{+in+}al [-(GIST),-]{+e+} [-o-]{+displasia. Q+}u{+an+}t[-r-]o[-s-] [-s-]a[-rc-]o[-mas-] qu[-e nã-]{+adr+}o {+c+}l[-i-]{+í+}n[-f-]{+ic+}o[-ma-]{+,+} {+some+}n{+t+}e[-m-] [-GIST,-]{+50%+} [-leiomi-]{+d+}os[-sarcoma,-] [-le-]{+d+}i{+agn+}o[-m-]{+st+}i[-obl-]{+c+}a{+do+}s[-t-]{+ c+}om[-a,-] [-hema-]{+câ+}n[-giop-]{+c+}er{+ gástr+}ic[-it-]o{+ tê+}m[-a,-] [-rab-]do[-mioss-]{+enç+}a[-r-]{+ +}co[-m-]{+nfinad+}a[-,-] [-pl-]a{+o +}s[-m-]{+ítio l+}oc{+orreg+}i[-t-]o[-m-]{+n+}a{+l+}, {+e +}s[-arc-]om[-a gra-]{+e+}n[-ulocí-]t[-ico,-]{+e+} [-t-]{+m+}e[-ra-]t[-om-]a{+de+} [-m-]{+d+}a{+que+}l[-ign-]{+es c+}o{+m+} {+do+}e[-,-]{+nça+} {+a+}p[-o-]{+a+}r[- úl-]{+en+}t[-i-]{+e+}m[-o,-]{+ente+} [-ca-]r[-c-]{+eg+}i[-nossarc-]o[-m-]{+n+}a[-.-]{+l+} [-E-]{+pode+}m [-1980, fo-]{+real+}i[- -]{+z+}a{+r+} [-p-]{+ciru+}r{+g+}i{+a pote+}nci[-p-]al[- causa de -]m[-or-]{+en+}te [-po-]{+cu+}r[- neopl-]a[-s-]{+t+}i{+v+}a{+.+} {+Cânc+}e[-,-]{+res+} [-at-]{+cir+}u{+rgic+}a[-l-]mente[-,-] [-o-]cu[-pa a 2ª-]{+ráveis+} [-po-]s[-iç-]ão[-. No-] [-B-]{+ge+}ra[-si-]l[-, está -]{+m+}ent[-r-]e as[- 3 pr-]{+s+}i{+nto+}m[-e-]{+át+}i[-ra-]{+co+}s{+.+} [-cau-]{+A endo+}s{+copi+}a[-s-] d{+ig+}e{+stiva+} [-mor-]{+al+}t[-e-]{+a é+} [-p-]o[-r-] [-câncer n-]{+mét+}o[- sex-]{+d+}o [-m-]{+di+}a{+gnó+}s[-cul-]{+t+}i[-n-]{+c+}o {+d+}e [-as 5 prim-]e[-ira-]s[- no feminino. A-]co[-met-]{+lha, +}e {+a+}p[-r-]{+l+}i[-n-]c[-ip-]a[-lmen-]-[-te homen-]s[-,-]{+e+} [-à-]{+a+} [-propor-]{+classifica+}ção de [-2:1, e é -]{+Borr+}ma[-is-]{+nn,+} [-fre-]que[-nte entre 50-] {+divid+}e [-70 an-]o[-s,-] c{+arcin+}om{+a+} [-p-]{+gástr+}ico [-por -]{+a+}v[-olt-]a[- -]{+nça+}do[-s-] [-70-]{+em+} [-anos-]{+4+} {+ti+}p[-ara ambos -]os{+,+} se[-xos.-]
-
-[- -]
-[-Fi-]gu[-ra 1-]{+ndo+} [---]{+o+} [-Vi-]{+a+}s[-ã-]{+pect+}o [-end-]{+macr+}oscópic{+o; e, +}a{+lém+} de [-cânc-]{+faz+}er [-g-]{+a an+}á[-str-]{+l+}i[-co d-]{+s+}e{+, já+} [-as-]p[-ect-]o[- -]{+ss+}i[-nf-]{+b+}il{+i+}t[-r-]a[-t-]{+ o iníc+}i[-v-]o [-e-]{+do+} est{+adiam+}en{+t+}o[-sa-]{+, i+}n[-te-]
-
-[-Observ-]{+dic+}a[---]{+ndo +}se [-red-]{+o t+}u[-çã-]{+m+}o{+r é+} pr{+ec+}o[-gr-]{+c+}e[-ssi-]{+ ou a+}va[- -]n{+ç+}a[- inci-]d[-ência-]{+o,+} [-m-]{+se+}u[-ndial,-] [-princip-]{+t+}a[-l-]m[-ente -]{+a+}n{+h+}o[-s-] [-país-]e[-s-] [-de-]s[-env-]{+ua l+}o{+ca+}l[-v-]i[-d-]{+zaçã+}o[-s,-]{+.+} [-devido-]{+A+} [-a-]{+T+}o[- au-]m[-ent-]o{+grafia+} [-d-]{+C+}o[- -]{+mp+}u[-s-]{+tad+}o{+rizada (TC)+} de [-refriger-]a{+b+}do[-r-]{+m+}e[-s,-] [-à-]{+é um+} {+méto+}d[-i-]{+o +}m[-in-]ui[-çã-]{+t+}o [-n-]{+efic+}a{+z,+} [-inges-]ta{+nto+} [-de-]{+para+} [-def-]{+t+}um[-ad-]o{+re+}s {+m+}e[- a-]{+n+}o{+res+} [-au-]{+co+}m[-ent-]o [-na ingest-]a[- de -]v[-it-]a[-mi-]n{+ç+}a{+do+}s[-,-]{+.+} {+P+}o[- que -]s[-e deve à me-]{+sibi+}l[-hor-]i{+t+}a [-d-]a[-s-] [-cond-]{+aval+}i{+a+}ç[-õ-]{+ão d+}e[-s-] [-ali-]me[-n-]{+tás+}ta[-r-]{+s+}es[-;-] {+h+}e[-ntre-]{+pá+}t{+ic+}a[-nto-]{+s+}, {+d+}a{+ +}presen[-ta alt-]{+ç+}a [-pr-]{+d+}e[-va-]{+ +}l[-ênc-]i[-a-]{+nfonodos+} [-e-]{+au+}m[- p-]{+ent+}a[-í-]{+do+}s{+ +}e[-s-] d[-a-]{+e+} [-Ás-]i{+nv+}a[-, como Jap-]{+s+}ão {+d+}e [-Cor-]e[-i-]{+strutur+}a[-,-]{+s+} a[-lém -]d[-e loc-]{+j+}a[-i-]{+cente+}s{+,+} [-com-]{+fazend+}o [-Co-]{+e+}sta[- R-]{+d+}i[-c-]a[- -]{+m+}e{+nto+} [-Chi-]l{+ocorr+}e{+gional+}. O [-d-]es[-envolv-]{+tad+}i{+a+}mento [-é -]{+abdo+}m[-ult-]i[-f-]{+n+}a[-tor-]{+l f+}i{+n+}al [-e-]{+é+} {+f+}e{+ito +}n[-v-]o[-lve-] {+intr+}a[-s-]{+o+}pe[-c-]{+ra+}t{+óri+}o[-s-] {+e se+}g{+u+}e[-né-]{+ os cri+}t{+ér+}i[-c-]os {+TNM. R+}e{+lativo+} a{+o trata+}m[-bi-]ent{+o, +}a[-is-] [-(T-]{+cirurgi+}a[-bel-]{+-p+}a{+drão+} [-1).-]
-
-[-Di-]c[-a-]
-[-Os-]{+om+} {+in+}t{+u+}i[-p-]{+t+}o[-s-] [-de cân-]c[-e-]{+u+}r{+ativo é a+} g[-á-]{+a+}str{+ectom+}i{+a +}co{+m+} {+l+}in[-t-]{+fad+}e[-s-]{+nec+}t{+om+}i[-n-]a[-l-] [-e-]{+D2,+} [-d-]i[-fu-]s{+t+}o[-,-] [-pela-]{+é,+} [-c-]l[-ass-]i{+n+}f[-ic-]a[-ção -]de[- Laure-]n[-, são 2 -]e[-n-]{+c+}t{+om+}i[-d-]a[-d-]{+ +}es[- biológ-]{+tend+}i[-c-]{+d+}a[-s que-] d[-if-]e[-r-]{+t+}e{+r+}m[- qua-]{+i+}n[-to -]{+ad+}a {+s+}e{+mpre +}p[-id-]e[-mio-]l[-ogi-]a[-,-] [-etio-]lo[-gi-]{+c+}a[-, p-]{+liz+}a[-t-]{+çã+}o[-gênese e-] [-c-]{+d+}o{+ tu+}m[-p-]{+or. P+}orta[-me-]nto[-.-]{+,+} [-Pel-]{+um+}a [-c-]l[-ass-]i{+n+}f[-ic-]a[-çã-]{+denect+}o{+mia D2+} de [-La-]u[-ren, os-]{+m+} t[-ip-]{+um+}o[-s-]{+r+} de [-câ-]{+fu+}n[-cer-]{+do+} gástrico [-s-]{+n+}ão [-int-]{+r+}e[-s-]ti[-n-]{+r+}a[-l-] {+os m+}e{+smos+} [-d-]{+l+}i{+n+}f[-us-]o[-.-]{+nodos+} [-O-]{+de+} [-tipo-]{+uma+} {+l+}in[-t-]{+fad+}e[-s-]{+nec+}t{+om+}i[-n-]a[-l-] [-é-]{+D2+} [-mais-]{+de+} [-co-]{+u+}m{+ t+}um{+or+} {+d+}e{+ a+}ntr[-e h-]o[--men-]{+. O+}s {+fator+}e{+s+} [-id-]{+pr+}o{+gnó+}s{+tic+}os{+ são+}, {+e+}m[-ais-] [-p-]{+ordem de +}re[-va-]le{+vâ+}n[-t-]{+cia, o +}e{+stadio TNM, a+} {+dif+}e[-m-]{+renciação+} [-á-]{+tumo+}r{+al +}e{+ o st+}a{+tu+}s d{+a marg+}e{+m+} {+d+}a{+ ressecção. O envo+}l{+vimen+}to {+ext+}r{+anodal dos l+}i{+nfoma+}s{+ o+}co[- -]{+rr+}e pr{+ed+}o[-v-]{+min+}a[-v-]{+nt+}e[-l-]mente [-ligad-]{+n+}o {+tr+}a{+to+} [-f-]{+g+}a{+s+}t[-o-]r{+int+}es{+tinal,+} {+sen+}do [-mei-]o [-amb-]{+l+}i[-e-]n[-te.-]{+foma+} [-J-]{+prim+}á{+rio+} {+rar+}o{+,+} {+enquan+}t[-ip-]o {+o secun+}d{+ár+}i[-fus-]o é {+relat+}i[-gu-]{+v+}a[-l-]mente [-freq-]{+com+}u[-ente-]{+m. O+} e{+stô+}m[- -]a[-mb-]{+g+}o[-s-] {+c+}os{+tuma+} se[-x-]{+r +}o[-s,-]{+ local+} mais {+a+}com[-um -]e[-m j-]{+tid+}o[-vens,-] [-e-]{+(68+} [-de-]{+a+} [-pior-]{+75%+} [-pr-]{+d+}o[-gnó-]s[-ti-]{+ +}c{+as+}o{+s),+} {+sen+}do [-que -]o {+l+}in[-te-]{+foma gá+}st{+r+}i[-nal –-]{+co+} responsável[-, atualmente,-] por 3[-0-]% d[-os c-]as[-os-] [-d-]{+n+}e[- c-]{+opl+}a[-rc-]{+s+}i[-nom-]a{+s+} g[-á-]{+a+}stri[-co.-]
-[-Houve d-]{+nt+}e[-clí-]{+sti+}n{+a+}i{+s e 10% d+}o{+s+} {+li+}n{+fom+}a{+s. A+} in{+fe+}c[-idência-]{+ção+} [-mundia-]{+pe+}l[- d-]o [-ti-]{+H. +}p{+yl+}o[- -]{+r+}i[-nt-]{+ +}est[-in-]{+á +}al[- -]{+tame+}n{+te +}as[- dé-]{+so+}c{+i+}ada[-s-] [-re-]c[-ent-]{+om o d+}es[-, paral-]e{+nvo+}l{+viment+}o [-a-]{+d+}o [-dec-]l[-ín-]i{+nf+}o{+ma+} [-n-]{+MALT (mucos+}a [-in-]{+asso+}ci{+ate+}d[-ênc-]{+ lympho+}i[-a-]{+d+} [-g-]{+tissu+}e{+). O t+}ra[-l-]{+tamento+} do [-câ-]{+li+}n[-cer-]{+foma MALT+} gástrico[-.-] [-Em-]{+é+} [-contr-]{+b+}as[-t-]e[-, o -]{+a+}d[-eclíni-]o no {+es+}t[-ipo -]{+a+}di[-fus-]o [-é m-]{+d+}a[-is-] [-gra-]d[-u-]{+oenç+}a[-l.-] [-2.-]{+e+} [-Fato-]{+p+}res[- d-]e{+nça+} [-risc-]{+d+}o[-A --] [-Lesões-]{+H.+} p[-recurs-]{+yl+}or[-as-]{+i. +}
-{++}
-{+1.+} {+Neo+}p{+l+}a[-r-]{+si+}a [-o -]{+gás+}t{+r+}i[-po-]{+ca+} [-int-]{+b+}e[-st-]{+n+}i{+g+}na[-l-]{++}
-{+	+}A{+s+} {+le+}s{+õ+}e[-quênc-]{+s gástr+}i{+c+}a{+s+} [-mol-]{+b+}e[-cul-]{+nign+}a[-r-]{+s+} [-n-]{+s+}ão [-é-]{+divididas+} [-compl-]e[-ta-]m{+ +}e[-n-]{+pi+}te[- esc-]l[-arec-]i[-da, m-]a{+i+}s [-um mode-]{+(pó+}l{+ip+}o[- de-]s[-creve-] {+hi+}p[-rogr-]e{+rplá+}s[-sã-]{+ic+}o{+s,+} de g{+lândul+}as[-trite-] [-crô-]{+fú+}n{+d+}ica{+s,+} [-par-]{+h+}a[- g-]{+m+}a[-st-]r[-ite a-]t[-rófic-]{+om+}a{+s+}, [-meta-]p{+ó+}l[-as-]i[-a-]{+po+} {+f+}i[-ntest-]{+bro+}i[-nal, -]d[-isplasia e, eventualment-]e, adeno[-c-]{+ma e c+}arcino[-ma (F-]i[-gura 2-]{+de+})[-.-]
-[-A-] [-gastrit-]e [-crô-]n[-ica-]{+ão+} [-sup-]e[-rfic-]{+p+}i[-al d-]{+t+}e[- -]l[-ong-]{+i+}a{+is+} [-data-]{+(GIST+}, [-causada -]{+li+}po[-r H.-]{+mas,+} [-py-]l{+ei+}o[-r-]{+m+}i{+omas+}, {+schw+}an[-e-]{+no+}m[-i-]a{+s,+} [-p-]{+h+}e[-r-]{+ma+}n[-ic-]{+g+}io[-s-]{+m+}a{+s,+} [-o-]{+t+}u{+mores+} d[-i-]e[-ta-] [-ri-]c[-a em sa-]{+é+}l[-, -]{+u+}l[-ev-]a[-,-]{+s+} [-eve-]{+gra+}n[-t-]u[-a-]l[--ment-]{+ar+}e{+s+}, [-a gast-]{+pânc+}r[-it-]e[- -]a{+s ec+}t[-r-]ó[-f-]{+p+}ic[-a-]{+o,+} c{+isto gást+}r[-ôn-]ic[-a-]{+o+} e [-meta-]{+du+}pl[-as-]i{+c+}a{+ção+} [-inte-]{+cí+}sti[-nal. A atrofi-]{+c+}a gástrica{+).+} [-é-]{+Neste+} [-a-]c[-ompanh-]a[-da -]p{+ítul+}o[-r-]{+,+} [-perd-]a[- -]{+bor+}da[- -]{+re+}m[-as-]{+o+}s[-a-] [-de-]{+as+} [-célu-]l[-a-]{+esõe+}s {+não e+}p[-ar-]i[-e-]t{+eli+}ais[- e-], [-portan-]{+exce+}to[-,-] [-reduçã-]o [-na-]{+GIST.+}
-{++}
-{+	A+} [-produção-]{+-+} [-ác-]{+L+}i[-d-]{+pom+}a{++}
-{+	Os+} [-(h-]{+l+}ipo[-cloridri-]{+m+}a{+s+} {+p+}o[-u-]{+dem+} [-a-]{+o+}c[-l-]or[-id-]r[-ia),-]{+er+} [-di-]{+e+}m[-inuiçã-]{+ tod+}o [-n-]o [-ácid-]{+trat+}o {+g+}as[-có-]{+t+}r[-b-]i[-co lum-]{+ntest+}inal{+,+} [-(vita-]m[-in-]a{+s+} [-C) e-]{+são+} [-au-]m[-ento-]{+ais+} com[-pe-]{+u+}ns[-atório-] n{+o tr+}a{+to+} gastrin[-a -]{+te+}s[-ér-]{+t+}i[-c-]{+n+}a[-,-]{+l+} [-um-]{+baixo.+} [-p-]{+N+}o[-t-]{+ +}e[-n-]{+s+}t[-e-]{+ômago+} [-indut-]{+sã+}o[-r-] [-d-]{+r+}a[- p-]ro[-liferaçã-]{+s (<5% d+}o{+s+} [-epite-]li{+pom+}a[-l-]{+s+} g[-á-]{+a+}stri[-ca. Similarme-]nte[-, a re-]s{+tinai+}s[-ec-ç-]{+). S+}ão [-gás-]t{+umo+}r[-ica-]{+es+} [-r-]e{+ncap+}sul[-t-]a{+dos+} [-e-]{+co+}m[- hi-]po[-cl-]{+st+}o[-ridria-]{+s+} {+p+}o[-u-]{+r+} [-a-]{+te+}c[-lor-]id[-ria,-]{+o+} [-h-]{+ad+}ip{+oso +}e{+ o+}r{+i+}g[-astr-]in[-emi-]a[- -]{+m-+}se[-cu-]{+ +}n[-dá-]{+o+}r[-i-]{+m+}a[- e ref-]l[-uxo d-]{+m+}e[- bil-]{+nt+}e [-(pri-]n{+a +}c[-ip-]a[-l-]m[-ente-]{+ada+} [-Billr-]{+submuc+}o[-th II)-]{+sa+}. [-O a-]{+Cost+}um{+am s+}e[-nto-]{+r+} {+assi+}n{+t+}o[- pH g-]{+m+}á[-s-]t[-r-]ico{+s, mas+} p{+od+}e[-r-]m[-ite a-] {+o+}co[-l-]{+rrer hem+}o[-n-]{+rrag+}i[-z-]a{+, obstru+}ção [-bac-]{+in+}te[-r-]{+st+}i[-a-]na{+l+} [-capaz d-]e [-c-]{+d+}o[-nverte-]r {+abd+}o[-s -]{+mi+}n{+al. A ma+}i[-t-]{+o+}r{+i+}a[-t-]{+ p+}os{+sui+} [-d-]{+cresc+}i{+m+}e{+n+}t[-étic-]o[-s-] e{+ndolu+}m{+inal e+} {+as+}p[-ot-]e[-n-]{+c+}t{+o subp+}e{+diculado, mai+}s com[-po-]{+un+}s[-t-]{+ n+}o[-s-] [-N--]{+a+}n[-i-]tro{+ gá+}s{+tric+}o[-s-]{+,+} [-mut-]{+observ+}a[-gê-]n[-ic-]{+d+}o{+-+}s[-.-]{+e+} [-A-]{+à+} [-I-]{+e+}n[-flamaçã-]{+d+}o[- -]{+s+}c[-rôn-]{+op+}i[-c-]a [-resu-]l[-ta -]e[-m dan-]{+sã+}o [-cel-]{+s+}u{+bepite+}l{+i+}a[-r,-]{+l+} com {+mucos+}a{+ q+}u[-m-]e[-nt-]{+ +}o [-d-]{+recobr+}e {+no+}r{+m+}a[-dicais -]l[-ivres-], {+ama+}re{+la+}d[-ução-]{+a,+} [-n-]{+macia a+}o[-s-] [-nív-]{+toqu+}e[-is-] d[-e vit-]a[-m-]{+ p+}in{+ç+}a [-C -]e [-au-]{+co+}m[-ent-]{+ +}o {+“si+}n{+al d+}o t[-u-]r[-no-]{+a+}ve{+ssei+}r{+o” (quando+} {+to+}c{+ado p+}el[-ul-]a[-r.-] [-F-]{+p+}i[-gur-]{+nç+}a [-2 - Fator-]{+d+}e[-s-] [-pred-]{+b+}i[-s-]{+ó+}p[-on-]{+sia, t+}en[-t-]{+d+}e[-s -]
-
-[-B-] [---]{+a+} [-G-]{+b+}a[-str-]i{+xar o cen+}t{+ro +}e {+elev+}a[-t-]r[-ófic-]{+ +}a{+s+} [-T-]{+bo+}r{+d+}a[-ta--]s[-e-]{+).+} [-de-]{+A biópsia+} {+cost+}uma [-d-]{+r+}e{+velar muco+}s{+a n+}or[-de-]m[- -]a{+l. À +}u{+l+}t{+rass+}o[-imu-]n{+ografia +}e{+ndoscópica, possui+} caracter{+íst+}i[-z-]{+c+}a{+ +}d[-a-]{+e+} [-p-]{+lesã+}o[-r-] {+hi+}p[-rog-]{+e+}re[-ss-]{+co+}i[-v-]{+c+}a [-atr-]{+h+}o[-fi-]{+mogêne+}a [-do-]{+que+} {+s+}e[-pitélio-] {+ori+}g[-l-]{+in+}a{+ +}n[-dul-]a[-r-] c[-o-]{+a+}m[- perd-]a[- -]d[-e-]{+a+} {+submu+}c[-él-]{+osa (Fig+}u[-l-]{+r+}a[-s-]{+ 1). Não+} p[-a-r-]{+ossu+}i[-e-]{+ po+}t[-a-]{+enc+}i[-s-]{+al+} {+d+}e [-pr-]{+mal+}i{+g+}n[-c-]i[-p-]{+d+}a[-is-]{+de+}. [-Oc-]{+Nã+}o[-rrem-] h{+á +}i[-poclori-]{+n+}d[-r-]i{+c+}a{+ção+} {+d+}e {+a+}co{+mpa+}n[-sequente -]{+h+}a[-u-]mento {+e+}n{+d+}o[- -]{+scó+}p[-H, -]{+ic+}o{+,+} [-qu-]e [-permit-]e[- a -]{+x+}c[-olon-]i[-zaç-]{+s+}ão [-micr-]{+l+}o[-bian-]{+c+}a{+l+} [-gá-]s[-tr-]{+ó é ind+}ica[-, levan-]d[-o-]{+a+} a{+os+} [-n-]{+s+}i{+n+}t[-r-]{+omátic+}os[-açã-]{+ +}o[-,-]{+u+} que [-é ge-]n{+ã+}o[-tóxica.-] [-Também oc-]{+p+}o[-rr-]{+d+}e{+m+} [-p-]{+s+}er[-da-] d{+if+}e[- células -]{+r+}en[-dó-]c[-r-]i[-nas que secretam f-]a[-t-]{+d+}o[-re-]s de [-cresci-]m[-ento tr-]a{+lig+}n[-sform-]{+id+}ad[-or-]e[-s-]{+.+} [-e-]{++}
-{++}
- [-ep-]{++}
-{+F+}i[-dé-]{+gu+}r[-micos,-]{+a+} [-os-]{+1+} [-quais-]{+-+} [-auxil-]{+L+}i[-am -]{+p+}o[- estô-]ma{+ +}g{+ástric+}o na [-reg-]en[-eração -]do[- d-]{+scopi+}a[-n-]{++}
-{+F+}o[- -]{+n+}te[-ci-]{+: www.en+}d[-u-]{+o+}a{+t+}l[-. O ri-]{+a+}s{+.+}co{+m.+}
-{++}
-{+	B+} [-de câncer-]{+-+} [-n-]{+L+}e[-ssa po-pulaçã-]{+i+}o[- var-]{+m+}i{+om+}a{++}
-{+	Os+} [-d-]{+l+}e[- 3 -]{+iomiom+}a{+s+} [-18-]{+são+} [-veze-]{+o+}s[-.-] [-Fig-]{+t+}u{+mo+}r[-a 3 --]{+es+} [-Endo-]{+gá+}s{+tri+}co[-pia-]{+s+} [-evid-]{+b+}en[-c-]i[-a-]{+g+}n[-d-]o[- ga-]s[-trite-] {+m+}a[-tróf-]i[-ca-]{+s+} com{+uns.+} [-pe-]{+O+}r[-d-]{+igin+}a{+m-se+} da[-s-] [-preg-]{+camad+}a[-s-] mu[-co-]s{+cul+}a[-s e-]{+r+} [-exace-]{+p+}r[-b-]{+ópri+}a[-çã-]{+ +}o{+u,+} [-d-]{+r+}a[- t-]ram[-a-]{+ente,+} [-v-]{+d+}a{+ mu+}scular [-sub-]{+da +}mucosa[-F-]{+. Sã+}o[-nte:-] [-G-]{+m+}a{+i+}s[-t-]{+ f+}r[-oc-]{+equ+}ent[-ro. -]
-
-[-C-]{+es+} [---]{+em+} [-M-]{+hom+}e[-tapla-]{+n+}s[-ia-]{+,+} [-i-]{+e+}nt{+r+}e{+ o+}s[-tinal-]
-[-M-]{+ 20 +}e[-tapl-]{+ 59 +}a{+no+}s[-ia é-]{+.+} {+Cost+}uma{+m+} [-alt-]{+s+}er{+ +}a[-çã-]{+ssintomátic+}o{+s+} [-p-]o[-ten-]{+u +}c[-ial-]{+o+}m[-e-]{+ si+}nt[-e-]{+omas+} [-rev-]{+in+}e[-r-]s[-ível d-]{+p+}e[- um t-]{+cíf+}i[-po -]c[-elular-]{+os+} {+(+}di[-fer-]{+st+}en{+são, sa+}ci{+ed+}ad[-o-]{+e+} p[-ara out-]r[-o -]{+e+}co[-mo-]{+ce),+} [-u-]m{+as+} p[-rocess-]o[- -]de{+m+} {+s+}a[-dapt-]{+ngr+}a[-ção-]{+r+} [-a-]o{+u+} {+apr+}es{+en+}t[-ímulo-]{+ar+} do[- meio-]{+r+} a[-m-]b{+dom+}i[-e-]n[-te-]{+al+}. [-No -]{+Apr+}es{+en+}t[-ôm-]a[-go, a -]m{+-s+}e[-t-]{+ ger+}a[-p-]l[-asia i-]{+me+}nte[-stinal-] [-é-]{+de forma+} {+ovalad+}a{+,+} ma[-i-]s [-c-]{+p+}o[-mu-]{+de+}m {+s+}e{+r+} [-deco-]{+a+}rre[- -]d[-a i-]{+o+}n[-fecçã-]{+dad+}o{+s,+} [-p-]{+“+}e[-lo H.-]{+m+} [-pylo-]{+fe+}r[-i, do -]r[-efl-]{+ad+}u[-xo-]{+ra”+} [-d-]e [-bi-]{+anu+}l{+ar+}e{+s,+} [-ou qu-]{+m+}a[-ndo -]i{+s +}n[-duzid-]a [-experi-]me[-n-]ta[-lm-]{+d+}e[-n-]{+ dis+}t[-e-]{+al+} [-p-]{+d+}o[-r-] [-radi-]{+estôm+}a[-çã-]{+g+}o. [-Par-]{+À +}e{+ndos+}c[-e-]{+opia, a+} {+muco+}s[-er-]{+a+} {+q+}u[-m-]{+e o+} [-p-]rec[-urs-]o{+b+}r{+em+} [-do tip-]{+c+}o[- inte-]st[-in-]{+um+}a[-l,-] {+s+}e{+r i+}n{+ta+}c[-on-]t[-r-]a[-do-] e[-m-] a[-té 33% em po-]p[-ul-]a[-çõ-]{+r+}e[-s d-]{+c+}e [-alto ris-]co{+mo+} [-p-]{+m+}a[-r-]{+ss+}a [-cânc-]{+qu+}e[-r-] [-gás-]{+pro+}tr{+u+}i[-co-] [-(Figur-]{+p+}a[- 4).-]
-
-[- -]
-[-Figu-]ra [-4 --]{+o+} [-E-]{+lúme+}n[-doscopia-] e[-vi-]{+ +}de[-n-]{+ +}c{+ons+}i[-a-]{+stê+}n[-do pla-]c{+i+}a[-s-] e[-sbra-]n[-q-]{+d+}u{+rec+}i[-ça-]da[-s-] [-elevad-]{+(Figur+}a[-s-] {+2). Po+}de {+h+}a[-sp-]{+v+}e[-cto-]{+r+} [-m-]{+cr+}e[-taplá-]s[-i-]c[-o na -]{+i+}m[-uc-]{+ent+}o[-sa-] [-gás-]{+exofí+}t[-r-]ic[-a d-]o {+d+}a[-ntro-] [-Font-]{+l+}e[-: Ga-]s[-trocentr-]{+ã+}o. [-D - D-]{+M+}i{+cro+}s{+co+}p[-las-]i[-a-]
-[-Pa-]c[-i-]{+am+}ente{+ +}s{+ão+} [-c-]{+f+}o{+r+}m[- -]{+a+}d[-i-]{+o+}s{+ +}p[-l-]{+or f+}as[-ia-]{+cículos+} de [-a-]{+cé+}l[-to gra-]u[- n-]{+l+}a{+s+} [-m-]{+f+}u[-c-]{+sif+}o{+rme+}s[-a-] [-gá-]s{+e a+}t[-r-]i[-c-]{+pi+}a [-já têm o-]{+n+}u[- -]{+c+}l{+ear, c+}o[-go-]{+m+} [-dese-]n[-vo-]{+úc+}l[-v-]e[-rã-]o c[-ânc-]e[-r. E-]ntr[-e os g-]a[-strectom-]{+l+}izado[-s por-] [-cânc-]e[-r, 20-] {+ov+}a{+l.+} [-40%-]{+A+} {+ul+}t[-inh-]{+r+}a[-m di-]s[-pla-]s{+onograf+}ia [-ass-]{+end+}o{+s+}c{+óp+}i{+c+}a[-da.-] [-As-]{+é+} [-ta-]{+o e+}xa{+me diagnó+}s{+tico+} de [-progr-]e[-ss-]{+leiç+}ão{+,+} [-da d-]{+v+}is[-pl-]{+u+}a[-s-]{+l+}i{+z+}a[- para -]{+nd+}o [-cânc-]{+l+}e[-r -]são [-d-]{+hipo+}e[- 21% n-]{+coic+}a [-lev-]e[-, 33%-] {+homogê+}n{+e+}a [-m-]o[-de-]r{+igin+}ada [-e 57%-]{+da+} [-n-]{+camad+}a {+mu+}s[-ever-]{+cul+}a{+r+}.[-a)-] [-F-]{+Biópsi+}a[-t-]{+ p+}or[-es-] {+agulha fina po+}de [-ri-]s[-co-]{+er+} [-ambi-]{+r+}e[-nt-]a{+l+}i[-s-]
-
-[-T-]{+z+}a[-bel-]{+d+}a [-1 - Fatore-]s[- d-]e [-r-]{+há dúv+}i[-sco-]{+da+} {+d+}a[-m-]{+ +}b[-i-]en[-ta-]i[-s-]
-[-D-]{+gn+}i[-et-]{+d+}a{+de+} [-ric-]{+d+}a {+l+}e[-m -]s[-al	Par-]{+ão. R+}e[-c-]{+ss+}e[- -]c[-ausar dan-]{+çã+}o [-à mu-]cos{+tum+}a [-gá-]s[-t-]{+e+}r{+ ind+}ica{+da+} e[- au-]m[-ento da-] ca[-rcin-]{+s+}o[-gêne-]s[-e.-]
-[-C-]{+ sint+}om[-pos-]{+á+}t{+ic+}os{+,+} {+qua+}n[-itros-]{+d+}o[-s	D-]{+ há +}i{+nc+}e{+r+}t{+ez+}a[-,-] [-tab-]{+qu+}a[-c-]{+nt+}o [-e-]{+à+} {+b+}en[-dó-]{+i+}g[-e-]n[-o (40 -]{+id+}a[- 75%-]{+de+} da {+n+}e[-xp-]o{+pla+}si[-ção tot-]a[-l)-]{+,+} [-aum-]{+l+}e[-nta-]{+sões >2c+}m o{+u+} [-ris-]co{+m+} [-de cân-]c[-e-]r[- gá-]{+e+}s[-tr-]{+c+}i[---]{+mento +}co[-.-]
-[-Fru-]{+n+}t[-a-]{+ínuo. Lesõe+}s[-,-] [-v-]{+p+}e[-g-]{+qu+}e[-t-]{+n+}a[-i-]s e [-fibr-]as[-	P-]{+sint+}o{+mática+}s{+ co+}s{+t+}u[-e-]m[- p-]a[-p-]{+m s+}e[-l-]{+r+} {+acom+}p[-r-]{+anhadas c+}o{+m ul+}t[-et-]{+rass+}o{+nog+}r[-.-]
-[-Ob-]{+afia +}e{+ndo+}s{+cóp+}i[-d-]{+ca a c+}ad{+a 6 a 12 m+}e[-	P-]{+ses.+}
-{++}
-{+ +}
-{+Figu+}r{+a 2 - Lei+}o[-v-]{+mi+}o[-c-]{+m+}a [-aume-]n[-t-]o [-d-]{+corp+}o {+gást+}ri[-s-]co [-qua-]n{+a re+}t{+r+}o[- ma-]{+v+}i[-or -]{+sã+}o [-í-]{+e+}nd{+oscóp+}ic[-e-]{+a+} [-d-]{++}
-{+Font+}e{+:+} [-m-]{+G+}as[-s-]{+trol+}a{+b.+}
- [-corpór-]{++}
-{+	C - H+}e{+m+}a[-.-]
-[-T-]{+ngiom+}a[-b-]{++}
-{+	Hem+}a{+n+}gi[-sm-]o[-	Au-]m[-e-]{+as i+}nt{+ra-abdomin+}a{+is+} {+sã+}o r[-isc-]{+ar+}o{+s+} [-em-]{+fora+} [-1,53-]{+do+} [-vezes-]{+fígado+}, sendo [-mai-]o[-r-] [-en-]{+gás+}tr[-e h-]{+ic+}o[-m-]{+ r+}e[-n-]s[-.-]
-[-Ocu-]p[-aci-]on[-al	Car-]{+sá+}v[-ão, -]{+e+}l[-ata,-] [-ferr-]{+p+}o{+r <0+},{+05%+} [-aço;-]{+de+} {+t+}o[-s -]da[-do-]s {+a+}s[-ão-] [-co-]n[-f-]{+eop+}l{+as+}i[-t-]a{+s gastri+}ntes[-.-]
-[-Hel-]{+t+}i[-cob-]{+n+}a[-cter-]{+is.+} [-pylor-]{+Há 2 t+}i[-	C-]{+p+}o[-n-]s[-i-]{+ +}de[-rado-] [-p-]{+h+}e[-la Org-]{+m+}an{+g+}i[-zaçã-]o[- Mundi-]{+m+}a[-l-]{+:+} [-da-]{+o+} [-S-]{+c+}a[-úd-]{+v+}e[- c-]{+rn+}o[-m-]{+s+}o{+,+} [-f-]{+m+}a[-tor-]{+is+} c[-arcinógen-]o{+mum,+} [-d-]e[-finitivo-] [-d-]o [-gru-]{+ca+}p[-o 1-]{+ilar+}. [-P-]{+N+}a[-rece-] [-qu-]{+v+}e[- -]{+rd+}a{+de,+} [-bac-]t[-é-]r[-i-]a{+ta-se+} de[-s-]{+ t+}e[-n-]c[-ade-]i[-a-]{+do+} [-infl-]{+h+}ama[-çã-]{+rt+}o[- da -]m[-uc-]{+at+}os[-a-]{+o+} [-qu-]{+d+}e {+p+}r{+ováv+}e[-su-]l[-ta-] {+orig+}em [-atr-]{+c+}o[-f-]{+ngên+}i{+t+}a{+.+} [-e -]{+Rara+}me{+n+}t[-a-pla-]{+e +}s[-ia-]{+ão+} {+s+}int[-es-]{+omá+}ti[-nal, estand-]{+c+}o{+s,+} {+m+}as[-s-]{+ p+}o[-cia-]d[-a a aum-]e[-nto-] [-d-]o[- ris-]co[- d-]{+rr+}e{+r+} [-ad-]{+h+}e[-n-]{+m+}o[-ca-]r[-c-]{+rag+}i[-nom-]a di{+ge+}st[-al à cárd-]i{+v+}a{+.+} [-em 6-]{+Na+} [-v-]e[-zes. O-]{+ndo+}s{+copia+} {+a+}pr[-i-]{+ese+}n[-cip-]{+t+}a[-is-] [-g-]{+asp+}e[-nó-]{+c+}t{+o v+}i[-p-]{+nh+}os[- d-]o [-H.-]{+ou+} [-py-]{+azu+}l{+ad+}o[-ri-]{+,+} [-ass-]{+p+}o[-cia-]{+den+}do{+ +}s{+e+} {+esvazi+}a{+r+} [-câ-]{+qua+}n[-cer-]{+do+} [-gá-]s[-t-]{+e +}r{+eal+}i[-co-]{+za+} {+pres+}são [-vacAs1, va-]c[-A -]{+o+}m[-1-] [-e-]{+o+} [-cagA-p-]{+end+}os{+cóp+}i[-tiv-]o[-.-]
-[-Vír-]{+ (Fig+}u[-s-]{+ra+} [-E-]{+3). Bió+}ps[-te-]i[-n-B-]a[-rr	E-]s[-tá-] [-asso-]{+nun+}c[-iado -]a [-gran-]de[- nú-]{+ve+}m{+ s+}er[-o-] [-d-]{+r+}e[- m-]ali[-gnid-]{+z+}ad[-e-]{+a+}s, [-com possível pa-]pel[- n-]o [-câncer gást-]ri{+s+}co [-(present-]{+d+}e {+h+}em[- 5 -]{+orr+}a{+gia.+} [-10% dos-]{+A+} [-cânce-]{+ult+}r[-e-]{+a+}s[- gá-]s[-t-]{+onog+}r{+af+}i[-cos).-]{+a+} [-Pr-]e{+n+}do[-mín-]{+scóp+}i[-o-]{+ca+} {+g+}e[-m ho-]{+ral+}men[-s,-]{+te+} c[-â-]{+o+}n[-c-]{+segu+}e[-r-] de[- cá-]{+te+}r[-d-]{+m+}i{+nar +}a o[-u-]{+rigem+} {+vas+}c[-ot-]{+ular d+}o [-gás-]t[-ric-]{+um+}o{+r.+} [-pós-c-]{+C+}ir[-ú-]{+u+}rgi[-c-]{+a é +}o[-,-] [-infil-]tra[-ção li-]{+tame+}n[-f-]{+t+}o{+ +}c[-í-]{+ura+}ti[-ca,-]{+vo+} [-baix-]{+n+}a{+s+} [-fr-]{+l+}e[-quê-]{+sões si+}n[-c-]{+tomát+}i{+c+}a{+s,+} {+po+}de{+ndo+} [-m-]{+s+}e[-ta-]{+r+} {+rea+}li[-nfono-]{+za+}da[-l,-] [-talv-]{+r+}e[-z-]{+ssecção+} [-u-]{+e+}m [-prog-]{+cu+}n[-ó-]{+ha, ga+}st[-i-]{+re+}c{+t+}o[- -]m[-a-]i[-s-]{+a+} [-f-]{+p+}a[-vo-]r[-áve-]{+cia+}l[-,-] [-e-]{+ou+} [-his-]to[-logi-]{+t+}a{+l.+}
-{++}
- [-d-]{++}
-{+F+}i[-f-]{+g+}u[-sa.-]
-[-St-]{+r+}a[-tus-] [-socio-]{+3 - H+}e[-conô-]m[-ico b-]a[-ixo	I-]n[-d-]{+g+}i[-vídu-]o[-s de b-]{+m+}a[-ixo-] [-st-]{+c+}a[-tu-]{+verno+}s{+o+} [-s-]{+l+}oc{+al+}i{+zad+}o[-eco-]{+ +}n[-ômi-]{+o +}co{+rpo+} {+gás+}t[-êm -]ri[-s-]co [-2-]{+à+} [-vez-]e{+ndo+}s{+copia+} {++}
-{+Fonte: www.joc+}m[-ai-]{+r.+}or{+g.+}
-{++}
-{+	D+} [-do-]{+-+} [-q-]{+T+}u[-e-]{+mor+} [-a-]{+de+} [-pop-]{+cél+}ula[-ção-]{+s+} g[-e-]ra[-l.-]
-[-Cir-]{+n+}u[-rgi-]{+l+}a[- gást-]r[-ica-]{+es+}
-	[-Prov-]{+Sã+}o[-ca-] [-a-]{+t+}um[-ent-]o{+res+} [-d-]{+submuc+}o{+sos+} r[-i-]{+aro+}s{+, +}co[-,-]{+m+} [-p-]{+o+}ri[-ncipalment-]{+g+}e{+m+} {+n+}a[-pó-]s [-15 -]{+célul+}a{+s+} [-20-]{+de+} {+Schw+}an[-os-]{+n,+} {+po+}d[-a-]{+endo+} {+o+}c[-i-]{+o+}r[-u-]r[-gia (-]{+e+}r[-isco-] [-r-]e{+m qua+}l{+quer p+}a{+r+}t[-ivo d-]e [-1,5-]{+do+} {+tr+}a{+to+} [-3). A -]{+g+}a{+stri+}n[-a-]{+te+}st[-o-]{+inal, +}m[-o-]{+a+}s[-e-] [-à-]{+a+} [-B-]{+ma+}i[-llr-]o[-th II-]{+ria+} {+o+}c[-a-]{+o+}rre[-ga-] [-mai-]{+n+}o[-r-] [-ri-]{+e+}s[-c-]{+ôfag+}o, [-provav-]{+s+}e[-l-]{+ndo inco+}m[-e-]{+um +}n[-te-]{+o+} [-p-]e[-la -]{+stô+}ma[-i-]{+g+}o[-r-]{+.+} [-reg-]{+Na im+}u[-rg-]{+no-h+}i{+s+}t[-açã-]o[- de b-]{+quím+}i[-le al-]ca[-lina e-]{+,+} s[-uc-]{+ã+}o p[-ancreátic-]o[-.-]
-
-[-b) Fatores as-]s[-oc-]i[-ad-]{+tiv+}os {+par+}a[-o-] [-hos-]p[-edei-]ro[-Tab-]{+t+}e[-l-]{+ín+}a [-2 -]{+S+}-{+100.+} [-Fat-]{+Sã+}o[-res-] [-rela-]c[-i-]on{+sider+}ados [-ao hosped-]{+b+}e{+n+}i[-ro-]
-[-Grup-]{+gn+}o{+s,+} {+ma+}s{+ m+}a[-n-]{+li+}g[-uí-]n{+idad+}e[-o	In-]{+ é +}d{+escr+}i[-víd-]{+ta naq+}u[-o-]{+ele+}s [-n-]{+c+}o{+m+} [-grupo-]{+mais+} [-A-]{+4cm.+} {+Cos+}t[-ê-]{+u+}m[- 20% -]a[- -]m[-ais-] [-d-]{+s+}e[- -]r[-i-]{+ as+}s{+intomáti+}co{+s, mas+} {+po+}de{+m+} [-câ-]{+sa+}n[-cer -]g[-ást-]r[-ico-]{+ar+} [-d-]o[- q-]u[-e-] {+caus+}a{+r+} [-p-]o[-p-]{+bstr+}u[-la-]ção[- geral-]. [-Também p-]{+N+}a[-re-ce-] [-hav-]e[-r ri-]{+ndo+}sco[- de anem-]{+p+}ia{+,+} [-perni-]c[-i-]os{+tum+}a[-,-]{+m+} {+s+}e{+r+} [-algu-]n[-s da-]{+ó+}d{+ul+}os [-sug-]{+p+}e[-r-]{+qu+}e[-m a-]{+no+}s{+ i+}so[-ci-]{+l+}a[-çã-]{+d+}o{+s+} [-a-]o{+u+} [-ti-]po[- gástr-]{+l+}i[-c-]{+p+}o[- d-]i[-fuso -]de{+s,+} c[-ân-]{+om mu+}c[-er.-]
-[-Predisp-]os[-içã-]{+a n+}o{+rmal e+} [-f-]am[-ili-]ar[-	A m-]{+el+}a{+da (F+}i[-o-]{+gu+}r[-i-]a [-dos-]{+4).+} [-cânce-]{+À ult+}r[-e-]{+a+}s[- gá-]s[-t-]{+onog+}r{+af+}i[-cos é-]{+a+} e{+ndo+}s{+có+}p[-orád-]ica, [-m-]as [-ocorr-]{+l+}e[- agr-]{+sõ+}e[-gaç-]{+s s+}ão [-famil-]{+h+}i[-ar -]{+po+}e[-m -]c[-er-]{+oi+}ca{+s+} [-d-]e [-20% d-]{+h+}o[-s cas-]{+m+}o{+gênea+}s[-.-] [-O câncer ve-]{+o+}r{+igina+}da{+s +}d[-eir-]a{+ +}m[-ente-]{+ucosa/submucosa.+} [-hered-]{+Os ass+}i{+n+}t{+om+}á[-r-]{+t+}i{+c+}o{+s+} {+sã+}o[-c-]{+ seguidos p+}or{+ ult+}r[-e-]{+assonografia+} e[-m-]{+ndoscópica a cada+} 1 a [-3%-]{+2+} [-d-]{+an+}os{+.+} [-cânc-]{+Aqu+}e[-r-]{+l+}es [-e com-]p[-r-]e{+qu+}en[-de-]{+os+} [-3-]{+e+} [-sín-]{+limita+}d[-r-]o[-me-]s[-:-] {+à mu+}c[-ânc-]{+osa pod+}e[-r-]{+m+} [-gá-]s[-t-]{+e+}r[-ico-] [-he-]re{+sseca+}d[-itári-]o[- difu-]s{+ p+}o[-,-]{+r+} [-ad-]en{+d+}o{+s+}c[-arcin-]o[-m-]{+pi+}a{+. Ablação+} [-gás-]t{+é+}r{+m+}ic[-o e-]{+a+} po[-lipos-]{+d+}e [-gá-]s[-t-]{+e+}r{+ ind+}ica{+da.+} [-pr-]{+N+}o[-x-]{+s s+}i{+ntomáticos e >4c+}m[-al-], a[-lém-]{+ cirurgia+} de[- cânc-]{+v+}e[-r-] [-gá-]s[-t-]{+e+}r[-i-]{+ +}co[- i-]n[-te-]s[-t-]i[-nal f-]{+der+}a[-mili-]{+d+}a[-r-].{++}
-{++}
- [-Pol-]{++}
-{+F+}i[-p-]{+gura 4 - Tum+}o[-se-]{+r+} [-a-]de[-nom-]{+ célul+}a[-to-]s[-a-] [-f-]{+gr+}a[-mi-]{+nu+}l[-i-]ar[-,-]{+es+} [-cânc-]{+obs+}er{+vado na+} c[-olor-]{+á+}r[-et-]{+di+}a[-l-] [-he-]{+à +}re[-di-]t[-á-]r[-i-]o[- n-]{+vis+}ão [-polipoid-]e[-, sí-]nd[-r-]o[-me-]s{+cópica+} [-d-]{++}
-{+Font+}e{+:+} [-Co-]w[-d-]{+ww.+}en{+doatlas.com.+}
-{++}
-{+	E+} [-e-]{+-+} P[-eutz-Jeghe-]{+ânc+}r{+ea+}s e[- -]{+ctó+}p[-ol-]i[-p-]{+c+}o[-se-]{++}
-{+	É+} [-juv-]{+d+}e[-nil também têm -]{+f+}in[-c-]id[-ên-]{+o +}c[-ia-]{+omo+} a[-um-]{+ pres+}en[-t-]{+ç+}a{+ +}d[-a.-]{+e+} [-C-]{+tecid+}o[-m-] {+panc+}re[-laç-]{+ático que n+}ão [-à-]{+possui+} [-ge-]{+co+}n[-é-]ti[-c-]{+nuid+}a[-,-]{+de+} a[- -]{+n+}at{+ôm+}i{+ca ou +}va[-çã-]{+scular c+}o{+m+} [-d-]o[-s-] [-pr-]{+c+}o[-t-]{+rp+}o[---]{+ d+}o{+ pâ+}nc[-ogen-]{+r+}e{+a+}s[-,-]{+.+} [-f-]{+Oc+}or[-mando-]{+re+} [-o-]{+u+}s[- o-]{+ualme+}n[-cog-]{+t+}e{+ +}n{+o +}es[-,-]{+tômago+} [-e-]{+(60+} a [-i-]{+70%), +}na[-tivação dos-] g[-e-]{+ra+}n{+d+}e[-s-] [-s-]{+c+}u[-presso-]r[-es -]{+va+}tu[-mo-]ra[-is-] [-p-]{+junt+}o{+ à pare+}de[-m-] [-al-]{+pos+}ter[-a-]{+io+}r [-a-]{+do+} a[-pop-]{+n+}t{+r+}o[-se e-]{+.+} [-desencad-]{+G+}e[-a-]r[- o -]a[-pareci-]{+l+}ment[-o-]{+e+} [-d-]{+é l+}e{+são+} [-t-]{+s+}u{+b+}m{+uc+}o[-res.-]
-[-Hi-]s[-tóri-]a{+,+} f[-amil-]i[-ar	Pa-]r{+m+}e[-ntes-]{+,+} [-e-]{+a+}m[- 1º g-]{+a+}r{+el+}a[-u -]d[-e p-]a[-cientes-]{+,+} com {+umbili+}ca[-r-]{+ção +}c[-i-]{+e+}n[-om-]{+tr+}a{+l+} {+(Fi+}g[-ást-]{+u+}r[-ico-]{+a+} [-têm-]{+5).+} [-f-]{+À ultrassonog+}r{+afia +}e[-quê-]n{+dos+}c{+óp+}i{+c+}a[- 2-]{+,+} a[- 3 v-]{+par+}e[-z-]{+c+}e[-s-] {+co+}m[-ai-]o[-r de-] [-d-]{+l+}es[-env-]{+ã+}o[-lver a-] [-d-]{+hip+}oe[-nça.-]
-[-Polim-]{+c+}o[-rf-]i[-smo-]{+ca+} [-g-]{+h+}e[-né-]t[-ico	Polimo-]{+e+}r[-fismo n-]o[- -]g[-e-]{+ê+}ne[- d-]a{+,+} [-inte-]{+o+}r[-leuc-]{+ig+}ina[- human-]{+d+}a [-bet-]{+d+}a [-1 (IL-1B) tem-]{+3ª+} [-sid-]o{+u 4ª+} [-asso-]c[-i-]{+am+}ad[-o -]a{+.+} [-r-]{+H+}is[-c-]{+t+}o[- -]{+logic+}a[-u-]ment[-ad-]{+e c+}o{+ntém+} d[-e -]{+u+}c[-â-]{+tos pa+}nc[-e-]r[- g-]{+e+}á[-s-]t[-r-]ico[-. A IL-1B-]{+s+} [-af-]{+excr+}et[-a-]{+ó+}ri[-a -]o[- de-]s[-f-]{+ +}e[-cho-] {+glâ+}n[-o-]{+dula+}s [-pa-]{+exó+}c{+r+}i[-e-]n[-te-]{+a+}s{+.+} [-infectad-]{+C+}os{+tuma+} [-p-]{+s+}e[-lo H.-]{+r+} [-pyl-]{+assint+}o[-r-]{+mát+}i{+co+}, {+mas +}po[-r s-]{+d+}e[-r-] [-su-]{+a+}pr{+esent+}ar[-reg-]{+ +}ul[-ada p-]{+c+}e[-l-]{+r+}a[- infec-]ção [-e prof-]{+m+}u[-nd-]{+cos+}a{+ co+}m[-ente-] [-pró-infla-]{+he+}m[-ató-]{+o+}r{+rag+}ia[-,-] e [-o inibido-]r[- ácid-]{+ar+}o{+s+} [-m-]{+c+}a[-i-]s[- potente.-]
-[-Pólip-]os[-	Vi-]{+ +}de [-Tab-]{+cânc+}e[-la 4.-]
-[-Gast-]r{+. A c+}o[-pa-]{+ndu+}t[-i-]a [-hi-]{+é ex+}pe[-rtrófi-]c{+t+}a[- e sí-]n[-dromes d-]{+t+}e{+,+} i[-mu-]n[-o-]d[-ef-]ic[-i-ê-]{+a+}n{+do-se +}ci{+rurgi+}a[-	A-] a{+pena+}s[-s-]{+ a+}o{+s +}c[-i-]a[-çã-]{+s+}o{+s+} {+si+}n[-ã-]{+t+}o[- é -]{+máti+}co[-nf-]{+s. +}
-{++}
-{+ +}
-{+F+}i{+gu+}r[-mada.-]
-
-[-Tabel-]a [-3-]{+5+} - P{+ânc+}r[-o-]{+eas ec+}t[-o-on-]{+ópi+}co[-ge-]{+ +}n[-es-]{+a+} en[-volvi-]dos{+co+}p[-53-]
-[-Prese-]{+ia +}
-{+Fo+}nte{+:+} [-no b-]{+jemis.+}r[-aço -]{+iviste+}c{+l+}u[-r-]{+eb.i+}t[-o-]{+.+}
-{++}
-{+	F+} [-do-]{+-+} {+S+}c[-romoss-]{+hwann+}om[-o 17. Induz -]a[- -]{++}
-{+	Tr+}a[-pop-]t[-o-]{+a-+}se[-,-] [-evitan-]d[-o a-]{+e+} [-r-]{+n+}e{+o+}pl{+as+}i[-c-]a[-ção-] [-de-]{+rara+} [-DNA-]{+da+} [-mut-]{+b+}a{+i+}n[-te.-]{+ha+} [-N-]{+d+}o{+s+} [-câ-]n[-c-]er[- gástric-]{+v+}o{+s+}, {+p+}o[-corr-]{+d+}e[- i-]n[-ativação -]do {+a+}p[-53 -]{+r+}e[-m 60% do-]s[- c-]{+ent+}a{+r le+}s[-o-]{+õe+}s [-no tumo-]{+g+}r[- -]{+an+}d[-o-]{+es,+} [-ti-]{+sube+}p[-o -]i[-n-]te[-st-]{+l+}i[-n-]a[-l-]{+is,+} {+cresc+}e[- 76% -]n[-o tumor -]do [-ti-]p[-o-]{+ara+} [-dif-]{+a l+}u[-so.-]{+z+} [-Es-]{+gá+}s[-a ina-]t{+r+}i[-v-]{+c+}a[-ção-] [-t-]{+e, rar+}am[-bém -]{+en+}te[-m-]{+,+} [-r-]{+manif+}e[-l-]{+st+}a[-ção-] [-co-]{+he+}m[- -]o[- p-]r[-o-]{+ra+}g[-nóst-]i[-co d-]a d[-o-]{+ig+}e[-nça.-]
-[-Au-]s[-en-]t[-e n-]{+iv+}a{+.+} Po[-lipo-]s[-e Colôn-]{+su+}i[-ca-] [-(APC)-]
-[-Loc-]{+m+}a[-liz-]{+rc+}a[--se n-]{+d+}o[- c-]r[-omos-]{+e+}s{+ p+}o[-m-]{+sitiv+}o[- 21. A-]{+s+} p[-erd-]a[- do -]{+r+}a[-lelo-] [-d-]{+pr+}o[- g-]{+t+}e{+í+}n[-e-]{+a+} [-APC-]{+S-100,+} [-é-]{+e+} [-a-]{+o+} [-al-]t[-e-]ra[-ção gené-]t[-ic-]a[- -]m[-ais-]{+ento+} co[-m-]{+st+}um{+a+} {+se+}r{+ +}e[-la-]{+x+}ci{+sã+}o[-n-]{+ r+}ad{+ic+}a{+l+} [-a-]{+do tum+}o{+r. +}
-{++}
-{+ +}
-{+Figura 6 -+} {+S+}c[-â-]{+hwa+}n[-cer-]{+noma+} gástrico[-.-] [-O-]co[-rre e-]m [-87% dos indivíd-]u[-os -]{+l+}c[-om -]e[-ss-]{+r+}a{+ção+} {+c+}en[-fe-]{+t+}r[-midade.-]
-[-DCC-]
-[-Loc-]al[-iza--]{+ (+}se{+ta+} [-no b-]{+p+}r{+et+}a[-ç-]{+)+}
-{+F+}o{+nte:+} {+www.ju+}l{+tras+}o{+u+}n[-go -]d[-o cro-]m{+ed.+}o{+rg.+}
-{++}
-{+	G - Ci+}s[-som-]{+t+}o{+s+} [-18.-]{+de+} [-S-]{+d+}u[-a a-]{+p+}l[-ter-]{+ic+}ação[- -]{++}
-{+	L+}es{+ão congêni+}t[-á-]{+a+} [-p-]r{+ara, g+}e[-s-]{+ralm+}ente [-em 30 -]a[- 60% do-]s[- pac-]{+s+}i[-e-]nt[-es c-]om[- câncer g-]á[-s-]t[-r-]ic[-o.-]
-
-[-Tabel-]a [-4 - Pólip-]{+n+}os [-gás-]{+adul+}t[-ric-]os{+.+} [-e potenci-]{+N+}a[-l-] [-pré-n-]e{+nd+}o[-plá-]s[-i-]co[-Póli-]p{+ia, +}o{+b+}s[- hip-]er[-plásicos	-]{+va+}-{+se+} [-S-]{+les+}ão {+submuc+}os{+a,+} ma{+c+}i[-s-]{+a,+} [-comu-]n[-s (75%),-]{+a+} [-fo-]{+g+}r[-m-]a{+n+}d[-os por -]e[-pitélio-] [-fo-]{+cur+}v[-eol-]a{+tu+}r[- -]a{+. A u+}l{+trass+}on{+o+}g{+r+}a[-do, d-]{+f+}i[-lat-]a[-do-] e[-/-]{+nd+}o[-u cí-]s[-ti-]c[-o que -]{+ó+}p[-are-]{+i+}c[-e-]{+a+} [-ser-]{+é+} {+o m+}e[-pi-té-]l[-i-]{+h+}o{+r+} [-hip-]e[-r-r-]{+xam+}e{+ dia+}g[-e-]n[-era-]{+ós+}ti[-v-]{+c+}o [-em res-]po[-sta a-]{+r+} e[-stímulo -]{+v+}i{+de+}n[-flam-]{+ci+}a[-tó-]r[-io.-] [-Costu-]ma[-m -]s[-er pequeno-]s{+a+} [-(v-]a[-r-]{+neco+}i[-am -]de [-0,1 a 1,5-]c{+o+}m[-),-] [-múl-]t[-ipl-]o{+da+}s [-e-]{+as+} [-lo-]ca[-liz-]{+m+}ad[-o-]{+a+}s [-no -]{+d+}a[-ntro-] [-(-]p[-o-]{+are+}de[-m-] [-ocorre-]{+gást+}r{+ica.+} [-no-]{+A+} [-corp-]{+t+}o[-, n-]{+m+}o[- -]{+gra+}f[-undo-]{+ia+} {+d+}e[- -]{+mo+}n[-a cá-]{+st+}r[-di-]a[-);-]
-[-	--] [-Mu-]{+c+}i{+s+}to [-baix-]{+c+}o{+m+} [-ris-]co{+nteúdo+} {+líqui+}d{+o +}e {+es+}tr{+eita +}a[-n-]s[-f-]{+s+}o[-rm-]{+ci+}ação {+co+}m{+ +}a[-li-]{+ parede +}g[-n-]{+ástric+}a{+.+} [-(<2%);-]
-[-	--]{+O+} [-Aco-]m[-p-]an[-ham-]e[-nt-]{+j+}o [-en-]dos[-cópico é-] {+ass+}in[-d-]{+tomát+}ic[-ad-]o{+s+} {+po+}de [-aco-]{+se+}r[-do-] {+expe+}c[-om f-]{+t+}a{+n+}t[-or-]e[-s-]{+,+} [-de-]{+mas+} r[-i-]{+es+}s{+e+}c{+çã+}o p[-ara cânc-]{+od+}e[-r-] [-gá-]s[-t-]{+e+}r{+ +}i[-co.-]
-[-Pól-]{+nd+}i[-pos -]{+c+}ad[-enom-]a[-tosos	--] [-Corres-]p[-ond-]e[- a 6 a 10% dos pó-]l[-ipos gástricos. Mai-]o[-r-] risco de [-transf-]{+c+}o[-r-]m{+plic+}aç[-ã-]{+ões (d+}o{+r+} [-m-]a[-l-]{+bdom+}i[-g-]na[-; -]l[-esões-]{+,+} [-pl-]{+s+}an{+gr+}a[-s tê-]m[- risco d-]e[- 6 a 21%,-]{+nto)+} e [-lesõ-]{+d+}e[-s-] [-po-]{+ma+}li[-po-]{+gn+}id[-es, -]{+a+}de{+.+} [-20-]{++}
-{++}
- {++}
-{+Figur+}a 7[-5%;-]
-[-	-]{+ +}- [-A-]{+Lesão de+} ma[-io-]r[-ia-]{+gens+} [-oco-]r{+egula+}re[- no-]{+s+} a{+dere+}nt[-ro-]{+e à+} [-(-]p[-o-]{+are+}de[-m-] {+p+}o[-corr-]{+st+}er{+ior+} [-n-]{+d+}o [-c-]{+fund+}o{+ gást+}r[-p-]{+ic+}o [-e -]na [-cá-]{+tomog+}r[-d-]{+af+}ia[-);-] [-po-]de[-m ser-] [-pl-]a[-n-]{+bd+}o[-s-]{+me,+} {+c+}o[-u -]{+m+}p[-o-]{+atíve+}l[-ip-]{+ c+}o[-ides,-]{+m+} [-var-]{+c+}i[-and-]{+st+}o de [-mi-]{+dup+}l[-ímetros a vár-]i{+caçã+}o[-s-] [-ce-]{++}
-{+Fo+}nt[-ím-]e[-t-]{+: iv.iia+}r{+j+}o{+urnal+}s.[- P-]o{+rg.+}
-{++}
-{+	2. A+}de{+nocarcino+}m{+a+} {+gá+}s[-er -]t[-ubula-]r[-es, tubulov-]i[-los-]{+c+}o[-s-] [-ou-]{++}
-{++}
-{+	A+} [-v-]{+- Epidem+}i{+o+}lo[-s-]{+gia+}
-{+	Den+}o{+mina-+}s[- -]e [-sã-]{+com+}o {+câ+}n{+c+}e[-opl-]{+r g+}ás{+tr+}ico[-s-] [-e-]{+o+} [-f-]{+aden+}o{+ca+}r{+cino+}ma[-dos-]{+,+} por [-célula-]{+repre+}s[- colu-]{+e+}n{+t+}ar[-es-]{+ 94%+} d[-isplá-]{+o+}s[-i-]{+ +}cas[- c-]o[-m-]{+s+} [-bor-]d[-as-]{+e+} {+n+}e{+opla+}s[-tr-]ia[-das.-] [-Estão-]{+maligna+} [-fr-]{+d+}e[-qu-]{+ +}e[-n-]{+s+}t[-e-]{+ô+}m{+ago. D+}ent{+r+}e as[-s-]{+ +}o[-ci-]{+utr+}a[-do-]s {+c+}a[- ga-]{+u+}s[-trite crônic-]a{+s,+} [-com m-]e{+s+}t[-ap-]{+ão +}l[-as-]i{+nfom+}a{+,+} [-in-]t{+umor +}est[-in-]{+rom+}al[-;-]
-[-	--] [-O-]{+(GIST),+} {+out+}r[-i-]{+os +}s{+ar+}co{+mas+} [-d-]{+qu+}e [-tra-]n[-sformaç-]ão [-ma-]li[-g-]n{+fom+}a {+n+}e{+m+} [-c-]{+GIST, leiomioss+}arc[-in-]oma{+,+} {+le+}i[-nvas-]{+om+}i[-v-]o[- -]{+bl+}a[-umen-]{+s+}t[-am c-]om[- o t-]a{+, he+}man[-h-]{+gi+}o[-, a h-]{+peric+}i[-s-]to[-logi-]{+m+}a{+,+} [-v-]{+rabdom+}i[-l-]os{+s+}a[- e -]{+rcom+}a{+,+} [-dis-]plas{+moc+}i{+tom+}a{+,+} [-de -]{+s+}a[-lt-]{+rc+}o{+ma+} gra{+n+}u[-. Es-]{+locí+}ti[-ma-se que-]{+co,+} [-d-]{+t+}e[- 8 -]{+r+}a[- 59% d-]{+t+}o[-s-]{+ma+} {+m+}a[-de-]{+lig+}no[-mas-] e[-stão-]{+,+} [-ass-]{+p+}o[-c-]{+r últ+}i[-ad-]{+m+}o[-s a-]{+,+} carcino[-ma gá-]s[-trico -]s[-inc-]{+a+}r[-ô-ni-]co[-;-]
-[-	- Deve-]m{+a.+} [-ser-]{+Em+} [-ressecados-]{+1980+}, [-pel-]{+f+}o{+i+} {+a p+}ri[-s-]{+n+}c[-o-]{+ipal causa+} de [-cânce-]{+mo+}r[-, -]{+t+}e {+por +}n{+e+}o[-v-]{+plasi+}a e{+, atualme+}n[-d-]{+te, +}o[-s-]c[-o-]{+u+}p[-i-]a [-deve-]{+a+} {+2ª po+}s[-er-]{+ição.+} {+No B+}r[-e-]a[-l-]{+s+}i[-zada-]{+l,+} e[-m-]{+stá+} [-1-]{+entre+} a[-no.-]
-[-Pólipo-]s [-hama-]{+3 p+}r[-to-]{+i+}m{+eir+}a[-to-]s[-o-]{+ causa+}s[-	--] [-É-]{+de+} m[-uit-]o[- ra-]r[-o-]{+te+} {+p+}o{+r+} câncer[-;-]
-[-	--] [-Sã-]{+n+}o [-pólipo-]s[- qu-]e{+xo+} {+ma+}s[-e orig-]{+cul+}in[-am-]{+o+} [-d-]e [-elemento-]{+a+}s [-t-]{+5 prim+}e[-c-]i[-du-]{+r+}a[-i-]s no[-rmalmente-] {+f+}e{+mi+}n[-co-]{+i+}n[-trad-]o[-s-]{+.+} {+Segu+}n{+d+}o {+a e+}s[-í-]ti{+mativa d+}o{+ INCA para 2016+}, [-m-]{+é +}a[-s-] [-q-]{+4ª ca+}u{+sa d+}e c[-r-]{+ânc+}e{+r mai+}s{+ +}c[-e-]{+omu+}m em [-u-]{+home+}m{+ e +}a {+5º e+}m[-assa-] [-d-]{+mulh+}e[-so-]r[-ganizada-].[-Pólipos-] [-infla-]{+Aco+}m[-a-]{+e+}t[-órios	S-]e[-m-] p[-ote-]{+ri+}nci{+p+}al{+mente+} {+ho+}m[-alig-]{+e+}n{+s, à pr+}o[-Póli-]po{+rção de 2:1, e é mai+}s [-h-]{+fr+}e{+quen+}te{+ ent+}r{+e 50 e 70 an+}o[-tó-]{+s, com +}pico[-s	--] [-É ra-]{+po+}r{+ v+}o{+lta+} {+d+}o{+s+} [-câ-]{+70 a+}n[-ce-]{+os pa+}r[-;-]
-[-	--]{+a+} [-P-]{+amb+}o[-r-]{+s+} {+os s+}ex[-empl-]o[-,-]{+s.+}
-{++}
- [-n-]{+ +}
-{+Figura 8 - Visã+}o [-t-]e[-ci-]{+n+}do[- -]{+scó+}p{+ic+}a{+ de câ+}nc[-r-]e{+r g+}á{+s+}t{+r+}ico [-het-]{+d+}e[-rotó-]{+ as+}p[-i-]{+e+}c{+t+}o{+s+} {+i+}n[-o es-]{+fil+}t[-ôm-]{+r+}a[-go.-]
-[-Pól-]{+t+}i[-p-]{+v+}o[-s-] [-d-]e [-glândula-]{+e+}s[- fú-]{+te+}n[-dica-]{+o+}s{+ante+}
-{++}
-	{+Observa+}-{+se+} [-S-]{+reduç+}ão p[-equen-]{+r+}o{+gre+}s{+siva+} [-(0,1 -]{+n+}a [-0,8-]{+incidên+}c{+ia +}m[-)-]{+undial+}, [-hi-]p[-e-]r[-êm-]i{+n+}c{+ipalmente n+}os[-,-] {+paí+}s[-é-]{+e+}s{+ de+}se{+nvolv+}i{+do+}s, [-plan-]{+devid+}o[-s-] {+a+}o[-u-] [-nodulares, com superfície lis-]a[-. Ocorrem excl-]u[-si-va-]ment[-e n-]o [-corp-]{+d+}o[-.-] [-Compost-]{+c+}o{+n+}s[- p-]{+um+}o[-r-] {+d+}e[-pitélio gástrico tipo corpo-] [-no-]r[-mal, a-]{+ef+}r{+ige+}ra[-nja-]do[- -]{+r+}e[-m-]{+s,+} [-uma-]{+à+} [-conf-]{+d+}i[-g-]{+min+}u[-ra-]{+i+}ção [-desor-de-]na[-da e/ou-] [-m-]i[-crocí-]{+nge+}st[-ic-]a[-;-] [-	--]{+de+} [-A-]{+def+}u[-sênci-]{+m+}a[- -]d[-e p-]o[-t-]{+s +}e[-nci-]{+ +}a[-l-]{+o+} [-m-]a[-lig-]{+ume+}n{+t+}o [-qu-]{+n+}a{+ i+}n{+gesta +}d[-o-]{+e+} {+vit+}a[-ssoc-]{+m+}i{+n+}a[-do-]s{+,+} [-a-]o {+q+}u{+e +}s[-o-]{+e+} de{+ve+} [-inibid-]{+à melh+}or{+ia+} da{+s+} [-b-]{+c+}o{+ndições ali+}m[-b-]{+ent+}a[- d-]{+r+}e{+s;+} [-p-]{+ent+}r[-ó-]{+e+}t[-o-]{+a+}n[-s -]{+t+}o[-u-]{+,+} [-es-]{+a+}p[-o-]r[-ádico-]{+e+}s[-,-]{+enta+} [-m-]a[-s-]{+lta+} p[-od-]{+r+}e[-m m-]{+v+}al[-ig-]{+ê+}n{+c+}i[-z-]a[-r-] [-s-]e{+m+} {+p+}a{+í+}s{+e+}s[-ocia-]{+ +}d[-os-]{+a+} [-à-]{+Á+}s{+ia,+} [-síndr-]{+c+}om[-es-]{+o+} {+Ja+}p{+ã+}o[-lip-]{+ e C+}o[-id-]{+r+}e[-s-]{+ia,+} [-(1%-]{+além+} de [-r-]{+loca+}is{+ +}co{+mo+} [-n-]{+Cost+}a [-pol-]{+R+}i[-pos-]{+ca +}e [-a-]{+Chile. O +}de{+se+}n{+v+}o{+lvi+}m[-a-]{+en+}to[-sa-] [-fa-]{+é +}m[-i-]{+u+}l{+t+}i{+f+}a{+to+}r[-);-]
-[-	- Segu-]i[-m-]{+al +}e[-nto-] en[-d-]{+v+}o{+lve a+}s[-có-]p[-i-]{+e+}c{+t+}o{+s+} {+ge+}n[-ão -]é[- ind-]{+t+}ic[-ado n-]os e[-sporád-]{+ amb+}i[-cos.-]
-
-[-P-]e[-rgu-]nta[-2014-]{+is+} [---]{+(Tabela+} [-UFF-]1{+)+}.[- Qu-]{++}
-{++}
-{+Dic+}a[-l,-]{++}
-{+Os+} [-d-]{+tip+}os [-s-]{+d+}e{+ câncer +}g[-u-]{+ástrico, +}intes[-, é fa-]t[-or-]{+inal+} [-d-]e [-r-]{+d+}i{+fu+}s[-c-]o{+,+} p[-ara o ad-]e[-noc-]{+l+}a[-r-]{+ +}c[-inom-]{+l+}a[- gá-]s[-tr-]{+sif+}ic[-o?-]a[-)-]{+ção+} [-úlc-]{+d+}e[-ra-] [-péptic-]{+L+}a[- gást-]{+u+}r[-ica-]
-[-b)-]{+en,+} [-pólipo-]s{+ão+} [-gás-]{+2 en+}t[-r-]i[-cos -]{+d+}ade[-nomato-]s[-os-]
-[-c)-] [-alco-]{+bi+}ol{+óg+}i{+ca+}s[-mo-]
-[-d)-] [-síndrom-]{+qu+}e d[-e Zoll-]i[-ng-]{+f+}er[--Ellison-]e[-)-]{+m+} {+q+}u[-s-]{+ant+}o {+a e+}p[-r-]{+idemi+}olo[-n-]g{+i+}a[-do-]{+,+} [-d-]e[- inib-]{+t+}i[-d-]o[-res da b-]{+l+}o[-mb-]{+gi+}a[- de-]{+,+} p[-ró-]{+a+}to{+gê+}n[-s-]
-[-R-]es{+e e com+}po[-s-]{+r+}ta[- -]{+me+}n{+t+}o{+.+}
-{++}
-{+	Pela+} {+classi+}fi[-n-]{+c+}a[-l-]{+ção+} d[-o-]{+e+} [-c-]{+L+}a[-pít-]u[-l-]{+ren, +}o[---]{+s+} [-C-]{+tipos de c+}âncer gástrico [-difu-]s{+ã+}o [-hered-]i{+n+}t[-ário-]
-[-Pos-]{+e+}s[-u-]{+t+}i[- hera-]n[-ç-]a{+l+} [-a-]{+e dif+}u[-to-]s[-sômica-]{+o.+} [-d-]{+O tip+}o[-m-]{+ +}in[-an-]te[-, há mu-]{+s+}t{+in+}a[-ção-]{+l+} [-da-]{+é+} [-E-c-]{+m+}a[-der-]i[-na-]{+s comum+} [-(g-]en{+tr+}e [-CDH1) e-]{+ho+}m{+ens+} [-30 a 50%-]{+e+} {+i+}dos[- cas-]os[-.-]{+,+} [-O-]{+mai+}s [-c-]{+p+}r[-i-]{+evalen+}t[-é-]{+e em á+}r[-io-]{+ea+}s d[-i-]{+e +}a[-gnós-]{+l+}t{+o r+}i{+s+}co[-s-]{+ e+} p[-a-]r{+ov+}a[- r-]{+v+}e[-a-]l[-izar t-]{+m+}e[-s-]{+n+}te [-genét-]{+l+}i[-c-]{+gad+}o [-são:-]
-[---]{+a+} [-2-]{+fatores+} {+d+}o[-u-] m[-a-]{+e+}i[-s-]{+o+} [-p-]a[-r-]{+mbi+}ente[-s-]{+.+} [-de-]{+Já+} [-1º-]{+o+} {+tip+}o{+ dif+}u{+so+} [-2º-]{+é+} {+i+}g[-ra-]u[- co-]{+al+}m[-,-]{+ente+} [-p-]{+frequent+}e[-lo-] {+em a+}m{+bos os s+}e[-n-]{+x+}os, [-1 di-]{+m+}a[-gnóst-]i{+s +}co{+mum+} [-d-]e{+m+} [-câ-]{+jove+}n[-c-]{+s, e d+}e{+ pio+}r {+pro+}g[-á-]{+nó+}st[-r-]ico d[-ifus-]o [-histol-]{+que +}o[-g-]{+ +}i[-came-]nte[- conf-]{+st+}i[-r-m-]{+n+}a[-do-]{+l+} [-ant-]{+– r+}es[- d-]{+p+}o[-s 50 a-]n[-o-]s[-;-]{+ável,+} [-o-]{+at+}u[-- 3 p-]a[-r-]{+lm+}ente[-s de 1º-]{+,+} {+p+}o[-u 2º g-]r[-au-]{+ 30%+} d[-iagn-]os[-ti-]{+ +}ca[-d-]{+s+}os [-com-]{+de+} c[-ânce-]{+a+}r{+cinoma+} gástrico{+.+}
-{+	Houve+} d{+eclín+}i[-fus-]o [-h-]{+na +}i[-stolog-]{+nc+}i{+dên+}c{+i+}a[-mente-] [-co-]{+mu+}n[-f-]{+d+}i[-rm-]a{+l +}do [-em-]{+tipo+} [-qu-]{+intestin+}al[-quer-] [-i-]{+nas +}d{+éc+}ad[-e.-]
-
-[-O-]{+a+}s [-pa-]{+re+}c[-i-]entes{+, paralelo+} {+ao de+}c{+líni+}o[-m-] {+na incidência geral d+}o câncer gástrico{+. Em contraste, o declínio no+} tipo difuso [-hereditário-]{+é+} {+m+}a[-pre-]{+i+}s[-entam-] [-mut-]{+gr+}a[-ção q-]{+d+}u[-e -]al[-tera-]{+.+} [-a-]{++}
-{++}
-{+B+} [-E-]-[-c-]{+ F+}a{+tores +}de{+ +}ri[-n-]{+sco+}
-a[-,-]{+) Lesões+} {+prec+}u[-m-]{+rsor+}a{+s+} p{+a+}r{+a o tip+}o{+ in+}te[-í-]{+sti+}na{+l+}
-{+	A+} [-d-]{+s+}e[- -]{+quênci+}a[-desão-] [-ce-]{+mo+}l{+ec+}ular [-que age inibi-]n[-d-]{+ã+}o [-o-]{+é+} c[-r-]{+ompl+}e[-sci-]{+ta+}ment[-o-]{+e+} [-tumora-]{+esc+}l[-, -]a[- -]{+rec+}i[-nv-]{+d+}a[-são e-]{+,+} {+m+}as {+u+}m[-etástases.-] [-Quan-]{+mo+}d{+el+}o {+descrev+}e[-la-] [-é-]{+progressão+} [-inativa-]d[-a, há-]{+e+} {+g+}a[-u-]s[-ên-]{+trite +}c{+rôn+}i{+c+}a [-d-]{+par+}a {+g+}a[-de-]s[-ão -]{+tr+}i[-n-]te{+ at+}r{+ófi+}c[-elul-]a[-r-], [-l-]{+m+}e[-vando à inc-]{+t+}ap{+l+}a[-c-]{+s+}i[-dade de form-]a[-r-] {+int+}est[-rutur-]{+in+}a[-s g-]l[-an-]{+, +}d[-u-]{+isp+}la[-re-]s[-.-]{+ia+} [-Cons-]e[-qu-]{+, ev+}ent[-e-]{+ual+}mente, a[- -]{+deno+}c[-élul-]a[- -]{+r+}c[-a-]{+i+}n[-cer-]o[-s-]{+m+}a [-a-]{+(Fig+}u[--ment-]{+r+}a [-o-]{+9).+}
-{+	A+} {+ga+}s[-eu po-]{+tri+}te[-n-]{+ +}c{+rôn+}i{+c+}a[-l-] [-d-]{+sup+}e[- -]{+rfic+}i[-nv-]a[-são e-]{+l+} de {+lon+}g[-er-]a[-ção-] d[-e metás-]{+a+}ta[-ses. O risco-]{+,+} c{+a+}u[-mul-]{+s+}a[-tivo -]d[-e-]{+a+} [-cânce-]{+po+}r [-está-]{+H.+} [-ent-]{+pylo+}r[-e 40-]{+i,+} {+an+}e{+mia+} [-67% -]{+per+}n{+ici+}os{+a+} [-h-]o[-mens e-]{+u+} {+di+}e[-n-]t[-re-]{+a+} [-60-]{+rica+} e{+m+} [-83% na-]s[- mu-]{+a+}l[-heres-], [-gera-]l[-ment-]e{+va,+} [-com d-]e[-s-]{+v+}en[-vo-]{+tua+}l[-vi-]ment[-o ao r-]e[-dor dos 38-]{+,+} a[-nos.-] [-Carre-]{+g+}a[-do-]{+st+}r{+it+}e[-s-] a[-ssintomá-]t{+róf+}ic[-os da mu-t-]a[-ção possuem-] {+c+}r{+ôn+}i[-s-]c[-o-]{+a+} [-suficient-]e{+ +}me[-n-]t[-e -]a[-lto -]p{+l+}a[-r-]{+si+}a in[-d-]{+test+}i[-c-]{+n+}a[-ção-]{+l.+} [-de-]{+A+} [-g-]a[-s-]tr[-ect-]o[-m-]{+f+}ia [-profil-]{+g+}á{+s+}t{+r+}ica[-,-] [-ger-]{+é +}a[-l-]{+co+}m[-e-]{+pa+}n[-te -]{+had+}a{+ +}p[-ós -]o[-s 20-]{+r+} {+perd+}a[-nos-] [-e-]{+da+} {+m+}a[-nte-]s[- do-]s{+a+} [-40.-]{+de+} [-Naq-]{+cél+}u[-e-]l[-e-]{+a+}s [-di-]{+p+}a[-gnost-]{+r+}i[-c-]{+et+}a[-do-]{+i+}s [-com a-]{+e,+} [-mutaçã-]{+p+}o[- -]{+rt+}ant[-es-]{+o,+} {+re+}d{+uçã+}o[-s 20-] [-a-]n[-os, se-]{+a+} pro[-põe en-]d{+uçã+}o[-s-]{+ á+}c[-op-]i{+d+}a [-anual. Mul-]{+(+}h[-e-]{+ipoclo+}r[-es afeta-]{+i+}d{+ri+}a[-s-] [-têm-]{+ou+} a{+c+}l[-t-]o[- -]ri[-sco-]{+dria),+} d[-e-]{+iminuição+} [-câ-]n[-cer-]{+o+} {+áci+}d[-e-]{+o+} [-mam-]a{+scórbico+} l[-ob-]u[-l-]{+min+}a[-r e-]{+l+} [-de-]{+(+}v[-e-]{+ita+}m{+ina C)+} [-s-]e[-r-] [-s-]{+a+}u[-b-]me{+n+}t[-idas a-]{+o+} [-s-]c[-re-]{+omp+}en{+satór+}i[-ng.-]{+o+} [-3.-]{+na+} [-Qu-]{+g+}a[-d-]{+st+}r[-o clí-]{+i+}n{+a sér+}ic[-o-]{+a,+} [-So-]{+u+}m{+ pot+}ente [-50% -]{+in+}d{+ut+}o[-s-]{+r+} d{+a proliferação epitel+}ia{+l +}g[-no-]{+á+}st{+r+}ica[-dos-]{+.+} [-co-]{+Si+}m[- câ-]{+ilarme+}n[-c-]{+t+}e{+, a +}r{+essecção+} gástric[-o-]{+a+} {+resul+}t[-êm-]{+a+} [-do-]e[-nça-]{+m+} {+hipo+}c{+l+}o[-nf-]{+r+}i[-na-]d{+ri+}a [-ao síti-]o{+u+} [-lo-]{+a+}c{+l+}or{+id+}r[-eg-]i[-on-]a[-l-], {+hip+}e[- -]{+rga+}s[-omen-]t{+rin+}e[- -]m[-et-]{+i+}a[-de-] [-da-quele-]s[- com do-]e{+cu+}n[-ç-]{+dári+}a [-aparentement-]e re[-giona-]{+f+}l[- p-]{+ux+}o{+ +}de [-real-]{+b+}i[-zar-]{+le+} [-ciru-]{+(p+}r[-g-]i[-a pote-]nci{+p+}almente [-cu-]{+Bill+}r[-a-]{+o+}t[-iva-]{+h II)+}. [-Cânceres-]{+O+} [-cirurgic-]a{+u+}ment[-e-]{+o+} [-curá-veis-]{+no+} {+pH gá+}s[-ã-]{+tric+}o [-g-]{+p+}er[-al-]m[-en-]{+i+}te a[-ssint-]{+ c+}o[-mát-]{+lon+}i[-c-]{+zaçã+}o[-s.-] [-Ta-]b{+act+}e[-l-]{+rian+}a [-5 - Qu-]{+cap+}a{+z +}d{+e converte+}r{+ +}o{+s+} [-clí-]ni[-c-]{+trat+}o[---]{+s+} [-Pr-]{+di+}e{+téti+}co[-c-]{+s +}em{+ pot+}ente{+s+} [-nã-]{+c+}o[- a-]{+m+}p[-re-]{+o+}s[-en-]t[-a -]{+o+}s[-i-]{+ N-+}n{+i+}t{+r+}o[-ma-]s[- e p-]o[-de -]s[-er-] {+mutagêni+}co{+s. A I+}nf[-u-]{+lamação crô+}n[-d-]i{+ca resulta em +}d{+an+}o c{+elular, c+}om [-g-]a[-s-]{+umen+}t{+o de +}r{+ad+}i[-t-]{+cais livr+}e{+s+}, [-l-]{+r+}e[-van-]d{+uçã+}o [-a-]{+n+}o{+s níveis de+} {+vi+}t[-r-]a[-t-]{+mina C e +}a{+u+}mento [-si-]n[-tomátic-]o [-d-]{+t+}ur[-a-]n[-t-]{+ov+}e{+r+} [-6-]{+celular.+}
-{++}
- {++}
-{+Figur+}a [-12-]{+9+} [-m-]{+- Fator+}es{+ pr+}e{+di+}s[- a-]{+pone+}ntes [-d-]e {+prot+}e[-s-]t[-ud-]o{+re+}s [-di-]a[-g-]{+o câ+}n[-ó-]{+cer gá+}st{+r+}ico[-s;-]
-[---]{++}
-{++}
-{+b)+} [-P-]{+Gastrit+}e{+ at+}r[-d-]{+ófic+}a [-d-]{++}
-{+	Trata-s+}e [-p-]{+d+}e[-so (62%)-] [-e-]{+uma+} d{+es+}or{+dem+} a[-bd-]{+ut+}o[-m-]i{+mu+}n[-al-]{+e+} [-(52%)-]{+caracterizada+} [-sã-]{+p+}o{+r+} {+pr+}o{+gre+}s[- -]si[-ntomas m-]{+v+}a[-is comuns-] [-no di-]a[-gnós-]t[-ic-]{+r+}o[- inic-]{+f+}ia[-l;-]
-[-- A-] do[-r-] epi[-gás-]t[-rica -]é{+lio+} [-seme-]{+g+}l[-h-]an[-te à ca-]{+d+}u[-s-]{+l+}a{+r com per+}da [-p-]{+d+}e{+ célu+}las [-úlce-]{+pa+}r{+iet+}a{+i+}s [-b-]e[-n-]{+ pr+}i[-g-]n{+cip+}a[-s e, da-]{+is.+} [-m-]{+Ocorr+}e[-s-]m[-a-] [-mane-]{+h+}i[-ra, -]po[-de simu-]{+c+}l[-a-]{+o+}r[- ang-]i[-na, po-]{+d+}r[-ém-]{+ia+} [-é-]{+e+} cons[-ta-]{+eque+}nte {+aum+}e{+nto+} n[-ã-]o [-s-]{+pH, o qu+}e [-ir-]{+pe+}r[-ad-]{+m+}i{+te +}a {+colo+}n[-em-]{+ização+} m[-elho-]{+ic+}r{+obian+}a {+gástri+}c{+a, levand+}o[-m-] a [-i-]n[-ges-]{+i+}t{+rosaç+}ão{+,+} [-d-]{+qu+}e [-alim-]{+é g+}en[-t-]o[-s;-]
-[---]{+tóxica.+} [-A-]{+Também ocorre+} perda de [-peso, us-]{+cél+}u[-a-]l[-m-]{+as +}en[-t-]{+dócrinas qu+}e[-,-] {+sec+}re[-sul-]ta[- -]m{+ f+}a[-i-]{+tore+}s de [-ing-]{+cr+}es{+cimen+}t[-ã-]o [-caló-]{+t+}r[-ic-]a[- i-]ns[-u-]f[-ici-]{+ormador+}e[-nt-]{+s +}e {+epi+}d{+érmicos, +}o{+s+} qu[-e de met-]a[-bol-]is[-mo-] au{+xilia+}m{+ o +}e[-n-]{+s+}t{+ôm+}a[-d-]{+g+}o[-;-]
-[---] [-A-]{+na+} [-do-]{+reg+}en[-ç-]{+er+}a{+ção+} [-av-]{+do d+}an[-ça-]{+o teci+}d{+u+}a{+l.+} [-p-]{+O risc+}o{+ +}de [-ap-]{+cânce+}r{+ n+}es[-ent-]{+s+}a[-r-] {+popul+}a[-n-]{+çã+}o{+ va+}r[-ex-]ia[-,-] [-fa-]d[-ig-]{+e 3 +}a [-e-]{+18+} v[-ômito-]{+eze+}s[-;-]
-[---]{+.+}
-{++}
- [-Os-] [-s-]{++}
-{+F+}i{+gura 10 - E+}n[-t-]{+d+}o[-ma-]s{+copia+} [-g-]e[-ralm-]{+vid+}en{+ciando gastri+}te [-es-]{+a+}t[-ã-]{+rófica c+}o{+m+} {+perda d+}as{+ prega+}s[-o-]{+ mu+}c[-iad-]os{+as+} [-à-]{+e+} [-loc-]{+ex+}a[-liz-]{+cerb+}ação d[-o-]{+a+} t[-umo-]r{+ama+} [-no-]{+vascular+} [-e-]s[-tô-]{+ub+}m{+ucos+}a[-g-]{++}
-{+F+}o{+nte+}: {+Gas+}t[-umores p-]r[-óxim-]o[-s à ju-]{+ce+}n[-çã-]{+tr+}o{+.+}
-{++}
-{+c)+} {+M+}e[-sof-]{+tapl+}a[-gogá-]s[-tr-]i[-c-]a [-freque-]{+i+}n[---]te[-men-]{+s+}t{+inal+}
-{+	M+}e[- c-]{+tapl+}a[-u-]s{+i+}a{+ é u+}m{+a+} [-disf-]a[-gi-]{+lter+}a{+ção+} [-(-]p[-r-]{+ot+}e[-s-]{+ncialm+}ente {+r+}e[-m 26% dos casos); já -]{+v+}e[-m -]r{+sív+}e[-giõ-]{+l d+}e[-s-] {+u+}m[-ais-] [-dis-]t[-a-]i[-s, -]po[-de-] {+c+}e[-xibi-]{+lula+}r [-s-]{+d+}i{+fere+}n{+ciado para ou+}t{+ro c+}om[-a-]{+o um proces+}s{+o+} de [-obs-]{+adap+}t[-ru-]{+a+}ção [-dig-]{+ao +}est[-iva a-]{+ímu+}l[-ta,-]{+o+} [-c-]{+d+}o[-m-] [-vô-]m{+e+}i[-t-]o[-s-] a[-li-]m{+bi+}ent[-ar-]e[-s;-]
-[---]{+.+} [-O-]{+No+} e[-nv-]{+stômag+}o[-lvi-]{+, a +}me{+taplasia i+}nt[-o-]{+estinal+} [-d-]{+é a ma+}i[-fu-]s[-o,-] com[-o-]{+um+} [-o-]{+e de+}corre [-n-]{+d+}a [-l-]in[-it-]{+f+}e{+cção+} p{+e+}l[-ástica,-]{+o+} [-leva-]{+H.+} [-à-]{+pylori,+} d[-iminuiçã-]o [-na-]{+refluxo+} d[-ist-]e[-nsi-]{+ +}bil[-idad-]e [-do estômag-]o[-,-]{+u+} [-ca-]{+q+}u[-s-]ando [-a sac-]i[-e-]{+n+}d[-a-]{+uzi+}d[-e-]{+a+} {+ex+}p[-r-]e[--coc-]{+rim+}e[- (18% dos casos);-]
-[-- Sa-]n[-gr-]{+t+}a{+l+}ment[-o-]{+e+} {+p+}o[-culto-]{+r+} [-c-]{+radiaçã+}o[-m-]{+.+} [-ou-]{+Parece+} se[-m-]{+r+} [-ane-]{+u+}m[-ia-] [-fe-]{+p+}r{+ecu+}r{+s+}o[-p-]r[-iva-] [-nã-]{+d+}o [-é -]{+t+}i[-nc-]{+p+}o[-mum, mas-] {+inte+}s[-a-]{+ti+}n[-gr-]a[-m-]{+l, +}en[-t-]{+c+}o[- a-]{+n+}t[-ivo é -]ra[-r-]{+d+}o [-(m-]e[-nos-]{+m+} [-de-]{+até+} [-20-]{+33+}%[-);-] [-tumor-]e[-s -]m[-uito-] [-gr-]{+popul+}a[-nd-]{+çõ+}es [-po-]de[-m-] [-er-]{+alt+}o[-di-]{+ +}r{+isco+} para [-de-]{+câ+}n[-t-]{+ce+}r[-o do-] {+gástri+}c[-ól-]o[-n-] [-t-]{+(Figu+}ra[-nsverso-] [-com-]{+11).+}
-{++}
- [-q-]{+ +}
-{+Fig+}u[-ad-]r[-o-]{+a+} [-de-]{+11 -+} {+End+}o[-b-]s[-trução -]co[-lôn-]{+p+}i[-c-]a[-;-]
-[---] [-S-]{+ev+}i{+de+}n[-a-]{+c+}i[-s-]{+ando+} [-c-]{+p+}l[-íni-]{+a+}c[-o-]{+a+}s [-qu-]e[- -]s[-e -]{+branquiça+}d[-e-]{+a+}s{+ +}e[-nvo-]l[-v-]e[-m t-]{+v+}a[-r-]d[-i-]a[-ment-]{+s d+}e {+aspe+}c{+t+}o[-m a-] {+m+}e[-vo-]{+tap+}l[-uçã-]{+ásic+}o [-d-]{+n+}a [-d-]{+muc+}o[-enç-]{+s+}a[-,-] [-as-]{+gá+}s[-oc-]{+tr+}i{+c+}a{+ +}do[-s-] a[- ava-]n[-ço -]{+tr+}o[-u-] [-d-]{++}
-{+F+}o[-e-]n[-ça me-]t{+e: G+}ast[-áti-]{+ro+}c[-a, sã-]{+entr+}o{+.+}
-{++}
-{+d)+} [-ma-]{+Di+}s{+pla+}s{+i+}a[- -]{++}
-{+	P+}a[-bdom-]{+c+}i{+e+}n[-al palpáv-]{+t+}e[-l,-]{+s+} [-linfonod-]{+c+}o[-s-]{+m+} {+di+}s[-u-]p[-rac-]la[-v-]{+s+}i[-cul-]a[-res-] [-(-]de [-Virchow) -]{+alt+}o[-u-] [-pe-]{+g+}r[-iumbilic-]a[-is-]{+u+} [-(de-]{+na+} [-Ir-]m[-ã M-]{+ucos+}a{+ gást+}ri{+c+}a [-J-]{+já têm +}o[-sé),-]{+u+} l[-infon-]o[-d-]{+g+}o [-axilar -]{+d+}es[-qu-]{+envolv+}er[-d-]{+ã+}o [-(d-]{+cânc+}e[- I-]r[-ish),-]{+.+} [-m-]{+D+}e{+n+}t[-ástas-]{+r+}e[-s-] [-perit-]o[-neai-]s [-p-]{+g+}a[-lpáv-]{+str+}e{+ctom+}i{+zado+}s p[-el-]o{+r+} [-toqu-]{+cânc+}e[- -]r[-etal-]{+, 20+} [-(“pr-]a{+ 40% +}t[-ele-]i[-r-]{+nh+}a{+m+} d[-e B-]{+isp+}l[-umer”) ou m-]as[-s-]{+i+}a [-ov-]a[-r-]{+ssoc+}ia[-n-]{+d+}a{+. As+} [-(-]t[-umor-]{+axas+} de [-Krukenbe-]{+p+}r[-g);-]
-[-- Conf-]o{+g+}r[-m-]e{+ssão+} {+d+}a d[-oenç-]{+isplasi+}a p{+a+}r{+a +}o[-grid-]{+ cânc+}e[-,-]{+r+} [-p-]{+sã+}o{+ +}de [-h-]{+21% n+}a{+ le+}ve[-r-]{+,+} [-hep-]{+33% n+}a[-to-]{+ +}m{+od+}e[-g-]{+r+}a[-li-]{+d+}a [-s-]e[-cundária-] [-a-]{+57%+} [-metást-]{+n+}a{+ +}se[-, ict-]{+v+}er[-íci-]a[-,-]{+.+}
-{++}
-{+-+} {+F+}a[-sci-]t{+or+}e{+s+} {+d+}e {+ris+}c{+o +}a[-qu-]{+mbi+}e[-x-]{+nta+}i{+s+}
-{++}
-{+T+}a[-;-]{+bela 1 +}- [-O-]{+Fatore+}s [-sít-]{+de r+}i[-o-]s{+co+} {+a+}m{+bient+}ais{++}
-{+Dieta+} {+ri+}c[-o-]{+a e+}m{+ sal	Parece ca+}u[-n-]s{+ar+} d[-e-]{+ano à+} m[-et-]{+ucosa g+}ást{+ric+}a[-s-]{+ +}e[-s-] [-sã-]{+aument+}o [-fíga-]d[-o,-]{+a+} [-pe-]{+ca+}r{+c+}i[-tô-]n[-i-]o[-, li-]{+gê+}n[-f-]{+ese.+}
-{+C+}o[-n-]{+mp+}o[-d-]{+st+}os n[-ã-]{+itr+}o{+sos	Dieta, tabaco e+} [-r-]e{+ndó+}g[-io-]{+e+}n{+o (40 +}a[-is-] [-ou-]{+75%+} d[-ist-]a[-nt-]{+ +}e{+xpo+}s[-.-]{+ição+} [-Sí-]t[-i-]o[-s-]{+tal)+} {+au+}men[-os co-]{+ta+}m[-uns-] [-sã-]o [-ová-]ri{+sc+}o[-,-] [-sist-]{+d+}e[-ma-] {+câ+}n{+c+}er[-vo-]{+ gá+}s{+tric+}o{+.+}
-{+Frutas,+} [-c-]{+veg+}e[-n-]t[-r-]a[-l,-]{+is e+} {+fibras	P+}oss[-o, p-]u[-l-]{+e+}m[-ão ou-] pa{+pel p+}r{+o+}te[-s m-]{+t+}o[-l-]{+r.+}
-{+Ob+}es[-;-]
-[-- Fenôm-]{+idad+}e[-n-]{+	Pr+}o[-s p-]{+voc+}a[-r-]{+ +}a[-n-]{+um+}e{+nt+}o[-plásic-]{+ d+}o[-s-] r[-aro-]{+i+}s{+co+} qu[-e-]{+anto+} {+ma+}i{+or o í+}n{+di+}c[-lu-]e[-m-] de[-r-]{+ +}ma[-tite -]s[-eb-]{+sa c+}or{+pó+}re[-ic-]a[- difus-]{+.+}
-{+T+}a[- (s-]{+bag+}i{+smo	Aume+}n{+t+}a[-l-] [-d-]{+o risco +}e{+m+} [-L-]{+1,53 v+}e{+z, +}se[-r-Trélat),-]{+ndo+} {+m+}a[-ca-]{+ior e+}nt[-os-]{+r+}e {+home+}n[-igri-]{+s.+}
-{+O+}c{+up+}a{+cio+}n[-s-]{+al	Carvão,+} [-(p-]la[-c-]{+t+}a[-s-]{+,+} [-pigm-]{+f+}e[-n-t-]{+rro, +}a{+ço; os +}da{+do+}s [-e-]s{+ão +}c[-ur-]{+onflit+}a{+nte+}s[- -]{+.+}
-{+H+}e[- -]{+licob+}a[-v-]{+ct+}e{+r py+}l[-u-]{+ori	Consi+}d{+er+}ad[-as-]{+o+} [-n-]{+pel+}a[-s-] [-p-]{+O+}r[-e-]ga[-s cutâ-]n[-e-]{+iz+}a[-s),-]{+ção+} [-a-]{+Mu+}n[-em-]{+d+}ia{+l da+} [-h-]{+Saúd+}e{+ co+}mo[-lític-]{+ f+}a{+tor+} [-mi-]c[-ro-]a{+rci+}n{+ó+}g[-i-]{+en+}o[-pática,-] [-n-]{+d+}ef[-ropa-]{+ini+}ti{+vo do grupo 1. P+}a{+rece+} [-m-]{+qu+}e[-m-]{+ a +}b[-r-]a[-nos-]{+ctéri+}a[-,-] {+d+}es[-t-]{+enc+}ad[-os-]{+eia+} [-h-]i[-per-]{+nflamação da mu+}co{+s+}a[-g-]{+ q+}u[--láv-]e[-is-] [-(sínd-]r[-om-]e{+sulta+} [-d-]e{+m+} [-T-]{+at+}ro[-usse-]{+fi+}a[-u),-] e {+meta+}p[-o-]l{+as+}ia[-rter-]{+ +}i{+n+}te[- -]{+sti+}n{+al, ass+}o{+cia+}d[-os-]a [-(-]{+a aume+}n{+t+}o [-câncer-]{+do+} [-gást-]ri{+s+}co [-pr-]{+d+}e[-c-]{+ aden+}oc[-e).-]
-
-[-4. Cl-]a[-ssifi-]{+r+}c{+inom+}a[-ções-]
-
-[-Ex-]{+ d+}ist{+al à cárdia +}em {+6 +}v[-á-]{+ezes. Os p+}ri{+ncip+}a{+i+}s [-c-]{+genótipos do H. py+}l{+ori +}ass[-ifi-]{+o+}c{+i+}a[-çõe-]{+do+}s [-de-]{+a+} câncer gástrico[-,-] [-di-]{+são +}v[-idid-]a{+cA+}s{+1, vacA+} [-e-]m{+1+} e[-ndos-]{+ +}c[-ó-]{+agA-+}p{+os+}i[-ca-]{+tivo.+}
-{+Víru+}s [-e hi-]{+Ep+}st[-ológ-]{+e+}i[-c-]{+n-B+}a{+rr	E+}s[-. -]
-
-[-A-]{+tá+} [--	Cl-]ass[-ifi-]{+o+}c{+i+}a[-çã-]{+d+}o [-m-]a[-c-]{+ g+}r[-oscópic-]a[- e-]nd{+e númer+}o[-scópica-] de [-Borr-]ma{+lig+}n[-n-]{+idades+}, [-1926-]{+com+} [-–-]{+possível papel no+} câncer gástrico [-avançado-]
-[-Classifica os tumo-]{+(p+}res{+ente+} [-d-]e{+m 5+} a[-cor-]{+ 10% +}do{+s+} c[-om o-]{+ânceres+} [-a-]{+gá+}s[-pec-]t{+ric+}o{+s).+} {+Pr+}e[-n-]do[-scóp-]{+mín+}i[-c-]o [-da l-]e[-são.-]{+m+} [-P-]{+h+}o[-d-]{+m+}e[- -]{+n+}s{+, cânc+}er {+d+}e[-mp-]{+ cá+}r[-ega-]d{+i+}a [-em-]{+ou+} [-t-]{+c+}o[-d-]{+t+}o[-s-] [-o-]{+gá+}s[- -]t[-umo-]r[-es-]{+ico+} [-d-]{+pós-cirúrgic+}o{+,+} {+infil+}tra[-t-]{+çã+}o [-gastr-]{+l+}in[-tes-]{+focí+}ti[-n-]{+c+}a[-l-], [-m-]{+baix+}a[-s-] [-s-]{+freq+}u{+ênci+}a {+de met+}a[-p-]{+ +}li[-caçã-]{+nf+}o[- -]no{+dal,+} [-cânc-]{+talv+}e[-r-]{+z um+} {+pro+}g[-á-]{+nó+}st[-r-]ico [-é a -]mais [-comum n-]{+f+}a[- p-]{+vo+}rá[-tica-]{+vel,+} [-c-]{+e histo+}l[-ín-]{+og+}i[-c-]a di[-ária. Es-]{+fu+}sa[- cl-]{+.+}
-{+St+}a{+tu+}s{+ +}s{+oc+}i[-f-]{+oeconôm+}ic[-açã-]o [-é -]{+b+}a[- de B-]{+ix+}o[-rr-man-]{+	I+}n[-, que -]div[-i-]{+íduos +}de {+baix+}o [-c-]{+st+}a[-r-]{+tus so+}ci[-n-]o{+econô+}m[-a-]{+ico+} [-gás-]t{+êm +}ri{+s+}co [-a-]{+2 +}v{+ezes m+}a[-nça-]{+ior +}do {+qu+}e[-m-] [-4-]{+a+} [-ti-]po[-s, seg-]{+p+}u[-ndo o -]{+l+}a[-spect-]{+çã+}o [-mac-]{+ge+}r[-oscópico.-]
-
-[-T-]a[-be-]l[-a 6 - -]{+.+}
-C[-lass-]i[-f-]{+rurg+}i[-c-]a[-ção-] [-ma-]{+gástri+}c{+a	P+}ro[-scópi-]{+vo+}ca [-d-]{+aum+}e{+nto+} [-B-]{+d+}o{+ +}r[-rmann-]
-[-T-]i[-po-]s[-	Cara-]c[-te-]{+o, p+}r[-íst-]i{+n+}c{+ip+}a[-s	L-]{+lm+}e[-sõ-]{+nt+}e{+ apó+}s[-B-]{+ 15 a 20 an+}o{+s da ci+}r{+u+}r[-m-]{+gi+}a[-nn-] [-I	Le-]{+(ri+}s[-ã-]{+c+}o [-po-]{+re+}l{+at+}i[-p-]{+v+}o[-i-]{+ +}de [-ou-]{+1,5 a 3). A+} [-veget-]an{+as+}t{+omos+}e[-,-] [-bem-]{+à+} [-delim-]{+B+}i{+llro+}t[-ada	-]{+h+} [-Bo-]{+II ca+}rr{+ega +}ma[-nn-]{+ior+} [-II	Le-]{+ri+}s[-ã-]{+c+}o{+,+} [-ulce-]{+p+}r{+ov+}a[-da, bem d-]{+v+}el[-i-]m[-i-]{+en+}t[-ada, d-]e [-bordas -]{+p+}el[-ev-]a[-das	-] [-Borr-]ma[-nn III	Lesã-]{+i+}o{+r+} [-ulc-]{+r+}e{+gu+}r{+git+}a{+ção +}d[-a,-]{+e+} [-inf-]{+b+}il[-tr-]{+e +}a[-t-]{+lcal+}i[-v-]{+n+}a e[-m-]{+ suco+} pa{+nc+}r[-t-]e[- -]{+átic+}o[-u em-]{+.+}
-{++}
-{+-+} {+Fa+}to[-da-]{+re+}s as[- -]s[-u-]{+oci+}a{+do+}s [-b-]{+a+}o[-r-]{+ hospe+}d{+eiro+}
-{++}
-{+Tabel+}a[-s	-] [-B-]{+2 - Fat+}or{+es +}r[-m-]{+el+}a{+cio+}n[-n IV	Le-]{+ado+}s[-ã-]{+ a+}o {+hospe+}d{+e+}i[-f-]{+ro+}
-{+Gr+}u{+po +}sa[-me-]n[-t-]{+guín+}e[- i-]{+o	I+}n[-filtrat-]{+d+}iv[-a, nã-]{+ídu+}o[- -]s[-e-] no{+ grupo A +}t{+êm 20% +}a[-ndo-] [-li-]m{+a+}i[-t-]{+s d+}e {+risco d+}e{+ câ+}n[-tr-]{+c+}e{+r+} {+gástric+}o [-tum-]{+d+}o[-r-] {+qu+}e a [-muc-]{+p+}o[-sa normal	 -]
-
-[- -]
-[-Fig-]{+p+}u[-ra 5 - C-]la[-ssifica-]ção [-d-]{+g+}e[- Bor-]r[-m-]a[-nn-]
-
-[-B-]{+l.+} [---]{+Também+} [-Cl-]{+p+}a[-ssifi-]{+re+}c[-ação-]{+e+} h{+aver r+}is[-tológi-]c[-a-]{+o+} de [-L-]a[-ure-]n[-, 1965-]
-[-P-]e[-l-]{+mi+}a [-classif-]{+pern+}ic[-açã-]{+i+}o{+sa,+} [-d-]e [-L-]a{+lg+}u[-re-]n[-,-]{+s+} {+dad+}os [-t-]{+s+}u[-mor-]{+g+}e[-s pod-]{+r+}em {+a+}s[-er divid-]{+soc+}i[-d-]{+açã+}o[-s-] [-em 2-]{+ao+} [-sub-]tipo[-s:-] [-inte-]{+gá+}st{+r+}i[-nais e-]{+co+} difuso[-s.-]
-
-[-a)-] [-Tipo-]{+de+} [-i-]{+câ+}n[-t-]{+c+}e[-stinal-]
-[-T-]{+r.+}
-{+Pr+}e[-m pa-]d[-r-]{+isposiç+}ão [-gl-]{+f+}a[-ndu-]{+mi+}l{+i+}ar{+	A+} [-e car-]{+m+}a[-cte-]{+io+}ri[-z-]a[---]{+ do+}s[-e-] [-p-]{+cânc+}e[-la p-]res[-ença de-] {+gástri+}c[-élula-]{+o+}s [-n-]{+é +}e[-o-]{+s+}p[-l-]{+or+}á[-s-]{+d+}ica{+, ma+}s {+o+}co{+rr+}e[-sas-] [-fo-]{+ag+}r[-m-]{+eg+}a[-nd-]{+çã+}o [-estrutur-]{+f+}a[-s tubu-]{+mi+}l{+i+}ar[-es-] e[- -]m[-ass-]{+ cerc+}a d[-i-]{+e 10% do+}s{+ +}c[-ret-]a{+sos+}. [-A-]{+O+} [-parti-]{+cânce+}r {+ver+}d[-o-]{+adeiramente+} {+h+}e[-p-]{+red+}it[-él-]{+ár+}io [-normal, -]ocorre [-instabilidad-]e{+m+} [-gênica,-]{+1+} [-lev-]a[-n-]{+ 3% +}do{+s+} [-i-]{+câ+}n[-i-]c[-ialm-]e[-nt-]{+r+}e{+s+} [-ao-]{+e+} [-a-]{+com+}p[-a-]re[-cim-]en[-to -]de {+3 síndro+}me[-tapla-]s[-ia-]{+:+} [-i-]{+câ+}n[-t-]{+c+}e[-sti-nal-]{+r+} [-(sub-]{+gá+}st{+r+}i[-tuiçã-]{+c+}o [-d-]{+h+}e[- -]{+r+}e[-p-]{+d+}it[-élio g-]á[-st-]ri[-c-]o [-p-]{+difus+}o[-r-]{+,+} [-elem-]{+ad+}en[-t-]o[-s h-]{+carc+}i[-st-]{+n+}o[-ló-]{+ma +}g{+ástr+}ico[-s-] [-qu-]e [-re-]p[-roduzem -]o[- epité-]li{+p+}o[- duodenal) -]{+s+}e[-,-] [-po-]{+gá+}st[-e-]ri[-ormente, de-]{+ca+} [-dis-]p[-las-]{+rox+}i{+m+}a{+l,+} [-(tax-]a{+lém+} de [-p-]{+cânce+}r[-o-]{+ +}g[-res-]{+á+}s[-ã-]{+tric+}o [-de d-]i{+nte+}s[-plas-]{+t+}i{+n+}a{+l+} [-de b-]{+f+}a{+mil+}i[-xo grau p-]ar[-a-]{+.+} [-carcin-]{+P+}o[-ma invas-]{+l+}i[-v-]{+p+}o[- d-]{+s+}e [-0 -]a[- 23% -]{+d+}e[- -]n{+omatos+}a [-d-]{+fam+}i[-sp-]l[-as-]ia{+r,+} [-d-]{+cânc+}e{+r+} [-a-]{+co+}l[-t-]o[- g-]r[-au d-]{+r+}e[- 60 -]{+t+}a{+l+} [-85%) ou ad-]{+h+}e[-n-]{+reditári+}o[-ma,-] [-câ-]n[-cer-]{+ão+} p[-rec-]o[-c-]{+lipoid+}e, [-câ-]{+sí+}n[-ce-]{+d+}r{+omes+} [-avança-]d{+e C+}o{+wden+} e [-m-]{+P+}e{+u+}t[-ástas-]{+z-Jegh+}e{+r+}s[-,-] {+e polipo+}se[-q-]{+ j+}u{+v+}en[-c-]i[-a-]l{+ ta+}m[-en-]{+bém +}t[-e.-]{+êm+} [-D-]i{+ncidên+}c{+i+}a[-Norm-]{+ +}a[-l-]{+u+}ment[-e,-]{+ada.+} {+C+}o{+m+} [-tip-]{+relaçã+}o [-int-]{+à g+}e[-s-]{+né+}ti[-n-]{+c+}a[-l-]{+,+} a[-comete-] [-ind-]{+at+}iv[-ídu-]{+açã+}o[-s-] [-i-]dos[-os. É bem-] {+pr+}o[-u m-]{+t+}o[-deradam-]{+-oncog+}en[-t-]e{+s,+} [-di-]f[-e-]{+o+}r[-enci-]{+m+}a{+n+}do[-, tem-] [-melh-]o[-r-]{+s+} [-pr-]o[-g-]n[-ósti-]co{+genes,+} [-do qu-]e [-o-]{+a+} {+ina+}ti[-p-]{+vaçã+}o d[-ifus-]o{+s+} {+gen+}e{+s+} [-localiza--]s{+upressor+}e{+s+} {+tu+}m{+or+}ais [-c-]{+p+}o[-mum-]{+d+}e[-n-]{+m al+}te{+rar+} [-no-]{+a+} a[-n-]{+pop+}t[-r-]o{+se+} e {+dese+}n{+cade+}a{+r o+} {+a+}p{+ar+}e[-qu-]{+cim+}en[-a-]{+to de+} [-curva-]tu{+mo+}r[-a-]{+es+}.[- -]
-
-[-b) T-]{++}
-{+H+}i[-po d-]{+stór+}i{+a +}f[-uso-]
-[-In-]{+am+}i[-c-]{+l+}ia[--s-]{+r	Parent+}e{+s+} em {+1º gra+}u[-m-] {+d+}e{+ +}p{+ac+}i{+en+}t[-élio-]{+es+} [-n-]{+c+}o[-r-]m[-al-] [-(-]{+carci+}n[-ã-]o{+ma+} [-h-]{+g+}á[- p-]{+st+}r[-o-]{+i+}c[-ess-]o [-de me-]t[-aplasia).-]{+êm+} [-Ocor-]{+f+}re[- i-]{+quê+}n[-stabil-]{+c+}i[-d-]a[-de-] [-gênic-]{+2 +}a[-,-] [-qu-]{+3 vez+}e{+s+} [-p-]{+mai+}o{+r +}de [-l-]{+des+}e{+n+}v[-a-]{+olve+}r a[-o-] d[-es-]{+o+}en[--v-]{+ça.+}
-{+P+}ol[-v-]im[-ent-]{+orfism+}o [-d-]{+g+}e[- câ-]n{+éti+}c[-e-]{+o	Polimo+}r{+fismo+} [-prec-]{+n+}o[-c-]{+ gen+}e[-,-] [-câ-]{+da i+}n[-c-]{+t+}er[- -]{+leucin+}a[-v-]{+ hum+}an[-ç-]a[-do e-] [-m-]{+b+}et[-ást-]a[-s-]{+ 1 (IL-1B) t+}e[-s.-]{+m+} [-A-]s{+ido+} [-célul-]as[- -]{+so+}c{+i+}a[-ncer-]{+d+}o[-sas-] [-infiltr-]a[-m-se-] [-d-]{+r+}i[-fu-]s{+co +}a{+u+}ment[-e na p-]a[-re-]d[-e-]{+o+} d[-o-]{+e+} {+cânc+}e{+r gá+}st[-ômag-]{+ric+}o. [-É-]{+A+} [-um-]{+IL-1B+} {+afe+}t[-umo-]{+a+}r{+ia+} [-produt-]o[-r-] de[- mu-]{+sfe+}c[-i-]{+ho +}n[-a,-]{+os+} {+infe+}c{+tad+}o[-m-]{+s +}p{+el+}o[-st-]{+ H. pyl+}o{+ri,+} por [-célula-]s{+er+} s[-e-]{+u+}p{+r+}ar{+regul+}ada[-s ou-] pe[-que-]{+la i+}n{+fecçã+}o[-s-] [-ag-]{+e p+}r{+of+}u[-p-]{+nd+}ament[-os d-]e [-célu-]{+pró-inf+}la[-s co-]m[- se-c-]{+ató+}r[-eção muc-]i[-nos-]a, [-d-]{+e o +}i[-str-]{+n+}ib[-uí-]{+i+}d[-a p-]or [-to-]{+áci+}do [-o c-]{+ma+}i[-to-]{+s +}p{+otente.+}
-{+Pó+}l[-a-]{+ipo+}s[-ma -]{+	Vi+}d[-as-]{+e+} [-célu-]{+Tabe+}la[-s-] {+4.+}
-{+Gastr+}o[-u-]{+patia+} [-d-]{+h+}i[-s-]per[-s-]{+trófic+}a [-no -]e{+ +}s[-t-]{+índ+}rom[-a.-]{+es+} [-Quan-]d[-o a-]{+e+} {+i+}mu{+nodefi+}ci{+ê+}n{+ci+}a{+	A+} [-intr-]a{+sso+}c[-elul-]{+i+}a[-r-]{+ção não+} é [-abu-]{+co+}n[---]{+firma+}da[-nte, -]{+.+}
-{++}
-{+Tab+}e[-mpurr-]{+l+}a [-o-]{+3 -+} {+Proto-o+}n[-ú-]c[-le-]o{+genes+} [-lat-]e[-ra-]{+nvo+}l[-m-]{+vidos+}
-{+p53+}
-{+Pres+}ente[-,-] {+no b+}r[-es-]{+aço c+}u[-l-]{+r+}t[-and-]o [-nas-]{+do+} c[-ha-]{+ro+}m[-ada-]{+o+}s{+somo+} [-cél-]{+17. Ind+}u[-l-]{+z +}a[-s-] [-“-]{+apoptos+}e[-m-]{+,+} {+evit+}an{+do a r+}e{+p+}l{+icação+} de [-si-]{+DNA muta+}n[-e-]te[-”-]. [-Di-]{+No +}c[-a-]
-[-O-]{+âncer+} {+gás+}t{+r+}i[-p-]{+c+}o{+,+} [-difus-]o[- a-]co[-met-]{+rr+}e in[-d-]{+at+}iv[-íduos m-]a[-is j-]{+çã+}o[-vens, é-] [-indiferencia-]do [-e-]{+p53+} [-t-]em [-pior-]{+60%+} [-pr-]{+d+}o[-gnó-]s[-ti-]{+ +}c{+as+}o{+s+} [-d-]{+n+}o [-q-]{+t+}u[-e-]{+mor+} {+d+}o tipo intestinal[-.-] [-P-]e[-rgu-]{+ 76% +}n{+o +}t[-a-]
-[-2015-]{+umor+} [---]{+do+} [-UFSC-]
-[-2-]{+tipo difuso+}. [-A-]{+E+}ss[-inale -]a [-alter-]{+i+}nativa[- c-]{+çã+}o[-rre-]{+ +}ta{+mbém+} [-co-]{+te+}m relação [-a-]{+c+}o{+m+} [-aden-]o[-ca-]{+ p+}r[-cin-]o[-ma -]g[-á-]{+nó+}st[-r-]ico d[-o tipo-]{+a+} d[-if-]{+oença.+}
-{+A+}us[-o-]{+ente+} [-d-]{+n+}a [-c-]{+Po+}l[-assif-]i[-caçã-]{+p+}o[- d-]{+s+}e [-L-]{+Colônic+}a[-uren:-] [-a-]{+(APC+})[- está m-]{++}
-{+Loc+}a{+l+}i{+za-+}s[- r-]e[-la-]{+ no +}c[-i-]{+r+}o[-nad-]{+mossom+}o [-à-]{+21.+} [-at-]{+A pe+}r{+da d+}o[-fi-]{+ +}a{+lelo do+} g[-ástrica-]{+ene+} [-b)-]{+APC+} é [-m-]a[-is-] [-frequen-]{+al+}te[- em g-]r[-up-]{+açã+}o {+g+}e{+né+}t[-ár-]i[-o-]{+ca+} mais [-j-]{+c+}o[-ve-]m[- e-]{+u+}m rela[-çã-]{+ci+}o[- -]{+nad+}a[-o-] [-tip-]{+a+}o [-i-]{+câ+}n[-t-]{+c+}e{+r gá+}st{+r+}i[-nal-]c[-)-]{+o.+} [-a-]{+O+}co[-met-]{+rr+}e [-co-]{+e+}m [-maior-]{+87%+} [-frequência-]{+dos+} indivíduos [-d-]{+c+}o{+m+} [-s-]e[-xo-]{+ssa+} {+enfer+}m{+id+}a[-s-]{+de.+}
-{+DCC+}
-{+Lo+}c[-u-]{+a+}li[-no-]
-[-d)-]{+za-se+} no{+ b+}r[-m-]a{+ço +}l[-me-]{+o+}n[-te é bem-]{+go+} d[-iferenciad-]o[-,-] c{+r+}om[- f-]o[-r-]{+sso+}m[-açã-]o [-de-]{+18.+} [-glând-]{+S+}u[-l-]a[-s-]
-[-e)-] a[-presen-]{+l+}t[-a associ-]{+er+}ação [-dir-]e{+s+}t[-a ao-]{+á+} [-gru-]p[-o -]{+re+}s[-anguí-]{+e+}n{+t+}e[-o-] [-O-]
-[-R-]e[-spost-]{+m 30 +}a [-n-]{+60% d+}o{+s+} [-f-]{+pac+}i{+e+}n[-al-]{+tes+} [-d-]{+c+}o{+m+} c[-apí-]{+âncer gás+}t[-ul-]{+ric+}o[-C-]{+.+}
-{++}
-{+Tabela 4+} - [-C-]{+Pó+}l[-ass-]i[-ficaçã-]{+p+}o{+s+} [-hi-]{+gá+}st[-ológ-]{+r+}ic[-a-]{+os+} [-da-]{+e+} [-S-]{+p+}o{+ten+}ci[-ed-]a[-de-]{+l+} [-Ja-]p[-o-]{+ré-+}ne{+oplá+}s[-a de -]{+ico+}
-P[-esqu-]{+ól+}i[-sa d-]{+p+}o{+s+} [-Cânc-]{+hip+}er[- G-]{+pl+}ás[-tr-]ico[-a)-]{+s	- São+} [-Tip-]o{+s mais+} comu[-m-]
-[-Ade-]n{+s (75%), f+}o[-ca-]r[-cino-]ma{+dos+} p[-a-]{+or e+}pi{+té+}l[-ar;-]{+io+} [-Ad-]{+fov+}e[-n-]o[-c-]{+l+}ar[-cin-]{+ al+}o[-m-]{+ng+}a{+do,+} [-tubu-]{+di+}la[-r-]{+tado+} [-(b-]e[-m-]{+/ou+} [-d-]{+císt+}i[-f-]{+co qu+}e{+ pa+}re[-n-]c[-iado/mod-]{+e s+}er[-adam-]{+ +}e[-n-]{+pi+}t[-e-]{+élio+} [-d-]{+h+}i[-f-]{+p+}er{+-reg+}en[-ci-]{+er+}a[-do/pouc-]{+tiv+}o [-dif-]e{+m +}re[-nciad-]{+sp+}o[-);-]{+sta a+} [-Ad-]e[-n-]{+stímul+}o[-c-]{+ inflam+}a{+tó+}r[-c-]i[-n-]o{+. Costu+}ma[- -]m{+ ser peq+}u[-ci-]{+e+}nos[-o;-] [-C-]{+(v+}ar[-c-]i[-nom-]a{+m+} de {+0,1 a 1,5+}c[-é-]{+m), mú+}l[-u-]{+tip+}l[-a-]{+o+}s [-“-]e[-m-] {+loc+}a[-ne-]l[- -]{+iza+}d[-e -]{+o+}s[-i-]{+ +}n[-ete”.-]
-
-[-b)-]{+o+} [-Tip-]{+antr+}o [-es-]{+(+}p{+od+}e[-cífic-]{+m +}o[-Car-]c[-in-]o[-ma ad-]{+rr+}e{+r +}no[-es-]{+ +}c[-am-]o[-s-]{+rp+}o[-;-]{+,+} [-Carci-]no[-ma-] {+fun+}d{+o +}e [-célul-]{+n+}a[-s-] [-es-]c{+árdi+}a[-mosas-]{+)+};{++}
-{+	-+} [-T-]{+M+}u[-m-]{+it+}o[-r-] [-c-]{+b+}a[-rc-]i[-n-]{+x+}o[-ide;-] [-M-]{+r+}isc{+o d+}e{+ transformação ma+}l[-â-]{+ig+}n[-e-]a[-.-]
-
-[-D-] {+(<2%);+}
-{+	+}- [-Cân-]{+A+}c{+ompanham+}e[-r gás-]{+n+}t[-ric-]o [-pr-]e[-c-]{+nd+}o[-ce (cla-]s[-sif-]{+cóp+}ic[-açã-]o [-histológ-]{+é +}i[-ca)-]
-
-[-D-]{+nd+}ica{+do+} [-D-]{+d+}e{+ acordo com +}f[-in-]{+ator+}e[---]s{+ d+}e {+ris+}co[-mo-]{+ para+} câncer gástrico[- -]{+.+}
-{+Póli+}p[-rec-]o[-ce-]{+s+} a[-quele qu-]{+d+}e[- -]n[-ã-]o[- ultrapassa -]{+m+}a[- -]{+to+}s[-ubmuc-]os[-a,-]{+	-+} [-nã-]{+C+}o[- im-]{+rres+}po[-rta-]nd[-o-]{+e+} [-o-]{+a 6+} a[-cometiment-]{+ 10% d+}o{+s+} {+pó+}li[-nf-]{+p+}o[-n-]{+s gástric+}o[--dal-]{+s+}. [-A -]{+Ma+}i[-mp-]or[-tância do-] [-d-]{+r+}i[-agnó-]s[-ti-]co de t[-umo-]r[-e-]{+an+}s{+formação+} {+malig+}n{+a; l+}es{+õe+}s[-a-] [-f-]{+plan+}as[-e-] [-(por-]{+têm+} [-ecoendo-]{+ri+}sco[-pia)-] {+d+}e[-stá-] [-n-]{+6 +}a [-po-]{+21%, e le+}s{+õe+}s[-ibi-]{+ po+}li[-da-]{+poi+}de{+s,+} de [-cura-]{+20+} [-(cerc-]a [-de 9-]{+7+}5%[-)-]{+;+}
-{+	-+} [-com-]{+A+} [-p-]{+maio+}r{+ia +}oc{+orr+}e[-dime-]{+ +}n[-t-]o[-s-] [-minim-]a[-me-]nt[-e invasiv-]{+r+}o[-s-] {+(+}po[-r meio -]de{+m+} [-ab-]{+oc+}or[-dag-]{+r+}e[-m-]{+r+} [-e-]n[-d-]o[-s-]{+ +}c[-ó-]{+or+}p[-ica.-]
-[-Classificaçã-]o [-d-]e [-P-]{+n+}a{+ cá+}r{+d+}i[-s (2002-]{+a+}){+;+} p[-ara-]{+odem+} [-n-]{+s+}e[-o-]{+r +}pla{+no+}s[-ia-] [-gástrica-]{+ou+} p[-rec-]o[-c-]{+lipoid+}e{+s+}, [-co-]{+varia+}n[-f-]{+d+}o[-rm-]{+ d+}e [-asp-]{+milím+}e[-c-]t{+r+}o{+s+} [-m-]a[-c-]{+ vá+}r[-oscóp-]i[-c-]o{+s+} [-(Figu-]{+centímet+}r[-a-]{+o+}s{+.+} [-6 -]{+Pod+}e{+m+} [-7):-]
-[-Le-]s[-õ-]{+er tubular+}es{+,+} t{+ubulov+}i[-p-]{+l+}o{+sos+} [-0-I-]{+ou vilosos e+} são [-p-]{+ne+}o{+p+}l{+ás+}i[-p-]{+c+}o[-ide-]s[-,-] [-subcat-]e[-g-]{+ f+}or[-iz-]{+m+}ad[-a-]{+o+}s [-em:-]
-[-Ti-]po{+r+} [-0-Ip: pedi-]c{+él+}ula[-da;-]
-[-Tipo 0-I-]s[-:-] [-séssi-]{+co+}l[-.-]
-[-Lesõ-]{+unar+}es [-t-]{+d+}i{+s+}p[-o 0-II -]{+lásica+}s[-ão-] [-nã-]{+c+}o{+m+} [-polip-]{+b+}o[-i-]{+r+}d[-e-]{+a+}s {+e+}s[-ubca-]t[-ego-]ri[-z-]adas{+.+} [-em:-]
-[-Tip-]{+Estã+}o [-0-IIa: l-]{+fr+}e[-v-]{+quent+}emente [-elevad-]a[-;-]
-[-T-]{+ssoc+}i[-p-]{+ad+}o{+s+} [-0-IIb:-]{+a+} [-pl-]{+g+}a{+strite crô+}n[-a;-]
-[-T-]i[-po-]{+ca+} [-0-II-]c[-:-]{+om+} [-leve-]me{+taplasia i+}nte{+stinal;+}
-{+	- O risco+} de[-p-]{+ t+}r[-i-]{+ansformação +}m{+al+}i[-d-]{+gn+}a[-.-]
-[-Lesõ-]{+ +}e[-s-] [-t-]{+carc+}i[-p-]{+n+}o{+ma+} [-0-III -]{+inva+}s[-ã-]{+iv+}o {+aum+}e[-s-]{+ntam +}c{+om o t+}a[-v-]{+m+}a[-d-]{+nho, +}a[-s.-] [-F-]{+h+}i{+stolo+}g[-ur-]{+i+}a [-6-]{+vilosa+} [---]{+e+} [-Cl-]a{+ di+}s{+pla+}si[-fic-]a[-ção-] de [-P-]a{+lto g+}r{+au. Est+}i{+ma-+}s{+e que de 8+} [-par-]a [-n-]{+59% dos ad+}e{+n+}o[-pl-]{+m+}as[-ia-] [-pr-]e[-c-]{+stã+}o[-ce-] [-(-]{+a+}s[-uperfi-]{+so+}cia[-l -]do{+s+} [-tr-]a[-t-]{+ carcin+}o{+ma+} g[-a-]{+á+}stri[-nte-]{+co +}s[-t-]in[-al)-]
-[-Fo-]{+crô+}n[-te: UpT-]{+ic+}o{+;+}
-{+	- +}D[-at-]e[-.-]{+vem+} {+ser+} [-Figu-]r{+essec+}a{+dos,+} [-7 --]{+pelo+} [-A-]{+ri+}s[-p-]{+co d+}e{+ +}c[-t-]{+âncer, e n+}o{+va+} endosc[-ó-]{+o+}pi[-co-]{+a+} de[- l-]{+v+}e{+ +}s[-ão-]{+er+} [-n-]{+r+}e[-op-]{+a+}l[-ás-]i[-c-]{+zad+}a [-precoc-]e[-:-]{+m+} [-(A)-]{+1+} [-lesã-]{+an+}o[- t-]{+.+}
-{+Pól+}ipo[- 0-I; (B) le-]s[-ão-] {+hamar+}t[-ip-]o[- 0-II-]{+m+}a[-; (C) le-]{+to+}s[-ã-]o{+s	-+} [-t-]{+É mu+}i[-p-]{+t+}o [-0-IIb; (D) lesã-]{+rar+}o [-tip-]o [-0-II-]c{+âncer+};{++}
-{+	-+} [-(E) les-]{+S+}ão [-t-]{+pól+}ipo{+s+} [-0-IIa-]{+que+} [-+-]{+se+} [-0-IIc-]{+originam+} {+d+}e [-(F) -]{+e+}le[-são -]{+men+}t[-ip-]o{+s+} [-0-II-]{+te+}c{+iduais+} [-+ 0-III -]
-[-F-]{+n+}o{+rmalme+}nte[-:-] [-Gastroc-]en{+con+}tr{+ad+}o[-.-]{+s+} [-Importa-]n[-te-]
-[-Os-]{+o+} [-fa-]{+sí+}t{+i+}o[-res-]{+,+} {+m+}as[-so-]{+ que +}c[-iado-]{+re+}s{+cem em+} {+um+}a m[-etást-]as[-e-]{+sa+} [-linf-]{+des+}o{+rga+}n[-o-]{+iza+}da{+.+}
-{+Pó+}l{+ipos+} in[-c-]{+f+}l[-uem t-]ama[-nh-]{+tóri+}o{+s	Sem+} [-d-]{+p+}o[- -]t[-umor, ulc-]e[-r-]{+nci+}a[-ção,-]{+l+} [-t-]{+maligno+}
-{+Pól+}ipo{+s+} h[-is-]{+e+}t{+er+}o[-l-]{+t+}ó[-g-]{+p+}ico[- difu-]s{+	- É rar+}o [-(i-]{+o câ+}n[-dif-]{+c+}er[-enciado)-]{+;+}
-{+	-+} {+P+}o[-u-]{+r+} {+exe+}m[-ist-]{+pl+}o{+,+} [-(i-]n{+o +}te[-st-]{+c+}i[-n-]{+do p+}a[-l/i-]n[-dife-]{+c+}re[-nc-]{+át+}i[-ad-]{+c+}o[-),-] [-p-]{+hete+}ro[-fund-]{+tóp+}i[-d-]{+co no estôm+}a{+go.+}
-{+Pólipos +}de {+glân+}d{+ul+}a{+s+} [-i-]{+fú+}n[-v-]{+dic+}as{+	- S+}ão {+pequ+}e[- i-]n[-vasã-]o[- -]s[-ub-]{+ (0,1 a 0,8c+}m[-u-]{+), hiperêmi+}cos{+, sésseis, pl+}a{+nos+} ou [-li-]n[-f-]o[-v-]{+dul+}a{+re+}s{+, +}c{+om s+}u[-la-]{+pe+}r[-.-]
-
-[-5.-]{+fície+} [-D-]{+l+}i[-agnó-]s[-ti-]{+a. O+}co[-D-]{+rrem exclus+}i{+v+}a[-g-]{+me+}n[-ós-]t[-ico-]
-[-A -]e{+ +}n[-d-]o[-s-]{+ +}co{+r+}p[-ia-]{+o+} [-dig-]e[-stiva alta é-] {+sã+}o {+co+}m[-é-]{+pos+}to[-d-]{+s p+}o{+r+} [-d-]{+ep+}i[-a-]{+télio +}g[-nó-]{+á+}st{+r+}ico [-de-]{+tipo+} [-es-]co[-lha-]{+rpo+} [-(Figu-]{+no+}r{+m+}a{+l,+} [-8) -]{+arranja+}do [-cânc-]e[-r-]{+m+} {+uma confi+}g[-ást-]{+u+}r[-ic-]{+açã+}o[-. Além-] de[- faze-]{+so+}r[- -]{+den+}a[- -]{+d+}a[-nálise,-] [-já-]{+e/ou+} [-p-]{+micr+}o{+cí+}s[--sibili-]t{+ic+}a{+;+} [-o-]{++}
-{+	-+} [-i-]{+Ausê+}n[-í-]ci[-o-]{+a+} d[-o -]e[-s-]{+ po+}t[-ad-]{+enc+}ia{+l +}m[-e-]{+alig+}n[-t-]o[-,-] [-i-]{+qua+}nd[-i-]{+o asso+}c{+i+}a[-n-]do[- -]s[-e-] {+a+}o [-t-]u[-m-]{+s+}o[-r é-] [-precoc-]{+d+}e [-ou ava-]{+i+}n[-ça-]{+ibi+}do[-, seu-]{+r+} [-t-]{+d+}a{+ bo+}m{+b+}a[-nho-] {+d+}e {+próton+}s{+ o+}u[-a-] [-l-]{+esp+}o[-cal-]{+rád+}i[-zaçã-]{+c+}o[-.-]{+s,+} [-U-]ma{+s+} [-ú-]{+podem malig+}ni[-c-]{+z+}a{+r+} [-bióp-]s[-ia-]{+e+} [-d-]a[- le-]s[-ã-]{+s+}o[- p-]{+ciad+}os{+ à+}s[-ui-] s[-e-]{+í+}n{+drome+}s[-ibi-]{+ po+}li[-da-]{+poi+}de{+s (1%+} d{+e r+}i[-agnó-]s[-ti-]c{+o n+}a [-d-]{+polipos+}e [-70%, -]{+ad+}en[-qu-]{+om+}a[-n-]to[- 7 bióp-]s[-i-]a[-s-] [-d-]{+f+}a[- -]m{+ili+}ar[-g-]{+);+}
-{+	- S+}e{+gui+}m[- -]e{+nto+} [-bas-]e{+ndoscópico não é+} {+in+}d{+ic+}a{+do nos+} [-l-]es[-ã-]{+p+}o[- au-m-]{+rádicos.+}
-{++}
-{+P+}e{+rgu+}nta[-m-]{++}
-{+2014+} {+- UFF+}
-{+1. Qu+}a{+l, dos+} se{+gui+}n{+te+}s[-ibilid-]{+, é f+}a{+tor +}de {+risco +}para [-mais-]{+o+} {+a+}de[- 98%.-]
-[-O d-]{+nocarc+}i{+nom+}a{+ +}g[-nó-]{+á+}st{+r+}ico{+?+}
-{+a)+} [-de cân-]{+úl+}cer{+a péptica+} gástric[-o difuso, cham-]a[-do-]{++}
-{+b)+} {+pó+}li[-nite-]{+po+}s [-pl-]{+g+}ást{+r+}ic[-a-]{+o+}s[-,-] [-po-]{+a+}de[- ser e-]n[-d-]{+omat+}os[-c-]o[-pi-]{+s+}
-c{+) +}a{+lcoolis+}m[-e-]{+o+}
-{+d) sí+}n[-t-]{+drom+}e d[-ifícil, porqu-]e {+Zolling+}e{+r-Elli+}s[-s-]{+on+}
-e{+)+} [-t-]u[-m-]{+s+}o[-r-] [-te-]{+prolo+}n{+ga+}d[-e-]{+o+} [-a-]{+de+} in[-f-]i[-ltra-]{+bido+}r{+es+} {+d+}a [-su-]b{+o+}m[-uc-]{+ba de prótons+}
-{+Resp+}os{+t+}a [-e-]{+no+} {+fin+}a{+l do+} [-mus-]c{+apít+}ul[-ar-]{+o+}
-{++}
-{+-+} [-p-]{+Cânce+}r[-óp-]{+ gást+}ri[-a, -]co[-m-] [-bióps-]{+d+}i[-a-]{+fu+}s{+o+} [-sup-]{+h+}er[-fic-]{+ed+}i[-a-]{+tár+}i{+o+}
-{+	Po+}s{+sui+} [-f-]{+her+}a[-ls-]{+nç+}a[-s-] [-neg-]a{+u+}t[-iva-]{+o+}s[-. Técn-]{+sôm+}ica[-s-] d[-e bióps-]{+om+}i{+n+}a{+nte,+} [-s-]{+c+}o[-bre-]{+m+} [-bióp-si-]{+mut+}a{+ção+} [-e m-]{+d+}a{+ E-+}c{+ade+}r[-obióps-]i{+n+}a [-d-]{+(g+}e[-v-]{+n+}e[-m-] [-ser-]{+CDH1)+} [-r-]e{+m 25 +}a[-lizadas-] [-nes-]{+50% do+}s[-e-] caso{+s+}. [-A-]{++}
-{+	Os+} {+crité+}r[-ad-]io[-log-]{+s d+}ia[- conve-]{+g+}n[-c-]{+óst+}i[-onal -]co[-ntra-]s[-t-]{+ p+}a[-d-]{+r+}a [-p-]r{+e+}a[-t-]{+l+}i[-c-]{+z+}a[-m-]{+r t+}e[-n-]{+s+}te {+ge+}n{+ético s+}ão{+:+}
-{+		-+} [-é-]{+2 ou+} mais [-utilizad-]{+p+}a[- -]{+re+}n[-o-]{+te+}s d[-ias-]{+e+} [-at-]{+1º o+}u{+ 2º gr+}a[-is-]{+u+} com{+, pel+}o m[-étod-]{+en+}o{+s, 1+} diagnóstico [-(falso-]{+de+} {+câ+}n{+c+}e{+r +}g[-a-]{+ás+}t{+r+}i[-v-]{+c+}o [-em-]{+difuso+} {+histologic+}a{+men+}t[-é 50%-]{+e+} {+confirma+}do[-s-] [-c-]a{+nte+}s{+ d+}os[-).-] {+50+} [-Figur-]a[- 8 - E-]n[-d-]os[-c-]{+; +}o{+u+}
-{+		- 3 +}p[-i-]a[- dig-]{+r+}e[-stiva al-]{+n+}t[-a -]e[-vi-]{+s +}de[-nciando-] [-lesã-]{+1º +}o{+u+} [-vegetante,-]{+2º+} [-ulce-]{+g+}ra{+u +}d{+i+}a[-, su-]g[-e-]{+no+}sti[-v-]{+c+}a[- -]d[-e-]{+os com+} câncer gástrico[-Fonte:-] [-www.me-]d{+ifu+}s[-cape.c-]o[-m.-]
-
-[-6.-] [-E-]{+hi+}st[-ad-]{+olog+}i{+c+}ament[-o-]
-
-[-O -]e[-stad-]{+ conf+}i{+rm+}a{+do e+}m{+ qualqu+}e[-nto-]{+r+} {+i+}d[-o-]{+ade.+}
-{+	O+}s pacientes com {+o +}câncer gástrico t[-em iníc-]i{+p+}o [-c-]{+difus+}o[-m a-] h{+ered+}i[-s-]t[-ó-]{+á+}ri[-a clínica em-]{+o+} [-busc-]a[- d-]{+pr+}e[- sinai-]s[- -]e[- si-]nt[-om-]a[-s-]{+m+} [-s-]{+m+}u[-ges-]t[-i-v-]{+açã+}o[-s-] [-d-]{+qu+}e [-do-]{+alt+}e[-nç-]{+r+}a a[-vanç-]{+ E-c+}ad[-a ou m-]e[-tastát-]{+r+}i[-c-]{+n+}a, [-co-]{+u+}m[-o-]{+a+} p[-e-]r[-d-]{+oteín+}a de [-p-]{+ad+}es{+ã+}o[-,-] [-aum-]{+c+}e[-nto do vo-]lu[-m-]{+lar qu+}e a[-bdom-]{+ge +}in[-al, -]i[-cteríc-]{+b+}i[-a, -]{+n+}do[-r-] [-abd-]o[-minal,-] [-vôm-]{+cresc+}i[---]{+men+}to[-s, disfagia,-] [-he-]{+tu+}mor[-r-]a[-gi-]{+l, +}a [-digest-]i{+n+}va{+são+} e[-tc.-] [-Feito-]{+a+}s [-ana-]m[-n-]e{+tásta+}se{+s.+} [-e-]{+Quando+} e[-x-]{+l+}a[-me-] [-físico-]{+é+} [-cu-]i[-d-]{+nativ+}ad[-oso-]{+a+}, [-devem-se-]{+há+} {+au+}s[-oli-]{+ên+}ci[-t-]a[-r-] [-ex-]{+d+}a[-m-]{+ ad+}es[- c-]{+ã+}o[-mpleme-]{+ i+}nt[-a--]{+e+}r{+c+}e[-s-]{+lular+}, [-d-]{+l+}e[- -]{+v+}a[-cor-]{+n+}do [-com a-]{+à+} [-d-]i[-spo-]n[-ibil-]{+capac+}idade de [-cad-]{+form+}a{+r+} [-in-]{+e+}st[-i-]{+ru+}tu[-ição, -]{+r+}a{+s+} [-fim d-]{+glandular+}e{+s.+} [-pr-]{+C+}o[-s-]{+n+}se[-g-]{+q+}u[-ir com o -]e[-s-]{+n+}t[-adia-]{+e+}ment[-o, qu-]e{+,+} [-só est-]a[-rá-] c[-omp-]{+é+}l[-eto-]{+ula+} [-d-]{+canc+}e[-p-]{+r+}o[-i-]s[- d-]a[-s-] [-f-]a[-s-]{+um+}e[-s i-]nt[-r-]a{+ +}o[-peratória-] {+s+}e{+u+} [-anatomo-]p[-at-]o[-lógica.-]
-[-A ul-]t[-rasso-]{+e+}n[-ograf-]{+c+}ia[- (USG)-]{+l+} de {+inv+}a[-bd-]{+sã+}o[-m-]{+ +}e [-po-]de [-s-]{+g+}er[- um bom método par-]a{+ção+} de[-tectar-] metástases{+.+} [-hepáticas, mas é ruim para-]{+O+} [-avali-a-]r[- -]i[-nva-]s[-ão lo-]co[-rregional do-] [-t-]{+c+}um[-or gás-]{+ula+}t[-r-]i[-co. Em cas-]{+v+}o[-s-] de [-l-]{+cânc+}e[-sõ-]{+r +}es{+tá+} [-pequ-]en[-as-]{+tre+} [-à-]{+40+} e{+ 67% +}n[-d-]os[-copia, a USG-] [-p-]{+h+}o[-d-]{+m+}e[- -]{+n+}s[-er um-] [-bom-]{+e+} [-mé-]{+en+}t[-odo pa-]r[-a-]{+e+} [-o-]{+60+} e[-stadiamento-] [-abdomi-]{+83% +}na{+s mu+}l{+heres+}, [-junt-]{+ger+}a{+l+}mente com [-a en-]d[-o-]{+e+}s[-c-]{+env+}o[-p-]{+lv+}i[-a.-]
-
-[-I-]m[-porta-]{+e+}nt[-e-]
-[-Os-]{+o ao+} [-c-]r[-ité-]{+edo+}r[-i-]{+ d+}os [-de-]{+38+} [-i-]{+anos. Ca+}rre[-ssecabilid-]ad{+or+}e{+s+} a[-ce-]{+ss+}i{+ntomá+}t{+ic+}os [-mun-]d[-i-]a[-l-]{+ +}m[-en-]{+u+}t[-e par-]a[- -]{+çã+}o [-câncer gás-]t{+êm +}ri{+s+}co s[-ão m-]{+ufici+}e{+n+}t[-ás-]{+emen+}t[-as-]e[-s-] a[- dis-]{+l+}t[-ância-]{+o+} [-e-]{+para+} in[-v-]{+dic+}a[-s-]{+ç+}ão de [-e-]{+ga+}str[-u--]{+ec+}t[-ur-]{+omi+}a[-s-] [-vascu-]{+profi+}l{+átic+}a{+, ge+}r{+alment+}e[-s-] [-m-]a[-iore-]{+pó+}s [-com-]o{+s+} [-aorta,-]{+20+} {+an+}o[-u-]{+s+} [-do-]e[-nça-] [-englob-]an{+tes +}do{+s+} [-ou-]{+40.+} [-ocl-]{+Naq+}u{+eles d+}i{+ag+}n[-d-]o[- a ar-]{+s+}t[-ér-]i{+c+}a{+dos+} [-hepáti-]c{+om +}a [-o-]{+m+}u{+tação+} a[-r-]{+n+}t[-éria-]{+es+} do{+s+} [-eixo-]{+20+} [-celí-]a[--c-]{+n+}o[-/e-]s[-plênica-]{+ se+} pro[-ximal. -]
-
-[-A-]{+põe+} [-T-]{+end+}o[-m-]{+sc+}o[-graf-]{+p+}ia [-Computadoriz-]a[-d-]{+nu+}a{+l.+} [-(TC) d-]{+Mulher+}e{+s+} a[-bdom-]{+f+}e[- é um mé-]t[-o-]{+a+}d[-o muito efic-]a[-z,-]{+s+} t[-anto-]{+êm+} [-par-]a[- -]{+l+}t[-um-]o{+ +}r[-e-]{+i+}s{+co+} [-m-]{+d+}e{+ câ+}n[-o-]{+ce+}r{+ d+}e[-s-] [-co-]m[-o -]a[-vanç-]{+m+}a[-dos.-] [-P-]{+l+}o[-ssi-]b[-i-]{+u+}l[-ita -]a{+r+} [-avaliação-]{+e+} de[- m-]{+v+}e[-tásta-]{+m +}se[-s-]{+r+} [-h-]{+subm+}e[-pá-]ti[-c-]{+d+}as[-,-] [-d-]a [-p-]{+sc+}re[-s-]en[-ça-]{+ing. +}
-{++}
-{+C -+} {+Qua+}d[-e-]{+ro+} {+c+}l[-info-]{+í+}n{+ic+}o[-dos-] [-au-]{++}
-{+	So+}ment[-a-]{+e 50% +}dos [-e -]d[-e -]i{+ag+}n[-v-]{+ostic+}a{+do+}s[-ã-]{+ c+}o{+m+} [-d-]{+cânc+}e{+r+} [-e-]{+gá+}str[-u-]{+ico +}t[-uras-]{+êm+} [-a-]d[-jac-]{+o+}en[-tes,-]{+ça+} {+con+}f[-aze-]{+i+}n{+a+}d{+a a+}o [-e-]s{+í+}t[-ad-]i[-ament-]o locorregional[-.-]{+,+} [-M-]e[-tá-]{+ +}s{+omen+}t[-as-]e[-s-] [-p-]{+m+}e[-ri-]t[-one-]a[-is -]{+d+}e [-hematogênic-]{+d+}a{+quele+}s [-<5m-]{+co+}m [-sã-]{+d+}o{+ença+} [-f-]{+apa+}re[-que-]ntemente [-pe-]r[-d-]{+eg+}i[-d-]{+on+}a[-s-]{+l+} p{+ode r+}e{+a+}l{+iz+}a[- TC; em até 20 a 30%-]{+r+} c[-om TC ne-]{+irur+}g[-at-]i[-v-]a[-,-] [-d-]{+p+}o{+t+}en[-ça -]{+c+}i[-ntr-]a[-p-]{+lm+}e[-rito-]n{+t+}e[-al é-] [-en-]c[-ont-]{+u+}ra[-d-]{+tiv+}a{+.+} {+Câ+}n[-a -]{+c+}e[-xplo-]r[-ação-]{+es+} cir[-ú-]{+u+}rgica[-. A profu-]{+me+}n[-didad-]{+t+}e [-da in-]{+curá+}v[-a-]{+ei+}s[-ão-] [-tum-]{+sã+}o[-ral (T),-] [-p-]{+ge+}r[-incip-]almente [-le-]{+a+}s[-õe-]s[- peque-]{+i+}n[-a-]{+tomático+}s[-,-]{+.+} [-t-]{++}
-{++}
-{+T+}a[-m-]b[-ém-]{+ela+} [-po-]{+5 - Qua+}d[-e-]{+ro+} {+clí+}n[-ã-]{+ic+}o{++}
-{+-+} [-se-]{+P+}r[- -]{+e+}co[-rr-]{+c+}e[-ta-]mente [-avaliada-]{+não+} {+a+}p{+r+}e[-l-]{+sent+}a [-TC (acurác-]{+s+}i{+ntom+}a{+s+} [-d-]e [-50 a 70%, -]{+pod+}e [-metásta-]se[-s-]{+r+} [-li-]{+co+}nf[-o-]{+u+}n[-o-]d[-ais reg-]i{+d+}o[-nais-] [-<0,8-]c{+o+}m[-). O-] {+gas+}t[-umo-]r{+ite,+} [-pod-]{+l+}e{+vando+} a[-p-]{+o t+}r[-esen-]{+a+}ta[-r-s-]{+m+}e{+nto+} [-c-]{+sint+}om{+átic+}o {+durant+}e[-sp-]{+ 6 a 12 m+}es{+e+}s{+ +}a[-me-]nt[-o-]{+es+} d[-a-]{+e+} [-par-]e{+stu+}d[-e-]{+os+} {+dia+}g[-á-]{+nó+}st[-r-]ic[-a,-]{+os;+}
-{+-+} {+P+}e[- -]{+rd+}a [-TC,-]{+de+} {+pe+}s[-ug-]{+o (62%) +}e[-ri-]{+ do+}r {+ab+}d[-isse-]{+o+}mina[-ç-]{+l (52%) s+}ão [-perit-]o[-neal-]{+s+} [-qua-]{+si+}n[-d-]{+t+}o[- -]m[-ostr-]a{+s+} [-irregul-]{+m+}a[-r-]i[-dade,-]{+s+} [-q-]{+com+}u[-e-]{+ns+} [-p-]{+n+}o[-de-] [-v-]{+d+}i[-r -]a{+gnósti+}co[-mpa-]{+ i+}n[-had-]{+ici+}a{+l;+}
-{+- A+} d[-e-]{+or+} [-ascit-]e[- (F-]{+p+}ig[-u-]{+ást+}r{+ic+}a [-9). A-]{+é+} se[-nsibi-]{+me+}l[-id-]{+h+}a[-d-]{+nt+}e [-p-]{+à c+}a[-r-]{+usad+}a [-m-]{+p+}e[-tást-]{+l+}as[-e-] {+ú+}l[-infonod-]{+cer+}a[-l-]{+s+} [-r-]{+b+}e[-g-]{+n+}i[-o-]{+g+}na[-l é-]{+s+} [-d-]e[- 65 a 97%-], [-e -]{+d+}a {+m+}es[-p-]{+ma man+}e[-cific-]i[-d-]{+r+}a[-de-], {+po+}de [-49 a 90%. A res-]s[-onânc-]i[-a n-]{+m+}u[-c-]l[-e-]ar [-m-]a[-g-]n[-ét-]{+g+}i[-c-]{+n+}a{+,+} [-de abd-]{+p+}o[-me te-]{+ré+}m [-as-]{+é+} [-mesma-]{+con+}s[- v-]{+t+}ant[-ag-]e[-ns-] [-da-]{+e+} [-tom-]{+nã+}o[-grafia. -]
-
-[- -]
-[-Figura 9 --] [-Cânc-]{+s+}e[-r-] [-gástr-]i[-co p-]r[-ot-]r[-uso-]
-
-[-D-]{+ad+}i[-c-]a [-M-]{+n+}e[-s-]m{+ melh+}o{+ra+} com [-ex-]a[-m-]{+ ing+}es{+tão+} de {+al+}im[-ag-]e[-m abdomi-]n[-ai-]{+to+}s[-,-]{+;+}
-{+-+} [-como-]{+A+} [-ultrassonog-]{+pe+}r{+d+}a[-fia, TC-] {+d+}e [-r-]{+p+}es[-s-]o[-nância-]{+,+} [-m-]{+usu+}a[-g-]{+lme+}n[-é-]t[-ica-]{+e+}, [-o -]{+r+}es{+ul+}ta[-dia-]{+ +}m{+ais d+}e{+ i+}n{+ges+}t{+ã+}o {+c+}a[-bdom-]{+lór+}i[-n-]{+c+}a[-l-] [-f-]in[-al é -]{+su+}f[-e-]i[-to no -]{+c+}i{+e+}nt[-raop-]e[-ratóri-]{+ d+}o[-.-] [-O-]{+que+} {+de m+}e[-s-]ta[-d-]{+bol+}i{+smo +}a{+u+}ment{+ad+}o{+;+}
-{+- A+} do{+ença+} [-tór-]a[-x-]{+vançada+} pode {+apre+}se{+nta+}r [-f-]{+anor+}e{+x+}i[-to com-]{+a,+} [-r-]{+f+}adi[-o-]g[-rafi-]a [-simpl-]e[-s da-] [-reg-]{+vôm+}i[-ã-]{+t+}o{+s;+}
-{+-+} [-na-]{+O+}s [-po-]si[-ções a-]nt[-erop-]o{+ma+}s[-terior-] [-e p-]{+g+}er[-fil, e, atu-]al[---]mente[-,-] [-dá-s-]e{+stão+} [-preferên-]{+asso+}cia{+dos+} à [-TC t-]{+l+}o[-rá-]c{+al+}i[-c-]{+z+}a[-. As-]{+ção+} [-ra-]d[-i-]o[-grafias-] [-contras-]t[-adas pode-]{+u+}m[- se-]{+o+}r [-úteis -]n[-a avaliaçã-]o [-da -]e[-xten-]s[-ão d-]{+tômag+}o{+:+} tumor{+es+} p[-ara out-]r[-os -]ó[-rgã-]{+xim+}os[-,-] [-com-]{+à junçã+}o es[-ô-]{+o+}fago{+gástrica+} {+fr+}e[- d-]{+q+}u[-od-]en[-o, principal-]{+te+}mente [-q-]{+ca+}u{+s+}a[-ndo é-]{+m+} {+d+}i[-n-]{+s+}f{+ag+}i[-ltr-]a{+ (presen+}t[-ivo-]{+e+} e{+m+} [-a-]{+26%+} [-muc-]{+d+}os{+ c+}a{+sos);+} [-é-]{+já+} [-nor-]{+e+}m[-al à-] {+r+}e[-ndoscop-]{+g+}i{+ões m+}a[-.-]
-[-A-]{+is+} [-ecoen-]d[-oscop-]i{+st+}a{+is,+} po[-ss-]{+de ex+}ibi[-l-]{+r s+}i{+n+}t[-a -]o[- -]m{+as d+}e[-lh-]{+ +}o{+bst+}r{+ução+} {+dig+}est[-ad-]i{+v+}a[-mento-] [-locorregion-]al{+ta,+} [-d-]{+c+}o[- tu-]m[-or. A-] [-acurác-]{+vôm+}i[-a-]{+tos+} [-par-]a[- d-]{+l+}i[-fer-]{+m+}en[-ci-]{+t+}ar{+es;+}
-{+-+} [-o-]{+O+} e[-stad-]{+nvolv+}i[-a-]mento [-t-]{+dif+}u[-m-]{+s+}o[-ral (T1 a T4) varia de 77 a 93%-], [-de a-]co[-rd-]{+m+}o {+o+}co[-m-]{+rre+} {+n+}a {+linit+}e[-x-]{+ +}p[-er-]{+lást+}i[-ên-]c[-i-]a{+,+} [-do op-]{+l+}e[-r-]{+v+}a{+ à +}d{+iminuiçã+}o[-r.-] [-A-]{+na+} {+di+}s{+t+}ensibilidade [-para linfono-]do[-s-] [-m-]e[-ta-]st[-átic-]{+ômag+}o[-s é de 83%-], [-e-]{+causando+} a [-e-]s[-pecifi-]{+a+}ci{+e+}dade[-,-] [-d-]{+precoc+}e [-67-]{+(18+}%[-.-] [-Bióp-]{+do+}s[-ia-] [-p-]{+cas+}o[-r-]{+s);+}
-{+-+} {+S+}a[-gulha fi-]n{+gr+}a[- d-]{+m+}e{+nto+} {+ocu+}l[-inf-]{+t+}o[-n-]{+ c+}o[-d-]{+m +}o[-s-]{+u+} {+s+}e{+m+} [-ár-]{+an+}e{+mi+}a[-s-] [-susp-]{+f+}e{+rropr+}i[-t-]{+v+}a[-s-] [-aume-]n[-ta-]{+ão+} [-a-]{+é+} [-a-]{+in+}c{+om+}u[-rácia-]{+m,+} [-do-]{+mas+} [-e-]s[-t-]a[-di-]{+ngr+}a[---]mento [-l-]{+at+}i[-nfon-]{+v+}o[-dal.-] [-No-]{+é+} [-c-]{+r+}a[-s-]{+r+}o [-d-]{+(m+}e[- câ-]n[-cer gástric-]o{+s+} [-precoc-]{+d+}e[-,-] {+20%); tum+}o[-fe-]re[-ce ideia-]{+s+} m[-a-]{+u+}i[-s-]{+to+} [-p-]{+g+}r{+and+}e[-ci-]s[-a-] {+po+}d[-a-]{+em+} [-p-]{+e+}ro[-fun-]di[-dade-]{+r+} [-d-]{+par+}a [-i-]{+de+}n[-vasã-]{+tr+}o [-tum-]{+d+}o[-ra-]{+ có+}l[-,-]{+on+} t[-o-]r[--n-]an[-do-se indispen-]s[-á-]ve[-l-]{+rso com+} qua[-n-]d{+r+}o [-s-]{+d+}e [-pen-]{+ob+}s[-a em -]tr[-atamentos n-]{+uç+}ão c[-irúrg-]{+olôn+}ic[-os.-]{+a;+}
-{+-+} [-A-]{+S+}in[-d-]a{+is+} [-é pou-]{+clíni+}co{+s que se+} d[-i-]{+e+}s[-po-]{+e+}n[-í-]v[-e-]{+o+}l[- -]{+v+}em [-nosso meio.-]
-[-A-]t[-u-]a[-l-]{+rdia+}mente[-,-] [-ve-]{+co+}m[--se-] [-uti-]{+a evo+}l[-iz-]{+ução d+}a[-n-]{+ +}do{+ença+}, ass[-im c-]o[-m-]{+ciad+}o{+s+} [-no-]{+a+} [-est-]a[-di-]{+v+}a[-me-]n[-t-]{+ç+}o [-de câncer-]{+ou+} d{+o+}e[- esôf-]{+nç+}a[-go,-] m[-é-]{+e+}t[-odo-]{+a+}s[- -]{+táti+}c[-omo-]{+a,+} {+sã+}o [-PET -]{+mas+}s[-c-]a[-n e-] a[- PET-CT-]{+bdominal+} pa[-ra -]l{+páv+}e[-sõe-]{+l, linfonodo+}s su[-s-]p[-e-]{+raclav+}i[-t-]{+cul+}a[-s no -]{+r+}es[-ta-]{+ (+}d[-iam-]e[-nto-] {+Vir+}c{+h+}o[-nvenci-]{+w) +}o[-nal-]{+u+} [-(TC/USG).-]
-[-Não há ma-]{+pe+}r{+iumbili+}ca{+is (+}d[-or-]{+e+} [-tumo-]{+I+}r[-al-]{+mã+} [-específ-]{+Mar+}i[-co-]{+a+} [-c-]{+J+}o[-m-]{+sé),+} [-be-]{+li+}n[-e-]f[-ício c-]o[-mpr-]{+n+}o[-va-]do [-n-]a[- util-]{+x+}i[-zação c-]l[-ínica p-]ar[-a-] [-a-]{+es+}que[-les c-]{+rd+}o[-m-] [-cânc-]{+(d+}e{+ I+}r{+ish),+} [-g-]{+met+}ást{+ases pe+}ri[-c-]{+t+}o[-. E-]n[--tr-]e[- o-]{+ai+}s [-m-]{+p+}a{+lpáve+}is [-uti-]{+pe+}l[-izad-]o[-s,-] [-d-]{+toque r+}e[-s-]ta[-c-]{+l (“pr+}a[-m-s-]{+t+}e[-:-]{+leira+} [-CA-19-9:-]{+de+} [-a-]{+Bl+}ume[-ntado-]{+r”)+} [-n-]o{+u mas+}s{+a+} [-câ-]{+ovaria+}n[-ce-]{+a (tumo+}r[-es-] de [-pânc-]{+K+}r{+uk+}e[-as,-]{+nberg);+}
-{+-+} [-c-]{+C+}o[-l-]{+nf+}or[-r-]{+m+}e[-tal-] [-e-]{+a+} {+do+}e[-stôm-]{+nç+}a[-go;-]
-[-CA-72-4:-] pr{+ogrid+}e[-sente-]{+,+} {+pod+}e[-m-] [-c-]{+hav+}er[-ca-] [-d-]{+h+}e[- 50% dos -]pa[-cien-]t[-es c-]om{+egalia+} {+se+}c[-â-]{+u+}n[-cer g-]{+d+}á[-st-]ri[-co,-]{+a+} [-princip-]a[-l-]{+ +}me[-n-]t[-e nos e-]{+á+}sta[-dio-]s[- III -]e{+,+} [-IV;-]
-[-CEA: aumen-]{+ic+}t{+eríci+}a[-do-]{+,+} {+ascit+}e[-m-] [-10-]{+e+} {+caquexi+}a{+;+}
-{+-+} [-30%-]{+Os+} [-d-]{+síti+}os [-p-]{+m+}a[-c-]i[-ente-]s com[- câ-]{+u+}n[-c-]{+s d+}e[-r-] [-g-]{+met+}ást[-rico e -]as{+es +}s{+ã+}o[-ci-]{+ fíg+}ado[- a-]{+,+} p{+eritôn+}io[-r-]{+,+} [-pr-]{+linf+}o[-g-]n[-ó-]{+odo+}s[-tic-]{+ nã+}o[-.-]
-
-[-A-] [-lapa-]r{+egi+}o{+nai+}s[-c-]{+ +}o[-pia-]{+u+} di{+st+}a[-g-]n[-ós-]t[-ica pode ajudar no -]es{+. Sí+}t[-ad-]i[-a-]{+os +}men[-t-]o{+s+} [-abd-]{+c+}om[-i-]{+u+}n[-al,-]{+s+} [-p-]{+são ová+}ri[-ncipalmente na-]{+o,+} s[-uspe-]i{+s+}t[-a d-]e[- i-]m[-pl-]a[-ntes-] [-p-]{+n+}er[-it-]{+v+}o[-neai-]s[- nã-]o c[-o-]{+e+}n[-fi-]{+t+}r[-m-]a[-d-]{+l, +}os{+so,+} p[-e-]{+u+}l[-a to-]m{+ã+}o[-grafia-] ou par[-acen-]tes{+ mol+}e{+s;+}
-{+-+} {+Fenôme+}nos [-c-]{+par+}a{+neoplá+}s{+ic+}os [-de -]{+r+}a{+ro+}s[-c-]{+ que +}i[-t-]{+nclu+}e[-.-]{+m+} [-Po-]de[- avalia-]r[- també-]m[- -]a{+tite+} [-l-]{+seb+}o[-cal-]{+rre+}i[-z-]{+c+}a[-ção-] d[-o t-]{+if+}u[-mor, -]{+s+}a {+(s+}in[-v-]a[-são-]{+l+} d[-a-]{+e+} {+Le+}ser{+-Trélat), acant+}os[-a-]{+e+} {+ni+}g[-ást-]rica[-,-]{+ns+} {+(plac+}as {+pig+}me[-tás-]{+n+}ta[-se-]{+da+}s [-h-]e[-páti-]{+s+}c{+ur+}as [-qu-]e a[-f-]{+ve+}l[-or-]{+ud+}a[-m-]{+das+} na[- -]s[-u-]{+ +}p[-e-]r[-fíci-]e[- (70 -]{+g+}a{+s+} [-90%-]{+cutâneas+}), [-o-]{+anemia+} [-co-]{+he+}m[-pr-]o[-me-]{+lí+}ti[-mento-]{+ca+} [-l-]{+m+}i[-nf-]{+cr+}o{+a+}n{+gi+}o[-d-]{+pátic+}a[-l-]{+,+} {+n+}e[- d-]{+fr+}o[-s e-]p[-í-ploons, -]a[- f-]{+t+}i[-x-]a[-ção do-] [-tu-]m[-o-]{+emb+}r[- -]a{+nosa,+} est[-rutur-]a{+do+}s [-adjac-]{+hip+}e[-nt-]{+rcoaguláv+}e{+i+}s [-e, c-]{+(síndr+}om[-o já-]{+e+} de[-sc-]{+ T+}r[-it-]o{+usseau)+}, [-a-]{+e+} [-d-]{+pol+}i[-ss-]{+art+}e[-m-]{+r+}i{+te +}n{+odos+}a[-çã-]{+ (n+}o [-p-]{+cânc+}er[-i-]{+ gás+}t{+ric+}o[-n-]{+ pr+}e[-al-]{+coce).+}
-{++}
- [-(-]{++}
-Figura 1[-0).-]{+2+} [-Geralmente,-]{+-+} {+L+}in{+fono+}d{+o umbil+}ica[--s-]{+l d+}e [-lapa-]{+I+}r[-oscopia-]{+mã+} [-p-]{+M+}ar[-a estad-]ia[-ment-]{+ J+}o{+sé+}
-{++}
- [-pa-]{++}
-{+Figu+}ra [-q-]{+13 - Nód+}u[-a-]l[-qu-]{+o d+}e[-r-] [-pac-]{+V+}i[-ente-]{+rchow+}
-{++}
- [-q-]{++}
-{+Fig+}u[-e pa-]r[-eç-]a [-ter-]{+14+} {+- Nódu+}l[-esã-]o [-acima -]de [-T1 à-]{+Irish+}
-{++}
-{+	D+} [-USG-]{+-+} [-endo-]{+Cla+}s[-cóp-]{+sif+}ica[-, -]{+çõe+}s{++}
-{+	Exist+}em [-confi-]{+vá+}r[-mação h-]i{+a+}s[-to-]{+ c+}l[-óg-]{+assif+}ica[- de -]{+çõ+}es[-tadio IV, e-] [-qu-]{+d+}e {+câ+}n[-ão requ-]{+c+}e[-i-]r[-a-] g[-a-]{+á+}str[-e-]{+i+}c[-t-]o[-mia-]{+,+} [-paliat-]{+d+}iv{+idid+}a{+s+} [-p-]e[-los-]{+m+} [-si-]{+e+}n[-t-]{+d+}o[-ma-]s[-; t-]{+cópic+}a[-mbém-]{+s+} [-r-]e[-a-]{+ histo+}l{+óg+}i[-z-]{+c+}a[-r-]{+s.+} [-n-]{++}
-a[-que-]{+)	C+}l[-e-]{+a+}s[- con-]si[-der-]{+fic+}a[-d-]{+çã+}o[-s-] [-par-]{+m+}a[- te-]{+c+}r[-a-]{+oscó+}pi{+c+}a [-n-]e{+nd+}o{+scópic+}a{+ +}d[-juvant-]e[-.-] [-Figu-]{+Bor+}r{+m+}a{+nn,+} 1[-0-]{+926+} - [-Laparos-]c[-opia-]{+âncer+} [-mo-]{+gá+}str{+ico av+}an{+ça+}do[- -]{++}
-{+	Clas+}si[-na-]{+f+}i{+ca os tumore+}s de [-c-]a{+co+}r{+do +}c[-in-]om[-at-]{+ +}o[-se-] {+as+}pe[-ri-]{+c+}to[-neal:-] [-n-]e{+ndo+}s[-se -]c[-aso, -]{+ópic+}o [-trat-]{+d+}a[-mento-] [-curativ-]{+lesã+}o{+.+} [-p-]{+P+}ode ser {+emp+}re[-aliz-]{+g+}ad[-o-]
-
-[-O-]{+a+} e[-stadia-]m[-en-]{+ +}to{+dos+} {+o+}s[-eg-]{+ t+}u{+mor+}e{+s do+} {+tr+}a{+to+} [-p-]{+g+}a[-d-]{+st+}r[-o-]{+i+}n{+test+}i[-z-]{+n+}a[-ção-]{+l,+} [-d-]{+m+}a{+s+} [-UICC-]{+sua+} [-(Un-]{+apl+}i{+caçã+}o[-n for-] [-Inter-]n[-ati-]o[-nal-] [-Ca-]{+câ+}ncer [-Con-]{+gás+}tr[-ol), segu-]i[-nd-]{+c+}o [-o-]{+é a mai+}s c[-ritéri-]o[-s-]{+mum+} [-TNM-]{+na+} [-(T-]{+prátic+}a[-be-]{+ c+}l{+ínic+}a [-7)-]{+diária+}.[-O-] [-e-]{+Es+}s[-t-]a[-d-]{+ class+}i{+fic+}a[-ment-]{+çã+}o [-T-]{+é+} [-basei-]a[--s-]{+ d+}e [-n-]{+Borrm+}a{+nn,+} [-prof-]{+q+}u[-n-]{+e +}di[-da-]{+vi+}de [-da-]{+o+} {+carc+}in[-vasã-]o{+ma+} {+gás+}t[-umo-]r{+ico +}a[-l,-]{+vançado+} e{+m+} [-o-]{+4+} [-N-]{+tipos+}, {+segu+}n{+d+}o [-númer-]o [-d-]{+asp+}e[- linfon-]{+ct+}o[-d-]{+ macr+}os{+cópico+}.[-L-]{++}
-{++}
-{+Tabela 6 - Class+}i[-n-]f{+icaçã+}o[-nodos-] {+ma+}c{+r+}o[-n-]s{+cóp+}i{+ca +}de{+ Bo+}r{+rm+}a[-d-]{+nn+}
-{+Tip+}os[- -]{+	Ca+}r{+act+}e[-g-]{+ríst+}i[-on-]{+c+}a[-i-]s[- para l-]{+	L+}esões[- -]{++}
-{+Borrm+}a{+nn I	Lesã+}o [-l-]{+p+}o[-ng-]{+lip+}o[- da gran-]{+i+}de [-c-]{+o+}u[-r-]{+ +}v[-a-]{+ege+}t[-ur-]a{+nte,+} [-são:-]{+bem+} {+de+}li[-nfonodos -]{+mita+}da{+	+} [-g-]{+ +}
-{+Bor+}r{+m+}an[-d-]{+n II	L+}e{+são+} [-c-]u{+lce+}r[-v-]a[-tur-]{+d+}a, [-grand-]{+b+}e[- o-]m{+ d+}e[-n-]{+limi+}t[-o-]{+ada+}, [-gastro-]d[-u-]{+e b+}o{+r+}d[-en-]a[-i-]s[-,-] [-gastro-]e[-pip-]l[-oico-]{+evada+}s[-,-]{+	+} [-p-]{+ +}
-{+Bo+}r[-é-piló-]r[-ico-]{+mann III	Le+}s{+ão+} {+ulcerad+}a{+, i+}n{+fil+}tra{+t+}i[-s-]{+va+} e{+m+} pa[-nc-]r[-ea-]t{+e +}o[-d-]u[-od-]{+ +}e[-n-]{+m tod+}a[-i-]s[-.-] [-Par-]a[- lesõe-]s {+su+}a[-o-]{+s+} [-long-]{+b+}o[- -]{+r+}da{+s	+} [-pequena-] [-cu-]{++}
-{+Bo+}r[-vatu-]r{+m+}a[-,-]{+nn+} {+IV	Le+}são[-:-] [-l-]{+d+}i[-n-]f[-onodo-]{+u+}s[- d-]a[- pequ-]{+m+}en[-a-]{+te+} [-cu-]{+infilt+}r[-v-]at[-ur-]{+iv+}a, [-ome-]n[-t-]{+ã+}o [-m-]{+s+}e{+ +}no[-r, gás-]t[-rico esquer-]{+an+}do[-,-] [-card-]{+l+}i[-oesofág-]{+m+}i[-co,-]{+te+} [-h-]e[-pá-]{+n+}t[-ico-]{+re+} [-c-]o[-m-]{+ t+}um[-, celía-c-]o[-s-]{+r+} e [-hep-]a[-tod-]{+ m+}u{+c+}o[-de-]{+sa +}n{+orm+}a[-is.-]{+l	+} [-Lesões-] [-de-]{++}
-{++}
- {+ +}
-{+Figur+}a[-mbos-] [-os-]{+15 -+} {+C+}la[-do-]s[- -]s[-ão: l-]i[-n-]f{+icaçã+}o[-nodos-] d[-as-]{+e+} [-á-]{+Bo+}r[-e-]{+rmann+}
-{++}
-{+b) Cl+}as{+sificação+} [-e-]{+hi+}s[-p-]{+to+}l[-ên-]{+óg+}ica {+d+}e [-p-]{+L+}a[-nc-]{+u+}re[-át-]{+n, 1965+}
-{+	Pela classif+}ica[-.-]{+ção+} [-O-]{+de+} {+Laur+}en[-v-]{+, +}o[-lvimen-]{+s +}t{+um+}o{+res+} [-d-]{+p+}o{+dem +}s{+er+} [-l-]{+divid+}i[-nfono-]dos [-d-]e{+m+} [-outros-]{+2+} [-gr-]{+s+}u{+bti+}pos{+:+} int[-ra-abdom-]{+est+}inais [-(h-]e[-pato-]{+ +}d{+if+}u{+s+}o[-d-]{+s.+}
-{++}
-{+Tipo int+}e{+sti+}nal[-, r-]{++}
-{+	T+}e[-tro-]{+m +}pa[-nc-]{+d+}r[-eátic-]{+ã+}o[-,-] [-port-]{+gl+}a{+ndu+}l[-,-]{+ar+} [-mes-]e[-n-]{+ carac+}t[-é-]{+e+}ri[-co -]{+za-s+}e p{+el+}a{+ p+}r{+esenç+}a[--aórtico)-] [-é-]{+de+} c{+élu+}las[---]{+ neoplá+}si[-fi-]ca[-do-]{+s+} co{+esas for+}m{+and+}o [-m-]e{+s+}t[-á-]{+rutura+}s{+ +}t{+ubul+}a{+re+}s{+ +}e {+mass+}a dis[-tân-]c[-i-]{+ret+}a.[-D-]{+ A partir d+}o {+e+}p{+itéli+}o{+ +}n[-t-]o{+rmal,+} [-d-]{+ocorr+}e [-v-]i{+n+}sta[- c-]{+b+}i[-rúr-]{+lidade +}g{+ên+}ic[-o-]{+a+}, le[-sões -]{+vand+}o[-rig-]{+ +}in{+ici+}a{+lme+}n[-do-s-]{+t+}e [-n-]a{+o+} [-ju-]{+aparecime+}n[-çã-]{+t+}o {+de m+}e{+tapla+}s[-of-]{+i+}a[-gogá-]{+ inte+}st[-r-]i[-c-]{+n+}a{+l+} ([-JEG), o-]{+s+}u{+bstituição+} [-na cár-]d{+e ep+}i[-a-]{+télio+} gástric[-a-]{+o+} [-até-]{+por+} [-5c-]{+ele+}m{+entos+} [-da JEG,-]{+histológicos+} que [-s-]{+reproduz+}e{+m o+} e[-s-]{+pi+}t[-en-]{+élio duo+}de[-m -]na{+l)+} [-JEG-]{+e,+} {+p+}o[-u n-]{+steri+}o{+rmente,+} {+d+}e{+ di+}s[-ôf-]{+plasi+}a[-go-] ([-Siewer-]t{+axa+} [-III),-]{+de+} {+progres+}são {+d+}e{+ di+}s[-t-]{+pl+}a[-d-]{+s+}ia{+ +}d{+e baixo grau par+}a[-s-] c{+arcin+}om[-o-]{+a+} [-câ-]{+i+}n[-cer e-]{+va+}s[-ofág-]i[-c-]{+v+}o[-.-]
-
-[-Tab-]{+ d+}e[-l-]{+ 0 +}a [-7-]{+23%+} [---]{+e+} [-Cl-]{+n+}a{+ di+}s{+pla+}si[-fic-]a[-çã-]{+ de alt+}o [-TNM-]{+grau+} [-(UICC,-]{+de+} [-201-]{+6+}0{+ a 85%+})[-Tx	Nã-]{+ +}o{+u+} a[-valia-]d[-o-]
-[-T0	Ausê-]{+e+}n[-ci-]{+om+}a{+,+} [-d-]{+cânc+}e[- tumo-]r pr[-imári-]{+ec+}o[-Tis	C-]{+ce, c+}âncer [-i-]{+ava+}n[- situ (restrit-]{+çad+}o [-à-]{+e+} m[-uco-]{+etá+}s{+t+}a{+ses+}, se{+quencial+}m{+ente.+} {++}
-{++}
-{+D+}i[-nv-]{+c+}a[-sã-]{++}
-{+N+}o[- d-]{+rm+}a[- -]l[-â-]m[-i-]{+e+}n[-a-]{+te,+} [-p-]{+o cânce+}r[-óp-]{+ gást+}ri[-a)-]
-[-T1	Lâmina-]{+co+} [-própr-]{+t+}i[-a,-]{+po+} [-mu-]{+inte+}s[-cul-]{+tin+}a[-r-]{+l+} [-d-]a[- -]{+co+}m{+ete indivíd+}u[-c-]os[-a-] {+id+}o[-u -]s[-u-]{+os. É +}b{+e+}m{+ o+}u[-c-]{+ m+}o[-s-]{+der+}a[- -]
-[-T1-]{+d+}a[-	Lâ-]m[-i-]{+e+}n[-a-]{+te+} [-próp-]{+dife+}r{+enc+}ia[- -]{+d+}o[-u-]{+,+} {+te+}m[-uscular-] [-da mucosa-]
-[-T1b	Sub-]m[-ucosa-]
-[-T2	Muscu-]{+e+}l[-a-]{+ho+}r pr{+ogn+}ó[-pr-]{+st+}i[-a -]
-[-T3	Te-]c[-id-]o [-c-]{+d+}o[-n-]{+ qu+}e[-c-]{+ o +}ti[-v-]{+p+}o [-s-]{+dif+}u[-bsero-]so[-,-] [-s-]e[-m-] {+local+}i[-nv-]{+z+}a{+-+}s[-ão d-]e [-víscer-]{+m+}a{+i+}s [-p-]{+comum+}e[-ri-]{+n+}t{+e n+}o{+ a+}n{+tro +}e{+ n+}a[-is-] [-o-]{+peq+}u[- -]e[-str-]{+na c+}u{+rva+}tura[-s-]{+.+}
-{++}
-{+Tipo+} [-s-]{+dif+}u[-bjacente-]s[-T4-]{+o+}
-	In[-vasão d-]{+ici+}a[- -]{+-+}se[-rosa-] [-(t-]e[-cido-]{+m um+} [-p-]e[-r-]{+p+}it{+éli+}o{+ +}n[-e-]{+orm+}al[-)-] {+(nã+}o[-u-] [-de-]{+há+} [-estrutu-]{+p+}r[-as adja-]{+o+}ce[-nte-]s[- -]
-[-T4a	Inva-]s[-ã-]o d[-a-]{+e+} [-s-]{+m+}e[-ros-]{+t+}a[-T4b	Inv-]{+pl+}as[-ão d-]{+i+}a[-s-]{+).+} [-est-]{+Oco+}r[-utu-]r[-as-]{+e+} {+in+}s[-u-]{+ta+}b[-j-]{+ilid+}a[-c-]{+d+}e{+ gê+}n[-t-]{+ica, qu+}e[-s-]
-[-Nx	Nã-]{+ p+}o{+de+} [-a-]{+le+}va[-li-]{+r +}a[-d-]o[-N0	N-]{+ des+}en[-hum -]{+vo+}l{+v+}i{+me+}n[-fon-]{+t+}o{+ +}d[-o-]{+e+} c[-om-]{+âncer +}pr[-om-]e[-tid-]{+c+}o[-N1	D-]{+c+}e{+,+} [-1-]{+câncer+} a[- 2 linfo-]{+va+}n[-o-]{+ça+}do[-s-] [-compro-]{+e +}met[-ido-]{+ásta+}s[-N2	D-]e{+s.+} [-3 a 6-]{+As+} {+cé+}l{+ulas cancerosas +}inf[-o-]{+iltram-se difusame+}n[-o-]{+te na parede +}do[-s-] [-c-]{+estômag+}o{+. É um tu+}m{+or +}pro[-meti-]d{+ut+}o[-s-]
-[-N3	Mais-]{+r+} de [-7 l-]{+muc+}in[-fon-]{+a, c+}o[-d-]{+mp+}os{+to+} [-c-]{+p+}o[-m-]{+r células se+}p{+a+}r{+adas +}o[-m-]{+u p+}e[-tid-]{+quen+}os [-N3-]a[-	D-]{+grupam+}e{+ntos+} [-7-]{+de+} {+célul+}a{+s+} [-15-]{+com+} [-linf-]{+secreçã+}o{+ muci+}no{+sa, +}d[-o-]{+i+}s[-N3-]{+tri+}b[-	M-]{+uíd+}a{+ por todo o c+}i{+topla+}s{+ma+} d[-o-]{+as+} [-q-]{+cél+}u[-e-]{+las+} [-16-]{+ou+} [-l-]{+d+}i{+spersa +}n[-fonod-]o{+ e+}s[-Mx	Nã-]{+tr+}o[- av-]{+m+}a[-li-]{+. Qu+}a{+n+}do[-M0	A-]{+ a m+}u[-sên-]ci{+na intracelul+}a{+r é+} {+abun+}d{+ant+}e{+,+} {+e+}m{+purra o núcl+}e[-tást-]{+o l+}a[-s-]{+t+}e[-M1	M-]{+ralm+}e{+n+}t[-á-]{+e, re+}s{+ul+}ta[-se-]{+ndo+} {+n+}a{+s+} {+chama+}d[-i-]{+a+}s[-tân-]{+ +}c[-i-]{+élul+}a[-T-]{+s “em +}a[-b-]{+n+}el[-a 8-] [---]{+de+} [-E-]s{+ine+}t{+e”. +}
-{++}
-{+Dic+}a{++}
-{+O câncer gástrico tipo +}di{+fuso +}a{+co+}me[-n-]t{+e indivídu+}o{+s+} [-TNM-]{+mais+} [-(UICC-]{+jovens+}, [-2010)-]
-[-Est-]{+é indiferenci+}ad{+o e tem p+}io[-s	T	N	M-]
-[-0	In-]{+r+} {+prognó+}s[-i-]t{+ico do q+}u[-	0	0-]
-[-IA	1	0	0-]
-[-IB	1	1	0-]
-[-	-]{+e o tipo intestinal.+}
-{++}
-{+Pergunta+}
-2[-	0	-]0[-II	-]1[-	2	0-]
-[-	-]{+5 - UFSC+}
-2[-	1	0-]
-[-	3	0	0-]
-[-III-]{+. +}A[-	2	2	0-]
-[-	3	1	0-]
-[-	4	0	0-]
-[-IIIB	3	2	0-]
-[-IV	4	1,-]{+ssinale+} [-2-]{+a alternativa+} {+corr+}e{+ta+} [-3	0-]
-[-	1,-]{+com+} [-2-]{+relação ao+} {+ad+}e{+nocarcinoma+} [-3	3	0-]
-[-	Q-]{+gástrico do tipo difuso da classificação de La+}u{+ren: +}
-{+a) está m+}a{+is re+}l{+acionado à atrofia gástrica +}
-{+b) é mais fre+}que{+nte em g+}r[-	Q-]u{+po etário mais jovem em relação ao tipo intestin+}al{++}
-{+c) acomete com maior fre+}qu{+ência indivíduos do sexo masculino+}
-{+d) normalmente é bem dif+}er[-	1-]
-
-[-7.-]{+enciado, com formação de glândulas+}
-{+e) apresenta associação direta ao grupo sanguíneo O+}
-{+Resposta no final do capítulo+}
-{++}
-{+c) Classificação histológica da Sociedade Japonesa de Pesquisa do Câncer Gástrico+}
-{+Tipo comum+}
-{+		- Adenocarcinoma papilar; +}
-{+		- Adenocarcinoma tubular (bem diferenciado/moderadamente diferenciado/pouco diferenciado); +}
-{+		- Adenocarcinoma mucinoso; +}
-{+		- Carcinoma de células “em anel de sinete”.+}
-{++}
-{+Tipo específico+}
-{+		- Carcinoma adenoescamoso; +}
-{+		- Carcinoma de células escamosas; +}
-{+		- Tumor carcinoide; +}
-{+		- Miscelânea.+}
-{++}
-{+d) Câncer gástrico precoce (classificação histológica)+}
-{++}
-{+Dica +}
-{+Define-se como câncer gástrico precoce aquele que não ultrapassa a submucosa, não importando o acometimento linfonodal.+}
-{++}
-{+	A importância do diagnóstico de tumores nessa fase (por ecoendoscopia) está na possibilidade de cura (cerca de 95%) com procedimentos minimamente invasivos por meio de abordagem endoscópica.+}
-{+	Classificação de Paris (2002) para neoplasia gástrica precoce, conforme aspecto macroscópico (Figuras 16 e 17):+}
-{+		Lesões tipo 0-I são polipoides, subcategorizadas em:+}
-{+		- Tipo 0-Ip: pediculada;+}
-{+		- Tipo 0-Is: séssil.+}
-{+		Lesões tipo 0-II são não polipoides subcategorizadas em:+}
-{+		- Tipo 0-IIa: levemente elevada;+}
-{+		- Tipo 0-IIb: plana;+}
-{+		- Tipo 0-IIc: levemente deprimida;+}
-{+		- Tipo 0-III são escavadas.+}
-{++}
-{++}
-{+  +}
-{+Figura 16 - Classificação de Paris para neoplasia precoce (superficial do trato gastrintestinal)+}
-{+Fonte: UpToDate.+}
-{++}
-{+  +}
-{+Figura 17 - Aspecto endoscópico de lesão neoplásica precoce: (A) lesão tipo 0-I; (B) lesão tipo 0-IIa; (C) lesão tipo 0-IIb; (D) lesão tipo 0-IIc; (E) lesão tipo 0-IIa + 0-IIc e (F) lesão tipo 0-IIc + 0-III +}
-{+Fonte: Gastrocentro.+}
-{++}
-{+Importante+}
-{+Os fatores associados a metástase linfonodal incluem tamanho do tumor, ulceração, tipo histológico difuso (indiferenciado) ou misto (intestinal/indiferenciado), profundidade da invasão e invasão submucosa ou linfovascular.+}
-{++}
-{+E - Diagnóstico+}
-{++}
-{+Diagnóstico+}
-{+A endoscopia digestiva alta é o método diagnóstico de escolha (Figura 18) do câncer gástrico. Além de fazer a análise, já possibilita o início do estadiamento, indicando se o tumor é precoce ou avançado, seu tamanho e sua localização.+}
-{++}
-{+	Uma única biópsia da lesão possui sensibilidade diagnóstica de 70%, enquanto 7 biópsias da margem e base da lesão aumentam a sensibilidade para mais de 98%.+}
-{+	O diagnóstico de câncer gástrico difuso, chamado linites plásticas, pode ser endoscopicamente difícil, porque esse tumor tende a infiltrar a submucosa e a muscular própria, com biópsias superficiais falsas negativas. Técnicas de biópsia sobre biópsia e macrobiópsia devem ser realizadas nesse caso. A radiologia convencional contrastada praticamente não é mais utilizada nos dias atuais como método diagnóstico (falso negativo em até 50% dos casos). No entanto, em caso de linite plástica, o raio x baritado pode ser superior à endoscopia.+}
-{++}
-{+  +}
-{+Figura 18 - Endoscopia digestiva alta evidenciando lesão vegetante e ulcerada, sugestiva de câncer gástrico+}
-{+Fonte: www.medscape.com.+}
-{++}
-{+	F - Estadiamento+}
-{+	O estadiamento dos pacientes com câncer gástrico tem início com a história clínica em busca de sinais e sintomas sugestivos de doença avançada ou metastática, como perda de peso, aumento do volume abdominal, icterícia, dor abdominal, vômitos, disfagia, hemorragia digestiva etc. Feitos anamnese e exame físico cuidadoso, devem-se solicitar exames complementares, de acordo com a disponibilidade de cada instituição, a fim de prosseguir com o estadiamento, que só estará completo depois das fases intraoperatória e anatomopatológica.+}
-{+	A ultrassonografia (USG) de abdome pode ser um bom método para detectar metástases hepáticas, mas é ruim para avaliar invasão locorregional do tumor gástrico. Em casos de lesões pequenas à endoscopia, a USG pode ser um bom método para o estadiamento abdominal, juntamente com a endoscopia.+}
-{++}
-{+Importante+}
-{+Os critérios de irressecabilidade aceitos mundialmente para o câncer gástrico são metástases a distância e invasão de estruturas vasculares maiores, como aorta, artéria hepática ou artéria do eixo celíaco/esplênica proximal.+}
-{++}
-{+	A Tomografia Computadorizada (TC) de abdome é um método muito eficaz, tanto para tumores menores como para avançados. Possibilita a avaliação de metástases hepáticas, da presença de linfonodos aumentados e de invasão de estruturas adjacentes, fazendo estadiamento locorregional. Metástases peritoneais e hematogênicas <5mm são frequentemente perdidas pela TC; em até 20 a 30% com TC negativa, doença intraperitoneal é encontrada na exploração cirúrgica. A profundidade da invasão tumoral (T), principalmente lesões pequenas, também pode não ser corretamente avaliada pela TC (acurácia de 50 a 70%, e metástases linfonodais regionais <0,8cm). O tumor pode apresentar-se como espessamento da parede gástrica, e a TC, sugerir disseminação peritoneal quando mostra irregularidade, que pode vir acompanhada de ascite (Figura 19). A sensibilidade para metástase linfonodal regional é de 65 a 97%, e a especificidade, de 49 a 90%. A ressonância nuclear magnética de abdome tem as mesmas vantagens da tomografia. +}
-{++}
-{+  +}
-{+Figura 19 - Câncer gástrico protruso+}
-{++}
-{+Dica +}
-{+Mesmo com exames de imagem abdominais, como ultrassonografia, TC e ressonância magnética, o estadiamento abdominal final é feito no intraoperatório.+}
-{++}
-{+	O estadiamento do tórax pode ser feito com radiografia simples da região nas posições anteroposterior e perfil, e, atualmente, dá-se preferência à TC torácica. As radiografias contrastadas podem ser úteis na avaliação da extensão do tumor para outros órgãos, como esôfago e duodeno, principalmente quando é infiltrativo e a mucosa é normal à endoscopia.+}
-{+	A ecoendoscopia possibilita o melhor estadiamento locorregional do tumor. A acurácia para diferenciar o estadiamento tumoral (T1 a T4) varia de 77 a 93%, de acordo com a experiência do operador. A sensibilidade para linfonodos metastáticos é de 83%, e a especificidade, de 67%. Biópsia por agulha fina de linfonodos e áreas suspeitas aumenta a acurácia do estadiamento linfonodal. No caso de câncer gástrico precoce, oferece ideia mais precisa da profundidade da invasão tumoral, tornando-se indispensável quando se pensa em tratamentos não cirúrgicos. Ainda é pouco disponível em nosso meio.+}
-{+	Atualmente, vêm-se utilizando, assim como no estadiamento de câncer de esôfago, métodos como o PET scan e a PET-CT para lesões suspeitas no estadiamento convencional (TC/USG).+}
-{+	Não há marcador tumoral específico com benefício comprovado na utilização clínica para aqueles com câncer gástrico. Entre os mais utilizados, destacam-se: +}
-{+CA-19-9: aumentado nos cânceres de pâncreas, colorretal e estômago;+}
-{+CA-72-4: presente em cerca de 50% dos pacientes com câncer gástrico, principalmente nos estadios III e IV;+}
-{+CEA: aumentado em 10 a 30% dos pacientes com câncer gástrico e associado a pior prognóstico.+}
-{+	A laparoscopia diagnóstica pode ajudar no estadiamento abdominal, principalmente na suspeita de implantes peritoneais não confirmados pela tomografia ou paracentese nos casos de ascite. Pode avaliar também a localização do tumor, a invasão da serosa gástrica, as metástases hepáticas que afloram na superfície (70 a 90%), o comprometimento linfonodal e dos epíploons, a fixação do tumor a estruturas adjacentes e, como já descrito, a disseminação peritoneal (Figura 20). Geralmente, indica-se laparoscopia para estadiamento para qualquer paciente que pareça ter lesão acima de T1 à USG endoscópica, sem confirmação histológica de estadio IV, e que não requeira gastrectomia paliativa pelos sintomas; também realizar naqueles considerados para terapia neoadjuvante.+}
-{++}
-{+  +}
-{+Figura 20 - Laparoscopia mostrando sinais de carcinomatose peritoneal: nesse caso, o tratamento curativo não pode ser realizado+}
-{++}
-{+	O estadiamento segue a padronização da UICC (Union for International Cancer Control), seguindo os critérios TNM (Tabela 7).+}
-{+	O estadiamento T baseia-se na profundidade da invasão tumoral, e o N, no número de linfonodos.+}
-{+	Linfonodos considerados regionais para lesões ao longo da grande curvatura são: linfonodos da grande curvatura, grande omento, gastroduodenais, gastroepiploicos, pré-pilóricos antrais e pancreatoduodenais. Para lesões ao longo da pequena curvatura, são: linfonodos da pequena curvatura, omento menor, gástrico esquerdo, cardioesofágico, hepático comum, celíacos e hepatoduodenais. Lesões de ambos os lados são: linfonodos das áreas esplênica e pancreática. O envolvimento dos linfonodos de outros grupos intra-abdominais (hepatoduodenal, retropancreático, portal, mesentérico e para-aórtico) é classificado como metástase a distância.+}
-{+	Do ponto de vista cirúrgico, lesões originando-se na junção esofagogástrica (JEG), ou na cárdia gástrica até 5cm da JEG, que se estendem na JEG ou no esôfago (Siewert III), são estadiadas como câncer esofágico.+}
-{++}
-{+Tabela 7 - Classificação TNM (UICC, 2010)+}
-{+Tx	Não avaliado+}
-{+T0	Ausência de tumor primário+}
-{+Tis	Câncer in situ (restrito à mucosa, sem invasão da lâmina própria)+}
-{+T1	Lâmina própria, muscular da mucosa ou submucosa +}
-{+T1a	Lâmina própria ou muscular da mucosa+}
-{+T1b	Submucosa+}
-{+T2	Muscular própria +}
-{+T3	Tecido conectivo subseroso, sem invasão de vísceras peritoneais ou estruturas subjacentes+}
-{+T4	Invasão da serosa (tecido peritoneal) ou de estruturas adjacentes +}
-{+T4a	Invasão da serosa+}
-{+T4b	Invasão das estruturas subjacentes+}
-{+Nx	Não avaliado+}
-{+N0	Nenhum linfonodo comprometido+}
-{+N1	De 1 a 2 linfonodos comprometidos+}
-{+N2	De 3 a 6 linfonodos comprometidos+}
-{+N3	Mais de 7 linfonodos comprometidos +}
-{+N3a	De 7 a 15 linfonodos+}
-{+N3b	Mais do que 16 linfonodos+}
-{+Mx	Não avaliado+}
-{+M0	Ausência de metástase+}
-{+M1	Metástase a distância+}
-{++}
-{+Tabela 8 - Estadiamento TNM (UICC, 2010)+}
-{+Estadios	T	N	M+}
-{+0	In situ	0	0+}
-{+IA	1	0	0+}
-{+IB	1	1	0+}
-{+	2	0	0+}
-{+II	1	2	0+}
-{+	2	1	0+}
-{+	3	0	0+}
-{+IIIA	2	2	0+}
-{+	3	1	0+}
-{+	4	0	0+}
-{+IIIB	3	2	0+}
-{+IV	4	1, 2 e 3	0+}
-{+	1, 2 e 3	3	0+}
-{+	Qualquer	Qualquer	1+}
-{++}
-{+G - Tratamento+}
-{+	A cirurgia-padrão com intuito curativo é a gastrectomia com linfadenectomia D2, isto é, linfadenectomia estendida determinada sempre pela localização do tumor. Portanto, uma linfadenectomia D2 de um tumor de fundo gástrico não retira os mesmos linfonodos de uma linfadenectomia D2 de um tumor de antro.+}
-{++}
-{+ +}
-{+Figura 21 - Bases linfonodais perigástricas+}
-{++}
-{+	Deve-se deixar margem cirúrgica proximal da lesão >2cm no câncer gástrico precoce, >5cm no câncer gástrico avançado bem diferenciado e >8cm no câncer gástrico avançado indiferenciado (classificação de Lauren). A margem distal sempre deve ser de 4cm do duodeno, exceto nas gastrectomias “em cunha”.+}
-{+	O tipo de gastrectomia, total ou subtotal (retirada de 4/5 do estômago, devendo restar apenas 1 ou 2 vasos curtos), dependerá da localização do tumor e da margem cirúrgica desejada. Tumor proximal, normalmente, necessita de gastrectomia total, e os distais bem diferenciados possibilitam gastrectomia subtotal, sobretudo se bem diferenciados (Figura 22). +}
-{+	Na linfadenectomia D2, a dissecção linfonodal tem, por objetivos, melhorar o estadiamento cirúrgico, aumentar o grau de cura e melhorar o prognóstico (graduação 2B). Nela, a linfadenectomia é estendida para, além dos linfonodos perigástricos (D1), os linfonodos ao longo das artérias hepática, gástrica esquerda, celíaca e esplênica, assim como aqueles no hilo esplênico. A experiência japonesa tem indicado aumento de sobrevida de até 5 anos após linfadenectomia radical, o que não se consegue repetir nos centros ocidentais. Trata-se da dissecção completa dos gânglios adjacentes ao estômago (linfadenectomia D1) associada à retirada de gânglios mais distantes. Entre esses linfonodos, destacam-se os das artérias gástrica esquerda, hepática comum e hepática própria e gânglios do hilo hepático. Não há evidência de que a linfadenectomia D3 (linfonodos para-aórticos) confira melhor sobrevida do que a D2, e estando a primeira associada a maior mortalidade, não sendo recomendada (graduação 1B).+}
-{++}
-{+  +}
-{+Figura 22 - (A) Produto de gastrectomia total com linfadenectomia D2 e (B) leito operatório após a linfadenectomia do hilo hepático e a retirada da cápsula pancreática+}
-{++}
-{+Pergunta+}
-{+2013 - UERJ+}
-{+3. No tratamento cirúrgico de um paciente portador de adenocarcinoma gástrico ulcerado, que se estende da incisura angularis do estômago até 4cm da cárdia, deve-se realizar gastrectomia do tipo:+}
-{+a) total+}
-{+b) subtotal+}
-{+c) Billroth II+}
-{+d) proximal+}
-{+Resposta no final do capítulo+}
-{++}
-{+	A ressecção endoscópica (mucosectomia ou dissecção endoscópica da submucosa) pode ser realizada em tumores precoces desde que restritos à mucosa (confirmados por USG endoscópica), bem diferenciados, sem ulceração e <2cm (tipos I, IIA e IIB). A laparoscopia é um bom método, principalmente para câncer gástrico precoce. Também são possíveis gastrectomia e linfadenectomia D2, contudo é necessário cirurgião experiente, e tal método não traz grandes vantagens. Pode ser útil nas cirurgias paliativas (Figura 23).+}
-{+	Na linite plástica, o prognóstico é extremamente ruim, com metade dos pacientes desenvolvendo doença metastática. O envolvimento linfonodal é frequente, e cirurgia extensa pode ser requerida para excisão completa.+}
-{+	No câncer gástrico, a preferência da maioria dos serviços é a reconstrução em Y de Roux com anastomose jejunojejunal situada a 60cm da anastomose gastrojejunal, para prevenção de refluxo biliopancreático, que pode levar a gastrite alcalina.+}
-{++}
-{+ +}
-{+Figura 23 - Conduta cirúrgica sugerida+}
-{+	+}
-{+A conduta-padrão, hoje, para tumores localmente avançados é quimioterapia neoadjuvante, seguida de cirurgia e nova quimioterapia adjuvante. Existe a opção de quimiorradioterapia adjuvante aos pacientes com ressecção cirúrgica potencialmente curativa. Está sendo estudado o uso de quimioterapia intraperitoneal hipertérmica em tumores com risco de disseminação peritoneal (tumores T3 ou N1). A radioterapia adjuvante acrescenta muita morbidade ao tratamento e vem caindo em desuso. Ambas as técnicas podem ser utilizadas de maneira paliativa, nos casos de dor e sangramento. +}
-{++}
-{+H - Prognóstico+}
-{++}
-{+Dica +}
-{+Os fatores prognósticos do câncer gástrico são, em ordem de relevância, o estadio TNM, a diferenciação tumoral e o status da margem da ressecção.+}
-{++}
-{+	Marcadores tumorais pré-operatórios elevados, como CEA, CA-19-9 e CA-72-4, são indicadores independentes de prognóstico adverso (em muitos estudos).+}
-{++}
-{+Tabela 9 - Percentual de sobrevida em 5 anos +}
-{+	Estados Unidos	Alemanha	Japão	Brasil+}
-{+Geral	17,5	36,5	63,5	89+}
-{+IA	78	85,2	69,2	80+}
-{+IB	58	69,2	89,9	72+}
-{+II	34	43,7	71,2	47+}
-{+IIIA	20	28,6	47,9	--+}
-{+IIIB	8	17,7	28,8	--+}
-{+IV	7	8,7	11,5	--+}
-{++}
-{+I - Acompanhamento pós-tratamento+}
-{+	Recomendam-se, como acompanhamento pós-tratamento:+}
-{+	- História e exame físico a cada 3 a 6 meses por 1 a 3 anos; e, então, a cada 6 meses por 4 a 5 anos; e, então, anualmente;+}
-{+	- Hemograma e bioquímica, de acordo com a indicação clínica;+}
-{+	- TC a cada 3 a 6 meses por, pelo menos, 2 anos e após, de acordo com a indicação clínica;+}
-{+- Endoscopia nos pacientes com gastrectomia subtotal a cada 6 a 12 meses nos primeiros 2 anos, pois há risco aumentado de 2º câncer primário nesse período;+}
-{+	- Monitorização e tratamento quando está indicada a deficiência de vitamina B12.+}
-{++}
-{+J - Screening e prevenção do câncer gástrico+}
-{++}
-{+Tabela 10 - Recomendações de guideline da American Society for Gastrointestinal Endoscopy+}
-{+- Pólipos gástricos adenomatosos têm risco aumentado de transformação maligna e devem ser ressecados. Os hiperplásicos raramente sofrem malignização;+}
-{+- Pólipos encontrados na endoscopia devem ser retirados (polipectomia) ou biopsiados se não for possível. Se, na biópsia, o pólipo for adenomatoso ou displásico e não puder ser ressecado, encaminhar para cirurgia;+}
-{+- Quando houver múltiplos pólipos, devem-se retirar ou biopsiar os maiores;+}
-{+- Endoscopia de controle deve ser realizada após 1 ano se o pólipo adenomatoso for retirado. Se exame negativo, repetir endoscopia em 3 a 5 anos;+}
-{+- Não há consenso sobre controle endoscópico na metaplasia intestinal, mas aqueles com etnias de risco devem ser acompanhados;+}
-{+- Pacientes com displasia de alto grau devem ser considerados para gastrectomia ou ressecção endoscópica;+}
-{+- Deve ser considerada endoscopia aos pacientes com anemia perniciosa, mas o seguimento é controverso;+}
-{+- Não há consenso quanto ao controle pós-gastrectomia por doença ulcerosa péptica, mas, se for considerado, deve ser iniciado após 15 a 20 anos e realizadas múltiplas biópsias da anastomose e do remanescente gástrico;+}
-{+- Pacientes com polipose adenomatosa familiar e câncer colorretal hereditário não polipoide possuem risco aumentado e devem realizar exame endoscópico. O tempo de início e o seguimento não estão estabelecidos.+}
-{++}
-{+	K - Tumor carcinoide+}
-{++}
-{+	Os tumores carcinoides neuroendócrinos constituem 2% de todos os tumores malignos do trato gastrintestinal, sendo que até 1,77% de todas as malignidades gástricas são carcinoides. Cerca de 64% dos carcinoides gástricos identificados são encontrados em mulheres, o pico de incidência ocorre entre 45-50 anos de idade variando com o subtipo do tumor. Acredita-se que a secreção de gastrina pelas células G antrais levam a liberação de histamina pelas células ECL, as quais levam as células parietais a liberarem ácido clorídrico. A gastrina possui tanto efeito secretório quanto trófico nas células ECL, portanto a hipertrofia e hiperplasia destas células se dará pelo estímulo da gastrina. Logo, existe grande preocupação que condições levem a hipergastrinemia crônica, como na gastrite crônica atrófica ou tratamento crônico com inibidores de bomba de prótons, possam levar a hiperplasia e desenvolvimento de tumores carcinoides. Contra regulando a ação da gastrina nas células ECL se encontra a somatostatina. Os carcinoides gástricos são classificados de acordo com a existência ou não de associação com a hipergastrinemia e com a ocorrência em mucosa gástrica normal ou não. Sendo proposta a seguinte classificação:+}
-{+	- Tipo I - Carcinoides associados com gastrite crônica atrófica tipo A;+}
-{+	- Tipo II - Carcinoides associados à síndrome de Zollinger-Ellison;+}
-{+	- Tipo III - Carcinoides argirófilos esporádicos.+}
-{+	O tipo I é o mais comum e o tipo III tem o maior potencial de metástase.+}
-{+	O diagnóstico é realizado com endoscopia digestiva alta com biópsias múltiplas.+}
-{+	Os níveis de cromogranina A estão elevados em pacientes com carcinoides gástricos e podem ser usados como marcador para diagnóstico e monitorização pós-operatória, estando mais elevados no subtipo III. A concentração da cromogranina A se correlaciona com o tamanho do tumor e é um preditor isolado de prognóstico. A tomografia computadorizada pode ser útil para o diagnóstico de acometimento linfonodal,+} [-Tr-]{+d+}a{+s metás+}ta[-m-]{+s+}e[-n-]{+s hepá+}t{+icas +}o[-A-]{+u+} [-c-]{+a d+}i[-rurg-]{+stânc+}ia[--padrão-]{+.+} [-com-]{+A+} {+c+}int[-u-]i[-t-]{+l+}o[- cu-]{+g+}ra[-t-]{+f+}i[-vo é -]a [-g-]{+p+}a[-st-]{+ra +}rec{+ep+}to{+res de so+}m{+atostat+}i{+n+}a com [-linfadene-]{+o+}ct{+re+}o[-m-]{+t+}i{+d+}a [-D2, isto é, linf-]{+marc+}ad[-ene-]{+o (O+}ct{+re+}o[-mi-]{+Sc+}a{+n®)+} {+pod+}e{+ +}s[-t-]e[-nd-]{+r út+}i[-d-]{+l par+}a deter[---]mina[-da semp-]r[-e-] [-pel-]a localização {+e extensão +}do{+s+} tumor{+es e de suas lesões metastáticas+}.{++}
-{+	A cirurgia é+} [-P-]o{+ t+}r{+a+}ta{+me+}nto[-, uma-] [-linfa-]de[-n-]{+ +}e{+scolha +}c[-t-]om{+o opção curat+}i{+v+}a{+.+} [-D2-]{+As+} [-d-]{+lesõ+}e{+s+} [-um-]{+do+} t[-um-]{+ip+}o[-r-] [-d-]{+I, qu+}e [-f-]{+c+}u[-nd-]{+rsam c+}o{+m+} {+hiper+}g[-á-]{+a+}stri[-co -]n[-ã-]{+emia, p+}o{+dem+} {+se+}r{+, inicialm+}e{+n+}t[-i-]{+e, abo+}r{+dad+}a{+s por ressecção+} {+end+}os{+cópica+} [-m-]{+d+}es{+de que +}m{+en+}o{+re+}s [-l-]{+que 1cm, em número +}inf{+eri+}o{+r a 5 e que +}n{+ã+}o{+ inva+}d[-os-]{+am a+} {+cama+}d[-e-]{+a+} {+s+}u{+b+}m{+ucos+}a [-linfa-]d{+o órgão a USG +}en[-e-]{+dos+}c[-t-]{+ópica. As lesões d+}o[-m-]{+ t+}i{+po II são tratad+}a[- D2-]{+s+} de [-um tum-]{+f+}or{+ma+} [-d-]{+s+}e[- -]{+melh+}ant[-r-]{+e às d+}o[-.-] [-F-]{+t+}i[-gura 11-]{+po+} [---]{+I.+} [-Base-]{+A+}s [-l-]{+do t+}i[-nf-]{+p+}o[-n-]{+ III sã+}o[-d-]{+ +}a[-i-]s [-per-]{+ma+}i[-gá-]s[-tric-]{+ +}a[-s-]
-
-[-Dev-]{+gr+}e[---]s[-e de-]{+s+}i[-xar m-]{+v+}a[-rgem-]{+s,+} c[-irú-]{+e+}r[-gi-]ca [-proximal -]d[-a l-]e[-são-] [->2cm-]{+64%+} [-n-]{+d+}o{+s+} {+pa+}c[-â-]{+ie+}n[-c-]{+t+}e[-r gá-]s[-trico-] {+a+}pre[-coc-]{+s+}e[-, >5c-]{+nta+}m [-n-]{+lesã+}o {+lo+}c[-ânc-]{+alm+}e[-r gás-]{+n+}t[-rico-]{+e+} avançad[-o bem diferenci-]a[-do-] e [->-]8[-cm no-]{+2%,+} [-cânc-]{+m+}e[-r g-]{+t+}ást[-rico avanç-]a[-do indifer-]{+s+}e[-nciado-]{+s+} [-(c-]l[-assifi-]{+o+}ca[-ção de-]{+is+} [-La-]{+o+}u[-ren). A-] [-m-]a[-rgem-] dist{+ânci+}a[-l-]{+.+} [-sempr-]{+S+}e{+u+} [-dev-]{+tratam+}e{+nto+} se[-r-] [-d-]{+ass+}e[- 4c-]m{+elha+} [-d-]{+a+}o d[-u-]o{+ a+}deno[-, ex-]c[-eto -]{+arci+}n{+om+}a[-s-] g[-a-]{+á+}str[-e-]{+i+}c[-t-]o[-mias-]{+,+} [-“-]e[-m cu-]n[-ha”.-]
-[-O tip-]{+v+}o[- d-]{+lv+}e{+ndo+} gastrectomia[-,-] {+sub+}total ou [-sub-]total [-(r-]{+com linfaden+}e{+c+}t{+om+}i[-r-]a[-d-]{+ n+}a d{+o+}e{+nça+} [-4/5 d-]{+nã+}o {+m+}e{+ta+}st[-ôm-]{+átic+}a[-g-]{+ +}o[-,-]{+u+} [-dev-]{+citorr+}e{+dução +}n{+a +}do{+ença metastática+} res{+secável. Subme+}t{+idos +}a{+ ressecção +}r{+adical+} ap{+resentam 75% de sobr+}e[-n-]{+vid+}a[-s 1-] [-ou-]{+em+} [-2-]{+5+} [-v-]a[-s-]{+n+}os{+,+} c[-urt-]o[-s), de--]{+m+}p[-ende-]{+a+}r[-á -]{+a+}da [-localiz-]a[-ção-] [-do-]{+1,3+} [-tu-]m[-or-]{+eses+} {+d+}e {+mé+}d{+i+}a [-m-]{+n+}a[-rgem-]{+s+} cir[-ú-]{+u+}rgi[-c-]a[- de-]s[-ejada. Tumor-] p[-roxim-]al[-,-]{+iativas.+}
-{+	A+} {+sí+}n[-o-]{+d+}r[-mal-]{+o+}me[-nte,-] [-ne-]c[-essit-]a[- -]{+rcinoi+}de [-g-]{+c+}a[-st-]r[-e-]{+a+}ct[-om-]{+er+}i{+z+}a{+-se+} [-t-]{+p+}o[-tal,-]{+r+} [-e-]{+um+} {+grup+}o[-s-] d[-i-]{+e +}s{+in+}t{+om+}a[-i-]s [-b-]{+qu+}e[-m-] [-dife-]{+ocor+}re[-n-]{+m +}c[-iad-]o[-s-]{+mo+} [-p-]{+c+}o{+n+}s[-sibil-]{+equênc+}i[-t-]a{+ de u+}m [-gas-]t{+umo+}r[-e-]{+ +}c[-t-]{+arcin+}o[-m-]i[-a-]{+de em+} {+e+}s[-ub-]t{+ági+}o[-t-]{+ avanç+}a{+do. Inc+}l[-,-]{+ui+} [-sob-]r[-et-]u[-d-]{+b+}o{+r+} [-se-]{+facial+} [-b-]e[-m-] [-dife-]{+to+}r[-en-]{+á+}ci[-ad-]{+c+}o[-s-]{+,+} [-(F-]{+cól+}i[-gur-]{+c+}a [-12).-]{+e+} [-N-]{+di+}a[- l-]{+rre+}i[-nf-]a[-d-]{+ e, m+}en{+os fr+}e[-c-]{+quen+}t[-o-]{+e+}m[-ia D2-]{+ente+}, a [-d-]i{+n+}s[-se-]{+ufi+}c[-ção l-]i{+ê+}n[-fono-]{+cia car+}d{+íac+}a[-l-] [-t-]e[-m,-] [-por-]{+a+} [-o-]b[-je-]{+roncocons+}t{+r+}i[-v-]{+çã+}o[-s,-]{+. O+} {+tu+}m[-elh-]or{+ c+}ar[- -]{+cin+}o{+ide causa+} es{+ses sin+}t{+om+}a[-di-]{+s qu+}a[-me-]n[-t-]{+d+}o {+se+}c[-i-]r[-ú-]{+eta p+}r[-g-]i{+n+}c[-o, -]{+ip+}a[-u-]{+l+}ment[-ar o grau d-]e [-cu-]{+se+}r{+otonin+}a [-e melhor-]{+n+}a[-r-] {+c+}o[- p-]r[-og-]{+re+}n[-ós-]t[-ico-]{+e+} [-(gr-]{+s+}a[-d-]{+ng+}u{+íne+}a[-çã-]{+. Na mai+}o{+ria+} [-2B).-]{+dos+} [-Nel-]{+c+}a{+sos+}, [-a-]{+o+} [-lin-]f{+íg+}ad[-e-]{+o +}ne[-c-]{+u+}t[-om-]{+ral+}i{+z+}a [-é estendi-]d[-a-]{+e+} [-pa-]{+fo+}r{+m+}a[-,-] {+efic+}a[-lém-]{+z+} [-d-]os [-linf-]{+h+}o{+rmô+}n[-od-]{+i+}os [-p-]{+s+}e{+c+}r[-igás-]{+e+}t[-ric-]{+ad+}os [-(D1),-]{+por+} {+tum+}o{+re+}s [-linfono-]do[-s-] {+tr+}a{+t+}o [-lon-]g[-o d-]as[- ar-]t[-é-]ri[-as hepá-]{+n+}t[-ica, gá-]{+e+}st[-r-]i[-c-]{+n+}a{+l+} {+ant+}es{+ +}que[-rda,-] [-c-]el[-íaca -]e{+s+} {+t+}e[-splê-]n[-ic-]{+h+}a[-,-]{+m+} a[-ssim-] c[-omo -]{+h+}a[-quel-]{+nc+}e[-s-] [-no-]{+de+} [-hilo-]{+causar+} [-e-]s[-plên-]i[--c-]{+nt+}o{+mas+}. [-A-]{+No+} e[-xperiê-]n[-cia j-]{+t+}a[-po-]n[-esa -]t[-em-]{+o,+} [-indic-]{+qu+}a{+n+}do [-a-]um[-en-]{+ +}t{+um+}o{+r+} [-de -]{+cau+}s[-obrevid-]a [-d-]{+m+}e[- a-]t[-é 5 ano-]{+á+}s[- -]{+t+}a[-pó-]s[- linfad-]e{+ +}n[-ect-]o[-mia-] [-r-]{+fíg+}ad[-ical, o que nã-]o{+,+} {+a+}s[-e-] [-con-]s[-eg-]u[-e repe-]{+bs+}t{+ânc+}i[-r-]{+as+} n{+ã+}o{+ +}s{+ão+} [-ce-]n{+eu+}tr[-os oc-]{+al+}i{+za+}d[-ent-]a[-i-]s[-.-] [-Tr-]a{+n+}t[-a-s-]e{+s+} d[-a-]{+e+} [-dis-]se[-cção-] [-com-]{+es+}p{+a+}l[-et-]{+h+}a{+r+} [-dos gâng-]{+pe+}l[-ios adj-]a{+ +}c{+orr+}ente[-s ao-] [-e-]s[-tôm-]a[-go (li-]n[-fade-]{+guí+}ne[-c-]{+a sis+}t[-o--]{+ê+}mi{+c+}a{+.+} [-D1)-]{+A+} {+m+}a[-ss-]{+i+}o[-c-]{+r+}ia{+ +}da{+s+} [-à-]{+pessoas+} [-r-]{+qu+}e[-ti-]{+ sof+}r[-ada-]{+em+} de [-gâ-]{+sí+}n[-gli-]{+dr+}o[-s -]m[-ais-]{+e+} [-dist-]{+c+}a{+rci+}n[-t-]{+oid+}e[-s.-] [-En-]t[-r-]e{+m+} [-esses-]{+um+} [-li-]{+câ+}n[-fo-]{+cer ava+}n[-o-]{+ça+}do[-s,-]{+.+} [-d-]{+O t+}est[-acam-s-]e [-os -]d[-as artér-]ia[-s -]g[-á-]{+nó+}st[-r-]ic{+o inici+}a{+l é+} {+o d+}e[-sq-]{+ +}u[-e-]r[-da, hepát-]i[-c-]{+n+}a [-c-]{+p+}o[-mum-]{+r+} [-e-]{+24+} h[-epátic-]{+or+}a{+s+} p{+a+}r[-óp-]{+a ve+}ri{+fic+}a{+ção+} [-e-]{+dos+} [-gâ-]n[-gl-]{+íve+}i[-o-]s d[-o-]{+e+} [-h-]{+5-HIAA (ác+}i[-l-]{+d+}o {+5-+}h[-epá-]{+idroxindolacé+}tico[-.-]{+),+} [-Nã-]o [-há-]{+produto+} [-ev-]{+f+}i[-dê-]n[-ci-]a{+l+} d[-e-]{+o+} [-qu-]{+m+}e[- -]{+t+}a[- -]{+bo+}li[-nfa-]{+smo +}d{+a s+}e[-nec-]{+ro+}to[-m-]{+n+}i{+n+}a{+.+} [-D3-]{+Os+} [-(l-]{+pac+}i{+e+}n[-f-]{+tes c+}o{+m a sí+}n[-o-]d{+r+}o[-s-]{+me+} [-para--]{+c+}a[-ó-]r[-ti-]c{+in+}o[-s)-]{+ide+} {+ex+}c[-onfi-]r{+et+}a[- -]m[-elhor-] [-s-]{+n+}o[-b-]r{+malm+}e[-vid-]{+nte m+}a{+is+} do que [-a D-]2[-,-]{+5+} [-e-]{+mg+} [-estan-]d[-o-]{+e+} [-a-]{+5-HIAA+} p{+o+}r{+ d+}i[-mei-]{+a. Pa+}ra a[-ss-]{+ l+}oc{+al+}i{+z+}a{+ção +}d[-a-]{+e+} a[- -]m{+bas +}a{+s lesões pr+}i[-o-]{+má+}r{+ias e+} m[-or-]{+etás+}ta[-lidad-]{+s+}e{+s+}, [-nã-]o [-sen-]{+méto+}do [-r-]{+d+}e[-co--]{+ i+}m{+ag+}e{+m i+}n[-d-]{+ici+}a[-d-]{+l é OctreoSc+}a{+n®.+} [-(g-]{+Pa+}ra[-du-]{+ +}a[-çã-]{+lívi+}o [-1B).-]{+dos+} [-F-]{+s+}i[-gur-]{+ntom+}a{+s,+} [-12 -]{+usa+}-{+se+} [-(A)-]{+o+} [-Pr-]o[-du-]{+c+}t{+re+}o[- -]{+ti+}d[-e-]{+a+} [-g-]{+p+}a[-st-]r[-ecto-]{+a di+}mi{+nuir +}a [-t-]{+ser+}ot{+onin+}a[-l-]{+.+} [-com-]{+A+} [-l-]{+cirurg+}i[-nf-]a[-den-]{+ para a r+}e[-c-]t[-om-]i{+rad+}a [-D2-]{+do tumor+} e [-(B)-]{+a+} [-le-]{+quim+}i[-to -]o[-p-]{+t+}era[-tór-]{+p+}i{+a sã+}o {+tr+}a[-pó-]{+tamento+}s a[- -]l[-infad-]{+t+}e{+r+}n[-ec-]{+a+}t[-om-]i[-a d-]{+v+}o{+s.+}
-{++}
-{+	3.+} [-h-]{+L+}i[-l-]{+nf+}o{+ma+} [-hep-]{+g+}á{+s+}t{+r+}ico{++}
-{++}
-{+	O+} e{+nvolvimento+} [-a r-]e{+x+}t[-i-]ra{+no+}da{+l+} d[-a cáp-]{+o+}s[-u-]{+ +}l{+infom+}a{+s+} [-pan-]{+o+}c{+or+}re[-át-]{+ predom+}i[-c-]{+n+}a[-P-]{+ntem+}e[-rgu-]nt[-a-]
-[-2013 - UERJ-]
-[-3.-]{+e+} [-N-]{+n+}o trat[-ament-]o [-cirúr-]g[-ico de um p-]a[-c-]{+str+}i[-e-]nte[- por-]{+s+}t{+in+}a[-dor de-]{+l,+} [-ad-]{+s+}en{+d+}o[-carc-]{+ o l+}in{+f+}oma [-g-]{+prim+}á[-st-]ri[-c-]o [-ulce-]ra[-d-]{+r+}o, {+en+}qu[-e-]{+anto+} [-se-]{+o+} [-e-]s[-t-]e{+cu+}nd[-e-]{+ário+} [-da-]{+é+} [-incisu-]r[-a an-gu-]{+e+}la[-r-]{+t+}i[-s-]{+vamente+} [-d-]{+c+}o{+mum. O+} estômago [-até 4-]c{+ostu+}m[- d-]a [-cárdia, deve--]se[- -]r[-ea-]{+ o +}l[-iz-]{+oc+}a[-r-]{+l+} [-g-]{+m+}a{+i+}s[-tre-]{+ a+}c[-t-]om[-ia do -]{+e+}ti[-p-]{+d+}o[-:-]
-[-a)-] [-total-]
-[-b)-]{+(68+} [-subtot-]a[-l-]
-[-c)-] [-Billroth-]{+75%+} [-II-]d[-) pr-]o[-xim-]{+s c+}a[-l-]
-[-Re-]s[-p-]os[-ta-]{+),+} {+se+}n{+d+}o [-f-]{+o l+}in[-al d-]{+f+}o[- c-]{+m+}a[-pí-]{+ gás+}t[-ul-]{+ric+}o[-A-] res{+pon+}s{+áv+}e[-cçã-]{+l p+}o{+r 3%+} [-en-]d[-o-]{+a+}s[-có-]{+ neo+}p{+las+}i[-c-]a{+s+} [-(muco-]{+ga+}s{+trint+}e[-c-]{+s+}t[-om-]i{+n+}a[- ou d-]is[-secção-] e[-n-]{+ 10% +}dos[-cópica-] [-d-]{+linfom+}a[- -]s{+. Se+}u[-bmucosa)-] p{+ic+}o[-de-] [-s-]{+d+}e[-r-] [-real-]i[-zad-]{+ncidênci+}a [-som-]e[-n-]{+s+}t[-e-]{+á+} e[-m -]{+n+}t[-umo--]re[-s-] [-restrit-]os [-à-]{+50+} [-mucos-]a [-(confirm-]{+60 +}a[-d-]{+n+}os{+,+} [-p-]{+c+}o[-r-]{+m+} [-USG-]{+leve+} {+pr+}e[-n-]do[-scópica), be-]m[- d-]i[-fere-]{+nâ+}ncia{+ +}do[-s,-] se[-m-]{+xo+} {+masc+}ul[-c-]{+ino. A inf+}e[-ra-]{+c+}ção {+p+}e{+lo+} [-<2cm-]{+H+}. [-A-]{+pylori+} {+está a+}l{+t+}a[-p-]{+mente +}a[-ro-]s[-c-]{+s+}o[-p-]{+c+}ia{+da+} [-é u-]{+co+}m [-b-]o[-m-] {+desenvolvi+}m[-é-]{+en+}to{+ +}do[-,-] [-pr-]{+l+}in{+foma MALT (Mucosa-Asso+}ci[-p-]a[-lmen-]te{+d+} {+Lym+}p[-ara-]{+hoid+} [-cânc-]{+Tissu+}e[-r-]{+). +}
-{+	Os+} [-gá-]s[-tr-]i[-c-]{+nt+}o{+mas mais+} [-pre-]co[-ce. També-]m{+uns+} são [-possív-]e{+p+}i[-s -]gastr[-ectom-]{+alg+}ia [-e-]{+(78 a 93%),+} [-linf-]a[-de-]n[-ect-]o[-m-]{+rex+}ia [-D2-]{+(47%)+}, [-contu--]{+per+}d[-o é-]{+a+} [-n-]{+d+}e[-c-]{+ p+}es[-sári-]o [-cirurgião-]{+(25%),+} [-experie-]n[-t-]{+áus+}e[-,-]{+a+} e [-tal -]{+vô+}m[-é-]{+i+}to[-do-] [-não-]{+(18%),+} [-tr-]{+s+}a[-z -]{+n+}gra[-nd-]{+m+}e[-s va-]nt[-agens.-]{+o+} [-P-]o[-d-]{+culto (19%) +}e s{+aciedad+}e{+ p+}r{+ecoce.+} [-út-]{+S+}i[-l -]n{+tom+}as [-ci-]{+B (feb+}r{+e e s+}u{+do+}r[-gia-]{+e+}s{+e+} [-palia-]{+no+}t[-ivas (Fig-]ur{+n+}a[- 13-])[-.-]
-[-Na-] [-lin-]{+são descr+}it{+os +}e{+m+} [-plástica,-]{+12%+} {+d+}o{+s+} p[-ro-]{+acientes. +}
-{+	O dia+}gnóstico é {+g+}e[-xt-]r[-em-]a{+l+}mente [-ruim, com m-]e{+s+}ta[-d-]{+b+}e[- -]{+leci+}do[-s-] p{+ela biópsi+}a{+ endos+}c{+óp+}i{+ca, +}e[-nt-]{+m qu+}e{+ +}s{+e+} {+po+}de{+ ob+}se[-n-]{+r+}v{+ar eritema da muc+}o{+sa, +}l[-v-]e[-nd-]{+sã+}o [-d-]{+p+}o{+lipoid+}e[-nça-]{+ ou+} m[-et-]as[-tátic-]{+s+}a[-.-] [-O-]{+com ou+} {+s+}e[-nv-]{+m ulceraçã+}o{+, ú+}l[-vim-]{+c+}e[-n-]{+ra de aspec+}to [-l-]{+ben+}i{+g+}n[-f-]o{+, +}nod[-a-]{+u+}l{+aridade+} [-é-]{+e+} [-f-]{+p+}re[-qu-]{+gas +}e[-nt-]{+sp+}e[-,-]{+ssadas.+} [-e-]{+Como+} c{+ostuma inf+}i{+lt+}r[-u-]{+a+}r[-gi-]{+ +}a [-exten-]s{+ubmucosa, +}a{+s+} {+bió+}p[-o-]{+sias +}de{+vem+} ser {+g+}r{+and+}e[-qu-]{+s +}e[-rida-] p[-a-]r{+ofundas.+}
-{+	M+}a[- exc-]is[-ão-] [-compl-]{+d+}e[-ta.-]
-[-N-]{+ 90% d+}o{+s+} [-câ-]{+li+}n[-cer-]{+fomas+} gástrico[-,-]{+s+} [-a-]{+são divididos+} [-pr-]e{+m 2 tipos histológicos:+}
-{+	- Lin+}f{+oma +}e{+xt+}r[-ê-]{+a+}n{+odal das +}c[-i-]{+élul+}a{+s B+} da {+zona +}ma[-io-]r{+g+}i{+n+}a{+l+} do[-s-] [-s-]{+t+}e[-rv-]{+c+}i[-ç-]{+d+}o[-s-] [-é-]{+linfoide+} a{+ssociado+} [-re-]{+à mu+}co[-n-]s[-tr-]{+a (38 a 48%);+}
-{+	- Linfoma dif+}u[-çã-]{+s+}o {+d+}e[-m Y-] {+gran+}de{+s+} [-Ro-]{+cél+}u[-x-]{+las+} [-com-]{+B (45+} a[-n-]{+ 59%).+}
-{+	P+}a[-stom-]{+ra +}o[-se-] [-j-]e[-junoj-]{+stadiam+}e[-ju-]n[-al-]{+to,+} {+e+}s[-i--]t[-u-]{+á indic+}ada a [-60cm-]{+TC+} d[-a anastomos-]e [-gas-]t{+ó+}r[-ojejun-]a[-l-]{+x+}, [-par-]a{+bdome e+} p[-r-]e{+l+}ve[-nção-]{+.+} {+To+}d[-e reflux-]o{+s+} [-bili-]o{+s +}pa[-n-]c[-r-]{+i+}e[-á-]{+n+}t[-ico, qu-]e{+s+} [-po-]de[- le-]v[-ar a-]{+em+} [-ga-]s[-t-]{+e+}r[-i-]{+ +}te{+stados+} {+p+}a[-lc-]{+r+}a[-lin-]{+ +}a[-.-] [-Figu-]{+p+}r{+esenç+}a [-13-]{+de+} [---]{+H.+} [-C-]{+pyl+}o[-nduta ci-]r[-ú-]{+i po+}r{+ histolo+}gi[-c-]a{+,+} {+te+}s[-ug-]{+t+}e[-ri-]{+ +}da [-A cond-]u[-ta-pad-]r[-ão-]{+éase+}, [-hoj-]{+test+}e[-,-] {+res+}p[-a-]{+i+}ra[- -]t[-umo-]{+ó+}r{+io, p+}es{+quisa+} [-l-]{+d+}o[-c-]{+ +}a[-lme-]nt{+íg+}e[- ava-]n[-çad-]o[-s-] [-é-]{+fecal+} [-q-]{+o+}u[-imi-]{+ s+}o[-te-]r[-ap-]{+olog+}ia n[-eo-]a[-dju-]{+ +}va[-nte, -]s[-eguid-]{+t+}a [-de c-]{+ma+}i{+o+}r[-urg-]ia [-e-]{+dos+} {+li+}n{+f+}o[-v-]{+m+}a{+s+} [-quim-]{+MALT (90%). H+}i[-ote-]{+b+}r[-ap-]i{+diz+}a{+ção+} [-adj-]{+o+}u[-vante.-] [-Existe-]{+PCR+} {+par+}a {+transl+}o[-p-]{+ca+}ção [-de-]{+t(11:18)+} [-of-]{+também d+}e[-r-]{+v+}e[-c-]{+ s+}er [-quimior-]r[-adiot-]e[-r-]a[-p-]{+l+}i{+zad+}a{+.+}
-{+	O+} {+est+}ad[-juv-]{+i+}a{+me+}nt[-e-]{+o+} [-a-]{+d+}os [-pac-]{+l+}i[-e-]n[-tes c-]{+f+}om{+as+} {+gast+}r{+int+}es{+tinai+}s[-ecção-] [-cirú-]{+é +}r[-g-]{+eal+}i[-c-]{+z+}a{+do+} p{+el+}o{+ sis+}te[-ncial-]m[-ent-]{+a d+}e [-c-]{+L+}u[-rativ-]{+g+}a{+no+}.{++}
-{++}
-{+Tabela 11 -+} Est[-á-]{+adiamento+} [-s-]{+d+}e{+ Luga+}n[-d-]o[- e-]{++}
-{+E+}st[-ud-]ad{+i+}o [-o -]{+I	T+}u[-s-]{+m+}o{+r+} {+confina+}d[-e-]{+o+} [-quimi-]{+a+}o{+ +}t[-e-]ra[-pia-]{+to+} {+gastr+}int[-rap-]e[-ri-]{+s+}t[-o-]{+i+}n[-e-]al{+.+} [-hip-]{+Pode s+}er[-térmica-] {+l+}e[-m-]{+são+} [-tu-]{+pri+}m[-o-]{+á+}r[-es-]{+ia+} {+úni+}c{+a +}o[-m-]{+u+} [-r-]{+múlt+}i[-s-]{+pla, +}co{+m+} [-d-]{+l+}e[- dis-]s{+õ+}e[-mi-]{+s +}n[-aç-]ão [-perit-]{+c+}on[-eal (-]t{+íg+}u[-more-]{+a+}s[- T3 ou N1). A r-]{++}
-{+Est+}adio{+ II	O +}t[-e-]{+umo+}r[-apia-] [-adjuvant-]{+s+}e [-acr-]es[-c-]{+t+}en[-ta muita morbida-]de [-a-]{+n+}o [-trat-]a{+bdo+}me[-nto-]{+.+} [-e-]{+É+} {+subdi+}v[-em ca-]i[-n-]d[-o em -]{+i+}d[-esus-]o[-.-] [-Am-]bas[- -]{+e+}a[-s-]{+do+} [-téc-]n[-ic-]a[-s-] [-p-]{+l+}o[-dem ser uti-]{+ca+}liza[-das-]{+ção+} d[-e-]{+o+} [-man-]e[-ira pa-]{+nvo+}l{+v+}i[-a-]{+men+}t[-iva,-]{+o+} {+li+}n{+f+}o[-s cas-]{+n+}o[-s -]d[-e-]{+al:+}
-{+-+} {+Esta+}d{+i+}o[-r-] [-e-]{+II1:+} [-sa-]{+e+}n[-gra-]{+volvi+}mento[-.-] [-8.-]{+de+} [-Pr-]{+linf+}o[-g-]n[-óstic-]o[-Dica -]
-[-O-]{+do+}s [-fat-]{+l+}o[-re-]{+cai+}s {+(+}p{+a+}r[-o-]{+a+}g[-nó-]{+á+}st{+r+}icos [-são, em o-]{+pa+}r[-dem-]{+a+} [-de-]{+o+} [-re-]l[-evânc-]i[-a, -]{+nf+}o{+ma+} [-e-]{+gá+}st[-ad-]{+r+}i{+c+}o [-TNM,-]{+ou+} {+p+}a[- dife-]r[-e-]{+ai+}n[-c-]{+test+}i{+n+}a[-ção-]{+is+} [-tumo-]{+pa+}ra[-l-] [-e-]{+o+} {+linf+}o{+ma+} {+inte+}st{+in+}a[-tus-]{+l);+}
-{+-+} [-d-]{+Est+}a{+dio II2:+} [-marg-]e{+nvolvi+}m{+ento+} d[-a res-s-]e[-cção.-] [-Marca-]{+linfono+}do[-re-]s {+dis+}t[-umor-]a[-i-]{+nte+}s {+(+}p{+a+}r[-é-]{+a+}-[-oper-]a[-t-]ór{+t+}i{+c+}os{+,+} [-ele-]{+paraca+}va[-do-]{+i+}s[-,-] [-com-]o{+u+} [-CEA, CA-19-9 e-]{+inguinais+} [-CA-72-4,-]{+para+} [-são-]{+a+} {+ma+}i[-nd-]{+or+}i[-c-]a{+ +}do{+s tumo+}res{+;+} [-indep-]{+m+}e[-nd-]{+s+}ent[-e-]{+érico+}s [-de pr-]{+n+}o[-g--]{+s i+}n[-ó-]{+te+}sti[-co-]{+nais);+}
-{+-+} {+Est+}ad[-vers-]{+i+}o [-(em-]{+IIE:+} [-mui-]t{+um+}o[-s-]{+r+} {+p+}e[-studos).-]
-
-[-Tab-]{+n+}e[-l-]{+tr+}a [-9 --]{+a+} [-P-]{+s+}er[-c-]{+osa e +}en[-tua-]{+vo+}l[- d-]{+v+}e {+órgão+}s{+ +}o[-br-]{+u t+}e[-v-]{+c+}id[-a em 5-]{+os+} a{+djace+}n[-o-]{+te+}s[- -]
-[-	-]{+.+}
-Estad{+io III	Nã+}o{+ exi+}s{+te+} [-U-]n{+este s+}i[-do-]s[-	Al-]{+t+}ema[-nha	J-]{+.+}
-{+Est+}a[-pã-]{+di+}o{+ IV+}	[-Bra-]{+Ob+}s[-il-]
-[-G-]er{+v+}a[-l	17,5	36,5	63,5	89-]
-[-IA	78	85,2	69,2	80-]
-[-IB	58	69,2	89,9	72-]
-[-II	34	43,7	71,2	47-]
-[-IIIA	20	28,6	47,9	---]
-[-IIIB	8	17,7	28,8	---]
-[-IV	7	8,7	11,5	-]-[---]
-
-[-9.-]{+se+} [-Acompa-]{+e+}n[-ha-]{+volvi+}mento [-pós--]{+ex+}tra[-t-]{+nod+}a[-m-]{+l diss+}e{+mi+}n[-t-]{+ad+}o[-R-]{+ ou +}e[-c-]{+nv+}o{+lvi+}men{+to linfono+}da[--se,-]{+l+} [-co-]{+supradiafrag+}m{+átic+}o [-a-]co[-mpa-]n[-ha-]{+co+}m[-e-]{+ita+}nt[-o pós--]{+e.+}
-{++}
-{+O +}tratamento[-:-]
-[---] [-Histór-]{+do l+}i{+nfom+}a [-e exame-]{+MALT+} [-fí-]{+gá+}s{+tr+}ico [-a cada 3-]{+é+} {+b+}a[- 6 me-]se[-s por 1 -]a{+do+} [-3 a-]no[-s;-] e[-, en-]{+s+}t[-ã-]{+adi+}o[-,-] {+d+}a [-ca-]d{+oenç+}a [-6-]{+e+} [-m-]{+pr+}ese[-s-]{+nça+} [-p-]{+d+}o[-r 4-] [-a-]{+H.+} [-5-]{+pylori:+}
-{+	-+} {+Est+}a[-n-]{+di+}o[-s; e,-] {+pr+}e[-ntã-]{+c+}o[-, anualm-]{+c+}e[-nt-]{+ +}e[-;-]
-[---] H[-em-]{+. pyl+}o[-g-]r[-ama e b-]i{+ p+}o[-quím-]{+s+}i[-ca,-]{+tivo+} [-d-]{+s+}e{+m+} {+tr+}a[-c-]{+nsl+}o[-rd-]{+caçã+}o {+y(11:18): re+}com[- -]{+end+}a{+-se+} [-in-]{+erra+}dicação [-c-]{+do H. py+}l[-ín-]{+or+}i[-ca-];{++}
-- [-TC a c-]{+Est+}ad[-a 3 a 6-]{+io+} [-m-]{+pr+}e[-s-]{+coc+}e[-s-]{+ e H.+} p{+yl+}or[-,-]{+i+} [-p-]{+n+}e[-l-]{+gativ+}o [-men-]o[-s,-]{+u+} [-2-]{+com+} {+tr+}an[-o-]s{+locação+} [-e-]{+t(11:18):+} [-apó-]s[-,-]{+ugere-se+} [-d-]{+tratam+}e{+nto+} {+inici+}a{+l +}co{+m +}r{+a+}d{+i+}o{+terapia+} [-c-]{+l+}o[-m-]{+cal+} a{+o+} in{+vés de erra+}dicação [-clínica;-]
-[-- En-]do[-sco-]{+ H. +}p{+ylor+}i[-a-]{+,+} {+imu+}no[-s -]{+tera+}p{+i+}a[-c-]{+, qu+}i[-en-]{+mio+}te[-s-]{+rapia+} [-c-]o[-m-]{+u+} gastrectomia{+;+}
-{+-+} [-subt-]{+D+}o[-t-]{+enç+}a[-l-] [-a-]{+em+} [-c-]{+est+}ad[-a 6-]{+io+} a{+vançado:+} [-12 me-]s{+ug+}e{+re-+}s{+e+} [-nos prim-]e[-i-]r{+radicaçã+}o[-s 2-] [-an-]{+d+}o[-s,-]{+ H.+} p{+yl+}o{+r+}i{+ +}s{+e+} [-há-]{+este+} {+fo+}r[-i-]{+ po+}s[-c-]{+itiv+}o{+,+} [-aum-]{+s+}e[-nta-]{+gui+}do de [-2º cânc-]{+obs+}er{+vação até+} [-primári-]o [-n-]{+d+}es[-se p-]e[-ríodo;-]
-[-- Mo-]n{+volv+}i{+men+}to[-rizar-] {+d+}e {+sin+}t[-rat-]{+om+}a[-r-]{+s,+} quando {+dev+}e{+ +}s[-tá-]{+er+} in[-d-]ic{+i+}ada [-a deficiênc-]{+qu+}i[-a de v-]{+m+}i{+o+}t{+er+}a[-m-]{+p+}i[-n-]a{+;+}
-{+-+} [-B12.-]
-
-[-10.-]{+Os+} [-S-]{+pa+}c[-reen-]i{+e+}n[-g -]{+t+}e{+s+} [-pr-]{+d+}eve[-nção do-]{+m+} [-cânc-]{+s+}er [-gástrico-]
-
-[-T-]a[-be-]{+va+}l{+i+}a{+dos+} [-10 --]{+após+} [-Rec-]o{+ trata+}men[-d-]{+to p+}a[-çõ-]{+ra v+}e[-s-]{+r+} [-d-]{+s+}e [-g-]{+ho+}u[-idelin-]{+v+}e [-da Am-]er{+rad+}ica[-n-]{+ção+} [-S-]{+d+}o[-ciety-] [-f-]{+H. pyl+}or{+i e+} [-G-]a[-st-]{+ +}r[-oint-]es{+pos+}t[-in-]a[-l-] [-En-]do[-scopy-]
-[-- Pólipos-] [-gás-]t[-ric-]{+um+}o[-s-]{+r+} a[-denomat-]o[-sos-] t[-êm -]r[-isco -]a[-u-]{+ta+}ment[-ad-]o[- d-]{+.+}
-{++}
-{+R+}e[- tran-]s[-for-]{+u+}m[-açã-]o[- ma-]{++}
-{++}
-{++}
-{+Neop+}l{+as+}i[-gn-]a [-e devem -]{+gá+}s[-e-]{+t+}r{+ica+} [-ress-]{+b+}e[-c-]{+nign+}a[-dos.-]{++}
-{+-+} O[-s-] [-h-]{+l+}ip[-erpl-]{+oma g+}ás{+tr+}ico[-s-]{+ é+} rar{+o, ger+}a{+l+}mente [-sofrem m-]a[-l-]{+ss+}i[-g-]n{+tomát+}i[-zaçã-]{+c+}o[-;-]
-[---]{+,+} [-Póli-]{+a+}p[-o-]{+re+}s[- -]en[-con-]t[-r-]a{+n+}do{+-+}s{+e+} na endoscopia [-deve-]{+co+}m[- ser retirad-]o[-s-] [-(po-]l[-ip-]e[-ct-]{+sã+}o[-mia)-] [-o-]{+s+}u[- -]b[-io-]{+e+}p[-s-]{+itel+}ia{+l +}d[-os-]{+e+} {+a+}s{+p+}e[- nã-]{+ct+}o [-fo-]{+ama+}r[- possív-]el[-. Se, na biópsi-]a[-, o pólip-]{+d+}o{+;+}
-{+-+} [-for-]{+O+} [-ad-]{+l+}e[-n-]{+i+}om[-atos-]{+i+}o{+ma é+} o{+ t+}u{+mor+} [-d-]{+ben+}i[-spl-]{+gno g+}ás{+tr+}ico [-e-]{+mais+} [-nã-]{+c+}o[- p-]{+m+}u[-der-]{+m,+} [-s-]{+g+}er[- r-]{+alm+}e{+nte a+}ss[-e-]{+intomáti+}c[-ad-]o, [-encam-]{+orig+}in[-ha-]{+á+}r{+io+} [-par-]{+d+}a c[-irurgi-]a[-;-]
-[-- Qu-]{+m+}a[-n-]d[-o houver-]{+a+} m[-últiplo-]{+u+}s{+cular+} p{+r+}ó[-li-]p[-os, devem-se -]r[-et-]i[-r-]a[-r-] ou [-biop-]{+mu+}s[-i-]{+cul+}ar {+da muc+}os{+a,+} [-m-]a[-io-]{+p+}res[-;-]{+entando+}-{+se+} [-E-]{+à e+}ndoscopia [-de -]co[-ntr-]{+m+}o[-le-] [-dev-]{+l+}e{+são+} s{+ub+}e[-r r-]{+pit+}e[-a-]li[-zada -]a[-pós 1-]{+l+} [-an-]{+c+}o{+m+} {+muco+}s[-e-]{+a+} {+n+}o[- pó-]{+rma+}l[-ipo-]{+;+}
-{+-+} [-ad-]{+O h+}e{+ma+}n{+gi+}oma[-to-]{+ gá+}s{+tric+}o [-for-]{+é+} r[-etir-]a[-d-]{+r+}o[-. Se-]{+,+} {+g+}e[-x-]{+r+}a{+l+}me[- -]n{+t+}e[-g-]{+ +}a[-t-]{+ss+}i[-v-]{+nt+}o[-, repe-]{+má+}ti[-r-]{+co ou+} [-end-]o[-s-]co[-pia-]{+rre+} {+h+}em[- 3 -]{+orr+}a[- 5 -]{+gi+}a[-nos;-]
-[-- Não há-] [-cons-]{+dig+}e[-n-]s[-o-]{+tiva,+} [-sob-]{+ap+}re[- co-]{+se+}nt[-r-]{+and+}o[-l-]{+-s+}e {+à +}endosc[-ó-]{+o+}pi[-co n-]a {+co+}m{+o l+}e[-t-]{+são +}a[-p-]{+zu+}la[-si-]{+d+}a {+ou v+}i[-nt-]{+olác+}e[-stin-]a[-l,-]{+;+}
-{+-+} {+Tu+}m{+or de célul+}as {+gr+}a[-q-]{+n+}u[-e-]l{+ar+}es [-com-]{+é+} [-e-]t[-nias de -]{+umo+}r[-i-]{+ +}s{+ubmu+}co[- devem -]s[-er-]{+o+} {+r+}a{+ro, +}com[-panhados;-]
-[---] [-Pac-]{+or+}i{+g+}e{+m +}n[-te-]{+a+}s c[-om disp-]{+élu+}las[-ia-] de {+Schw+}a[-lt-]{+nn, podend+}o [-g-]{+ocor+}r[-au d-]e[-v-]{+r +}em [-s-]{+qualqu+}er [-consider-]{+p+}a{+rte +}do[-s-] [-pa-]{+t+}ra{+to+} gastr{+int+}e[-c-]{+s+}t[-om-]i{+n+}a{+l,+} [-ou ressecção end-]{+p+}os[-cóp-]i[-ca;-]
-[-- De-]{+ti+}v[-e ser c-]o[-n-]s[-iderada-] [-endosco-]p[-i-]a[- -]{+r+}a[-os-] p[-acien-]{+ro+}te[-s-]{+ína+} [-com-]{+S-100;+}
-{+-+} [-a-]{+Pâ+}n{+cr+}e[-mi-]a{+s+} [-p-]e[-rni-]c{+tóp+}i{+c+}o[-sa, mas-] o{+corre+} {+u+}s[-eg-]u[-i-]{+al+}ment[-o é-]{+e+} [-co-]n[-tr-]o[-v-]{+ +}e[-r-]s{+tômag+}o[-;-]
-[---] [-Não-]{+(60+} [-há-]{+a 70%),+} [-co-]n[-se-]{+a gra+}n[-so-]{+de+} [-q-]{+c+}u{+rv+}a[-n-]t[-o -]{+ur+}a[-o-] [-co-]{+ju+}nt[-r-]o[-le-]{+ à+} p[-ós-g-]a[-st-]re[-ctomia-]{+de+} po{+sterio+}r do[-enç-]{+ +}a{+ntro.+} [-ulc-]{+G+}er[-os-]a[- pép-]{+lmen+}t[-ica,-]{+e+} [-mas,-]{+é+} [-s-]{+l+}e[- f-]{+sã+}o[-r-] {+submu+}co[-n-]s{+a, f+}i[-d-]{+rm+}e{+, ama+}r{+el+}ad[-o-]{+a+}, [-deve ser-]{+com+} {+umb+}i[-n-]{+l+}ic[-i-]a[-d-]{+çã+}o {+centr+}a[-pós 15 a 20-]{+l;+}
-{+-+} {+Schw+}an{+n+}o[-s-]{+ma+} [-e-]{+é+} [-r-]{+n+}e[-a-]{+op+}l[-izad-]as[- múlt-]i[-pl-]a[-s-] [-biópsi-]{+rar+}a[-s-] da {+b+}a{+i+}n{+h+}a[-stomose e-] do{+s+} [-rema-]ne{+rvo+}s[-cente-]{+,+} [-gá-]{+po+}s{+i+}t[-r-]i[-c-]{+v+}o[-;-]
-[---] [-P-]{+p+}a[-cien-]{+ra pro+}te[-s-]{+ína+} [-com-]{+S-100;+}
-{+-+} [-pol-]{+C+}i[-po-]s[-e-]{+to+} [-a-]de[-nomatosa-] [-fami-]{+dup+}li{+c+}a[-r-]{+ção+} [-e-]{+é+} [-cânc-]{+l+}e[-r-]{+são+} co[-lorre-]{+ngêni+}ta[-l-] [-hereditá-]r[-io não-]{+ara,+} [-po-]{+gera+}l[-ipoid-]{+ment+}e [-po-]{+a+}ss[-ue-]{+into+}m[- r-]{+át+}i[-s-]c{+a n+}o{+s+} a{+d+}u[-men-]{+l+}t[-ad-]o{+s,+} e [-devem re-]{+n+}a{+ u+}l[-iz-]{+tr+}a{+ssonog+}r[- ex-]a[-me-]{+fia+} endoscópic[-o. O-]{+a+} [-t-]{+s+}e[-mpo-] [-d-]e[- -]{+v+}i{+de+}n[-í-]ci[-o e o-]{+a+} {+ma+}s{+sa an+}e[-gu-]{+co+}i[-m-]{+d+}e[-nto-] [-nã-]{+c+}o{+m+} [-es-]t[-ã-]o[- estabeleci-]d[-o-]{+a+}s[-.-]
-[-11.-] [-Re-]{+a+}s[-u-]{+ ca+}m[-o-]
-
-[-Qu-]ad{+as da pa+}r[-o--]{+ede gást+}r{+ica.+}
-{+N+}e{+opla+}s[-u-]{+ia gástrica +}m[-o-]{+aligna+}
-- O câncer gástrico {+(adenocarcinoma) +}possui causa multifatorial e envolve aspectos nutricionais, ambientais e genéticos;{++}
-- 	A maioria dos pacientes com câncer gástrico é assintomática ou apresenta sintomas inespecíficos, relacionados à localiza[---]ção do tumor. Com a progressão da doença, podem surgir sinais clínicos de doença avançada, como massas palpáveis, linfonodos supraclaviculares e periumbilicais;{++}
-- Pode ser classificado macroscopicamente em 4 tipos, segundo Borrman[-n-]{+n, e histologicamente em 2 subtipos, segundo Lauren (intestinal e difuso);+}
-{+- O tipo intestinal acomete indivíduos idosos, é bem ou moderadamente diferenciado, tem melhor prognóstico do que o tipo difuso e localiza-se mais comumente no antro e na pequena curvatura;+}
-{+- O tipo difuso acomete indivíduos mais jovens+}, [-e-]{+é+} [-h-]i[-stolog-]{+nd+}i[-cam-]{+fer+}en[-t-]{+ciado +}e {+t+}em [-2-]{+pior+} {+prognó+}s[-ub-]ti[-p-]{+c+}o[-s,-] [-segun-]do [-La-]{+q+}u[-r-]e{+ o tipo intesti+}n{+al+};{++}
-- O câncer gástrico precoce é classificado por critério endoscópico conforme a classificação de Paris (2002);{++}
-- A endoscopia digestiva alta é o método diagnóstico de escolha e, também, possibi[-l-]{+lita seu estadiamento;+}
-{+- O câncer gástrico precoce, que não ultrapassa a submucosa, avaliado por ecoendoscopia, pode ser curado com ressecção local em até 95% dos casos; +}
-{+- Os princípios do tratamento curativo são ressecção com margens e linfadenectomia alargada (D2).+}
-{+Linfoma gástrico+}
-{+- O envolvimento extranodal dos linfomas ocorre predominantemente no trato gastrintestinal, sendo o estômago o local mais acometido (68 a 75%);+}
-{+- São divid+}i[-ta -]{+do+}s[-eu-] e[-stadia-]m[-ento;-]
-[---] [-O-]{+2+} [-câncer-]{+tipos+} [-gá-]{+hi+}st[-r-]{+ológ+}ico{+s:+}
-{+?+} [-prec-]{+Linf+}o[-ce,-]{+ma+} [-qu-]e[- -]{+xtra+}n[-ã-]o{+dal das+} {+cél+}ul[-trap-]as[-sa-] {+B d+}a [-submuc-]{+z+}o[-s-]{+n+}a[-,-] {+m+}a[-val-]{+rg+}i{+n+}a[-do-]{+l+} [-p-]{+d+}o[-r-] {+t+}ec[-oen-]{+i+}do[-scopia,-] [-p-]{+linf+}o{+i+}de {+a+}s[-er -]{+so+}c[-ur-]{+i+}ado [-com-]{+à+} [-resse-]{+mu+}c[-ção l-]o[-c-]{+s+}a[-l-] [-em-]{+(MALT) (38+} a[-té-] [-95-]{+48+}%{+);+}
-{+? Linfoma+} d{+ifus+}o{+ de grande+}s c{+élul+}as[-os;-] {+B (45 a 59%).+}
-- [-Os-]{+A+} [-pr-]in{+fe+}c[-í-]{+ção +}p[-i-]{+el+}o[-s-] [-d-]{+H. pyl+}o{+ri+} {+es+}t[-r-]{+á +}a{+l+}tament[-o-]{+e+} [-cur-]a[-t-]{+ssoc+}i[-v-]{+ada c+}o{+m+} [-sã-]o [-r-]{+d+}es[-s-]e[-cção c-]{+nv+}o{+lvi+}m[- marg-]en[-s-]{+to+} [-e-]{+do+} linf[-adenect-]om[-i-]a [-ala-]{+MALT;+}
-{+- O t+}r[-g-]a[-d-]{+t+}a[- (D2).-]
-
-[-R-]{+m+}e[-spos-]{+n+}t[-as-]
-[-1. B-]
-[-2.-]{+o+} [-B-]
-[-3.-]{+do+} [-A-]
-
-[-D-]{+l+}i[-ca-]
-[-Para -]{+n+}f[-ixar -]o{+ma+} [-que-]{+MALT+} [-e-]{+gá+}st[-ud-]{+ric+}o[-u-] [-ne-]{+é ba+}s[-t-]e[- c-]a[-pítul-]{+do n+}o[-,-] [-t-]est[-e-]{+adio+} [-seus-]{+da+} [-c-]{+d+}o[-nhecim-]en[-tos-]{+ça e+} {+p+}res[-olv-]en{+ça +}do [-as-]{+H.+} [-qu-]{+pylori.+}
-{++}
-{+R+}es[-tõe-]{+po+}s[- referen-]t[-e-]{+a+}s {+d+}a[-o-]{+s+} [-tema.-]
-[-Q-]{+q+}uestões[-: página-] [-XX-]
-[-C-]{+d+}o[-men-]{+ capí+}t[-ári-]{+ul+}o[-s:-]{++}
-{+1.+} [-página-]{+B+}
-{+2.+} [-XX	-]{+B+}
-{+3. A+}

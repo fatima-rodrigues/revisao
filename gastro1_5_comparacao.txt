@@ -1,8 +1,4 @@
-diff --git a/gastro1_5.txt b/gastro1_5.txt
-index 3030f43..6a3e726 100644
---- a/gastro1_5.txt
-+++ b/gastro1_5.txt
-@@ -1,18 +1,19 @@
+
 Câncer de esôfago
 Fábio Carvalheiro[- / -]
 Eduardo Bertolli

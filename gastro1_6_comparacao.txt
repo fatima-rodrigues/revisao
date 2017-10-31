@@ -1,8 +1,4 @@
-diff --git a/gastro1_6.txt b/gastro1_6.txt
-index 578f9f1..afdb873 100644
---- a/gastro1_6.txt
-+++ b/gastro1_6.txt
-@@ -1,69 +1,63 @@
+
 Anatomia e fisiologia do estômago
 Fábio Carvalheiro[- / -]
 Eduardo Bertolli
