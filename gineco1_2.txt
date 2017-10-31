@@ -1,0 +1,154 @@
+Fisiologia menstrual
+Flávia Fairbanks Lima de Oliveira Marino
+
+Resumo
+Neste capítulo, serão abordados os tópicos a respeito da fisiologia menstrual. Esta é dependente de intrin-cada sequência de interações neuro-hormonais e de hormônios ovarianos, envolvendo aqueles produzidos pela hipófise (LH e FSH), e os produzidos pelo ovário propriamente dito (estrogênio e progesterona), que variam em um ciclo menstrual, dividido em 2 fases: folicular e lútea. Na fase folicular, há recrutamento e amadurecimento de folículos sob ação de FSH, do 1º dia da menstruação até o pico de LH por volta do 14º dia, quando ocorre a ovulação, iniciando a fase lútea, que perdura até o dia que antecede a menstruação.
+
+1. Definição
+
+A compreensão dos mecanismos fisiológicos do ciclo menstrual é de fundamental importância para o entendimento das alterações ginecológicas.
+O ciclo menstrual pode ser dividido em etapas, a serem comentadas separadamente: esteroidogênese ovariana, ciclo menstrual propriamente dito, ciclo endometrial e muco cervical.
+
+Tabela 1 - Termos básicos relacionados ao ciclo menstrual
+Menstruação	Sangramento genital periódico decorrente da descamação do endométrio quando não há fecunda-ção 
+Menarca	1ª menstruação, em média, entre 11 e 14 anos, mas possível entre 8 e 16 anos
+Menacma ou menacme	Período da vida caracterizado pelo sangramento menstrual, representando o período fértil da vida da mulher
+Menopausa	Última menstruação por perda da função folicular ovariana, caracterizada retrospectivamente após um período de 12 meses de amenorreia (geralmente entre 45 e 55 anos)
+Menopausa precoce (ou falência ovariana prematura)	Ocorrência espontânea da menopausa antes dos 40 anos, por perda da função folicular ovariana (e não pós-cirurgia, por exemplo)
+Climatério	Período de transição entre a menacma e a senilidade, de limites imprecisos, que se inicia com o declínio da atividade gonadal da mulher, compreende as fases de pré-menopausa, perimenopausa e pós-menopausa e é caracterizada por hipoestrogenismo progressivo
+Perimenopausa	Período antes, durante e após a menopausa e que pode ser assintomático ou com sintomas signi-ficativos, de início insidioso ou abrupto, até 12 meses após a menopausa
+Pós-menopausa	Período que se inicia 12 meses após a menopausa e vai até a senilidade 
+
+2. Eixo hipotalâmico-hipofisário-ovariano e esteroidogênese ovariana
+
+A interação entre o hipotálamo, a hipófise e o ovário é responsável pelo ciclo menstrual. O hipotálamo regula toda a pro-dução da hipófise por meio da secreção dos fatores de liberação hipofisários: hormônio de liberação das gonadotrofinas (GnRH), hormônio de liberação do hormônio de crescimento (GHRH), hormônio liberador da tireotrofina (TRH) e fator de liberação de corticotrofina (CRF), além do fator inibidor da prolactina (PIF), que é a dopamina. 
+O controle da secreção do GnRH se dá por meio de retroação, ou feedback, e acontece em 3 níveis: alça longa, por meio dos hormônios ovarianos; alça curta, pelos hormônios hipofisários; e alça ultracurta, na qual o GnRH age no hipotálamo, con-trolando sua própria produção. O GnRH controla a liberação de 2 hormônios pela adeno-hipófise: o folículo-estimulante (FSH) e o luteinizante (LH). Para a correta liberação hormonal, a secreção do GnRH se dá de forma pulsátil e varia em frequência e amplitude durante o ciclo menstrual.
+A hipófise pode ser dividida em adeno-hipófise, responsável pela secreção de FSH, LH, TSH, ACTH, GH e prolactina, e neu-ro-hipófise, que secreta ocitocina e hormônio antidiurético (ADH). As gonadotrofinas (FSH e LH) são responsáveis pela esti-mulação folicular, ovulação e regulação da esteroidogênese ovariana. Por outro lado, sua síntese e secreção dependem dos níveis de estrogênios, progesterona e inibina A.
+
+Pergunta
+2013 - AMRIGS
+1. Considere as assertivas em relação ao controle neuroendócrino do ciclo menstrual:
+I - A luteólise que ocorre cerca de 2 a 3 dias antes do início da menstruação determina a elevação dos níveis de FSH.
+II - O FSH induz tanto a síntese de receptores de FSH quanto de LH nas células da teca e da granulosa.
+III - O FSH é essencial para o recrutamento e para o crescimento dos folículos ovarianos, induzindo à proliferação das células da granulosa.
+Está(ão) correta(s):
+a) I, apenas
+b) I, II
+c) I, III
+d) II, III
+e) I, II, III
+Resposta no final do capítulo
+
+A molécula-chave para a produção dos hormônios esteroides nos ovários e nas glândulas adrenais é o colesterol, princi-palmente o LDL, absorvido da circulação periférica. Por meio de vias (cascatas de reações) próprias de cada órgão, o coleste-rol sofre transformações, chegando às moléculas finais. Há 2 vias principais para a esteroidogênese – delta 4 e delta 5. O início delas e as moléculas iniciais são semelhantes, mas a ativação preferencial de uma ou de outra enzima determina a via a ser seguida, bem como os seus principais produtos finais.
+Nas adrenais, a via preferencial é a chamada delta 4, que transformará o colesterol nos androgênios androstenediona (AND) e sulfato de deidroepiandrosterona (S-DHEA).
+Nos ovários, o mecanismo de esteroidogênese envolve as diferentes camadas do órgão (teca e granulosa) com a produção de estrogênios e progesterona, como veremos a seguir, pela via delta 5.
+
+ 
+Figura 1 - Esteroidogênese 
+Fontes: Prof. Dr. Sebastião Freitas de Medeiros e Voxmed Medical Communications LLC.
+
+Os folículos ovarianos contêm 2 camadas funcionais, envolvidas diretamente na esteroidogênese: a teca, com receptores para o LH, e a granulosa, com receptores para o FSH. O FSH e o LH são chamados gonadotrofinas e secretados pela hipófise anterior (adeno-hipófise) sob o estímulo do GnRH liberado pelo hipotálamo de maneira pulsátil, isto é, em picos, sendo 1 pulso a cada 90 minutos na fase folicular e 1 a cada 220 minutos na fase lútea (Figura 2). A frequência desses picos modula a secreção das gonadotrofinas e está intimamente ligada a alterações menstruais. 
+
+
+ 
+Figura 2 - Representação esquemática dos pulsos de hormônio de liberação das gonadotrofinas
+
+Diversos fatores estimulam a secreção do GnRH: noradrenalina, histamina, aminoácidos, neuropeptídios, adenosina, subs-tância P, óxido nítrico e os próprios esteroides ovarianos. Uma vez liberado, o GnRH atinge a hipófise por meio do sistema porta-hipofisário e estimula os gonadotrofos (células especializadas em produzir gonadotrofinas) a liberarem o FSH e o LH. 
+ 
+Figura 3 - Eixo hipotalâmico-hipofisário-ovariano
+
+
+ 
+Figura 4 - Ovários e múltiplos folículos em diferentes fases no ciclo menstrual (de folículo primordial a corpo lúteo)
+
+O FSH encontrará seus receptores na camada granulosa do ovário e iniciará o estímulo para a etapa avançada do desen-volvimento folicular e dominância. O LH alcançará os receptores da teca para promover o amadurecimento final do folículo, o estímulo à ovulação, a luteinização de suas células pós-ovulação e o funcionamento do corpo lúteo. O próprio FSH é respon-sável pela indução do aparecimento de seus receptores na camada granulosa e dos receptores de LH na camada da teca.
+Uma explicação bastante razoável para essa interação FSH–LH–granulosa–teca foi proposta há alguns anos por estudiosos do assunto e consiste na teoria das 2 células–2 gonadotrofinas (Figura 5). Segundo essa teoria, a função ovariana na esteroi-dogênese se resumiria em: LH encontra receptor na membrana celular da teca, sofre algumas reações intracelulares e trans-forma-se em androstenediona (AND) e testosterona (TEST). Por difusão, esses androgênios recém-formados atingem a cama-da granulosa, onde o FSH encontra seu receptor específico e estimula uma enzima (aromatase), que catalisa as reações de transformação da AND em estrona (E1) e da TEST em estradiol (E2).
+
+Dica
+O excedente de androgênios produzidos pelas células da teca também pode ser convertido em estrogênio na periferia (aromatização periférica). Os órgãos e tecidos que apresentam aromatase são tecido adiposo, fígado e músculo esquelético. Por isso mulheres obesas ou com sobrepeso apresentam maior conversão periférica de androgênios em estrogênio. O es-trogênio periférico é a estrona.
+	
+  
+Figura 5 - Teoria das 2 células–2 gonadotrofinas
+
+3. Ciclo menstrual propriamente dito
+
+O ciclo menstrual tem início no dia em que começa o sangramento menstrual (1º dia) e termina no dia imediatamente an-terior ao sangramento seguinte. Tem duração média de 21 a 35 dias em mulheres normais e pode ser dividido em 2 fases (folicular e lútea); alguns autores consideram também a fase ovulatória. 
+A fase folicular, também chamada proliferativa, inicia-se no 1º dia da menstruação e caracteriza-se pelo recrutamento e pelo amadurecimento folicular sob a ação do FSH. É uma fase variável, que dura em média 14 dias do 1º dia da menstruação até o pico do LH. A fase lútea inicia-se com a ovulação e termina com o último dia que precede o aparecimento da menstrua-ção, além de caracterizar-se pela produção de progesterona e ter duração fixa de 14 dias.
+Como todo ciclo, os estágios que o compõem comportam-se de maneira entrelaçada. Descreveremos, a seguir, a sequên-cia de eventos.
+Com a aproximação do fim do ciclo anterior, ocorre a luteólise (morte das células do corpo lúteo), com atrofia progressiva deste. O corpo lúteo secreta grandes quantidades de E2, progesterona e inibina A; com sua atrofia, a concentração desses hormônios cai na circulação e para de inibir a secreção do FSH que, então, se eleva.
+O aumento progressivo do FSH inicia o processo de recrutamento folicular, mobilizando, mensalmente, cerca de 8 a 10 fo-lículos com diâmetros de 5mm ou mais, que se desenvolverão, passando pelos estágios de folículo primordial (o qual possui apenas 1 camada de células da granulosa e estava em repouso desde a 20ª semana de gestação), folículo primário (com a diferenciação de células do estroma em teca), pré-antral (caracterizado pela produção de estrogênios estimulada pelo FSH) e antral (caracterizada pelo acúmulo de líquido folicular rico em estrogênios), secretando quantidades progressivamente maio-res de E2 (Figura 6).
+  
+Figura 6 - Estágios do desenvolvimento folicular
+
+Um desses será “eleito” o Folículo Dominante (FD). Os fatores determinantes da dominância folicular são o maior número de receptores para FSH em sua membrana celular e fluxo sanguíneo preferencial. O FD inibe o crescimento dos outros folícu-los recrutados pela secreção de inibina B, atinge cerca de 18 a 19mm de diâmetro médio e secreta cada vez mais E2.
+Quando o E2 secretado pelo FD e por outros folículos atinge um patamar que leva o FSH a um nível circulatório crítico, chega-se à condição ideal para o pico de E2, cerca de 24 a 36 horas antes da ovulação.
+
+Importante
+O pico de estradiol fornece o sinal para o pico de LH, que ocorre 12 horas antes da ovulação e é considerado o evento fun-damental para a ovulação.
+
+ Para que esta aconteça, uma série de outros fatores induzidos pelo pico do LH deve acontecer: há digestão da parede fo-licular simultânea à contração das células musculares lisas locais e à expansão do líquido folicular. A digestão da parede ovular ocorre pela liberação de enzimas lisossômicas e de prostaglandinas, bem como E1 e progesterona, que determinam a citólise local; paralelamente, o LH determina a retomada da divisão meiótica no oócito.
+O oócito é liberado com uma camada de células ao seu redor, cumulus oophorus, responsáveis pela nutrição do oócito ao longo de seu trajeto pela tuba uterina.
+No ovário, o que restou do FD transforma-se em corpo lúteo e passa a produzir E2 e progesterona, esta em maior quanti-dade. A partir do momento da postura ovular, inicia-se a 2ª fase do ciclo menstrual, também chamada fase lútea ou secretora. O estrogênio liberado pelo corpo lúteo inibe a secreção de FSH e LH, assim como a inibina A secretada pelas células luteínicas inibe a secreção de FSH. Essa queda das gonadotrofinas contribui para a degeneração do corpo lúteo.
+O corpo lúteo tem duração de 14 dias. Desta forma, a fase lútea geralmente é fixa e dura 14 dias. Após esse período, suas células entram em um processo de apoptose que culmina em sua atresia, determinando queda acentuada dos níveis de E2 e progesterona; tal diminuição da concentração hormonal resulta em alteração endometrial irreversível.
+O endométrio alterado pela queda hormonal descama na forma de menstruação.
+A fase folicular possui maior variabilidade em sua duração, sendo, portanto, responsável pela variabilidade na duração do ciclo menstrual, o qual pode ser observado na Figura 7.
+
+  
+Figura 7 - Ciclo menstrual 
+
+Tabela 2 - Conceitos de normalidade da menstruação
+Duração do ciclo	Média de 28 dias, com variação de 21 a 35 dias
+Duração do sangramento	2 a 8 dias
+Volume de perda sanguínea	20 a 80mL por ciclo
+
+4. Ciclo endometrial
+
+Os 2 terços superficiais do endométrio são a camada funcional, que se prolifera para receber o embrião e se descama se não há gravidez, e a camada basal, mais profunda, que não sofre proliferação significativa, mas é fonte de regeneração endo-metrial após a menstruação. 
+Como já visto, são as diferentes concentrações de E2 e progesterona ao longo do ciclo menstrual que determinam as alte-rações endometriais. Na 1ª fase do ciclo, ocorre a proliferação endometrial sob estímulo estrogênico. O endométrio aumenta de espessura até cerca de 5mm, e suas glândulas se apresentam estreitas e tubulares. Essa 1ª fase é conhecida como prolife-rativa justamente referindo-se a esse padrão endometrial. Outra característica importante é o aumento de células ciliadas e microvilosas, responsáveis pela mobilização e distribuição das secreções endometriais na 2ª fase (secretora). 
+Já na 2ª fase do ciclo, há acúmulo de glicogênio, e as glândulas endometriais ficam edemaciadas e tortuosas, com arterío-las dilatadas e espiraladas. Tal fase denomina-se secretora, também com alusão ao padrão endometrial. O número de recep-tores de estrogênio cai, mas os de progesterona permanecem. 
+A 3ª e última fase endometrial é a menstruação, por atresia do corpo lúteo e queda nos níveis de E2 e progesterona, le-vando a isquemia e necrose do endométrio, secundários a vasoespasmos das arteríolas espiraladas.
+
+5. Muco cervical
+
+O muco cervical também sofre profundas alterações com as variações hormonais, de modo a tornar-se mais receptivo à passagem dos espermatozoides na fase pré-ovulatória e menos receptivo na pós-ovulatória. Na 1ª fase, as concentrações crescentes de E2 determinam o aumento na quantidade de muco, que também fica mais fluido e com maior filância (Figura 8). Nessa etapa, cristaliza-se “em folha de samambaia” quando colocado sobre uma lâmina e aquecido (Figura 9). Na 2ª fase, o aumento progressivo da progesterona o torna mais viscoso e espesso, com aspecto opaco.
+
+Pergunta
+2012 - SANTA CASA-SP 
+2. Dentre as alternativas a seguir, qual não é adequada para documentar a ovulação?
+a) temperatura basal
+b) progesterona sérica
+c) biópsia de endométrio
+d) monitorização do hormônio estimulante do folículo
+e) monitorização por ultrassonografia
+Resposta no final do capítulo
+
+  
+Figura 8 - Filância do muco na fase fértil
+
+  
+Figura 9 - Cristalização do muco na lâmina
+
+6. Resumo
+
+Quadro-resumo
+Colesterol
+- É a molécula primordial para produção de hormônios esteroidais;
+- São 2 as vias metabólicas para esteroides sexuais: delta 4 e delta 5;
+- Nos ovários, predomina a via delta 4, e nas suprarrenais, a delta 5.
+Teoria das 2 células–2 gonadotrofinas
+O LH liga-se aos receptores da teca e transforma o colesterol absorvido do sangue periférico em AND e TEST, por meio da via delta 4. O FSH, na sequência, liga-se aos receptores da granulosa e, por meio da enzima aromatase – estimulada pelo FSH –, transforma os andro-gênios em estrogênios, sendo a AND transformada em E1, e a TEST, em E2.
+Funções do pico do LH
+- Amadurecimento final do folículo;
+- Estímulo à ovulação pela lise de células parietais do folículo pré-ovulatório;
+- Luteinização das células remanescentes do folículo, transformando-o em corpo lúteo, com função de produção de E2 e progesterona;
+- 1ª fase do ciclo menstrual caracterizada por elevação do FSH, recrutando folículos, entre eles o FD, responsável pelo aumento do estro-gênio, causando o pico de LH, evento que acarretará a ovulação;
+- Após a ovulação, ocorre a formação do corpo lúteo, principal responsável pela manutenção do alto nível progestogênico da 2ª fase. Den-tro de 14 dias, ocorre a degeneração do corpo lúteo, causando decréscimo nos níveis de estrogênio e progesterona, com consequente isquemia e necrose do tecido endometrial proliferado, acarretando a menstruação.
+
+Respostas
+1. E
+2. D
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX 

@@ -1,0 +1,424 @@
+diff --git a/gineco1_1.txt b/gineco1_1.txt
+index 0e31656..6d418bd 100644
+--- a/gineco1_1.txt
++++ b/gineco1_1.txt
+@@ -1,292 +1,361 @@
+Anatomia, embriologia e malformações do trato reprodutivo feminino
+Flávia Fairbanks Lima de Oliveira Marino
+Márcia Pereira de Araújo
+
+[-Resumo-]Neste capítulo, serão abordados temas basais como anatomia e embriologia do trato reprodu{+-+}tor feminino, para na sequên[---]cia serem apre{+-+}sentadas as suas malformações[-, como o distúrbio do desenvolvimento ovotesticular, a síndrome de Turner e a síndrome de Klinefelter-]. Os distúrbios do desenvolvimento sexual, estados em que há discordância das gônadas com a genitália externa (como hiperplasia adrenal congênita), e as síndromes genéticas que desencadeiam malformações genitais, figuram a maioria das questões de provas do assunto. 
+
+1. Anatomia
+
+  
+Figura 1 - Anatomia do assoalho pélvico feminino
+{+O trato reprodutivo feminino é composto por:+}
+{+ Estrutura pélvica - bacia óssea, ligamentos, músculos e estruturas de sustentação; +}
+{+ Órgãos Genitais Internos (OGIs): ovários, trompas uterinas, útero e vagina; +}
+{+ Órgãos Genitais Externos (OGEs): vulva, composta por lábios maiores e menores, monte do pube (vê-nus), clitóris, vestíbulo e glândulas vaginais maiores (Bartholin) e menores (Skene). E, ainda, o períneo e a membrana himenal ou hímen, que oclui parcialmente a entrada da vagina após sofrer rotura com o iní-cio da atividade sexual, passando a ser constituída por resquícios, denominados carúnculas himenais;+}
+{+ Mamas. +}
+{+Neste capítulo, serão abordados, exclusivamente: a estrutura pélvica, os órgãos genitais internos e exter-nos.+}
+
+[-O-]{+2.+} {+Es+}tr[-a-]{+u+}t[-o -]{+u+}r[-e-]{+a +}p[-roduti-]{+él+}v[-o femin-]i[-no-]{+ca+}
+{+A+} [-é-]{+-+} {+Ba+}c[-ompo-]{+ia ó+}s[-to-]{+sea+}
+{+A+} pel{+ve é f+}o[-s-]{+rmada+} [-ó-]{+po+}r[-gã-]{+ oss+}os [-genit-]{+do qu+}a{+dr+}i[-s-]{+l,+} [-(inte-]{+sac+}r[-n-]o[-s-] e [-e-]{+cócci+}x[-te-]{+, fo+}r{+ma+}n{+d+}o[-s)-] [-e-]{+um+} [-p-]{+an+}el[-as-] [-mama-]{+ó+}s[-. Ne-]s[-t-]e[- capítul-]o, [-s-]{+ond+}e[-rã-]{+ há +}o {+sistem+}a[-bo-]{+ +}r{+e-pro+}d[-ad-]{+ut+}o[-s,-]{+r+} {+f+}e[-xclusiva-]m[-e-]{+i+}n[-te-]{+ino+}, o[-s-] [-ó-]r[-gãos g-]e[-ni-]t[-ais.-]
+[-Órgã-]o[-s-] [-G-]e{+ o ca+}n[-it-]a[-is-]{+l+} [-Inter-]{+a+}n[-os (OGIs):-]{+al.+} [-c-]{+P+}o[-mpreen-]de[-m-]{+,+} [-v-]a[-g-]in{+d+}a, [-útero, tuba-]s[- -]e{+r+} [-o-]{+di+}v[-ár-]i[-os;-]
+[-Órgãos Gen-]{+d+}i[-t-]{+d+}a[-is-]{+,+} [-Ex-]{+dida+}t[-ernos (OGEs): -]{+i+}c[-o-]{+a+}m[-pre-]en[-d-]{+t+}e[-m-]{+,+} [-a-]{+em+} [-vu-]{+pe+}lv{+e verdadeir+}a[-,-] [-co-]{+(+}m[-p-]{+en+}o[-sta-]{+r) e+} p[-or-]{+elve+} {+fa+}l[-ábio-]s{+a+} {+(+}maior[-es-]{+).+} [-e-]{+A+} [-me-]{+li+}n[-o-]{+ha a+}r{+qu+}e[-s,-]{+ada+} [-m-]o[-n-]{+u aber+}t{+ura sup+}e{+rior+} d[-o-]{+a+} p[-ub-]{+elv+}e ([-vênu-]{+e+}s[-), cli-]t[-ó-]r{+e+}i[-s,-]{+to+} [-ve-]s[-tíb-]u[-l-]{+peri+}o{+r)+} {+divid+}e [-glândul-]a[-s-] {+pel+}v[-aginais-]{+e em+} maior[-es-] ([-Ba-]{+supe+}r[-th-]{+i+}o{+r à +}lin{+ha arqueada+}) e {+pelve +}menor[-es-] ([-Skene). A mem-]{+a+}b[-r-]a[-n-]{+ixo d+}a [-h-]{+l+}i[-me-]n{+h+}a[-l-] [-ou hímen, que oclui p-]ar[-cialmente a -]{+qu+}e[-ntrad-]a[- -]da{+).+} [-vagina,-]{+A+} [-a-]p[-ós sofr-]e[-r rotura com o início da ati-]{+l+}v[-idad-]e [-sexual, passa a s-]{+v+}er[- constituí-]da[- por resquí-cios -]de[-nom-]i[-nados ca-]{+-+}r[-úncul-]a[-s hi-]{+/+}men[-ais.-]
+
+[-A - Órgã-]o[-s genitais inte-]r[-nos-] [-a)-]{+é+} [-Vagina-]
+[-T-]{+fo+}r{+m+}a[-ta-se -]d[-e um-]{+a+} [-órgã-]{+p+}o[- tubula-]r[-,-] [-c-]{+2 +}o[-n-]s[-tituído de parte mu-]s[-cular e parte membran-]os[-a, que-] [-une a cérv-]i[-ce uterina (na su-]{+lí+}a[- p-]{+c+}o{+s, +}r[--ç-]{+egi+}ão {+s+}a[-pi-]c{+rococcíge+}a[-l)-] [-à-]{+da+} [-vu-]{+co+}l[-v-]{+un+}a [-(po-]{+ve+}r[-ção dis-]t{+ebr+}al[-). Em-] [-r-]e{+ +}p[-ouso,-]{+ela+} s[-ua-]{+ínfi+}s{+e+} p{+úbic+}a[-r-]{+, s+}e{+n+}d{+o s+}e{+u+}s {+diâm+}e[-s-]t[-ã-]{+r+}o{+s+} {+d+}e[-m-] [-con-]{+ex+}t{+rem+}a[-to,-] [-de-]i[-x-]{+mportânci+}a{+ +}n[-d-]o [-a-]p[-enas um-]a{+rto+} [-ca-]v[-id-]a[-de v-]{+g+}i[-rtu-]{+n+}al. [-Tem -]{+Ess+}e[-m-] [-tor-]{+assu+}n{+t+}o [-d-]{+s+}e{+rá+} [-7 a 8c-]m{+ais+} [-d-]{+b+}e{+m+} [-c-]{+ab+}o[-mp-]r[-iment-]{+dad+}o e{+m+} {+Ob+}s[-ofr-]{+t+}e{+trícia,+} [-mol-]d[-ag-]e[-m -]{+vi+}d{+o à s+}u[-r-]a[-nte-] {+imp+}o[- -]{+rtân+}c[-o-]i[-to e-]{+a+} {+n+}o [-p-]{+mec+}a[-rt-]{+nism+}o[-,-] [-po-]de[-ndo-] [-along-]{+p+}ar[--se-]{+to+}.{+ +}
+
+[-b) Útero-]
+[-Trata-se do órgão responsável pelo armazenamento do produto conceptual durante a gestação. É constituído por fibras musculares lisas que se contraem. O útero é dividido em 2 segmentos: colo e corpo. O colo uterino (ou cérvice) é um cilindro muscular que contém fibras colágenas e um epitélio de revestimento. A sua arquitetura anatômica garante a manutenção da gestação no interior da cavidade uterina.-]
+[-O corpo do útero é a estrutura responsável por conter a gestação. Entre o colo e o corpo uterino, existe uma porção ana-tômica denominada istmo (Figura 2).-]
+ 
+Figura 2 - [-P-]{+Bacia óssea+}
+{+B - Estrutura pélvica muscular – estruturas de sustentação da pelve+}
+{+Os músculos da pelve feminina formam 2 importantes diafragmas: pélvico e urogenital, que participam da formação e sustentação da pelve. Ambos são importantes para as questões de prova, devendo ser me-morizados.+}
+{+O diafragma pélvico é composto pelo músculo coccígeo e elevador do ânus. Entretanto, o músculo eleva-dor do ânus é formado por 3 músculos, o pubococcígeo, ileococcígeo e o puborretal. +}
+{+O músculo levantador do ânus, estrutura essencial de contenção das vísceras pélvicas, é o principal ele-mento do aparelho de sustentação e é composto de 3 porções: mais interna, que circunda as rafes de abertura para +}o{+s canais u+}r[-çõ-]e[-s-]{+tral,+} {+v+}a{+gi+}na{+l e retal, chamada puborretal; e outras 2 la+}t[-ô-]{+erais, chamadas pu-bococcígea e ileococcígea (Figura 3). +}
+{+O diafrag+}m{+a urogen+}i{+tal é composto pelos mús+}c{+ulos tr+}a{+nsverso profundo do períneo e e+}s{+fíncter uretral. +}
+{+A parede lateral da pelve é+} {+forma+}d{+a pel+}o{+s+} {+m+}ú{+sculos piriforme, obturador in+}ter{+no e iliops+}o{+as. +}
+
+[-Os ligamentos que sustentam o útero lateralmente são denominados cardinais ou paramétrios. Eles se estendem das late-rais do colo uterino até os ossos ilíacos. Outros ligamentos também importantes saem da região posterior do colo uterino e se estendem até o sacro: são os uterossacros (Figura 3), importantes para a sustentação do útero, pois mantêm o colo elevado e tracionado posteriormente. -]
+ 
+Figura 3 - [-Lig-]{+Ap+}a[-m-]{+r+}e[-nt-]{+lh+}o[-s-] de sustentação d[-o útero: cardin-]a[-is-] {+p+}e[- ut-]{+lv+}e[-rossacros-] 
+ 
+ 
+Figura 4 - [-Relações-]{+(A)+} {+Di+}a[-n-]{+fr+}a[-tô-]{+g+}m[-ic-]a[-s-]
+
+[-O-] [-múscu-]{+pé+}l{+vic+}o [-l-]e[-vantador-] [-do-]{+(B)+} [-ân-]{+m+}us[-, a estr-]{+c+}u{+la+}tura {+su+}p{+e+}r{+f+}i[-n-]ci[-p-]al d[-e c-]o[-nt-]{+ p+}e{+rí+}n[-çã-]{+e+}o
+{+C+} [-das-]{+-+} [-ví-]{+E+}s[-ce-]{+trutu+}ras {+de sus+}p[-élvica-]{+en+}s[-, é -]{+ã+}o [-princip-]{+d+}a[-l-] {+p+}el{+v+}e
+[-mento do-]{+O+} apare[---]lho de sus[-t-]{+p+}en[-taç-]{+s+}ão {+da pelv+}e é [-c-]{+f+}o{+r+}m{+ado +}po[-s-]{+r ligamen+}to{+s,+} [-d-]{+s+}e{+ndo+} [-3 -]{+com+}po[-rçõe-]s[-:-]{+to+} [-mais-]{+pelo+} {+l+}i{+game+}nt{+o ut+}er[-n-]{+oss+}a[-,-]{+-cro+} [-qu-]e c[-i-]{+a+}r[-cun-]d{+in+}a{+l+} [-as -]{+(ce+}r{+vic+}a[-fes de-]{+l+} {+l+}a[-ber-]t[-u-]{+e+}ra[- -]{+l/+}para{+métrios).+} {+Com+}o{+ +}s{+ão+} [-ca-]{+respo+}n[-a-]{+sáve+}is [-ur-]{+p+}e[-tra-]l[-, v-]a[-gi-]{+ suspe+}n{+são d+}a[-l-] {+pelv+}e{+,+} [-r-]e{+s+}t[-al,-]{+ão+} [-chama-]d[-a pubor-]{+i+}re{+-+}ta[-l; -]{+m+}e[- ou-]{+n+}t{+e +}r{+el+}a{+cionado+}s [-2-]{+à+} [-l-]{+fix+}a{+ção do ú+}ter[-ais,-]{+o+} [-chamad-]{+intr+}a[-s -]p[-ubo-]{+élvi+}co[-ccíg-]{+, ou s+}e{+j+}a{+,+} [-e-]{+quando+} [-i-]le{+si+}o[-c-]{+nad+}o{+s a+}c[-cíge-]a[- (Figu-]r{+ret+}a{+m+} [-5). -]
+
+[-Tabe-]{+pro+}la{+pso+} [-1-]{+uterino.+} [---]{+Os+} [-Ap-]{+lig+}a[-r-]{+m+}e[-lh-]{+nt+}os [-o-]{+q+}u{+e+} s[-i-]{+u+}ste[-m-]{+nt+}a[-s-]{+m+} [-resp-]o[-nsáveis-] [-p-]{+út+}e{+ro +}la[- es-]t[-á-]{+eralmen+}t{+e são denom+}i[-c-]{+n+}a[- -]dos [-ó-]{+ca+}r[-gão-]{+dinai+}s [-pélvic-]o[-s-]
+[-A-]{+u +}par[-elh-]{+amétri+}o{+s.+} [-d-]{+El+}e{+s+} s[-u-]{+e e+}s[-p-]{+t+}en{+dem da+}s[-ão-]
+[-Lig-]{+ l+}a[-men-]t[-o-]{+erai+}s [-pub-]{+d+}o[-vesi-]{+ +}co{+lo +}uterino[-s-] [-+ par-]a[-mé-]t[-ri-]{+é os oss+}os {+i+}l{+í+}a{+cos. Ou+}t[-e-]r[-ai-]{+o+}s [-+ -]ligamentos [-u-]t[-eross-]a[-c-]{+mbém impo+}r{+t+}a[-i-]{+nte+}s [-+ fá-]s[-ci-]a[- -]e[-n-]{+m +}d{+a regiã+}o{+ +}p[-élv-]{+oster+}i[-ca-]
+[-Apa-]{+o+}r[-e-]{+ do co+}l[-h-]o [-d-]{+uterino +}e s[-u-]{+e e+}sten{+dem a+}t{+é o s+}a[-ç-]{+cro: s+}ão o[-u-]{+s+} [-a-]{+utero+}ss[-o-]a[-lho pélvi-]c{+r+}o[-D-]{+s (F+}i[-af-]{+gu+}ra[-g-]{+ 3), impor-tantes para a suspensão do útero, pois mantêm o colo elevado e tracionado posteriormente.+}
+{+ +}
+{+Figura 5 - (A) Aparelho de suspensão do útero e (B) ligamentos de suspensão do útero: cardinais e uterossacros+}
+
+{+D - Estruturas de contenção da pelve +}
+
+{+As estruturas de contenção da pelve são: fáscia endopélvica e ligamento redondo.+}
+{+Os aparelhos ou sistemas responsáveis pela estática dos órgãos pélvicos são divididos da seguinte forma:+}
+{+Aparelho de suspensão: ligamentos pubovesicouterinos + paramétrios laterais + ligamentos uterossacrais + fáscia en-dopélvica;+}
+{+Aparelho de sustentação ou assoalho pélvico: +}
+{+	· Diafragma pélvico: músculo levantador do ânus + músculo coccígeo;+}
+{+	· Diafragma urogenital: músculo transverso profundo do períneo + músculo esfíncter da uretra.+}
+
+{+3. Órgãos genitais internos+}
+{+Os órgãos genitais internos, como supracitado, correspondem a ovários, trompas uterinas, útero e vagina. +}
+
+{+A - Vagina+}
+{+Trata-se de um órgão tubular, constituído de parte muscular e parte membranosa, que une a cérvice uterina (colo do útero) à vulva (porção distal). O fórnice posterior, que corresponde ao espaço posterior entre a cérvice uterina e a parede vaginal, é via de acesso fácil à cavidade peritoneal. Em repouso, suas paredes estão em contato, deixando ape-nas uma cavidade virtual. Tem em torno de 7 a 8cm de comprimento e sofre moldagem durante o coito e o parto, po-dendo alongar-se.+}
+{+A parede vaginal é formada pelas camadas mucosa, muscular e adventícia. A camada mucosa é revestida por epitélio escamoso pavimentado estratificado não queratinizado, composto pelas células basais internas, basais externas, inter-mediárias e superficiais, e sofre influência hormonal, principalmente estrogênica. +}
+{+Sob ausência de estrogênio: predomínio de células basais;+}
+{+Sob baixo estímulo estrogênico: predomínio células intermediárias;+}
+{+Sob elevadas taxas estrogênio: predomínio de células superficiais.+}
+{+Observe, ainda, que esse epitélio não é glandular. A produção da secreção vaginal advém das glândulas cervicais e da transudação por esse epitélio. +}
+
+{+B - Útero+}
+{+Trata-se do órgão pélvico, piriforme, de 7x4x2cm de dimensões, responsável pelo armazenamento do produto concep-tual durante a gestação. O útero é dividido em 4 segmentos: fundo (contato com as trompas uterinas), corpo, istmo e cérvice (porção uterina localizada na vagina). O corpo do útero é a estrutura responsável por conter a gestação. For-mação da parede uterina:+}
+{+Endométrio: parte interna do útero, com revestimento pelo epitélio cilíndrico simples, com células secretoras e cilia-das, numerosas glândulas tubulares simples e estroma de tecido conjuntivo celular ricamente vascularizado. Sofre grande influência hormonal durante o ciclo menstrual e é responsável pela menstruação. O evento hormonal no en-dométrio será +}ma{+is bem+} {+ex+}p[-é-]l[-v-]ic{+ad+}o[-	Mús-]{+ no +}c{+apít+}ulo {+de cic+}l{+o m+}e[-va-]n{+s+}t{+ru+}a[-d-]{+l;+}
+{+Mi+}o{+mét+}r{+io:+} {+forma+}do [-ânus-]{+por+} [-+-]{+camada+} m[-ú-]{+u+}scul[-o-]{+ar+} [-coccígeo-]
+[-D-]{+l+}i{+s+}a{+ que so+}fr{+e hiperpl+}a[-gm-]{+si+}a [-urog-]e[-n-]{+ h+}i{+per+}t[-al	Múscul-]{+r+}o{+fia+} [-t-]{+du+}ran{+te a ge+}s[-v-]{+tação;+}
+{+S+}er[-s-]o{+sa:+} [-pr-]{+c+}o[-fu-]n{+stituí+}d[-o do-]{+a+} p[-e-]{+o+}r[-ín-]{+ t+}e{+cid+}o [-+ mús-]c{+onj+}u[-l-]{+ntiv+}o [-es-]f[-íncte-]r{+ouxo+} [-da-]{+e+} [-ur-]{+m+}e{+so+}t[-ra-]{+élio.+} 
+{+O colo+} [-Fig-]u{+te+}r[-a-]{+ino+} [-5-]{+é+} [---]{+a+} [-A-]p[-a-]{+o+}r[-elh-]{+çã+}o [-de suspen-]{+mai+}s[-ã-]{+ inferi+}o{+r+} do útero {+e+} [-Figura 6 --]{+é+} [-Dia-]f{+o+}r[-ag-]ma{+do+} p[-élvic-]o[-c)-]{+r+} [-Tubas-]
+[-Lo-]{+te+}c[-al-]i[-za-]d[-as-]{+o+} [-lateralme-]{+conju+}nt[-e a-]{+iv+}o [-út-]e[-ro,-] a[-s t-]{+lg+}u[-b-]{+m+}as [-uter-]{+f+}i[-n-]{+br+}as [-são estrut-]{+m+}u[-ra-]s[- canali-]culares{+,+} [-resp-]{+c+}o{+mu-+}n[-sáve-]i[-s pelo tr-]{+c+}a[-n-]{+-+}s[-port-]e [-d-]{+c+}o{+m a+} [-oó-]c{+av+}i[-to -]d[-ur-]a[-nte o perío-]d[-o-]{+e+} [-ov-]u[-la-]t[-ó-]{+e+}ri[-o.-]{+na+} [-São,-]{+e+} {+v+}a{+g+}in[-d-]a[-,-] [-u-]{+e +}m{+ede+} [-i-]{+3c+}m[-p-]{+ de c+}o{+mp+}r{+imen+}t{+o, +}a{+proximadame+}nte{+.+} {+O reve+}s[-í-]ti{+ment+}o d{+o canal c+}e{+rvical é+} {+d+}en[-c-]o{+mi+}n[-tr-]{+ad+}o {+en+}do[-s-]{+cérvice+} [-gam-]e[-tas-] [-pa-]{+fo+}r{+m+}a[- a -]{+d+}o[-c-]{+ p+}or[-rência da-] [-f-]e{+pitélio +}c{+ol+}un[-d-]a[-ção.-]{+r+} [-Div-]{+s+}i[-de-]m[--s-]{+pl+}e{+s.+} {+Ess+}e[-m 4-] {+e+}p{+itéli+}o[-rções-] [-a-]{+i+}n{+v+}a[-tôm-]{+g+}i[-c-]{+n+}a[-s, -]{+-+}se[-gui-]{+ forma+}ndo [-o-]{+as+} {+glândula+}s{+ +}en[-ti-]do[- út-]{+c+}er[-o–o-]v[-ário: -]i[-ntramur-]{+c+}a[-l, -]is[-tmo-], [-am-]p{+r+}o[-la e infun-]d[-íb-]u[-l-]{+t+}o[- (Figu-]ra{+s+} [-7)-]{+de muco+}. A [-fecund-]{+p+}a[-ção ge-]r[-almen-]te {+d+}a{+ +}c[-onte-]{+érvi+}ce [-na-]{+que se+} p[-o-]r[-çã-]o[- -]{+jet+}a[-m-]{+ +}p[-ul-]ar{+a+} {+a vagina é denomina+}da {+ec+}t[-uba-]{+océrvi-ce+}, [-qu-]{+s+}e{+ndo+} [-é també-]{+for+}m{+ada+} {+p+}o{+r+} [-sí-]{+epi+}t{+él+}io [-m-]{+p+}a{+v+}i[-s co-]m[-um da-]{+ento+}s{+o+} [-g-]est{+r+}a[-ções ec-]t[-óp-]{+if+}ica[-s.-]d[-) Ovári-]o[-s-]
+[-Órg-]{+ n+}ão[-s-] [-sex-]{+q+}u[-ais -]e[-ndóc-]r{+at+}in{+izad+}o[-s,-]{+. Há+} [-p-]a{+b+}r[-es, q-]u[-e -]{+pt+}a{+ t+}r[-m-]a[-z-]{+nsição +}en[-am-]{+tre+} o[-s-] [-g-]{+epitélio p+}a{+-vi+}me{+n+}t[-a-]{+o+}s{+o+} [-f-]e[-m-]{+strat+}i[-n-]{+f+}i[-n-]{+cad+}o[-s-] e {+o +}co[-m-]{+l+}un[-ic-]a[-m--]{+r +}s{+impl+}e{+s+} [-c-]{+– junçã+}o[-m-] [-a-]{+e+}s[- tub-]{+c+}a[-s p-]{+m+}o{+coluna+}r{+,+} [-m-]{+qu+}e[-io-] {+po+}d[-as-]{+e+} [-fím-b-]{+esta+}r{+ v+}i[-a-]s{+ível+} na [-sua p-]{+ect+}o{+cé+}r[-çã-]{+vice +}o{+u+} d[-is-]{+en+}t{+ro do can+}al.
+
+  
+Figura {+6 - Anatomia do aparelho reprodutor feminino+}
+{+C - Tubas uterinas (trompas de Falópio)+}
+{+São estruturas tubulares bilaterais, localizadas lateralmente ao útero com uma extremidade aberta para a cavidade peritoneal (em contato com o ovário) e a outra para a cavidade uterina (região cornual do útero). Medem de 10 a 15cm de comprimento e 1cm de diâmetro, aproximadamente, e são responsáveis pelo transporte do oócito durante o período ovulatório. São, ainda, um importante sítio de encontro dos gametas para a ocorrência da fecundação. Divi-dem-se em 4 porções anatômicas, seguindo o sentido útero–ovário: intramural, istmo, ampola e infundíbulo (Figura +}7{+). A fecundação geralmente acontece na porção ampular da tuba,+} [---]{+que é também o sítio mais comum das gestações+} [-Ú-]{+ec+}t{+ó-picas. A pared+}e{+ das t+}ro[-,-]{+mpas é+} {+consti+}tu{+ída por 3 camadas:+}
+{+Mucosa: reco+}b{+ert+}a {+por +}e{+pitélio+} {+c+}o[-vá-]{+luna+}r{+ simples, com células cil+}i{+adas e nã+}o {+ciladas +}([-4-]{+secretoras);+}
+{+Muscular: composta por fibras musculares lisas;+}
+{+Serosa: formada+} por{+ tecido conjuntivo frouxo. +}
+{+ +}
+{+ +}
+{+Figura 7 - Por+}ções [-d-]{+anatômic+}as {+do ú+}t[-ub-]{+ero, tromp+}as uterinas[-)-]{+ e ovários+}
+
+[-B-]{+D+} - [-P-]{+Ovários+}
+{+São órgãos sexuais endócrinos, pares, de tamanho de 3 a 4cm de comprimento x 2cm de largura x 1cm de espessura, que armazenam os gametas femininos e comunicam-se com as tubas por meio das fímbrias na sua porção distal. São formados pelo córtex (periférico), com elevado número de folículos em estágios diferentes de desenvolvimento e pela medula com tecido conjuntivo, vasos sanguíneos, linfáticos e inervação. A mulher contém, aproximadamente, 400.000 folículos primordiais ao nascimento, e, destes, 400 +}a{+ 450 irão evolui+}r{+ até o es+}t{+ág+}i[-c-]{+o de ov+}ula{+ção e os demais sofrerão at+}r{+es+}i[-d-]a{+ folicular. As fases +}de{+ evolução folicular são: folículo primordial, folículo primário, folículo +}s{+ecundário ou+} {+pré-+}an{+tral, folículo maduro (Graaf) e folículo +}at{+résico. Essa evolução folicular horm+}ô{+nio dependente será mais bem aborda-da em ciclo +}m{+enstrual. +}
+{+ +}
+{+F+}i{+gura 8 - Evolução dos folí+}c{+ulos ov+}a{+riano+}s
+
+{+E - Particularidades anatômicas+}
+a) Ligamento largo
+Trata-se da denominação dada à dobra do peritônio sobre si mesmo, localizado logo abaixo das tubas e dirigindo-se ao ovário e à face lateral do útero.
+
+b) Paramétrios laterais
+Também chamados ligamentos cardinais[-,-] ou de Mackenrodt. Através deles passam diversos nervos, vasos linfáticos, linfo[---]nodos, a artéria uterina e o ureter. Há uma relação de proximidade importante entre a ar{+-+}téria uterina (que passa por cima) e o ureter (que passa por baixo).
+c) Períneo
+O períneo tem a forma de um losango com limite superior na sínfise púbica, limites laterais nas tuberosi{+-+}dades isquiáticas e limite inferior no cóccix. Os músculos contidos no períneo são os do diafragma urogeni{+-+}tal e outros na camada superficial: bulboesponjoso, isquiocavernoso e transverso superficial do períneo (Figura 8).
+d) Centro tendíneo do períneo
+Estrutura de confluência das fibras tendíneas dos músculos que compõem o espaço perineal, localiza-se entre a fúrcula vaginal e o ânus.
+
+e) Clitóris 
+Órgão constituído por tecido erétil (2 corpos cavernosos que se fundem formando o corpo do clitóris) e pela glande, que pode ser vista na mulher em posição de litotomia. É o órgão análogo do corpo esponjoso do pênis.
+
+
+Pergunta
+2014 - SUS-SP
+1. Os músculos do assoalho pélvico apontados a seguir são:
+ 
+[-	Músculos-]
+[-	1	2	3-]
+[-a)	Elevador do ânus	Perineal transverso	Isquiocavernoso-]
+[-b)	Elevador do ânus	Isquiocavernoso	Perineal transverso-]
+[-c)	Puborretal	Bulboesponjoso	Perineal transverso-]
+[-d)	Pubococcígeo	Perineal transverso	Bulboesponjoso-]
+[-e)	Elevador do ânus	Isquiocavernoso	Bulboesponjoso-]
+[-Resposta no final do capítulo-]
+
+{+a)+} {+1+} [-Fig-]{+- elevador do ân+}u{+s, 2 - pe+}r{+ine+}a{+l+} [-8-]{+transverso, 3+} - [-Mu-]{+i+}s[-c-]{+q+}u[-l-]{+ioc+}a[-tu-]{+ve+}r{+noso+}
+{+b) 1 - elev+}a{+dor do+} {+ânus, 2 - i+}s{+q+}u{+iocavernoso, 3 - +}per[-f-]i{+-neal transverso +}
+c{+) 1 - puborretal, 2 - bulbo-esponjoso, 3 - per+}i{+ne+}al {+transverso+}
+d{+) 1 - pubococcíge+}o{+, 2 -+} per[-í-]{+ineal tra+}n{+sv+}e{+rs+}o[-C-]{+, 3+} - [-I-]{+bulboespo+}n{+joso+}
+{+e) 1 - el+}e[-r-]va[-çã-]{+d+}o{+r do ânus+}, {+2 - +}i[-rr-]{+squ+}i[-g-]{+oc+}a[-çã-]{+vernos+}o{+,+} [-e-]{+3+} [-dr-]{+- bul-bo+}e{+spo+}n[-ag-]{+joso+}
+{+R+}e[-m-]{+sposta+} [-li-]n{+o +}f[-át-]i{+nal do +}ca{+pí-tulo+}
+
+{+F - Inervação, irrigação e drenagem linfática+}
+a) Vulva e períneo (OGEs)
+Inervação: basicamente, o nervo pudendo e seus ramos, derivados das raízes sacrais S2-S4;
+Irrigação: artéria pudenda interna (ramo da artéria ilíaca interna, também conhecida como artéria hipo{+-+}gástrica);
+Drenagem linfática: linfonodos inguinais e femorais.
+
+b) Cavidade pélvica (OGIs)
+Irrigação: os ovários são nutridos pelas artérias ovarianas, ramos diretos da artéria aorta. Em algumas pa{+-+}cientes, a artéria ovariana esquerda pode ser ramo da artéria renal esquerda. O útero e as tubas são irri{+-+}gados pelas artérias uterinas (ra[---]mos das artérias ilíacas internas), e a vagina, por ramos vaginais da arté{+-+}ria uterina e pela artéria vaginal (também ramo da ilíaca interna). {+Entretanto, a parte inferior da vagina é irrigada pelos vasos hemorroidários inferiores e pelos ramos da artéria pudenda interna. +}
+  
+Figura 9 - Sistema principal de irrigação uterina 
+
+Drenagem linfática: linfonodos ilíacos, para-aórticos e inguinais.
+{+4. Embriologia dos órgãos genitais +}
+{+Os sistemas urinário e genital desenvolvem-se a partir do mesoderma intermediário que se estende ao longo de toda a extensão do embrião. Durante a dobra inicial do embrião, o mesoderma intermediário forma uma crista longitudinal, denominada crista urogenital. Células germinativas primordiais surgem na camada ectodérmica externa do embrião e migram para a crista urogenital, com 40 dias de gestação. A crista urogenital irá formar as cristas nefrogênicas e geni-tais. Até a 6ª a 7ª semana de gestação, há a formação dos cordões sexuais primitivos pela proliferação do epitélio celô-mico da crista genital e formação de cordões epiteliais. +}
+{+As cristas nefrogênicas irão originar os rins mesonéfricos e os ductos mesonéfricos pareados (ductos de Wolff), com 60 dias de gestação, aproximadamente. Ocorre, ainda, invaginação do epitélio celômico por volta da 6ª semana de gesta-ção, formando o par de ductos paramesonéfricos (ductos müllerianos). +}
+{+A cloaca é a abertura comum onde se unem os tratos urinário, genital e gastrintestinal embrionários e, por volta da 7ª semana de gestação, se separa, formado o reto e o seio urogenital. O seio urogenital irá originar:+}
+{+Porção cranial ou vesicular: bexiga urinária;+}
+{+Porção média ou pélvica: uretra feminina;+}
+{+Porção caudal ou fálica: vagina distal, glândulas de Bartholin e de Skene e glândulas uretrais. +}
+{+Há uma associação íntima entre o ducto mesonéfrico (ducto de Wolff) e o ducto paramesonéfrico (mülleriano), estando a formação do trato urinário e reprodutivo intimamente relacionadas. Observam-se, dessa forma, malformações utero-vaginais associadas a anomalias de trato urinário em até 50% dos casos. +}
+{+  +}
+{+Figura 10 - Formação embrionária inicial do trato genital+}
+
+[-2.-]{+A+} [-E-]{+partir da for+}m[-b-]{+ação dos ductos mesonéfrico (ductos de Wolff) e paramesonéf+}ri{+co (duct+}o{+s mül+}l{+erian+}o{+s), das cristas +}g{+en+}i{+t+}a{+is+} {+e os cor+}d{+ões sexuais primitiv+}os{+, há+} [-ó-]{+a fo+}r[-g-]{+maç+}ão[-s-] {+do trato uro+}genita{+l fem+}i{+nino e das gônada+}s{+, mais bem detalhado a seguir.+} 
+
+A - Gônadas
+As gônadas, indiferenciadas até a 6ª semana de vida intrauterina, são geneticamente programadas para diferenciação em tecido ovariano em todos os indivíduos. Nos indivíduos que apresentam cromossomo Y, existe um gene que não tem analogia com o cromossomo X, chamado SRY. Esse gene transcreve uma proteína chamada fator de diferenciação testicular (TDF – do inglês{+,+} Testis Differentiation Factor). Tal pro{+-+}teína diferencia a gônada (que normalmente se diferenciaria em ovário) em test[-ícu-l-]{+ículo. A presença de TDF leva ao desenvolvimento testicular, e a sua ausência, ao desenvolvimento ovariano. Outros genes gona-dais importantes no desenvolvimento são SF-1, SOX9, WT1, WNT4 e DAX-1. Assim, a formação testicular é um processo ativo, dependente do SRY e do TDF, enquanto a diferenciação ovariana é um processo pas-sivo. +}
+{+a) Testículos e genitália masculina interna e externa+}
+{+As células epiteliais do cordão sexual primitivo supramencionado se diferenciam em células de Sertoli, que formarão os cordões testiculares, e secretam o hormônio antimülleriano no período da 7ª a 8ª semana de desenvolvimento. O hormônio antimülleriano provoca:+}
+{+Regressão do sistema paramesonéfrico (ductos müllerianos) e sua involução se completa com 9 a 10 semanas de gesta-ção;+}
+{+Controla o desenvolvimento do gubernáculo, imprescindível para a descida transabdominal dos testículos; +}
+{+Produção da proteína ligadora de androgênios. +}
+{+Na gônada indiferenciada, a partir das células mesenquimais surgem as células de Leydig (testiculares) que passam a secretar testosterona por volta da 8ª semana de gestação. A testosterona age de forma parácrina nos ductos mesoné-fricos ipsilateral (ductos de Wolff) para promover a virilização do ducto em epidídimo, canal deferente, vesícula semi-nal e ducto ejaculatório. A testosterona e diidrotest+}o[-. A pre-]s{+t+}e{+ro+}n[-ç-]a [-de TDF-]{+são+} [-l-]e[-v-]{+ssenci+}a{+is+} {+par+}a{+ +}o desenvolvimento [-t-]{+do f+}e[-s-]{+nó+}ti{+po mas+}cu{+-+}l[-ar-]{+ino+}, [-e -]{+control+}a{+ndo+} [-su-]a [-ausê-]{+difere+}ncia[-, a-]{+çã+}o [-d-]{+e cr+}es{+cim+}en[-v-]{+t+}o{+ da genitá+}l[-v-]i[-m-]{+a int+}e{+r+}n{+a e ex+}t[-o-]{+erna e+} [-ov-]a{+ dife+}r{+enc+}ia[-n-]{+çã+}o[-.-]
+
+[-a)-] [-Te-]{+ma+}s[-tí-]cul{+ina primária do cérebr+}o{+.+}
+{+A+}s[-N-]{+sim, n+}a 7ª semana, por ação do TDF, há transformação dos cordões sexuais em túbulos seminíferos, e, logo a seguir, as células de Sertoli passam a secretar o hormônio antimülleriano. Paralelamente, inicia-se a produção de testosterona no testículo, responsável pelo desenvolvimento dos ductos mesonéfricos (ductos de Wolff) e pela virilização da genitá{+-+}lia externa.
+{+Você precisa saber:+}
+{+  +}
+{+Figura 11 - Embriologia do aparelho reprodutor masculino+}
+b) Ovários
+N{+a ausência d+}o [-4º-]{+gene SRY+} {+(cr+}o[-u-]{+mossomo X),+} n{+ã+}o [-5º-]{+há+} [-di-]{+tr+}a[- pós-co-]n{+s+}c[-ep-]{+ri+}ção{+ do TDF+}, {+e +}as{+sim+} [-célul-]a[-s-] g[-ermi-]{+ô+}na[-tiv-]{+d+}a[-s-] [-pr-]{+b+}i[-m-]{+p+}o[-rd-]{+tenc+}ia[-is-]{+l+} s[-ão-]{+e+} {+des+}en[-c-]{+v+}o[-ntr-]{+lve p+}a[-d-]{+r+}a[-s-] [-(-]{+f+}o{+rmar +}o[-gôn-]{+vár+}i[-a-]{+o+}s[-)-]. [-N-]{+Os cordõ+}es{+ +}se{+xuais+} p[-e-]r[-íod-]{+imitiv+}o[-,-]{+s+} [-tam-bé-]{+regride+}m [-já há-]{+e+} [-a-]{+o+} [-dif-]{+m+}e[-r-]{+sót+}e[-nc-]{+l+}i[-açã-]o da crista genital[-. Até-] {+f+}o[- 3º -]{+r+}m[-ê-]{+a o+}s {+cor+}d{+õ+}e{+s+} [-vida intraut-]{+s+}e[-rin-]{+xu+}a[-, o-]{+i+}s [-ov-]{+secun-d+}ários{+.+} [-ainda e-]{+O+}s[-tão-] co[-m e-]{+rdõe+}s[-t-]{+ sexuais secundá+}r{+ios com cél+}u{+las epiteliais se +}t{+ransformam nas cél+}u{+las da g+}ra{+nulosa que se unem+} p{+ara formar as estruturas folicula+}r{+es que c+}i{+rcundam as células ger+}mi{+na+}tiva[-,-]{+s.+} [-co-]{+Na gô+}n[-t-]{+ada indifer+}en{+cia+}d[-o-]{+a, a partir das+} [-oó-]c{+élulas mesenqu+}i[-to-]{+mais, +}s{+urgem as células da teca+}. Após as divisões meióticas e o aumento do número de células da camada granulosa, temos, no período perinatal, os folículos ovarianos primários compostos pelas camadas granulosas e tecais.
+[-No período fetal, estima-se haver cerca de 7 milhões de-]{+As+} células germinativas[-.-] [-Por-]{+XX+} [-at-]{+sof+}re[-s-]{+m m+}i[-a-]{+to+}s{+e+} [-s-]{+d+}u[-cessiv-]{+r+}a[-s, -]n[-a-]{+te+} [-oc-]a[-s-]{+ m+}i{+graç+}ão [-do-]{+para+} [-n-]a[-s-]{+ +}c{+r+}i[--m-]{+sta g+}en{+i+}t[-o, há-]{+al+} [-c-]e[-rca-] [-d-]{+ating+}e{+m+} [-2-]{+6 a 7+} milhões de[-ssas-] células[-.-] [-Na-]{+(máximo)+} [-pub-]{+com 20 s+}e[-rd-]{+m+}a{+nas +}de[-,-] [-r-]{+g+}esta[-m-]{+ção, já+} apr[-oximadam-]{+es+}ent[-e 400.000 célul-]a[-s, -]{+n+}d[-as quais-]{+o+} [-c-]e{+st+}r[-c-]{+om+}a [-d-]e [-400 são -]{+f+}o[-v-]{+líc+}ul[-ada-]{+o+}s [-na -]{+pri+}m[-en-]{+ordi+}a{+is +}c{+o+}m[-a.-]
+
+[-B-] [-- Ú-]{+oóci+}t[-er-]o[-,-]{+.+} [-tubas-]{+No 3º+} [-u-]t[-e-]ri[-nas -]{+m+}e[- -]{+s+}t[-e-]r[-ç-]{+e, +}o [-pr-]o[-x-]{+óc+}i[-mal-]{+to+} [-da-]{+sofre+} [-vag-]{+me+}i[-na (órgã-]os{+e+} [-g-]{+qu+}e[-nitai-]{+ +}s{+e+} inter[-n-]{+r+}o[-s)-]
+[-Até a 8ª se-]m[-a-]{+pe +}na[-,-] [-co-]{+m+}e[-x-]i[-stem os duct-]os[- d-]e [-Wolff ou-]{+I+} [-meso-]n[-é-]{+a +}f[-rico-]{+a+}s[- -]e [-os ductos -]de [-Mülle-]{+p+}r{+ófase+} [-ou-]{+I,+} [-p-]a[-r-]{+té +}a{+ +}me[-so-]n[-éf-]{+a+}r[-i-]c{+a, quand+}o[-s.-]
+[-O-] h{+á +}o[-rmôni-]{+vulaçã+}o{+.+} {+V+}a[-ntimül-]le{+ +}r[-i-]{+es-salt+}a[-no p-]r[-omov-]{+ qu+}e a {+at+}re[-gres-]s[-ão-]{+ia+} dos [-du-]{+oó+}c{+i+}tos [-d-]{+inicia-s+}e [-Müll-]{+intraút+}er{+o.+} 
+[-n-]{+N+}o {+p+}e[-mb-]r[-iã-]{+í+}o[- masculin-]{+d+}o[-,-] {+f+}e[- -]{+t+}a{+l,+} [-t-]est[-o-]{+ima-+}s[-t-]e[-rona-] [-s-]{+hav+}e[-c-]r[-etada-] [-dif-]{+c+}er[-en-]c[-i-]a [-os -]d[-ucto-]{+e 7 milhõe+}s de [-Wo-]{+cé+}l[-ff-]{+ulas+} {+germi+}n[-o-]{+ativa+}s{+.+} [-OGIs-]{+Por+} [-(-]{+atr+}e[-p-]{+s+}i[-díd-]{+as sucess+}i[-mo-]{+vas+}, [-du-]{+na o+}c[-t-]{+asiã+}o d[-efer-]{+o nascim+}ent[-e-]{+o+}, [-v-]{+há c+}e[-sí-]{+r+}c[-ul-]a [-s-]{+d+}e{+ 2 +}mi[-na-]l[-, part-]{+hõ+}e{+s+} d{+ess+}a{+s+} [-pró-]{+célula+}s[-t-]{+. N+}a[-t-]{+ puberd+}a{+de+}, [-u-]re{+s+}t[-r-]a{+m+} {+a+}pro[-stát-]{+x+}i[-c-]{+mad+}a[- e -]me[-mbra-]n[-osa -]{+t+}e [-pênis)-]{+400+}.{+000+} [-O-]{+célula+}s{+,+} [-genit-]{+d+}a[-i-]s {+qua+}i[-nterno-]s [-f-]{+c+}e[-mininos desenvolvem-se passivamente. Sob a ausência de hormônio antimülleri-ano, os ductos de Müller seguem seu desenvolvimento, dando origem ao útero, às trompas e à parte superior da vagina. Co-mo não há secreção de testosterona, os ductos de Wolff involuem.-]
+[-Na 8ª semana, aproximadamente, tem início a fusão dos ductos de Müller pela parte inferior, formando o útero, as tubas e os 2 terços superiores da vagina. O septo mediano desapa-]r[-e-]c[-e ao final do 3º mês. O terço distal d-]a [-vagina provém do seio urogenital. Os resíduos dos ductos -]de [-Wolff-]{+400+} são o[- epoóforo e o paraoóforo. A porção distal do seio -]{+v+}u[-rogenita-]l[- pass-]a[- a sofrer -]d[-iferenciação n-]a{+s+} [-ge-]n[-itáli-]a {+m+}e[-xter-]na[- fe-]{+c+}m[-inina no fin-]a[-l do 3º mês-].
+
+  
+Figura 1[-0-]{+2+} - [-Embr-]{+D+}i[-olog-]{+ferenc+}ia[- dos órg-]{+ç+}ão[-s-] g[-e-]{+o+}n[-it-]a[-is-]{+dal+}
+
+{+B - Útero, tubas uterinas e terço proximal da vagina (OGIs)+}
+{+No embrião masculino, há a produção do hormônio antimülleriano, que promove a regressão dos ductos de Müller, e a testosterona secretada diferencia os ductos de Wolff nos OGIs (epidídimo, ducto deferente, vesícula seminal, parte da próstata, uretra prostática e membranosa e pênis), como visto anteriormente. Entretanto, os OGIs femininos desenvol-vem-se passivamente; na ausência de hormônio antimülleriano, os ductos de Müller seguem seu desenvolvimento, dando origem ao útero, às trompas e à parte superior da vagina. E, como não há secreção de testosterona, os ductos de Wolff involuem.+}
+{+Na 8ª semana, aproximadamente, tem início a fusão dos ductos de Müller pela parte inferior, formando o útero, as tubas e os 2 terços superiores da vagina. O terço distal da vagina provém do seio urogenital, que passa a sofrer dife-renciação na genitália externa feminina no final do 3º mês. Os resíduos dos ductos de Wolff são o epoóforo e o paraoó-foro. +}
+{+Em torno de 12 semanas de gestação, o corpo e o colo uterino sofrem diferenciação e o pólo superior do útero man-tém um septo espesso na linha média, que regride por completo com 20 semanas de idade gestacional. Falhas na fusão lateral dos 2 ductos müllerianos ou na reabsorção desse septo uterino causam cornos uterinos separados ou algum grau de septo uterino persistente mediano.+}
+{+ +}
+{+  +}
+{+Figura 13 - Embriologia dos órgãos genitais+}
+  
+Figura 1[-1-]{+4+} - Desenvolvimento dos órgãos genitais femininos na 11ª e na 14ª semana
+{+Tabela 1 - Origem embrionária dos aparelhos reprodutores feminino e masculino+}
+{+Estrutura embrionária	Sexo feminino	Sexo masculino+}
+{+Ducto paramesonéfrico+}
+{+(ductos müllerianos)	Útero+}
+{+Tubas uterinas+}
+{+2 terços superiores da va-gina	Utrículo prostático+}
+{+Apêndice testicular+}
+{+Hormônio antimülleriano+}
+{+Ducto mesonéfrico (ducto de Wolff)	Ducto de Gartner+}
+{+Hidátides de Morgagni+}
+{+Paraoóforo	Epidídimo, canal deferente, vesí-cula seminal, ducto ejaculatório+}
+{+Seio urogenital	Terço distal da vagina+}
+{+Bexiga+}
+{+Uretra+}
+{+Glândulas uretrais e parau-retrais+}
+{+Glândulas vestibulares grandes (Bartholin) e pe-quenas	Bexiga+}
+{+Uretra+}
+{+Utrículo prostático+}
+{+Glândulas prostáticas+}
+{+Glândulas bulbouretrais+}
+{+Crista genital	Ovários	Testículos+}
+{+Tubérculo genital	Clitóris	Glande peniana+}
+{+Protuberância ou eminência urogeni-tal ou prega labioescrotais	Grandes lábios	Saco escrotal+}
+{+Pregas ou dobras urogenitais	Pequenos lábios	Soalho da uretra peniana+}
+
+[-Remanescentes vestigiais dos ductos de Wolff estão presentes no sexo feminino como hidátides de Morgagni (presentes no peritônio), paraoóforo (visto na mesossalpinge) e ductos de Gartner (encontrados na parede lateral superior da vagina, como túbulos ou cordões fibrosos).-]
+
+{+Importante+}
+{+Remanescentes vestigiais dos ductos de Wolff estão pre-sentes no sexo feminino como hidátides de Morgagni (presentes no peritônio), paraoóforo (visto na mesossal-pinge) e ductos de Gartner (encontrados na parede lateral superior da vagina, como túbulos ou cordões fibrosos).+}
+
+Tema {+frequente +}de prova
+Os remanescentes vestigiais dos ductos de Wolff são um tema frequente nas provas de Residência Médica.
+
+C - Órgãos genitais externos
+No homem, o tubérculo genital forma-se na 4ª semana por meio das eminências cloacais e do retrocesso da membrana cloacal. Na 7ª semana, esta se divide nas porções urogenital (anterior) e anal (posterior), separadas pelo períneo. Entre a 8ª e a 12ª semanas, os hormônios androgênios promovem a virilização dessas estruturas, com crescimento do seg{+-+}mento fálico e união das pregas genitais, formando a uretra masculina e o crescimento dos relevos formando a bolsa escrotal.
+Na mulher, há poucas etapas de diferenciação com relação à etapa embrionária[-:-]{+. Na 6ª semana gestacional, surgem 3 protuberâncias externas que se desenvolvem ao redor da membrana cloacal e evoluem para a+} {+formaçã+}o {+de +}tubérculo genital{+, que irá+} forma{+r+} o clitóris[-;-] [-o-]{+nas mulheres. O+} seio urogenital abre-se ao exterior e separa a uretra da vagina, for{+-+}mando o vestíbulo; as pregas genitais formam os pequenos lábios, e os relevos{+ (protuberância)+}, os grandes lábios.
+[-Tab-]{+O t+}e{+stícu+}l[-a 2-]{+o+} [---]{+fetal+} [-Orig-]{+s+}e[-m-] {+des+}e[-mbrio-]n[-á-]{+volve a pa+}r{+t+}i[-a-]{+r+} da [-g-]{+6ª s+}e{+ma+}n[-itáli-]a {+de g+}e[-x-]{+s+}t[-ern-]a{+ção+} e[-m-] a[-mbo-]s [-o-]{+células de Sertoli iniciam a produção do hormô-nio antimülleriano, com consequente regressão dos ductos de Müller. A ausência do hormônio antimülleriano leva ao desenvolvimento dos ductos de Müller e formação da genitália interna feminina. Na 8ª semana, no sexo masculino, há produção de testosterona pelas células de Leydig e produção adequada de proteína ligadora de androgênios pelas células de Sertoli, o que irá estimular o desenvolvimento dos ductos de Wolff, com a formação da genitália interna masculina (ducto em epidídimo, canal deferente, vesícula seminal e ducto ejaculatório). Portanto, não há desenvolvi-mento dos ductos de Wolff sem a presença da testo+}s{+terona. A+} {+testo+}s{+t+}e[-x-]{+r+}o{+na +}s[-C-]{+ofre ação da 5-alfa-redut+}a{+se, ge+}r{+ando a diidrotestosterona que é fundamental na formação da gen+}i[-ó-]t{+ália mascul+}i{+na externa. Sem a +}p{+resença da diidr+}o{+te+}s[-	O-]{+toste-+}r{+ona, o desenvolv+}i{+mento da +}ge{+nitália externa é fe+}m{+inina, independente do sexo genético do+} [-embr-]i[-o-]n[-ár-]{+d+}i[-a	G-]{+víduo. O des+}en[-itá-]{+vo+}l{+v+}i[-a ext-]{+-m+}e[-r-]n[-a-]{+to dos+} [-a-]du[-l-]{+c+}t[-a-]
+[-XX	Sei-]o{+s+} [-ur-]{+de W+}o[-g-]{+lff +}e[-nita-]{+ mül+}l[-	Ur-]e[-t-]r{+i+}a{+nos+} [-e-]{+é+} [-te-]r[-ç-]{+esp+}o[- i-]n[-f-]{+sáv+}e[-ri-]{+l pel+}o[-r-] d[-a -]{+esenvol+}v[-ag-]i{+me+}n[-a-]
+[-	Tubércul-]{+t+}o {+da +}genit[-al	C-]{+á+}li[-tóris-]
+[-	Em-]{+a +}in[-ê-]{+ter+}n{+a mas+}c{+ul+}i{+n+}a[-s-] [-urog-]e[-n-]{+ fem+}i[-ta-]{+n+}i[-s	Gra-]{+-+}n[-des-]{+a,+} [-lábios-]
+[-	P-]re[-ga-]s[- urog-]{+p+}e[-ni-]{+c+}t[-a-]i[-s	Pequ-]{+vam+}en[-os-]{+te. O+} [-lábio-]s[-XY	S-]eio urogenital[-	Próstata e uretra-]{+,+} [-prostá-]t[-ica-]
+[-	T-]ubérculo genital[-	Glande-]
+[-	Eminênci-]{+, preg+}as urogenitais[-	Bolsa-] e[-scrotal-]
+[-	P-]{+ p+}regas [-ur-]{+labi+}o[-g-]e[-ni-]{+scro+}tais[-	C-]{+ sã+}o{+ +}r{+esponsáveis +}p{+el+}o d{+esenvolviment+}o [-pê-]{+da ge+}ni{+tália em ambo+}s[-3-]{+ os sexos. +}
+
+{+5+}. Distúrbios do desenvolvimento sexual [-(DDS) -]e malformações genitais 
+A fecundação define o sexo genético{+ por meio dos cromossomos transmitidos pelos pais, resultando em sexo feminino 46 XX ou sexo masculino 46,XY+}. Em torno do 15º dia, surgem as células germinativas {+derivadas do ectoderma, como supracitado +}(precursoras das espermato[---]gônias e dos oócitos) e migram do alantoide para as eminências gonadais na 4ª semana.
+A diferenciação dos testículos deve-se à presença do TDF produzido por um gene presente na região SRY do cromos{+-+}somo Y. Is[-s-]{+t+}o se dá entre a 6ª e a 8ª semanas. Na 7ª semana surgem as células de Sertoli, que iniciam a produção da proteína carrea[---]dora de androgênios, e as células de Leydig, que iniciam a produção dos androgênios. Todos esses são fatores fundamentais para a diferenciação da genitália externa masculina. Na ausência de TDF, a gônada diferencia-se em ovário e as células germi[---]nativas sofrem intensa multiplicação, alcançando em torno de 6 a 7 milhões entre a 16ª e a 20ª semanas. Ainda em vida in[---]trauterina, tais células sofrem degeneração; ao nascimento, alcançam um total de 1 a 2 milhões. 
+Essas células germinativas estão rodeadas de células da camada granulosa, formando os folículos primordiais. Sua divi{+-+}são celular é interrompida na prófase I da meiose.
+Se o embrião masculino sofre de um processo mutagênico de supressão ou deleção na região SRY que codifica o FDT, sua gônada desenvolve-se em ovário. Se o embrião é feminino, porém, por translocação paterna, o cromossomo X apresenta a região SRY e sua gônada é desenvolvida em testículo.
+A hiperplasia congênita das suprarrenais, devido à produção excessiva de androgênios, também pode levar os genitais femininos ao processo de virilização em graus variados. Quando há resistência à ação da testosterona ou sua produção é insuficiente, os ductos de Wolff não se desenvolvem, mas por produção normal do hormônio antimülleriano os duc{+-+}tos de Müller regridem.
+
+A - Distúrbios do Desenvolvimento Sexual (DDSs)
+[-DDS-]{+Os+} {+estad+}o[-vo-]{+s in+}te{+r+}s[-t-]{+exua+}i[-c-]{+s são o res+}ul{+t+}a[-r:-]{+do+} [-é-]{+de+} {+um+}a {+diferen+}c{+iaçã+}o{+ imperf+}e[-x-]i[-s-]t[-ê-]{+a ou i+}nc[-i-]{+omplet+}a d[-e -]o[-vá-]{+s ó+}r[-i-]{+gã+}os {+g+}e[- tes-]{+ni+}t[-ículo-]{+ai+}s{+,+} em [-um-]{+nível+} [-m-]{+g+}e[-sm-]{+nético +}o{+u+} in[-d-]{+orgân+}i[-víd-]{+co, res+}u{+ltand+}o[-.-] [-A-]{+em ge+}n{+i+}t{+ál+}i{+a ambí+}g{+u+}a{+. Geral+}mente{+,+} {+po+}de[-no-]m{+ ser:+}
+{+DDS ovotest+}i[-n-]{+cul+}a[-do-]{+r+} {+(+}hermafro[---]ditismo verdadeiro[-,-]{+): é a+} {+c+}o{+existência+} [-DDS-]{+de+} ov{+ári+}o{+s e +}test[-i-]{+í+}cul[-ar-]{+os+} [-é-]{+em um mesmo indivíduo. É+} uma ocorrência rara e a sua etiologia é cromossômica[-.-]{+;+}
+DDS XX{+ (pseudo-hermafroditas femininos)+}: são indivíduos geneticamente do sexo feminino que apre{+-+}sentam virilização da genitália externa. [-Antig-]{+Ger+}a{+l+}mente{+,+} [-er-]a[-m den-]{+ss+}o[-m-]{+c+}i[-n-]ados [-pseudo--]{+à +}h[-ermafrod-]i[-tas f-]{+p+}e[-mininos. A nova c-]{+rp+}las[-s-]i[-fic-]a[-ção-] [-d-]{+c+}o[-s d-]{+ngên+}i[-s-]t[-úrbios do-]{+a+} de{+ +}s{+uprarr+}en[-vo-]{+a+}l[-vimento-]{+;+}
+{+DDS+} {+XY (p+}se[-x-]u[-al clas-]{+do+}-[-si-]{+herma+}f{+rod+}i[-cam es-]t[-e-]{+a+}s {+mascul+}in[-divídu-]os[- como DDS XX.-]
+[-DDS XY-]{+)+}: são indivíduos geneticamente do sexo masculino que apre{+-+}sentam feminilização da genitália externa.{+ +}
+Para um melhor entendimento das alterações apresentadas a seguir, a compreensão de alguns conceitos é fundamen{+-+}tal. O sexo de um indivíduo é um conjunto de características genéticas, gonadais, somáticas e biopsicossociais. Não basta apenas uma delas para que se determine, com precisão, a sexualidade de uma pessoa. O sexo genético é definido na fecundação: XX ou XY. Para o sexo gonádico, é fundamental a presença ou a ausência do cromossomo Y. Quanto ao sexo somático, os aspec[---]tos da genitália interna desenvolvem-se com a manutenção ou a involução dos ductos de Wolff e Müller, levando à formação de epidídimos, ductos deferentes ou então tubas, útero e porção superior da vagina. No entanto, a morfologia da genitália externa caracteriza-se na dependência da presença ou da ausência de androgênios: quando presentes, há o desenvolvimen[---]to de falo e bolsa escrotal; quando ausentes, de clitóris e de lábios maiores e menores.
+Quando quaisquer dessas características sofrem alteração no seu curso normal de desenvolvimento, temos os DDSs. Den[---]tre eles, os mais comuns e importantes são:
+a) DDS ovotesticular
+Ta{+mbém denominado hermafroditismo verdadeiro, é uma doença rara que se caracteriza por tecido gonadal masculino e feminino, podendo apresentar cariótipo 46,XX (70% dos casos aproximadamente), 46,XY (7%) e mosaicismo (10-40%). +}
+{+Pode apresentar-se com genitália interna e externa ambígua. A quantidade de hormônio antimülleriano e de testoste-rona presentes determina o grau de masculinização ou feminilização dos sistemas ductais internos (genitália interna). Em geral, a genitália externa é ambígua e submasculinizada devido à quantidade insuficiente de testosterona. A maioria dos pacientes apresentam vagina e o útero pode ser normal e funcional, hipoplásico, vestigial ou totalmente ausente. Logo, há pacientes que menstruam. O desenvolvimento genital externo reflete o nível de produção de androgênio e de exposição a eles. Vale ressaltar que 3/4 desenvolvem ginecomastia e metade menstrua após a puberdade.+}
+{+A genética e fisiopatologia da doença não está bem estabelecida, mas acredita-se que há translocação dos genes de-terminantes de testículo do cromossomo Y para o cromossomo X, ou um autossomo e mutações autossômicas dominan-tes que promovam desenvolvimento de testículos na ausência de um cromossomo Y. O diagnóstico é firmado por carió-tipo e histopatológico das gônadas. +}
+{+Ta+}bela [-3-]{+2+} - Características 
+- São encontrados, no mesmo indivíduo, tecidos ovarianos e testicula{+-+}res; quando existe a associação de ambos na mesma gônada, é de{+-+}nominada ovotestículo ou ovoteste;
+- Cariótipo: 46,[- -]XX ou 46,[- -]XY ou diferentes formas de mosaicismos;
+- Gônadas: 
+· Alternante: ovário de um lado e testículo do outro; 
+· Unilateral: ovoteste de um lado e testículo ou ovário do outro;
+· Bilateral: quando ambas as gônadas são ovoteste.
+- Genitália externa: varia de feminina a tipicamente masculina, po{+-+}dendo apresentar-se como genitália ambígua.
+
+  
+[-Figura 12 - Forma ovotesticular-]
+
+{+Figura 15 - Forma ovotesticular+}
+{+b) Inversão de gênero 46,XX+}
+{+Síndrome rara de “inversão de gêneros” em que o gênero cromossômico 46XX não é condizente com o gênero das gônadas, visto que estas são testiculares. Em geral (90% dos casos), há transferência do gene SRY (transcreve a proteína TDF) do cromossomo Y para o X durante a meiose masculina. A maioria apresenta-se estéril, com desenvolvimento genital normal, padrão normal de desenvolvimento de pêlos, porém tem baixa estatura. Na pu+}b{+erdade, apresentam ginecomastia, hipogonadismo e infertilidade.+}
+
+{+c+}) DDS XX
+Nos DDSs XX, há discordância entre o sexo gonadal e a genitália externa.
+Etiologia: hiperplasia adrenal congênita e ingestão materna de esteroides androgênicos. [-A primeira é uma síndrome ca-racterizada, principalmente, por deficiência no mecanismo que envolve, em especial, a enzima 21-hidroxilase. Na falta ou na ausência dessa enzima, há acúmulo da substância precursora (17-hidroxiprogesterona), cujos altos níveis séricos confirmam o diagnóstico; -]
+Cariótipo: 46, XX;
+Gônadas: ovários;
+Genitália {+interna: normal, pois não há produção do hormônio antimülleriano. Assim, há desenvolvimento normal dos ductos müllerianos e, consequentemente, formação da genitália interna feminina. Vale ressaltar que os ovários não produzem quantidade suficiente de androgênios para promover o desenvolvimento dos ductos de Wolff. Portanto, as tubas uterinas, o útero e a parte superior da vagina são normais;+}
+{+Genitália externa: como a genitália externa é suscetível à presença de androgênios, há masculinização em graus variá-veis pelo excesso deste hormônio. Há graus variados de aumento de clitóris, fusão labial, e anormalidades da uretra e vagina, dependendo do tempo e grau de exposição ao androgênio em fase intrauterina;+}
+{+Hiperplasia congênita de suprarrenal (HCSR): é uma síndrome caracterizada, principalmente, por deficiência no meca-nismo que envolve, em especial, a enzima 21-hidroxilase. Na falta ou na ausência dessa enzima, há acúmulo da subs-tância precursora (17-hidroxiprogesterona), cujos altos níveis séricos confirmam o diagnóstico. A deficiência na 21-hidroxilase acarreta redução na produção de cortisol, levando ao aumento na produção de ACTH (hormônio adre-nocorticotrófico), que estimula a produção hormonal da suprarrenal – hiperplasia de suprarrenal, com aumento na produção de androgênios. As deficiências de 11-beta-hidroxilase e 3-beta-hidroxiesteroide desidrogenase são causas menos comuns de HCSR. A HCSR causada por deficiência da 21-hidroxilase é a causa mais frequente de ambiguidade sexual e a causa endócrina mais comum de ambiguidade sexual e pode apresentar-se clinicamente das seguintes for-mas: +}
+{+	· A variedade perdedora de sal é a mais grave caracterizada por grave deficiência de cortisol +}e[-x-]{+ aldosterona, re-sultando em perda de sal e desidratação, além de virilização;+}
+{+	· Forma virilizante simples é menos grave e níveis elevados de ACTH são capazes de orientar suficiente produção de glicocorticoide e mineralocorticoide a ponto de impedir o colapso circula+}t[-e-]{+ó+}r[-n-]{+io. M+}a[-:-]{+s, há+} masculinização [-em-]{+da+} g[-r-]{+enitáli+}a[-us-] [-v-]{+extern+}a{+;+}
+{+	· Fo+}r[-i-]{+ma não cl+}á[-ve-]{+ss+}i{+ca não +}s{+e torna+} {+a+}p{+ar+}e{+nte até a ado+}l{+escência +}o{+u+} [-ex-]{+o iní+}c{+io da idad+}e{+ adulta, quando nívei+}s[-s-]{+ anor-malmente alt+}o{+s+} de androgênio{+ causam hirsutismo e irregularidade men+}s{+trual+}. {+Não há genitália externa ambígua.+}
+ 
+Figura 1[-3-]{+6+} - [-Fo-]{+Hipe+}r[-m-]{+plasia congênit+}a [-XX-]{+de suprarrenal+}
+
+[-c)-] 
+[-DDS-]{+Figura+} {+17 - Forma X+}X[-Y-]
+
+{+d) DDS XY+}
+Pergunta
+2015 - UFSC
+2. Uma paciente de 18 anos, com fenótipo exter{+-+}no feminino, amenorreia primária, vagina encurtada, mamas desenvolvidas, testosterona sérica = 690ng/dL e cariótipo 46,XY apresenta o diagnóstico de: 
+a) síndrome de insensibili{+-+}dade androgênica (sín{+-+}drome de Morris)
+b) síndrome de Mayer-Rokitansky-Küster-Hauser
+c) pseudo-hermafroditismo feminino
+d) disgenesia gonadal pura (síndrome de Swyer)
+e) quimerismo
+Resposta no final do capí{+-+}tulo
+
+Etiologia: deficiências na síntese ou na ação da testosterona;
+Cariótipo: 46,[- -]XY;
+Gônadas: testículos;
+Genitália interna: há involução dos ductos de Müller sem o desenvolvimento normal dos ductos de Wolff por ação inexis[---]tente ou incompleta da testosterona, com graus variáveis de feminilização;
+Genitália externa: dúbia ou feminina;
+Causas: diversas deficiências enzimáticas envolvidas na esteroidogênese podem ser responsáveis pela incapacidade de síntese da testosterona. Já nas causas de deficiência de ação desta, temos a síndrome do testículo feminilizante ou sín[---]drome de Morris (fenótipo completamente feminino, cariótipo XY e tes{+-+}tículos) como o exemplo mais comum.
+[-A-]{+e)+} [-s-]{+S+}índrome de Morris {+(síndrome da insensibilidade +}c{+ompleta aos androgênios)+}
+{+C+}aracteriza-se pela atividade androgênica p[-arcial ou ausente que, na dependência d-]o[- g-]r[-au-] [-de res-]i[-s-tê-]n[-cia a testo-]s[-t-]e[-ro-]n{+sibilid+}a[- -]de c[-ada indivídu-]o[-, d-]{+mpl+}et[-ermin-]a [-gr-]a[-u-]{+o+}s [-m-]a[-is ou me-]n[-os p-]{+d+}ro{+gê+}n[-unc-]i[-ad-]os{+.+} [-de f-]{+H+}e[-miniliz-]{+r+}a{+n+}ç[-ão. N-]a [-fo-]r[-ma -]{+e+}c[-ompl-]e[-ta (in-]s[-en-]si[-bi-]{+va +}li[-d-]{+g+}ad[-e tot-]a[-l-] ao[-s-] [-receptores),-]{+X.+} [-d-]{+D+}eve[-m-]-se remover os testículos [-n-]a[- -]p[-ube-]{+ós a pube+}rdade[-,-]{+ (entre 16 e 18 anos)+} devido à chance de malignização (por serem intraperitoneais e, com isso, sujeitos a temperaturas mais elevadas que as da bolsa escrotal). [-Na-]{+A+} [-f-]{+reposição h+}orm{+onal estrogênic+}a {+é obrigatór+}i{+a +}n{+esses +}c{+as+}o[-mpl-]{+s.+}
+{+Não há r+}e{+spos+}ta [-(i-]{+aos androgê+}n{+io+}s{+, hav+}en[-sibili-]d{+o +}a[-d-]{+um+}e{+nto+} {+com+}p{+ens+}a{+tó+}r[-c-]i[-al),-]{+o+} {+n+}a {+p+}r[-em-]o{+du+}ção [-t-]{+d+}est[-icula-]{+e ho+}r{+mônio,+} [-é-]{+que+} {+so+}f{+r+}e[-ita-] [-n-]a{+romati-zação+} {+per+}i[-n-]f[-ânc-]{+ér+}i{+c+}a{+,+} [-pa-]{+fo+}r{+m+}a{+ndo+} e[-vi-]{+s+}t[-a-]r{+ogênios, responsáveis+} {+pel+}o desenvolvimento [-de caracteres -]sexua[-is-]{+l+} secun[---]dário[-s-] {+fe+}m[-as-]{+inino (fenótipo feminino).+}
+{+A genitália externa é +}c[-u-]{+laramente feminina devido à insensibi+}li{+dade completa aos androgê+}n{+i+}os. A{+ssim+} [-r-]{+como os p+}e{+los +}p{+ubian+}os{+ e ax+}i[-ç-]{+lares s+}ão [-h-]{+escass+}o{+s ou ausentes. As mamas ap+}r{+esentam desenvolvi+}m{+ent+}o{+ +}n{+orm+}al{+.+}
+{+Os+} {+t+}est{+ículos p+}ro[-gê-]{+duzem fator a+}n{+timüller+}i[-c-]a{+no,+} [-é -]{+c+}o[-b-]{+m +}r[-i-]{+e+}g[-ató-]r{+essão dos ductos de Müller, logo a genitália interna não é femini-na: vagina em fundo cego + ausência de útero + ausência de trompas + 2 terços superiores da vagina são ausentes (vagina curta).+}
+{+Como há insensibilidade ao androgênio, não há resposta androgênica nos ductos de Wolff, acarretando ausência de genitália interna masculina. Portanto, não há genitália interna masculina e nem feminina.+}
+{+Exames laboratoriais indicam testosterona normal ou moderadamente aumentada, LH aumentado e FSH normal.+}
+{+O diagnóstico é feito com base nos seguintes achados: amenorreia primária + desenvolvimento normal das mamas + pelos axilares e pubianos escassos ou ausentes + vagina curta + ausência de útero + alterações laboratoriais descritos + cariótipo 46,XY. +}
+{+Defeitos na biossíntese da testosterona: fenótipo feminino, porém sem mamas desenvolvidas. +}
+{+Agenesia dos ductos de Müller: quantidade normal de pêlos pubianos e axilares, concentrações femininas normais de testosterona e cariótipo 46XX. +}
+{+f) Síndrome da insensibilidade incompleta aos androgênios+}
+{+Dependendo do defeito do receptor, haverá maior ou menor resposta ao androgênio. Apresenta-se, muitas vezes com criptorquidia, ambiguidade genital, pênis de tamanho variado, hipospádia e vagina rudimentar. Pode haver diferencia-ção dos ductos de Wolff porque há alguma resposta à testosterona, com desenvolvimento da genitália interna masculi-na. Entretanto, o espectro da apresentação clínica pode variar desde fenótipo feminino com leve virilização ao mascu-lino subvirilizado, que pode ser fértil ou infértil. Logo, alguns têm prole constituída.+}
+{+Genitália interna: não há estruturas müllerianas devido à ação do hormônio antimülleriano; genitália interna subdesen-volvida por ação parcial dos androgênios nos ductos de Wolff;+}
+{+Desenvolvimento de mamas variável;+}
+{+Crescimento de pelos alterado;+}
+{+Tratamento com androgênio exógeno e de acordo com o sexo de criação. +}
+{+g) Síndrome de Reifenstein+}
+{+São indivíduos com insensibilidade androgênica parcial com fenótipo predominantemente masculino e que são subviri-lizados. Geralmente, apresentam-se como homem infértil com escroto bífido e hipospádias perineoescrotais. Aspecto da genitália externa pode variar amplamente. Genitália interna masculina, mas não completamente desenvolvida. Pelos axilares e pubianos normais, porém com pouco ou nenhum pelo no tórax ou na face. Geralmente apresentam gineco-mastia. +}
+
+{+Importan-te+}
+{+O tratamento da sín-drome de Morris en-globa a gonadectomia (pelo risco de gona-doblastoma), reposi-ção de estrogênio e avaliação da necessi-dade de neovagina.+}
+
+
+{+h) Síndrome de Swyer+}
+{+Corresponde a disgenesia gonadal em pacientes 46,XY, com anéis fibrosos em substituição aos testículos, havendo, portanto, incapacidade de produção de testosterona. Como há ausência de testosterona, a genitália externa é feminina. Não há hormônio antimülleriano, logo a genitália interna é feminina. Alguns casos decorrem da mutação no gene SRY.+}
+{+Fenótipo: amenorreia primária; crescimento eunucoide; trompas e úteros normais ou rudimentares; gônadas em f+}i{+t+}a{+;+} [-nes-]{+au+}s{+ência d+}e[-s-] ca[-sos.-]
+
+[-Impo-]r[-t-]a[-n-]{+c+}te[-O t-]r[-atam-]e[-nto-]{+s+} [-d-]{+sexu+}a{+is+} s[-í-]{+ecu+}nd{+á+}r{+i+}o[-me-]{+s+} [-d-]{+f+}e{+mininos+} [-M-]o[-rr-]{+u mascul+}i{+no+}s{+;+} [-e-]{+i+}n[-g-]{+fanti+}l{+ism+}o[-ba-] {+genit+}a{+l;+} 
+[-go-]{+A+}na[-dec-]tomia [-(p-]{+g+}e{+nitá+}l[-o-]{+ia+} [-r-]i[-sco-]{+nterna+} [-d-]e [-go-]{+exter+}na[-d-]{+ n+}o[-bl-]{+rm+}a{+i+}s{+;+}
+{+Tra+}t[-o-]{+a+}m{+ento baseado n+}a[-),-] reposição de estrogênio e [-avalia-]{+remo+}ção da{+s+} {+gô+}n[-eces-]{+ada+}s{+ em f+}i[-d-]{+t+}a{+ +}de{+vido ao risco+} de neo[-v-]{+plasias de célu-l+}a{+s +}g{+erm+}ina{+tivas (20 a 30%)+}.[-d-]{+ +}
+{+i+}) Síndrome de Turner [-(disgenesia gonadal)-]
+Cariótipo: 45, X0;
+Gônadas: {+em f+}i[-n-]{+ta – +}di[-fer-]{+sg+}en[-c-]{+es+}ia{+ gona+}da{+l, logo, o+}s{+ ovários não funcionam+}. Como não há cromossomo Y, não se forma o testículo; porém, para haver o desenvolvimento de ovários, são necessários 2 cromossomos X. Logo, as gônadas são indiferenciadas;
+{+Fenótipo: pescoço alado, tórax em escudo, baixa estatura, afastamento dos mamilos (hipertelorismo), nevos cutâneos, palato arqueado, unhas das mãos pequenas e convexas; 4º e 5º metacarpiano curtos. Implantação baixa de cabelos. Ausência de desenvolvimento puberal;+}
+{+Infertilidade: útero e vagina são normais e respondem a hormônios exógenos; +}
+{+Mosaico para Turner: 45XO/46XX. Fenótipo semelhante a Turner, porém com maior estatura e menor número de anormalidades cromossômicas. Há casos em que a infertilidade é o sintoma mais evidente; +}
+{+Complicação para Turner: anomalias cardíacas, em especial coarctação da aorta; anomalias renais; problemas auditivos; otite média; mastoidite; maior incidência de hipertensão arterial, acloridria, diabetes e tireoidite de Hashimoto. +}
+
+Importan{+-+}te
+A síndrome de Turner é o principal tipo de disgenesia gonadal. As gônadas são indi{+-+}ferenciadas (“em fi{+-+}ta”).[-Fenótipo: baixa estatura, pescoço alado, alterações cardíacas, hipertelorismo ocular e mamário, implantação baixa de ca-belos na nuca, orelhas “de abano”, linfedema nas mãos e nos pés.-]
+
+ 
+Figura 1[-4-]{+8+} - Síndrome de Turner: pescoço alado e baixa implantação de cabelos
+ 
+Figura 1[-5-]{+9+} - Síndrome de Turner: linfedema das mãos
+ 
+Figura [-16-]{+20+} - Síndrome de Turner: linfedema dos pés
+[-e-]{+j+}) Síndrome de Klinefelter
+[-C-]{+É +}a[-riótipo:-] [-47,-]{+causa+} [-XXY;-]
+[-Fenótip-]{+c+}o[-: dese-]n[-volvime-]{+gê+}n{+i+}t[-o-]{+a+} ma[-már-]i{+s c+}o[-,-]{+mum+} [-g-]{+d+}e[-n-]{+ h+}i[-t-]{+pogon+}a{+d+}is{+mo+} [-exter-]no{+ +}s{+exo+} masculino[-s-], [-testí-]c[-ul-]o[-s-]{+m+} [-peque-]{+i+}n[-os-]{+cidência+} {+d+}e [-e-]{+1:1.000 +}n[-dure-]{+as+}cidos[-,-] [-retard-]{+viv+}o{+s.+} [-m-]{+R+}e{+la-cio+}n[-t-]a[-l em-]{+do+} [-gr-]a[-us-]{+o+} [-v-]{+c+}ari[-áve-]{+ót+}i[-s-]{+po 47,XXY+}, [-qu-]{+m+}a[-dri-]s [-l-]{+t+}a{+mbém oco+}r[-g-]{+re em 47,XXXY e m+}os[-,-]{+aicos.+} [-b-]{+A concent+}raç{+ã+}o[-s-] {+d+}e [-p-]{+testost+}er{+o+}na[-s-] [-longo-]s[-,-]{+érica é+} [-om-]b[-ros-]{+aixa,+} [-est-]re[-i-]{+duzindo a virilização e há elevação nos níveis de gonadotrofina. +}
+{+Cariótipo: 47,XXY;+}
+{+Fenótipo: genitais externos masculinos, tes+}t{+ículos pequen+}os{+ e endurecidos, com produção baixa de es-permatozoides, braços e pernas longos, tronco estreito, baixa estatura e problemas psicossociais não relacionados com hipogonadismo;+}
+{+Diagnóstico: clínico + cariótipo;+}
+{+Tratamento: testosterona exógena;+}
+{+Complicações: aumento na prevalência de doenças pulmonares, câncer de mama e do mediastino, veias varicosas e diabetes+}.{+ +}
+ 
+Figura {+2+}1[-7-] - Síndrome de Klinefelter
+B - Malformações genitais
+São, normalmente, devidas a defeitos no desenvolvimento ou na fusão dos ductos de Müller no período embrionário. Têm alta incidência populacional, correspondendo a 5% dos casos de infertilidade feminina.
+
+a) Anomalias uterinas 
+Podem ser diversas, de acordo com o grau de fusão e a regressão dos ductos müllerianos.
+Útero didelfo: sem fusão dos ductos müllerianos na linha média;
+Úteros bicorno, septado e unicorno: absorção incompleta do septo resultante da fusão.
+Se não há o desenvolvimento adequado dos ductos müllerianos na embriogênese, pode haver diversas outras altera{+-+}ções. Sempre que estivermos diante de um diagnóstico de malformação mülleriana, será imperativa a análise minuciosa do trato urinário concomitante. Dada a peculiaridade do desenvolvimento embrionário simultâneo dos tratos urinário e reprodutivo, a associação a malformações do trato urinário é significativa.
+O diagnóstico das anomalias uterinas deve ser obtido pela anamnese (que eventualmente apresenta queixas referen{+-+}tes ao ciclo menstrual, [-ou -]dificuldades para engravidar ou manter a gestação) e pelo exame físico complementado por ultrasso[---]nografia pélvica e transvaginal. A ressonância magnética é o melhor exame de imagem para o diagnóstico das malformações müllerianas em geral. Quando possível, [-a -]histerossalpingografia, [-a -]histeroscopia e/ou [-a -]videolaparoscopia podem ser realiza[---]das [-já-]{+para+} {+elu+}c{+idaçã+}o[-m-] [-f-]{+d+}i{+ag+}n{+óstic+}a[-l-]{+, e a histeroscopia e/ou a v+}id{+eolap+}a{+roscopia po+}de{+m ser+} terapêutica{+s+} nos casos em que a remoção do septo é possível.
+b) Malformações vaginais 
+Síndrome de Rokitansky-Küster-Hauser ou agenesia uterina: mais conhecida simplesmente por síndrome ou sequência de Rokitansky, é uma malformação que ocorre por agenesia dos ductos de Müller; ocorre em 1[-/-]{+:+}4.500 nascimentos femini[---]nos. Está associada à agenesia uterina, tubária e dos 2 terços superiores da vagina[-. -]{+;+}
+Importan{+-+}te
+A síndrome de Roki{+-+}tansky-Küster-Hauser é a 2ª maior causa de amenorreia primária.[-Septo vaginal vertical: falha na fusão dos ductos müllerianos; na maioria, causa dispareunia e obstrução no canal do parto;-]
+[-Septo vaginal transverso: falha na canalização vaginal quando deveria haver a união da porção cranial oriunda dos ductos de Müller e da porção distal oriunda do seio urogenital.-]
+
+{+Septo vaginal vertical: falha na fusão dos ductos müllerianos; na maioria dos casos, causa dispareunia e obstrução no canal do parto;+}
+{+Septo vaginal transverso: falha na canalização vaginal quando deveria haver a união da porção cranial ori-unda dos ductos de Müller e da porção distal oriunda do seio urogenital.+}
+ 
+[-Figura 18 - Malformações uterinas e vaginais: (A) septo completo vaginal longitudinal + útero didelfo; (B) septo vaginal longitudinal isolado e (C) septo parcial longitudinal e útero didelfo com um dos lados atrófico-]
+
+{+Figura 22 - Malformações uterinas e vaginais: (A) septo completo vaginal longitudinal + útero didelfo; (B) septo va-ginal longitudinal isolado e (C) septo parcial longitudinal e útero didelfo com um dos lados atrófico+}
+ 
+Figura [-19-]{+23+} - Apresentação do hímen: {+(A) e (B) +}normal e[-m-]{+ de+} ([-A-]{+C+}) [-e-]{+a+} ([-B-]{+I+}) [-e -]com diferentes morfologias[- de (C) a (I)-], porém ressalte-se que são todos pérvios e permitem o escoamento do sangue menstrual
+ 
+Figura 2[-0-]{+4+} - Anomalias uterinas: (A) útero bicorno e septo vaginal longitudinal parcial; (B) útero septado completo e septo vaginal longi[---]tudinal; (C) útero septado parcial; (D) útero didelfo e septo vaginal longitudinal; (E) útero bicorno e septo vaginal longitudinal; (F) útero bicorno e vagina normal; (G) útero normal; (H) septo vaginal longitudinal par{+-+}cial; (I) útero unicorno; (J) útero bicorno com um dos cornos atrofiado; (K) idem a (J) e (L) útero bicorno e septo vagi{+-+}nal longitudinal completo, sendo que um dos cornos apresenta criptomenorreia com retenção de sangue menstrual até a vagina
+Tabela [-4-]{+3+} - Distúrbios do desenvolvimento sexual e malformação uterina
+- A hiperplasia adrenal congênita pode causar DDS XX, apre{+-+}sentando deficiência na produção de 21-hidroxilase e, con{+-+}sequentemente, aumento de 17-hidroxiprogesterona. O paciente tem cariótipo 46, XX, com ovários e genitália exter{+-+}na masculina;
+- A síndrome de Morris, ou síndrome do testículo feminilizan{+-+}te, ocorre por deficiência da ação da testosterona, causando DDS XY. O paciente é 46,[- -]XY, com testículos e genitália femi{+-+}nina;
+- A síndrome de Turner caracteriza-se por disgenesia gonadal, cariótipo 45,[- -]X0. O paciente apresenta nanismo, pescoço ala{+-+}do, além de implantação baixa de orelha e de cabelos na nu{+-+}ca;
+- A síndrome de Klinefelter apresenta cariótipo 47,[- -]XXY, gôna{+-+}das e fenótipo masculinos, porém com testículos diminuí{+-+}dos, retardo mental e desenvolvimento mamário;
+- A síndrome Rokitansky-Küster-Hauser é determinada pela malformação do aparelho genital, devido à agenesia do duc{+-+}to de Müller. É a 2ª maior causa de amenorreia primária, cursando com agenesia de trompas, útero e 2 terços superi{+-+}ores da vagina.
+
+[-4. -]Resumo
+
+Quadro-resumo
+Embriologia
+- [-	-]Até a 6ª semana, as gônadas são indiferenciadas; com a ação do TDF, proteína expressa pelo cromossomo Y, quando pre[---]sente diferencia as gônadas em testículos; na ausência do TDF, as gônadas diferenciam em ovários[-.-]{+;+}
+- [-	-]Nos testículos, a partir da 7ª semana, formam-se 2 tipos de células: de Sertoli, que produzem hormônio antimülleriano (que atrofiará os ductos de Müller), e de Leydig, que produzem testosterona, responsáve[-l-]{+is+} pela manutenção e prolifera{+-+}ção dos duc[---]tos de Wolff e seus órgãos derivados;
+- [-	-]Nos ovários, o desenvolvimento é passivo, pois não há TDF (assim, não há produção de testosterona), e não há hormô{+-+}nio antimülleriano, então os ductos de Müller se desenvolvem [-n-]{+e geram +}o útero, [-n-]as trompas e [-n-]o terço superior da vagina. Os oócitos ficam envoltos em folículos primários até a puberdade. 
+DDSs
+- [-	-]Ovotesticular: coexistência de testículo e ovário no mesmo indivíduo{+;+}
+- [-	-]XY: síndrome de Morris (46,[- -]XY) – fenótipo totalmente feminino e gônadas [-internas -]masculinas. Causa: resistência periféri[---]ca [-parcial ou -]total aos androgênios;
+- [-	-]XX: hiperplasia adrenal congênita – fenótipo com graus variáveis de virilização e genitália interna feminina. Causa: defici[---]ência da enzima 21-hidroxilase, que converte a 17-hidroxiprogesterona em androstenediona e testosterona (depois convertidas em estradiol).
+
+Repostas{+ das ques-tões do capítulo+}
+1. B
+2. A[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
