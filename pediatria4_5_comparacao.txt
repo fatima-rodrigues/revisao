@@ -1,0 +1,548 @@
+diff --git a/pediatria4_5.txt b/pediatria4_5.txt
+index e8e1a17..25b065a 100644
+--- a/pediatria4_5.txt
++++ b/pediatria4_5.txt
+@@ -1,206 +1,378 @@
+[-Acidentes na infância e na adolescência-]Eva Fabiana Angelo Sendin[- / -]
+Liane Guidi Okamoto [-/ -]
+Adriana Prado Lombardi[- -]
+José Roberto Vasconcelos de Araújo [-/ -]
+Marcelo Higa[- / -]
+Maria Teresa Luis Luis
+Ana Thamilla Fonseca [-/ -]
+Daniella Corrêa Netto Pedroso Lenharo
+[-R-]{+F+}e{+rnanda Martin+}s[-umo-] 
+{+Acidentes na infância e na adoles-cência+}
+Os acidentes, ou lesões não intencionais, representam a principal causa de morte de crianças de 1 a 14 anos no Brasil. No total, morrem cerca de [-6-]{+4+}.000 crianças até 14 anos, e [-14-]{+7+}0.000 são hospitalizadas anualmente, segundo dados do Ministério da Saúde, configurando-se como séria questão de saúde pública. Dentre as hospitalizações, as quedas ocupam 55% dos casos, seguidas de acidentes de trânsito, queimaduras e intoxicações. Os acidentes mais comuns na faixa pediátrica são os traumatismos envolvendo os casos de atropelamento e as quedas, se{+-+}guidos pelas lesões por corpo estranho com a introdu[---]ção voluntária ou involuntária de qual{+-+}quer objeto dentro de uma cavidade. Os engasgos também são importante causa de aciden{+-+}tes na infância, e a maioria deles ocorre em lactentes e crianças quando estas se alimentam ou brincam e estão na presença de pais ou cuidadores. Para esses casos, deve-se proceder a golpes dorsais e compressões torácicas nos lacten[---]tes, a fim de desengasgá-los, e, em crianças acima de 1 ano, deve ser empregada a manobra de Heimlich, com essa finalida[---]de. As intoxi{+-+}cações exógenas também são importante causa de acidentes na infância e correspondem às consequências clínicas e/ou bioquímicas da exposição aguda a substâncias químicas encon{+-+}tradas no ambiente ou isoladas, sendo a ingesta de medicamentos a principal causa dessas intoxicações.
+
+1. Introdução
+{+Os acidentes, ou lesões não intencionais, representam a principal causa de morte de crianças de 1 a 14 anos no Brasil. No total, morrem cerca de 4.000 crianças até 14 anos, e 17.000 são hospitali-zadas anualmente, segundo dados do Ministério da Saúde, configurando-se como uma séria ques-tão de saúde pública. Alguns elementos observados em nossa sociedade e no ambiente em que vivemos estão ligados ao aumento da exposição das crianças aos riscos de acidentes. A falta de informação, de infraestrutura adequada, de espaços de lazer, de creches, de escolas e de políticas públicas direcionadas à prevenção de acidentes são alguns exemplos dessa relação. Fatores como pobreza, mãe solteira e jovem, baixo nível de educação materna, habitações precárias e famílias numerosas também estão associados ao risco de acidentes. Por outro lado, é importante ressaltar que qualquer criança, independentemente de sua classe social, está vulnerável a um acidente.+}
+{+2. Hospitalizações por causas externas+}
+{+No ano de 2015, 117.680 crianças foram hospitalizadas vítimas de causas externas, as quais inclu-em acidentes e violência. Dentre as hospitalizações, as quedas ocuparam 49%, seguidas de quei-maduras, acidentes de trânsito, intoxicações e outras causas não definidas (Figura 1). O número de hospitalizações de meninos é 2 vezes maior que o de meninas. As Figuras 2, 3, 4 e 5 demons-tram a distribuição das hospitalizações por causa e faixa etária. Ao longo dos últimos 5 anos ve-mos uma tendência na diminuição do número de hospitalizações por causas externas, com uma queda de aproximadamente 5,5% de 2015 em comparação com 2011 (Figura 6).+}
+
+[-Os ac-]{+D+}i[-dentes, ou-]{+ca+} 
+[-lesõe-]{+A+}s [-não int-]{+qu+}e[-ncion-]{+d+}a[-i-]s[-,-] [-repre-]s[-entam-]{+ão+} a principal causa de [-morte de crianças de 1 a 14 anos n-]{+h+}o[- Bra-]s{+p+}i[-l. No to-]tal[-, morrem cerca de 6.000 cr-]i{+z+}a[-n-]ç[-as até 14 anos, e 140.000 s-]ão [-hospital-]i[-zadas a-]n[-u-]{+f+}a[-lme-]nt[-e, segundo dados-]{+il+} d[-o Mi-]{+e+}n[-is-]t[-é-]r[-io da Saúd-]e[-,-] [-configur-]a[-ndo--]s[-e-] c[-omo um-]a[- séria q-]u[-estão de -]{+-+}sa[-úde pública. Algun-]s e[-lemen-]{+x+}t[-os obs-]er[-vados em -]n[-oss-]a[- -]s[-ociedade e no ambiente em que vivemos estão ligados ao aumento da exposição das crianças aos riscos de acidentes. A falta de informação, de infraestrutura adequada, de espaços de lazer, de creches, de escolas e de políticas públicas direcionadas à prevenção de acidentes são alguns exemplos dessa relação. Nível de educação materna, habitações precárias e famílias numerosas estão associados ao risco de acidentes. Por outro lado, é importante ressaltar que qualquer criança, independentemente de sua classe social, está vulnerável a um acidente-].
+
+[-2. Hospitalizações por causas externas-]
+
+[-No ano de 2005, 149.904-] 
+[-cr-]{+F+}i[-anças fo-]{+gu+}ra[-m hospitalizadas,-] [-vítimas-]{+1+} [-de-]{+-+} [-causa-]{+Di+}s[- ex-]t[-e-]r[-nas, as qua-]i[-s incl-]{+b+}u[-em acidentes e v-]i{+çã+}o[-lência (Figura 1). Dentre-] {+d+}as hospitalizações[-, as-] [-qu-]e[-das ocupa-]m [-55%, s-]{+d+}e[-gu-]{+corrênc+}i[-d-]a[-s-] de acidentes [-de trânsit-]{+p+}o[-, queimadu-]r[-as e-] [-intoxi-]ca[-çõe-]{+u+}s[-,-]{+a+} e{+m+} [-out-]{+c+}r{+i+}a[-s -]n[-ão -]{+ça+}s[-ão-] [-b-]{+d+}e[-m-] [-notificadas-]{+0+} [-(Figur-]a [-2). O-]{+14+} {+a+}n[-úmero de h-]os
+[-pi-]{+Fon+}t[-alizaçõ-]e[-s-]{+:+} [-de men-]{+M+}in[-o-]{+i+}s[- -]{+t+}é[- 2 vezes ma-]{+r+}io[-r-] [-compara-]d[-o -]a[-o-] {+Saú+}de{+,+} [-meninas.-]{+DATASUS,+} {+2015.+}
+
+
+[-Dica -]
+[-As quedas são a maior causa de hospitalização infantil dentre as causas externas.-]
+
+[-Cerca de 30.900 crianças entre 5 e 9 anos são hospitalizadas por queda, e é nessa faixa etária que acontece o maior número de hospitalização por esse motivo, seguido de acidentes de trânsito e queimaduras. -]
+[-Dentre os tipos de quedas estudadas em 2005 que causaram hospitalização de crianças de 0 a 14 anos, encontram-se queda do mesmo nível, de leito ou mobília, playground, escada ou andaime, árvore ou penhasco, janela de edifícios e lajes, e os não especificados (Figura 3).-]
+[-Nos tipos de hospitalizações por acidentes de trânsito entre crianças de 0 a 14 anos, no mesmo ano, os atropelamentos de pedestres assumem o 1º lugar. Quanto aos tipos de queimaduras, o choque elétrico é o mais frequente.-]
+
+ 
+Figura [-1-]{+2+} - [-H-]{+Distribuição das h+}ospitalizações {+em decorrência de acidentes +}por causa[-s-] e[-xte-]{+m c+}r{+ia+}n{+ç+}as [-(0-]{+meno-res+} [-a-]{+de+} 1[-4-] ano
+{+Fonte: Mini+}s[-)-]{+tério da Saúde, DATASUS, 2015.+}
+
+ 
+
+Figura [-2-]{+3+} - [-P-]{+Dist+}ri[-nc-]{+bu+}i[-p-]{+ção d+}a[-i-]s hospitalizações {+em decorrência de acidentes +}por causa{+ em criança+}s {+d+}e[-x-]{+ 1 a 4 anos+}
+{+Fon+}te[-r-]{+: Mi+}n[-a-]{+i+}s{+tério da+} {+Saúd+}e[-m-]{+, DATASUS,+} 20[-0-]{+1+}5{+.+}
+
+
+ 
+Figura [-3-]{+4+} - [-T-]{+D+}i[-p-]{+stribuição das h+}os{+pitalizações em+} de{+corrência+} [-qu-]{+d+}e{+ aci+}d{+entes por c+}a{+u+}s{+a+} em {+crianças de 5 a 9 anos+}
+{+Fonte: Ministério da Saúde, DATASUS, +}20[-0-]{+1+}5{+.+}
+
+ [-c-]{+ +}
+{+Figura 5 - Distribuiçã+}o[-m-]{+ das+} hospitalizaç[-ã-]{+ões em dec+}o{+rrência+} [-(-]{+de acidentes por causa em crianças de 1+}0 a 14 anos
+[-)-]{+Fonte: Ministério da Saúde, DATASUS, 2015.+}
+
+{+	 +}
+{+Figura 6 - Hospitalizações por acidentes, de 0 a 14 anos, de 2011 a 2015+}
+
+{+Destaca-se na Tabela 1 o aumento gradativo do número de hospitalizações por acidentes de uma faixa etária para outra, de forma que, conforme a criança cresce, as admissões em hospitais au-mentam. Esse fator se deve, principalmente, à maior exposição da criança aos riscos e sua cres-cente interação social. A tendência é de cuidados menos intensos, já que a criança se torna menos frágil com o desenvolvimento.+}
+
+{+Tabela 1 - Hospitalizações por acidentes, por faixas etárias, 2015 +}
+{+Tipo de acidente	<1 ano	1 a 4 anos	5 a 9 anos	10 a 14 anos+}
+{+Trânsito	421	2.071	4.284	6.203+}
+{+Afogamento	7	86	54	33+}
+{+Sufocação	67	266	119	48+}
+{+Intoxicações	112	1.055	951	1.064+}
+{+Queimaduras	964	5.730	6.637	7.242+}
+{+Armas de fogo	12	13	13	89+}
+{+Quedas	2.703	11.492	21.462	21.432+}
+{+Outros	1.020	6.208	7.782	8.020+}
+{+Total	5.306	26.921	41.302	44.131+}
+{+Fonte: DATASUS/Ministério da Saúde.+}
+{+3. Mortalidade por causas externas +}
+{+Os dados de mortalidade são considerados para até 30 dias do acidente ocorrido. Em 2014, 4.316 crianças de 0 a 14 anos morreram em decorrência de acidentes. Os acidentes representam a principal causa de morte de crianças e adolescentes de 1 a 14 anos no Brasil. Os acidentes de trânsito, que incluem atropelamentos, passageiros de veículos, motos e bicicletas, representaram 38% destas mortes, seguidos de afogamento (24%), sufocação (18%), queimaduras (6%), quedas (5%) e outros (6%) – Figura 7. +}
+{+ +}
+{+Figura 7 - Distribuição das mortes em decorrência de acidentes por causa em crianças de 0 a 14 anos+}
+{+Fonte: Ministério da Saúde, DATASUS, 2014.+}
+
+{+A principal causa de mortes por acidentes em crianças menores de 1 ano é a sufocação, represen-tando 51% dos óbitos em 2014, seguido pelas queimaduras que representam 18%. O trânsito re-presenta 8% das mortes e vale o destaque para os bebês na condição de ocupantes de veículos. A fragilidade do bebê exige um equipamento adequado para seu transporte, caso contrário um adulto não consegue segurá-lo em uma colisão ou freada brusca. Vale ressaltar que crianças me-nores de 1 ano ou 1+}3{+kg devem ser transportadas no banco traseiro em cadeira adequada para idade (“bebê conforto”)+}. [-Mo-]{+O equipamento precisa se+}r{+ ins+}tal{+ado de forma que fique de costas para o motor+}i{+sta, mas não +}d{+eve ser inclin+}ad{+o em um ângulo sup+}e{+rior a 45°. Um dos motivos é a+} p{+r+}o{+teção da coluna ce+}r{+vical em caso de+} {+a+}c{+identes (Figur+}a{+ 8).+}
+{+ +}
+{+Fig+}u{+ra 8 - Di+}s{+tribuição d+}as {+mort+}e[-x-]{+s em decorrência de aciden+}te{+s por causa em c+}r{+ianças me+}n{+ores de 1 +}a{+no+}
+{+Fonte: Mini+}s{+tério da Saúde, DATASUS, 2014.+}
+
+[-Os-]{+Na+} {+f+}a[-c-]i[-dentes-]{+xa+} [-r-]e[-p-]{+tá+}r{+ia d+}e[-sent-]{+ 1 +}a[-m-]{+ 4 anos,+} a principal causa de morte[- de criança-]s [-e-]{+por+} a[-doles-]c{+id+}entes [-de 1 a 14 anos-]{+é+} [-n-]o [-Br-]a[-sil. T-]{+fog+}am[-bém -]e[-m-]{+nto+} [-200-]{+(3+}5{+%)+}, [-7.395-]{+que+} [-crianças-]{+pode+} [-m-]{+ac+}o[-rr-]{+ntec+}er[-a-]{+ e+}m [-ví-]{+quan+}ti[-m-]{+d+}a[-s -]de[- causa-]s {+p+}e[-xternas, -]que[- i-]n[-cluem -]a[-cidente-]s {+d+}e [-violênci-]{+águ+}a[-.-]{+,+} [-D-]{+c+}o[- t-]{+m+}o[-t-]{+ b+}al[- -]des[-s-]{+, baci+}as [-mort-]e[-s,-] [-79% represent-]{+v+}a[-m -]{+s+}os {+s+}a[-cide-]n{+i+}t[-e-]{+ário+}s. [-D-]{+Ap+}en[-tre o-]{+a+}s [-tipos-]{+2+} de{+do+}s[-t-]{+ d+}e[-s,-] {+águ+}a [-mai-]{+já sã+}o[-r-] [-p-]o[-r-]{+ sufi+}c{+i+}ent[-agem d-]e [-mo-]{+pa+}r[-t-]a[-lid-]{+ um+}a[-de-] [-en-]c[-ont-]r{+i+}a[-d-]{+nç+}a [-e-]s[-tá-]{+e+} [-n-]{+af+}o[- t-]{+ga+}r[-ân-]{+. Ne+}s[-i-]t[-o,-]{+a+} [-segu-]ida[- -]de{+,+} [-af-]o[-g-]{+s +}a[-m-]{+cid+}ent[-o -]e{+s+} de {+trân+}s[-uf-]{+it+}o[-c-]{+ t+}a[-ç-]{+mbém s+}ão [-(F-]{+s+}ig[-ura 4). -]
+[-O atropelame-]n{+ifica+}t{+iv+}o{+s,+} [-co-]r{+ep+}res[-pond-]e[- -]{+nt+}a{+ndo+} [-48-]{+31+}% das mortes{+.+} {+E+}n[-o -]tr[-ânsito d-]e [-crianças com-]{+1+} [-até-]{+e+} [-1-]4 anos[-. O-]{+,+} [-afogam-]{+s+}e{+gu+}n[-t-]{+d+}o e[-m água-]s[- na-]tu[-rais c-]{+d+}o[-rre-]s[-ponde-] [-à-]{+da+} [-m-]{+Org+}a{+n+}i{+zaçã+}o[-r-] [-porce-]{+Mu+}n[-t-]{+di+}a[-gem-]{+l+} de [-mortalid-]{+S+}a{+ú+}de[-s-]{+,+} [-p-]o[-r-]{+s atropelamentos+} ac{+ontecem pr+}i{+ncipalmente +}dent{+ro ou na entrada d+}e{+ garagen+}s [-p-]{+e estacionamentos. Devido às baixas estaturas das crianças, o mot+}or{+is-ta não+} {+con+}s{+eg+}u{+e enxergá-las ao fazer mano+}b{+ras. Também aparecem as queimaduras (9%), princi-pal+}me{+nte po+}r{+ e+}s{+caldamento e a sufocaç+}ão{+ ou engasgamento por objetos pequenos e alimentos (9%) (Figura 9)+}.
+{+Sobre o uso de dispositivos de segurança no carro para as crianças entre 1 e 4 anos, ou até apro-ximadamente 18kg, são indicadas as cadeiras de+} [-C-]{+segu+}r[-i-]ança[-s-]{+.+} [-menore-]{+Ela+}s de{+vem+} [-1-]{+ser+} {+instalad+}a{+s +}no [-apre-]sent[-am-]{+ido+} [-elev-]{+norm+}a{+l +}do [-ris-]{+ban+}co {+e +}de{+vem ser+} pr[-obl-]e[-m-]{+s+}a{+s+} de [-su-]fo[-c-]{+rm+}a[-ç-]{+ que n+}ão [-acid-]{+s+}e[-nt-]{+ mov+}a[-l-]{+m+} [-n-]{+m+}a{+is do que+} {+2+}c[-a-]m[-a,-] [-in-]{+p+}a{+ra os +}la[-çã-]{+dos. O equipament+}o de{+ve ser+} con{+for+}t{+áv+}e[-údo-]{+l+} [-gást-]{+pa+}r[-ico,-]{+a+} [-in-]a[-l-]{+ cri+}a{+n+}ç[-ã-]{+a, p+}o[-/-]i[-nge-]s[-tã-]{+ o us+}o de al[-i-]m[-ent-]o[-s caus-]{+f+}a[-n-]d[-o ob-]{+a+}s[-trução-] [-do-]{+e+} [-tr-]a[-t-]{+fins p+}o{+de+} {+p+}re[-sp-]{+jud+}i{+-ca+}r{+ +}a{+ efe+}t[-ór-]i{+vidade d+}o [-e-]{+produ+}t[-c-]{+o+}.
+
+ 
+Figura [-4-]{+9+} - [-T-]{+D+}i[-po-]s{+tribuição+} d[-e-]{+as+} mort[-al-]{+es em decorrênc+}i{+a +}d{+e +}a{+ci+}de{+ntes+} por {+c+}a{+usa em +}c{+rianças de 1 a 4 anos+}
+{+Fonte: Ministér+}i{+o da Saú+}de{+, DATASUS, 2014.+}
+
+{+Já +}n{+a faixa e+}t{+ária d+}e{+ 5 a 14 ano+}s{+,+} em 20[-05-]{+14,+} [-(-]{+a principal causa de mortes fora+}m{+ os acid+}en{+tes de trânsit+}o{+, que rep+}res{+entam quase a+} {+meta+}de [-1-]{+dos óbitos (+}5{+1%), principalmente+} {+para a cri+}an{+ça com+}o{+ pede+}s[-)-]{+tre. A realidade mostra que muitas destas crianças já vão para a escola sozinhas, porém ainda não têm habilidades emocionais e psicomotoras para julgar e ter comportamento seguro no trânsito. Nota-se que o afogamento ainda prevalece, representando 25 a 28% das mortes, mas já são situações em que há grandes quantidades de água, como rios, piscinas, lagos e praias (Figuras 10 e 11).+}
+{+Também chamado de “booster”, o assento de elevação é recomendado para crianças que pesam entre 18 e 36kg ou com até 1,45m de altura. Ele funciona apenas como um dispositivo de eleva-ção, que fica preso ao carro, mas que exige o uso do cinto de 3 pontos. Se o carro não tiver encos-to de cabeça, o uso desse equipamento não é indicado. Nesses casos, o ideal é instalar ou adquirir uma cadeirinha adequada ao tamanho da criança. A Tabela 2 resume o tipo correto de dispositivo a ser usado por idade e peso da criança. +}
+
+{+Tabela 2 - Tipo de dispositivo a se usar de acordo com faixa etária e peso	 +}
+{+Tipos de assentos+}
+{+	“Bebê conforto” ou conversível+}
+{+ 	Cadeira de segu-rança+}
+{+ 	Assento de ele-vação ou “boos-ter”+}
+{+ 	Cinto de seguran-ça de 3 pontos+}
+{+ +}
+{+Peso e idade	Desde o nascimen-to até 13kg ou con-forme recomenda-ção do fabricante (aproximadamente 1 ano de idade)	De 9 a 18kg, aproximadamente de 1 a 4 anos de idade	De 18 até 36kg, aproximadamente de 4 a 10 anos de idade	Acima de 36kg e no mínimo 1,45m de altura, aproxi-madamente 10 anos de idade+}
+{+Posição	Voltada para o vidro traseiro (de costas para o mo-vimento) com in-clinação sugerida de 45° ou confor-me instruções do fabricante	Voltada para fren-te, na posição vertical, no banco de trás	No banco traseiro, com cinto de 3 pontas	Até 10 anos de idade, no banco traseiro do carro, com cinto de 3 pontas +}
+{+Fonte: criançasegura.org.br.+}
+
+
+
+
+
+
+
+
+
+
+
+
+[-4. Tipos de acidentes-]
+
+
+
+
+
+
+[-Cons-]{+	 		+}
+{+F+}i[-de-]{+gu+}ra[-ndo-] [-que-]{+10+} [-os-]{+-+} [-ac-]{+D+}i[-dente-]s[- oc-]{+trib+}u[-pam-]{+ição+} [-lug-]{+d+}a{+s mo+}r{+tes+} [-d-]e{+m+} de[-st-]{+corrênci+}a[-qu-]{+ d+}e {+acid+}ent[-r-]e[- a-]s {+por +}causa[-s que-] [-l-]e[-va-]m {+cri+}a[- elev-]{+nç+}a{+s +}d{+e 5 +}a [-m-]{+9 an+}o[-r-]{+s+}
+{+Fon+}t[-al-]{+e: Ministér+}i{+o +}da{+ Saú+}de{+,+} [-e/ou-]{+DATASUS, 2014.+}
+
+
+ 
+
+{+Figur+}a [-hosp-]{+11 - D+}i{+s+}t[-al-]{+ribu+}i[-za-]ç[-ões-]{+ão+} d[-o-]{+a+}s m[-en-]or{+t+}es [-d-]e[- 15 anos no Brasil,-]{+m+} de[-s-]c{+o+}r[-eve-]r[-emos-]{+ência+} de[-talh-]{+ +}a{+ci+}d[-am-]ente[- a-]s p{+o+}r[-in-]{+ +}c[-ip-]a[-i-]{+u+}s{+a em+} [-o-]c[-or-]r[-ênc-]ia{+nça+}s {+d+}e [-como-]{+10 a 14+} {+a+}nos
+[- p-]{+F+}o[-r-]{+n+}t[-ar-]{+e:+} [-d-]{+M+}i[-a-]n{+is+}t[-e-]{+ério+} d[-el-]a[-s-]{+ Saúde, DATASUS, 2014+}.
+
+Pergunta 
+2014 - UFRN
+1. A respeito do transporte seguro de crianças e adolescentes em veículos automoto{+-+}res, é correto afirmar que: 
+a) crianças e adolescentes com estatura inferior a 1,45m podem viajar sem o dispositivo restritivo de segurança 
+b) crianças e adolescentes menores de 13 anos podem viajar no banco dianteiro, desde que utilizem cinto de 3 pontos e air bag desativado 
+c) crianças e adolescentes com estatura inferior a 1,45m devem utilizar assentos elevado{+-+}res com cinto de 3 pontos no banco dianteiro 
+d) crianças com estatura superior a 1,45m (média aos 11 anos) podem passar a usar o cinto de segurança de 3 pontos
+Resposta no final do capítulo
+
+[-A --]{+4.+} T{+ipos de acidentes+}
+{+Conside+}ra{+ndo que os acidentes oc+}u{+pa+}m{+ lug+}a{+r de de+}s[-D-]{+taque +}entre as causas [-d-]{+qu+}e [-tr-]{+lev+}a[-u-]m[-as-] [-m-]a[-is-] [-fr-]e[-qu-]{+l+}e[-n-]{+vada mor+}t{+alidad+}e[-s-] [-n-]{+e/+}o{+u+} [-Br-]a{+ ho+}s{+p+}i{+ta+}l[- -]{+izaçõ+}e[-m-]{+s dos+} menores de 15 anos[-,-] [-estã-]{+n+}o [-o-]{+Bra+}s{+il,+} [-ca-]{+de+}s{+creverem+}os de[- a-]t[-rope-]{+a+}l{+had+}a{+-+}ment[-o -]e as [-qued-]{+princip+}a{+i+}s[-. Em-] [-amb-]o{+corrência+}s[-,-] [-dev-]e{+ co+}mo[-s utilizar-] {+n+}o[- -]s[-u-]{+ +}port[-e av-]a[-nçado-]{+r+} d{+iant+}e [-vi-]d{+el+}a[-, -]s[-eguindo o -]{+.+}
+A[-BCDE-] [-da-]{+-+} {+T+}r[-e-]a[-ni-]{+u+}ma[-ç-]{+s +}
+{+Como vimos anteriormente, acidentes de trânsito e quedas estão entre as principais causas de morte e hospitalizações em crianças até 14 anos. Apesar das prioridades do atendimento inicial serem as mesmas que para o adulto (ABCDE), o paciente pediátrico possui peculiaridades anatô-micas e fisiológicas que determinam uma importância maior na avaliação de alguns aspectos da abordagem inicial.  +}
+{+Características específicas:+}
+{+· Tamanho e forma: a criança possui massa corpórea menor que a do adulto, ou seja, menos te-cido gorduroso, menos tecido conectivo e maior proximidade dos órgãos. Isso faz com que a energia gerada pelo trauma gere uma força maior sobre os tecidos. Além disso, a cabeça da criança pequena é proporcionalmente maior, resultando em uma maior frequência de trauma-tismo intracraniano nesse grupo;+}
+{+· Esqueleto: a criança tem calcificação incompleta, múltiplos núcleos de crescimento ativos e é mais flexível. Como consequência, não são raras lesões de órgãos internos sem fratura conco-mitante no local atingido. Exemplo: contusão pulmonar sem fratura de arcos costais;+}
+{+· Superfície corpórea: a relação entre a superfície corpórea e o volume do paciente é maior ao nascimento e vai se igualando à do adulto conforme a criança vai crescendo. Isso resulta em maior perda de calor e consequentemente em hipotermia, que muitas vezes é rápida e severa;+}
+{+· Estado psicológico: a incapacidade de interação da criança com a equipe durante situação de estresse, instabilidade emocional e regressão do comportamento psicológico podem ser um problema importante, levando a dificuldade na avaliação clínica, sendo necessário acalmar e até agradar a criança vítima de trauma para conseguir as informações necessárias. A presença dos pais quando possível pode ser importante e inclusive facilita o atendimento da criança.+}
+
+{+a) Avaliação primária (ABCDE)+}
+{+- A: vias aéreas e coluna cervical+}
+{+A avaliação das vias aéreas deve envolver desde a observação do posicionamento do paciente, assim como o nível de consciência e a integridade da mucosa (avaliar se há queimadura, por exemplo). Também é no A que devemos observar se há suspeita de lesão de coluna cervical e pro-ceder a imobilização da mesma com colar cervical.+}
+{+Peculiaridades da anatomia ao posicionar a cabeça: o crânio do lactente é proeminente em re-lação à face. Isto faz com que a hipofaringe posterior seja mais anterior e colabe com a flexão, mesmo que passiva, da coluna cervical. Desta forma, na criança, é importante alinhar o plano da face com a prancha, deixando os 2 em paralelo. Para isto deve ser colocado um coxim acolchoado de aproximadamente 2,5cm de espessura sob o paciente, mas poupando a região do pescoço e da cabeça (ou seja, o coxim deve se estender dos pés ao ombro do paciente, como mostra a Figura 12). Este posicionamento deve ser associado com a manobra de tração da mandíbula ou elevação do mento (sempre associadas com a imobilização da coluna cervical).+}
+
+{+  +}
+{+Figura 12 - Posicionamento da cabeça para manutenção de via aérea em lactentes+}
+{+Fonte: Advanced Trauma Life Support® (ATLS®), 9ª edição.+}
+{+Além do posicionamento da cabeça, a avaliação das vias aéreas pode determinar a necessidade de utilização de dispositivos como cânula de Guedel, Venturi, ventilação com bolsa-válvula-máscara, máscara laríngea, intubação orotraqueal (como em um caso de queimadura na mucosa oral) ou mesmo via aérea cirúrgica. É importante também fazer a limpeza de secreções ou frag-mentos;+}
+{+Cânula de Guedel: deve ser utilizado somente na presença de inconsciência. Existem 4 tamanhos principais: lactente, pequeno, médio e grande. Não deve ser colocada com a concavidade voltada para o palato. Diferente do adulto, deve ser introduzida diretamente na orofaringe, podendo ser utilizado um abaixador de língua como facilitador;+}
+{+Intubação orotraqueal: as indicações de vias aéreas definitiva são:+}
+{+· Apneia;+}
+{+· Impossibilidade de manter via aérea pérvia ou manutenção da oxigenação com máscara;+}
+{+· Proteção de via aérea;+}
+{+· Comprometimento iminente das vias aéreas (lesões por inalaç+}ão{+, fraturas faciais, hematoma retrofaríngeo ou+} {+convulsõ+}e[-m-]{+s+} [-P-]{+p+}e[-diat-]r{+s+}i[-a-]{+stentes);+}
+{+·+} [-(-]{+Esc+}a[-b-]{+la de c+}o[-r-]{+ma +}d{+e Gl+}a{+s+}g{+ow =8.+}
+{+O ATLS® r+}e{+co+}m{+enda+} [-p-]{+segui+}r{+ a sequênc+}i[-má-]{+a +}r{+áp+}i{+d+}a[-)-]{+ de intubação que+} co[-m-]{+nsiste no uso de drogas para sedação,+} {+segu+}i[-m-]{+d+}o{+ de +}b[-i-]l{+oque+}i[-z-]{+o neuromuscul+}a[-çã-]{+r. Para men+}o{+res+} de {+1 ano está indi+}c{+ad+}o[-l-]{+ o +}u{+so de atro-pi+}na [-c-]{+para a profilaxia d+}e{+ b+}r[-v-]{+ad+}ica[-l-]{+rdia+} ([-Tabel-]{+Figur+}a 1{+3+})[-.-]{+;+}
+
+[-a) Vias aéreas-]
+[-Avaliar-] 
+[-as v-]{+F+}i[-as aé-]{+gu+}r[-e-]a[-s-] [-e-]{+13+} [-dar-]{+-+} [-suporte a e-]{+A+}l[-as enquant-]{+g+}o[- -]{+r+}i{+t+}mo[-biliza a coluna-] [-cervic-]{+p+}a[-l (Figu-]ra [-5), -]se[- -]{+quê+}n[-e-]c[-essár-]i[-o;-]
+[-F-]a[-zer-] [-t-]r[-ação da mandíbula (elevar o mento se hi-]{+á+}p[-eresten-]{+i+}d[-er -]a [-man-]d[-íbula) s-]e[-m-] in[-clin-]{+tub+}ação
+[- da cabeça, havend-]{+F+}o[- suspei-]{+n+}t[-a d-]e{+:+} [-trauma -]{+A+}d[-e coluna cer-]v[-ic-]a[-l;-]
+[-T-]{+nc+}e[-r um -]d[-ispositivo de-] [-aspiração prepa-]{+T+}ra[-do;-]
+[-Deter-]{+u+}m[-inar -]a [-necess-]{+L+}i[-dad-]{+f+}e [-de s-]{+S+}up{+p+}ort[-es avançados de vias aéreas-]{+®+} ([-oxigênio, Venturi, -]A[-MBU-]{+TLS+}®[-, ventilação mecânica-])[-;-]
+[-Tratar hipóxia-]{+,+} [-para-]{+9ª+} [-prev-]e[-n-]{+d+}i[-r les-]{+ç+}ão[- cerebral secundária-].
+
+{+Cricotireoidostomia: pode ser necessária quando não for possível manter a via aérea com os dis-positivos descritos;+}
+{+Cricotireoidostomia por punção: é uma técnica rápida para oxigenação, mas não promove venti-lação adequada e complica com hipercapnia. É raramente indicada para crianças pequenas sen-do segura a partir dos 12 anos quando a mem+}b[-)-]{+rana+} [-B-]{+cric+}o{+ide é facilmente p+}a{+lpável.+}
+{+- B:+} respiração
+{+A hipóxia é a causa mais comum de parada cardíaca em criança. A ventilação deve ser avaliada através da inspeção e ausculta do tórax. +}Identificar as causas de insuficiência respiratória e estar preparado para tratá-las[-;-]{+. Deve-se dar atenção especial para:+}
+Hipoventilação devida a trauma cerebral;
+Pneumotórax ou pneumotórax hipertensivo;
+Hemotórax;
+Tórax instável[-;-]{+.+}
+{+- +}C[-ont-]{+: circ+}u[-s-]{+laç+}ão
+{+O+} [-pulm-]{+rec+}on[-ar;-]
+[-L-]{+h+}e{+ci+}m[-brar qu-]e[-,-]{+nto+} [-mesm-]{+d+}o [-s-]{+comprom+}e{+ti+}m[- hav-]e[-r-]{+nto+} [-s-]{+c+}i[-n-]{+rcul+}a{+tór+}i[-s-]{+o+} [-de-]{+é+} f[-rat-]u[-ra -]{+n+}d{+am+}e[- cos-]{+n+}t[-el-]a[-s,-]{+l+} [-p-]{+n+}o[-de-] [-h-]{+p+}a[-ver -]c[-o-]{+ie+}nt[-usão-]{+e+} p[-ulmona-]{+ediát+}r[- -]i[-mp-]{+c+}o[-rtante-]{+.+} [-em-]{+A+} criança{+ pos+}s[-;-]{+ui+} [-F-]r[-atu-]{+ese+}r{+v+}a[-s-] [-co-]{+fi+}s{+iológica aumen+}ta{+da, +}is{+to+} [-s-]{+faz com q+}u[-ger-]e[-m-] [-gr-]a[-nd-]{+ pr+}e{+ssão+} {+ar+}t{+e+}r{+i+}a[-nsf-]{+l p+}er[-ê-]{+ma+}n[-ci-]{+eç+}a [-d-]{+p+}e{+rto do+} [-e-]n[-e-]{+o+}r[-gi-]{+m+}a[-,-]{+l+} [-as-]{+me+}s{+m+}o[-ciada-] {+n+}a [-l-]{+pr+}es[-õ-]e[-s-]{+nça+} [-viscerais graves.-]
+
+[-c) Circulação-]
+[-Identificar sinais de choque. Se presente, determinar as causas e implementar tratamento adequado;-]
+[-Avaliar hemorragia: avaliar sangramento externo ativo e sangramento interno;-]
+[-Estabelecer acesso vascular (veias de grande calibre: Jelco® calibroso, 20 ou 22 na criança) e providenciar ressuscitação volêmica;-]
+[-Identificar tamponamento cardíaco e determinar a necessidade de pericardiocentese;-]
+[-I-]de[-ntificar-] [-estabilidad-]{+choqu+}e hemodinâmic[-a,-]{+o.+} {+Est+}a [-qual-]{+é+} [-pode-]{+a+} p[-e-]r[-s-]i[-st-]{+nc+}i[-r a-]p[-es-]a[-r-]{+l+} d{+iferenç+}a {+em +}re[-posi-]{+la+}ção [-volêmic-]a[-:-]{+o+} {+pa+}c[-ons-]i[-d-]e[-r-]{+nt+}e [-perd-]a[- oc-]{+d+}ult[-a d-]{+o.+}
+{+Dev+}e s[-angu-]e{+r lembrado+} {+qu+}e choque [-m-]{+h+}e{+mo+}d[-ular;-]
+[-Preve-]{+i+}n{+âm+}i[-r -]{+c+}o[-u-] [-t-]{+oco+}r[-ata-]r{+e+} [-pr-]{+c+}o[-nta-]m[-ente-] [-ca-]{+hipoperf+}us[-as p-]{+ã+}o{+ +}te[-n-]ci[-ais -]d[-e tra-]u[-ma cerebr-]al{+,+} [-secundári-]o[-,-] [-incl-]{+q+}u[-siv-]e [-hipov-]{+nã+}o[-lemia,-] [-hip-]{+é +}o[-t-]{+ m+}e[-n-]s[-ã-]{+m+}o {+qu+}e hip[-óxia.-]
+
+[-d) Disfu-]{+ote+}n[-ç-]{+s+}ão[-Realiz-]{+. Qu+}a{+ndo ocor+}r{+e+} [-aval-]{+h+}i[-aç-]{+potens+}ão{+,+} n[-eurológic-]a r[-áp-]{+eal+}ida[-, a fim -]de [-i-]{+há +}de[-ntifi-]{+s+}c{+ompens+}a[-r-]{+ção+} [-c-]{+d+}o{+s meca-+}n[-d-]i[-çõe-]{+smo+}s que [-r-]equ[-e-]i{+lib+}ra{+va+}m [-intervençã-]o [-urg-]{+paci+}ente[-;-]
+[-Aplicar-] e[-scala-]{+m+} [-d-]{+choqu+}e [-Glasg-]{+hem+}o[-w (ín-]di{+nâmi+}c[-e de 3 a-]{+o.+} [-15),-]{+É+} e[-labor-]{+stim+}ad[-a-]{+o que+} para [-a-]{+re+}du[-ltos-]{+zir+} [-ou-]{+a+} [-c-]{+p+}r[-iança-]{+es+}s{+ão+} [-m-]a[-io-]r{+t+}e[-s-]{+rial+} {+d+}e {+um p+}a[-doles-]c{+i+}ente[-s (vide-] {+p+}e[-scala mo-]di[-f-]{+átr+}ic{+o é necessário h+}a[-da-]{+ver+} p[-a-]{+e+}r{+d+}a{+s+} [-m-]{+sup+}e[-n-]{+ri+}ores {+a 45% +}d[-e-]{+o+} [-1-]{+volume+} {+s+}an{+guíne+}o{+.+} [-n-]{+Dest+}a [-Tabel-]{+form+}a{+,+} [-2);-]{+é+} [-Aplic-]{+fund+}a[-r -]{+m+}e[-sc-]{+nt+}al[-a-] [-p-]{+qu+}e[-diátrica-] [-de-]{+o+} re[-sp-]{+c+}o[-s-]{+nhecimen+}t[-a AVDN-]{+o+} [-(ín-]d[-i-]{+o +}c{+hoqu+}e[-:-] {+sej+}a[-l-]{+ f+}e[-r-]{+i+}t{+o de form+}a[-,-] {+p+}re[-sp-]{+-c+}o[-nd-]{+c+}e{+.+} [-à-]{+Esperar+} {+qu+}e[-stim-]{+ +}u[-l-]{+m+}a[-ção-] [-ve-]{+c+}r[-b-]{+ianç+}a[-l,-] [-r-]{+fiqu+}e[-s-]{+ hi+}po[-nd-]{+t+}e{+nsa+} {+par+}a [-es-]t[-ímulo dolo-]r[-os-]{+atar +}o {+ch+}o{+q+}u{+e+} {+sig+}n[-ão-]{+ifica+} [-res-]p[-on-]{+er+}de[-);-]
+[-Examina-]r [-as-]{+o+} [-pupi-]{+me+}l[-as-]{+hor+} [-(-]{+m+}o[-bs-]{+m+}e{+nto pa+}r[-v-]a{+ agi+}r{+. A+} ta[-manhos desig-]{+q+}u[-a-]i[-s, -]{+car+}di[-lat-]a[-ção-] e [-r-]{+a má p+}e{+rfu+}s[-p-]{+ã+}o[-s-]{+ +}t{+ecidu+}a{+l+} {+(+}lent[-a à luz); -]
+[-Considerar -]i[-nd-]{+f+}icação [-par-]{+d+}a [-vent-]{+c+}i{+rcu+}lação{+)+} [-mecânica-]{+são+} [-(-]{+s+}in[-clus-]{+a+}i[-ve-]{+s+} {+pr+}e[-s-]c[-ala-]{+oces e+} de [-Gl-]a[-sgow =8 -]{+l+}e{+rta+} {+p+}a[-c-]{+ra +}i[-de-]nte[-s-]{+rvenção+} com [-inal-]{+exp+}an[-te-]s[-);-]
+[-Im-]{+ão v+}o[-bi-]l{+êm+}i[-z-]{+ca. Observ+}ar {+que +}a [-col-]{+taq+}u[-n-]{+icardi+}a, [-s-]{+ap+}e{+-sar+} [-nec-]{+d+}e{+ +}s[-sário.-]e[-)-]{+r um+} [-Expo-]si[-ção-]{+nal+} {+pr+}e[- -]co[-ntrol-]{+c+}e d{+e ch+}o{+que+} [-a-]{+he+}m[-b-]{+od+}i[-e-]n[-te-]
+[-Re-]{+â+}m{+ic+}o[-v-]{+, pod+}e[-r-] {+est+}a[- -]r[-oupa,-] {+pres+}e[-xami-]n[-ar-]{+te+} t[-r-]a[-u-]m[-as, -]{+bé+}m[-edi-]{+ po+}r [-a-]{+dor+} [-t-]e[-mp-]{+ +}e[-ra-]{+s+}t[-u-]r[-a-]{+esse+} {+psi+}co[-rp-]{+l+}ó[-rea-]{+gico.+} [-e-]{+O+} [-m-]{+di+}a{+g+}n{+ós+}t[-er -]{+ic+}o [-amb-]{+d+}i{+f+}e{+rencial +}n{+es+}te c{+as+}o[-m-] [-t-]{+d+}e[-mp-]{+ve s+}er[-atura-] [-n-]{+f+}e[-u-]{+i+}t{+o po+}r{+ meio da +}a[-;-]
+[-E-]v{+al+}i[-t-]a[-r-]{+ção+} {+d+}e {+ou+}tr{+os sin+}a[-tar-]{+is de+} {+c+}h[-ip-]o{+que (al+}ter[-mi-]a{+ção do+} [-sig-]n[-ificati-]{+í+}v[-a;-]
+[-R-]e[-a-]l[-izar,-] {+d+}e[-m-] [-2º-]{+consciência,+} p{+u+}l[-an-]{+s+}o[-, hi-]s[-tória-]{+,+} c{+o+}l[-ínic-]{+or+}a{+ção+} [-e-]{+da+} {+p+}e[-xam-]{+l+}e{+,+} [-fís-]{+débito uriná-r+}i[-c-]o [-d-]et[-alhados-]{+c.)+}. [-Prio-]{+Lemb+}r[-iz-]ar {+que +}a {+fórmul+}a[-v-]{+ p+}a[-li-]{+r+}a[-ção-] e[- o -]{+s+}t[-r-]{+im+}a[-t-]{+r +}a[-mento-] [-d-]{+Pr+}e{+ssão+} {+Ar+}t{+e+}r{+i+}a[-umas-]{+l+} [-fata-]{+S+}is[-.-]
+
+[-Tabe-]{+tó+}l{+ic+}a [-1 - -]{+(P+}A[-BCDE da-]{+S)+} [-rea-]{+mí+}nima[-ção-] em [-Pediat-]{+c+}ria{+n+}-[- Vi-]{+ç+}as [-a-]é[-reas;-]
+[---] [-Boa-]{+PAS+} [-respiração;-]
+[---]{+=+} [-Circulação;-]
+[---]{+70+} [-Disfunção-]{++ 2x+} [-(incapac-]idade {+em a+}n{+os, s+}e[-ur-]{+nd+}o[-ló-]{+ 70mmH+}g[-ica);-]
+[---] [-Ex-]p{+ara men+}o{+re+}s[-ição-] {+d+}e [-co-]{+1 a+}n[-tr-]o[-l-]{+ +}e [-do-]{+90mmHg+} {+par+}a{+ +}m[-b-]{+a+}i{+o-r+}e[-nt-]{+s d+}e{+ 10 anos+}.
+
+[- -]
+[-Figura 5 - -]Im{+p+}o[-bil-]{+rtante+}
+{+A cr+}i[-z-]a{+n+}ç[-ã-]{+a p+}o{+ssui+} [-c-]{+res+}erv{+a fisiológ+}ica[-l-]
+
+[-T-]{+ +}a[-b-]{+um+}e[-l-]{+ntad+}a{+,+} [-2-]{+isto+} [---]{+faz+} [-Es-]c[-ala-]{+om+} [-d-]{+qu+}e [-Gl-]a{+ pre+}s[-g-]{+sã+}o[-w-] [-modific-]a[-d-]{+rteri+}a{+l+} p[-a-]{+e+}r[-a -]m[-e-]{+a+}n[-or-]e[-s-]{+ça+} [-d-]{+p+}e{+rto+} [-1-]{+do+} [-a-]no[- (-]r[-ecé-]m[--nascidos)-]
+[-1 -]a[- 2-]{+l+} mes[-es	Nenhu-]m[-a	1-]
+[-	Chor-]o {+n+}a[-o-] {+pr+}es[-tímulo-]{+ença+} d[-oloroso	2-]
+[-	C-]{+e c+}ho[-ro-]{+que+} {+h+}e[-sp-]{+m+}o{+di+}n[-t-]â[-neo -]{+mic+}o[-u a-]{+.+} [-e-]{+E+}st[-ímulos-]{+a é a+} [-su-]p[-e-]r[-f-]i{+n+}ci{+p+}a{+l d+}i[-s	3-]
+[-	F-]{+f+}e[-ch-]{+renç+}a{+ e+}m{+ r+}e[-nt-]{+laçã+}o [-d-]{+a+}o[-s olhos à-] [-luz	4-]
+[-	Em-]{+pac+}i[-ssão d-]{+ent+}e [-ruí-]{+a+}d[-os g-]u{+l+}t[-urai-]{+o.+}
+
+{+Aces+}s[- -]o[-u-] v[-og-]a[-is -]s[-imp-]{+cu+}l[-es	5-]
+[-3 -]a{+r:+} 
+[-4-]{+·+} [-m-]{+Ac+}es[-e-]s[-	Nenhuma	1-]
+[-	Chor-]o {+preferenci+}a[-o-]{+l:+} [-estím-]{+p+}u[-l-]{+nçã+}o [-dolo-]{+pe+}r[-oso	2-]
+[-	Cho-]{+ifé+}r[-o-]{+ica+} [-es-]p[-on-]{+ercu+}tâne[-o-]{+a:+}
+{+*+} {+L+}o[-u -]{+c+}a{+is:+} [-e-]{+fos+}s{+a an+}t[-ím-]{+ec+}u{+bita+}l[-os-] [-s-]{+o+}u[-p-]{+ v+}e[-rfic-]ia[-i-]{+ +}s[-	3-]
+[-	Fech-]a[-m-]{+f+}en[-to-]{+a+} [-d-]{+n+}o[-s-] {+t+}o[-lh-]{+rn+}o[-s à lu-]z[-	4-]
+[-	Arru-]{+e+}l[-h-]o[-,-]{+;+}
+{+*+} {+D+}e[-mi-]s{+i+}s[-ão de-]{+tência:+} [-v-]{+n+}o[-gais-] [-s-]{+máx+}im[-ples -]o[-u-] [-de-]{+2+} [-vog-]{+tent+}a{+t+}i{+va+}s{+.+}
+{+·+} [-d-]{+Intraóss+}e{+a:+} [-mod-]{+terç+}o pro[-longado; r-]{+x+}i[-s-]{+m+}a{+l +}da[-s	5-]
+[-5-] {+tíbi+}a{+;+} 
+[-8-]{+·+} [-me-]{+In+}se[-s	N-]{+rção p+}e[-nh-]{+rc+}u[-m-]{+tâne+}a[-	1-]
+[-	Choro-]{+:+} {+vei+}a[-o-] {+f+}e[-stí-]m[-ulo dol-]or[-o-]{+al;+}
+{+· In+}s[-o	2-]
+[-	Cho-]{+e+}r{+çã+}o [-es-]p[-on-]{+ercu+}tâne[-o ou -]a{+:+} {+v+}e[-stím-]{+ia jug+}ul[-os-]{+ar+} [-sup-]{+int+}er[-fici-]{+n+}a{+;+}
+{+· D+}is[-	3-]
+[-	Lo-]{+se+}c[-aliza-]ção [-da dir-]{+v+}e[-ção d-]{+n+}o[- -]s[-om	4-]
+[-	B-]a[-lbucio-]{+:+} [-par-]{+vei+}a [-a-]s[- p-]{+af+}e[-sso-]{+n+}a[-s,-] [-b-]{+no to+}r[-i-]n[-c-]{+ozelo.+}
+{+Exp+}an[-d-]{+sã+}o[-,-] vo[-ca-]l{+êm+}i[-z-]{+c+}a[-ção-]{+:+} [-d-]{+uma v+}e{+z+} [-mo-]{+ide+}n{+tificad+}os{+ +}s[-íl-]{+in+}a[-bo-]{+i+}s[-	5-]
+[-9 a 12-] [-m-]{+pr+}e[-s-]{+coc+}es[-	N-]{+ d+}e[-nhuma	1-]
+[-	C-]{+ +}h{+ip+}o{+pe+}r{+fusã+}o [-ao es-]t[-ím-]{+ecid+}u{+a+}l[-o-] d[-oloro-]{+eve-+}s[-o	2-]
+[-	Loc-]{+e re+}ali{+-+}za{+r reposi+}ção [-d-]{+volêmic+}a{+. A+} [-di-]re{+posi+}ção [-do s-]{+v+}o{+lê+}m[-	3-]
+[-	Re-]{+i+}c[-o-]{+a +}n[-he-]{+a +}c{+r+}i[-me-]{+a+}n[-to-]{+ça+} [-de-]{+é+} f[-amil-]{+e+}i{+t+}a[-res-] {+bas+}e{+ada+} [-so-]n{+o +}s[-	4-]
+[-	Balb-]{+e+}u[-ci-]{+ pes+}o e [-v-]o[-ca-]{+ +}l{+íqu+}i[-zaçã-]{+d+}o de [-monos-]{+e+}s[-í-]{+co+}l{+h+}a[-bos-] [-e-]{+é a+} [-di-]s{+olução +}s[-í-]{+a+}l{+in+}a[-b-]{+ (sor+}o{+ fi+}s[-	5-]
+[-F-]{+i+}o[-nt-]{+lógico 0,9%). Deve-s+}e[-:-] [-Z-]i{+niciar co+}m{+ 20+}m{+L/kg +}e[-r-]m[-an-] [-S,-]{+infusão+} [-O-]{+rá-p+}i[-l-]d[-e-]a, [-GH. I-]{+pode+}n[-:-]{+do+} [-C-]{+se+}r[-i-]{+ repe+}ti[-cal-]{+do+} [-C-]a[-re-]{+té+} [-P-]{+2 vez+}e{+s +}d[-i-]{+e +}a[-t-]{+co+}r[-i-]{+do +}c[-s,-]{+om+} [-S-]a[-unde-]{+ +}r{+e+}s[-,-]{+posta+} [-1985;-]{+(total+} [-3-]6[-9-72-]{+0mL/kg)+}.[-Tab-]{+ S+}e[-l-]{+ um+}a 3{+ª+} [-- Esc-]{+et+}a[-l-]{+p+}a de [-coma d-]{+r+}e[- Gla-]{+po+}s[-g-]{+içã+}o[-w-] [-pa-]{+fo+}r[-a-] {+n+}e[-s-]c[-olar-]es{+sária,+} {+consid+}e[- l-]{+r+}a[-c-]{+r +}t[-e-]{+ra+}n[-te-]s[-	E-]{+fu+}s[-c-]{+ã+}o[-lar-]{+ d+}e[-s	P-]{+ c+}on[-tos 	La-]c[-t-]ent[-es-]
+[-Abertu-]ra[- -]{+d+}o{+ de hemá+}c[-ul-]{+i+}a{+s (10mL/kg). C+}r[-	E-]{+ian-ça+}s[-p-]{+ n+}o{+rmalme+}nt[-ân-]e[-a	4	E-]{+ re+}spon[-tân-]{+d+}e{+m +}a{+ essas manobras de expansão, porém, quando não houver sinais de melhora, consideram-se a transfusão de outros componentes sanguíneos e cirurgia precoce.+}
+
+{+- D: disfunção (neurológica)+}
+{+Além da avaliação do nível de consciência, deve ser feita avaliação de outros sinais de comprome-timento neurológico. Isso inclui uma avaliação rápida da pupila, presença de sinais de lateraliza-ção (paresia e plegia) e com isto avaliação de possível lesão medular e seu nível (imobilizar a co-luna, se necessário).+}
+{+Avaliação do nível de consciência: aplicar escala de coma de Glasgow (índice de 3 a 15) adap-tando-a para a faixa etária da criança (Tabela 3).+}
+
+{+Tabela 3 - Escala de coma de Glasgow/Escala de coma de Glasgow modificada para lactentes+}
+{+	Resposta	Resposta modificada para lactentes+}
+{+Escore	Abertura ocular+}
+{+4	Espontânea	Espontânea+}
+{+3	Ao estímulo verbal	Ao estímulo verbal+}
+{+2	Ao estímulo doloroso	Ao estímulo doloroso+}
+{+1	Ausente	Ausente+}
+{+	Melhor resposta motora+}
+{+6	Obediência a comando	Movimentação espontânea+}
+{+5	Localização da dor	Localização da dor (retirada ao toque)+}
+{+4	Retirada ao estímulo doloroso	Retirada ao estímulo doloroso+}
+{+3	Flexão ao estímulo doloroso +}
+{+(postura decorticada)	Flexão ao estímulo doloroso+}
+{+(postura decorticada)+}
+{+2	Extensão ao estímulo doloroso +}
+{+(postura descerebrada)	Extensão ao estímulo doloroso +}
+{+(postura descerebrada)+}
+{+1	Ausente	Ausente+}
+{+	Melhor resposta verbal+}
+{+5	Orientado	Balbucia+}
+{+4	Confuso	Choro irritado+}
+{+3	Palavras inapropriadas+}	C{+horo à dor+}
+{+2	Sons inespecíficos	Gemido à dor+}
+{+1	Ausente	Ausente+}
+
+{+- E: exposição e controle do ambiente+}
+{+A exposição deve ser feita com avaliação da criança sem roupa, observando-se inclusive o dorso do paciente. Lembrar que esta etapa não exclui a necessidade de imobilização da coluna cervical. Priorizar a avaliação e o tratamento de traumas fatais.+}
+{+O controle da hipotermia é fundamental no tratamento da criança traumatizada. Pode ser feita com cobertores térmicos, aquecedores elétricos e lâmpadas para aquecimento. Outras estraté-gias, como aquecer os líquidos que serão infundidos, e a própria sala de atendimento podem cola-borar para controlar a temperatura da sala.+}
+
+{+b) Avaliação secundária+}
+{+- História “da cabeça aos pés”: avaliar todos os seguimentos do corpo. Essa avaliação sistemática (com anamnese e exame físico) aumenta a probabilidade de se identificar problemas importan-tes;+}
+{+- “Dedos e tubos” por todos os orifícios: lembrar principalmente de colocar sonda vesical, sonda gástrica e fazer toque retal;+}
+{+- Exame neurológico c+}om{+pleto:+} {+par+}a [-f-]{+av+}al{+i+}a{+r+} [-	3	C-]{+p+}o[-m-]{+ssíveis lesões+} {+fin+}a{+s+} {+não identi+}f{+icadas na av+}al{+i+}a[-	A-]{+ção primária;+}
+{+-+} {+Ra+}d{+i+}o{+g+}r[-	2	A-]{+afias:+} [-d-]{+este é o moment+}o{+ de +}r[-	A-]{+ealizar raio x de col+}u{+na cervical e demais raio+}s{+ x n+}e{+cessá-rios co+}n{+forme o +}t{+ipo d+}e[-	1	A-]{+ tra+}u[-s-]{+ma;+}
+{+- Laboratório: col+}e[-n-]t{+a d+}e[-Resp-]{+ am+}ost{+r+}a [-v-]{+d+}e[-rb-]{+ s+}a[-l	Orie-]n[-t-]{+gue p+}a[-d-]{+r+}a[-	5	B-]{+ av+}al[-buc-]i[-o-]
+[-	Confus-]a[-	4	C-]{+ção de +}h{+em+}o{+g+}r[-o-]{+ama,+} {+b+}i[-rr-]{+oquím+}i[-t-]{+c+}a[-do-]
+[-	In-]{+ e g+}a[-pr-]{+s+}o[-p-]{+me-t+}ria[-da	3	Choro-]{+;+}
+{+-+} [-a-]{+AMPLA:+} [-d-]{+mét+}o[-r-]
+[-	S-]{+d+}o[-ns-] [-inco-]m[-pree-]n[-síveis	2	G-]em{+ôn+}i[-d-]{+c+}o {+par+}a [-d-]{+rec+}or[-	Au-]{+dar o+}s[-ente	1	Au-]{+ +}se{+gui+}nte[-Resposta-] [-m-]{+p+}o{+n+}to{+s:+}
+{+· A: Ale+}r{+gi+}a[-	Ob-]{+s;+}
+{+· M: M+}edi[-ên-]c[-i-]a{+ções+} {+us+}a{+das+} [-c-]{+pel+}o[-m-]{+ paciente;+}
+{+· P: Pass+}a{+do de doe+}n{+ças;+}
+{+· L: Líqui+}dos[-	6	Mov-]{+ e al+}imentos {+ing+}e[-sp-]{+rid+}o{+s a+}nt[-ân-]e[-o-]s[-	Localização-] d[-a-]{+o+} {+aci+}d[-or	5	R-]e{+nte – +}ti{+pos e ho+}ra[-da-]{+;+}
+{+·+} [-ao-]{+A:+} {+Ambien+}t[-oqu-]e[-	R-]{+ +}e[-tira-]{+ mo+}d[-a-]{+o de+} {+ocorrênci+}a do[-r	4	Re-]{+ +}t[-i-]ra[-d-]{+um+}a{+.+}
+
+{+Lesões+} {+específic+}a{+s+} [-d-]{+p+}or[-	Flex-]{+ órg+}ão{+s+} [-anor-]{+e siste+}ma[-l	3	Fl-]{+s s+}e[-x-]{+r+}ão a[-n-]{+b+}or[-m-]{+d+}a[-l-]
+[-	Exten-]{+do+}s[-ã-]{+ n+}o {+c+}a[-n-]{+pítul+}o{+ de t+}r{+au+}ma[-l	2	Ext-]{+s.+}
+{+Qu+}e[-n-]{+imaduras +}s{+er+}ão a[-n-]{+b+}or[-m-]{+dad+}a[-l-]
+[-	Au-]s{+ +}e[-n-]{+m capí+}t[-e	1	A-]u[-sen-]{+lo a par+}te{+.+}
+
+B - Corpo estranho
+Corpo estranho é qualquer elemento introduzido voluntária ou involuntariamente dentro de uma cavidade.
+[-- N-]a[-s-]{+)+} [-vias-]{+Conduto+} a[-é-]{+uditivo externo+}
+{+Ocor+}re{+ norm+}a[-s-]{+lmente+} [-sup-]e{+m c+}ri{+anças men+}ores {+d+}e {+6 a+}no{+s de+} [-ouv-]id[-o-]
+[-Os-]{+ade+} [-corp-]o[-s-]{+u+} [-est-]{+c+}r{+i+}an[-ho-]{+ça+}s mai{+ore+}s com[-uns-] [-e-]n{+e+}c[-ontrado-]{+e+}s[- na-]s[- v-]i{+-d+}a[-s aér-]{+d+}e[-a-]s {+e+}s[-u-]pe[-r-]{+cia+}i[-ores -]s[-ão-]{+.+} [-f-]{+C+}r{+i+}a[-gme-]n[-to-]{+ça+}s [-de-]{+com+} [-esp-]{+c+}on[-ja -]d{+içõ+}e{+s+} [-b-]{+irrit+}a[-nho, p-]{+tiv+}a[-pel-]{+s+} [-higiên-]{+do ouv+}i[-c-]{+d+}o[-,-] com[-p-]o[-nen-]{+ oti+}te[-s-] [-d-]e[- b-]{+xte+}r[-i-]n[-qu-]{+a +}e[-dos,-] {+impa+}c[-on-]ta[-s-]{+ção+} de [-bijut-]{+c+}er[-ias-]{+úmen+} e[-,-]{+stão+} mais {+p+}r[-ec-]{+op+}en[-temente, bateria-]s[- alcalin-]as[-,-] [-usad-]a[-s em-] [-re-]{+co+}l[-ógi-]o[-s e -]ca[-l-]{+rem +}c[-ulad-]or[-a-]{+po+}s[-.-] [-Essa-]{+e+}s[- ba-]t[-e-]r[-i-]a{+nho+}s [-liberam-]{+no+} [-s-]{+cond+}u[-bs-]t[-âncias-]{+o+} [-q-]{+a+}u[-e po-]d[-em potenc-]i[-al-]{+t+}i[-z-]{+vo. Tr+}a{+nsto+}r{+no+} {+d+}o [-r-]{+déf+}i[-s-]c[-o-]{+it+} de [-perfur-]a{+ten+}ção [-d-]{+c+}o{+m+} [-se-]{+hi+}p[-to n-]{+er+}a[-s-]{+tivid+}a[-l ou-]{+de+} {+ta+}m[-es-]{+bé+}m[-o-] [-o-]{+é+} {+f+}a[-parecimen-]to{+r+} de [-sinéqu-]{+r+}i[-a-]s[-.-]
+[-N-]{+c+}o{+.+}
+{+-+} [-di-]{+M+}a[-g-]n[-ó-]{+ife+}st{+ações clín+}ic[-o,-]{+as:+} [-é-]{+os+} [-im-]p[-ort-]a[-nt-]{+ci+}e[- ob-]{+n+}te[-r a-]{+s+} [-i-]n[-f-]orma[-ç-]{+lmente s+}ão [-m-]a[-i-]s[- c-]{+sint+}om[-ple-]{+á+}t[-a-]{+icos, e+} [-d-]o{+s+} p[-ac-]{+r+}i[-e-]n[-te-]{+cipais+} {+achad+}o[-u-]{+s+} [-d-]{+sã+}o{+:+}
+{+·+} {+P+}a[-comp-]{+is rel+}a[-nh-]{+t+}a[-n-]{+m +}te[-;-]{+rem+} {+prese+}n[-o -]c{+i+}a[-s-]{+d+}o [-d-]a[-s-] criança[-s,-] {+colocan+}d[-evem-se-]{+o+} [-lev-]a[-r-]{+lgum+} {+obj+}e[-m-]{+to no ouvido;+}
+{+·+} {+A+}c{+had+}o{+ incide+}nta{+l+} [-os-]{+durante+} {+oto+}s{+cop+}i[-n-]a[-is-] {+d+}e {+r+}o[-s-]{+tina;+}
+{+·+} [-s-]{+Dim+}in[-t-]{+uiçã+}o[-m-]{+ d+}a[-s-] [-(r-]{+acu+}i[-n-]{+dade auditiva e dor;+}
+{+· Ot+}orreia [-muco-]purulenta {+o+}u{+ sa+}n{+gu+}i{+no+}l[-at-]e{+nta (+}ra[-l-]{+ro);+}
+{+·+} {+Toss+}e [-fét-]{+crôn+}i[-d-]{+c+}a[-).-] [-Quand-]o[- -]u[-m-] [-c-]{+s+}o[-rp-]{+luç+}o[- e-]s[-t-]{+ (+}ra[-nh-]{+r+}o{+).+}
+{+A+} [-está loc-]{+visu+}aliza[-d-]{+çã+}o de[-ntro do-] {+c+}o[-uvid-]{+rp+}o[-, é-] [-mai-]{+e+}s[- difícil pa-]{+t+}ra{+nho+} {+n+}a {+otos+}c[-r-]{+op+}ia[-nça-] [-ide-]{+co+}n[-ti-]fi[-ca-]r[- -]{+m+}a [-sensaçã-]o d[-e -]{+i+}a[-l-]g[-o prese-]n{+ós+}t[-e na -]{+ic+}o[-relha-], [-pod-]{+s+}endo [-fi-]{+ne+}c[-a-]{+essá+}r{+io+} a{+va+}li[- po-]{+a+}r {+cuid+}a[-n-]{+d+}os[-. P-]a[-ra re-]m[-ov-]e[-r-]{+nte o+} {+o+}u[-m-]{+vido+} co{+nt+}r[-po-]{+alateral+} e{+ a+}s[-tr-]{+ n+}a{+ri+}n[-ho,-]{+as.+} [-é-]{+O+} [-impo-]{+t+}r{+a+}ta{+me+}nt[-e-]{+o+} con[-hec-]{+sist+}e[-r a-] [-a-]na[-tomia-] {+r+}e[- -]t[-e-]{+i+}r{+ada+} [-u-]m[- equip-]a[-me-]n[-to adeq-]ua{+l +}do {+obj+}e{+to,+} sen[-s-]{+d+}o [-crítico,-]{+que+} [-par-]a[- não ocorrer iatro-]{+l+}g[-enia. C-]{+um+}as[-o o médico não-] [-e-]s{+i+}t[-ej-]{+u+}a[- -]{+çõe+}s{+ r+}e[-g-]{+q+}u{+e+}r[-o do-]{+em+} [-di-]a[-gnóst-]{+val+}i[-co -]{+açã+}o[-u-] [-inseg-]ur[-o qua-]{+ge+}nt[-o à r-]e[-moção,-] {+d+}o [-m-]e[-lhor a -]s{+p+}e[-r feito é en-]c[-am-]i[-nh-]a[-r -]{+list+}a [-um -]{+(+}otorrinolaringo{+-+}logista{+):+}
+{+	Baterias+} [-ou -]a{+lcalinas:+} [-um-]{+são+} en[-dos-]co[-pis-]{+n+}t{+r+}a[-.-]
+
+[-C - Eng-]{+d+}as[-go-]
+[-A-] {+e+}m[-aio-]{+ b+}ri[-a -]{+nque+}dos{+,+} {+apa+}rel[-at-]{+h+}os de [-ob-]s[-tr-]u[-ção -]{+r+}de{+z+} [-vias-]{+e+} a[-é-]{+pa+}re[-a-]{+lho+}s [-inf-]e{+let+}r{+ôn+}i{+c+}o[-re-]s [-e-]{+facil+}m{+ente+} {+encontr+}ad[-ult-]os [-é c-]{+nos lares. C+}ausa{+m lesão teci+}d{+u+}a{+l+} [-p-]{+devid+}o[-r-] a{+ correntes e+}l{+étr+}i{+cas e vaza+}men{+-+}to[-s-] {+d+}e [-a-]conte[-ce-]{+údo+} {+lí+}qu[-an-]{+i+}do {+d+}a [-ví-]{+ba+}t{+er+}i[-m-]a {+(raro) +}e[-stá-] {+ne+}c{+r+}o[-m-]{+s+}e[-nd-]{+ por pressã+}o. [-A-]{+Já+} [-mai-]{+f+}or[-i-]a{+m+} d[-os -]e[-nga-]s[-g-]{+crit+}os [-em l-]{+d+}a[-cte-]n[-te-]{+o+}s [-e cria-]n[-ças-]{+o+} [-a-]con[-tece enq-]{+-d+}u[-an-]to [-estes se -]a[-l-]{+ud+}i[-men-]t[-am -]{+iv+}o[-u-]{+,+} {+mem+}br{+ana t+}i{+mpâ+}n{+i+}ca[-m e-]{+,+} [-qua-]n[-do -]{+erv+}o[-s-] [-p-]{+f+}a{+c+}i[-s e -]a[-s-]{+l+} [-p-]e{+ o+}ss{+ícul+}o[-a-]s{+,+} [-que cuid-]a{+lé+}m de[-las-] {+p+}e[-s-]{+rda audi+}t[-ão-]{+iva+} p[-r-]e[-s-]{+rman+}en{+-+}te[-s. Si-]{+;+}
+{+	I+}n[-ai-]s[- d-]e[- -]{+t+}o[-b-]s[-tr-]{+: +}u[-ção-]{+ma+} [-d-]{+enorm+}e v[-i-]a[-s aé-]r{+i+}e{+d+}a[-s-]{+de+} [-por-]{+de+} [-c-]{+inset+}o[-r-]{+s +}po{+de+} e[-s-]{+n+}tra[-nho-]{+r+} [-g-]{+tempo+}ra[-v-]{+riament+}e {+n+}o[-u-] co[-mpleta i-]n[-cl-]{+d+}u[-em -]{+t+}o {+aud+}i[-níc-]{+t+}i{+v+}o{+,+} [-súb-]{+v+}i{+s+}to [-d-]{+qu+}e [-d-]es[-confor-]t[-o-]{+e+} [-r-]{+é qu+}e[-spira-]{+n+}t[-ório-]{+e+} [-as-]{+e e+}s[-o-]c[-iad-]{+ur+}o{+.+} [-a-]{+Um+} [-tos-]{+in+}se[- fraca -]{+t+}o{+ q+}u{+e+} s[-il-]e[-nci-]{+ m+}o[-sa,-]{+ve+} [-i-]n{+o +}c[-apaci-]{+on+}d{+uto +}a{+u+}d[-e-]{+itivo+} {+po+}de [-f-]{+c+}a[-l-]{+us+}ar[-,-] [-estr-]i[-dor (so-]m[- ex-]p[-i-]{+o+}r{+-t+}a{+n+}t[-ório) -]e [-aum-]{+d+}e{+sco+}n{+for+}to{+,+} [-d-]a{+lém+} d[-ificuldad-]e [-respir-]{+oc+}a[-tór-]{+s+}i{+on+}a[-. També-]{+l+}m[- s-]e[- pod-]{+nt+}e [-susp-]{+l+}e[-it-]{+s+}ar [-de aspir-]a[-ção de corpo-] {+m+}e[-st-]{+mb+}ran[-ho no 1º qu-]a[-dro-] [-súbi-]t[-o de sib-]i[-l-]{+mp+}ân[-c-]i[-a. Os a-]c[-h-]a[-dos clínicos-] [-depend-]e[-m-] [-d-]o [-tip-]o[-, -]{+uvi+}do [-ta-]m[-anho e -]{+é+}d[-a local-]i[-zação d-]o[- c-]{+;+}
+{+	C+}orpo estranho {+pot+}e[- i-]nc{+ia+}l[-ue-]m[- -]{+en+}t[-oss-]e pe[-rsist-]{+n+}e{+tra+}nte[-,-]{+:+} [-di-]{+requere+}m[-i-]{+ ate+}n[-ui-]ção [-da -]{+im+}e[-ntra-]d{+i+}a[- de -]{+t+}a[-r-], [-sibil-]{+p+}o{+i+}s [-l-]{+p+}o[-caliza-]d[-os-]{+em+} [-(uni-]l{+es+}a[-t-]{+r a m+}e{+mb+}ra[-l)-]{+na+} [-ou-]{+timpânica e o ouvido médio. Cotonete, lápis e prendedores de cabelo (“tic-tac”) são exemplos de objetos penetrantes. Sinais e sintomas graves incluem dor, vertigem, nistagmo, ata-xia, otorreia, paralisia facial e perda auditiva e requerem avaliação imediata do otorrinolaringo-logista.+}
+{+b) Nariz+}
+{+Normalmente ocorre em lactentes e pré-escolares e consiste numa variedade de objetos orgâni-cos (feijão, sementes, balas etc.) e inorgânicos (contas de bijuterias, pérolas, brinquedos peque-nos, pedras, giz de cera etc.). A narina direita é a mais acometida devido à predominância de cri-anças destras. Na maioria dos casos o paciente encontra-se assintomático e sua retirada pode ser feita sem a necessidade de encaminhamento para o especialista, lembrando que a extração deve-rá ser feita da forma mais calma possível para não estressar a criança pelo risco de aspiração. A maioria dos objetos estão localizados da parte inferior da cavidade nasal logo abaixo da concha nasal inferior ou na parte superior à frente da concha nasal média.+}
+{+Manifestações clínicas: os principais achados são:+}
+{+· História da criança ter colocado algum objeto no nariz;+}
+{+· Secreção nasal purulenta unilateral;+}
+{+· Odor fétido unilateral;+}
+{+· Epistaxe (raro);+}
+{+· Obstrução nasal (raro);+}
+{+· Respiração bucal (raro);+}
+{+· Sinusite (raro).+}
+{+A visualização do corpo estranho na rinoscopia anterior confirma o diagnóstico, sendo necessário avaliar cuidadosamente a narina contralateral e os ouvidos.+}
+{+Algumas situações requerem avaliação do otorrinolaringologista:+}
+{+Corpo estranho localizado na parte posterior do nariz, ou seja, não visualizado na rinoscopia ante-rior;+}
+{+Baterias alcalinas;+}
+{+Imãs;+}
+{+Sinais inflamatórios importantes;+}
+{+Objetos penetrantes;+}
+{+Objetos que não puderam ser removidos por profissional não especialistas.+}
+
+{+C - Via aérea inferior+}
+{+Cerca de 80% dos episódios de obstrução de via aérea inferior por corpo estranho ocorrem em crianças menores de 3 anos, com pico de incidência entre 1 e 2 anos de idade. Nessa faixa etária a criança já é capaz de ficar em pé, está na fase oral do desenvolvimento e possui habilidades motoras finas para pegar objetos pequenos e levá-los à boca, mas ela ainda não possui os dentes molares para mastigar adequadamente. O diâmetro da via aérea das crianças nessa idade é me-nor, o que também as predispõe a obstrução. Os corpos estranhos mais comumente aspirados são amendoins, outros grãos e sementes, pipoca e brinquedos pequenos. Balões infláveis são os mais encontrados em aspiração das vias aéreas inferiores fatal. +}
+{+A maioria dos objetos aspirados por crianças são encontrados nos brônquios. Objetos em laringe e traqueia são menos comuns. Em revisão recente de relatos de caso de aspiração de corpo estra-nho em via aérea inferior, os principais sítios onde os objetos foram encontrados são:+}
+{+- Laringe: 3%;+}
+{+- Traqueia/carina: 13%;+}
+{+- Pulmão direito: 60% (52% no brônquio direito, 6% no lobo inferior e menos de 1% no lobo mé-dio);+}
+{+- Pulmão esquerdo: 23% (18% no brônquio esquerdo e 5% no lobo inferior);+}
+{+- Bilateral: 2%.+}
+{+Apresentação: depende do grau de obstrução, da localização e tipo do objeto e idade da criança, assim como se o evento foi testemunhado ou não. De 50 a 75% das crianças apresentam sinto-mas nas primeiras 24 horas da aspiração;+}
+{+Sinais e sintomas: o sintoma mais comum é tosse, seguido por taquipneia e estridor, normalmen-te acompanhados de sibilos focais ou baixa entrada de ar localizada. A tríade clássica de tosse, sibilos e baixa entrada+} d[-ifu-]{+e ar e+}s[-o-]{+tá pre+}s{+ente em+} {+ap+}e{+nas 57% dos+} {+casos, apresentan+}d{+o alta espec+}ifi{+-+}c[-ul-]{+i+}dade [-res-]{+(96 a 98%) +}p[-ir-]a[-tó-]r{+a o d+}ia[-.-]{+gnóstico,+} [-A-]p[-r-]o[-xi-]{+ré+}m{+ b+}a[-d-]{+ix+}a[-m-]{+ s+}en[-t-]{+sibilidad+}e {+(27 a +}4[-0-]{+3+}%{+).+} [-p-]{+Sinais c+}o[-de-]m{+o+} [-e-]{+in+}s[-t-]{+ufici-ênci+}a[-r-] [-as-]{+re+}s{+p+}i[-ntomá-]{+ra+}t{+ór+}i{+a, +}c{+ian+}os[- -]e [-s-]e[-m-] alteraç[-ões-]{+ão+} [-n-]{+d+}o e[-x-]{+st+}a{+do +}me{+ntal+} [-fí-]s[-ico. O -]{+ug+}e[-xam-]{+r+}e{+m+} [-radi-]o[-g-]{+bst+}r[-áfic-]{+uçã+}o [-si-]{+co+}mple[-s-]{+ta+} d[-e-]{+a+} [-tór-]{+vi+}a[-x-] {+a+}é[- o 1º -]{+-re+}a [-s-]e[-r-] re[-alizado-]{+querem+} [-n-]a[- susp-]{+t+}e{+nd+}i{+men+}t[-a-]{+o+} [-d-]{+im+}e[- asp-]{+d+}i[-r-]a[-ção, p-]{+t+}o[-is é-]{+.+} [-f-]{+P+}aci[-lm-]ente[- di-]s{+ com cor+}po[-nív-]{+ +}e[-l-]{+stranho+} em [-ser-]vi[-ço-]{+a+}s [-d-]{+aér+}e[- s-]a[-úd-]{+s m+}e{+nores (bronquíolos)+} {+pod+}e{+m+} apresenta{+r+} [-co-]{+si+}n{+toma+}s{+ +}i[-d-]{+n+}e[-ráv-]{+sp+}e[-l-]{+cíficos+} {+ou au+}s[-e-]{+ê+}n[-sibil-]{+c+}i[-d-]a{+ +}de[-.-] [-A-]{+sin+}t{+omas. N+}e[-l-]{+ss+}e{+s +}c[-t-]as[-ia-]{+os+} {+pod+}e [-hip-]{+acontec+}er[-i-]{+ p+}n[-s-]{+e+}u[-flaçã-]{+m+}o{+nia+} [-l-]{+em dec+}o{+rrên+}c[-al-]i[-z-]a{+ +}d[-a-]{+o+} {+proces+}s[-ã-]o [-s-]in{+flam+}a{+tór+}i[-s-]{+o,+} c[-on-]{+au+}s[-ider-]ado[-s-] [-tí-]p[-ico-]{+ela pre+}s{+ença+} d[-e-]{+o+} corpo estranho[- em radiograf-]{+;+}
+{+H+}i[-a-]s[-. Raio x de -]tór{+i+}a[-x-] [-f-]{+d+}e[-ito-] e[-m i-]n[-spir-]{+g+}a[-çã-]{+sg+}o{+:+} [-e-]{+um+} e[-x-]pi[-raçã-]{+sódi+}o t[-ambém pod-]e[- -]s[-er ú-]t[-il para vis-]{+em+}u{+nh+}a[-lizar regiões-]{+do+} de [-aprisionam-]en[-to -]{+g+}a[-ére-]{+sg+}o, [-sug-]{+d+}e[-st-]{+fin+}i[-vo -]do [-local d-]{+p+}o{+r+} {+iní+}c[-orp-]{+i+}o [-e-]s{+úbi+}t[-ranh-]o[-.-]
+[-Se-] [-há-]{+de+} {+t+}o[-b-]s[-truçã-]{+se e/+}o{+u+} {+dis+}p[-arc-]{+ne+}ia[-l-] e{+/ou+} {+ci+}a{+nose em+} criança {+pr+}e[-s-]{+viamen+}t[-á-]{+e+} [-toss-]{+híg+}i[-n-]d[-o-]{+a,+} [-f-]{+é n+}or[-ços-]{+m+}a{+l+}mente{+ autolimitado+}, {+te+}n[-ã-]{+d+}o se[- -]{+nsibilida+}d[-ev-]e [-interf-]{+d+}e[-rir-] [-n-]{+76 +}a [-tosse-]{+92%+} [-es-]p{+ara +}o{+ diag+}n{+ós+}t[-ânea e-]{+ico+} {+d+}e[-m-] {+a+}s[-eus-]{+piração+} {+d+}e[-sf-]{+ c+}or[-ç-]{+p+}o[-s-] [-r-]es[-pira-]t[-ó-]r[-i-]{+anh+}o[-s-]. [-Deve--]{+Apó+}s[-e-] [-t-]{+o +}en[-tar alivi-]{+g+}a[-r-]{+sgo+} [-a-]{+pode+} o[-bst-]{+corre+}r{+ +}u[-ção-]{+m+} [-a-]pe[-nas-]{+ríodo+} se{+m+} [-a -]{+sin+}to{+ma+}s[-se é-]{+,+} o{+ q+}u{+e pode+} se{+r+} [-to-]{+er+}r{+o+}n{+e+}a{+mente+} in{+terpr+}e[-ficaz (-]t{+ad+}o[-sse-] [-silen-]c[-i-]o[-sa),-]{+mo+} [-s-]{+r+}e[- a-]{+so-lução+} d[-ifi-]{+o +}c[-uld-]a[-de-]{+so+} [-r-]e[-spir-]{+ +}at[-ó-]r[-i-]a[- aument-]{+s+}a{+r+} [-e é ac-]o[-mp-]{+ di+}a{+g+}n[-h-]{+óstico;+}
+{+Tr+}a[-d-]{+t+}a[- d-]{+m+}e{+nto:+}
+{+·+} [-e-]{+Ob+}str[-id-]{+uçã+}o[-r-] {+c+}o[-u s-]{+mpl+}e{+ta+} {+d+}a v[-ít-]i[-m-]a [-se torn-]a[- não -]{+é+}re[-sponsiv-]a[-.-]
+[-S-]{+: s+}e um lactente responsivo demonstra sinais de obstrução de vias aéreas completa, realiza-se a combinação de {+5 +}golpes nas costas {+acompanhados d+}e {+5 +}com{+-+}pressões torácicas rápidas até que o objeto seja expelido ou a vítima se torne não responsiva (Fi{+-+}gura [-6-]{+14+}). A manobra de Heimlich não é recomendada porque as compressões podem lesar o fí{+-+}gado relativame[-nte grande e desprotegido.-]
+
+[-Importante-]
+[-Em caso de engasgo em lactente, deve-se proceder a golpes dorsais e compressões torácicas. Acima de 1 ano, deve ser empregada a manob-]{+nte g+}ra[- -]{+n+}de [-H-]e{+ desproteg+}i[-mlich-]{+do+}.{+ +}Se uma criança responsiva ({+acima +}de 1 a[- 8 a-]no[-s-]) demons{+-+}tra sinais de obstrução grave ou completa, realiza-se uma série de compressões abdominais rá{+-+}pidas subdiafragmáticas (manobra de Heimlich[- – Figura 7-]). Essas compressões rápidas aumentam a pres{+-+}são intratorácica, criando tosse artificial, e podem forçar o ar e o corpo estranho para fora das vias aéreas{+ (Figura 15)+}.{+ Caso a vítima não responda com essas manobras e se torne arresponsi-va, procede-se a reanimação segundo o Suporte Básico de Vida até que seja possível a broncofi-broscopia para retirada do objeto;+}
+ 
+Figura [-6-]{+14+} - [-Como -]{+M+}a[-gi-]{+nob+}r[- em c-]a[-so-] de [-a-]{+de+}s[-pir-]{+eng+}a[-çã-]{+sg+}o [-d-]e{+m+} c[-orpo est-]r{+i+}an[-ho-]{+ças+} [-por-]{+<1+} [-l-]a[-cte-]n[-tes-]{+o+}
+
+ 
+Figura [-7-]{+15+} - Manobra de Heimlich
+{+·+} {+Obstrução parcial da via aérea: toda criança com suspeita de obstrução parcial de via aérea inferior deve ser examinada minuciosamente e deve realizar radiografia simples de tórax. Os pais devem ser interrogados sobre história de engasgo ocorrendo horas ou até dias antes do iní-cio dos sintomas. Quando a suspeita para aspiração de corpo estranho for grande, a criança de-verá ser submetida a broncofibroscopia para avaliação da árvore brônquica mesmo quando o raio x de tórax for normal (o que ocorre em 30% dos casos). Quando a suspeição clínica for baixa e os exames iniciais forem normais, nenhuma outra conduta é necessária. Os achados mais co-muns da radiografia de tórax são: hiperinsuflação localizada, atelectasia, afastamento do medi-astino em direção contrária ao pulmão acometido e pneumonia. Abscessos pulmonares e bron-quiectasia podem ocorrer, sendo manifestações tardias da presença do corpo estranho. Raio x de tórax feito em inspiração e expiração também pode ser útil para visualizar regiões de aprisio-namento aéreo, sugestivo do local do corpo estranho.+}
+
+[-D - -]I{+mporta+}nt[-oxi-]{+e+}
+{+Em +}ca[-çõe-]s{+o+} {+d+}e[-xóg-]{+ +}en{+g+}as[-Int-]{+g+}o[-xicaçõ-]{+ +}e[-s-]{+m+} {+lact+}e[-xóg-]{+nte m+}en[-as-]{+or+} [-agu-]d[-as-]{+e+} [-p-]{+1 an+}o{+, +}de[-m -]{+ve-+}se[-r-] [-d-]{+proc+}e[-fini-]d{+er +}a[-s-] [-como-]{+5+} [-a-]{+golpe+}s [-c-]{+d+}o[-n-]{+r+}s[-equênci-]a[-s clín-]i[-ca-]s {+s+}e[-/ou bioq-]{+-g+}u[-ím-]i[-cas -]d[-a exp-]os[-ição-] [-agu-]d[-a-]{+e+} [-a-]{+5+} {+compre+}s[-ub-]s{+ões +}t[-ân-]{+orá+}ci{+c+}as{+.+} [-químic-]{+Par+}a[-s-] [-en-]c[-ont-]r{+i+}a[-d-]{+nç+}as [-no a-]m[-b-]{+a+}i{+or+}e[-nt-]{+s d+}e [-(ar,-]{+1+} [-águ-]a{+no+}, {+re+}ali{+za+}m[-ento-]{+-+}s[-,-]{+e+} {+com+}p[-lanta-]{+res-sõe+}s[-,-] a[-ni-]{+bdo+}m{+in+}ais [-peçonhe-]{+(ma+}n[-t-]o[-s-]{+bra+} [-ou venenosos-]{+de+} {+H+}e[-t-]{+imli+}c[-.-]{+h+}){+.+}
+
+{+D+} [-ou-]{+-+} [-isol-]{+Tr+}a[-d-]{+to g+}as[- (p-]{+trint+}esti[-cid-]{+n+}a[-s,-]{+l+}
+{+A+} m[-edic-]a[-ment-]{+i+}o[-s, p-]r[-o-]{+ia +}d[-ut-]os [-de u-]{+ca+}so[- indu-]s[-trial,-] [-pr-]o[-dut-]{+c+}o[-s d-]{+rr+}e [-uso do-]{+e+}m[-i-]{+ +}c[-il-]{+r+}ia[-r-]{+nças+} e{+n+}t[-c.). Apesa-]r{+e+} [-da-]{+6+} [-in-]{+mese+}s[-uficiência-] [-d-]e [-d-]{+3 +}a[-d-]{+n+}os{+,+} [-e-]s[-t-]{+ão +}a[-tí-]s{+sintomá+}ticos, [-é-]{+e+} [-poss-]{+a fam+}í[-ve-]l{+ia procura+} a{+ten+}d[-m-]i{+men+}t[-i-]{+o po+}r [-qu-]{+t+}e[-, no-]{+r+} [-B-]{+p+}r[-a-]{+e+}s{+enc+}i[-l, -]a{+do+} [-i-]{+o mome+}nto[-xicação-] [-agu-]da [-co-]{+i+}n{+ge+}st[-itui-]{+ão. O+} [-i-]m[-port-]an[-t-]e{+jo+} [-prob-]{+c+}l[-em-]{+ínico foca n+}a {+i+}de{+n-tificação e+} {+tratamento do+}s{+ c+}a[-ú-]{+sos com risco +}de {+com+}p[-úb-]lica[-,-]{+ção (o que+} {+de+}p[-ar-]{+ende do +}ti{+po de objeto e lo+}c[-u-]{+a+}l{+iz+}a[-r-]{+ção do +}me[-n-]{+smo) vis+}t{+o qu+}e{+,+} {+felizme+}n{+te, +}a [-f-]{+m+}ai[-x-]{+ori+}a {+dos obj+}et[-ári-]{+os pass+}a pe[-diá-]{+lo +}tr[-ic-]a[-.-]{+to+} [-O-]{+ga+}s[- m-]{+trint+}e[-d-]{+st+}i[-c-]{+nal espontane+}ament[-os-]{+e.+} {+Apena+}s[-ão-] {+10 a 20% d+}os [-prin-]c[-ip-]a[-i-]{+so+}s [-age-]n[-t-]{+ec+}es{+sitam de+} re[-spo-]{+tirada e+}n{+do+}s[-áve-]{+cópica do objeto, e menos de 1% necessita de intervenção cirúrgica. Os objetos mais comumente encontrados são moedas (de longe o mais comum), baterias alcalinas redondas, brinquedos, imãs, parafusos e bo-linha de gude. +}
+{+Manifestações clínicas: quando ocorrem sintomas, estão normalmente relacionados à localização do objeto:+}
+{+· Esôfago: recusa alimentar, disfagia, salivação excessiva. Sintomas respiratórios como sibilos e estridor também podem ocorrer. Crianças maiores podem relatar a presença de alguma coisa presa no pescoço ou no tórax ou dor retroesternal. Objetos pontudos podem perfurar o estôma-go causando crepitação, edema no pescoço e pneumomediastino;+}
+{+· Estômago e intestinos: recusa alimentar, vômitos biliares e distensão gástrica (resultantes da obstrução à saída do estômago). Quando o objeto fica retido no ceco, podem aparecer sintomas sugestivos de apendicite. Quando o objeto migra para o fígado, pode ocorrer abscesso hepático. Perfuração intestinal também pode ocorrer, principalmente quando o objeto é pontudo. Bateri-as alcalinas também podem causar úlceras e perfurações.+}
+
+{+Avaliação clínica e tratamento: história clínica e exame físico detalhados são pontos chaves para o diagnóstico de corpo estranho no trato gastrintestinal, assim como para prevenção de compli-cações. Radiografias simples do pescoço, tórax e abdome devem ser realizadas em todo paciente com suspeita clínica de ingestão de corpo estranho. Quando o paciente está sintomático ou o ob-jeto for maior que 2cm de largura ou 5cm de comprimento ou pontiagudo é sugerido realizar tomografia computadorizada de abdome para melhor avaliação da localização. Intervenção de urgência para retirada do objeto, seja por via endoscópica ou cirúrgica, é necessária quando os seguintes sinais de alerta estão presentes: +}
+{+· Objetos pontiagudos ou maiores que 5cm de comprimento ou polímeros superabsorventes que se localizam no esôfago ou estômago;+}
+{+· Imãs com alto poder de atração;+}
+{+· Baterias alcalinas;+}
+{+· Sinais de comprometimento de via aérea;+}
+{+· Sinais de obstrução subtotal ou completa do esôfago;+}
+{+· Sinais de processo inflamatório ou obstrução intestinal;+}
+{+· Pacientes sintomáticos.+}
+{+Para casos que não se enquadram nos citados, a conduta expectante é a de escolha e o paciente deverá ser observado por 12 a 24 horas. Caso o objeto não saia nesse período, está indicada sua retirada, visto que compl+}i{+cações como erosão transmural e fí+}s{+tula podem ocorrer+}.
+
+{+E - Intoxicações exógenas +}
+
+Pergunta
+2013 - SANTA CASA-SP 
+2. Uma criança de 6 anos, previamente hígida, procura atendimento médico por apresentar dor epigástrica importante e de início agudo acompanhada de vômitos, disfagia, salivação, estridor leve e episódio de hematêmese. A mãe do paciente não sabe referir mais dados, pois a criança estava com um “amiguinho” na casa vizinha e sem adultos presentes. A respei[---]to desse caso, assinale a alternativa correta:
+a) como pode ter ocorrido ingestão cáustica, deve ser realizada lavagem gástrica imedi{+-+}atamente
+b) deve ser realizada endoscopia digestiva alta para identificação rápida das lesões teci{+-+}duais
+c) a ausência de lesões orofaríngeas exclui a possibilidade de lesão esofagogástrica gra{+-+}ve
+d) a maioria dos casos de ingestões cáusticas acidentais é por substâncias líquidas ácidas
+e) os acidentes com agentes ácidos geralmente são mais graves que os produzidos por agentes alcalinos
+Resposta no final do capítulo
+
+{+Intoxicações exógenas agudas podem ser definidas como as consequências clínicas e/ou bioquími-cas da exposição aguda a substâncias químicas encontradas no ambiente (ar, água, alimentos, plantas, animais peçonhentos ou venenosos etc.) ou isoladas (pesticidas, medicamentos, produtos de uso industrial, produtos de uso domiciliar etc.). Apesar da insuficiência de dados estatísticos, é possível admitir que, no Brasil, a intoxicação aguda constitui importante problema de saúde públi-ca, particularmente na faixa etária pediátrica. Os medicamentos são os principais agentes respon-sáveis. Mais de 50% dos casos pediátricos ocorrem em crianças entre 1 e 5 anos e felizmente a grande maioria dos casos são quadros brandos.+}
+{+Causas gerais:+}
+{+	Maus-tratos;+}
+{+	Tentativas de suicídio;+}
+{+	Experimentação intencional;+}
+{+	Envenenamento (criminal).+}
+{+Quando suspeitar de intoxicação exógena?+}
+{+História contada pelo responsável de ingestão acidental ou deliberada de substâncias tóxicas ou medicamentos;+}
+{+Quadros de início súbito, sem motivo óbvio com história inconsistente;+}
+{+Alteração aguda do estado mental;+}
+{+Quadro clínico estranho ou complexo. +}
+
+- Conduta na intoxicação aguda
+O atendimento do paciente intoxicado segue uma série de etapas, não necessariamente sequen{+-+}ciais. Apesar de bem delimitadas, sua execução apresenta, até o momento, numerosos aspectos duvidosos e controversos. Esquematicamente, são:
+Avaliação clínica inicial[-;-]
+[-Estabilização;-]
+[-Reconhecimento da toxíndrome e-]{+:+} [-id-]{+v+}e[-nt-]{+r+}ifica[-ção-]{+r se+} [-d-]o {+p+}a[-g-]{+ci+}ente [-caus-]a[-l;-]
+[-D-]{+pr+}es[-co-]{+e+}nta[-min-]{+ +}a[-ção;-]
+[-Ad-]{+lgu+}m[-in-]{+ d+}ist{+ú+}r[-açã-]{+bi+}o [-d-]{+qu+}e [-antídoto-]{+repre+}s[-;-]
+[-Aum-]ent[-o-]{+e+} [-da-]{+risco+} [-el-]imin[-ação-]{+ente+} d[-o tóxico-]{+e+} [-absor-]vid[-o;-]
+[-T-]{+a. Pa+}ra{+ +}ta[-me-]nto [-sintomático;-]
+[-Não-]{+é+} ind[-ução a vôm-]i[-to-]s[-, -]{+pen+}s{+áv+}e{+l u+}m [-faz-]e[-r -]{+x+}a{+me+} {+físi+}c{+o +}r{+áp+}i[-ança t-]{+d+}o[-mar laxantes-]{+,+} {+p+}o[-u-]{+rém+} [-pu-]r[-gat-]i[-v-]{+gor+}os{+o+}.{+ +}É funda{+-+}mental em todos os casos entrar em contato com o centro de intoxicação de referência, que ori{+-+}entará a conduta para cada caso, pois de acordo com a substância se define o tratamento{+;+}
+{+	Estabilização: consiste na realização de uma série de medidas visando corrigir os distúrbios que representam risco iminente de vida e a manter o paciente em condições adequadas até o esta-belecimento do diagnóstico definitivo e consequente tratamento específico;+}
+{+	Reconhecimento da toxíndrome e identificação do agente causal: toxíndrome ou síndrome tóxica pode ser definida como um complexo de sinais e sintomas produzido por doses tóxicas de substâncias químicas, que, apesar de diferentes, têm um efeito mais ou menos semelhante. O reconhecimento da síndrome permite a identificação mais rápida do agente causal e, conse-quentemente, a realização do tratamento adequado. Para tanto, é preciso realizar, como em qualquer outra afecção clínica atendida em serviço de emergência, uma anamnese e um exame físico cuidadoso. As principais toxíndromes e suas sintomatologias são:+}
+{+· Síndrome anticolinérgica: rubor de face, mucosas secas, hipertermia, taquicardia, midríase, retenção urinária, agitação psicomotora, alucinações e delírios. Principais agentes: atropina, derivados e análogos, anti-histamínicos, antiparkinsonianos, antidepressivos tricíclicos, anties-pasmódicos, midriáticos, plantas da família Solanaceae, particularmente do gênero Datura;+}
+{+· Síndrome anticolinesterásica: sudorese, lacrimejamento, salivação, aumento das secreções brônquicas, miose, bradicardia, fibrilações e fasciculações musculares. Principais agentes: inse-ticidas organofosforados, inseticidas carbamatos, fisostigmina, algumas espécies de cogumelos;+}
+{+· Síndrome narcótica: depressão respiratória, depressão neurológica, miose, bradicardia, hipo-termia, hipotensão, hiporreflexia. Principais agentes: opiáceos, incluindo também elixir pare-górico, difenoxilato, loperamida;+}
+{+· Síndrome depressiva: depressão neurológica (sonolência, torpor, coma), depressão respirató-ria, cianose, hiporreflexia, hipotensão. Principais agentes: barbitúricos, benzodiazepínicos, eta-nol. +}
+{+· Síndrome simpatomimética: midríase, hiper-reflexia, distúrbios psíquicos, hipertensão, ta-quicardia, piloereção, hipertermia, sudorese. Principais agentes: cocaína, anfetamínicos, deri-vados e análogos, descongestionantes nasais, cafeína, teofilina;+}
+{+· Síndrome extrapiramidal: distúrbios do equilíbrio, distúrbios da movimentação, hipertonia, distonia orofacial, mioclonias, trismo, opistótono, parkinsonismo. Principais agentes: fenotiazí-nicos, butirofenonas, fenciclidina, lítio;+}
+{+· Síndrome meta-hemoglobinêmica: cianose de pele e mucosas, de tonalidade e localização peculiar, palidez de pele e mucosas, confusão mental, depressão neurológica. Principais agen-tes: acetanilida, azul de metileno, dapsona, doxorrubicina, fenazopiridina, furazolidona, nitra-tos, nitritos, nitrofurantoína, piridina, sulfametoxazol.+}
+{+	Descontaminação: é a etapa em que se procura diminuir exposição do organismo ao tóxico, quer reduzindo o tempo e/ou a superfície de exposição, quer reduzindo a quantidade do agente químico em contato com o organismo. A conduta varia de acordo com a via da possível absorção do tóxico. As principais vias de exposição aguda humana são digestiva (indução ao vômito está contraindicada), respiratória, cutânea e percutânea.+}
+{+· Descontaminação dérmica: indicada quando há contato com substâncias químicas (inclusive de uso doméstico) e plantas. Remover roupas e calçados, lavar com água a área atingida (utili-zar chuveiro de descontaminação quando disponível). O uso do sabão está indicado quando o agente for oleoso, graxa ou picadas de animais;+}
+{+· Lavagem gástrica: está indicada principalmente até 4 horas da ingestão do tóxico, sendo mais eficaz nas primeiras 2 horas. Deve ser cuidadosa, repetida e demorada. Não deve ser conside-rada, a menos que o paciente tenha ingerido uma quantidade potencialmente letal do tóxico. Está contraindicada no paciente inconsciente extubado, paciente em convulsão, ingestão de substâncias cáusticas, ingestão de produtos derivados do petróleo, distúrbios hemorrágicos;+}
+{+· Carvão ativado: é uma substância adsorvente que parece ser, até o momento, o melhor pro-cedimento para descontaminação digestiva. Está indicado na ingestão de tóxicos de ação pro-longada ou que possuem circulação êntero-hepática. Dose: 1 a 2g de carvão por kg (máximo 60g) diluído em 5 a 8mL de líquido por kg por via oral ou sonda nasogástrica, podendo ser feito em dose única ou multidose (depende do tóxico). Pode haver intolerância pelo aspecto e textu-ra do carvão ativado. Sua eficácia diminui com o tempo, sendo melhor na 1ª hora. Contraindi-cações incluem recém-nascidos, ingestão de corrosivos, cirurgia abdominal recente, redução da motilidade intestinal (íleo paralítico ou obstrução intestinal) ou se o antídoto for por via oral. +}
+
+{+Tabela 4 - Principais antídotos e agentes tóxicos+}
+{+Antídotos	Agentes tóxicos+}
+{+Azul de metileno	Sulfonas, anilina, nitratos e nitritos+}
+{+Difenidramina	Metoclopramida+}
+{+Atropina	Inseticidas organofosforados e carbamatos+}
+{+Cálcio	Fluoretos e oxalatos+}
+{+Clorpromazina	Anfetaminas, LSD+}
+{+Dimercaprol, EDTA cálcio	Metais pesados+}
+{+Etanol	Metanol, etilenoglicol+}
+{+Fisostigmina	Anticolinérgico, ADT+}
+{+Flumazenil	Benzodiazepínicos+}
+{+Hidroxo’cobalamina	Cianetos+}
+{+Naloxona	Opiáceos, ácido valproico, halotano+}
+{+Propranolol	Cocaína+}
+{+N-acetilcisteína	Paracetamol+}
+{+		+}
+{+	Aumento da eliminação do tóxico absorvido: pode ser através de aumento da diurese com diuréticos, alcalinização da urina, hemodiálise, exsanguineotransfusão e plasmaférese. Sua indi-cação depende do tipo de toxina utilizada;+}
+{+	Tratamento sintomático: deve ser feito seguindo os mesmos critérios do atendimento de crian-ça portadora de uma afecção clínica que procura um serviço de emergência. Sintomas relacio-nados incluem convulsão, febre, reação alérgica, dor, reações extrapiramidais e outros+}.
+
+5. Conclusão
+{+Segundo os dados obtidos pelo IBGE, pelo Ministério da Saúde e pelo Sistema de Informações Hos-pitalares do Sistema Único de Saúde, os menores de 15 anos totalizam 28% da população brasilei-ra, e, infelizmente, os acidentes ocupam lugar de destaque entre as causas que levam a morte e/ou hospitalizações desse percentual da sociedade. Porém, mesmo existindo em proporções ele-vadas, os valores estão em declínio, comparados aos anos anteriores. São necessárias formulação de políticas públicas, educação e conscientização da sociedade para a prevenção de tais eventos e a consequente reversão do quadro atual. A Tabela a seguir demonstra os principais acidentes por faixa etária. +}
+
+[-Segundo os dados obtidos pelo IBGE, pelo Ministério da Saúde e pelo Sistema de Informações Hospitalares do SUS, os menores de 15 anos totalizam 28% da população brasileira, e, infelizmente, os acidentes ocupam lugar de destaque entre as causas que levam a morte e/ou hospitalizações desse percentual da sociedade. Porém, mesmo existindo em proporções elevadas, os valores estão em declínio, comparados aos anos anteriores. São necessárias a formulação de políticas públicas, a educação e a conscientização da sociedade para a prevenção de tais eventos e a consequente reversão do quadro atual. A Tabela 4 demonstra os principais acidentes por faixa etária.  -]Tabela [-4-]{+5+} - Principais acidentes por faixa etária
+Lactente 
+até 6 meses	Queda	- Não deixá-lo sozinho em lugares altos nem mesmo por alguns instantes;
+		- Não deixar que uma criança o carregue no colo;
+		- Ter cuidados com o carrinho.
+	Queimadura	- Não levar nada quente enquanto carrega o bebê no colo;
+@@ -210,8 +382,10 @@ Lactente at
+		- Não deixar objetos pequenos ao alcance;
+		- Não dar alimentos em pedaços grandes e duros.
+	Intoxicação	Ter cuidado com gotas nasais, remédios para resfriado, xaropes e inseticidas.
+	Acidente de 
+automóvel	Colocá-lo no banco traseiro com cadeiras especiais.
+Lactente de 
+7 a 12 me{+-+}ses	Queda	- Não deixá-lo sozinho em lugares altos;
+		- Colocar portões nas escadas;
+		- Baixar o estrado do berço quando a criança já fica de pé;
+		- Retirar móveis com quinas.
+@@ -224,13 +398,14 @@ Lactente de 7 a 12 meses	Queda	- N
+		- Não oferecer grandes pedaços de alimentos duros;
+		- Não colocar cordão de chupeta em torno do pescoço.
+	Choque elétrico	Usar protetores de tomadas.
+	Acidente de 
+automóvel	Não segurá-lo no colo, mas usar o contentor apropriado para a idade.
+Criança de 1 a 2 anos	Queda e ferimento	- Colocar portões nas escadas;
+		- Instalar grades em todas as janelas, no caso de morar em edifícios;
+		- Usar pratos e copos de plástico;
+		- Remover móveis com bordas cortantes;
+		- Prevenir mordedura de animais.
+	Queimadura e cho{+-+}que elétrico	- Nunca deixá-la sozinha na cozinha;
+		- Deixar os cabos das panelas voltados para dentro do fogão;
+		- Não deixá-la brincar com objetos metálicos que possam ser introduzidos em tomadas elétricas e usar protetores de tomadas.
+	Sufocamento	- Não deixá-la brincar com lata de talco;
+@@ -240,8 +415,9 @@ Crian
+	Autossegurança	- Não permitir que brinque na rua;
+		- Segurar a mão para atravessar a rua;
+		- Transportá-la no banco traseiro do carro e em assentos apropriados.
+
+Criança de 2 a 6 anos	Esta criança corre, pula e já começa a entender, mas ainda não sabe o que é pe{+-+}rigoso. Precisa de proteção, supervisão e disciplina firmes. Crianças de mais de 3 anos já entendem, mas ainda precisam de proteção. 
+	Queda, fe{+-+}rimento e 
+afogamento	- Instalar grades nas janelas de edifícios;
+		- Instalar portões nas escadas;
+		- Guardar facas, tesouras e armas longe do alcance dela; não deixá-la sozinha perto de piscinas e lagos;
+@@ -250,37 +426,37 @@ afogamento	- Instalar grades nas janelas de edif
+		- Ter cuidado com panelas, fogão e ferro de passar quentes;
+		- Ensinar o perigo do fogo;
+		- Evitar usar fogos de artifícios.
+	Autossegu{+-+}rança	- Transportá-la no banco traseiro do carro e em assentos apro{+-+}priados;
+		- Só permitir andar de bicicleta em lugares seguros.
+	Envenena{+-+}mento	- Ter em casa apenas os remédios e produtos tóxicos absoluta{+-+}mente necessá[---]rios;
+		- Manter remédios e produtos perigosos fora da visão e do alcan{+-+}ce dela;
+		- Jogar fora restos de remédios;
+		- Não tomar remédios na frente da criança (tende a imitar o adulto);
+		- Não transferir produtos tóxicos para garrafas de refrigerantes.
+	Mordida de animais	- Ensinar a não acariciar animais estranhos nem provocar qual{+-+}quer animal;
+		- Ensinar a não acordar um cão que esteja dormindo{+,+} nem se aproximar de cão que esteja comendo;
+		- Vacinar os cães d[-e-]{+a+} casa.
+	Segurança no tráfego	- Não permitir que ande de bicicleta na rua;
+		- No carro, obrigá-la a ficar sempre no banco traseiro, em assen{+-+}to apropriado;
+		- Colocar cinto de segurança (dê o exemplo) quando mais de 20kg;
+		- Ensinar regras de trânsito.
+
+[-6. -]Resumo
+
+Quadro-resumo
+Acidentes
+Traumas	- [-	-]Utilizar o suporte avançado de vida (ABCDE) de reanimação em Pedia{+-+}tria, com imobilização da coluna cervical;
+	- Avaliar vias aéreas e dar suporte;
+	- Identificar as causas de insuficiência respiratória e tratá-las;
+	- Identificar sinais de choque;
+	- Realizar avaliação neurológica rápida;
+	- Realizar exposição e controle do ambiente.
+Engasgo	- A maior parte dos engasgos entre lactentes e crianças ocorre quando estes estão comendo ou brincando;
+	- Sinais de obstrução de vias aéreas incluem início súbito, desconforto res{+-+}piratório associado a tosse fraca ou silenciosa, incapacidade de falar, es{+-+}tridor e aumento da dificuldade respiratória;
+	- Tratamento:
+· Lactente responsivo: combinações de golpes nas costas e compressões torácicas;
+· Compressões rápidas até que o objeto seja expelido pela vítima, antes que se torne não responsiva;[-  -]
+· Em caso de criança {+acima +}de 1 a[- 8 a-]no[-s-], recorre-se à manobra de Heimlich.
+Intoxicações exógenas	- O atendimento deve contemplar:
+· Avaliação clínica inicial;
+· Estabilização;
+@@ -291,5 +467,6 @@ Intoxica
+· Tratamento sintomático.
+
+Respostas
+{+das questões do capítulo+}
+1. D
+2. B
