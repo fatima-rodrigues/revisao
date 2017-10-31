@@ -1,0 +1,553 @@
+diff --git a/epidemio3_4.txt b/epidemio3_4.txt
+index 4ff2f38..7f4f087 100644
+--- a/epidemio3_4.txt
++++ b/epidemio3_4.txt
+@@ -1,58 +1,54 @@
+Medidas de frequência II:{+ +}mortalidade e ou{+-+}tros indicadores
+Marília Louvison
+Thaís Minett
+Alex Jones F. Cassenote
+Marina Gemma
+
+[-Resumo-]Este capítulo aborda os principais indicadores de saúde utilizados para medir e avaliar a qualidade da saúde, as condições e a expectativa de vida das populações ao longo dos anos, bem como permite comparar esses fatores entre regiões de um mesmo país ou com indicadores de outros países. Essas medidas permitem, ainda, avaliar a qualidade d[-os serviços de saúde prest-]a[-dos, como no-] [-c-]as[-o do-]s[- -]i{+stê+}n[-di-]c{+i+}a[-dores de-] [-morte-]{+à+} [-m-]{+s+}a[-t-]{+úd+}e[-rna-].[- -]
+
+1. Introdução
+
+Neste capítulo{+,+} serão abordados alguns indicadores mais utilizados no Brasil para categorizar a qualidade de saúde de um determinado local. Antes, vale apresentar uma situação prática. Você será convidado para exercer Medicina em 2 diferentes cidades do Brasil. 
+Na área de Saúde, os “indicadores” são parâmetros utilizados internacionalmente a fim de avaliar, do ponto de vista sanitá{+-+}rio, a higidez de agregados humanos, bem como fornecer subsídios aos planejamentos de saúde, permitindo o acompanha{+-+}mento das flutuações e tendências históricas do padrão sanitário de diferentes coletividades consideradas à mesma época ou da mesma coletividade, em diversos períodos de tempo (MEDRONHO, 2009).
+Diante das inúmeras dificuldades para mensurar a saúde da população, o que se faz é quantificar e descrever a ocorrência de determinados agravos à saúde, doenças ou morte. Nesse caso, olha-se, então, a ausência de saúde, ou, como habitualmen{+-+}te é dito, a saúde pelo seu lado negativo (MEDRONHO, 2009). Assim, por exemplo, um local cuja população apresente baixa frequência de doenças e mortalidade por diversos tipos de causas será taxado de saudável.
+
+Importante
+Em sentido amplo, qualquer informação que auxilie um gestor ou profissional da saúde na tomada de decisão em saúde poderá ser um indicador de saúde. [-Para tal, é necessário compreender que o indicador não é apenas um número derivado de um cálculo; essa etapa é apenas denotativa; a conotação (valor interpretativo) que a informação oferece é muito mais importante do que seu cálculo.-]
+
+Outra questão importante refere-se ao fato de que os dados epidemiológicos só se tornarão informações para tomada de decisão por meio dos indicadores de saúde. Esses dados provêm[-,-] {+de fo+}n[-a-]{+tes+} [-ma-]{+pr+}i[-o-]{+má+}ria[- da-]s [-vez-]{+(p+}es[-, de-]{+quisas)+} [-f-]o[-ntes-]{+u+} secundárias[-, os-] {+(+}sistemas de informação em saúde [-(-]{+– +}por exemplo, SINAN – Sistema de Informação de Agravos de Notificação –, SIM – Sistema de Informa{+-+}ções sobre Mortalidade –, SINASC – Sistema de Informações sobre Nascidos Vivos). Então, a validade dos indicadores vai de{+-+}pender, basicamente, da qualidade dos dados registrados nesses sistemas de informação.
+Após os cuidados quanto à qualidade e cobertura dos dados de saúde, é preciso transformar esses dados em indicadores que possam servir para comparar o que foi observado em determinado local com o que foi observado em outros locais, ou ainda com o observado no mesmo local em diferentes tempos (Figura 1).
+
+ {+ +}
+Figura 1 - Principais finalidades dos indicadores
+Fonte: VAUGHAN; MORROW, 1992; com modificações.
+
+Dica
+Com a preocupação de medir o padrão de vida das coletividades humanas, a ONU recomendou a adoção do termo “nível de vida”, para expressar as condições atuais de vida de uma população, e o termo “padrão de vida”, para referir-se às aspirações futuras.
+
+
+No Brasil, a RIPSA (Rede Interagencial de Informações para a Saúde) coloca que a disponibilidade de informação apoiada em dados válidos e confiáveis é condição essencial para a análise objetiva da situação sanitária, assim como para a tomada de decisões baseadas em evidências e para a programação de ações de saúde (RIPSA, 2008).
+A análise de indicadores demográficos e de morbimortalidade tem o objetivo de elaborar os chamados diagnósticos de saúde da comunidade. Mais recentemente, a Organização Pan-Americana da Saúde tem buscado retomar essa prática, incen{+-+}tivando a utilização mais ampla da Epidemiologia por meio do acompanhamento e da análise sistemática da evolução de indi{+-+}cadores demográficos, sociais, econômicos e de saúde, para melhor compreensão dos determinantes das condições de saúde da população. 
+Esse quadro de contínuas modificações salienta a relevância da capacitação dos serviços de saúde para a análise e a inter{+-+}pretação desses indicadores à luz, por exemplo, de conceitos como o da transição epidemiológica. Com fundamento nesse conceito, busca-se compreender as profundas mudanças ocorridas nos padrões de morbidade e mortalidade nas últimas décadas.[-A organização dos dados na forma de indicadores de saúde facilita a quantificação e a avaliação das informações produzidas com tal finalidade. Portanto, em termos gerais, os indicadores são medidas-síntese que contêm informação relevante sobre determinados atributos e dimensões do estado de saúde, bem como do desempenho do sistema de saúde. -]
+Os indicadores de saúde são construídos por meio de frequências relativas, em forma de coeficientes ou taxas, propor{+-+}ções, índices e razões, abordados a seguir. Para exemplificar a construção desses indicadores, serão utilizados os dados dis{+-+}poníveis na Tabela 1 (dados reais extraídos de diferentes fontes); as fórmulas utilizadas serão F1, F2 e F3. Repare na lógica utilizada para se chegar ao indicador.
+
+2. Construção de indicadores
+
+A - Aspectos básicos
+A forma mais simples de expressar um dado é o número absoluto. Contudo, esse tipo de expressão apresenta uma limita{+-+}ção importante, não sendo possível conhecer, por exemplo, a dimensão que ela representa. Veja o seguinte exemplo: no ano de 2010, foram confirmados 35 casos de hepatite B em Araçatuba e 262 em São José do Rio Preto. O que esses números representam dependerá da relação com o tamanho da população local, assim é possível que os 35 casos ocorridos em Araça{+-+}tuba sejam, do ponto de vista epidemiológico, mais significativos do que os 262 casos ocorridos em São José do Rio Preto.
+Toma-se agora outra situação na Tabela 1. Observe inicialmente a coluna de óbito por AIDS e repare que as regiões Sudes{+-+}te e Sul apresentam maiores números de tais óbitos no ano de 2009. Porém, apesar de esse dado ser verídico, sozinho im{+-+}possibilita a comparação de maneira mais concreta, não sendo possível saber se os óbitos nas regiões Sul e Sudeste são, de fato, mais significativos do que nas outras regiões do Brasil, simplesmente pelo fato de não se conhecer a representatividade desses números em relação à sua região de origem.
+
+Tabela 1 - Óbitos totais, por causas externas, por HIV/AIDS segundo região de residência (Brasil, 2009)
+Regiões	Óbitos por AIDS*	População total**	Óbitos totais	Óbitos por causas externas***
+Norte	[-78-]{+1.1+}6{+5+}	1[-5-]{+7+}.{+2+}3[-59-]{+1+}.[-6-]0[-8	6-]2{+7	74+}.[-993-]{+518+}	1[-0-]{+3+}.7[-95-]{+04+}
+Nordeste	2.[-023-]{+469+}	5[-3-]{+6+}.[-59-]1{+86+}.19[-7	28-]0{+	319+}.[-4-]7[-6-]{+42+}	4[-0.3-]9[-6-]{+.804+}
+Sudeste	5.[-7-]6[-9-]{+48+}	8[-0-]{+5+}.[-9-]{+1+}15.[-33-]{+6+}2{+3+}	5[-15.-]{+6+}2[-1-]{+.+}4{+01+}	5[-4.6-]7{+.9+}3{+1+}
+Sul	2.5[-63-]{+47+}	2[-7-]{+9+}.[-7-]{+0+}1[-9-]{+6+}.11[-8-]{+4+}	1[-75-]{+88+}.5[-73-]{+14+}	2[-0-]{+1+}.[-654-]{+322+}
+Centro-Oeste	[-6-]74{+6+}	1[-3-]{+5+}.[-8-]{+21+}9[-5-].[-375	-]6{+0+}8{+	81+}.8[-32-]{+58+}	1[-1-]{+4+}.{+1+}8[-46-]{+1+}
+Brasil	1[-1-]{+2+}.[-81-]{+57+}5	[-191-]{+202+}.[-4-]{+76+}8[-0-].{+5+}6[-30-]{+2+}	1.[-103-]{+227+}.0[-88-]{+39+}	1[-38.3-]{+5+}6{+.9+}4{+2+}
+* MS/SVS/Departamento de DST, AIDS e Hepatites Virais. Extraído de: http://www.aids[-hiv-].[-c-]{+g+}o[-m-]{+v+}.br/[-wp-con-]{+si+}te[-nt-]{+s+}/{+defa+}u[-p-]l[-o-]{+t/files/+}a[-d-]{+nexo+}s/{+publicacao/+}20[-09-]{+16+}/[-07-]{+59291+}/[-o-]b[-itos-p-]o[-r-aids-por-r-]{+l+}e[-g-]{+t+}i[-%C3%A-]{+m_2016_1_pdf_16+}3[-o-]{+75+}.[-j-]p[-g.-]{+df+}
+** [-BRASIL, 2010 – -]{+ftp://ftp.ibg+}e{+.gov.br/E+}stimativa[- -]{+s_+}d[-a p-]{+e_P+}opula[-çã-]{+ca+}o{+/Estimativas_2014/serie_2001_2014_TCU+}.{+pdf+}
+*** [-MS-]{+http:+}/[-SVS-]/[-DASIS – SIM-]{+tabnet.datasus+}.{+gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def+}
+
+Por outro lado, quando se observam outros parâmetros, como o tamanho da população de cada região, os óbitos totais ocorridos e mesmo os óbitos por causas externas, ambos para o mesmo ano, a importância dos números de óbitos de AIDS parece tomar certa dimensão. Essa dimensão se dá, justamente, pela relação que a mortalidade por AIDS estabelece junto aos outros números. Portanto, para realizar a análise epidemiológica do evento considerado, é necessário transformar os dados expressos em valores absolutos para valores relativos, ou seja, os valores absolutos devem ser expressos em relação a outros valores absolutos, que guardem entre eles alguma forma de relação coerente. Esse fato trará a dimensão que permitirá com{+-+}paração e avaliação. A seguir, será apresentada a construção dos tipos de indicadores.
+
+B - Tipos de indicadores
+
+@@ -62,68 +58,70 @@ S
+Dica
+Os coeficientes ou taxas são comumente utilizados para estimar o risco de ocorrência de um problema de saúde, como adoecimento ou mesmo a morte, em relação a determinada população suscetível, por unidade de tempo.
+
+Medronho (2009) explica que um coeficiente de mortalidade, por exemplo, é a razão entre o número de óbitos e a quan-tidade de indivíduos expostos ao risco de morrer. Seria semelhante ao cálculo de incidência ou prevalência, mas com o des-fecho {+“+}morte{+”+} em vez de {+“+}doença[-s-]{+”+} (ou seja, expressão de probabilidade).
+Pode-se dizer que os coeficientes (ou taxas) representam o “risco” de determinado evento ocorrer na população (que pode ser a população do país, estado, município, população de nascidos vivos, de mulheres etc.). [-Agora, p-]{+P+}ara exemplificar[- a questão do indicador-], será [-re-]{+c+}al[-iz-]{+-cul+}ado o coeficiente de mortalidade por AIDS para o Brasil e suas regiões (F1), conforme os dados que constam na Tabela 1. Futuramente, esse indicador será chamado de “coeficiente de mortalidade por causa especí[---]fica”, AIDS neste caso. 
+
+
+F1 =	Número de óbitos por AIDS no Brasil e 
+regiões em 2009	x 100.000
+	População{+*	+}
+{+* População+} do Brasil {+(total) +}e {+para cada uma das +}regiões {+(cada r+}e[-m-]{+gião+} [-2009	-]{+apresenta seu indicador).+}
+
+Repare que foi realizado um cálculo muito simples: o número de mortes por AIDS em 20[-09-]{+14+} foi dividido pelo tamanho da população do Brasil e de cada região, respectivamente (o coeficiente está na base 105, ou seja, o produto dessa divisão foi multiplicado por 100.000 habitantes). Note também que agora existe uma dimensão bem definida para as mortes, pois estão relacionadas à população geral do país e de cada região. Um b[-el-]o{+m+} exemplo da aplicabilidade desse indicador pode ser visto a seguir (Tabela 2): os casos de mortalidade por AIDS no Norte do Brasil têm mais representatividade do que os do Nordeste, apesar do fato de terem ocorrido mais óbitos nessa última região. O mesmo fato pode ser observado entre o Sul e o Sudeste do país.
+
+Tabela 2 - Coeficiente de mortalidade por AIDS para o Brasil e regiões, 20[-09-]{+14+}
+Regiões	Óbitos por AIDS*	População total**	Óbitos por AIDS/população total	Coeficiente de mortalidade por AIDS (100.000 habitantes)
+Norte	[-78-]{+1.1+}6{+5+}	1[-5-]{+7+}.{+2+}3[-59-]{+1+}.[-6-]0[-8-]{+27+}	0,0000[-512-]{+68+}	[-5-]{+6+},{+76+}1{+05957+}
+Nordeste	2.[-023-]{+469+}	5[-3-]{+6+}.[-59-]1{+86+}.19[-7-]{+0+}	0,0000[-377-]{+44+}	[-3-]{+4+},[-7-]{+394318248+}
+Sudeste	5.[-7-]6[-9-]{+48+}	8[-0-]{+5+}.[-9-]{+1+}15.[-33-]{+6+}2{+3+}	0,0000[-713-]{+66+}	[-7-]{+6+},[-1-]{+635679563+}
+Sul	2.5[-63-]{+47+}	2[-7-]{+9+}.[-7-]{+0+}1[-9-]{+6+}.11[-8-]{+4+}	0,0000[-925-]{+88+}	[-9-]{+8+},[-2-]{+777881146+}
+Centro-Oeste	[-6-]74{+6+}	1[-3-]{+5+}.[-8-]{+21+}9[-5-].[-375-]{+608+}	0,00004[-85-]{+9+}	4,[-8-]{+901571709+}
+Brasil	1[-1-]{+2+}.[-81-]{+57+}5	[-191-]{+202+}.[-4-]{+76+}8[-0-].{+5+}6[-30-]{+2+}	0,00006[-17-]{+2+}	6,{+20+}1{+651714+}
+* MS/SVS/Departamento de DST, AIDS e Hepatites Virais. Extraído de: http://www.aids[-hiv-].[-c-]{+g+}o[-m-]{+v+}.br/[-wp-con-]{+si+}te[-nt-]{+s+}/{+defa+}u[-p-]l[-o-]{+t/files/+}a[-d-]{+nexo+}s/{+publicacao/+}20[-09-]{+16+}/[-07-]{+59291+}/[-o-]b[-itos-p-]o[-r-aids-por-r-]{+l+}e[-g-]{+t+}i[-%C3%A-]{+m_2016_1_pdf_16+}3[-o-]{+75+}.[-j-]p[-g.-]{+df+}
+** [-BRASIL, 2010 – -]{+ftp://ftp.ibg+}e{+.gov.br/E+}stimativa[- -]{+s_+}d[-a p-]{+e_P+}opula[-çã-]{+ca+}o{+/Estimativas_2014/serie_2001_2014_TCU+}.{+pdf+}
+
+Nesse caso, existe a possibilidade de inferir que o risco de morrer é relativamente maior nas regiões Sul e Sudeste do que no Norte, Nordeste e Centro-Oeste do Brasil. Deve-se fazer a ressalva de que o coeficiente está para 100.000 habitantes, não existindo uma regra para tal fato. A multiplicação para base 10n deverá ser sempre para a potência que melhor facilitar a leitura do indicador (100, 1.000, 10.000 ou 100.000).
+
+b) Índices (proporções e razões)
+[-Um í-]{+Í+}ndice, do ponto de vista teórico, [-é ge-]{+t+}ra[-lmen-]t{+a d+}e uma medida multidimensional, construída pela relação entre vários atributos (PEREIRA, 2002). Podem-se tratar como índice as relações entre os eventos; no numerador, tem-se o número de casos ocor{+-+}ridos do evento considerado, e, no denominador, pode haver as seguintes possibilidades: (1) os casos incluídos no numera{+-+}dor estão também inseridos no denominador, obtendo-se, assim, a distribuição proporcional de casos, ou seja, é uma propor{+-+}ção. Exemplo: índice de mortalidade proporcional; e (2) os casos incluídos no numerador não estão inseridos no denomina{+-+}dor, comparando-se a frequência de um evento com a frequência de outro, ou seja, é uma razão. Exemplo: índice ou razão de masculinidade.
+[-Uma-]{+A+} proporção é a relação (ou o quociente) entre 2 frequências da mesma unidade. No numerador, são registradas as fre{+-+}quências absolutas de eventos que constituem subconjuntos daquelas registradas no denominador. No caso da mortalidade proporcional, divide-se o número de óbitos de uma determinada causa, ou de pessoas de uma determinada faixa etária, pelo número total de óbitos (MEDRONHO, 2009). 
+
+Dica
+Em linhas gerais, as proporções representam a “fatia da pizza” do total de casos ou mortes, indicando a importância des{+-+}ses casos ou mortes no conjunto total.
+
+No caso da proporção, será utilizado um exemplo bem simples, que trará uma nova dimensão para aqueles óbitos por AIDS absolutos apresentados junto à Tabela 1. Será aplicado o indicador que poderá ser denominado de mortalidade propor{+-+}cional por AIDS (F2) – lembre-se de que poderia ser por qualquer outra causa. O procedimento de cálculo é: divisão do nú{+-+}mero de óbitos por AIDS para cada região e para o país pelo total de óbitos ocorridos em cada região e no país no mesmo ano.  
+
+F2 =	Número de óbitos por AIDS no Brasil e regiões em 2009
+	Total de óbitos ocorridos no Brasil e regiões em 2009
+
+Em se tratando de razão (indicador de saúde que leva, no denominador, uma medida que represente outra variável), po{+-+}de-se exemplificar sua aplicação do mesmo modo (com dados da Tabela 2). Nesse sentido, os casos de mortalidade por causas externas para o país e as regiões serão comparados com os de AIDS (F3). Pode-se chamar, então, esse indicador de razão de mortalidade por causa externa/AIDS.
+
+F3 =	Número de óbitos por causas externas no município de São Paulo em 2003
+	Número de óbitos por AIDS no município de São Paulo em 2003
+
+Veja que, no ano de 2009, a proporção de óbitos por AIDS no Brasil foi de cerca de 1%, relativamente mais relevante na{+s+} regiões Sul e Norte do país (Tabela 3). Já no caso da razão causa externa/AIDS, são 11,7 óbitos por causas externas para 1 de AIDS no país; a região com maior razão foi o Nordeste, com 19,9 mortes por causas externas para 1 de AIDS (Tabela 4). 
+
+Tabela 3 - Proporção de mortalidade por AIDS para o Brasil e regiões, 20[-09-]{+14+}
+Regiões	Óbitos por AIDS*	Óbitos totais{+**+}	Proporção de mortes por AIDS (%)
+Norte	[-78-]{+1.1+}6{+5+}	[-62-]{+74+}.[-993-]{+518+}	1,[-2477-]5{+633+}8{+066+}
+Nordeste	2.[-023-]{+469+}	[-280-]{+319+}.[-4-]7[-6-]{+42+}	0,7{+7+}21[-2-]{+850+}74
+Sudeste	5.[-7-]6[-9-]{+48+}	5[-15.-]{+6+}2[-1-]{+.+}4{+01+}	1,[-1197-]{+004+}2[-9-]{+6564+}
+Sul	2.5[-63-]{+47+}	1[-75-]{+88+}.5[-73-]{+14+}	1,[-4-]{+3+}5{+10+}9[-79-]{+3+}2{+88+}
+Centro-Oeste	[-6-]74[-	-]6{+	+}8{+1+}.8[-32-]{+58+}	0,9[-79-]1[-9-]{+13342+}6{+2+}
+Brasil	1[-1-]{+2+}.[-81-]{+57+}5	1.[-103-]{+227+}.0[-88-]{+39+}	1,0[-710-]{+24+}8{+2+}4{+802+}
+* MS/SVS/Departamento de DST, AIDS e Hepatites Virais. Extraído de: http://www.aids[-hiv-].[-c-]{+g+}o[-m-]{+v+}.br/[-wp-con-]{+si+}te[-nt-]{+s+}/{+defa+}u[-p-]l[-o-]{+t/files/+}a[-d-]{+nexo+}s/{+publicacao/+}20[-09-]{+16+}/[-07-]{+59291+}/[-o-]b{+olet+}i{+m_2016_1_pdf_16375.pdf+}
+{+** ht+}t[-os--]p[-or--]{+://t+}a[-i-]{+bnet.+}d{+ata+}s[--p-]{+us.g+}o{+v.b+}r[--re-]{+/c+}gi[-%C3%A3o.jp-]{+/tabc+}g{+i.exe?sim/cnv/ext10uf+}.{+def+}
+
+Tabela 4 - Razão de morte por AIDS em relação às mortes por causas externas, 2009
+Regiões	Óbitos por causas externas	Óbitos por AIDS	Razão causa externa/AIDS
+Norte	1[-0-]{+3+}.7[-95-]{+04+}	[-78-]{+1.1+}6{+5+}	1[-3-]{+1+},7{+6+}3[-4-]09{+013+}
+Nordeste	4{+9.8+}0{+4	2+}.[-39-]{+4+}6{+9+}	2[-.-]0[-23	19-],{+17172+}9[-6836-]{+45+}
+Sudeste	5[-4.6-]7{+.9+}3{+1+}	5.[-7-]6[-9	9,-]4[-77-]{+8	1+}0[-3-]{+,+}2{+569051+}
+Sul	2[-0-]{+1+}.[-654-]{+322+}	2.5[-63-]{+47+}	8,[-05852-]{+3714173+}5{+4+}
+Centro-Oeste	1[-1-]{+4+}.{+1+}8[-46-]{+1+}	[-6-]74{+6+}	1[-7-]{+9+},[-57566-]{+00938338+}
+Brasil	1[-38.3-]{+5+}6{+.9+}4{+2+}	1[-1-]{+2+}.[-81-]{+57+}5	1[-1-]{+2+},[-710-]{+4+}8{+04+}7[-6-]{+714+}
+
+Para chegar a esse último procedimento, partiu-se dos números absolutos de óbitos por AIDS no ano de 2009, que não ti{+-+}nham valor avaliativo ou comparativo. Foi feita, então, sob uma ótica mais prática, uma relação desses números com outros de interesse (por meio de coeficientes e índices), fato que conferiu um caráter avaliativo e possibilitou a comparação entre as diferentes regiões do Brasil.
+De maneira genérica, assim são planejados e montados os indicadores de saúde. Vale ressaltar que existe uma diferença considerável entre coeficientes (ou taxas) e índices (proporções e razões). 
+
+Importante
+@@ -134,27 +132,27 @@ A seguir, ser
+3. Principais indicadores de saúde 
+
+Importante
+Como o uso de um único indicador não possibilita o conhecimento da realidade epidemiológica de uma população, a as{+-+}sociação de vários deles e, ainda, a comparação entre diferentes indicadores são o que nos ajuda a compreender a im{+-+}portância de um processo patológico ou se determinada intervenção foi positiva. 
+
+Para a OMS, esses indicadores gerais subdividem-se em 3 grupos:
+[-Aqueles que se-]{+-+} [-r-]{+R+}eferem{+-se+} às condições do meio e que têm influência sobre a saúde. Exemplo: saneamento básico;
+[-Aqueles que-]{+-+} [-t-]{+T+}entam traduzir a saúde ou sua falta em um grupo populacional. Exemplos: razão de mortalidade proporcio[---]nal, coeficien{+-+}te geral de mortalidade, esperança de vida ao nascer, Coeficiente de Mortalidade Infantil (CMI) e coeficien[---]te de mortali{+-+}dade por doenças transmissíveis (foco deste capítulo);
+[-Os que-]{+-+} [-p-]{+P+}rocuram medir os recursos materiais e humanos relacionados às atividades de saúde. Exemplos: número de Uni[---]dades Básicas de Saúde, profissionais de saúde, leitos hospitalares e consultas em relação a determinada população.
+
+A - Indicadores de mortalidade
+
+Importante
+As estatísticas de mortalidade permitem inferir as condições de saúde de uma população, uma vez que permitem identifi{+-+}car grupos mais afetados por determinados agravos à saúde. Diante dessa informação, é possível reconhecer os proble{+-+}mas prioritários da população e alocar recursos para ações e intervenções nesses problemas. Permitem, ainda, avaliar a eficácia dessas ações e intervenções. 
+
+Quando o foco de interesse envolve todos os indivíduos da população exposta ao risco de morrer, fala-se em coeficiente de mortalidade geral. A avaliação da mortalidade por categorias (idade, sexo, agravo) refere-se aos coeficientes de mortali{+-+}dade específicos. Existem indicadores de mortalidade que não dizem respeito a coeficientes ou taxas e que também são im{+-+}portantes, além de bem utilizados: mortalidade proporcional por idade e proporção de mortalidade acima dos 50 anos de idade são alguns dos que serão apresentados.
+
+a) Coeficiente de mortalidade geral
+O Coeficiente de Mortalidade Geral (CMG) é muito útil para a avaliação do estado sanitário de determinadas áreas. Associ{+-+}ado a outros coeficientes e índices, permite avaliar comparativamente o nível de saúde dessas localidades. Operacionalmen{+-+}te, refere-se ao número de óbitos totais em um dado período dividido pelo tamanho da população no mesmo período. Essa razão geralmente é multiplicada por 100.000 (F4).
+
+F4 =	Número total de óbitos no período	x 10n
+	População total no mesmo período	
+
+Em comparações internacionais, por exemplo, quando se observam as taxas brutas de mortalidade de países desenvolvi{+-+}dos e em desenvolvimento, não é incomum a falsa impressão de que, nos primeiros, as taxas de mortalidade são mais eleva{+-+}das (Tabela 5). Porém, deve-se verificar que, nos países desenvolvidos, é significativa a parcela idosa da população e que essas pessoas morrem mais do que jovens (parcela significativa da população em países em desenvolvimento). Repare, então, que esse coeficiente sofre influência da estrutura etária da população.
+
+Importante
+Para minimizar as distorções em estudos comparativos e evitar interpretações errôneas, recomenda-se padronizar as taxas. Com o ajuste das faixas etárias a um padrão estabelecido pela Organização Mundial da Saúde, fala-se em coeficiente de mortalidade padronizado. Logo, pode-se afirmar que este, quando disponível, é mais adequado para comparações, em detrimento do coeficiente de mortalidade geral.
+@@ -167,49 +165,43 @@ habitantes)
+Países	0 a 14	15 a 64	65 e +	Bruta	Padronizada*
+México	37,2	58,9	3,8	5,8	7,1
+Sri Lanka	32,6	62,2	5,2	5,9	8,5
+Ilhas Maurício	29,3	65,5	5,2	6,4	8,8
+Estados Unidos	21,5	66	12,6	8,8	5,8
+Dinamarca	17	67,6	15,4	11,3	5,7
+Suécia	17,3	64,6	18,1	12,1	4,7
+* População padrão: mundial.
+
+Alguns problemas do CMG referem-se às distorções relacionadas com os sub-registros e com a qualidade dos registros. Contudo, esse é um problema que afeta quase todos os indicadores de saúde. Assim, dados do numerador podem ser preju{+-+}dicados por sub-registros, e dados do denominador, pela imprecisão na estimativa da população total da região em estudo. Uma alternativa diante disso é adotar, no denominador, a população existente na metade do período considerado (ponto médio), o que, acredita-se, conferiria distorções não significativas nos resultados. Outra questão comum é que muitas pessoas procuram assistência médica em centros mais avançados do país, e, quando vêm a falecer, a declaração de óbito é preenchi{+-+}da com o endereço de um familiar da região, e não com o endereço de origem do paciente falecido, subestimando a mortali{+-+}dade de um local e superestimando de outro.
+
+b) Coeficiente de mortalidade por causas
+O coeficiente de mortalidade pode expressar a distribuição de óbitos de uma população segundo alguns parâmetros: cau{+-+}sa do óbito (F5) ou grupo (sexo (F6), idade (F7), local do óbito, entre outros). Assim, ao calcular as taxas de mortalidade por sexo, pode-se saber se os homens morrem mais do que as mulheres, por exemplo; ou então, ao calcular as taxas de mortali{+-+}dade por idade, pode-se identificar em qual grupo etário é maior a mortalidade e, a partir dessa informação, investigar as causas de óbitos em cada grupo.
+O coeficiente de mortalidade por causas pode ser calculado pela razão entre o número de óbitos por determinada causa (numerador) e a população exposta ao risco de morrer por aquela causa (denominador), multiplicada pela base referencial da população – normalmente, 100.000 (F5).
+
+Coeficiente de mortalidade por causa
+F5 =	Número total de óbitos por determinada causa, no período	x 10n
+	População exposta ao risco de morrer, na metade do mesmo período	
+
+Coeficiente de mortalidade por sexo
+F6 =	Número de óbitos de um dado sexo, no período	x 10n
+	População do mesmo sexo, na metade do perío[---]do	
+
+Coeficiente de mortalidade por idade
+F7 =	Número de óbitos de determinada idade, no período	x 10n
+	População do mesmo grupo etário, na metade do período	
+
+Tema frequente de prova
+[- -]A taxa de mortalidade por causas aparece com frequência como tema n[-as pr-]o[-va-]s [-de Residê-]{+co+}nc[-ia-]{+ursos+} [-M-]{+m+}édic[-a-]{+os+}.
+
+O coeficiente de mortalidade por causas {+é útil, pois +}fornece informações que permitem conhecer o perfil de saúde da população.
+Quando uma região apresenta elevada taxa de óbitos por doenças infecciosas e parasitárias, pode-se esperar que seja economicamente pouco desenvolvida, com saneamento precário, como em países em desenvolvimento. Da mesma forma, se a taxa de óbitos por doenças crônico-degenerativas é elevada em determinada localidade, pode-se esperar que se trate de região com importante parcela da população composta por idosos, o que acontece em regiões economicamente mais desen{+-+}volvidas, como se observa nos países desenvolvidos. Apresentam-se, a seguir, os coeficientes de mortalidade segundo as principais causas para o Brasil em 20[-09-]{+14+} (Figura 2).
+
+ 
+Figura 2 - Exemplo de mortalidade por causas (100.000 habitantes) no Brasil (20[-09-]{+14+})
+Fonte: [-BRASIL, 2010; com mo-]{+http://tabnet.+}d[-ifi-]{+atasus.gov.br/+}c{+gi/t+}a[-çõ-]{+bcgi.+}e{+xe?+}s{+im/cnv/obt10uf+}.{+def+}
+
+Pergunta
+2010 - UFRN 
+1. Um profissional recebeu a incumbência de apresentar um relatório sobre o perfil de saúde dos municípios de seu es[---]tado no ano de 2008, porém não dispõe de dados sobre ocorrência de doenças ou população por município. Levando em conta que o profissional dispõe das “declarações de óbito” de todos os municípios, o melhor indicador a ser utilizado para essa tarefa é: 
+a) taxa de prevalência por causa e por faixa etária 
+b) taxa de mortalidade geral e específica por sexo 
+c) mortalidade proporcional por causa e sexo 
+@@ -219,31 +211,28 @@ Resposta no final do cap
+c) Coeficiente de mortalidade infantil
+
+Tema frequente de prova
+A taxa de mortalidade infantil é sempre encontrada n[-as pr-]o[-va-]s [-de Residê-]{+co+}nc[-ia-]{+ursos+} [-M-]{+m+}édic[-a-]{+os+}.
+
+O coeficiente de mortalidade infantil é um dos indicadores de saúde mais utilizados para medir o nível de saúde e de de{+-+}senvolvimento social de uma região.[-É-]{+ Este indicador é+} calculado dividindo{+-se+} o número de óbitos em menores de 1 ano de idade{+,+} pelo de nascidos vivos no mesmo período, multiplicando o resultado [-geralmente -]por 1.000 – F8 (lembre-se de que a unidade de multiplicação não é uma regra).
+Conceitualmente, o termo “nascido vivo” refere-se à expulsão ou à extração completa de um produto da concepção do corpo materno, independentemente da duração da gestação, o qual, depois da separação do corpo materno, respire ou dê qualquer outro sinal de vida, como batimento do coração, pulsação do cordão umbilical ou movimentos efetivos dos músculos de contração voluntária, estando ou não cortado o cordão umbilical e estando ou não desprendida a placenta (IBGE, 2009a).
+Com o objetivo de refinar as informações obtidas, o CMI pode ser dividido em 2 componentes: Coeficiente de Mortalida{+-+}de Neonatal (CMN – F9) e Coeficiente de Mortalidade Pós-Neonatal (CMPN) ou de Mortalidade Infantil Tardia (CMIT – F12). Na Figura 3, apresentam-se os períodos entre o final da gestação até o indivíduo completar 1 ano de vida. Esses períodos são geralmente utilizados na construção desses indicadores de mortalidade (LAPREGA; FABBRO, 2005).
+
+ {+ +}
+Figura 3 - Períodos importantes para a mortalidade infantil
+
+O CMN, também chamado de CMI precoce, é definido como o número de óbitos de menores de 27 dias sobre o total de nascidos vivos no mesmo período, multiplicando o resultado por 1.000. As principais causas são: baixo peso ao nascer, mal{+-+}formações congênitas, prematuridade, problemas no parto, pré-natal de pouca qualidade, falha nos cuidados imediatos ao recém-nascido e dificuldade de acesso das mães aos serviços de saúde após alta da maternidade, sendo algumas situações de difícil controle e prevenção, o que se torna um desafio para a Saúde Pública.
+O CMN pode, ainda, ser subdividido em Neonatal Precoce (F10) – CMNP – e Neonatal Tardia (F11) – CMNT. O primeiro corresponde aos óbitos ocorridos até o 7º dia de vida (1ª semana de vida), quando as causas de mortalidade estão mais rela{+-+}cionadas a problemas na gestação e no parto. Já o segundo corresponde aos óbitos ocorridos nas 2ª, 3ª e 4ª semanas de vida{+, até os 27 dias, +} e tem suas causas já afetadas por questões ambientais, podendo ocorrer óbitos por infecções, principalmente respiratórias e gastrintestinais.
+O CMIT é obtido dividindo-se o número de óbitos em crianças de 28 até 364 dias de vida pelo total de nascidos vivos no mesmo período, multiplicando o resultado geralmente por 1.000. Suas principais causas são doenças infecciosas, diarreias, infecções respiratórias e desnutrição, situações que iniciativas da Saúde Pública e da Medicina Preventiva têm controlado de tal forma que a redução desse componente tem contribuído sobremaneira para a redução das taxas de mortalidade infantil no Brasil.
+
+Importante
+Em países e regiões pouco desenvolvidos, a taxa de mortalidade infantil é alta, e existe predomínio do componente pós-neonatal em relação ao neonatal. À medida que ocorre o desenvolvimento econômico e social, há tendência a queda das taxas de mortalidade infantil e também de seus 2 componentes principais, mas com velocidade maior para a mortalidade pós-neonatal, que em níveis baixos se torna menor do que a mortalidade neonatal (LAPREGA; FABBRO, 2005).
+
+CMI
+F8 =	Número de óbitos de menores de 1 ano, no período	x 10n
+	Total de nascidos vivos, no período	
+
+CMN
+F9 =	Número de óbitos de menores de 28 dias, no período	x 10n
+	Total de nascidos vivos, no período	
+
+CMNP
+@@ -251,43 +240,39 @@ F10 =	N
+	Total de nascidos vivos, no período	
+
+CMNT
+F11 =	Número de óbitos entre 7 e 28 dias, no perío[---]do	x 10n
+	Total de nascidos vivos, no período	
+
+CMPN ou CMIT
+F12 =	Número de óbitos em crianças de 28 dias de vida até 364 dias de vida, no período	x 10n
+	Total de nascidos vivos, no período	
+CMI
+F8 =	Número de óbitos de menores de 1 ano, no período	x 10n
+	Total de nascidos vivos, no período	
+
+O Brasil, nos últimos anos, demonstra uma redução da mortalidade infantil (veja os coeficientes por estado em 2011 na Fi{+-+}gura 4), mas não há melhoria concomitante nas condições materiais de existência. A explicação para a redução das taxas da mortalidade infantil em países como o Brasil está na redução das taxas de mortalidade pós-neonatal que, como foi mostrado, tem como principais causas situações evitáveis.[- -]
+
+[- -]
+[-Figura 4 - Coeficientes ou taxas de mortalidade infantil (1.000 nascidos vivos) nas Unidades Federativas do Brasil, em 2011-]
+
+ {+ +}
+Figura [-5-]{+4+} - Coeficientes ou taxas de mortalidade infantil, neonatal e pós-neonatal (1.000 nascidos vivos) no Brasil e[-m difere-]nt{+r+}e[-s-] [-anos-]{+1990 e 2012+} 
+Fonte: http://[-ta-]b[-net-]{+vsms+}.[-data-]s{+a+}u[-s-]{+de+}.gov.br/[-cgi-]{+bvs+}/{+publ+}i{+cacoes/sau+}d{+e_+}b{+rasil_+}201[-1/m-]{+3_+}a[-tr-]{+nalise_s+}i[-z.h-]t[-m#m-]{+uaca+}o[-rt-]{+_saude+}.{+pdf+}
+
+Tema frequente de prova
+A situação de melhoria obtida no âmbito da Saúde Pública quanto à redução nas taxas de mortalidade pós-neonatal é fre[---]quentemente cobrada em [-pr-]{+c+}o[-vas de Residê-]nc[-ia-]{+ursos+} [-M-]{+m+}édic[-a-]{+os+}.
+
+As melhorias obtidas por meio de ações pontuais da Saúde Pública (saneamento, vacinação, hidratação oral) promoveram a redução das taxas pós-neonatais e destacaram a mortalidade neonatal como principal contribuinte da dificuldade de redu{+-+}ção das taxas de mortalidade infantil no país.
+
+ {+ +}
+Figura [-6-]{+5+} - Coeficientes ou taxas de mortalidade infantil (1.000 nascidos vivos), em 2014
+Fonte: http://www.indexmundi.com/map/?v=29&l=pt.
+
+Em regiões com precárias condições de vida e saúde, como em muitos países da África e da Ásia, do subcontinente india{+-+}no, várias regiões do Brasil e mesmo da América Latina, chegam a morrer 100 ou 200 crianças, no 1º ano de vida, de cada 1.000 que nascem, e esses óbitos são consequências de doenças cuja prevenção e cujo tratamento são possíveis e relativa{+-+}mente fáceis. Por outro lado, países desenvolvidos, como a Suécia e o Japão, apresentam, como causa de óbito em menores de 1 ano, problemas difíceis de serem evitados, como malformações congênitas importantes ou crianças muito prematuras. Nesses países, a mortalidade infantil é de 5 a 6 óbitos por 1.000 crianças nascidas vivas. A UNICEF lançou, em 2010, uma lista com CMIs para vários países do mundo, alguns deles listados na Figura 6 (UNICEF, 2010).
+Existem, pelo menos, mais 2 coeficientes infantis que devem ser destacados: o de natimortalidade (F13), que é referente às perdas fetais que ocorrem a partir da 28ª semana de gestação ou em que o concepto tem peso ao redor de 1.000g e cerca de 35cm, e o de mortalidade perinatal (F14), que diz respeito aos óbitos ocorridos um pouco antes, durante e logo após o parto e inclui os natimortos e as crianças nascidas vivas, mas falecidas na 1ª semana de vida.
+
+Coeficiente de natimortalidade
+F13 =	Número de nascidos mortos (28 semanas ou mais de gestação)	x 10n
+	Total de nascidos vivos + nascidos mortos, no período	
+
+É necessária uma aplicação precisa da definição de período perinatal, que é prejudicada pela frequente omissão do tem{+-+}po de gestação na declaração de óbito. Imprecisões são atribuídas, também, ao uso do conceito anterior à Classificação Inter{+-+}nacional de Doenças (CID-10), que considerava 28 semanas de gestação como limite inferior do período perinatal. A OMS propõe, ainda, o cálculo da razão de mortalidade perinatal, em que o numerador permanece o mesmo e o denominador se refere apenas aos nascidos vivos.
+
+Coeficiente de mortalidade perinatal
+F14 =	Número de nascidos mortos (22 semanas ou mais de gestação)* + número de óbitos de crianças de 0 a 6 dias, no período	x 10n
+@@ -295,15 +280,15 @@ F14 =	N
+no período	
+* Alguns autores consideram a adoção do período perinatal a partir da 28ª semana de gestação, arco modificado com a 10ª revisão da CID.
+
+É importante ressaltar que o CMI, bem como seus componentes, sofre[-m-] distorções devido à qualidade dos registros de in-formação. Entre essas alterações, destaca-se o que acontece em regiões mais desfavorecidas do país: pela situação local e presença de “cemitérios clandestinos”, há perda dos registros pelos meios oficiais, e, mesmo fazendo uma pesquisa domicili-ar, essa população não identifica a morte de menores de 1 ano como óbito de uma criança, comumente chamados de “anji-nhos”. Dentre as distorções dos registros, destaca-se o sub-registro de óbitos e de nascimentos, a definição de nascido vivo no ano, declarações com erro de causa mortis e idade da criança.
+Foram apresentados, até aqui, alguns dos coeficientes de mortalidade mais utilizados em Epidemiologia. Pode-se dizer que esses são os indicadores mais básicos para expressão de risco de morte (CMG, por causas e CMI). Lembre-se da estrutura lógica de um indicador de mortalidade do tipo coeficiente ou taxa (o número de óbitos no numerador e a população exposta ao risco de morrer no denominador; esse produto pode ser multiplicado por 10n – 100, 1.000, 10.000 ou 100.000 –, potên{+-+}cia que melhor apresente o resultado). Conhecendo essa estrutura, o leitor estará apto a utilizar qualquer indicador desse mesmo gênero.
+A seguir, serão apresentados alguns índices (razões e proporções) importantes. Lembre-se de que esse novo tipo de indi{+-+}cador não expressa risco de morte, e sim a proporção de mortes que ocorreram em relação a outras variáveis, mortes totais na maioria das vezes. Os índices de mortalidade mais utilizados em Epidemiologia são: razão de mortalidade materna, índice de mortalidade infantil proporcional em menores de 1 ano, índice de Swaroop-Uemura e curva de mortalidade proporcional por idade (Nelson de Moraes). Há uma ressalva importante: esse indicador pode ser estruturado para estudo de mortalidade por raça, sexo, local de residência, ou seja, para qualquer atributo sobre o qual se deseja conhecer a proporção de mortes “específicas” no total de mortes.
+
+Pergunta
+2011 - FMUSP-RP 
+2. Um estudo que buscava avaliar a tendência da evolução da assistência materno-infantil demonstrou resultados precá-rios de assistência pré-natal em um estado brasileiro. A partir dessa informação, é correto afirmar que:
+ a) o componente neonatal tardio do coeficiente de mortalidade infantil será pouco influenciado, uma vez que está ligado principalmente a fatores nutricionais e sociais 
+b) os componentes neonatal precoce e tardio do coeficiente de mortalidade infantil devem sofrer forte influência, cau[---]san{+-+}do grande impacto nesse coeficiente 
+c) a falta de assistência pré-natal deve ter pouca influência no coeficiente perinatal, pois depende unicamente da assistên-cia ao parto, com alto impacto no coeficiente de mortalidade infantil 
+d) o componente pós-neonatal do coeficiente de mortalidade infantil deve ter sido mais influenciado, uma vez que é mais afetado pela assistência pré-natal
+Resposta no final do capítulo
+@@ -319,27 +304,29 @@ Resposta no final do cap
+
+d) Razão de mortalidade materna
+Morte materna é a morte de uma mulher durante a gestação ou até 42 dias após o término desta, independentemente da duração ou da localização da gravidez. É causada por qualquer fator relacionado ou agravado pela gravidez ou por medidas tomadas em relação a ela. Não é considerada morte materna a que é provocada por fatores acidentais ou incidentais (BRASIL, 2007).
+Frequentemente, a razão de mortalidade materna é chamada de “taxa” ou “coeficiente”. Contudo, ela só poderia ser de{+-+}signada assim se o seu denominador fosse o número total de gestações. Na impossibilidade de obtenção desse dado, utiliza-se por aproximação o número de nascidos vivos, o que torna mais adequado o uso da expressão “razão”.
+Esta razão expressa o número de óbitos entre mulheres em idade fértil consequente a complicações no ciclo gravídico-puerperal, isto é, problemas que podem decorrer desde a assistência ao pré-natal até 42 dias após o parto. Divide-se esse número pelo total de nascidos vivos no mesmo período e multiplica-se essa razão, geralmente, por 100.000.
+
+Coeficiente de mortalidade materna
+F15 =	Número de óbitos de mulheres ligados ao ciclo gravídico-puerperal, no período	x 10n
+	Total de nascidos vivos + nascidos mortos, no período	
+
+Importante
+A morte materna é considerada uma “perda evitável”. Elevadas razões desse indicador refletem o baixo nível de condi{+-+}ções da saúde de mulher, e ele é empregado como “sentinela” para indicar a qualidade dos cuidados oferecidos à popu{+-+}lação.
+
+Segundo o Ministério da Saúde, a mortalidade materna é uma das mais graves violações dos direitos humanos das mulhe{+-+}res, por ser uma tragédia evitável em 92% dos casos e por ocorrer principalmente nos países em desenvolvimento.{+ A Figura 6 apresenta a distribuição de mortalidade materna no mundo, e a Figura 7 mostra a evolução entre 1990 e 2010 desse indica-dor no Brasil.+}
+
+ 
+Figura [-7-]{+6+} - Mortalidade materna (100.000 nascidos vivos) por países, em 2014
+Fonte: http://www.indexmundi.com/map/?t=0&v=2223&r=xx&l=pt
+
+{+ +}
+{+Figura 7 - Evolução da mortalidade materna (100.000 nascidos vivos) e suas principais causas+}
+{+Fonte: http://www.observatoriodegenero.gov.br.+}
+
+Pergunta
+2012 - SANTA CASA-SP 
+4. Em visita domiciliar, o agente de saúde identifica óbito de uma mulher de 32 anos, 21 dias após ter tido alta hospitalar por parto cesárea, cuja indicação se deu por hipertensão arterial grave. O familiar relatou ter encontrado-a caída, enrije[---]ci{+-+}da e convulsionando de forma generalizada e buscou auxílio imediato, que não chegou a tempo. Na investigação, trata[---]va-se de primigesta, sem doenças prévias ou durante a gravidez, que realizou 6 consultas pré-natais e no 8º mês deu entrada na maternidade com quadro de hipertensão arterial grave, sendo, por isso, submetida ao parto. Nesse caso, podemos afirmar tratar-se de morte materna cuja causa é: 
+a) obstétrica direta evitável 
+b) não obstétrica inevitável 
+c) obstétrica direta inevitável 
+@@ -360,7 +347,7 @@ F16 =	N
+	Número total de óbitos de residentes menores de 1 ano excluídos os de idade ignorada*	
+* A exclusão dos óbitos de idade ignorada resulta em que o indicador se refira ao total de óbitos infantis com idade conhecida.
+
+No Brasil, o óbito de indivíduos menores de 1 ano em relação às mortes totais foi mais elevado para as regiões Norte e Nordeste no ano de 2007 (Tabela 6). A região Sul apresentou a menor proporção desse tipo de óbito, 2,7%. As outras colunas apresentam o mesmo indicador por faixas etárias. Repare que, nesse sentido, não existe muita distinção entre as áreas, exce{+-+}to pelas regiões Norte e Nordeste: a primeira apresenta maior percentil de óbitos infantis =28 dias de vida (influência de questões como diarreia/desidratação e/ou doenças infecciosas e parasitárias, clássicas do saneamento básico), ao passo que na segunda os óbitos mais proeminentes são os de 0 a 6 dias (especialmente relacionados a problemas na gestação e no par{+-+}to, clássicos de baixa cobertura pré-natal).
+
+Tabela 6 - Proporção de óbitos infantis (%) por faixa etária para o Brasil e regiões, em 2007
+Regiões	=1 ano*	0 a 6 dias**	7 a 27 dias**	=28 dias**
+@@ -368,7 +355,7 @@ Norte	10,2	51,2	14,4	34,2
+Nordeste	6,1	54,7	14,2	31
+Sudeste	3,1	49,7	18,5	31,7
+Sul	2,7	50	17,1	21,7
+Centro-{+-+}Oeste	5	49,6	17,7	32,5
+Brasil	4,3	51,7	16,3	31,9
+* Em relação ao total de mortes (todas as faixas etárias). 
+** Em relação ao total de mortes infantis (idade =1 ano). 
+@@ -377,17 +364,16 @@ f) 
+O Índice de Swaroop-Uemura (ISU) foi criado pelo indiano Swaroop e pelo japonês Uemura e é também conhecido como razão de mortalidade proporcional ou indicador de Swaroop e Uemura. 
+
+Tema frequente de prova
+O índice de Swaroop-Uemura, suas vantagens e limitações são temas frequentemente cobrados em [-pr-]{+c+}o[-vas de Residê-]nc[-ia-]{+ursos+} [-M-]{+m+}édic[-a-]{+os+}.
+
+O índice de Swaroop-Uemura refere-se à proporção de óbitos de pessoas com 50 anos ou mais no conjunto de todos os óbitos. Esse também é um indicador do tipo proporção, que usualmente recebe o nome de índice.
+Os países desenvolvidos apresentam valores de 80 a 90%, significando que, de cada 100 óbitos na população, de 80 a 90 ocorreram em indivíduos com 50 anos ou mais, ou seja, os indivíduos apresentam uma sobrevida elevada (expectativa de vida elevada). Já em regiões subdesenvolvidas, esse índice atinge 50% ou menos, representando que os indivíduos morrem, mui{+-+}tas vezes, quando são jovens (geralmente por causas evitáveis). 
+
+Importante
+Quanto maior o valor do índice de Swaroop-Uemura, melhores as condições socioeconômicas e de saúde de uma popu{+-+}lação. Esse índice é um bom indicador das condições de vida de uma população. 
+
+ISU
+F17 =	Número de óbitos de pessoas com 50 anos ou mais, no período	x 100
+	Número total de óbitos, no período	
+
+O ISU pode ser classificado em 4 níveis, que permitem avaliar as condições de vida da região estudada. Assim:
+@@ -395,9 +381,8 @@ O ISU pode ser classificado em 4 n
+2º nível: de 50 a 74%;
+3º nível: de 25 a 49%;
+4º nível: <25%.
+O Brasil apresentou um ISU de 72,6%, ou seja, 2º nível no ano de 2007. Contudo, como existe uma disparidade de morta{+-+}lidade infantil entre as regiões e os estados do país, esse indicador pode ser fortemente afetado por ela e não refletir a reali{+-+}dade para todas as regiões quando se observa o país como um todo. Novamente, encontra-se o problema da mortalidade precoce elevada, que, além dos aspectos éticos de ser uma morte evitável, traz consequências socioeconômicas pela perda de vidas em plena fase produtiva (RIPSA, 2008). No 1º nível, estão alguns países desenvolvidos, como Suécia, Estados Unidos e Japão, além de Cuba. Já no 4º nível, estão países com alto grau de subdesenvolvimento, onde a maioria das pessoas morre muito jovem.
+Como vantagens do índice de Swaroop-Uemura, citam-se cálculo simples, dados disponíveis na maioria dos países, compa{+-+}rabilidades nacional e internacional e dispensa de dados da população. Quanto à limitação: dependência da estrutura etária de uma população. 
+
+g) Curvas de mortalidade proporcional
+Segundo Laurenti (2006), surgiu, logo a seguir, uma contribuição brasileira que era uma variante da razão de mortalidade. 
+@@ -412,7 +397,7 @@ d) n
+e) é utilizado para comparações entre áreas ou períodos de tempo, com a vantagem da simplicidade de cálculo
+Resposta no final do capítulo
+
+Proporcional, como foi chamada pelo autor Nelson de Moraes, ou curva de mortalidade proporcional, que era uma proje{+-+}ção gráfica dos valores da mortalidade proporcional em 5 grupos etários, sendo o último aquele de 50 anos ou mais, isto é, o próprio ISU (MORAES, 1959). As faixas etárias utilizadas são:
+Grupo infantil: crianças menores de 1 ano;
+Grupo pré-escolar: crianças de 1 a 4 anos;
+Grupos de escolares e adolescentes: indivíduos entre 5 e 19 anos;
+@@ -430,31 +415,17 @@ IV	Elevado
+A curva de Nelson de Moraes pode assumir diversas formas: 
+1 - “N” invertido, típica de países subdesenvolvidos, com nível de saúde muito baixo, onde se destaca o elevado número de óbitos no grupo de adultos jovens. Esse tipo de curva é considerado tipo I.
+2 - “L” (ou “J” invertido), curva de países com baixo nível de saúde, com elevado número de óbitos entre crianças e pré-escolares e poucos óbitos nas faixas etárias mais elevadas. Esse tipo de curva é considerado tipo II.
+3 - “V” (ou “U”), curva de países com nível regular de saúde, com baixo número de óbitos no grupo de escolares e adoles{+-+}centes e elevado número de óbitos entre idosos e menores de 1 ano. Esse tipo de curva é considerado tipo III.
+4 - “J”, curva típica de países com elevado nível de saúde, com baixo número de óbitos entre crianças e jovens adultos e predomínio dos óbitos nas faixas etárias mais elevadas. Esse tipo de curva é considerado tipo IV.
+
+ [- -]
+Figura 8 - Curva de Nelson de Moraes para diferentes situações de saúde
+Fonte: LAURENTI et al., 1987; com modificações.
+
+Para esse indicador, o Brasil, em geral, apresenta uma curva do tipo III (em forma de U) em transição para o nível IV, o que sugere nível de saúde regular (elevada proporção de mortes em menores de 1 ano e acima de 50) evoluindo para elevado (predomínio da mortalidade acima dos 50 anos). Contudo, existe uma variação interessante entre as macrorregiões: Sudeste e Sul apresentam uma tendência a J, ao passo que Norte e Nordeste têm uma característica de U mais acentuada (Figura 9).
+[- -]
+[-  -]
+[-Figura 9 - Curva de Nelson de Moraes, no Brasil e em grandes regiões, para o ano de 2007-]
+
+[-Uma série histórica de curvas de Nelson de Moraes é uma ótima ferramenta para acompanhar a evolução da situação de saúde. Franco e Passos (2005) apresentam um exemplo, tomando o município de Londrina, no Paraná (Figura 10): acompanhe a evolução da curva de 1930 a 1980 e note como a proporção de óbitos infantis era elevada na década de 1930, tendo uma drástica modificação entre as décadas de 1970 e 1980. Sabe-se que, em 2007, o estado do Paraná como um todo já apresentava uma proporção de mortalidade em menores de 1 ano de 3,1% e acima dos 50 anos em torno de 80%, fato que mostra a evolução do nível de saúde (BRASIL, 2011).-]
+[-Laurenti (2006) explica ainda que o indicador de Nelson de Moraes foi bastante utilizado no Brasil e, nos cursos de Saúde Pública, principalmente nas décadas de 1960 e 1970, era um referencial obrigatório. Contudo, ele ainda apresentava alguns problemas. Foram Guedes e Guedes (1973) que descreveram esses inconvenientes da curva de mortalidade proporcional, entre os quais o fato de não ser expresso numericamente e também que a comparação de curvas nas quais as escalas eram diferentes tornava, às vezes, difíceis essas comparações.-]
+[-Esses autores propuseram também uma representação que permite realizar a comparação e evolução do nível de saúde das diferentes localidades, obtido por meio da atribuição de pesos às diferentes faixas etárias, cada peso multiplicado pelo percentual encontrado na curva de Nelson de Moraes para a faixa etária equivalente. A soma algébrica desses resultados, dividida por 10, traduz o cálculo do indicador de Guedes e Guedes. Os pesos atribuídos às faixas etárias são: -]
+[-<1 ano = -4; -]
+[-1 a 4 anos = -2;-]
+[-5 a 19 anos = -1; -]
+[-20 a 49 anos = -3; -]
+[-=50 anos = +5.-]
+
+  {+ +}
+Figura [-10-]{+9+} - Curva de Nelson de Moraes{+,+} [-pa-]{+no B+}ra{+sil+} [-Lo-]{+e em gra+}nd{+es +}r{+eg+}i[-na-]{+ões+}, [-P-]{+p+}ara[-ná,-] [-de 1930-]{+o+} a[- 1980-]
+[-Fo-]n[-te:-]{+o+} [-FRANCO; PASSOS,-]{+de+} 200[-5; com modificações.-]{+7+}
+
+B - Outros indicadores utilizados em Epidemiologia
+
+@@ -463,15 +434,13 @@ a) Coeficiente de letalidade
+Dica
+O coeficiente de letalidade, também chamado coeficiente de fatalidade, mede o poder de determinada doença de levar ou não o indivíduo acometido ao óbito. Permite avaliar, portanto, a gravidade do processo. 
+
+Trata-se, então, da proporção de óbitos ocorridos entre os indivíduos afetados por um dado agravo à saúde. Deve-se estar atento ao fato de que o Coeficiente de Letalidade (CL) é diferente do coeficiente de mortalidade. A diferença está no deno{+-+}minador, que é a população total no caso da mortalidade e a população acometida pela doença estudada no caso da letalida{+-+}de. Portanto, a letalidade mostra os óbitos entre os casos que estavam doentes da referida doença (F18), ao passo que a mor{+-+}talidade trata dos óbitos totais em relação à população.
+
+CL
+F18 =	Número de óbitos por determinada doença, no período	x 100
+	Número de casos dessa mesma doença, no período	
+
+Sabe-se que a raiva humana, por exemplo, é uma doença de taxa de letalidade superior a 99%, ou seja, morre quase todo indivíduo que apresenta diagnóstico confirmado de raiva. Porém, trata-se de uma doença rara; logo, há poucos óbitos, e sua mortalidade, portanto, é baixa. O CL não é estável, ou seja, ele apresentará resultados diferentes a depender da população a ser avaliada. A Tabela 8 traz os CLs para algumas doenças. O coeficiente de acidente por animais peçonhentos, nesse caso, foi de 0,3%, porém, se não existir assistência médica adequada e/ou soro para o indivíduo acidentado, até mesmo os casos me{+-+}nos graves poderão evoluir para a morte. Assim, a letalidade depende de questões como a situação do hospedeiro, a poten{+-+}cialidade do agente etiológico em levá-lo a óbito e o atendimento à saúde que o indivíduo receber.
+
+Tabela 8 - Coeficiente de letalidade para algumas doenças
+Doenças	CL
+@@ -491,71 +460,52 @@ c) preval
+d) mortalidade proporcional
+Resposta no final do capítulo
+
+b) [-	-]Coeficiente ou taxa de fertilidade, fecundidade e natalidade
+Esses termos, bem como sua materialização em indicadores, serão primordiais para futuras discussões acerca de um tema importante da Epidemiologia, a chamada transição demográfica, que é, geralmente, acompanhada pela transição epidemioló{+-+}gica. Conceitualmente, tanto “fertilidade” quanto “fecundidade” se referem à geração de filhos, mas não são sinônimos. Existe certa confusão sobre os seus significados, em parte devido a diferentes interpretações desses termos ao serem traduzidos de outro idioma (PEREIRA, 2002).
+O autor explica que fertilidade designa a capacidade das mulheres em gerarem filhos. Toda mulher, teoricamente, apre{+-+}senta essa capacidade desde a menarca até a menopausa. Contudo, o potencial de procriar pode, na prática, não se realizar em algumas mulheres, em razão de infertilidade ou de controle voluntário desse potencial. A real geração de filhos, isto é, a materialização do potencial de procriar, é a informação prática de interesse, que é dada pelas medidas de fecundidade.
+Deste modo, o coeficiente de fecundidade trata da relação entre os nascimentos (dos 2 sexos) e o número de mulheres em idade de procriar, estatisticamente: mulheres entre 15 e 49 anos completos (entre a menarca e a menopausa). Assim, o numerador leva em conta os nascimentos (nascidos vivos), e o denominador, o número de mulheres com potencial de fecun{+-+}dação, e geralmente esse produto é multiplicado por 1.000 (F19). 
+
+Importante
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE, 2011), o coeficiente de fecundidade poderia ser visto como uma maneira de expressar o número médio de filhos que uma mulher teria ao final de sua idade reprodutiva, além de ser um indicador importante no estudo e na análise da transição demográfica. 
+
+Coeficiente de fecundidade (geral)
+F19 =	Número de nascidos vivos, no período	x 1.000
+[-	Número de mulheres entre 15 e 49 anos com-pletos, na metade do período	-]
+
+{+	Número de mulheres entre 15 e 49 anos completos, na metade do período	+}
+
+O coeficiente de fecundidade também pode ser especificado por idade, sendo chamado de coeficiente de fecundidade específico. Esse é o indicador que relaciona o número de nascidos vivos referidos a uma determinada idade da mãe com o número total de mulheres, na mesma idade (F20). A partir do coeficiente de fecundidade específico, é estimado o coeficien{+-+}te de fecundidade total, muito empregado em comparações populacionais, obtido pela soma dos coeficientes de fecundidade específicos, por idade, com o objetivo de eliminar a influência da pirâmide etária no indicador (PEREIRA, 2002).
+
+Coeficiente de fecundidade específico, por idade
+F20 =	Número de nascidos vivos, no período, de mu[---]lheres de um grupo etário	x 1.000
+	Número de mulheres, no mesmo grupo etário, na metade do período	
+
+O termo “natalidade”, diferentemente de “fecundidade”, traz uma informação distinta: natalidade refere-se à relação en{+-+}tre nascidos vivos e a população total. A natalidade é medida por meio da Taxa Bruta de Natalidade (TBN), que é definida co{+-+}mo a relação entre o número de crianças nascidas vivas durante 1 ano e a população total. Usualmente, essa relação é ex{+-+}pressa por 1.000 habitantes (F21).
+
+TBN
+F21 =	Número de nascidos vivos, no período	x 1.000
+	População total no mesmo período	
+
+A TBN depende da maior ou menor intensidade com que as mulheres têm filhos a cada idade, do número das mulheres em idade fértil como proporção da população total e da distribuição etária relativa das mulheres dentro do período reprodu{+-+}tivo. Portanto, não é um bom indicador para se analisar diferenciais de níveis de fecundidade entre populações (CARVALHO; SAWYER; RODRIGUES, 1998).
+
+Importante
+Em termos comparativos, a taxa de fecundidade geral fornece uma noção mais apropriada da geração de filhos na popula{+-+}ção do que a taxa de natalidade. Contudo, ela também tem limitações na comparação de populações cujas estruturas etá{+-+}rias das mulheres em [-idad-]{+“p+}e[- -]{+río+}d[-e-]{+o+} {+re+}pro[-cr-]{+dut+}i[-ar-]{+vo”+} sejam diferentes. Essa é a razão de seu desuso. Na prática, são muito usados os coeficientes de fecundidade específicos por idade e, principalmente, o coeficiente de fecundidade total (PEREIRA, 2002). [-c) Razão de masculinidade-]
+[-Também chamada de razão de sexo, refere-se ao número de homens para cada grupo de 100 mulheres, na população residente em determinado espaço geográfico, no ano considerado (F22). Na prática, esse indicador expressa a relação quantitativa entre os sexos. Se igual a 100, o número de homens e de mulheres se equivalem; acima de 100, há predominância de homens, e abaixo, predominância de mulheres. Pode ser influenciado por taxas de migração e de mortalidade diferenciadas por sexo e idade.-]
+[-Esse indicador pode ser utilizado para subsidiar processos de planejamento, gestão e avaliação de políticas públicas nas áreas de Saúde e Educação; auxiliar na compreensão de fenômenos sociais relacionados a essa distribuição (migrações, mercado de trabalho, organização familiar, morbimortalidade, segurança e emprego); bem como identificar necessidades de estudos de gênero sobre os fatores condicionantes das variações encontradas (RIPSA, 2008).-]
+
+[-Razão de masculinidade-]
+[-F22 =	Número de indivíduos do sexo masculino	x 100-]
+[-	População total no mesmo período	-]
+
+[-A maioria da população brasileira é composta de pessoas do sexo feminino, reflexo da mortalidade masculina, sobretudo nas faixas etárias de jovens e adultos, decorrente da alta incidência de óbitos por causas violentas. Apenas nas regiões Norte (em 1991 e 1996) e Centro-Oeste, a proporção de homens supera a de mulheres, por razões socioeconômicas que condicionam o emprego majoritário de mão de obra masculina (Tabela 9).-]
+
+[-Tabela 9 - Série histórica da razão de mas-]c[-ulinidade no Brasil, de 1991 a 2005-]
+[-Regiões	1991	1996	2000	2005-]
+[-Norte	103,3	102,9	102,6	102,2-]
+[-Nordeste	95,7	97,3	96,9	96,5-]
+[-Sudeste	97	102,9	102,6	95,2-]
+[-Sul	98,5	95,8	96,2	97,1-]
+[-Centro-Oeste	100,8	96,5	99,4	98,8-]
+[-Brasil	97,5	97,3	96,9	96,6-]
+[-Fonte: RIPSA, 2008.-]
+
+[-d-]) Esperança de vida
+Esse indicador é calculado a partir de tábuas de vida elaboradas para cada área geográfica e, no Brasil, é divulgado anual{+-+}mente pelo IBGE.
+A esperança de vida ao nascer, também chamada de expectativa de vida ao nascer, é o número médio de anos que um grupo de indivíduos nascidos no mesmo ano pode esperar viver, se mantidas, desde o seu nascimento, as taxas de mortalida{+-+}de observadas no ano de referência, muito empregado na avaliação das condições de saúde de uma população. Por não so{+-+}frer a influência da estrutura etária da população, é um bom indicador para comparações populacionais. 
+
+Importante
+Sob uma ótica prática, a expectativa de vida ao nascer indica o número médio de anos que um indivíduo tem de probabi{+-+}lidade de viver, a partir de determinada idade considerada, supondo que os coeficientes de mortalidade permaneçam os mesmos no futuro. 
+
+Sabe-se que a expectativa de vida é maior quanto melhor a condição socioeconômica de uma região. Porém, observa-se que, independentemente do desenvolvimento econômico, a expectativa de vida dos homens é sempre menor do que a das mulheres, ou seja, estas vivem mais, em qualquer região do mundo. Costuma-se atribuir essa diferença ao fato de que os homens são normalmente mais expostos a riscos como acidentes externos, acidentes de trabalho, alimentação mais gorduro{+-+}sa, tabagismo, menor cuidado com a saúde, entre outros.
+Pode-se, então, dizer que a esperança de vida entre homens e mulheres teria uma tendência a aproximar-se, já que, de{+-+}pois da década de 1970, as mulheres também passaram a se expor a mais riscos; entretanto, o diferente cuidado que homens e mulheres têm com a saúde, os diferentes hábitos de vida, entre outros fatores, ainda contribuem para essa importante diferença, que, no Brasil, chega a ser de quase 10 anos. Em países mais desenvolvidos, essa diferença está diminuindo, mas não porque as mulheres têm vivido menos, e sim porque os homens têm vivido mais.
+
+Pergunta
+2013 - SANTA CASA-SP 
+7. Com relação ao indicador esperança de vida ao nascer, qual alternativa apresenta apenas as afirmações corretas? 
+I - Representa a média de idade das pessoas que morrem, em determinado espaço geográfico, no ano considerado. Pos[---]si{+-+}bilita estimativas populacionais sobre a mortalidade. 
+II - Significa a duração máxima de vida em uma determinada população. O resultado está relacionado [-a-]{+à+} aplicação de tec[---]no{+-+}logias em saúde e qualidade de vida. 
+III - Indica o número médio de anos de vida esperados para um recém-nascido, mantido o padrão de mortalidade exis[---]ten{+-+}te na população residente, em determinado espaço geográfico, no ano considerado. 
+IV - É uma medida sintética da mortalidade, não afetada pelos efeitos da estrutura etária da população, como acontece com a taxa bruta de mortalidade. 
+a) I, II, III, IV 
+b) I, II, IV 
+@@ -564,28 +514,28 @@ d) III, IV
+e) apenas III
+Resposta no final do capítulo
+
+[-e-]{+d+}) Anos potenciais de vida perdidos
+
+Importante
+Os anos potenciais de vida perdidos formam um indicador muito útil na área de Planejamento em Saúde, pois expres{+-+}sam o efeito das mortes ocorridas precocemente em relação à duração de vida esperada para uma determinada popu{+-+}lação, permitindo comparar a importância relativa que as diferentes causas de morte têm em determinada população. Quanto maior esse índice, pior a situação de saúde da região ou do país avaliado. No Brasil, a principal causa de “anos de vida perdidos” na população masculina foram as causas violentas.
+
+Um dos métodos de cálculo do número de “anos potenciais de vida perdidos” foi desenvolvido por Arriaga (1996), permi{+-+}tindo relacionar a mortalidade de determinadas causas de morte (geralmente evitáveis), em determinadas idades, com a esperança de vida ao nascer, para que se possa chegar a uma medida de anos de vida perdidos. Nedel, Rocha e Pereira (1999) utilizaram esse indicador multiplicado por 1.000 (1.000 habitantes) em estudo realizado no Sul do Brasil. O estudo do IBGE denominado “Indicadores Sociodemográficos e de Saúde no Brasil” utiliza porcentagem para esse mesmo indicador (IBGE, 2009b).
+No Brasil, segundo o IBGE (2009b), existe uma diferença significativa entre os 2 sexos, independentemente da área geo{+-+}gráfica e do ano que se esteja considerando. Para o Brasil, como um todo, enquanto os homens perdiam, em média, 15,03 anos de vida, por todas as causas, esse valor era de 9,62 anos entre as mulheres, o que representa uma diferença de 5,4 anos (Figura 1[-1-]{+0+}).
+
+ 
+Figura 1[-1-]{+0+} - Número de anos de vida perdidos para homens, segundo grupo de causas no Brasil, 1996 a 2005
+Fonte: IBGE, 2009b; com modificações.
+
+Dentre as principais causas de morte responsáveis pelos “anos de vida perdidos” na população masculina brasileira, as vio{+-+}lentas foram as que mais contribuíram em 1996: 3,4, num total de 15,03 anos; no período considerado até 2005, observa-se uma leve redução nesse valor, que passa a ser de 3,2 anos. O indicador reflete os efeitos de uma leve queda na incidência das causas violentas no país, durante o período considerado (IBGE, 2009b).
+
+[-4. -]Resumo
+
+Quadro-resumo
+Introdução
+[-- -]Na área de Saúde, indicadores de saúde são parâmetros utilizados internacionalmente com o objetivo de avaliar, do ponto de vista sa{+-+}nitário, a higidez de agregados humanos, bem como fornecer subsídios aos planejamentos de saúde, permitindo o acompanhamen[---]to das flutuações e tendências históricas do padrão sanitário de diferentes coletividades consideradas à mesma época ou da mesma cole{+-+}tividade, em diversos períodos de tempo.
+Construção de indicadores
+Coeficiente ou taxa
+É uma relação (quociente) entre 2 valores numéricos, que expressam a velocidade (ou a intensidade) da ocorrência de um evento no tempo. É uma medida comum para estimar o risco de ocorrência de um problema de saúde, como adoecimento ou mesmo a morte, em relação a determinada população suscetível, por unidade de tempo. Um coeficiente de mortalidade, por exemplo, é a razão entre o número de óbitos e a quantidade de indivíduos expostos ao risco de morrer. Pode-se dizer, então, que os coeficientes (ou taxas) repre[---]sentam o “risco” de determinado evento ocorrer na população (que pode ser a população do país, estado, município, população de nascidos vivos, de mulheres etc.).
+Índice (proporções e razões)
+Podem-se tratar como índice as relações entre os eventos; no numerador, tem-se o número de casos ocorridos do evento considerado, e, no denominador, há as seguintes possibilidades: os casos incluídos no numerador estão inseridos, também, no denominador, obten-do-se, assim, a distribuição proporcional de casos, ou seja, é uma proporção; ou os casos incluídos no numerador não estão inseridos no denominador: compara-se a frequência de um evento com a frequência de outro, ou seja, é uma razão.
+Coeficientes x índices
+@@ -595,13 +545,13 @@ Indicadores de mortalidade
+CMG
+É muito útil para a avaliação do estado sanitário de determinadas áreas. Associado a outros coeficientes e índices, permite avaliar comparativamente o nível de saúde dessas localidades. Operacionalmente, refere-se ao número de óbitos totais em um dado período dividido pelo tamanho da população no mesmo período. Essa razão geralmente é multiplicada por 100.000 (F4).
+Coeficiente de mortalidade por causas
+O coeficiente de mortalidade pode expressar a distribuição de óbitos de uma população segundo alguns parâmetros: causa do óbito (F5), sexo (F6), idade (F7), local do óbito, entre outros. Assim, ao calcular as taxas de mortalidade por sexo, pode-se saber se os ho-mens morrem mais que as mulheres, por exemplo; ou, ao calcular as taxas de mortalidade por idade, pode-se identificar em qual gru{+-+}po etário é maior a mortalidade e, a partir dessa informação, investigar as causas de óbitos em cada grupo.
+CMI
+É um dos indicadores de saúde mais utilizados para medir o nível de saúde e desenvolvimento social de uma região. É calculado dividin[---]do o número de óbitos em menores de 1 ano pelo de nascidos vivos no mesmo período, multiplicando o resultado geralmente por 1.000 – F8 (lembre-se de que a unidade de multiplicação não é uma regra). Com o objetivo de refinar as informações obtidas, o CMI pode ser dividido em 2 componentes: o CMN (F9) e o CMPN (F12).
+Razão de mortalidade materna
+Morte materna é a morte de uma mulher durante a gestação ou até 42 dias após o término da gestação, independentemente da dura-ção ou da localização da gravidez. É causada por qualquer fator relacionado ou agravado pela gravidez ou por medidas tomadas em relação a ela. Não é considerada morte materna a que é provocada por fatores acidentais ou incidentais.
+IMIP
+Também chamado de mortalidade proporcional por idade em menores de 1 ano, indica a proporção de óbitos de crianças menores de 1 ano no conjunto de todos os óbitos (F16). Esse índice permite avaliar, indiretamente, as condições sanitárias da região estudada. O Ministério da Saúde sugere que seja realizado para as seguintes faixas etárias: 0 a 6 dias (período neonatal precoce), 7 a 27 dias (perí[-o-]-{+o+}do neonatal tardio) e 28 a 364 dias (período pós-neonatal).
+ISU
+O ISU foi criado pelo indiano Swaroop e pelo japonês Uemura e também é conhecido como razão de mortalidade proporcional. Refere-se à proporção de óbitos de pessoas com 50 anos ou mais no conjunto de todos os óbitos (F17). É um indicador do tipo proporção que usualmente recebe o nome de índice. Trata-se de um bom indicador das condições de vida de uma população.
+Curva de mortalidade proporcional
+@@ -613,23 +563,16 @@ Coeficiente de fecundidade
+O coeficiente de fecundidade trata da relação entre os nascimentos (dos 2 sexos) e o número de mulheres em idade de procriar, esta-tisticamente: mulheres entre 15 e 49 anos completos (entre a menarca e a menopausa). Assim, o numerador leva os nascimentos (nascidos vivos), e o denominador, o número de mulheres com potencial de fecundação. Geralmente esse produto é multiplicado por 1.000 (F19).
+Taxa de natalidade
+O termo “natalidade”, diferentemente de fecundidade, traz uma informação diferente: natalidade refere-se à relação entre nascidos vivos e população total. A natalidade é medida por meio da TBN, que é definida como a relação entre o número de crianças nascidas vivas durante 1 ano e a população total. Usualmente, essa relação é expressa por 1.000 habitantes (F21).
+[-Razão de masculinidade-]
+[-Razão de masculinidade, também chamada de razão de sexo, refere-se ao número de homens para cada grupo de 100 mulheres, na população residente em determinado espaço geográfico, no ano considerado (F22). Na prática, esse indicador expressa a relação quan-titativa entre os sexos.-]
+Esperança de vida
+A esperança de vida ao nascer, também chamada de expectativa de vida ao nascer, é um indicador que expressa características da mortalidade por idade, muito empregado na avaliação das condições de saúde de uma população. Por não sofrer a influência da estru-tura etária da população, é um bom indicador para comparações populacionais.
+Anos potenciais de vida perdidos
+Este indicador é muito útil na área de Planejamento em Saúde, pois expressa o efeito das mortes ocorridas precocemente em relação à duração de vida esperada para determinada população, permitindo comparar a importância relativa que as diferentes causas de morte têm em determinada população. Quanto maior esse índice, pior a situação de saúde da região ou país avaliado.
+
+Respostas{+ das questões do capítulo+}
+1. C{+	+}
+2. B{+	+}
+3. D{+	+}
+4. A{+	+}
+5. C
+6. B
+7. D[-Dica-]
+[- Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]

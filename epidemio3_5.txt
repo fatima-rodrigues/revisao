@@ -1,0 +1,419 @@
+Dinâmica de transmissão e 
+distribuição de doenças
+Alex Jones F. Cassenote
+Marina Gemma
+
+Resumo
+Neste capítulo, sobre dinâmica de transmissão e distribuição de doenças, serão abordados temas que incluem a relação entre o ser humano, o ambiente onde ele vive e um agente infeccioso que transita entre eles. Entender como essas relações funcionam é fundamental para entender a cadeia de causalidade e a forma como ocorrem determinadas doenças nas populações e com que periodicidade acontecem.
+
+1. Introdução
+
+As doenças humanas provenientes da relação entre hospedeiro (pessoa), agente (bactéria, vírus ou outro agente) e meio ambiente (alimentos ou água contaminados) resultam de uma interação entre fatores biológicos e ambientais, com o equilíbrio exato variando conforme as diferentes doenças (embora algumas sejam de origens amplamente genéticas). Muitos dos princípios subjacentes que fundamentam a transmissão das doenças são mais claramente demonstrados utilizando doenças transmissíveis como modelo. Contudo, os conceitos discutidos podem ser extrapolados para doenças não infecciosas ou mesmo a outros agravos à saúde (GORDIS, 2010).
+
+Dica
+As doenças são descritas como resultado de uma tríade epidemiológica, ou seja, são um produto de interação de um hospedeiro humano, um agente infeccioso (ou de outro tipo) e um ambiente que promova a exposição. 
+
+Vetores, como mosquitos e carrapatos, são frequentemente envolvidos. Para tal interação ocorrer, o hospedeiro deve estar suscetível. A suscetibilidade humana é determinada por uma infinidade de fatores, incluindo antecedentes genéticos e fatores nutricionais e imunológicos. O estado imunológico de um indivíduo é determinado por muitos fatores, incluindo contato prévio com o agente, por infecção natural ou por imunização.
+Os fatores que podem levar ao desenvolvimento de doenças são biológicos, físicos e químicos, bem como outros tipos, como estresse, que pode ser mais difícil de classificar (Tabela 1). Poder-se-ia pensar na agregação desses fatores em, pelo menos, 3 grandes grupos de doenças/agravos à saúde: doenças infecciosas e parasitárias, doenças crônicas não transmissíveis e causas externas de morbidade e mortalidade. Todas elas poderiam ser consideradas, de algum modo, dentro do modelo clássico da tríade epidemiológica.
+Uma doença transmissível (ou infecciosa) é aquela causada pela transmissão de um agente patogênico específico para um hospedeiro suscetível. Agentes infecciosos podem ser transmitidos para humanos: diretamente – de outros humanos ou animais infectados – e indiretamente – por meio de vetores biológicos ou físicos, partículas aéreas ou outros veículos (BEAGLEHOLE; BONITA; KJELLSTRÖM, 2010).
+
+ 
+Figura 1 - Tríade epidemiológica das doenças
+Fonte: GORDIS, 2010; com modificações.
+
+Tabela 1 - Fatores associados ao aumento de risco de doença nos seres humanos
+Características do hospedeiro
+- Idade;
+- Sexo;
+- Raça;
+- Religião;
+- Costumes;
+- Ocupação;
+- Perfil genético;
+- Estado civil;
+- Antecedentes familiares;
+- Doenças anteriores;
+- Estado imunológico.
+Tipos de agentes e exemplos
+- Biológicos:
+· Bactérias;
+· Vírus;
+· Protozoários.
+- Químicos:
+· Veneno;
+· Álcool;
+· Fumo.
+- Físicos:
+· Trauma;
+· Radiação;
+· Fogo.
+- Nutricionais:
+· Deficiência;
+· Excesso.
+Fatores ambientais
+- Temperatura;
+- Umidade;
+- Altitude;
+- Aglomeração;
+- Moradia;
+- Vizinhança;
+- Água;
+- Leite;
+- Alimentação;
+- Radiação;
+- Poluição atmosférica;
+- Ruído.
+
+As doenças crônicas não transmissíveis (doenças cardiovasculares, neoplasias, doenças respiratórias crônicas, diabetes e doenças musculoesqueléticas, entre outras) são doenças multifatoriais e têm em comum fatores comportamentais de risco modificáveis e não modificáveis. Dentre os fatores comportamentais de risco modificáveis, destacam-se tabagismo, consumo excessivo de bebidas alcoólicas, obesidade, hábito alimentar inadequado (consumo excessivo de gorduras saturadas de origem animal e açúcares simples), ingestão insuficiente de frutas e hortaliças e inatividade física (BRASIL, 2011).
+Nas causas externas, estão envolvidos 2 tipos de eventos: a natureza das lesões que o paciente apresenta (codificadas de acordo com o capítulo XIX da 10ª revisão da Classificação Internacional de Doenças – CID-10) e as circunstâncias que produziram essas lesões. A CID-10 tem um sistema de classificação suplementar para a codificação dessas circunstâncias, que fornece a informação básica necessária para a organização de programas preventivos contra a causa da lesão (MATTOS, 2001).
+
+2. Modo de transmissão de doenças
+
+As doenças podem ser transmitidas direta ou indiretamente. Quando são transmitidas de indivíduo para indivíduo, fala-se em contato direto. A transmissão indireta pode ocorrer por meio de um veículo comum, como contaminação atmosférica ou fonte de abastecimento de água, ou por um vetor, como um mosquito. Assim, diferentes organismos disseminam-se de maneiras variadas, e o potencial de determinados organismos em espalhar-se e produzir surtos depende de suas características, como taxa de crescimento e via pela qual são transmitidos de uma pessoa a outra (GORDIS, 2010).
+É comum, mesmo na área médica, ocorrer confusão entre o conceito de doença “infecciosa” e “contagiosa”. 
+Doenças contagiosas são aquelas que podem ser transmitidas por toque, contato direto entre os seres humanos, sem a necessidade de um vetor ou veículo interveniente.
+A malária é, portanto, uma doença transmissível, mas não contagiosa, enquanto o sarampo e a sífilis são tanto transmissíveis quanto contagiosas. Alguns agentes patogênicos causam doença não apenas por infecção, mas também por meio do efeito tóxico de compostos químicos que produzem. Por exemplo, o Staphylococcus aureus é uma bactéria que pode infectar diretamente os seres humanos, mas a intoxicação estafilocócica é causada pela ingestão de alimentos contaminados com uma toxina que a bactéria produz, mesmo na ausência da bactéria (BEAGLEHOLE; BONITA; KJELLSTRÖM, 2010). Com relação às doenças infecciosas, são importantes alguns conceitos relacionados à cadeia de transmissão (Tabela 2).
+
+Tabela 2 - Conceitos e definições em doenças infecciosas
+Reservatórios e fonte de infecção	Homem (em fase clínica e subclínica da doença ou em estado de portador), animal e solo: entende-se por reservatório o habitat de um agente infeccioso, no qual este vive, cresce e se multiplica. A característica que distingue o reservatório da fonte de infecção diz respeito ao fato de o primeiro ser indispensável para a perpetuação do agente, ao passo que a última é a responsável eventual pela transmissão.
+Reservatório animal	As doenças infecciosas transmitidas em condições normais de animais para o homem são denominadas zoonoses. Via de regra, essas doenças são transmitidas de animal para animal, atingindo o homem só acidentalmente. Como exemplo, podem-se citar leptospirose (reservatórios: roedores e equinos), raiva (reservatórios: várias espécies de mamíferos), doença de Chagas (reservatórios: mamíferos silvestres) etc.
+Portador	É o indivíduo que não apresenta sintomas clinicamente reconhecíveis de determinada doença transmissível ao ser examinado, mas que está abrigando e eliminando o agente etiológico respectivo. Os portadores podem apresentar-se na comunidade de diferentes formas, entre elas:
+- Ativo convalescente: indivíduo que se comporta como portador durante e após a convalescença de uma doença infecciosa. É comum esse tipo entre pessoas acometidas pela febre tifoide e difteria;
+- Ativo crônico: indivíduo que continua a abrigar o agente etiológico muito tempo após a convalescença da doença. O momento em que o portador ativo convalescente passa a crônico é estabelecido arbitrariamente para cada doença. No caso da febre tifoide, o portador é considerado ativo crônico quando alberga a Salmonella sorotipo Typhi por mais de 1 ano após ter estado doente;
+- Ativo incubado ou precoce: indivíduo que se comporta como portador durante o período de incubação de uma doença;
+- Passivo: indivíduo que nunca apresentou sintomas de determinada doença transmissível, não os está apresentando nem os apresentará no futuro; somente pode ser descoberto por meio de exames adequados de laboratório;
+- Portador eficiente: aquele que elimina o agente etiológico para o meio exterior ou para o organismo de um vetor hematófago, ou que possibilita a infecção de novos hospedeiros. Essa eliminação pode ser feita de maneira contínua ou intermitente.
+Porta de saída/entrada	Compreende respiratória – sarampo; intestinal – cólera; pele e mucosas – doença sexualmente transmissível; sangue – malária, Chagas.
+Transmissão	É a transferência de um agente etiológico animado de um reservatório ou fonte de infecção a um novo hospedeiro suscetível. A transmissão pode ocorrer de forma direta ou indireta:
+- Direta (contágio): transferência rápida do agente etiológico, sem a interferência de veículos. Pode ocorrer de 2 formas distintas: direta imediata, em que há contato físico entre o reservatório ou a fonte de infecção e o novo hospedeiro suscetível, ou direta mediata, em que não há contato físico entre o reservatório ou a fonte de infecção e o novo hospedeiro – a transmissão ocorre por meio das secreções oronasais transformadas em partículas pelos movimentos do espirro, denominadas gotículas de Flügge;
+- Indireta: transferência do agente etiológico por meio de veículos animados ou inanimados. A fim de que a transmissão indireta possa ocorrer, torna-se essencial que os agentes sejam capazes de sobreviver fora do organismo durante certo tempo e que existam veículos que transportem os micro-organismos ou parasitas de um lugar a outro. 
+Vias de transmissão	Direta, quando há contato físico ou gotículas de saliva; indireta, por meio de veículo (água, alimento, objeto, sangue), vetor mecânico (moscas), biológicos (Chagas) e ar (aerossóis).
+- Veículo: ser animado ou inanimado que transporta um agente etiológico. Não são consideradas veículos as secreções e excreções da fonte de infecção, que são, na realidade, um substrato no qual os micro-organismos são eliminados;
+- Veículo animado (ou vetor): artrópode que transfere um agente infeccioso do reservatório ou fonte de infecção a um hospedeiro suscetível;
+- Vetor biológico: vetor no qual se passa, obrigatoriamente, uma fase do desenvolvimento de determinado agente etiológico; erradicando-se o vetor biológico, desaparece a doença que ele transmite. Os anofelinos que transmitem a malária são exemplos;
+- Vetor mecânico: vetor acidental que constitui só uma das modalidades da transmissão de um agente etiológico. Sua erradicação retira apenas 1 dos componentes da transmissão da doença. São exemplos as moscas, que podem transmitir agentes eliminados pelas fezes, à medida que os transportam em suas patas ou asas após pousarem em matéria fecal;
+- Veículo inanimado: ser inanimado que transporta um agente etiológico. Os veículos inanimados são água, ar, alimentos, solo, fômites.
+Suscetibilidade	Trata-se da situação de uma pessoa ou animal que se caracteriza pela ausência de resistência suficiente contra determinado agente patogênico que a proteja da enfermidade na eventualidade de entrar em contato com esse agente.
+Período de incubação	É o período que se estende da exposição ao agente até o aparecimento de sinais e sintomas.
+Período de transmissibilidade	É o período de eliminação do agente pelo hospedeiro, permitindo a sua transmissão.
+Período prodrômico	É o período que abrange o intervalo entre os primeiros sintomas da doença e o início dos sinais ou sintomas que lhe são característicos e, portanto, com os quais o diagnóstico clínico pode ser estabelecido. Pródromos são os sintomas indicativos do início de uma doença.
+
+Com relação ao novo hospedeiro, a resistência e a suscetibilidade dependem de maior ou menor resposta positiva do organismo, ou seja, da imunidade (produção de anticorpos), que pode ser ativa (natural – doenças – e artificial – vacinas) ou passiva (natural – transplacentária – e artificial – soros).
+No caso das doenças crônicas não transmissíveis, esse ciclo de transmissibilidade não fica tão evidente. São variados os estudos que mostram que os fatores genéticos têm forte influência sobre muitas doenças com essa classificação. Por exemplo, sabe-se que a hipertensão está associada à herança genética, contudo, como são inúmeros os fatores de risco ambientais (alimentação, exercícios, estresse, entre outros) e há interação desses fatores com a herança genética, é quase impossível atribuir uma parcela de responsabilidade para cada um deles, como é feito com as doenças infecciosas. A mesma discussão é válida para as causas externas de morbimortalidade. Contudo, nessa modalidade, o ambiente tem mais influência do que nas anteriores. Nesse sentido, a tríade epidemiológica pode dar espaço aos determinantes sociais da saúde, que explicam melhor essa inter-relação (Figura 2).
+
+ 
+Figura 2 - Determinantes subjacentes da saúde e seu impacto sobre as doenças não crônicas transmissíveis
+Fonte: BEAGLEHOLE; BONITA; KJELLSTRÖM, 2010; com modificações.
+
+Pergunta
+2015 - IOG 
+1. A única doença conhecida e erradicada pela intervenção ativa do homem é a varíola. Outras doenças que podem ser erradicadas, pelos mesmos mecanismos, são: 
+a) sarampo e poliomielite 
+b) tuberculose e hanseníase 
+c) coqueluche, difteria e tétano 
+d) febre amarela, leptospirose e raiva humana 
+e) sarampo, rubéola e dengue
+Resposta no final do capítulo
+
+3. Distribuição temporal
+
+Importante
+O estudo da distribuição temporal pode fornecer inúmeras informações fundamentais para compreensão, previsão, busca etiológica, prevenção de doenças e avaliação dos impactos de intervenções em saúde (MEDRONHO; PEREZ, 2009).
+
+Já foi comentado que a Epidemiologia se desenvolveu a partir do estudo dos surtos de doenças transmissíveis e da interação entre agentes, vetores e reservatórios. A descrição das circunstâncias associadas ao aparecimento de epidemias nas populações humanas (guerra, migração, fome e desastres naturais) tem aumentado a capacidade de controlar a dispersão das doenças transmissíveis por meio de vigilância, prevenção, quarentena e tratamento (BEAGLEHOLE; BONITA; KJELLSTRÖM, 2010).
+A distribuição temporal de uma doença, segundo Medronho e Perez (2009), pode obedecer a um determinado padrão temporal, como no caso da rubéola, que apresenta aumento de sua ocorrência na primavera. Assim, é possível conhecer os períodos de maior risco para determinadas doenças, fato que pode contribuir para a sua prevenção e o seu diagnóstico precoce. Por exemplo, um indivíduo que apresenta quadro clínico de febre baixa, rash cutâneo e linfadenopatia generalizada na primavera deve levantar a suspeita de rubéola.
+
+Importante
+Embora os estudos de distribuição temporal sejam vastamente discutidos na área das doenças infecciosas e parasitárias, sobretudo as transmissíveis, pode-se afirmar que não se trata de uma aplicação exclusiva. A monitorização e a avaliação de doenças crônicas não transmissíveis, bem como de outros agravos à saúde (causas externas, como acidentes, desastres, fatores contribuintes para o aparecimento de doenças), podem ser uma ótima ferramenta para a vigilância em saúde.
+
+Para Medronho e Perez (2009), a avaliação da evolução temporal de uma doença, antes e depois de uma intervenção, pode mostrar a efetividade daquela medida. Um bom exemplo a ser citado refere-se à erradicação da poliomielite no Brasil (Figura 3).
+ 
+Figura 3 - Número de casos confirmados de poliomielite no Brasil e medidas preventivas entre 1979 e 2008
+Fonte: BRASIL, 2009; com modificações.
+
+Veja que, no ano de 1979, foram registrados 2.569 casos da doença. A vacinação em massa com a vacina Sabin, iniciada no ano de 1980, levou a uma queda no ano seguinte, no qual foram observados 122 casos da doença. Nos anos que seguem, observaram-se novas epidemias, sendo então estruturado o grupo GT-Pólio de trabalho de erradicação, no ano de maior incidência da doença, 1986. Após aumento da cobertura vacinal em todas as regiões do Brasil e de busca ativa de casos, o último caso detectado ocorreu em 1989, de tal modo que, em 1994, a doença foi considerada erradicada do território brasileiro, pela Organização Mundial da Saúde.
+A análise de um conjunto de observações sequenciais no tempo pode conter flutuações aleatórias (ao acaso), de modo que é importante tentar detectar, além das possíveis variações aleatórias, os 4 tipos de evolução principal das doenças: tendência histórica, variações cíclicas, variações sazonais e variações irregulares (MEDRONHO; PEREZ, 2009).
+
+4. Tendência histórica ou secular
+
+Segundo Medronho e Perez (2009), o estudo de tendência histórica refere-se à análise das mudanças na frequência (incidência, mortalidade) de uma doença por um longo período de tempo, geralmente décadas. O autor explica que não existe um critério rígido para a definição de tempo mínimo de observação necessário para detectar alterações na evolução da doença ou de outro desfecho de interesse. A Figura 3 mostra essa mudança, no caso da poliomielite, com bastante clareza.
+França Júnior e Monteiro (2000) explicam que a análise da distribuição temporal de eventos do processo saúde–doença é uma das estratégias de investigação mais antigas e valiosas para a Epidemiologia e para a Saúde Pública. Quando a análise envolve períodos prolongados de tempo, costuma-se denominá-la de análise de tendência e/ou de mudança secular (FORATTINI, 1992). Na literatura epidemiológica, é possível observar a utilização de vários termos para a designação das tendências ou séries temporais de indicadores de saúde: tendência secular, mudança secular, aceleração secular, variação secular, mudança temporal e outras.
+O 1º investigador a examinar séries temporais de morbimortalidade foi William Farr (1807-1883). São clássicas suas análises acerca da tendência secular da mortalidade e da fertilidade na Inglaterra, bem como a análise temporal de várias epidemias, como as de varíola e cólera. Contudo, Farr ainda não utilizava o conceito de tendência secular, que surgiria apenas no século XX (FRANÇA JÚNIOR; MONTEIRO, 2000).
+
+Dica
+A análise de tendência de uma doença deve levar em consideração as possíveis modificações nos critérios diagnósticos, na terminologia da doença, nas taxas de letalidade etc. Entretanto, muitas vezes, é necessária a observação de uma doença ao longo de décadas para se traçar o perfil esperado para a conjuntura atual (MEDRONHO; PEREZ, 2009). 
+
+Schmidt et al. (2011) estudaram a mudança da mortalidade no Brasil para os principais tipos de câncer nos últimos 27 anos, concluindo que, nos homens, as taxas de mortalidade por câncer de pulmão, próstata e colorretal estão aumentando, as de câncer gástrico estão diminuindo e as de esôfago estão estáveis. Nas mulheres, as taxas de mortalidade por câncer de mama, pulmão e colorretal aumentaram, enquanto as de câncer de colo do útero e estômago diminuíram (Figura 4).
+ 
+Figura 4 - Mortalidade para os principais locais de câncer em homens e mulheres, de 1980 a 2006
+Fonte: SCHMIDT et al., 2011.
+
+Medronho e Perez (2009) explicam que o movimento observado na tendência histórica das diversas doenças pode ser explicado por inúmeras razões, como a melhoria no diagnóstico (em relação à precocidade), melhoria das condições sanitárias e sociais, técnicas obstétricas mais efetivas etc. Por outro lado, muitas vezes existe dificuldade na interpretação desses dados, pois os métodos diagnósticos foram se tornando mais precisos ao longo do tempo (diagnósticos diferenciais), a população foi se modificando (transição demográfica), com a consequente mudança no perfil epidemiológico, assim como os fatores ambientais também se alteraram.
+
+Pergunta
+2015 - UFMA 
+2. No sentido de orientar as ações de controle, as doenças infecciosas e parasitárias, no Brasil, vêm sendo classificadas pelo Ministério da Saúde segundo 3 tendências principais: doenças com tendência decrescente, doenças com quadro de persistência e doenças emergentes e reemergentes. Um exemplo de doença com tendência decrescente é: 
+a) leishmaniose 
+b) dengue 
+c) cólera 
+d) hanseníase 
+e) AIDS
+Resposta no final do capítulo
+
+5. Variações cíclicas
+
+Importante
+As variações cíclicas são aquelas com ciclos periódicos e regulares. A mudança cíclica no comportamento de doenças são recorrências nas suas incidências, que podem ser anuais ou ter periodicidade mensal ou semanal. Na variação cíclica, portanto, um dado padrão é repetido de intervalo a intervalo (BRASIL, 2005). Outros autores consideram como variação cíclica as flutuações na incidência em períodos maiores do que 1 ano (MEDRONHO; PEREZ, 2009).
+
+Na Figura 5, apresentam-se as taxas de incidência e de mortalidade de sarampo no estado do Paraná, entre 1965 e 2004. Repare que, entre 1965 e 1988, a incidência da doença segue um padrão de flutuação que parece se repetir a cada 3 anos, ao passo que a mortalidade mostra baixa variação. 
+Esse processo pode ser explicado pelo nascimento de crianças suscetíveis, cujo acúmulo vai provocar aumento progressivo no número de casos da doença. Note que, a partir do ano de 1992, quando foi implementado o Plano Nacional de Eliminação do Sarampo e o Ministério da Saúde utilizou estratégias para o controle, entre elas a vacinação de crianças e adolescentes de 9 meses a 14 anos, por intermédio de campanha de vacinação em massa, a incidência da doença diminuiu significativamente, pois não havia mais suscetíveis para contrair o vírus e desenvolver a doença.
+
+ 
+Figura 5 - Taxas de incidência e de mortalidade de sarampo no estado do Paraná, Brasil, de 1965 a 2004
+Fonte: BRASIL, 2005; com modificações.
+
+6. Variações sazonais
+
+As variações sazonais ocorrem quando a incidência das doenças sempre aumenta, periodicamente, em algumas épocas ou estações do ano, meses, dias da semana ou em horas do dia. Por exemplo, a dengue (nas épocas quentes do ano) e os acidentes de trânsito (horas de muita movimentação urbana – deslocamento para o trabalho ou para a escola). Com relação às doenças com variação estacional, deve-se conhecer o nível endêmico: se há aumento normal em certa época do ano, ele não pode ser confundido com uma epidemia.
+Sabe-se que as doenças infecciosas agudas constituem um exemplo claro dessas variações. Entretanto, o aparecimento de alguns sintomas de determinadas doenças crônicas (por exemplo, doença pulmonar obstrutiva crônica), fenômenos demográficos (nascimentos) e a mortalidade por certas causas específicas, como acidentes de trabalho, também podem apresentar variações sazonais (MEDRONHO; PEREZ, 2009).
+Um bom exemplo desse tipo de variação são os acidentes com animais peçonhentos, sobretudo com ofídicos. A distribuição mensal dos casos (Figura 6) segue padrão encontrado nos demais estados das regiões Sul e Sudeste, onde é verificada uma sazonalidade marcada pela predominância dos casos nos meses quentes e chuvosos de setembro a março, confirmando que a ocorrência do acidente ofídico está, geralmente, relacionada a fatores climáticos e ao aumento da atividade humana nos trabalhos do campo, nessa época do ano (BRASIL, 2005).
+
+ 
+Figura 6 - Número de casos de acidentes ofídicos segundo o mês de ocorrência no estado do Paraná, Brasil, 1997 a 2002
+Fonte: BRASIL, 2005; com modificações.
+
+Segundo Medronho e Perez (2009), a variação sazonal depende de um conjunto de fatores, como temperatura, umidade do ar, radiações solares, concentração de poluentes no ar, precipitação (chuvas) etc. Além das condições climáticas, existe o comportamento dos indivíduos nas diferentes estações do ano. Assim, no inverno, observam-se mais aglomerações (fator contribuinte para o aparecimento de doenças respiratórias) ou maior consumo de água no verão (consequentemente, nota-se maior despejo de esgoto), o que pode favorecer as doenças por contaminação fecal-oral (diarreias, poliomielite, hepatite A etc.).
+
+Pergunta
+2011 - UFMS 
+3. Constitui(em) fator(es) dos mais determinantes na ocorrência da variação cíclica de uma doença: 
+a) a qualidade e a integralidade da notificação 
+b) o risco de exposição à fonte de infecção 
+c) a virulência do agente etiológico 
+d) a proporção de suscetíveis na comunidade 
+e) a idade média da população
+Resposta no final do capítulo
+
+7. Variações irregulares
+
+Importante
+Existem procedimentos para reconhecer se a variação de determinada doença está dentro do esperado (variação cíclica e/ou sazonal). Esse fato pode ser chamado de endemia, ou seja, a doença tem um padrão de ocorrência endêmico. Caso exista variação irregular, superando a frequência esperada, poderia ser caracterizada, então, uma epidemia.
+
+A - Casos esporádicos e conglomerado temporal de casos
+Quando, em uma comunidade, se verifica o aparecimento de casos raros e isolados de certa doença, a qual não estava prevista, esses casos são chamados de casos esporádicos. Trata-se, geralmente, de casos aleatórios, que de forma imprescindível não guardam nenhuma relação entre si. O conglomerado temporal de casos refere-se a um grupo de casos para os quais se suspeita de um fator comum, ou seja, não aleatório, e que ocorre dentro dos limites de intervalos de tempo, significativamente iguais, medidos a partir do evento que, supostamente, foi a sua origem (BRASIL, 2005).
+
+B - Endemia
+
+Dica
+As doenças são chamadas de endêmicas quando, em uma área geográfica ou um grupo populacional, apresentam padrão de ocorrência relativamente estável, com incidência ou prevalência acima de zero.
+
+Doenças endêmicas, como a malária, estão entre os principais problemas de saúde em países tropicais de baixa renda. Se ocorrerem mudanças nas condições do hospedeiro, agente ou ambiente, uma doença endêmica poderá se tornar epidêmica (BEAGLEHOLE; BONITA; KJELLSTRÖM, 2010).
+Segundo o Ministério da Saúde, quando a ocorrência de determinada doença apresenta variações na sua incidência de caráter regular, constante e sistemático, trata-se de uma doença endêmica. Observe, na Figura 7, essa ocorrência regular com alguma variação. Assim, endemia é a ocorrência de determinada doença que, durante um longo período de tempo, acomete, sistematicamente, populações em espaços delimitados e caracterizados, mantendo incidência constante ou permitindo variações cíclicas ou sazonais, conforme descrito (BRASIL, 2005).
+
+C - Epidemia
+Epidemia é definida como a ocorrência em uma região ou comunidade de um número de casos em excesso, em relação ao que normalmente seria esperado. Note, na Figura 7, que existia um padrão de ocorrência rompido em algum momento, caracterizando uma epidemia (visto que, depois de algum tempo, ele volta ao normal). 
+
+Importante
+Ao descrever uma epidemia, devem ser especificados o período, a região geográfica e outras particularidades da população em que os casos ocorreram. O número de casos necessários para definir uma epidemia varia de acordo com o agente, o tamanho, o tipo e a suscetibilidade da população exposta e o momento e o local da ocorrência da doença (BEAGLEHOLE; BONITA; KJELLSTRÖM, 2010). 
+
+ 
+Figura 7 - Doença endêmica versus doença epidêmica
+Fonte: GORDIS, 2010; com modificações.
+
+A identificação de uma epidemia também depende da frequência usual da doença na região, no mesmo grupo populacional, durante a mesma estação do ano. Um pequeno número de casos de uma doença que não tinha ocorrido previamente na região pode ser o suficiente para constituir a ocorrência de uma epidemia. Por exemplo, o 1º relato da síndrome que ficou conhecida como AIDS, descrita por Gottlieb et al. (1981), foi baseado em 4 casos de pneumonia por Pneumocystis jirovecii em jovens homossexuais masculinos.
+
+a) Caracterização numérica de uma epidemia
+O procedimento utilizado atualmente em Vigilância Epidemiológica para se monitorizar ocorrência irregular na incidência de uma doença (epidemia) é chamado de diagrama de controle. A ideia básica dos diagramas de controle é manter o processo (ocorrência) entre um limite mínimo e um limite máximo de controle. Inicialmente, eram classificados como de médias (mean/average), de limites (range) ou de desvio-padrão. Atualmente, existem inúmeros e variados tipos de tais diagramas (ALVES, 2004).
+A autora citada explica ainda que, no Brasil, o diagrama de controle mais utilizado é denominado diagrama de Shewhart. Esses diagramas são feitos plotando-se pontos sobre o eixo da ordenada com o tempo como uma escala horizontal (eixo do X) e o número de novos casos reportados toda semana ou mês como uma escala vertical (o eixo do y).
+	Nesse tipo de gráfico, são observadas as linhas de limite, que caracterizam o nível endêmico (Figura 8). A linha azul refere-se ao limite inferior de ocorrência (valor estimado), a linha verde diz respeito ao número de casos ou à incidência observada dentro do intervalo de tempo considerado, e a linha vermelha demarca o limite superior de ocorrência endêmica (valor estimado), também conhecido como limiar epidêmico. Se a frequência da doença em algum momento estourar esse limite superior, estará caracterizada sua variação irregular de incidência. Nesse caso, a doença teve um curso considerado regular no decorrer do ano. 
+
+ 
+Figura 8 - Controle de nível endêmico (hipotético)
+
+Alves (2004) ressalta que, quando a frequência do evento é relativamente constante durante o ano, a análise dos dados não requer maior sofisticação. Valores como a média ou mediana, acompanhados dos seus respectivos índices de dispersão (desvio-padrão, desvio interquartil), são suficientes para sintetizar os eventos e materializar o diagrama de controle.
+Há diversas formas de construir um diagrama de controle, e uma das mais utilizadas refere-se ao uso da média aritmética da incidência e dos respectivos desvios padronizados para estimar um intervalo de ocorrência regular. Pode-se trabalhar com o número de casos absolutos por tempo de observação ou com a medida de incidência, por 100.000 habitantes, por exemplo.
+Como as medidas limites que compõem o intervalo de ocorrência regular são estimativas, é necessário conhecer a distribuição corrente do evento. Medronho e Perez (2009) sugerem observar a ocorrência mensal ou semanal de um período de 10 anos (apenas uma sugestão, já que muitas vezes, esse período vai depender da disponibilidade de dados). É importante ressaltar que, nesse período, a incidência pode não ter sofrido nenhuma variação irregular (epidemia, por exemplo).
+A Tabela 3 apresenta um conjunto de dados fictícios para o desenvolvimento do exercício; são 10 anos de incidência de uma doença (doença meningocócica), com observação mês a mês. Como exemplo, será desenvolvido, a seguir, um diagrama de controle para acompanhamento do ano de 2011. Note que em nenhum dos anos existiu grande variação que pudesse ser caracterizada como irregular.
+
+Tabela 3 - Incidência mensal de doença meningocócica (100.000 habitantes), no município de Goiânia, de 2001 a 2010 (dados fictícios)
+Meses	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010
+Janeiro	0,5	0,38	0,17	0,5	0,19	0,89	0,5	0,32	0,17	0,5
+Fevereiro	0,45	0,45	0,17	0,17	0,45	0,22	0,45	0,45	0,16	0,45
+Março	0,17	0,17	0,14	0,17	0,17	0,17	0,17	0,38	0,89	0,17
+Abril	0,38	0,38	0,44	0,13	0,38	0,25	0,38	0,17	0,38	0,72
+Maio	0,32	0,65	0,33	0,38	0,22	0,65	0,89	0,65	0,65	0,65
+Junho	0,47	0,47	0,47	0,47	0,47	0,38	0,38	0,38	0,89	0,47
+Julho	0,89	0,33	0,22	0,30	0,29	0,89	0,38	0,17	0,38	0,89
+Agosto	0,65	0,65	0,17	0,65	0,65	0,65	0,65	0,65	0,89	0,65
+Setembro	0,32	0,17	0,32	0,44	0,16	0,32	0,89	0,89	0,32	0,38
+Outubro	0,25	0,34	0,36	0,14	0,34	0,17	0,34	0,31	0,34	0,34
+Novembro	0,14	0,14	0,14	0,4	0,15	0,14	0,32	0,14	0,16	0,14
+Dezembro	0,3	0,27	0,31	0,41	0,51	0,55	0,3	0,11	0,3	0,18
+
+Uma maneira de estimar os limites superior e inferior endêmicos diz respeito à iniciativa de estabelecer um Intervalo de Confiança (IC) de 95% em torno das médias de casos. Deste modo, é necessário utilizar alguma distribuição de probabilidade para materialização desse intervalo “ótimo”. Usualmente, utiliza-se a distribuição normal (z), na qual um IC de ±95% equivale a 1,96 unidade de desvio-padrão. Os passos para se chegar à plotagem do diagrama são os seguintes:
+1 - Calcula-se a incidência média aritmética mensal referente aos anos anteriores ao que se quer analisar (utilizando a fórmula 1 da Tabela 4).
+2 - Calcula-se, mês a mês, o Desvio-Padrão (DP) referente aos anos anteriores, para levar em conta a dispersão dos valores observados em relação à incidência média obtida (utilizando a fórmula 2 da Tabela 4).
+3 - Com esses valores, incidências médias mensais e DPs, pode-se estabelecer um intervalo de variação que será considerado normal ou endêmico (utilizando a fórmula 3 da Tabela 4).
+Após a realização desses procedimentos, conseguiu-se chegar às médias (1), aos DPs (2) e aos limites de incidência normal esperados para cada mês (3). Observe que, para exemplificação, foram realizados os procedimentos completos com os meses de janeiro e fevereiro (Tabela 3): inicialmente, a média aritmética (janeiro – 0,41 – e fevereiro – 0,34); logo após os DPs referentes a esses mesmos meses (janeiro – 0,21 – e fevereiro – 0,13) e, estabelecidos esses parâmetros, estimaram-se os limites superior e inferior com IC de 95%. Os resultados esperados para todos os meses de 2011 estão dispostos na Tabela 5.
+
+Tabela 4 - Fórmulas e procedimentos de cálculo de média geométrica, desvio-padrão e limites endêmicos para montagem do diagrama de controle, utilizando dados da Tabela 3
+Atenção
+Média – mês a mês
+Refere-se à média de incidência para cada mês em relação a todos os anos de observação. Pode ser obtida somando-se os valores observados mês a mês e dividindo-se pelo total de observação. Assim, por exemplo, para o mês de janeiro a média foi de 0,41 e fevereiro, 0,34. Acompanhe:
+Xjan. = 0,5 + 0,38 + 0,17 + 0,5 + 0,19 + 0,89 + 0,5 + 0,32 + 0,17 + 0,5 = 4,12/10 = 0,41
+Xfev. = 0,45 + 0,45 + 0,17 + 0,17 + 0,45 + 0,22 + 0,45 + 0,45 + 0,16 + 0,45 = 3,42/10 = 0,34	Média = 
+?x / N
+DP – mês a mês*
+Diz respeito a unidades de desvio padronizado em relação à média da incidência mês a mês. Trata-se de uma medida de dispersão. Deste modo, por exemplo, para o mês de janeiro o DP foi de 0,21 e fevereiro, 0,13. Acompanhe:
+DPjan. = v? (0,50 - 0,41)2 + (0,38 - 0,41)2 ... = 0,435/10 = 0,044 = v0,044 = 0,21
+DPfev. = v? (0,45 - 0,21)2 + (0,45 - 0,21)2 ... = 0,177/10 = 0,018 = v0,018 = 0,13	Desvio = 
+v?(x - média)2 / N
+Limites Endêmicos (LEs) – mês a mês
+Dizem respeito às estimativas de limite superior (LES) e inferior (LEI – IC 95% em torno da média) para cada mês de observação. Acompanhe:
+LEIjan. = 0,41 - (1,96 x 0,21) = 0,41 - 0,4116 = 0,0
+LESjan. = 0,41 + (1,96 x 0,21) = 0,41 + 0,4116 = 0,82
+LEIfev. = 0,34 - (1,96 x 0,13) = 0,34 - 0,2548 = 0,08
+LESfev. = 0,34 + (1,96 x 0,13) = 0,34 + 0,2548 = 0,59	E = média ± (1,96 x DP)
+* Os resultados dos meses foram resumidos, e o procedimento deve ser repetido para todos os anos de observação para chegar ao respectivo DP.
+
+Tabela 5 - Estimativa de média, desvio-padrão e limites endêmicos para 10 anos de observação mês a mês, no município de Goiânia, de 2001 a 2010 (dados fictícios)
+Meses	Médias	DPs	Limite inferior	Limite 
+superior	2011a	2011b
+Janeiro	0,41	0,21	0	0,82	0,32	0,32
+Fevereiro	0,34	0,13	0,08	0,6	0,22	0,4
+Março	0,26	0,22	-0,17	0,69	0,39	0,5
+Abril	0,36	0,15	0,06	0,66	0,31	0,47
+Maio	0,54	0,2	0,15	0,93	0,23	1,2
+Junho	0,49	0,14	0,21	0,76	0,21	0,69
+Julho	0,47	0,28	-0,07	1,02	0,35	0,35
+Agosto	0,63	0,17	0,3	0,96	0,5	0,32
+Setembro	0,42	0,25	-0,06	0,91	0,45	0,44
+Outubro	0,29	0,08	0,14	0,44	0,2	0,2
+Novembro	0,19	0,09	0,01	0,36	0,12	0,11
+Dezembro	0,35	0,11	0,14	0,56	0,19	0,19
+
+Agora, é necessário plotar o gráfico para estudar alguns de seus elementos (Figura 9). Repare que a linha vermelha representa o limite superior e a linha azul, o limite inferior. O espaço entre essas linhas, que varia mês a mês (estimado dos 10 anos anteriores), pode ser considerado como intervalo regular, também chamado de faixa de incidência normal esperada ou faixa endêmica. Nesse espaço, a incidência pode variar sem que seja inferida qualquer alteração na sistemática da estrutura epidemiológica condicionante do processo saúde–doença. A variação da incidência em faixa endêmica é chamada de incidência em nível endêmico. A linha vermelha, ou limite superior endêmico, também é chamada limiar epidêmico, por representar o limite endêmico. Além dessa linha, está a incidência em nível epidêmico, ou seja, quando o coeficiente de incidência da doença ultrapassa o limiar endêmico, está caracterizada a epidemia.
+
+ 
+Figura 9 - Estimativa de nível superior e inferior endêmico para o ano de 2011
+
+Esse diagrama de controle é uma possibilidade de conhecer a variação natural da doença em anos anteriores, a fim de acompanhar ou avaliar a ocorrência desta no presente, um trabalho muito realizado em Vigilância Epidemiológica.
+Alves (2004) explica que essa ferramenta reflete o programa de controle com base nos bancos de dados existentes no sistema de vigilância de agravos no país, representando um método de acompanhamento das informações recebidas constantemente. Geralmente é usado para controle de doenças em situações de equilíbrio, em que há uma estabilidade espaço-temporal (níveis endêmicos da doença).
+
+Pergunta
+2015 - UNICAMP 
+4. Dentre as situações epidemiológicas a seguir, assinale a alternativa que se refere a epidemia/surto: 
+a) aumento brusco da prevalência de síndrome da imunodeficiência adquirida em uma população que passa a ter acesso à assistência médica 
+b) triplicação do número de internações por doenças respiratórias em julho e agosto em comparação com janeiro e fevereiro 
+c) aumento da incidência de diarreia entre os participantes de uma festividade 
+d) aumento das notificações de sífilis no adulto após implantação de um ambulatório de doenças sexualmente transmissíveis
+Resposta no final do capítulo
+
+Na Tabela 5, foram sugeridas 2 situações distintas para o ano de 2011 (lembre-se que nosso diagrama utilizou dados de 2001 a 2010): 2011a e 2011b, consecutivamente na penúltima e na última coluna. Acompanhe a plotagem nos gráficos (Figuras 10 e 11) e analise a ocorrência da doença.
+Observe a 1ª situação para o ano de 2011 (Figura 10). A incidência da doença no decorrer do ano mostra uma variação, contudo, considerada regular (dentro do limite endêmico esperado). Não foi observada, então, nenhuma variação na frequência da doença que pudesse caracterizar uma epidemia. Já na 2ª situação (2011b), existe uma variação da frequência além do limiar epidêmico (Figura 11). Observe que a incidência se eleva entre os meses de abril e maio, atingindo seu ponto máximo nesse último mês (linha preta); entre maio e junho, a incidência volta ao seu nível normal (incidência em nível endêmico). Pode-se afirmar então que, no ano de 2011b, houve uma variação irregular caracterizada como epidemia.
+
+ 
+Figura 10 - Estimativa de níveis superior e inferior endêmicos e incidência observada no ano de 2011a
+
+ 
+Figura 11 - Estimativa de níveis superior e inferior endêmicos e incidência observada no ano de 2011b
+
+Dica
+Graficamente, uma epidemia se expressa como uma curva anormal em relação à ocorrência esperada, chamada curva epidêmica.
+
+Sinnecker (1976) discorre sobre alguns elementos dessa curva que merecem destaque, uma vez que podem auxiliar na classificação do tipo de epidemia e no seu controle (Figura 12):
+
+ 
+Figura 12 - Elementos da curva epidêmica
+
+1 - Incremento inicial dos casos: ocorre nos eventos em que o processo saúde–doença passa de uma situação endêmica preexistente para uma situação epidêmica. Com a situação ainda em nível endêmico, observa-se um incremento do número de casos com o coeficiente de incidência tendendo para o limite superior endêmico.
+2 - Egressão: seu marco inicial ocorre no surgimento dos primeiros casos (progressão) e termina quando a incidência é nula ou o processo se estabiliza num dado patamar de endemicidade (regressão), caracterizando uma endemia.
+3 - Progressão: estabelecida a epidemia, o crescimento progressivo da incidência caracteriza a fase inicial do processo. Essa 1ª etapa, descrita pelo ramo ascendente da curva epidêmica, termina quando o processo epidêmico atinge seu clímax.
+4 - Incidência máxima: é o clímax. A força de crescimento da epidemia extingue-se devido à diminuição do número de indivíduos expostos, à diminuição do número de suscetíveis, a ações nacionais ou internacionais de vigilância e controle ou ao próprio processo natural de controle.
+5 - Regressão: é a última fase na evolução de uma epidemia. O processo de massa tende a retornar aos valores iniciais de incidência, estabilizar-se em patamar endêmico, abaixo ou acima do patamar inicial ou regredir até incidência nula, incluída aí a erradicação. 
+6 - Decréscimo endêmico: quando o processo regride em nível endêmico e as ações de controle e vigilância continuam, a endemicidade pode ser levada a patamares bastante baixos, mais baixos do que aqueles vigentes antes da eclosão da ocorrência epidêmica; pode-se pensar, inclusive, na erradicação da doença (pode ou não ocorrer).
+
+b) Caracterização temporal e espacial de uma epidemia
+
+Importante
+Sabe-se que uma endemia se caracteriza por ser temporalmente ilimitada. A epidemia, ao contrário, é restrita a um intervalo de tempo marcado por começo e fim bem definidos, com retorno das medidas de incidência aos patamares endêmicos observados antes da ocorrência epidêmica. Esse intervalo de tempo pode abranger poucas horas ou dias, ou estender-se a anos ou mesmo décadas.
+
+Segundo o Ministério da Saúde, as epidemias podem ser classificadas, também, pela abrangência espacial. Tais quais as situações endêmicas, as ocorrências epidêmicas são limitadas não somente a um tempo definido, mas também a um espaço delimitado, desde os limites de um surto epidêmico até a abrangência de uma pandemia (BRASIL, 2005).
+Costuma-se designar surto epidêmico (Figura 13 – círculo vermelho) quando 2 ou mais casos de determinada doença ocorrem em locais circunscritos, como instituições, escolas, domicílios, edifícios, cozinhas coletivas, bairros ou comunidades, aliados à hipótese de que existia, como relação entre eles, a mesma fonte de infecção ou de contaminação ou os mesmos fatores de risco, o mesmo quadro clínico e ocorrência simultânea.
+Dá-se o nome de pandemia (Figura 13 – círculo verde) à ocorrência epidêmica caracterizada por uma larga distribuição espacial que atinge várias nações. São exemplos clássicos de pandemias: a epidemia de in?uenza de 1918 e a epidemia de cólera, iniciada em 1961, que alcançou o continente americano em 1991, no Peru. Mais recentemente, no ano de 2009, foi vista a pandemia de influenza (H1N1), que se iniciou no México e se espalhou rapidamente pelo mundo.
+
+ 
+Figura 13 - Classificação espacial de uma epidemia: surto epidêmico (círculo vermelho) e pandemia (círculo verde)
+
+c) Fatores condicionantes do surgimento das epidemias
+Alguns fatores são imprescindíveis para o surgimento de uma epidemia. Em linhas gerais, o aumento do número de indivíduos suscetíveis destaca-se como um dos mais importantes. Quando o número de tais indivíduos em um local for suficientemente grande, a introdução de um caso (alóctone ou importado) de uma doença transmissível gera diversos outros, configurando um grande aumento na incidência. O aumento do número de suscetíveis pode apresentar diversas causas, como os nascimentos de novos indivíduos, migrações e baixas coberturas de vacinas imunizantes.
+Alterações no meio ambiente podem tanto favorecer a transmissão de doenças infecciosas quanto auxiliar na propagação dos agravos não infecciosos. Destacam-se, entre esses, os seguintes fenômenos: contaminação da água potável por dejetos, favorecendo a transmissão de doenças de contaminação fecal-oral; aglomeração de pessoas em abrigos provisórios, em situações de calamidade, facilitando a eclosão de surtos de doenças respiratórias agudas; aumento no número de vetores infectados, responsáveis pela transmissão de algumas doenças em razão de condições ambientais favoráveis e/ou inexistência ou ineficácia de medidas de controle; contaminação de alimentos por micro-organismos patogênicos, ocasionando surtos de intoxicação, toxinfecção e infecção alimentar; extravasamento de produtos químicos poluindo ar, solo e mananciais, podendo levar a intoxicações agudas na comunidade local; e emissão descontrolada de gás carbônico por veículos motorizados, que pode levar ao desenvolvimento de problemas respiratórios agudos na população.
+Na prática, o Ministério da Saúde ressalta que uma epidemia pode surgir quando inexiste uma doença em determinado lugar e aí se introduz uma fonte de infecção ou contaminação (por exemplo, um caso de cólera ou um alimento contaminado), dando início ao aparecimento de casos ou epidemia; quando ocorrem casos esporádicos de uma determinada doença e logo se configura uma inter-relação que contribui para o aumento na incidência além do esperado; e a partir de uma doença que ocorre endemicamente e alguns fatores desequilibram a sua estabilidade, iniciando uma epidemia (BRASIL, 2005).
+
+d) Aspectos diferenciais das epidemias
+Foi visto, até aqui, que uma epidemia se refere a uma alteração, espacial e cronologicamente delimitada, do estado de saúde–doença de uma população, que se caracteriza pelo aumento progressivo, inesperado e descontrolado dos coeficientes de incidência de determinada doença, ultrapassando o limiar epidêmico preestabelecido.
+
+
+Dica
+Existem 2 aspectos básicos para a diferenciação das epidemias: o 1º diz respeito à velocidade com a qual ocorre o processo epidêmico, classificando estas em epidemias lentas e explosivas; e o 2º se refere à fonte ou origem da contaminação e divide-as em fonte comum (pontual ou persistente) ou fonte progressiva ou propagada (BRASIL, 2005).
+
+Também denominada brusca, instantânea ou maciça, a epidemia explosiva caracteriza-se por um aumento expressivo do número de casos em um curto espaço de tempo, compatível com o período de incubação da doença. Nesse tipo de epidemia, quase todos os indivíduos expostos e suscetíveis são acometidos em pouco tempo, e a incidência máxima é alcançada rapidamente. Citam-se, como exemplo, as intoxicações decorrentes da ingestão de água, leite ou outros alimentos contaminados.
+Na epidemia lenta, o critério diferenciador é a velocidade com a qual ela ocorre na etapa inicial do processo, que é lenta e gradual e progride durante um longo tempo. Acontece, em geral, nas doenças de curso clínico longo, principalmente as não transmissíveis, podendo ocorrer, também, com doenças cujos agentes apresentam baixa resistência ao meio exterior ou para os quais a população seja altamente resistente ou imune. Será lenta, ainda, se as formas de transmissão e os meios de prevenção forem bem conhecidos pela população, como AIDS, exposição a metais pesados ou agrotóxicos.
+Quando não há um mecanismo de transmissão de hospedeiro para hospedeiro na epidemia por fonte ou veículo comum, o fator extrínseco (agente infeccioso, fatores físico-químicos ou produtos do metabolismo biológico) pode ser veiculado pela água, por alimentos, pelo ar ou introduzido por inoculação. Todos os suscetíveis devem ter acesso direto a uma única fonte de contaminação, podendo ser por curto espaço de tempo (fonte pontual) ou por um espaço de tempo mais longo (fonte persistente). Trata-se, geralmente, de uma epidemia explosiva e bastante localizada, em relação a tempo e lugar, como a intoxicação alimentar.
+Na epidemia gerada por uma fonte pontual (no tempo), a exposição se dá durante um curto intervalo de tempo e cessa, não ocorrendo novamente. Exemplos disso são as exposições a alimentos contaminados em eventos. Já na epidemia ocasionada por uma fonte persistente (no tempo), a fonte tem existência dilatada e a exposição da população prolonga-se. Destacam-se, nesse último caso, as epidemias de febre tifoide devido a fonte hídrica, acidentalmente contaminada pela rede de esgoto.
+Será chamada de epidemia de fonte progressiva ou propagada, de contato ou contágio, quando o mecanismo de transmissão for de hospedeiro a hospedeiro, ocorrendo a propagação em cadeia, difundida de pessoa a pessoa por via respiratória, anal, oral ou genital, ou por vetores como gripe, meningite meningocócica, doenças sexualmente transmissíveis e raiva canina. Muitas vezes, sua progressão é lenta, contudo não se descarta a possibilidade de epidemias explosivas por esse tipo de fonte.
+Um descontrole nos fatores determinantes da doença pode ocasionar uma situação epidêmica. Esse descontrole deve ser detectado pelo Sistema de Vigilância, classificado como uma situação de emergência, e medidas circunstanciais devem ser tomadas para sua correção (ALVES, 2004). 
+
+Pergunta
+2013 - SUS-BA 
+5. Hipoteticamente, há 40 anos não ocorriam casos de determinada doença infectocontagiosa no estado de São Paulo, enquanto na Bahia ocorrem, em média, 10 casos dessa mesma doença anualmente. Sendo confirmado no ano em curso 1 único caso autóctone dessa doença em São Paulo e 10 na Bahia, podem-se considerar as situações, respectivamente, como: 
+a) endemia e endemia 
+b) epidemia e epidemia 
+c) caso esporádico e endemia 
+d) epidemia e endemia 
+e) endemia e epidemia
+Resposta no final do capítulo
+
+8. Resumo
+
+Quadro-resumo
+Dinâmica de transmissão – introdução
+As doenças humanas de interação entre hospedeiro (pessoa), agente (por exemplo, bactéria ou vírus) e meio ambiente (por exemplo, alimentos ou água contaminados), embora algumas sejam de origens amplamente genéticas, resultam da interação entre fatores genéticos e ambientais, com o equilíbrio exato variando conforme as diferentes doenças. Muitos dos princípios subjacentes que fundamentam a transmissão das doenças são mais claramente demonstrados utilizando doenças transmissíveis como modelo, contudo os conceitos discutidos podem ser extrapolados para doenças não infecciosas ou mesmo a outros agravos à saúde.
+Modo de transmissão de doenças
+As doenças podem ser transmitidas direta ou indiretamente. Quando transmitida de indivíduo para indivíduo, fala-se em contato direto. A transmissão indireta pode ocorrer por meio de um veículo comum, como contaminação atmosférica ou fonte de abastecimento de água, ou por um vetor, como um mosquito. Assim, diferentes organismos disseminam-se de maneiras variadas e o potencial de determinados organismos em espalhar-se e produzir surtos depende de suas características, como taxa de crescimento e via pela qual são transmitidos de uma pessoa a outra.
+Distribuição temporal
+A distribuição temporal de uma doença pode obedecer a um determinado padrão, como no caso da rubéola, que apresenta aumento de sua ocorrência na primavera. Assim, é possível conhecer os períodos de maior risco para determinadas doenças, fato que pode contribuir para sua prevenção e seu diagnóstico precoce. A avaliação da evolução temporal de uma doença, antes e depois de uma intervenção, pode mostrar a efetividade daquela medida de controle, tornando-se uma ferramenta importantíssima para a Vigilância Epidemiológica.
+Tendência secular
+O estudo de tendência histórica refere-se à análise das mudanças na frequência (incidência, mortalidade) de uma doença por um longo período de tempo, geralmente décadas. Não existe um critério rígido para a definição de tempo mínimo de observação necessário para detectar alterações na evolução da doença ou de outro desfecho de interesse. 
+Variação cíclica 
+São variações com ciclos periódicos e regulares. A mudança cíclica no comportamento de doenças é constituída por recorrências nas suas incidências, que podem ser anuais, mensais ou semanais. Na variação cíclica, portanto, um dado padrão é repetido de intervalo a intervalo.
+Variação sazonal 
+Ocorre quando a incidência das doenças aumenta sempre, periodicamente, em algumas épocas ou estações do ano, meses, dias da semana ou em horas. Por exemplo, dengue (nas épocas quentes do ano) ou acidentes de trânsito (horas de muita movimentação urbana – deslocamento para o trabalho ou para a escola). Com relação às doenças com variação estacional, deve-se conhecer o nível endêmico: se há aumento normal em certa época do ano, ele não pode ser confundido com uma epidemia.
+Variação irregular
+Quando a variação de uma determinada doença está dentro do esperado (variação cíclica e/ou sazonal), esse fato pode ser chamado de endemia, ou seja, a doença tem um padrão de ocorrência endêmico. Caso exista variação irregular, superando a frequência esperada, poderia ser caracterizada, então, uma epidemia.
+Caso esporádico
+Quando, em uma comunidade, se verifica o aparecimento de casos raros e isolados de certa doença que não estava prevista, esses casos são chamados de casos esporádicos. Trata-se, geralmente, de casos aleatórios de doença, sem relação entre si.
+Endemia
+As doenças são chamadas endêmicas quando, em uma área geográfica ou um grupo populacional, apresentam padrão de ocorrência relativamente estável com elevada incidência ou prevalência. Doenças endêmicas, como a malária, estão entre os principais problemas de saúde em países tropicais de baixa renda. Se ocorrerem mudanças nas condições do hospedeiro, do agente ou do ambiente, uma doença endêmica poderá se tornar epidêmica.
+Epidemia
+Epidemia é definida como a ocorrência em uma região ou comunidade de um número de casos em excesso, em relação ao que normalmente seria esperado. Ao descrever uma epidemia, devem ser especificados o período, a região geográfica e outras particularidades da população em que os casos ocorreram. O número de casos necessários para definir uma epidemia varia de acordo com o agente, o tamanho, o tipo e a suscetibilidade da população exposta e o momento e o local da ocorrência da doença.
+Caracterização numérica de uma epidemia
+O procedimento utilizado atualmente em Vigilância Epidemiológica para monitorizar ocorrência irregular na incidência de doença (epidemia) é chamado diagrama de controle. A ideia básica dos diagramas de controle é manter o processo (ocorrência) entre um limite mínimo e um limite máximo de controle. Uma maneira de estimar os limites superior e inferior endêmicos diz respeito à iniciativa de estabelecer um IC de 95% em torno das médias de casos. Deste modo, é necessário utilizar alguma distribuição de probabilidade para materialização desse intervalo “ótimo”. Usualmente, utiliza-se a distribuição normal (z), na qual um IC de ±95% equivale a 1,96 unidade de DP.
+Caracterização temporal e espacial de uma epidemia
+Sabe-se que uma endemia se caracteriza por ser temporalmente ilimitada. A epidemia, ao contrário, é restrita a um intervalo de tempo marcado por começo e fim bem definidos, com retorno das medidas de incidência aos patamares endêmicos observados antes da ocorrência epidêmica. Esse intervalo de tempo pode abranger poucas horas ou dias ou estender-se a anos ou mesmo décadas. Costuma-se designar surto epidêmico quando 2 ou mais casos de uma determinada doença ocorrem em locais circunscritos, como instituições, escolas, domicílios, edifícios, cozinhas coletivas, bairros ou comunidades, aliados à hipótese de que existia, como relação entre eles, mesma fonte de infecção ou de contaminação ou mesmos fatores de risco, mesmo quadro clínico e ocorrência simultânea. Dá-se o nome de pandemia à ocorrência epidêmica caracterizada por uma larga distribuição espacial que atinge várias nações.
+Fatores condicionantes do surgimento das epidemias 
+Na prática, uma epidemia pode surgir quando inexiste uma doença em determinado lugar e aí se introduz uma fonte de infecção ou contaminação (por exemplo, um caso de cólera ou um alimento contaminado), dando início ao aparecimento de casos ou epidemia; quando ocorrem casos esporádicos de uma determinada doença e logo se configura uma inter-relação que contribui para haver aumento na incidência além do esperado; e a partir de uma doença que ocorre endemicamente e alguns fatores desequilibram a sua estabilidade, iniciando uma epidemia.
+Aspectos diferenciais das epidemias
+Existem 2 aspectos básicos para a diferenciação das epidemias: o 1º diz respeito à velocidade com a qual ocorre o processo epidêmico, classificando em epidemia lenta e explosiva; e o 2º se refere à fonte ou origem da contaminação e divide-as em fonte comum (pontual ou persistente) ou fonte progressiva ou propagada.
+
+Respostas
+1. A
+2. D
+3. D
+4. C
+5. D
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX
