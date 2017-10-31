@@ -1,0 +1,448 @@
+diff --git a/epidemio3_6.txt b/epidemio3_6.txt
+index bb40c3b..bcf78ba 100644
+--- a/epidemio3_6.txt
++++ b/epidemio3_6.txt
+@@ -1,40 +1,37 @@
+Vigilância em saúde com ênfase em vigilância epidemiológica[- -]
+Marília Louvison
+Thaís Minett
+Alex Jones F. Cassenote
+Marina Gemma
+
+[-Resumo-]Este capítulo irá abordar um tema de grande relevância para a Saúde Pública, [-que é -]a Vigilância Epidemiológica[-,-]{+:+} um com[---]ponente essencial no controle de doenças [-(em especial as que são de notificação compulsória) -]e planejamento em saúde, tendo como base o perfil de doenças que acometem as popu{+-+}lações. 
+
+1. Introdução
+
+A vigilância em saúde tem por objetivos a observação e a análise permanentes da situação de saúde da população, articu{+-+}lando-se em um conjunto de ações destinadas a controlar determinantes, riscos e danos à saúde de populações que vivem em determinados territórios e garantindo-se a integralidade da atenção, o que inclui tanto a abordagem individual como cole{+-+}tiva dos problemas de saúde. O conceito de vigilância em saúde inclui:[-- -]
+Vigilância e controle das doenças transmissíveis;[-- -]
+Vigilância das doenças e agravos não transmissíveis;[-- -]
+Vigilância da situação de saúde;[-- -]
+Vigilância ambiental em saúde;[-- -]
+Vigilância da saúde do trabalhador{+;+} e
+[- v-]{+V+}igilância sanitária.
+[-Historicamente, a-]{+A+}ntes da criação do Sistema Unificado e Descentralizado de Saúde (SUDS) e do Sistema Único de Saúde (SUS), na década de 1980, a cisão, do ponto de vista político e organizacional, estava bem estabelecida: de um lado, sob a responsabilidade do extinto Instituto Nacional de Assistência Médica da Previdência Social (INAMPS), estavam as ações de assistência à saúde indi{+-+}vidual, do outro, sob o comando do Ministério da Saúde, encontravam-se as ações de natureza coletiva vinculadas, essencial{+-+}mente, à vigilância, prevenção e controle das doenças transmissíveis.
+Após a criação do SUS, o planejamento e a execução de um e outro conjunto de ações passaram a ter um comando único em cada nível de governo, favorecendo a formulação de políticas de saúde mais efetivas. Além disso, esse processo tomou como princípios e diretrizes a universalização do acesso, a descentralização e a integralidade das ações e o controle social. Não obstante, os avanços obtidos, principalmente na organização dos serviços assistenciais, a dicotomia e a fragmentação das ações persistiram por longo tempo, mesmo sob um único comando.
+[-Esse novo modelo de vigilân-]{+O+}c[-ia em saúde tr-]o[-uxe a necessidade de pensa-]r[- na saúde de fo-]r[-ma positiva-]{+e+}, {+e+}n{+t+}ão[- como ausência de doença-], [-m-]a[-s como-] a[-lgo mais abrangente, como -]de[-fine a Organiz-]{+qu+}ação [-Mun-]d[-ial da Saúde (OMS): “complet-]o [-bem-estar fí-]si[-co, mental e social”, o que remete às que-]st[-õ-]e[-s da qualid-]{+m+}a[-de-] de vi[-da, cuja def-]{+g+}i{+lâ+}n{+c+}i[-ção tr-]a[-z um alto grau de-] com[-plexidade.-]
+[-Surgiu, assim,-] [-um-]a nova visão [-com relação a-]{+d+}o processo saúde–doença, em que se pode pensar na assistência em saúde não só como tratamento e/ou cura de doenças, mas como um produto de 2 momentos articulados que podem e devem ser distinguidos: ações suscitadas pela presença da doença em razão de condições de “risco” epidemio{+-+}lógico e da vulnerabilidade de certos grupos; e ações referentes à qualidade de vida, sem considerar apenas a eliminação de doenças ou mesmo a prevenção delas, mas uma ideia mais ampla que engloba a questão da promoção da saúde. É justamente nessa articulação que age a Vigilância em Saúde.
+
+2. Componentes e ações da vigilância em saúde
+
+
+ 
+Figura 1 - Evolução das formas de Vigilância em Saúde no Brasil{+ +}
+
+Sob a ótica estrutural, pode-se falar no resultado de um processo histórico, no âmbito federal, iniciado pelo Centro Nacio{+-+}nal de Epidemiologia (CENEPI), do qual participaram instituições de saúde e de ensino e pesquisa. A Secretaria de Vigilância em Saúde (SVS), criada em 2003, congrega tradicionais campos de atuação e agrega novos. Além da vigilância epidemiológica de doenças transmissíveis, a SVS incorporou as vigilâncias em saúde ambiental, saúde do trabalhador, das doenças e agravos não transmissíveis, análise de situação de saúde e a promoção da saúde (Figura 2). Competem à Secretaria a formulação de políticas e o aprimoramento e a elaboração de sistemas de informação dessas áreas (BRASIL, 2010b).
+
+ {+ +}
+Figura 2 - Ações desenvolvidas pela Secretaria de Vigilância em Saúde
+Fonte: BRASIL, 2010b; com modificações.
+
+Dica
+Os componentes concretos da vigilância em saúde são Vigilância Epidemiológica, Vigilância da Situação de Saúde, Vigilân{+-+}cia em Saúde Ambiental, Vigilância em Saúde do Trabalhador e Vigilância Sanitária. 
+
+Existem várias atividades relacionadas a cada um desses componentes principais (Tabela 1). Deve-se ressaltar que esses componentes não devem agir isoladamente. Muitas vezes, a existência da articulação entre eles auxilia na promoção de um trabalho mais integral à população. Em situações de surtos ou epidemias de fonte alimentar, é comum observar a Vigilância Epidemiológica trabalhar lado a lado com a Sanitária, a fim de esclarecer tal processo.
+
+@@ -43,19 +40,14 @@ Um aspecto fundamental da vigil
+
+Tabela 1 - Componentes da vigilância em saúde no Brasil
+Componentes	Descrições
+Vigilância Epidemiológica	Conjunto de ações que proporciona o conhecimento, a detecção ou a prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual ou coletiva, com a finalidade de reco{+-+}mendar e adotar as medidas de prevenção e controle das doenças ou agravos. Tem como funções, den{+-+}tre outras: coleta e processamento de dados; análise e interpretação dos dados processados; divulga{+-+}ção das informações; investigação epidemiológica de casos e surtos; análise dos resultados obtidos; e recomendações e promoção das medidas de controle indicadas.
+Vigilância da Situação de Saúde	Desenvolve ações de monitorização contínua do país, do estado, da região, do município e do território, por meio de estudos e análises que revelem o comportamento dos principais indicadores de saúde, priorizando questões relevantes e contribuindo para um planejamento de saúde mais abrangente.
+Vigilância em Saúde Am{+-+}biental	Visa ao conhecimento e à detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes do ambiente que interferiram na saúde humana; recomenda e adota medidas de pre{+-+}venção e controle dos fatores de risco relacionados às doenças e outros agravos à saúde, prioritaria{+-+}mente a vigilância da qualidade da água para consumo humano, ar e solo; desastres de origem natural, substâncias químicas, acidentes com produtos perigosos, fatores físicos e ambiente de trabalho.
+Vigilância em Saúde do Trabalhador	Caracteriza-se por ser um conjunto de atividades destinadas à promoção e proteção, recuperação e reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho.
+Vigilância Sanitária	É entendida como um conjunto de ações capazes de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, na produção e circulação de bens e na prestação de serviços de interesse da saúde. Abrange o controle de bens de consumo que, direta ou indiretamente, se relacionem com a saúde, compreendidas todas as etapas e todos os processos, des{+-+}de a produção.
+Fonte: BRASIL, 2010a; com modificações.
+
+As ações específicas da Vigilância em Saúde são voltadas para alimentação saudável, prática corpórea/atividade física, pre{+-+}venção e controle do tabagismo, redução da morbimortalidade em decorrência do uso de álcool e outras drogas, redução da morbimortalidade por acidentes de trânsito, prevenção da violência e estímulo à cultura da paz, além da promoção do desen{+-+}volvimento sustentável.
+No início de 2003, como parte das medidas de reestruturação do Ministério da Saúde, foi criada a SVS, após a extinção de 3 secretarias cujas atribuições foram redistribuídas entre as 5 que as substituíram, o que visava reduzir a fragmentação das ações e conferir maior organicidade à atuação do referido órgão. As atribuições das novas estruturas foram regulamentadas pelo Decreto nº 4.726, de 09.06.2003, que estabeleceu a nova Estrutura Regimental Básica (BRASIL, 2003). 
+A partir de então, a coordenação das atividades de vigilância epidemiológica e de controle de doenças, anteriormente sob responsabilidade do CENEPI da Fundação Nacional de Saúde (Sinete/Funasa), foi transferida para a nova estrutura, vinculada à administração direta do Ministério da Saúde (Figura 3). Essa nova estrutura reuniu todas as secretarias responsáveis pelos componentes básicos da vigilância, permitindo maior flexibilidade e articulação entre eles (BRASIL, 2006).
+
+@@ -63,20 +55,19 @@ A partir de ent
+Figura 3 - Organização da Secretaria de Vigilância em Saúde
+Fonte: BRASIL, 2006; com modificações.
+
+A nova denominação adotada – vigilância em saúde – e o fato de a SVS localizar-se formalmente no mesmo nível organiza{+-+}cional da estrutura responsável pela área de Assistência à Saúde são indícios do desejo de superação das dicotomias entre preventivo e curativo e entre individual e coletivo, e das fragmentações entre práticas que dificultam a construção da inte{+-+}gralidade do modelo assistencial vigente.
+
+Tema frequente de prova
+A reestruturação dos órgãos governamentais voltados à Vigilância em Saúde, em 2003, é tema encontrado com frequên{+-+}cia n[-as pr-]o[-va-]s [-de Residê-]{+co+}nc[-ia-]{+ursos+} [-M-]{+m+}édic[-a-]{+os+}.
+
+Com a criação da Secretaria de Vigilância em Saúde, todas as ações de vigilância, prevenção e controle de doenças, além da promoção à saúde, passaram a se reunir numa única estrutura do Ministério da Saúde, responsável pela coordenação nacional de todas as ações executadas pelo SUS, nas áreas de vigilância epidemiológica de doenças transmissíveis e não transmissíveis, dos programas de prevenção e controle de doenças, de vigilância em saúde ambiental, informações epidemio{+-+}lógicas e análise de situação de saúde. Essas responsabilidades são compartilhadas, segundo as atribuições de cada esfera de governo, com os gestores estaduais e municipais (BRASIL, 2006).[-O movimento de constituição e consolidação da vigilância em saúde no Brasil apresenta, como marcos relevantes, além da instituição do SUS em 1988, a criação, em 1990, do CENEPI, a estruturação do financiamento das ações de vigilância e controle de doenças no SUS e a criação da SVS do Ministério da Saúde, que passou a assumir as funções de coordenar o Sistema Nacional de Vigilância em Saúde, compreendendo ações de vigilância, prevenção e controle de doenças e promoção à saúde (SAÚDE, 2011).-]
+A descentralização das ações de vigilância em saúde para estados e municípios concretizou um marco dessa área a partir de 1999, quando foi publicada a Portaria nº 1.399 (BRASIL, 1999). A partir do ano 2000, todas as 27 Unidades Federativas foram certificadas para a gestão da vigilância em saúde e passaram a receber recursos por intermédio do Fundo Nacional de Saúde de forma regular e automática. Posteriormente, essa Portaria foi atualizada pela Portaria nº 1.172, de 15 de junho de 2004 (BRASIL, 2004).
+Em 2009, houve a necessidade de rever a normativa da Vigilância em Saúde, tendo em vista o Pacto pela Saúde, o proces{+-+}so de planejamento do SUS e a definição de estratégias de integração da Vigilância com a Assistência à Saúde, em especial com a Atenção Primária. Com o objetivo de potencializar o processo de descentralização, fortalecendo estados, municípios e Distrito Federal, foi publicada a Portaria GAB/MS nº 3.252, de dezembro de 2009, que aprova as diretrizes para a execução e o financiamento das ações de vigilância em saúde pelas 3 esferas de gestão do SUS (BRASIL, 2009a). Ela estabelece o Piso Fixo de Vigilância e Promoção da Saúde como a principal fonte de financiamento das ações de vigilância em saúde. Esse piso com{+-+}põe-se de um valor per capita estabelecido com base na estratificação, população e área territorial de cada Unidade Federa{+-+}tiva. As transferências são realizadas de forma regular, da União para estados, municípios e Distrito Federal. A Portaria nº 3.252 cria ainda o Piso Variável de Vigilância e Promoção da Saúde, constituído por incentivo específico, por adesão ou indi{+-+}cação epidemiológica, conforme normatização específica (SAÚDE, 2011).
+
+Pergunta
+2012 - UEL 
+1. “Conjunto de ações que proporciona o conhecimento, a detecção ou a prevenção de qualquer mudança nos fatores de[---]terminantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de pre[---]venção e controle das doenças ou agravos.” 
+[Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância Epidemiológica. Guia de Vigi{+-+}lância Epidemiológica. 7. ed. - Brasília: Ministério da Saúde, 2009 (Série A. Normas e Manuais Técnicos)].
+Essa definição do Ministério da Saúde refere-se à(s): 
+a) Vigilância Sanitária 
+b) Vigilância Epidemiológica 
+@@ -88,55 +79,54 @@ Resposta no final do cap
+3. Vigilância Epidemiológica
+
+A - Conceitos e propósitos
+Vigilância pode ser entendida como a observação contínua da distribuição e das tendências da incidência de doenças me{+-+}diante a coleta sistemática, consolidação e avaliação de informes de morbidade e mortalidade, assim como de outros dados relevantes, e a regulação da disseminação dessas informações a todos os que necessitam conhecê-la (LANGMUIR, 1971). 
+
+Importante
+A Vigilância Epidemiológica refere-se a um conjunto de atividades que proporciona a obtenção de informações funda{+-+}mentais para o conhecimento e a detecção ou a prevenção de qualquer mudança que possa ocorrer nos fatores que determinam e condicionam o processo saúde–doença, em nível individual ou coletivo, com o objetivo de recomendar e adotar de forma oportuna as medidas de prevenção e controle dos agravos. Portanto, pode ser entendida como a obten{+-+}ção de informação para a ação (FISCHMANN, 1994; ALVANHA et al., 2001).
+
+Originalmente impregnadas pelo conceito de polícia médica vigente no século XVIII, as ações de controle de doenças es{+-+}tavam limitadas à vigilância de pessoas, com medidas de isolamento e quarentena aplicadas individualmente, e não de forma coletiva. Posteriormente, diante da intensificação do intercâmbio comercial entre os países, surgiu a necessidade de instituir ações efetivas de caráter coletivo, como a vacinação, o controle de vetores e o saneamento ambiental (GAZE; PEREZ, 2009).
+
+Dica
+As ações de vigilância epidemiológica aplicam-se, em geral, às doenças transmissíveis, mas podem ser estendidas às do{+-+}en[---]ças não transmissíveis (anomalias congênitas, desnutrição, doenças crônico-degenerativas etc.) e a outros agravos (aciden[---]tes e violências). 
+
+Pereira (2002) explica que ela é a forma mais tradicional da utilização da Epidemiologia nos serviços de saúde, constituin-do-se num importante instrumento para o planejamento, a organização e a operacionalização destes, além de subsidiar as normatizações das atividades técnicas correlatas (WALDMAN; MELLO JORGE, 1998; ALVANHA et al., 2001).
+Segundo o Ministério da Saúde, as competências de cada um dos níveis do sistema de saúde (municipal, estadual e fede{+-+}ral) abarcam todo o espectro das funções de vigilância epidemiológica, porém{+,+} com graus de especificidade variáveis. As ações executivas são inerentes ao nível municipal{+,+} e seu exercício exige conhecimento analítico da situação de saúde local. Aos níveis nacional e estadual, cabe conduzir ações de caráter estratégico, de coordenação em seu âmbito de ação e de lon{+-+}go alcance, além da atuação de forma complementar ou suplementar aos demais níveis.
+
+B - Bases históricas
+No Brasil, a preocupação do Estado com doenças transmissíveis e seu controle se deu, primeiramente, no início do século XX, com a realização de campanhas sanitárias que buscavam combater, principalmente, doenças que comprometiam a ativi{+-+}dade econômica, como febre amarela, peste e varíola. Foi na década de 1950 que a expressão “vigilância epidemiológica” foi aplicada ao controle de doenças transmissíveis, significando, originalmente, “observação sistemática e ativa de casos suspeitos ou confirmados de doenças transmissíveis e de seus contatos”. Em 1963, a OMS toma partido do assunto, divulgando algumas das principais ações de vigilância. No Brasil, o desenvolvimento da Vigilância Epidemiológica como um sistema tem aspectos semelhantes ao entendido pela OMS (Tabela 2).
+A Campanha de Erradicação da Varíola – CEV (1966 a 1973) – é reconhecida como marco da institucionalização das ações de vigilância no país, tendo fomentado e apoiado a organização de unidades de Vigilância Epidemiológica na estrutura das secretarias estaduais de saúde. [-O modelo da CEV inspirou a Fundação Serviços de Saúde Pública (FSESP) a organizar, em 1969, um sistema de notificação semanal de doenças selecionadas e a disseminar informações pertinentes em um boletim epidemiológico de circulação quinzenal.-]Tal processo fundamentou a consolidação de bases técnicas e operacionais que possibilitaram o posterior desenvolvimento de ações de grande impacto no controle de doenças evitáveis por imunização. O principal êxito relacionado a esse esforço foi o controle da poliomielite no Brasil, na década de 1980, que abriu perspectivas para a erradi{+-+}cação da doença no continente americano, finalmente alcançada em 1994.
+O SUS incorporou o Sistema Nacional de Vigilância Epidemiológica (SNVE), definindo, em seu texto legal (Lei nº 8.080/90), a Vigilância Epidemiológica como “um conjunto de ações que proporciona o conhecimento, a detecção ou a prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de reco{+-+}mendar e adotar as medidas de prevenção e controle das doenças ou agravos”. [-Além de ampliar o conceito, as ações de vigilância epidemiológica passaram a ser operacionalizadas num contexto de profunda reorganização do sistema de saúde brasileiro, caracterizada pela descentralização de responsabilidades e pela universalidade, integralidade e equidade na prestação de serviços.-]
+
+- Evolução conceitual de vigilância
+Em 1963, a OMS aponta algumas funções da Vigilância Epidemiológica: busca de casos, exames complementares, trata{+-+}mento, investigação epidemiológica e eliminação de focos; e, com o Programa de Erradicação da Varíola (lançado em 1955 e intensificado em 1967), também da OMS, são salientadas mais 2 importantes funções: a busca de todos os casos e a aplicação de medidas de controle. Assim, com o passar do tempo, o papel de sistema de informação que a Vigilância desenvolvia passa a agregar atividades de controle da doença na população, monitorização, avaliação, pesquisa e intervenção. A partir de 1968, com a 1ª Assembleia Mundial da Saúde, a Vigilância passa a englobar o papel de vigiar também outros agravos, além das do{+-+}enças transmissíveis.
+Posteriormente, a Vigilância assume a característica de se voltar ao aspecto relacional dos indivíduos com o meio ambien{+-+}te e com os produtos e serviços consumidos por eles, ou seja, desenvolve-se a noção de vigilância sanitária.
+Logo, não se pode entender como objetivo da Vigilância a mera coleta de dados e análise das informações, mas, também, a responsabilidade de elaborar, com fundamento científico, as bases técnicas que guiarão os serviços de saúde na elaboração e na implementação dos programas de saúde, com a preocupação de contínua atualização e aprimoramento.
+Assim, as práticas de vigilância visam:
+
+Tabela 2 - Práticas de vigilância
+1 - Controlar agravos à saúde das coletividades[-.-]{+;+}
+2 - Monitorizar riscos de adoecimento, detectando precocemente o surgimento de casos novos de doenças ou de novas doenças[-.-]{+; +}
+3 - Monitorizar o surgimento de agravos à saúde consequentes ao uso de substâncias de consumo humano[-.-]{+; +}
+4 - Prevenir agravos e doenças nas populações.
+
+Importante
+Cada sistema de vigilância será responsável pelo acompanhamento contínuo de específicos eventos adversos à saúde, com o objetivo de estabelecer as bases técnicas e as normas para a elaboração e a implementação dos respectivos pro{+-+}gramas de controle.
+
+C - Funções 
+
+Importante
+A Vigilância Epidemiológica tem como propósito primordial fornecer orientação técnica permanente para os profissionais de saúde, que têm a responsabilidade de decidir sobre a execução de ações de controle de doenças e agravos, tornando disponíveis, para esse fim, informações atualizadas sobre a ocorrência dessas doenças e agravos, bem como sobre os fato[---]res que os condicionam, numa área geográfica ou população definida. 
+
+Subsidiariamente, a Vigilância Epidemiológica constitui-se em importante instrumento para o planejamento, a organização e a operacionalização dos serviços de saúde, como também para a normatização de atividades técnicas correlatas (BRASIL, 2009b).
+O sistema de vigilância epidemiológica produz informações que funcionam como um mecanismo de alerta constante so{+-+}bre a incidência de alguns agravos à saúde. A Tabela 3 apresenta os principais propósitos da Vigilância Epidemiológica nesse sentido.
+
+Tabela 3 - Propósitos da Vigilância Epidemiológica
+1 - Produzir dados que permitam conhecer a magnitude e a distribuição de agravos nas populações, apontar grupos mais afetados ou sob maior risco de adoecimento e identificar as variações sazonais e geográficas dos casos e a evolução e a tendência dos agravos ao longo dos tempos.
+2 - Desenvolver e executar ações que permitam controlar o problema da forma mais imediata possível, reduzindo a morbimortalidade dos agravos, evitar que um agravo se dissemine para uma região que não sofreu perda e, sempre que possível, eliminar o problema de saúde.
+3 - Avaliar medidas de Saúde Pública, como o impacto das campanhas de vacinação, cobertura de Papanicolaou, entre outras.
+
+Portanto, cabe[-m-] à Vigilância Epidemiológica fornecer orientação técnica sobre a execução de ações de controle de doen{+-+}ças e agravos e manter atualizadas as informações destes últimos. Além disso, as informações fornecidas pelo sistema de vigi{+-+}lância permitem: planejar ações em saúde, desde promoção da saúde e prevenção de doenças até a recuperação; organizar a melhor forma de execução dessas ações; operacionalizar essas ações; e normatizar as atividades técnicas a serem adotadas diante de um agravo.
+A operacionalização da Vigilância Epidemiológica compreende um ciclo de funções específicas e intercomplementares, desenvolvidas de modo contínuo, permitindo conhecer, a cada momento, o comportamento da doença ou agravo seleciona{+-+}do como alvo das ações, para que as medidas de intervenção pertinentes possam ser desencadeadas com oportunidade e eficácia. As funções da Vigilância Epidemiológica serão explicadas a seguir, uma a uma (Figura 4).
+
+ 
+Figura 4 - Funções da Vigilância Epidemiológica
+@@ -147,35 +137,34 @@ Pergunta
+2. Com relação à Vigilância Epidemiológica, é correto afirmar que: 
+a) rumores e comentários dos habitantes de uma localidade não se constituem em fontes de informação 
+b) a divulgação das informações não se constitui em uma de suas atividades 
+c) um único caso de um dano à saúde desconhecido numa região não é justificativa para realizar uma investigação epi[---]demi{+-+}ológica 
+d) a esquistossomose não é doença de notificação compulsória em áreas endêmicas 
+e) os estudos de coorte e caso-controle não são indicados para elucidação de uma epidemia
+Resposta no final do capítulo
+
+D - Coleta de dados
+A coleta de dados ocorre em todos os níveis de atuação do sistema de saúde. O valor da informação (dado analisado) de{+-+}pende da precisão com que o dado é gerado. Portanto, os responsáveis pela coleta devem ser preparados para aferir a quali{+-+}dade do dado obtido. Tratando-se, por exemplo, da notificação de doenças transmissíveis, são fundamentais a capacitação para o diagnóstico de casos e a realização de investigações epidemiológicas correspondentes (BRASIL, 2009b).
+O propósito básico da coleta de dados é gerar informação, um poderoso instrumento capaz de subsidiar um processo di{+-+}nâmico de planejamento, avaliação, manutenção e aprimoramento das ações desenvolvidas. Para tal, são importantes a dis{+-+}ponibilidade dos dados coletados e sua qualidade. Assim, a partir de fontes confiáveis, é possível, sem o conhecimento da totalidade de casos, acompanhar as tendências do agravo com auxílio de estimativas de subnumeração de casos.
+
+a) Fonte de dados
+
+Dica
+Para obter os dados, a Secretaria de Vigilância em Saúde lança mão de alguns meios, como a notificação compulsória, os prontuários médicos, atestados de óbito, resultados de exames laboratoriais e dados dos bancos de sangue, investigação de novos casos de uma doença e epidemias, inquéritos comunitários, notícias veiculadas pela imprensa, sistemas-sentinela, e faz uma busca ativa das doenças ou agravos da saúde.
+
+
+Tabela 4 - Fontes para coleta de dados para a Vigilância Epidemiológica
+Notificação compulsória	É a principal fonte de dados para a Vigilância Epidemiológica. Trata-se da “comunicação da ocor[---]rência de doença ou agravo à saúde feita à autoridade sanitária por profissionais de saúde ou qualquer cidadão, para fins de adoção de medidas de intervenção pertinentes”.
+Prontuários médicos	As anotações encontradas em prontuários por ocasião das internações são importantes fontes de dados que permitem não só completar informações desconhecidas por ocasião da notifica{+-+}ção do caso como, também, identificar casos não notificados.
+Atestados de óbito	Assim como o prontuário médico, os atestados de óbito permitem identificar casos não notifi{+-+}ca[---]dos, além de funcionarem como mecanismo de alerta para a detecção de epidemias.
+Resultados de laboratórios e bancos de sangue	Os resultados de exames laboratoriais permitem complementar os dados de casos notificados, bem como identificar casos novos, não notificados. Da mesma forma, bancos de sangue permi{+-+}tem realizar a triagem sorológica de doadores de sangue, o que informa sobre casos subclínicos e sobre a importância e a distribuição geográfica da infecção. 
+Investigação de casos e epi[---]demias	Os achados de investigação epidemiológica de casos e de surto complementam as informações da notificação, além de permitirem a descoberta de casos novos.
+Inquéritos comunitários
+	Trata-se de investigações realizadas na comunidade por meio de entrevistas, questionários, exa[---]mes laboratoriais e físicos, entre outros. Têm o intuito de conhecer a frequência, a distribui{+-+}ção e os fatores relacionados a determinado evento, além de permitir detectar surtos e epide{+-+}mias, mudança no comportamento epidemiológico de determinada doença, dificuldade de ava{+-+}liação das coberturas vacinais, entre outros.
+Imprensa e população
+	Informações oriundas dos meios de comunicação e da população são, muitas vezes, o 1º alerta do início de um surto ou epidemia, e essas notícias e rumores devem ser sempre levados em conta, principalmente em regiões onde é precário o sistema de vigilância epidemiológica. 
+Sistemas-sentinela
+	Fornecem informações que permitem monitorizar indicadores-chave na população geral que ser[---]vem de alerta precoce para o sistema de vigilância. Os sistemas-sentinela podem basear-se na ocorrência do evento-sentinela (“detecção da doença prevenível, incapacidade ou morte inespera[---]da, cuja ocorrência serve como sinal de alerta de que a qualidade terapêutica ou pre{+-+}venção deve ser questionada”). Assim, diante de um evento-sentinela, o sistema de vigilância epidemiológica deve ser acionado para que o evento seja investigado e as medidas de preven{+-+}ção adotadas, evitan[---]do a ocorrência de surtos e epidemias facilmente evitáveis.
+Busca ativa
+	É a procura de novos casos, de um evento específico ou não, em locais onde podem, de fato, estar presentes. Assim, por exemplo, é possível realizar a busca ativa de casos em laboratórios, onde se podem identificar casos novos de várias doenças de notificação e analisar o padrão da presença delas no local. Também pode ser caracterizada como busca ativa a investigação de um caso à procura de contatos do caso-índice na família e/ou na comunidade de origem do ca{+-+}so.
+
+b) Tipos de dados
+
+@@ -183,40 +172,38 @@ Dica
+Os tipos de dados obtidos incluem dados demográficos, ambientais e socioeconômicos, dados sobre morbidade e morta-lidade, e as notificações de emergências de saúde pública, surtos e epidemias. 
+
+Tabela 5 - Tipos de dados coletados nos níveis de atuação do sistema de saúde
+Dados demográficos, ambien{+-+}tais e socioeconômicos	Permitem o conhecimento da estrutura populacional por meio de informações como número de habi[---]tantes, de nascimentos e de óbitos, segundo sua distribuição por faixa etária, sexo, doenças, escolari[---]dade, ocupação, situação de moradia e saneamento etc. Permitem também a caracteri{+-+}zação da di[---]nâmica populacional e das condições gerais de vida, às quais se vinculam fatores con{+-+}dicionantes de saúde e doença.
+Morbidade	Permite a identificação imediata ou precoce dos problemas sanitários, mostrando a distribuição de casos na população. Seus dados são obtidos por meio da notificação de casos e surtos, da pro{+-+}dução de serviços ambulatoriais e hospitalares, de investigações epidemiológicas etc. O SNVE deve estimular, cada vez mais, a utilização dos sistemas e bases de dados disponíveis, vinculados à prestação de serviços, para evitar a sobreposição de sistemas de informação e consequente sobrecarga aos níveis de assistência direta à população. As deficiências qualitativas próprias des{+-+}ses sistemas tendem a ser superadas à medida que se intensificam a crítica e o uso dos dados produzidos.
+Mortalidade	É de fundamental importância como indicador da gravidade do fenômeno vigiado, sendo, ainda, no caso particular de doenças de maior letalidade, mais válida do que os dados de morbidade, por se referir a fatos vitais bem marcantes e razoavelmente registrados. Sua obtenção provém de declara[---]ções de óbitos, padronizadas e processadas nacionalmente. Essa base de dados apresenta graus variá[---]veis de cobertura entre as regiões do país, algumas delas com subnumeração elevada de óbitos. Além disso, há proporção significativa de registros sem causa definida, o que impõe cautela na análise dos dados de mortalidade.
+Notificação de emergências de saúde pública, surtos e epidemias	A detecção precoce de emergências de saúde pública, surtos e epidemias ocorre quando o siste{+-+}ma de vigilância epidemiológica local está bem estruturado, com acompanhamento constante da situação geral de saúde e da ocorrência de casos de cada doença e agravo sujeitos a notificação. Essa prática possibilita a constatação de qualquer situação de risco ou indício de elevação do nú{+-+}mero de casos de uma patologia, ou a introdução de outras doenças não incidentes no local e, consequentemente, o diagnóstico de uma situação epidêmica inicial, para a adoção imediata das medidas de controle. Em geral, esses fatos devem ser notificados aos níveis superiores do siste{+-+}ma para que sejam alertadas as áreas vizinhas e/ou para solicitar colaboração, quando necessá{+-+}ria.
+
+E - Processamento dos dados coletados
+Os dados coletados são consolidados segundo as técnicas da Epidemiologia Descritiva, ou seja, descrevendo as caracterís{+-+}ticas de pessoa, tempo e espaço, em tabelas, gráficos, mapas etc., fornecendo, assim, uma visão global do evento. Desta for{+-+}ma, é possível avaliar a ocorrência do evento (“quem?”, “quando?”, “onde?”) e propor associação causal (“por quê?”). Além disso, os dados permitem o cálculo de indicadores, que serão muito úteis no processo de comparação da situação atual do evento com a situação do mesmo evento em anos anteriores e, até mesmo, de estudos epidemiológicos. 
+
+F - Análise e interpretação dos dados processados
+Uma vez processados, os dados devem ser criteriosamente analisados, transformando-se, assim, em informação que ori{+-+}entará as ações de controle.
+
+G - Recomendação das medidas de controle 
+[-A partir da informação, é possív-]{+D+}e[-l partir para a decisão da ação, isto é, a partir da s-]{+f+}i[-tuação atual do evento co-]n[-s-]i[-de-]r[-ado, definem-se-] ações que podem ser realizadas para controlar e/ou eliminar e/ou erradicar o agravo e/ou reduzir os óbitos por esse agravo e/ou reduzir ou evitar sequelas por esse agravo etc. Ou seja, a partir da informação, é elaborada a ação que per{+-+}mitirá o desenvolvimento das funções da Vigilância Epidemiológica: essencialmente, reduzir as taxas de morbimortalidade pelo agravo em questão.
+
+H - Promoção das ações de controle indicadas
+A partir da decisão tomada, é hora de partir para a ação, ou seja, adotar as medidas consideradas necessárias para o con{+-+}trole do agravo e a quebra da cadeia de transmissão, considerando-se, também, possíveis ações para prevenção do agravo no futuro.
+
+I - Avaliação da eficácia e efetividade das medidas adotadas
+Uma vez adotadas as medidas de controle propostas a partir das informações obtidas dos dados analisados, é necessário estabelecer um período após a adoção dessas medidas para realizar nova coleta de dados, novo processamento e nova análi{+-+}se, a fim de observar se as medidas aplicadas causaram alguma modificação [-e/-]ou controle do agravo em questão, alterando, assim, as características de ocorrência do evento.
+
+J - Divulgação de informações pertinentes
+A divulgação das ações realizadas pela Vigilância Epidemiológica e dos resultados consequentes a essas ações é o que se chama de retroalimentação do sistema, um dos pilares para o adequado funcionamento do sistema de vigilância. Essa retroa{+-+}limentação consiste no retorno regular de informações às fontes produtoras de dados, por meio da disseminação periódica de informes epidemiológicos sobre as situações local, regional, estadual e nacional. Tal divulgação pode acontecer por meio de boletins oficiais e de canais da imprensa, principalmente quando se está diante de um surto ou epidemia, pois é funda{+-+}mental retornar à população a situação do agravo ocorrido e se houve ou não o controle desse agravo e, principalmente, o que fazer para que ele não volte a ser epidemia.
+Deste modo, esse conjunto de atividades, que se inicia com a notificação, deve ser sequencial, bem desenvolvido e dota{+-+}do de máxima eficiência, a fim de chegar à modificação e/ou ao controle do evento notificante (Figura 5).
+
+ 
+Figura 5 - Sequência de interação entre as funções da Vigilância Epidemiológica
+
+A eficiência do SNVE depende do desenvolvimento harmônico das funções realizadas nos diferentes níveis (municipal, es{+-+}tadual e federal). Quanto mais capacitada e eficiente a instância local, mais oportunamente poderão ser executadas as medi{+-+}das de controle. Os dados e as informações aí produzidos serão, também, mais consistentes, possibilitando melhor compreen{+-+}são do quadros sanitários estadual e nacional e, consequentemente, o planejamento adequado da ação governamental. Nesse contexto, as intervenções oriundas do nível estadual e, com maior razão, do federal tenderão a tornar-se seletivas, voltadas para questões emergenciais ou que, pela sua transcendência, requerem avaliação complexa e abrangente, com participação de especialistas e centros de referência, inclusive internacionais (BRASIL, 2009b).
+
+Pergunta
+2013 - UFF 
+3. A Portaria nº 841, de 2 de maio de 2012, publicou a Relação Nacional de Ações e Serviços de Saúde (RENASES) no âm[---]bi{+-+}to do Sistema Único de Saúde (“refere-se à identificação de casos novos de doenças transmissíveis, não transmissíveis, por exposição aos riscos ambientais e de atividades de trabalho, de abandono de tratamento, de faltantes a agendamen[---]to aos serviços de saúde, de contatos de casos, entre outros, visando reduzir a cadeia de transmissão e o agravamento da doença, assim como de nascidos vivos e óbitos, para redução do sub-registro”), estando ligada à seguinte ação ou serviço do com{+-+}ponente Vigilância em Saúde: 
+a) interrupção da cadeia de transmissão 
+b) realização de inquéritos epidemiológicos 
+c) notificação de eventos de interesse de saúde pública 
+@@ -226,20 +213,20 @@ Resposta no final do cap
+
+4. Doenças de notificação compulsória
+
+Também chamadas de doenças de notificação obrigatória, são eventos cuja ocorrência deve ser notificada obrigatoria{+-+}mente (por lei) para o órgão de vigilância epidemiológica vigente. Em todos os países, a lista de doenças de notificação é peri{+-+}odicamente revisada e atualizada de acordo com as necessidades locais, podendo haver a inclusão ou a retirada de algumas doenças. Em cada país, há 1 órgão central que toma essas decisões.
+
+Importante
+No Brasil, a determinação de quais doenças devem estar presentes na Lista Nacional de Doenças e Agravos de Notificação Compulsória é responsabilidade do Ministério da Saúde. Habitualmente, essa lista contempla as doenças sujeitas ao Regu{+-+}lamento Sanitário Internacional (RSI) e doenças que são objeto de vigilância da Organização Mundial da Saúde que apre{+-+}sentam importância epidemiológica no país. Além disso, podem fazer parte dessa lista doenças de particular importância para a saúde pública (que necessitam de investigação epidemiológica ou medidas de controle imediatas). 
+
+A Lista Nacional de Doenças e Agravos de Notificação Compulsória é obrigatória em todo o território nacional. Estados e municípios podem acrescentar doenças que apresentam importância epidemiológica em sua região. A notificação compulsó{+-+}ria é obrigatória a todos os profissionais de saúde, ou seja, médicos, enfermeiros, odontólogos, médicos veterinários, biólo{+-+}gos, biomédicos, farmacêuticos e outros, no exercício da profissão, bem como os responsáveis por organizações ou estabele{+-+}cimentos públicos e privados de saúde e de ensino em conformidade com a Lei nº 6.259, de 30 de outubro de 1975.
+O processo de notificação compulsória de doenças no Brasil é vinculado ao Sistema de Informação de Agravos de Notifi{+-+}cação (SINAN), que opera por meio da alimentação de dados coletados a partir de 2 instrumentos padronizados e específicos: a ficha de investigação epidemiológica (Figura 6) e a ficha de notificação (Figura 7). As fichas preenchidas são digitadas em um software específico e compõem um banco de dados com as informações clínicas e epidemiológicas das doenças da lista naci{+-+}onal.
+
+ 
+Figura 6 - Ficha do SINAN para notificação/investigação individual de caso de AIDS, em adultos
+Fonte: SINAN-net.
+
+As fichas de investigação epidemiológica são uma espécie de questionário e seguem uma mesma estrutura com campos abertos e fechados para a descrição de dados de identificação, clínicos, epidemiológicos e laboratoriais. Para cada doença da Lista Nacional de Doenças e Agravos de Notificação Compulsória, existe uma ficha própria com campos específicos.
+As fichas de notificação, costumeiramente chamadas de “ficha SINAN”, são pré-numeradas pelo Ministério da Saúde e en{+-+}viadas aos demais níveis do SNVE. Exceto por sua numeração exclusiva, contêm campos idênticos para qualquer uma das do{+-+}enças da lista nacional e serão sempre anexadas às fichas de investigação específicas para cada doença, atribuindo-se, desta forma, a numeração da ficha de notificação ao caso suspeito da doença em investigação.
+As fichas preenchidas nos serviços de saúde (Unidades Básicas de Saúde e hospitais de referência do Subsistema Nacional de Vigilância Epidemiológica em Âmbito Hospitalar) são encaminhadas para os demais níveis do sistema de vigilância, seguindo o fluxo estabelecido. Cabe ressaltar que, no caso dos hospitais de referência, as fichas são diretamente digitadas no software SINANweb.
+
+  
+@@ -249,26 +236,26 @@ Fonte: SINAN-net.
+A - Critérios para a inclusão de doenças 
+
+a) Magnitude
+Frequência das doenças na população, ou seja, sua incidência e prevalência e seus índices de mortalidade e anos poten{+-+}ciais de vida perdidos.
+
+b) Potencial de disseminação
+Poder de transmissão da doença, por meio de vetores ou outras fontes, colocando em risco a saúde da população.
+
+c) Transcendência
+Existem 3 formas de expressão: severidade[-,-] {+(+}medida por taxas de letalidade, internações e sequelas da doença{+)+}; relevân{+-+}cia social[-,-] {+(+}avaliação subjetiva imputada pela reação da sociedade à doença [-(-]{+- +}medo, indignação, repulsa); relevância econômi{+-+}ca[-,-] {+(+}avaliada por taxas de absenteísmo ao trabalho e às escolas, pelos custos assistenciais e previdenciários etc.{+).+}
+
+d) Vulnerabilidade
+Existência de instrumentos específicos de controle e prevenção da doença.
+
+e) Compromisso internacional
+Compromisso de um país com as metas mundiais de controle, erradicação e eliminação de doenças, bem como com medi{+-+}das que devem ser adotadas diante de agravos inusitados, sob risco de se transformarem em pandemias.
+
+f) Epidemias, surtos e agravos inusitados
+Situações emergenciais em que é obrigatória a notificação imediata dos casos suspeitos para delimitar a área de ocorrên{+-+}cia e adotar medidas de controle aplicáveis, visando à quebra da cadeia de transmissão da doença.
+
+Pergunta
+2010 - UERJ 
+4. A base do Sistema de Vigilância Epidemiológica é a notificação à autoridade sanitária de doenças ou de agravos à saúde por profissionais de saúde ou por qualquer cidadão. A seleção das doenças de notificação compulsória depende da situa[---]ção epidemiológica de cada doença e do avanço do conhecimento sobre sua prevenção e seu controle. Dentre os critérios listados a seguir, identifique aquele não considerado na seleção de um agravo de notificação: 
+a) eficácia terapêutica; possibilidade de implementar tratamento curativo a determinada doença 
+b) potencial de disseminação; poder de transmissão do agente, pela possibilidade de pôr em risco outros indivíduos 
+c) magnitude; medida pela incidência e prevalência de agravos, priorizando aqueles que afetam grandes contingentes populacionais 
+@@ -276,7 +263,7 @@ d) transcend
+Resposta no final do capítulo
+
+B - Lista nacional de doenças de notificação 
+Em 6 de junho de 201[-4-]{+6+}, o Ministério da Saúde aprovou, pela Portaria nº [-1.-]2[-71-]{+04+}, a definição da Lista Nacional de Notificação Compulsória de doenças, agravos e eventos de saúde pública nos serviços de saúde públicos e privados em todo o território nacional (Tabela 6), revogando a antiga Portaria nº 1[-04-]{+.271+}, de [-25-]{+6+} de j[-a-]{+u+}n[-eir-]{+h+}o de 201[-1-]{+4+}.
+Nos seus Art. 1º e 2º, a nova Portaria define a Lista Nacional de Notificação Compulsória de doenças, agravos e eventos de saúde pública nos serviços de saúde públicos e privados em todo o território nacional, nos termos do seu anexo; explica ainda que, para fins de notificação compulsória de importância nacional, serão considerados os seguintes conceitos:
+I - Agravo: qualquer dano à integridade física ou mental do indivíduo, provocado por circunstâncias nocivas, como aciden-tes, intoxicações por substâncias químicas, abuso de drogas ou lesões decorrentes de violências interpessoais, como agres-sões e maus-tratos e lesão autoprovocada.
+II - Autoridades de saúde: o Ministério da Saúde e as Secretarias de Saúde dos estados, Distrito Federal e municípios, res-ponsáveis pela vigilância em saúde em cada esfera de gestão do Sistema Único de Saúde (SUS).
+@@ -289,12 +276,11 @@ VIII - Notifica
+IX - Notificação compulsória negativa: comunicação semanal realizada pelo responsável pelo estabelecimento de saúde à autoridade de saúde, informando que na semana epidemiológica não foram identificados nenhuma doença, agravo ou evento de saúde pública constantes da Lista de Notificação Compulsória.
+X - Vigilância-sentinela: modelo de vigilância realizado a partir de estabelecimento de saúde estratégico para a vigilância de morbidade, mortalidade ou agentes etiológicos de interesse para a saúde pública, com participação facultativa, segundo norma técnica específica estabelecida pela SVS/MS.
+Segundo o Art. 3º, a notificação compulsória é obrigatória para os médicos, outros profissionais de saúde ou responsáveis pelos serviços públicos e privados de saúde, que prestam assistência ao paciente, em conformidade com o art. 8º da Lei nº 6.259, de 30 de outubro de 1975.
+A no[-va Portaria também define que:-]
+[-A no-]tificação compulsória será realizada diante da suspeita ou da confirmação de doença ou agravo, de acordo com o es{+-+}tabelecido em seu anexo, observando-se, também, as normas técnicas estabelecidas pela SVS/MS.
+A comunicação de doença, agravo ou evento de saúde pública de notificação compulsória à autoridade de saúde compe{+-+}tente também será realizada pelos responsáveis por estabelecimentos públicos ou privados educacionais, de cuidado coleti{+-+}vo, além de serviços de hemoterapia, unidades laboratoriais e instituições de pesquisa.
+A comunicação de doença, agravo ou evento de saúde pública de notificação compulsória pode ser realizada à autoridade de saúde por qualquer cidadão que deles tenha conhecimento.
+A NCI deve ser realizada pelo profissional de saúde ou responsável pelo serviço assistencial que prestar o primeiro aten{+-+}dimento ao paciente, em até 24 horas desse atendimento, pelo meio mais rápido disponível.
+A autoridade de saúde que receber a NCI deverá informar, em até 24 horas desse recebimento, às demais esferas de ges{+-+}tão do SUS, o conhecimento de qualquer uma das doenças ou agravos constantes no anexo da Portaria (Tabela 6).
+A NCS será feita à Secretaria de Saúde do município do local de atendimento do paciente com suspeita ou confirmação de doença ou agravo de notificação compulsória. No Distrito Federal, a notificação será feita à Secretaria de Saúde do Distrito Federal.
+A notificação compulsória, independente da forma como realizada, também será registrada em sistema de informação em saúde e seguirá o fluxo de compartilhamento entre as esferas de gestão do SUS estabelecido pela SVS/MS.
+
+@@ -311,77 +297,85 @@ Tabela 6 - Lista nacional de doen
+	Doença ou agravo (ordem alfabética)  	Periodicidade de notificação 
+		Imediata (=24 horas) para	Semanal
+		MS 	SES 	SMS 	
+1	{+a. +}Acidente de trabalho com exposição a material bio{+-+}lógico 				X
+	{+b. +}Acidente de trabalho: grave, fatal e em crianças e adoles[---]centes 			X	
+2	Acidente por animal peçonhento 			X	
+3	Acidente por animal potencialmente transmissor da raiva 			X	
+4	Botulismo 	X	X	X	
+5	Cólera 	X	X	X	
+6	Coqueluche 		X	X	
+7	{+a. +}Dengue (casos) 				X
+	{+b. +}Dengue (óbitos) 	X	X	X	
+8	Difteria 		{+X+}	X	
+9	Doença de Chagas aguda 		X	X	
+10	Doença de Creutzfeldt-Jakob (DCJ) 				X
+11	Doença invasiva por Haemophilus influenzae 		X	X	
+	Doença meningocócica 		X	X	
+12	Doenças com suspeita de disseminação intencional:
+[---]{+a.+} Antraz pneumônico;
+[---]{+b.+} Tularemia;
+[---]{+c.+} Varíola.	X	X	X	
+13	Doenças febris hemorrágicas emergen{+-+}tes/reemergentes:
+[---]{+a.+} Arenavírus;
+[---]{+b.+} Ebola;
+[---]{+c.+} Marburg;
+[---]{+d.+} Lassa;
+[---]{+e.+} Febre purpúrica brasileira.	X	X	X	
+14	{+a. Doença aguda pelo vírus zika				X+}
+{+	b. Doença aguda pelo vírus zika em gestante		X	X	+}
+{+	c. Óbito com suspeita de doença pelo vírus zika	X	X	X	+}
+{+15	+}Esquistossomose 				X
+1[-5-]{+6+}	E[-SP-]{+vento em saúde pública+} que constitua ameaça à saúde pública[- (ver Art. 2º da Portaria nº 1.271) -]	X	X	X	
+1[-6-]{+7+}	Eventos adversos graves ou óbitos pós-vacinação 	X	X	X	
+1[-7-]{+8+}	Febre amarela 	X	X	X	
+1[-8-]{+9+}	{+a. +}Febre {+de +}chikungunya 	{+			+}X
+	{+b. Febre de chikungunya em área de transmissão	+}X	X	[-19-]{+X	+}
+{+	c. Óbito com suspeita de Febre de chikungunya 	X	X	X	+}
+{+20+}	Febre do Nilo Ocidental e outras arboviroses de impor{+-+}tância em Saúde Pública 	X	X	X	
+2[-0-]{+1+}	Febre maculosa e outras riquetsioses 	X	X	X	
+2[-1-]{+2+}	Febre tifoide 		X	X	
+2[-2-]{+3+}	Hanseníase 				X
+2[-3-]{+4+}	Hantavirose 	{+X+}	X	X	
+2[-4-]{+5+}	Hepatites virais 				X
+2[-5-]{+6+}	HIV/AIDS – infecção pelo vírus da imunodeficiência humana ou síndrome da imunodeficiência adquirida 				X
+2[-6-]{+7+}	Infecção pelo HIV em gestante, parturiente ou puérpe{+-+}ra e criança exposta ao risco de transmissão vertical do HIV 				X
+2[-7-]{+8+}	Infecção pelo vírus da imunodeficiência humana  				X
+2[-8-]{+9+}	Influenza humana produzida por novo subtipo viral 	X	X	X	
+[-29-]{+30+}	Intoxicação exógena (por substâncias químicas, inclu{+-+}indo agrotóxicos, gases tóxicos e metais pesados) 				X
+3[-0-]{+1+}	Leishmaniose tegumentar americana 				X
+3[-1-]{+2+}	Leishmaniose visceral 				X
+3[-2-]{+3+}	Leptospirose 			X	
+3[-3-]{+4+}	{+a. +}Malária na região amazônica 				X
+	{+b. +}Malária na região extra-amazônica 	X	X	X	
+3[-4-]{+5+}	Óbito:
+[---]{+a.+} Infantil;
+[---]{+b.+} Materno. 				X
+3[-5-]{+6+}	Poliomielite por poliovírus selvagem 	X	X	X	
+3[-6-]{+7+}	Peste 	X	X	X	
+3[-7-]{+8+}	Raiva humana 	X	X	X	
+3[-8-]{+9+}	Síndrome da rubéola congênita 	X	X	X	
+[-39-]{+40+}	Doenças exantemáticas:
+- Sarampo;
+- Rubéola.	X	X	X	
+4[-0-]{+1+}	Sífilis:
+- Adquirida;
+- Congênita;
+- Em gestantes.				X
+4[-1-]{+2+}	Síndrome da paralisia flácida aguda 	X	X	X	
+4[-2-]{+3+}	Síndrome respiratória aguda grave associada a coronavírus:
+[---]{+a.+} SARS-CoV;
+[---]{+b.+} MERS-CoV. 	X	X	X	
+4[-3-]{+4+}	Tétano:
+[---]{+a.+} Acidental;
+[---]{+b.+} Neonatal.			X	
+4{+5	Toxoplasmose gestacional e congênita				X+}
+4{+6+}	Tuberculose 				X
+4[-5-]{+7+}	Varicela – caso grave internado ou óbito 		X	X	
+4[-6-]{+8+}	Violência: doméstica e/ou outras violências 				X
+	Violência: sexual e tentativa de suicídio 			X	
+Observação: a notificação imediata ou semanal seguirá o fluxo de compartilhamento entre as esferas de gestão do SUS estabelecido pela SVS/MS, pelo MS (Ministério da Saúde), pela SES (Secretaria Estadual de Saúde) ou pela SMS (Secretaria Municipal de Saúde). A notificação imediata no Distrito Federal é equivalente à da SMS.
+{+  Fonte: http://bvsms.saude.gov.br/bvs/saudelegis/gm/2016/prt0204_17_02_2016.html.+}
+
+
+Pergunta
+2012 - UFF 
+@@ -394,85 +388,80 @@ e) as gestantes devem realizar exames para detec
+Resposta no final do capítulo
+
+C - Subnotificação
+Ocorre quando o sistema de vigilância não é informado de um caso. Causas variadas colaboram para a não notificação de casos observados: incerteza do diagnóstico, questões operacionais, descrença no sistema de vigilância, entre outras. É muito conhecido, no meio da Saúde, o termo “ponta do iceberg” (Figura 8) para se referir a uma característica dos dados de notifi{+-+}cação, ou seja, informações de morbidade e mortalidade (especialmente de mortalidade) representam apenas uma parcela da população (a “ponta do iceberg”): a que morre ou que chega ao serviço de saúde e tem o seu diagnóstico feito e registrado corretamente.
+
+ 
+Figura 8 - Características da “ponta do iceberg” dos casos conhecidos de doença
+Fonte: SOARES; ANDRADE; CAMPOS, 2001; com modificações.
+
+D - Notificação negativa 
+Algumas doenças, mesmo na ausência de casos, devem ser notificadas às autoridades, ao que se denomina notificação ne{+-+}gativa. Funciona como um indicador de eficiência do sistema de informações.
+
+E - Notificação imediata e notificação não imediata
+Denominam-se notificações imediatas e não imediatas o que os próprios nomes dizem, ou seja, respectivamente, notifica{+-+}ções feitas no momento da suspeita diagnóstica (imediata) ou no momento da confirmação diagnóstica (não imediata). O que define quando realizar um ou outro tipo de notificação é a rapidez com que a doença pode se espalhar entre as pessoas. 
+
+5. Vigilância {+epidemiológica +}de agravos não transmissíveis
+
+Segundo o Ministério da Saúde, nas últimas décadas, as Doenças Crônicas Não Transmissíveis (DCNTs) passaram a liderar as causas de óbito no país, ultrapassando as taxas de mortalidade por doenças infecciosas e parasitárias na década de 1980. Como decorrência da queda da mortalidade e da fecundidade no país, aumentou o número de idosos, particularmente do grupo com mais de 80 anos. Nos próximos 20 anos, projeções apontam para a duplicação da população idosa no Brasil, de 8 para 15%. O Ministério da Saúde vem desenvolvendo várias ações em articulação com diversos setores governamentais e não governamentais, objetivando promover a qualidade de vida e prevenir e controlar as DCNTs.
+
+Importante
+A Vigilância em Doenças Crônicas Não Transmissíveis reúne o conjunto de ações que possibilitam conhecer a distribuição, a magnitude e a tendência dessas doenças e de seus fatores de risco na população, identificando seus condicionantes sociais, econômicos e ambientais, com o objetivo de subsidiar o planejamento, a execução e a avaliação da prevenção e do controle delas. A prevenção e o controle dessas doenças e dos seus fatores de risco são fundamentais para evitar o crescimento epidêmico delas e suas consequências nefastas para a qualidade de vida e para o sistema de saúde no país (BRASIL, 2005). 
+
+A estruturação da vigilância, do controle e da prevenção de DCNTs no Brasil insere-se no contexto definido pelo Ministé{+-+}rio da Saúde de implementar ações de intervenção em DCNTs, resultando em investimentos financeiros em capacitação de recursos humanos, em equipamentos de informática e em pesquisa epidemiológica contratada junto a centros colaboradores.
+Para a vigilância, a Coordenação Nacional para Vigilância de Doenças e Agravos Não Transmissíveis procurou estabelecer uma estratégia sustentável centrada nas seguintes ações: monitorização das doenças, vigilância integrada dos fatores de risco, indução de ações de prevenção e controle e de promoção à saúde e monitorização e avaliação das intervenções.
+A monitorização da morbimortalidade por DCNT é feita de forma contínua e consta como uma atividade fundamental do sistema de vigilância. Ela é executada em todos os níveis gestores do sistema, do municipal ao nacional. A partir dos indicado{+-+}res pactuados nos Fóruns Regionais de 2004, cada estado deverá produzir um relatório anual com a descrição e a análise das respectivas taxas de mortalidade e de morbidade para DCNTs.
+A monitorização de fatores de risco é a principal atividade sustentada pelo sistema de vigilância. Por meio de inquéritos de saúde de diversos formatos, o Brasil vem constituindo bases de dados que permitem a monitorização contínua dos fatores de risco para DCNT. A proposta que o Brasil vem implementando combina grandes inquéritos de fatores de risco de abran{+-+}gência nacional com inquéritos locais, em municípios, que possam apreender sobre a diversidade de realidades locais de nosso país. Também estão sendo realizados inquéritos com metodologias mais simples e rápidas, como o VIGITEL. Essas medi{+-+}das são aplicadas em grupos particularmente vulneráveis, como escolares e idosos, a fim de orientar ou reorientar políticas específicas de redução de fatores de risco nesses grupos.
+O VIGITEL tem como objetivo monitorizar a frequência e distribuição de fatores de risco e proteção para DCNT em todas as capitais dos 26 estados brasileiros e no Distrito Federal, por meio de entrevistas telefônicas realizadas em amostras probabi{+-+}lísticas da população adulta residente em domicílios servidos por linhas fixas de telefone.
+A indução das ações de prevenção de DCNT e promoção da saúde constitui uma das principais atividades da área de Vigi{+-+}lância. A partir da monitorização contínua da prevalência dos fatores de risco da ocorrência dessas doenças na população e do impacto econômico e social que elas provocam, é possível construir uma forte argumentação sobre a necessidade de se prevenir DCNTs. Devem-se mostrar informações e argumentar para convencer os legisladores e tomadores de decisão de que a prevenção de DCNTs é um investimento de custo extremamente efetivo.
+A monitorização e a avaliação das intervenções também podem ser consideradas elementos-chave na vigilância das DCNTs. As atividades atribuídas a essa monitorização permitem retroalimentar os programas e projetos no sentido de reade{+-+}quar atividades de prevenção e promoção da saúde.
+
+Pergunta
+2010 - UFPE 
+7. A estruturação da vigilância, do controle e da prevenção das Doenças Crônicas Não Transmissíveis (DCNTs) no contexto do Sistema Único de Saúde se fundamenta numa estratégia sustentável centrada em todas as ações a seguir, exceto: 
+a) monitorização das DCNTs por meio, inclusive, dos registros de câncer de base populacional, Sistema de Informações Hos{+-+}pitalares (SIH-SUS) e Sistema de Informações sobre Mortalidade (SIM) 
+b) vigilância integrada dos fatores de risco e de proteção vinculados às DCNTs por meio, entre outros, de inquéritos popu[---]la{+-+}cionais, de abrangência nacional e local, ou dirigidos a grupos específicos, com o propósito de orientar políticas de redu[---]ção de fatores de risco 
+c) monitorização e avaliação das intervenções realizadas com o objetivo de prevenir e controlar as DCNTs, contribuindo para readequar as ações a serem desenvolvidas 
+d) desenvolvimento de um novo banco de dados de natureza epidemiológica, com abrangência nacional, alimentado por notificações de casos de DCNTs
+Resposta no final do capítulo
+
+[-6. -]Resumo
+
+Quadro-resumo
+Vigilância em Saúde
+Conceitos e propósitos
+A Vigilância em Saúde tem por objetivos a observação e a análise permanentes da situação de saúde da população, articulando-se em um conjunto de ações destinadas a controlar determinantes, riscos e danos a populações que vivem em determinados territórios, ga{+-+}rantindo-se a integralidade da atenção, o que inclui tanto a abordagem individual como coletiva dos problemas de saúde.
+Componentes e ações
+Os componentes concretos são Vigilância Epidemiológica, Vigilância da Situação de Saúde, Vigilância em Saúde Ambiental, Vigilância em Saúde do Trabalhador e Vigilância Sanitária. Há várias atividades relacionadas a cada um desses componentes principais. Deve-se ressaltar que esses componentes não devem agir isoladamente. Muitas vezes, a existência da articulação entre eles auxilia na promo{+-+}ção de um trabalho mais integral à população. Em situações de surtos ou epidemias de fonte alimentar, é comum observar a Vigilân{+-+}cia Epidemiológica trabalhar lado a lado com a Sanitária, a fim de esclarecer tal processo.
+Organização da SVS
+Com a criação da SVS, todas as ações de vigilância, prevenção e controle de doenças, além da promoção à saúde, passaram a estar reunidas numa única estrutura do Ministério da Saúde, responsável pela coordenação nacional de todas as ações, executadas pelo SUS, nas áreas de vigilância epidemiológica de doenças transmissíveis e não transmissíveis, dos programas de prevenção e controle de do{+-+}enças, de vigilância em saúde ambiental, informações epidemiológicas e análise de situação de saúde. Essas responsabilidades são compartilhadas, segundo as atribuições de cada esfera de governo, com os gestores estaduais e municipais.
+Gestão descentralizada de vigilância em saúde
+A descentralização das ações de vigilância em saúde para estados e municípios concretizou um marco dessa área a partir de 1999, quando foi publicada a Portaria nº 1.399. A partir do ano 2000, todas as 27 Unidades Federativas foram certificadas para a gestão da vigilância em saúde e passaram a receber recursos por intermédio do Fundo Nacional de Saúde de forma regular e automática. Poste{+-+}ri[---]ormente, essa Portaria foi atualizada pela Portaria nº 1.172, de 15 de junho de 2004.
+Vigilância Epidemiológica
+Vigilância Epidemiológica refere-se a um conjunto de atividades que proporciona a obtenção de informações fundamentais para o co-nhecimento, a detecção ou a prevenção de qualquer mudança que possa ocorrer nos fatores que determinam e condicionam o proces{+-+}so saúde–doença, em nível individual ou coletivo, com objetivo de recomendar e adotar de forma oportuna as medidas de prevenção e controle dos agravos. Portanto, pode ser entendida como a obtenção de informação para a ação.
+Bases históricas
+No Brasil, a CEV (1966 a 1973) é reconhecida como marco da institucionalização das ações de vigilância no país, tendo fomentado e apoiado a organização de unidades de vigilância epidemiológica na estrutura das secretarias estaduais de saúde. O modelo da CEV inspirou a Fundação Serviços de Saúde Pública (FSESP) a organizar, em 1969, um sistema de notificação semanal de doenças selecio{+-+}nadas e a disseminar informações pertinentes em um boletim epidemiológico de circulação quinzenal. Tal processo fundamentou a consolidação, em níveis nacional e estadual, de bases técnicas e operacionais que possibilitaram o futuro desenvolvimento de ações de grande impacto no controle de doenças evitáveis por imunização. O principal êxito relacionado a esse esforço foi o controle da polio{+-+}mielite no Brasil, na década de 1980, que abriu perspectivas para a erradicação da doença no continente americano, alcançada em 1994.
+Funções
+A Vigilância Epidemiológica tem como propósito primordial fornecer orientação técnica permanente para os profissionais de saúde que têm a responsabilidade de decidir sobre a execução de ações de controle de doenças e agravos, tornando disponíveis, para esse fim, informações atualizadas sobre a ocorrência dessas doenças e agravos, bem como sobre os fatores que a condicionam, numa área geo{+-+}gráfica ou população definida. Subsidiariamente, a Vigilância Epidemiológica constitui-se em importante instrumento para planeja{+-+}mento, organização e operacionalização dos serviços de saúde, como também para a normatização de atividades técnicas correlatas. Portanto, cabem à Vigilância Epidemiológica fornecer orientação técnica sobre a execução de ações de controle de doenças e agravos e manter atualizadas as informações destes últimos. Além disso, as informações fornecidas pelo sistema de vigilância permitem plane{+-+}jar ações em saúde, desde a promoção da saúde e prevenção de doenças até a recuperação; organizar a melhor forma de execução dessas ações; operacionalizar essas ações; e normatizar as atividades técnicas a serem adotadas diante de um agravo.
+Doenças de notificação compulsória
+No Brasil, a determinação de quais doenças devem estar presentes na Lista Nacional de Doenças e Agravos de Notificação Compulsória é responsabilidade do Ministério da Saúde. Habitualmente, essa lista contempla as doenças sujeitas ao RSI e doenças que são objeto de vigilância da OMS que apresentam importância epidemiológica no país. Além disso, podem fazer parte dessa lista as doenças de particular importância para a Saúde Pública (que necessitam de investigação epidemiológica ou medidas de controle ime{+-+}diatas).
+Critérios para a inclusão de doenças 
+Os principais critérios para que uma doença seja inserida na lista de notificação são magnitude, potencial de disseminação, transcen{+-+}dência (severidade, relevância social, relevância econômica), vulnerabilidade, compromisso internacional e possibilidade de epidemias, surtos e agravos inusitados.
+Lista nacional de doenças de notificação 
+Em 6 de junho de 2014, o Ministério da Saúde aprovou, pela Portaria nº 1.271, a definição da Lista Nacional de Notificação Compulsó{+-+}ria de doenças, agravos e eventos de saúde pública nos serviços de saúde públicos e privados em todo o território nacional, revogando a antiga Portaria nº 104, de 25 de janeiro de 2011.
+Subnotificação
+Ocorre quando o sistema de vigilância não é informado de um caso. Causas variadas colaboram para a não notificação de casos obser{+-+}vados: incerteza do diagnóstico, questões operacionais, descrença no sistema de vigilância, entre outras.
+Notificação negativa
+Algumas doenças, mesmo na ausência de casos, devem ser notificadas às autoridades, ao que se denomina notificação negativa. Fun{+-+}ciona como um indicador de eficiência do sistema de informações.
+Notificação imediata e notificação não imediata
+Denominam-se notificações imediatas e não imediatas o que os próprios nomes dizem, ou seja, respectivamente, notificações feitas no momento da suspeita diagnóstica (imediata) ou no momento da confirmação diagnóstica (não imediata). O que define quando rea{+-+}lizar um ou outro tipo de notificação é a rapidez com que a doença pode se espalhar entre as pessoas.
+Vigilância Epidemiológica de Agravos Não Transmissíveis
+A Vigilância em DCNTs reúne o conjunto de ações que possibilitam conhecer a distribuição, magnitude e tendência dessas doenças e de seus fatores de risco na população, identificando seus condicionantes sociais, econômicos e ambientais, com o objetivo de subsidiar o planejamento, a execução e a avaliação da prevenção e do controle delas. A prevenção e o controle das DCNTs e seus fatores de risco são fundamentais para evitar um crescimento epidêmico dessas doenças e suas consequências nefastas para a qualidade de vida e o sistema de saúde no país.
+
+Respostas{+ das questões do capítulo+}
+1. B
+2. D
+3. D
+4. A
+5. C
+6. C
+7. D[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]{+	+}

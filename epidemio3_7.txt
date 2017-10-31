@@ -1,0 +1,233 @@
+Transição epidemiológica e demográfica
+Alex Jones F. Cassenote
+Marina Gemma
+
+Resumo
+Neste capítulo, serão abordados temas de discussões muitos atuais e de grande relevância para o planejamento em saúde, planejamento previdenciário e modificações nas próprias características das populações que tendem ao envelhecimento, como é o caso do Brasil. Diante da grande importância do tema, questões sobre o assunto são frequentemente cobradas nas provas de Residência Médica. 
+
+1. Introdução
+
+Neste capítulo, um panorama da situação brasileira será apresentado em 2 aspectos: epidemiológico (frequência de doenças e mortalidade) e demográfico (perfil da população – idade, fecundidade, entre outros). Estudar esse panorama é uma possibilidade de compreender não somente o processo pelo qual passou o perfil de morbimortalidade nesse último século, mas, sobretudo, de estar preparado para o constante processo de modificação que continuará a acompanhar a população de maneira variável.
+As transformações sociais e econômicas ocorridas no Brasil durante o século passado provocaram e vêm provocando mudanças importantes no perfil de ocorrência das doenças na população (BRASIL, 2011). As mudanças nos níveis de mortalidade têm efeito sobre o ritmo de crescimento populacional e modificam significativamente a composição etária, levando a um processo de envelhecimento que aumenta o peso relativo da população idosa. Isso favorece a ocorrência das doenças crônicas e degenerativas, como as neoplasias e as doenças de aparelho circulatório, e modifica a estrutura de mortalidade segundo a causa de óbito (MONTEIRO, 2000).
+
+Importante
+O processo de transição demográfica, com queda nas taxas de fecundidade e natalidade, e um progressivo aumento na proporção de idosos (diminuição das taxas de mortalidade) favoreceram o aumento das doenças crônico-degenerativas (doenças cardiovasculares, câncer, diabetes, doenças respiratórias). A transição nutricional, com diminuição expressiva da desnutrição e aumento do número de pessoas com excesso de peso (sobrepeso e obesidade), e o aumento dos traumas decorrentes das causas externas – violências, acidentes e envenenamentos – foram os fatores responsáveis pelo cenário de mudança que vivenciamos na Epidemiologia Médica (BRASIL, 2011). 
+
+Na 1ª metade do século XX, as doenças infecciosas transmissíveis eram as mais frequentes causas de mortes. A partir de 1960, as Doenças e Agravos Não Transmissíveis (DANTs) tomaram esse papel (BRASIL, 2011).
+Projeções para as próximas décadas apontam para um crescimento epidêmico das DANTs na maioria dos países em desenvolvimento, em particular das doenças cardiovasculares, neoplasias e diabetes tipo 2. Essas doenças respondem pelas maiores taxas de morbimortalidade e por cerca de mais 70% dos gastos assistenciais com a saúde no Brasil, com tendência crescente. Assim, o desenvolvimento de estratégias para o controle das DANTs se tornou uma prioridade para o Sistema Único de Saúde (SUS). A vigilância epidemiológica das DANTs e dos seus fatores de risco é de fundamental importância para a implementação de políticas públicas voltadas para sua prevenção e controle (BRASIL, 2011).
+
+2. Transição demográfica
+
+Com os avanços da Revolução Industrial e seus desdobramentos educacionais, científicos e tecnológicos, ficou claro que o desenvolvimento econômico produz 2 efeitos sobre a população: a) reduz as taxas de mortalidade em geral, e a mortalidade infantil, em particular, e possibilita o aumento da esperança de vida da população; e b) depois de certo tempo do início da queda da mortalidade, as taxas de fecundidade também começam a cair, provocando a diminuição do tamanho das famílias (ALVES; CAVENAGHI, 2008).
+Esse fenômeno, típico do século XX, foi chamado de “transição demográfica”. Um ganho inequívoco foi que a expectativa de vida média da população mundial dobrou em 10 décadas, passando de cerca de 30 anos, em 1900, para mais de 60 anos, em 2000. Nunca, na história, uma melhora das condições de saúde dessa magnitude havia acontecido. No mesmo período, um fenômeno social sem precedentes aconteceu com as taxas de fecundidade do mundo, reduzidas pela metade, passando de algo menos do que 6 filhos por mulher, em 1900, para cerca de 2,8 filhos, em 2000 (ALVES; CAVENAGHI, 2008).
+O modelo de transição demográfica mais difundido foi proposto por Warren Thompson no ano de 1929. Com relação a este, Vermelho e Monteiro (2009) explicam que, inicialmente, ocorre a queda de mortalidade, que irá produzir ganho de vidas humanas em todas as idades, podendo não alterar a estrutura etária de uma população. O fator decisivo para o envelhecimento de uma população é a queda da fecundidade, isto é, a diminuição relativa de contingentes populacionais nas faixas etárias mais jovens e a ampliação da população nas faixas etárias mais idosas. Assim, são identificados 4 estágios da transição demográfica (Tabela 1):
+
+Tabela 1 - Estágios da transição demográfica
+I - Fase pré-industrial ou primitiva 	É aquela na qual há equilíbrio entre as taxas de mortalidade (principalmente infantil) e natalidade, contudo ainda são elevadas.
+II - Fase intermediária 1	É aquela de “divergência de coeficientes”, na qual as taxas de natalidade permanecem altas, enquanto decrescem as taxas de mortalidade. O ritmo de crescimento populacional aumenta nessa fase, caracterizando a chamada “explosão populacional”.
+III - Fase intermediária 2	É aquela de “convergência de coeficientes”, quando a natalidade passa a diminuir em ritmo mais acelerado do que a mortalidade, cujo efeito mais notável é um rápido “envelhecimento” da população.
+IV - Fase moderna ou de pós-transição 	Existe a aproximação dos coeficientes, só que em níveis muito mais baixos. Existe tendência à estabilidade populacional, ou seja, os valores de fecundidade se aproximam do nível de reposição, o que vem aumentando a esperança de vida. Em geral, a população envelhece com a ampliação da proporção de mulheres.
+
+ 
+Figura 1 - Etapas da transição demográfica: a linha azul refere-se à taxa de natalidade, a linha vermelha à taxa de mortalidade e a linha preta ao tamanho da população nas diferentes etapas do processo
+Fonte: http://www.uwmc.uwc.edu/geography/Demotrans/demtran.htm; com modificações.
+
+Existe, atualmente, a discussão sobre uma possível 5ª etapa, em que a mortalidade superará a natalidade, devido ao alto custo de criar filhos (principalmente em países desenvolvidos). As famílias, nesse sentido, optam por um número reduzido de filhos (geralmente 1 ou nenhum). Esse fato levará a população ao crescimento negativo, que será demarcado por maior proporção de idosos em relação aos jovens, podendo acarretar sérios problemas para os planos previdenciários de países nessa fase, além de demandar uma importante reorganização dos serviços de saúde, a fim de atender as necessidades de saúde de uma população mais idosa.
+
+Pergunta
+2014 - INCA 
+1. Na América Latina, e em particular no Brasil, a chamada transição epidemiológica apresenta as seguintes características distintas às observadas em outros países, exceto: 
+a) o perfil de morbimortalidade se mantém característico de distintos padrões 
+b) patologias pouco prevalentes em países industrializados podem adquirir grande importância 
+c) destacam-se distintos padrões, de acordo com a região geográfica 
+d) aumento da importância das doenças crônico-degenerativas e causas externas
+Resposta no final do capítulo
+
+
+- Transição demográfica no Brasil
+A transição demográfica é um dos fenômenos estruturais populacionais importantes que tem marcado a economia e a sociedade brasileira desde a 2ª metade do século passado. É caracterizada pela sua universalidade, mas fortemente condicionada ao contexto histórico em que se realiza nos diferentes países. A diferença com relação aos países desenvolvidos e sua semelhança com os outros em desenvolvimento não esgotam a sua peculiaridade (BRITO, 2008).
+O notável crescimento da população brasileira na 2ª metade do século passado, e que ainda se prolongará nesta 1ª metade do século XXI, mostra com clareza 2 fases da transição demográfica. A 1ª, com um acelerado crescimento demográfico em função do declínio da mortalidade e da manutenção da fecundidade em um patamar extremamente alto, até a 2ª metade dos anos 1960. E a 2ª, quando a fecundidade começa a declinar e o ritmo de crescimento da população inicia a sua desaceleração (BRITO, 2007).
+No Brasil, a transição demográfica tem sido muito mais acelerada do que nos países desenvolvidos, não se diferenciando, entretanto, do que vêm passando outros países latino-americanos e asiáticos. Um bom indicador tem sido o rápido declínio da fecundidade. Comparando o Brasil com a França e a Itália, observa-se um expressivo diferencial nas respectivas taxas de fecundidade total, já no início do século passado, e, nos 2 países europeus, um declínio muito mais suave nos 100 anos seguintes, sendo que as suas transições demográficas já tinham se iniciado no século anterior (BRITO, 2007).
+Entre os anos 1940 e 1960, o Brasil experimentou um declínio significativo da mortalidade, com ênfase para o coeficiente de mortalidade infantil a partir da década de 1970. Pode-se dizer que esse fenômeno ocorreu de maneira desigual nas diferentes grandes regiões do país. Nos últimos anos, por exemplo, notou-se uma brusca queda nesse indicador para as regiões Sul, Sudeste e Centro-Oeste, ao passo que o Norte e o Nordeste ainda mantêm números elevados (Figura 2). 
+Segundo o IBGE (1999), essa queda parece ser fortemente dependente do modelo de intervenção na área das políticas públicas adotado principalmente nos campos da Medicina Preventiva, Medicina Curativa e de Saneamento Básico e, mais recentemente, na ampliação dos programas de saúde materno-infantil, sobretudo os voltados para o pré-natal, parto e puerpério. Além disso, ocorreram a ampliação da oferta de serviços médico-hospitalares em áreas do país até então bastante carentes, as campanhas de vacinação e os programas de aleitamento materno e reidratação oral.
+
+ 
+Figura 2 - Taxas de mortalidade infantil (por 1.000 nascidos vivos) para 1990, 1995, 2000 e 2005
+Fonte: Brasil, 2010; com modificações.
+
+Interessantemente, o mesmo fenômeno não ocorreu com a fecundidade, que se manteve em níveis bastante altos, resultando em uma taxa de natalidade continuamente elevada, cuja queda só veio a iniciar-se nos anos 1970, produzindo, assim, uma população quase estável, jovem e com rápido crescimento (Figura 3). 
+
+Importante
+No Brasil, a partir do final da década de 1960, a redução da fecundidade (que influencia a natalidade), que se iniciou nos grupos populacionais mais privilegiados e nas regiões mais desenvolvidas, generalizou-se rapidamente e desencadeou o processo de transição da estrutura etária, que levará, provavelmente, a uma nova população quase estável, mas desta vez com perfil envelhecido e ritmo de crescimento baixíssimo, talvez negativo (CARVALHO; RODRÍGUEZ-WONG, 2008). 
+
+Carvalho e Rodríguez-Wong (2008) explicam que essa transformação implica a diminuição, em termos relativos (e, às vezes, transitoriamente, em termos absolutos), da população jovem. No caso do Brasil, a presença de crianças com menos de 5 anos reduziu-se, entre 1970 e 1990, de 15 para 11%. A participação do grupo etário de 5 a 9 anos declinou de 14 para 12%. A proporção de crianças nesses 2 grupos de idade continuou a decrescer, chegando, em 2000, a tamanhos similares (cada um representava cerca de 9% da população total). Complementarmente, os grupos mais velhos aumentaram sua participação: a população de 65 anos ou mais, por exemplo, aumentou de 3,1%, em 1970, para 5,5%, em 2000. 
+
+ 
+Figura 3 - Taxas brutas de natalidade, mortalidade e crescimento populacional
+Fonte: de 1872 a 2000, IBGE; a partir de 2000, United Nations Population Division – The 2008 Revision Population Database; com modi-ficações.
+
+Tema frequente de prova
+A progressão da estrutura etária no Brasil, com a passagem de um tipo de pirâmide para outro (pirâmide invertida), é um tema frequente nas provas de Residência Médica.
+
+Segundo Brito (2007), as modificações na estrutura etária do Brasil têm sido notáveis, indicando uma aceleração do envelhecimento da população. As pirâmides etárias, entre 1980 e 2050, mostram, no século XXI, cada vez mais, a sua passagem de uma forma típica de um país com forte predominância de sua população jovem (pirâmide com base larga e ápice estreito) para um novo formato, semelhante ao dos países hoje desenvolvidos, onde a proporção de idosos tende a superar a dos jovens (base estreitada e ápice alargado).
+Em um retrato atual, esse fenômeno já pode ser visto de maneira bem mais clara (Figura 4).
+
+ 
+Figura 4 - Distribuição etária relativa para o Brasil
+Fonte: http://www.ibge.gov.br/home/estatistica/populacao/projecao_da_populacao/2008/piramide/piramide.shtm; com modificações.
+
+Os resultados do Censo 2010 indicaram um total de 190.732.694 pessoas para a população brasileira em 1º de agosto, data de referência. Em comparação com o Censo 2000, ocorreu um aumento de 20.933.524 pessoas. Esse número demonstra que o crescimento da população brasileira no período foi de 12,3%, inferior ao observado na década anterior (15,6% entre 1991 e 2000). Esse censo mostra também que a população é mais urbanizada do que há 10 anos: em 2000, 81% dos brasileiros viviam em áreas urbanas, ao passo que agora são 84% (IBGE, 2010).
+A relação entre os sexos também se modificou, uma vez que existem agora 95,9 homens para cada 100 mulheres, ou seja, existem 3,9 milhões de mulheres a mais do que homens no Brasil. Em 2000, para cada 100 mulheres, havia 96,9 homens. A população brasileira é composta por 97.342.162 mulheres e 93.390.532 homens. A expectativa de vida para ambos os sexos subiu de 70 anos, em 1999, para 73,1 anos, em 2010 (IBGE, 2010).
+
+ 
+Figura 5 - Pirâmide etária da população brasileira
+Fonte: IBGE, 2010; com modificações.
+
+Dica
+A estrutura etária atual é marcada por uma grande proporção de mulheres em idade reprodutiva, o que favorece o crescimento populacional, apesar dos baixos níveis de fecundidade atualmente prevalentes (RODRÍGUEZ-WONG; CARVALHO, 2006). Devido a isso, ainda se deve esperar um crescimento expressivo da população brasileira nas próximas décadas, em razão dos efeitos da fecundidade passada sobre a estrutura etária da população (BRITO, 2007).
+
+As projeções para 2050 indicam que a população brasileira será de 253 milhões de habitantes, a 5ª maior do planeta, abaixo apenas da Índia, China, Estados Unidos e Indonésia. Da década de 1970 do século passado até a atual, a população brasileira ainda está inserida em seu grande ciclo de crescimento absoluto, com acréscimos médios anuais superiores a 2,5 milhões de habitantes, e, na próxima década, esses acréscimos serão ainda superiores a 2 milhões. Contudo, como previsto, as taxas de crescimento vêm se reduzindo nesse mesmo período, e espera-se que, na última década dessa 1ª metade de século, ou seja, entre 2040 e 2050, essa taxa seja menor do que 0,5% ao ano e, na década seguinte, em torno de zero (BRITO, 2007).
+
+Importante
+A transição demográfica é um dos principais fatores que acarretam a transição epidemiológica, o que significa que o perfil de doenças da população muda de modo radical, pois se deve aprender a controlar primordialmente as doenças do idoso. Em um país essencialmente jovem, as doenças são caracterizadas por eventos causados por moléstias infectocontagiosas, cujo modelo de resolução é baseado no dualismo cura–morte. O perfil de doenças no idoso muda para o padrão de doen-ças crônicas. 
+
+Nessa situação de transição demográfica, devemos considerar a possibilidade de compensação/não compensação. O modelo de não compensação da doença crônica inclui maior disfunção, dependência e quedas em relação ao de compensação (NASRI, 2008).
+
+Pergunta
+2015 - UFSC 
+2. Diversos países do mundo, inclusive o Brasil, passaram e/ou têm passado por profundas alterações em seus perfis de morbimortalidade, configurando a transição epidemiológica. Segundo Schramm et al. (2004), são consideradas caracterís-ticas da transição epidemiológica: 
+I - Substituição da morbidade por doenças transmissíveis por doenças não transmissíveis e causas externas 
+II - Alteração da carga de morbimortalidade dos grupos mais jovens aos grupos mais idosos 
+III - Mudança de uma situação em que há predomínio da mortalidade para outra na qual a morbidade é dominante 
+Está(ão) correta(s): 
+a) I, II 
+b) I, III 
+c) II, III 
+d) I, II, III 
+e) nenhuma das anteriores
+Resposta no final do capítulo
+
+3. Transição epidemiológica
+
+Dica
+Entendem-se por “transição epidemiológica” as mudanças ocorridas no tempo, nos padrões de morte, na morbidade e na invalidez que caracterizam uma população específica e que, em geral, ocorrem em conjunto com outras transformações demográficas, sociais e econômicas (SANTOS-PRECIADO et al., 2003; SCHRAMM et al., 2004).
+
+Essa transição pode ser dividida em 4 principais estágios, com um 5º em potencial (VERMELHO; MONTEIRO, 2009):
+
+Tabela 2 - Estágios
+1º estágio	Período das pragas e da fome – níveis de mortalidade e fecundidade elevados com predominância de doen-ças infecciosas e parasitárias, desnutrição e problemas de saúde reprodutiva (nesse período, ocorre cresci-mento populacional lento, demarcado pela esperança de vida oscilando entre 20 e 40 anos e por taxas de natalidade e mortalidade elevadas)
+2º estágio	Período do desaparecimento das pandemias de doenças infectocontagiosas com mortalidade em declínio, acompanhado por queda de fecundidade (possui variações importantes no espaço e no tempo)
+3º estágio	Período das doenças crônico-degenerativas e causas externas (provocadas pelo homem), com mortalidade e fecundidade em baixa
+4º estágio	Período do declínio da mortalidade por doenças cardiovasculares, envelhecimento populacional, modifica-ções no estilo de vida, ocorrência de doenças emergentes e ressurgimento de doenças
+5º estágio	Período de longevidade paradoxal, emergência de doenças enigmáticas e capacitação tecnológica para a sobrevivência do inapto
+
+Sob a óptica de um dos modelos de transição epidemiológica corrente, a chamada “transição clássica das sociedades ocidentais”, durante os últimos 200 a 300 anos, os primeiros 4 estágios ocorreram quase sequencialmente nas sociedades do Ocidente, com apenas pequenas superposições (VERMELHO; MONTEIRO, 2009).
+Segundo Schramm et al. (2004), o processo pode ser sintetizado em 3 mudanças básicas: substituição das doenças transmissíveis por doenças não transmissíveis e causas externas; deslocamento da carga de morbimortalidade dos grupos mais jovens aos grupos mais idosos; e transformação de uma situação em que predomina a mortalidade para outra na qual a morbidade é dominante.
+	
+Importante
+Deste modo, a definição da transição epidemiológica deve ser considerada componente de um conceito mais amplo, cha-mado transição da saúde, que inclui elementos das concepções e dos comportamentos sociais, correspondentes aos as-pectos básicos da saúde nas populações humanas. 
+
+Muitos epidemiologistas compactuam com a ideia de que existe uma correlação direta entre os processos de transição epidemiológica e demográfica. Sabe-se que, inicialmente, o declínio da mortalidade se concentra seletivamente entre as doenças infecciosas e tende a beneficiar os grupos mais jovens da população, que passam a conviver com fatores de risco associados às doenças crônico-degenerativas, e, na medida em que cresce o número de idosos e aumenta a expectativa de vida, as doenças não transmissíveis tornam-se mais frequentes (CHAIMOWICZ, 1997; SCHRAMM et al., 2004).
+
+- Transição epidemiológica no Brasil
+No Brasil, a transição epidemiológica não tem ocorrido de acordo com o modelo experimentado pela maioria dos países industrializados, e mesmo por vizinhos latino-americanos como Chile, Cuba e Costa Rica. 
+
+Importante
+Há uma superposição entre as etapas nas quais predominam as doenças transmissíveis e crônico-degenerativas. A reintro-dução de doenças como dengue e cólera ou o recrudescimento de outras como a malária, a hanseníase e as leishmanioses indicam uma natureza não unidirecional denominada contratransição. O processo não se resolve de maneira clara, criando uma situação em que a morbimortalidade persiste elevada para ambos os padrões, caracterizando uma transição prolon-gada. 
+
+Schramm et al. (2004) acrescentam que o envelhecimento rápido da população brasileira a partir da década de 1960 fez que a sociedade deparasse com um tipo de demanda por serviços médicos e sociais outrora restrito aos países industrializa-dos. O Estado, ainda às voltas em estabelecer o controle das doenças transmissíveis e a redução da mortalidade infantil, não foi capaz de desenvolver e aplicar estratégias para a efetiva prevenção e o tratamento das doenças crônico-degenerativas e suas complicações, levando a uma perda de autonomia e qualidade de vida (CHAIMOWICZ, 1997).
+A mortalidade por causas é o indicador que melhor caracteriza a transição epidemiológica, embora sejam de importância as abordagens por idade e por sexo. No Brasil, observando-se a evolução da mortalidade proporcional pelas principais causas, pode-se ter ideia da mudança na estrutura de mortalidade ocorrida entre 1930 e 2000 (VERMELHO; MONTEIRO, 2009). Repare, sobretudo, que o comportamento das doenças infecciosas e parasitárias vem mudando ao longo das décadas, em decorrência do avanço técnico na área de Saúde, de medidas de controle do meio ambiente e progressos na assistência à saúde. Já as doenças crônico-degenerativas se destacam, sendo que as doenças do aparelho circulatório representam, desde a década de 1990, mais de 30% de todos os óbitos (Figura 6).
+Em 1980, a principal causa de morte era a decorrente de doenças do aparelho circulatório, o que permaneceu em 2000. Dentre os 10 principais grupos de causas, foram observadas algumas mudanças significativas no ranking entre 1980 e 2000. Uma dessas alterações é o aumento da participação das neoplasias. Em 1980, essa causa correspondia ao 5º lugar, passando ao 3º em 2000. Outras mudanças importantes foram o aumento das mortes por doenças do aparelho respiratório e a redução das infecciosas e parasitárias (BRASIL, 2005 – Tabela 3).
+
+ 
+Figura 6 - Mortalidade proporcional por causas no Brasil
+Fonte: SILVA et al., 2003; com modificações.
+
+Pergunta
+2015 - HIVS 
+3. São características da transição epidemiológica no Brasil, exceto: 
+a) redução da incidência de neoplasias 
+b) aumento da incidência das doenças crônico-degenerativas 
+c) redução da incidência das doenças infecciosas 
+d) aumento da mortalidade por causas externas 
+e) redução da mortalidade infantil
+Resposta no final do capítulo
+
+Em 2008, quase 60% dos óbitos estavam concentrados em causas relacionadas com o aparelho circulatório, neoplasias e aparelho respiratório. Causas infecciosas e parasitárias e afecções perinatais representaram, no mesmo ano, 7,4%, o que corresponde a uma redução percentual de 64% em relação a 1980. Afora as 9 maiores causas de óbitos definidas, os demais capítulos da 10ª edição da Classificação Internacional de Doenças (CID-10) representam apenas 5,1% do total. As causas ex-ternas continuam a representar uma importante causa de óbitos no Brasil, com aumento expressivo de participação de algu-mas regiões específicas (Tabela 4).
+
+Tabela 3 - Ranking das principais causas de morte no Brasil nos anos de 1980 e 2000
+1980
+- Doenças do aparelho circulatório;
+- Sintomas, sinais e afecções mal definidos;
+- Causas externas;
+- Doenças infecciosas e parasitárias;
+- Neoplasias;
+- Doenças do aparelho respiratório;
+- Algumas afecções originadas no período perinatal;
+- Doenças endócrinas, nutricionais e metabólicas;
+- Doenças do aparelho digestivo;
+- Doença do sistema nervoso e dos órgãos do sentido.
+2000
+- Doenças do aparelho circulatório;
+- Sintomas, sinais e afecções mal definidos;
+- Neoplasias (tumores);
+- Causas externas de morbidade e mortalidade;
+- Doenças do aparelho respiratório;
+- Doenças endócrinas, nutricionais e metabólicas;
+- Algumas doenças infecciosas e parasitárias;
+- Doenças do aparelho digestivo;
+- Algumas afecções originadas no período perinatal;
+- Doenças do aparelho geniturinário.
+Fonte: Brasil, 2005; com modificações.
+
+Tabela 4 - Cinco primeiras causas de óbito segundo grandes grupos (Brasil e regiões, 2008)
+	Brasil	Norte	Nordeste	Centro-Oeste	Sudeste	Sul
+1ª	Doenças do aparelho circulatório
+2ª	Neoplasias	Causas externas	Neoplasias
+3ª	Causas externas	Neoplasias	Doenças do aparelho respiratório	Causas externas
+4ª	Doenças do aparelho respiratório	Causas externas	Doenças do aparelho respiratório
+5ª	Doenças endócrinas, nutri-cionais e metabólicas	Doenças infecciosas e parasitárias	Doenças endócrinas, nutricionais e metabólicas
+Fonte: Brasil, 2010; com modificações.
+
+Com relação à idade, a mortalidade proporcional em menores de 1 ano, que representava, em 1980, cerca de 25% de todos os óbitos, em 2008 caiu para menos de 5%, enquanto nas idades a partir de 80 anos passou de 10% para mais de 30%. Para Vermelho e Monteiro (2009), as diferenças regionais importantes devem ser consideradas efeitos das crises econômicas e sociais vividas pela população de cada região brasileira e mesmo em cada estado e município.
+Para o Brasil e todas as regiões, é evidente um pico de mortalidade entre os homens de idades entre 20 e 29 anos que não é observado entre as mulheres. Em 2008, os óbitos masculinos nessa faixa etária corresponderam a 7,2% do total de óbitos de homens no Brasil: 5,8% na região Sudeste, 6,1% na Sul, 8,5% na Centro-Oeste, 9% na Nordeste e 11% na Norte (BRASIL, 2010). Esse excesso de mortalidade entre os homens jovens pode ser atribuído, em grande parte, aos óbitos por causas externas, que incluem aqueles por violências e acidentes.
+
+Pergunta
+2013 - SANTA CASA-SP 
+4. Considerando os desafios que os processos de transição demográfica e epidemiológica em curso no Brasil impõem à organização do sistema público de saúde, é incorreto afirmar que: 
+a) o progressivo excedente de leitos obstétricos convive com a carência de leitos de cuidado intensivo neonatal 
+b) a prevalência de transtornos mentais entre jovens requer profissionais com conhecimento e centros de atenção à saú-de mental voltados para esse público específico 
+c) o diagnóstico precoce de doenças potencialmente crônicas ou a sobrevivência de crianças com sequelas permanentes exigem especificidade na assistência à saúde da criança 
+d) desenvolver estratégias de cuidado continuado à saúde do idoso em áreas urbanas e rurais é prioridade
+e) pronta e adequada assistência ao trauma deve ser prioridade, pois as causas externas respondem por mais de 50% dos anos de vida perdidos ajustados por incapacidade (DALYs)
+Resposta no final do capítulo
+
+A substituição do padrão epidemiológico, por meio da diminuição das mortes por doenças infecciosas, que determinou quedas drásticas dos coeficientes de mortalidade por todas as causas, pelo padrão de morte de doenças cardiovasculares significou ganho de anos de vida potenciais que persistem. No entanto, para os jovens e adultos do sexo masculino, a transição não se deu da mesma forma, e as grandes epidemias de doenças infecciosas e parasitárias foram ao longo do tempo substituídas por outras como a violência, responsável por grande perda de vida na atualidade (VERMELHO; MONTEIRO, 2009).
+
+Tema frequente de prova
+A mudança do padrão epidemiológico no Brasil, com a consequente queda das taxas de mortalidade é tema frequente nas provas de Residência Médica.
+
+4. Resumo
+
+Quadro-resumo
+Introdução
+Sabe-se que as transformações sociais e econômicas ocorridas no Brasil durante o século passado provocaram e vêm provocando mudanças importantes no perfil de ocorrência das doenças na população. Os estudiosos da Epidemiologia acreditam que essa mu-dança esteja intrincada com outros processos, sendo a modificação do perfil demográfico da população e a evolução da Medicina diagnóstica e terapêutica os melhores exemplos.
+Transição demográfica
+Com os avanços da Revolução Industrial e seus desdobramentos educacionais, científicos e tecnológicos, foi ficando claro que o desenvolvimento econômico produz 2 efeitos sobre a população: a) reduz as taxas de mortalidade, em geral, e mortalidade infantil em particular, e possibilita o aumento da esperança de vida da população; e b) depois de certo tempo do início da queda da mortali-dade, as taxas de fecundidade também começam a cair, provocando a diminuição do tamanho das famílias.
+Transição demográfica no Brasil
+A transição demográfica, no Brasil, tem sido muito mais acelerada do que nos países desenvolvidos, não se diferenciando, entretan-to, do que vêm passando outros países latino-americanos e asiáticos. Entre os anos 1940 e 1960, o Brasil experimentou um declínio significativo da mortalidade, com ênfase para o coeficiente de mortalidade infantil a partir da década de 1970. Pode-se dizer que esse fenômeno ocorreu de maneira desigual nas diferentes grandes regiões do país. Nos últimos anos, por exemplo, notou-se uma brusca queda nesse indicador para as regiões Sul, Sudeste e Centro-Oeste, ao passo que o Norte e o Nordeste ainda mantêm con-centrações significativamente elevadas.
+Transição epidemiológica
+O processo de transição epidemiológica pode ser sintetizado em 3 mudanças básicas: substituição das doenças transmissíveis por doenças não transmissíveis e causas externas; deslocamento da carga de morbimortalidade dos grupos mais jovens aos grupos mais idosos; e transformação de uma situação em que predomina a mortalidade para outra na qual a morbidade é dominante.
+Transição epidemiológica no Brasil
+No Brasil, a transição epidemiológica não tem ocorrido de acordo com o modelo experimentado pela maioria dos países industriali-zados e mesmo por vizinhos latino-americanos como Chile, Cuba e Costa Rica. Há uma superposição entre as etapas nas quais pre-dominam as doenças transmissíveis e crônico-degenerativas; a reintrodução de doenças como dengue e cólera ou o recrudescimento de outras como a malária, a hanseníase e as leishmanioses indicam uma natureza não unidirecional denominada contratransição; o processo não se resolve de maneira clara, criando uma situação em que a morbimortalidade persiste elevada para ambos os pa-drões, caracterizando uma transição prolongada; e as situações epidemiológicas de diferentes regiões em um mesmo país tornam-se contrastantes.
+
+Respostas
+1. D
+2. D
+3. A
+4. E
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX 
