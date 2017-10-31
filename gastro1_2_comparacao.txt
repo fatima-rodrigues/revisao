@@ -1,0 +1,447 @@
+diff --git a/gastro1_2.txt b/gastro1_2.txt
+index ae9bdc1..7bb6f34 100644
+--- a/gastro1_2.txt
++++ b/gastro1_2.txt
+@@ -1,126 +1,122 @@
+Doença do refluxo gastroesofágico
+Fábio Carvalheiro[- / -]
+Eduardo Bertolli
+Yeda Mayumi Kuboki[- / -]
+Rodrigo Biscuola Garcia
+Lúcia C[-.-]{+láudia Pereira+} Barcellos[- Kunen-]
+
+[-Resumo-]Neste capítulo, será abordada a doença do refluxo gastroesofágico (DRGE), doença extremamente comum na prática clíni[---]ca diária que decorre de fluxo retrógrado de conteúdo gastroduodenal para o esôfago e/ou órgão adjacentes. Os princi[---]pais mecanismos fisiopatológicos relacionados são relaxamento transitório do Esfíncter Esofágico Inferior (EEI), que au[---]menta com a distensão gástrica e a posição ortostática, hipotonia do EEI (pressão <10mmHg), ruptura anatômica da junção esofagogástrica (presença de hérnias hiatais por deslizamento, paraesofágicas ou mistas), obesidade (au{+-+}mento da pressão intragástrica, predisposição a hérnias hiatais e aumento na frequência de relaxamentos transitórios do EEI) e outras causas (intervenções cirúrgicas como cardiomiotomias, vagotomias e gastrectomias, exercícios físicos intensos, gravidez, tosse), além de diminuição do tempo de esvaziamento esofágico e falha nos mecanismos de defesa contra a injúria esofágica. [-Para a-]{+À+} investigação {+d+}a história e manifestações clínicas[-,-] devem ser somadas a endoscopia digesti{+-+}va alta para o diagnóstico de esofagite e pHmetria para o diagnóstico de refluxo ácido, sendo a manometria padrão-ouro para a visualização de dis[---]funções esofágicas. Questões, em geral, cobram as classificações endoscópicas: de Sa{+-+}vary-Miller modificada e de Los Angeles, esta mais difundida. O tratamento clínico abarca mudança comportamental, e o farmacológico preconiza o uso de inibidor da bomba de prótons em dose plena, pelo período de 4 a 8 semanas. O tratamento cirúrgico está indicado para impossibilitados de darem continuidade ao tratamento clínico, pacientes com necessidade de tratamento contínuo, aque[---]les com menos de 40 anos que optam pela cirurgia e refratários ao inibidor, com confirmação pelo exame de pHmetria de 24 horas e que têm condições cirúrgicas. O procedimento utiliza a fun{+-+}doplicatura total tipo Nissen ou parcial tipo Toupet-Lind. Nas provas, o assunto é bastante abordado, principalmente em seus aspectos de diagnóstico e indicação de trata[---]mento clínico ou cirúrgico. 
+
+1. Introdução
+
+{+	+}A doença do refluxo gastroesofágico (DRGE) é uma das desordens mais comuns na prática clínica. Uma revisão sistemática evidenciou que a prevalência de DRGE (pirose e/ou regurgitação pelo menos 1 vez por semana) no mundo ocidental foi entre 10 e 20% e menor do que 5% na Ásia. No Brasil, um estudo de base populacional mostrou prevalên{+-+}cia de pelo menos 12%. 
+
+2. Definição
+
+{+	+}A DRGE é uma afecção crônica decorrente do fluxo retrógrado de parte do conteúdo gastroduodenal para esô{+-+}fago e/ou órgãos adjacentes, acarretando variável espectro de sintomas e/ou sinais esofágicos e/ou extraesofágicos, associados ou não a lesões teciduais (III Consenso Brasileiro da Doença do Refluxo Gastroesofágico). 
+
+3. Fisiopatologia
+
+{+	+}A DRGE surge da quebra do equilíbrio entre os fatores de proteção e de agressão, em associação à falha dos me{+-+}canismos de contenção do refluxo. A extensão dos sintomas e a injúria mucosa são proporcionais à frequência dos eventos de refluxo, à duração da acidificação da mucosa e à potência cáustica do fluido refluído. A integridade da mu{+-+}cosa em indivíduos normais reflete um balanço entre os fatores agressores (refluxo ácido, potência do refluxato) e os fatores de proteção (clareamento ácido esofágico, integridade da mucosa).
+
+ 
+Figura 1 - Fisiopatologia da doença do refluxo gastroesofágico
+
+Importante
+O mecanismo dominante do DRGE varia como função da severidade da doença. O relaxamento transitório do E[-sfíncter Esofágico Inferior (E-]EI[-)-] predomina na doença leve, e os mecanismos associados à hérnia hiatal e/ou fraqueza esfincteria[---]na predo{+-+}minam na doença mais severa. 
+
+A - Relaxamento transitório do [-EEI-]{+esfíncter esofágico inferior+}
+{+	+}É responsável por essencialmente todos os episódios em indivíduos com pressão do E{+sfíncter +}E{+sofágico +}I{+nferior (EEI)+} normal no momento do refluxo. Ocorre sem associação à contração faríngea, não é acompanhado por peristalse esofágica e persiste por períodos mais longos (10 segundos) do que os relaxamentos do EEI induzidos pela deglutição.
+
+Dica
+A frequência dos relaxamentos transitórios do EEI está aumentada na distensão gástrica e na posição ortostática, que é a posição em que mais ocorrem os eventos de refluxo.[- -]
+
+{+	+}
+{+	+}O relaxamento transitório é uma resposta motora integrada envolvendo não somente o relaxamento do EEI, mas também a inibição da crura diafragmática, o encurtamento do esôfago pela contração da sua musculatura longitudinal e a contração do diafragma costal. É um reflexo ativo mediado pelo vago. A hipótese é que o fator determinante para o refluxo não seja o nú[---]mero aumentado de relaxamentos transitórios, e sim uma proporção aumentada de relaxamentos associados ao refluxo áci[---]do, oposto àquele refluxo somente gasoso.
+
+B - Hipotonia do [-EEI-]{+esfíncter esofágico inferior+}
+{+	+}O EEI é um segmento de musculatura lisa tonicamente contraída de 2 a 3cm de extensão no esôfago distal. A pressão normal de repouso varia de 10 a 30mmHg, sendo menor no período pós-prandial e maior à noite.
+
+Dica
+Ocorre hipotonia do EEI se pressão <10mmHg.
+
+{+	+}Somente uma minoria dos indivíduos com DRGE tem hipotensão grosseira do EEI (<10[- -]mmHg). Fatores que podem reduzir a pressão do EEI são: distensão gástrica, colecistocinina, alimentos (gordura, cafeína, chocolate, álcool), taba{+-+}gismo e drogas. Portanto, muitos pacientes {+a+}p[-os-]{+re+}s[-u-]e{+nta+}m períodos de hipotensão do EEI devido aos seus hábitos. 
+
+C - Anatômicos
+{+	+}Entrada oblíqua do esôfago no estômago, ângulo de Hiss (representado pela prega de Gubaroff), pinçamento eso{+-+}fágico pelo hiato diafragmático, pressão negativa torácica, peristaltismo, membrana frenoesofágica e presença do EEI constituem o principal mecanismo de contenção.
+{+	+}As alterações anatômicas da transição esofagogástrica, como a hérnia de hiato, podem comprometer os meca{+-+}nismos antir[---]refluxo. Um estudo avaliando a correlação entre DRGE, hérnia hiatal, pressão do EEI e função da crura dia{+-+}fragmática, quantifi[---]cada pela magnitude do aumento da pressão na junção esofagogástrica durante a inspiração, consta{+-+}tou que o funcionamento da crura diafragmática foi mais fortemente associado à DRGE. Portanto, a associação entre DRGE e hérnia hiatal ou pressão no EEI não atingiu significância estatística após se considerar o efeito do aumento inspi{+-+}ratório, sugerindo que ambos os efeitos são mediados pela associação à disfunção da crura diafragmática. Mas os paci{+-+}entes com hérnia hiatal podem ter progressiva ruptura do esfíncter diafragmático, e a severidade da esofagite correla{+-+}ciona-se com o tamanho da hérnia. Também é associa[---]da à diminuição do limiar para desencadear o relaxamento transi{+-+}tório em resposta à distensão gástrica.
+
+a) Hérnias hiatais
+{+	+}Trata-se da protrusão de um órgão pelo hiato esofágico para dentro do tórax.
+Importante
+As hérnias hiatais podem ser divididas em de deslizamento e de rolamento (ou paraesofágicas). Estima-se que mais de 95% das hiatais são do tipo I (deslizamento), com os tipos II, III e IV (paraesofágicas) correspondendo a 5% das hérnias. 
+
+{+	+}Das hérnias paraesofágicas, mais de 90% são do tipo III, sendo as do tipo II as menos prevalentes. A maioria é assintomáti[---]ca, mas pacientes com hérnias grandes do tipo I podem ter sintomas da DRGE. Estudos radiográficos e en{+-+}doscópicos sugerem que {+de +}50 a 94% dos pacientes com DRGE têm uma hérnia hiatal do tipo I quando se compara a 13 a 59% dos indivíduos normais; no entanto, a importância da sua presença é obscura. Naqueles com hérnias paraesofá{+-+}gicas, os sintomas mais comuns são dor epigástrica/subesternal, sensação de plenitude pós-prandial, náuseas e vômitos, sendo os sintomas da DRGE menos prevalen[---]tes quando comparados com os das hérnias do tipo I.[-b) Hérnias de deslizamento (tipo I)-]
+[-Caracteriza-se pelo alargamento do túnel hiatal e afrouxamento da membrana frenoesofágica, permitindo que o esôfago abdominal e parte do estômago “deslizem” para cima do diafragma (Figura 2 - B), ou seja, a junção esofagogástrica (JEG) en-contra-se acima do pinçamento do hiato diafragmático. O estômago se mantém no seu alinhamento longitudinal e o fundo permanece abaixo da JEG.-]
+[-O diagnóstico da hérnia de hiato pode ser feito por meio de Endoscopia Digestiva Alta (EDA) – separação >2cm entre a junção esofagogástrica e o pinçamento diafragmático –, de exame contrastado Esôfago–Estômago–Duodeno (EED) –separação >2cm entre o anel B na junção esofagogástrica e o hiato diafragmático – ou de estudo manométrico, sendo o EED quase sem-pre diagnóstico.-]
+[-O tratamento está indicado a sintomáticos, podendo-se optar por medidas clínicas (Inibidores da Bomba de Prótons – IBPs) ou cirúrgicas (fundoplicatura com reconstrução do hiato esofágico), dependendo do caso. -]
+
+{+b) Hérnias de deslizamento (tipo I)+}
+{+	Caracterizam-se pelo alargamento do túnel hiatal e afrouxamento da membrana frenoesofágica, permitindo que o esôfago abdominal e parte do estômago “deslizem” para cima do diafragma (Figura 2 - B), ou seja, a junção esofago-gástrica (JEG) encontra-se acima do pinçamento do hiato diafragmático. O estômago se mantém no seu alinhamento longitudinal e o fundo permanece abaixo da JEG.+}
+{+	O diagnóstico da hérnia de hiato pode ser feito por meio de Endoscopia Digestiva Alta (EDA) – separação >2cm entre a JEG e o pinçamento diafragmático –, de exame contrastado Esôfago–Estômago–Duodeno (EED) – separação >2cm entre o anel B na JEG e o hiato diafragmático – ou de estudo manométrico, sendo o EED quase sempre diagnósti-co.+}
+{+	O tratamento está indicado a sintomáticos, podendo-se optar por medidas clínicas (Inibidores da Bomba de Pró-tons – IBPs) ou cirúrgicas (fundoplicatura com reconstrução do hiato esofágico), dependendo do caso. +}
+ 
+Figura 2 - (A) Anatomia normal; (B) hérnia hiatal por deslizamento; (C) hérnia hiatal paraesofágica e (D) hérnia hiatal mista
+Fonte: UpToDate, 2013.
+
+Vídeo
+DRGE
+ 
+
+c) Hérnias paraesofágicas de rolamento (tipo II)
+{+	+}Ocorrem por conta de falhas anatômicas da membrana frenoesofágica e do relaxamento da musculatura próxima ao hiato esofágico (nesse caso, a JEG está no nível do hiato diafragmático e o fundo gástrico está herniado). Estão, tam{+-+}bém, associadas a relaxamento anormal dos ligamentos gastroesplênico e gastrocólico, permitindo que parte do estô{+-+}mago “hernie” em dire[---]ção à cavidade torácica (Figura 2 - C). São consideradas hérnias verdadeiras, com um saco herni{+-+}ário. Nunca regridem e cos[---]tumam aumentar com o tempo, associadas a complicações sérias, como volvo, encarcera{+-+}mento gástrico, sangramento (por úlcera gástrica, gastrite ou erosões de Cameron no saco herniário encarcerado) e complicações respiratórias associadas à compressão dos pulmões pelo conteúdo herniário. O diagnóstico pode ser dado por exame contrastado E[-sôfago–-]E[-stômago–-]D[-uodeno (EED)-], TC ou R{+essonância Nuclear Magnética (R+}NM{+)+} evidenciando nível hidroaéreo retro{+-+}cardíaco ou o estômago intratorácico. O ótimo manejo dos pacientes assintomáticos é controverso. Enquanto alguns experts recomendam tratamento cirúrgico, muitos são contra devido ao risco anual do desenvolvimento de sintomas agudos requerendo cirurgia de emergência ser menor do que 2%, com dimi[---]nuição exponencial do risco após os 65 anos, e taxa de mortalidade do reparo eletivo ser de aproximadamente 1,4%. O repa[---]ro cirúrgico é indicado aos sinto{+-+}máticos, sendo os princípios gerais a redução do conteúdo herniário, com ressecção do saco herniário e mobilização do esôfago, a correção do defeito hiatal, a fundoplicatura e a fixação gástrica (gastropexia). Uma mai[---]or morbimortalida{+-+}de operatória é encontrada nos idosos e na cirurgia de emergência (mortalidade de 2,4% e 7,5%, respecti[---]vamente).
+
+d) Hérnia hiatal mista (tipo III)
+{+	+}Combinação das hérnias tipos I e II (herniação da JEG e do fundo gástrico pelo hiato diafragmático) (Figura 2 - D).
+
+e) Hérnia em que ocorre a herniação do estômago (tipo IV) + outro órgão abdominal 
+{+	+}O outro órgão abdominal pode ser cólon, intestino delgado, baço ou pâncreas (grande defeito na membrana frenoesofá[---]gica). 
+
+D - Obesidade
+{+	+}É fator de risco para DRGE, esofagite erosiva e adenocarcinoma esofágico, mas o mecanismo não é totalmente compreen[---]dido. Estudos mostram correlação significativa do índice de massa corpórea e da circunferência abdominal com a pressão intragástrica e o gradiente de pressão gastroesofágico. Também é associada à ruptura da [-junção esofagogástrica-]{+JEG+}, levando a hérnia hiatal e aumento da exposição ácida esofágica e dos sintomas de refluxo. Outro achado, em sujeitos sem hérnia hiatal, é o aumento na frequência e na proporção de relaxamentos transitórios do EEI associados a refluxo ácido no período pós-prandial.
+
+E - Outras causas
+{+	+}Intervenções cirúrgicas, como dilatação forçada junto à cárdia, cardiomiotomia, vagotomias, gastrectomias totais ou parci[---]ais, podem predispor o refluxo patológico pela perda dos mecanismos anatômicos de defesa do organismo.
+{+	+}Condições que aumentam a pressão intra-abdominal, como exercício físico, tosse, gravidez (pirose ocorre em 30 a 50% das gestações), uso de estrogênios e presença de ascite, ou situações que cursam com diminuição de motilidade gástrica, como atonia ou estase gástrica (que podem ser consequentes a diabetes, vagotomias, alterações neuromuscu{+-+}lares e disfun[---]ções motoras pilóricas ou do duodeno), e estenoses, também podem ser causas de DRGE.
+
+F - Clareamento ácido esofágico
+{+	+}Após o refluxo, o período em que o pH esofágico se mantém <4 é chamado de tempo de clareamento ácido. Este inicia com o esvaziamento do fluido refluído no esôfago pela peristalse e é completado pelo tamponamento do ácido residual pela saliva deglutida.
+{+	+}Na DRGE, observam-se [-2-]{+3+} mecanismos que diminuem o esvaziamento esofágico:
+{+			+}- Disfunção peristáltica resultando em falha ou hipotensão das contrações peristálticas (<30[- -]mmHg);
+{+		+}-{+ +}“Re-refluxo” associado a hérnia hiatal (conteúdo refluído presente no saco herniário), que impede o esvazia{+-+}mento esofá[---]gico[-.-]{+;+}
+{+	- +}Redução da salivação ou da capacidade neutralizante salivar também prolonga o clareamento ácido. Diminuição da saliva[---]ção com o sono, xerostomia e tabagismo prolongam o tempo de clareamento ácido esofágico. 
+
+G - Mecanismos de defesa contra a injúria esofágica
+{+	+}O desenvolvimento de esofagite na DRGE em nível celular [-é -]dev[-ido-]{+e-se+} à difusão de íons hidrogênio na mucosa, le{+-+}vando a acidificação celular e necrose. Pepsina, ácidos biliares, tripsina e hiperosmolaridade dos alimentos aumentam a suscetibilida[---]de da mucosa esofágica à injúria ácida. Em um pH [-de-]{+=+} 2, a pepsina rompe a integridade da barreira mucosa histológica, aumen[---]tando a permeabilidade ao íon hidrogênio e causando hemorragia. As defesas epiteliais da mucosa são divididas em: 
+{+	+}- Pré-epiteliais: muco e bicarbonato, que mantêm um significativo gradiente de pH entre a superfície celular e o lú{+-+}men, mas são pobremente desenvolvidas no esôfago;
+{+	+}- Epiteliais: apesar de o epitélio esofágico conter poucas glândulas submucosas que secretam bicarbonato, a principal de[---]fesa é a própria barreira epitelial que possui junções justas (tight junctions) resistentes ao movimento de íons nos níveis intercelular e celular;
+{+	+}- Pós-epiteliais: a defesa é realizada pela extrusão de íons hidrogênio por 2 processos ativados por pH, localizados na membrana esofágica: o trocador Na/H[-,-] e um trocador dependente de sódio Cl/HCO3. Uma vez expelido, o íon hidro{+-+}gênio é tamponado pelo bicarbonato extracelular em equilíbrio com o sangue. Portanto, o fluxo sanguíneo é a princi{+-+}pal defesa pós-epitelial, [-estando -]aumentado em resposta à acidez luminal, liberando mais bicarbonato para o espaço intercelu{+-+}lar.
+
+Tabela 1 - Defesas epiteliais da mucosa
+Pré-epiteliais	Muco e bicarbonato
+Epiteliais	Barreira epitelial (tight junctions)
+Pós-epiteliais	Extrusão de íons hidrogênio (2 processos ativados por pH) e fluxo sanguí[---]neo
+{+	+}São fatores associados à DRGE: relaxamento transitório do EEI (aumenta com a distensão gástrica e a posição ortostática), hipotonia do EEI (pressão <10mmHg), presença de hérnias hiatais (por deslizamento, paraesofágicas ou mistas), obesidade (aumento da pressão intragástrica, predisposição a hérnias hiatais e aumento na frequência de rela{+-+}xamentos transitórios do EEI) e outras causas (intervenções cirúrgicas como cardiomiotomias, vagotomias e gastrecto{+-+}mias, exercícios físicos intensos, gravidez, tosse, diminuição do tempo de esvaziamento esofágico e falha nos mecanis{+-+}mos de defesa contra a injúria esofágica).
+4. Diagnóstico
+{+	+}A DRGE apresenta grande variedade de manifestações clínicas, sendo as típicas diretamente relacionadas à ação do con[---]teúdo refluído sobre o esôfago e as atípicas{+,+} decorrentes da ação do material refluído sobre órgãos adjacentes, ou aumento do reflexo esofagobrônquico. O consenso definidor de DRGE de Montreal define que a pirose é conside{+-+}rada incômoda se sintomas leves ocorrem 2 ou mais vezes por semana, ou se sintomas moderados a severos ocorrem mais de [-uma-]{+1+} vez por semana.
+[-  -]{+	+}Apesar disso, os sinais e sintomas são insuficientes para o estabelecimento do diagnóstico conclusivo de DRGE, indepen[---]dente de sua frequência e intensidade, oferecendo certeza diagnóstica (especificidade) de cerca de 40%.
+{+	+}Endoscopia com biópsia deve ser realizada no diagnóstico inicial de DRGE, de acordo com o guideline da AGA (American Gastroenterological Association), nos pacientes com disfagia associada e naqueles que não respondem ao tratamento empíri[---]co com [-inibidores da bomba de prótons-]{+IBP+} 2[- vezes ao -]{+x/+}d[-ia-].
+
+A - Manifestações típicas
+{+	+}A pirose retroesternal é o principal sintoma e é definida como a sensação de queimação retroesternal que se irradia do manúbrio do esterno à base do pescoço, podendo atingir a garganta. Ocorre, em geral, {+de +}30 a 60 minutos após a alimentação, especialmente se copiosa, gordurosa, condimentada e ácida. A intensidade e a frequência dos sintomas são fracos preditores da presença ou da gravidade da esofagite. O tempo de história está associado ao aumen{+-+}to do risco de desenvolvimento do esôfago de Barrett.
+{+	+}Regurgitação ácida significa o retorno espontâneo do conteúdo ácido ou dos alimentos em direção à cavidade oral. 
+Quadro clínico
+No quadro clínico da DRGE, é importante considerar a idade do paciente (>40 anos) e a presença de manifesta{+-+}ções de alar[---]me (disfagia, odinofagia, anemia, hemorragia digestiva, emagrecimento, náusea, vômito, história fa{+-+}miliar de câncer). 
+
+
+B - Manifestações atípicas
+{+	+}Sintomas atípicos representam 20 a 25% das queixas primárias de DRGE e frequentemente não apresentam con{+-+}comitância com manifestações típicas, mas a ausência de tais sintomas não exclui o diagnóstico. O achado de erosões à EDA também é menos comum. 
+{+	+}Dividem-se em esofágicas (dor torácica retroesternal de origem não cardíaca, globus – sensação de corpo estra{+-+}nho na garganta), pulmonares (asma, tosse crônica, hemoptise, bronquite, bronquiectasias, pneumonias de repetição) otorrinolarin[---]gológicas (rouquidão, pigarro, laringite posterior crônica, sinusite crônica, otalgia) e orais (desgaste do esmalte dentário, hali[---]tose, aftas).
+{+	+}Cinquenta por cento dos pacientes com asma grave apresentam DRGE, contudo isso não significa que o refluxo seja a cau[---]sa da asma, já que esta e o seu tratamento podem favorecer o aparecimento de refluxo.
+
+Pergunta
+2015 - HIVS
+1. Qual das manifestações clínicas relacionadas é um sinal de alarme e aponta para a indicação precoce de endosco{+-+}pia em um paciente com esofagite de refluxo? 
+a) pirose
+b) disfagia
+c) gengivite
+@@ -129,124 +125,115 @@ e) faringite
+Resposta no final do capítulo
+
+C - Exames diagnósticos
+
+a) Endoscopia e biópsia de esôfago 
+
+Diagnóstico 
+A endoscopia e a biópsia de esôfago compõem o método de escolha para o diagnóstico de alterações causadas pelo refluxo e para excluir outras doenças esofágicas. 
+
+{+	+}Permite{+m+} avaliar a gravidade da esofagite e realizar biópsia quando indicada[-.-] [-P-]{+e p+}ossu[-i-]{+em+} sensibilidade diagnóstica ao redor de 50%. A EDA também está indicada aos pacientes com mais de 40 anos e/ou sinais/sintomas de alarme. As lesões consequen[---]tes do refluxo gastroesofágico visualizadas à endoscopia são:
+{+	+}- Erosões (solução de continuidade limitada à mucosa com, pelo menos, 3mm de diâmetro, com depósito de fibrina e per[---]meação neutrofílica do epitélio);
+{+	+}- Úlceras (solução de continuidade que atinge ao menos a camada muscular da mucosa, com presença de tam{+-+}pão e tecido de granulação);
+{+	+}- Estenose péptica;
+{+	+}- Esôfago de Barrett (metaplasia intestinal).
+{+	+}Com relação à biópsia esofágica:
+{+	+}- Não está indicada a pacientes na fase aguda da esofagite erosiva, sem úlcera, estenose ou suspeita de meta{+-+}plasia colu[---]nar;
+{+	+}- Deve ser realizada em todos os pacientes com úlcera e/ou estenose;
+{+	+}- Está indicada aos casos de reepitelização com mucosa avermelhada, circunferencial ou não, com extensão de, pelo me[---]nos, 2cm acima do limite das pregas gástricas (diagnóstico sugestivo de esôfago de Barrett);
+{+	+}- Está indicada aos casos de reepitelização com mucosa avermelhada de extensão superior a 2cm (diagnóstico sugestivo de epitelização colunar do esôfago distal).
+
+b) Classificações endoscópicas 
+{+	+}As classificações endoscópicas mais utilizadas em nosso meio são a de Savary-Miller modificada e a de Los Angeles, [-sendo -]esta {+última +}a mais aceita.[-       -]
+- Los Angeles (1994):
+{+	 	· +}Grau A: 1 (ou mais) solução de continuidade da mucosa confinada às pregas mucosas, não maior do que 5mm cada;
+{+		· +}Grau B: pelo menos 1 solução de continuidade da mucosa com mais de 5mm de comprimento, confinada às pregas muco[---]sas e não contígua entre o topo de 2 pregas; 
+{+		· +}Grau C: pelo menos 1 solução de continuidade da mucosa contígua entre o topo de 2 (ou mais) pregas muco{+-+}sas, envol[---]vendo menos do que 75% da circunferência do esôfago; 
+{+		· +}Grau D: 1 (ou mais) solução de continuidade da mucosa circunferencial, ocupando, pelo menos, 75% da cir{+-+}cunferência do esôfago. 
+
+Dica
+As complicações da DRGE (estenose, Barrett) são apresentadas à parte e podem ou não ser acompanhadas pelos vários graus de esofagite.
+
+ [- -]
+Figura 3 - Foto endoscópica e correspondência com a classificação de Los Angeles (graus)
+Fonte: Gastrocentro – Unicamp.
+
+Tabela 2 - Classificação endoscópica de Savary-Miller modificada (grau de aspecto endoscópico – esofagite) 
+0	Normal	--
+1	1 ou mais erosões lineares ou ovaladas em 1 única prega longi{+-+}tudinal	 {+ +}
+2	Várias erosões situadas em mais de 1 prega longitudinal, con{+-+}fluente ou não, não envolven[---]do toda a circunferência do esôfa{+-+}go	 {+ +}
+3	Erosões confluentes, envolvendo toda a circun[---]ferência do esô{+-+}fago	 
+4	Lesões crônicas: úlceras e estenose, isoladas ou associadas às lesões de graus 1 a 3	 
+5	Epitélio colunar em continuidade com a linha Z, circunferencial ou não, de extensão variável, associado ou não às lesões de 1 a 4 	 
+Fonte (imagens): Gastrocentro – Unicamp.
+
+c) EED
+{+	+}O exame contrastado, ou EED, é muito pouco indicado, devido à baixa sensibilidade diagnóstica, sendo de ajuda apenas na presença de complicações (estenose, úlcera, retração do esôfago) e hérnia hiatal.
+ 
+Figura 4 - Esôfago–[-E-]{+e+}stômago–[-D-]{+d+}uodeno evidenciando hérnia hiatal por deslizamento
+
+ 
+Figura 5 - Esôfago–[-E-]{+e+}stômago–[-D-]{+d+}uodeno demonstrando estenose distal de 6cm de extensão com nodularidade associada (setas)
+Fonte: UpToDate.
+
+d) Manometria esofágica
+
+Diagnóstico
+A manometria atualmente é o padrão-ouro para avaliar a função motora do corpo esofágico e do EEI{+ (fundamen-tal no pré-operatório na decisão de qual válvula será feita)+}. 
+
+{+	+}Para a sua realização, utiliza-se um transdutor eletrônico sensível à pressão ou cateteres perfundidos com água, com orifí[---]cios laterais conectados a transdutores externos.
+{+	+}As indicações na DRGE são restritas a:
+{+	- +}Investigar a eficiência da peristalse esofágica em pacientes com indicação de tratamento cirúrgico;
+{+	- +}Determinar a localização precisa do EEI para permitir a correta instalação do eletrodo de pHmetria;
+{+	- +}Investigar apropriadamente a presença de distúrbio motor esofágico associado, como as doenças do colágeno e o espas[---]mo esofágico difuso.
+{+	É muito importante no pré-operatório para se decidir o tipo de válvula antirrefluxo a ser realizada. Em um pacien-te com peristalse normal do corpo do esôfago, realiza-se a válvula total de 360° (mais efetiva contra o refluxo), porém, em um paciente com comprometimento da peristalse do corpo do esôfago, uma válvula de 360° cria um ponto de pressão no EEI que pode não ser vencido pela peristalse do esôfago, causando disfagia, dificuldade de eructação e sensação de “entalamento” do alimento. Desse modo, os pacientes com manometria do corpo esofágico alterado são candidatos a válvulas parciais de 270° ou 180°, diminuindo-se as complicações pós-operatórias, mesmo sabendo que ainda pode haver um pouco de refluxo que pode ser tratado clinicamente.+}
+
+ [- -]
+Figura 6 - Manometria esofágica convencional evidenciando esfíncter esofágico inferior contraído 
+Fonte: Clínica Souza Camargo.
+
+e) pHmetria
+{+	+}O paciente é monitorizado com sensores que registram a variação do pH esofágico em 24 horas, durante ativida{+-+}des coti[---]dianas. O cateter de pHmetria é posicionado 5cm acima do limite superior do EEI avaliado por meio da mano{+-+}metria. 
+
+Dica{+ +}
+Observa-se refluxo patológico se pH <4 em mais de 4% do tempo total e/ou escore de DeMeester >14,72.
+
+{+	+}Permite, ainda, avaliar a presença e a intensidade do refluxo, se este está em posição ortostática, supino ou combinado, e a relação com as queixas clínicas (sintomático ou assintomático). Como a validade dos estudos monitori{+-+}zando as medidas de pH só foi bem estabelecida quando conduzidos sem drogas antissecretórias, deve-se suspender a terapia com IBP por, pelo menos, 7 dias antes do exame.
+Importante
+Nos pacientes com sintomas típicos de DRGE e EDA sem esofagite erosiva e nos pacientes com queixas atípicas, a pHmetria de 24 horas é um recurso importante para o diagnóstico de certeza de refluxo ácido, o qual consti{+-+}tui a maioria dos episódios de refluxo, apresentando sensibilidade de 90% e especificidade de 95%.
+
+
+{+	+}Outra situação em que se aplica o exame é aquela em que os pacientes não apresentaram resposta satisfatória ao IBP em dose plena, estando, nesse caso, indicada a realização do exame em vigência do IBP.
+
+ 
+Figura 7 - Exame de pHmetria de 24 horas com 2 sensores, um proximal (refluxo faringoesofágico) e um distal (refluxo gastroesofágico) 
+Fonte: Picstopin.
+
+f) Impedanciometria e impedâncio-pHmetria
+
+Diagnóstico
+Impedâncio-pHmetria é o padrão-ouro para detecção do refluxo {+não +}ácido[-. -]
+
+
+{+	+}A impedanciometria consiste na medida da impedância elétrica por meio de eletrodos cilíndricos associados e montados num cateter plástico fino. Esse exame permite apurados estudos acerca do movimento do conteúdo no inte{+-+}rior do esôfago, no sentido anterógrado ou retrógrado, líquido ou gasoso.
+{+	+}A associação à medida do pH, na impedâncio-pHmetria, possibilita a correlação dos sintomas e dos episódios de refluxo com alterações de pH, podendo identificar o refluxo líquido ácido (pH <4), fracamente ácido (pH entre 4 e 7) e não ácido (pH >7), cujo diagnóstico não pode ser oferecido por meio da pHmetria convencional. Deste modo, é um excelente exame a ser [-ped-]{+solic+}i{+ta+}do a pacientes com sintomas ou sinais diretos e indiretos de refluxo cuja pHmetria é normal. Entretanto, o exame é one[---]roso e pouco disponível no nosso meio.
+
+ 
+Figura 8 - Exame de impedâncio-pHmetria 
+Fonte: Gastromed.
+
+g) Teste terapêutico
+{+	+}Pacientes com menos de 40 anos que apresentam manifestações típicas, sem sinais ou sintomas de alarme, po{+-+}dem ser considerados para receber teste terapêutico com IBP dose plena (omeprazol 40mg/d, lansoprazol 30mg/d, pantoprazol 40mg/d, rabeprazol 20mg/d[-,-]{+ e+} esomeprazol 40mg/d), por 4 semanas. Apesar de a resposta satisfatória permitir inferir o diag[---]nóstico de DRGE, os estudos realizados são heterogêneos com respeito ao IBP empregado, a do{+-+}ses utilizadas, tempo de ob[---]servação e avaliação da resposta terapêutica.
+Tabela 3 - Vantagens e desvantagens dos principais métodos diagnósticos
+Métodos	Vantagens	Desvantagens
+EDA	Avaliação da presença e do grau de esofagite, complica{+-+}ções e afecções associadas	A{+ a+}usência de achados não exclui o diag{+-+}nóstico.
+pHmetria esofágica	- Avaliação da presença, da intensidade e do padrão do refluxo;
+- Correlação de refluxo com a queixa.	- Não identificação de esofagite nem de com[---]plicações do refluxo;
+- Não avaliação da ocorrência de refluxo “não ácido”.
+EED	Avaliação de estenoses, ulcerações e hérnia hiatal	Não identifica esofagite.
+Manometria esofá{+-+}gica	- Pré-operatório de fundoplicatura para DRGE;
+- Diagnóstico de distúrbios motores específicos do esôfa{+-+}go;
+- Identificação do EEI para pHmetria.	Não avalia a capacidade real de transpor{+-+}te do conteúdo alimentar.
+Impedâncio-pHmetria	- Padrão-ouro para refluxo ácido;
+- Diagnóstico de refluxo ácido, fracamente ácido e não ácido[-.-]	É oneroso e pouco disponível.
+
+Pergunta
+2015 - FMJ 
+2. O exame com maiores sensibilidade e especificidade no diagnóstico da doença do refluxo gastroesofágico, dentre os relacionados a seguir, é:
+a) raio x contrastado de esôfago, estômago e duodeno, com a observação de refluxo gastroesofágico em posição de Tren[---]delenburg
+b) raio x contrastado de esôfago, estômago e duodeno, com o aparecimento de hérnia hiatal
+c) manometria esofágica
+d) impedanciometria esofágica
+@@ -254,28 +241,24 @@ e) pHmetria esof
+Resposta no final do capítulo
+
+5. Tratamento clínico
+{+	+}O tratamento clínico tem como objetivo o alívio dos sintomas, a cicatrização das lesões e a prevenção de recidiva e com[---]plicações. Divide-se em medidas comportamentais e tratamento farmacológico. 
+A - Medidas comportamentais
+{+		- +}Elevação da cabeceira da cama (15cm);
+{+	- +}Moderar a ingestão dos seguintes alimentos, na dependência da correlação com os sintomas: gordurosos, cítri{+-+}cos, café, álcool, bebidas gaseificadas, menta, hortelã, produtos de tomate, chocolate;
+{+	- +}Cuidados com medicamentos de risco: anticolinérgicos, teofilina, antidepressivos tricíclicos, bloqueadores dos canais de cálcio, agonistas beta-adrenérgicos (todas essas medicações podem ocasionar relaxamento do EEI e piorar o refluxo), alendronato (esta medicação causa dano direto à mucosa esofágica, por contato com a medicação que pode levar à for[---]mação de erosões, úlceras e perfuração);
+{+	- +}Evitar deitar-se nas 2 horas após as refeições;
+{+	- +}Evitar refeições copiosas/fracionar as refeições;
+{+	- +}Redução ou cessação do fumo;
+{+	- +}Reduzir o peso corpóreo.
+{+	+}Não há evidência estatística significativa (nível de evidência 2, grau de recomendação B) com relação às medidas compor[---]tamentais, mas ainda se recomenda utilizá-las. As únicas variáveis que tiveram significância foram a elevação da cabeceira da cama e a perda de peso.
+
+B - Tratamento farmacológico
+
+Tratamento
+O tratamento farmacológico inicial dos pacientes com DRGE e sintomas típicos consiste em inibidor da bomba de prótons em dose plena, por período de 4 a 8 semanas. {+Em casos graves, atípicos e de resposta parcial pode-se administrar dose dobrada pelo mesmo período. +}
+
+{+	+}Os IBPs são os mais potentes inibidores da secreção ácida gástrica por ligação irreversível e inibição da bomba de H/K-ATPase. São mais efetivos quando administrados 30 minutos antes da 1ª refeição do dia, devido à quantidade de bombas H/K-ATPase presentes na célula parietal ser maior após jejum prolongado. Apesar de não ter havido diferença estatística signifi[---]cante entre o tempo de tratamento de 4 ou 8 semanas, o número de respostas satisfatórias foi maior com 8 semanas (alívio dos sintomas de DRGE e cicatrização da esofagite em mais de 86% dos pacientes com esofagite erosiva).
+{+	+}Também não houve diferença estatística na resposta clínica ao IBP quando comparado o uso diário em dose única ou 2 tomadas. Apesar disso, devido à meia-vida dos IBPs ser em torno de 18 horas e o paciente poder ficar des{+-+}coberto no período noturno, recomenda-se dividir a dose em 2 tomadas, administradas pela manhã em jejum, meia hora antes do café da manhã e à noite, meia hora antes do jantar (por exemplo, omeprazol 20mg, em jejum, e 20mg, antes do jantar), nos pacientes que apresentam sintomas noturnos.{+ +}
+{+	+}Outro dado importante é a equivalência dos diferentes IBPs (omeprazol, esomeprazol, pantoprazol etc.) no tra{+-+}tamento da DRGE, nos estudos realizados.
+
+Tabela 4 - Inibidores da bomba de prótons e doses plenas
+IBPs	Doses plenas
+@@ -284,43 +267,41 @@ Lansoprazol	30mg
+Pantoprazol	40mg
+Rabeprazol	20mg
+Esomeprazol	40mg
+[-N-]{+	A+}os pacientes com DRGE e sintomas atípicos e naqueles com esofagites de maior gravidade (graus 3 e 4 de Sa{+-+}vary-Miller ou C e D de Los Angeles), úlcera e/ou estenose à endoscopia, está indicada a terapia farmacológica com IBP dose dobrada (omeprazol 80mg/d, lansoprazol 60mg/d, pantoprazol 80mg/d, rabeprazol 40mg/d, esomeprazol 80mg/d). O tempo de trata[---]mento nos pacientes com sintomas atípicos deve [-s-]{+ocorr+}er por períodos mais prolongados, de 2 a 6 meses. Já nos pacientes com esofagites mais graves, úlcera e/ou estenose, deve-se estender o tratamento por 12 semanas, com indicação de repetição do exame endoscópico ao final do tratamento. 
+{+	+}Como a DRGE é uma doença crônica, 80% [-dos pacientes -]recidivam nos primeiros 6 meses após o tratamento e pratica[---]mente 100% em 1 ano. Nos pacientes que não conseguem permanecer longos períodos sem o IBP e que não [-possue-]{+tê+}m indica[---]ção de correção cirúrgica, pode-se optar pelo uso do IBP sob demanda (quando necessário), na menor dose possível (por exemplo, omeprazol 20mg), apesar de o seu papel ser controverso (há maior satisfação dos pacientes quando compa{+-+}rado com uso contínuo, mas o seu uso é controverso e o controle de sintomas e qualidade de vida é melhor com o uso contínuo). Quanto ao uso crônico do IBP, não há relato de [-ocorrência de -]neoplasia que seja suportado por evidências, mas ocorrem alterações na mucosa gástrica (gastrite crônica, atrofia, pólipos de glândulas fúndicas)[- e-]{+,+} aumento dos casos de pneumo{+-+}nia de repetição{+,+} {+inf+}e{+cções intestinais (por exemplo, por Clostridium difficile),+} anemia ferropriva{+ e má absorção de magnésio, cálcio, vitamina B12 e ferro+}.
+{+	+}Com relação ao uso dos antagonistas dos receptores H2 da histamina (por exemplo, ranitidina) e procinéticos (por exem[---]plo, domperidona, bromoprida), não há evidência estatística que suporte o seu uso no tratamento da DRGE (nível de evidên[---]cia 2, grau de recomendação B). Os antagonistas dos receptores H2 da histamina apresentam o desen{+-+}volvimento de taquifila[---]xia em 2 a 6 semanas, limitando sua eficácia na DRGE.
+{+	É incerto se o uso crônico dos IBPs aumenta o risco de gastrite atrófica nos pacientes com H. pylori, não sendo recomendado o screening de rotina nos pacientes com DRGE. No entanto, alguns com gastrite predominante de antro a erradicação do H. pylori têm apresentado melhora nos sintomas de refluxo.+}
+Importante
+As grávidas com DRGE devem ser primeiramente tratadas com modificações no estilo de vida e na dieta. Se não h[-ouver-]{+á+} me[---]lhora, usam-se antiácidos (não usar bicarbonato de sódio e aqueles contendo magnésio) e sucralfato (1g VO, 3x/d). N{+os c+}as{+os+} [-qu-]{+d+}e falha[-m-] ao tratamento, indicam-se primeiramente os antagonistas H2 (parecem seguros na gravi{+-+}dez) e, depois, os inibidores da bomba de prótons (provavelmente seguros; não recomendados na amamentação por haver poucos dados quanto à segu[---]rança).
+
+
+ 
+Figura 9 - Conduta para pacientes com sintomas típicos
+
+ 
+Figura 10 - Conduta para pacientes com sintomas atípicos
+
+6. Tratamento cirúrgico
+{+	+}Para indicar o tratamento cirúrgico, a DRGE deve ser objetivamente identificada por meio de exames comple{+-+}mentares, [-tais -]como EDA, pHmetria ou impedâncio-pHmetria. Os melhores resultados cirúrgicos ocorrem nos pacientes que respondem ao IBP (piores respostas nos refratários) e naqueles com manifestações típicas da doença (resultado menos satisfatório nas manifestações atípicas).
+Importante
+O alívio dos sintomas respiratórios da DRGE (por exemplo, laringite posterior, asma) é usualmente atingido pela cirurgia nos pacientes que também têm sintomas típicos de refluxo; o desfecho é menos favorável entre aque{+-+}les com sintomas respira[---]tórios associados a anormalidades na motilidade esofágica.
+{+ +}
+A - DRGE não complicada
+
+Tabela 5 - Indicações de correção cirúrgica
+- Pacientes que, por alguma razão (pessoal, econômica, intolerância), acham-se impossibilitados de dar continuidade ao tratamento;
+- Casos em que é exigido tratamento contínuo de manutenção com IBP em dose adequada, especialmente em paci{+-+}entes com menos de 40 anos, que optam por tratamento cirúrgico;
+- Pacientes refratários ao IBP (há dúvida na literatura quanto à dose para considerar refratariedade, mas a maioria considera dose plena – por exemplo, omeprazol 40mg), com confirmação pelo exame de pHmetria de 24 horas, e que apresentem condições cirúrgicas.
+
+B - DRGE complicada 
+{+	+}Cirurgia está indicada para as formas complicadas, com estenose e/ou esofagite severa, e quando h[-ouver-]{+á+} adenocar{+-+}cino[---]ma. Não há consenso em relação à cirurgia no Barrett longo.
+{+	+}Em estudos realizados, a presença de hérnia hiatal requereu doses maiores de IBP para o tratamento clínico{+,+} e as hérnias maiores do que 2cm foram fatores de pior prognóstico. Nesse caso, deve ser considerado o tratamento cirúrgi{+-+}co.
+
+C - Aspectos cirúrgicos
+{+	+}O tratamento deve atuar sobre os 3 principais fatores etiopatogênicos da DRGE: relaxamento espontâneo do EEI, tônus pressórico e posicionamento do EEI. Dessa maneira, o procedimento cirúrgico envolve 2 tempos principais: a hiatoplastia, que consiste na aproximação dos braços do pilar diafragmático por meio de sutura com fio inabsorvível com pontos em forma de letras (U, X), evitando a tensão e o garroteamento do esôfago distal, e a valvuloplastia, que realiza um envolvimento circunfe[---]rencial do esôfago distal, em diferentes graus, pelo fundo gástrico.
+{+	- Fundoplicatura à Nissen: válvula total de 360°, é a mais utilizada e considerada efetiva contra o refluxo. Inicialmente realizava-se a ligadura rotineira dos vasos curtos do fundo gástrico para melhor mobilização do estômago para realiza-ção da válvula. Atualmente, realiza-se essa ligadura apenas em caso de necessidade, e na maioria dos casos o estômago é mobilizado adequadamente sem a ligadura dos vasos curtos. A válvula deve ser curta e frouxa (short-floppy), conhe-cida como Nissen-Rosseti. A válvula total poderá desencadear sintomas obstrutivos principalmente se a peristalse do corpo do esôfago não for efetiva;+}
+Tratamento
+As técnicas cirúrgicas mais comumente utilizadas para {+a +}correção de DRGE são a fundoplicatura à Nissen (total [-–-]{+-+} 360° – Figura 11) ou parcial tipo Toupet-Lind (180 a 270° – Figura 12), [-não hav-]{+s+}e[-ndo-]{+m+} diferença {+estatística +}significativa[-mente estatística-] en{+-+}tre as 2 técnicas.
+
+
+ 
+Figura 11 - Aspectos cirúrgicos da fundoplicatura à Nissen 
+@@ -328,34 +309,29 @@ Fonte: HMS Portugal.
+
+ 
+Figura 12 - Fundoplicatura à Toupet-Lind
+[-	-]
+
+Dica
+As fundoplicaturas parciais são preferidas [-n-]{+a+}os pacientes com pobre motilidade esofágica, pelo risco de sintomas obstru{+-+}tivos com a válvula total{+, por isso a importância da manometria prévia+}.
+
+{+- +}Fundoplicatura parcial Belsey Mark IV: [-fundoplicatura parcial -]a 270°{+,+} por meio de acesso torácico esquerdo;
+{+- +}Gastroplastia à Collins: utilizada em casos de esôfago curto (estenose, Barrett), proporciona alongamento do esôfago para confecção da válvula;
+{+- +}Cirurgia laparoscópica: oferece importantes vantagens, como menos dor no pós-operatório, menos aderências intra{+-+}cavitá[---]rias, ingesta precoce de dieta, alta precoce e retorno mais rápido às atividades normais. Quanto ao desapareci{+-+}mento dos sintomas, as vias aberta e laparoscópica se equivalem. O acesso laparoscópico permite visualização mais adequada do hi[---]ato esofágico através da óptica, o que só é [-c-]o[-nsegu-]{+bt+}ido na cirurgia aberta por meio de grandes incisões. Atualmente, a ta[---]xa de conversão para cirurgia aberta é de 2% e tende a diminuir quanto maior a experiência do ci{+-+}rurgião no procedi[---]mento laparoscópico. Na cirurgia laparoscópica, realiza-se um procedimento igual ao da cirurgia aberta (confecção de válvula), porém utilizando, em vez de incisão mediana supraumbilical, punções com trocartes no abdome. Geralmente, são utilizados 5 trocartes, por onde o cirurgião realiza os seguintes tempos principais:
+Dissecção da membrana frenoesofágica e do esôfago abdominal;
+Histoplastia com pontos em X de fio inabsorvível;
+Confecção da válvula.
+{+- +}Complicações dos procedimentos cirúrgicos: em cerca de 8% dos procedimentos (entre 2 e 13%).{+ +}Pneumotórax é relacionado à abertura da pleura durante a dissecção hiatal. Pode ocorrer, também, pneumomediastino.{+ +}São possí{+-+}veis, ainda, perfurações esofágicas (durante dissecção e sutura do hiato) e gástricas (tração excessiva do fundo gástri{+-+}co). Nesses casos, é crucial o reconhecimento da lesão no intraoperatório, o que oferece a possibilidade de reparo imediato. Outra complicação é hemorragia, geralmente por lesão esplênica e de vasos curtos. Por fim, pode ocorrer, no pós-operatório, a migração da válvula para o tórax através do hiato esofágico, o que parece mais frequente na cor{+-+}reção de gran[---]des hérnias[-.-]{+;+}
+Importante
+Muitos pacientes podem apresentar disfagia no pós-operatório da correção de DRGE{+,+} requerendo modificação da dieta[-,-] para primariamente líquidos, por um período de 2 a 12 semanas. 
+
+[-Manejo dos sintomas no pós-operatório: -]
+[-O preditor mais comum de disfagia no pós-operatório é a sua presença antes da cirurgia. Aqueles que persistem com o sintoma por mais de 12 semanas requerem avaliação com deglutograma baritado para acessar a posição anatômica da fundo-plicatura. Não há consenso em relação à melhor técnica de dilatação (dilatação por sonda versus pneumática). Aqueles com fundoplicatura a 360° podem ser candidatos à revisão da fundoplicatura se persistência da disfagia e alteração no degluto-grama. De 5 a 10% das fundoplicaturas necessitam de cirurgia revisional, sendo as razões mais frequentes a recorrência da pirose e a disfagia.-]
+[-Os sintomas da síndrome da distensão gasosa (sensação de gases intestinais, com incapacidade de eructar) podem ocorrer após a fundoplicatura. A patogênese não é bem compreendida, citando-se fundoplicatura mais apertada e longa e disfunção no esvaziamento gástrico (disfunção vagal). Nos sintomas leves, sugere-se o uso de simeticona ou procinéticos (metoclopra-mida, domperidona), pois tendem a diminuir com o tempo. Pacientes com sintomas severos e gastroparesia documentada podem ser tratados com piloroplastia, toxina botulínica no piloro ou dilatação pneumática. -]
+
+{+- Manejo dos sintomas no pós-operatório: o preditor mais comum de disfagia no pós-operatório é a sua presença antes da cirurgia. Aqueles que persistem com o sintoma por mais de 12 semanas requerem avaliação com deglutograma baritado para acessar a posição anatômica da fundoplicatura. Não há consenso em relação à melhor técnica de dilata-ção (dilatação por sonda versus pneumática). Aqueles com fundoplicatura a 360° podem ser candidatos à revisão da fundoplicatura se persistência da disfagia e alteração no deglutograma. De 5 a 10% das fundoplicaturas necessitam de cirurgia revisional, sendo as razões mais frequentes a recorrência da pirose e a disfagia.+}
+{+	Os sintomas da síndrome da distensão gasosa (sensação de gases intestinais, com incapacidade de eructar) po-dem ocorrer após a fundoplicatura. A patogênese não é bem compreendida, citando-se fundoplicatura mais apertada e longa e disfunção no esvaziamento gástrico (disfunção vagal). Nos sintomas leves, sugere-se simeticona ou procinéticos (metoclopramida, domperidona), pois tendem a diminuir com o tempo. Pacientes com sintomas severos e gastroparesia documentada podem ser tratados com piloroplastia, toxina botulínica no piloro ou dilatação pneumática. +}
+
+{+ +} 
+Figura 13 - Aspecto intraoperatório da hiatoplastia: (A) com pontos separados de algodão 2-0 em cirurgia convencional e (B) esôfago abdominal isolado
+
+D - Tratamento clínico da DRGE versus tratamento cirúrgico
+{+	+}Existem evidências de benefício estimado do tratamento cirúrgico por um período de 7 anos e equivalência entre o tra[---]tamento clínico e o cirúrgico de Nissen (92% versus 85%, respectivamente, com diferença não estatistica{+-+}mente significativa), com os pacientes permanecendo 5 anos ou mais em remissão dos sintomas. Portanto, seriam dese{+-+}jáveis períodos de obser[---]vação mais prolongados antes de uma conclusão definitiva.
+
+Pergunta
+2013 - SANTA CASA-SP 
+@@ -366,98 +342,80 @@ c) distens
+d) inabilidade para eructar
+e) inabilidade para vomitar
+Resposta no final do capítulo
+[-7. Complicações -]
+
+{+7. Complicações +}
+A - Úlceras e sangramento esofágico
+{+	+}Incidem em 5% dos pacientes com esofagite consequente à DRGE; habitualmente, estão localizadas na transição esofago[---]gástrica. Raramente manifestam-se com sangramento agudo, sendo geralmente crônico e insidioso, com quadro de anemia crônica.
+{+	+}O tratamento clínico é a melhor terapêutica, indicando-se IBP em dose dobrada por, pelo menos, 8 semanas e repetição do exame endoscópico. Após cicatrização, avaliar continuidade do IBP em dose plena ou indicação de corre{+-+}ção cirúrgica.
+Tratamento 
+Em úlceras e sangramento esofágico em pacientes com DRGE, a melhor terapêutica é o tratamento clínico com inibidor da bomba de prótons em dose dobrada por 8 semanas e repetição da EDA posteriormente. Com a cicatrização, deve-se avaliar a continuidade do inibidor em dose plena ou a indicação de correção cirúrgica.[- -]
+
+ 
+Figura 14 - Úlcera esofágica de aspecto péptico no esôfago distal 
+Fonte: GASTROLAB.
+
+B - Estenose péptica
+{+	+}Ocorre em 7 a 23% dos portadores de DRGE; é o estreitamento do esôfago causado por inflamação, sem evidência de fi[---]brose ou ambos. A estenose com fibrose é resultado da cicatrização da esofagite ulcerativa. O colágeno é deposi{+-+}tado nessa fase, e, com o tempo, as fibras de colágeno se contraem, estreitando o lúmen esofágico. As estenoses são geralmente curtas e contíguas à [-junção esofagogástrica-]{+JEG+}. Os principais sintomas são disfagia a sólidos e obstruções esofágicas esporádicas. Em pacientes em boas condições clínicas, inicia[-r-]{+-se+} com tratamento clínico com IBP dose dobrada (para reduzir o pro{+-+}cesso inflama[---]tório). A seguir, realiza[-r-]{+-se+} dilatação endoscópica pré ou intraoperatória, com sondas termoplásticas e tratamento cirúrgico com fundoplicatura.
+ 
+Figura 15 - Estenose no esôfago distal de característica péptica 
+Fonte: Atlas of Gastrointestinal Endoscopy e GASTROLAB.
+
+C - Esôfago de Barrett
+{+	+}O esôfago de Barrett é uma complicação da DRGE caracterizada pela ocorrência de metaplasia intestinal, ou seja, substi[---]tuição do epitélio escamoso estratificado do esôfago distal por epitélio colunar contendo células intestinalizadas ou calicifor[---]mes, em qualquer extensão (Figura 16 - A), além de células tipo gástricas, do intestino delgado e colônicas, e células endócri[---]nas e de Paneth.
+{+	+}É denominado Barrett curto quando sua extensão é menor do que 3cm e Barrett longo quando é maior do que 3cm. Esti[---]ma-se que 3 a 5% dos pacientes com DRGE apresentem Barrett longo e 10 a 15%, Barrett curto. 
+{+	+}Os casos em que o esôfago distal é revestido por epitélio colunar sem metaplasia intestinal não são considerados Barrett, mas até 20% desses casos podem ter diagnóstico de metaplasia intestinal em exames subsequentes.
+{+	+}A média de idade do diagnóstico é de 55 anos, e a proporção homem:mulher é de 2:1. Ainda não está clara a fisiopatolo[---]gia da doença, mas estudos com pHmetria demonstraram, nesses pacientes, refluxo ácido intenso, apresen{+-+}tando-se 2 meca[---]nismos fisiopatológicos:
+{+- +}Incompetência do EEI com pressão média menor (5mmHg) em comparação aos pacientes com esofagite erosiva não com[---]plicada (9mmHg) e ao grupo-controle (17mmHg); 
+{+- +}Amplitude de contração do corpo esofágico distal significativamente menor.
+{+	+}Pacientes com Barrett também apresentam refluxo biliar em maior frequência (43%) do que aqueles com DRGE não com[---]plicada (12%) e o grupo-controle (2%).
+{+	+}Esse epitélio metaplásico é considerado substrato para a instalação de adenocarcinoma (por meio da sequência metaplas[---]ia–displasia–carcinoma), daí a sua grande importância.
+
+ 
+Figura 16 - Esôfago de Barrett: (A) microscopia evidenciando metaplasia intestinal com células caliciformes e (B) Barrett com aspecto endoscópico de projeções digitiformes 
+{+	+}O epitélio colunar por si só não causa sintomas, porém os pacientes podem apresentar manifestações relaciona{+-+}das ao re[---]fluxo ou às complicações (estenose, úlcera e câncer). Cerca de 6 a 20% dos casos podem ser assintomáticos. Cameron et al. destacaram que história de refluxo de longa duração e pirose noturna, acima de 5 anos, é sugestiva do diagnóstico de Barrett. 
+Importante
+As variáveis relacionadas ao Barrett são hérnia hiatal maior do que 4cm; alteração do tônus do EEI; sexo masculi{+-+}no; altera[---]ções da motilidade esofágica; episódios de refluxo ácido com duração maior do que 5 minutos; e sinto{+-+}mas de DRGE com duração acima de 5 anos.[-A EDA é o principal exame para diagnóstico. Observa-se mudança da cor do epitélio pálido escamoso para o róseo colunar (róseo salmão ou vermelho-róseo) acima da JEG, e a biópsia apresenta epitélio colunar com metaplasia intestinal. A mucosa metaplásica pode assumir o aspecto de projeção digitiforme, ilhotas, ou recobrir parcial ou totalmente a circunferência do órgão. Um estadiamento endoscópico chamado critérios de Praga tem sido recomendado para acessar a presença e extensão do Barrett, sendo que o valor C avalia a extensão circunferencial do Barrett, e o valor M, a extensão máxima do Barrett acima da JEG. -]
+
+{+	A EDA é o principal exame para diagnóstico. Observa-se mudança da cor do epitélio pálido escamoso para o róseo colunar (róseo salmão ou vermelho-róseo) acima da JEG, e a biópsia apresenta epitélio colunar com metaplasia intestinal. A mucosa metaplásica pode assumir o aspecto de projeção digitiforme, ilhotas, ou recobrir parcial ou total-mente a circunferência do órgão. Um estadiamento endoscópico chamado critérios de Praga tem sido recomendado para acessar a presença e extensão do Barrett, sendo que o valor C avalia a extensão circunferencial do Barrett, e o valor M, a extensão máxima do Barrett acima da JEG. +}
+ 
+Figura 17 - Barrett com aspecto endoscópico circunferencial 
+Fonte: Atlas of Gastrointestinal Endoscopy.
+
+ 
+Figura 18 - Barrett com aspecto endoscópico de ilhota 
+Fonte: GASTROLAB.
+
+Diagnóstico
+Dois critérios devem ser preenchidos para o diagnóstico do Barrett: o endoscopista deve documentar o epitélio colunar no esôfago distal, e o exame histológico[- deve documentar-]{+,+} metaplasia intestinal. 
+
+{+	+}Há risco potencial de o Barrett evoluir para adenocarcinoma. Estima-se um risco variado de 0,2 a 2,1% ao ano (em média 0,5% ao ano) nos pacientes sem displasia, representando incidência 30 a 125 vezes maior do que na popu{+-+}lação normal. O risco de malignização no Barrett curto parece ser menor, mas os estudos ainda não são conclusivos.
+{+	+}Até o momento, o esôfago de Barrett não apresenta nenhum tratamento eficaz para a regressão do epitélio metaplásico; tanto a terapêutica clínica como a cirúrgica são eficazes somente em controlar o refluxo, diminuindo o processo inflamatório e a progressão da doença; no entanto, a diminuição do risco de displasia e câncer é sugerida, mas não foi comprovada por trials clínicos controlados de longa data.
+{+	+}O tratamento clínico é realizado com IBP em dose dobrada para o Barrett longo, dividido em 2 tomadas diárias (devido à meia-vida de 18 horas da medicação); e, para o Barrett curto, apesar de não haver consenso, dose plena também dividida em 2 tomadas.
+{+	+}Quanto ao seguimento endoscópico nos pacientes com Barrett, deve ser realizada EDA com biópsia (nos 4 qua{+-+}drantes a cada 2[- -]cm), de acordo com o seguinte guideline da AGA:
+{+- +}Sem displasia: a cada 3 a 5 anos;
+{+- +}Displasia de baixo grau (neoplasia intraepitelial): a cada 6 a 12 meses;
+{+- +}Displasia de alto grau sem indicação de terapia de erradicação: a cada 3 meses.
+{+	+}Nas displasias de baixo grau, além do acompanhamento endoscópico a cada 6 meses, deve-se aumentar a dose do IBP (dobrar) e acompanhar por 1 ano. Se permanecer estável ou a displasia involuir, acompanha[-r-]{+-se+} como se não houvesse displasia. Na displasia de alto grau ou no carcinoma intramucoso, o diagnóstico deve ser confirmado por 2 patologistas, e, se comprova[---]do, a melhor terapia é a cirúrgica com esofagectomia (única terapia que claramente remo{+-+}ve todo o epitélio neoplásico com qualquer malignidade oculta e linfonodos regionais). No entanto, é o tratamento com maiores taxas de morbidade e mortali[---]dade (3 a 12,2%). Nos pacientes sem indicação cirúrgica, a ressecção endoscópica pelas técnicas de mucosectomia e dissec[---]ção submucosa endoscópica, associadas às terapêuticas ablativas (radiofre{+-+}quência, crioterapia), vem se mostrando promisso[---]ra, por permitir adequada avaliação do tecido devido às grandes ressecções. Se a displasia não for confirmada, recomenda-se dobrar a dose do IBP e realizar nova biópsia em 3 meses.
+{+	Atualmente, têm surgido terapias endoscópicas alternativas para o esôfago de Barrett e para a displasia como a mucosectomia (para lesões localizadas) e a ablação por radiofrequência (para lesões circunferenciais) com resultados promissores.+}
+ 
+Figura 19 - Conduta no esôfago de Barrett
+
+Pergunta
+2012 - HC-ICC
+4. Um paciente de 64 anos apresenta pirose há 30 anos. Realizou Endoscopia Digestiva Alta (EDA), sendo feito o diag{+-+}nós[---]tico de esôfago de Barrett. Sobre esse achado, é correto afirmar:
+a) o tratamento cirúrgico é indicado a todos os casos
+b) não há necessidade de nenhum tratamento, pois ocorre regressão espontânea da lesão em todos os casos
+c) trata-se da substituição do epitélio escamoso por um epitélio colunar do tipo intestinal decorrente do refluxo gástri{+-+}co, devendo ser considerada uma lesão maligna cujo tratamento consiste sempre na esofagectomia
+d) esta condição está associada a maior incidência da neoplasia de esôfago, fundamentalmente o carcinoma espinoce{+-+}lular
+e) a melhor conduta compreende seguimento endoscópico regular com biópsias, e, se for encontrada displasia de alto grau ou carcinoma in situ, indica-se esofagectomia
+Resposta no final do capítulo
+
+[-8. -]Resumo
+	
+Quadro-resumo
+- 	Deve-se suspeitar da DRGE na presença dos quadros típicos (pirose retroesternal e regurgitação) e na presença de manifesta[---]ções atípicas (dor torácica, globus faríngeo, tosse, rouquidão, halitose etc.);
+- 	O exame padrão-ouro para o diagnóstico de esofagite é a EDA;
+-{+ +}A [-I-]{+i+}mpedâncio-pHmetria é o padrão-ouro para o diagnóstico de refluxo ácido;
+- 	O tratamento envolve medidas higienodietéticas, medicações e cirurgia. A combinação desses elementos varia de acordo com o paciente;
+- 	O esôfago de Barrett é uma lesão pré-neoplásica e requer vigilância contínua.
+
+Respostas {+das questões do capítulo+}
+1. B{+	+}
+2. D
+3. A[- -]{+	+}
+4. E[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
