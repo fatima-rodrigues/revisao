@@ -1,8 +1,4 @@
-diff --git a/gineco1_4.txt b/gineco1_4.txt
-index 5ed4c44..1452935 100644
---- a/gineco1_4.txt
-+++ b/gineco1_4.txt
-@@ -1,153 +1,364 @@
+
 Amenorreia
 Flávia Fairbanks Lima de Oliveira Marino
 

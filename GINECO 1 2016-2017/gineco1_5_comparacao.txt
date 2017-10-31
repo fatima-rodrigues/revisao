@@ -1,8 +1,4 @@
-diff --git a/gineco1_5.txt b/gineco1_5.txt
-index 72cee80..a1e0d66 100644
---- a/gineco1_5.txt
-+++ b/gineco1_5.txt
-@@ -1,41 +1,38 @@
+
 {+Flávia Fairbanks Lima de Oliveira Marino+}
 Transtornos menstruais
 Flávia Fairbanks Lima de Oliveira Marino

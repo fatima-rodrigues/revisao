@@ -1,8 +1,3 @@
-diff --git a/gineco1_6.txt b/gineco1_6.txt
-index b30f7ba..3884e2f 100644
---- a/gineco1_6.txt
-+++ b/gineco1_6.txt
-@@ -1,21 +1,44 @@
 Climatério
 Flávia Fairbanks Lima de Oliveira Marino
 
