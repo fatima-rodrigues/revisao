@@ -1,0 +1,152 @@
+diff --git a/obstetricia1_2.txt b/obstetricia1_2.txt
+index 80fa6fe..4690e10 100644
+--- a/obstetricia1_2.txt
++++ b/obstetricia1_2.txt
+@@ -1,8 +1,7 @@
+Modificações locais e sistêmicas no organismo mater[---]no
+Fábio Roberto Cabar
+
+[-Resumo-]Várias são as alterações ocorridas no corpo durante a gestação. Este capítulo aborda, de maneira abrangente, tanto modifi[---]ca{+-+}ções locais do sistema reprodutor quanto modificações sistêmicas após a concepção. As alterações mais abordadas por ques{+-+}tões ocorrem no sistema cardiovascular: a queda da pressão arterial é observada graças à diminuição da resistência periférica e à adição de um circuito de baixa pressão por meio da circulação uteroplacentária. Na gestação, ocorre aumento do volume sanguíneo acompanhando de menor aumento da celularidade vermelha, levando ao estado de hemodiluição, ou anemia fisio{+-+}lógica da gestação. Há diminuição da resistência vascular e aumento da frequência cardíaca, levando a queda dos níveis pres{+-+}sóricos. A síndrome hipercinética caracteriza o sistema cardiovascular na gestação. As alterações mais importan[---]tes acontecem no débito cardíaco e na distribuição dos fluxos sanguíneos aos diversos sistemas.
+
+1. Introdução
+
+@@ -21,6 +20,7 @@ A progesterona tem importante papel na manuten
+
+As glândulas cervicais também sofrem hiperplasia e hipertrofia desde o início da gestação, resultando, na maioria das ve-zes, na exposição da junção escamocolunar. Esse fato torna a ectocérvice friável e mais suscetível a traumatismos e sangra-mentos.
+Após a nidação, é verificado amolecimento na zona de implantação do embrião. Este se propaga por todo o órgão, princi-palmente nas regiões do istmo (sinal de Hegar – Figuras 1 e 2) e do colo uterino (sinal de Goodell). É a embebição gravídica que torna o útero mole e pastoso.
+
+ 
+Figura 1 - Avaliação para a presença do sinal de Hegar
+
+@@ -55,7 +55,7 @@ Estrias grav
+Figura 5 - Tubérculos de Montgomery e aréola secundária na mama gravídica
+
+Diagnóstico
+São sinais prováveis de gravidez: sinal de Halban – presença de lanugem na testa, junto aos limites do couro cabeludo; sinal de Hegar – corresponde ao amolecimento do istmo do útero, permitindo a sua movimentação; sinal de Osiander – presença de pulso vaginal; sinal de Nobile-Budin – preenchimento dos fundos de sacos laterais ao toque vaginal; sinal de Jacquemier e sinal de Kluge – coloração violácea da vagina e da vulva, respectivamente; sinal de Hunter – denota a hi{+-+}perpigmentação da aréola secundária; tubérculos de Montgomery – correspondentes à hipertrofia das glândulas sebá{+-+}ceas na região da aréola mamária.[- -]
+
+3. Modificações sistêmicas
+
+@@ -63,7 +63,7 @@ A - Postura e deambula
+À medida que o útero aumenta, extrapolando os limites da pelve e se apoiando na parede abdominal, e as mamas aumen-tadas de volume pesam no tórax, o centro de gravidade da gestante é alterado. Para compensar esse fato e se manter em pé com equilíbrio, a gestante empina o ventre, joga o corpo para trás e afasta os pés para ampliar o polígono de sustentação. Observa-se progressiva lordose lombar associada a hipercifose cervical e marcha típica, com passos lentos e curtos, conheci-da como “marcha anserina”. Esses fatos são responsáveis por queixas comuns de dores lombares e cervicais.
+
+  
+Figura 6 - Alteração no eixo gravitacional da gestante, decorrente do progressivo aumento do volume abdominal e da embebição graví[---]dica das articulações
+
+B - Sistema osteoarticular
+De maneira geral, todas as articulações das gestantes tornam-se relaxadas devido aos efeitos dos estrogênios e da proges-terona. Essas modificações são mais proeminentes nas articulações pélvicas (pube, articulações sacroilíacas e sacrococcígeas): as cartilagens articulares aumentam a sua vascularização e hidratação, com os ligamentos articulares se tornando mais disten-didos. A sínfise púbica, por exemplo, começa a sofrer relaxamento na 1ª metade da gestação e é condicionada à intensidade do fenômeno de embebição gravídica.
+@@ -97,7 +97,7 @@ a) I, II
+b) I, IV
+c) III, IV
+d) I, II, III
+e) II, III, IV{+	+}
+Resposta no final do capítulo
+
+Anorexia e náuseas são relativamente comuns no 1º trimestre da gestação. As gengivas tornam-se mais frágeis, podendo sangrar ao menor trauma. Não é comum o aumento na incidência de cáries.
+@@ -112,14 +112,12 @@ Ocorre aumento da frequ
+Caracteristicamente, observa-se a redução dos níveis de pressão arterial, causada pelo desenvolvimento da placenta, ter-ritório de baixa resistência, que funciona como fístula arteriovenosa e causa diminuição da resistência vascular periférica, mais acentuada no início da gestação do que no termo, mostrando que a vasodilatação envolve territórios vasculares além do uteroplacentário. A pressão diastólica reduz-se mais significativamente (10 a 15mmHg). Os menores valores de pressão arte-rial são encontrados no 2º trimestre, e, a partir de então, esses níveis ascendem gradativamente até atingirem valores pré-gravídicos próximo ao termo. 
+
+Importante
+Os níveis pressóricos da gestante atingem seu patamar mais baixo no 2º trimestre de gestação.{+ A partir de então voltam a aumentar, atingindo valores pré-gravídicos próximo ao termo.+}
+
+O útero aumentado comprime a veia cava inferior, dificultando o retorno venoso e aumentando a pressão venosa nos membros inferiores. Isso pode acarretar o aparecimento de edemas e varizes nesses membros.
+
+ 
+Figura 10 - Débito cardíaco comparativo entre não gestantes e {+em +}diversos momentos da gravidez
+
+Pergunta
+2015 - HCV
+@@ -128,21 +126,19 @@ a) aumento do d
+b) aumento do débito cardíaco, aumento do volume plasmático, aumento da reatividade vascular, diminuição da resistência periférica
+c) aumento do débito cardíaco, diminuição do volume plasmático, diminuição da reatividade vascular, diminuição da resis-tência periférica
+d) diminuição do débito cardíaco, aumento do volume plasmático, diminuição da reatividade vascular, diminuição da resis-tência periférica
+e) diminuição do débito cardíaco, aumento do volume plasmático, diminuição da reatividade vascular, aumento da resis{+-+}tên[---]cia periférica
+Resposta no final do capítulo
+
+F - Sangue
+A volemia aumenta cerca de 50% durante a gestação. O volume começa a se elevar durante o 1º trimestre, cresce mais rapidamente no 2º, atingindo valores máximos próximos à 28ª semana, e permanece estável até o termo. A hipervolemia atende às maiores demandas da gestante, particularmente do útero gravídico, e a prepara para as perdas hemorrágicas que ocorrem no parto.
+A hipervolemia resulta do aumento do volume plasmático e do número de células sanguíneas. O volume globular aumen[---]ta, em média, 250mL, decorrente da produção acelerada de hemácias, e não do aumento de sua vida média. Entretanto, os valores da hemoglobina e do hematócrito começam a diminuir entre o 3º e o 5º meses de gestação, pois o aumento do volu[---]me eritrocitário é proporcionalmente inferior ao do volume plasmático. {+O aumento do volume plasmático é de 40 a 50%, enquanto o do volume eritrocitário é de 20 a 30%. +}Esse achado é conhecido como “anemia fisiológica da gravidez” ou “anemia dilucional”, e valores de hemoglobina >11g/dL são considerados normais durante a gestação.
+Na gestação, observa-se maior produção de neutrófilos polimorfonucleares. Pode ser encontrada relativa leucocitose, com leucograma podendo atingir até 15.000 células. Como o feto se apresenta como um corpo estranho ao organismo ma-terno, ocorre a supressão das imunidades celular e humoral, com o objetivo de evitar a “rejeição” dele.
+O número de plaquetas diminui ligeiramente, o que decorre da hemodiluição e do aumento do consumo. A atividade fi-brinolítica no plasma diminui acentuadamente e permanece assim durante o parto, para diminuir os riscos de hemorragia durante a dequitação. O retorno à normalidade acontece em menos de 1 hora após esse evento.
+O sistema hemostático é responsável pela integridade e permeabilidade do sistema vascular. Desde o 1º trimestre, o nível de fibrinogênio do plasma se eleva e, próximo ao parto, atinge 4 a 6g/L. Os fatores de coagulação VII, VIII, IX e X também se encontram aumentados. Em contrapartida, os fatores XI e XIII estão diminuídos no final da gestação. A atividade das proteínas C, S e antitrombina III não se altera.
+[-É importante salientar que esse estado “pró-coagulante” da gestação gera, em alguns casos, maior suscetibilidade à ocor-rência de trombose vascular e/ou de tromboembolias.-]
+
+ 
+Figura 11 - Alterações sanguíneas ao longo da gravidez e no pós-parto imediato
+
+
+G - Sistema respiratório
+O diâmetro da caixa torácica aumenta cerca de 2 a 3cm, e a circunferência, 6cm, pelo relaxamento das articulações cos-toesternais. O diafragma eleva-se 4cm durante o decorrer da gestação.
+O volume corrente aumenta 40% durante a gravidez. Ocorre diminuição progressiva do volume expiratório de reserva e do volume residual, com consequente redução da capacidade residual funcional. Entretanto, a capacidade total pulmonar não é alterada, pois, com discreto aumento na capacidade inspiratória, há a compensação dessa diminuição do volume de reserva expiratório.
+@@ -151,7 +147,8 @@ De 60 a 70% das gestantes relatam dispneia ao longo da gesta
+
+H - Sistema urinário
+O fluxo plasmático renal eleva-se rapidamente desde o início da gestação e se mantém em 1.200mL/min até o termo. A taxa de filtração glomerular também, e valores de 150mL/min são encontrados no último trimestre. Como consequência, observam-se aumento no clearance de creatinina e diminuição nas concentrações plasmáticas de ureia e creatinina. O au-mento na taxa de filtração glomerular da glicose, sem alteração de sua capacidade de reabsorção tubular, provoca o apareci-mento de glicosúria (glicosúria fisiológica da gravidez). Da mesma forma, até 300mg de proteína podem ser encontrados ao dia na urina das gestantes, achado que não pode ser classificado como patológico.
+{+Devido à compressão pelo útero gravídico, pode-se encontrar, em exames ultrassonográficos, uma dilatação dos ureteres, sendo esta alteração fisiológica durante a gestação, não sendo, portanto, necessários a investigação ou o tratamento.+}
+A dextrorrotação do útero e a ação miorrelaxante da progesterona nos ureteres provocam certo grau de estase urinária ureteral. Esses fatores, somados à relativa alteração da imunidade da gestante, predispõem à infecção urinária. Desta forma, a bacteriúria assintomática, definida como presenc¸a de ao menos 100.000UFC/mL em urina coletada do jato me´dio da mic[-c¸-]{+ç+}a~o e pelo menos 100UFC/mL em urina coletada por cateterismo uretral em assintomáticos, tem indicação absoluta de tratamento durante a gestação. [-Trabalh-]{+Estud+}os mostram que até 30% das gestantes com bacteriúria assintomática não tratada desenvolvem ao menos 1 episódio de pielonefrite ao longo dos 9 meses de gestação. O tratamento da bacteriúria assintomática durante a gestação é eficaz na redução de incidência de pielonefrite na gravidez, parto prematuro e baixo peso ao nascer.
+
+Dica
+Pequenas quantidades de glicosúria e proteinúria são fisiológicas na gestação.
+@@ -170,8 +167,7 @@ A produ
+As taxas do hormônio estimulador da tireoide, o TSH, não estão aumentadas durante a gestação. O volume da glândula ti-reoide aumenta, sendo possível a palpação já no 1º trimestre. A tireoide materna sofre hiperplasia e hipertrofia dos ácinos glandulares, com aumento de sua vascularização e, em geral, murmúrio à ausculta.
+Ocorre aumento na produção dos hormônios tireoidianos: tiroxina (T4) e triiodotironina (T3). Esse aumento se dá pela presença de fatores estimuladores da tireoide de origem placentária: gonadotrofina coriônica humana (HCG) e tireotrofina coriônica. Também nesse período, as células hepáticas sintetizam maiores quantidades de proteínas transportadoras de hor-mônios, especialmente de globulina transportadora de tiroxina (TBG). Desta forma, a gestante mantém-se eutireóidea, pois, apesar de a concentração total dos hormônios tireoidianos estar aumentada, eles se encontram ligados à TBG; assim, a T4 livre permanece em taxas normais. 
+A secreção de aldosterona eleva-se no decorrer da gestação, particularmente no último trimestre. Na verdade, a ativida-de de todo o sistema renina–angiotensina–aldosterona está aumentada, o que gera consequente elevação na reabsorção renal de sódio.
+O hormônio lactogênio placentário (HPL) é um produto da placenta que não depende de precursores maternos ou fetais, e seus níveis são diretamente proporcionais à massa de tecido trofoblástico. Destina-se ao compartimento materno, sendo muito pequenas as concentrações encontradas nos fetos. Seus níveis no sangue periférico das gestantes aumentam gradual-mente até um máximo por volta da 36ª semana, ocorrendo diminuição no puerpério. É pouco provável que o HPL desempe{+-+}nhe qualquer papel no crescimento fetal. Exerce atividade metabólica promovendo, ao lado do cortisol, a mobilização das reservas hepáticas de glicogênio (aumentando as taxas de glicose circulante) e provo[---]cando lipólise e elevação dos níveis de ácidos graxos livres. Esses 2 efeitos geram fonte de energia para o metabolismo ma[---]terno e beneficiam a nutrição fetal. O aumento da glicemia materna causado pela ação do HPL provoca resposta pancreática da gestante, com incremento na pro{+-+}dução de insulina visando manter normais os níveis de glicose circulantes; as taxas de insulina atingem, no termo, cerca de 10 vezes os seus valores basais. O aumento da produção de insulina ao longo da gesta[---]ção é proporcional à elevação do HPL. Quando isso não ocorre, surge o diabetes gestacional.
+Por volta do 22º dia do ciclo menstrual do mês em que ocorreu a fecundação, o corpo lúteo apresenta exuberante de-senvolvimento. Esse período coincide com a fase de implantação do blastocisto no endométrio materno. A gonadotrofina coriônica produzida pelas células trofoblásticas do produto conceptual inibe a luteólise, mantendo o funcionamento do corpo lúteo. A progesterona é o principal hormônio sintetizado pelo corpo lúteo e responsável pela manutenção da gestação (o corpo lúteo é a maior fonte de progesterona nas 10 primeiras semanas de gestação). A retirada do corpo lúteo ou de todo o ovário que o contém nas primeiras semanas da gestação determina, inevitavelmente, sua interrupção. A placenta produz aproximadamente 250mg/d de progesterona no termo da gestação. Esses valores aumentam da média de 15ng/mL na fase secretora do ciclo menstrual, passando para 40ng/mL na 10ª semana e atingindo 200ng/mL no termo. O sinciciotrofoblasto sintetiza esse hormônio esteroide a partir do colesterol materno. O colesterol passa da corrente sanguínea materna para o trofoblasto ligado a proteínas de baixa densidade (LDL) por intermédio do processo de endocitose. Ultrapassadas as fases iniciais da gestação, a função mais importante desse hormônio é manter a quiescência uterina, permitindo ao útero se disten-der passivamente. Os níveis de progesterona no miométrio são 3 vezes superiores aos do plasma materno e continuam a se elevar até o termo.
+Na fase inicial, o corpo lúteo é a maior fonte produtora de estrogênios, e o estradiol representa seu principal produto. Os níveis de estradiol se elevam lentamente nessa fase, com produção mais acentuada a partir da 8ª semana. A produção desses hormônios pelo corpo lúteo se torna secundária quando a placenta adquire capacidade plena de produção hormonal, por volta de 9 a 10 semanas de gestação. A placenta utiliza precursores presentes na circulação materna e fetal. Os estrogênios estimulam os receptores do colesterol LDL na placenta, atuam na clivagem do colesterol para início da esteroidogênese e promovem a secreção da progesterona. Além disso, aumentam o volume plasmático materno pela estimulação do sistema renina–angiotensina–aldosterona, induzem a vasodilatação no leito vascular uteroplacentário e influem na síntese de fibrino-gênio, albumina e globulina.
+
+@@ -190,7 +186,7 @@ As taxas de magn
+As demandas de ferro estão elevadas, principalmente, na 2ª metade da gestação. O feto requer grande porção dos esto-ques de ferro da mãe, por isso é necessária a suplementação desse elemento durante a gravidez. É recomendável a utilização de 40 a 60mg de ferro elementar (200 a 300mg de sulfato ferroso) por dia a partir da 20ª semana até 2 a 3 meses depois do parto, para evitar anemia ferropriva materna.
+
+B - Equilíbrio hidroeletrolítico
+Durante a gestação, observa-se retenção hídrica. Ocorre aumento na quantidade de água no organismo materno (cerca de 8L) mediado por alteração na secreção hipofisária de ADH e na regulação do centro de sede. Os tecidos ficam mais hidra[---]ta{+-+}dos do que fora da gravidez. Esse aumento de volume de água ocasiona retenção proporcional de sódio, mediado pelo siste{+-+}ma renina–angiotensina–aldosterona e que visa manter a osmolaridade plasmática. A quantidade total de sódio e potás[---]sio é maior na gestação, porém, por estarem diluídos, a concentração sérica desses íons está diminuída nesse período.
+
+C - Carboidratos
+Na gestação normal, observam-se leve hipoglicemia de jejum, hiperglicemia pós-prandial e hiperinsulinemia. O consumo contínuo de glicose pelo feto e seu rápido transporte por meio da placenta influenciam o metabolismo da gestante, gerando estado de hipoglicemia de jejum (níveis de glicemia 15 a 20mg% inferiores aos pré-gravídicos) em todos os períodos da gesta-ção. A hiperglicemia pós-prandial é explicada pelo aumento da resistência periférica a insulina, gerando menor consumo celular de glicose; acredita-se que hormônios placentários (especialmente o HPL), estrogênios, progesterona e cortisol sejam os responsáveis por esse aumento de resistência. A menor utilização de glicose por parte das células maternas proporciona ao feto maior disponibilidade desse substrato energético, fundamental para o seu desenvolvimento na vida intraútero.
+@@ -205,7 +201,7 @@ E - Lip
+As concentrações plasmáticas de lipídios, apolipoproteínas e lipoproteínas ficam mais altas. Verifica-se aumento de LDL, HDL e triglicérides durante toda a gestação, com retorno a valores pré-gravídicos no puerpério.
+A maior produção de hormônios favorecedores de lipólise (glucagon, HPL, GH) aumenta a disponibilidade de ácidos gra-xos livres no plasma materno. A lipólise e a hiperinsulinemia facilitam a cetose materna na vigência de jejum prolongado.
+
+[-5. -]Resumo
+
+Quadro-resumo
+Principais alterações fisiológicas da gestação
+@@ -214,11 +210,12 @@ Mamas
+- 	Aumento da vascularização (rede de Haller);
+- 	Hipertrofia de glândulas sebáceas (tubérculos de Montgomery);
+- 	Hiperpigmentação mamilar (sinal de Hunter). 
+Digestivas{+ +}
+- 	Refluxo gastroesofágico;
+- 	Aumento dos níveis séricos de fosfatase alcalina;
+- 	Diminuição da albumina sérica;
+- [-	-]Maior incidência de estase biliar (risco de cálculos biliares)[-.-]{+;+}
+{+-+} {+Constipação intestinal.+}
+Cardiovasculares
+-	Menor resistência vascular periférica global;
+- 	Aumento do volume sanguíneo;
+@@ -227,13 +224,14 @@ Cardiovasculares
+- 	Diminuição da pressão arterial;
+-	Diminuição da resistência vascular pulmonar.
+Sanguíneas
+{+ +}- [-	-]Diminuição nos níveis de hemoglobina e hematócrito;{+ anemia dilucional; +}
+- [-	-]Leucocitose discreta (aumento de neutrófilos polimorfonucleares);
+- [-	-]Diminuição das plaquetas e da atividade fibrinolítica, aumento de fatores de coagulação e atividade pró-coagulação.
+Respiratórias{+ +}
+- [-	-]Aumento de pO2 e diminuição de pCO2 arteriais;
+- [-	-]Aumento de volume corrente e diminuição da capacidade residual funcional;
+- [-	-]Capacidade total pulmonar inalterada[-.-]{+;+}
+{+- Alcalose+} {+respiratória compensada.+}
+Renais
+- 	Aumento da filtração glomerular e do clearance de creatinina;
+- 	Diminuição de ureia e creatinina plasmáticas;
+@@ -263,11 +261,6 @@ Vulva e vagina
+- Proliferação de células da camada intermediária e intensificação do padrão progestacional; 
+- Descamação celular que aumenta a concentração de glicogênio livre e diminui o pH vaginal durante a gravidez.
+
+Respostas[-1. D-]
+[-2. A-]
+
+[-Dica-]
+[-Para-] [-fix-]{+d+}a[-r o-]{+s+} que[- e-]st[-udou n-]{+õ+}es[-te-]{+ do+} capítulo[-, teste seus conhecimentos resolvendo as questões referentes ao-]
+ [-tema-]{+1+}.[-Questões: página XX-]
+[-Comentários:-] [-página-]{+D+}
+ [-XX-]{+2.+} {+A+}
