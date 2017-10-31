@@ -1,19 +1,20 @@
 Anatomia e fisiologia do esôfago
-Fábio Carvalheiro / Eduardo Bertolli
-Yeda Mayumi Kuboki / Rodrigo Biscuola Garcia
-Lúcia C. Barcellos Kunen
+Fábio Carvalheiro
+Eduardo Bertolli
+Yeda Mayumi Kuboki
+Rodrigo Biscuola Garcia
+Lúcia Cláudia Pereira Barcellos
 
-Resumo
-Neste capítulo, faremos uma revisão da anatomia e fisiologia do esôfago. O esôfago é um órgão tubulomuscular que trans-porta o alimento deglutido até o estômago por meio da peristalse coordenada. Esse órgão tem constrições anatômicas rele-vantes: o esfíncter cricofaríngeo, a constrição broncoaórtica e a constrição diafragmática, além de diferir dos demais órgãos do trato gastrintestinal por não apresentar a camada serosa, fato de extrema relevância para os procedimentos cirúrgicos adotados na região, principalmente com relação a suturas e anastomoses, devido à maior incidência de complicações, como fístulas e deiscências. O esôfago pode ser dividido em proximal, médio e distal, o que lhe confere irrigação e drenagem venosa/linfática por diferentes vasos que se relacionam a diferentes regiões, e difere do restante do tubo digestivo por não apresentar um sistema marca-passo e ritmo elétrico básico. O estímulo natural que ativa a sua musculatura é primariamente a deglutição e, secundariamente, a distensão de suas paredes. Os esfíncteres esofágicos, superior e inferior, mantêm-se contraídos e relaxam em resposta a estímulos específicos descritos ao longo do capítulo. Esses assuntos normalmente são dados no ciclo básico da faculdade, mas acabam caindo no esquecimento; ainda assim, são cobrados com frequência razoá-vel nas provas, e vale revê-los. 
+Neste capítulo, faremos uma revisão da anatomia e fisiologia do esôfago. O esôfago é um órgão tubulomuscular que transporta o alimento deglutido até o estômago por meio da peristalse coordenada. Esse órgão tem constrições anatô-micas relevantes: o esfíncter cricofaríngeo, a constrição broncoaórtica e a constrição diafragmática, além de diferir dos demais órgãos do trato gastrintestinal por não apresentar a camada serosa, fato de extrema relevância para os procedi-mentos cirúrgicos adotados na região, principalmente com relação a suturas e anastomoses, devido à maior incidência de complicações, como fístulas e deiscências. O esôfago pode ser dividido em proximal, médio e distal, o que lhe confe-re irrigação e drenagem venosa/linfática por diferentes vasos que se relacionam a diferentes regiões, e difere do res-tante do tubo digestivo por não apresentar um sistema marca-passo e ritmo elétrico básico. O estímulo natural que ativa a sua musculatura é primariamente a deglutição e, secundariamente, a distensão de suas paredes. Os esfíncteres esofá-gicos, superior e inferior, mantêm-se contraídos e relaxam em resposta a estímulos específicos descritos ao longo do capítulo. Esses assuntos normalmente são dados no ciclo básico da faculdade, mas acabam caindo no esquecimento; ainda assim, são cobrados com frequência razoável nas provas, e vale revê-los. 
 
-1. Anatomia
+1.	Anatomia
 
-O esôfago é um órgão tubulomuscular que mede de 25 a 35cm de comprimento, com início próximo à cartilagem cricoi-de, ao nível de C6, e término em T11 (Figura 1). Tem posição mediana, porém se inclina levemente para a esquerda, já na região cervical. O ponto de referência utilizado para medir a distância de lesões esofágicas é a Arcada Dentária Superior (ADS), e não o início do órgão. Deste modo, a medida obtida por endoscópio em adultos demonstra que a transição esofago-gástrica está a 40cm dos dentes incisivos.
+	O esôfago é um órgão tubulomuscular que mede de 25 a 35cm de comprimento, com início próximo à cartilagem cricoide, ao nível de C6, e término em T11 (Figura 1). Tem posição mediana, porém se inclina levemente para a es-querda, já na região cervical. O ponto de referência utilizado para medir a distância de lesões esofágicas é a Arcada Dentária Superior (ADS), e não o início do órgão. Deste modo, a medida obtida por endoscópio em adultos demonstra que a transição esofagogástrica está a 40cm dos dentes incisivos.
 
 Tabela 1 - Constrições anatômicas 
 Esfíncter cricofaríngeo (14mm de diâmetro)	- Ponto mais estreito de todo o tubo digestivo;
 	- Distância de, aproximadamente, 16cm da ADS.
-Constrição broncoaórtica (15 a 17mm de diâ-metro)	- Localizada na altura de T4, por trás da bifurcação da traqueia, onde o brônquio-fonte principal esquerdo e o arco aórtico cruzam o esôfago; 
+Constrição broncoaórtica (15 a 17mm de diâmetro)	- Localizada na altura de T4, por trás da bifurcação da traqueia, onde o brônquio-fonte principal esquerdo e o arco aórtico cruzam o esôfago; 
 	- Distância de 23 a 25cm da ADS.
 Constrição diafragmática (16 a 19mm de diâmetro)	Onde o esôfago cruza o diafragma, a 38cm da ADS, na altura de T11
 
@@ -21,119 +22,116 @@ Constrição diafragmática (16 a 19mm de diâmetro)	Onde o esôfago cruza o diafragm
 Figura 1 - Estreitamentos anatômicos, distância da arcada dentária e relação com a aorta
 
 Tabela 2 - Divisão do esôfago de acordo com a anatomia cirúrgica
-Esôfago cervical	Até cricofaríngeo (a 18cm da ADS)
+Esôfago cervical	Início a partir do músculo cricofaríngeo e extensão até o início da 1ª vértebra torácica (a 18cm da ADS)
 Esôfago torácico 
 (18 a 38cm da ADS)	Superior	Entre o esôfago cervical e a carina
 	Médio	Abaixo da carina até meia distância da transição diafragmática
 	Inferior	Após o esôfago médio até a transição diafragmática
-Esôfago 
-abdominal	Abaixo da linha do diafragma (38 a 40cm da ADS)
+Esôfago abdominal	Abaixo da linha do diafragma (38 a 40cm da ADS)
 
-A parede esofágica apresenta 4 camadas: mucosa, submucosa, muscular e adventícia, não existindo camada serosa. 
+	A parede esofágica apresenta 4 camadas: mucosa, submucosa, muscular e adventícia, sem camada serosa. 
 
 A - Mucosa
-O revestimento esofágico consiste em epitélio escamoso estratificado não queratinizado. Contém ainda um pequeno nú-mero de outras células, incluindo células endócrinas argirófilas, melanócitos, linfócitos, células de Langerhans (macrófagos) e eosinófilos. Neutrófilos não estão presentes no epitélio sadio.
-Abaixo do epitélio está a lâmina própria, uma frouxa rede de tecido conectivo onde existem vasos sanguíneos e raros lin-fócitos, macrófagos e plasmócitos. Ela se protrai, a alguns intervalos, no epitélio, formando cristas papilares que representam menos de 50% da espessura do epitélio.
-A parte muscular da mucosa é uma fina camada de tecido muscular liso que separa a lâmina própria acima da submucosa.
-A transição esofagogástrica pode ser reconhecida pela presença de linha Z branca irregular, demarcando a interface en-tre a luz do esôfago e a mucosa gástrica avermelhada (epitélio cilíndrico). Ocorre no nível dos 2 últimos centímetros do esô-fago, em nível intra-abdominal.
+	O revestimento esofágico consiste em epitélio escamoso estratificado não queratinizado. Contém ainda um pe-queno número de outras células, incluindo células endócrinas argirófilas, melanócitos, linfócitos, células de Langerhans (macrófagos) e eosinófilos. Neutrófilos não estão presentes no epitélio sadio.
+	Abaixo do epitélio está a lâmina própria, uma frouxa rede de tecido conectivo onde existem vasos sanguíneos e raros linfócitos, macrófagos e plasmócitos. Ela se protrai, a alguns intervalos, no epitélio, formando cristas papilares que representam menos de 50% da espessura do epitélio.
+	A parte muscular da mucosa é uma fina camada de tecido muscular liso que separa a lâmina própria acima da submucosa.
+	A transição esofagogástrica pode ser reconhecida pela presença de linha Z branca irregular, demarcando a inter-face entre a luz do esôfago e a mucosa gástrica avermelhada (epitélio cilíndrico). Ocorre no nível dos 2 últimos centí-metros do esôfago, em nível intra-abdominal.
 
  
 Figura 2 - Histologia da parede esofágica: (L) luz do órgão; (EEp) epitélio estratificado; (M) Mucosa; (MM) Muscular da Mucosa; (GE) Glândulas Esofágicas; (Sm) submucosa; (MCi) camada muscular circular interna e (ML) camada muscular longitudinal externa 
 
 B - Submucosa
-A submucosa compreende uma densa rede de tecido conectivo onde existem vasos sanguíneos, canais linfáticos, neurô-nios do plexo de Meissner (Figura 3) e glândulas esofágicas. Essas glândulas consistem em células cuboides organizadas em ácinos, que produzem e secretam lubrificantes, muco e fatores como bicarbonato e fator de crescimento epidérmico, impor-tantes na defesa e no reparo epitelial. É a camada mais resistente da parede esofágica, tendo papel importante no que diz respeito à sua inclusão nas anastomoses cirúrgicas.
+	A submucosa compreende uma densa rede de tecido conectivo onde existem vasos sanguíneos, canais linfáticos, neurônios do plexo de Meissner (Figura 3) e glândulas esofágicas. Essas glândulas consistem em células cuboides orga-nizadas em ácinos, que produzem e secretam lubrificantes, muco e fatores como bicarbonato e fator de crescimento epidérmico, importantes na defesa e no reparo epitelial. É a camada mais resistente da parede esofágica, tendo papel importante no que diz respeito à sua inclusão nas anastomoses cirúrgicas.
 
  
 Figura 3 - Camadas esofágicas e inervação 
 
 C - Camada muscular
-No plano muscular, o esôfago é composto por uma camada interna (circular) e outra externa (longitudinal). 
+	No plano muscular, o esôfago é composto por uma camada interna (circular) e outra externa (longitudinal). 
 
 Dica
-De 5 a 33% superiores do esôfago são compostos exclusivamente de músculo estriado, e os 33% distais, compostos por mus-culatura lisa. Entre estes, há uma mistura de ambos os tipos. 
+De 5 a 33% superiores do esôfago são compostos exclusivamente de músculo estriado, e os 33% distais, compostos por muscula-tura lisa. Entre estes, há uma mistura de ambos os tipos. 
 
 a) Esfíncter esofágico superior
-O Esfíncter Esofágico Superior (EES), denominado também como esfíncter faringoesofágico, é constituído pelo músculo cricofaríngeo e por fibras musculares do esôfago cervical. Sua extensão é de aproximadamente 3cm. Ele se mantém contraí-do durante o repouso, criando uma alta pressão que previne a entrada do ar inspirado no esôfago. 
+	O Esfíncter Esofágico Superior (EES), denominado também como esfíncter faringoesofágico, é constituído pelo músculo cricofaríngeo e por fibras musculares do esôfago cervical. Sua extensão é de aproximadamente 3cm. Ele se mantém contraído durante o repouso, criando uma alta pressão que previne a entrada do ar inspirado no esôfago. 
 
 Dica
-O músculo cricofaríngeo é formado pela porção inferior do músculo constritor faríngeo inferior. 
+O músculo cricofaríngeo é formado pela porção inferior do músculo constritor faríngeo inferior.
 
 b) Esôfago torácico
-Abaixo do EES, a parede esofágica divide-se em camada muscular circular interna e longitudinal externa.
+	Abaixo do EES, a parede esofágica divide-se em camada muscular circular interna e longitudinal externa.
 
 c) Esfíncter esofágico inferior
-O Esfíncter Esofágico Inferior (EEI) caracteriza-se por um espessamento assimétrico de musculatura lisa circular, tonica-mente contraída para superar a pressão intragástrica em condições fisiológicas. Localiza-se normalmente nos 3 ou 4cm distais do esôfago, onde as fibras musculares se mesclam com a musculatura gástrica. 
+	O Esfíncter Esofágico Inferior (EEI) caracteriza-se por um espessamento assimétrico de musculatura lisa circular, tonicamente contraída para superar a pressão intragástrica em condições fisiológicas. Localiza-se normalmente nos 3 ou 4cm distais do esôfago, onde as fibras musculares se mesclam com a musculatura gástrica. 
 
  
 Figura 4 - Composição do esôfago
 
 D - Camada adventícia
-A camada serosa está presente em todo o tubo digestivo, exceto no esôfago. Por esse motivo, as suturas e anastomoses realizadas no esôfago são consideradas de risco, com maior incidência de complicações, como fístulas e deiscências. A cama-da adventícia não é considerada verdadeira por representar somente o tecido conectivo mediastinal ao redor do esôfago.
+	A camada serosa está presente em todo o tubo digestivo, exceto no esôfago. Por esse motivo, as suturas e anas-tomoses realizadas no esôfago são consideradas de risco, com maior incidência de complicações, como fístulas e deis-cências. A camada adventícia não é considerada verdadeira por representar somente o tecido conectivo mediastinal ao redor do esôfago.
 
 Dica 
 A ausência de camada serosa explica a disseminação local dos tumores esofágicos.
 
 E - Relações anatômicas
-O American Joint Committee on Cancer (AJCC) divide o esôfago em 4 áreas: esôfago cervical, torácico, torácico inferi-or/junção esofagogástrica e esôfago abdominal (Figura 5).
+	O American Joint Committee on Cancer (AJCC) divide o esôfago em 4 áreas: esôfago cervical, torácico, torácico inferior/junção esofagogástrica e esôfago abdominal (Figura 5).
 
  
 Figura 5 - Divisão anatômica do esôfago 
 
 a) Esôfago cervical
-Mede cerca de 5 a 7cm de comprimento (aproximadamente 1/5 do órgão). Inicia-se abaixo do EES e vai até o nível da 1ª vértebra torácica. Localiza-se anterior à região pré-vertebral, na linha média, posterior à traqueia. Lateralmente, relaciona-se com artérias carótidas e veias jugulares internas. O nervo laríngeo recorrente esquerdo está em contato direto com o esôfa-go, sendo o laríngeo recorrente direito afastado por questão de milímetros do órgão. Ambos passam pelo ângulo entre o esôfago e a traqueia (Figura 6).
+	Mede cerca de 5 a 7cm de comprimento (aproximadamente 1/5 do órgão). Inicia-se abaixo do EES e vai até o nível da 1ª vértebra torácica. Localiza-se anterior à região pré-vertebral, na linha média, posterior à traqueia. Lateral-mente, relaciona-se com artérias carótidas e veias jugulares internas. O nervo laríngeo recorrente esquerdo está em contato direto com o esôfago, sendo o laríngeo recorrente direito afastado por questão de milímetros do órgão. Ambos passam pelo ângulo entre o esôfago e a traqueia (Figura 6).
 
  
 Figura 6 - Relações anatômicas do esôfago cervical 
 
 b) Esôfago torácico 
-Localizado à esquerda no mediastino superior, com 16 a 18cm, aproximadamente, passa posteriormente à direita do arco aórtico, descendo pelo mediastino posterior ao lado da face direita da aorta torácica. À medida que desce, dirige-se para a esquerda, cruzando anteriormente a aorta e penetrando no hiato esofágico na altura de T10 (Figura 7). 
-É dividido, ainda, em esôfago torácico superior, que se estende da 1ª vértebra torácica até a bifurcação da traqueia, e esôfago médio, da bifurcação da traqueia até o nível aproximado de 32cm da ADS. 
+	Localizado à esquerda no mediastino superior, com 16 a 18cm, aproximadamente, passa posteriormente à direita do arco aórtico, descendo pelo mediastino posterior ao lado da face direita da aorta torácica. À medida que desce, dirige-se para a esquerda, cruzando anteriormente a aorta e penetrando no hiato esofágico na altura de T10 (Figura 7). 
+	É dividido, ainda, em esôfago torácico superior, que se estende da 1ª vértebra torácica até a bifurcação da tra-queia, e esôfago médio, da bifurcação da traqueia até o nível aproximado de 32cm da ADS. 
 
  
-Figura 7 - Esôfago e suas relações anatômicas com órgãos adjacentes: (A) visão anterior; (B) lateral e (C) posterior
-
+Figura 7 - Esôfago e suas relações anatômicas com órgãos adjacentes: (A) visão anterior; (B) lateral; e (C) posterior
   
 Figura 8 - Principais relações anatômicas na direção craniocaudal do esôfago torácico
 
 c) Esôfago torácico inferior/junção esofagogástrica
-Estende-se do esôfago torácico médio até a junção esofagogástrica, a aproximadamente 40cm da ADS.
+	Estende-se do esôfago torácico médio até a junção esofagogástrica, a aproximadamente 40cm da ADS.
 
 d) Esôfago abdominal
-A passagem do esôfago para o abdome ocorre através do hiato esofágico, formado predominantemente pelo pilar dia-fragmático direito. Os pilares nascem das 2ª, 3ª e 4ª vértebras lombares e se inserem na porção tendinosa do diafragma.
-O principal elemento de fixação do esôfago no diafragma é a membrana frenoesofágica, formada pela fusão da pleura, da fáscia endotorácica, da fascia transversalis e do peritônio (Figura 9).
+	A passagem do esôfago para o abdome ocorre através do hiato esofágico, formado predominantemente pelo pilar diafragmático direito. Os pilares nascem das 2ª, 3ª e 4ª vértebras lombares e se inserem na porção tendinosa do diafragma.
+	O principal elemento de fixação do esôfago no diafragma é a membrana frenoesofágica, formada pela fusão da pleura, da fáscia endotorácica, da fascia transversalis e do peritônio (Figura 9).
 
  
 Figura 9 - Esôfago abdominal e relações com diafragma
 
 F - Vascularização
-
 a) Arterial
-Os suprimentos sanguíneos arterial e venoso do esôfago são segmentares. 
+	Os suprimentos sanguíneos arterial e venoso do esôfago são segmentares. 
 
 Tabela 3 - Artérias envolvidas no suprimento sanguíneo de cada porção esofágica
 Esôfago superior	Ramos das artérias tireoidianas superior e inferior
-Esôfago médio	Ramos das artérias brônquicas e artérias intercostais direitas e aorta descenden-te
+Esôfago médio	Ramos das artérias brônquicas e artérias intercostais direitas e aorta descendente
 Esôfago distal	Ramos da gástrica esquerda, frênica inferior esquerda e esplênica
 
-Estes vasos se anastomosam, criando uma densa rede na submucosa, provavelmente responsável pela raridade do infarto esofágico (Figura 10).
+	Estes vasos se anastomosam, criando uma densa rede na submucosa, provavelmente responsável pela raridade do infarto esofágico (Figura 10).
 
  
 Figura 10 - Suprimento arterial do esôfago
 
 b) Venosa
-Formada por 3 segmentos, com drenagem paralela à rede arterial (Figura 11).
+	Formada por 3 segmentos, com drenagem paralela à rede arterial (Figura 11).
 
 Tabela 4 - Drenagem venosa do esôfago
 Terço superior	Drenagem para a cava superior através das veias tireóideas inferiores
 Terço médio	Drenagem para a cava superior através dos sistemas ázigos e hemiázigos
 Terço inferior	Drenagem para o sistema porta através da veia gástrica esquerda e das veias gástricas curtas
+	Existe, na submucosa, um fino plexo venoso que drena para veias mais calibrosas também na submucosa, situa-das de maneira regular ao redor do esôfago, em toda a sua circunferência e em toda a sua extensão. Forma uma espé-cie de rede que se comunica com os sistemas porta e sistêmico nos 3 segmentos esofágicos. Os sistemas anastomosam-se entre si, permitindo desvio do sangue em caso de obstrução.
 
-Existe, na submucosa, um fino plexo venoso que drena para veias mais calibrosas também na submucosa, situadas de ma-neira regular ao redor do esôfago, em toda a sua circunferência e em toda a sua extensão. Forma uma espécie de rede que se comunica com os sistemas porta e sistêmico nos 3 segmentos esofágicos. Os sistemas anastomosam-se entre si, permitindo desvio do sangue em caso de obstrução.
  
 Figura 11 - Drenagem venosa do esôfago
 
 c) Drenagem linfática
-O sistema linfático do esôfago possui extensa drenagem linfática, que consiste em 2 plexos linfáticos, um na mucosa e o outro na camada muscular. Os capilares linfáticos da mucosa podem penetrar a camada muscular e drenar para os linfonodos regionais. A drenagem também parece ser segmentar (Figura 12): 
+	O sistema linfático do esôfago possui extensa drenagem linfática, que consiste em 2 plexos linfáticos, um na mu-cosa e o outro na camada muscular. Os capilares linfáticos da mucosa podem penetrar a camada muscular e drenar para os linfonodos regionais. A drenagem também parece ser segmentar (Figura 12): 
 
 Tabela 5 - Drenagem linfática do esôfago
 Esôfago superior	Drenagem para os linfonodos cervicais profundos
@@ -148,12 +146,13 @@ Pergunta
 1. Quanto à anatomia do esôfago, assinale a alternativa incorreta:
 a) o esôfago cervical recebe grande parte de sua irrigação das artérias tireóideas inferiores 
 b) o terço médio do esôfago é suprido por artérias esofágicas vindas diretamente da aorta
-c) o esôfago abdominal recebe irrigação da artéria gástrica esquerda  
+c) o esôfago abdominal recebe irrigação da artéria gástrica esquerda
 d) o terço superior é suprido por artérias esofágicas vindas diretamente da aorta
 e) o terço médio do esôfago recebe irrigação de ramos das artérias brônquicas
 Resposta no final do capítulo
+
 G - Inervação
-A porção muscular lisa da parede esofágica é inervada por ambos os nervos: simpático e parassimpático. Os parassimpáti-cos regulam a peristalse por meio do nervo vago. Os troncos celulares dos neurônios motores do nervo vago originam-se na medula. Aqueles localizados no núcleo ambíguo controlam o músculo esquelético, e aqueles no núcleo dorsal motor contro-lam a musculatura lisa. Os primeiros nervos eferentes vagais medulares terminam direto na placa motora do músculo esque-lético do esôfago superior, enquanto os últimos nervos eferentes vagais pré-gangliônicos para o músculo liso do esôfago distal terminam nos neurônios no plexo de Auerbach, entre as camadas musculares longitudinal e circular. Uma 2ª via neuro-nal sensitiva, o plexo de Meissner, localizado na submucosa, é o sítio dos impulsos aferentes na parede esofágica. Estes são transmitidos ao sistema nervoso central por meio dos nervos parassimpáticos vagais e nervos simpáticos torácicos. Sinais sensoriais transmitidos via aferente vagal viajam para o núcleo do trato solitário no sistema nervoso central; desse local, a inervação passa para o núcleo ambíguo e núcleo dorsal motor do vago, onde seus sinais podem influenciar a função motora (Figura 13).
+	A porção muscular lisa da parede esofágica é inervada por ambos os nervos: simpático e parassimpático. Os parassimpáticos regulam a peristalse por meio do nervo vago. Os troncos celulares dos neurônios motores do nervo vago originam-se na medula. Aqueles localizados no núcleo ambíguo controlam o músculo esquelético, e aqueles no núcleo dorsal motor controlam a musculatura lisa. Os primeiros nervos eferentes vagais medulares terminam direto na placa motora do músculo esquelético do esôfago superior, enquanto os últimos nervos eferentes vagais pré-gangliônicos para o músculo liso do esôfago distal terminam nos neurônios no plexo de Auerbach, entre as camadas musculares longitudinal e circular. Uma 2ª via neuronal sensitiva, o plexo de Meissner, localizado na submucosa, é o sítio dos impulsos aferentes na parede esofágica. Estes são transmitidos ao sistema nervoso central por meio dos ner-vos parassimpáticos vagais e nervos simpáticos torácicos. Sinais sensoriais transmitidos via aferente vagal viajam para o núcleo do trato solitário no sistema nervoso central; desse local, a inervação passa para o núcleo ambíguo e núcleo dorsal motor do vago, onde seus sinais podem influenciar a função motora (Figura 13).
 
 Dica
 A parte abdominal do esôfago é inervada pelos troncos vagais, que se tornam os nervos gástricos anterior (ramo esquerdo) e posterior (ramo direito).
@@ -162,30 +161,26 @@ A parte abdominal do esôfago é inervada pelos troncos vagais, que se tornam os n
 Figura 13 - Inervação do esôfago: nervos do esôfago – vista anterior
 
 2. Fisiologia
-
-A função do esôfago é o transporte do material deglutido na boca para o estômago. A deglutição compreende 3 fases: vo-luntária, faríngea e esofágica (Figura 14). As 2 últimas são inteiramente reflexas e deflagradas pela estimulação de receptores localizados na orofaringe e nas áreas adjacentes.
-
+	A função do esôfago é o transporte do material deglutido na boca para o estômago. A deglutição compreende 3 fases: voluntária, faríngea e esofágica (Figura 14). As 2 últimas são inteiramente reflexas e deflagradas pela estimulação de receptores localizados na orofaringe e nas áreas adjacentes.
 A - Fase voluntária da deglutição
-Inicia-se com a prova do alimento, sendo misturado com a saliva, e, então, é formado o bolo alimentar com tamanho e consistência adequados para impulsão para faringe e esôfago. Nesse momento, a língua tem atuação importante no sentido de deslocar o alimento (sólido) em direção à superfície mastigatória dos dentes, ale´m de mistura´-lo com a saliva. Ocorrem, ain-da, de maneira voluntária, a elevação e a impulsão posterior do bolo alimentar (estiloglosso) em direção aos pilares amigdali-anos anteriores e à faringe, iniciando o reflexo da deglutição.
-
+	Inicia-se com a prova do alimento, sendo misturado com a saliva, e, então, é formado o bolo alimentar com tama-nho e consistência adequados para impulsão para faringe e esôfago. Nesse momento, a língua tem atuação importante no sentido de deslocar o alimento (sólido) em direção à superfície mastigatória dos dentes, ale´m de mistura´-lo com a saliva. Ocorrem, ainda, de maneira voluntária, a elevação e a impulsão posterior do bolo alimentar (estiloglosso) em direção aos pilares amigdalianos anteriores e à faringe, iniciando o reflexo da deglutição.
 B - Fase faríngea da deglutição 
-Começa após os estímulos nervosos originados com a propulsão do bolo alimentar em direção à faringe e é gerada por distensão ou irritação. Impulsos aferentes oriundos da mucosa se dirigem ao centro da deglutição, situado no bulbo, onde partem os impulsos eferentes por meio dos nervos trigêmeo, glossofaríngeo e vago, determinando uma série coordenada de contrações musculares e relaxamento simultâneo do músculo cricofaríngeo. Ocorre velamento das cavidades nasais pela elevação do palato mole, com limitação no tamanho do volume ingerido devido à aproximação das pregas palatofaríngeas. Já a laringe é elevada e anteriorizada pela ação da musculatura cervical, bem como há uma aproximação das pregas vocais. Desta forma, a epiglote fecha a laringe, direcionando o conteúdo ao esôfago. O músculo cricofaríngeo volta a se contrair, tendo início, nesse momento, a fase esofágica da deglutição.
-
+	Começa após os estímulos nervosos originados com a propulsão do bolo alimentar em direção à faringe e é gerada por distensão ou irritação. Impulsos aferentes oriundos da mucosa se dirigem ao centro da deglutição, situado no bul-bo, onde partem os impulsos eferentes por meio dos nervos trigêmeo, glossofaríngeo e vago, determinando uma série coordenada de contrações musculares e relaxamento simultâneo do músculo cricofaríngeo. Ocorre velamento das cavidades nasais pela elevação do palato mole, com limitação no tamanho do volume ingerido devido à aproximação das pregas palatofaríngeas. Já a laringe é elevada e anteriorizada pela ação da musculatura cervical, bem como há uma aproximação das pregas vocais. Desta forma, a epiglote fecha a laringe, direcionando o conteúdo ao esôfago. O múscu-lo cricofaríngeo volta a se contrair, tendo início, nesse momento, a fase esofágica da deglutição.
 C - Fase esofágica da deglutição
 
 Importante
 O esôfago difere do restante do tubo digestivo por não ter um sistema de marca-passo e ritmo elétrico básico. O estímulo natural que ativa a sua musculatura é primariamente a deglutição e, secundariamente, a distensão de suas paredes.
 
-A contração ordenada dos músculos da faringe se transmite ao segmento proximal do esôfago, composto de fibras estria-das, e tem início a onda peristáltica primária, que continua ao longo do esôfago a uma velocidade de 2 a 5cm/s, desenvolven-do pressão positiva de 30 a 100mmHg. O tempo de trânsito esofágico do bolo alimentar em condições normais varia de 5 a 9 segundos.
-Quando a onda peristáltica primária é insuficiente para promover o esvaziamento completo do esôfago, uma nova onda peristáltica, chamada secundária, tem início em qualquer ponto do esôfago, impelindo o remanescente de seu conteúdo em direção ao estômago.
-O segmento distal do esôfago, em uma extensão que varia de 2 a 5cm, comporta-se como um verdadeiro esfíncter (EEI). Esse segmento permanece normalmente contraído, desenvolvendo uma pressão basal de 10 a 30mmHg acima da pressão do fundo gástrico. 
-No momento da deglutição, por um reflexo de arco longo iniciado na faringe e transmitido por via vagal, esse segmento esfincteriano se relaxa. O relaxamento antecede a chegada da onda peristáltica, entre 1,5 e 2,5 segundos após a 1ª fase da deglutição. O esfíncter volta a contrair-se após a passagem do bolo alimentar. A abertura esfincteriana se verifica do mesmo modo com a onda peristáltica secundária.
+	A contração ordenada dos músculos da faringe se transmite ao segmento proximal do esôfago, composto de fibras estriadas, e tem início a onda peristáltica primária, que continua ao longo do esôfago a uma velocidade de 2 a 5cm/s, desenvolvendo pressão positiva de 30 a 100mmHg. O tempo de trânsito esofágico do bolo alimentar em condi-ções normais varia de 5 a 9 segundos.
+	Quando a onda peristáltica primária é insuficiente para promover o esvaziamento completo do esôfago, uma nova onda peristáltica, chamada secundária, tem início em qualquer ponto do esôfago, impelindo o remanescente de seu conteúdo em direção ao estômago.
+	O segmento distal do esôfago, em uma extensão que varia de 2 a 5cm, comporta-se como um verdadeiro esfíncter (EEI). Esse segmento permanece normalmente contraído, desenvolvendo uma pressão basal de 10 a 30mmHg acima da pressão do fundo gástrico. 
+	No momento da deglutição, por um reflexo de arco longo iniciado na faringe e transmitido por via vagal, esse seg-mento esfincteriano se relaxa. O relaxamento antecede a chegada da onda peristáltica, entre 1,5 e 2,5 segundos após a 1ª fase da deglutição. O esfíncter volta a contrair-se após a passagem do bolo alimentar. A abertura esfincteriana se verifica do mesmo modo com a onda peristáltica secundária.
 
  
 Figura 14 - Resumo das fases da deglutição
 
  
-Figura 15 - Processo de deglutição com a correlação manométrica convencional. Em uma deglutição considerada normal, o pico de con-tração na faringe é simultaneamente sucedido pelo relaxamento do esfíncter esofágico superior. Na fase esofágica da deglutição, ob-servamos, nos canais consecutivos, picos de pressão que não coincidem, ou seja, ocorrem em momentos diferentes, configurando uma onda peristáltica (normal). No último canal, observa-se queda de pressão no esfíncter esofágico inferior no momento da deglutição, representando o seu relaxamento 
+Figura 15 - Processo de deglutição com a correlação manométrica convencional. Em uma deglutição considerada normal, o pico de contração na faringe é simultaneamente sucedido pelo relaxamento do esfíncter esofágico superior. Na fase esofágica da deglutição, observamos, nos canais consecutivos, picos de pressão que não coincidem, ou seja, ocorrem em momentos diferentes, configurando uma onda peristáltica (normal). No último canal, observa-se queda de pressão no esfíncter esofágico inferior no momento da degluti-ção, representando o seu relaxamento 
 
 Tabela 6 - Fatores que alteram o tônus do esfíncter esofágico inferior
 Fatores	Aumenta o tônus	Diminui o tônus
@@ -198,7 +193,7 @@ Hormonal	- Gastrina;
 - Progesterona;
 - Estrogênio;
 - Prostaglandinas E1, E2 e A1.
-Drogas	- Agentes alfa-adrenérgicos;
+DrDrogas	- Agentes alfa-adrenérgicos;
 - Anticolinesterase (edrofônio);
 - Agentes colinérgicos (betanecol);
 - Betazol Cort®;
@@ -220,6 +215,7 @@ Outros	- Alcalinização gástrica;
 - Hipotireoidismo.
 Fonte: Sabiston – Tratado de Cirurgia.
 
+
 Pergunta
 2005 - FESP-RJ
 2. Um paciente apresenta impactação de um pedaço de carne no terço inferior do esôfago. Foi indicada uma droga que tem a propriedade de reduzir a pressão no esfíncter esofágico inferior e a amplitude das suas contrações, sem alterar as do corpo do esôfago. Nesse caso, a droga recomendada é: 
@@ -229,13 +225,13 @@ c) nitroglicerina
 d) nifedipino
 Resposta no final do capítulo
 
-3. Resumo
+Resumo
 
 Quadro-resumo
 Esôfago
 Definição	É um órgão tubulomuscular.
-Tamanho	Apresenta 25 a 30cm de comprimento, com início próximo à cartilagem cricoide, ao nível de C6, e termina em T11.
-Posição	Mediana, porém se inclina levemente para a esquerda já na região cervical.
+Tamanho	Apresenta 25 a 30cm de comprimento, com início próximo à cartilagem cricoide, ao nível de C6, e ter-mina em T11.
+Posição	É mediana, porém se inclina levemente para a esquerda já na região cervical.
 Constrições 
 anatômicas	- Esfíncter cricofaríngeo;
 	- Broncoaórtica;
@@ -270,11 +266,6 @@ anatômicas	- Anterior:
 Função	Transportar os alimentos ingeridos da boca ao estômago.
 Esfíncteres esofágicos superior e inferior	Mantêm-se contraídos e relaxam em resposta a estímulos específicos.
 
-Respostas
+Respostas das questões do capítulo
 1. D 
 2. A
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX 
