@@ -1,0 +1,380 @@
+diff --git a/gastro1_8.txt b/gastro1_8.txt
+index 5991893..0854ec8 100644
+--- a/gastro1_8.txt
++++ b/gastro1_8.txt
+@@ -1,71 +1,70 @@
+Doença ulcerosa péptica
+{+				+}Fábio Carvalheiro[- / -]
+Eduardo Bertolli
+Allan Garms Marson[- / -]
+Yeda Mayumi Kuboki
+Rodrigo Biscuola Garcia[- / -]
+Lúcia C. Barcellos Kunen
+
+[-Resumo-]
+[-Neste capítulo, serão abordados aspectos diagnósticos e de tratamento da doença ulcerosa péptica. As úlceras pépticas são defeitos na mucosa gástrica que se estendem através da camada muscular da mucosa e são causas importantes de morbi-dade e custos. A doença ulcerosa péptica está associada a 2 fatores de risco maior: infecção por Helicobacter pylori e uso de Anti-Inflamatórios Não Esteroides (AINEs). A úlcera gástrica localiza-se, em 95% dos casos, na pequena curvatura gástrica e, em 60%, está a até 6cm do piloro. Para avaliação, é importante solicitar uma endoscopia digestiva alta, e os achados po-dem ser enquadrados na classificação de Sakita, de acordo com a fase evolutiva. A doença resulta da redução da defesa normal da mucosa contra o ácido luminar e substâncias irritantes, e da alteração da cicatrização da mucosa. Há um desequi-líbrio entre os agentes de agressão e de reparo da parede gástrica. O diagnóstico diferencial é a síndrome de Zollinger-Ellison, que consiste em uma tríade clínica, responsável por hipersecreção de ácido gástrico, doença ulcerosa péptica grave e tumor de células não beta das ilhotas pancreáticas. O quadro clínico é de 4 tempos (sem dor – come-dói-passa). O trata-mento preconiza redução ou suspensão do uso de AINEs e erradicação do H. pylori. O exame padrão-ouro para detecção deste é o teste de uréase associado a histologia, e sua erradicação está indicada tanto nas úlceras pépticas gástricas quanto nas duodenais. Para tal, o tratamento indicado como 1ª linha para H. pylori é a terapia tripla com inibidor da bomba de pró-tons (omeprazol 20mg, 2x/d), amoxicilina (1g, 2x/d) e claritromicina (500mg, 2x/d, por 7 a 14 dias). A úlcera duodenal tem regime de tempo diferente (dói-come-passa), dor em queimação que se irradia para o dorso, em que o paciente pode acordar à noite com dor (clocking), além de apresentar náuseas e vômitos, mesmo sem obstrução. As complicações das úlceras pépticas são perfurações, sangramentos, obstruções. Essa doença moldou a formação de várias gerações de cirur-giões, que hoje estão por trás da maioria dos concursos médicos, logo é um assunto bastante explorado, principalmente em suas opções de tratamento cirúrgico.-]
+
+{+Neste capítulo, serão abordados aspectos diagnósticos e de tratamento da doença ulcerosa péptica. As úlceras pépticas são defeitos na mucosa gástrica que se estendem através da camada muscular da mucosa e são causas importantes de morbidade e custos. A doença ulcerosa péptica está associada a 2 fatores de risco maior: infecção por Helicobacter pylori e uso de Anti-Inflamatórios Não Esteroides (AINEs). A úlcera gástrica localiza-se, em 95% dos casos, na pequena curvatura gástrica e, em 60%, até 6cm do piloro. Para avaliação, é importante solicitar uma endoscopia digestiva alta, e os achados podem ser enquadrados na classificação de Sakita, de acordo com a fase evolutiva. A doença resulta da redução da defesa normal da mucosa contra o ácido luminar e substâncias irritantes, além da alteração da cicatrização da mucosa. Há um desequilíbrio entre os agentes de agressão e de reparo da parede gástrica. O diagnóstico diferencial é a síndrome de Zollinger-Ellison, que consiste em uma tríade clínica, responsável por hipersecreção de ácido gástrico, doença ulcerosa péptica grave e tumor de células não beta das ilhotas pancreáticas. O quadro clínico é de 4 tempos (“sem dor-come-dói-passa). O tratamento preconiza redução ou suspensão do uso de AINEs e erradicação do H. pylori. O exame padrão-ouro para a detecção deste é o teste de uréase associado a histologia, e sua erradicação está indicada tanto nas úlceras pépticas gástricas quanto nas duodenais. Para tal, o tratamento indicado como 1ª linha para H. pylori é a terapia tripla com inibidor da bomba de prótons (omeprazol 20mg, 2x/d), amoxicilina (+}1{+g, 2x/d) e claritromicina (500mg, 2x/d, por 7 a 14 dias)+}. [-I-]{+A úlcera duodenal tem regime de tempo diferente (dói-come-passa), e a dor em queimação se irradia para o dorso. O paciente pode acordar à noite com dor (clocking), além de apresentar náuseas e vômitos, mesmo sem obstrução. As complicações das úlceras pépticas são perfurações, sangrame+}nt{+os, obst+}r{+uções. Essa doença m+}o{+l+}d{+o+}u{+ a formação de várias gera+}ç{+ões de cirurgiões, que hoje est+}ão{+ por trás da maioria dos concursos médicos, logo é um assunto bastante explorado, principalmente em suas opções de tratamento cirúrgico.+}
+
+{+1.	Introdução+}
+
+As úlceras pépticas são defeitos na mucosa gástrica {+ou duodenal +}que se estendem através da camada muscular da mucosa e são causas importantes de morbidade e custos. Sua persistência é devida à função do ácido ou de atividade péptica no suco gástrico. {+A história natural da doença pode ser uma resolução espontânea, até complicações como sangramento e perfuração, e os sintomas variam desde dispepsia, pacientes assintomáticos e complicações como sangramento.+}
+
+{+	+}2. Epidemiologia
+
+Com a introdução de drogas mais eficazes, melhorando o tratamento clínico, o diagnóstico mais precoce e, principalmen[---]te, a diminuição da prevalência do Helicobacter pylori, devido às melhores condições de higiene e socioeconômicas, houve, nas últimas décadas, redução significativa na incidência de úlcera péptica, notadamente a duodenal. Tal fato diminuiu drasti[---]camente as internações e as cirurgias para a doença, bem como as suas complicações.[- -]
+Nos países em desenvolvimento, a maioria das crianças é infectada pelo H. pylori antes dos 10 anos, e o pico de prevalên[---]cia é maior do que 80% nos adultos com menos de 50 anos. Já nos países desenvolvidos, como os Estados Unidos, a evidência sorológica de H. pylori é incomum antes dos 10 anos, aumentando para 10% entre os 18 e 30 anos e para 50% naqueles com mais de 60 anos.
+A incidência de doença ulcerosa não complicada gira em torno de 0,09 a 0,3%/paciente/ano, com taxas de incidência comparáveis entre úlceras duodenal e gástrica. Há aumento da incidência com o aumento da idade, mas as úlceras duodenais ocorrem 2 décadas antes que as gástricas. Sua prevalência baseada na população em 1 ano está entre 0,12 e 1,5%. Nos países ocidentais, a prevalência entre homens e mulheres vem se tornando comparável, mas nos países asiáticos ainda predomina nos homens.[- -]
+A incidência nos pacientes infectados pelo H. pylori é de 1% ao ano, [-6-]{+4+} a 10 vezes maior do que nos não infectados. O uso de Anti-Inflamatórios Não Esteroides (AINEs) aumenta em função da idade e é fator de risco independente para úlceras. Além disso, idosos estão mais propensos a complicações pelas úlceras associadas aos AINEs e aumento na morbidade e mortalidade por essas complicações, devido às suas comorbidades. Também está claro que o tabagismo exacerba a doença ulcerosa asso[---]ciada ao H. pylori.
+A maior parte da atenção com relação à doença ulcerosa péptica concentrou-se sempre nos papéis do ácido clorídrico, do H. pylori e dos AINEs. É importante frisar que a pepsina também desempenha papel fundamental na patogênese da doen[---]ça, pois o ácido associado a ela é muito mais ulcerogênico do que isolado. Portanto, o rótulo de doença péptica é considerado muito adequado, pois reflete apropriadamente o papel fundamental da atividade proteolítica do suco gástrico em relação à formação da úlcera.
+
+3. Etiologia
+
+{+	A+} {+doença ulcerosa péptica está associada a 2 fatores de risco maiores:  +}
+{+ 	Helicobacter pylori: a infecção pelo H. pylori vem diminuindo rapidamente nas regiões desenvolvidas, provavelmente devido à melhora nas condições de higiene e à diminuição da transmissão na infância. Em regiões do sudeste da Europa e do Japão, onde a taxa de prevalência nas úlceras gástrica e duodenal era maior do que 90%, há evidência de diminuição na prevalência, principalmente entre jovens. Em regiões onde essa diminuição é mais consistente, como nos Estados Unidos e em parte da Europa, a prevalência do H. pylori na doença ulcerosa péptica varia de 50 a 75%. O que também fica evidente é a baixa taxa de reinfecção após a cura, diminuindo ainda mais a prevalência;+}
+{+AINEs: a Food and Drug Administration estima que os AINEs não seletivos estejam associados a risco de 1 a 4% ao ano para um evento gastrintestinal, incluindo sangramento, perfuração ou obstrução pilórica. Ácido acetilsalicílico em baixas doses como prevenção de doença trombótica cardiovascular vem se tornando causa importante de doença ulcerosa sintomática e complicações gastrintestinais; doses de 75 a 300mg/d causam risco aumentado de sangramento gastrintestinal de 2 a 3 vezes. Os principais fatores de risco para doença ulcerosa em usuários de AINEs são história prévia de doença ulcerosa ou complicações desta. Outros fatores são dose, duração da ação, duração da terapia com AINE, idade avançada (>75 anos), terapia combinada que aumenta a toxicidade (esteroides, anticoagulantes, AINEs, ácido acetilsalicílico em baixa dose, inibidores da recaptação de serotonina, alendronato) e comorbidades (cardiovasculares).+}
+
+[-A doença ulcerosa péptica está associada a 2 fatores de risco maiores:  -]
+[-Helicobacter pylori: a infecção pelo H. pylori vem diminuindo rapidamente nas regiões desenvolvidas, provavelmente de-vido à melhora nas condições de higiene e à diminuição da transmissão na infância. Em regiões do sudeste da Europa e do Japão, onde a taxa de prevalência nas úlceras gástrica e duodenal era maior do que 90%, há evidência de diminuição na prevalência, principalmente entre jovens. Em regiões onde essa diminuição é mais consistente, como nos Estados Unidos e parte da Europa, a prevalência do H. pylori na doença ulcerosa péptica varia de 50 a 75%. O que também fica evidente é a baixa taxa de reinfecção após a cura, diminuindo ainda mais a prevalência; -]
+[-AINEs: a Food and Drug Administration estima que os AINEs não seletivos estão associados a risco de 1 a 4% ao ano para um evento gastrintestinal induzido por AINEs, incluindo sangramento, perfuração ou obstrução pilórica. Ácido acetilsalicí-lico em baixas doses como prevenção de doença trombótica cardiovascular vem se tornando causa importante de doen-ça ulcerosa sintomática e complicações gastrintestinais; doses de 75 a 300mg/d causam risco aumentado de sangramen-to gastrintestinal de 2 a 3 vezes. Os principais fatores de risco para doença ulcerosa em usuários de AINEs são história prévia de doença ulcerosa ou complicações desta. Outros fatores são dose, duração da ação, duração da terapia com AI-NE, idade avançada (>75 anos), terapia combinada que aumenta a toxicidade (esteroides, anticoagulantes, AINEs, ácido acetilsalicílico em baixa dose, inibidores da recaptação de serotonina, alendronato) e comorbidades (cardiovasculares). -]
+[-		-]
+Dica 
+O risco de complicações na doença ulcerosa péptica aumenta com o tempo, mas é maior no período precoce de tratamen[---]to naqueles que estão iniciando AINE pela 1ª vez.[- -]
+[-	-]
+[-O clopidogrel também aumentou a taxa de ressangramento (em 12 meses, de 8,6%, comparado com 0,7% no uso de Aspi-rina® + Inibidor da Bomba de Prótons – IBP) em pacientes com história prévia de sangramento gastrintestinal, sendo contra-indicado a indivíduos de alto risco, tanto associado ao AINE quanto isolado. Trials controlados com inibidores seletivos de COX-2 têm demonstrado redução no risco de úlcera péptica e suas complicações; apesar disso, o risco ainda é maior quando comparado ao placebo. A combinação de IBP e inibidor de COX-2 parece reverter largamente os efeitos ulcerogênicos.-]
+[-Apesar de os dados serem conflitantes, 4 consensos interpretam os dados como convincentes do sinergismo entre a in-fecção pelo H. pylori e o uso de AINE e a importância de testar e tratar o H. pylori antes de iniciar o uso de AINE em pacientes de alto risco, como idosos, portadores de sérias comorbidades, dispepsia ou história prévia de doença ulcerosa.-]
+
+{+O clopidogrel também aumentou a taxa de ressangramento (em 12 meses, de 8,6%, comparado com 0,7% no uso de Aspirina® + Inibidor da Bomba de Prótons – IBP) em pacientes com história prévia de sangramento gastrintestinal, sendo contraindicado a indivíduos de alto risco, tanto associado ao AINE quanto isolado. Trials controlados com inibidores seletivos de COX-2 têm demonstrado redução no risco de úlcera péptica e suas complicações; apesar disso, o risco ainda é maior quando comparado ao placebo. A combinação de IBP e inibidor de COX-2 parece reverter largamente os efeitos ulcerogênicos.+}
+{+Apesar de os dados serem conflitantes, 4 consensos interpretam os dados como convincentes do sinergismo entre a infecção pelo H. pylori e o uso de AINE e a importância de testar e tratar o H. pylori antes de iniciar o uso de AINE em pacientes de alto risco, como idosos, portadores de sérias comorbidades, dispepsia ou história prévia de doença ulcerosa.+}
+Tabela 1 - Correlação dos fatores de risco para doença ulcerosa péptica
+H. pylori	- 50 a 75% em regiões de baixa prevalência;
+- >[- -]90% em regiões de alta prevalência.
+AINEs	Risco de 1 a 4% ao ano de evento gastr[-o-]intestinal
+
+4. Úlcera gástrica
+
+A - Epidemiologia e classificação
+Ocorreu discreto aumento na incidência, que hoje[-,-] é de 0,3/1.000 habitantes por ano. Não se alteraram a mortalidade e a hospitalização, o que se explica pelo aumento da população de idosos e pelo uso indiscriminado de AINEs. Acometem mais idosos, com pico entre os 50 e 70 anos[- de vida-], sem distinção de gênero.[-Dica-]
+[-Em 95% dos casos, a úlcera gástrica está localizada na pequena curvatura gástrica e, em 60%, a até 6cm do piloro (Figura 1).-]
+Normalmente, a úlcera aguda fica confinada à mucosa e à submucosa, enquanto a crônica invade a musculatura da pare[---]de. As úlceras podem ser identificadas de acordo com a sua localização, segundo a classificação proposta por Johnson (Tabela 2). Os achados endoscópicos permitem a classificação da úlcera de acordo com a fase evolutiva, segundo a classificação de Sakita (Tabela 3).
+ 
+Figura 1 - Úlcera péptica benigna: aspecto endoscópico com depósito de fibrina
+
+Tabela 2 - Classificação de Johnson (1965)
+Tipo 1 (60 a 70%)	{+É a mais comum e associada a normo/hipocloridria. +}Localiza-se, tipicamente, na curvatura menor, próxima à junção da mucosa oxíntica e [-a-]{+à+} mu[---]cosa antral.
+Tipo 2 (15%)	A localização é basicamente a mesma do tipo I, porém tal tipo está associado a lesão ulcero[---]sa duodenal ativa ou crônica{+; associa-se a hipercloridria+}.
+Tipo 3 (20%)	Está geralmente localizado até 2cm do piloro{+; associada a hipercloridria+}.
+Tipo 4 (raro)	Está localizado[-s-] na parte proximal do estômago ou na cárdia{+; associada a normo/hipocloridria+}.
+
+{+ +}
+{+Figura 2 - Classificação de Johnson+}
+
+Tabela 3 - Classificação endoscópica de Sakita
+A (Active) [-–-]{+-+} Ativa
+Úlcera arredondada/ovalada com fundo de fibrina espessa
+A1	Margem edemaciada[- -]	 
+A2	Desaparecimento do edema marginal e formação de anel eritematoso	 
+H (Healing) [-–-]{+-+} Em cicatrização[- -]
+Diminuição da base, áreas reepitelizadas e circundadas por tecido cicatricial e convergência de pregas
+H1	Convergência de pregas com depósito central delgado de fibrina	 
+H2	Diminuição do depósito de fibrina pela base, tornando-se uma fina película; predomínio da área cicatricial	 
+S (Scar) [-–-]{+-+} Cicatriz[- -]
+S1	Cicatriz vermelha – área deprimida com convergência de pregas, sem fibrina	 
+S2	Cicatriz branca – linha ou área esbran[---]quiçada sem hiperemia	 
+
+Pergunta
+2015 - UERJ
+@@ -76,62 +75,55 @@ c) V; hipercloridria
+d) II; hipocloridria
+Resposta no final do capítulo
+
+B - Patogênese[- -]
+A doença resulta da redução da defesa normal da mucosa contra o ácido luminar e substâncias irritantes, e da alteração da cicatrização da mucosa. Existe um desequilíbrio entre os agentes de agressão e de reparo da parede gástrica[- (Figura 2)-]. A secreção ácida, em geral, é normal ou baixa, diminuindo com a idade. A gastrite está quase sempre presente e, quando seve[---]ra, associada à atrofia das células oxínticas. O refluxo duodenal para o estômago também é um fator importante, pela presen[---]ça de agentes citotóxicos como sais biliares e lisolecitina, que causam agressão à mucosa. As úlceras gástricas proximais ao antro distal e à região pré-pilórica são usualmente associadas à secreção ácida normal-baixa ou baixa, refletindo diminuição nas células parietais – esses achados correspondem à invasão da mucosa oxíntica por antrite avançada e atrofia glandular. Em contraste, pacientes com úlceras no antro distal ou associadas à úlcera duodenal têm secreção ácida normal ou elevada.
+O H. pylori é um importante fator de risco e pode ser encontrado em 65 a 95% dos pacientes com úlceras gástricas e em 80 a 95% dos acometidos por úlceras duodenais. Sua transmissão é basicamente fecal-oral ou oral-oral. Dentre os fatores relacionados com a patogenicidade dessa bactéria, estão o aumento de secreção ácida, metaplasia gástrica no duodeno, res[---]posta imune do hospedeiro e diminuição dos mecanismos de defesa da mucosa. O H. pylori é uma bactéria Gram negativa, espiralada ou em bastão, microaerófila, que possui de 2 a 7 flagelos que aumentam a sua mobilidade (Figura [-4-]{+5+}). Bioquimica[---]mente, é uma bactéria catalase, oxidase e uréase positiva. A uréase, a mobilidade e a habilidade para aderir ao epitélio gástri[---]co são fatores que permitem {+a +}sua sobrevivência e proliferação no meio gástrico. A uréase hidrolisa a ureia para formar amô[---]nia, que neutraliza a acidez gástrica e forma uma barreira protetora ao redor do organismo, permitindo {+a +}sua penetração na camada de muco gástrico. Sua forma espiralada, seus flagelos e suas enzimas mucolíticas facilitam {+a +}sua passagem através da camada de muco para o epitélio gástrico. [-Apó-]{+Po+}s{+teriormente+}, a bactéria adere às células epiteliais por receptores de adesão específicos e produz enzimas proteolíticas e catalase (neutraliza o dano dos metabólitos oxidantes liberados pelos neutrófilos, permitindo a sobrevivência da bactéria) e induz resposta imune, culminando com injúria tecidual e formação da úlcera (Figura 3).
+Os AINEs, via inibição da síntese de prostaglandinas, afetam a quantidade de ácido gástrico produzido, a integridade da barreira mucosa, a quantidade de bicarbonato e glutationa sintetizada e a taxa do fluxo sanguíneo mucoso. Úlcera ocorre em 10% dos usuários desses anti-inflamatórios, e o sangramento é 2 vezes mais comum nessa população. Há relação direta da doença ao tempo desses medicamentos.[- -]
+Até o momento, não existem trabalhos consistentes que mostrem alguma associação a dieta.
+Podemos incluir, na patogênese da úlcera gástrica, a síndrome de Zollinger-Ellison, que consiste em uma tríade clínica responsável por hipersecreção de ácido gástrico, doença ulcerosa péptica grave e tumor de células não beta das ilhotas pan[---]creáticas. Localiza-se, geralmente, na cabeça do pâncreas, na parede duodenal ou nos linfonodos regionais (triângulo dos gastrinomas) e faz aumentar a produção de gastrina, aumentando a produção ácida e levando à formação de úlceras pépticas.
+ 
+Figura [-2-]{+3+} - Fatores predisponentes para o desenvolvimento de lesão ulcerosa péptica[- -]
+ 
+Figura [-3-]{+4+} - Possíveis mecanismos de ulcerogênese na infecção pelo H. pylori[- -]
+Fonte: American College of Gastroenterology, American Journal of Gastroenter{+¬+}ology, 1997; 92:11S.
+ 
+Figura [-4-]{+5+} - Microscopia do H. pylori
+C - Quadro clínico[- -]
+O quadro clínico caracteriza-se por epigastralgia que piora com a alimentação, geralmente após 30 minutos, com episó[---]dios mais longos e severos do que na úlcera duodenal.
+
+Quadro clínico
+A dor da úlcera gástrica é classicamente dividida em 4 tempos ({+“+}sem dor[- – -]{+-+}come-dói-passa{+”+}){+, o que parece refletir uma combinação de sensibilidade visceral aumentada e dismotilidade gástrica, havendo piora da dor com a alimentação+}.
+
+[-Isso parece refletir uma combinação de sensibilidade visceral e dismotilidade gástrica. -]O paciente diminui a ingestão ali[---]mentar e pode ter perda de peso, anorexia e vômitos. Cerca de 20% são assintomáticos (mais comum em idosos e indivíduos em uso de AINE).
+
+D - Diagnóstico
+[-E-]{+De+}ntre os exames de imagem, o papel da radiografia contrastada é limitado no diagnóstico, podendo mostrar lesão oval, cir[---]cundada por edema, com convergência de pregas; o duplo contraste detecta até 80% das lesões (Figura [-5-]{+6+}).
+A dosagem de gastrina no sangue periférico pode ser solicitada para rastrear síndromes raras de hipersecreção de ácido clorídrico (gastrinoma).
+
+   
+Figura [-5-]{+6+} - Raio x contrastado mostrando úlcera péptica
+
+Diagnóstico
+Atualmente, a endoscopia digestiva alta é o exame de maior acurácia para o diagnóstico da úlcera gástrica.[- -]
+
+[-Também possibilita a pesquisa de H. pylori por meio de biópsia da mucosa (histologia) ou de teste da uréase, além de per-mitir biópsia da lesão para diagnóstico diferencial com neoplasia gástrica precoce. As úlceras benignas têm bordas macias, regulares e arredondadas, com base plana e macia recoberta por exsudato. Em contraste, os sinais sugestivos de malignidade são massa ulcerada protruindo no lúmen; pregas ao redor da úlcera nodulares, “em baqueta”, fundidas ou com parada abrup-ta antes da margem; e margens irregulares ou espessadas (Figura 6). Múltiplas biópsias (de 6 a 7) devem ser realizadas nas úlceras gástricas. O seguimento endoscópico nas úlceras gástricas se faz necessário, pois a ausência de sintomas não exclui malignidade, podendo-se identificar câncer gástrico precoce (não é conclusivo se essa abordagem é custo-efetiva ou melhora a sobrevida). Recomenda-se nova endoscopia em 3 meses.-]
+
+{+A endoscopia possibilita a pesquisa de H. pylori por meio de biópsia da mucosa (histologia) ou teste da uréase, além de permitir biópsia da lesão para diagnóstico diferencial com neoplasia gástrica precoce. As úlceras benignas têm bordas macias, regulares e arredondadas, com base plana e macia recoberta por exsudato. Em contraste, os sinais sugestivos de malignidade são massa ulcerada protruindo no lúmen; pregas ao redor da úlcera nodulares, “em baqueta”, fundidas ou com parada abrupta antes da margem; e margens irregulares ou espessadas. Múltiplas biópsias (de 6 a 7) devem ser realizadas nas úlceras gástricas. O seguimento endoscópico nas úlceras gástricas se faz necessário, pois a ausência de sintomas não exclui malignidade, podendo-se identificar câncer gástrico precoce (não é conclusivo se essa abordagem é custo-efetiva ou melhora a sobrevida). Recomenda-se nova endoscopia em 3 meses.+}
+ 
+Figura [-6-]{+7+} - Aspecto endoscópico de neoplasia gástrica precoce tipo IIa (plana elevada) + III (escavada)
+Fonte: Gastrocentro.
+
+- Helicobacter pylori
+{+	+}Quando uma úlcera é encontrada na endoscopia, é importante determinar a presença do H. pylori.[- -]
+
+[-ImportanteA melhor acurácia no diagnóstico da úlcera gástrica é obtida utilizando-se 2 métodos diagnósticos: o teste rápido da uréase e histologia. Ambos podem ser realizados por meio da endoscopia digestiva alta, que é o exame de maior acurácia para o diagnóstico.-]
+
+[-A probabilidade de um teste negativo ser falso é alta, devendo-se realizar um 2º teste para confirmar a sua ausência. O teste respiratório e a pesquisa do antígeno fecal são métodos não invasivos apropriados. Na presença de sangramento, o teste da uréase perde sensibilidade (67%), mas não em especificidade (93%), e o respiratório, quando realizado precocemen-te, pode detectar o H. pylori em até 93%. -]
+[-- Teste rápido da uréase: 2 ou 3 pedaços biopsiados no antro gástrico e corpo são colocados em um meio ágar que con-tém ureia e pH reagente. A uréase quebra a ureia, liberando amônia, produzindo pH alcalino e resultando em alteração na coloração. Kits mais recentes indicam que o teste fica positivo em 5 minutos, mas estudos sugerem que pode haver atraso de até 1 hora. Sua sensibilidade é de aproximadamente 90 a 95%, e a especificidade, de 95 a 100%. Falso negativo pode ocorrer na presença de sangue, uso de IBPs, antagonistas H2, antibióticos ou compostos com bismuto. Essas medi-cações devem ser cessadas 15 dias antes do teste;-]
+[-- Cultura: cultura para pesquisa do H. pylori não é indicada de rotina, apenas em doença refratária, em que há real neces-sidade de erradicação do H. pylori, e este se mantém positivo após 2 tratamentos com esquemas diferentes;-]
+[-- Teste respiratório: entre os pacientes em que não há necessidade de novo exame endoscópico, realiza-se a pesquisa do H. pylori por meio de testes não invasivos (teste respiratório, sorologia, antígeno fecal), após 4 a 6 semanas do tratamen-to. O teste respiratório da ureia baseia-se na hidrólise da ureia pela bactéria, produzindo CO2 e amônia. Um isótopo de carbono marcado é dado via oral; o H. pylori libera o CO2 marcado, que pode ser detectado em amostras na respiração. Pode-se usar o carbono 13 ou 14, com igual acurácia, mas com preferência pelo primeiro, por não utilizar isótopo radio-ativo. Sua especificidade é de 95 a 100%, e a sensibilidade, de 88 a 95%. Sempre suspender terapia antissecretora de 2 a 4 semanas antes do teste, para evitar falso negativo;-]
+[-- Sorologia: a sorologia pela técnica ELISA para detectar antígenos IgG é de baixo custo e não invasiva, mas a acurácia é li-mitada. Possui alta sensibilidade (90 a 100%), mas especificidade variável (76 a 96%). Isso se deve ao fato de o teste po-der indicar infecção não ativa (infecção ativa em apenas 50%);-]
+[-- Pesquisa do antígeno fecal: pela presença do H. pylori nas fezes dos pacientes infectados, foi desenvolvida a pesquisa do antígeno fecal. Sua sensibilidade é de 94%, e a especificidade, de 86%. Também pode ser útil para avaliar a erradicação.-]
+
+Importante
+A {+m+}e{+lho+}r{+ acu+}r{+áci+}a{+ no +}di{+agnósti+}c{+o d+}a{+ infec+}ção [-d-]{+pel+}o H. pylori [-sempre deve ser-]{+é+} [-aval-]{+obt+}i[-a-]da [-q-]u{+tiliz+}ando{+-se+} [-há-]{+2+} [-úlcera-]{+métodos+} {+dia+}g[-á-]{+nó+}st[-r-]ic[-a, e-]{+os:+} o teste {+rápi+}d[-e esc-]o[-lh-]{+ d+}a {+ur+}é{+ase+} [-o r-]e[-spir-]{+ +}a[-tór-]{+ h+}i{+st+}o[-;-]{+logia.+} [-n-]{+Amb+}os p[-acientes -]{+od+}em [-qu-]{+s+}e{+r+} [-há nec-]{+r+}e[-ss-]{+al+}i[-d-]{+z+}ad[-e de-]{+os+} [-re-]p[-eti-]{+o+}r {+mei+}o [-ex-]{+d+}a[-me-] endosc[-ó-]{+o+}pi[-co,-]{+a+} [-r-]{+dig+}e[-al-]{+st+}i[-z-]{+v+}a[--se-] a{+lta,+} [-pes-]qu[-isa p-]e[-los-] [-m-]é[-tod-]{+ +}o[-s-] [-d-]e[- uré-]{+x+}a[-s-]{+m+}e {+d+}e [-h-]{+ma+}i[-st-]o[-lo-g-]{+r acurác+}ia[-.-] [-Pes-]{+para o diagnóstico da doença ulcerosa péptica.+}
+{+ 		A probabilidade de um teste negativo ser falso é alta, devendo-se realizar um 2º teste para confirmar a sua ausência. O teste respiratório e a pesquisa do antígeno fecal são métodos não invasivos apropriados. Na presença de sangramento, o teste da uréase perde sensibilidade (67%), mas não especificidade (93%), e o respiratório, quando realizado precocemente, pode detectar H. pylori em até 86%.+}
+{+Teste rápido da uréase: 2 ou 3 pedaços biopsiados no antro gástrico e corpo são colocados em um meio ágar que contém ureia e pH reagente. A uréase quebra a ureia, liberando amônia, produzindo pH alcalino e resultando em alteração na coloração. Kits mais recentes indicam que o teste fica positivo em 5 minutos, mas estudos sugerem que pode haver atraso de até 1 hora. Sua sensibilidade é de aproximadamente 90 a 95%, e a especificidade, de 95 a 100%. Falso negativo pode ocorrer na presença de sangue, uso de IBPs, antagonistas H2, antibióticos ou compostos com bismuto. Essas medicações devem ser cessadas 15 dias antes do teste;+}
+{+Cultura: cultura para pesquisa do H. pylori não é indicada de rotina, apenas em doença refratária, em que há real necessidade de erradicação do H. pylori, e este se mantém positivo após 2 tratamentos com esquemas diferentes;+}
+{+Teste respiratório: entre os pacientes em que não há necessidade de novo exame endoscópico, realiza-se a pesquisa do H. pylori por meio de testes não invasivos (teste respiratório, sorologia, antígeno fecal), após 4 a 6 semanas do tratamento. O teste respiratório da ureia baseia-se na hidrólise da ureia pela bactéria, produzindo CO2 e amônia. Um isótopo de carbono marcado é dado pela via oral; o H. pylori libera o CO2 marcado, que pode ser detectado em amostras na respiração. Pode-se usar o carbono 13 ou 14, com igual acurácia, mas com preferência pelo primeiro, por não utilizar isótopo radioativo. Sua especificidade é de 95 a 100%, e a sensibilidade, de 88 a 95%. Sempre se suspende terapia antissecretora de 2 a 4 semanas antes do teste, para evitar falso negativo;+}
+{+Sorologia: a sorologia pela técnica ELISA para detectar antígenos IgG é de baixo custo e não invasiva, mas a acurácia é limitada. Possui alta sensibilidade (90 a 100%), mas especificidade variável (76 a 96%). Isso se deve ao fato de o teste poder indicar infecção não ativa (infecção ativa em apenas 50%);+}
+{+Pes+}quisa do antígeno fecal{+:+} p[-od-]e{+la+} {+pre+}se{+nça do H. pylo+}r{+i+} {+n+}a[-l-]{+s fezes dos pacien+}te[-r-]{+s i+}n[-a-]{+fec+}t{+ados, fo+}i{+ desenvol+}v{+id+}a[-,-] [-m-]a[-s-] {+pesquis+}a {+do +}a{+ntígeno fe+}c{+al. S+}u[-rác-]{+a sensib+}i{+lid+}a{+de+} é [-m-]{+d+}e[-n-]{+ 94%, e a especificidade, de 86%. Também p+}o{+de se+}r[-.-] {+útil para avaliar a erradicação.+}
+
+{+Importante+}
+{+A erradicação do H. pylori sempre deve ser avaliada quando há úlcera péptica, e o teste de escolha é o respiratório; nos pacientes em que há necessidade de repetir o exame endoscópico, realiza-se a pesquisa pelos métodos da uréase e histologia. A pesquisa do antígeno fecal pode ser uma alternativa, mas a acurácia é menor.+}
+Tabela 4 - Consenso de Maastricht IV
+Indicações da pesquisa do H. pylori pelo consenso de Maastricht IV
+- Doença ulcerosa ativa ou passada;
+@@ -144,56 +136,66 @@ Indica
+- Uso de AINEs por longos períodos;
+- Trombocitopenia imune;
+- Anemia ferropriva não explicada;
+- Deficiência de B12 não explicada.[- -]
+
+E - Tratamento
+{+Todos os pacientes com úlcera péptica devem receber terapia antissecretória para facilitar a cicatrização da úlcera, sendo a escolha e a duração do tratamento baseadas nas características da úlcera, presença de fatores de risco para recorrência (uso contínuo de AINE, falha na erradicação do H. pylori) e na presença de complicações. +}A maioria responde bem ao tratamento clínico. Orienta-se a suspensão de fatores irritantes, como AINEs, álcool e fumo. Entre os medicamentos, preconizam-se aqueles que atuam contra a hipersecreção ácida (Tabela 5). Úlceras gástricas grandes ou pequenas cicatrizam na mesma taxa em uso de antiácidos, em torno de 3mm por semana; portanto, úlceras maiores po[---]dem requerer mais tempo para cicatrizar.
+
+Tabela 5 - Principais medicamentos utilizados no tratamento da úlcera gástrica
+Classes farmacológicas	Exemplos	Mecanismos de ação
+Antiácidos	Hidróxido de alumínio, hidróxido de magnésio	Neutralizam o ácido clorídrico no estômago (reação química), forman[---]do água e cloreto de alumínio e resultando no aumento do pH gástrico. Há cicatrização de, aproximadamente, 60% em 4 semanas em usuários de anti-inflamatórios não hormonais. Podem ser usados como coadju[---]vantes.
+Antagonistas dos recepto[---]res H2 de histamina	Cimetidina, ranitidina, famotidina	Bloqueiam a secreção ácida por intermédio da obstrução dos recepto[---]res da histamina. Há cicatrização em 70 a 80% após 4 semanas e de 80 a 90% após 8 semanas. Podem ser utilizados quando os bloqueadores não são acessíveis.
+Bloqueadores da bomba de prótons	Omeprazol{+ (20 a 40mg)+}, pantoprazol{+ (20 a 40mg)+}, lanso[---]prazol{+ (15 a 30mg), rabeprazol (20mg), esomeprazol (20 a 40mg)+}	Ligam-se ao sistema H+/K+-Atepase [-(bomba de prótons) -]da célula parietal, inibindo a secreção de íons de hidrogênio para a luz do estô[---]mago. A cicatrização da úlcera é mais rápida do que com o tratamento com antagonistas dos receptores de histamina.
+Sucralfato	--	Sal de alumínio com sacarose sulfatada. Dissocia-se com o ácido do estômago e liga-se à proteína na parede gástrica no local da úlcera, formando uma camada protetora que impede a ação erosiva da pepsi[---]na. Pode ser usado em associação a outros medicamentos.
+
+O tratamento do H. pylori em indivíduos infectados altera dramaticamente a recorrência da úlcera. Em estudos com paci[---]entes com úlcera duodenal, a recorrência foi menor do que 10% naqueles tratados para o H. pylori, comparada a 65 a 95% nos que se mantiveram infectados. Em áreas onde a prevalência da bactéria é maior do que 90%, o tratamento empírico pode ser feito; nas áreas de baixa prevalência, é necessária a confirmação da infecção. [-Nos indivíduos-]{+Em+} {+pac+}i[-nf-]e[-c-]{+n+}t[-ado-]{+e+}s com úlcera[-s-] duo[---]dena[-is não-]{+l+} complicada[-s e-] [-com men-]o[-s de-]{+u+} [-1-]{+úl+}c[-m, p-]{+er+}a{+ gást+}r[-e-]{+i+}c[-e-]{+a,+} [-q-]{+s+}u{+g+}e[- o t-]r[-atam-]e[-nto ad-]{+-s+}e[-quado-] [-pa-]{+te+}ra[- o H. -]p[-ylori d-]i[-spensa o uso prolong-]a[-do dos-] antissecretor[-es par-]a [-a ci-]c[-atrizaçã-]o{+m+} [-adequada da úlcera-]{+IBP+} [-(cicatrizaçã-]{+p+}o{+r+} [-de 93%-]{+4+} [-em-]{+a+} [-4-]{+8+} semanas e [-100%-]{+8+} [-em-]{+a+} [-8-]{+12+} semanas[-)-]{+, respectivamente+}. Na[---]queles com úlcera[-s gástricas ou úlceras-] duodena[-is-]{+l não+} complicada[-s-]{+,+} [-e/-]o[-u-] [-m-]{+IBP +}a{+dmin+}i{+strado p+}or {+10 a 14 +}d{+ias juntamente com +}o {+es+}que{+ma+} [-2-]{+antibióti+}c[-m,-]{+o para tratar o H. pylori+} é [-n-]{+g+}e[-c-]{+ralm+}e{+nte +}s[-sár-]{+uf+}i[-o -]c[-o-]{+ie+}nt{+e para +}in{+d+}u{+zir +}a{+ cu+}r{+a, e+} {+não é necessári+}a terapia antissecretora [-p-]{+adici+}o{+nal caso pe+}r{+maneçam+} [-8-]{+assintomáticos+} a{+pós+} [-12-]{+o tratamento (cicatrização de 93% em 4+} semanas e [-4-]{+100%+} [-a-]{+em+} 8 semanas{+). Na úlcera gástrica+}, {+a +}re{+comendação é de+}s{+continuar a tera+}p{+ia antiss+}ec{+re+}t[-iv-]{+or+}a{+ so+}mente[-.-] {+após confirmação da cicatrização por meio da endoscopia.+}
+Omeprazol 20 a 40mg/d produz cicatrização de 63 a 93% em 2 semanas e 80 a 100% em 4 semanas.[- -]
+
+Importante
+O regime mais indicado como 1ª linha no tratamento do H. pylori é a terapia tripla com inibidor da bomba de prótons (ome[---]prazol 20mg, 2x/d), amoxicilina (1g, 2x/d) e claritromicina (500mg, 2x/d, por 7 a 14 dias).
+{+  +}
+Nos pacientes que não respondem ao tratamento, pode-se usar um novo esquema substituindo a claritromicina por levo[---]floxacino (500mg 1x/d), estendendo-se o tratamento por 14 dias. Outro esquema que pode ser utilizado, principalmente nos alérgicos a penicilina, é tetraciclina (500mg, 4x/d), IBP (2x/d) e furazolidona (200mg, 3x/d).[- -]
+Nas úlceras induzidas por AINE{+,+} o tratamento com IBP deve ser mantido por{+,+} no mínimo{+,+} 8 semanas.
+[-O t-]{+Suge+}r{+e-se endoscopi+}a[-tam-]{+ d+}e{+ co+}nt{+r+}o{+le+} {+na úl+}c[-i-]{+e+}r[-ú-]{+a gást+}r{+ica nos se+}g{+u+}i{+ntes +}c{+as+}o{+s:+} [-é-]{+sintomas+} [-r-]{+a d+}es{+p+}e[-rva-]{+ito +}do[-,-] {+tr+}at[-u-]a[-l-]ment[-e-]{+o+}, [-às c-]{+eti+}o[-mp-]l{+og+}i[-c-]a[-ções-] {+inc+}e{+rta,+} [-u-]{+úlce+}r{+a +}g[-ê-]{+iga+}n{+te (>2+}c{+m), bióps+}ias[-,-] [-com-]{+nã+}o [-hemor-]r{+e+}a[-g-]{+l+}i{+z+}a{+das+} [-(-]{+ou inade+}qua[-n-]d[-o-]{+as,+} [-nã-]{+úlcera c+}o{+m+} s{+usp+}e[- ob-]{+i+}t[-ém-]{+a+} [-o-]{+de+} [-contro-]{+ma+}l{+ignidad+}e{+,+} endosc[-ó-]{+o+}pi{+a ini+}c[-o),-]{+ial+} p[-e-]{+o+}r[-fu-]{+ sang+}ra[-çã-]{+ment+}o e [-obs-]{+fa+}t{+o+}r[-u-]{+es de risco para câncer gástrico.+}
+{+O tratamento cirúrgico é reservado, atualmente, às complicações e urgências, como hemorragia (quando não se obtém o controle endoscópico), perfuração e obstru+}ção. Indica-se cirurgia para os raros casos refratários ao tratamento clínico. O procedimento cirúrgico de escolha é a[- a-]ntrectomia ou hemigastrectomia, sempre englobando a úlcera (pois é fundamental o estudo anatomopatológico para exclusão de doença maligna). A menos que o paciente tenha úlcera pré-pilórica ou duodenal concomitante, a vagotomia não se mostra capaz de diminuir os índices de recidiva e, portanto, não é indicada.
+Para a maioria dos pacientes com úlcera gástrica tipo 1, é recomendada gastrectomia distal com reconstrução à Billroth I ou II, pois esse manejo remove a úlcera e o antro doente. Nas úlceras tipo 2, antrectomia e vagotomia são o tratamento de escolha. Curiosamente, a vagotomia seletiva tem sido associada a pobres resultados na úlcera tipo 3 (taxas de recorrência de 16 a 44%); esse achado, associado [-a-]{+à+} possível presença de malignidade oculta, torna a antrec{+-+}tomia e a vagotomia o manejo mais prudente. [-S-]{+Para úlc+}e{+ras tipo IV, quando+} a integridade do esôfago distal pode ser mantida, ressecção gástrica subtotal (incluindo o leito da úlcera) é considerada a melhor terapia; quando a maioria do estômago é removida, recomenda-se anastomose em Y de Roux.
+
+{+Tabela 6 - Tratamento cirúrgico da úlcera gástrica de acordo com a classificação de+} {+Johnson+}
+{+Classificação de Johnson	Tratamento+}
+{+Tipo I	Gastrectomia distal + reconstrução à Billroth I ou II+}
+{+Tipo II	Antrectomia + vagotomia+}
+{+Tipo III	Antrectomia + vagotomia+}
+{+Tipo IV	Gastrectomia subtotal + reconstrução em Y de Roux+}
+ 
+Figura [-7-]{+8+} - Tratamento da úlcera péptica 
+Tabela [-6-]{+7+} - Indicações de tratamento de manutenção com inibidor da bomba de prótons na doença ulcerosa péptica
+- Úlcera gigante (>2cm){+ e idade de 50 anos ou múltiplas comorbidades+};
+- Úlcera refratária (ausência de cicatrização após 12 semanas e tratamento adequado com IBP);
+- Falha na erradicação do H. pylori;
+- Úlceras recorrentes frequentes (>2 recorrências em 1 ano);
+{+- Úlceras H. pylori negativas e AINE-negativas;+}
+- Continuidade de tratamento com AINE.
+
+5. Úlcera duodenal
+
+A - Epidemiologia[-É-]{+	+}
+{+Trata-se+} {+d+}o tipo mais comum das úlceras pépticas{+,+} {+qu+}e pode ocorrer em qualquer faixa etária, mas é mais comum entre os 20 e os 45 anos, no sexo masculino, em nível socioeconômico baixo. Em 95% dos casos, encontra-se até 2cm do piloro. Associa-se ao H. pylori em mais de 90% dos casos, mas apenas 1/6 tem aumento da secreção ácida.
+
+B - {+Patogênese entre a infecção pelo H. pylori e a úlcera duodenal+}
+{+O H. pylori, ao infectar cronicamente a mucosa antral, inibe a produção de somatostatina pelas células D (potente inibidor da síntese/liberação de gastrina e da secreção de ácido). A redução desse fator inibitório leva a hipergastrinemia e consequente hipercloridria. A maior secreção de ácido pelo estômago faz que o duodeno receba maior carga ácida e induz à formação de metaplasia gástrica no bulbo duodenal (epitélio mais resistente ao ácido), o que permite a infecção do bulbo duodenal pela bactéria, promovendo duodenite seguida de úlcera.+}
+{+	+}
+{+C - +}Quadro clínico
+A clássica dor da úlcera duodenal ocorre quando o ácido é secretado na ausência de um tampão alimentar. O alimento é usualmente bem esvaziado de 2 a 3 horas após as refeições, mas a secreção ácida estimulada pelo alimento persiste por 3 a 5 horas; portanto, o clássico sintoma ocorre de 2 a 5 horas após as refeições. Sintomas também ocorrem à noite, entre 23 e 2 horas, quando a estimulação circadiana da secreção ácida é máxima.
+
+[-C-]{+D+} - Diagnóstico
+
+Tabela [-7-]{+8+} - Diagnóstico da úlcera duodenal
+Quadro clínico clássico
+- Dor epigástrica episódica em queimação, que pode irradiar-se para o dorso;
+- Alívio com alimentação ou antiácidos, classicamente, em 3 tempos ({+“+}dói-come-passa{+”+});
+- O paciente pode acordar à noite com dor (clocking), além de apresentar náuseas e vômitos, mesmo sem obstrução.
+Diagnóstico definitivo
+- Obtido por meio de endoscopia (Figura [-8-]{+9+});
+- Fazer sempre pesquisa de H. pylori, pela forte associação;
+- A biópsia da úlcera não é indicada, exceto úlceras refratárias ou sugestivas de malignidade;
+- Em caso de H. pylori negativo, deve-se investigar associação a AINEs, doença de Crohn, linfoma, câncer de pâncreas ou síndrome de Zollinger-Ellison (gastrinoma);
+@@ -201,133 +203,129 @@ Diagn
+- A dosagem da secreção ácida e de gastrina pode ser realizada em caso de não responsividade ao tratamento clínico.
+
+ 
+Figura [-8-]{+9+} - Aspecto endoscópico de úlcera duodenal
+
+[-D-]{+E+} - Tratamento
+{+	+}O tratamento clínico, como na úlcera gástrica, consiste na suspensão de fatores irritantes, como AINEs, álcool e fumo, e no tratamento para a erradicação do H. pylori. Entre os medicamentos, preconizam-se os bloqueadores da bomba de prótons, pois são mais eficazes.
+{+	Endoscopia de controle não é indicada, pelo baixo risco de malignidade; exceção é a persistência ou recorrência dos sintomas.+}
+{+	+}As indicações de cirurgia são as mesmas da úlcera gástrica, como intratabilidade clínica, sangramento que não se resolve com a endoscopia, perfuração ou obstrução. Na úlcera duodenal, é importante associar uma das técnicas de vagotomia.
+{+	+}O princípio da cirurgia da úlcera péptica duodenal é associar um procedimento que diminua a secreção ácida por meio de vagotomia (Figura [-9-]{+10+}) ou gastrectomia com ressecção do maior número possível de células produtoras de ácido. Necessita-se, também, de um procedimento de drenagem, quando a vagotomia é realizada (pode ocasionar estase gástrica), sendo este uma gastrojejunostomia ou piloroplastia (procedimento que alarga a abertura entre o antro e o duodeno).
+{+	+}Quanto às gastrectomias, a reconstrução com gastroenteroanastomose pode ser à BI, BII ou em Y de Roux. A reconstrução à Billroth I (Figura 1[-0-]{+1+}) preserva a continuidade duodenal e jejunal, anastomosando o estômago remanescente ao coto duode[---]nal em uma anastomose terminoterminal. Já a Billroth II anastomosa o estômago remanescente ao jejuno proximal em uma anastomose terminolateral (Figura 1[-0-]{+1+}). A reconstrução em Y de Roux (Figura 1[-1-]{+2+}) desvia a drenagem biliar para longe do es[---]tômago remanescente e anastomosa este a uma alça isoperistáltica do jejuno; o jejuno proximal é anastomosado a uma alça distal em Roux em uma anastomose terminolateral. A pacientes com úlcera duodenal e indicação de cirurgia eletiva sugere-se a vagotomia, em vez de outro procedimento redutor da acidez (graduação 2C); a vagotomia reduz o risco de úlcera recorren[---]te e minimiza as complicações pós-operatórias e sequelas (sugere-se a via laparoscópica – graduação 2C).
+
+Tabela [-8-]{+9+} - Tipos de vagotomia
+Vagotomia troncular	Divisão do tronco vagal principal (incluindo os ramos celíaco e hepático) e denervação do piloro. É necessário procedimento de drenagem pilórica (piloromiotomia ou piloroplastia) ou gastrojejunostomia. Também há denervação do fígado, árvore biliar, pâncreas e intestinos delgado e grosso.
+Vagotomia seletiva	Divisão dos nervos gástricos anterior e posterior de Latarjet somente (após ter originado os ramos celíaco e hepático). Também há denervação do piloro, necessitando de procedimento de drenagem. Não há denerva[---]ção do fígado, árvore biliar, pâncreas e intestinos. É raramente realizada, pois não há benefício em relação à troncular.
+Vagotomia altamente seletiva	Denervação somente do fundo e corpo gástricos. São sinônimos vagotomia das células parietais e vagotomia gástrica proximal. Há preservação do nervo que supre o antro e o piloro, não havendo necessidade de proce[---]dimento de drenagem. Não há denervação do fígado, árvore biliar, pâncreas e intestinos.[- -]
+
+ 
+Figura [-9-]{+10+} - Tipos de vagotomia[- -]
+Fonte: medical-dictionary.thefreedictionary.com.[- -]
+
+ 
+Figura 1[-0-]{+1+} - Billroth I e II[- -]
+Fonte: UpToDate.
+
+ 
+Figura 1[-1-]{+2+} - Y de Roux[- -]
+Fonte: UpToDate.
+
+Tabela [-9-]{+10+} - Tipos de procedimentos de drenagem gástrica
+Piloroplastia de Heineke-
+{+-+}Mikulicz	Divide o esfíncter longitudinalmente e o fecha transversalmente. É o mais simples e mais comumente realizado.
+Piloroplastia de Finney	É uma gastroduodenostomia.
+Piloroplastia de Jaboulay	É uma gastroduodenostomia.
+Gastrojejunostomia	Trata-se de anastomose da porção pendente do estômago ao jejuno proximal (usada se deformidade bulbar significativa que não permite piloroplastia segura).
+
+ 
+Figura 1[-2-]{+3+} - Gastrojejunostomia e tipos de piloroplastias[- -]
+Fonte: UpToDate.[- -]
+
+Tabela 1[-0-]{+1+} - Tratamento cirúrgico
+Vagotomia troncular + piloroplastia	A secção deve ser feita adjacente à porção intra-abdominal do esôfago, acima dos ramos celíaco e hepáti[---]co; pela secção do ramo hepático pode ocasionar colelitíase, justificando colecistectomia associada ao procedimento.
+Vagotomia superseletiva	Preserva a inervação pilórica, e dissecam-se os nervos de Latarjet da pequena curvatura do estômago, de um ponto de cerca de 7cm proximais ao piloro até outro ponto pelo menos 5cm proximais à junção gastroe[---]sofágica (no esôfago). Em centros especializados, a recidiva com essa técnica gira em torno de 10 a 15%, ligeiramente maior do que a vagotomia + piloroplastia.
+Vagotomia troncular + antrectomia	É a técnica mais efetiva, com menor índice de recidiva (menor do que 2%), entretanto é a mais mórbida. Pode ser realizada, também, a hemigastrectomia sem necessidade da vagotomia, pois, nesse caso, são retiradas mais células produtoras de ácido.
+
+Pergunta
+2012 - SANTA CASA-SP[- -]
+2. Nas gastrectomias para tratamento das úlceras duodenais, obedece-se aos seguintes princípios fisiológicos:[- -]
+a) ressecção do antro produtor de gastrina, não sendo necessário sacrificar parte do corpo gástrico
+b) ressecção do antro produtor de gastrina e de parte do corpo gástrico, para diminuir a população celular parietal produto[---]ra de ácido
+c) ressecção do piloro e da 1ª porção do duodeno, ressecando as úlceras, pois delas parte estímulo hormonal para a popula[---]ção celular do fundo gástrico
+d) exclusão duodenal nas grandes úlceras, evitando recidivas[- -]
+e) ressecção alargada do estômago nos pacientes jovens, evitando recidivas
+Resposta no final do capítulo
+
+6. Úlceras atípicas
+
+Úlceras gigantes: a maioria das úlceras pépticas é menor do que 1 a 2cm; as úlceras maiores do que 2cm são denomi[---]nadas gigantes. Usualmente, estão localizadas na parede posterior e frequentemente se complicam com sangramento, penetração posterior e obstrução pilórica. Também cicatrizam mais lentamente e relapsam mais frequentemente. IBPs são as drogas de escolha no seu tratamento, e a terapia por 12 semanas é efetiva na maioria dos casos. Após o trata[---]mento, os pacientes devem ser reavaliados com endoscopia para verificar a cicatrização e devido à incidência de ma[---]lignidade em 10% dos casos;
+ [-  -]
+Figura 1[-3-]{+4+} - Úlcera gigante bulbar[- -]
+Fonte: www.flickeflu.com.
+
+Úlceras do canal pilórico: associadas a dor logo após alimentação; pouco alívio com antiácidos; vômito e complicações;
+ [- -]
+Figura 1[-4-]{+5+} - Úlcera pré-pilórica
+Fonte: GASTROLAB.
+
+Úlceras pós-bulbares: as úlceras duodenais, geralmente, se localizam no bulbo, 2 a 3cm do piloro; úlceras na 2ª porção do duodeno e jejuno proximal são características de gastrinoma e estados hipersecretivos;
+Úlceras múltiplas: ocorrem em 2 a 20% dos casos; estão associadas a maior relação homem–mulher, sintomas tardios (>30 anos), tabagismo e deformidade bulbar; uso de AINE e gastrinoma também devem ser considerados.
+ [-  -]
+Figura 1[-5-]{+6+} - Múltiplas úlceras gástricas[- -]
+Fonte: www.gastrointestinalatlas.com.
+
+7. Complicações das úlceras pépticas
+
+
+A - Perfuração
+Em aproximadamente 2 a 10% dos hospitalizados por úlcera péptica, ocorre perfuração. Trata-se da causa mais habitual de abdome agudo perfurativo, levando a óbito em 15% dos casos, com risco maior entre idosos, mulheres e portadores de úlce[---]ras gástricas.
+Os principais fatores de risco são uso de AINEs (principal causa), imunossupressão (uso de esteroides, pós-transplantes), idosos, doença pulmonar obstrutiva crônica, grandes queimados e falência de múltiplos órgãos no choque.
+{+A maioria das úlceras que perfuram está situada na parede anterior do bulbo duodenal.+}
+Dor epigástrica repentina, podendo ou não irradiar-se para o ombro, geralmente abre o quadro. Em algumas horas, ocor[---]rem taquipneia, taquicardia, redução dos ruídos hidroaéreos, febre e abdome “em tábua”, configurando peritonite generali[---]zada. Em alguns casos, há alívio da dor devido à hipersecreção reativa de líquido peritoneal. Pode haver, ainda, timpanismo à percussão hepática, configurando positividade do sinal de Joubert.[- -]
+Para o diagnóstico diferencial, deve-se pensar em diferentes causas de abdome agudo, como pancreatite e apendicite aguda. A confirmação é realizada pelo quadro clínico e por exame radiológico mostrando pneumoperitônio (presente em até 80% dos casos – Figura 1[-6-]{+7+}).[- -]
+Pode haver, ainda, leucocitose com desvio à esquerda e desidratação, levando a aumento de hematócrito e alteração de eletrólitos. A proteína C reativa encontra-se aumentada, com possível elevação discreta na amilase em caso de perfuração da parede posterior próxima ao pâncreas.
+
+Importante
+Os principais fatores de risco para perfuração da úlcera péptica são uso de AINEs (principal causa), imunossupressão (uso de esteroides, pós-transplantes), idosos, doença pulmonar obstrutiva crônica, grandes queimados e falência de múltiplos órgãos no choque.
+ [- -]
+Figura 1[-6-]{+7+} - Raio x mostrando pneumoperitônio: lembrar que, para visualizar essa complicação, o paciente deve ser colocado em pé ou sentado, mostrando-se as cúpulas diafragmáticas
+O tratamento consiste na compensação dos distúrbios clínicos (volume intravenoso, IBP intravenoso e antibiótico de largo espectro) e no procedimento cirúrgico. Na úlcera duodenal, faz-se sutura da úlcera, podendo-se usar o omento para reforço, e, caso o paciente se encontre estável, pode-se associar a vagotomia troncular para diminuir o risco de recidiva, associada à piloroplastia (incorporado a perfuração).
+{+	+}Na úlcera gástrica, é necessário descartar lesão neoplásica, e a biópsia é obrigatória. A opção por excisão da úlcera e sutu[---]ra primária ou gastrectomia parcial depende das condições clínicas do paciente, da idade, da localização da úlcera, se é aguda ou crônica, do grau de contaminação peritoneal, entre outros fatores. Em pacientes estáveis com úlcera distal crônica, tende-se a optar por gastrectomia parcial.
+
+B - Sangramento
+
+Importante
+O sangramento de úlcera péptica ocorre em, aproximadamente, 20% dos pacientes com úlcera duodenal e, além de ser mais comum nesta do que na gástrica, é 4 vezes mais comum do que a perfuração.[- -]
+
+A mortalidade varia de 10 a 14%. No ressangramento, aumenta para cerca de 30% o risco. O uso de AINEs é o principal fa[---]tor de risco. Outras situações são o uso de corticosteroides, paciente crítico em terapia intensiva e presença de H. pylori.
+{+A maioria das úlceras que sangram situa-se na parede posterior do bulbo duodenal (a artéria gastroduodenal é a mais acometida).+}
+Clinicamente, manifesta-se como hematêmese, melena ou ambas. Grande sangramento (mais de 1.000mL) pode manifes[---]tar-se com hematoquezia e, em 15% dos casos, apresentar-se, inicialmente, com choque hipovolêmico. Em cerca de 85%[- dos pacientes-], o sangramento cessa após algumas horas. Em 25% dos casos, ocorre ressangramento, e cerca de 3/4 dos pacientes têm história prévia de doença péptica.
+Os pacientes com sangramento devem ser testados para a presença do H. pylori, mas a acurácia dos métodos pode ser afetada pela presença do sangramento. Conclui-se que a sensibilidade é baixa, mas a especificidade é alta para o diagnóstico baseado em biópsias, como teste da uréase (67 e 93%, respectivamente), histologia (70 e 90%, respectivamente) e cultura (45 e 95%, respectivamente). Quanto aos testes não invasivos, a sensibilidade e a especificidade foram de 93 e 92% para o teste respiratório, 87 e 70% para pesquisa do antígeno fecal e 88 e 69% para sorologia, respectivamente.
+
+C - Obstrução
+Menos comum, incide na úlcera pré-pilórica crônica e[-m-] {+nas úl+}cer[-c-]a{+s+} d{+uodenais, sendo r+}e{+sponsável por+} 5% d[-a-]{+o+}s [-úl-]c[-er-]as{+os+} d{+e obstr+}u{+çã+}o[-d-]{+ ao +}e[-n-]{+sv+}a{+z+}i{+amento gá+}s{+trico+}. Com a redução do edema, pode haver melhora.
+O paciente relata saciedade precoce e história longa de doença péptica, apresenta vômitos (80% dos casos) não biliares após a alimentação, com conteúdo semidigerido, e, ao exame físico, perda de peso, desidratação e distúrbios hidroeletrolíti[---]cos (alcalose metabólica hipocalêmica hipoclorêmica e acidúria paradoxal). No exame físico, o abdome pode estar distendido ou apresentar peristaltismo visível de Kussmaul.
+Confirma-se o diagnóstico com o teste da sobrecarga salina, no qual se infundem 750mL de solução salina após esvazia[---]mento gástrico por sonda nasogástrica, e mede-se o volume residual após 30 minutos (>400mL, obstrução gástrica definida). O exame radiológico contrastado, em que se observa passagem de pouco ou nenhum bário para o duodeno, pode auxiliar o diagnóstico, mas nem sempre é definitivo. A endoscopia vê a deformidade e não consegue ultrapassar a obstrução em alguns casos. Além disso, deve-se realizar biópsia para descartar neoplasia e pesquisar a presença do H. pylori. Por endoscopia, po[---]de-se tentar passar a sonda nasoenteral além da obstrução, obtendo-se, assim, uma forma de nutrição que diminui a urgência e prepara o paciente para cirurgia futura, com melhora do estado nutricional.
+Quando a causa pode ser revertida (H. pylori, AINE), pode-se tentar o tratamento conservador.[- -]
+
+Importante
+Terapia antissecretória com inibidor da bomba de prótons é o pilar do tratamento conservador da úlcera péptica (omeprazol 80mg IV em bolus, ou equivalente, seguido de 8mg/h, até melhora da obstrução).
+A obstrução gástrica não é uma emergência, e naqueles que não respondem ao tratamento conservador pode ser realiza[---]da cirurgia (após correção dos distúrbios clínicos) ou dilatação endoscópica por balão.
+Os objetivos do tratamento cirúrgico são o alívio da obstrução ao trânsito gástrico e o controle da doença ulcerosa pépti[---]ca; antrectomia/gastrectomia distal alivia a obstrução, exclui a malignidade e é combinada a vagotomia para diminuir o risco de recorrência.[- -]
+
+D - Úlcera penetrante
+{+Os termos “úlcera penetrante” ou “úlcera terebrante” descrevem as úlceras perfuradas contidas por órgãos adjacentes. +}Dor que se torna mais intensa e piora com alimentação, referida para região torácica inferior ou lombar superior, aumen[---]ta sua suspeita. Pode ocorrer em 20% das úlceras, mas poucas se tornam clinicamente evidentes. Ocorrem mais [-em-]{+no+} pâncreas (tanto úlcera gástrica quanto duodenal), seguido de omento menor, trato biliar (fístula coledocoduodenal e hemobiliar), fíga[---]do, grande omento, mesocólon, cólon (fístula gastrocólica nas úlceras da grande curvatura) e estruturas vasculares (fístula aortoentérica ou erosão de artéria cística). O tratamento depende do tipo de complicação, desde tratamento conservador (penetração para pâncreas sem hemorragia)[-,-] até manejo endoscópico e cirúrgico (nas hemorragias não controladas por en[---]doscopia).
+
+Pergunta
+2013 - UERJ
+3. Na prática médica diária, a complicação das úlceras pépticas, mais frequentemente observada, consiste na ocorrência de:[- -]
+a) estenose
+b) perfuração
+c) hemorragia
+d) fistulização
+Resposta no final do capítulo
+
+[-8. -]Resumo
+
+Quadro-resumo
+Úlcera gástrica:
+- Dor em 4 tempos ({+“+}sem dor[- – -]{+-+}come-dói-passa{+”+});
+- H. pylori positivo em 65 a 95%;
+- 95% na pequena curvatura;
+- Secreção ácida normal ou baixa;
+@@ -337,28 +335,22 @@ Quadro-resumo
+- Erradicação do H. pylori;
+- Cirurgia – antrectomia ou hemigastrectomia.
+Úlcera duodenal:
+- Dor em 3 tempos ({+“+}dói-come-passa{+”+});[- -]
+- H. pylori positivo em 80 a 95%;[- -]
+- 95% até 2cm do piloro;
+- Secreção ácida normal ou elevada;[- -]
+- Diagnóstico por endoscopia digestiva alta sem biópsia;[- -]
+- Não repetir endoscopia digestiva alta{+ (exceto úlcera complicada ou sintomas persistentes)+};
+- Tratamento clínico com IBP;
+- Erradicação do H. pylori;
+- Cirurgia – vagotomia troncular + antrectomia ou vagotomia + piloroplastia;
+- Sangramento mais frequente do que na forma gástrica.
+- O principal exame para o diagnóstico é a endoscopia digestiva alta, que permite a biópsia das úlceras gástricas para diagnóstico diferencial com neoplasia, biópsia para pesquisa do H. pylori e tratamento das lesões com sangramento;
+- O exame padrão-ouro para a detecção de H. pylori é o teste de uréase associado a histologia{+,+} e sua erradicação está indicada tanto nas úlceras pépticas gástricas quanto nas duodenais;
+- Com o advento de medicações como os IBPs, o tratamento cirúrgico acaba sendo reservado aos casos de intratabilidade clínica ou complicações, como hemorragia, perfuração e obstrução. Nas úlceras duodenais, associa-se alguma técnica de vagotomia;
+- A complicação mais comum é o sangramento (20%), seguido pela perfuração (2 a 10%) e pela obstrução (5%).
+
+Respostas{+ das questões do capítulo+}
+1. A
+2. B
+3. C[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
