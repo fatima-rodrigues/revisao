@@ -1,0 +1,204 @@
+diff --git a/gastro1_10.txt b/gastro1_10.txt
+index 496ab17..da1f84d 100644
+--- a/gastro1_10.txt
++++ b/gastro1_10.txt
+@@ -1,36 +1,45 @@
+Síndromes pós-operações gástricas
+
+José Américo Bacchi Hora
+
+[-Resumo-]Neste capítulo, serão abordadas as complicações mais comuns após as gastrectomias. As gastrectomias foram as cirurgias mais realizadas na formação de inúmeros cirurgiões, e saber suas complicações é essencial para compreender como os pacientes po{+-+}dem evoluir. Nelas a extensão da ressecção gástrica dependerá do tamanho, do tipo e da localização da lesão, e a reconstrução do trânsito alimentar pode ser feita de várias maneiras, sendo encontradas mais de 50 descrições diferen[---]tes em um só livro de Cirur{+-+}gia – as mais utilizadas são a gastroduodenoanastomose à Billroth I, a gastrojejunoanastomose à Billroth II e a gastro ou esofago{+-+}jejunoanastomose associadas à jejunojejunoanastomose em Y de Roux. As complicações pós-gastrectomias podem ser precoces (deiscências e fístulas, as úlceras recidivadas ou de boca anastomótica e a gastropare[---]sia), quando ocorrem no período de pós-operatório recente, nas primeiras semanas; ou tardias (síndrome de dumping, gastrite alcalina, síndromes da alça aferente e da alça eferente e os distúrbios nutricionais), se posteriores. Na deiscência e fístula, o diagnóstico pode ser confirmado por avaliação bioquímica do líquido drenado (dosagem de amilase e bilirrubinas) ou exames de imagem. Nas úlceras recidivadas, para trata{+-+}mento da hemorragia digestiva, o ideal é hemostasia endoscópica com métodos mecânicos (hemoclipe), dependendo das condi{+-+}ções gerais do paciente. Em caso de úlcera recorrente, é importante fator de risco de recorrência a infecção persistente por H. pylori, que deve ser tratada. Na gastroparesia, po[---]dem ocorrer sensação de plenitude gástrica, distensão abdominal, eructações ou vômito. O quadro clínico, em geral, é autolimitado, e a observação é a melhor opção. A síndrome de dumping é a síndrome do esvaziamento gástrico acelerado e ocorre em menos de 1% dos submetidos a vagotomia gástrica proximal e em mais de 50% dos submetidos a gastrectomia parcial. O dumping precoce é a mais comum, com sintomas que se iniciam de 20 a 30 minutos após ingesta com sintomas de plenitude gástrica, náuseas, vômitos, eructações, cólicas abdominais e diarreia explosiva e sintomas vasomotores. O diag[---]nóstico baseia-se na história clínica, e o tratamento se baseia na orientação dietética. O dumping tardio ocor{+-+}re em menos de 2% dos gastrectomizados, e os sintomas vasomotores são ocasionados{+,+} sobretudo{+,+} pela hiperinsulinemia[-,-]{+. O tra-tamento é realizado+} com prescrição de drogas que retardam a absorção de carboidratos e alterações na dieta. Em caso de gastrite alcalina, mais comum na re[---]construção à Billroth II, o quadro clínico é de dor epigástrica e vômitos biliosos, os quais não aliviam a dor, e o tratamento consiste em pró-cinéticos e quelantes dos sais biliares, com conversão a cirurgia em caso de insucesso. Na síndrome da alça [-e-]{+a+}ferente, secundária à obstrução da alça [-e-]{+a+}ferente, na anastomose com o estômago ou mais comumente antes dela, após reconstrução à Billroth II, o quadro clínico clássico é de dor abdominal, depois das refeições, aliviadas por vômitos bilio{+-+}sos em jato. Caracteriza-se, também, por vômitos pós-prandiais de conteúdo alimentar, precedidos de náuseas e distensão abdo{+-+}minal. Usualmente, o tratamento clínico é feito com pró-cinéticos, fracionamento, modificação para dieta pastosa ou até uso de drenagem gástrica melhoram o quadro na fase aguda. Pela alta frequência de síndromes pós-gastrectomias entre submetidos a reconstrução à Billroth II, cada vez mais esse tipo de reconstrução vem sendo substituído pela em Y de Roux.
+
+1. Introdução
+
+{+	+}As operações do estômago, além de acarretarem uma série de alterações no processo digestivo, podem gerar complica[---]ções com repercussões clínicas, algumas vezes tão importantes que alteram a qualidade de vida e colocam em xeque os be[---]nefícios da operação inicial.
+{+	+}Nas gastrectomias, a extensão da ressecção gástrica dependerá do tamanho, do tipo e da localização da lesão (Figura 1). Lesões malignas da cárdia e da transição esofagogástrica são tratadas com gastrectomia total; as de corpo, antro e fundo po[---]dem ser manejadas com ressecções parciais (gastrectomia subtotal, 4/5, 3/4 ou 2/3). Lesões precoces e tumores benignos podem ser tratados por ressecções “em cunha”; doenças benignas, por antrectomia associada a vagotomia.
+{+	+}As vagotomias, por sua vez, podem ser realizadas de forma troncular, quando ambos os troncos vagais são secci{+-+}onados; seletiva, se apenas os ramos que se dirigem ao estômago; ou superseletiva (de células parietais), se só os ra{+-+}mos proximais. 
+{+	+}Nas 3 primeiras, há denervação da região antropilórica, com comprometimento do esvaziamento gástrico, sendo necessá[---]ria a associação de um procedimento de drenagem, como a piloroplastia.
+ 
+[-Figura 1 - (A) Área de ressecção na gastrectomia total e (B) área de ressecção nas gastrectomias subtotal (superior) e antrectomia (inferior) -]
+
+{+Figura 1 - (A) Área de ressecção na gastrectomia total e (B) área de ressecção nas gastrectomias subtotal (após o 2º vaso breve) e antrectomia (perpendicular à incisura angularis) +}
+{+	+}A reconstrução do trânsito alimentar pode ser feita de várias maneiras, sendo encontradas mais de 50 descri{+-+}ções diferen[---]tes em um só livro de Cirurgia. As mais utilizadas na prática diária são a gastroduodenoanastomose à Bill{+-+}roth I, a gastrojejuno[---]anastomose à Billroth II e a gastro ou esofagojejunoanastomose associadas à jejunojejunoanasto{+-+}mose em Y de Roux (Figura 2).
+{+	+}A reconstrução à Billroth I {+(BI) +}é indicada, predominantemente, para afecções benignas como a obstrução pilóri{+-+}ca. Caso haja necessidade de ressecção de grande parte do estômago (para que se tenha margem livre de neoplasias, por exemplo), a grande distância entre o coto gástric[-o-]{+o e o duodeno inviabiliza a técnica. Tem a vantagem de ser a re-construção mais fisiológica, mantendo o trânsito alimentar pelo duodeno, e de necessitar de apenas 1 anastomose. Além disso, permite o acesso endoscópico à via biliar para colangiopancreatografia retrógrada endoscópica (CPRE) caso seja necessário, o que é impossível em BII e no Y de Roux. Outra indicação é quando o paciente apresenta ingesta de soda cáustica com a chamada dupla lesão cáustica (no esôfago e no estômago). Nesse caso, realiza-se uma antrectomia com reconstrução à BI inicialmente para evitar a estenose antropilórica+} e {+p+}o[- du-]{+steri+}o[-d-]{+rm+}en[-o-]{+te+} [-invi-]{+re+}a[-bi-]liza{+r+} a [-técnica. T-]e[-m -]{+sof+}a[- v-]{+gocolopl+}a[-n-]{+s+}t{+i+}a[-gem de-]{+.+} {+Ca+}s[-er-]{+o+} a reconstrução [-mais -]f[-i-]{+o+}s[-i-]{+se à BII +}o[-lógi-ca,-]{+u Y+} [-manten-]d[-o-]{+e+} {+R+}o{+ux,+} [-trâ-]n[-sit-]{+ã+}o [-alim-]{+s+}e[-nta-]r{+ia+} p{+ossív+}el[-o-] [-d-]{+s+}u{+bir +}o[-deno,-] [-e-]{+cólon+} [-de-]{+para+} [-n-]{+r+}ec[-es-]{+on+}s[-i-]t[-a-]{+rui+}r [-d-]{+o +}e{+sôfago,+} apenas [-1-]{+se for+} {+re+}a[-n-]{+lizad+}a{+ uma recon+}st{+ruçã+}o{+ à BI inicial+}m[-os-]{+ent+}e. 
+{+	+}A técnica à B[-illroth -]II, apesar de também contar com apenas 1 anastomose e o sepultamento do coto duodenal, tem o in[---]conveniente da passagem do conteúdo hepatobiliopancreático pelo estômago, o que pode levar a gastrite alcalina e metapla[---]sia intestinal, elevando o risco de câncer gástrico e de {+úlcera de +}boca anastomótica e facilitando o refluxo gas{+-+}troesofágico de compo[---]nente biliar, que tem difícil controle. A intussuscepção jejunojejunal também é relatada e se manifesta pela tríade de dor aguda de forte intensidade, vômitos biliosos seguidos por hematêmese e massa palpável no epigástrio. Fica reservada a ope[---]rações de urgência, por ser mais rápida do que a reconstrução em Y de Roux.
+{+	+}A reconstrução em Y de Roux é, hoje, a técnica de eleição na maioria dos serviços. Apesar da necessidade de 2 anastomo[---]ses, nessa técnica a alça biliar não entra em contato com o estômago, diminuindo as chances de complicações em longo prazo relacionadas a gastrite alcalina.
+
+ 
+Figura 2 - (A) Gastroduodenoanastomose à Billroth I; (B) gastrojejunoanastomose à Billroth II e (C) reconstrução em Y de Roux
+{+	+}
+{+	+}As complicações pós-gastrectomias podem ser precoces, quando ocorrem no período de pós-operatório recen{+-+}te, nas primeiras semanas; ou tardias, se posteriores. Dentre as primeiras, serão abordadas as deiscências e as fístulas, as úlceras recidivadas ou de boca anastomótica e a gastroparesia. Quanto às tardias, serão discutidas a síndrome de dumping, a gastrite alcalina, as síndromes da alça aferente e da alça eferente e os distúrbios nutricionais.
+
+{+Tabela 1 - Técnicas cirúrgicas, indicações e complicações+}
+{+Tipos de re-construção	Vantagens	Desvantagens	Complicações	Indicações mais frequentes+}
+{+BI	- Mais fisiológica;+}
+{+- Menos complicações nutricionais.	Só realizada em res-secções menores (cada vez mais raras)	Refluxo duodenogástrico	Cirurgia eletiva para úlcera+}
+{+BII	Mais rápida do que em Y de Roux	- Inúmeras complica-ções tardias;+}
+{+- Risco aumentado de câncer de coto gástri-co.	Síndromes da alça afe-rente, alça eferente, dumping, gastrite alcali-na, úlcera de boca anas-tomótica, câncer de coto.	Cirurgias de ur-gência com res-secção parcial (exceção)+}
+{+Y de Roux	Menos complicações	- 3 anastomoses; +}
+{+- Mais demorada do que BII.	- Estase de Y de Roux;+}
+{+- Úlcera de boca anasto-mótica.	Ressecções por câncer+}
+
+Pergunta
+2013 - UFSC
+1. Quanto às síndromes pós-gastrectomias, indique se são Verdadeiras (V) ou Falsas (F) as afirmativas a seguir:
+(  ) A síndrome de dumping precoce ocorre de 20 a 30 minutos após a refeição e está associada a hipo[---]glicemia.
+(  ) A síndrome de dumping tardio deve ser tratada com refeições pequenas e frequentes e com a dimi[---]nuição da quantidade de carboidratos.
+(  ) A gastrite alcalina apresenta dor que não alivia com a alimentação e com o uso de antiácidos.
+(  ) A síndrome do antro retido deve-se a secreções biliares e pancreáticas no antro residual, diminuin[---]do a gastrina e ocasionando o aparecimento de úlceras.
+(  ) O distúrbio metabólico mais comum é a anemia megaloblástica pela diminuição de fator intrínseco.
+Assinale a sequência correta:
+a) V, F, V, F, F
+@@ -42,122 +51,125 @@ Resposta no final do cap
+
+2. Deiscências e fístulas
+
+{+	+}Pacientes submetidos a gastrectomia com reconstrução à B[-illroth -]II ou em Y de Roux podem apresentar ruptura da sutura do coto duodenal. Isso é mais comum em debilitados ou com o coto duodenal de difícil manuseio cirúrgico por alterações anatômicas locais, como cicatrizes e aderências. Tal complicação acontece em 1 a 5% das gastrectomias e é temida por sua alta morbimortalidade. Atualmente, o índice de mortalidade dessa situação está próximo [-a-]{+d+}os 10%.
+{+	+}A liberação de secreção biliopancreática na cavidade peritoneal pode causar quadro grave de sepse abdominal com risco de morte. Geralmente, os pacientes apresentam febre, dor abdominal, leucocitose e hiperamilasemia. Os sintomas podem iniciar-se entre o 3º e o 7º dias de pós-operatório. 
+
+{+Importante +}
+{+Os sintomas das fístulas e deiscências podem iniciar-se entre o 3º e o 7º dias de pós-operatório. +}
+
+Diagnóstico
+O diagnóstico de fístulas pode ser confirmado por avaliação bioquímica do líquido drenado (dosagem de amilase e bilirru[---]binas) ou por exames de imagem. 
+
+{+	+}Quando o {+estado geral do +}paciente [-tem-]{+é+} bom[- estado geral-], sem sinais de irritação peritoneal, e há orientação da fístula para o exterior, por meio de um dreno, a conduta é expectante, com suporte clínico, drenagem prolongada e antibioticotera{+-+}pia. Nos casos em que há choque séptico, líquido livre em toda a cavidade e comprometimento do estado geral, a me{+-+}lhor conduta é a laparo[---]tomia exploradora com reabordagem e drenagem do coto duodenal. 
+{+	+}As anastomoses entre o estômago e o intestino delgado, tanto na reconstrução à B[-illroth -]II quanto em Y de Roux, tam{+-+}bém podem apresentar deiscência ou fístula. Na presença de alguma dessas situações, é conveniente intervenção para confecção de nova anastomose, drenagem local e repouso alimentar com nutrição enteral por sonda ou jejunostomia, distal à anastomo[---]se. Na maioria das séries, tem sido mais comum do que a fístula de coto duodenal.
+
+3. Úlceras recidivadas
+
+A - Hemorragia digestiva
+
+{+	+}Indivíduos com doença ulcerosa que sangram após o tratamento cirúrgico [-sã-]{+c+}o{+nstituem+} um desafio para o médico. Costumam ser pacientes graves com várias comorbidades e que foram submetidos a procedimentos menores na he{+-+}morragia inicial, como a simples rafia da úlcera. Nesses, a melhor conduta seria a vagotomia troncular associada à res{+-+}secção gástrica, do tipo antrec[---]tomia. Entretanto, são pacientes graves que, geralmente, não suportam uma operação de grande porte, sendo a decisão ava[---]liada caso a caso. O ideal é a hemostasia endoscópica com métodos mecânicos (he{+-+}moclip{+e+}), para que o indivíduo saia da situa[---]ção de urgência, ou no máximo uma operação apenas com intuito hemostá{+-+}tico. Posteriormente, depois da investigação com[---]pleta e {+com +}o tratamento dos fatores predisponentes, avalia-se se há necessidade de cirurgia eletiva, habitualmente aquela com menor índice de recidiva: antrectomia com vagotomia.
+
+B - Úlcera recorrente
+
+{+	+}A incidência de úlcera recorrente varia de 1 a 30%, dependendo da técnica utilizada, e pode apresentar-se de 2 manei[---]ras: como úlcera de boca anastomótica ou úlcera pós-vagotomia gástrica proximal.
+
+Dica
+A causa mais comum da úlcera de boca anastomótica é a conduta operatória inadequada ou insuficiente, princi{+-+}palmente a vagotomia gástrica incompleta e a ressecção gástrica econômica. 
+
+{+	+}Após a correta determinação da etiologia da recidiva ulcerosa, cerca de 80% necessitarão de tratamento cirúrgi{+-+}co. Já a úl[---]cera recorrente após [-a -]vagotomia tem caráter mais benigno e pode responder melhor ao tratamento clínico. Entretanto, até 50% precisam de nova intervenção cirúrgica.
+{+	+}Causas mais raras, como a hipercalcemia e a síndrome de Zollinger-Ellison, além do uso de drogas ulcerogênicas, devem se{+mp+}r{+e+} se[-mp-]r[-e-] lembradas no diagnóstico diferencial. Outro importante fator de risco para a recorrência é a infec{+-+}ção persistente pelo H. pylori, que deve ser tratada.
+
+4. Gastroparesia
+
+{+	+}A maioria dos submetidos a vagotomia apresenta estase gástrica no período pós-operatório, pois há comprome{+-+}timento do relaxamento receptivo. Pode ocorrer sensação de plenitude gástrica, distensão abdominal, eructações ou vômitos. A vagoto[---]mia gástrica proximal afeta pouco o esvaziamento gástrico de sólidos, mas as vagotomias troncular e seletiva o fazem significa[---]tivamente.
+{+	+}Como os procedimentos de drenagem gástrica (piloroplastia e gastroenteroanastomose) são sempre associados às vago[---]tomias mais amplas, comumente não há obstáculo mecânico. Nos casos de vagotomia gástrica proximal, como a função antro[---]pilórica intacta, as queixas são mais relacionadas à distensão do fundo gástrico e podem se manifestar por dor no ombro. Alguns pacientes podem ter dilatação gástrica após gastrectomias amplas, pelo fato de uma pequena câmara gástrica não suportar o volume de uma refeição habitual.
+{+	+}O quadro clínico, em geral, é autolimitado, e a observação é a melhor opção. São recomendados fracionamento da dieta, ingestão de alimentos pastosos e líquidos e uso de pró-cinéticos. Em casos graves e prolongados, pode-se optar pela dieta parenteral até o restabelecimento da função motora gástrica. 
+
+Tratamento
+O tratamento cirúrgico para gastroparesia é reservado aos casos que não respondem à terapêutica clínica por pelo menos 1 mês ou que tenham diagnóstico de complicações confirmado, como distorções de anastomose, úlceras de boca anasto[---]mótica ou insuficiência no procedimento de drenagem.
+
+5. Síndrome de dumping
+
+{+	+}É a síndrome do esvaziamento gástrico acelerado. Refere-se a sinais e sintomas após a ingestão de alimentos devido à re[---]moção de uma porção do estômago ou alteração do mecanismo esfincteriano pilórico. Há passagem rápida dos alimentos para o jejuno ou para o duodeno, ocasionando sintomas precoces, quando de 10 a 30 minutos após as refeições, ou tardios, quan[---]do de 1,5 a 3 horas. Tais condições manifestam-se por sintomas vasomotores e gastrintesti{+-+}nais.
+{+	+}Essa síndrome ocorre em menos de 1% dos submetidos à vagotomia gástrica proximal e em mais de 50% dos submetidos à gastrectomia parcial. Apesar dos sintomas semelhantes, as síndromes de dumping precoce e de dumping tardio têm substra[---]tos fisiopatológicos diferentes e devem ser abordadas separadamente.
+
+A - Dumping precoce
+{+	+}Trata-se da forma mais comum após gastrectomia parcial com reconstrução à B[-illroth -]II, especialmente se mais de 2/3 do estômago são removidos, e também nas operações bariátricas.
+
+a) Patogenia
+{+	+}Devido à ausência da fase antropilórica da digestão (consequente [-à-]{+a+} ablação, derivação ou destruição do piloro), o quimo chega com rapidez ao delgado, com o alimento em estado hiperosmolar; ou seja, chega ao delgado um bolo alimentar hiper[---]tônico, causando desvio do líquido extracelular para a luz do intestino, o que acarreta distensão do lúmen da alça, desenca[---]deando respostas autonômicas e gastrintestinais. A participação de estímulos neuro-hormonais pode causar sintomas vasomo[---]tores, mesmo na ausência de diminuição do volume extracelular. Liberação de peptídio vasointestinal ativo, serotonina, bra[---]dicinina e enteroglucagon, dentre outros, devem desempenhar papel importante na gênese dos sintomas.
+
+b) Quadro clínico
+{+	+}Inicia-se de 20 a 30 minutos após a ingestão de uma refeição, geralmente rica em carboidratos; caracteriza-se por pleni[---]tude gástrica, náuseas, vômitos, eructações, cólicas abdominais e diarreia explosiva. Os sintomas vasomotores são fraqueza, tontura, desmaio, palidez, visão turva, diaforese, rubor, taquicardia e palpitação.
+
+c) Diagnóstico
+{+	+}Baseia-se na história clínica. Em casos duvidosos, uma seriografia gastrintestinal e o estudo do esvaziamento gás{+-+}trico com radioisótopo podem auxiliar, assim como o teste provocativo, em que o paciente ingere 200mL de solução de glicose a 50% e água, levando ao aparecimento dos sintomas.
+
+d) Tratamento
+{+	+}Consiste em medidas clínicas como fracionar a dieta, diminuir a ingestão de carboidratos e deitar-se após as refeições, le[---]vando ao alívio dos sintomas na maioria dos casos. A utilização de antiespasmódicos pode causar o mesmo efeito. Alguns auto[---]res propõem análogos da somatostatina, como a octreotida, a fim de diminuir a liberação dos neuro-hormônios. Com o passar do tempo, geralmente, há melhora dos sintomas.
+{+	+}Apenas 1% não melhora com o tratamento clínico, sendo necessária a reintervenção cirúrgica. Nesse caso, pode-se tentar a interposição de alça jejunal anisoperistáltica de 10cm (posicionada entre o coto gástrico e o duodeno) ou a conversão em Y de Roux.
+
+B - Dumping tardio
+{+	+}Síndrome bem mais rara do que o dumping precoce e também denominada hipoglicemia reativa, pode vir isola{+-+}damente ou em associação ao dumping precoce. Ocorre em menos de 2% dos gastrectomizados, e os sintomas são ocasionados princi[---]palmente pela hiperinsulinemia. 
+
+a) Patogenia
+{+	+}O defeito básico nesse distúrbio também é o esvaziamento gástrico rápido, no entanto está relacionado com a liberação rápida de carboidratos no intestino delgado, que são rapidamente absorvidos, resultando em hiperglicemia e grande libera[---]ção de insulina. Há hiperinsulinemia reativa cerca de 1,5 a 3 horas após a ingestão da refeição. Em respos{+-+}ta à insulina{+,+} ocorre hipoglicemia, que ativa a adrenal, liberando catecolaminas que acarretam os sintomas vasomotores numa fase da digestão em que os carboidratos já foram [-previamente -]absorvidos.
+
+b) Quadro clínico
+{+	+}O paciente apresenta apenas sintomas vasomotores como diaforese, tremores, tontura, taquicardia e confusão mental, decorrentes da liberação de catecolaminas estimulada pela hipoglicemia, sem sintomas gastrintestinais, alivia{+-+}dos pela ingestão de carboidratos. Esses 2 fatores, associados ao intervalo de tempo entre a refeição e o aparecimento dos sintomas, facilitam a diferenciação entre as síndromes de dumping tardio e precoce.
+
+c) Tratamento
+{+	+}O tratamento clínico com orientação dietética, o uso de drogas que retardam a absorção dos carboidratos (como a pecti[---]na) e mesmo a observação clínica geralmente são suficientes para a resolução do quadro. As tentativas cirúrgicas são reser[---]vadas aos casos graves com insucesso do tratamento clínico, e as técnicas utilizadas são as mesmas realizadas nos casos de dumping precoce.
+
+6. Gastrite alcalina
+{+	+}Quando a barreira pilórica é quebrada, por meio de piloroplastia, gastrectomia ou anastomose gastroentérica, pode haver passagem do líquido alcalino biliopancreático para o estômago em quantidades excessivas. É possível nas derivações ou re[---]construções à B[-illroth -]I, mas é mais comum em B[-illroth -]II. 
+
+A - Quadro clínico
+{+	+}Foi descrito no século XIX, caracterizado, primordialmente, por dor epigástrica e vômitos biliosos, os quais não aliviam a dor. As alterações da motilidade gástrica e o refluxo enterogástrico anormal, com a perda da barreira mucosa gástrica, são os responsáveis pelo processo etiopatogênico. Recentemente, vem sendo implicada na gênese do câncer de coto gástrico, por meio de processos crônicos sucessivos de gastrite, metaplasia intestinal, displasia e câncer do tipo intestinal de Lauren.
+
+B - Diagnóstico
+{+	+}É feito com anamnese e exame físico cuidadosos, associados a endoscopia digestiva alta, na qual se deve obser{+-+}var a região perianastomótica e realizar biópsia. 
+
+C - Tratamento
+{+	+}O tratamento clínico consiste na prescrição de pró-cinéticos e quelantes dos sais biliares, como colestiramina e antiácidos que contêm alumínio. É importante salientar que nenhum tratamento medicamentoso provou ser efetivo em estudos. 
+{+	+}Aos casos que não respondem ao tratamento clínico está indicada a conversão de B[-illroth -]II ou B[-illroth -]I em Y de Roux, com a alça a 60cm abaixo da gastrojejunostomia, pois cursa com menor refluxo enterogástrico (Figura 3). Outra opção é a operação de Henley-Soupault (Figura 4), em que é [-r-]{+f+}e[-al-]i[-zad-]{+t+}a a interposição da alça do delgado entre o estômago e o duode{+-+}no, tratando também distúrbios nutricionais associados, como a anemia.
+
+ 
+Figura 3 - Tratamento pela conversão de Billroth II em Y de Roux
+
+ 
+Figura 4 - Operação de Henley-Soupault tratando anemia
+
+7. Síndrome da alça aferente
+
+{+	+}Essa síndrome é secundária à obstrução da alça aferente, na anastomose com o estômago ou mais comumente antes dela, após reconstrução à B[-illroth -]II. Está relacionada a alças aferentes longas (Figura 5), quando pode ocorrer acotove{+-+}lamento da alça, do volvo da alça ou formação de hérnia interna. Outras causas são estenose da anastomose, aderên{+-+}cias, úlcera da boca anastomótica, intussuscepção jejunogástrica ou até carcinoma. Deve-se lembrar que só acontece nas reconstruções à B[-illroth -]II. 
+
+Quadro clínico
+O quadro clínico clássico de síndrome da alça aferente é de dor abdominal depois das refeições, aliviada por vô{+-+}mitos bilio[---]sos em jato. [-Pode apresentar-se aguda ou cronicamente. Ao contrário da gastrite alcalina, na síndrome da alça aferente o paciente re-lata melhora dos sintomas após os vômitos. O diagnóstico pode ser feito por meio de radiografia contrastada ou tomografia. Como os sintomas são geralmente crônicos, secundários ao mau esvaziamento da alça aferente no estômago, o tratamento é, frequentemente, cirúrgico, com conversão da anastomose à Billroth II em Y de Roux.-]
+
+{+	Pode apresentar-se aguda ou cronicamente. Ao contrário da gastrite alcalina, na síndrome da alça aferente o paciente relata melhora dos sintomas após os vômitos. O diagnóstico pode ser feito por meio de radiografia contrastada ou tomografia. Como os sintomas são geralmente crônicos, secundários ao mau esvaziamento da alça aferente no es-tômago, o tratamento é, frequentemente, cirúrgico, com conversão da anastomose à BII em Y de Roux.+}
+ 
+Figura 5 - Síndrome da alça aferente: notar a dilatação duodenal decorrente de obstrução na alça que chega ao estômago (aferente)
+
+Pergunta
+2015 - UERJ
+2. Um paciente com úlcera gástrica foi submetido a gastrectomia distal com vagotomia troncular e re[---]constituição do trânsito alimentar à Billroth II. No pós-operatório, queixa-se de episódio de forte des[---]conforto, plenitude e dor no epigástrio e no mesogástrio após alimentação. O paciente relata, também, que esses sintomas desaparecem completamente após súbito episódio de vômitos biliosos. Diante desse relato, o tratamento cirúrgico mais indicado é:
+a) realização de Y de Roux
+b) totalização da gastrectomia
+c) confecção de válvula antirrefluxo
+d) inversão da gastroenteroanastomose
+Resposta no final do capítulo
+
+8. Síndrome da alça eferente
+
+{+	+}Bem menos comum do que a síndrome da alça aferente, esse quadro decorrente de complicações em uma anas{+-+}tomose gastrojejunal à B[-illroth -]II caracteriza-se por vômitos pós-prandiais de conteúdo alimentar, precedidos de náuseas e distensão abdominal. Ocorre por mau esvaziamento do estômago, atribuído ao estreitamento anastomótico ou à angu{+-+}lação da alça efe[---]rente da anastomose à B[-illroth -]II. Os pacientes têm distensão gástrica e melhoram com a liberação do conte{+-+}údo alimentar por meio de vômitos; por vezes, chegam a provocá-los para aliviar os sintomas. Na fase aguda, pode ser difícil a diferenciação da gastroparesia após gastrectomias ou vagotomias.
+{+	+}Usualmente, tratamento clínico com pró-cinéticos, fracionamento, modificação para dieta pastosa ou até uso de drenagem gástrica melhoram o quadro na fase aguda. Nos casos com obstrução mecânica comprovada e naqueles que não respondem com tratamento inicial, podem ser necessárias reintervenção cirúrgica com gastrectomia e nova anas{+-+}tomose gastrojejunal, de preferência em Y de Roux.
+
+9. Conclusão
+
+{+	+}Pela alta frequência de síndromes pós-gastrectomias entre indivíduos submetidos à reconstrução à B[-illroth -]II, cada vez mais esse tipo de reconstrução vem sendo substituído pela em Y de Roux. Como as operações para o tratamento de úlceras pépticas apresentam nítido declínio e a sua realização tem ficado restrita às situações de emergência, com a opção por pro[---]cedimentos minimamente invasivos, como a simples sutura, a tendência atual é vermos cada vez menos todas essas síndro[---]mes. Entretanto, pelo seu valor histórico e pelo aumento nas indicações de operações bariátricas e metabólicas, tem-se visto uma nova face desses mesmos sintomas.[-10. Resumo-]
+
+{+Resumo+}
+{+ +}
+Quadro-resumo
+- As complicações pós-gastrectomias podem ser precoces. São elas:
+· Deiscências e fístulas; 
+@@ -169,27 +181,22 @@ Quadro-resumo
+· Síndromes da alça aferente e da alça eferente; 
+· Distúrbios nutricionais. 
+- Deiscências e fístulas:
+· Os pacientes podem apresentar febre, dor abdominal, leucocitose e hiperamilasemia. Os sintomas podem iniciar-se en{+-+}tre o 3º e o 7º dias de pós-operatório, e o diagnóstico pode ser confirmado por avaliação bioquímica do líquido drenado ou por exames de imagem. 
+- Úlceras recidivadas:
+[-  -]· Hemorragia digestiva; [-  -]
+· Úlcera recorrente.
+- Gastroparesia:
+· Pode se manifestar com sensação de plenitude gástrica, distensão abdominal, eructações ou vômitos. 
+- Síndrome de dumping: 
+· Os sinais e sintomas dão-se após a ingestão de alimentos, devido à remoção de uma porção do estômago ou alteração do mecanismo esfincteriano pilórico, com aceleração do esvaziamento gástrico;
+· Há passagem rápida dos alimentos para o jejuno/duodeno, ocasionando sintomas vasomotores e gastrintestinais (dum{+-+}ping precoce) ou apenas vasomotores (tardio). 
+- Gastrite alcalina:
+· Caracteriza-se por dor epigástrica e vômitos biliosos, os quais não aliviam a dor. 
+- Síndrome da alça aferente: 
+· Ocorre nas reconstruções à B[-illroth -]II, manifestando-se por meio de dor abdominal, com vômitos biliosos em jato. 
+- Síndrome da alça eferente: 
+· Caracteriza-se por vômitos pós-prandiais de conteúdo alimentar, precedidos de náuseas e distensão abdominal.    
+
+Respostas {+das questões do capítulo+}
+1. C 
+2. A[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
