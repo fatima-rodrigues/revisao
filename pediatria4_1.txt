@@ -1,71 +1,77 @@
 Imunizações
-Adriana Prado Lombardi / José Roberto Vasconcelos de Araújo
-Marcelo Higa / Maria Teresa Luis Luis / Ana Thamilla Fonseca
+Adriana Prado Lombardi
+José Roberto Vasconcelos de Araújo
+Marcelo Higa
+Maria Teresa Luis Luis
+Ana Thamilla Fonseca
 Danniella Corrêa Netto Pedroso Lenharo
-Resumo
-Um capítulo extenso e importante para a prova. Portanto, pare, respire e siga em frente. 
-A imunização pode ser dividida em ativa (vacinação) e passiva (anticorpos prontos) e é um dos meios pelos quais um orga-nismo pode se tornar imune a determinada doença infecciosa, patógeno ou toxina produzida por ele. Na imunização passiva, a proteção é temporária e acontece por meio da administração de anticorpos pré-formados, conferindo proteção imediata, porém transitória. A eficácia da vacina depende de vários fatores, como presença de anticorpos maternos, natureza e doses do antígeno aplicado, modo de administração da vacina, utilização de coadjuvante e estado nutricional. As vacinas contra infecções virais podem ser de vírus atenuados e de vírus mortos ou inativados completos. Já as vacinas contra infecções bacterianas podem ser de bactérias vivas atenuadas, mortas, anatoxinas e polissacárides. Todas as que não usam micro-organismos vivos atenuados têm poder imunogênico menor por não produzir multiplicação do agente no organismo e, na maioria das vezes, necessitam de mais de 1 dose para produzir níveis de anticorpos protetores. As vacinas feitas com micro-organismos atenuados são aquelas contra poliomielite oral (Sabin), rubéola, sarampo, caxumba, varicela, febre amarela e BCG, enquanto aquelas que são feitas com micro-organismos mortos ou anatoxinas e polissacárides são aquelas contra poli-omielite tipo Salk, pertussis, influenza (vírus), hepatite A, coqueluche, cólera, difteria e tétano, meningococo A + C e pneu-mococo 23. Há algumas contraindicações à tomada de vacinas, que incluem reação de hipersensibilidade imediata, encefa-lopatia verdadeira ou encefalites sem causa identificável nos primeiros 7 dias da vacinação DPT e DTPa, com o componente pertussis, indivíduos imunossuprimidos nos casos de vacinas com bactérias atenuadas ou vírus atenuados e enfermidade aguda, moderada ou grave, acompanhada ou não de febre.
+Vivian Amaral
+
+Um capítulo extenso e importante para a prova.
+A imunização pode ser dividida em ativa (vacinação) e passiva (anticorpos prontos) e é um dos meios pelos quais um orga-nismo pode se tornar imune a determinada doença infecciosa, patógeno ou toxina produzida por ele. Na imunização passi-va, a proteção é temporária e acontece por meio da administração de anticorpos pré-formados, conferindo proteção ime-diata, porém transitória. A eficácia da vacina depende de vários fatores, como presença de anticorpos maternos, natureza e doses do antígeno aplicado, modo de administração da vacina, utilização de coadjuvante e estado nutricional. As vacinas contra infecções virais podem ser de vírus atenuados e de vírus mortos ou inativados completos. Já as vacinas contra in-fecções bacterianas podem ser de bactérias vivas atenuadas, mortas, anatoxinas e polissacárides. Todas as que não usam micro-organismos vivos atenuados têm poder imunogênico menor por não produzir multiplicação do agente no organismo e, na maioria das vezes, necessitam de mais de 1 dose para produzir níveis de anticorpos protetores. As vacinas feitas com micro-organismos atenuados são aquelas contra poliomielite oral (Sabin), rubéola, sarampo, caxumba, varicela, febre ama-rela e BCG, enquanto aquelas que são feitas com micro-organismos mortos ou anatoxinas e polissacárides são aquelas contra poliomielite tipo Salk, pertussis, influenza (vírus), hepatite A, coqueluche, cólera, difteria e tétano, meningococo A + C e pneumococo 23. Há algumas contraindicações à tomada de vacinas, que incluem reação de hipersensibilidade imedia-ta, encefalopatia verdadeira ou encefalites sem causa identificável nos primeiros 7 dias da vacinação DPT e DTPa, com o componente pertussis, indivíduos imunossuprimidos nos casos de vacinas com bactérias atenuadas ou vírus atenuados e enfermidade aguda, moderada ou grave, acompanhada ou não de febre.
 
 1. Introdução
 
-Desde que Edward Jenner, em 1796, fez a 1ª tentativa de imunização sistemática contra a varíola, a imunização vem fazendo notáveis progressos. No Brasil, o Programa Nacional de Imunizações (PNI) completou 40 anos em 2013 com grande sucesso, pois conseguiu diminuir as desigualdades nacionais das doenças imunopreveníveis.
-A imunização pode ser dividida em ativa (vacinação) e passiva (anticorpos prontos) e é um dos meios pelos quais um organismo pode se tornar imune a determinada doença infecciosa, patógeno ou toxina produzida por ele. Os mecanismos de imunidade ativa adquirida após a vacinação são análogos aos que o organismo utiliza contra as infecções virais ou microbianas. 
-A imunização ativa é a administração de qualquer vacina ou toxoide (toxina inativada) para a prevenção de doenças. Na prática, deve contemplar a situação epidemiológica, os recursos de cada região do país, bem como a disponibilidade de vacinas, assim o calendário vacinal não deve ser utilizado de forma rígida. Na imunização passiva, a proteção é temporária e acontece por meio da administração de anticorpos pré-formados, conferindo proteção imediata, porém transitória, da qual a administração de imunoglobulinas (Igs) é um exemplo, assim como a que ocorre da mãe para o feto na vida intraútero ou para o Recém-Nascido (RN) pela amamentação.
-O feto é incapaz de sintetizar por si os anticorpos IgA, IgD e IgE, mas na gestação, a partir da 10ª semana, aparecem seletivamente as Igs da classe IgG que o feto recebe passivamente por meio da placenta (a única que realiza transmissão transplacentária), as quais a atravessam ativamente de forma modesta no 1º trimestre da gravidez e muito acentuada posteriormente, como pode ser visto na Figura 1. A síntese de Igs no feto inicia-se, precocemente, com certas classes de anticorpos, podendo-se verificar vestígios de IgM (1ª Ig a ser produzida pelo feto) desde a 10ª semana de vida fetal e de IgG a partir da 12ª semana. 
+Desde que Edward Jenner, em 1796, fez a 1ª tentativa de imunização sistemática contra a varíola, a imunização vem fa-zendo notáveis progressos. No Brasil, o Programa Nacional de Imunizações (PNI) completou 40 anos em 2013 com grande sucesso, pois conseguiu diminuir as desigualdades nacionais das doenças imunopreveníveis.
+A imunização pode ser dividida em ativa (vacinação) e passiva (anticorpos prontos) e é um dos meios pelos quais um orga-nismo pode se tornar imune a determinada doença infecciosa, patógeno ou toxina produzida por ele. Os mecanismos de imunidade ativa adquirida após a vacinação são análogos aos que o organismo utiliza contra as infecções virais ou microbianas. 
+A imunização ativa é a administração de qualquer vacina ou toxoide (toxina inativada) para a prevenção de doenças. Na prática, deve contemplar a situação epidemiológica, os recursos de cada região do país, bem como a disponibilidade de vaci-nas, assim o calendário vacinal não deve ser utilizado de forma rígida. Na imunização passiva, a proteção é temporária e acon-tece por meio da administração de anticorpos pré-formados, conferindo proteção imediata, porém transitória, da qual a ad-ministração de imunoglobulinas (Igs) é um exemplo, assim como a que ocorre da mãe para o feto na vida intraútero ou para o Recém-Nascido (RN) pela amamentação.
+O feto é incapaz de sintetizar por si os anticorpos IgA, IgD e IgE, mas na gestação, a partir da 10ª semana, aparecem seleti-vamente as Igs da classe IgG que o feto recebe passivamente por meio da placenta (a única que realiza transmissão transpla-centária), as quais a atravessam ativamente de forma modesta no 1º trimestre da gravidez e muito acentuada posteriormente, como pode ser visto na Figura 1. A síntese de Igs no feto inicia-se, precocemente, com certas classes de anticorpos, podendo-se verificar vestígios de IgM (1ª Ig a ser produzida pelo feto) desde a 10ª semana de vida fetal e de IgG a partir da 12ª semana. 
 
  
-Figura 1 - Transmissão transplacentária das imunoglobulinas da classe IgG
+Figura 1 - Transmissão transplacentária das imunoglobulinas da classe IgG e IgM 
 
 Importante 
-As Igs presentes na circulação ao nascimento são, essencialmente, de origem materna, e em geral suas concentrações se mantêm maiores no recém-nascido do que na mãe. As funções protetoras antibacterianas e antivirais das Igs são vistas principalmente no 1º trimestre de vida, pois, após esse período, há decaimento dos anticorpos. 
+As imunoglobulinas presentes na circulação ao nascimento são, essencialmente, de origem materna, e em geral suas concentrações se mantêm maiores no recém-nascido do que na mãe. As funções protetoras antibacterianas e antivirais das Igs são vistas principalmente no 1º trimestre de vida, pois, após esse período, há decaimento dos anticorpos. 
 
-Outro ponto importante é a inibição da imunização pelas Igs de origem materna. Como exemplo, pode-se observar a resposta parcial à imunização do sarampo quando administrada antes de 1 ano pela interferência dos anticorpos maternos. Por outro lado, a imunidade celular está perfeitamente apta no RN para responder à vacinação. A vacina BCG (Bacilo de Calmette-Guérin) desde o nascimento apresenta excelentes resultados. O sistema imunitário do RN normal é completo, qualitativamente necessitando de estimulação antigênica. Pelo colostro e pelo leite materno, também há passagem de Igs maternas protetoras para o RN. 
+Outro ponto importante é a inibição da imunização pelas Igs de origem materna. Como exemplo, pode-se observar a res-posta parcial à imunização do sarampo quando administrada antes de 1 ano pela interferência dos anticorpos maternos. Por outro lado, a imunidade celular está perfeitamente apta no RN para responder à vacinação. A vacina BCG (Bacilo de Calmette-Guérin) desde o nascimento apresenta excelentes resultados. O sistema imunitário do RN normal é completo, qualitativamen-te necessitando de estimulação antigênica. Pelo colostro e pelo leite materno, também há passagem de Igs maternas proteto-ras para o RN. 
 
 - Conceitos 
 Alguns conceitos em imunização serão abordados para melhor compreensão sobre o assunto: 
 
 a) Toxoide 
-Trata-se da toxina bacteriana modificada, que se tornou atóxica e que reteve a capacidade de estimular a formação de antitoxina no organismo.
+Trata-se da toxina bacteriana modificada, que se tornou atóxica e que reteve a capacidade de estimular a formação de an-titoxina no organismo.
 
 b) Vacina
-Compreende a preparação de proteínas, polissacarídeos ou ácidos nucleicos de patógenos administrados ao sistema imune como entidades únicas, como parte de partículas complexas, ou por agentes ou vetores vivos atenuados, para induzir a respostas específicas que inativam, destroem ou suprimem o patógeno.
+Compreende a preparação de proteínas, polissacarídeos ou ácidos nucleicos de patógenos administrados ao sistema imu-ne como entidades únicas, como parte de partículas complexas, ou por agentes ou vetores vivos atenuados, para induzir a respostas específicas que inativam, destroem ou suprimem o patógeno.
 
 c) Imunoglobulina
-É a solução que contém anticorpos derivados do plasma de pool de doadores adultos por meio do fracionamento do etanol, cuja composição contém 95% de IgG e traços de IgA e IgM. Está indicada aos casos de imunodeficiência congênita ou adquirida, exposição de indivíduos suscetíveis, pessoas com elevado risco de complicações (leucemia/varicela), quando não há tempo adequado para a imunização ativa (pós-exposição ao sarampo) ou mesmo terapeuticamente para suprimir uma resposta inflamatória (síndrome de Kawasaki) ou toxina (difteria, tétano ou botulismo).
+É a solução que contém anticorpos derivados do plasma de pool de doadores adultos por meio do fracionamento do eta-nol, cuja composição contém 95% de IgG e traços de IgA e IgM. Está indicada aos casos de imunodeficiência congênita ou adquirida, exposição de indivíduos suscetíveis, pessoas com elevado risco de complicações (leucemia/varicela), quando não há tempo adequado para a imunização ativa (pós-exposição ao sarampo) ou mesmo terapeuticamente para suprimir uma resposta inflamatória (síndrome de Kawasaki) ou toxina (difteria, tétano ou botulismo).
 
 d) Antitoxina
-Derivada de anticorpos do soro de seres humanos ou de animais após estimulação com antígenos específicos, é usada para fornecer imunidade passiva (difteria, tétano ou botulismo).
+Derivada de anticorpos do soro de seres humanos ou de animais após estimulação com antígenos específicos, é usada pa-ra fornecer imunidade passiva (difteria, tétano ou botulismo).
 Nesta obra, o termo vacina será utilizado como qualquer entidade capaz de provocar resposta imunológica duradoura no organismo inoculado, sem diferir se a resposta imunológica se destina ao patógeno ou à toxina produzida por ele.
+
 
 2. Bases imunológicas para as vacinações 
 
-A introdução de um antígeno no organismo desencadeia uma resposta imunitária que pode ser de ordem humoral ou celular ou ambas. Na vacinação, o organismo é levado a produzir anticorpos e a deflagrar respostas imunes celulares mediadas por linfócitos T, como a produção de células de memória, ou seja, provocar imunidade artificialmente induzida. A resposta imunológica inicial deve-se aos macrófagos e aos linfócitos. Os primeiros desempenham importante função no desencadeamento das respostas imunológicas pela digestão do antígeno, podendo transformá-los para serem reconhecidos pelos linfócitos B ou intervirem como moderadores de cooperação entre os linfócitos T e B. Os linfócitos T, estimulados por antígenos, desencadeiam certas reações metabólicas e a produção de mediadores biologicamente ativos (linfocinas). Os linfócitos B (“B” de bone marrow), por sua vez, sob estímulos antigênicos, se diferenciam em plasmócitos, células altamente especializadas na síntese e na liberação de Igs, essencialmente a IgM, bem como IgG, IgA, IgD e IgE. Isso ocorre quando se vacina pela 1ª vez, ou seja, a resposta imune primária.
-Na resposta imune primária, o sistema imune entra em contato com um antígeno, detecta-o como não próprio ao organismo (Figura 2) e em seguida apresenta-o aos fagócitos mononucleares ou células dendríticas (no caso do sistema nervoso central). Essas células secretam citocinas, as quais estimulam a proliferação e a maturação de linfócitos T auxiliares e a comunicação entre linfócitos por meio de interleucinas. Essa cadeia de ativação resulta na produção de anticorpos específicos contra o antígeno inicialmente identificado. A partir do contato inicial do antígeno com as células apresentadoras (fagócitos e células dendríticas), os linfócitos T, com receptores também específicos para aquele antígeno, aparecem no prazo de 24 horas a 2 semanas, dependendo do poder antigênico deste e da função do desenvolvimento do sistema imunológico da pessoa. Decorrido esse período de latência, há o período de crescimento, com aumento exponencial da taxa de anticorpos séricos devido à produção inicial de anticorpos da classe IgM e, em seguida (dependendo do poder antigênico do antígeno), da classe IgG.
-Ressalte-se que a IgM é a 1ª Ig produzida diante de uma infecção, apresentando meia-vida curta, mas é a Ig que predomina na resposta primária. 
+A introdução de um antígeno no organismo desencadeia uma resposta imunitária que pode ser de ordem humoral ou ce-lular ou ambas. Na vacinação, o organismo é levado a produzir anticorpos e a deflagrar respostas imunes celulares mediadas por linfócitos T, como a produção de células de memória, ou seja, provocar imunidade artificialmente induzida. A resposta imunológica inicial deve-se aos macrófagos e aos linfócitos. Os primeiros desempenham importante função no desencadea-mento das respostas imunológicas pela digestão do antígeno, podendo transformá-los para serem reconhecidos pelos linfóci-tos B ou intervirem como moderadores de cooperação entre os linfócitos T e B. Os linfócitos T, estimulados por antígenos, desencadeiam certas reações metabólicas e a produção de mediadores biologicamente ativos (linfocinas). Os linfócitos B (“B” de bone marrow), por sua vez, sob estímulos antigênicos, se diferenciam em plasmócitos, células altamente especializadas na síntese e na liberação de Igs, essencialmente a IgM, bem como IgG, IgA, IgD e IgE. Isso ocorre quando se vacina pela 1ª vez, ou seja, a resposta imune primária.
+Na resposta imune primária, o sistema imune entra em contato com um antígeno, detecta-o como não próprio ao orga-nismo (Figura 2), e em seguida apresenta-o aos fagócitos mononucleares ou células dendríticas (no caso do sistema nervoso central). Essas células secretam citocinas, as quais estimulam a proliferação e a maturação de linfócitos T auxiliares e a comu-nicação entre linfócitos por meio de interleucinas. Essa cadeia de ativação resulta na produção de anticorpos específicos contra o antígeno inicialmente identificado. A partir do contato inicial do antígeno com as células apresentadoras (fagócitos e células dendríticas), os linfócitos T, com receptores também específicos para aquele antígeno, aparecem no prazo de 24 ho-ras a 2 semanas, dependendo do poder antigênico deste e da função do desenvolvimento do sistema imunológico da pessoa. Decorrido esse período de latência, há o período de crescimento, com aumento exponencial da taxa de anticorpos séricos devido à produção inicial de anticorpos da classe IgM e, em seguida (dependendo do poder antigênico do antígeno), da classe IgG.
+Ressalte-se que a IgM é a 1ª Ig produzida diante de uma infecção, apresentando meia-vida curta, mas é a Ig que predomi-na na resposta primária. 
+
  
 Figura 2 - Resposta imunológica
 
 Parte dos linfócitos T que entraram em contato com o antígeno se diferenciará em células de memória e será responsável pela maior rapidez e intensidade da resposta quando um novo contato ocorrer com o mesmo antígeno, ou seja, um rápido surgimento de anticorpos específicos da classe IgG, sem existir período de latência. Essa resposta mais rápida e intensa é chamada resposta imune secundária, específica, amnésica ou simplesmente booster.
-Quando o organismo entra em contato com determinado antígeno, após a vacinação, apresenta resposta imune humoral (produção de anticorpos por linfócitos B) e celular (proliferação de linfócitos T efetores) sem aquele tempo de latência, de modo que o patógeno não tem tempo de produzir doença; caso o faça, será de forma menos intensa. Um exemplo de booster é a vacina contra o tétano, que deve ser realizada a cada 10 anos. Quando a resposta primária não produz quantidade suficiente de anticorpos e células de memória, é necessária a aplicação de dose(s) subsequente(s). Também há casos em que o tempo produz decaimento na quantidade de anticorpos e células de memória direcionadas a um antígeno específico; nessas situações, são usadas as doses de reforço.
+Quando o organismo entra em contato com determinado antígeno, após a vacinação, apresenta resposta imune humoral (produção de anticorpos por linfócitos B) e celular (proliferação de linfócitos T efetores) sem aquele tempo de latência, de modo que o patógeno não tem tempo de produzir doença; caso o faça, será de forma menos intensa. Um exemplo de booster é a vacina contra o tétano, que deve ser realizada a cada 10 anos. Quando a resposta primária não produz quantidade sufici-ente de anticorpos e células de memória, é necessária a aplicação de dose(s) subsequente(s). Também há casos em que o tempo produz decaimento na quantidade de anticorpos e células de memória direcionadas a um antígeno específico; nessas situações, são usadas as doses de reforço.
 
-3. Fatores que podem interferir na resposta imunológica da va-cinação
+3. Fatores que podem interferir na resposta imunológica da vacinação
 
 A eficácia da vacina depende de vários fatores, a saber: 
-Presença de anticorpos maternos: Igs presentes na circulação do RN são essencialmente de origem materna, constituídas, sobretudo, de anticorpos antivirais e antibacterianos, e desempenham papéis protetores nos primeiros meses de vida, desaparecendo por volta do 5º ou do 6º mês. A idade ótima para introduzir uma nova vacina leva em conta o desaparecimento desses anticorpos; 
+Presença de anticorpos maternos: Igs presentes na circulação do RN são essencialmente de origem materna, constituídas, sobretudo, de anticorpos antivirais e antibacterianos, e desempenham papéis protetores nos primeiros meses de vida, desaparecendo por volta do 5º ou do 6º mês. A idade ótima para introduzir uma nova vacina leva em conta o desapare-cimento desses anticorpos; 
 Natureza e doses do antígeno aplicado: a 1ª qualidade de uma vacina é ser fortemente antigênica e pouco reatogênica. A quantidade do antígeno pode variar conforme a idade. Exemplos são a vacina DPT infantil e a dT adulto;
-Modo de administração da vacina: devem ser considerados o volume a ser aplicado, a idade do paciente, a massa muscular e a espessura do subcutâneo. As vacinas utilizadas por via oral (contra poliomielite oral – VOP –, também chamada de Sabin, contra cólera e rotavírus) são capazes de estimular também a produção de IgA secretória da mucosa contra aquele antígeno, o que não ocorre com vacinas de uso subcutâneo, intramuscular ou intradérmico. Outro exemplo de via de administração é a aplicação da vacina contra hepatite B, que, quando aplicada nas nádegas, em adultos, e não no deltoide, apresenta menores taxas de soroconversão. Em crianças menores de 12 meses, a American Academy of Pediatrics preconiza o músculo vasto lateral da coxa e não recomenda a região dorsoglútea para imunização de rotina;
+Modo de administração da vacina: devem ser considerados o volume a ser aplicado, a idade do paciente, a massa muscu-lar e a espessura do subcutâneo. As vacinas utilizadas por via oral (contra poliomielite oral – VOP –, também chamada de Sabin, contra cólera e rotavírus) são capazes de estimular também a produção de IgA secretória da mucosa contra aque-le antígeno, o que não ocorre com vacinas de uso subcutâneo, intramuscular ou intradérmico. Outro exemplo de via de administração é a aplicação da vacina contra hepatite B, que, quando aplicada nas nádegas, em adultos, e não no deltoi-de, apresenta menores taxas de soroconversão. Em crianças menores de 12 meses, a American Academy of Pediatrics preconiza o músculo vasto lateral da coxa e não recomenda a região dorsoglútea para imunização de rotina;
 Utilização de coadjuvante: os coadjuvantes têm atividade imunoestimulante, sem ser imunogênica, permitindo a redução do número de doses e a obtenção de títulos mais elevados de anticorpos;
-Estado nutricional: a desnutrição energético-proteica determina alterações morfológicas no sistema imunitário, como involução tímica, diminuição da imunidade mediada por células, redução das concentrações de complemento, entre outras. Entretanto, as concentrações de IgG e IgM são normais, favorecendo uma resposta adequada de proteção, não se observando, inclusive, aumento nos efeitos adversos das vacinas, mesmo as de micro-organismos atenuados. Deve-se priorizar a vacinação dos desnutridos, mesmo nas formas graves. 
+Estado nutricional: a desnutrição energético-proteica determina alterações morfológicas no sistema imunitário, como in-volução tímica, diminuição da imunidade mediada por células, redução das concentrações de complemento, entre ou-tras. Entretanto, as concentrações de IgG e IgM são normais, favorecendo uma resposta adequada de proteção, não se observando, inclusive, aumento nos efeitos adversos das vacinas, mesmo as de micro-organismos atenuados. Deve-se priorizar a vacinação dos desnutridos, mesmo nas formas graves. 
 
 4. Tipos de vacinas
 
 A - Virais
 
 a) De vírus vivos atenuados
-Tais vacinas produzem a resposta imunológica mais semelhante (celular e humoral e, portanto, duradoura) àquela conferida pela infecção natural. Isso se deve à multiplicação do micro-organismo no indivíduo vacinado. Porém, tal multiplicação também é responsável por efeitos adversos, algumas vezes após a vacinação. Nas crianças cujas mães entraram em contato com esses patógenos, por vacina ou naturalmente (doença), o poder antigênico desse tipo de vacina (contra sarampo, caxumba e rubéola) pode ser inativado pelas elevadas concentrações de anticorpos (IgG) recebidos pela via transplacentária e, por essa razão, podendo comprometer a eficácia quando aplicados durante os 6 primeiros meses de vida. São exemplos poliomielite oral (Sabin), rubéola, sarampo, caxumba, varicela e febre amarela. 
+Tais vacinas produzem a resposta imunológica mais semelhante (celular e humoral e, portanto, duradoura) àquela confe-rida pela infecção natural. Isso se deve à multiplicação do micro-organismo no indivíduo vacinado. Porém, tal multiplicação também é responsável por efeitos adversos, algumas vezes após a vacinação. Nas crianças cujas mães entraram em contato com esses patógenos, por vacina ou naturalmente (doença), o poder antigênico desse tipo de vacina (contra sarampo, ca-xumba e rubéola) pode ser inativado pelas elevadas concentrações de anticorpos (IgG) recebidos pela via transplacentária e, por essa razão, podendo comprometer a eficácia quando aplicados durante os 6 primeiros meses de vida. São exemplos poli-omielite oral (Sabin), rubéola, sarampo, caxumba, varicela e febre amarela. 
 
 b) De vírus mortos ou inativados completos
-Podem também ser utilizados micro-organismos mortos na confecção da vacina, como é o caso da vacina contra poliomielite tipo Salk, contra pertussis, influenza (vírus) e hepatite A (Tabela 1).
+Podem também ser utilizados micro-organismos mortos na confecção da vacina, como é o caso da vacina contra poliomie-lite tipo Salk, influenza (vírus) e hepatite A (Tabela 1).
 
 B - Bacterianas 
 
@@ -80,28 +86,31 @@ Vacinam, exclusivamente, contra as exotoxinas. Como exemplos, temos a difteria e
 
 d) Polissacárides
 Meningococo A + C, pneumococo 23 e Haemophilus influenzae tipo B.
-Todas as vacinas que não usam micro-organismos vivos atenuados apresentam poder imunogênico menor por não produzirem multiplicação do agente no organismo e, na maioria das vezes, necessitam de mais de 1 dose para produzir níveis de anticorpos protetores quando administradas no período neonatal. Assim, podem produzir o fenômeno da tolerância, devendo ser administradas fora desse período (1ª dose aos 2 meses de vida).
+Todas as vacinas que não usam micro-organismos vivos atenuados apresentam poder imunogênico menor por não produ-zirem multiplicação do agente no organismo e, na maioria das vezes, necessitam de mais de 1 dose para produzir níveis de anticorpos protetores quando administradas no período neonatal. Assim, podem produzir o fenômeno da tolerância, deven-do ser administradas fora desse período (1ª dose aos 2 meses de vida).
 As vacinas conjugadas são vacinas semissintéticas constituídas de antígenos polissacarídicos (de micro-organismos) ligados a moléculas transportadoras proteicas. A proteína carregadora é reconhecida pelos macrófagos e células T, aumentando a imunidade. Entre pessoas que não respondem apenas aos polissacarídeos, as vacinas conjugadas induzem a formação de níveis (sanguíneos) aumentados de anticorpos, levando a resposta booster (reforço) após injeções repetidas. 
 
-Tabela 1 - Diferenças entre vacinas de agentes vivos e não vivos
+Tabela 1 - Diferenças entre vacinas de agentes vivos e não vivos 
 Características	Vacina viva atenuada	Vacina não viva
-Produção	Seleção de micro-organismos de baixa virulên-cia: patógeno cultivado sob condições adversas em meios de cultura para atenuação	Patógenos virulentos inativados por tratamento químico, físico ou manipulação genética (ou utili-zam-se componentes imunogênicos deles extraí-dos)
-Necessidade de reforços	- Em geral, a repetição das doses visa cobrir falhas da vacinação anterior;	Vários reforços para induzir a boa imunidade*
-	- A imunidade, uma vez induzida, é de longa duração.	
+Produção	Seleção de micro-organismos de baixa virulência: patógeno cultivado sob condições adversas em meios de cultura para atenuação	Patógenos virulentos inativados por trata-mento químico, físico ou manipulação genética (ou utilizam-se componentes imunogênicos deles extraídos)
+Necessidade de reforços	- Em geral, a repetição das doses visa cobrir falhas da vacinação anterior;	Vários reforços para induzir a boa imunida-de*
+	- A imunidade, uma vez induzida, é de longa dura-ção.	
 Tipo de imunidade induzida	Humoral e celular	Principalmente humoral
 Administração por via oral ou pela mucosa respiratória	Possível (por exemplo, VOP)	Via parenteral
 Imunidade de mucosa	Sim	Pouca ou nenhuma
 Estabilidade	Menos estável	Mais estável
-Extensão da vacinação aos co-municantes não vacinados	Possível	Não
+Extensão da vacinação aos comu-nicantes não vacinados	Possível	Não
 Riscos para imunodeprimidos	Sim	Não
 Tendência de reversão à virulên-cia	Possível	Impossível 
+Exemplo de vacinas	VOP, rotavírus	Hepatite B, VIP
 * Excluídas as vacinas polissacarídicas não conjugadas.
 Fonte: modificado de GOLDSBY, RA; KINDT, TJ; KUBY, J. Immunology. 5th ed. New York: WH Freeman; 2002.
 
 5. Contraindicações à vacinação
 
 Tema frequente de prova 
-As vacinas aplicadas no Brasil podem apresentar contraindicações. No entanto, existem tanto as falsas como as verdadeiras contraindicações, motivo pelo qual seria adequado especificar cada uma das situações, para evitar dúvidas e erros na hora de responder a perguntas das mães ansiosas e nas questões da prova.
+Dentre as vacinas aplicadas no Brasil existem contraindicações falsas e verdadeiras, sendo este um tema frequentemente encontrado em provas de concursos médicos.
+
+As vacinas aplicadas no Brasil podem apresentar contraindicações. No entanto, existem tanto as falsas como as verdadeiras contraindicações, motivo pelo qual serão especificadas cada uma das situações, para evitar dúvidas e erros na hora de responder a perguntas das mães ansiosas e nas questões da prova.
 
 A - Falsas
 Doenças leves com febre baixa do trato respiratório ou digestivo;
@@ -110,7 +119,7 @@ Antecedente pessoal de reação local à vacina ou história familiar de evento adve
 Uso de antimicrobiano profilático ou terapêutico: não interfere na resposta imune às vacinas; 
 Desnutrição: a resposta às vacinas é adequada, sem aumento dos eventos adversos;
 Convalescença de doenças agudas: especialmente para as doenças do trato respiratório superior, quando ainda há tosse e/ou coriza; 
-Diagnóstico clínico prévio da doença: não há qualquer impedimento de realizar a vacina, especialmente quando o diagnóstico não foi confirmado. Não há aumento das reações adversas; 
+Diagnóstico clínico prévio da doença: não há qualquer impedimento de realizar a vacina, especialmente quando o diag-nóstico não foi confirmado. Não há aumento das reações adversas; 
 História de alergia inespecífica, pessoal ou familiar: exceto se há história de alergia grave a algum componente da vacina (antecedente de alergia a penicilina não procede, pois nenhuma vacina a contém);
 Doença neurológica estável; 
 História familiar de convulsão; 
@@ -119,13 +128,13 @@ Tratamento com corticosteroides em doses não imunodepressoras: geralmente quando
 Uso de corticosteroide por via inalatória ou tópica em tendões ou intra-articular;
 Vacinação contra a raiva: não há interferência de outras vacinas;
 Contato domiciliar com gestantes: os vacinados não transmitem os vírus vacinais de sarampo, caxumba ou rubéola;
-Internação hospitalar: é uma excelente oportunidade para vacinação, desde que não haja outras contraindicações. O único cuidado especial é com a vacina oral para a pólio em caso de comunicantes imunodeprimidos;
+Internação hospitalar: é uma excelente oportunidade para vacinação, desde que não haja outras contraindicações. O úni-co cuidado especial é com a vacina oral para a pólio em caso de comunicantes imunodeprimidos;
 Aleitamento: as vacinas utilizadas atualmente não são contraindicadas para as mulheres que estão amamentando.
 
 B - Verdadeiras
 
 a) Reação de hipersensibilidade imediata
-Anafilaxia ou angioedema, urticária, choque, broncoespasmo ou edema de glote, imediatamente após a aplicação de 1 dose da vacina ou a um constituinte desta, diluente ou preservativo, como proteínas do ovo, gelatina ou antibiótico. A administração de uma nova dose posterior pode colocar a pessoa em risco de vida. Quanto aos comprovadamente alérgicos a proteínas do ovo, deve-se ressaltar que as vacinas contra influenza e febre amarela são produzidas em cultura do ovo embrionado, contendo traços de proteínas. Já as vacinas contra o sarampo e a caxumba não contêm proteínas do ovo e podem ser aplicadas aos alérgicos a elas. 
+Anafilaxia ou angioedema, urticária, choque, broncoespasmo ou edema de glote, imediatamente após a aplicação de 1 do-se da vacina ou a um constituinte desta, diluente ou preservativo, como proteínas do ovo, gelatina ou antibiótico. A adminis-tração de uma nova dose posterior pode colocar a pessoa em risco de vida. Quanto aos comprovadamente alérgicos a proteí-nas do ovo, deve-se ressaltar que as vacinas contra influenza e febre amarela são produzidas em cultura do ovo embrionado, contendo traços de proteínas. Já as vacinas contra o sarampo e a caxumba não contêm proteínas do ovo e podem ser aplica-das aos alérgicos a elas. 
 
 b)	Encefalopatia verdadeira e encefalites sem causa identificável, nos primeiros 7 dias da vacinação DPT e DTPa, com o componente pertussis
 Coma, convulsões prolongadas e outras manifestações neurológicas constituem contraindicação absoluta posterior a qualquer tipo de vacina que contenha componente pertussis. Em se tratando de crise convulsiva ou síndrome hipotônico-hiporresponsiva até 72 horas após a vacina tríplice convencional, embora não haja consenso absoluto, a maioria dos autores recomenda a aplicação em doses subsequentes da vacina dupla (difteria-tétano) ou a vacina tríplice acelular.
@@ -134,7 +143,7 @@ c)	Imunossupressão para vacinas de bactérias atenuadas ou vírus atenuados
 Em caso de imunossupressão (doenças congênitas) ou uso de corticoide por tempo maior que 14 dias e dose maior ou igual a 2mg/kg/d de prednisona para crianças com peso menor que 10kg, ou acima de 20mg/d para crianças com peso acima de 10kg e adultos, recomenda-se aguardar 1 mês após o término da corticoterapia para vacinar. Por outro lado, tratamentos inferiores a 2 semanas, em dias alternados ou em doses baixas, não são contraindicação. Outra situação de imunodepressão é o uso de quimioterapia ou radioterapia. Às crianças infectadas pelo vírus HIV a única contraindicação absoluta é o uso da BCG quando sintomáticas.
 
 d) Gravidez
-Pelo risco teórico de infecção fetal com as vacinas com vírus vivo atenuado ou bactéria viva atenuada, por exemplo, vacina contra a rubéola.
+Pelo risco teórico de infecção fetal com as vacinas com vírus vivo atenuado ou bactéria viva atenuada, por exemplo, vaci-na contra a rubéola.
 
 e)	Enfermidade aguda, moderada ou grave, acompanhada ou não de febre
 Trata-se de precaução genérica, sobretudo para que os seus sinais e sintomas não sejam atribuídos ou confundidos com possíveis efeitos adversos, devendo-se, assim, adiar a vacinação.
@@ -142,48 +151,48 @@ Trata-se de precaução genérica, sobretudo para que os seus sinais e sintomas não
 6. Vacinas
 
 A - Tuberculose 
-A vacina contra a tuberculose (BCG) é elaborada a partir de uma bactéria atenuada de origem bovina (Mycobacterium bovis), semelhante ao micro-organismo causador da doença (Mycobacterium tuberculosis). Deve ser aplicada por via intradérmica, na altura da inserção inferior do músculo deltoide direito (recomendação da Organização Mundial da Saúde – OMS). Antes da sua utilização, deve ser diluída em solução salina, homogeneizada suavemente e sem agitação, e ser conservada à temperatura de 2 a 8°C, sob proteção da luz solar.
+A vacina contra a tuberculose (BCG) é elaborada a partir de uma bactéria atenuada de origem bovina (Mycobacterium bo-vis), semelhante ao micro-organismo causador da doença (Mycobacterium tuberculosis). Deve ser aplicada por via intradérmi-ca, na altura da inserção inferior do músculo deltoide direito (recomendação da Organização Mundial da Saúde – OMS). An-tes da sua utilização, deve ser diluída em solução salina, homogeneizada suavemente e sem agitação, e ser conservada à tem-peratura de 2 a 8°C, sob proteção da luz solar.
 
 a)	Eficácia
-Há um consenso de que a 1ª dose da vacina BCG protege as crianças contra as formas graves e disseminadas de tuberculose (tuberculose miliar e meningite tuberculosa). Um estudo de meta-análise demonstrou resultados homogêneos no efeito protetor da vacina BCG para a meningite tuberculosa e a tuberculose miliar, variando entre 72 e 100%, com média de 86%. Entretanto, o efeito protetor da BCG contra tuberculose pulmonar foi bastante heterogêneo, pois mesmo os diversos ensaios clínicos randomizados apresentaram resultados que variaram de 79 a 88%. O tempo de duração da proteção da BCG neonatal demonstrado em pesquisa nacional foi de 15 a 20 anos.
+Há um consenso de que a 1ª dose da vacina BCG protege as crianças contra as formas graves e disseminadas de tubercu-lose (tuberculose miliar e meningite tuberculosa). Um estudo de meta-análise demonstrou resultados homogêneos no efeito protetor da vacina BCG para a meningite tuberculosa e a tuberculose miliar, variando entre 72 e 100%, com média de 86%. Entretanto, o efeito protetor da BCG contra tuberculose pulmonar foi bastante heterogêneo, pois mesmo os diversos ensaios clínicos randomizados apresentaram resultados que variaram de 79 a 88%. O tempo de duração da proteção da BCG neonatal demonstrado em pesquisa nacional foi de 15 a 20 anos.
 
 Importante
-A vacina contra a tuberculose não impede a infecção, o desenvolvimento da tuberculose pulmonar ou a primoinfecção, mas confere proteção contra formas graves da tuberculose, como a forma miliar, a meningite tuberculosa e as formas dis-seminadas da doença. 
+A vacina contra a tuberculose não impede a infecção, o desenvolvimento da tuberculose pulmonar ou a primoinfecção, mas confere proteção contra formas graves da tuberculose, como a forma miliar, a meningite tuberculosa e as formas disseminadas da doença. 
 
 b) Aplicação
-O Ministério da Saúde recomenda que a 1ª dose da vacina BCG aconteça, de preferência, logo ao nascer ou, no máximo, durante o 1º mês de vida. A OMS recomenda apenas 1 dose de BCG na proteção contra tuberculose, pois não há evidências que sustentem a utilização da 2ª adicional da BCG. O Ministério da Saúde retirou a 2ª dose do calendário oficial brasileiro em 2006, seguindo recomendação da OMS.
+O Ministério da Saúde recomenda que a idade limite para aplicação da 1ª dose seja de 4 anos, 11 meses e 29 dias. A OMS recomenda apenas 1 dose de BCG na proteção contra tuberculose, pois não há evidências que sustentem a utilização da 2ª adicional da BCG. O Ministério da Saúde retirou a 2ª dose do calendário oficial brasileiro em 2006, seguindo recomendação da OMS.
 
 c) Evolução vacinal
 Após 2 semanas da vacinação, deve surgir mácula avermelhada de 5 a 15mm de diâmetro, no local da aplicação, a qual evolui para pápula, vesícula, pústula, úlcera, crosta e, finalmente, cicatriz, ao fim de, aproximadamente, 10 semanas (Figura 3). Durante esse processo, o local da vacina não deve ser coberto, nem deve ser utilizado qualquer medicamento tópico sobre ele. Deve-se lembrar que a presença de cicatriz vacinal representa passado de vacina com BCG, mas não há evidências de proteção ou imunidade contra a tuberculose.
 
 Importante
-Caso a cicatrização da vacina BCG não apareça até 6 meses ou mais, ou seja, não haja cicatriz no local de inserção do músculo deltoide, recomenda-se revacinar a criança, sem a necessidade de teste tuberculínico (PPD) prévio, pela possibilidade teóri-ca de que unidades não viáveis da vacina tenham sido aplicadas.
+Caso a cicatrização da vacina BCG não apareça até 6 meses ou mais, ou seja, não haja cicatriz no local de inserção do mús-culo deltoide, recomenda-se revacinar a criança, sem a necessidade de teste tuberculínico (PPD) prévio, pela possibilida-de teórica de que unidades não viáveis da vacina tenham sido aplicadas.
 
 d) Contraindicações
-As contraindicações absolutas específicas para a vacina contra a tuberculose são imunodeficiência congênita e adquirida. As crianças infectadas pelo HIV com evidência clínica de AIDS não devem ser imunizadas. Já as contraindicações relativas são reações dermatológicas graves no local da aplicação; no caso de terapia imunossupressora, recomenda-se adiar a vacina até, no mínimo, 3 meses após o término do tratamento. Os RNs devem ser vacinados desde que tenham peso =2kg e boas condições clínicas.
+As contraindicações absolutas específicas para a vacina contra a tuberculose são imunodeficiência congênita e adquirida. As crianças infectadas pelo HIV com evidência clínica de AIDS não devem ser imunizadas. Já as contraindicações relativas são reações dermatológicas graves no local da aplicação; no caso de terapia imunossupressora, recomenda-se adiar a vacina até, no mínimo, 3 meses após o término do tratamento. Os RNs devem ser vacinados desde que tenham peso =2kg e boas condi-ções clínicas.
 
  
 Figura 3 - Pápula após 2 a 4 semanas da aplicação da vacina BCG
 
 e) Situações especiais
-A mãe bacilífera (radiografia de tórax com imagem sugestiva, ou cultura de escarro positiva para Bacilo Álcool-Ácido Resistente – BAAR) deve usar máscara durante a amamentação, e o RN não recebe a vacina; em vez disso, deve receber profilaxia primária com isoniazida durante 3 meses. Ao final desse período, aplica-se o teste tuberculínico, e, caso a criança seja não reatora, aplica-se a vacina; sendo reatora, deve-se prosseguir com isoniazida (agora, profilaxia secundária) por mais 3 meses, desde que a criança não seja sintomática e/ou não apresente indícios de doença. Nesse último caso, ela deve receber o tratamento que consiste, inicialmente, de isoniazida e rifampicina por 6 meses e, durante os 2 primeiros meses de tratamento, pirazinamida (esquema tríplice).
-RNs filhos de mães HIV positivo e crianças soropositivas para HIV podem ser vacinados, desde que não apresentem sinais e sintomas de AIDS. Os vacinados, nessas condições, devem ser acompanhados nas unidades de referência para a doença. Quando não vacinados no 1º mês de vida, devem ser submetidos ao PPD e, sendo não reatores, recebem a vacina normalmente e devem ser acompanhados. A dose de reforço, se necessária, acontece entre os 6 e 10 anos, segundo orientação do Ministério da Saúde.
+A mãe bacilífera (radiografia de tórax com imagem sugestiva, ou cultura de escarro positiva para Bacilo Álcool-Ácido Resisten-te – BAAR) deve usar máscara durante a amamentação, e o RN não recebe a vacina; em vez disso, deve receber profilaxia primária com isoniazida durante 3 meses. Ao final desse período, aplica-se o teste tuberculínico, e, caso a criança seja não reatora, aplica-se a vacina; sendo reatora, deve-se prosseguir com isoniazida (agora, profilaxia secundária) por mais 3 meses, desde que a criança não seja sintomática e/ou não apresente indícios de doença. Nesse último caso, ela deve receber o tra-tamento que consiste, inicialmente, de isoniazida e rifampicina por 6 meses e, durante os 2 primeiros meses de tratamento, pirazinamida (esquema tríplice).
+Em crianças HIV positivo, a vacina BCG deve ser administrada no nascimento ou o mais precocemente possível. Para as crianças que chegam aos serviços ainda não vacinadas, a vacina está contraindicada se existirem sintomas ou sinais de imunodeficiência.
 
 f) Reações adversas
-A vacina BCG é bastante segura e, entre as utilizadas de rotina, a que provoca menos efeitos adversos graves. Complicações mais comuns decorrentes dela são as locais, advindas do tipo de cepa utilizada, da quantidade de bacilos administrada, da técnica de administração e da presença de imunodeficiência. Linfadenopatia regional supurada pode aparecer cerca de 3 meses após a administração. A adenite axilar acontece em 10% das crianças vacinadas e é geralmente homolateral, na axila direita, devendo ser acompanhada até a regressão. Se houver supuração ou aumento acentuado do gânglio, úlceras profundas com diâmetro maior que 1cm, que não cicatrizam em 6 meses, deverão ser notificadas como efeito adverso, e indica-se quimioprofilaxia com isoniazida, na dose de 10mg/kg/d, até a regressão da lesão.
+A vacina BCG é bastante segura e, entre as utilizadas de rotina, a que provoca menos efeitos adversos graves. Complica-ções mais comuns decorrentes dela são as locais, advindas do tipo de cepa utilizada, da quantidade de bacilos administrada, da técnica de administração e da presença de imunodeficiência. Linfadenopatia regional supurada pode aparecer cerca de 3 meses após a administração. A adenite axilar acontece em 10% das crianças vacinadas e é geralmente homolateral, na axila direita, devendo ser acompanhada até a regressão. Se houver supuração ou aumento acentuado do gânglio, úlceras profun-das com diâmetro maior que 1cm, que não cicatrizam em 6 meses, deverão ser notificadas como efeito adverso, e indica-se quimioprofilaxia com isoniazida, na dose de 10mg/kg/d, até a regressão da lesão.
 Outra manifestação mais rara é a reação lupoide, podendo surgir após o aparecimento da cicatriz, formando placas com características lupoides. Indica-se o tratamento com isoniazida na dose de 10mg/kg/d, rifampicina na dose de 10mg/kg/d e etambutol na dose de 25mg/kg/d por 2 meses e mais 4 meses de isoniazida e rifampicina.
 As reações resultantes de disseminação podem acontecer em indivíduos com comprometimento da imunidade celular que requerem tratamento antituberculoso por 6 meses.
 
 g) Observações 
-Apesar de a vacina BCG ter sido inicialmente desenvolvida visando ao seu efeito protetor contra as formas graves da tuberculose, essa proteção também tem sido observada para a hanseníase. Estudos indicam que 1 dose adicional de BCG acrescenta proteção adicional, justificando a recomendação do Ministério da Saúde em aplicar uma 2ª dose de BCG para contactantes de hanseníase.
-No Brasil, o Ministério da Saúde recomenda a vacinação de todo profissional que presta assistência a pacientes com tuberculose e hanseníase e que seja, inicialmente, não reator ao teste tuberculínico com ou sem cicatriz vacinal.
+Apesar de a vacina BCG ter sido inicialmente desenvolvida visando ao seu efeito protetor contra as formas graves da tu-berculose, essa proteção também tem sido observada para a hanseníase. Estudos indicam que 1 dose adicional de BCG acres-centa proteção adicional, justificando a recomendação do Ministério da Saúde em aplicar uma 2ª dose de BCG para contac-tantes de hanseníase.
+No Brasil, o Ministério da Saúde recomenda a vacinação de todo profissional que presta assistência a pacientes com tu-berculose e hanseníase e que seja, inicialmente, não reator ao teste tuberculínico com ou sem cicatriz vacinal.
 
 B - Hepatite B
-Doença infecciosa viral, contagiosa, causada pelo vírus da hepatite B (HBV). O agente etiológico é um vírus DNA, hepatovírus da família Hepadnaviridae, podendo apresentar-se como infecção assintomática ou sintomática. O período de incubação do vírus varia de 30 a 180 dias, com uma média de 70 dias.
+Doença infecciosa viral, contagiosa, causada pelo vírus da hepatite B (HBV). O agente etiológico é um vírus DNA, hepatoví-rus da família Hepadnaviridae, podendo apresentar-se como infecção assintomática ou sintomática. O período de incubação do vírus varia de 30 a 180 dias, com uma média de 70 dias.
 Desde o início da década de 1990, a OMS recomenda a vacinação universal de todas as crianças contra a hepatite B, além dos pertencentes aos grupos de risco. 
 
 Importante
-As principais finalidades da vacinação contra o HBV são prevenir a doença aguda (Figura 4), impedir a cronificação da hepatopatia e sua evolução para cirrose e/ou hepatocarcinoma e, ainda, contribuir para minimizar a transmissão viral.
+As principais finalidades da vacinação contra o vírus da hepatite B são prevenir a doença aguda (Figura 4), impedir a cronificação da hepatopatia e sua evolução para cirrose e/ou hepatocarcinoma e, ainda, contribuir para minimizar a transmissão viral.
 
 Uma proporção de pessoas infectadas com o HBV (de 5 a 10% dos adultos) progride para cronicidade, sendo essa taxa maior entre neonatos e crianças, em quem a idade de aquisição faz aumentar o risco para hepatocarcinoma e cirrose. Sabe-se que o risco de desenvolver a infecção crônica é inversamente relacionado com a idade, ou seja, se uma criança adquire hepatite B antes de 1 ano, tem chance de 70 a 90% de se tornar portadora crônica, contra 6 a 10% da que adquire após os 7 anos.
 A vacina atualmente utilizada contra a hepatite B contém antígeno HBsAg recombinante, produzido pela inserção de um plasmídeo, contendo o gene do antígeno de superfície, em células de um fungo, resultando na presença de 95% de proteínas HBsAg, menos de 5% de proteínas derivadas do fungo e nenhum DNA do fungo detectável, o que torna a vacina bastante segura, sem o risco de infecção e baixa reatogenicidade.
@@ -198,16 +207,16 @@ HBsAg	Antígeno de superfície do vírus da hepatite B	- É o 1º marcador da infecçã
 		- Aparece de 1 a 3 semanas antes dos sintomas;
 		- Sua presença junto com o anti-HBc indica infecção;
 		- Persistência por mais de 6 meses indica infecção crônica;
-		- Desaparece nos primeiros 6 meses da doença quando a evolução é para a cura.
-Anti-HBc IgG ou total	Anticorpo IgG contra o HBsAg	- Compreende marcador de contato prévio com o HBV;
+		- Desaparece nos primeiros 6 meses da doença quando a evo-lução é para a cura.
+Anti-HBc IgG ou total	Anticorpo IgG contra o core 	- Compreende marcador de contato prévio com o HBV;
 		- Não indica imunidade;
 		- Não é induzido pela vacinação.
-Anti-HBc IgM	Anticorpo IgM contra o HBsAg	- Aparece com o início dos sintomas;
+Anti-HBc IgM	Anticorpo IgM contra o core 	- Aparece com o início dos sintomas;
 		-	É marcador da infecção aguda recente;
 		-	Pode persistir por 6 meses.
 HBeAg	Antígeno de replicação viral	- Aparece pouco antes dos sintomas;
 		- Indica alta infectividade;
-		-	Sua persistência no soro indica replicação viral indepen-dente da fase da doença (aguda ou crônica).
+		-	Sua persistência no soro indica replicação viral independente da fase da doença (aguda ou crônica).
 Anti-HBe	Anticorpo contra o HBeAg	- Aparece dentro de poucas semanas após a perda do HBeAg;
 		-	Indica declínio de infectividade.
 Anti-HBs	Anticorpo contra o HBsAg	- Aparece 1 a 3 meses após a vacinação contra a hepatite B ou a recuperação de uma infecção aguda;
@@ -220,21 +229,21 @@ O esquema básico de vacinação (segundo o calendário proposto pelo Ministério da 
 Dica 
 O atraso de qualquer dose da vacina contra hepatite B não indica necessidade de reiniciar o esquema, que deve ser prosseguido do ponto em que houve a interrupção. Em adolescentes (de 11 a 19 anos) sem comprovação de vacina anterior, esta deve ser iniciada. 
 
-Há um esquema alternativo, de 4 doses, de rápida proteção, administrando vacina nos momentos de zero, 1, 2 e 12 meses, mais recomendado para recém-nascidos de mães portadoras de HBsAg. A esses RNs (de mãe soropositiva), além da vacina, é fundamental a Ig específica (HBIg a 0,5mL IM), em diferentes locais, até 12 horas após o nascimento, independente do peso.
-Para RNs abaixo de 2kg, em especial prematuros, com idade gestacional inferior a 33 semanas, os níveis de anticorpos são mais baixos, e as taxas de soroconversão, menores, aconselhando-se aguardar o momento em que apresentem peso ou completem 1 mês. A resposta à vacina, nessa circunstância, é comparável à resposta de crianças a termo, independente do peso no nascimento e da idade gestacional. Porém, em casos de risco aumentado (mãe HBsAg), o RN deve receber 1 dose logo após o nascimento (e Ig específica), e, quando ele atinge 2kg, deve ser iniciado o esquema de 3 doses, conforme descrito. Os RNs que recebem a 1ª dose no 1º mês de vida, com menos de 2kg, devem receber uma 4ª dose cerca de 6 meses após a 3ª, o que torna o esquema tão imunogênico quanto o de 3 doses em crianças de peso superior a 2kg.
+Há um esquema alternativo, de 4 doses, de rápida proteção, administrando vacina nos momentos de zero, 1, 2 e 12 me-ses, mais recomendado para RNs de mães portadoras de HBsAg. A esses RNs (de mãe soropositiva), além da vacina, é funda-mental a Ig específica (HBIg a 0,5mL IM), em diferentes locais, até 12 horas após o nascimento, independentemente do peso.
+Para RNs abaixo de 2kg, em especial prematuros, com idade gestacional inferior a 33 semanas, os níveis de anticorpos são mais baixos, e as taxas de soroconversão, menores, aconselhando-se aguardar o momento em que apresentem peso ou com-pletem 1 mês. A resposta à vacina, nessa circunstância, é comparável à resposta de crianças a termo, independente do peso no nascimento e da idade gestacional. Porém, em casos de risco aumentado (mãe HBsAg), o RN deve receber 1 dose logo após o nascimento (e Ig específica), e, quando ele atinge 2kg, deve ser iniciado o esquema de 3 doses, conforme descrito. Os RNs que recebem a 1ª dose no 1º mês de vida, com menos de 2kg, devem receber uma 4ª dose cerca de 6 meses após a 3ª, o que torna o esquema tão imunogênico quanto o de 3 doses em crianças de peso superior a 2kg.
 Nas crianças portadoras de HIV, o esquema vacinal ideal para a hepatite B é indefinido, pela baixa imunogenicidade e por inúmeras variáveis imunológicas. Nesses casos, recomenda-se uma 4ª dose da vacina. Quanto aos pacientes em hemodiálise, a vacina contra HBV é recomendada em doses mais altas.
 
 b) Aplicação
 Tal vacina deve ser aplicada por via intramuscular, no músculo deltoide ou no vasto lateral da coxa; a aplicação em outros locais compromete a sua eficácia. A proteção da vacina contra HBV aumenta com o número de doses. As taxas de proteção variam de 80 a 100% quando utilizado o esquema completo de vacinação. 
 
 c) Imunogenicidade
-Os fatores que diminuem a imunogenicidade da vacina da hepatite B, além dos cuidados inadequados com o material, incluem idade acima de 40 anos, sexo masculino, tabagismo, obesidade e deficiência imunológica.
+Os fatores que diminuem a imunogenicidade da vacina da hepatite B, além dos cuidados inadequados com o material, in-cluem idade acima de 40 anos, sexo masculino, tabagismo, obesidade e deficiência imunológica.
 
 d) Efeitos adversos
-Pode haver eventos adversos, como reações locais em 3 a 20% dos vacinados e febre em menos de 1% deles. Reações agudas de caráter alérgico e reações ao conservante timerosal (urticária e broncoespasmo) são raras. Não há contraindicações formais à aplicação da vacina.
+Pode haver eventos adversos, como reações locais em 3 a 20% dos vacinados e febre em menos de 1% deles. Reações agudas de caráter alérgico e reações ao conservante timerosal (urticária e broncoespasmo) são raras. Não há contraindica-ções formais à aplicação da vacina.
 
 e) Avaliação pós-vacinação
-Em termos de saúde pública, não é preconizada a avaliação rotineira, pré e pós-vacinação, dos marcadores sorológicos da infecção para receber a vacina, tanto para crianças como para adultos. O teste sorológico (anti-HBsAg) pós-vacinação é aconselhável em determinadas situações: 
+Em termos de saúde pública, não é preconizada a avaliação rotineira, pré e pós-vacinação, dos marcadores sorológicos da infecção para receber a vacina, tanto para crianças como para adultos. O teste sorológico (anti-HBsAg) pós-vacinação é acon-selhável em determinadas situações: 
 Crianças nascidas de mães infectadas (devem ser avaliadas entre os 9 e os 15 meses);
 Profissionais de saúde em contato com sangue e/ou derivados;
 Pacientes hemodialisados (testar 1 a 2 meses após a última dose da vacina);
@@ -243,46 +252,48 @@ Recentemente, o Programa Nacional de Hepatites Virais tem indicado a triagem sor
 Caso a gestante apresente resultado negativo, recomenda-se vacinar se ela está na faixa etária de até 19 anos. Considera-se proteção se os títulos de anti-HBs são superiores a 10UI/mL.
 
 f) Vítimas de abuso sexual
-Se a vítima não é vacinada ou se está com vacinação incompleta contra hepatite B, deve-se vacinar ou completar a vacinação. Não se recomenda o uso rotineiro de IgHAHB (Ig Humana Anti-Hepatite B), exceto se a vítima é suscetível e o agressor HBsAg positivo ou pertencente a grupo de risco (usuários de droga, por exemplo). Quando indicada, a IgHAHB deve ser aplicada o mais rapidamente possível, até, no máximo, 14 dias após a exposição.
+Se a vítima não é vacinada ou se está com vacinação incompleta contra hepatite B, deve-se vacinar ou completar a vacina-ção. Não se recomenda o uso rotineiro de IgHAHB (Ig Humana Anti-Hepatite B), exceto se a vítima é suscetível e o agressor HBsAg positivo ou pertencente a grupo de risco (usuários de droga, por exemplo). Quando indicada, a IgHAHB deve ser apli-cada o mais rapidamente possível, até, no máximo, 14 dias após a exposição.
 
 C - Poliomielite
-No Brasil, a poliomielite está erradicada, e o registro dos últimos casos confirmados foi em 1989, nos estados do Rio Grande do Norte e da Paraíba, mas o número no mundo aumentou de 784 (2003) para 1.266 (2004). A Nigéria contribui com 63% dos casos, justificando, assim, a continuidade da vacina para evitar o risco de importação dos vírus selvagens. 
-A introdução da Vacina Inativada contra Poliomielite (VIP) no calendário básico de vacinação pelo Ministério da Saúde no 2º semestre de 2012, com vírus inativado, vem ocorrendo em países que já eliminaram a doença. A Organização Pan-Americana da Saúde, no entanto, recomenda que os países das Américas continuem a utilizar a vacina oral, com vírus atenuado, até a erradicação mundial da poliomielite, o que garante proteção de grupo.
+No Brasil, a poliomielite está erradicada, e o registro dos últimos casos confirmados foi em 1989, nos estados do Rio Gran-de do Norte e da Paraíba, mas o número no mundo aumentou de 784 (2003) para 1.266 (2004). A Nigéria contribui com 63% dos casos, justificando, assim, a continuidade da vacina para evitar o risco de importação dos vírus selvagens. 
+A introdução da Vacina Inativada contra Poliomielite (VIP) no calendário básico de vacinação pelo Ministério da Saúde no 2º semestre de 2012, com vírus inativado, segue a tendência de países que já eliminaram a doença. A Organização Pan-Americana da Saúde, no entanto, recomenda que os países das Américas continuem a utilizar a vacina oral, com vírus atenua-do, até a erradicação mundial da poliomielite, o que garante proteção de grupo.
 
 Tema frequente de prova
-A introdução da vacina inativada contra poliomielite no calendário básico de vacinação é um tema frequente nas provas de Residência Médica.
+A introdução da vacina inativada contra poliomielite no calendário básico de vacinação é um tema frequente nas provas de concursos médicos.
 
 No Brasil, existem 2 tipos de vacina contra a poliomielite: a VOP ou Sabin, e a VIP, também chamada Salk. 
 
 a) Composição 
-A VOP contém suspensão trivalente de poliovírus atenuados (tipos 1, 2 e 3) e pequenas quantidades de bacitracina, neomicina e estreptomicina. A VIP, injetável, é constituída por cepas inativadas (mortas) dos 3 tipos (1, 2 e 3) de poliovírus; contém vestígios de estreptomicina, neomicina e polimixina B, com risco teórico de reações alérgicas em pessoas sensíveis a esses antibióticos.
+A VOP contém suspensão trivalente de poliovírus atenuados (tipos 1, 2 e 3) e pequenas quantidades de bacitracina, neo-micina e estreptomicina. A VIP, injetável, é constituída por cepas inativadas (mortas) dos 3 tipos (1, 2 e 3) de poliovírus; con-tém vestígios de estreptomicina, neomicina e polimixina B, com risco teórico de reações alérgicas em pessoas sensíveis a esses antibióticos.
 
 b) Esquema vacinal 
-O esquema vacinal será sequencial (VIP/VOP) de 4 doses para crianças menores de 1 ano que estiverem iniciando o esquema vacinal. A VIP deverá ser administrada aos 2 (1ª dose) e 4 meses (2ª dose), e a VOP, aos 6 (3ª dose) e 15 meses de idade (reforço). A preferência para a administração da VIP aos 2 e 4 meses visa evitar o risco, que é raríssimo, de evento adverso pós-vacinação.
-O intervalo entre as doses é de 60 dias, podendo ser de 30 dias, sendo, nos primeiros 6 meses, o intervalo mínimo de 30 dias recomendado apenas se o indivíduo está sob risco iminente de exposição a circulação viral, como pessoas que se deslocam a regiões endêmicas ou em situações de surto da doença.
+O esquema vacinal será sequencial (VIP/VOP) de 4 doses para crianças menores de 1 ano que estiverem iniciando o es-quema vacinal. A VIP deverá ser administrada aos 2 (1ª dose), 4 (2ª dose) e 6 meses (3ª dose), e a VOP, aos 15 meses e 4 anos de idade (reforço). A preferência para a administração da VIP aos 2, 4 e 6 meses visa evitar o risco, que é raríssimo, de evento adverso pós-vacinação.
+O intervalo entre as doses é de 60 dias, podendo ser de 30 dias, sendo, nos primeiros 6 meses, o intervalo mínimo de 30 dias recomendado apenas se o indivíduo está sob risco iminente de exposição a circulação viral, como pessoas que se deslo-cam a regiões endêmicas ou em situações de surto da doença.
 A VIP só deve ser administrada em criança de 2 meses a menores de 1 ano que estão iniciando esquema vacinal;
-Se a criança tiver recebido como 1ª dose, na rotina de vacinação, a VOP, o esquema será completado com VOP;
+Se a criança tiver recebido a VOP como 1ª dose, na rotina de vacinação, o esquema será completado com VOP;
 Se a criança tiver recebido a 1ª dose e/ou a 2ª dose de VIP, deverá seguir esquema sequencial;
 Se a criança receber VIP aos 2 meses e por algum motivo receber VOP aos 4, o esquema será completado com VOP;
-É recomendada a crianças <5 anos que estejam iniciando esquema de vacinação contra poliomielite.
+Há recomendação a crianças <5 anos que estejam iniciando esquema de vacinação contra poliomielite. 
 O esquema vacinal compreende 3 doses com intervalo mínimo de 30 dias entre elas e reforço aos 15 meses:
 D1 com VIP;
 D2 com VIP;
-D3 com VOP;
+D3 com VIP;
 REF (reforço) com VOP.
+A campanha anual da VOP (“Zé Gotinha”) é feita para crianças entre 6 meses e 5 anos e todas devem ser vacinadas, inde-pendente do status vacinal.
 
 c) Risco associado à vacina
-De 1995 a 2001, foram registrados 10 casos de pólio associada ao vírus vacinal no Brasil. Quatro casos foram associados à 1ª dose, 4 casos à 2ª dose e 2 casos atribuídos a contato. A média de idade foi de 4 a 7 meses. O risco observado para a poliomielite associada ao vírus vacinal durante o período foi de 1:5,11 milhões de primeiras doses e de 1:10,67 milhões para o total de doses (PAHO, 2005).
+De 1995 a 2001, foram registrados 10 casos de pólio associada ao vírus vacinal no Brasil. Quatro casos foram associados à 1ª dose, 4 casos à 2ª dose e 2 casos atribuídos a contato. A média de idade foi de 4 a 7 meses. O risco observado para a poli-omielite associada ao vírus vacinal durante o período foi de 1:5,11 milhões de primeiras doses e de 1:10,67 milhões para o total de doses (PAHO, 2005).
 
 d) Contraindicações
-Há contraindicações específicas para a vacina da pólio nos casos de imunodeficiência congênita ou adquirida (imunodeficiência combinada, hipogamaglobulinemia e agamaglobulinemia). Nessas situações, tanto o paciente como os seus familiares contactuantes devem receber a vacina Salk. Com a VOP, há excreção do vírus vacinal durante 4 a 6 semanas após a vacinação. Indivíduos infectados pelo vírus da AIDS podem receber a vacina oral caso não apresentem sintomas da doença. Para pacientes que os apresentam, prefere-se a vacina Salk.
-Como a VOP contém traços de neomicina, bacitracina e estreptomicina, indivíduos com reação anafilática a tais antibióticos apresentam contraindicação a seu uso. Recomenda-se não vacinar mulheres grávidas, exceto em situações de alto risco. Aleitamento materno e diarreia não são contraindicações à vacinação.
+Há contraindicações específicas para a vacina da pólio nos casos de imunodeficiência congênita ou adquirida (imunodefi-ciência combinada, hipogamaglobulinemia e agamaglobulinemia). Nessas situações, tanto o paciente como os seus familiares contactantes devem receber a vacina Salk. Com a VOP, há excreção do vírus vacinal durante 4 a 6 semanas após a vacinação. Indivíduos infectados pelo vírus da AIDS podem receber a vacina oral caso não apresentem sintomas da doença. Para pacien-tes que os apresentam, prefere-se a vacina Salk.
+Como a VOP contém traços de neomicina, bacitracina e estreptomicina, indivíduos com reação anafilática a tais antibióti-cos apresentam contraindicação a seu uso. Recomenda-se não vacinar mulheres grávidas, exceto em situações de alto risco. Aleitamento materno e diarreia não são contraindicações à vacinação.
+Ela deve ser readministrada caso a criança cuspa ou vomite.
 
 e) Vacina inativada contra a poliomielite (Salk)
-A vacina Salk foi desenvolvida por Jonas Salk em 1954 e desde 2000 é a única contra poliomielite utilizada nos Estados Unidos. É composta por vírus inativados e aplicada em doses de 0,5mL por via intramuscular ou subcutânea (na forma isolada). Está disponível nos Centros de Referência para Imunobiológicos Especiais (CRIEs) e desde 2012 na rede básica, na apresentação isolada para situações especiais e apresentações combinadas nas clínicas privadas. Algumas particularidades são: 
+A vacina Salk foi desenvolvida por Jonas Salk em 1954 e desde 2000 é a única contra poliomielite utilizada nos Estados Unidos. É composta por vírus inativados e aplicada em doses de 0,5mL por via intramuscular ou subcutânea (na forma isolada). Está disponível nos Centros de Referência para Imunobiológicos Especiais (CRIEs) e desde 2012 na rede básica, na apresenta-ção isolada para situações especiais e apresentações combinadas nas clínicas privadas. Algumas particularidades são: 
 Ser iniciada aos 2 meses; 
 Conferir níveis de anticorpos protetores com apenas 2 doses; 
-A imunidade desenvolvida ser essencialmente do tipo humoral, diferente da pólio oral (Sabin), em que há desenvolvimento da imunidade tanto local, em nível de mucosa, quanto humoral; 
+A imunidade desenvolvida ser essencialmente do tipo humoral, diferente da pólio oral (Sabin), em que há desenvolvimen-to da imunidade tanto local, em nível de mucosa, quanto humoral; 
 A vacina não competir com o vírus selvagem da pólio em nível intestinal, diferentemente do que ocorre com a Sabin; 
 Haver produção discreta de IgA secretora na nasofaringe; 
 Por conter vírus mortos, tal vacina torna imune, exclusivamente, o indivíduo vacinado, sem imunização secundária entre contatos, uma das vantagens da pólio oral. Entretanto, com a Salk, não há risco de gerar cepas virais mutantes, capazes de produzir eventuais casos de paralisia associada à vacina oral. 
@@ -294,14 +305,14 @@ Neoplasias, imunossupressão por medicamentos, quimioterapia ou radioterapia, tra
 Contatos domiciliares de imunossuprimidos.
 
 D - Rotavírus humano
-O rotavírus (RV) é um vírus da família Reoviridae, principal agente de gastrenterite grave com desidratação no período inicial da infância. Estima-se que seja responsável, anualmente, por 25 milhões de consultas clínicas, 2 milhões de internações e mais de 600.000 mortes entre crianças menores de 5 anos. Entretanto, a infecção ocorre, na maioria das crianças, nos primeiros anos de vida, sendo os casos mais graves em crianças de até 2 anos. Em estudos realizados no estado de São Paulo, o RV contribui com cerca de 17% do total das diarreias.
+O rotavírus (RV) é um vírus da família Reoviridae, principal agente de gastrenterite grave com desidratação no período ini-cial da infância. Estima-se que seja responsável, anualmente, por 25 milhões de consultas clínicas, 2 milhões de internações e mais de 600.000 mortes entre crianças menores de 5 anos. Entretanto, a infecção ocorre, na maioria das crianças, nos pri-meiros anos de vida, sendo os casos mais graves em crianças de até 2 anos. Em estudos realizados no estado de São Paulo, o RV contribui com cerca de 17% do total das diarreias.
 
 Quadro clínico
 O quadro clínico do rotavírus humano é muito exuberante, com breve período de incubação (de 24 a 48 horas), início abrupto pela fase gástrica, vômitos em mais de 50% dos casos, febre alta e diarreia profusa, com possível evolução com desidratação. 
 
 a) Composição 
 A 1ª vacina contra o RV foi a RotaShield®, oral atenuada, tetravalente, utilizada com rearranjo símio e humano, aplicada no esquema de 3 doses (2, 4 e 6 meses de idade). Foi suspensa em 1999, devido ao aumento de invaginação intestinal.
-Atualmente, há alguns tipos de vacinas disponíveis no mundo, entretanto a escolhida para fazer parte do calendário vacinal do Brasil, em março de 2006, foi a vacina oral atenuada monovalente, G1P1A, cepa RIX4414, de origem humana (Rotarix®, GlaxoSmithKline Biologicals), por suas elevadas imunogenicidade, eficácia e segurança. Há, também, estudos publicados utilizando-se uma vacina oral atenuada pentavalente, com rearranjo humano-bovino, G1, G2, G3, G4 e P1[8] (RotaTeq®, Merck), também com elevada proteção para as formas graves de diarreia.
+Atualmente, há alguns tipos de vacinas disponíveis no mundo, entretanto a escolhida para fazer parte do calendário vaci-nal do Brasil, em março de 2006, foi a vacina oral atenuada monovalente, G1P1A, cepa RIX4414, de origem humana (Rotarix®, GlaxoSmithKline Biologicals), por suas elevadas imunogenicidade, eficácia e segurança. Há, também, estudos publicados utili-zando-se uma vacina oral atenuada pentavalente, com rearranjo humano-bovino, G1, G2, G3, G4 e P1[8] (RotaTeq®, Merck), também com elevada proteção para as formas graves de diarreia.
 
 b) Esquema vacinal 
 O esquema vacinal recomendado é de 2 doses, aos 2 e 4 meses, simultaneamente com as vacinas tetravalente (DTP/Hib) e Sabin. O intervalo mínimo entre elas é de 4 semanas. Para tal vacina, são recomendadas algumas restrições:
@@ -315,39 +326,51 @@ Idade mínima: 3 meses e 15 dias de vida (14 semanas);
 Idade máxima: 7 meses e 29 dias de vida (aproximadamente 32 semanas).
 
 Importante 
-Convém observar rigorosamente as datas para aplicação da vacina contra o rotavírus, pois, se aplicada fora da faixa preco-nizada, há aumento do risco de invaginação intestinal, com correlação direta entre idade e intussuscepção intestinal. 
+Convém observar rigorosamente as datas para aplicação da vacina contra o rotavírus, pois, se aplicada fora da faixa pre-conizada, há aumento do risco de invaginação intestinal, com correlação direta entre idade e intussuscepção intestinal. 
 
-Convém lembrar que invaginação é uma forma de obstrução intestinal em que um segmento do intestino invagina sobre o outro, localizado mais distalmente, causando obstrução intestinal e compressão vascular da alça invaginada. Tem maior ocorrência em crianças entre 4 e 9 meses e representa uma das causas mais frequentes de abdome agudo nessa faixa etária. O lactente apresenta náuseas, vômitos, dores abdominais e, algumas vezes, pode ter fezes com muco e sangue. O tratamento pode ser conservador, mas, em algumas situações, é indicado o tratamento cirúrgico.
+Convém lembrar que invaginação é uma forma de obstrução intestinal em que um segmento do intestino invagina sobre o outro, localizado mais distalmente, causando obstrução intestinal e compressão vascular da alça invaginada. Tem maior ocor-rência em crianças entre 4 e 9 meses e representa uma das causas mais frequentes de abdome agudo nessa faixa etária. O lactente apresenta náuseas, vômitos, dores abdominais e, algumas vezes, pode ter fezes com muco e sangue (fezes “em geleia de morango”). O tratamento pode ser conservador, mas, em algumas situações, é indicado o tratamento cirúrgico.
 
 c) Efeitos adversos
-Após receber a vacina, a criança pode apresentar reação alérgica sistêmica grave até 2 horas da administração, sangue em fezes e internação por abdome agudo obstrutivo até 42 dias após a aplicação. Deve-se ponderar a possibilidade de invaginação intestinal, necessitando de tratamento conservador e, algumas vezes, cirúrgico. Além disso, lembrar-se sempre de preencher a Ficha de Notificação de Procedimento Inadequado para efeitos adversos.
+Após receber a vacina, a criança pode apresentar reação alérgica sistêmica grave até 2 horas da administração, sangue em fezes e internação por abdome agudo obstrutivo até 42 dias após a aplicação. Deve-se ponderar a possibilidade de invagina-ção intestinal, necessitando de tratamento conservador e, algumas vezes, cirúrgico. Além disso, lembrar-se sempre de preen-cher a Ficha de Notificação de Procedimento Inadequado para efeitos adversos.
 
 d) Contraindicações 
 Imunodeficiência congênita ou adquirida;
-Uso de corticosteroide em doses elevadas (equivalente a 2mg/kg/d ou mais, por mais de 2 semanas), ou crianças submetidas a outras terapêuticas imunossupressoras (quimioterapia, radioterapia);
-Reação alérgica grave a 1 dos componentes da vacina ou em dose anterior (urticária disseminada, broncoespasmo, laringoespasmo, choque anafilático), até 2 horas após a aplicação da vacina;
+Uso de corticosteroide em doses elevadas (equivalente a 2mg/kg/d ou mais, por mais de 2 semanas), ou crianças submeti-das a outras terapêuticas imunossupressoras (quimioterapia, radioterapia);
+Reação alérgica grave a 1 dos componentes da vacina ou em dose anterior (urticária disseminada, broncoespasmo, larin-goespasmo, choque anafilático), até 2 horas após a aplicação da vacina;
 História de doença gastrintestinal crônica;
 Malformação congênita do trato digestivo;
 História prévia de invaginação intestinal.
 
 e) Vacinação simultânea 
-A vacina oral contra RV pode ser aplicada simultaneamente com as vacinas DTP, DTPa (acelular), Hib, hepatite B, pneumococo heptavalente e Salk, sem prejuízo das respostas das vacinas aplicadas. Até o momento, não há experiência acumulada com a aplicação simultânea de vacina contra o meningococo. 
-Uma recomendação especial deve ser dada em relação à vacina Sabin. Esta, quando não aplicada no mesmo dia da vacina contra RV, é a única para a qual se deve aguardar intervalo de 15 dias. Em estudos realizados com a aplicação simultânea da vacina contra RV e Sabin, observou-se discreta redução na resposta da 1ª dose da vacina contra RV. Com relação à VOP administrada com 2 semanas de intervalo em relação à RIX4414, estudos recentes na África do Sul, onde ambas as vacinas foram administradas em conjunto, mostraram que as 2 doses da RIX4414 não influenciaram a soroproteção induzida por quaisquer dos 3 sorotipos de poliovírus. Após a aplicação da 2ª dose, não foi observado prejuízo na resposta. Por precaução, se a criança vomita ou regurgita, a dose não deve ser repetida.
+A vacina oral contra RV pode ser aplicada simultaneamente com as vacinas DTP, DTPa (acelular), Hib, hepatite B, pneumo-coco heptavalente e Salk, sem prejuízo das respostas das vacinas aplicadas. Até o momento, não há experiência acumulada com a aplicação simultânea de vacina contra o meningococo. 
+Uma recomendação especial deve ser dada com relação à vacina Sabin. Esta, quando não aplicada no mesmo dia da vacina contra RV, é a única para a qual se deve aguardar intervalo de 15 dias. Em estudos realizados com a aplicação simultânea da vacina contra RV e Sabin, observou-se discreta redução na resposta da 1ª dose da vacina contra RV. Com relação à VOP admi-nistrada com 2 semanas de intervalo em relação à RIX4414, estudos recentes na África do Sul, onde ambas as vacinas foram administradas em conjunto, mostraram que as 2 doses da RIX4414 não influenciaram a soroproteção induzida por quaisquer dos 3 sorotipos de poliovírus. Após a aplicação da 2ª dose, não foi observado prejuízo na resposta. Por precaução, se a crian-ça vomita ou regurgita, a dose não deve ser repetida.
 
 E - Difteria, coqueluche e tétano (DTP)
 
 a) Composição 
-DTP (vacina celular): de células inteiras, composta dos toxoides tetânico (de 10 a 20UI) e diftérico (30UI – toxinas inativadas) e suspensão de células de Bordetella pertussis mortas, hidróxido de alumínio, timerosal e solução salina; 
+DTP (vacina celular): de células inteiras, composta dos toxoides tetânico (de 10 a 20UI) e diftérico (30UI – toxinas inativa-das) e suspensão de células de Bordetella pertussis mortas, hidróxido de alumínio, timerosal e solução salina; 
 DTPa (tríplice acelular): cada dose contém, no mínimo, 30UI de toxoide diftérico purificado, 40UI de toxoide tetânico e fração de pertussis com 2, 3 ou 5 componentes, dependendo da apresentação comercial;
 DT infantil (DT): a vacina contém 10Lf de toxoide tetânico e de 10 a 12Lf de toxoide diftérico a cada 0,5mL, precipitados pelo alúmen, e contém timerosal como conservante de resíduos de formaldeído;
-Tetravalente bacteriana (TETRA): contém a tríplice celular (DTP), cujo componente contra coqueluche é de bactérias inteiras, associada à vacina contra Hib;
+Tetravalente bacteriana (TETRA): contém a tríplice celular (DTP), cujo componente contra coqueluche é de bactérias in-teiras, associada à vacina contra Hib;
 Tríplice bacteriana tipo adulto (DTPa): contra difteria, tétano e coqueluche acelular, para uso em adultos e adolescentes. Cada dose contém, no mínimo, 2UI de toxoide diftérico purificado, 20UI de toxoide tetânico e fração pertussis com 3 componentes purificados (hemaglutinina filamentosa), a pertactina (uma proteína da parede celular), aglutinogênios (proteínas das fímbrias), formaldeído e solução salina;
-Dupla bacteriana tipo adulto (dT): cada dose contém, no mínimo, 2UI de toxoide diftérico purificado, 20UI de toxoide tetânico, hidróxido de alumínio, timerosal e solução salina;
-Pentavalente (DPT + Hib + hepatite B): segundo a proposta de calendário vacinal 2012/2013 pelo Ministério da Saúde, deve substituir o esquema DPT, mantendo-se os intervalos aos 2, 4 e 6 meses. Aos 15 meses, devem ser feitos os reforços de DPT. 
+Dupla bacteriana tipo adulto (dT): cada dose contém, no mínimo, 2UI de toxoide diftérico purificado, 20UI de toxoide te-tânico, hidróxido de alumínio, timerosal e solução salina;
+Pentavalente (DPT + Hib + hepatite B): segundo a proposta de calendário vacinal 2012/2013 pelo Ministério da Saúde, deve substituir o esquema DPT, mantendo-se os intervalos aos 2, 4 e 6 meses. Aos 15 meses, devem ser feitos os refor-ços de DPT. 
+
+
+Pergunta
+2015 - UFF
+1. A vacina pentavalente imuniza a criança não só contra tétano, mas também contra:
+a) difteria, coqueluche, Haemophilus influenzae B e hepatite B
+b) poliomielite, coqueluche, Haemophilus influenzae B e hepatite B
+c) difteria, coqueluche, Haemophilus influenzae B e hepatite A
+d) poliomielite, coqueluche, Haemophilus influenzae B e hepatite A
+e) poliomielite, Haemophilus influenzae B e varicela
+Resposta no final do capítulo
+
 
 b) Esquema vacinal 
-Deve ser administrado em 3 doses (aos 2, 4 e 6 meses), atualmente feito pela pentavalente (DPT + Hib + hepatite B), com 1 dose de reforço aos 15 meses e outra entre os 4 e os 6 anos. A partir dessa idade, o indivíduo deve receber reforços do toxoide tetânico e diftérico a cada 10 anos (vacina dupla adulto). Em caso de acidente com solução de continuidade importante e vacinação há mais de 5 anos, deve-se repeti-la. A administração é intramuscular, e deve-se dar preferência ao músculo vasto lateral da coxa em crianças menores de 2 anos. Crianças de baixo peso e prematuros podem ser vacinados ao completarem 2 meses de vida.
- 
+Deve ser administrado em 3 doses (aos 2, 4 e 6 meses), atualmente feito pela pentavalente (DPT + Hib + hepatite B), com 1 dose de reforço aos 15 meses e outra entre os 4 e os 6 anos. A partir dessa idade, o indivíduo deve receber reforços do toxoide tetânico e diftérico a cada 10 anos (vacina dupla adulto). Em caso de acidente com solução de continuidade importan-te e vacinação há mais de 5 anos, deve-se repeti-la. A administração é intramuscular, e deve-se dar preferência ao músculo vasto lateral da coxa em crianças menores de 2 anos. Crianças de baixo peso e prematuros podem ser vacinados ao comple-tarem 2 meses de vida.
+
 c) Contraindicações específicas 
 Crianças maiores de 7 anos, crianças com quadro neurológico em atividade e aquelas que após a 1ª aplicação apresentam convulsão dentro de 72 horas;
 Síndrome hipotônica hiporresponsiva até 48 horas após aplicação da vacina;
@@ -358,7 +381,7 @@ Todas essas reações adversas devem ser notificadas.
 d) Efeitos adversos
 Locais: dor, eritema, edema, enduração ou adenopatia;
 Sistêmicos: febre, mal-estar e irritabilidade podem ocorrer nas primeiras 24 a 48 horas. 
-São pouco frequentes choro prolongado e incontrolável e febre acima de 40,5°C. A síndrome de Guillain-Barré, extremamente rara, pode ocorrer até 6 semanas após a vacina ser administrada. Outros eventos neurológicos possíveis estão associados sobretudo ao componente pertussis, podendo manifestar-se por irritabilidade, sonolência, vômitos, choro inconsolável, convulsões (sem sequelas e geralmente associadas a febre) e a encefalopatia com sequela, possível em até 7 dias após a vacinação. É um evento raro (1/1.000.000), e ainda não está comprovada relação causal entre a vacina e a encefalopatia com sequelas neurológicas. A vacina DPT não é responsável por morte súbita em crianças ou encefalopatias com lesões permanentes.
+São pouco frequentes choro prolongado e incontrolável e febre acima de 40,5°C. A síndrome de Guillain-Barré, extrema-mente rara, pode ocorrer até 6 semanas após a vacina ser administrada. Outros eventos neurológicos possíveis estão associa-dos sobretudo ao componente pertussis, podendo manifestar-se por irritabilidade, sonolência, vômitos, choro inconsolável, convulsões (sem sequelas e geralmente associadas a febre) e a encefalopatia com sequela, possível em até 7 dias após a vaci-nação. É um evento raro (1/1.000.000), e ainda não está comprovada relação causal entre a vacina e a encefalopatia com sequelas neurológicas. A vacina DPT não é responsável por morte súbita em crianças ou encefalopatias com lesões perma-nentes.
 
 e) Indicações da DTPa
 Segundo a indicação dos CRIEs, a DTPa é indicada após os seguintes eventos adversos graves com a aplicação da vacina DTP celular ou tetravalente:
@@ -379,17 +402,18 @@ Pelo calendário vacinal do Ministério da Saúde, para crianças maiores de 7 anos,
 
 g) Vacinação de adolescente
 Ao adolescente que já recebeu 3 doses ou mais das vacinas DTP, DT ou dT, deve-se aplicar dose de reforço a cada 10 anos e, em caso de ferimentos graves, antecipar a mesma dose para 5 anos após a última dose. O intervalo mínimo entre elas é de 30 dias.
-O Advisory Committee on Immunization Practices (ACIP), em janeiro de 2006, passou a recomendar a DTPa para adolescentes entre 11 e 12 anos com esquema completo de vacinação da infância contra difteria, tétano e coqueluche, e para aqueles que não receberam a dose de booster contra tétano e difteria. Os adolescentes entre 13 e 18 anos não vacinados com dT ou DTPa entre 11 e 12 anos também devem receber uma única dose da DTPa, caso seus esquemas de vacinação da infância estejam completos. Para os reforços subsequentes a cada 10 anos, o ACIP mantém a indicação da vacina dT.
+O Advisory Committee on Immunization Practices (ACIP), em janeiro de 2006, passou a recomendar a DTPa para adolescen-tes entre 11 e 12 anos com esquema completo de vacinação da infância contra difteria, tétano e coqueluche, e para aqueles que não receberam a dose de booster contra tétano e difteria. Os adolescentes entre 13 e 18 anos não vacinados com dT ou DTPa entre 11 e 12 anos também devem receber uma única dose da DTPa, caso seus esquemas de vacinação da infância estejam completos. Para os reforços subsequentes a cada 10 anos, o ACIP mantém a indicação da vacina dT.
 
 h) Profilaxia de acidentes
-Em casos de acidentes, quando a criança não recebeu nenhuma dose da vacina contra o tétano, deve-se iniciar o esquema vacinal. Se ela recebeu apenas 1 dose, deve ser dada 1 dose no momento e, depois, a 3ª. Se a criança já recebeu, pelo menos, 2 doses, recomenda-se aplicar 1 dose de reforço.
-A Ig humana antitetânica (IgHAT) ou a antitoxina heteróloga (soro antitetânico – SAT) é indicada sempre que há o risco de contaminação ou tratar-se de ferimentos maiores e a criança não tiver recebido, pelo menos, 2 doses da vacina ou a última tiver sido feita há mais de 5 anos. Outras indicações são quanto às crianças que devem receber IgG antitetânica, profilaticamente, para aquelas cujo teste de sensibilidade ao SAT foi positivo, ou para quem já teve reação de hipersensibilidade após ter recebido qualquer soro heterólogo.
+Em casos de acidentes, quando a criança não recebeu nenhuma dose da vacina contra o tétano, deve-se iniciar o esque-ma vacinal. Se ela recebeu apenas 1 dose, deve ser dada 1 dose no momento e, depois, a 3ª. Se a criança já recebeu, pelo menos, 2 doses, recomenda-se aplicar 1 dose de reforço.
+A Ig humana antitetânica (IgHAT) ou a antitoxina heteróloga (soro antitetânico – SAT) é indicada sempre que há o risco de contaminação ou tratar-se de ferimentos maiores e a criança não tiver recebido, pelo menos, 2 doses da vacina. Outras indi-cações são quanto às crianças que devem receber IgG antitetânica profilaticamente, para aquelas cujo teste de sensibilidade ao SAT foi positivo, ou para quem já teve reação de hipersensibilidade após ter recebido qualquer soro heterólogo.
 Para ferimentos pequenos e limpos, não são necessários reforços se a última dose foi aplicada há menos de 10 anos. Em todos esses casos de acidentes, a Tabela 3 refere-se à dT.
 
 Tabela 3 - Condutas profiláticas de acordo com o tipo de ferimento e a situação vacinal (Secretaria de Vigilância em Saúde/Ministério da Saúde, 2005)
-História de vacinação prévia contra tétano	Ferimentos com risco mínimo de téta-no*	Ferimentos com alto risco de tétano**
-	Vacina	SAT/IgHAT	Outras condutas	Vacina	SAT/IgHAT	Outras condutas
-Incerta ou menos de 3 doses	Sim***	Não	Limpeza e desinfec-ção, lavagem com soro fisiológico e substân-cias oxidantes ou antissépticas e debri-damento do foco de infecção	Sim***	Sim	Desinfecção, lavagem com soro fisiológi-co e substâncias oxidantes ou antissépti-cas e remoção de corpos estranhos e tecidos desvitalizados; debridamento do ferimento e lavagem com água oxigena-da
+História de vaci-nação prévia con-tra tétano	Ferimentos com risco mínimo de tétano*	Ferimentos com alto risco de tétano**
+	Vacina	SAT/IgHAT	Outras 
+condutas	Vacina	SAT/IgHAT	Outras condutas
+Incerta ou menos de 3 doses	Sim***	Não	Limpeza e desinfec-ção, lavagem com soro fisiológico e substâncias oxidantes ou antissépticas e debridamento do fo-co de infecção	Sim***	Sim	Desinfecção, lavagem com soro fisiológico e substâncias oxidantes ou antissépticas e re-moção de corpos estra-nhos e tecidos desvita-lizados; debridamento do ferimento e lavagem com água oxigenada
 3 ou mais doses, a última há menos de 5 anos	Não	Não	--	Não	Não	--
 3 ou mais doses, a última dose há mais de 5 anos e menos de 10 anos	Não	Não	--	Sim
 (1 reforço)	Não****	--
@@ -397,26 +421,26 @@ Incerta ou menos de 3 doses	Sim***	Não	Limpeza e desinfec-ção, lavagem com soro 
 (1 reforço)	Não****	--
 * Ferimentos superficiais, limpos, sem corpos estranhos ou tecidos desvitalizados.
 ** Ferimentos profundos ou superficiais sujos, com corpos estranhos ou tecidos desvitalizados; queimaduras; feridas puntiformes ou por armas brancas e de fogo; mordeduras; politraumatismos e fraturas expostas.
-*** Vacinar e aprazar as próximas doses, para complementar o esquema básico. Essa vacinação visa proteger contra o risco de tétano por outros ferimentos futuros. Se o profissional que presta o atendimento suspeita que os cuidados posteriores com o ferimento não serão adequados, deve considerar a indicação de imunização passiva com SAT ou IgHAT. Quando indicado o uso de vacina e SAT ou IgHAT concomitantemente, devem ser aplicados em locais diferentes.
+*** Vacinar e aprazar as próximas doses, para complementar o esquema básico. Essa vacinação visa proteger contra o risco de téta-no por outros ferimentos futuros. Se o profissional que presta o atendimento suspeita que os cuidados posteriores com o ferimento não serão adequados, deve considerar a indicação de imunização passiva com SAT ou IgHAT. Quando indicado o uso de vacina e SAT ou IgHAT concomitantemente, devem ser aplicados em locais diferentes.
 **** Para paciente imunodeprimido, desnutrido grave ou idoso, além do reforço com a vacina, está indicada IgHAT ou SAT.
 
 F - Vacina pentavalente
-O Ministério da Saúde adquiriu a vacina DTP + hepatite B + Hib. As vacinas adquiridas são compostas por toxoides de difteria e tétano, suspensão celular inativada de Bordetella pertussis, antígeno de superfície de hepatite B (HBsAg) e oligossacarídeos conjugados de Hib. A vacinação básica consiste na aplicação de 3 doses, com intervalo de 60 dias (mínimo de 30 dias), a partir de 2 meses.
+O Ministério da Saúde adquiriu a vacina DTP + hepatite B + Hib. As vacinas adquiridas são compostas por toxoides de difte-ria e tétano, suspensão celular inativada de Bordetella pertussis, antígeno de superfície de hepatite B (HBsAg) e oligossacarí-deos conjugados de Hib. A vacinação básica consiste na aplicação de 3 doses, com intervalo de 60 dias (mínimo de 30 dias), a partir de 2 meses.
 Os 2 reforços necessários serão realizados com a vacina DTP (difteria, tétano e pertussis); o 1º reforço deverá ser aos 15 meses, e o 2º, aos 4 anos. A idade máxima para aplicação da DTP é de 6 anos, 11 meses e 29 dias. 
 Ressalte-se que fará parte desse esquema, para os RNs, a 1ª dose nas primeiras 24 horas, preferencialmente nas primeiras 12 horas, com a vacina hepatite B (recombinante).
 
 G - Haemophilus influenzae tipo B
 O Haemophilus influenzae tipo B (Hib) é um bacilo Gram negativo com 2 tipos de cepas: 
 Não tipáveis (não capsuladas): colonizam as vias respiratórias e são causa frequente de otite média, sinusite e infecção das mucosas respiratórias;
-Tipáveis (cepas capsuladas): particularmente do sorotipo B, responsáveis por 95% dos casos de doença invasiva por essa bactéria, como meningite, bacteriemia, epiglotite, pioartrite e pneumonia graves e outras infecções das vias respiratórias, na maioria das vezes atingindo crianças de até 5 anos (a faixa de maior risco vai de 3 a 24 meses). 
+Tipáveis (cepas capsuladas): particularmente do sorotipo B, responsáveis por 95% dos casos de doença invasiva por essa bactéria, como meningite, bacteriemia, epiglotite, pioartrite e pneumonia graves e outras infecções das vias respirató-rias, na maioria das vezes atingindo crianças de até 5 anos (a faixa de maior risco vai de 3 a 24 meses). 
 Obviamente, outros patógenos podem ser responsáveis por essas mesmas afecções, inclusive o Haemophilus influenzae não tipável (não capsulado). Porém, na maioria das vezes, produzem infecção de menor gravidade e, dificilmente, epiglotite. As vacinas contra o Hib não são eficazes na proteção contra infecções do trato respiratório superior, pois a maioria das otites e sinusites é causada por Streptococcus pneumoniae e Haemophilus não capsulados. Lembrando que tal vacina oferece ótima proteção contra pneumonia e empiema causados por essa bactéria, com redução de 80 a 100% das pneumonias.
 
 a) Composição 
-Há várias vacinas no mercado, com o PRP (polissacarídeo da cápsula da bactéria) sendo conjugado a diferentes proteínas, como o toxoide tetânico (PRP-T), o mutante não tóxico da toxina diftérica (CRM-197), as proteínas da membrana externa do meningococo do grupo B (HbOC), e podem conter timerosal como conservante. São semelhantes quanto à capacidade imunogênica e podem ser substituídas entre elas em qualquer uma das doses.
+Há várias vacinas no mercado, com o PRP (polissacarídeo da cápsula da bactéria) sendo conjugado a diferentes proteínas, como o toxoide tetânico (PRP-T), o mutante não tóxico da toxina diftérica (CRM-197), as proteínas da membrana externa do meningococo do grupo B (HbOC), e podem conter timerosal como conservante. São semelhantes quanto à capacidade imu-nogênica e podem ser substituídas entre elas em qualquer uma das doses.
 A vacina contra Hib é produzida com partes da cápsula polissacarídica da bactéria. Atualmente, têm sido usadas apenas as vacinas conjugadas, ou seja, o antígeno da cápsula do H. influenzae é conjugado a diferentes tipos de proteínas, o que a torna imunogênica mesmo para lactentes jovens. 
 
 b) Esquema vacinal
-A vacina é indicada a todas as crianças a partir de 2 meses até 5 anos, com esquema de 3 doses (ministradas aos 2, 4 e 6 meses de vida), utilizando a vacina Hib + DPT + hepatite B (pentavalente). Caso a criança já tenha 15 meses ou mais, é necessária apenas 1 dose. Somente nos casos com indicações dos CRIEs o Ministério da Saúde indica dose de reforço aos 15 meses:
+A vacina é indicada a todas as crianças a partir de 2 meses até 5 anos, com esquema de 3 doses (ministradas aos 2, 4 e 6 meses de vida), utilizando a vacina Hib + DPT + hepatite B (pentavalente). Caso a criança já tenha 15 meses ou mais, é neces-sária apenas 1 dose. Somente nos casos com indicações dos CRIEs o Ministério da Saúde indica dose de reforço aos 15 meses:
 Substituição de tetravalente (DPT + Hib) por DTP acelular + Hib;
 Transplantados de medula óssea e órgãos sólidos.
 Menores de 19 anos e não vacinados, nas seguintes situações:
@@ -436,15 +460,10 @@ Doenças de depósito.
 A Sociedade Brasileira de Pediatria (SBP) indica a dose de reforço de 12 a 15 meses. Caso a criança já tenha 15 meses ou mais, é necessária 1 dose.
 
 c) Eficácia
-A vacina confere elevada proteção contra doenças invasivas por Hib, diminui o número de assintomáticos (estado de portador) por inibição da colonização e protege as crianças não vacinadas (imunidade de rebanho). A eficácia é de 93 a 100%.
+A vacina confere elevada proteção contra doenças invasivas por Hib, diminui o número de assintomáticos (estado de por-tador) por inibição da colonização e protege as crianças não vacinadas (imunidade de rebanho). A eficácia é de 93 a 100%.
 
 d) Efeitos adversos
-Eventualmente, podem ser observados eritema local e/ou febre baixa nas 24 horas seguintes à administração, que deve ser feita por via intramuscular. A vacina é indicada inclusive a maiores de 5 anos em crianças com asplenia, anemia falciforme ou qualquer outra condição que produza imunodeficiência, incluindo os HIV positivo assintomáticos ou não. A criança que teve a doença invasiva antes dos 2 anos não é considerada imune e deve ser vacinada. Já a vacinada que desenvolve a doença deve ser avaliada em busca de imunodeficiência.
-
-e) Vacina pentavalente
-O Ministério da Saúde adquiriu a vacina DTP + hepatite B + Hib. As vacinas adquiridas são compostas por toxoides de difteria e tétano, suspensão celular inativada de Bordetella pertussis, antígeno de superfície de hepatite B (HBsAg) e oligossacarídeos conjugados de Hib.
-A vacinação básica consiste na aplicação de 3 doses, com intervalo de 60 dias (mínimo de 30 dias), a partir de 2 meses de idade, pela via intramuscular. Os 2 reforços necessários são realizados com a DTP (Difteria, Tétano e Pertussis); o 1º reforço deverá ser aos 15 meses, e o 2º, aos 4 anos. A idade máxima para aplicação da DTP é de 6 anos, 11 meses e 29 dias.
-Ressalte-se que faz parte desse esquema, para os RNs, a 1ª dose nas primeiras 24 horas, preferencialmente nas primeiras 12 horas, com a vacina hepatite B (recombinante).
+Eventualmente, podem ser observados eritema local e/ou febre baixa nas 24 horas seguintes à administração, que deve ser feita por via intramuscular. A vacina é indicada inclusive a maiores de 5 anos em crianças com asplenia, anemia falciforme ou qualquer outra condição que produza imunodeficiência, incluindo os HIV positivo assintomáticos ou não. A criança que teve a doença invasiva antes dos 2 anos não é considerada imune e deve ser vacinada. Já a vacinada que desenvolve a doen-ça deve ser avaliada em busca de imunodeficiência.
 
 H - Febre amarela
 A febre amarela é causada por um vírus de RNA do gênero Flavivirus, que usa como vetor o inseto Aedes aegypti (Figura 5), presente em todos os estados do país.
@@ -453,8 +472,7 @@ A febre amarela é causada por um vírus de RNA do gênero Flavivirus, que usa como
 Figura 5 - Aedes aegypti
 
 a) Indicações
-A vacina é indicada somente para crianças que residem ou que viajam para área endêmica (Acre, Amapá, Amazonas, Distrito Federal, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Rondônia, Roraima e Tocantins), área de transição (alguns municípios da Bahia, Minas Gerais, Paraná, Piauí, Santa Catarina, São Paulo e Rio Grande do Sul) e área de risco potencial (alguns municípios dos estados da Bahia, Espírito Santo e Minas Gerais) – Figura 6. Para quem reside nessas áreas, a vacinação deve ser realizada a partir dos 9 meses, com outra dose de reforço aos 10 anos. No caso de viagem para áreas de risco, a vacina deve ser administrada 10 dias antes.
-
+A vacina é indicada somente para crianças que residem ou que viajam para área endêmica (Acre, Amapá, Amazonas, Dis-trito Federal, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Rondônia, Roraima e Tocantins), área de transição (alguns municípios da Bahia, Minas Gerais, Paraná, Piauí, Santa Catarina, São Paulo e Rio Grande do Sul) e área de risco poten-cial (alguns municípios dos estados da Bahia, Espírito Santo e Minas Gerais) – Figura 6. Para quem reside nessas áreas, a vaci-nação deve ser realizada a partir dos 9 meses, com outra dose de reforço aos 10 anos. No caso de viagem para áreas de risco, a vacina deve ser administrada 10 dias antes.
  
 Figura 6 - Áreas de risco para febre amarela
 Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde.
@@ -469,13 +487,13 @@ d) Reações adversas
 Eritema, dor local, cefaleia intensa, mialgia e febre alta podem ser observados nas primeiras 24 horas após a administração da vacina. Outras vacinas de vírus vivos podem ser administradas no mesmo dia, mas, caso não seja possível, deve haver um intervalo mínimo de 15 dias entre as vacinas.
 
 e) Contraindicações 
-Idade inferior a 6 meses (risco aumentado de encefalite), história de reação anafilática à proteína do ovo, imunossupressão congênita ou adquirida e gravidez (exceto se há risco grave de transmissão).
+Idade inferior a 6 meses (risco aumentado de encefalite), história de reação anafilática à proteína do ovo, imunossupres-são congênita ou adquirida e gravidez (exceto se há risco grave de transmissão).
 
 I - Tríplice viral (Sarampo, Caxumba e Rubéola – SCR) 
 
 a) Composição 
-A vacina tríplice viral é cultivada em células de embrião de galinha e contém vírus vivos atenuados das cepas: sarampo (Schwarz ou Edmonston), caxumba (RIT 4385 cepa Jeryl Lynn, Urabe AM9) e rubéola (RA Wistar 27/3). Além de estabilizadores, contém neomicina ou canamicina. É importante lembrar que a vacina também é conhecida pelo seu acrônimo em inglês – MMR (Measles, Mumps and Rubella). 
-	
+A vacina tríplice viral é cultivada em células de embrião de galinha e contém vírus vivos atenuados das cepas: sarampo (Schwarz ou Edmonston), caxumba (RIT 4385 cepa Jeryl Lynn, Urabe AM9) e rubéola (RA Wistar 27/3). Além de estabilizado-res, contém neomicina ou canamicina. É importante lembrar que a vacina também é conhecida pelo seu acrônimo em inglês – MMR (Measles, Mumps and Rubella). 
+
 b) Esquema vacinal
 Tal vacina reúne vírus atenuados do sarampo, da caxumba e da rubéola. Segundo o calendário básico de vacinação, deve ser aplicada aos 12 meses de vida e reforçada com 4 a 6 anos de vida. Quem não recebe a 2ª dose deve ser vacinado no início da adolescência. No adulto, a vacina é administrada em dose única, objetivando imunizar contra rubéola e caxumba. A aplicação deve ser feita por via subcutânea, de preferência no braço esquerdo.
 
@@ -483,31 +501,35 @@ c) Eficácia
 A eficácia acontece quando são aplicadas as 2 doses preconizadas, após 1 ano, superior a 99% para as 3 doenças.
 
 d) Indicações
-Rubéola
+
+- Rubéola
 Embora seja uma doença exantemática considerada benigna, a vacinação visa prevenir a Síndrome de Rubéola Congênita (SRC), e, caso ocorra, no 1º trimestre da gravidez, infecção materna assintomática, há alto risco de aborto, malformações congênitas e natimortos. Em função do componente contra a rubéola, recomenda-se evitar gravidez nos 30 dias seguintes à administração da vacina tríplice viral, muito embora, entre as mulheres que engravidaram inadvertidamente após vacinação, nunca tenha sido confirmado caso de SRC ou demonstrado que tal vacina seja teratogênica. 
-Deve-se lembrar que essa síndrome geralmente é grave e pode acometer de 40 a 60% dos RNs cujas mães foram infectadas durante os 2 primeiros meses de gestação; de 30 a 35% dos RNs, no 3º mês de gestação; 10% dos RNs quando a infecção na gestação ocorre durante o 4º mês; sendo mais raro o acometimento após a 20ª semana. Os principais sinais e sintomas da infecção intrauterina são aborto espontâneo e malformação congênita de grandes órgãos e sistemas: oculares (microftalmia, retinopatia, glaucoma e catarata), cardíaca (persistência de ducto arterial, defeitos dos septos interauricular e interventricular, estenose da artéria pulmonar), deficiência auditiva, alterações neurológicas (meningoencefalite, retardo mental), púrpura, esplenomegalia, osteopatia radiolúcida. É possível a ocorrência de formas leves, com surdez parcial ou pequenas deficiências cardíacas, só diagnosticadas muitos anos após o nascimento. A infecção é tanto mais grave quanto mais precoce é a contaminação do feto, pois o vírus tem tropismo por tecidos jovens, sendo importante causa de restrição de crescimento intrauterino. 
-Para ser possível controlar ou erradicar a rubéola, é necessário manter elevadas taxas de cobertura vacinal para evitar deslocamento da curva de suscetíveis. Como exemplo, cita-se que a campanha de vacinação contra a rubéola em 1998 não foi suficiente para prevenir um surto entre adultos jovens em 2000, com uma alta incidência de SRC em 2001. Entre 2002 e 2005, as incidências de rubéola e de SRC diminuíram, entretanto a alta cobertura da vacina e a vigilância de alta qualidade são importantes para atingir a erradicação da síndrome. 
-Caxumba
-A doença é caracterizada pelo aumento agudo e doloroso das glândulas salivares, especialmente as parótidas; embora também seja infecção benigna na maioria das vezes, apresenta risco de complicações graves como orquite, epididimite e meningomieloencefalite, esta última considerada a complicação mais frequente.
-Sarampo
-Trata-se de uma doença exantemática altamente contagiosa, podendo apresentar quadro clínico bastante grave. Em epidemias, a vacina só pode ser aplicada a partir de 6 meses, e, nessas situações, devem ser vacinados todos os indivíduos não imunes. As contraindicações e precauções são as mesmas apresentadas a seguir com relação à tríplice viral. No caso de exposição ao sarampo, a vacina previne a doença em não imunes quando administrada em indivíduos com idade superior a 9 meses até 72 horas após o contato. Após esse período e até, no máximo, 6 dias da exposição, os expostos devem receber Ig humana (0,25mL/kg, máximo de 15mL ou o dobro, quando imunodeprimidos), especialmente menores de 1 ano, gestantes e imunocomprometidos. As crianças não imunizadas que receberam IgM para prevenção pós-exposição devem receber a vacina contra sarampo, devendo aguardar 5 meses, se dose = 0,25mg, ou 6 meses, se esta foi dobrada (0,5mg).
-Casos especiais
+Deve-se lembrar que essa síndrome geralmente é grave e pode acometer de 40 a 60% dos RNs cujas mães foram infectadas durante os 2 primeiros meses de gestação; de 30 a 35% dos RNs, no 3º mês de gestação; 10% dos RNs quando a infecção na gestação ocorre durante o 4º mês; sendo mais raro o acometimento após a 20ª semana. Os principais sinais e sintomas da infecção intrauterina são aborto espontâneo e malformação congênita de grandes órgãos e sistemas: oculares (microftalmia, retinopatia, glaucoma e catarata), cardíaca (persistência de ducto arterial, defeitos dos septos interatrial e interventricular, estenose da artéria pulmonar), deficiência auditiva, alterações neurológicas (meningoencefalite, retardo mental), púrpura, esplenomegalia, osteopatia radiolúcida. É possível a ocorrência de formas leves, com surdez parcial ou pequenas deficiências cardíacas, só diagnosticadas muitos anos após o nascimento. A infecção é tanto mais grave quanto mais precoce é a contami-nação do feto, pois o vírus tem tropismo por tecidos jovens, sendo importante causa de restrição de crescimento intrauteri-no. 
+Para ser possível controlar ou erradicar a rubéola, é necessário manter elevadas taxas de cobertura vacinal para evitar des-locamento da curva de suscetíveis. Como exemplo, cita-se a campanha de vacinação contra a rubéola em 1998, que não foi suficiente para prevenir um surto entre adultos jovens em 2000, com uma alta incidência de SRC em 2001. Entre 2002 e 2005, as incidências de rubéola e de SRC diminuíram, entretanto a alta cobertura da vacina e a vigilância de alta qualidade são importantes para atingir a erradicação da síndrome. 
+
+- Caxumba
+A doença é caracterizada pelo aumento agudo e doloroso das glândulas salivares, especialmente as parótidas; embora tam-bém seja infecção benigna na maioria das vezes, apresenta risco de complicações graves como orquite, epididimite e menin-gomieloencefalite, esta última considerada a complicação mais frequente.
+
+- Sarampo
+Trata-se de uma doença exantemática altamente contagiosa, podendo apresentar quadro clínico bastante grave. Em epide-mias, a vacina só pode ser aplicada a partir de 6 meses, e, nessas situações, devem ser vacinados todos os indivíduos não imunes. As contraindicações e precauções são as mesmas apresentadas a seguir com relação à tríplice viral. No caso de expo-sição ao sarampo, a vacina previne a doença em não imunes quando administrada em indivíduos com idade superior a 9 me-ses até 72 horas após o contato. Após esse período e até, no máximo, 6 dias da exposição, os expostos devem receber Ig humana (0,25mL/kg, máximo de 15mL ou o dobro, quando imunodeprimidos), especialmente menores de 1 ano, gestantes e imunocomprometidos. As crianças não imunizadas que receberam Ig para prevenção pós-exposição devem receber a vacina contra sarampo, devendo aguardar 5 meses, se dose = 0,25mg, ou 6 meses, se esta foi dobrada (0,5mg).
+
+- Casos especiais
 A vacina SCR deve ser administrada mesmo em casos de imunodepressão congênita ou adquirida. Nos casos de HIV positivo, prefere-se que seja anterior à manifestação da AIDS. Caso já haja manifestação, só recebe a vacina quem não se encontra com imunodepressão grave e não esteja recebendo Ig em doses elevadas.
 
 e) Situações de adiamento 
-No caso de uso recente de sangue total ou plasma, deve haver intervalo de, pelo menos, 3 meses entre o uso e a aplicação da vacina. Tal recomendação se deve ao risco de diminuição da resposta à vacina. Nas crianças que fizeram uso de Ig humana ou Igs, o prazo para o uso da vacina depende da dose de IgG utilizada (por exemplo, 3 meses na profilaxia contra o tétano e a hepatite A e 11 meses no caso de Kawasaki). Essa recomendação não se aplica às mulheres em pós-parto imediato, e deve ser solicitado teste sorológico para verificar se houve soroconversão para rubéola após 3 meses da aplicação. Caso o indivíduo vacinado necessite de sangue ou dos derivados antes indicados no período de até 2 semanas após a aplicação da vacina, recomenda-se que seja repetida a dose 3 meses após o uso dos produtos biológicos.
+No caso de uso recente de sangue total ou plasma, deve haver intervalo de, pelo menos, 3 meses entre o uso e a aplica-ção da vacina. Tal recomendação se deve ao risco de diminuição da resposta à vacina. Nas crianças que fizeram uso de Ig humana ou Igs, o prazo para o uso da vacina depende da dose de IgG utilizada (por exemplo, 3 meses na profilaxia contra o tétano e a hepatite A e 11 meses no caso de Kawasaki). Essa recomendação não se aplica às mulheres em pós-parto imediato, e deve ser solicitado teste sorológico para verificar se houve soroconversão para rubéola após 3 meses da aplicação. Caso o indivíduo vacinado necessite de sangue ou dos derivados antes indicados no período de até 2 semanas após a aplicação da vacina, recomenda-se que seja repetida a dose 3 meses após o uso dos produtos biológicos.
 
 f) Efeitos adversos
-Pode haver febre (de 5 a 12 dias após a vacinação), artralgia e/ou artrite (de 7 a 21 dias), exantema (de 7 a 10 dias) que pode durar de 1 a 2 dias, parotidite (de 14 a 21 dias) e púrpura trombocitopênica (até 2 meses após a vacinação). Manifestações neurológicas, como encefalite, são extremamente raras. Pode haver choque anafilático em indivíduos sensíveis ao ovo (proteína ovoalbumina), mas é extremamente raro, pois é muito baixa a sua concentração na vacina. Alergia a gelatina pode estar associada à vacina, contraindicando-a em caso de reação anafilática grave. Não constitui contraindicação à vacina SCR alergia ao ovo de galinha. Múltiplos estudos não demonstraram relação da vacina SCR com autismo.
+Pode haver febre (de 5 a 12 dias após a vacinação), artralgia e/ou artrite (de 7 a 21 dias), exantema (de 7 a 10 dias) que pode durar de 1 a 2 dias, parotidite (de 14 a 21 dias) e púrpura trombocitopênica (até 2 meses após a vacinação). Manifesta-ções neurológicas, como encefalite, são extremamente raras. Pode haver choque anafilático em indivíduos sensíveis ao ovo (proteína ovoalbumina), mas é extremamente raro, pois é muito baixa a sua concentração na vacina. Alergia a gelatina pode estar associada à vacina, contraindicando-a em caso de reação anafilática grave. Não constitui contraindicação à vacina SCR alergia ao ovo de galinha. Múltiplos estudos não demonstraram relação da vacina SCR com autismo.
 
 g) Falsas contraindicações
-Compreendem alergia a neomicina (existem traços na vacina), causando alergia de contato, tuberculose, HIV assintomático, alergia ou intolerância que não tenha sido de natureza anafilática sistêmica à ingestão de ovo ou gelatina.
+Compreendem alergia a neomicina (existem traços na vacina), causando alergia de contato, tuberculose, HIV assintomáti-co, alergia ou intolerância que não tenha sido de natureza anafilática sistêmica à ingestão de ovo ou gelatina.
 
 J - Varicela
-A varicela (catapora) e o herpes-zóster (popularmente conhecido como “cobreiro”) são aceitos, hoje, como a mesma doença, causada pelo mesmo agente etiológico, o vírus varicela-zóster, mas com manifestações clínicas diversas. A vacina contra a varicela faz parte do calendário básico de vacinações oferecido pelo Sistema Único de Saúde (SUS) desde 2013. De acordo com o Ministério da Saúde, a TETRA viral – uma versão atualizada da tríplice viral – imuniza, em apenas 1 injeção, contra sarampo, caxumba, rubéola e varicela. A recomendação é de 1 dose aos 15 meses.
+A varicela (catapora) e o herpes-zóster (popularmente conhecido como “cobreiro”) são aceitos, hoje, como a mesma do-ença, causada pelo mesmo agente etiológico, o vírus varicela-zóster, mas com manifestações clínicas diversas. A vacina contra a varicela faz parte do calendário básico de vacinações oferecido pelo Sistema Único de Saúde (SUS) desde 2013. De acordo com o Ministério da Saúde, a TETRA viral – uma versão atualizada da tríplice viral – imuniza, em apenas 1 injeção, contra sa-rampo, caxumba, rubéola e varicela. A recomendação é de 1 dose aos 15 meses.
 
 a) Composição 
-A vacina contra o vírus varicela-zóster não fazia parte do calendário básico brasileiro de vacinação. Entretanto, a SBP recomenda sua aplicação a todas as crianças com idade igual ou superior a 1 ano. Composta por vírus vivos atenuados, contém traços de gelatina e neomicina na sua preparação. 
+A vacina contra o vírus varicela-zóster não fazia parte do calendário básico brasileiro de vacinação. Entretanto, a SBP reco-menda sua aplicação a todas as crianças com idade igual ou superior a 1 ano. Composta por vírus vivos atenuados, contém traços de gelatina e neomicina na sua preparação. 
 
 b) Esquema vacinal
 Para crianças de 1 a 13 anos, é utilizada apenas 1 dose, por via subcutânea; para maiores de 13 anos, a aplicação deve ser feita em 2 doses, com intervalo de 4 a 8 semanas entre elas. A eficácia da vacina contra a infecção é de 90 a 95% contra as formas graves da doença.
@@ -520,21 +542,21 @@ d) Contraindicações
 Tabela 4 - Contraindicações à vacina 
 - Imunodeficiência congênita ou adquirida;
 - Neoplasia maligna: pacientes com leucemia linfoide aguda, quando a remissão ocorreu há mais de 1 ano, com linfócitos >700/mm3, contagem de plaquetas >100.000/mm3, poderão ser vacinados;
-- Corticoterapia atual em altas doses (equivalente à prednisona na dose =2mg/kg/d, para crianças, ou de 20mg/d ou mais, para adultos, por mais de 2 semanas, ou submetidos a terapêuticas imunossupressoras). O caso de doses de prednisona menores que 2mg/kg/d ou equivalente, provavelmente, não acarreta maiores problemas para a criança, porém sua resposta à vacina pode ser diminuída; desta forma, mesmo nesses casos, o corticoide deve ser suspenso (quando possível) por 1 ou 2 semanas antes e de 2 a 3 semanas após a vacinação;
-- Grávidas: pelo risco de varicela congênita. Os efeitos da vacina em grávidas e no feto ainda não foram claramente estudados. Assim, não devem ser vacinadas, e aquelas em idade fértil devem evitar a gravidez por, pelo menos, 1 mês após a vacinação;
+- Corticoterapia atual em altas doses (equivalente à prednisona na dose =2mg/kg/d, para crianças, ou de 20mg/d ou mais, para adul-tos, por mais de 2 semanas, ou submetidos a terapêuticas imunossupressoras). O caso de doses de prednisona menores que 2mg/kg/d ou equivalente, provavelmente, não acarreta maiores problemas para a criança, porém sua resposta à vacina pode ser di-minuída; desta forma, mesmo nesses casos, o corticoide deve ser suspenso (quando possível) por 1 ou 2 semanas antes e de 2 a 3 semanas após a vacinação;
+- Grávidas: pelo risco de varicela congênita. Os efeitos da vacina em grávidas e no feto ainda não foram claramente estudados. As-sim, não devem ser vacinadas, e aquelas em idade fértil devem evitar a gravidez por, pelo menos, 1 mês após a vacinação;
 - Ocorrência de reação anafilática em dose anterior: a 2ª dose está contraindicada;
 - Crianças menores de 1 ano: ainda não há dados publicados na literatura sobre segurança e eficácia nessa faixa etária.
 
-Deve-se lembrar que crianças imunocompetentes que apresentem lesões cutâneas devem evitar contato apenas com pacientes de risco, como os RNs, as gestantes e os imunodeprimidos. 
-A vacina contra a varicela pode ser administrada simultaneamente com qualquer vacina do PNI. Porém, caso não seja administrada no mesmo dia com as vacinas contra sarampo, caxumba, rubéola e febre amarela, recomenda-se aguardar um intervalo de 1 mês. 
-Crianças que receberam sangue, plasma ou Ig devem aguardar 5 meses para então serem vacinadas. Após a vacina, recomenda-se aguardar, quando possível, 3 meses para o uso de sangue, plasma, Igs e VZIg (Varicela-Zóster Ig). Ainda não há total comprovação dos efeitos desses derivados sobre a soroconversão, e tais medidas são tomadas de forma preventiva.
+Deve-se lembrar que crianças imunocompetentes que apresentem lesões cutâneas devem evitar contato apenas com pa-cientes de risco, como os RNs, as gestantes e os imunodeprimidos. 
+A vacina contra a varicela pode ser administrada simultaneamente com qualquer vacina do PNI. Porém, caso não seja ad-ministrada no mesmo dia com as vacinas contra sarampo, caxumba, rubéola e febre amarela, recomenda-se aguardar um intervalo de 1 mês. 
+Crianças que receberam sangue, plasma ou Ig devem aguardar 5 meses para então serem vacinadas. Após a vacina, reco-menda-se aguardar, quando possível, 3 meses para o uso de sangue, plasma, Igs e VZIg (Varicela-Zóster Ig). Ainda não há total comprovação dos efeitos desses derivados sobre a soroconversão, e tais medidas são tomadas de forma preventiva.
 Devido à associação entre crianças com varicela e síndrome de Reye, recomenda-se evitar o uso de salicilatos por até 6 semanas após a vacinação.
 
 e) Indicações
-Pré-exposição (indicações válidas para as pessoas suscetíveis a varicela) – segundo o Manual CRIEs 2006:
-Profissionais de saúde, imunocompetentes, que trabalham em setores hospitalares com imunodeprimidos;
-Pessoas e familiares, imunocompetentes, que residem ou cuidam de imunodeprimidos;
-Pessoas com leucemia linfocítica aguda, desde que em remissão há 1 ano, com linfócitos >700/mm3 e contagem de plaquetas >100.000/mm3, poderão ser vacinadas;
+
+- Pré-exposição (indicações válidas para as pessoas suscetíveis a varicela) – segundo o Manual CRIEs 2006:
+Profissionais de saúde, imunocompetentes, que trabalham em setores hospitalares com imunodeprimidos; Pessoas e fami-liares, imunocompetentes, que residem ou cuidam de imunodeprimidos;
+Pessoas com leucemia linfocítica aguda, desde que em remissão há 1 ano, com linfócitos >700/mm3 e contagem de pla-quetas >100.000/mm3, poderão ser vacinadas;
 Imunocompetentes internados em enfermaria onde haja caso de varicela;
 Antes da quimioterapia, em protocolos de pesquisa;
 Nefropatas crônicos;
@@ -548,11 +570,12 @@ Doenças dermatológicas crônicas graves, como ictiose, epidermólise bolhosa, psor
 Uso crônico de ácido acetilsalicílico (suspender uso por 6 semanas após a vacinação);
 Asplenia anatômica ou funcional e doenças relacionadas;
 Trissomias.
-Pós-exposição:
-Ambiente hospitalar: é indicada para controle de surto em ambiente hospitalar e controle de surto em creches no estado de São Paulo. A vacina é indicada para imunocompetentes suscetíveis (pacientes, acompanhantes e profissionais de saúde), até 120 horas após o contato com o caso-índice (vacinação de bloqueio). Se não houver disponibilidade da vacina Varilrix®, utilizar VZIg para crianças menores de 1 ano;
-Creches: a vacina contra varicela é indicada a partir do 1º caso, no período máximo de até 4 semanas do último. Serão vacinadas as crianças na faixa etária de 9 meses a 5 anos, 11 meses e 29 dias, suscetíveis a varicela. Também serão vacinados funcionários suscetíveis e que tiveram contato com o caso. As gestantes e pessoas imunodeprimidas que tiveram contato com os casos receberão a Ig específica (VZIg) no período hábil para bloqueio (96 horas).
 
-f) Imunização passiva contra a varicela  
+- Pós-exposição:
+Ambiente hospitalar: é indicada para controle de surto em ambiente hospitalar e controle de surto em creches no estado de São Paulo. A vacina é indicada para imunocompetentes suscetíveis (pacientes, acompanhantes e profissionais de saú-de), até 120 horas após o contato com o caso-índice (vacinação de bloqueio). Se não houver disponibilidade da vacina Varilrix®, utilizar VZIg para crianças menores de 1 ano;
+Creches: a vacina contra varicela é indicada a partir do 1º caso, no período máximo de até 4 semanas do último. Serão va-cinadas as crianças na faixa etária de 9 meses a 5 anos, 11 meses e 29 dias, suscetíveis a varicela. Também serão vacina-dos funcionários suscetíveis e que tiveram contato com o caso. As gestantes e pessoas imunodeprimidas que tiveram contato com os casos receberão a Ig específica (VZIg) no período hábil para bloqueio (96 horas).
+
+f) Imunização passiva contra a varicela
 Essa Ig deve ser administrada até 96 horas do contato com o caso-índice para os seguintes comunicantes de varicela ou herpes-zóster disseminados (acometimento de mais de 1 dermátomo):
 Imunocomprometidos;
 Gestantes suscetíveis, devido ao risco de complicação materna;
@@ -562,24 +585,24 @@ RNs <28 semanas de gestação, independente de história materna de varicela.
 
 g) Precauções
 Mesmo com a vacinação, como precaução, deve-se:
-Manter os pacientes em isolamento até o 21º dia após o contato com o caso-índice (limite máximo do período de incubação);
+Manter os pacientes em isolamento até o 21º dia após o contato com o caso-índice (limite máximo do período de incuba-ção);
 Havendo a necessidade de internar suscetíveis, vacinar os admitidos no local, durante o período (21 dias); 
 Quando qualquer vacinado apresentar a doença, reiniciar a contagem do novo período de 21 dias para isolamento e/ou vacinação de novos pacientes;
-Em profissionais de saúde suscetíveis, comunicantes e vacinados, que precisam manter as atividades em local com pacientes de risco e/ou em enfermaria de pacientes que ainda não tiveram varicela, usar máscara do 8º ao 21º.
+Em profissionais de saúde suscetíveis, comunicantes e vacinados, que precisam manter as atividades em local com pacien-tes de risco e/ou em enfermaria de pacientes que ainda não tiveram varicela, usar máscara do 8º ao 21º.
 
 K - Hepatite A
-Tal vacina está em processo de inclusão no calendário básico de vacinação utilizado no Brasil desde 2014. Em 2015 foi introduzida 1 dose da vacina aos 12 meses, e o PNI está avaliando a necessidade de introdução de uma 2ª dose no calendário.
+Tal vacina está inclusa no calendário básico de vacinação utilizado no Brasil desde 2015, quando foi introduzida 1 dose da vacina aos 12 meses. Em 2016 houve mudança para 1 dose aos 15 meses.
 
 a) Esquema vacinal
 Se isolada, tanto na apresentação adulta como na infantil, a vacina contra hepatite A deve ser administrada em 2 doses, de 0,5mL, aplicadas com intervalo de 6 meses, e é recomendada para crianças com idade acima de 1 ano. Se combinada com vacina contra hepatite B, deve ser administrada em 3 doses, de 1mL, aplicadas no esquema 0, 1 e 6 meses. Pode ser aplicada, simultaneamente, com as outras vacinas do PNI com qualquer intervalo. Por enquanto, no calendário básico de vacinação apenas 1 dose da vacina é recomendada.
 
 b) Eficácia 
-As vacinas contra hepatite A são altamente eficazes para crianças, adolescentes e adultos imunocompetentes. Anticorpos contra o vírus em níveis protetores são detectados em 95 a 97% após a 1ª dose e em 100% dos vacinados após a 2ª dose. A vacina tem sido utilizada em algumas situações, como na pós-exposição ao HAV, com eficácia de 79% em prevenir infecção quando administrada até 8 dias após exposição.
+As vacinas contra hepatite A são altamente eficazes para crianças, adolescentes e adultos imunocompetentes. Anticorpos contra o vírus em níveis protetores são detectados em 95 a 97% após a 1ª dose e em 100% dos vacinados após a 2ª dose. A vacina tem sido utilizada em algumas situações, como na pós-exposição ao vírus da hepatite A, com eficácia de 79% em pre-venir infecção quando administrada até 8 dias após exposição.
 
 c) Indicações 
 
 Importante 
-Desde 2014, todas as crianças entre 1 e 2 anos podem receber a vacina contra hepatite A pelo SUS, já que esta foi incluída no calendário básico de vacinação.
+Desde 2014, todas as crianças entre 1 e 2 anos podem receber a vacina contra hepatite A pelo SUS, já que esta foi incluí-da no calendário básico de vacinação.
 
 Para crianças entre 1 e 2 anos, pode-se indicar a vacinação nos CRIEs, desde que preencham os seguintes critérios:
 Hepatopatias crônicas de qualquer etiologia, inclusive portadores do vírus da hepatite C (HCV);
@@ -596,38 +619,31 @@ Transplantados de órgão sólido ou de medula óssea;
 Doadores de órgão sólido ou de medula óssea, cadastrados em programas de transplantes; 
 Hemoglobinopatias.
 
-Tabela 5 - Indicações e orientações técnicas para a aplicação da vacina contra hepatite A
-- Indicações: 
-· Crianças entre 1 e 2 anos;
-· Pessoas com antígeno do vírus hepatite B positivo (HBsAg+) cronicamente; 
-· Outras hepatopatias crônicas; 
-· Transplantados e doadores de medula óssea e órgãos sólidos; 
-· Imunodeficiência devida a neoplasia ou terapêutica; 
-· Crianças (menores de 13 anos) HIV positivo; 
-· Portadores de trissomias; 
-· Portadores de doenças de depósito.
-Composições	Início da aplicação (idade)	Doses/
-esquema básico	Reforços	Via de aplicação
-Vírus da hepatite A (formulações dis-tintas a depender do laboratório produ-tor)	1 a 2 anos até <18 anos	1 dose entre 1 e 2 anos pelo calendário básico de vacinação
-2 doses com intervalo de 6 a 12 meses (veri-ficar dose pediátrica a depender do produtor) pela SBP	--	Intramuscular
-	=18 anos	2 doses com intervalo de 6 a 12 meses (veri-ficar dose tipo adulto, a depender do produ-tor)		
+Tabela 5 - Orientações técnicas para a aplicação da vacina contra hepatite A
+Composições	Início da aplica-ção (idade)	Doses/
+esquema básico	Reforços	Via de 
+aplicação
+Vírus da hepatite A (formulações distintas a depender do labora-tório produtor)	1 a 2 anos até <18 anos	- 1 dose entre 1 e 2 anos pelo calendário básico de vacinação;
+- 2 doses com intervalo de 6 a 12 meses (verificar dose pediátrica a depender do produtor) pela SBP.	--	Intramuscular
+	=18 anos	2 doses com intervalo de 6 a 12 meses (verificar dose tipo adulto, a depender do produtor)		
 Fonte: Orientações técnicas dos CRIEs, 2011.
 
 d) Efeitos adversos
-Como são feitas com partículas de vírus mortos, as vacinas apresentam pouco potencial para reações, que, quando ocorrem, são dor, enduração e vermelhidão em pequeno número de vacinados. Em casos raros, pode haver febre e mal-estar, apenas quando há história de reação anafilática a algum dos componentes da vacina. 
+Como são feitas com partículas de vírus mortos, as vacinas apresentam pouco potencial para reações, que, quando ocor-rem, são dor, enduração e vermelhidão em pequeno número de vacinados. Em casos raros, pode haver febre e mal-estar, apenas quando há história de reação anafilática a algum dos componentes da vacina. 
 
 e) Contraindicações 
 Não é recomendada durante a gestação, apesar de o risco teórico (para o feto) ser baixo, e a vacina, inativada. 
 
 L - Doença meningocócica
 Meningococo é o nome popular da bactéria Neisseria meningitidis, Gram negativo que pode causar bacteriemia, meningite e meningococcemia. Tem importância epidemiológica relevante em algumas regiões, sendo os surtos frequentes, com alta letalidade. Há, pelo menos, 13 sorogrupos dessa bactéria, em que os principais são A, B, C, W-135, X e Y; os sorogrupos, por sua vez, subdividem-se em sorotipos.
-É importante saber que não há uma única vacina para todas as suas variantes. Desta forma, não há como adquirir proteção contra todas as formas de doença meningocócica por meio de uma única vacina e como se tornar protegido contra todas as formas de meningite, uma vez que a infecção pode ser causada pelas variantes do meningococo, por outras bactérias e, ainda, por vírus. No Brasil, a partir de agosto de 2010, a vacina conjugada contra meningococo C foi introduzida no calendário oficial da rede pública pelo Ministério da Saúde. Deve-se considerar que no Brasil a frequência do sorotipo C é de 70%, o que difere de outros países da América do Sul onde predomina o sorogrupo B, segundo a SBP. Em maio de 2015, chegou ao país a vacina meningocócica B recombinante, que protege contra o sorotipo B do meningococo. Essa vacina está disponível apenas nas clínicas particulares e já entrou no calendário de 2015 da Sociedade Brasileira de Pediatria.
+É importante saber que não há uma única vacina para todas as suas variantes. Desta forma, não há como adquirir proteção contra todas as formas de doença meningocócica por meio de uma única vacina e como se tornar protegido contra todas as formas de meningite, uma vez que a infecção pode ser causada pelas variantes do meningococo, por outras bactérias e, ain-da, por vírus. No Brasil, a partir de agosto de 2010, a vacina conjugada contra meningococo C foi introduzida no calendário oficial da rede pública pelo Ministério da Saúde. Deve-se considerar que no Brasil a frequência do sorotipo C é de 70%, o que difere de outros países da América do Sul onde predomina o sorogrupo B, segundo a SBP. Em maio de 2015, chegou ao país a vacina meningocócica B recombinante, que protege contra o sorotipo B do meningococo. Essa vacina está disponível apenas nas clínicas particulares e já entrou no calendário de 2015 da SBP.
 
 a) Esquema vacinal
 A vacina pode ser administrada em crianças a partir de 2 meses até a vida adulta. Para menores de 1 ano, são necessárias de 2 a 3 doses com intervalos de pelo menos 2 meses e, para maiores de 1 ano, adolescentes e adultos, dose única. 
-O esquema do calendário vacinal, pela SBP, é composto por 2 doses, aos 3 e 5 meses, e 1 reforço, entre 12 e 18 meses. Essa vacina é desenvolvida com uma tecnologia mais moderna: contém um oligossacarídeo meningocócico do sorogrupo C conjugado à proteína CRM-197 do Corynebacterium diphtheriae, que confere elevado espectro de proteção, com máxima segurança e maior tempo de imunidade, quando comparada à vacina polissacarídica. Além disso, gera imunização dentro de uma faixa etária de maior risco para doença meningocócica, ou seja, menores de 2 anos, sendo extremamente segura e eficaz (97%), pela memória imunológica. 
-Na rede privada, também pode ser encontrada a vacina polissacarídica contra o meningococo C (meningococo A-C), sem nenhum valor de proteção em menores de 2 anos, pois não determina o fenômeno de memória imunológica, devido à imunidade T-dependente. Quanto a maiores de 2 anos e a casos de surtos ou epidemias, e em viajantes de área de risco, deve ser repetida a cada 3 a 5 anos. Sempre que a situação de risco envolve o meningococo do grupo C, a vacina de escolha deve ser a conjugada. 
-A Sociedade Brasileira de Pediatria recomenda o uso da vacina meningocócica B recombinante a lactentes a partir de 2 meses, crianças e adolescentes. Para os lactentes que iniciam a vacinação entre 2 e 5 meses, são recomendadas 3 doses, com a 1ª a partir dos 2 meses e com pelo menos 2 meses de intervalo entre elas e 1 dose de reforço entre 12 e 23 meses. Para os lactentes que iniciam a vacinação entre 6 e 11 meses, 2 doses da vacina são recomendadas, com 2 meses de intervalo entre elas, com 1 dose de reforço no 2º ano de vida. Para crianças que iniciam a vacinação entre 1 e 10 anos, são indicadas 2 doses, com ao menos 2 meses de intervalo entre elas. Finalmente, para os adolescentes e adultos, são indicadas 2 doses com pelo menos 1 mês de intervalo entre elas. Não se conhece a duração de proteção conferida pela vacina.
+O esquema do calendário vacinal, pela SBP e pelo Ministério da Saúde, é composto por 2 doses, aos 3 e 5 meses, e 1 re-forço aos 12. Essa vacina é desenvolvida com uma tecnologia mais moderna: contém um oligossacarídeo meningocócico do sorogrupo C conjugado à proteína CRM-197 do Corynebacterium diphtheriae, que confere elevado espectro de proteção, com máxima segurança e maior tempo de imunidade, quando comparada à vacina polissacarídica. Além disso, gera imuniza-ção dentro de uma faixa etária de maior risco para doença meningocócica, ou seja, menores de 2 anos, sendo extremamente segura e eficaz (97%), pela memória imunológica. 
+Na rede privada, também pode ser encontrada a vacina polissacarídica contra o meningococo C (meningococo A-C), sem nenhum valor de proteção em menores de 2 anos, pois não determina o fenômeno de memória imunológica, devido à imuni-dade T-dependente. Quanto a maiores de 2 anos e a casos de surtos ou epidemias, e em viajantes de área de risco, deve ser repetida a cada 3 a 5 anos. Sempre que a situação de risco envolve o meningococo do grupo C, a vacina de escolha deve ser a conjugada. 
+A SBP recomenda o uso da vacina meningocócica B recombinante a lactentes a partir de 2 meses, crianças e adolescentes. Para os lactentes que iniciam a vacinação entre 2 e 5 meses, são recomendadas 3 doses, com a 1ª a partir dos 2 meses e com pelo menos 2 meses de intervalo entre elas e 1 dose de reforço entre 12 e 23 meses. Para os lactentes que iniciam a vacina-ção entre 6 e 11 meses, 2 doses da vacina são recomendadas, com 2 meses de intervalo entre elas, com 1 dose de reforço no 2º ano de vida. Para crianças que iniciam a vacinação entre 1 e 10 anos, são indicadas 2 doses, com ao menos 2 meses de intervalo entre elas. Finalmente, para os adolescentes e adultos, são indicadas 2 doses com pelo menos 1 mês de intervalo entre elas. Não se conhece a duração de proteção conferida pela vacina.
+Para crianças, a vacinação deve iniciar aos 3 meses com 3 doses no 1º ano de vida e reforços aos 12 meses, 5 anos e 11 anos de idade. Para adolescentes que nunca receberam a vacina meningocócica conjugada quadrivalente (ACWY), são reco-mendadas 2 doses com intervalo de 5 anos. Para adultos, dose única.
 
 b) Efeitos adversos
 As reações adversas registradas com maior frequência são reação no local da injeção (vermelhidão, dor, inchaço), dor de cabeça, choro e irritabilidade em bebês. Em alérgicos, a anafilaxia é rara. 
@@ -637,23 +653,23 @@ c) Contraindicações
 
 M - Pneumococo
 O Streptococcus pneumoniae, ou pneumococo, é uma bactéria que causa várias doenças, algumas simples (otite e sinusite) e outras graves (pneumonia, meningite e septicemia). Há mais de 90 sorotipos, apenas alguns deles cobertos pelas vacinas disponíveis. 
-Durante 5 décadas, a penicilina foi efetiva contra o pneumococo, porém cepas resistentes a ela se disseminaram progressivamente pelo mundo entre 1970 e 1990, aumentando a importância da prevenção contra o pneumococo, sobretudo em relação a essas cepas. 
+Durante 5 décadas, a penicilina foi efetiva contra o pneumococo, porém cepas resistentes a ela se disseminaram progres-sivamente pelo mundo entre 1970 e 1990, aumentando a importância da prevenção contra o pneumococo, sobretudo em relação a essas cepas. 
 
 a) Composição 
 Vacina pneumocócica 23-valente: contém 23 tipos capsulares de pneumococos (1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F, 33F);
 Vacina pneumocócica conjugada heptavalente: contém os sorotipos 4, 9V, 14, 19F, 23F, 18C e 6B; 
-Vacina pneumocócica conjugada 10-valente: contém 10 sorotipos de pneumococos (1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F, 23F), sendo 8 sorotipos conjugados com a proteína D do Haemophilus influenzae NT, o sorotipo 19F conjugado ao toxoide diftérico (DT), e o sorotipo 18C, ao toxoide tetânico (TT);
+Vacina pneumocócica conjugada 10-valente: contém 10 sorotipos de pneumococos (1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F, 23F), sendo 8 sorotipos conjugados com a proteína D do Haemophilus influenzae NT, o sorotipo 19F conjugado ao toxoide dif-térico (DT), e o sorotipo 18C, ao toxoide tetânico (TT);
 Vacina pneumocócica conjugada 13-valente: contém 13 sorotipos de pneumococos (4, 6B, 9V, 14, 18C, 19F e 23F, 1, 3, 5, 6A, 7F e 19A).
 
 b) Esquema vacinal 
-Em 2010, a vacina pneumocócica 10-valente foi introduzida no calendário oficial do Ministério da Saúde. As crianças recebem 3 doses, aos 2, 4 e 6 meses, com reforço aos 12 meses. Para os maiores de 2 anos, mantém-se o esquema anterior, e diante de indicação os pacientes devem ser encaminhados aos CRIEs. Na rede particular, a vacina continua disponível, tendo sido disponibilizada a partir de agosto de 2010 a pneumocócica 13-valente. 
+Em 2010, a vacina pneumocócica 10-valente foi introduzida no calendário oficial do Ministério da Saúde e houve altera-ção no calendário de 2016. As crianças recebem 2 doses, aos 2 e 4 meses, com reforço aos 12 meses. Para os maiores de 2 anos, mantém-se o esquema anterior, e diante de indicação os pacientes devem ser encaminhados aos CRIEs. Na rede parti-cular, a vacina continua disponível, tendo sido disponibilizada a partir de agosto de 2010 a pneumocócica 13-valente. 
 
 c) Eficácia
-A vacina pneumocócica 23-valente induz anticorpos a aumentarem a opsonização, a fagocitose e a destruição dos pneumococos. A resposta se dá por mecanismos T-independentes e não proporciona boa proteção a menores de 2 anos. A resposta aos vários sorotipos é heterogênea, em média de 80%, com queda dos níveis protetores de anticorpos após 5 a 10 anos. Como não há resposta anamnésica com a revacinação, como nos antígenos T-dependentes, não se indica a revacinação mais de 1 vez. Quanto à vacina pneumocócica conjugada heptavalente (Pnc-7), após 4 doses da vacina conjugada, a soroconversão para todos os 7 sorotipos é maior que 90% em crianças hígidas.
+A vacina pneumocócica 23-valente induz anticorpos a aumentarem a opsonização, a fagocitose e a destruição dos pneu-mococos. A resposta se dá por mecanismos T-independentes e não proporciona boa proteção a menores de 2 anos. A res-posta aos vários sorotipos é heterogênea, em média de 80%, com queda dos níveis protetores de anticorpos após 5 a 10 anos. Como não há resposta anamnésica com a revacinação, como nos antígenos T-dependentes, não se indica a revacinação mais de 1 vez. Quanto à vacina pneumocócica conjugada heptavalente (Pnc-7), após 4 doses da vacina conjugada, a sorocon-versão para todos os 7 sorotipos é maior que 90% em crianças hígidas.
 
 d) Indicações 
 A vacina é indicada pela SBP, quando disponível, a todas as crianças entre 2 e 23 meses e àquelas entre 24 e 59 meses e que apresentam risco de doença pneumocócica. As indicações da vacina pneumocócica pelos CRIEs são:
-Vacina pneumocócica conjugada heptavalente
+Vacina pneumocócica conjugada heptavalente:
 Crianças <2 anos com:
 Doenças pulmonares ou cardiovasculares crônicas graves;
 Insuficiência renal crônica e síndrome nefrótica; 
@@ -663,7 +679,7 @@ Fístula liquórica;
 Asplenia congênita ou adquirida, hemoglobinopatias;
 Imunodeficiência congênita ou adquirida, inclusive HIV;
 Neoplasias.
-Vacina contra pneumococo 23-valente
+Vacina contra pneumococo 23-valente:
 Crianças >2 anos e adolescentes com: 
 Doenças pulmonares ou cardiovasculares crônicas graves;
 Insuficiência renal crônica e síndrome nefrótica;
@@ -675,45 +691,48 @@ Transplante de medula óssea;
 Imunodeficiência congênita ou adquirida, inclusive HIV.
 
 Importante 
-No caso de esplenectomia eletiva, a vacina contra pneumococo deve ser aplicada, pelo menos, 2 semanas antes da cirurgia. Da mesma forma, o intervalo entre a vacinação e o início da quimioterapia deve ser de, no mínimo, 2 semanas. A revacinação de asplênicos e daqueles com síndrome nefrótica deve ser após 3 anos para crianças entre 3 e 10 anos e, para maiores que 10 anos, 1 vez a cada 5 anos.
+No caso de esplenectomia eletiva, a vacina contra pneumococo deve ser aplicada, pelo menos, 2 semanas antes da cirur-gia. Da mesma forma, o intervalo entre a vacinação e o início da quimioterapia deve ser de, no mínimo, 2 semanas. A re-vacinação de asplênicos e daqueles com síndrome nefrótica deve ser após 3 anos para crianças entre 3 e 10 anos e, para maiores de 10 anos, 1 vez a cada 5 anos.
 
 e) Contraindicações para vacina pneumocócica 23-valente 
-Para crianças menores de 2 anos, na doença febril aguda e em caso de alergia aos componentes da vacina. A vacina 23-valente deve ser aplicada aos 2 anos e necessita de reforço a cada 5 anos. Em indivíduos HIV positivo, além da 1ª dose aos 2 anos, deve ser aplicada nova dose aos 5. Deve-se notar, novamente, que essas vacinas não protegem contra todos os sorotipos de pneumococos.
+Para crianças menores de 2 anos, na doença febril aguda e em caso de alergia aos componentes da vacina. A vacina 23-valente deve ser aplicada aos 2 anos e necessita de reforço a cada 5 anos. Em indivíduos HIV positivo, além da 1ª dose aos 2 anos, deve ser aplicada nova dose aos 5. Deve-se notar, novamente, que essas vacinas não protegem contra todos os soroti-pos de pneumococos.
 
 f) Efeitos adversos 
 23-valente: 
 Locais: eritema, enduração e dor; 
 Sistêmicos: podem ocorrer febre baixa, astenia, cefaleia e mialgia, mais intensos e mais comuns na revacinação;
 Alérgicos: é rara a anafilaxia.
+
 Pnc7:
 Locais: rubor, enduração e dor de intensidade leve; 
 Sistêmicos: descrevem-se irritabilidade, sonolência e choro excessivo, porém de intensidade leve; 
 Alérgicos: é rara a anafilaxia. 
+
 Pnc10:
 Locais: rubor no local da injeção;
 Sistêmicas: irritabilidade, sonolência, perda de apetite e febre.
 
 Tabela 6 - Vacinação pneumocócica conjugada heptavalente e polissacarídica 23-valente
-Composições	Início da aplicação
+Composições	Início da 
+aplicação
 (idade)	Doses/esquema básico	Reforços	Vias de 
 aplicação
-Polissacarídeo pneumo-cócico de 7 sorotipos (4, 9V, 14, 18C, 19F e 23F, 6B) conjugado a proteí-na carreadora	A partir dos 2 meses até 59 meses	- Criança <1 ano;
+Polissacarídeo pneumocócico de 7 sorotipos (4, 9V, 14, 18C, 19F e 23F, 6B) conjugado a proteína carreadora	A partir dos 2 me-ses até 59 meses	- Criança <1 ano;
 - Início entre 2 e 6 meses: 3 doses com intervalos de 60 dias (mínimo: 30 dias);
 - Início entre 7 e 11 meses: 2 doses com intervalos de 60 dias (mínimo: 30 dias).	- 1 dose heptavalente entre 12 e 15 meses;
 - Após 24 meses:
-·	1º reforço 23-valente (mí-nimo de 6 a 8 semanas após a última dose heptava-lente);
-· 2º reforço 23-valente (5 anos após 1º reforço).	Intramuscular
+·	1º reforço 23-valente (mínimo de 6 a 8 semanas após a últi-ma dose heptavalente);
+· 2º reforço 23-valente (5 anos após 1º reforço).	Intramuscu-lar
 		- Criança >1 ano;
-- Início entre 12 e 59 meses: 2 doses com intervalos de 60 dias (mínimo: 30 dias).	- Após 24 meses:
-· 1º reforço 23-valente (mí-nimo de 6 a 8 semanas após última dose heptava-lente);
+- Início entre 12 e 59 me-ses: 2 doses com interva-los de 60 dias (mínimo: 30 dias).	- Após 24 meses:
+· 1º reforço 23-valente (mínimo de 6 a 8 semanas após última dose heptavalente);
 · 2º reforço 23-valente (5 anos após 1º reforço).	
-Polissacarídeo pneumo-cócico purificado de 23 sorotipos	A partir de 5 anos 	1 dose	1 dose após 3 a 5 anos	
+Polissacarídeo pneumocócico puri-ficado de 23 soroti-pos	A partir de 2 anos 	1 dose	1 dose após 3 a 5 anos	
 Fonte: Orientações técnicas dos CRIEs, 2011.
 
 N - Antirrábica
-A raiva é uma encefalite grave causada por um vírus do gênero Lyssavirus, caracterizada por sintomatologia nervosa que acomete animais e seres humanos. É transmitida por mamíferos (os únicos animais suscetíveis ao vírus e capazes de transmiti-lo) como cão, gato, rato e outros, por meio da mordedura ou lambedura de animais raivosos sobre a mucosa ou pele lesionada. 
-Os animais silvestres são reservatórios primários para a raiva na maior parte do mundo, mas os domésticos de estimação são as principais fontes de transmissão para os seres humanos. O homem recebe o vírus da raiva, ao ser mordido, pelo contato com a saliva do animal enfermo, bastando que o líquido encontre uma porta de entrada (corte, ferida ou arranhão). Após penetrar, o vírus dirige-se sempre ao sistema nervoso central, produzindo as principais alterações inicialmente vistas no infectado, como diversas formas de encefalite (espasticidade, demência ou paralisia), que quase sempre levam à morte. 
-Raramente o enfermo sobrevive à doença, e a única conduta eficaz é a profilaxia, a ser iniciada o mais rapidamente possível, ao menor risco de contaminação
+A raiva é uma encefalite grave causada por um vírus do gênero Lyssavirus, caracterizada por sintomatologia nervosa que acomete animais e seres humanos. É transmitida por mamíferos (os únicos animais suscetíveis ao vírus e capazes de transmiti-lo) como cão, gato, rato e outros, por meio da mordedura ou lambedura de animais raivosos sobre a mucosa ou pele lesiona-da. 
+Os animais silvestres são reservatórios primários para a raiva na maior parte do mundo, mas os domésticos de estimação são as principais fontes de transmissão para os seres humanos. O homem recebe o vírus da raiva, ao ser mordido, pelo conta-to com a saliva do animal enfermo, bastando que o líquido encontre uma porta de entrada (corte, ferida ou arranhão). Após penetrar, o vírus dirige-se sempre ao sistema nervoso central, produzindo as principais alterações inicialmente vistas no in-fectado, como diversas formas de encefalite (espasticidade, demência ou paralisia), que quase sempre levam à morte.
+Raramente o enfermo sobrevive à doença, e a única conduta eficaz é a profilaxia, a ser iniciada o mais rapidamente possí-vel, ao menor risco de contaminação.
 
 Tratamento
 O tratamento da raiva deve ser adaptado à natureza da exposição e ao estado do animal. Na dependência dos fatores, estão o uso de soro antirrábico e a aplicação de 5 doses da vacina.
@@ -722,26 +741,24 @@ a) Composição
 A vacina humana usada de rotina no Brasil é a denominada cultivo celular (vírus cultivados e depois inativados). Não há contraindicação para o uso da vacina antirrábica. Sempre que possível, recomenda-se interrupção do uso de corticoide e imunossupressores.
 
 b) Efeitos adversos
-As reações adversas após a vacinação podem ser locais (dor, vermelhidão, edema e prurido) e, em geral, são de intensidade leve e tendem a desaparecer espontaneamente em 48 horas. Raramente pode haver reações sistêmicas, como febre moderada, cefaleia, mialgia, astenia, desconforto generalizado ou aumento de gânglios após a vacinação.
+As reações adversas após a vacinação podem ser locais (dor, vermelhidão, edema e prurido) e, em geral, são de intensi-dade leve e tendem a desaparecer espontaneamente em 48 horas. Raramente pode haver reações sistêmicas, como febre moderada, cefaleia, mialgia, astenia, desconforto generalizado ou aumento de gânglios após a vacinação.
 
 c) Indicações
 Na profilaxia pós-exposição, além da vacina, pode ser necessária a Ig antirrábica. É usada a Ig humana ou a equina, esta comumente chamada SAR, um produto seguro, mas que pode causar eventos adversos. Os principais, porém raros, são o choque anafilático (até 2 horas após a administração) e a doença do soro (entre 5 e 14 dias após). A Ig humana antirrábica (IgHR), por sua vez, é mais segura, sem maiores riscos, mas de produção limitada e custo muito alto.
 
 Tabela 7 - Indicações da imunoglobulina humana antirrábica pelos Centros de Referência para Imunobiológicos Especiais
-- Indivíduos com algum tipo de hipersensibilidade quando do uso de soro heterólogo (antitetânico, antirrábico, antidiftérico); 
+- Indivíduos com algum tipo de hipersensibilidade ao uso de soro heterólogo (antitetânico, antirrábico, antidiftérico); 
 - Indivíduos que não completaram esquema antirrábico por eventos adversos à vacina;
 - Indivíduos imunodeprimidos: na situação de pós-exposição, sempre que há indicação de vacinação antirrábica.
 
 d) Profilaxia
-A profilaxia pós-exposição é feita, basicamente, de 2 formas, na dependência do tipo de exposição: vacinação (apenas vacina) e sorovacinação (usando Igs e vacina). Independente da forma, devem ser seguidas algumas orientações básicas:
-O tratamento deve ser iniciado o mais precocemente possível. Em caso de interrupção de tratamento, ao reiniciá-lo, devem-se completar as doses prescritas, e não iniciar nova série;
+A profilaxia pós-exposição é feita, basicamente, de 2 formas, na dependência do tipo de exposição: vacinação (apenas va-cina) e sorovacinação (usando Igs e vacina). Independente da forma, devem ser seguidas algumas orientações básicas:
+O tratamento deve ser iniciado o mais precocemente possível. Em caso de interrupção de tratamento, ao reiniciá-lo, de-vem-se completar as doses prescritas, e não iniciar nova série;
 Entre as pessoas com história de tratamento anterior, nunca se indica SAR;
 No tratamento profilático humano, não se considera o estado vacinal do animal agressor;
-Indica-se o tratamento de acordo com a gravidade do acidente: vacinação em acidentes leves e sorovacinação em acidentes graves;
+Indica-se o tratamento de acordo com a gravidade do acidente: vacinação em acidentes leves e sorovacinação em aciden-tes graves;
 Independente da classificação quanto à gravidade do acidente, o animal deve ser mantido em observação por 10 dias.
-O critério de gravidade do acidente considera a extensão e a profundidade da lesão e a procedência do animal. Quando utilizada a vacina de cultivo celular, deve ser feita a correspondência conforme indicado a seguir:
-Aplicar 3 doses e observar o cão ou o gato;
-1 dose nos dias zero, 3 e 7.
+O critério de gravidade do acidente considera a extensão e a profundidade da lesão e a procedência do animal. Quando utilizada a vacina de cultivo celular, deve ser feita a correspondência conforme indicado na Tabela 8.
 
 e) Esquema vacinal
 Vacinação: 
@@ -757,56 +774,58 @@ Vacinas de cultivo celular (2 doses): aplicar 1 dose nos dias zero e 3.
 Tabela 8 - Indicações gerais, com a vacina de cultivo celular, de acordo com o Ministério da Saúde
 	Agentes e situações possíveis
 Tipo de exposição	Cão ou gato sem suspeita de raiva no momento da agressão	Cão ou gato clinicamente 
-suspeito de raiva no momento da agressão	- Cão ou gato raivoso, 
+suspeito de raiva no mo-mento da agressão	- Cão ou gato raivoso, 
 desaparecido ou morto;
 - Animais silvestres (inclusive os domiciliados);
-- Animais domésticos de interesse econômico ou de produção.
+- Animais domésticos de in-teresse econômico ou de produção.
 Contato indireto	- Lavar com água e sabão;
 - Não tratar.	- Lavar com água e sabão;
 - Não tratar.	- Lavar com água e sabão;
 - Não tratar.
 Acidentes leves:
-- Ferimentos superficiais, pouco extensos, geralmente únicos, em tronco e mem-bros (exceto mãos e polpas digitais e planta dos pés); podem acontecer em decor-rência de mordeduras ou arranhaduras causadas por unha ou dente;
+- Ferimentos superficiais, pouco extensos, geral-mente únicos, em tronco e membros (exceto mãos e polpas digitais e planta dos pés); podem aconte-cer em decorrência de mordeduras ou arranha-duras causadas por unha ou dente;
 -	Lambedura de pele com lesões superficiais.	- Lavar com água e sabão;
 - Observar o animal durante 10 dias após a exposição;
-- Se o animal permanecer sadio no período de observação, en-cerrar o caso;
-- Se o animal morrer, desapare-cer ou se tornar raivoso, admi-nistrar 5 doses de vacina (dias zero, 3, 7, 14 e 28).	- Lavar com água e sabão;
+- Se o animal permanecer sadio no período de obser-vação, encerrar o caso;
+- Se o animal morrer, desapa-recer ou se tornar raivoso, administrar 5 doses de vaci-na (dias zero, 3, 7, 14 e 28).	- Lavar com água e sabão;
 -	Iniciar esquema profilático com 2 doses, uma no dia zero e outra no dia 3;
 - Observar o animal durante 10 dias após a exposição;
-- Se a suspeita de raiva for descartada após o 10º dia de observação, suspender o es-quema profilático e encerrar o caso;
-- Se o animal morrer, desapare-cer ou se tornar raivoso, com-pletar o esquema até 5 doses. Aplicar 1 dose entre o 7º e o 10º dias e 1 dose nos dias 14 e 28.	- Lavar com água e sabão;
-- Iniciar imediatamente o esque-ma profilático com 5 doses de vacina administradas nos dias zero, 3, 7, 14 e 28.
+- Se a suspeita de raiva for descartada após o 10º dia de observação, suspender o esquema profilático e en-cerrar o caso;
+- Se o animal morrer, desa-parecer ou se tornar raivo-so, completar o esquema até 5 doses. Aplicar 1 dose entre o 7º e o 10º dias e 1 dose nos dias 14 e 28.	- Lavar com água e sabão;
+- Iniciar imediatamente o es-quema profilático com 5 doses de vacina administradas nos dias zero, 3, 7, 14 e 28.
 Acidentes graves:
--	Ferimentos na cabeça, face, pescoço, mãos, polpas digi-tais e/ou planta do pé;
+-	Ferimentos na cabeça, face, pescoço, mãos, pol-pas digitais e/ou planta do pé;
 -	Ferimentos profundos, múltiplos ou extensos, em qualquer região do corpo;
 - Lambedura de mucosas;
 -	Lambedura de pele onde já existe lesão grave;
--	Ferimento profundo causado por unha de animal.	- Lavar com água e sabão;
+-	Ferimento profundo cau-sado por unha de animal.	- Lavar com água e sabão;
 - Observar o animal durante 10 dias após a exposição;
--	Iniciar esquema profilático com 2 doses, uma no dia zero e outra no dia 3;
-- Se o animal permanecer sadio no período de observação, en-cerrar o caso;
-- Se o animal morrer, desapare-cer ou se tornar raivoso, dar continuidade ao esquema pro-filático, administrando o soro e completando o esquema até 5 doses. Aplicar 1 dose entre o 7º e o 10º dias e 1 dose nos dias 14 e 28.	- Lavar com água e sabão;
-- Iniciar o esquema profilático com soro e 5 doses de vacina nos dias zero, 3, 7, 14 e 28;
+-	Iniciar esquema profilático com 2 doses, uma no dia ze-ro e outra no dia 3;
+- Se o animal permanecer sadio no período de obser-vação, encerrar o caso;
+- Se o animal morrer, desapa-recer ou se tornar raivoso, dar continuidade ao esque-ma profilático, administran-do o soro e completando o esquema até 5 doses. Apli-car 1 dose entre o 7º e o 10º dias e 1 dose nos dias 14 e 28.	- Lavar com água e sabão;
+- Iniciar o esquema profiláti-co com soro e 5 doses de vacina nos dias zero, 3, 7, 14 e 28;
 - Observar o animal durante 10 dias após a exposição;
-- Se a suspeita de raiva for descartada após o 10º dia de observação, suspender o es-quema profilático e encerrar o caso.	- Lavar com água e sabão;
-- Iniciar imediatamente o esque-ma profilático com soro e 5 do-ses de vacina administradas nos dias zero, 3, 7, 14 e 28.
+- Se a suspeita de raiva for descartada após o 10º dia de observação, suspender o esquema profilático e en-cerrar o caso.	- Lavar com água e sabão;
+- Iniciar imediatamente o es-quema profilático com soro e 5 doses de vacina administra-das nos dias zero, 3, 7, 14 e 28.
 Observação: todo acidente com morcego é considerado grave, mesmo que seja apenas contato com saliva, dada a alta carga de vírus nesse animal.
 
 O - HPV 
-Duas vacinas contra o papilomavírus humano (HPV) foram recentemente aprovadas no mundo para a prevenção do câncer de colo uterino: a bivalente Cervarix®, que cobre os sorotipos virais 16 e 18, e a quadrivalente Gardasil®, que cobre os tipos 6, 11, 16 e 18. Contêm a proteína L1 do capsídeo viral, produzida por tecnologia recombinante para a obtenção de partículas análogas às virais dos tipos oncogênicos mais comuns de HPV. As 2 vacinas contêm um sistema adjuvante específico dos seus fabricantes para aumentar a resposta imunológica: a Cervarix® contém sal de alumínio e agonista do receptor; a Gardasil® contém só o sal de alumínio. É por isso que a primeira ocasiona resposta inicial de anticorpos significativamente maior que a obtida pela última e que essa resposta superior persiste por pelo menos 4 anos. Os papilomavírus humanos tipos 6 e 11 são responsáveis por 90% das verrugas genitais, enquanto os tipos 16 e 18 são responsáveis por 70% dos casos de câncer cervical.
-O PNI adotou no Brasil, em 2014, esquema de vacinação estendido: 0, 6 e 60 meses com a vacina quadrivalente (6, 11, 16 e 18). A população-alvo da vacinação com a vacina HPV, de acordo com o PNI, é composta por adolescentes do sexo feminino na faixa etária entre 11 e 13 anos no ano da introdução da vacina (2014), na faixa etária de 9 a 11 anos no 2º ano (2015) e de 9 anos do 3º ano (2016) em diante.
+Duas vacinas contra o papilomavírus humano (HPV) foram recentemente aprovadas no mundo para a prevenção do cân-cer de colo uterino: a bivalente Cervarix®, que cobre os sorotipos virais 16 e 18, e a quadrivalente Gardasil®, que cobre os tipos 6, 11, 16 e 18. Ambas contêm a proteína L1 do capsídeo viral, produzida por tecnologia recombinante para a obtenção de partículas análogas às virais dos tipos oncogênicos mais comuns de HPV. As 2 vacinas contêm um sistema adjuvante especí-fico dos seus fabricantes para aumentar a resposta imunológica: a Cervarix® contém sal de alumínio e agonista do receptor; a Gardasil® contém só o sal de alumínio. É por isso que a primeira ocasiona resposta inicial de anticorpos significativamente maior que a obtida pela última e que essa resposta superior persiste por pelo menos 4 anos. Os papilomavírus humanos tipos 6 e 11 são responsáveis por 90% das verrugas genitais, enquanto os tipos 16 e 18 são responsáveis por 70% dos casos de câncer cervical.
+Em 2017 serão vacinados meninas de 9 a 14 anos de idade e meninos de 12 a 13 anos de idade, com esquema de 2 doses com intervalos de 6 meses entre elas. A faixa etária será ampliada, gradativamente, até 2020, quando serão incluídos os me-ninos com 9 anos até 13 anos de idade.
+
 - Esquema vacinal e indicações
-Vacina quadrivalente (sorotipos 6, 11, 16 e 18): esquema de intervalos de zero-2-6 meses, indicada para meninas, me-ninos e jovens de 9 a 26 anos de idade;
-Vacina bivalente (sorotipos 16 e 18): esquema de intervalos de zero-1-6 meses, indicada para meninas a partir de 9 anos, sem idade limite. 
+Vacina quadrivalente (sorotipos 6, 11, 16 e 18): esquema de intervalos de zero-2-6 meses, indicada para meninas, meni-nos e jovens de 9 a 26 anos de idade;
+Vacina bivalente (sorotipos 16 e 18): esquema de intervalos de zero-1-6 meses, indicada para meninas a partir de 9 anos, sem idade limite.
 A vacina quadrivalente foi incluída em 2014 no calendário nacional, disponível gratuitamente na rede pública, para ado-lescentes de 9 a 13 anos. 
 
-7. Calendário vacinal
+7. Calendário vacinal 
 
 BCG: contra a tuberculose;
 Poliomielite: contra a poliomielite 1, 2 e 3 – VOP (atenuada) e VIP (inativada);
 Hepatite B: contra a hepatite B (recombinante);
+Hepatite A: contra a hepatite A (inativa);
 DTP-Hib: adsorvida contra difteria, tétano, pertussis e Hib (conjugada);
-Pentavalente (DPT + Hib + hepatite B): adsorvida contra difteria, tétano, pertussis, Hib (conjugada) e hepatite recombinante;
+Pentavalente (DPT + Hib + hepatite B): adsorvida contra difteria, tétano, pertussis, Hib (conjugada) e hepatite recombinan-te;
 RV: contra RV humano G1P1[8] (atenuada);
 Pneumocócica 10-valente: pneumocócica 10-valente (conjugada);
 Meningocócica C: meningocócica C (conjugada);
@@ -814,83 +833,76 @@ Febre amarela: contra a febre amarela (atenuada);
 Sarampo, caxumba e rubéola: contra sarampo, caxumba e rubéola;
 Sarampo, caxumba, rubéola e varicela (TETRA viral): contra sarampo, caxumba, rubéola e varicela;
 DTP: adsorvida contra difteria, tétano e pertussis;
-dT: adsorvida contra difteria e tétano tipo adulto.   
+dT: adsorvida contra difteria e tétano tipo adulto; 
+HPV: contra HPV sorotipos 6, 11, 16 e 18 (recombinante).  
 
-Tabela 9 - Calendário proposto pelo Ministério da Saúde, 2015
+Tabela 9 - Calendário proposto pelo Ministério da Saúde, 2016
 Ao nascer	BCG-ID	Dose única
 	Hepatite B	1ª dose
 2 meses	DTP + Hib + hepatite B (pentavalente)	1ª dose
-	Vacina Inativada contra Poliomielite (VIP)	1ª dose
+	VIP	1ª dose
 	Vacina oral RV humano	1ª dose
 	Vacina pneumocócica 10-valente	1ª dose
 3 meses	Vacina meningocócica C	1ª dose
 4 meses	DTP + Hib + hepatite B (pentavalente)	2ª dose
-	Vacina Inativada contra Poliomielite (VIP)	2ª dose
+	VIP	2ª dose
 	Vacina oral RV humano	2ª dose
 	Vacina pneumocócica 10-valente	2ª dose
 5 meses	Vacina meningocócica C	2ª dose
 6 meses	DTP + Hib + hepatite B (pentavalente)	3ª dose
-	Vacina oral poliomielite VOP	3ª dose
+	VIP	3ª dose
 	Vacina pneumocócica 10-valente	3ª dose
 9 meses	Febre amarela	Dose inicial
 12 meses	Tríplice viral	1ª dose
-	Hepatite A	Dose única
 	Vacina pneumocócica 10-valente	Reforço
+	Vacina meningocócica C	 Reforço
 15 meses	Tríplice bacteriana (DTP)	1º reforço
 	TETRA viral	Dose única
-	Vacina Oral contra Poliomielite (VOP)	Reforço
-	Meningocócica C	
-4 anos	Tríplice bacteriana (DTP)	2ª reforço
-	Tríplice viral	2ª dose
+	VOP	Reforço
+	 Hepatite A	 1 dose
+4 anos	VOP	Reforço
+	Tríplice bacteriana (DTP)	2ª reforço
+	Febre amarela	2ª dose
 10 anos a 19 anos – ado-lescente	Febre amarela	1 dose a cada 10 anos
-	Dupla adulto	1 dose a cada 10 anos
-	Tríplice viral	2 doses se não tiver recebido esquema quando menor
-	Hepatite B 	3 doses se não tiver recebido esquema quando menor
-	HPV	3 doses (meninas entre 9 e 11 anos)
+	Dupla adulto	
+	Tríplice viral	2 doses se não tiver recebido esque-ma quando menor
+	Hepatite B 	3 doses se não tiver recebido esque-ma quando menor
+	HPV	Em 2017, vacinação para meninas de 9 a 14 anos e meninos de 12 a 13 anos de idade, com esquema de 2 doses com intervalos de 6 meses en-tre elas
 
 A - Vacinas em atraso
 
-Pergunta
-2015 - UFRJ
-1. De acordo com o calendário atual do Programa Nacional de Imunizações, da caderneta de vacinação de um lactente sau-dável de 7 meses devem constar as seguintes vacinas e suas respectivas doses:
-a) 2 doses da poliomielite oral, 1 dose da poliomielite inativada e 2 doses da vacina oral rotavírus humano
-b) 2 doses da poliomielite inativada, 1 dose da poliomielite oral e 3 doses da vacina oral rotavírus humano
-c) 2 doses da poliomielite oral, 1 dose da poliomielite inativada e 2 doses da vacina oral rotavírus humano
-d) 2 doses da poliomielite inativada, 1 dose da poliomielite oral e 2 doses da vacina oral rotavírus humano
-Resposta no final do capítulo
-
 A administração simultânea de vacinas não compromete a eficácia nem a segurança delas – quando possível, prefere-se a aplicação em diferentes locais. Essa informação é importante, sobretudo, em crianças com vacinação incompleta. No caso em que o esquema de vacinação para determinada doença já tenha sido iniciado e esteja atrasado, não é necessário o reinício de todo o esquema, apenas a continuidade da programação, respeitando os intervalos mínimos entre as doses de cada produto. As crianças maiores de 7 anos não devem receber as vacinas de células inteiras contra a coqueluche; seu esquema deve ser iniciado com a vacina contra a tuberculose, dupla adulto, contra poliomielite e sarampo, caxumba e rubéola. 
-Algumas vacinas já têm sido produzidas em associação a outras, com o objetivo de facilitar a administração de múltiplas vacinas em uma mesma época, utilizando-se menor número de injeções. É o caso da tríplice bacteriana, que, atualmente, tem sido associada à vacina contra Haemophilus influenzae e contra hepatite B, originando a vacina pentavalente.
+Algumas vacinas já têm sido produzidas em associação a outras, com o objetivo de facilitar a administração de múltiplas va-cinas em uma mesma época, utilizando-se menor número de injeções. É o caso da tríplice bacteriana, que, atualmente, tem sido associada a vacina contra Haemophilus influenzae e contra hepatite B, originando a vacina pentavalente.
 
 B - Vacinação do adolescente
-Embora muitos adolescentes estejam suscetíveis às várias doenças para as quais as vacinas são muito eficientes, comumente a imunização deles se torna negligenciada. Na família e no serviço de saúde, prevalece o entendimento de que as vacinas se destinam apenas às crianças. Estas, quando acometidas por doença infecciosa, trazem preocupação à família e ao médico e se afastam temporariamente da recreação. Já os adolescentes, afetados pela doença, têm como consequência o desligamento provisório de suas atividades estudantis e/ou profissionais, além da dificuldade em conseguir que mantenham repouso e obedeçam às prescrições, tendo em vista que se pode encontrar uma natural rebeldia. 
-A necessidade de averiguar sobre as vacinas que o jovem recebeu deve estar sempre na ação primária. Quando o adolescente está com o esquema vacinal incompleto ou não recebeu nenhuma vacina, é importante que receba as vacinas indicadas para a sua idade. Os acidentes de toda ordem estão entre as primeiras causas de morbidade na adolescência, sobretudo no sexo masculino. Sendo assim, o jovem deve estar protegido com esquema de vacinação antitetânica. A rubéola congênita pode levar transtornos irreversíveis ao feto. Nas epidemias de sarampo que têm ocorrido nas Américas, parte importante das mortes ocorreu em adolescentes não protegidos com a vacina. A hepatite A é endêmica no Brasil, e a hepatite B implica ao portador risco de carcinoma hepático. A atual aquisição do calendário do adolescente é a vacina contra o HPV (anti-HPV).
+Embora muitos adolescentes estejam suscetíveis às várias doenças para as quais as vacinas são muito eficientes, comu-mente a imunização deles se torna negligenciada. Na família e no serviço de saúde, prevalece o entendimento de que as vacinas se destinam apenas às crianças. Estas, quando acometidas por doença infecciosa, trazem preocupação à família e ao médico e se afastam temporariamente da recreação. Já os adolescentes, afetados pela doença, têm como consequência o desligamento provisório de suas atividades estudantis e/ou profissionais, além da dificuldade em conseguir que mantenham repouso e obedeçam às prescrições, tendo em vista que se pode encontrar uma natural rebeldia. 
+A necessidade de averiguar sobre as vacinas que o jovem recebeu deve estar sempre na ação primária. Quando o adoles-cente está com o esquema vacinal incompleto ou não recebeu nenhuma vacina, é importante que receba as vacinas indica-das para a sua idade. Os acidentes de toda ordem estão entre as primeiras causas de morbidade na adolescência, sobretudo no sexo masculino. Sendo assim, o jovem deve estar protegido com esquema de vacinação antitetânica. A rubéola congênita pode levar transtornos irreversíveis ao feto. Nas epidemias de sarampo que têm ocorrido nas Américas, parte importante das mortes ocorreu em adolescentes não protegidos com a vacina. A hepatite A é endêmica no Brasil, e a hepatite B implica ao portador risco de carcinoma hepático. A atual aquisição do calendário do adolescente é a vacina contra o HPV (anti-HPV).
 
 C - Imunização do RN prematuro
 
-a) 	Crianças nascidas com menos de 2.000g ou 33 semanas de idade gestacional:
-Mais 1 dose de vacina contra a hepatite B deve ser acrescentada ao esquema habitual, no 2º mês de vida – esquema zero, 30, 60 e 180 dias.
+a) Crianças nascidas com menos de 2.000g ou 33 semanas de idade gestacional
+Segundo a Sociedade Brasileira de Imunizações, deve-se realizar obrigatoriamente 4 doses da vacina para hepatite B (es-quema zero-2-4-6 meses ou zero-1-2-6 meses), sendo a 1ª dose nas primeiras 12 horas de vida. 
 
-b) 	Crianças nascidas com menos de 1.000g ou menos de 31 semanas de gestação (prematuro extremo), para a 1ª dose:
+b) Crianças nascidas com menos de 1.000g ou menos de 31 semanas de gestação (prematuro extremo), para a 1ª dose
 DTP acelular, aplicando-se a Hib 15 dias depois; 
 VIP. 
 As demais doses podem ser feitas de acordo com a rotina. 
 
-c) 	Crianças nascidas com menos de 35 semanas de gestação e que tenham necessitado de ventilação mecânica ou pres-são positiva contínua nas vias aéreas durante o período neonatal e que sejam menores de 1 ano: 
+c) 	Crianças nascidas com menos de 35 semanas de gestação e que tenham necessitado de ventilação mecânica ou pressão positiva contínua nas vias aéreas durante o período neonatal e que sejam menores de 1 ano
 Imunobiológicos de uso eventual na unidade neonatal.
-O uso de Ig anti-hepatite B (IgHAHB) já foi discutido com a vacina hepatite B. Entretanto, ressalte-se o uso de Ig antivaricela-zóster (IgHVZ), indicado nas seguintes situações:
+O uso de Ig anti-hepatite B (IgHAHB) já foi discutido com a vacina hepatite B. Entretanto, ressalte-se o uso de Ig antivarice-la-zóster (IgHVZ), indicado nas seguintes situações:
 RNs cuja mãe tenha apresentado quadro clínico de varicela 5 dias antes até 2 dias depois do parto;
-Prematuros nascidos entre 28 e 36 semanas de gestação expostos à varicela, quando a mãe tem história negativa para esta;
-Prematuros nascidos com menos de 28 semanas de gestação ou com menos de 1.000g de peso expostos à varicela, in-dependentemente da história materna desta.
+Prematuros nascidos entre 28 e 36 semanas de gestação expostos à varicela, quando a mãe tem história negativa para es-ta;
+Prematuros nascidos com menos de 28 semanas de gestação ou com menos de 1.000g de peso expostos à varicela, inde-pendentemente da história materna desta.
 A dose é de 125U IM.
 
 D - Crianças infectadas com o HIV
 A programação vacinal para tais crianças não difere muito da programação básica, desde que não estejam gravemente doentes. Devem receber a vacina antipneumocócica conjugada heptavalente com 2, 4 e 6 meses, e um reforço aos 15 meses. Devem receber, também, a 23-valente com 24 meses e reforço com 5 anos. 
 
 E - Gestantes 
-Não tem sido demonstrado que as vacinas utilizadas atualmente, inclusive as de vírus vivo, possam acarretar problemas ao feto, muito embora não haja recomendação por parte dos fabricantes devido ao risco teórico. As vacinas contra tétano e difteria são administradas de rotina, devendo ser administradas precocemente e, no máximo, 20 dias antes da data provável do parto. As gestantes suscetíveis expostas à varicela ou com contato físico com herpes-zóster devem receber Ig antivaricela-zóster a qualquer momento da gravidez. Já as gestantes suscetíveis expostas à hepatite B devem ser tratadas com os esquemas habituais de exposição à hepatite, incluindo vacina e Ig, se necessário. Atualmente o Ministério da Saúde recomenda 1 dose de DTPa a todas as gestantes a partir da 27ª semana de gestação, mesmo quando o esquema vacinal está completo. Essa vacina visa reduzir os quadros de coqueluche nessa população e nos lactentes.
+Não tem sido demonstrado que as vacinas utilizadas atualmente, inclusive as de vírus vivo, possam acarretar problemas ao feto, muito embora não haja recomendação por parte dos fabricantes devido ao risco teórico. As vacinas contra tétano e difteria são administradas de rotina, devendo ser administradas precocemente e, no máximo, 20 dias antes da data provável do parto. As gestantes suscetíveis expostas à varicela ou com contato físico com herpes-zóster devem receber Ig antivaricela-zóster a qualquer momento da gravidez. Já as gestantes suscetíveis expostas à hepatite B devem ser tratadas com os esque-mas habituais de exposição à hepatite, incluindo vacina e Ig, se necessário. Atualmente o Ministério da Saúde recomenda 1 dose de DTPa a todas as gestantes a partir da 27ª semana de gestação, mesmo quando o esquema vacinal está completo. Essa vacina visa reduzir os quadros de coqueluche nessa população e nos lactentes.
 
-8. Resumo
+Resumo
 
 Quadro-resumo
 Imunização
@@ -930,61 +942,66 @@ Tipos de vacinas
 Contraindicações em vacinação
 - Verdadeiras:
 · Reação de hipersensibilidade imediata;
-· Encefalopatia verdadeira e encefalites sem causa identificável, nos primeiros 7 dias da vacinação DPT e DTPa, com o componente per-tussis;
+· Encefalopatia verdadeira e encefalites sem causa identificável, nos primeiros 7 dias da vacinação DPT e DTPa, com o componente pertussis;
 · Imunossupressão para vacinas de bactérias atenuadas ou vírus atenuados;
 · Gravidez;
 · Enfermidade aguda, moderada ou grave, acompanhada ou não de febre.
-Vacinas de acordo com calendário proposto pelo Ministério da Saúde, 2015
+Vacinas de acordo com calendário proposto pelo Ministério da Saúde, 2016
 Vacinas	Tipos	Vias de 
-administração	Doses/idades	Contraindicações	Reações adversas
-BCG	Bactéria 
-Atenuada	SC	Única até 1º mês, preferencialmente ao nascimento	Imunodeficiência congênita e adquirida	- Locais;
+adminis-tração	Doses/
+idades	Contraindicações	Reações 
+adversas
+BCG	Bactéria atenuada	SC	Preferencialmente ao nascimento; aplicação da 1ª dose até os 4 anos, 11 meses e 29 dias	Imunodeficiência con-gênita e adquirida	- Locais;
 - Adenite axilar (10%).
 Hepatite B*	Antígeno HBsAg	IM	4 doses: zero, 2, 4, 6 meses; 2, 4, 6 feitas na pentavalente	Sem contraindicações formais à vacina	- Reações locais;
 - Febre.
 VOP	Vírus 
-atenuado	VO	2 doses: 6 e 15 meses e campanhas	Imunodeficiência congênita e adquirida	Pólio: 1:5 – 11 milhões 1ª dose e 1:10 – 67 milhões para o total de doses
+atenuado	VO	2 doses: 15 meses e 4 anos e campanhas	Imunodeficiência con-gênita e adquirida	Pólio: 1:5 – 11 milhões 1ª dose e 1:10 – 67 milhões para o total de doses
 VIP	Vírus 
-inativado	IM ou SC	2 doses: 2 e 4 meses	Sem contraindicações formais à vacina	--
+inativado	IM ou SC	3 doses: 2, 4 e 6 me-ses	Sem contraindicações formais à vacina	--
 RV 	Vírus 
-atenuado	VO	- 2 doses: 2 e 4 meses:
+atenuado	VO	- 2 doses: 2 e 4 me-ses:
 · 1ª: de 1 mês e 15 dias a 3 meses e 15 dias;
-· 2ª: de 3 meses e 15 dias a 7 meses e 29 dias.	- Imunodeficiência congê-nita ou adquirida; corti-costeroide em doses ele-vadas ou crianças subme-tidas a outras terapêuti-cas imunossupressoras;
-- História de doença gas-trintestinal crônica; mal-formação congênita do trato digestivo; história prévia de invaginação intestinal.	- Reação alérgica sistê-mica grave em até 2 horas; 
+· 2ª: de 3 meses e 15 dias a 7 meses e 29 dias.	- Imunodeficiência con-gênita ou adquirida; corticosteroide em do-ses elevadas ou crian-ças submetidas a ou-tras terapêuticas imu-nossupressoras;
+- História de doença gastrintestinal crônica; malformação congêni-ta do trato digestivo; história prévia de inva-ginação intestinal.	- Reação alérgica sistêmica grave em até 2 horas; 
 - Presença de sangue em fezes; invaginação intestinal; 
-- Abdome agudo obstru-tivo até 42 dias após vacina.
-DPT*	Toxoides tetâ-nico e diftérico inativados e bactérias mor-tas	IM	- 3 doses: 2, 4, 6 me-ses na pentavalente;
-- Reforço aos 15 me-ses e entre os 4 e 6 anos.	- Crianças maiores de 7 anos, crianças com qua-dro neurológico em ativi-dade e aquelas que após a 1ª aplicação apresen-tam convulsão dentro de 72 horas;
+- Abdome agudo obstrutivo até 42 dias após vacina.
+DPT*	Toxoides tetânico e diftérico inativados e bactérias mortas	IM	- 3 doses: 2, 4, 6 me-ses na pentavalente;
+- Reforço aos 15 me-ses e entre os 4 e 6 anos.	- Crianças maiores de 7 anos, crianças com quadro neurológico em atividade e aquelas que após a 1ª aplica-ção apresentam con-vulsão dentro de 72 horas;
 - Síndrome hipotônica hiporresponsiva até 48 horas após aplicação da vacina;
-- Encefalopatia nos primei-ros 7 dias após vacinação.	- Locais;
-- Sistêmicas: febre, mal-estar e irritabilidade podem ocorrer nas primeiras 24 a 48 ho-ras.
-Hib*	Polissacarídeo conjugado	IM	3 doses: 2, 4, 6 meses na pentavalente	Sem contraindicações formais à vacina	Eritema local e/ou febre baixa nas 24 horas se-guintes à administração
-Pneumocóci-ca 10-valente	Conjugada	IM	3 doses: 2, 4, 6 meses e reforço aos 12 me-ses	Sem contraindicações formais à vacina	- Local;
-- Sistêmicas: irritabili-dade, sonolência, per-da de apetite e febre.
-Meningocóci-ca C	Oligossacarí-deo conjugado	IM	2 doses: 3, 5 meses e reforço aos 15 meses	Sem contraindicações formais à vacina	- Local da injeção;
-- Cefaleia, choro e irrita-bilidade.
-Febre amare-la**	Vírus atenuado	SC	2 doses: 9 meses e 10 anos, com reforço a cada 10 anos	- Idade inferior a 6 meses;
-- História de reação anafi-lática à proteína do ovo;
-- Imunossupressão congê-nita ou adquirida.	- Eritema e dor local; 
+- Encefalopatia nos pri-meiros 7 dias após va-cinação.	- Locais;
+- Sistêmicas: febre, mal-estar e irritabilidade podem ocorrer nas primeiras 24 a 48 horas.
+Hib*	Polissacarí-deo conju-gado	IM	3 doses: 2, 4, 6 meses na pentavalente	Sem contraindicações formais à vacina	Eritema local e/ou febre baixa nas 24 horas seguintes à admi-nistração
+Pneumocóci-ca 10-valente	Conjugada	IM	2 doses: 2 e 4 meses e reforço aos 12 me-ses	Sem contraindicações formais à vacina	- Local;
+- Sistêmicas: irritabilidade, so-nolência, perda de apetite e febre.
+Meningocó-cica C	Oligossaca-rídeo conju-gado	IM	2 doses: 3, 5 meses e reforço aos 12 meses	Sem contraindicações formais à vacina	- Local da injeção;
+- Cefaleia, choro e irritabilida-de.
+Febre ama-rela**	Vírus 
+atenuado	SC	2 doses: 9 meses e 10 anos, com reforço a cada 10 anos	- Idade inferior a 6 me-ses;
+- História de reação ana-filática à proteína do ovo;
+- Imunossupressão con-gênita ou adquirida.	- Eritema e dor local; 
 - Cefaleia intensa;
-- Mialgia e febre alta podem aparecer nas primeiras 24 horas. 
-Tríplice viral	Vírus atenuado	SC	2 doses: 12 meses e entre os 4 e 6 anos	Sem contraindicações formais à vacina	Febre, artralgia e/ou artrite, exantema, paro-tidite até 21 dias após vacina, púrpura trombo-citopênica até 2 meses após a vacina
-TETRA viral	Vírus atenuado	SC	Dose única aos 15 meses	Sem contraindicações formais à vacina	Febre, artralgia e/ou artrite, exantema, paro-tidite até 21 dias após vacina, púrpura trombo-citopênica até 2 meses após a vacina
-Hepatite A	Vírus inativado	IM	Dose única (pelo SUS), entre 1 e 2 anos	Sem contraindicações formais à vacina	Dor local, rubor, tumefa-ção, cefaleia e febre
-HPV	Recombinante	IM	3 doses	Hipersensibilidade a com-ponentes da vacina e ges-tantes	Reações locais, febre, cefaleia e síncope
+- Mialgia e febre alta podem aparecer nas primeiras 24 ho-ras. 
+Tríplice viral	Vírus 
+atenuado	SC	2 doses: 12 meses e entre os 4 e 6 anos	Sem contraindicações formais à vacina	Febre, artralgia e/ou artrite, exantema, parotidite até 21 dias após vacina, púrpura trombocitopênica até 2 meses após a vacina
+TETRA viral	Vírus 
+atenuado	SC	Dose única aos 15 meses	Sem contraindicações formais à vacina	Febre, artralgia e/ou artrite, exantema, parotidite até 21 dias após vacina, púrpura trombocitopênica até 2 meses após a vacina
+Hepatite A	Vírus 
+inativado	IM	Dose única (pelo SUS), entre 1 e 2 anos	Sem contraindicações formais à vacina	Dor local, rubor, tumefação, cefaleia e febre
+HPV	Recombi-nante	IM	2 doses	Hipersensibilidade a componentes da vacina e gestantes	Reações locais, febre, cefaleia e síncope
 * Vacinas associadas na chamada pentavalente.
 ** Vacina indicada somente para crianças que residem ou que viajam para áreas endêmicas.
 Vacina pentavalente
 Situações	Vacina penta	Observação	Atenção
-Criança <1 mês não vacinada com hepatite B na maternidade (ao nascer)	Administrar D1 da hepatite B monovalente somente até 1 mês de vida. Agendar a D1 da vacina penta aos 2 meses e seguir o esquema vacinal da penta.	Nenhuma outra dose da vacina hepatite B monovalente deve ser aplicada e/ou registrada no campo específico dessa vacina.	A criança, ao completar o esquema vacinal com a vacina penta, terá recebido 4 doses da hepatite B, 1 com a vacina hepatite B e outras 3 com a vacina penta.
-Criança que, no momen-to da vacinação, está com 2 meses e já rece-beu D1 da vacina hepati-te B (monovalente)	A criança inicia esquema com a vacina penta (D1) e agenda as próximas doses (D2 e D3) se-guindo o intervalo preconizado. Registrar a dose aplicada na caixa específica da vacina penta conforme faixa etária e tipo de dose.	Nenhuma outra dose da vacina hepatite B monovalente deve ser aplicada e/ou registrada no campo específico dessa vacina.	A criança, ao completar o esquema vacinal com a vacina penta, terá recebido 4 doses da vacina HB, 1 com a vacina hepatite B monovalente e outras 3 com a vacina penta. 
-Criança com 2 meses a menor de 1 ano sem nenhuma dose da vacina TETRA ou hepatite B	A criança inicia esquema vacinal com a vacina penta (D1) e agen-da as próximas (D2 e D3). Regis-trar a dose aplicada na caixa específica da vacina penta.	Não é necessária a dose da vacina monovalente hepatite B.	A criança recebe 3 doses da vacina hepati-te B por meio da vacina penta.
-Criança <1 ano com 2 ou 3 doses da vacina hepati-te B monovalente e sem nenhuma dose da vacina TETRA ou DPT	A criança menor de 1 ano inicia esquema vacinal com a vacina penta (D1) e agenda as próximas doses seguindo esquema preco-nizado (D2 e D3). Essas doses devem ser registradas na caixa específica da vacina penta.	O esquema da vacina hepatite B é completado (no caso de 2 doses anteriores) com a vacina penta. No caso de 3 doses anteriores, recebe mais 2 doses por meio da penta.	Ao término do esquema vacinal, a pacien-te terá recebido 5 ou 6 doses da vacina hepatite B (2 ou 3 doses com a vacina monovalente e 3 doses com a vacina penta).
-Criança <1 ano com D1 e/ou D2 da hepatite B monovalente e com a D1 da vacina TETRA	A criança continua o esquema vacinal com mais 2 doses da vacina penta (D2 e D3) que deverão ser registradas na caixa específica desta, conforme o tipo de dose.	O esquema da vacina hepatite B e vacina DTP/Hib (TETRA) são completados com a vacina penta.	A criança, ao completar o esquema vaci-nal, terá recebido 4 ou 5 doses do compo-nente da vacina hepatite B e 3 doses dos componentes DTP e Hib. Foram completa-dos com a vacina penta.
-Criança <1 ano com doses de hepatite B monovalente e D1 e D2 da vacina TETRA	A criança recebe mais 1 dose da vacina penta (D3), que deverá ser registrada na grade e no campo desta.	O esquema da vacina hepatite B e da vacina DTP/Hib são completados com a vacina penta.	A criança complementará seu esquema vacinal com a vacina penta, e o registro deverá ser feito na grade e nos campos da vacina penta.
-Criança <1 ano sem nenhuma dose de vacina hepatite B monovalente e com 3 doses da vacina TETRA 	A criança não faz uso da penta. O esquema da vacina hepatite B deve ser realizado com a hepati-te B monovalente e registrado na caixa específica da vacina hepatite B monovalente.	A criança não recebe a vacina penta.	--
-Criança =1 ano sem o esquema da DTP/Hib (TETRA) ou sem o es-quema da hepatite B	A criança inicia o esquema vaci-nal com a vacina penta (D1) contemplando hepatite B, DTP e Hib. As doses subsequentes (D2 e D3) são feitas com hepatite B monovalente e DTP. O registro de cada dose deve ser feito em caixa específica da vacina utili-zada e tipo de dose.	A criança faz uso somente de 1 dose da vacina penta, comple-tando os esquemas vacinais com hepatite B monovalente e DTP.	--
+Criança <1 mês não vacinada com hepatite B na maternidade (ao nascer)	Administrar D1 da hepatite B monova-lente somente até 1 mês de vida. Agen-dar a D1 da vacina penta aos 2 meses e seguir o esquema vacinal da penta.	Nenhuma outra dose da vacina hepatite B monova-lente deve ser aplicada e/ou registrada no campo específico dessa vacina.	A criança, ao completar o esquema vacinal com a vacina penta, terá recebido 4 doses da hepatite B, 1 com a vacina hepatite B e outras 3 com a vacina penta.
+Criança que, no mo-mento da vacinação, está com 2 meses e já recebeu D1 da vacina hepatite B (monovalen-te)	A criança inicia es-quema com a vacina penta (D1) e agenda as próximas doses (D2 e D3) seguindo o intervalo preconiza-do. Registrar a dose aplicada na caixa específica da vacina penta conforme fai-xa etária e tipo de dose.	Nenhuma outra dose da vacina hepatite B monova-lente deve ser aplicada e/ou registrada no campo específico dessa vacina.	A criança, ao completar o esquema vacinal com a vacina penta, terá recebido 4 doses da vacina HB, 1 com a vacina hepatite B monovalente e outras 3 com a vacina penta. 
+Criança com 2 meses a menor de 1 ano sem nenhuma dose da vaci-na TETRA ou hepatite B	A criança inicia es-quema vacinal com a vacina penta (D1) e agenda as próxi-mas (D2 e D3). Re-gistrar a dose apli-cada na caixa espe-cífica da vacina pen-ta.	Não é necessária a dose da vacina monovalente hepatite B.	A criança recebe 3 doses da vacina hepatite B por meio da vacina penta.
+Criança <1 ano com 2 ou 3 doses da vacina hepatite B monovalen-te e sem nenhuma do-se da vacina TETRA ou DPT	A criança menor de 1 ano inicia esque-ma vacinal com a vacina penta (D1) e agenda as próximas doses seguindo es-quema preconizado (D2 e D3). Essas do-ses devem ser regis-tradas na caixa es-pecífica da vacina penta.	O esquema da vacina he-patite B é completado (no caso de 2 doses anterio-res) com a vacina penta. No caso de 3 doses ante-riores, recebe mais 2 do-ses por meio da penta.	Ao término do esquema vacinal, a paciente terá recebido 5 ou 6 doses da vacina hepatite B (2 ou 3 doses com a vacina monovalente e 3 doses com a vacina penta).
+Criança <1 ano com D1 e/ou D2 da hepatite B monovalente e com a D1 da vacina TETRA	A criança continua o esquema vacinal com mais 2 doses da vacina penta (D2 e D3) que deverão ser registradas na caixa específica des-ta, conforme o tipo de dose.	O esquema da vacina he-patite B e vacina DTP/Hib (TETRA) são completados com a vacina penta.	A criança, ao completar o esquema vacinal, terá recebido 4 ou 5 doses do componente da vacina hepatite B e 3 doses dos componentes DTP e Hib. Foram completados com a vacina penta.
+Criança <1 ano com doses de hepatite B monovalente e D1 e D2 da vacina TETRA	A criança recebe mais 1 dose da vaci-na penta (D3), que deverá ser registra-da na grade e no campo desta.	O esquema da vacina he-patite B e da vacina DTP/Hib são completados com a vacina penta.	A criança complementará seu esquema vacinal com a vacina penta, e o registro deverá ser feito na grade e nos campos da vacina penta.
+Criança <1 ano sem nenhuma dose de vaci-na hepatite B monova-lente e com 3 doses da vacina TETRA 	A criança não faz uso da penta. O es-quema da vacina hepatite B deve ser realizado com a he-patite B monovalen-te e registrado na caixa específica da vacina hepatite B monovalente.	A criança não recebe a vacina penta.	--
+Criança =1 ano sem o esquema da DTP/Hib (TETRA) ou sem o es-quema da hepatite B	A criança inicia o esquema vacinal com a vacina penta (D1) contemplando hepatite B, DTP e Hib. As doses sub-sequentes (D2 e D3) são feitas com he-patite B monovalen-te e DTP. O registro de cada dose deve ser feito em caixa específica da vacina utilizada e tipo de dose.	A criança faz uso somente de 1 dose da vacina penta, completando os esquemas vacinais com hepatite B monovalente e DTP.	--
 Observação: os reforços aos 15 meses e 4 anos devem ser realizados com DTP. A idade máxima para aplicação é de 6 anos, 11 meses e 29 dias.
 
-Respostas
-1. D 
+Resposta da questão do capítulo
+1. A
