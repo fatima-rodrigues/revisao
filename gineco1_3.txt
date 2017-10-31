@@ -1,15 +1,13 @@
 Planejamento familiar
 Flávia Fairbanks Lima de Oliveira Marino
 
-Resumo
-O planejamento familiar aborda detalhadamente os métodos contraceptivos, suas indicações, contraindicações, forma de uso e potenciais efeitos adversos. Os métodos anticoncepcionais devem ser individualizados para cada paciente, podendo-se utilizar, de acordo com as preferências/necessidades, os seguintes métodos: não hormonais (preservativo masculi-no/feminino, “tabelinha”, coito interrompido, DIU e lactação), métodos definitivos de esterilização (laqueadura, vasectomia e implante endotubário) e, por fim, métodos hormonais (contraceptivos hormonais orais, injetáveis, transdérmicos, anel vaginal, dispositivo intrauterino liberador de levonorgestrel e contracepção de emergência.
+O planejamento familiar aborda detalhadamente os mé-todos contraceptivos, suas indicações, contraindicações, forma de uso e potenciais efeitos adversos. Os métodos anticoncepcionais devem ser individualizados para cada paciente, podendo-se utilizar, de acordo com as preferên-cias/necessidades, os seguintes métodos: não hormonais (preservativo masculino/feminino, “tabelinha”, coito inter-rompido, DIU e lactação), métodos definitivos de esterili-zação (laqueadura, vasectomia e implante endotubário) e, por fim, métodos hormonais (contraceptivos hormonais orais, injetáveis, transdérmicos, anel vaginal, dispositivo intrauterino liberador de levonorgestrel e contracepção de emergência.
 
 1. Definição
-
-O planejamento familiar consiste em permitir a um casal decidir quantos filhos deseja ter e o momento de tê-los. Engloba, portanto, medidas contraceptivas e pró-gestacionais, alcançadas por meio de orientação adequada oferecida por uma equipe multidisciplinar treinada para esse fim.
-O casal tem o direito de conhecer todos os métodos disponíveis, seus riscos e benefícios para opção livre e bem embasa-da. Esse aconselhamento deve considerar as características próprias desse casal e as de cada método.
-Elaborado em 1933 por Raymond Pearl, o Índice de Pearl (IP) é o número de falhas do método a cada 100 mulheres/ano. Objetivamente, acompanha-se uma amostra de 100 mulheres usuárias do método por um ano. O número de gestações ocor-ridas nesse intervalo de tempo é o IP. A Federação Brasileira das Associações de Ginecologia e Obstetrícia (FEBRASGO), em concordância com a Organização Mundial da Saúde (OMS), considera que o método é e?caz quando o IP é inferior a 1 (IP <1). Diversos métodos possuem IP superior a 1, especialmente os comportamentais. Entretanto, as orientações médicas devem ser dadas respeitando-se a satisfação da paciente com o método, bem como seus valores sociais, culturais e religiosos.
-Neste capítulo, abordaremos principalmente os métodos contraceptivos que se dividem em hormonais e não hormonais. Dentre os hormonais, discutiremos:
+O planejamento familiar consiste em permitir a um casal decidir quantos filhos deseja ter e o momento de tê-los. En-globa, portanto, medidas contraceptivas e pró-gestacionais, alcançadas por meio de orientação adequada oferecida por uma equipe multidisciplinar treinada para esse fim.
+O casal tem o direito de conhecer todos os métodos disponíveis, seus riscos e benefícios para opção livre e bem emba-sada. Esse aconselhamento deve considerar as características próprias desse casal e as de cada método.
+Elaborado em 1933 por Raymond Pearl, o Índice de Pearl (IP) é o número de falhas do método a cada 100 mulhe-res/ano. Objetivamente, acompanha-se uma amostra de 100 mulheres usuárias do método por 1 ano. O número de gestações ocorridas nesse intervalo de tempo é o IP. A Federação Brasileira das Associações de Ginecologia e Obstetrí-cia (FEBRASGO), em concordância com a Organização Mundial da Saúde (OMS), considera que o método é e?caz quan-do o IP é inferior a 1 (IP <1). Diversos métodos possuem IP superior a 1, especialmente os comportamentais. Entretan-to, as orientações médicas devem ser dadas respeitando-se a satisfação da paciente com o método, bem como seus valores sociais, culturais e religiosos.
+Neste capítulo, abordaremos principalmente os métodos contraceptivos que se dividem em hormonais e não hormo-nais. Dentre os hormonais, discutiremos:
 Contraceptivos orais;
 Contraceptivos injetáveis;
 Transdérmicos;
@@ -22,9 +20,33 @@ Comportamentais;
 Dispositivo intrauterino;
 Amamentação;
 Esterilização definitiva masculina (vasectomia) e feminina (laqueadura tubária).
-A Tabela 1 mostra os índices de falhas dos diferentes métodos.
 
-Tabela 1 - Índice de Pearl dos anticoncepcionais (considerando os usos perfeito e típico, respectivamente)
+Tabela 1 - Índices de falhas dos diferentes métodos
+Anticoncepcional	Uso
+	Perfeito ou correto	Habitual ou comum	Continuidade (%)
+Muito efetivos
+Implante	0,05	0,05	78
+Vasectomia	0,1	0,15	100
+Sistema intrauterino de levo-norgestrel	0,2	0,2	81
+Esterilização feminina	0,5	0,5	100
+DIU de cobre	0,6	0,8	78
+Efetivos
+Lactação e amenorreia	0,9	2	--
+Injetáveis mensais	0,3	3	56
+Pílulas combinadas	0,3	3	68
+Pílulas de progestogênios	0,3	3	68
+Anel vaginal	0,3	3	68
+Adesivo	0,3	3	68
+Moderadamente efetivos
+Condom masculino	2	16	53
+Abstinência em períodos férteis	2 a 5	--	51
+Diagrama com espermicida	6	16	--
+Pouco efetivos
+Coito interrompido	4	27	42
+Espermicida isolado	18	29	-- 
+Fonte: Manual de anticoncepção 2015 – FEBRASGO.
+
+Tabela 2 - Comparação entre os métodos contraceptivos hormonais
 Implante de etonogestrel	0 a 0,07
 Anel vaginal	0,65
 Medroxiprogesterona trimestral	0 a 1
@@ -32,32 +54,55 @@ Injetável mensal	0,1 a 0,3
 Adesivo contraceptivo	0,6 a 0,9
 Contraceptivo oral combinado <50µg etinilestradiol	0,2 a 3
 Fonte: Federação Brasileira das Associações de Ginecologia e Obstetrícia, 2010.
-
+Percebe-se que todos os contraceptivos hormonais apresentam IP <1, sendo, portanto, eficazes. Entretanto, o adesivo e a medroxiprogesterona trimestral são os menos confiáveis, visto que apresentam os maiores valores de IP.
 Vídeo
 Planejamento familiar
-  
+ 
 
 2. Métodos não hormonais
-
-A -	Barreira: preservativos masculino e feminino, diafragma, espermicida e esponja vaginal
-
+A -	Barreira: preservativos masculino e feminino, diafragma, capuz cervical, espermicida e esponja vaginal
+São métodos anticoncepcionais que funcionam de forma mecânica ou química, impedindo a ascensão dos espermato-zoides pelo útero e pelas trompas – não há fecundação do óvulo nas trompas. A associação entre os químicos e mecâ-nicos aumenta a eficácia contraceptiva do método. A maior vantagem nos métodos de barreira reside na proteção contra a transmissão de Doenças Sexualmente Transmissíveis (DSTs), inclusive HIV.   
+Método barreira mecânico: preservativo masculino e feminino;
+Método barreira químico: espermicida e esponjas;
+Método barreira misto: diafragma e capuz cervical.	
+Além do preservativo feminino e masculino, os métodos de barreira cervical (diafragma, capuz cervical e esponjas) têm importante papel auxiliar na redução da transmissão de DSTs, visto que a cérvice uterina é porta de entrada para essas doenças. 
 Importante
-O preservativo masculino e o feminino são os únicos métodos anticoncepcionais que protegem contra doenças sexual-mente transmissíveis, inclusive HIV/AIDS.
+O preservativo masculi-no e o feminino são os únicos métodos anticon-cepcionais que prote-gem contra doenças se-xualmente transmissí-veis, inclusive HIV/AIDS.
 
- O preservativo masculino e o feminino não apresentam contraindicações; pelo contrário, recomenda-se seu uso mesmo quando associado a outro método contraceptivo. O índice de falha é baixo no uso ideal (3 gestações por 100 mulheres/ano), mas, no uso rotineiro, tais números se elevam. Os únicos efeitos colaterais são sintomas alérgicos em indivíduos sensíveis ao látex ou aos lubrificantes.
-O diafragma (Figura 2) é um objeto em formato de concha, colocado sob o colo uterino, ocluindo o canal cervical. Sua efi-cácia é baixa (20 gestações por 100 mulheres/ano). Entretanto, não apresenta contraindicações. 
-O espermicida (ou espermaticida) tem como ação imobilizar e destruir os espermatozoides, e a substância mais frequen-temente utilizada é o nonoxinol-9. Geralmente, é utilizado em associação a outro método de barreira. Não é muito efetivo se utilizado isoladamente e não protege contra doenças.
-A esponja vaginal deve absorver o sêmen e bloquear a entrada dos espermatozoides no canal cervical, contendo o nono-xinol-9. Contudo, não é encontrada no Brasil.
-
+O preservativo masculino e o feminino não apresentam contraindicações; pelo contrário, recomenda-se seu uso mes-mo quando associado a outro método contraceptivo. A taxa de falha no uso de condom masculino é de 3 a 14% no 1º ano (3 a 14 gestações por 100 mulheres/ano). O preservativo feminino apresenta limitação em seu uso em pacientes virgens. Não são tão eficazes como métodos contraceptivos quanto os métodos hormonais. As falhas no uso de condom masculino são associadas ao mau uso do método, na maioria das vezes, e à lubrificação insuficiente durante seu uso ou preservativo danificado. Deve-se evitar o uso de lubrificantes oleosos nos preservativos de látex. Os únicos efeitos colaterais são sintomas alérgicos em indivíduos sensíveis ao látex ou aos lubrificantes. 
+O preservativo masculino e feminino deve ser utilizado em todo coito com o objetivo de prevenir a transmissão e o contágio das DSTs. Além de ser alternativa para casais que não tem indicação para métodos irreversíveis e apresentam contraindicação aos métodos hormonais e intrauterinos. 
+O preservativo masculino protege contra as seguintes DSTs: clamídia, gonorreia, herpes genital, sífilis, tricomoníase, hepatite B e HIV. Ainda não se pode confirmar a sua proteção na transmissão do HPV.
+A eficácia contraceptiva dos preservativos femininos pode aumentar quando utilizado com lubrificantes íntimos. Prefe-rência por aqueles a base de água, com nonoxinol-9. Os preservativos femininos não podem ser utilizados em prolap-sos genitais. 
+O capuz cervical, que não existe no Brasil, consiste em dispositivo de látex que se adapta e adere ao colo uterino por sucção. Tem eficácia semelhante ao diafragma, entretanto é bastante suscetível ao manuseio errado da paciente. É contraindicado em casos de infecções vaginais ou Doença Inflamatória Pélvica (DIP), em virgens e quando há defeito anatômico que o impeça de ser colocado.  
+O diafragma (Figura 2) é um objeto em formato de concha de látex ou silicone, colocado sob o colo uterino, ocluindo o canal cervical. Sua eficácia é baixa (6 a 21 gestações por 100 mulheres/ano) e apresenta falha de 6 a 21%. Entretanto, não apresenta contraindicações. Deve ser usado associado ao espermicida, a ser colocado em 2 etapas distintas: inici-almente na borda e parte côncava do diafragma antes de ser inserido; posteriormente, antes das relações sexuais, com aplicador vaginal. O diafragma é colocado até 2 horas antes das relações sexuais e deve permanecer após o coito, por 6 a 8 horas). A vida média útil do diafragma é em torno de 3 anos. 
+Contraindicação ao uso do diafragma: infecção genital, DIP, virgens, alterações anatômicas, alto risco ou portadoras de HIV, infecção urinária e candidíase de repetição, história de síndrome do choque tóxico. 
+Atenção: o diafragma deve ser retirado durante a menstruação;
+Indicações ao uso do diafragma: doença cardíaca valvar complicada (não apresenta efeito sistêmico) e baixo risco para infecções pelo HIV e outras DSTs;
+Protege contra as seguintes DSTs: gonococo e clamídia;
+Não protege contra as seguintes DSTs: HIV, HPV, herpes genital e tricomoníase;
+Não interfere no aleitamento materno;
+Pode ocorrer corrimento vaginal intenso de odor fétido caso o diafragma seja deixado por muito tempo no local;
+Pode provocar dor pélvica, cólicas e retenção urinária – fator de risco para infecção de trato urinário;
+Pode ocasionar síndrome do choque tóxico, que também pode ocorrer durante o uso de absorventes internos. 
+O espermicida (ou espermaticida) tem como ação imobilizar e destruir os espermatozoides, e a substância mais fre-quentemente utilizada é o nonoxinol-9. Geralmente, é utilizado em associação a outro método de barreira para aumen-tar a eficácia. Não é muito efetivo se utilizado isoladamente e não protege contra doenças. 
+O uso de espermicidas provoca lesões (fissuras e microfissuras vaginais, cervicais e retais) na mucosa vaginal e retal, dependendo da frequência de uso e do volume aplicado. Esse fato aumenta o risco de transmissão do HIV e outras DSTs. Logo, mulheres com risco aumentado de DST e HIV, assim como aquelas com muitas relações sexuais diárias, não devem fazer uso dessas substâncias; 
+Outras contraindicações são: DIP e/ou cervicite atual ou nos últimos 3 meses; alergia ao produto; 
+Não interfere no aleitamento materno;
+Irritação ou alergia na vagina ou no pênis: 1 a 5%;
+Pode aumentar o risco de candidíase, vaginose e infecção de tato urinário na mulher. 
+A esponja vaginal deve absorver o sêmen e bloquear a entrada dos espermatozoides no canal cervical, contendo o nonoxinol-9. Contudo, não é encontrada no Brasil.
  
 Figura 1 - Preservativo feminino
 
  
 Figura 2 - Diafragma
-
-B -	Comportamentais: “tabelinha”, coito interrompido, muco cervical, temperatura basal e sinto-térmico
-Os índices de falha são altos, pois dependem de intensa motivação do casal e variações biológicas individuais.
-A “tabelinha”, ou método de Ogino-Knauss, baseia-se na abstinência periódica nos dias considerados férteis após o reco-nhecimento desse período. A mulher deve anotar cerca de 6 a 12 ciclos menstruais com padrão regular. Do ciclo mais longo, subtraem-se 11 dias e, do mais curto, 18 dias. O intervalo entre esses dias do ciclo é considerado o período fértil, quando a mulher deverá abster-se de relações sexuais vaginais.
+B -	Comportamentais: “tabelinha”, coito interrompido, muco cervical, tempe-ratura basal e sintotérmico
+Os índices de falha são altos com esses métodos, pois dependem de intensa motivação do casal e variações biológicas individuais.
+A “tabelinha”, ou método de Ogino-Knauss ou abstinência sexual rítmica, baseia-se na abstinência periódica nos dias considerados férteis após o reconhecimento desse período. A mulher deve anotar cerca de 6 a 12 ciclos menstruais com padrão regular. Considere:
+A ovulação ocorre entre 12 a 16 dias antes da menstruação;
+O óvulo pode ser fecundado no período de 12 a 24 horas após a ovulação;
+O espermatozoide pode fecundar até 72 horas após a ejaculação;  
+Na prática, a mulher observa o seu ciclo mais longo e o mais curto em 6 a 12 meses: do ciclo mais longo, subtraem-se 11 dias e, do mais curto, 18 dias. O intervalo entre esses dias do ciclo é considerado o período fértil, quando a mulher deverá abster-se de relações sexuais vaginais.
 Exemplificando: 
 X = ciclo mais curto - 18 dias 
 Y = ciclo mais longo - 11 dias 
@@ -65,153 +110,305 @@ Se uma paciente observou o padrão dos seus ciclos nos últimos 6 meses: o mais cu
 X = 26 - 18; X = 8 
 Y = 30 - 11; Y = 19 
 Inserindo os dias no ciclo:
-Portanto, o casal deve evitar relações sexuais entre o dia 8 e 19 daquele ciclo. Lembrar que o 1º dia do ciclo inicia no 1º dia da menstruação.
-O coito interrompido consiste na ejaculação extravaginal e também tem altas taxas de falha.
-O exame diário do muco cervical, também chamado método de Billings, consiste na observação das suas características, que é mais fluido e elástico no período fértil, semelhante à clara de ovo, espesso e opaco no período pós-ovulatório ou não fértil. Se a paciente perceber a presença do muco, o casal deve evitar relações sexuais. A paciente deve acompanhar as mo-di?cações do muco, ele vai ?cando mais ?no, ?lante e elástico, lembrando clara de ovo. Essas três características sugerem ação do estrogênio no muco cervical. Quando a secreção tornar-se mais espessa e opaca, o casal ainda deve evitar relações por mais quatro dias. A progesterona torna o muco opaco e mais espesso
-O método da temperatura basal necessita de medidas diárias da temperatura oral, retal ou vaginal em repouso pela ma-nhã. Elevação de cerca de 0,5°C na medida da temperatura basal é indicativa de que ocorreu ovulação. O casal deve abster-se de relações sexuais desde a menstruação até 3 dias após a elevação da temperatura.
-O método sintotérmico é a associação dos métodos de muco cervical e temperatura basal ou muco cervical e “tabelinha”.
+Portanto, o casal deve evitar relações sexuais entre o dia 8 e 19 daquele ciclo. Lembrar que o 1º dia do ciclo se inicia no 1º dia da menstruação.
+Atenção: esse método só pode ser usado em mulheres cuja menstruação adianta menos de 4 dias e atrasa menos de 2 dias, ou seja, em ciclos entre 26 e 32 dias;
+É um método com elevada taxa de falha: 14,4 e 47 gestações/100 mulheres/ano de uso. 
+O coito interrompido consiste na ejaculação extravaginal e tem altas taxas de falha. O líquido pré-ejaculatório pode conter espermatozoides vivos, o que aumenta o índice de falha desse método. Não protege contra as DSTs, e há risco de disfunção sexual. Tem taxa de falha altíssima: 25 gestações/100 mulheres/ano.
+O exame diário do muco cervical, também chamado método de Billings, consiste na observação das suas características, que é mais fluido e elástico no período fértil, semelhante à clara de ovo, espesso e opaco no período pós-ovulatório ou não fértil. Se a paciente perceber a presença do muco, o casal deve evitar relações sexuais. A paciente deve acompa-nhar as modi?cações do muco, ele vai ?cando mais ?no, ?lante e elástico, lembrando clara de ovo. Essas 3 característi-cas sugerem ação do estrogênio no muco cervical. Quando a secreção tornar-se mais espessa e opaca, o casal ainda deve evitar relações por mais 4 dias. A progesterona torna o muco opaco e mais espesso. A taxa de falha é de 5,3 a 32,1 gestações/100 mulheres/ano, ou seja, muito elevada.
+O método da temperatura basal necessita de medidas diárias de temperatura oral, retal ou vaginal em repouso pela manhã. Elevação de cerca de 0,5°C (0,3 a 0,8°C) na medida da temperatura basal é indicativa de que ocorreu ovulação. O casal deve abster-se de relações sexuais desde a menstruação até 3 dias após a elevação da temperatura. A taxa de falha é de 0,3 a 6,6 gestações/100 mulheres/ano. 
+O método sintotérmico é a associação dos métodos de muco cervical e temperatura basal ou muco cervical e “tabeli-nha”. Outros sinais sistêmicos que sugerem ovulação, como dor ovulatória e sangramento intermenstrual também po-dem ser avaliados. A taxa de falha é de 4,9 a 34,4 gestações/100 mulheres/ano. 
 
 C - Dispositivo intrauterino 
-O dispositivo intrauterino (DIU) é um método contraceptivo que fica alojado dentro da cavidade uterina. Atualmente, os modelos disponíveis são o DIU de cobre ou o sistema liberador de levonorgestrel (Figura 3). 
-
+O dispositivo intrauterino (DIU) é um método contraceptivo que fica alojado dentro da cavidade uterina. Atualmente, os modelos disponíveis são:
+DIU não medicado ou inerte: Lippes, SafT-Coel, Dalkon Shields;
+DIU de cobre – medicado: Tcu380A (modelo mais usado). Altamente eficaz em prevenir gestação. Nova T e Multiload são modelos que podem ser úteis em mulheres com canal cervical estenótico, porém apresentam menor eficácia;
+DIU hormonal – medicado. Sistema liberador de levonorgestrel – Mirena® (Figura 3); 
+DIU frameless – sem moldura. Implantado no interior da musculatura uterina. Mais indicado em nulíparas. 
  
 Figura 3 - Modelos de dispositivos intrauterinos
-
 a) Mecanismo de ação
-O mecanismo de ação do DIU é a reação do tipo corpo estranho. A presença do corpo estranho no interior da cavidade uterina aumenta a concentração de marcadores inflamatórios no líquido uterino e tubário e altera o seu pH. Dessa forma, cria um ambiente hostil à sobrevivência do espermatozoide e à ocorrência da fecundação. Com este mecanismo, a ocorrência de fecundação é desprezível, mas caso aconteça, o DIU também impede a implantação do ovo no endométrio. Para a OMS, o mecanismo é a interferência em etapas prévias à fertilização.
-
+O mecanismo de ação do DIU é a reação do tipo corpo estranho. A presença do corpo estranho no interior da cavidade uterina aumenta a concentração de marcadores inflamatórios no líquido uterino e tubário e altera o seu pH. Dessa forma, cria um ambiente hostil à sobrevivência do espermatozoide e à ocorrência da fecundação. Com este mecanis-mo, a ocorrência de fecundação é desprezível, mas caso aconteça, o DIU também impede a implantação do ovo no endométrio. Os íons de cobre (DIU de cobre) têm efeito direto na motilidade espermática, reduzindo a capacidade de penetração no muco cervical. Para a OMS, o mecanismo é a interferência em etapas prévias à fertilização.
 b) Eficácia 
-Alta, com taxas de 0,3 gestação por 100 mulheres/ano. Sua durabilidade vai de 5 a 10 anos, dependendo do modelo estu-dado. O DIU de cobre T380 A tem durabilidade de 10 anos.
+Alta, com taxas de 0,3 gestação por 100 mulheres/ano. Sua durabilidade vai de 5 a 10 anos, dependendo do modelo estudado. O DIU de cobre T380 A tem durabilidade de 10 anos.
+c) Indicações
+Qualquer mulher sem contraindicação ao seu uso, especialmente aquelas que buscam contracepção não hormonal, confiável, reversível e que independa do coito. 
+d) Efeitos colaterais 
+Pode ocorrer perfuração uterina durante a inserção do DIU. Fatores como inserção pós-parto, operador inexperiente e útero extremamente anteversofletido ou retrovertido são fatores de risco para o evento. 
+Expulsão do DIU varia de 2 a 10% das usuárias e geralmente ocorre no 1º ano de uso. Pós-parto, nuliparidade e expul-são prévia do DIU são fatores de risco para o evento.
+Observam-se dismenorreia, aumento do fluxo menstrual e sangramento intermenstrual.
+e) Contraindicações 
+Tema
+frequente de prova
+As contraindicações para o uso do dispositivo in-trauterino (DIU) são te-ma frequente nas ques-tões das provas de Resi-dência Médica.
 
-c) Efeitos colaterais 
-Dismenorreia, aumento do fluxo menstrual e sangramento intermenstrual.
-
-d) Contraindicações 
-
-Tema de prova	
-As contraindicações para o uso do dispositivo intrauterino (DIU) são tema frequente nas questões das provas de Residência Médica.
-
- Pacientes com dismenorreia moderada a grave; fluxo menstrual já volumoso; alterações anatômicas, como útero bicorno ou didelfo, septo longitudinal ou transverso; anemia; vida sexual promíscua, pelo maior risco de DST; moléstia inflamatória pélvica aguda ou até 3 meses; antecedentes de 2 ou mais episódios de moléstia inflamatória pélvica aguda no último ano; infecção puerperal; cervicite purulenta; sangramento genital não esclarecido; tuberculose pélvica; câncer de colo ou corpo uterino. As discrasias sanguíneas (doença de Von Willebrand e deficiência de fator VIII) também contraindicam o seu uso. Um conceito estigmatizado de que o DIU não poderia ser utilizado por nuligestas é obsoleto. Diversos estudos recentes têm de-monstrado que o método é seguro e pode ser utilizado tanto por pacientes que já gestaram quanto por paciente que não gestaram. 
-
-e) Informações importantes 
-
+Pacientes com dismenorreia moderada a grave; fluxo menstrual já volumoso; alterações anatômicas, como útero bi-corno ou didelfo, septo longitudinal ou transverso; anemia; vida sexual promíscua, pelo maior risco de DST; moléstia inflamatória pélvica aguda ou até 3 meses; antecedentes de 2 ou mais episódios de moléstia inflamatória pélvica aguda no último ano; infecção puerperal; cervicite purulenta; sangramento genital não esclarecido; tuberculose pélvica; câncer de colo ou corpo uterino. As discrasias sanguíneas (doença de von Willebrand, doença de Wilson e deficiência de fator VIII) também contraindicam o seu uso. Um conceito estigmatizado de que o DIU não poderia ser utilizado por nuligestas é obsoleto. Diversos estudos recentes têm demonstrado que o método é seguro e pode ser utilizado tanto por pacientes que já gestaram quanto por paciente que não gestaram. 
+f) Informações importantes 
 Importante
-O DIU não é considerado abortivo, pois não interfere na fecundação. 
+O DIU não é conside-rado abortivo, pois previne a fertilização. 
 
-Em virtude do maior risco de infecção ascendente pelo trato reprodutivo feminino, deve-se orientar a paciente a procu-rar assistência médica sempre que ela apresenta leucorreia, dor pélvica, sangramento vaginal anormal, febre com suspeita de infecção pélvica ou atraso menstrual.
+Em virtude do maior risco de infecção ascendente pelo trato reprodutivo feminino, deve-se orientar a paciente a pro-curar assistência médica sempre que apresentar leucorreia, dor pélvica, sangramento vaginal anormal, febre com sus-peita de infecção pélvica ou atraso menstrual.
+g) DIU e infecção pélvica
+De modo geral, o risco de aquisição de uma infecção pélvica em usuária de DIU é o dobro em relação à população ge-ral, sendo muito mais elevado nas semanas subsequentes à colocação, explicando-se, portanto, que a principal causa de infecção seja diretamente relacionada à exposição prévia da paciente a um agente sexualmente transmissível. Paci-entes portadoras de infecção assintomática por clamídia e gonococo tendem a apresentar um quadro de DIP sintomáti-ca após a inserção do DIU. Mesmo sabendo que as usuárias de DIU têm maior chance de infecção, as taxas dessa com-plicação são baixas, diminuindo com o tempo. Um estudo da OMS mostra que, após 7 anos de uso, a taxa foi de 1% das usuárias; outros estudos americanos mostraram taxas de infecção de 1,6 a 1,8 vez maior em usuárias de DIU de cobre (em comparação com as não usuárias do método).
+O maior temor quando uma usuária de DIU é acometida por uma infecção pélvica – chamada DIP ou moléstia inflamató-ria pélvica aguda – é que as complicações, em longo prazo, podem ser graves, aumentando a chance de esterilidade por dano irreversível ao epitélio endotubário nas tubas uterinas. 
+Conduta mediante infecção em usuárias de DIU (FEBRASGO, 2015):
+Paciente assintomática + sinais clínicos ou cultura sugestivos de infecção por clamídia ou gonococo: antibiótico sem remoção do DIU;
+Paciente assintomática + sinais de ascensão endometrial ou tubária da infecção: antibiótico + retirada do DIU;
+Vaginose bacteriana: tratamento via oral (metronidazol 500mg a cada 12 horas, por 7 dias) + não retirar DIU;
+Endometrite simples (apenas sensibilidade uterina): antibiótico (doxiciclina 100mg a cada 12 horas, por 14 dias) + não precisa retirar DIU;
+Infecção tubária ou DIP (dor pélvica, dor à mobilização do colo uterino, alteração na contagem de leucócitos, aumento de VHS ou massas anexais palpáveis): antibioticoterapia por via oral ou endovenosa + retirada do DIU. 
+É comum a infecção por Actinomycosis em pacientes usuárias de DIU. Até 20% dos esfregaços cervicais em usuárias de DIU de cobre são positivos para esse germe. Se assintomática: antibiótico (penicilina G, tetraciclina ou doxicicli-na) + manter DIU. Se sintomática: primeiramente fazer antibiótico e depois retirar o DIU. Pode evoluir com absces-so.   
+h) DIU e gestação
+A remoção do DIU está indicada imediatamente, assim que o diagnóstico de gestação intrauterina é confirmado, para evitar a principal complicação de uma gestação com o método, que é o aborto espontâneo (50 a 60% dos casos), ocor-rendo a imensa maioria desses abortamentos no 2º trimestre, muitas vezes em situação de infecção (aborto séptico). A retirada do DIU por si só pode provocar um abortamento, porém permite aumentar as chances de sucesso da gravidez, evitando o risco de até 60% de abortamento na permanência do dispositivo. Após a remoção do DIU, o risco de abor-tamento é de, aproximadamente, 30%, e com a manutenção do DIU, esse risco chega a 75% e também é associado a parto prematuro. O DIU pode ser retirado por histeroscopia durante a gestação, caso necessário. 
+Com relação à gestação ectópica, o risco nas usuárias de DIU é menor do que entre as mulheres que não usam nenhum método contraceptivo; por outro lado, se uma usuária do método engravidar, será imperativo pensar em gestação ectópica, pois a proteção concedida pelo DIU é maior para gravidez tópica do que para ectópica. Logo, o DIU não au-menta o risco de gravidez ectópica, mas caso a gestação ocorra, tem maior chance de ser ectópica. Além disso, o DIU não hormonal (cobre) reduz o risco de gravidez ectópica. 
+Tabela 3 - Importante
+- O DIU de cobre reduz o risco de câncer de endométrio, não sendo claro o seu mecanismo. Mas, pode estar associa-do à inibição de receptores de estrogênio e progesterona;
+- Mulheres em risco de endocardite podem utilizar o DIU, mas devem fazer antibioticoprofilaxia no momento da inser-ção;
+- Deve-se ter cuidado em jovens e adolescentes pelo risco de DSTs. Logo, não importa a paridade na escolha de usar ou não o DIU, e sim a suscetibilidade da paciente às DSTs. Mas, as nulíparas apresentam maior quadro de dor e aumen-to do fluxo menstrual com a inserção do DIU;
+- O DIU pode ser inserido logo após o parto, dentro de 10 a 15 minutos após a dequitação, mas há aumento na taxa de expulsão do DIU e perfuração uterina. O ideal é a sua inserção 4 a 6 semanas pós-parto;
+- O DIU pode ser inserido logo após abortamento de 1º trimestre, sem aumento nas taxas de expulsão;
+- O DIU não altera a amamentação; 
+- Na perimenopausa e em mulheres com fluxo menstrual aumentado, deve-se optar pelo DIU medicamentoso (Mire-na®); 
+- Não é necessário antibiótico antes da inserção do DIU;
+- Caso não seja possível a remoção do DIU com a pinça Cheron (exemplo: não visualização da cordinha do DIU), pode-se optar pela retirada por histeroscopia.    
 
-f) DIU e infecção pélvica
-De modo geral, o risco de aquisição de uma infecção pélvica em usuária de DIU é o dobro em relação à população geral, sendo muito mais elevado nas semanas subsequentes à colocação, explicando-se, portanto, que a principal causa de infecção seja diretamente relacionada à exposição prévia da paciente a um agente sexualmente transmissível. Pacientes portadoras de infecção assintomática por Chlamydia e gonococo tendem a apresentar um quadro de doença inflamatória pélvica sintomáti-ca após a inserção do DIU. Mesmo sabendo que as usuárias de DIU têm maior chance de infecção, as taxas dessa complicação são baixas, diminuindo com o tempo. Um estudo da OMS mostra que, após 7 anos de uso, a taxa foi de 1% das usuárias; outros estudos americanos mostraram taxas de infecção de 1,6 a 1,8 vez maior em usuárias de DIU de cobre (em comparação com as não usuárias do método).
-O maior temor quando uma usuária de DIU é acometida por uma infecção pélvica – chamada doença inflamatória pélvica ou moléstia inflamatória pélvica aguda – é que as complicações, em longo prazo, podem ser graves, aumentando a chance de esterilidade por dano irreversível ao epitélio endotubário nas tubas uterinas. 
-Não existe consenso quanto à necessidade da remoção do DIU na vigência de uma infecção pélvica, mas a recomendação da OMS é que se retire o DIU entre 24 e 48 horas após o início da antibioticoterapia para tratamento da doença. Alguns estu-dos americanos mostraram, no entanto, não haver diferença na recuperação das pacientes que removeram ou não o DIU, desde que seu risco à exposição de DST fosse baixo, ou seja, tivessem parceiro sexual único e relação monogâmica bilateral.
+i) DIU medicado com progesterona (sistema intrauterino liberador de levonorgestrel – SIU-LNG) – Mirena®
+O SIU-LNG é um reservatório de levonorgestrel com liberação intrauterina, com durabilidade de 5 anos (cobre 10 a 12 anos), com menos efeitos colaterais e mais eficácia que os demais (cobre). O retorno à fertilidade após a sua retirada é quase imediato. A liberação de progesterona intrauterina torna o muco cervical espesso e hostil à penetração do es-permatozoide, além da inibição da resposta endometrial ao estradiol circulante (efeito antiproliferativo endometrial). Taxa de eficácia muito elevada: IP 0,1. 
+Tabela 4 - Contraindicações absolutas e relativas ao uso do sistema intrauterino liberador de levonorgestrel 
+Contraindicações absolutas
+- Gravidez;
+- Septos intrauterinos, pólipos endometriais e mioma submucoso;
+- Infecção aguda, recente (<3 meses) ou recorrente;
+- Cervicite não tratada;
+- Alergia a levonorgestrel;
+- Doença hepática aguda ou tumor de fígado.
+Contraindicações relativas
+- Fator de risco para DSTs;
+- Perfuração uterina ou dor intensa com uso de outros DIUs;
+- Sangramento uterino anormal não diagnosticado;
+- Imunossupressão;
+- História patológica pregressa de reflexo vasovagal (pode ocorrer durante a inserção do DIU);
+- História patológica pregressa de intolerância aos proges-tágenos (depressão importante).
 
-g) DIU e gestação
-A remoção do DIU está indicada imediatamente, assim que o diagnóstico de gestação intrauterina é confirmado, para evi-tar a principal complicação de uma gestação com o método, que é o aborto espontâneo (50 a 60% dos casos), ocorrendo a imensa maioria desses abortamentos no 2º trimestre, muitas vezes em situação de infecção (aborto séptico). A retirada do DIU por si só pode provocar um abortamento, porém permite aumentar as chances de sucesso da gravidez, evitando o risco de até 60% de abortamento na permanência do dispositivo.
-Com relação à gestação ectópica, o risco nas usuárias de DIU é menor que entre as mulheres que não usam nenhum mé-todo contraceptivo; por outro lado, se uma usuária do método engravidar, será imperativo pensar em gestação ectópica, pois a proteção concedida pelo DIU é maior para gravidez tópica do que para ectópica.
+Seguem características importantes do SIU-LNG:
+Cerca de 20% das pacientes evoluem para amenorreia no 1º ano após a inserção. Do 2º ao 5º ano esse número au-menta para 50%;
+Pode ser utilizado como veículo para terapia de reposição hormonal;
+Minimiza os efeitos do tamoxifeno sobre o endométrio;
+Pode ser utilizado no tratamento de menorragia, hiperplasia endometrial e da adenomiose;
+No tratamento da endometriose, há redução da dor pélvica crônica e dismenorreia;
+Há absorção sistêmica da progesterona? Sim. Em consequência, há inibição parcial do desenvolvimento folicular ovari-ano e da ovulação; 15% das pacientes apresentam ciclos anovulatórios. 
+SIU-LNG e gravidez: o DIU também deve ser removido, como na gestação com DIU de cobre e, se necessário, por via histeroscópica. Entretanto, se gestação avançada (>12 semanas) e DIU distante do orifício interno do colo, deve-se evitar a sua retirada, pois a taxa de insucesso é muito elevada. Neste caso, a gestação seguirá com o DIU intracavitário e com risco aumentado de abortamento, trabalho de parto prematuro e infecções;
+Cerca de 30% das usuárias apresentarão cistos ovarianos funcionais à ultrassonografia. Estes cistos costumam ser assin-tomáticos e tendem a desaparecer. Portanto, a conduta frente a um achado de cistos ovarianos simples em usuárias de SIU-LNG é expectante.
+  
+ 
+Figura 4 - Sistema intrauterino com liberação contínua de levonorgestrel
+Tabela 5 - Efeitos adversos do sistema intrauterino liberador de levonorgestrel
+Complicações 	Manifestações clínicas
+Expulsão do DIU	- Sangramento irregular ou dores em todos os ciclos;
+- Dor persistente durante as relações sexuais – expulsão parcial.
+Deslocamento do DIU	- Sangramento importante e/ou dores abdominais nos pri-meiros 3 a 5 dias após a inserção do DIU;
+- Sangramento irregular ou dores em todos os ciclos;
+- Dor persistente durante as relações sexuais;
+- Fios do SIU-LNG mais longos ou não visíveis.
+Perfuração uterina	- Sangramento importante e/ou dores abdominais nos pri-meiros 3 a 5 dias após a inserção do DIU;
+- Dor persistente durante as relações sexuais.
+Infecção	- Sangramento importante e/ou dores abdominais nos pri-meiros 3 a 5 dias após a inserção do DIU;
+- Febre ou calafrios com ou sem corrimento vaginal associa-do;
+- Dor persistente durante as relações sexuais.
+Gestação tópica ou ectópica	- Dor abdominal, amenorreia ou oligomenorreia, beta-HCG positivo, náuseas e vômitos;
+- Atraso menstrual com sintomas de gravidez;
+- Expulsão do DIU;
+- Fios do SIU-LNG mais longos ou não visíveis.
 
+	
 Vídeo
 Dispositivos intrauterinos
   
 
 D - Lactação e amenorreia
-Em razão da hiperprolactinemia fisiológica e do hipoestrogenismo decorrentes da amamentação, há inibição da função ovulatória nos primeiros 6 meses pós-parto, quando o aleitamento é exclusivo, e se a mulher se mantém em amenorreia. Nessas condições, a eficácia é alta, com taxas de falha de 2 gestações por 100 mulheres/ano. A amamentação não tem efeitos colaterais e estimula a formação e o vínculo mãe–bebê. Quando quaisquer das condições descritas não estão mais presentes, o método deve ser substituído por outro que não interfira na amamentação.
+Em razão da hiperprolactinemia fisiológica e do hipoestrogenismo decorrentes da amamentação, há inibição da função ovulatória nos primeiros 6 meses pós-parto, quando o aleitamento é exclusivo, e se a mulher se mantém em amenor-reia. Nessas condições, a eficácia é alta, com taxas de falha de 2 gestações por 100 mulheres/ano. A amamentação não tem efeitos colaterais e estimula a formação e o vínculo mãe–bebê. Quando quaisquer das condições descritas não estão mais presentes, o método deve ser substituído por outro que não interfira na amamentação.
 
 E - Métodos definitivos de esterilização
-
 a) Feminino: laqueadura tubária 
-Quando se opta pela Laqueadura Tubária (LT), o casal deve ter plena consciência de que esse é um método definitivo, que requer intervenção cirúrgica e anestesia (Figura 4). Quanto às técnicas, a LT pode ser realizada por videolaparoscopia, via abdominal (mini-Pfannenstiel ou periumbilical no puerpério imediato) ou vaginal. As tubas podem ser cauterizadas, secciona-das, ou pode-se optar pela utilização de um anel tubário ou grampo.
-A LT pode ser feita no pós-parto, no pós-aborto, durante cesárea ou fora do ciclo gravídico-puerperal. A Legislação Brasi-leira estipula que a LT só pode ser feita caso a paciente tenha plena capacidade civil, idade superior a 25 anos ou, no mínimo, 2 filhos vivos (sem considerar o feto da gestação em curso). Deve-se respeitar um intervalo mínimo de 60 dias entre a mani-festação do desejo de LT e sua realização, período em que o casal deve conhecer todos os métodos contraceptivos disponí-veis. Deve-se obter consentimento pós-informado assinado da paciente ou do casal, em caso de relação conjugal estável. Fora dessas situações, a LT só pode ser realizada se a paciente se encontra em risco de morte ou nos casos de agravo à saúde em gestações futuras. Isso deve ser comprovado por um relatório assinado por 2 médicos. Para ser realizada no intraparto, após aborto ou período puerperal, deve ser comprovada a necessidade, como risco iminente de ruptura uterina por sucessivas cesáreas prévias (Lei nº 9.263, de 1996, que regulamenta o planejamento familiar).
+Quando se opta pela Laqueadura Tubária (LT), o casal deve ter plena consciência de que esse é um método definitivo (sua reversão é possível, porém tem poucos resultados positivos) e requer intervenção cirúrgica e anestesia (Figura 4). Quanto às técnicas, a LT pode ser realizada por videolaparoscopia, via abdominal (mini-Pfannenstiel ou periumbilical no puerpério imediato) ou vaginal. As tubas podem ser cauterizadas, seccionadas, ou pode-se optar pela utilização de um anel tubário ou grampo.
+A Legislação Brasileira estipula que:
+A LT só pode ser feita se a paciente tem plena capacidade civil; 
+Idade superior a 25 anos ou =2 filhos vivos (sem considerar o feto da gestação em curso); 
+Deve-se respeitar um intervalo mínimo de 60 dias entre a manifestação do desejo de LT e sua realização, período em que o casal deve conhecer todos os métodos contraceptivos disponíveis, sendo realizado aconselhamento multidisci-plinar, visando desencorajar a esterilização precoce;   
+Consentimento pós-informado assinado pela paciente ou pelo casal, em caso de relação conjugal estável. Logo, o côn-juge tem que assinar o termo de consentimento para a ligadura tubária;
+Fora dessas situações, a LT só pode ser realizada se a paciente se encontra em risco de morte ou nos casos de agravo à saúde em gestações futuras. Isso deve ser comprovado por um relatório assinado por 2 médicos;
+A LT não pode ser realizada durante o parto ou aborto. Para que a LT seja realizada no intraparto, após aborto ou perí-odo puerperal, deve ser comprovada a necessidade, como risco iminente de ruptura uterina por sucessivas cesáreas prévias (Lei nº 9.263, de 1996, que regulamenta o planejamento familiar);
+A esterilização cirúrgica como método contraceptivo só pode ser realizada por LT ou vasectomia. Não pode ser realiza-da por histerectomia ou ooforectomia. 
 
-Tema de prova
-É importante fixar bem a legislação vigente sobre a esterilização cirúrgica. A idade mínima necessária ou o número de filhos vivos e o tempo de assinatura do consentimento informado é tema muito frequente em questões de prova de Residência Médica. 
+Tema
+frequente de prova
+É importante fixar bem a legislação vigente sobre a esterilização cirúrgica. A idade mínima necessá-ria ou o número de fi-lhos vivos e o tempo de assinatura do consenti-mento informado são temas muito frequentes em questões de prova de Residência Médica. 
+
 
  
-Figura 4 - Laqueadura tubária
-
+Figura 5 - Laqueadura tubária
 b) Masculino: vasectomia
-Trata-se do método de esterilização definitiva oferecido aos homens. Devem ser respeitadas as mesmas condições já co-locadas para a esterilização feminina. Também apresenta alta eficácia, com taxas de falha de 0,15 gestação por 100 ho-mens/ano. A reversão do método é possível, porém com poucos resultados; logo, a decisão deve ser considerada definitiva.
-
+Trata-se do método de esterilização definitiva oferecido aos homens. Devem ser respeitadas as mesmas condições já colocadas para a esterilização feminina. Também apresenta alta eficácia, com taxas de falha de 0,15 gestação por 100 homens/ano. A reversão do método é possível, porém com poucos resultados; logo, a decisão deve ser considerada definitiva.
 c) Implante endotubário (Essure®)
-Trazido ao Brasil em 2009, trata-se da colocação, por via endoscópica, de dispositivos semelhantes a pequenas molas de metal inseridas nos óstios tubários que promovem a fibrose local, com consequente obstrução tubária definitiva. Tem a van-tagem de ser um procedimento ambulatorial que dispensa qualquer anestesia ou sedação e promove contracepção perma-nente. 
-
+Trazido ao Brasil em 2009, trata-se da colocação, por via endoscópica, de dispositivos semelhantes a pequenas molas de metal inseridas nos óstios tubários que promovem a fibrose local, com consequente obstrução tubária definitiva. Tem a vantagem de ser um procedimento ambulatorial que dispensa qualquer anestesia ou sedação e promove contra-cepção permanente. 
 3. Métodos hormonais
-
 A - Contraceptivos hormonais orais
-São as popularmente chamadas pílulas anticoncepcionais, que se dividem em monofásicas (todos os comprimidos têm a mesma dosagem de medicamentos), bifásicas (2 dosagens diferentes na cartela) e trifásicas (3 dosagens). Podem ser combi-nados quando compostos de 2 esteroides (estrogênio + progestogênio) ou de progestogênio exclusivo (Figura 5). A composi-ção estrogênica da maioria dos contraceptivos combinados é feita com o etinilestradiol (estrogênio sintético), mas já existem pílulas com valerato de estradiol e 17-beta-estradiol (estrogênios com molécula similar ao estrogênio endógeno natural). Quanto mais sintética a composição, maior o risco dos eventos tromboembólicos, logo, no período periclimatérico, sempre que possível, tentamos empregar os hormônios naturais.
+São as popularmente chamadas pílulas anticoncepcionais, que se dividem em monofásicas (todos os comprimidos têm a mesma dosagem de medicamentos), bifásicas (2 dosagens diferentes na cartela) e trifásicas (3 dosagens). Podem ser combinados quando compostos de 2 esteroides (estrogênio + progestogênio) ou de progestogênio exclusivo (Figura 6). A composição estrogênica da maioria dos contraceptivos combinados é feita com o etinilestradiol (estrogênio sintéti-co), mas já existem pílulas com valerato de estradiol e 17-beta-estradiol (estrogênios com molécula similar ao estrogê-nio endógeno natural). Quanto mais sintética a composição, maior o risco dos eventos tromboembólicos, logo, no perí-odo periclimatérico, sempre que possível, tentamos empregar os hormônios naturais.
 Os contraceptivos hormonais orais combinados podem ser classificados quanto à dosagem de estrogênios.
+Tabela 6 - Classificação quanto à dosagem de estrogênios
+Alta	>50µg de etinilestradiol (não são mais fabri-cados)
+Baixa	20, 30 e 35µg de etinilestradiol
+Muito baixa ou microdose	15µg de etinilestradiol
 
-Tabela 2 - Classificação quanto à dosagem de estrogênios
-Alta	>50µg de etinilestradiol (não são mais fabricados)
-Média	50µg de etinilestradiol
-Baixa	De 30 a 35µg de etinilestradiol
-Muito baixa ou microdose	De 15 a 20µg de etinilestradiol
-
-Os contraceptivos de progestogênio exclusivo podem ser do tipo minipílula, com dosagem de progestogênio que varia de 1/2 a 1/10 da quantidade de progestogênio dos contraceptivos combinados e está indicada ao período de amamentação, visto que sua eficácia menor pode ser compensada pelo efeito anticoncepcional da lactação; e do tipo pílula, com somente desogestrel, 75µg, eficaz mesmo fora desse período. Induzem amenorreia, logo são bastante empregados em pacientes que se beneficiam dessa condição, como na endometriose, anemia ferropriva por hipermenorragia, ou outras. As pílulas de pro-gestogênio exclusivo também são consideradas uma boa opção para as pacientes com contraindicação ao uso de estrogênio.
-O mecanismo de ação envolve o espessamento do muco cervical, dificultando a penetração e a ascensão dos espermato-zoides, bem como a inibição da ovulação, além de alterações endometriais (hipo ou atrofia) e da motilidade tubária, pela ação da progesterona.
-
+Os contraceptivos de progestogênio exclusivo podem ser do tipo minipílula, com dosagem de progestogênio que varia de 1/2 a 1/10 da quantidade de progestogênio dos contraceptivos combinados e está indicada ao período de amamen-tação, visto que sua eficácia menor pode ser compensada pelo efeito anticoncepcional da lactação; e do tipo pílula, somente com desogestrel, 75µg, eficaz mesmo fora desse período. Induzem amenorreia, logo são bastante empregados em pacientes que se beneficiam dessa condição, como na endometriose, anemia ferropriva por hipermenorragia, ou outras. As pílulas de progestogênio exclusivo também são consideradas uma boa opção para as pacientes com contra-indicação ao uso de estrogênio.
+O mecanismo de ação da pílula apenas de progesterona envolve:
+Espessamento do muco cervical, dificultando a penetração e a ascensão dos espermatozoides;
+Inibição da ovulação;
+Alterações endometriais (hipo ou atrofia);
+Alterações da motilidade tubária.
  
-Figura 5 - Anticoncepcionais orais de progestogênio exclusivo
+Figura 6 - Anticoncepcionais orais de progestogênio exclusivo
+O mecanismo de ação da pílula combinada (estrogênio + progesterona) envolve a supressão da ovulação, que acontece pela inibição da secreção hipotalâmica dos fatores liberadores das gonadotrofinas, fundamentalmente o GnRH, assim como pela inibição da síntese de gonadotrofinas hipofisárias. O progestogênio inibe a secreção do hormônio luteinizan-te (LH), e o componente estrogênico inibe a secreção do hormônio folículo-estimulante (FSH). Com isso, não há estímu-lo ovariano, com sua consequente maturação folicular, assim como não ocorre o pico de LH levando à ovulação, logo, há anovulação por supressão do eixo hipotalâmico-hipofisário-ovariano (bloqueio gonadotrófico). Há, ainda modifica-ção no muco cervical, redução na motilidade ciliar tubária e transformação inadequada do endométrio, corroborando para a infertilidade reversível associada ao uso de contraceptivo hormonal oral combinado.
+Tema frequente de prova
+Devem-se fixar bem as contraindicações aos métodos contraceptivos combinados orais. O te-ma é muito prevalente nas questões das provas de Residência Médica.
 
-Quanto aos contraceptivos orais combinados, a supressão da ovulação acontece pela inibição da secreção hipotalâmica dos fatores liberadores das gonadotrofinas, fundamentalmente o GnRH, assim como pela inibição da síntese de gonadotrofi-nas hipofisárias. O progestogênio inibe a secreção do hormônio luteinizante (LH), e o componente estrogênico inibe a secre-ção do hormônio folículo-estimulante (FSH). Com isso, não há estímulo ovariano, com sua consequente maturação folicular, assim como não ocorre o pico de LH levando à ovulação.
-
-Tema de prova
-Deve-se fixar bem as contraindicações aos métodos contraceptivos combinados orais. O tema é muito prevalente nas ques-tões das provas de Residência Médica.
-
-Tabela 3 - Contraceptivos hormonais combinados – riscos e benefícios
+Tabela 7 - Contraceptivos hormonais combinados – riscos e benefícios
 Eficácia	Para o uso ideal, a falha é de 0,1 gestação por 100 mulheres/ano; já no uso rotineiro, é de 6 a 8 gestações por 100 mulheres/ano.
-Efeitos colaterais	Os mais comuns são náuseas, cefaleia, edema, aumento ponderal discreto, acne, irregularidade menstrual, alterações de humor, depressão e diminuição da libido. A intensidade desses efeitos depende da dosagem hor-monal e do tipo de progestogênio utilizado. A diferença no progestogênio tem grande influência no seu poder androgênico; os derivados da 19-nortestosterona têm os maiores efeitos androgênicos e diabetogênicos. Outras alterações indesejáveis são maior ocorrência de eventos tromboembólicos, em virtude do estado de hipercoagu-labilidade promovido pelo componente estrogênico, bem como a tendência a retenção hídrica, podendo levar a hipertensão arterial.
 Efeitos 
-benéficos	São diversos, além do efeito contraceptivo: proteção contra gravidez ectópica, câncer de ovário e de endométrio, moléstia inflamatória pélvica aguda, alterações fibrocísticas benignas da mama, miomas, endometriose, retorno imediato à fertilidade com a suspensão do método, sangramentos menstruais regulares, tratamento e preven-ção da anemia ferropriva. Outros benefícios incluem o aumento do colesterol HDL e a diminuição do colesterol LDL, pelo componente estrogênico com efeito protetor sobre a aterosclerose.
-Contraindicações	Tabagistas com mais de 35 anos, hipertensão arterial, doença cardiovascular, acidente vascular cerebral prévio, trombose venosa profunda prévia, diabetes mellitus com diagnóstico há 20 anos ou mais OU com vasculopatia periférica, doença hepática ativa, enxaqueca com aura (enxaqueca sem aura também contraindica o uso de anticoncepcionais combinados em pacientes com 35 anos ou mais), colecistopatia, uso de medicamentos que interferem na absorção, como alguns antibióticos (por exemplo, rifampicina), gestação, amamentação, imobili-zação prolongada. Algumas dessas contraindicações dependem da gravidade do processo e da avaliação médica de cada caso.
+benéficos	São diversos, além do efeito contraceptivo: prote-ção contra gravidez ectópica, câncer de ovário e de endométrio, moléstia inflamatória pélvica aguda, alterações fibrocísticas benignas da ma-ma, miomas, endometriose, retorno imediato à fertilidade com a suspensão do método, sangra-mentos menstruais regulares, tratamento e pre-venção da anemia ferropriva. Outros benefícios incluem o aumento do colesterol HDL e a dimi-nuição do colesterol LDL, pelo componente estro-gênico com efeito protetor sobre a aterosclerose.
 
-O componente progestacional dos anticoncepcionais é variável e apresenta particularidades. Os principais progestogênios dos preparados comerciais são:
-Noretisterona: faz parte do grupo das primeiras progesteronas sintéticas introduzidas. Possui efeito progestacional fraco e elevada ação androgênica e está associada ao risco de eventos trombogênicos em associação ao etinilestradiol. Há evi-dências de diminuição do colesterol HDL, aumento do LDL e aumento dos triglicérides;
-Levonorgestrel: desenvolvido a partir da noretisterona, apresenta maior seletividade pelo receptor da progesterona. Es-tudos evidenciam diminuição considerável no risco de eventos tromboembólicos em relação à noretisterona. Entretanto, apresenta importante atividade androgênica. As evidências clínicas também mostram piora no per?l lipídico (diminuição do HDL e aumento do LDL e dos triglicérides);
-Desogestrel e gestodeno: foram desenvolvidos para diminuir o efeito androgênico e o impacto negativo no per?l lipídico e possuem a?nidade 2 vezes maior com o receptor de progesterona e 2 vezes menor com o receptor de androgênios. Além disso, evidenciam melhora do per?l lipídico (aumento do HDL e diminuição do LDL e dos triglicérides). Entretanto, um grande ensaio clínico realizado na Inglaterra (Carper et al., 1995) evidenciou um aumento substancial no risco trom-boembólico em relação ao levonorgestrel e à noretisterona. Estudos posteriores con?rmaram o achado, e o risco trom-bogênico é 2 vezes maior em relação aos progestogênios noretisterona e levonorgestrel;
-Drospirenona: progestogênio com efeito antimineralocorticoide e antiandrogênico, apresenta maior risco trombogênico do que o desogestrel e o gestodeno. Em relação ao per?l lipídico, determina aumento do HDL e diminuição do LDL e dos triglicérides. 
-Desta forma, conclui-se que quanto mais antiandrogênico for um progestogênio maior o seu risco tromboembólico. Con-clui-se, portanto, que o progestogênio de menor risco trombogênico é o levonorgestrel.
+Na Tabela a seguir, estão os efeitos colaterais dos contraceptivos hormonais orais combinados (AOCs), lembrando que a intensidade desses efeitos depende da dosagem hormonal e do tipo de progestogênio utilizado.
+
+Tabela 8 - Efeitos colaterais dos contraceptivos hormonais orais combinados 
+Sinais e sintomas	Comentários
+Náuseas	Pode haver hepatite medicamentosa por uso de AOCs. Deve ser evitado em pacientes com tumores hepáticos e hepatite.
+Cefaleia	Na presença de enxaqueca com aura, o AOC deverá ser suspenso, pois é fator de risco para Acidente Vascular Encefálico (AVE).
+Edema e aumento ponderal discreto	Ocorre por retenção hídrica, podendo-se optar pela drosperinona como pro-gestágeno, visto que apresenta efeito antimineralocorticoide. Há progeste-ronas que provocam retenção hídrica.
+Acne 	Depende da progesterona associada. Progesteronas de ação antiandrogêni-cas melhoram a acne, como ciproterona, drosperinona e clormadinona. 
+Irregularidade menstrual 	AOCs podem cursar com sangramentos de escape, principalmente nos 3 primeiros ciclos, principalmente aqueles de muito baixa dose. 
+Alterações de humor e depressão	Ocorrem pela mudança hormonal. 
+Diminuição da libido	Ocorre principalmente nos AOCs com efeito antiandrogênico, como ciprote-rona, drosperinona e clormadinona.
+Eventos tromboembólicos	Causados, principalmente, pelo estrogênio do AOC. Parece que o levonorges-trel, como progesterona associada, provoca menor risco de trombose venosa profunda e tromboembolismo pulmonar.  
+Infarto agudo do miocárdio 	O infarto agudo do miocárdio em usuárias de AOC, em geral, é associado a outros fatores de risco como tabagismo, hipertensão, diabetes e dislipide-mia.
+Acidente vascular cerebral	Acidente vascular cerebral é extremamente raro e também associado aos fatores de risco para infarto agudo do miocárdio e à presença de enxaqueca com aura.
+Hipertensão arterial sistêmica 	O etinilestradiol provoca aumenta o substrato de renina, com consequente retenção hídrica. Geralmente, não causa hipertensão, mas pode piorar a hipertensão preexistente. 
+
+
+
+
+
+
+
+A diferença no progestogênio tem grande influência no seu poder androgênico; os derivados da 19-nortestosterona têm os maiores efeitos androgênicos e diabetogênicos. Outras alterações indesejáveis são: maior ocorrência de hiper-coagulabilidade e tendência a retenção hídrica, podendo levar a hipertensão arterial. 
+O etinilestradiol é o principal estrogênio nos AOCs e cursa com aumento do substrato de renina, elevando a síntese de angiotensina e a produção de aldosterona, gerando vasoconstrição e retenção de sódio e água, com consequente ele-vação pressórica. Entretanto, não é frequente a hipertensão ocasionada pelo uso de ACO, mas piora a hipertensão preexistente. O impacto hepático do estrogênio é dose-dependente. Apresenta, ainda, perfil pró-trombótico dose-dependente. Reduz o colesterol total e o LDL, e aumenta o HDL.  
+O componente progestacional dos anticoncepcionais é variável e apresenta particularidades. Os principais progestogê-nios dos preparados comerciais são:
+Noretisterona: faz parte do grupo das primeiras progesteronas sintéticas introduzidas. Possui efeito progestacional fraco e elevada ação androgênica e está associada ao risco de eventos trombogênicos em associação ao etinilestradi-ol. Há evidências de diminuição do colesterol HDL, aumento do LDL e aumento dos triglicérides;
+Levonorgestrel: desenvolvido a partir da noretisterona, apresenta maior seletividade pelo receptor da progesterona. Estudos evidenciam diminuição considerável no risco de eventos tromboembólicos em relação à noretisterona. Entre-tanto, apresenta importante atividade androgênica. As evidências clínicas também mostram piora no per?l lipídico (diminuição do HDL e aumento do LDL e dos triglicérides). Apresenta menor efeito tromboembólico;
+Desogestrel e gestodeno: foram desenvolvidos para diminuir o efeito androgênico e o impacto negativo no per?l lipí-dico e possuem afinidade 2 vezes maior com o receptor de progesterona e 2 vezes menor com o receptor de andro-gênios. Além disso, evidenciam melhora do per?l lipídico (aumento do HDL e diminuição do LDL e dos triglicérides). Entretanto, um grande ensaio clínico realizado na Inglaterra (Carper et al., 1995) evidenciou um aumento substancial no risco tromboembólico em relação ao levonorgestrel e à noretisterona. Estudos posteriores confirmaram o achado, e o risco trombogênico é 2 vezes maior em relação aos progestogênios noretisterona e levonorgestrel;
+Drospirenona: é um progestogênio com efeito antimineralocorticoide e antiandrogênico, que apresenta maior risco trombogênico do que o desogestrel e o gestodeno. Em relação ao perfil lipídico, determina aumento do HDL e dimi-nuição do LDL e dos triglicérides. 
+Desta forma, constata-se que, quanto mais antiandrogênico for um progestogênio, maior será o seu risco tromboembó-lico. Conclui-se, portanto, que o progestogênio de menor risco trombogênico é o levonorgestrel.
+Contraindicações aos AOCs: podem-se dividir as contraindicações aos AOC em 2 subgrupos:
+Aqueles considerados na categoria 3 de risco, denominados antigamente como contraindicação relativa, que corres-pondem ao grupo de pacientes em que o método não é o mais apropriado; 
+Os pacientes na categoria 4, antigamente considerados como contraindicação absoluta, em que o uso de AOC é inacei-tável, definitivamente proibido.    
+Tabela 9 - Contraindicações aos contraceptivos hormonais orais combinados
+Contraindicações relativas – categoria 3	Contraindicações absolutas – categoria 4
+Uso de medicações que interferem no metabolismo hepá-tico, principalmente no citocromo P450, como rifampicina, anticonvulsivantes (fenitoína, carbamazepina), barbitúri-cos, primidona, topiramato, oxcarbazepina	Trombofilia conhecida (fator V de Leiden, mutação do gene protrombina, deficiência de proteína C, S e antitrom-bina)
+--	Amamentação com <6 meses
+Tabagismo <15 cigarros/dia	Tabagista >15 cigarros/dia
+Hipertensão sem possibilidade de controle rotineiro dos níveis pressóricos	Níveis de pressão sistólica 140 a 159mmHg ou diastólica 90 a 99mmHg, ou sistólica >160 ou diastólica >100mmHg
+--	História pessoal de tromboembolismo venoso ou pulmo-nar, assim como AVE, infarto agudo do miocárdio e doença valvar complicada
+Enxaqueca sem aura	Enxaqueca com aura
+--	Câncer de mama
+--	Diabetes com lesão microvascular ou mais de 20 anos de duração
+Colestase relacionada ao AOC	Hepatite viral ativa
+Doença da vesícula biliar atual, em tratamento clínico	Cirrose
+--	Tumor hepático benigno e maligno
+
+Interações medicamentosas com contraceptivos hormonais orais são decorrentes de redução da absorção ou reabsor-ção, indução enzimática (citocromo P450), inibição enzimática ou proteínas transportadoras plasmáticas. As seguintes medicações têm maior interação medicamentosa com os AOCs, reduzindo seu efeito: anticonvulsivantes, barbitúricos, carbamazepina, penicilina e derivados, tetraciclinas, griseofulvina, rifampicina e triacetiloleandomicina. 
 
 B - Injetáveis
-Podem ser mensais ou trimestrais. Os primeiros são combinados e compostos de estrogênios naturais e progestogênios, e os trimestrais, de progestogênios exclusivos.
-
-Tabela 4 - Contraceptivos hormonais injetáveis – riscos e benefícios
+Podem ser mensais ou trimestrais. Os primeiros são combinados e compostos de estrogênios naturais e progestogê-nios. Os trimestrais são exclusivos de progestogênios – acetato de medroxiprogesterona de depósito (AMP-D).
+Tabela 10 - Contraceptivos hormonais injetáveis – riscos e benefícios
 Mecanismo de ação	É semelhante ao dos contraceptivos orais, com espessamento do muco cervical e inibi-ção da ovulação.
-Eficácia	São muito eficazes, com índices de falha entre 0,1 e 0,3 gestação por 100 mulhe-res/ano; nesses casos, o uso rotineiro aproxima-se muito do uso ideal.
-Contraindicações	Para os injetáveis mensais, são idênticas às dos contraceptivos orais, sendo ambos compostos combinados de estrogênio e progestogênio. Alguns defendem que, pelo fato de o estrogênio injetável mensal ser natural, a tolerância seria maior. E, no caso dos injetáveis trimestrais – compostos, exclusivamente, de progestogênios –, as contraindi-cações são quase inexistentes, sendo o método de escolha a pacientes com doenças graves, como reumatológicas e cardíacas.
-Efeitos colaterais	Os mais comuns são sangramento irregular, amenorreia, ganho de peso, perda de massa óssea e depressão. Tais efeitos são encontrados, com maior frequência, nos injetáveis trimestrais, juntamente com o retorno mais demorado à fertilidade. Os efei-tos colaterais dos casos dos contraceptivos mensais são semelhantes aos dos anticon-cepcionais.
+Eficácia	São muito eficazes, com índices de falha en-tre 0,1 e 0,3 gestação por 100 mulheres/ano; nesses casos, o uso rotineiro aproxima-se muito do uso ideal.
+Contraindicações	Para os injetáveis mensais, são idênticas às dos contraceptivos orais, sendo ambos compostos combinados de estrogênio e progestogênio. Al-guns defendem que, pelo fato de o estrogênio injetável mensal ser natural, a tolerância seria maior. E, no caso dos injetáveis trimestrais (apenas de progesterona), é uma boa opção con-traceptiva especialmente em mulheres com epi-lepsia e anemia falciforme. Compostos, exclusi-vamente, de progestogênios, as contraindicações são quase inexistentes, sendo o método de esco-lha a pacientes com doenças graves, como reu-matológicas e cardíacas.
+Efeitos colaterais	Os mais comuns são sangramento irregular, amenorreia, ganho de peso, perda de massa óssea e depressão. Tais efeitos são encontra-dos, com maior frequência, nos injetáveis trimestrais, juntamente com o retorno mais demorado à fertilidade. Os efeitos colaterais dos casos dos contraceptivos mensais são semelhantes aos dos anticoncepcionais orais.
 
+O AMP-D tem eficácia semelhante à da esterilização e melhor que os contraceptivos orais combinados. Sua maior van-tagem está no fato de poder ser usado em pacientes com contraindicações ao estrogênio, como mulheres fumantes acima dos 35 anos, hipertensas e diabéticas. Há também segurança em seu uso nos transtornos convulsivos, anemia falciforme, doença cardíaca congênita, enxaqueca com aura e história prévia de tromboembolismo. 
+Drogas antiepilépticas podem aumentar a atividade das enzimas hepáticas, reduzindo a eficácia dos AOCs. Entretanto, os AMP-D apresentam níveis hormonais muito elevados, assim, mesmo com a atividade das enzimas hepáticas aumen-tada nesses pacientes, não há redução da eficácia contraceptiva dos AMP-D. Além disso, os progestogênios aumentam o limiar convulsivo em pacientes epiléticas;
+AMP-D reduz as células vermelhas falciformes e reduz a frequência e intensidade das crises falcêmicas, sendo o con-traceptivo de escolha em pacientes com anemia falciforme; 
+Podem ser utilizados com segurança durante a amamentação.   
+
+Tabela 11 - Indicações do uso de AMP-D
+O uso do AMP-D diminui o risco das seguintes afecções:
+- Câncer endometrial;
+- Anemia ferropriva; 
+- DIP;
+- Gestação ectópica;
+- Leiomiomas uterinos.
+O uso do AMP-D pode melhorar as seguintes condições:
+- Menorragia/dismenorreia;
+- Sintomas de síndrome pré-menstrual;
+- Dor em mulheres com endometriose;
+- Convulsões refratárias e tratamentos anticonvulsivantes convencionais;
+- Hemoglobinopatias;
+- Hiperplasia endometrial;
+- Dor pélvica/dispaurenia de origem ovariana pós-histerectomia;
+- Câncer de mama metastático;
+- Câncer endometrial metastático.
+Tabela 12 - As principais contraindicações absolutas (categoria 4) e relativas (categoria 3) para o uso de AMP-D
+Contraindicações absolutas aos injetáveis contendo apenas progestogênio – categoria 4 da OMS
+Câncer de mama atual
+Contraindicações relativas ao uso dos injetáveis contendo apenas progestogênio – categoria 3 da OMS
+- <6 semanas pós-parto;
+- Múltiplos fatores de risco para doença cardiovascular arterial (tais como idade >35 anos, tabagismo, diabetes e hipertensão);
+- Níveis elevados de pressão arterial (medições feitas corretamente) sistólica >160mmHg ou diastólica >100mmHg;
+- Hipertensão com doença vascular;
+- Trombose venosa profunda ou embolia pulmonar;
+- Trombose venosa profunda ou embolia pulmonar atuais;
+- Doença cardíaca isquêmica atual ou pregressa;
+- Acidente vascular cerebral;
+- Sangramento vaginal inexplicável (suspeita grave) antes da avaliação;
+- Câncer de mama no passado ou sem evidência de doença por 5 anos;
+- Diabetes:
+· Com nefropatia, retinopatia, neuropatia;
+· Com outra doença vascular ou diabetes com duração >20 anos.
+- Hepatite viral ativa;
+- Cirrose descompensada;
+- Tumores do fígado + adenoma (benigno);
+- Tumores do fígado + maligno (hepatoma).
+
+Há anticoncepcionais de progesterona apenas, mas por via oral. São utilizados continuamente e provocam amenorreia durante o uso. A progesterona utilizada é desogestrel 75µg (Cerazette®, Nactali®). São muito utilizados naquelas pacien-tes com contraindicação ao uso de estrogênio, durante a amamentação, e em pacientes com diagnóstico de endome-triose, síndrome pélvica congestiva (varizes pélvicas) e sangramento uterino anormal na perimenopausa por anovula-ção. 
 C - Transdérmicos, anel vaginal e implante
-Os transdérmicos (adesivo) e o anel vaginal são compostos mistos de estrogênios sintéticos e progestogênios, que diferem dos contraceptivos orais por sua via de aplicação, que não têm a 1ª passagem hepática. Têm a vantagem posológica de 1 apli-cação por semana para o adesivo e 1 por mês para o anel, e suas contraindicações são as mesmas para os contraceptivos orais. Os efeitos colaterais também costumam ser semelhantes aos dos contraceptivos orais, diferindo apenas na sensibilida-de gástrica, em razão da via de administração. Os adesivos transdérmicos têm diminuição da sua absorção em pacientes com 90kg ou mais de peso. Nestas pacientes, o excesso de tecido adiposo pode diminuir a absorção hormonal e elevar a sua taxa de falhas.
-Os implantes contêm progestogênio exclusivo, que é liberado em microdoses diárias. Sua ação ocorre por inibição da ovu-lação e espessamento do muco cervical com alterações endometriais, diminuindo a espessura deste. São altamente eficazes, com taxa zero de gestação em 3 anos de seguimento. O efeito colateral mais comum, que leva à interrupção do método, é o sangramento uterino irregular que pode ocorrer de forma imprevisível em usuárias de implantes. Outros efeitos colaterais são alterações de humor, cefaleia e diminuição da libido. São indicados para praticamente todas aquelas que se adaptem ao método e têm duração de 3 anos. 
-
+Os transdérmicos (adesivo) e o anel vaginal são compostos mistos de estrogênios sintéticos e progestogênios, que dife-rem dos contraceptivos orais por sua via de aplicação, que não têm a 1ª passagem hepática. Têm a vantagem posológica de 1 aplicação por semana para o adesivo e 1 por mês para o anel, e suas contraindicações são as mesmas para os con-traceptivos orais. Os efeitos colaterais também costumam ser semelhantes aos dos contraceptivos orais, diferindo ape-nas na sensibilidade gástrica, em razão da via de administração. Os adesivos transdérmicos têm diminuição da sua ab-sorção em pacientes com 90kg ou mais de peso. Nestas pacientes, o excesso de tecido adiposo pode diminuir a absor-ção hormonal e elevar a sua taxa de falhas.
+Os implantes contêm progestogênio exclusivo, que é liberado em microdoses diárias. Sua ação ocorre por inibição da ovulação e espessamento do muco cervical com alterações endometriais, diminuindo a espessura deste. São altamente eficazes, com taxa zero de gestação em 3 anos de seguimento. O efeito colateral mais comum, que leva à interrupção do método, é o sangramento uterino irregular, que pode ocorrer de forma imprevisível em usuárias de implantes. Outros efeitos colaterais são alterações de humor, cefaleia e diminuição da libido. São indicados para praticamente todas aquelas que se adaptem ao método e têm duração de 3 anos. 
  
-Figura 6 - (A) Adesivo transdérmico; (B) anel vaginal e (C) implante
-
-D -	Sistema intrauterino liberador de levonorgestrel
-Trata-se de um DIU com sistema que libera progestogênio continuamente no útero (Figura 7) e que age por diminuição do muco cervical e por efeitos endometriais diretos com supressão da camada funcional. Não é um antiovulatório, podendo ser encontradas ovulações em até 90% das usuárias. Suas taxas de falha são pequenas, pois o método não depende de fatores associados ao uso rotineiro. O índice de Pearl é de 0 a 0,2 ao ano durante os 5 anos de permanência do dispositivo.
-
- 
-Figura 7 - Sistema intrauterino com liberação contínua de levonorgestrel
-	
-O objetivo do sistema intrauterino liberador de levonorgestrel era manter a paciente em amenorreia. Entretanto, os estu-dos evidenciam que somente 20% das usuárias entram em amenorreia plena no 1º ano de uso e 50% nos anos subsequentes. Apresenta validade de 5 anos e o retorno à fertilidade após a sua retirada é quase imediato.
-
-E - Contracepção de emergência
-Indicada para relações sexuais desprotegidas (falha do uso da anticoncepção ou ausência dela) e casos de violência sexu-al, é considerada não abortiva por não agir na implantação do blastocisto; atua inibindo a ovulação ou adequado desenvolvi-mento do corpo lúteo, do endométrio ou do muco cervical, ou alterando a fisiologia das tubas uterinas ou dos espermatozoi-des.
-Utiliza-se 1 comprimido de levonorgestrel (0,75 mg) a cada 12 horas em 2 tomadas ou 2 comprimidos em dose única (o que equivale a 1,5 mg de levonorgestrel), o mais precocemente possível. Pode ser associado ou não à ingestão de antieméti-co. 
+Figura 7 - (A) Adesivo transdérmico; (B) anel vaginal e (C) implante
+D - Contracepção de emergência
+Indicada para relações sexuais desprotegidas (falha do uso da anticoncepção ou ausência dela) e casos de violência sexual, é considerada não abortiva por não agir na implantação do blastocisto; atua inibindo a ovulação ou adequado desenvolvimento do corpo lúteo, do endométrio ou do muco cervical, ou alterando a fisiologia das tubas uterinas ou dos espermatozoides. Sua ação depende do momento do ciclo menstrual em que a contracepção de emergência é administrada:
+Se a mulher estiver na 1ª fase do ciclo, antes da ovulação: antes do pico de LH, o Contraceptivo de Emergência (CE) altera o crescimento folicular, impedindo ou retardando a ovulação por muitos dias; 
+Se ocorrer após a ovulação na 2ª fase do ciclo: o CE altera o transporte dos espermatozoides e do óvulo pela trompa de Falópio, modificando o muco cervical (hostil) e interferindo na capacitação do espermatozoide. 
+Podem ser feitos 2 esquemas: contraceptivo combinado ou apenas com levonorgestrel isolado. Eficácia similar para ambos os métodos, porém com menores efeitos colaterais no segundo.  
+Levonorgestrel isolado: utiliza-se 1 comprimido de levonorgestrel (0,75mg) a cada 12 horas em 2 tomadas ou 2 com-primidos em dose única (o que equivale a 1,5mg de levonorgestrel), o mais precocemente possível, de preferência nas primeiras 72 horas pós-coito. Pode ser associado ou não à ingestão de antiemético. Pode ser administrado até o 5º dia após a relação sexual. Entretanto, a sua eficácia é inversamente proporcional ao tempo decorrido da atividade sexual. Taxa de gestação: 1,1%;
+ Regime contraceptivo combinado (método de YUZPE): levonorgestrel 500µg + etinilestradiol 100µg, em 2 tomadas (a cada 12 horas). A 1ª dose deve ser, de preferência, nas primeiras 72 horas pós-coito. Taxa de gestação: 3,2%;
+Acetato de ulipristal: modulador do receptor de progesterona. Inibe ou atrasa a ovulação e altera o endométrio. Uso preferencial até 72 horas pós-coito. Taxa de gestação: 1,5%. Na Europa, seu uso é aprovado por até 120 horas pós-coito. 
+Importante lembrar:
+Mulheres com história de AVE, tromboembolismo, diabetes com complicações vasculares e enxaqueca severa podem usar CE de levonorgestrel isolado;
+A única contraindicação ao uso de CE com levonorgestrel isolado é gravidez confirmada;
+Não há comprovação de teratogenicidade no uso de CE com levonorgestrel isolado;
+Efeitos colaterais do levonorgestrel isolado: náuseas (40 a 50%), vômitos, vertigem, cefaleia e mastalgia, com remissão espontânea nas primeiras 24 horas após sua administração.
+Há possibilidade de inserção de DIU de cobre como opção de CE.
 
 Pergunta
 2013 - UERJ
-1. Com relação ao mecanismo de ação da contracepção de emergência (levonorgestrel 1,5mg em dose única), é incorreto afirmar que: 
-a) na 2ª fase do ciclo menstrual, atua modificando o muco cervical
-b) na 1ª fase do ciclo menstrual, atua impedindo ou retardando a ovulação
-c) na 1ª fase do ciclo menstrual, atua alterando o desenvolvimento dos folículos
-d) na 2ª fase do ciclo menstrual, atua dificultando a implantação no endométrio
+1. Com relação ao mecanismo de ação da contracepção de emergência (levonorgestrel 1,5mg em dose única), é in-correto afirmar que: 
+a) na 2ª fase do ciclo menstru-al, atua modificando o muco cervical
+b) na 1ª fase do ciclo menstru-al, atua impedindo ou retar-dando a ovulação
+c) na 1ª fase do ciclo menstru-al, atua alterando o desenvol-vimento dos folículos
+d) na 2ª fase do ciclo menstru-al, atua dificultando a implan-tação no endométrio
 Resposta no final do capítulo
 
-O esquema alternativo de Yuzpe consiste em 2 pílulas consideradas de média dose a cada 12 horas por 1 dia ou 4 pílulas de baixa dose a cada 6 horas por 1 dia.
-A RU-486, ou mifepristona, inibe a ação da progesterona. Ingerida até 7 semanas a contar do 1º dia da última menstrua-ção, impede a fixação e a manutenção do embrião no útero. A eficiência como abortivo sobe para 97% quando associada à prostaglandina, substância que faz o útero contrair. Adotada como alternativa ao aborto cirúrgico nos países que autorizam a interrupção da gravidez, a RU-486 está proibida no Brasil, ao contrário do contraceptivo de emergência à base de levonorges-trel.
-
-Tabela 5 - Critérios de elegibilidade da Organização Mundial da Saúde para início e continuidade de contraceptivos hormonais combina-dos orais
+A RU-486, ou mifepristona, inibe a ação da progesterona. Ingerida até 7 semanas a contar do 1º dia da última menstru-ação, impede a fixação e a manutenção do embrião no útero. A eficiência como abortivo sobe para 97% quando associ-ada à prostaglandina, substância que faz o útero contrair. Adotada como alternativa ao aborto cirúrgico nos países que autorizam a interrupção da gravidez, a RU-486 está proibida no Brasil, ao contrário do CE à base de levonorgestrel.
+Tabela 13 - Critérios de elegibilidade da Organização Mundial da Saúde para início e continuidade de contraceptivos hormonais combinados orais
 Categorias:
 1 - Condição para a qual não há restrição para o uso do método.
 2 - Condição em que há vantagens se sobrepondo ao risco teórico ou comprovado do uso do método.
@@ -219,36 +416,36 @@ Categorias:
 4 - Condição que representa risco à saúde inaceitável para o uso do método contraceptivo.
 1	2	3	4
 Pós-aborto	--	--	Gravidez
---	=6 meses pós-parto	6 semanas a 6 meses pós-parto	Amamentação <6 semanas pós-parto
---	Pós-parto >21 dias sem amamentação	Pós-parto sem amamenta-ção <21 dias	--
+--	=6 meses pós-parto	6 semanas a 6 me-ses pós-parto	Amamentação <6 semanas pós-parto
+--	Pós-parto >21 dias sem amamentação	Pós-parto sem amamentação <21 dias	--
 Idade <40 anos	Idade >40 anos	--	--
---	Idade <35 anos, fumante	Idade >35 anos, fumante (até 10 cigarros/dia)	Idade >35 anos, fumante (mais de 10 cigarros/dia)
+--	Idade <35 anos, fu-mante	Idade >35 anos, fu-mante (até 10 cigar-ros/dia)	Idade >35 anos, fumante (mais de 10 cigarros/dia)
 História de pré-eclâmpsia	Hipertensão (140 a 159x90 a 99mmHg)	Hipertensão (160 a 79x100 a 109mmHg)	Hipertensão (=180x=110mmHg)
-Diabetes gestacional	-	Diabetes não insulinode-pendente;
--	Diabetes insulinodepen-dente sem doença vascu-lar.	Nefropa-tia/retinopatia/neuropatia diabética	Nefropatia/retinopatia/neuropatia diabética/diabetes com mais de 20 anos de evolução
-Varizes leves – trombose superficial	Tromboflebite superficial	--	Trombose venosa profunda
---	Cirurgia sem imobilização prolongada	--	Cirurgia com imobilização prolon-gada
---	Valvulopatia não complica-da	--	Doença isquêmica do miocár-dio/valvulopatia complicada com hipertensão pulmonar/fibrilação arterial/endocardite bacteriana
+Diabetes gestacional	-	Diabetes não insuli-nodependente;
+-	Diabetes insulinode-pendente sem doen-ça vascular.	Nefropa-tia/retinopatia/neuropatia diabética	Nefropa-tia/retinopatia/neuropatia diabética/diabetes com mais de 20 anos de evolução
+Varizes leves – trombose superfi-cial	Tromboflebite super-ficial	--	Trombose venosa profunda
+--	Cirurgia sem imobili-zação prolongada	--	Cirurgia com imobilização prolongada
+--	Valvulopatia não complicada	--	Doença isquêmica do mio-cárdio/valvulopatia compli-cada com hipertensão pul-monar/fibrilação arteri-al/endocardite bacteriana
 --	--	Hiperlipidemias	Acidente vascular cerebral
 Enxaqueca leve	Enxaqueca grave	--	Enxaqueca recorrente com sintomas focais neurológicos
-Doença benigna da mama/história fami-liar de câncer de mama	Tumor de mama sem diag-nóstico	Passado de câncer de mama sem evidência de recidiva há 5 anos ou mais	Câncer de mama
-Câncer de ovário/câncer endometrial	Neoplasia intraepitelial de colo	--	--
-Padrão menstrual irregular com hiper-menorreia ou hipermenorragia	Câncer cervical	Sangramento uterino de origem desconhecida	--
-- Doença inflamatória pélvica:
+Doença benigna da mama/história familiar de câncer de mama	Tumor de mama sem diagnóstico	Passado de câncer de mama sem evidência de recidiva há 5 anos ou mais	Câncer de mama
+Câncer de ovário/câncer endome-trial	Neoplasia intraepite-lial de colo	--	--
+Padrão menstrual irregular com hipermenorreia ou hipermenorra-gia	Câncer cervical	Sangramento uterino de origem desconhe-cida	--
+- DIP:
 · Passada;
 · Com gestação subsequente; 
 · Sem gestação subsequente.
-- Risco aumentado para doença inflama-tória pélvica.	--	--	--
+- Risco aumentado para DIP.	--	--	--
 - DST:
 · Atual;
 · Sem gestação;
 · Secreção mucopurulenta.
 - Risco aumentado para DST; 
 - HIV positivo/AIDS.	--	--	--
-Passado de hepatite viral	- Doença do trato biliar sintomática:
-   · Ativa;
-   · Passiva.
-- Colestase.	Colestase pós-uso de anti-concepcional/cirrose com-pensada	Cirrose descompensada/tumor benigno do fígado/tumor maligno do fígado
+Passado de hepatite viral	- Doença do trato bili-ar sintomática:
+· Ativa;
+· Passiva.
+- Colestase.	Colestase pós-uso de anticoncepcio-nal/cirrose compen-sada	Cirrose descompensa-da/tumor benigno do fíga-do/tumor maligno do fígado
 Fibrose uterina	--	--	--
 Passado de gravidez ectópica	--	--	--
 Obesidade	--	--	--
@@ -266,41 +463,41 @@ Tumor benigno de ovário, inclusive cisto	--	--	--
 Cirurgia pélvica anterior	--	--	--
 
 Pergunta
-2013 - HSPE (BASEADA NA PROVA)
-2. Considerando os critérios médicos de elegibilidade desenvolvidos pela Organização Mundial da Saúde para uso de anticoncepcionais orais (ACOs), assinale a alternativa correta:
-a) com relação ao uso de ACO somente de progesterona, elementos como múltiplos fatores de risco para doença cardio-vascular (idade avançada, fumo, hipertensão e diabetes), nódulo mamário sem diagnóstico ou PA sistólica >160 ou PA diastólica >100 ou doença vascular levam a paciente a categoria 4
-b) doenças como cardiopatia isquêmica, cirrose hepática descompensada e acidente vascular cerebral prévio enquadram a paciente na categoria 4 quando considerado o uso de ACO combinado de baixa dose
+2013 - HSPE (Baseada na prova)
+2. Considerando os critérios médicos de elegibilidade desenvolvidos pela Organiza-ção Mundial da Saúde para uso de anticoncepcionais orais (ACOs), assinale a alter-nativa correta:
+a) com relação ao uso de ACO somente de progesterona, elementos como múltiplos fatores de risco para doença cardiovascular (idade avançada, fumo, hipertensão e diabetes), nódulo mamário sem diagnóstico ou PA sistólica >160 ou PA diastólica >100 ou doença vascular levam a paciente a categoria 4
+b) doenças como cardiopatia isquêmica, cirrose hepática descompensada e aciden-te vascular cerebral prévio enquadram a paciente na categoria 4 quando conside-rado o uso de ACO combinado de baixa dose
 c) a gravidez enquadra a paciente na categoria 1 em caso de anticoncepção de emergência
 d) varizes, epilepsia e endometriose levam a categoria 3 no uso de ACO combinado
 e) câncer de mama em andamento leva o paciente a ser classificado na categoria 2 no uso de ACO de progesterona
 Resposta no final do capítulo
 
-4. Resumo 
+Resumo 
 
 Quadro-resumo
 Índice de Pearl
 Número de gestações ocorridas em 100 usuárias de um método contraceptivo por ano
 Classes de métodos contraceptivos 
 - Hormonais:
-· Contraceptivos hormonais orais: contraceptivos de progestogênio exclusivo (minipílula) indicados ao período de amamentação e con-traceptivos orais combinados;
+· Contraceptivos hormonais orais: contraceptivos de progestogênio exclusivo (minipílula) indicados ao período de amamentação e contraceptivos orais combinados;
 · Injetáveis: mensais (compostos de estrogênios naturais e progestogênios) ou trimestrais (progestogênios exclusivos); 
 · Transdérmicos (adesivo) e anel vaginal: compostos mistos de estrogênios sintéticos e progestogênios;
 · Implantes: contêm progestogênio exclusivo liberado em microdoses diárias; 
-· Sistema intrauterino liberador de levonorgestrel: liberação de progestogênio continuamente no útero;
-· Contracepção de emergência: mais comumente, 1 comprimido de levonorgestrel (700mg) a cada 12 horas em 2 tomadas ou 2 com-primidos em dose única, o mais precocemente possível.
+· SIU-LNG: liberação de progestogênio continuamente no útero;
+· Contracepção de emergência: mais comumente, 1 comprimido de levonorgestrel (700mg) a cada 12 horas em 2 to-madas ou 2 comprimidos em dose única, o mais precocemente possível.
 - Não hormonais: 
 · Barreira:
 * Preservativo e camisinha feminina: os únicos métodos anticoncepcionais que protegem contra DST;
 * Diafragma: objeto em formato de concha, colocado sobre o colo uterino, ocluindo o canal cervical;
 * Espermicida (ou espermaticida): tem como ação imobilizar e destruir os espermatozoides;
 * Esponja vaginal: absorção do sêmen e bloqueio da entrada dos espermatozoides no canal cervical.
-· DIU: método contraceptivo alojado dentro da cavidade uterina. Atualmente, os modelos disponíveis são o DIU de cobre ou o sistema liberador de levonorgestrel.
+· DIU: método contraceptivo alojado dentro da cavidade uterina. Atualmente, os modelos disponíveis são o DIU de co-bre ou o sistema liberador de levonorgestrel;
 · Comportamentais:
 * “Tabelinha”: abstinência periódica nos dias considerados férteis;
 * Coito interrompido: ejaculação extravaginal;
 * Muco cervical: observação das suas características; mais fluido e elástico no período fértil;
-* Temperatura basal: em caso de elevação de cerca de 0,5°C na medida da temperatura basal, indica-se a ovulação (abster-se de re-lações sexuais desde a menstruação até 3 dias após a elevação da temperatura);
-* Método sintotérmico: associação dos métodos do muco cervical e temperatura basal ou muco cervical e “tabelinha”.
+* Temperatura basal: em caso de elevação de cerca de 0,5°C na medida da temperatura basal, indica-se a ovulação (abster-se de relações sexuais desde a menstruação até 3 dias após a elevação da temperatura);
+* Método sintotérmico: associação dos métodos do muco cervical e temperatura basal ou muco cervical e “tabeli-nha”.
 · Definitivos:
 * LT: as tubas podem ser cauterizadas, seccionadas, ou pode-se optar por um anel tubário ou grampo;
 * Vasectomia: método contraceptivo definitivo masculino;
@@ -320,10 +517,6 @@ Mecanismos de ação dos contraceptivos exclusivos de progestogênios
 - Hipotrofia endometrial.
 
 Respostas
+das questões do capítulo
 1. D
 2. B
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
