@@ -1,0 +1,228 @@
+diff --git a/epidemio3_3.txt b/epidemio3_3.txt
+new file mode 100644
+index 0000000..35bf745
+--- /dev/null
++++ b/epidemio3_3.txt
+@@ -0,0 +1,222 @@
+{+Medidas de frequência I: morbidade+}
+{+Alex Jones F. Cassenote+}
+{+Marina Gemma+}
+
+{+As medidas de frequência “incidência” e “prevalência” expressam indicadores relativos à morbidade nas populações: a incidência refere-se à frequência com que surgem novos casos de uma doença, num intervalo de tempo; e a prevalência expressa o número de casos existentes de doença ou um fenômeno de interesse. Esses indicadores têm vasta aplicação em Epidemiologia e Saúde Pública.+}
+
+{+1. Introdução+}
+
+{+Após a conceituação de saúde e doença, pode-se partir para questões mais aplicadas da Epidemiologia. A rigor, neste ca-pítulo, serão abordados os aspectos básicos de ocorrência de doença, aqui denominados “medidas de frequência”. A pro-blemática de interesse do capítulo é a presença de determinado evento e a possibilidade de repetição desse evento; à medi-da que ele ocorre repetidas vezes, poderá ser reconhecido um padrão de ocorrência que, muitas vezes, traz informações importantes sobre a sua prevenção e o seu controle.+}
+{+Compreender as medidas de frequência pode ser importante tanto para a população geral quanto para os profissionais de saúde. Pode-se imaginar uma situação em que exista uma epidemia de dengue, por exemplo; para saber o estado evolutivo dessa epidemia, se as atividades de prevenção vêm surtindo o efeito esperado, se o tratamento existente tem aumentado a sobrevida dos afetados ou se as políticas adotadas para o controle da doença têm sido adequadas (COSTA; KALE, 2009), é preciso avaliar a frequência de doenças e compará-las ao longo do tempo. +}
+{+Medronho (2009) explica que as “medidas de frequência” são definidas a partir de 2 conceitos epidemiológicos funda-mentais, denominados prevalência e incidência.+}
+
+{+Importante+}
+{+De maneira geral, a prevalência expressa o número de casos existentes de uma doença ou um fenômeno de interesse em um dado momento, ao passo que incidência se refere à frequência com que surgem novos casos de uma doença, num intervalo de tempo. +}
+
+{+É fundamental realizar essa discussão de maneira mais ampla, pois ela será importante para compreender a aplicação dos estudos epidemiológicos e dos estimadores de risco vastamente utilizados na análise desses estudos.+}
+{+Antes de iniciar essa discussão é importante lembrar que, na maioria das vezes, há interesse em conhecer a frequência de determinadas doenças para que sejam estruturadas as medidas de controle. Contudo, as moléstias são apenas um dos desfe-chos mensuráveis, podendo-se medir a frequência de fatores de risco ou determinantes, eventos adversos à saúde, ou ou-tros que não são necessariamente uma doença. Além de medidas como prevalência e incidência, existem diversas medidas de frequência, como as de mortalidade, letalidade ou sobrevivência que, segundo Costa e Kale (2009), podem ser compre-endidas como variações dos conceitos de incidência e prevalência.+}
+
+{+2. Incidência+}
+
+{+Incidência pode ser definida como a frequência de casos novos de uma determinada doença ou problema de saúde, ori-undo de uma população com risco de adoecimento, ao longo de um determinado período (o conceito de tempo está envolvi-do). Casos novos, ou incidentes, podem ser compreendidos como aqueles indivíduos que não estavam enfermos no início do período de observação, ou seja, sob risco de adoecimento, e se tornaram doentes ao longo deste. É necessário que cada indivíduo seja observado, pelo menos, em 2 ocasiões. A incidência é, portanto, uma medida dinâmica, pois expressa mudan-ças no estado de saúde.+}
+{+Incidência é definida, segundo Gordis (2010), como o número de casos novos de uma doença que ocorreram durante de-terminado período, em uma população sob risco de desenvolvimento dessa enfermidade. Além do termo “taxa de incidên-cia”, que se refere à ocorrência em função do tempo, existem autores que utilizam o termo “coeficiente de incidência”, uma vez que é uma medida que expressa a probabilidade de ocorrência da doença. Sendo assim, o denominador dessa divisão deve trazer todos os indivíduos que estão sob risco de desenvolver a doença.+}
+{+Está claro, então, que o numerador dessa fração considera as pessoas acometidas, ou seja, os novos doentes. No denomi-nador, contudo, pode haver 2 tipos de situações: pessoas sob risco (F1) e pessoas-tempo (F2). +}
+
+{+Taxa ou coeficiente de incidência+}
+{+F1 =	Número de casos novos da doença ocorrendo na população durante um período de tempo	x 10n+}
+{+	Número de pessoas sob risco de desenvolver +}
+{+a doença durante esse período de tempo	+}
+
+{+Taxa ou coeficiente de incidência+}
+{+F2 =	Número de casos novos da doença ocorrendo na população durante um período de tempo	x 10n+}
+{+	Total de pessoas-tempo (a soma do período de observação de cada pessoa observada por todo ou par-te do período de tempo)	+}
+
+{+O 1º caso é utilizado quando todos os indivíduos do grupo representado pelo denominador foram acompanhados por to-do o período, tratando-se de incidência cumulativa. No 2º caso, quando nem todos os indivíduos do denominador foram acompanhados durante o período especificado, por várias razões, incluindo perdas no acompanhamento ou morte devido a outras causas que não as do estudo, pode ser calculada a taxa de incidência (densidade de incidência) em que o denomina-dor consiste na soma das unidades de tempo em que o indivíduo esteve sob risco e foi observado. Isso é chamado pessoa-tempo de observação e é, muitas vezes, expresso como pessoa-mês ou pessoa-ano de observação (depende da evolução do que se estuda). Ambos os casos são considerados medidas de risco, visto que medem eventos, ou seja, a transição das pesso-as de não doentes para doentes.  +}
+
+{+  +}
+{+Figura 1 - Seguimento de uma população de 12 indivíduos para expressar pessoas sob risco de adoecimento+}
+
+{+Para exemplificar o 1º caso (pessoas sob risco), será utilizada a representação gráfica da Figura 1, na qual existe um grupo de indivíduos acompanhados por um período de 5 anos. Nesse caso não existiu perda de indivíduos, ou seja, todos foram acompanhados por todo o período estipulado (5 anos), e a doença em questão deixa a pessoa com imunidade permanente, então o indivíduo que desenvolveu a doença 1 vez não tem mais risco de desenvolvê-la novamente.+}
+{+Para conhecer a incidência da doença nos 5 anos em questão, basta utilizar a fórmula F1, uma vez que, nesse caso, todos os 12 indivíduos são potenciais para o desenvolvimento da doença. Então, a incidência desse desfecho, em 5 anos de estudo, foi de 33%. +}
+
+{+Taxa de incidência (i) = 4/12 = 0,33 x 100 = 33%+}
+{+Resposta: 33%.+}
+
+{+Até o momento, parece simples a maneira de se calcular incidência, contudo é preciso estar sempre alerta; veja os exem-plos que se seguem:+}
+{+Exemplo 1: utilizando a Figura 1, calcule a taxa de incidência no 2º ano de observação.+}
+
+{+Taxa de incidência (i) = 1/11 = 0,09 x 100 = 9%+}
+{+Resposta: 9%.+}
+
+{+Exemplo 2: utilizando a Figura 1, calcule a taxa de incidência no 5º ano de observação.+}
+
+{+Taxa de incidência (i) = 1/9 = 0,11 x 100 = 11%+}
+{+Resposta: 11%.+}
+
+{+Note que, em ambos os exemplos, o denominador é diferente, pois nas 2 ocasiões o grupo sob risco era distinto. No exemplo 1, existe um caso novo da doença, o indivíduo número 2. O grupo que estava exposto não era mais de 12 pessoas, e sim de 11, uma vez que o indivíduo número 6 havia ficado doente no ano anterior e, como a imunidade é permanente, ele não poderia ficar doente novamente (subtrai-se da população em risco). Da mesma maneira ocorreu o exemplo 2, contudo, agora no denominador, existem apenas 9 indivíduos, pois 3 deles ficaram doentes entre os anos 1 e 4 de acompanhamento.+}
+{+O 2º tipo de possibilidade de denominador para cálculo de incidência (pessoas-tempo) é utilizado quando nem todas as pessoas são observadas pelo período completo, ideal para estudos de coorte e ensaios clínicos (indivíduos entram e saem do estudo a qualquer momento). Toma-se a Figura 2 como exemplo desse procedimento. Observe que, além do fato da perda (alguns indivíduos deixaram de ser acompanhados), os casos perdidos foram observados por diferentes períodos (indivíduo 5 até 2,5 anos; 9 até 4,0 anos; e 12 até 1,5 ano). Outro caso são os que ingressaram no estudo em períodos distintos, que tam-bém contribuem com tempos diferentes para o procedimento de cálculo (indivíduo 11 até 3,0 anos; 2 até 4,0 anos; 1 até 2,5 anos).+}
+
+{+  +}
+{+Figura 2 - Seguimento de uma população de 12 indivíduos para expressar pessoas-ano de observação+}
+
+{+A 1ª questão que deve surgir é: como se calcula pessoa-tempo de observação? Basta observar pessoa por pessoa quanto ao tempo de observação. Por exemplo, o indivíduo 1 da Figura 2 foi observado por 2,5 anos de estudo, contribuindo, assim, com 2,5 pessoas-ano de observação para o total de pessoas-ano do estudo. Veja agora o indivíduo 5 (perda): ele foi observa-do apenas 2,5 anos, contribuindo com 2,5 pessoas-ano de observação. A seguir, o cálculo mostrando quanto cada indivíduo contribuiu para o tempo total de observação do estudo:+}
+
+{+- Indivíduo 1: 2,5 anos;+}
+{+- Indivíduo 2: 4,0 anos;+}
+{+- Indivíduo 3: 4,0 anos;+}
+{+- Indivíduo 4: 5,0 anos;+}
+{+- Indivíduo 5: 2,5 anos;+}
+{+- Indivíduo 6: 1,5 ano;+}
+{+- Indivíduo 7: 5,0 anos;+}
+{+- Indivíduo 8: 5,0 anos;+}
+{+- Indivíduo 9: 4,0 anos;+}
+{+- Indivíduo 10: 3,0 anos;+}
+{+- Indivíduo 11: 3,0 anos;+}
+{+- Indivíduo 12: 1,5 ano;	=	41,0 anos de seguimento no estudo+}
+
+{+Importante+}
+{+Uma questão importante quando se trata de pessoas-tempo são os indivíduos que apresentaram o desfecho. Se não hou-ver reposição e a doença em questão levar a imunidade permanente, serão observados somente até o aparecimento do desfecho. +}
+
+{+O indivíduo 6 da Figura 2, por exemplo, apresentou o desfecho com 1,5 ano de observação, contribuindo com 1,5 pessoa-ano de observação para o total.+}
+{+Então, para saber qual é a incidência da doença por pessoas-tempo de observação, basta utilizar a fórmula F2, uma vez que, nesse caso, os 12 indivíduos não são potenciais para o desenvolvimento da doença, pois alguns deles deixaram de ser observados e outros não o foram no início do seguimento. Os indivíduos que apresentaram o desfecho, na Figura 2, foram 4, e o total de pessoas-tempo observado é de 41 pessoas-ano. Tem-se, então, uma incidência de 9,75/100 pessoas-ano.+}
+
+{+Taxa de incidência (i) = 4/41 = 0,0975 x 100 = 9,75/100 pessoas-ano+}
+{+Resposta: 9,75/100 pessoas-ano.+}
+
+{+Utilizando esse procedimento, pode-se calcular incidência por período, assim como realizado no exemplo, quando o de-nominador era feito com pessoas sob risco.+}
+{+Exemplo 3: utilizando a Figura 2, calcule a taxa de incidência até o 3º ano de observação.+}
+
+{+Taxa de incidência (i) = 2/27,5 = 0,0727 x 100 = 7,27/100 pessoas-ano+}
+{+Resposta: 7,27/100 pessoas-ano.+}
+
+{+Exemplo 4: utilizando a Figura 2, calcule a taxa de incidência até o 4º ano de observação.+}
+
+{+Taxa de incidência (i) = 3/36 = 0,0833 x 100 = 8,33/100 pessoas-ano+}
+{+Resposta: 8,33/100 pessoas-ano.+}
+
+{+Observe que o denominador também é diferente para os 2 casos (exemplos 3 e 4). Essa diferença refere-se, principal-mente, ao tempo. No exemplo 3, pede-se a incidência até o 3º ano, no qual existem 2 casos novos da doença (indivíduos 6 e 10). Se não tivesse ocorrido nenhuma perda, início tardio de seguimento ou presença do desfecho, seriam 36 pessoas-ano de observação. Contudo, o total de pessoas-tempo observado foi de 27,5 pessoas-ano (2 perdas – indivíduo 5 e 12 – e 1 caso de doença – indivíduo 6). O mesmo raciocínio pode ser seguido no exemplo 4: entretanto, trata-se do 4º ano de observação, e existem 3 casos novos da doença e 36 pessoas-ano de observação.+}
+{+Ao calcular coeficientes de incidência para a população de um município, por exemplo, em geral, admite-se que todos os indivíduos estiveram expostos igualmente por todo o período de tempo, o que pode não corresponder à realidade; a saída seria a utilização de pessoas-tempo no denominador, e não de pessoas sob risco (FRANCO; PASSOS, 2005).+}
+
+{+Pergunta+}
+{+2015 - HIVS +}
+{+1. Quantificar ou medir a frequência com que os problemas de saúde ocorrem em populações humanas é um dos objeti-vos da Epidemiologia. A esse respeito, é correto afirmar que: +}
+{+a) incidência é definida como a frequência de casos existentes de uma determinada doença, em uma determinada popula-ção e em um dado momento +}
+{+b) taxa de incidência é a expressão da frequência com que surgem novos casos de uma doença por unidade de tempo e com relação ao tamanho da população +}
+{+c) prevalência é a frequência de casos novos de determinada doença ou problema de saúde num determinado período de tempo em uma dada população +}
+{+d) a incidência acumulada é calculada com a razão entre o número de casos novos de uma determinada doença e o total de pessoa-tempo gerado a partir da população +}
+{+e) a prevalência pontual expressa a proporção de pessoas que apresentam uma determinada doença em algum momento desde o nascimento+}
+{+Resposta no final do capítulo+}
+
+{+3. Taxa de ataque+}
+
+{+Segundo Gordis (2010), algumas vezes o tempo pode ser especificado implícita ao invés de explicitamente. Um exemplo disso seria um surto de doença por ingestão de alimentos. Nesse caso, em vez de incidência, fala-se em taxa de ataque, que pode ser definida como o número de pessoas expostas (ao alimento suspeito, por exemplo) e que adoeceram, dividido pelo número de indivíduos expostos ao alimento. Note que a taxa de ataque não especifica explicitamente o intervalo de tempo, pois em muitos surtos ele pode ser de horas ou dias após a exposição. Por consequência, casos que vierem a ocorrer meses depois dificilmente serão considerados parte do mesmo surto.+}
+
+{+Dica +}
+{+A taxa de ataque é uma taxa utilizada para situações mais agudas, para curtos períodos de tempo, geralmente para even-tos mais isolados, como um surto de intoxicação alimentar.+}
+
+{+Cassettari et al. (2006) avaliaram um surto por Klebsiella pneumoniae produtora de betalactamase de espectro estendido no berçário de um hospital universitário na cidade de São Paulo-SP e verificaram 9 pacientes doentes em 318 internações ocorridas em 3 meses de observação, sendo a taxa de ataque muito próxima a 3% (9/318 = 0,028). +}
+{+Madalosso et al. (2008) estudaram um surto alimentar por Salmonella enterica sorotipo Enteritidis em um restaurante da cidade de São Paulo. O período de tempo de exposição foi de 2 dias, e foram identificados 15 doentes entre os 19 expostos no 1º dia (taxa de ataque de 78,9%) e 9 doentes dos 10 expostos no 2º dia (taxa de ataque de 90%), sendo a taxa de ataque global de 82,8% (24 doentes/29 expostos = 0,82).+}
+{+Em ambos os casos, fala-se em taxa de ataque, e não em incidência, embora existam diferenças óbvias entre os tempos de cada investigação; um estudo trata de meses, e o outro, de dias de observação. Gordis (2010) faz ainda uma consideração importante, referindo que taxa de ataque não é verdadeiramente uma taxa, e sim uma proporção.+}
+
+{+4. Prevalência+}
+
+{+Prevalência é uma medida de frequência que revela quantos indivíduos estão doentes (ou apresentam o desfecho). Pode ser definida como o número de pessoas afetadas na população em determinado momento, dividido pelo número de pessoas na população naquele momento – F3 (PEREIRA; PAES; OKANO, 2000; GORDIS, 2010). +}
+{+Costa e Kale (2009) explicam também que os casos existentes são aqueles indivíduos que adoeceram em algum momento do passado mais ou menos remoto, como os casos “antigos” e os “novos” e que estão vivos quando se realiza uma observação. Deste modo, os que vierem a falecer no período de observação não devem ser considerados cômputos da prevalência.+}
+
+{+Taxa ou coeficiente de prevalência+}
+{+F3 =	Número de casos existentes de uma doença presente na população em um dado momento	x 10n+}
+{+	Número de pessoas no momento	+}
+
+{+Prevalência (P) = 11/35 = 0,314 x 100 = 31,4%+}
+{+Resposta: 31,4%.+}
+
+{+Importante+}
+{+Em Medicina e Saúde Pública, o termo “prevalência” pode ser empregado para designar “prevalência pontual” ou “preva-lência no período”. Quando não está especificado, faz-se referência à prevalência pontual, que se refere à frequência de uma doença ou problema de saúde num instante (ponto) do tempo. Prevalência por período refere-se a um intervalo de tempo, que pode ser arbitrariamente selecionado, tal como 1 mês, 1 ano, ou um período de 5 anos.+}
+
+{+Algumas pessoas podem desenvolver doença em um período, outras podem apresentá-la antes e morrer ou serem cura-das durante esse período. O importante é que cada indivíduo representado pelo numerador teve a doença em algum mo-mento durante o período especificado.+}
+{+Para exemplificar, toma-se a representação de uma população hipotética de São Paulo (Figura 3), na qual se deseja saber qual é a prevalência da doença em janeiro de 2010. Sabe-se que existem 6 indivíduos doentes (6, 9, 13, 14, 22 e 29) para uma população de 35 indivíduos. A prevalência pontual da doença no ano de 2010 em São Paulo é de 17%.+}
+
+{+Prevalência (P) = 6/35 = 0,17 x 100 = 17%+}
+{+Resposta: 17%.+}
+
+{+  +}
+{+Figura 3 - População de 35 indivíduos para estudar a prevalência de doença em janeiro de 2010+}
+
+{+Antes de partir para a próxima questão, vale voltar à questão da prevalência pontual, em que, na prática, é virtualmente impossível estabelecer um único ponto e realizar uma pesquisa de prevalência. Imagine uma pesquisa que investigaria uma cidade inteira em 1 dia. Embora conceitualmente se esteja pensando em um só ponto no tempo, na verdade as pesquisas podem demorar muito mais. Gordis (2010) cita um exemplo interessante que engloba as medidas de frequência estudadas no presente capítulo (Tabela 1).+}
+{+Toma-se agora a Figura 4. Deseja-se conhecer a prevalência da doença no mesmo mês do ano seguinte ao exemplo ante-rior. Existem, nesse caso, 11 pessoas doentes (4, 6, 10, 12, 13, 14, 16, 19, 22, 23 e 29) para população total de 35 indivíduos. O cálculo de prevalência resulta em 31,4% de doentes existentes na hipotética São Paulo, em janeiro de 2011.+}
+
+{+Prevalência (P) = 11/35 = 0,314 x 100 = 31,4%+}
+{+Resposta: 31,4%.+}
+
+{+Tabela 1 - Exemplo de prevalência pontual e no período e incidência cumulativa em estudo de entrevista de asma+}
+{+Questões da entrevista	Tipos de medida+}
+{+“Você atualmente tem asma?”	Prevalência pontual+}
+{+“Você teve asma nos últimos (x) anos?”	Prevalência por período+}
+{+“Você já teve asma alguma vez?”	Incidência cumulativa+}
+{+Fonte: adaptado de Gordis, 2010.+}
+
+{+ +}
+{+Figura 4 - População de 35 indivíduos para estudar a prevalência de doença em janeiro de 2011+}
+
+{+Repare que, para esse exemplo, existe a possibilidade do cálculo de incidência, pois aparecem os mesmos indivíduos 1 ano depois da medida da 1ª prevalência, contudo não é esse fato que merece discussão, e sim o aumento da prevalência de um ano para outro. Em janeiro de 2010, a prevalência da doença foi de 17% (Figura 3) e, em janeiro de 2011, de 31,4% (Figu-ra 4). Pensando epidemiologicamente, o que pode ter ocorrido para observar essa elevação da taxa de prevalência? Esse pensamento será discutido a seguir.+}
+
+{+Pergunta+}
+{+2014 - UNICAMP +}
+{+2. Ao implantar um programa de assistência ao paciente com infecção pelo HIV/AIDS em um município, com oferta de medicamentos e terapias profiláticas secundárias, devem-se esperar: +}
+{+a) aumento da incidência e aumento da prevalência +}
+{+b) manutenção da incidência e aumento da prevalência +}
+{+c) diminuição da incidência e manutenção da prevalência +}
+{+d) aumento da incidência e diminuição da prevalência+}
+{+Resposta no final do capítulo+}
+
+{+5. Relação entre prevalência e incidência+}
+
+{+Franco e Passos (2005) explicam que a prevalência de uma doença pode ser uma função de sua incidência. Quanto maior a incidência maior será a prevalência, dependendo da duração da doença, assim como de curas, óbitos e perdas de acompa-nhamentos. Deste modo, a prevalência pode ser entendida como o resultado final, para um período de tempo, da soma das entradas (casos novos) menos a soma das saídas (curas, mortes e perdas de acompanhamento) em função da duração da doença sob investigação.+}
+{+Operacionalmente, tanto a prevalência quanto a incidência são semelhantes, pois tratam de uma divisão de indivíduos do-entes pela população exposta. Entretanto, conceitualmente, são distintos. A prevalência informa sobre a situação da doença em um instante ou intervalo de tempo, mas não estima o risco de adoecimento, pois os casos novos e existentes são conside-rados um conjunto.+}
+
+{+Importante+}
+{+A incidência informa sobre a dinâmica de entrada de novos casos, permitindo estimar o risco de adoecimento de uma população exposta. A prevalência é uma informação fundamental para a administração e o planejamento em saúde, uma vez que atendimentos, medicamentos e pessoas são calculados levando em conta essa medida de frequência. Porém, a incidência é o elemento que fornece casos novos à prevalência.+}
+
+{+A seguir (Figura 5), existe uma representação da influência da incidência sobre a prevalência, em que o tanque represen-ta uma população. No cenário 1, observa-se uma situação em que existe a entrada de alguns casos novos, porém, a saída de casos existentes é elevada, logo, não existem muitos casos da doença na população. Veja agora o cenário 2, em que ocorreu entrada de casos novos da doença e a saída de casos existentes está mais restrita, assim os casos prevalentes são considera-velmente importantes. +}
+{+Pereira, Paes e Okano (2000) acrescentam que prevalência e incidência obedecem a uma relação regulada pelo tempo de duração da doença, assim expressa:+}
+
+{+Prevalência (P) = incidência (i) x duração da doença+}
+
+{+Deste modo, uma doença aguda e de curta duração, em geral, é bem avaliada pela incidência. Durante uma epidemia de dengue, por exemplo, os casos novos representam a incidência, mas após o período epidêmico a incidência tende a cair (Fi-gura 6), como já demonstrado no cenário 1 da Figura 5. Se a avaliação da prevalência for feita após a epidemia, poderá não refletir a real dimensão da doença (FRANCO; PASSOS, 2005).+}
+
+{+ +}
+{+Figura 5 - Situações para verificação da relação entre prevalência e incidência: (A) entrada de casos novos (incidência); (B) casos existentes (prevalência) e (C) saída de casos (morte, cura ou perda de acompanhamento em uma coorte)+}
+
+{+ +}
+{+Figura 6 - Casos de dengue segundo classificação final e semana epidemiológica de início dos sintomas+}
+{+Fonte: http://www.dive.sc.gov.br/index.php/arquivo-noticias/250-boletim-sobre-situacao-da-dengue-febre-de-chikungunya-e-febre-do-zika-virus-em-santa-catarina-atualizado-em-06-01-2016; com modificações.+}
+
+{+Franco e Passos (2005) explicam também que, no caso das doenças crônicas e de longa duração, como o diabetes, mesmo com incidência baixa, a prevalência tende a ser alta, pois os pacientes tendem a sobreviver por muitos anos, havendo um acúmulo de casos ao longo do tempo, também demonstrado no cenário 2 da Figura 5. Um bom programa de controle do dia-betes poderá resultar na elevação da prevalência dessa doença, seja por melhorar o diagnóstico, seja por aumentar a sobre-vida, elevando a duração da doença.+}
+
+{+Pergunta+}
+{+2015 - IFF +}
+{+3. Com relação às medidas de frequência em estudos epidemiológicos, é correto afirmar que: +}
+{+a) a prevalência de uma doença varia conforme sua incidência, sua duração e os movimentos migratórios +}
+{+b) a prevalência de uma doença é função direta da sazonalidade, isto é, a magnitude de uma doença varia exclusivamente com o aparecimento de casos novos do agravo +}
+{+c) a prevalência e a incidência são conceitos antagônicos +}
+{+d) a incidência de uma doença é caracteristicamente calculada em estudos transversais (inquéritos epidemiológicos)+}
+{+Resposta no final do capítulo+}
+
+{+Resumo+}
+
+{+Quadro-resumo+}
+{+Introdução+}
+{+As medidas de frequência são definidas a partir de 2 conceitos epidemiológicos fundamentais, denominados “prevalência” e “inci-dência”. De maneira geral, a prevalência expressa o número de casos existentes de uma doença ou um fenômeno de interesse em um dado momento, ao passo que a incidência refere-se à frequência com a qual surgem novos casos de uma doença, num intervalo de tempo. É fundamental realizar essa discussão de maneira mais ampla, pois ela será importante para compreender a aplicação dos estudos epidemiológicos, bem como dos estimadores de risco vastamente utilizados na análise desses estudos.+}
+{+Incidência+}
+{+A incidência pode ser definida como a frequência de casos novos de uma determinada doença ou um problema de saúde, oriundo de uma população sob risco de adoecimento, ao longo de um determinado período de tempo. Casos novos, ou incidentes, podem ser compreendidos como aqueles indivíduos que não estavam doentes no início do período de observação, ou seja, sob risco de adoeci-mento. É necessário que cada pessoa seja observada, pelo menos, em 2 ocasiões. A incidência é, portanto, uma medida dinâmica, pois expressa mudanças no estado de saúde. Está claro, então, que o numerador dessa fração trará as pessoas acometidas pela do-ença, ou seja, os novos doentes. No denominador, contudo, pode haver 2 tipos de situações-pessoas, sob risco (F1) e pessoas-tempo (F2). O 1º caso é utilizado quando todos os indivíduos do grupo representado pelo denominador foram acompanhados por todo o pe-ríodo, enquanto o 2º corresponde à soma do período de observação de cada participante. +}
+{+Taxa de ataque+}
+{+Algumas vezes o tempo pode ser especificado implicitamente ao invés de explicitamente. Um exemplo disso seria um surto de do-ença por ingestão de alimentos, em que, nesse caso, em vez de incidência, utiliza-se taxa de ataque, que pode ser definida como o número de pessoas expostas ao alimento suspeito e que adoeceram, dividido pelo número de indivíduos expostos ao alimento. Note que a taxa de ataque não especifica explicitamente o intervalo de tempo, pois em muitos surtos ele pode ser de horas ou dias após a exposição. Por consequência, casos que ocorrerem meses depois dificilmente serão considerados parte do mesmo surto.+}
+{+Prevalência+}
+{+Prevalência é uma medida de frequência que revela quantos indivíduos estão doentes (ou apresentam o desfecho). Pode ser definida como o número de pessoas afetadas na população em um determinado momento, dividido pelo número de sujeitos na população naquele momento (F3).+}
+{+Relação entre prevalência e incidência+}
+{+Ambas são medidas da frequência de ocorrência da doença. Prevalência mede quantas pessoas estão doentes, e incidência mede quantas se tornaram doentes. Ambas as medidas obedecem a uma relação regulada apenas pelo tempo de duração das doenças (agudas e crônicas), cuja função fica assim expressa: Prevalência (P) = incidência (i) x duração da doença.+}
+
+{+Respostas das questões do capítulo+}
+{+1. B+}
+{+2. B+}
+{+3. A+}
