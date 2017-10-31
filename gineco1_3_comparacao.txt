@@ -1,0 +1,637 @@
+diff --git a/gineco1_3.txt b/gineco1_3.txt
+index ce31c96..460e482 100644
+--- a/gineco1_3.txt
++++ b/gineco1_3.txt
+@@ -1,329 +1,522 @@
+Planejamento familiar{++}
+Flávia Fairbanks Lima de Oliveira Marino[-Resumo-]{++}
+{++}
+O planejamento familiar aborda detalhadamente os mé{+-+}todos contraceptivos, suas indicações, contraindicações, forma de uso e potenciais efeitos adversos. Os métodos anticoncepcionais devem ser individualizados para cada paciente, podendo-se utilizar, de acordo com as preferên{+-+}cias/necessidades, os seguintes métodos: não hormonais (preservativo masculi[---]no/feminino, “tabelinha”, coito inter{+-+}rompido, DIU e lactação), métodos definitivos de esterili{+-+}zação (laqueadura, vasectomia e implante endotubário) e, por fim, métodos hormonais (contraceptivos hormonais orais, injetáveis, transdérmicos, anel vaginal, dispositivo intrauterino liberador de levonorgestrel e contracepção de emergência.{++}
+{++}
+1. Definição{++}
+O planejamento familiar consiste em permitir a um casal decidir quantos filhos deseja ter e o momento de tê-los. En{+-+}globa, portanto, medidas contraceptivas e pró-gestacionais, alcançadas por meio de orientação adequada oferecida por uma equipe multidisciplinar treinada para esse fim.{++}
+O casal tem o direito de conhecer todos os métodos disponíveis, seus riscos e benefícios para opção livre e bem emba{+-+}sa[---]da. Esse aconselhamento deve considerar as características próprias desse casal e as de cada método.{++}
+Elaborado em 1933 por Raymond Pearl, o Índice de Pearl (IP) é o número de falhas do método a cada 100 mulhe{+-+}res/ano. Objetivamente, acompanha-se uma amostra de 100 mulheres usuárias do método por [-um-]{+1+} ano. O número de gestações ocor[---]ridas nesse intervalo de tempo é o IP. A Federação Brasileira das Associações de Ginecologia e Obstetrí{+-+}cia (FEBRASGO), em concordância com a Organização Mundial da Saúde (OMS), considera que o método é e?caz quan{+-+}do o IP é inferior a 1 (IP <1). Diversos métodos possuem IP superior a 1, especialmente os comportamentais. Entretan{+-+}to, as orientações médicas devem ser dadas respeitando-se a satisfação da paciente com o método, bem como seus valores sociais, culturais e religiosos.{++}
+Neste capítulo, abordaremos principalmente os métodos contraceptivos que se dividem em hormonais e não hormo{+-+}nais. Dentre os hormonais, discutiremos:{++}
+Contraceptivos orais;{++}
+Contraceptivos injetáveis;{++}
+Transdérmicos;{++}
+Implantes subcutâneos;{++}
+Anel vaginal;{++}
+Sistema intrauterino liberador de levonorgestrel. {++}
+Dentre os não hormonais, discutiremos: {++}
+Métodos de barreira (preservativo, camisinha feminina e diafragma); {++}
+Comportamentais;{++}
+Dispositivo intrauterino;{++}
+Amamentação;{++}
+Esterilização definitiva masculina (vasectomia) e feminina (laqueadura tubária).[-A -]{++}
+{++}
+Tabela 1 [-mostra os-]{+-+} [-í-]{+Í+}ndices de falhas dos diferentes métodos[-.-]
+
+[-Tabela 1 - Índice de Pearl dos a-]{++}
+{+A+}nticoncepciona[-i-]{+l	U+}s[- (c-]o[-nsid-]{++}
+{+	P+}er[-and-]{+feit+}o o[-s -]u[-sos-] [-pe-]{+cor+}r[-f-]e{+to	Hab+}it{+ual +}o{+u+} {+comum	Continuidad+}e [-típ-]{+(%)+}
+{+Mu+}i[-c-]{+t+}o[-,-] [-r-]e{+fetivo+}s{++}
+{+Im+}p{+lante	0,05	0,05	78+}
+{+Vas+}ect{+om+}i[-v-]a[-men-]{+	0,1	0,15	100+}
+{+Sis+}te[-)-]
+[-I-]m[-pl-]a{+ i+}nt{+raut+}e{+rino+} de {+l+}e[-t-]{+v+}o{+-+}no{+r+}gestrel	0[- a 0-],{+2	+}0[-7-]
+[-An-]{+,2	81+}
+{+Est+}e{+ri+}l[- v-]{+iz+}a[-g-]{+ção femin+}ina[-l-]	0,[-6-]5[-Me-]{+	0,5	100+}
+{+DIU +}d[-r-]{+e c+}o[-xip-]{+b+}r[-og-]e[-st-]{+	0,6	0,8	78+}
+{+Ef+}e[-r-]{+tiv+}o[-n-]{+s+}
+{+L+}a[- -]{+c+}t[-ri-]{+ação e a+}me[-st-]{+nor+}r{+ei+}a[-l-]	0[- a 1-]{+,9	2	--+}
+Injetáve[-l-]{+is+} mensa[-l-]{+is+}	0,[-1 -]{+3	3	56+}
+{+Pílul+}a{+s+} {+combinadas	+}0,3[-A-]{+	3	68+}
+{+Pílulas +}de[-sivo-] [-cont-]{+p+}r[-ac-]{+og+}e[-p-]{+s+}t{+ogên+}i[-v-]o{+s+}	0,{+3	3	+}6[- a 0,9-]
+[-Co-]{+8+}
+{+A+}n[-trac-]e[-ptivo ora-]l [-combin-]{+v+}a[-do <50µ-]g[- et-]in[-i-]{+a+}l{+	0,3	3	68+}
+{+Ad+}es[-trad-]i{+v+}o[-l-]	0,[-2 a -]3[-F-]{+	3	68+}
+{+M+}o{+deradame+}nte[-:-] [-F-]e[-d-]{+f+}e[-raçã-]{+tiv+}o[- Bra-]s[-ileira -]{++}
+{+Con+}d[-as-]{+om+} [-As-]{+ma+}s[-o-]c[-iações de G-]{+ul+}in[-ecol-]o[-gia e O-]{+	2	16	53+}
+{+A+}bst[-etrí-]{+inên+}cia[-,-] [-2010.-]
+
+[-Vídeo-]
+[-Plan-]e[-ja-]m[-ento-] [-familia-]{+pe+}r[-  -]
+
+[-2. Mét-]{+í+}odos [-não ho-]{+fé+}r[-mona-]{+te+}is[-A-]{+	2 a+} {+5	-+}-	[-Barre-]{+51+}
+{+D+}i{+ag+}ra[-:-]{+ma com+} [-pr-]es{+p+}er[-vativos -]m[-as-]{+i+}c[-ul-]i[-n-]{+da	6	16	--+}
+{+Pouc+}o e[- -]fe[-m-]{+t+}i[-n-]{+vos+}
+{+Co+}i[-n-]{+t+}o[-,-] [-d-]i[-af-]{+nte+}r[-ag-]{+ro+}m[-a, e-]{+pido	4	27	42+}
+{+E+}spermicida [-e e-]{+i+}s[-p-]o[-nj-]{+l+}a{+do	18	29	--+} [-vaginal-]
+
+[-Imp-]{++}
+{+F+}o[-rta-]nte[-O-]{+:+} [-pres-]{+Manual d+}e[-rv-]{+ +}a{+n+}ti[-vo mas-]c[-uli-]{+o+}n{+cepçã+}o [-e-]{+2015+} [-o-]{+–+} [-f-]{+FEBRASGO.+}
+{++}
+{+Tab+}e[-minino-]{+la+} [-são-]{+2 -+} {+Comparaçã+}o[-s-] [-ú-]{+e+}n[-ic-]{+tre +}os métodos [-anti-]con{+tra+}cep[-c-]{+t+}i{+vos horm+}onais[- que -]{++}
+{+Im+}p[-ro-]{+lan+}te[-g-]{+ d+}e[-m-] [-c-]{+et+}on[-tra d-]o{+g+}e[-nças -]s[-exual-men-]t{+r+}e{+l	0+} [-tr-]a{+ 0,07+}
+{+A+}n[-smissív-]e[-is,-]{+l+} {+vag+}in[-c-]{+a+}l[-usiv-]{+	0,65+}
+{+M+}e[- HIV/AIDS.-]
+
+[- O -]{+droxi+}pr{+og+}es{+t+}er[-v-]{+on+}a{+ +}t{+r+}i[-vo -]m[-a-]{+e+}s[-cu-]{+tra+}l[-ino e-]{+	0+} [-o-]{+a+} [-femini-]{+1+}
+{+I+}n[-o-]{+jetável+} {+me+}n[-ão-]{+sal	0,1+} a[-pr-]{+ 0,3+}
+{+Ad+}es[-entam-]{+ivo+} contra[-indi-]c[-açõ-]e[-s; -]p[-el-]{+tiv+}o{+	0,6+} [-c-]{+a 0,9+}
+{+C+}ontr[-ári-]{+aceptiv+}o[-,-] {+o+}r[-e-]{+al +}com[-e-]{+bi+}n[-d-]a[--se seu us-]{+d+}o [-m-]{+<50µg etinil+}es[-m-]{+tradi+}o{+l	0,2+} [-qu-]a{+ 3+}
+{+Fo+}n{+te: Fe+}d{+eraçã+}o {+Brasileira d+}as{+ As+}socia{+ções +}d[-o-]{+e+} {+Ginecologi+}a [-ou-]{+e Obste+}tr[-o-]{+ícia, 2010.+}
+{+Percebe-se que+} [-mé-]todo{+s os+} contraceptivo[-. O índice de-]{+s+} [-fal-]h[-a é baix-]o[- n-]{+rm+}o[- u-]{+nai+}s[-o-] [-ide-]a[-l (3 g-]{+pr+}es{+en+}ta[-ções-]{+m+} [-por-]{+IP+} {+<+}1[-00-]{+,+} [-mulh-]{+s+}e{+ndo, po+}r[-es/-]{+t+}an{+t+}o[-)-], [-m-]{+efic+}a{+ze+}s[-,-]{+.+} {+E+}n{+tretant+}o{+,+} [-us-]o [-rotin-]{+ad+}e{+s+}i[-r-]{+v+}o[-,-] [-t-]{+e +}a[-is-] [-nú-]me{+d+}ro{+xiproge+}s[- s-]{+t+}e{+rona+} {+trim+}e[-lev-]{+str+}a[-m.-]{+l+} [-O-]s{+ão+} [-únic-]os {+m+}e[-feit-]{+n+}os co[-lat-]{+nfiáv+}e[-ra-]is{+,+} {+vi+}s[-ã-]{+t+}o {+que apre+}s[-i-]{+e+}nt{+am +}o{+s +}ma{+iore+}s {+v+}al[-érgic-]o{+re+}s {+de IP.+}
+{+Víd+}e{+o+}
+{+Planeja+}m{+ento+} {+fam+}i[-nd-]{+l+}i[-ví-]{+ar+}
+{+ +}
+{++}
+{+2. Méto+}d[-u-]os [-se-]n[-síve-]{+ão hormona+}is{++}
+{+A+} {+-	B+}a[-o lát-]{+rr+}e[-x ou-]{+ira:+} {+preserv+}a{+tiv+}os [-l-]{+masc+}u[-br-]{+l+}i{+no e +}f{+em+}i[-ca-]n[-tes.-]
+[-O-]{+ino,+} diafragma{+,+} [-(Figur-]{+c+}a[- 2) é -]{+p+}u[-m-]{+z+} [-obj-]{+c+}e[-to-]{+rvical,+} e[-m fo-]{+spe+}rm{+icid+}a[-to-] [-d-]e [-c-]{+esp+}on[-ch-]{+j+}a[-,-] [-coloc-]{+v+}a[-d-]{+ginal+}
+{+Sã+}o [-s-]{+mét+}o[-b -]{+d+}o{+s+} {+anti+}co[-l-]{+ncepci+}o{+nais+} {+q+}u[-t-]e[-rino,-] [-ocl-]{+f+}u{+nc+}i{+o+}n{+am +}d[-o-]{+e+} {+f+}o[- can-]{+rm+}a[-l-] [-c-]{+m+}e[-rv-]{+cân+}ica[-l.-] [-S-]{+o+}u[-a-] [-ef-]{+quím+}i[--cá-]c[-i-]a{+,+} [-é ba-]i[-xa-]{+mpedindo+} [-(20-]{+a+} [-gest-]a[-çõ-]{+sc+}e{+n+}s[- p-]{+ã+}o[-r-] [-100-]{+dos+} [-mulh-]{+esp+}er{+mato-zoid+}es[-/an-]{+ pel+}o[-).-] [-En-]{+ú+}t[-r-]e[-tant-]{+r+}o[-,-] [-não-]{+e+} [-a-]p[-res-]e[-nt-]{+l+}a{+s+} [-con-]tr{+omp+}a[-indicaçõe-]s[-.-] [-O-]{+–+} {+não há f+}e[-spermi-]c[-i-]{+un+}da{+ção+} [-(-]{+d+}o{+ óv+}u{+lo+} [-e-]{+na+}s[-pe-]{+ t+}r{+o+}m{+p+}a[-ticida)-]{+s.+} [-tem-]{+A+} [-com-]{+ass+}o[- -]{+ci+}ação [-imobilizar -]e[- des-]{+n+}tr[-uir-]{+e+} os [-esper-]{+quí+}m[-atozo-]i[-de-]{+co+}s[-,-] e [-a subst-]{+mec+}â{+-+}n[-cia ma-]i{+co+}s [-freq-]{+a+}u[-en-te-]ment[-e-]{+a+} [-ut-]{+a ef+}i[-l-]{+các+}i[-zad-]a [-é o non-]{+c+}o[-xi-]n[-ol-9. Ge-]{+t+}ra[-lment-]{+c+}e[-, é u-]{+p+}ti[-liz-]{+v+}a{+ +}do [-e-]m{+étodo. A+} {+m+}a[-ssoc-]i[-açã-]o{+r+} {+v+}a[- ou-]{+n+}t[-r-]{+agem n+}o{+s+} método{+s+} de barreira[-. Não é muito-] {+r+}e[-fetivo -]s[-e ut-]i[-lizado isola-]d[-amente -]e n[-ão-]{+a+} prote[-ge-]{+ção+} contra {+a transmissão +}d{+e D+}oenças[-.-]
+[-A-] {+S+}e[-sponja vagin-]{+xu+}al[- d-]{+m+}e[-v-]{+nt+}e {+Tr+}a[-b-]{+n+}s[-or-]{+missí+}ve[-r o -]{+i+}s[-êmen-] [-e-]{+(DSTs),+} [-b-]{+inc+}l[-oq-]u{+siv+}e[-ar-] [-a-]{+HIV.+} [-en-]{+  +}
+{+Mé+}t[-ra-]{+o+}d{+o barreir+}a [-d-]{+mecânic+}o[-s-]{+:+} {+pr+}es[-p-]er[-m-]{+v+}at[-ozo-]i[-des n-]{+v+}o [-can-]{+m+}a[-l cervi-]{+s+}c[-a-]{+u+}l[-, conte-]{+i+}n[-d-]o [-o-]{+e+} {+femi+}n[-ono-x-]ino[-l-9. Con-]{+;+}
+{+Mé+}t[-ud-]o[-, nã-]{+d+}o [-é -]{+barr+}e[-n-]{+ira quími+}co[-nt-]{+: espe+}r[-a-]{+mici+}da {+e espo+}n{+jas;+}
+{+Métod+}o [-B-]{+barrei+}ra[-s-]{+ m+}i[-l.-]{+sto:+} [-F-]{+d+}i{+afra+}g{+ma e cap+}u{+z ce+}r{+vic+}a{+l.	+}
+{+Além+} [-1 --]{+do+} [-P-]{+p+}reservativo feminino [-Figura 2 - Diafragma-]
+
+[-B-]{+e+} [--	Comporta-]m[-ent-]a[-i-]s[-: “tabe-]{+cu+}lin[-ha”-]{+o+}, [-c-]o[-i-]{+s mé+}to{+dos+} [-int-]{+d+}e{+ ba+}rr[-omp-]{+e+}i[-do, muco-]{+ra+} cervical[-,-] [-temper-]{+(di+}a[-tu-]{+f+}ra{+gma,+} [-b-]{+c+}a[-s-]{+puz cervic+}al e {+e+}s[-int-]{+p+}o[---]{+njas) +}t[-ér-]{+ê+}m{+ +}i[-c-]{+mp+}o[-Os í-]{+rta+}n[-dic-]{+t+}e[-s-] [-d-]{+pap+}e{+l+} [-f-]a{+uxi+}l[-h-]{+iar n+}a [-s-]{+reduç+}ão {+d+}a[-l-]{+ +}t{+ransmissã+}o{+ de DST+}s, [-po-]{+v+}is{+to+} [-depend-]{+qu+}e[-m-] [-de-]{+a+} {+cérv+}i[-n-]{+ce u+}te{+ri+}n[-s-]a [-m-]{+é p+}o{+r+}t[-iv-]a[-ção-] d[-o-]{+e+} [-c-]{+entr+}a[-s-]{+d+}a[-l e-] [-v-]{+p+}ar[-i-]a[-çõ-]{+ +}es[- biológic-]{+s+}as [-indivi-]d[-u-]{+oenç+}a[-i-]s.[-A-] [-“-]{++}
+{+Impor+}ta[-beli-]n[-ha”,-]{+te+}
+{+O+} {+preservativ+}o[-u-] m[-étod-]{+asculi-n+}o [-d-]e [-Ogin-]o[--Knauss,-] [-bas-]{+f+}e{+m+}i[-a-se -]n[-a abst-]in[-ência-]{+o+} [-periódica-]{+são+} [-n-]os [-d-]{+ún+}i[-as -]co[-n-]s[-idera-]{+ méto+}dos [-fér-]{+an+}t{+icon-c+}e{+pc+}i[-s -]{+on+}a[-pó-]{+i+}s [-o-]{+que+} {+p+}r[-ec-]o{+te+}-[-nh-]{+g+}e[-ci-]m[-e-]{+ co+}nt[-o-]{+ra+} d{+o+}e{+nça+}s[-se-] [-p-]{+s+}e[-ríodo. A m-]{+-x+}u{+a+}l[-her dev-]{+m+}e[- a-]n[-o-]t[-ar c-]e{+ t+}r[-c-]a[- d-]{+nsmissí-v+}e{+is,+} [-6 a 12 c-]i{+n+}cl[-o-]{+u+}s{+ive+} [-m-]{+HIV/AIDS.+}
+{++}
+{+O pr+}e[-n-]s[-t-]{+e+}r[-u-]{+v+}a{+t+}i[-s-]{+vo+} {+mas+}c{+ulino e +}o{+ fe+}m{+inino+} [-padr-]{+n+}ão {+ap+}re[-gul-]{+sent+}a[-r. Do-]{+m+} c[-icl-]o[- m-]{+ntr+}ai{+ndicaçõe+}s{+;+} {+pe+}lo{+ co+}n[-g-]{+trári+}o, [-subt-]r[-a-]e{+co+}m{+enda+}-se [-11-]{+seu+} [-dia-]{+u+}s{+o+} {+m+}e[-,-]{+s-mo+} {+quan+}do [-m-]a[-i-]s[- -]{+so+}c{+iado a o+}u[-r-]t{+r+}o[-, 18-] {+méto+}d[-i-]{+o contr+}a[-s-]{+ceptivo+}. [-O-]{+A+} [-in-]t{+axa d+}e[-rv-]{+ f+}al[-o-]{+ha+} [-e-]n[-tre-]{+o+} [-esse-]{+u+}s{+o+} d[-ias-]{+e+} {+con+}do{+m+} {+mas+}c[-ic-]{+u+}l{+in+}o é [-consi-]de[-r-]{+ 3 +}a[-do-] [-o-]{+14%+} [-períod-]{+n+}o [-fértil,-]{+1º+} [-qu-]an[-d-]o {+(3 a 14 gest+}a{+ções por 100+} mulher{+es/ano).+} [-d-]{+O pr+}e[-v-]{+s+}er[-á -]{+v+}a[-bs-]t[-er-se-]{+ivo+} [-d-]{+f+}e{+minino+} {+ap+}re{+senta +}l{+imit+}aç[-õ-]{+ão +}e[-s-]{+m+} se[-x-]u{+ uso em p+}a{+c+}i{+ente+}s v[-ag-]i{+rge+}n[-ai-]s.[-Exemplificando: -]
+[-X-] [-= cicl-]{+Nã+}o [-mai-]s{+ão+} [-cur-]t{+ã+}o [-- 18 d-]{+ef+}i{+c+}a{+ze+}s [-Y = -]c[-icl-]{+om+}o m[-ai-]{+étodo+}s [-l-]{+c+}on[-go - 11 di-]{+tr+}a[-s -]
+[-S-]{+c+}e{+ptivos+} {+q+}u[-ma p-]a[-cie-]nt[-e-]{+o+} o[-b-]s[-ervou-] {+mét+}o[- pa-]d[-rã-]o{+s+} [-d-]{+horm+}o{+nai+}s{+.+} [-seu-]{+A+}s [-cic-]{+fa+}l[-o-]{+ha+}s no[-s-] [-último-]{+u+}s{+o+} [-6 mes-]{+d+}e[-s:-] {+c+}o{+ndom+} ma[-i-]s[- -]cu[-rto fo-]{+l+}i{+no+} [-de 26 dia-]s[- e -]{+ã+}o [-m-]a[-i-]s[- long-]{+s+}o[- de 30, -]c{+i+}a[-lcul-]{+d+}a[---]s[-e: -]
+[-X = 26 - 18; X = 8 -]
+[-Y = 30 - 11; Y-] [-=-]{+ao+} [-19-]{+mau+} [-In-]{+u+}s[-erind-]o {+d+}o[-s-] {+méto+}d[-ias-]{+o,+} n[-o-]{+a+} [-c-]{+ma+}i[-clo:-]
+[-P-]or[-t-]{+i+}a[-nto, o-] [-c-]{+d+}as[-al-] [-de-]ve[- -]{+z+}e[-vitar-]{+s,+} [-r-]e{+ à +}l{+ubrific+}aç[-ões-]{+ão+} {+in+}s[-ex-]u[-a-]{+fic+}i[-s -]ent[-r-]e [-o -]d[-i-]{+ur+}a{+nte+} [-8 -]{+s+}e{+u+} [-19-]{+uso+} [-daq-]{+o+}u{+ pr+}e[-l-]{+s+}e{+rvativo+} [-c-]{+danif+}ic[-l-]{+ad+}o. [-L-]{+D+}e[-mbrar qu-]{+ve-s+}e [-o 1º d-]{+ev+}i{+t+}a{+r+} [-d-]o [-cicl-]{+us+}o {+de lubr+}i[-n-]{+f+}ic[-i-]a[- -]n[-o 1º-]{+tes+} [-dia-]{+oleosos+} [-da-]{+nos+} [-m-]{+pr+}e[-n-]s[-t-]{+e+}r[-u-]{+v+}a[-çã-]{+tiv+}o{+s de látex+}.{+ +}O{+s+} {+úni+}co{+s efe+}ito{+s+} [-in-]{+cola+}ter[-romp-]{+a+}i[-do-]{+s+} [-c-]{+sã+}o[-n-]{+ +}si[-ste -]n{+tom+}a{+s+} [-ej-]a[-cu-]l[-ação ext-]{+é+}r[-ava-]gi[-nal-]{+cos+} e[- també-]m [-tem altas taxas de falha.-]
+[-O exame d-]i[-ár-]{+nd+}i[-o -]{+ví+}d[-o m-]u[-c-]o{+s+} [-c-]{+s+}e[-r-]{+nsí+}v{+e+}i[-cal, também-]{+s+} [-cham-]a[-d-]o [-mé-]{+lá+}t{+ex +}o[-do-]{+u+} [-de-]{+aos+} [-Bil-]l{+ubrif+}i[-ngs, -]c[-o-]{+a+}n[-sis-]te{+s.+} [-na-]{++}
+{+O+} [-ob-]{+pre+}serva[-çã-]{+tiv+}o [-das su-]{+m+}as[- cara-]c[-teríst-]{+ul+}i[-cas,-]{+no+} [-qu-]e [-é -]{+fe+}m[-a-]i{+nino deve +}s{+er+} [-fl-]u{+t+}i{+liza+}do e{+m+} [-elás-]t{+odo co+}i{+to +}co{+m+} [-n-]o [-p-]{+obj+}e[-rí-]{+tiv+}o{+ +}d[-o-]{+e+} [-fé-]{+p+}r[-til, s-]e[-m-]{+v+}e[-lha-]n[-te à-]{+ir+} [-cl-]a{+ t+}ra[- de ovo, e-]{+n+}s[-pe-]{+mi+}ss{+ã+}o e o[-pa-]{+ +}co[- -]n{+tági+}o [-perío-]d[-o-]{+as+} [-pó-]{+DST+}s[--ovu-]{+. A+}l[-atório-]{+ém+} [-ou-]{+de+} [-não-]{+ser+} [-fé-]{+alte+}r{+na+}ti[-l. Se -]{+v+}a pa{+ra +}c{+asa+}i{+s qu+}e{+ +}n{+ão +}te{+m+} [-per-]{+indi+}c[-eber -]a{+ção+} p{+a+}r[-esenç-]a [-do -]m[-uc-]{+ét+}o[-, -]{+d+}o[- ca-]s[-al deve-] [-ev-]i[-ta-]r[- -]re[-laçõ-]{+v+}e{+r+}s[- s-]{+ív+}e[-xua-]is[-.-] [-A-]{+e+} [-p-]a[-ci-]{+pres+}ent[-e deve -]a{+m +}co[-mpa-]n[-ha-]{+t+}r[- -]a[-s mo--]{+in+}di[-?-]caç[-ões-]{+ão+} [-d-]{+a+}o{+s+} m[-uc-]{+ét+}o[-, ele vai ?can-]do{+s+} {+hor+}m{+on+}ais [-?no,-]{+e+} [-?la-]{+i+}nt{+raut+}e{+rinos.+} [-e-]{++}
+{+O+} {+pr+}e[-lá-]s{+erva+}ti[-c-]{+v+}o[-,-] [-le-]m[-br-]a{+sculi+}n[-d-]o [-cla-]{+p+}r[-a d-]{+oteg+}e {+c+}o[-vo.-]{+ntra+} [-Ess-]as {+seguin+}t[-rê-]{+e+}s {+DSTs: +}c[-aracter-]{+lam+}í[-st-]{+d+}i[-c-]a[-s-]{+,+} [-su-]g[-e-]{+onor+}re[-m -]{+i+}a[-ção do-]{+,+} {+h+}e[-st-]r[-o-]{+pes +}g[-ê-]{+e+}ni[-o-]{+tal,+} [-no-]{+sífilis,+} [-mu-]{+tri+}co{+moníase,+} [-c-]{+h+}e[-rvic-]{+p+}a[-l-]{+tite B e HIV+}. [-Qu-]{+Aind+}a{+ +}n{+ão se po+}d{+e c+}o{+nfirmar+} a s[-ec-]{+ua p+}r{+ot+}eção [-tor-]na{+ t+}r[---]{+an+}s[-e -]m[-a-]is[- espes-]s[-a-]{+ão do HPV.+}
+{+A+} e{+ficácia+} {+c+}o[-p-]{+ntr+}ac{+eptiv+}a[-,-] {+d+}o{+s+} [-ca-]{+pre+}s{+erv+}a[-l-]{+tivos+} [-a-]{+fem+}in[-da-]{+inos+} {+po+}de[-ve-] {+aum+}e[-vi-]{+n+}tar [-rel-]{+qu+}a[-ções-]{+ndo+} [-p-]{+utilizad+}o[-r-] {+co+}m[-ais-] [-q-]{+l+}u{+brific+}a{+n+}t[-ro-]{+es+} [-d-]{+ínt+}i[-a-]{+mo+}s. [-A p-]{+P+}r[-og-]e[-st-]{+f+}e{+-+}r[-o-]{+ê+}n{+ci+}a [-t-]{+p+}or[-n-]{+ +}a{+queles+} [-o-]{+a+} [-m-]{+base de ág+}u{+a, +}co{+m+} {+n+}o[-pac-]{+n+}o[- e ma-]{+x+}i[-s-]{+nol-9.+} [-e-]{+O+}s{+ +}p{+r+}es[-s-]{+ervativ+}o[-O-]{+s+} {+fe+}m[-ét-]{+inin+}o[-d-]{+s nã+}o {+po+}d[-a t-]em[-p-]{+ s+}er[-atura-] [-basa-]{+uti+}l[- necess-]i[-t-]{+z+}a[- -]d[-e-]{+os+} [-m-]e[-did-]{+m prol+}a{+p-so+}s [-diár-]{+gen+}i{+t+}a{+i+}s{+.+} [-da-]{++}
+{+O+} [-temper-]{+c+}a[-t-]{+p+}u[-ra-]{+z+} [-o-]{+ce+}r{+vic+}al, [-r-]{+qu+}e[-tal-] {+nã+}o[-u-] [-vag-]{+ex+}i{+ste +}n{+o Br+}a{+si+}l{+, consiste+} em [-re-]{+dis+}po[-u-]s{+itiv+}o [-p-]{+d+}e[-la ma-nhã.-] [-E-]l{+át+}e[-vação-]{+x+} [-d-]{+qu+}e [-c-]{+s+}e[-rca-] {+a+}d[-e 0,5°C n-]{+apt+}a [-m-]e{+ a+}d[-ida da temp-]er[-atura-]{+e+} [-bas-]a[-l é-]{+o+} [-indi-]c[-ativa de-]{+olo+} [-q-]u{+t+}e[- -]{+rin+}o[-c-]{+ p+}or[-reu-] [-ov-]{+s+}u[-la-]{+c+}ção. [-O-]{+Tem+} {+efi+}c{+áci+}a[-sal deve-] [-abster--]se[- de r-]{+m+}el{+h+}a[-çõ-]{+nt+}e[-s-] [-sexu-]a[-is-]{+o+} d[-esde -]{+i+}a[- -]{+frag+}m{+a, +}en[-s-]tr[-u-]{+et+}a[-çã-]{+nt+}o [-at-]é [-3 dias -]{+b+}a[-pó-]s[- -]{+t+}a[- -]{+nt+}e[-l-]{+ susc+}e{+tí+}v{+el +}a[-çã-]o [-d-]{+m+}a[- t-]{+nus+}e[-mp-]{+io +}er[-atu-]ra[-.-]
+[-O méto-]do [-s-]{+da pac+}i{+e+}nt{+e. É c+}o{+n+}t[-é-]r[-m-]{+aind+}ic{+ad+}o [-é a-]{+em+} [-asso-]c[-i-]a[-ção do-]s[- métod-]os de [-muco -]{+infe+}c{+çõ+}e[-r-]{+s +}v{+ag+}i[-c-]{+n+}a[-l-]{+is+} [-e-]{+ou+} [-t-]{+Do+}e{+nça Infla+}m[-per-]at[-u-]{+ó+}r{+i+}a [-basa-]{+Pé+}l{+vica+} [-ou-]{+(DIP),+} {+e+}m[-uco-] [-cer-]vi[-cal-]{+rgens+} e [-“t-]{+qu+}a[-beli-]n[-ha”.-]
+
+[-C-]{+do+} [---]{+há+} [-Dispos-]{+defe+}it[-iv-]o [-i-]{+a+}n[-tr-]a[-u-]t[-er-]{+ôm+}i[-n-]{+c+}o [-O-]{+que o+} [-d-]i[-s-]{+m+}p[-o-]{+eça de +}s[-itiv-]{+er c+}o{+locado. +} {++}
+{+O d+}i[-nt-]{+af+}ra{+gma (Fig+}u[-te-]r[-ino-]{+a+} [-(DIU-]{+2+}) é um [-método c-]o[-ntrac-]{+bj+}e[-p-]t[-iv-]o [-qu-]e{+m+} f[-ica al-]o[-j-]{+rm+}a[-do den-]t[-r-]o d[-a-]{+e+} c{+onch+}a[-vida-]{+ +}de [-u-]{+lá+}te[-rina.-]{+x+} [-At-]{+o+}u[-a-]{+ si+}l[-me-]{+ico+}n[-t-]e, {+c+}o[-s mode-]lo[-s -]{+ca+}d[-isp-]o[-níveis-] s[-ã-]o{+b+} o [-DIU de -]co[-br-]{+lo ut+}e{+rino,+} o{+cl+}u{+indo+} o [-sistem-]{+c+}a[- liber-]{+n+}a[-dor de -]l{+ c+}e[-vonorgest-]r[-e-]{+vica+}l{+.+} [-(Fig-]{+S+}u[-r-]a [-3).-]{+eficácia+} {+é+} [-F-]{+ba+}i[-gur-]{+x+}a [-3-]{+(6+} [---]{+a+} [-Modelos-]{+21+} [-d-]{+g+}e[- dispo-]s[-i-]t[-ivo-]{+açõe+}s [-int-]{+po+}r[-a-]{+ 100 m+}u[-t-]{+lh+}er[-inos-]
+
+[-a) M-]e[-c-]{+s/+}an[-ism-]o{+)+} [-d-]e a[-ção-]
+[-O m-]{+pr+}e[-cani-]s[-mo d-]e{+nta+} {+falh+}a[-ção-] d[-o DIU-]{+e+} [-é-]{+6+} a {+21%. Ent+}re{+t+}a[-çã-]{+nt+}o{+,+} [-d-]{+nã+}o [-ti-]{+a+}p[-o co-]r[-po -]es{+enta con+}tra{+i+}n[-ho-]{+dicações+}. [-A pr-]{+D+}e{+ve +}se[-nça-]{+r+} {+usa+}do {+asso+}c{+iad+}o[-rp-]{+ a+}o es[-t-]{+pe+}r{+micid+}a[-nho-]{+,+} [-no-]{+a+} [-int-]{+s+}er[-ior da-] c[-avid-]{+oloc+}ad{+o +}e{+m 2+} [-ut-]e[-r-]{+tapas dist+}in{+t+}a{+s:+} {+inici-+}a[-u-]{+l+}ment[-a-]{+e+} {+n+}a [-c-]{+b+}o[-ncent-]r{+d+}a[-ção-] [-d-]e [-m-]{+p+}ar{+te côn+}ca{+va +}do[-res-] {+d+}i[-n-]{+a+}f[-l-]{+r+}a{+g+}ma[-tórios-] {+a+}n[-o-]{+tes+} [-líqui-]d[-o-]{+e+} [-ut-]{+s+}er{+ +}in[-o -]{+s+}e{+rido;+} {+pos+}t[-ubá-]{+e+}rio[- -]{+rment+}e{+,+} a[-l-]{+n+}te[-ra o -]s[-eu-] [-pH.-]{+das+} [-D-]{+relaçõ+}es{+ +}s{+exu+}a{+is,+} [-f-]{+c+}o[-r-]m[-a,-] {+apli+}c{+ado+}r{+ vag+}i{+n+}a{+l.+} [-um-]{+O+} {+diafr+}a{+g+}m[-biente-]{+a+} [-h-]{+é c+}o[-sti-]l[- à s-]o[-brevivên-]c[-i-]a[- -]do [-esperm-]at[-ozoide e-]{+é+} [-à-]{+2+} {+h+}o[-cor-]r[-ênci-]a{+s antes+} da{+s+} [-f-]{+r+}e[-cund-]{+l+}aç[-ão. Com -]{+õ+}es[-te-] [-m-]{+s+}e[-c-]{+xu+}a[-n-]is[-mo, a-] [-ocorrência-]{+e+} de[- f-]{+v+}e[-cundação é-] [-des-]p{+e+}r{+man+}e[-zív-]{+c+}e[-l,-]{+r+} [-m-]a{+pó+}s [-cas-]o [-a-]co[-n-]{+i+}t[-eça-]{+o+}, {+p+}o{+r+} [-DIU-]{+6+} [-t-]a[-mbém-] [-impede-]{+8+} {+hor+}a{+s).+} {+A v+}i{+da +}m[-pl-]{+édi+}a[-n-]{+ ú+}t[-ação-]{+il+} do [-ovo-]{+diafragma+} [-no-]{+é+} e[-ndo-]m[-é-]{+ +}t[-ri-]o[-. Pa-]r[-a-]{+no+} [-a-]{+de+} [-OMS,-]{+3+} {+an+}o{+s.+} [-mec-]{++}
+{+Contr+}a{+i+}n{+d+}i{+cação ao u+}s[-m-]o [-é-]{+do+} {+diafragm+}a{+:+} in[-ter-]fe[-rên-]c[-ia em-]{+ção+} {+g+}e{+ni+}ta[-pas-]{+l, DIP,+} [-pré-]vi[-a-]{+rgen+}s{+,+} [-à f-]{+alt+}er[-tiliz-]aç[-ão.-]
+
+[-b)-]{+ões+} [-Ef-]{+anatôm+}ic[-áci-]a{+s,+} [-A-]{+a+}lt[-a,-]{+o+} {+ris+}co[-m-] {+ou por+}ta[-x-]{+dor+}as de [-0-]{+HIV+},[-3-] [-g-]{+inf+}e[-sta-]{+c+}ção [-por 100 m-]u[-lhe-]r[-es/a-]{+i+}n[-o. Sua du-]{+á+}r[-abil-]i[-d-]a[-d-]{+ +}e [-v-]{+c+}a{+nd+}i[- -]d[-e 5 a 10 -]{+í+}a[-no-]s[-,-]{+e+} de[-p-]{+ r+}e[-nd-]{+p+}e[-nd-]{+tiçã+}o{+,+} [-do-]{+história+} [-mo-]de[-lo-] [-e-]s[-tu-da-]{+ín+}d{+r+}o[-. O DIU-]{+me+} d[-e-]{+o+} c{+h+}o[-br-]{+qu+}e [-T380-]{+tóxico.+} {++}
+A[- -]te[-m-]{+nção: o+} d[-u-]{+iaf+}ra[-bilid-]{+gm+}a[-de-] de[- 10 anos.-]
+
+[-c) Efeitos colat-]{+v+}e[-rais-] [-Di-]s[-m-]e[-no-]r{+ +}re{+t+}i{+r+}a[-, aumento -]do [-fl-]{+d+}u[-xo menst-]r[-u-]a[-l -]{+nt+}e [-sangr-]a[-mento-] [-inter-]menstrua[-l.-]
+
+[-d) C-]{+çã+}o[-ntrai-]{+;+}
+{+I+}ndicações [-Tem-]a{+o+} [-de-]{+uso+} [-pr-]{+d+}o[-v-]{+ di+}a[-	-]
+[-As-]{+fragma:+} [-c-]{+d+}o{+e+}n[-tr-]{+ç+}a[-in-]{+ car+}d[-i-]{+ía+}ca[-ções-] [-p-]{+v+}a[-r-]{+lv+}a{+r+} {+c+}o{+mplicada+} [-us-]{+(nã+}o [-do-]{+apresenta+} [-d-]{+efe+}i[-sp-]{+t+}o{+ +}si{+s+}t{+êm+}i[-v-]{+c+}o{+)+} {+e ba+}i[-nt-]{+xo +}r{+isco p+}a[-ute-]r{+a +}in{+fecções pel+}o [-(D-]{+H+}I[-U)-]{+V+} [-são-]{+e+} {+ou+}t[-em-]{+r+}a{+s+} [-f-]{+DSTs;+}
+{+P+}r{+ot+}e[-qu-]{+g+}e{+ co+}nt[-e-]{+ra+} [-n-]as [-que-]s{+eguin+}t[-õ-]es [-da-]{+DST+}s{+:+} [-pr-]{+gonococ+}o[-vas-] [-d-]e [-Residên-]c[-i-]{+l+}a[- Mé-]{+mí+}di[-c-]a[-.-]{+;+}
+{+Não+} [-Pacien-]{+pro+}te[-s-]{+ge+} co[-m-]{+ntra as+} [-di-]s[-m-]e{+gui+}n[-orr-]{+t+}e[-ia-]{+s+} [-moderada-]{+DSTs:+} [-a-]{+HIV,+} [-g-]{+HPV, he+}r[-av-]{+p+}e[-; fluxo-]{+s+} [-m-]{+g+}en[-s-]{+i+}t[-ru-]al [-já-]{+e+} [-v-]{+tric+}o[-lu-]mo{+nía+}s[-o-]{+e+};{++}
+{+Não+} [-al-]{+in+}ter[-açõ-]{+fer+}e[-s-] [-a-]n{+o +}a[-tôm-]{+le+}i[-c-]{+t+}a[-s, co-]m{+ent+}o [-ú-]{+ma+}ter{+no;+}
+{+P+}o{+de+} [-bi-]{+o+}cor[-no-]{+rer+} {+c+}o[-u d-]{+rr+}i[-delfo, s-]{+m+}e[-p-]{+n+}to [-lon-]{+va+}gi[-tudi-]nal [-ou -]{+in+}t[-ra-]{+e+}ns[-v-]{+o d+}e{+ odo+}r{+ fétido ca+}so[-;-] {+o di+}a[-ne-]{+frag+}m[-i-]a[-;-] [-vid-]{+sej+}a [-s-]{+d+}e{+i+}x[-u-]a[-l-]{+do+} p[-r-]o{+r +}m[-ísc-]u[-a,-]{+ito+} [-p-]{+t+}e[-l-]{+mp+}o [-mai-]{+n+}o[-r-] [-ris-]{+lo+}c{+al;+}
+{+P+}o[- -]de [-DST; m-]{+pr+}o[-lésti-]{+voc+}a{+r+} [-inflamató-]{+do+}r[-ia-] pélvica{+,+} {+cólic+}a[-guda-]{+s+} {+e retençã+}o{+ +}u{+rinária –+} {+f+}at[-é-]{+or+} [-3 mes-]{+d+}e{+ ri+}s[-;-]{+co+} {+p+}a{+ra i+}n[-t-]{+f+}ec[-edentes-]{+ção+} de [-2 ou m-]{+tr+}a[-is-]{+to+} [-ep-]{+ur+}i[-sód-]{+nár+}io[-s -]{+;+}
+{+Po+}de [-m-]o[-lésti-]{+c+}a[- -]{+s+}i{+o+}n[-flam-]a[-tó-]r[-ia pélvica aguda-] {+sí+}n{+dr+}o[- últi-]m{+e d+}o [-an-]{+ch+}o[-;-]{+que+} {+tóx+}i[-nfe-]c[-çã-]o{+,+} [-p-]{+q+}ue[-r-]{+ também +}p{+od+}e[-ral;-] {+o+}c[-e-]{+or+}r[-vicit-]e{+r+} [-p-]{+d+}ur[-ule-]{+a+}nt[-a;-]{+e+} {+o u+}s{+o de +}a[-ng-]{+bso+}r[-am-]{+v+}ent[-o g-]e[-n-]{+s +}i{+n+}t[-al -]{+er+}n[-ã-]o{+s. +}
+{+O+} es[-clar-]{+p+}e{+rmi+}cid[-o;-]{+a+} [-t-]{+(o+}u[-b-]{+ +}e[-rculo-]s[-e -]p[-élv-]{+ermat+}ic{+id+}a[-; câncer-]{+)+} [-d-]{+t+}e{+m+} co[-l-]{+m+}o {+açã+}o[-u-] [-c-]{+im+}o{+biliza+}r[-po-] [-ut-]e{+ dest+}r{+u+}i[-no.-]{+r+} [-A-]{+o+}s [-di-]{+e+}s[-c-]{+pe+}r{+m+}a[-s-]{+tozo+}i[-a-]{+de+}s{+, e+} [-s-]a[-ng-]{+ s+}u[-í-]{+bstâ+}n[-e-]{+ci+}a{+ mai+}s [-(do-]{+fre-qu+}en[-ça d-]{+tem+}e[- Vo-]n{+te+} [-W-]{+ut+}il[-lebr-]{+iz+}a[-n-]d{+a+} [-e-]{+é o+} [-deficiê-]n[-c-]{+onox+}i[-a-]{+nol-9.+} [-d-]{+G+}e[- fato-]r[- VIII) t-]a{+l+}m[-b-]{+ente, +}é[-m-] [-con-]{+u+}t[-ra-]i[-nd-]{+l+}i[-c-]{+z+}a[-m -]{+d+}o [-s-]e[-u-]{+m+} [-u-]{+as+}so[-.-]{+ciação+} [-Um-]{+a+} [-c-]o[-ncei-]{+u+}t{+r+}o [-estig-]m[-a-]{+é+}t[-iza-]{+o+}do de [-q-]{+barreira para a+}u{+m+}e{+n-tar+} [-o-]{+a+} [-DIU-]{+eficácia.+} [-n-]{+N+}ão [-p-]{+é muit+}o[-d-]{+ +}e[-r-]{+fet+}i[-a-]{+vo+} se[-r-] utilizado [-p-]{+is+}o[-r nu-]l[-ig-]{+adam+}e[-s-]{+n+}t[-as-]{+e+} [-é-]{+e+} {+nã+}o[-bs-]{+ pr+}o[-le-]t[-o.-]{+ege+} [-Diversos estudos re-]c[-entes têm de-m-]on[-s-]tra[-do que-] [-o méto-]do{+enças.+} [-é-]{++}
+{+O+} [-seg-]u[-r-]{+s+}o [-e po-]de {+e+}s{+p+}er[- ut-]{+m+}i[-l-]{+c+}i[-za-]d[-o t-]a[-nto-]{+s+} p[-o-]r[- pa-]{+ovo+}c[-i-]{+a l+}e[-nt-]{+sõ+}es [-q-]{+(fiss+}u[-e já-]{+ras+} [-g-]e{+ microfi+}s[-ta-]{+su+}ra[-m-]{+s+} [-qu-]{+v+}a{+gi+}n[-to-]{+ais,+} [-po-]{+ce+}r[- pa-]{+vi+}c{+a+}i[-ente-]{+s+} [-qu-]e [-não g-]{+r+}e[-s-]ta[-ram. -]
+
+[-e-]{+is+}) [-I-]n[-form-]a[-ções-] [-i-]m[-p-]{+uc+}o[-rt-]{+sa v+}a{+gi+}n[-t-]{+al +}e[-s-] [-Impo-]r{+e+}ta{+l, depe+}n[-t-]{+d+}e[-O DIU -]n[-ã-]{+d+}o [-é-]{+da+} [-co-]{+frequê+}n[-s-]{+c+}i[-der-]a{+ +}d[-o-]{+e+} [-abortiv-]{+us+}o[-,-] [-pois-]{+e+} [-nã-]{+d+}o [-interfer-]{+volum+}e [-n-]a[- fe-]{+pli+}c[-und-]a[-çã-]{+d+}o. E[-m virtud-]{+ss+}e [-d-]{+fat+}o {+au+}m{+ent+}a[-i-]{+ +}o[-r-] risco de [-i-]{+tra+}n[-fecç-]{+smiss+}ão [-ascen-]d[-ente pel-]o [-trato-]{+HIV+} [-r-]e[-pr-]{+ +}o[-d-]ut[-ivo-]{+ras+} [-feminin-]{+DSTs. Log+}o, [-d-]{+mulh+}e[-v-]{+r+}e[---]s[-e-] {+c+}o{+m +}ri[-entar a-]{+sco+} [-p-]a[-ci-]{+um+}ent{+ado d+}e [-a-]{+DST+} [-procu-rar-]{+e HIV,+} assi[-stência -]m[-édica-] [-se-]{+co+}m[-pre-]{+o+} {+a+}que[- e-]la{+s com+} {+muit+}a[-pre-]s{+ r+}e[-nt-]{+l+}a{+ções+} [-l-]{+s+}e{+x+}u[-correi-]a[-,-]{+is+} d[-o-]{+iá+}r[- pélv-]i[-c-]a{+s+}, [-sa-]n[-grament-]{+ã+}o {+de+}v[-aginal anor-]{+e+}m[-al,-] f{+az+}e[-b-]r[-e-] [-c-]{+us+}o[-m-] {+de+}s[-u-]s[-peit-]a{+s+} [-de i-]{+substâ+}n[-fe-]c[-ção pélv-]i[-c-]a{+s;+} [-o-]{++}
+{+O+}u[- a-]tras[-o-] [-me-]{+co+}n[-s-]tr[-u-]a[-l.-]
+
+[-f) DIU e -]in[-fecção pélv-]{+d+}ica[-D-]{+çõ+}e{+s+} [-mod-]{+sã+}o{+:+} [-geral,-]{+DIP+} {+e/+}o{+u+} {+ce+}r{+v+}i[-s-]c[-o d-]{+it+}e a[-q-]{+t+}u[-isição de-]{+al+} {+o+}u[-ma-] [-i-]n[-fecçã-]o{+s+} [-pé-]{+ú+}l[-v-]{+t+}i[-ca e-]m{+os+} [-u-]{+3 me+}s[-uá-]{+es; ale+}r{+g+}ia [-de DIU é -]{+a+}o {+pro+}d{+ut+}o[-br-]{+; +}
+{+Nã+}o {+interf+}e[-m -]re[-lação à-] [-populaçã-]{+n+}o [-ger-]al[-, s-]{+eitam+}en[-d-]{+t+}o m[-u-]{+aterno;+}
+{+Irr+}it{+açã+}o [-mais-]{+ou+} [-e-]{+a+}le[-v-]{+rgi+}a[-do-] na[-s-] [-sem-]{+v+}a{+gi+}na[-s-] [-s-]{+o+}u[-b-]{+ no pêni+}s{+: 1 a 5%;+}
+{+Pod+}e[-q-]{+ a+}u{+m+}ent[-es à-]{+ar+} [-col-]o{+ ris+}c[-açã-]o[-,-] {+d+}e[-xpli-]{+ +}cand[-o--]{+idía+}se, [-portanto, que -]{+v+}a[- pr-]{+g+}in[-cipal cau-]{+o+}s[-a-]{+e+} [-d-]e infecção [-seja -]d[-ir-]e{+ +}ta[-men-]t[-e-]{+o+} {+uriná+}r[-elac-]io{+ +}na[-da-] [-à-]{+mulher. +}
+{+A+} e[-xpo-]s[-içã-]{+p+}o{+nja+} [-pré-]v{+ag+}i{+n+}a{+l+} d[-a paci-]e[-nt-]{+v+}e a{+bsorver+} [-um-]{+o+} [-ag-]{+sêm+}en[-te-] [-s-]e[-x-]{+ bloq+}u{+e+}a[-lm-]{+r a +}ent[-e t-]ra[-nsmis-]{+da do+}s[-ível.-] [-Pacient-]es[- -]p[-o-]{+e+}r[-t-]{+m+}a[-d-]{+t+}o[-ras -]{+zoi+}de{+s+} [-i-]n[-fecçã-]o {+c+}a[-ssi-]n[-tomátic-]a{+l+} [-po-]{+ce+}r[- Chlamyd-]{+v+}i{+c+}a{+l,+} [-e gono-]co[-co -]{+n+}tend[-em-]{+o+} [-a-]{+o+} [-aprese-]n[-tar um-]{+onoxinol-9.+} [-q-]{+Cont+}u[-a-]d[-r-]o{+,+} [-de d-]{+nã+}o{+ é +}en[-ça i-]{+co+}n[-flama-]t[-ó-]r[-i-]a[- pélvic-]{+d+}a [-si-]n[-t-]o[-máti-ca-] {+Br+}a[-pó-]s{+il.+}
+ [-a -]{++}
+{+F+}i[-nse-]{+gu+}r[-ção-]{+a+} [-do-]{+1+} [-DIU.-]{+-+} [-M-]{+Pr+}es[-m-]{+ervativ+}o [-sab-]{+f+}e{+mini+}n[-d-]o{++}
+{++}
+ [-que as us-]{++}
+{+Fig+}u[-á-]r[-i-]a[-s-] [-de-]{+2+} [-DIU-]{+-+} [-tê-]{+Diafrag+}m{+a+}
+{+B+} {+-	Co+}m[-ai-]{+p+}or[- ch-]{+t+}a[-nce d-]{+m+}e[- i-]n[-fecção, -]{+t+}a{+i+}s{+:+} {+“+}ta[-xas d-]{+b+}e[-ssa comp-]li[-c-]{+nh+}a[-ção-]{+”,+} [-sã-]{+c+}o[- ba-]i[-xas,-]{+to+} [-dim-]in[-u-]{+terromp+}i[-n-]do{+,+} {+mu+}co[-m-] [-o-]{+cervical,+} temp[-o. Um -]e[-s-]{+-ra+}tu[-do d-]{+r+}a [-OMS mo-]{+ba+}s[-tr-]a{+l+} [-qu-]e[-,-] [-apó-]s[- 7 a-]{+i+}n{+totérmic+}o{++}
+{+O+}s {+ín+}d{+ic+}e[- u-]s[-o, a taxa foi-] de [-1% d-]{+f+}a[-s usuári-]{+lh+}a[-s;-] {+sã+}o[-u-]{+ al+}t[-r-]os {+com +}es[-tudo-]s[- am-]e[-ricano-]s m{+étod+}os[-traram-]{+,+} [-taxa-]{+poi+}s de[- i-]{+pe+}n[-f-]{+d+}e[-cção-]{+m+} de [-1,6 a 1,8 v-]{+int+}e[-z m-]{+ns+}a[-ior-] [-e-]m[- usuár-]{+ot+}i{+v+}a[-s de DIU-]{+ção+} d[-e-]{+o+} c[-obre-]{+asal+} [-(-]e[-m-] [-comp-]{+v+}ar{+i+}aç[-ão-]{+ões+} [-c-]{+bi+}o[-m -]{+lógic+}as {+i+}n[-ão -]{+divid+}u{+ai+}s[-uár-]{+.+}
+{+A “tabel+}i{+nh+}a[-s-]{+”,+} [-d-]o{+u+} método[-).-]
+[-O maior-] [-t-]{+d+}e[-mor-] [-qua-]{+Ogi+}n[-d-]o[- um-]{+-Kn+}a[- -]us{+s o+}u[-ária de DIU é-] a[-come-]{+bs+}ti[-d-]{+nênci+}a [-por -]{+sex+}u[-m-]a[- infecção pé-]l[-v-]{+ rítm+}ica{+,+} [-– chamad-]{+b+}a[- do-]{+s+}e[-nç-]{+i+}a{+-se+} [-i-]n[-fl-]a[-m-]{+ +}a{+bs+}t[-ór-]{+inênc+}ia p[-élv-]{+eriód+}ica {+n+}o[-u molé-]s[-tia-] [-inflamatór-]{+d+}ia{+s+} [-pélvi-]c[-a agu-]{+onsi+}d{+er+}a{+dos+} [-– -]{+f+}é[- qu-]{+rt+}e{+is+} a{+pó+}s [-c-]o[-mplicações,-] {+r+}e[-m l-]{+c+}on[-g-]{+heciment+}o [-prazo,-]{+desse+} p{+erí+}od[-em-]{+o.+} [-s-]{+A mulh+}er [-gra-]{+de+}ve[-s,-] a[-umenta-]n[-d-]o[- -]{+t+}a{+r+} c[-hanc-]e{+rca+} de {+6 a 12 ciclos m+}e{+n+}st[-e-]r[-ilid-]{+u+}a[-de-]{+is+} [-p-]{+c+}o[-r-]{+m+} [-d-]{+p+}a[-n-]{+drã+}o [-ir-]re[-ve-]{+gula+}r{+. Con+}s[-ív-]{+id+}e[-l-]{+re:+}
+{+A+} {+ovul+}a{+çã+}o [-epitéli-]o{+corre+} en[-do-]t[-ubá-]r[-io-]{+e+} [-nas-]{+12+} [-tub-]a[-s-] [-uter-]{+16 d+}i[-n-]as[-. -]
+[-Não-] [-exis-]{+an+}te[- con-]s{+ da m+}ens{+truaçã+}o{+;+}
+{+O+} [-q-]{+óv+}u[-ant-]{+l+}o [-à-]{+pode+} [-n-]{+s+}e[-c-]{+r f+}e[-ssi-]{+cun+}dad[-e-]{+o+} [-da-]{+no+} [-r-]{+p+}e[-moçã-]{+rí+}o[- -]do [-DIU na vigência -]de [-um-]{+12 +}a [-infecção-]{+24+} [-pélvic-]{+hor+}a[-,-]{+s+} [-m-]a{+pó+}s a [-rec-]o[-mend-]{+vul+}ação[- da -]{+;+}
+O[-MS é-] [-qu-]e[- -]s{+p+}e[- -]r[-e-]{+ma+}t{+ozo+}i[-r-]{+d+}e {+p+}o{+de+} [-DIU -]{+f+}e{+cu+}n[-t-]{+da+}r[-e-] [-24 e-]{+até+} [-48-]{+72+} horas após [-o-]{+a+} [-iní-]{+eja+}c[-i-]{+ulaçã+}o{+;+} [-da-] {++}
+{+N+}a[-ntibio-]{+ prá+}tic[-oterapi-]a{+,+} [-par-]a [-trata-]m{+ulh+}e[-nto-]{+r+} [-d-]{+observ+}a [-d-]o{+ s+}e[-nç-]{+u ciclo m+}a[-.-]{+is+} [-A-]l[-gu-]{+o+}n[-s-]{+go+} e{+ o mai+}s[-t-]{+ c+}u[--d-]{+rt+}o[-s-]{+ em 6+} a{+ 12 +}me[-r-]{+ses: do c+}ic[-an-]{+l+}o[-s-] m[-ostrar-]a[-m,-]{+is+} [-n-]{+l+}o[- e-]n[-tant-]{+g+}o, [-não h-]{+subtr+}a[-v-]e[-r-]{+m-se 11+} di[-ferenç-]a{+s+} [-n-]{+e, do m+}a{+is+} [-re-]cu[-pe-]r[-açã-]{+t+}o{+, 18+} d{+i+}as{+. O+} [-pac-]i[-e-]nte[-s que -]r[-emo-]v[-er-]a[-m ou não -]{+l+}o [-DIU, d-]e[-sd-]{+ntr+}e [-qu-]e[- -]{+s+}se[-u-]{+s+} [-r-]{+d+}i{+a+}s{+ do ci+}c{+l+}o [-à-]{+é+} [-exp-]{+c+}o{+n+}si[-ção -]de{+rado+} [-DST f-]o[-ss-]{+ p+}e{+ríodo+} [-ba-]{+fért+}i[-xo-]{+l+}, [-o-]{+q+}u{+ando+} [-sej-]a[-,-] [-ti-]{+mulher de+}ve{+rá ab+}s{+ter-+}se[-m-] [-parc-]{+d+}e[-i-]{+ +}r[-o-]{+elações+} sexua[-l-]{+is+} [-ú-]{+vagi+}n{+ais.+}
+{+Exemplif+}ic{+and+}o{+:+} [-e-]{++}
+{+X+} [-re-]{+= cic+}l[-açã-]o m[-onogâm-]{+a+}i{+s +}c[-a-]{+urto+} [-b-]{+- 18 d+}i[-later-]a[-l.-]
+
+[-g)-]{+s+} [-DIU-]{++}
+{+Y+} [-e-]{+=+} [-gestaçã-]{+cicl+}o[-A-] [-re-]m[-oção-]{+ais+} [-d-]{+long+}o [-DIU-]{+-+} [-está-]{+11+} [-in-]di[-cad-]a{+s+} [-im-]{++}
+{+S+}e[-di-]{+ um+}a[-t-]{+ p+}a[-m-]{+ci+}ente[-,-] [-as-]{+ob+}s[-im qu-]e{+rvou+} o {+padrão +}d{+os seus c+}i[-ag-]{+clos +}n[-ó-]{+o+}s{+ úl+}ti[-c-]{+m+}o{+s+} [-de-]{+6+} [-g-]{+m+}es[-taçã-]{+es: +}o [-intr-]{+m+}a[-uter-]i[-na é-]{+s+} c{+urt+}o[-n-]{+ +}f{+o+}i[-rmado, para-] {+d+}e[-vi-tar-] [-a-]{+26+} [-princ-]{+d+}i[-p-]a[-l-]{+s e+} [-c-]o{+ +}m[-plic-]a[-çã-]{+is long+}o de {+30, calc+}u[-m-]{+l+}a[- ge-]{+-+}s[-tação-]{+e:+} [-com-]{++}
+{+X+} [-o-]{+=+} [-método,-]{+26+} [-que-]{+-+} [-é-]{+18;+} [-o-]{+X+} [-aborto-]{+=+} [-espontâneo-]{+8+} [-(50-]{++}
+{+Y+} [-a-]{+=+} [-6-]{+3+}0[-%-] {+- 11; Y = 19 +}
+{+Inserin+}do{+ o+}s [-c-]{+di+}as[-os),-] {+n+}o{+ ci+}c{+lo:+}
+{+P+}or[-re-]{+ta+}n[-d-]{+t+}o{+,+} [-a imensa-]{+o+} [-m-]{+c+}a[-iori-]{+s+}a{+l+} de[-ss-]{+v+}e[-s-] {+evit+}a[-bo-]r[-t-]{+ rel+}a[-m-]{+çõ+}e[-nto-]s [-no 2º trim-]{+s+}e{+xuai+}s{+ en+}tre[-,-] [-mu-]{+o d+}i[-t-]a[-s-] [-vez-]{+8 +}e[-s-] {+19 daquel+}e[-m-] [-s-]{+c+}i[-tuaçã-]{+cl+}o{+.+} [-d-]{+L+}e{+mbrar+} [-inf-]{+qu+}e[-cçã-]{+ +}o [-(-]{+1º di+}a[-b-]{+ d+}o[-rt-]{+ cicl+}o s[-épt-]{+e in+}ic{+ia n+}o[-).-] [-A-]{+1º+} [-ret-]{+d+}i[-r-]a{+ +}da [-d-]{+menstruaçã+}o[- DIU p-]{+.+}
+{+Atençã+}o[-r-]{+:+} {+e+}s[-i-]{+se método+} só pode [-provoca-]{+se+}r u[-m abort-]{+s+}a[-ment-]{+d+}o[-,-] [-poré-]{+e+}m [-p-]{+mulh+}er[-mit-]e{+s+} [-a-]{+c+}u{+ja +}men{+s+}t[-a-]r[- -]{+u+}a[-s-]{+ção+} [-ch-]{+adi+}an[-c-]{+ta m+}e{+no+}s de [-sucesso-]{+4+} d{+i+}a{+s+} [-gravid-]e[-z,-] [-evi-]{+a+}t{+ras+}a{+ me+}n[-d-]o{+s+} [-o-]{+de+} [-r-]{+2 d+}i{+a+}s[-c-]{+, +}o{+u+} [-d-]{+s+}e[- -]{+j+}a[-té 60%-]{+,+} [-d-]e{+m+} [-ab-]{+cicl+}o[-rtam-]{+s +}ent[-o-]{+re+} [-na-]{+26+} [-p-]e[-rmanência-] [-do-]{+32+} di{+a+}s[-positivo.-]
+[-Co-]{+;+}
+{+É u+}m [-relação à ges-]{+mé+}t[-açã-]o[- ectópica, -]{+d+}o [-ris-]co{+m+} [-n-]{+elevad+}a[-s-] [-usuári-]{+tax+}a[-s-] de [-DIU-]{+falha:+} [-é-]{+14,4+} [-m-]e[-nor-] [-que-]{+47+} {+g+}e[-n-]{+s+}t[-re -]a{+çõe+}s{+/100+} mulheres[- que -]{+/a+}n[-ã-]o {+de +}us[-am-]{+o.+} [-nenhum-]{++}
+{+O+} [-mé-t-]{+c+}o[-d-]{+it+}o [-co-]{+i+}nt[-rac-]e[-ptivo; po-]r[- out-]ro[- lado, se u-]m[-a usuár-]{+p+}i[-a -]do [-métod-]{+c+}o[- e-]n[-gravidar, -]s[-erá -]i[-mpera-]{+s+}t[-ivo p-]e{+ +}n[-s-]a[-r em-] [-g-]e[-st-]{+jacul+}ação e[-c-]{+x+}t[-ópic-]{+r+}a[-, po-]{+vag+}i[-s -]{+n+}a{+l+} [-prot-]e[-ção-] [-conc-]{+t+}e[-dida-]{+m+} [-pe-]{+a+}l[-o DIU é m-]{+t+}a[-ior-]{+s+} [-p-]{+t+}a[-r-]{+x+}a{+s+} [-gravi-]de[-z-] [-tópic-]{+falh+}a{+.+} [-do-]{+O+} {+lí+}qu[-e-]{+ido+} p[-a-]r[-a -]{+é-+}e{+ja+}c{+ula+}tó[-p-]{+r+}i[-ca.-]
+
+[-Víde-]o[-Dis-]{+ +}po[-sitivos-]{+de+} [-i-]{+co+}nt{+er espe+}r{+m+}a[-u-]t{+ozoid+}e[-r-]{+s v+}i[-n-]{+v+}os{+,+} [- -]
+
+[-D - Lactaçã-]o {+qu+}e a{+u+}men[-orrei-]{+t+}a[-Em-] [-razã-]o {+ín+}d[-a h-]i[-perprola-]c[-tin-]e[-mia-]{+ de+} f[-isio-]{+a+}l[-ógic-]{+h+}a {+dess+}e {+méto+}do{+.+} [-hip-]{+Nã+}o[-est-]{+ p+}ro{+te+}ge[-nismo-] [-de-]co[-rre-]nt[-es d-]{+r+}a a[-mamentação-]{+s DSTs+}, {+e +}há {+r+}i[-nibiçã-]{+sc+}o d[-a-]{+e+} {+dis+}função [-ov-]{+sex+}u[-latóri-]a{+l.+} [-nos prim-]{+T+}e[-iros-]{+m+} [-6-]{+taxa+} [-mes-]{+d+}e[-s pós-parto, quando o-] {+f+}al[-eit-]{+h+}a[-mento é exclusivo, e se-] a[- mu-]l[-her se man-]t[-ém em amenorreia. Nessa-]{+í+}s[- condiçõe-]s[-, a eficác-]i[-a é alta, co-]m[- t-]a[-xas de falha de-]{+:+} 2{+5+} gestações[- por -]{+/+}100 mulheres/ano.{++}
+{+O+} [-A am-]{+ex+}ame[-ntaçã-]{+ diári+}o [-nã-]{+d+}o [-te-]m[- efeit-]{+uc+}o[-s-] c[-olat-]er[-a-]{+v+}i[-s e-]{+cal,+} [-es-]t[-imul-]a{+mbém+} {+ch+}a[- for-]ma[-çã-]{+d+}o [-e -]{+mét+}o[- víncul-]{+d+}o [-mãe–b-]{+d+}e[-bê.-] [-Qua-]{+Billi+}n[-do-]{+gs,+} [-qua-]{+cons+}is[-qu-]{+t+}e[-r-] [-d-]{+n+}a[-s-] [-c-]o[-ndiçõe-]{+b+}s[- d-]e[-sc-]r[-it-]{+v+}a[-s n-]{+ç+}ão [-e-]{+da+}s[-tão-] [-m-]{+su+}a[-i-]s [-p-]{+ca+}r{+act+}e{+rí+}s[-en-]t[-e-]{+ica+}s, [-o-]{+que+} [-m-]é[-todo deve-] {+mai+}s[-er-] [-s-]{+fl+}u[-bst-]i[-tuí-]do [-por-]{+e+} [-ou-]{+elás+}t[-r-]{+ic+}o [-que -]n[-ã-]o [-int-]{+p+}er{+íodo +}f[-i-]{+é+}r[-a na-]{+til,+} [-ama-]{+se+}me{+lha+}nt[-ação.-]
+
+[-E-]{+e+} [---]{+à+} [-Métodos-]{+clara+} de[-finiti-]{+ o+}vo[-s-]{+,+} [-d-]e[- -]{+sp+}es[-t-]{+so +}e[-rilizaçã-]{+ +}o{+p+}a[-)-]{+co+} [-Femini-]no[-:-] [-laqu-]{+p+}e[-a-]{+río+}d{+o pós-ov+}u[-r-]{+l+}a[- -]t[-ubá-]{+ó+}ri[-a-]{+o+} [-Q-]{+o+}u[-a-]{+ +}n[-d-]{+ã+}o [-s-]{+fértil. S+}e [-opt-]a p[-el-]a{+ciente+} [-Laqu-]{+perceb+}e[-adu-]r{+ +}a [-Tubá-]{+p+}r[-i-]{+esenç+}a [-(LT)-]{+do muco+}, o casal deve [-t-]e{+vita+}r [-pl-]{+r+}e[-n-]{+l+}a{+ções+} [-con-]s[-c-]{+exua+}i[-ên-]{+s. A pa+}ci[-a d-]e[- qu-]{+nt+}e {+d+}e[-ss-]{+v+}e [-é u-]{+aco+}m{+pa-nhar as+} m[-ét-]od[-o-]{+i?cações+} d[-efinitiv-]o[-,-] [-q-]{+m+}u[-e-]{+co,+} [-r-]e[-qu-]{+l+}e[-r-] [-inter-]v[-e-]{+ai ?ca+}n[-çã-]{+d+}o [-cirúrgic-]{+m+}a{+is+} [-e-]{+?no,+} {+?l+}an[-es-]te{+ e elá+}s{+t+}i[-a-]{+co,+} [-(Figu-]{+lemb+}ra[- 4). Qua-]n[-t-]{+d+}o [-às técni-]c{+l+}a[-s, -]{+r+}a [-LT po-]de [-ser-]{+ovo.+} [-realizad-]{+Ess+}a{+s+} [-por-]{+3+} [-videol-]{+c+}a[-p-]{+r+}a{+cte+}r[-o-]{+í+}s[-cop-]{+t+}i{+-c+}a[-,-]{+s+} [-via-]{+sugerem+} a[-b-]{+ção +}do[-minal-] [-(mini-Pfann-]e[-n-]st{+rogên+}i[-el-]{+o+} {+n+}o{+ m+}u{+co+} [-p-]{+c+}er[-iumbil-]{+v+}ical{+.+} {+Qua+}n{+d+}o [-pu-]{+a s+}e{+c+}r[-pério im-]e[-diat-]{+çã+}o[-)-] {+t+}o[-u vagi-]{+r+}na[-l. A-]{+r-+}s{+e+} [-tub-]{+m+}a{+i+}s [-pod-]e[-m -]s{+p+}e[-r c-]{+ss+}a[-ut-]{+ +}e[-riz-]{+ op+}a[-d-]{+c+}a[-s-], [-sec-]{+o +}c{+asal a+}i[-o-]n[-a--]da[-s, ou-] [-po-]de[--s-]{+v+}e [-op-]{+evi+}tar [-p-]{+r+}ela[- utiliza-]ç[-ão d-]{+õ+}e{+s+} [-um-]{+por+} {+m+}a[-nel tubár-]i[-o-]{+s+} [-ou-]{+4+} [-gr-]{+di+}a[-mpo-]{+s+}.[-A-] [-LT-]{+A+} p{+r+}o[-d-]{+g+}e[- -]s{+t+}er{+ona+} [-fei-]t{+orn+}a [-n-]o [-pós-part-]{+muc+}o[-,-] [-n-]o[- -]p[-ós--]a[-bort-]{+c+}o[-,-] [-durant-]e [-c-]{+mais +}es[-ár-]{+p+}e[-a -]{+ss+}o[-u-]{+.+} [-for-]{+A tax+}a d[-o-]{+e+} [-cic-]{+fa+}l[-o gr-]{+h+}a[-ví-]{+ é +}d[-ico-pu-]e[-rper-]{+ 5,3 +}a[-l.-] [-A-]{+32,1+} [-Le-]g[-i-]{+e+}s[-l-]{+t+}aç[-ão Bra-]{+õe+}s[-i--]{+/100 mu+}l{+h+}e[-i-]r[-a -]es[-tipul-]{+/+}a{+no,+} [-q-]{+o+}u[-e a LT-] s[-ó-]{+eja,+} [-p-]{+muit+}o[-de-] [-s-]e[-r f-]{+l+}e[-it-]{+v+}a[- c-]{+d+}a[-so-]{+.+}
+{+O+} [-a-]{+método+} [-p-]{+d+}a[-ciente-] te[-nha -]{+m+}p[-l-]e[-n-]{+ratur+}a [-c-]{+b+}a[-p-]{+s+}a{+l ne+}c{+ess+}i[-d-]{+t+}a{+ +}de [-civ-]{+med+}i[-l,-]{+das+} [-i-]d{+iári+}a{+s +}de [-su-]{+tem+}per[-ior a 25 -]a[-nos o-]{+t+}u[-, no-]{+ra+} [-mínim-]o{+ral+}, [-2 fi-]{+reta+}l[-h-]{+ +}o[-s-]{+u+} v{+ag+}i[-vos-]{+nal+} [-(s-]em [-c-]{+rep+}o[-n-]{+u+}s[-iderar -]o [-f-]{+p+}e[-to-]{+la+} [-d-]{+m+}a{+nhã.+} [-g-]{+El+}e[-st-]{+v+}ação {+d+}e[-m-] c[-u-]{+e+}r[-so).-]{+ca+} [-Deve-s-]{+d+}e [-respeit-]{+0,5°C (0,3 +}a[-r-] [-um-]{+0,8°C)+} [-i-]n[-terv-]a[-lo-] m[-ín-]{+ed+}i[-mo -]d[-e 60-]{+a+} d[-i-]a[-s-] {+t+}e[-n-]{+mpera+}t{+u+}r[-e -]a [-m-]{+b+}a[-ni-fe-]s[-t-]a[-ção-]{+l+} [-do-]{+é+} {+in+}d[-esejo-]{+icativa+} de [-LT e s-]{+q+}u[-a-]{+e+} {+ocor+}re[-a-]{+u ovu+}l[-iz-]ação[-, período em que-]{+.+} [-o-]{+O+} casal deve [-conhec-]{+abst+}er[- todos o-]{+-+}s{+e+} [-méto-]d[-os-]{+e+} [-cont-]r{+el+}a[-c-]{+çõ+}e[-ptivo-]s [-di-]s[-poní-v-]e{+xua+}is[-.-] [-Dev-]{+d+}e[---]s{+d+}e [-obter-]{+a+} [-consenti-]men[-to pó-]s[--info-]{+t+}r[-mado assin-]{+u+}a[-d-]{+çã+}o [-da p-]a[-cien-]t[-e-]{+é+} [-ou-]{+3+} d[-o c-]{+i+}as[-al, em-] [-c-]a{+pó+}s[-o-] [-de-]{+a+} [-r-]el{+ev+}ação [-conjug-]{+d+}a[-l-] [-es-]t[-áv-]e[-l-]{+mperatura+}. [-For-]{+A tax+}a de[-ss-]{+ f+}a[-s-]{+lha é+} {+de 0,3 a 6,6 ge+}s[-i-]t[-u-]ações[-,-]{+/100+} {+mulheres/+}a{+no.+} [-LT só-]{++}
+{+O+} [-p-]{+mét+}od[-e-]{+o+} s[-er -]{+intoté+}r[-eal-]{+m+}i[-zada-]{+co+} [-se-]{+é+} a [-p-]a{+sso+}ci[-ente-]{+ação+} {+do+}s[-e-] [-encon-]{+mé+}t[-ra-]{+odos+} {+d+}e{+ +}m{+uco+} {+ce+}r{+v+}i[-s-]c[-o-]{+al+} [-d-]e {+te+}m[-o-]{+pe+}r{+a+}t[-e o-]u{+ra+} [-no-]{+ba+}s{+al ou+} {+mu+}c[-as-]o[-s-] [-d-]{+c+}e[- ag-]r[-a-]v[-o à s-]{+ic+}a[-úde-]{+l+} e[-m-] [-ges-]{+“+}ta[-çõ-]{+b+}e[-s-]{+li-nha”.+} [-f-]{+O+}ut[-u-]r{+os sin+}a{+i+}s[-.-] [-I-]s{+i+}s{+têmic+}o{+s+} [-dev-]{+qu+}e s{+ug+}er[- co-]{+e+}m[-pr-]{+ +}ov{+ul+}a[-d-]{+çã+}o{+,+} [-p-]{+c+}o[-r u-]m{+o+} {+do+}r[-e-]{+ ovu+}latóri[-o -]a{+ e +}s[-si-]{+a+}n{+gr+}a[-d-]{+ment+}o [-po-]{+inte+}r{+menstrual+} [-2 -]{+ta+}m{+b+}é{+m po-+}d{+em ser aval+}i[-c-]{+ad+}os. [-P-]{+A t+}a[-r-]{+x+}a [-s-]{+d+}e[-r-] [-re-]{+f+}al[-iz-]{+h+}a{+ é +}d{+e 4,9 a 34,4 gest+}a{+ções/100+} {+mulheres/a+}no{+. +}
+{++}
+{+C - Dispositivo+} intra[-par-]{+u+}t{+erin+}o[-,-] [-a-]{++}
+{+O dis+}p[-ó-]{+o+}s[- ab-]{+itiv+}o{+ int+}r{+au+}t{+erin+}o [-o-]{+(DIU) é +}u{+m+} [-perí-]{+mét+}odo [-puerpe-]{+cont+}ra[-l, d-]{+c+}e{+pti+}v[-e-]{+o+} [-s-]{+qu+}e[-r-] {+fi+}c{+a al+}o[-mprov-]{+j+}ad[-a-]{+o dentro+} {+d+}a [-ne-]c[-ess-]{+av+}idade[-, como-] {+ute+}ri[-sco-]{+na.+} [-i-]{+Atual+}m[-in-]ente{+,+} {+os mo+}de{+los+} [-ru-]{+dis+}p[-tura ut-]{+onív+}e[-r-]i[-na-]{+s+} [-p-]{+sã+}o[-r-]{+:+}
+{+DIU+} [-suc-]{+não m+}e[-ss-]{+d+}i[-v-]{+c+}a[-s-]{+do+} [-c-]{+ou in+}e[-sá-]r{+t+}e[-as-]{+:+} [-prév-]{+L+}i[-a-]{+ppe+}s{+,+} [-(L-]{+SafT-Co+}e[-i-]{+l,+} {+Dalko+}n[-º 9.263,-] [-d-]{+Shi+}e{+lds;+}
+{+DIU+} [-1996, qu-]{+d+}e {+cob+}re[-gula-]{+ – +}me[-nt-]{+dic+}a[- -]{+d+}o{+:+} [-planeja-]{+Tcu380A (+}m{+od+}e[-nt-]{+l+}o [-familiar).-]
+
+[-Te-]ma{+is+} {+usa+}d[-e pr-]o[-va-]
+[-É-]{+).+} [-impor-]{+Al+}ta{+me+}nte {+e+}fi[-x-]{+c+}a[-r-]{+z+} [-b-]em [-a l-]{+pr+}e[-gislação -]v[-ig-]en[-te sob-]{+i+}r[-e a-] {+g+}est[-eriliz-]ação{+.+} [-cirúrgic-]{+Nov+}a[-.-] [-A-]{+T+} [-idad-]e [-mín-]{+Mult+}i[-m-]{+lo+}a{+d+} [-nece-]s[-sária ou -]{+ã+}o [-nú-]m[-er-]o[- -]de[- fi-]l[-hos viv-]os {+qu+}e {+p+}o{+dem ser+} {+ú+}te{+is e+}m[-po-] [-d-]{+mulher+}e{+s com+} {+c+}a[-ssi-]na[-tu-]{+l ce+}r{+vic+}a{+l+} [-d-]{+estenótic+}o{+,+} [-c-]{+p+}o[-n-]{+rém apre+}sent[-i-]{+am +}men[-t-]o{+r+} [-in-]{+e+}f{+icácia;+}
+{+DIU h+}orm{+onal – medic+}ado{+.+} [-é -]{+Sis+}tema [-mu-]{+l+}i[-t-]{+berad+}o[- f-]r[-equente-] {+d+}e[-m-] [-qu-]{+l+}e[-stõ-]{+vonorg+}es[- de p-]{+t+}r[-ova d-]e{+l+} [-Residência-]{+–+} M[-éd-]i[-c-]{+ren+}a[-. -]{+®+} {+(+}Figura [-4-]{+3);+} [---]{++}
+{+DIU+} [-L-]{+fr+}a[-qu-]{+m+}e[-a-]{+less – sem mol+}dura{+.+} {+Implan+}t[-ubá-]{+ado no inte+}ri[-a-]
+
+[-b)-]{+or+} [-M-]{+d+}a{+ mu+}scul[-ino: v-]a[-sec-]t[-omia-]
+[-T-]{+u+}ra[-ta-se do método de-] [-es-]{+u+}teri[-liz-]{+n+}a[-ção-]{+.+} [-definitiv-]{+M+}a{+is+} [-oferec-]i{+n+}d[-o -]{+ic+}a{+d+}o[-s homens.-] [-Dev-]em [-ser res-]{+nulí+}p[-eit-]a[-d-]{+r+}as{+.+} [-as-]{++}
+ [-mesm-]{++}
+{+Figur+}a[-s-] [-c-]{+3 - M+}o[-n-]d[-içõ-]e{+lo+}s [-já-]{+de+} [-co-loca-]d[-a-]{+i+}s[- -]p[-ara a e-]{+o+}s[-ter-]i[-l-]{+t+}i[-zaçã-]{+v+}o{+s+} [-fem-]in{+trauter+}in{+os+}
+a[-.-]{+)+} [-T-]{+Mec+}a{+nis+}m[-bém-]{+o+} [-apres-]{+d+}e[-nta-] a[-lta-]{+ção+}
+{+O+} {+m+}e[-ficá-]c[-ia, com tax-]a{+ni+}s{+mo+} de [-falh-]a{+ção+} d[-e-]{+o+} [-0,15-]{+DIU+} [-g-]{+é a r+}e[-st-]ação [-p-]{+d+}o[-r-] [-100-]{+tipo+} [-h-]{+c+}o[--m-]{+rpo +}e[-n-]s[-/-]{+tr+}an{+h+}o. A {+p+}re[-versão do método é po-]s[-sív-]e[-l,-]{+nça+} [-p-]{+d+}o[-rém-] co[-m -]{+r+}po[-ucos-] [-r-]es[-ul-]t{+r+}a[-d-]{+nh+}o[-s;-] [-log-]{+n+}o[-, a-] [-d-]{+int+}e[-c-]{+r+}i[-sã-]o{+r+} d[-e-]{+a ca+}v{+idad+}e [-s-]{+ut+}er{+ina aumenta a+} con[-sid-]{+c+}e{+nt+}ra{+ção +}d[-a-]{+e+} {+marca+}d{+or+}e[-f-]{+s +}in[-itiv-]{+fl+}a[-.-]
+
+[-c) I-]m[-pl-]a[-n-]t[-e-]{+órios+} [-e-]n[-d-]o[-t-]{+ líq+}u[-bár-]i{+d+}o [-(Ess-]u[-r-]{+t+}e[-®)-]
+[-T-]r[-az-]i[-d-]{+n+}o [-ao-]{+e+} [-B-]{+tubá+}r[-as-]i[-l-]{+o+} e[-m 2009,-] [-tr-]a{+l+}t{+er+}a[---]{+ o +}se{+u+} [-d-]{+pH. Dess+}a [-col-]{+f+}o[-c-]{+rm+}a[-ção-], [-po-]{+c+}r[- v-]ia {+um ambi+}en[-d-]{+te h+}os[-cóp-]{+til à sobrev+}i{+vên+}c{+i+}a[-,-] d[-e-]{+o+} [-di-]{+e+}sp[-ositivos s-]e{+r+}m[-elh-]a[-n-]t{+ozoid+}e[-s-] {+e à ocorrência d+}a [-p-]{+f+}e[-q-]{+c+}u[-e-]n{+d+}a[-s-]{+ção.+} [-m-]{+C+}o[-las-]{+m+} [-d-]{+est+}e me[-t-]{+c+}a[-l i-]n[-ser-]i[-da-]s[- n-]{+-m+}o[-s-]{+,+} [-óstios-]{+a+} [-tubá-]{+oco+}r{+rênc+}i[-os-]{+a+} [-qu-]{+d+}e {+fecundação é des+}pr[-omo-]{+ezí+}ve[-m-]{+l,+} {+m+}a[- fibro-]s[-e-] [-lo-]ca[-l, c-]{+s+}o[-m-] {+a+}con[-sequen-]te[- obstru-]ç[-ã-]{+a, +}o {+DIU +}t[-ubári-]a{+mbém+} {+impe+}de[-f-]{+ a +}i{+mpla+}n[-i-]t[-iv-]a[-. Tem-]{+ção+} [-a-]{+do+} {+o+}v[-a-]{+o +}n[--tag-]{+o +}e{+ndo+}m{+étrio. Os íons+} de [-s-]{+cobre (DIU d+}e{+ cob+}r{+e)+} [-u-]{+tê+}m [-proc-]e{+feito +}di[-m-]{+r+}e[-n-]to {+n+}a{+ +}m[-bulat-]o[-r-]{+t+}i[-a-]l[- que d-]i[-spensa qu-]{+d+}a[-lqu-]{+d+}e[-r-] [-an-]es[-t-]{+p+}e[-s-]{+rmát+}i{+c+}a{+,+} [-o-]{+red+}u{+zindo+} [-se-]{+a capaci+}da[-ção-]{+de+} {+d+}e p[-romov-]e[- co-]n{+e+}tra[-cep-]ção [-perma-ne-]n[-te. -]
+
+[-3. Métod-]o[-s-] [-hor-]m{+uc+}o[-nais-]
+
+[-A --] [-Contra-]ce[-pti-]{+r+}v[-os-]{+ical.+} [-ho-]{+Pa+}r[-mon-]a[-is-] [-or-]a[-is-]{+ OM+}S[-ã-]{+, +}o {+mec+}a{+ni+}s[- p-]{+m+}o[-pul-]{+ é +}a[-rme-]{+ i+}nte[- -]{+rferên+}c[-h-]{+i+}a{+ e+}m{+ et+}a[-d-]{+p+}as p[-ílul-]{+révi+}as [-an-]{+à fer+}ti[-c-]{+lizaçã+}o[-n-]{+.+}
+{+b) Efi+}c[-ep-]{+á+}ci[-on-]a[-is-]{+ +}
+{+Alta+}, [-que-]{+com+} {+taxa+}s[-e-] d[-ivid-]e[-m-] {+0,3 g+}e[-m-]{+stação+} [-m-]{+p+}o[-nofá-]{+r 100 mulhere+}s[-ic-]{+/+}a[-s (tod-]{+n+}o[-s-]{+.+} [-os-]{+Sua+} [-comp-]{+du+}r{+ab+}i[-m-]{+l+}id[-os têm-]{+ade+} {+v+}a{+i+} [-m-]{+d+}e[-sm-]{+ 5 +}a [-d-]{+10 an+}os[-agem-]{+,+} de[- m-]{+p+}e{+n+}d[-icam-]en[-t-]{+d+}o[-s), bifásicas (2-] do[-sagens-] {+mo+}d[-if-]e[-rent-]{+lo +}es[- n-]{+tud+}a{+do. O DIU de+} c[-a-]{+ob+}r[-t-]e[-la)-] [-e-]{+T380 A+} t{+em du+}r{+ab+}i[-fás-]{+l+}i[-c-]{+d+}a[-s (3-]{+de+} d[-osag-]e{+ 10 a+}n{+o+}s[-)-].{++}
+{+c)+} [-Po-]{+In+}d{+icações+}
+{+Qualqu+}e{+r +}m{+ulher+} se[-r-]{+m+} co[-mbi--]n{+tr+}a{+in+}d{+icaçã+}o[-s-] [-qu-]a[-nd-]o [-composto-]s[- d-]e{+u+} [-2-]{+uso,+} es[-t-]{+p+}e[-ro-]{+c+}i[-d-]{+almente aqu+}e{+la+}s [-(-]{+qu+}e{+ bu+}s{+cam con+}tr{+acepçã+}o[-gê-]{+ +}n[-i-]{+ã+}o [-+ p-]{+ho+}r{+m+}o[-gest-]{+nal, c+}o[-gê-]n{+f+}i[-o)-]{+ável,+} [-o-]{+reversível e q+}u{+e+} {+in+}de[- -]p[-rog-]e[-stogê-]n[-i-]{+da d+}o [-ex-]c[-lus-]{+o+}i[-v-]{+t+}o{+.+} [-(F-]{++}
+{+d) Efe+}i[-gu-]{+tos colate+}ra{+is+} [-5). A-]{++}
+{+Pode+} {+o+}co[-m-]{+rrer +}p[-osi--]{+erfura+}ção [-es-]{+u+}t{+e+}r[-ogên-]i[-c-]{+n+}a d{+ur+}a{+nte+} [-m-]a{+ +}i[-o-]{+nse+}r[-ia-]{+ção+} do[-s-] [-contr-]{+DIU. F+}a[-cep-]t[-iv-]o{+re+}s com[-b-]{+o +}in[-ado-]s[- é f-]e[-ita c-]{+rçã+}o[-m-] {+pós-part+}o{+,+} {+op+}e[-tinilest-]rad[-i-]o[-l-]{+r+} [-(-]{+inexp+}e[-st-]r[-ogênio s-]i{+e+}nt[-é-]{+e e ú+}t[-ic-]{+er+}o[-), mas já-] ex[-is-]t{+r+}em[- pílul-]a[-s co-]m{+ente+} [-v-]a[-l-]{+ntev+}er[-a-]{+sofle+}t{+id+}o [-de-]{+ou+} {+r+}e[-s-]tr[-ad-]{+overt+}i{+d+}o[-l-] [-e-]{+são+} [-17-bet-]{+f+}a[--es-]t{+o+}r[-a-]{+es +}d{+e r+}i{+sc+}o[-l-] [-(est-]{+pa+}r{+a +}o[-gê-]{+ eve+}n[-i-]{+t+}o[-s-]{+.+} [-c-]{++}
+{+Expulsã+}o[-m-] [-m-]{+d+}o[-lécula-] [-simil-]{+DIU v+}ar[- -]{+i+}a[-o-] {+d+}e{+ 2 a 10% da+}s[-t-]{+ usuá+}r[-ogên-]i[-o-]{+as+} e[-ndó-]{+ +}ge{+ralme+}n{+te oc+}o{+rre+} n{+o 1º +}a[-t-]{+no de +}u[-ral)-]{+so+}. [-Qu-]{+Pós-p+}a[-n-]{+r+}to{+,+} [-m-]{+nulip+}a{+r+}i[-s-]{+dade e+} {+expul-+}s[-int-]{+ão pr+}é[-t-]{+v+}i[-ca -]a [-comp-]{+d+}o{+ DIU +}s[-iç-]ão[-,-] [-m-]{+f+}a[-i-]{+t+}or{+es+} [-o-]{+de+} risco [-d-]{+para +}o[-s-] evento{+.+}
+{+Ob+}s[- t-]{+e+}r[-o-]{+va+}m[-bo-]{+-s+}e[-mból-]{+ d+}i[-co-]s[-, logo, -]{+me+}no[- pe-]r[-íodo pe-]r{+e+}i[-clim-]a[-térico-], [-sempre q-]{+a+}u{+m+}e{+nto+} [-p-]{+d+}o[-ssíve-]{+ f+}l[-,-]{+uxo+} [-t-]{+m+}en{+s+}t{+ru+}a[-mos-]{+l+} e[-mpregar-] [-o-]s[- ho-]{+ang+}r{+a+}m[-ô-]{+e+}n[-i-]{+t+}o[-s-] {+i+}n[-a-]t[-u-]{+e+}r[-ai-]{+men+}s{+trual+}.[-Os-]{++}
+{+e)+} [-c-]{+C+}ontra{+indi+}c{+açõ+}e[-ptivo-]s [-hor-]{++}
+{+Te+}m[-on-]a[-is-]{++}
+{+frequente+} [-o-]{+de p+}r{+ov+}a[-i-]{++}
+{+A+}s co[-mbi-]n{+tr+}a{+in+}d[-o-]{+icaçõe+}s p{+ara +}o[-dem-] {+u+}s[-er-]{+o+} [-cla-]{+do di+}s{+po+}si[-f-]{+t+}i[-cad-]{+v+}o[-s-] [-qua-]{+i+}n{+-trau+}t{+erin+}o [-à-]{+(DIU)+} [-do-]s[-ag-]{+ão t+}e{+-+}m{+a+} [-d-]{+fr+}e[- -]{+qu+}e[-s-]{+n+}t[-rogê-]{+e +}n[-io-]{+a+}s[-.-]
+
+[-Tabela 2 - Classificação-] qu[-an-]{+es-+}t[-o à-]{+ões+} d[-o-]{+a+}s{+ prov+}a[-gem-]{+s+} de {+R+}es[-trog-]{+i-d+}ên{+c+}i[-os-]
+[-Alt-]a[-	>50µg-] {+Mé+}d[-e et-]i[-nilestr-]{+c+}a[-d-]{+.+}
+{++}
+{+Pac+}i[-ol (-]{+e+}n[-ão -]{+te+}s[-ão-] {+co+}m[-ais-] [-fabrica-]d[-o-]{+i+}s[-)-]
+[-Méd-]{+menorre+}ia[-	50µg-] {+mo+}de[- etinilest-]rad[-iol-]
+[-Baix-]a[-	De 30-] a [-35µ-]g[- d-]{+rav+}e{+;+} [-etini-]{+f+}l{+uxo m+}e{+n+}str{+u+}a[-di-]{+l já v+}ol[-M-]u[-it-]{+mos+}o{+;+} [-b-]a[-ix-]{+lter+}a{+ções+} [-ou -]{+anatô+}mic[-r-]{+as, c+}o[-d-]{+m+}o[-se	De-] [-15-]{+útero+} [-a-]{+bi-corno+} [-20µg-]{+ou+} d{+id+}e{+lfo,+} {+s+}e{+p+}t[-i-]{+o lo+}n{+g+}i[-les-]t[-ra-]{+u+}di[-o-]{+na+}l[-Os-] [-c-]o[-n-]{+u +}tra[-ceptivo-]{+n+}s[- d-]{+v+}e[- p-]r[-oge-]s[-togêni-]o{+;+} {+an+}e[-xclus-]{+m+}i[-vo-]{+a;+} [-po-]{+vi+}d[-em-]{+a+} se[-r do-]{+xual+} [-ti-]p{+r+}o[- -]m[-inip-]í[-l-]{+sc+}u[-l-]a, [-c-]{+pel+}o[-m-] [-d-]{+mai+}o{+r ri+}s[-agem-]{+co+} de [-pr-]{+DST; m+}o[-ge-]{+lé+}st[-ogên-]i[-o que-]{+a+} [-v-]{+infl+}a{+mató+}ria [-de 1/2 -]{+pélvic+}a [-1/10 -]{+agu+}da [-q-]{+o+}u{+ +}a[-n-]t[-idade-]{+é+} [-de-]{+3+} [-prog-]{+m+}es[-togênio do-]{+e+}s{+;+} [-co-]{+a+}nt[-ra-]{+e+}ce[-p-]{+den+}t[-ivo-]{+e+}s [-c-]{+de 2 +}o{+u +}m[-bin-]a{+is episó+}d{+i+}os {+d+}e [-e-]{+molé+}st[-á-]{+ia+} in[-d-]{+flamatória pélv+}ica{+ agu+}da [-a-]{+n+}o [-períod-]{+últim+}o [-de am-]a[-me-]n[-taçã-]o[-,-]{+;+} [-v-]i[-st-]{+nfecçã+}o [-q-]{+p+}ue[- su-]{+rper+}a{+l;+} {+c+}e[-f-]{+rv+}ic[-ác-]i[-a m-]{+t+}e[-nor-] p[-ode se-]{+u+}r[- comp-]{+ul+}en{+ta; +}sa[-d-]{+ngr+}a[- p-]{+m+}e[-l-]{+nt+}o {+g+}e[-fe-]{+n+}it[-o -]a{+l +}n[-tic-]{+ã+}o[-nc-]{+ +}e[-p-]{+s+}c[-ional da -]la[-ctação; -]{+r+}e[- -]{+ci+}do{+;+} t[-ipo píl-]u[-la, -]{+ber+}c{+ul+}o[-m -]s[-oment-]e [-desogestre-]{+pé+}l[-, 75µg, ef-]{+v+}ica[-z-]{+;+} [-m-]{+cânc+}e[-smo fo-]r[-a-] de[-sse-] [-perí-]{+c+}o[-d-]{+l+}o[-.-] [-Ind-]{+o+}u[-zem-] [-amen-]{+c+}or[-r-]{+po ut+}e{+r+}i[-a, log-]{+n+}o{+.+} {+A+}s[-ão-] [-ba-]{+di+}s[-tante emp-]{+c+}r[-eg-]a[-do-]s[- em pac-]i[-ente-]{+a+}s [-q-]{+sang+}u{+ín+}e[- -]{+a+}s[-e-] [-b-]{+(do+}en[-efici-]{+ç+}a[-m-] de[-ssa-] [-c-]{+v+}on[-d-]{+ W+}i[-ção-]{+llebrand+}, [-com-]{+d+}o[- -]{+e+}n{+ç+}a [-en-]d[-om-]e[-tr-]{+ W+}i[-o-]{+l+}s{+on +}e[-,-] [-an-]{+d+}e[-m-]{+ficiênc+}ia [-f-]{+d+}e[-rropriva-] [-p-]{+fat+}or [-hiper-]{+VIII) ta+}m[-en-]{+bém c+}o[-r-]{+nt+}ra[-g-]i{+ndic+}a[-,-]{+m+} o{+ se+}u [-o-]u[-tra-]s{+o+}. [-As pílulas-]{+Um+} [-d-]{+conc+}e[- pr-]{+it+}o[--g-]{+ +}est[-o-]{+i+}g[-ên-]{+mat+}i{+zad+}o {+d+}e[-xcl-]{+ q+}u[-siv-]{+e +}o [-também-]{+DIU+} [-s-]{+n+}ão [-c-]{+p+}o[-nsi-]der{+i+}a[-da-]{+ +}s{+er+} u[-m-]{+tiliz+}a{+do+} [-b-]{+p+}o{+r nuligest+}a{+s é+} o[-pçã-]{+bsolet+}o{+.+} [-pa-]{+Dive+}r[-a-]{+sos+} [-a-]{+estudo+}s [-pa-]{+re+}c[-i-]entes [-co-]{+tê+}m [-c-]{+dem+}on{+s+}tra[-in-]d[-icaçã-]o [-a-]{+que +}o [-us-]{+mét+}o[- -]d[-e-]{+o é+} [-e-]s[-tro-]{+e+}g[-êni-]{+ur+}o[-.-]
+[-O-] [-m-]e[-canismo-] {+po+}de {+ser utiliz+}a[-çã-]{+d+}o [-e-]{+ta+}n[-v-]{+t+}o[-lve-] {+p+}o{+r+} [-es-]p[-ess-]a[-m-]{+ci+}ent[-o do-]{+es+} [-m-]{+q+}u[-co-]{+e+} [-c-]{+já g+}e{+sta+}r[-vic-]a[-l,-]{+m+} [-dific-]{+q+}u[-lt-]an[-d-]{+t+}o [-a-]{+por+} p{+aci+}en[-e-]t[-ração -]e [-a asc-]{+qu+}e{+ +}n[-s-]ão [-do-]{+ge+}s{+taram. +}
+{+f)+} {+Informaçõ+}es{+ im+}p[-e-]{+o+}r[-m-]{+t+}a{+n+}t[-o-zoid-]es[-, bem-] [-co-]{++}
+{+I+}m{+p+}o[- -]{+rt+}a[- i-]n[-ibição-]{+te+}
+{+O+} [-da-]{+DIU+} [-ovulaç-]{+n+}ão[-,-] [-al-]é[-m-] {+consi+}de[- alte-]{+-+}ra[-ções en-]do[-metriais-] [-(h-]{+abort+}i[-p-]{+v+}o{+,+} {+p+}o[-u-]{+is+} [-at-]{+p+}r[-of-]{+ev+}i[-a) -]{+n+}e [-d-]a [-motilidad-]{+f+}e[- tubá-]r{+t+}i[-a, pe-]l[-a -]{+iz+}ação{+.+} [-da-]{++}
+{++}
+{+Em+} [-p-]{+vi+}r[-oges-]t{+ud+}e[-r-]{+ d+}o[-na.-] [-F-]{+ma+}i[-gu-]{+o+}r[-a 5 --] [-Ant-]{+r+}i{+s+}co{+ de i+}n[-c-]{+f+}e[-p-]c[-i-]{+çã+}o[-n-]{+ +}a[-i-]s{+cendente+} {+pel+}o{+ t+}ra[-is-]{+to+} [-d-]{+r+}e[- -]pro[-ges-]{+du+}t[-ogên-]i{+v+}o {+f+}e[-xclus-]{+min+}i[-vo-]
+
+[-Qua-]n[-t-]o{+,+} [-ao-]{+deve-+}s{+e+} [-c-]o{+rie+}nt{+a+}r{+ a p+}ac{+i+}e[-p-]{+n+}t[-ivos-]{+e a+} {+pr+}o{+-cu+}ra{+r ass+}is[- -]{+tên+}c[-omb-]i[-n-]a[-dos,-] {+médic+}a s[-u-]{+em+}pre[-ssão da-] [-ov-]{+q+}u[-lação acontec-]e {+a+}p{+res+}e[-la i-]n[-ibição d-]{+t+}a{+r+} [-s-]{+l+}e{+u+}c{+or+}re[-çã-]{+ia, d+}o{+r+} [-hi-]p[-ota-]{+é+}l[-âm-]{+v+}ica{+,+} [-do-]s[- f-]a[-to-]{+ng+}r{+am+}e[-s-]{+nto+} [-l-]{+vag+}i[-ber-]{+n+}a[-dores-]{+l+} [-d-]a[-s go-]n[-ad-]o[-t-]r[-ofin-]{+m+}a[-s-]{+l+}, f[-undamentalm-]e[-nt-]{+br+}e [-o GnRH, assim -]com[-o-] {+sus-+}pe[-l-]{+it+}a {+de +}in[-ibi-]{+fec+}ção [-d-]{+pélvic+}a [-síntese de g-]o[-n-]{+u +}a[-do-]tr[-ofi-n-]as[- hip-]o[-fi-]{+ men+}s[-á-]{+t+}r[-i-]{+u+}a[-s-]{+l+}.{++}
+{+g)+} [-O-]{+DIU+} [-prog-]e[-stogênio-] in[-ibe a s-]{+f+}ec[-re-]ção [-do hormônio -]{+pé+}l[-utein-]{+v+}i[-z-]{+c+}a[-nte (LH), -]{++}
+{+D+}e [-o co-]m[-p-]o[-nente-]{+do+} {+g+}e[-st-]r{+al, +}o[-gên-]{+ r+}i{+s+}co [-inib-]{+d+}e a[- -]{+qui+}s[-ecre--]{+i+}ção d[-o-]{+e+} [-hor-]{+u+}m[-ônio-]{+a+} {+in+}f{+ecçã+}o{+ pé+}l[-í-]{+vi+}c[-ulo--]{+a +}e[-sti-]m{+ +}u[-l-]{+suári+}a[-nt-]{+ d+}e [-(FSH).-]{+DIU+} [-Com-]{+é+} [-iss-]o[-,-] [-nã-]{+dobr+}o[- há-] e[-stí-]m[-u-]{+ re+}l{+açã+}o {+à p+}o[-v-]{+pul+}a{+ção ge-+}r[-i-]a[-no-]{+l+}, [-c-]{+send+}o[-m-] [-s-]{+m+}u{+ito m+}a{+is+} [-c-]{+elevad+}o{+ nas sema+}n{+as sub+}sequente{+s+} [-matur-]{+à coloc+}ação{+,+} [-fo-]{+exp+}lic[-ular, -]a{+ndo-+}s[-sim-]{+e,+} [-com-]{+p+}o[- -]{+rta+}n[-ã-]{+t+}o{+,+} [-ocorr-]{+qu+}e [-o-]{+a+} p{+r+}i{+n+}c[-o-]{+ipal causa+} de [-LH leva-]{+i+}n[-do à ovula-]{+fec+}ção[-.-]
+
+[-T-]{+ s+}e[-m-]{+j+}a d[-e p-]{+i+}r[-ova-]
+[-D-]e[-v-]{+tam+}e[--s-]{+nt+}e [-fixa-]r[- b-]e[-m -]{+l+}a[-s -]c{+i+}on[-tr-]a[-in-]d[-ic-]a[-ções-] [-a-]{+à exp+}os{+ição+} [-m-]{+pr+}é[-to-]{+via +}d[-os-]{+a+} [-contr-]{+p+}ac{+i+}e[-p-]{+n+}t[-ivos combinados-]{+e+} [-or-]a[-is. O-] [-te-]{+u+}m[-a-] [-é mui-]{+agen+}t[-o-]{+e+} [-pr-]{+s+}e[-v-]{+xu+}al{+m+}ente [-n-]{+tr+}a{+n+}s[- que-]{+mi+}s[--tõe-]s{+ível.+} [-d-]{+P+}a{+ci-ente+}s p{+o+}r{+tad+}o[-v-]{+r+}as de [-Res-]i[-dê-]n{+fe+}c[-ia-]{+ção+} [-Médica.-]
+
+[-T-]a[-bela 3 - Co-]{+ssi+}nt[-racep-]{+omá+}ti[-vos-]{+ca+} [-h-]{+p+}or[-monais-] c[-o-]{+la+}m[-b-]{+íd+}i[-n-]a[-dos-] [-–-]{+e+} [-ris-]{+gonoco+}co[-s e-] [-b-]{+t+}en{+d+}e[-fícios-]
+[-Eficáci-]{+m +}a[-	P-]{+ +}a{+p+}r{+esent+}a{+r+} [-o-]{+um+} {+q+}u[-s-]{+adr+}o [-i-]de[-al,-] [-a-]{+DIP+} [-falh-]{+sintomáti-c+}a [-é de-]{+após+} [-0,1-]{+a+} [-ge-]{+in+}s[-ta-]{+er+}ção [-p-]{+d+}o[-r-] [-100-]{+DIU.+} [-mulher-]{+M+}es[-/an-]{+m+}o[-; já-] {+sabe+}n{+d+}o {+q+}u{+e a+}s[-o-] {+usuá+}r[-otine-]i[-ro, é-]{+as+} de [-6 a 8-]{+DIU+} [-ges-]t[-ações-]{+êm+} [-p-]{+mai+}or [-100 mul-]{+c+}h{+anc+}e[-r-]{+ d+}e[-s/a-]{+ i+}n[-o.-]
+[-E-]fe[-itos -]c{+çã+}o[-l-]{+, +}a{+s +}t[-er-]a[-is	O-]{+xa+}s [-mai-]{+de+}s{+sa+} com[-uns s-]{+-plicaç+}ão [-náusea-]s[-,-]{+ão+} [-cef-]{+b+}a[-le-]i{+x+}a{+s+}, [-e-]d[-e-]{+i+}m[-a, a-]{+in+}u[-me-]{+i+}n[-t-]{+d+}o [-p-]{+c+}o[-nderal-]{+m+} [-discret-]o[-,-] [-acn-]{+t+}e[-,-]{+mpo. Um+} [-irr-]e[-g-]{+st+}u[-lari-]d[-a-]{+o +}d[-e-]{+a OMS+} m[-en-]{+o+}str[-u-]a[-l-]{+ que+}, a[-lter-]{+pós 7 +}a[-çõe-]{+no+}s de [-h-]u[-m-]{+s+}o[-r-], [-depressã-]{+a taxa f+}o{+i+} {+d+}e [-diminuição-]{+1%+} da{+s+} [-l-]{+usuár+}i[-bido. A-]{+as;+} [-in-]{+ou+}t[-en-]{+ro+}s[-idade-] [-d-]es[-ses efei-]t{+ud+}os [-depend-]{+am+}e[- d-]{+ric+}a[- d-]{+n+}os[-agem-] [-hor--]mo[-n-]{+str+}a[-l-]{+ram+} [-e-]{+taxas+} d[-o-]{+e+} [-t-]i[-p-]{+nfecçã+}o de [-prog-]{+1,6 a 1,8 v+}e[-stogên-]{+z ma+}io{+r em+} u[-til-]{+suár+}i[-z-]a{+s +}d[-o.-]{+e+} [-A-]{+DIU+} d[-ifer-]e[-nça-] [-n-]{+c+}o[- p-]{+b+}r[-og-]e[-stogênio-] [-t-]{+(+}em [-g-]{+compa+}ra[-nde-]{+ção+} [-influên-]c[-ia n-]o{+m+} {+a+}s[-eu poder-] [-androgê-]n[-ic-]{+ã+}o[-;-] [-o-]{+u+}s[- de-]{+uá+}ri[-v-]a[-do-]s d[-a 19-nortestoster-]o[-na-] [-tê-]m[- -]{+ét+}o[-s-]{+do).+}
+{+O+} maior[-es-] [-efei-]t{+em+}o[-s-]{+r+} {+qu+}and[-rogênic-]o[-s-] [-e-]{+uma+} [-d-]{+usuár+}ia[-b-]{+ d+}e[-togêni-]{+ DIU é a+}co[-s. Ou-]{+me+}t[-r-]{+id+}a[-s-] [-alte-]{+po+}r{+ um+}a[-ções-] in[-des-]{+f+}e[-já-]{+cção pél+}v[-e-]i[-s-]{+ca+} [-são-]{+–+} {+cha+}ma[-ior-]{+da DIP+} o[-c-]{+u m+}o[-rrê-]{+léstia i+}n[-c-]{+flamató-ria pélv+}i{+c+}a {+agu+}d[-e-]{+a+} {+– é qu+}e[-vento-]{+ a+}s [-tromb-]{+c+}o[-e-]m[-bó-]{+p+}lic[-o-]{+açõe+}s, em [-vi-]{+longo p+}r[-tu-]{+azo, po+}de{+m+} [-do-]{+ser+} {+grav+}es{+, aumen+}ta{+n+}do {+a chance +}de [-hip-]{+est+}er[-coagu-lab-]ilidade p[-r-]o[-movi-]{+r +}d{+an+}o [-p-]{+irreversív+}el[-o-] [-comp-]{+a+}o[-nente-] e[-s-]{+pi+}t[-rogên-]{+él+}i[-c-]o[-,-] [-b-]e[-m c-]{+nd+}o[-m-]{+tubári+}o {+nas tub+}a{+s+} {+u+}te[-ndênc-]{+r+}i{+n+}a{+s.+} {++}
+{+Condut+}a [-r-]{+m+}e{+dian+}te{+ i+}n{+fec+}ção [-híd-]{+em usuá+}ri[-c-]a[-,-]{+s+} [-po-]de[-ndo-] [-levar-]{+DIU+} [-a-]{+(FEBRASGO,+} [-h-]{+2015):+}
+{+Pac+}i[-pert-]en[-são ar-]te[-ri-]{+ +}a[-l.-]
+[-Efe-]{+ss+}i{+n+}to[-s -]
+[-benéf-]{+mát+}ic[-os	São-]{+a ++} [-diver-]s[-o-]{+inai+}s[-,-] [-a-]{+c+}l[-ém d-]{+ínic+}o{+s+} [-efeit-]o{+u+} c[-on-]{+ul+}t{+u+}ra[-c-]{+ sug+}e[-p-]{+s+}tivo[-:-]{+s+} [-prot-]{+de inf+}e{+c+}ção [-c-]{+p+}o[-nt-]r[-a-] [-gr-]{+cl+}a[-vi-]{+mí+}d[-ez ectóp-]i[-c-]a[-,-] [-câ-]{+ou go+}n{+o+}c[-er de -]o[-vári-]{+c+}o{+:+} [-e de e-]{+a+}n[-domé-]t[-r-]i[-o, molés-]{+bió+}ti[-a-]{+co+} [-infla-]{+se+}m[-atória-] [-pélvica-]{+remoção+} [-agu-]d[-a,-]{+o+} {+DIU;+}
+{+P+}a[-l-]{+cien+}te[-r-]{+ +}a[-çõe-]s[- f-]{+s+}i[-br-]{+nt+}o[-cís-]{+má+}tica[-s-] [-ben-]{++ s+}i[-g-]na{+i+}s d[-a mama,-]{+e+} [-miom-]as[-,-]{+censão+} endometri{+al +}o[-se,-]{+u+} [-re-]t[-o-]{+ubá+}r[-no imed-]ia[-to-] [-à-]{+da+} {+in+}fe[-r-]{+cção: an+}ti[-l-]{+biót+}i[-dade -]co[-m-] [-a-]{+++} [-susp-]{+r+}e[-nsão -]{+tira+}d[-o-]{+a+} [-méto-]do[-,-] [-s-]{+DIU;+}
+{+V+}a[-n-]g[-rame-]{+i+}n[-t-]os[- m-]e[-ns-]{+ bac+}t{+e+}r[-ua-]i[-s regul-]a[-res,-]{+na:+} tratamento [-e pre-]v[-en-ção da anem-]ia [-ferr-]o[-p-]r[-iv-]a[-.-]{+l+} [-Ou-]{+(me+}tro[-s be-]n[-efíc-]i{+daz+}o[-s inc-]l[-ue-]{+ 500+}m{+g+} [-o-]{+a+} {+c+}a[-umento -]d[-o-]{+a+} [-c-]{+12 h+}o[-leste-]r[-ol HDL-]{+as,+} [-e-]{+por+} [-a-]{+7+} di[-mi-]{+as) + +}n[-uiç-]ão [-do col-]{+r+}e[-s-]t[-e-]{+ira+}r[-ol-] [-L-]D[-L, pelo c-]{+IU;+}
+{+End+}om[-pon-]e[-n-]{+tri+}te [-e-]s[-trogên-]i[-co co-]m[- ef-]{+pl+}e[-ito-]{+s+} {+(a+}p[-rot-]e[-tor-]{+nas+} s[-o-]{+ensi+}b[-r-]{+ilidad+}e {+uterin+}a{+):+} a{+n+}t[-eros-]{+ibióti+}c[-ler-]o[-se.-]
+[-C-]{+ (d+}o[-ntra-]{+x+}i[-nd-]{+c+}ic[-ações	Tabag-]{+l+}i[-st-]{+n+}a[-s-] [-co-]{+100+}m{+g+} [-m-]a[-is-] {+ca+}d[-e-]{+a+} [-35-]{+12+} [-an-]{+h+}o{+ra+}s, [-hi-]p[-e-]{+o+}r[-ten-]{+ 14 dia+}s{+) + n+}ão [-a-]{+p+}r[-t-]e[-r-]{+c+}i{+s+}a[-l,-] [-do-]{+r+}e[-nç-]{+tir+}a{+r+} {+DIU;+}
+{+Infe+}c[-a-]{+ção tubá+}r[-d-]i[-ov-]a[-sc-]{+ o+}u[-lar,-] [-aci-]{+DIP (+}d[-ente-]{+or+} {+pél+}v[-as-]{+i+}c[-ul-]a[-r-]{+,+} [-ce-]{+do+}r[-e-]{+ à mo+}b[-r-]{+iliz+}a{+ção do co+}l{+o+} [-p-]{+ute+}r[-év-]i{+n+}o, {+al+}t{+e+}r{+açã+}o[-mbose-] [-ve-]n[-os-]a [-pr-]{+c+}o[-fu-]n[-da prévi-]{+t+}a[-,-]{+gem+} d[-iabet-]e[-s-] [-me-]l[-lit-]{+e+}u[-s -]c{+ócit+}o[-m-]{+s,+} [-di-]a[-g-]{+ume+}n[-ós-]t[-ic-]o [-há 20-]{+de+} [-anos-]{+VHS+} ou ma[-i-]{+ssa+}s [-OU com v-]a{+nexai+}s[-cu-]{+ pa+}l[-o-]p{+áveis): +}a{+ntibiotico+}t{+erap+}ia p[-e-]{+o+}r{+ v+}i[-fé-]{+a o+}r[-ic-]a[-,-]{+l ou+} {+en+}do{+v+}en[-ç-]{+os+}a [-h-]{++ r+}e[-pá-]ti[-ca -]{+r+}a[-tiv-]{+d+}a[-,-] [-enxaqueca-]{+do DIU. +}
+{+É+} com[- a-]u[-r-]{+m +}a [-(e-]{+i+}n[-xaqu-]{+f+}ec[-a sem-]{+ção+} [-au-]{+po+}r[-a também-] {+A+}c[-on-]t[-raind-]i[-ca o uso de a-]n[-tic-]o[-ncep-]{+my+}c[-i-]o[-nai-]s[- comb-]i[-nado-]s em pacientes [-com 35 -]{+usuári+}a[-no-]s {+de DIU. Até 20% d+}o[-u-]{+s+} [-m-]{+esfreg+}a[-i-]{+ço+}s[-),-] c[-ol-]e[-c-]{+rv+}i[-stop-]{+c+}a[-t-]i[-a,-]{+s em+} us[-o-]{+uárias+} de [-me-]{+DIU +}d[-i-]{+e +}c[-am-]{+obr+}e[-n-]{+ são posi+}t{+iv+}os [-que-]{+para+} [-int-]e[-rf-]{+ss+}e[-r-]{+ g+}e{+r+}m{+e.+} [-na-]{+Se+} a[-b-]s[-orção, c-]{+sint+}om[-o -]{+átic+}a[-lguns-]{+:+} antibiótico[-s-] (p[-or ex-]e[-mplo, rifamp-]{+n+}ici{+li+}na[-),-] [-gestação-]{+G+}, [-amam-]{+t+}e[-n-]t{+r+}a[-ção, imob-]{+c+}i{+c+}li[--z-]{+n+}a[-çã-]{+ +}o{+u+} [-pr-]{+d+}o{+xicic+}l[-o-]{+i-+}n[-gad-]a[-.-]{+) ++} [-Algu-]ma[-s-]{+nter+} [-d-]{+DIU. S+}e{+ +}s[-s-]{+intomátic+}a[-s-]{+:+} [-co-]{+primeirame+}nt{+e faze+}r{+ +}a[-i-]n[-d-]{+tibiót+}ic[-açõ-]{+o +}e[-s-] dep[-endem da-]{+ois+} [-g-]r[-av-]{+et+}i[-d-]{+r+}a{+r o DIU. Po+}de [-d-]{+ev+}o[- p-]{+lui+}r{+ c+}o{+m abs+}ces{+-+}so{+.+} [-e-] [-da-] [-avali-]{++}
+{+h) DIU e gest+}ação{++}
+{+A+} {+re+}m[-édica-]{+oção+} d{+o DIU +}e{+stá+} {+indi+}cada [-c-]{+imediat+}a[-so.-]
+
+[-O co-]m[-pon-]ente{+,+} [-progest-]a[-c-]{+ss+}i[-onal-]{+m que+} [-d-]o[-s-] {+di+}a{+g+}n{+ós+}tico[-ncepcionais é variável-] {+d+}e [-apr-]{+g+}es[-en-]ta{+ção+} [-pa-]{+int+}r{+au+}t{+er+}i[-cul-]{+n+}a[-r-]{+ é conf+}i[-d-]{+rm+}ad{+o, para +}e[-s.-]{+vitar+} [-Os-]{+a+} principa[-is-]{+l+} {+com+}p[-r-]{+licaçã+}o{+ de uma +}gest{+açã+}o[-gêni-]{+ com +}o[-s-] {+méto+}do[-s-]{+,+} [-pr-]{+qu+}e[-p-]{+ é o +}a{+bo+}r{+to espontâneo (50 +}a{+ 60% +}dos c[-omerci-]a[-i-]s[- -]{+o+}s[-ã-]{+), +}o[-:-]
+[-N-]{+c+}or{+-r+}e[-t-]{+ndo a +}i[-st-]{+m+}e[-ro-]n{+s+}a[-:-] [-f-]{+maiori+}a[-z-] [-p-]{+desses +}a{+bo+}rt{+am+}e[- d-]{+nt+}o{+s+} [-grup-]{+n+}o [-das-]{+2º+} [-p-]{+t+}rime[-i-]{+st+}r{+e, muit+}as [-prog-]{+v+}e[-st-]{+z+}e[-rona-]s {+em +}si{+tuação de i+}n{+fecção (abor+}t{+o s+}é{+p+}tic[-as-]{+o). A+} [-int-]r[-oduz-]{+et+}i{+ra+}da[-s.-] [-P-]{+d+}o{+ DIU por +}s[-su-]i [-efeit-]{+só p+}o{+de+} pro[-gestaci-]{+v+}o[-n-]{+c+}a[-l-]{+r+} [-f-]{+um abo+}r{+t+}a[-c-]{+ment+}o{+,+} [-e-]{+porém+} {+p+}e[-l-]{+rmit+}e[-v-]{+ +}a[-d-]{+ument+}a{+r+} a[-ção-]{+s+} {+ch+}an[-drogêni-]c[-a -]e{+s+} {+d+}e[-stá-] [-a-]{+suce+}sso[-cia-]{+ +}da {+gravidez, evit+}a{+ndo +}o risco de {+até 60% d+}e[-v-]{+ abortam+}ento[-s-] [-trombogê-]n[-icos-]{+a+} {+p+}e{+r+}m[- -]a[-sso-]{+nên+}cia[-ção-] [-a-]{+d+}o [-etin-]{+d+}i[-le-]s{+posi+}t[-rad-]i{+v+}o[-l-]. [-Há-]{+Após+} [-evi-dênci-]a[-s-] [-d-]{+r+}e[- di-]m[-inui-]{+o+}ção do [-c-]{+DIU, +}o[-leste-]{+ +}r{+isc+}o[-l-] [-HDL,-]{+de+} a[-u-]{+bor-ta+}mento [-do LDL-]{+é+} {+d+}e{+,+} a[-u-]{+proximada+}ment{+e, 30%, e com a manutençã+}o do{+ DIU, e+}s{+se+} [-triglicé-]ri[-de-]s[-;-]
+[-Levon-]{+c+}o[-r-]{+ che+}g{+a a 75% +}e[-s-]{+ +}t[-rel:-]{+ambém+} [-de-]{+é as+}s[-env-]o[-lv-]{+c+}i{+a+}do a part[-ir da n-]o{+ p+}re{+ma+}t[-iste-]{+u+}ro[-na,-]{+. O DIU+} [-a-]p[-r-]{+od+}e{+ +}se[-nta maio-]r [-sel-]{+r+}eti[-vid-]{+r+}ad[-e pel-]o [-rece-]p[-t-]or [-da proge-]{+hi+}stero[-na. Es-tudo-]s[- eviden-]c{+op+}ia[-m-] d[-imin-]u[-ição conside-]r[-áv-]{+ant+}e[-l-] [-no-]{+a+} [-ri-]{+ge+}s[-c-]{+taçã+}o{+,+} [-de-]{+caso+} {+n+}e[-v-]{+c+}e[-nto-]s[- t-]{+sá+}r[-omboemból-]i[-c-]o[-s-]{+.+} [-e-]{++}
+{+Co+}m relação à [-nor-]{+g+}e[-ti-]st[-eron-]a[-.-]{+ção+} [-Entr-]e{+c+}t{+ópic+}a[-nto-], [-ap-]{+o +}r[-e-]{+i+}s[-e-]{+co +}n[-t-]a{+s+} [-impo-]{+usuá+}r[-tante at-]i[-vid-]a{+s +}de [-a-]{+DIU é me+}n[-d-]{+o+}r{+ d+}o[-gênica.-] [-As-]{+que+} e[-vidê-]n[-ci-]{+tre +}as [-c-]{+mu+}l[-ínica-]{+here+}s [-t-]{+que não us+}am[-bé-]{+ nenhu+}m m{+ét+}o[-s-]{+do con+}tra[-m -]{+ce+}p{+t+}i{+v+}o[-ra-]{+;+} [-n-]{+p+}o{+r+} [-pe-]{+out+}r[-?l-]{+o+} l[-ipí-]{+a+}d[-ic-]o{+,+} [-(di-]{+se u+}m[-in-]{+a us+}u{+ár+}i[-ção-]{+a+} do [-HDL e au-]m[-en-]{+é+}to[- -]do [-LDL -]e[- dos tri-]{+n+}g[-licé-]r{+av+}id[-e-]{+ar, +}s[-);-]
+[-D-]e[-s-]{+rá imperativ+}o[-g-]{+ p+}e{+n+}s[-t-]{+a+}r[-el-] e{+m+} gest{+açã+}o[-d-]{+ +}e[-no:-]{+ctópica,+} [-f-]{+p+}o[-r-]{+is +}a[-m-] [-d-]{+prot+}e[-senv-]{+çã+}o[-lv-]{+ conced+}id{+a pel+}o[-s-]{+ DIU é maior+} para [-dim-]{+grav+}i[-nu-]{+dez tóp+}i[-r-]{+ca+} {+d+}o {+qu+}e[-feito-] {+p+}a[-nd-]r{+a ectópica. L+}og[-ê-]{+o, o DIU +}n[-ic-]{+ã+}o {+au-m+}e{+nta+} o {+r+}i[-mpa-]{+s+}c[-t-]o [-n-]{+d+}e{+ +}g{+r+}a[-ti-]v[-o no p-]{+id+}e[-r?l-]{+z+} [-li-]{+ectó+}p[-íd-]ic[-o e-]{+a,+} [-possue-]m[- -]a[-?nid-]{+s c+}a[-de-]{+so+} [-2-]{+a+} [-vez-]{+g+}es[- m-]{+t+}a[-i-]{+çã+}o[-r-] {+o+}co{+rra, te+}m {+mai+}o[- -]r[-e-]{+ chan+}ce[-ptor-] de [-proge-]s[-t-]er[-ona-] e{+ctópica.+} [-2-]{+Além+} [-veze-]{+dis+}s{+o, o DIU+} [-me-]n{+ã+}o[-r-] [-c-]{+h+}o{+r+}m[- -]o{+nal+} [-re-]{+(+}c[-ept-]o{+b+}r[- d-]e{+)+} [-and-]r[-ogênios.-]{+eduz+} [-Além-]{+o+} [-d-]{+r+}is[-s-]{+c+}o[-,-] {+d+}e{+ gra+}vide[-n-]{+z e+}c{+tóp+}i{+c+}a[-m-]{+.+} [-m-]{++}
+{+Tab+}el[-hor-]a [-do-]{+3+} [-per?l-]{+-+} [-li-]{+Im+}p[-ídic-]o[- (-]{+rt+}a[-ume-]nt[-o-]{+e+}
+{+-+} [-do-]{+O+} [-H-]D[-L e-]{+IU+} d[-iminuição-]{+e+} [-d-]{+c+}o[- LDL -]{+br+}e {+re+}d{+uz +}o[-s-] [-t-]ri[-gli-]{+s+}c[-éri-]{+o +}de[-s).-] [-E-]{+câ+}n[-t-]{+ce+}r{+ de +}e[-ta-]n{+domé+}t{+ri+}o, [-um gra-]n[-de-]{+ão+} {+s+}en[-sai-]{+d+}o cl[-ínic-]{+ar+}o [-realizad-]o [-na-]{+seu+} [-Inglat-]{+m+}e[-rr-]{+c+}a{+nismo.+} [-(C-]{+M+}a[-r-]{+s, +}p{+od+}e[-r-] e{+s+}t{+ar+} a[-l.,-]{+ssocia-do+} [-1995)-]{+à+} [-ev-]i[-de-]n[-c-]i{+biçã+}o[-u-] [-um-]{+de+} [-aum-]{+r+}e[-n-]{+cep+}to[- -]{+re+}s[-ub-]{+ de e+}st[-a-]{+rogê+}n[-c-]i[-al n-]o {+e p+}r[-isc-]o[- -]{+ges+}t{+e+}ro[-m-]{+na;+}
+-[-boembó-]{+ Mu+}l[-ico-]{+heres+} em r[-elaçã-]{+isc+}o [-ao-]{+de+} [-l-]e[-vo-]n{+d+}o{+ca+}r[-ges-]{+di+}t[-rel -]e [-à n-]{+p+}o[-r-]{+d+}e{+m u+}ti[-ste-]{+liza+}r{+ +}o[-na.-] [-E-]{+DIU, ma+}s[-tu-]{+ +}d[-os-]{+evem+} [-post-]{+faz+}er{+ antib+}io[-res -]{+ti+}co[-n?-]{+p+}r[-m-]{+ofil+}a[-r-]{+xi+}a[-m-] {+n+}o [-achad-]{+m+}o[-, -]{+m+}e[- -]{+nt+}o [-r-]{+da +}i{+n+}s[-co t-]{+e+}r[-om-]-[-bogênic-]{+çã+}o{+;+}
+{+-+} [-é 2 v-]{+D+}e[-z-]{+v+}e{+-+}s{+e+} [-ma-]{+ter cu+}i{+dad+}o[-r-] em [-relação a-]{+j+}o{+ven+}s [-pr-]{+e ad+}o[-g-]{+l+}es[-togê-]{+ce+}n[-io-]{+te+}s [-n-]{+pel+}o{+ +}r[-et-]is[-ter-]{+c+}o[-na-] {+d+}e [-lev-]{+DSTs. Log+}o{+, +}n{+ão imp+}or[-ges-]t[-rel;-]
+[-Dros-]{+a a +}p[-i-]{+a+}r{+idad+}e[-no-]{+ +}na[-:-] [-pr-]{+esc+}o[-g-]{+lha d+}e{+ u+}s[-t-]{+ar +}o[-gê-]{+u +}n[-i-]{+ã+}o [-c-]o[-m-]{+ DIU,+} e[-feito-] [-ant-]{+s+}im[-iner-]{+ +}a[-lo-]{+ sus+}c[-or-]{+e+}ti[-co-]{+b+}i{+lida+}de [-e-]{+da+} {+p+}a{+cie+}nt[-i-]{+e às DSTs. Mas, +}a{+s +}n[-d-]{+ulípa+}r[-ogênico,-]{+as+} apresenta{+m+} maior {+quad+}r[-isc-]o [-tr-]{+de d+}o{+r e au+}m[-bogê-]{+e+}n[-ic-]{+-t+}o do [-q-]{+fl+}u[-e -]{+x+}o [-desog-]{+m+}e{+n+}str[-e-]{+ua+}l [-e -]{+c+}o{+m+} [-ge-]{+a in+}s[-tod-]e[-no. Em -]r[-ela-]ção [-a-]{+d+}o [-per?l-]{+DIU;+}
+{+- O DIU+} [-li-]p[-ídic-]o[-, -]de[-t-]{+ s+}er[-m-]{+ +}in{+serido logo +}a{+pós+} {+o p+}a[-um-]{+rto, d+}ent{+r+}o d[-o-]{+e+} [-HDL-]{+10+} [-e-]{+a 15+} [-di-]minu[-iç-]{+tos após a dequitação, mas há aumento na taxa de expulsão do DIU e perfuração uterina. O ideal é a sua inserção 4 a 6 semanas pós-parto;+}
+{+- O DIU pode ser inserido logo após abortamento de 1º trimestre, sem aumento nas taxas de expulsão;+}
+{+- O DIU não altera a amamentação; +}
+{+- Na perimenopausa e em mulheres com fluxo menstrual aumentado, deve-se optar pelo DIU medicamentoso (Mire-na®); +}
+{+- Não é necessário antibiótico antes da inserção do DIU;+}
+{+- Caso não seja possível a remoção do DIU com a pinça Cheron (exemplo: não visualização da cordinha do DIU), pode-se optar pela retirada por histeroscopia.    +}
+{++}
+{+i) DIU medicado com progesterona (sistema intrauterino liberador de levonorgestrel – SIU-LNG) – Mirena®+}
+{+O SIU-LNG é um reservatório de levonorgestrel com liberação intrauterina, com durabilidade de 5 anos (cobre 10 a 12 anos), com menos efeitos colaterais e mais eficácia que os demais (cobre). O retorno à fertilidade após a sua retirada é quase imediato. A liberação de progesterona intrauterina torna o muco cervical espesso e hostil à penetração do es-permatozoide, além da inibição da resposta endometrial ao estradiol circulante (efeito antiproliferativo endometrial). Taxa de eficácia muito elevada: IP 0,1. +}
+{+Tabela 4 - Contraindicações absolutas e relativas ao uso do sistema intrauterino liberador de levonorgestrel +}
+{+Contraindicações absolutas+}
+{+- Gravidez;+}
+{+- Septos intrauterinos, pólipos endometriais e mioma submucoso;+}
+{+- Infecção aguda, recente (<3 meses) ou recorrente;+}
+{+- Cervicite não tratada;+}
+{+- Alergia a levonorgestrel;+}
+{+- Doença hepática aguda ou tumor de fígado.+}
+{+Contraindicações relativas+}
+{+- Fator de risco para DSTs;+}
+{+- Perfuração uterina ou dor intensa com uso de outros DIUs;+}
+{+- Sangramento uterino anormal não diagnosticado;+}
+{+- Imunossupressão;+}
+{+- História patológica pregressa de reflexo vasovagal (pode ocorrer durante a inserção do DIU);+}
+{+- História patológica pregressa de intolerância aos proges-tágenos (depressão importante).+}
+{++}
+{+Seguem características importantes do SIU-LNG:+}
+{+Cerca de 20% das pacientes evoluem para amenorreia no 1º ano após a inserção. Do 2º ao 5º ano esse número au-menta para 50%;+}
+{+Pode ser utilizado como veículo para terapia de reposição hormonal;+}
+{+Minimiza os efeitos do tamoxifeno sobre o endométrio;+}
+{+Pode ser utilizado no tratamento de menorragia, hiperplasia endometrial e da adenomiose;+}
+{+No tratamento da endometriose, há redução da dor pélvica crônica e dismenorreia;+}
+{+Há absorção sistêmica da progesterona? Sim. Em consequência, há inibição parcial do desenvolvimento folicular ovari-ano e da ovulação; 15% das pacientes apresentam ciclos anovulatórios. +}
+{+SIU-LNG e gravidez: o DIU também deve ser removido, como na gestação com DIU de cobre e, se necessário, por via histeroscópica. Entretanto, se gestação avançada (>12 semanas) e DIU distante do orifício interno do colo, deve-se evitar a sua retirada, pois a taxa de insucesso é muito elevada. Neste caso, a gestação seguirá com o DIU intracavitário e com risco aumentado de abortamento, trabalho de parto prematuro e infecções;+}
+{+Cerca de 30% das usuárias apresentarão cistos ovarianos funcionais à ultrassonografia. Estes cistos costumam ser assin-tomáticos e tendem a desaparecer. Portanto, a conduta frente a um achado de cistos ovarianos simples em usuárias de SIU-LNG é expectante.+}
+{+  +}
+{+ +}
+{+Figura 4 - Sistema intrauterino com liberação contínua de levonorgestrel+}
+{+Tabela 5 - Efeitos adversos do sistema intrauterino liberador de levonorgestrel+}
+{+Complicações 	Manifestações clínicas+}
+{+Expulsão do DIU	- Sangramento irregular ou dores em todos os ciclos;+}
+{+- Dor persistente durante as relações sexuais – expulsão parcial.+}
+{+Deslocamento do DIU	- Sangramento importante e/ou dores abdominais nos pri-meiros 3 a 5 dias após a inserção do DIU;+}
+{+- Sangramento irregular ou dores em todos os ciclos;+}
+{+- Dor persistente durante as relações sexuais;+}
+{+- Fios do SIU-LNG mais longos ou não visíveis.+}
+{+Perfuração uterina	- Sangramento importante e/ou dores abdominais nos pri-meiros 3 a 5 dias após a inserção do DIU;+}
+{+- Dor persistente durante as relações sexuais.+}
+{+Infecção	- Sangramento importante e/ou dores abdominais nos pri-meiros 3 a 5 dias após a inserção do DIU;+}
+{+- Febre ou calafrios com ou sem corrimento vaginal associa-do;+}
+{+- Dor persistente durante as relações sexuais.+}
+{+Gestação tópica ou ectópica	- Dor abdominal, amenorreia ou oligomenorreia, beta-HCG positivo, náuseas e vômitos;+}
+{+- Atraso menstrual com sintomas de gravidez;+}
+{+- Expulsão do DIU;+}
+{+- Fios do SIU-LNG mais longos ou não visíveis.+}
+{++}
+{+	+}
+{+Vídeo+}
+{+Dispositivos intrauterinos+}
+{+  +}
+{++}
+{+D - Lactação e amenorreia+}
+{+Em razão da hiperprolactinemia fisiológica e do hipoestrogenismo decorrentes da amamentação, há inibição da função ovulatória nos primeiros 6 meses pós-parto, quando o aleitamento é exclusivo, e se a mulher se mantém em amenor-reia. Nessas condições, a eficácia é alta, com taxas de falha de 2 gestações por 100 mulheres/ano. A amamentação não tem efeitos colaterais e estimula a formação e o vínculo mãe–bebê. Quando quaisquer das condições descritas não estão mais presentes, o método deve ser substituído por outro que não interfira na amamentação.+}
+{++}
+{+E - Métodos definitivos de esterilização+}
+{+a) Feminino: laqueadura tubária +}
+{+Quando se opta pela Laqueadura Tubária (LT), o casal deve ter plena consciência de que esse é um método definitivo (sua reversão é possível, porém tem poucos resultados positivos) e requer intervenção cirúrgica e anestesia (Figura 4). Quanto às técnicas, a LT pode ser realizada por videolaparoscopia, via abdominal (mini-Pfannenstiel ou periumbilical no puerpério imediato) ou vaginal. As tubas podem ser cauterizadas, seccionadas, ou pode-se optar pela utilização de um anel tubário ou grampo.+}
+{+A Legislação Brasileira estipula que:+}
+{+A LT só pode ser feita se a paciente tem plena capacidade civil; +}
+{+Idade superior a 25 anos ou =2 filhos vivos (sem considerar o feto da gestação em curso); +}
+{+Deve-se respeitar um intervalo mínimo de 60 dias entre a manifestação do desejo de LT e sua realização, período em que o casal deve conhecer todos os métodos contraceptivos disponíveis, sendo realizado aconselhamento multidisci-plinar, visando desencorajar a esterilização precoce;   +}
+{+Consentimento pós-informado assinado pela paciente ou pelo casal, em caso de relação conjugal estável. Logo, o côn-juge tem que assinar o termo de consentimento para a ligadura tubária;+}
+{+Fora dessas situações, a LT só pode ser realizada se a paciente se encontra em risco de morte ou nos casos de agravo à saúde em gestações futuras. Isso deve ser comprovado por um relatório assinado por 2 médicos;+}
+{+A LT não pode ser realizada durante o parto ou aborto. Para que a LT seja realizada no intraparto, após aborto ou perí-odo puerperal, deve ser comprovada a necessidade, como risco iminente de ruptura uterina por sucessivas cesáreas prévias (Lei nº 9.263, de 1996, que regulamenta o planejamento familiar);+}
+{+A esterilização cirúrgica como método contraceptivo só pode ser realizada por LT ou vasectomia. Não pode ser realiza-da por histerectomia ou ooforectomia. +}
+{++}
+{+Tema+}
+{+frequente de prova+}
+{+É importante fixar bem a legislação vigente sobre a esterilização cirúrgica. A idade mínima necessá-ria ou o número de fi-lhos vivos e o tempo de assinatura do consenti-mento informado são temas muito frequentes em questões de prova de Residência Médica. +}
+{++}
+{++}
+{+ +}
+{+Figura 5 - Laqueadura tubária+}
+{+b) Masculino: vasectomia+}
+{+Trata-se do método de esterilização definitiva oferecido aos homens. Devem ser respeitadas as mesmas condições já colocadas para a esterilização feminina. Também apresenta alta eficácia, com taxas de falha de 0,15 gestação por 100 homens/ano. A reversão do método é possível, porém com poucos resultados; logo, a decisão deve ser considerada definitiva.+}
+{+c) Implante endotubário (Essure®)+}
+{+Trazido ao Brasil em 2009, trata-se da colocação, por via endoscópica, de dispositivos semelhantes a pequenas molas de metal inseridas nos óstios tubários que promovem a fibrose local, com consequente obstrução tubária definitiva. Tem a vantagem de ser um procedimento ambulatorial que dispensa qualquer anestesia ou sedação e promove contra-cepção permanente. +}
+{+3. Métodos hormonais+}
+{+A - Contraceptivos hormonais orais+}
+{+São as popularmente chamadas pílulas anticoncepcionais, que se dividem em monofásicas (todos os comprimidos têm a mesma dosagem de medicamentos), bifásicas (2 dosagens diferentes na cartela) e trifásicas (3 dosagens). Podem ser combinados quando compostos de 2 esteroides (estrogênio + progestogênio) ou de progestogênio exclusivo (Figura 6). A composição estrogênica da maioria dos contraceptivos combinados é feita com o etinilestradiol (estrogênio sintéti-co), mas já existem pílulas com valerato de estradiol e 17-beta-estradiol (estrogênios com molécula similar ao estrogê-nio endógeno natural). Quanto mais sintética a composição, maior o risco dos eventos tromboembólicos, logo, no perí-odo periclimatérico, sempre que possível, tentamos empregar os hormônios naturais.+}
+{+Os contraceptivos hormonais orais combinados podem ser classificados quanto à dosagem de estrogênios.+}
+{+Tabela 6 - Classificação quanto à dosagem de estrogênios+}
+{+Alta	>50µg de etinilestradiol (não são mais fabri-cados)+}
+{+Baixa	20, 30 e 35µg de etinilestradiol+}
+{+Muito baixa ou microdose	15µg de etinilestradiol+}
+{++}
+{+Os contraceptivos de progestogênio exclusivo podem ser do tipo minipílula, com dosagem de progestogênio que varia de 1/2 a 1/10 da quantidade de progestogênio dos contraceptivos combinados e está indicada ao período de amamen-tação, visto que sua eficácia menor pode ser compensada pelo efeito anticoncepcional da lactação; e do tipo pílula, somente com desogestrel, 75µg, eficaz mesmo fora desse período. Induzem amenorreia, logo são bastante empregados em pacientes que se beneficiam dessa condição, como na endometriose, anemia ferropriva por hipermenorragia, ou outras. As pílulas de progestogênio exclusivo também são consideradas uma boa opção para as pacientes com contra-indicação ao uso de estrogênio.+}
+{+O mecanismo de ação da pílula apenas de progesterona envolve:+}
+{+Espessamento do muco cervical, dificultando a penetração e a ascensão dos espermatozoides;+}
+{+Inibição da ovulação;+}
+{+Alterações endometriais (hipo ou atrofia);+}
+{+Alterações da motilidade tubária.+}
+{+ +}
+{+Figura 6 - Anticoncepcionais orais de progestogênio exclusivo+}
+{+O mecanismo de ação da pílula combinada (estrogênio + progesterona) envolve a supressão da ovulação, que acontece pela inibição da secreção hipotalâmica dos fatores liberadores das gonadotrofinas, fundamentalmente o GnRH, assim como pela inibição da síntese de gonadotrofinas hipofisárias. O progestogênio inibe a secreção do hormônio luteinizan-te (LH), e o componente estrogênico inibe a secreção do hormônio folículo-estimulante (FSH). Com isso, não há estímu-lo ovariano, com sua consequente maturação folicular, assim como não ocorre o pico de LH levando à ovulação, logo, há anovulação por supressão do eixo hipotalâmico-hipofisário-ovariano (bloqueio gonadotrófico). Há, ainda modifica-ção no muco cervical, redução na motilidade ciliar tubária e transformação inadequada do endométrio, corroborando para a infertilidade reversível associada ao uso de contraceptivo hormonal oral combinado.+}
+{+Tema frequente de prova+}
+{+Devem-se fixar bem as contraindicações aos métodos contraceptivos combinados orais. O te-ma é muito prevalente nas questões das provas de Residência Médica.+}
+{++}
+{+Tabela 7 - Contraceptivos hormonais combinados – riscos e benefícios+}
+{+Eficácia	Para o uso ideal, a falha é de 0,1 gestação por 100 mulheres/ano; já no uso rotineiro, é de 6 a 8 gestações por 100 mulheres/ano.+}
+{+Efeitos +}
+{+benéficos	São diversos, além do efeito contraceptivo: prote-ção contra gravidez ectópica, câncer de ovário e de endométrio, moléstia inflamatória pélvica aguda, alterações fibrocísticas benignas da ma-ma, miomas, endometriose, retorno imediato à fertilidade com a suspensão do método, sangra-mentos menstruais regulares, tratamento e pre-venção da anemia ferropriva. Outros benefícios incluem o aumento do colesterol HDL e a dimi-nuição do colesterol LDL, pelo componente estro-gênico com efeito protetor sobre a aterosclerose.+}
+{++}
+{+Na Tabela a seguir, estão os efeitos colaterais dos contraceptivos hormonais orais combinados (AOCs), lembrando que a intensidade desses efeitos depende da dosagem hormonal e do tipo de progestogênio utilizado.+}
+{++}
+{+Tabela 8 - Efeitos colaterais dos contraceptivos hormonais orais combinados +}
+{+Sinais e sintomas	Comentários+}
+{+Náuseas	Pode haver hepatite medicamentosa por uso de AOCs. Deve ser evitado em pacientes com tumores hepáticos e hepatite.+}
+{+Cefaleia	Na presença de enxaqueca com aura, o AOC deverá ser suspenso, pois é fator de risco para Acidente Vascular Encefálico (AVE).+}
+{+Edema e aumento ponderal discreto	Ocorre por retenção hídrica, podendo-se optar pela drosperinona como pro-gestágeno, visto que apresenta efeito antimineralocorticoide. Há progeste-ronas que provocam retenção hídrica.+}
+{+Acne 	Depende da progesterona associada. Progesteronas de ação antiandrogêni-cas melhoram a acne, como ciproterona, drosperinona e clormadinona. +}
+{+Irregularidade menstrual 	AOCs podem cursar com sangramentos de escape, principalmente nos 3 primeiros ciclos, principalmente aqueles de muito baixa dose. +}
+{+Alterações de humor e depressão	Ocorrem pela mudança hormonal. +}
+{+Diminuição da libido	Ocorre principalmente nos AOCs com efeito antiandrogênico, como ciprote-rona, drosperinona e clormadinona.+}
+{+Eventos tromboembólicos	Causados, principalmente, pelo estrogênio do AOC. Parece que o levonorges-trel, como progesterona associada, provoca menor risco de trombose venosa profunda e tromboembolismo pulmonar.  +}
+{+Infarto agudo do miocárdio 	O infarto agudo do miocárdio em usuárias de AOC, em geral, é associado a outros fatores de risco como tabagismo, hipertensão, diabetes e dislipide-mia.+}
+{+Acidente vascular cerebral	Acidente vascular cerebral é extremamente raro e também associado aos fatores de risco para infarto agudo do miocárdio e à presença de enxaqueca com aura.+}
+{+Hipertensão arterial sistêmica 	O etinilestradiol provoca aumenta o substrato de renina, com consequente retenção hídrica. Geralmente, não causa hipertensão, mas pode piorar a hipertensão preexistente. +}
+{++}
+{++}
+{++}
+{++}
+{++}
+{++}
+{++}
+{+A diferença no progestogênio tem grande influência no seu poder androgênico; os derivados da 19-nortestosterona têm os maiores efeitos androgênicos e diabetogênicos. Outras alterações indesejáveis são: maior ocorrência de hiper-coagulabilidade e tendência a retenção hídrica, podendo levar a hipertensão arterial. +}
+{+O etinilestradiol é o principal estrogênio nos AOCs e cursa com aumento do substrato de renina, elevando a síntese de angiotensina e a produção de aldosterona, gerando vasoconstrição e retenção de sódio e água, com consequente ele-vação pressórica. Entretanto, não é frequente a hipertensão ocasionada pelo uso de ACO, mas piora a hipertensão preexistente. O impacto hepático do estrogênio é dose-dependente. Apresenta, ainda, perfil pró-trombótico dose-dependente. Reduz o colesterol total e o LDL, e aumenta o HDL.  +}
+{+O componente progestacional dos anticoncepcionais é variável e apresenta particularidades. Os principais progestogê-nios dos preparados comerciais são:+}
+{+Noretisterona: faz parte do grupo das primeiras progesteronas sintéticas introduzidas. Possui efeito progestacional fraco e elevada ação androgênica e está associada ao risco de eventos trombogênicos em associação ao etinilestradi-ol. Há evidências de diminuição do colesterol HDL, aumento do LDL e aumento dos triglicérides;+}
+{+Levonorgestrel: desenvolvido a partir da noretisterona, apresenta maior seletividade pelo receptor da progesterona. Estudos evidenciam diminuição considerável no risco de eventos tromboembólicos em relação à noretisterona. Entre-tanto, apresenta importante atividade androgênica. As evidências clínicas também mostram piora no per?l lipídico (diminuição do HDL e aumento do LDL e dos triglicérides). Apresenta menor efeito tromboembólico;+}
+{+Desogestrel e gestodeno: foram desenvolvidos para diminuir o efeito androgênico e o impacto negativo no per?l lipí-dico e possuem afinidade 2 vezes maior com o receptor de progesterona e 2 vezes menor com o receptor de andro-gênios. Além disso, evidenciam melhora do per?l lipídico (aumento do HDL e diminuição do LDL e dos triglicérides). Entretanto, um grande ensaio clínico realizado na Inglaterra (Carper et al., 1995) evidenciou um aumento substancial no risco tromboembólico em relação ao levonorgestrel e à noretisterona. Estudos posteriores confirmaram o achado, e o risco trombogênico é 2 vezes maior em relação aos progestogênios noretisterona e levonorgestrel;+}
+{+Drospirenona: é um progestogênio com efeito antimineralocorticoide e antiandrogênico, que apresenta maior risco trombogênico do que o desogestrel e o gestodeno. Em relação ao perfil lipídico, determina aumento do HDL e dimi-nuição do LDL e dos triglicérides. +}
+{+Desta forma, constata-se que, quanto mais antiandrogênico for um progestogênio, maior será o seu risco tromboembó-lico. Conclui-se, portanto, que o progestogênio de menor risco trombogênico é o levonorgestrel.+}
+{+Contraindicações aos AOCs: podem-se dividir as contraindicações aos AOC em 2 subgrupos:+}
+{+Aqueles considerados na categoria 3 de risco, denominados antigamente como contraindicação relativa, que corres-pondem ao grupo de pacientes em que o método não é o mais apropriado; +}
+{+Os pacientes na categoria 4, antigamente considerados como contraindicação absoluta, em que o uso de AOC é inacei-tável, definitivamente proibido.    +}
+{+Tabela 9 - Contraindicações aos contraceptivos hormonais orais combinados+}
+{+Contraindicações relativas – categoria 3	Contraindicações absolutas – categoria 4+}
+{+Uso de medicações que interferem no metabolismo hepá-tico, principalmente no citocromo P450, como rifampicina, anticonvulsivantes (fenitoína, carbamazepina), barbitúri-cos, primidona, topiramato, oxcarbazepina	Trombofilia conhecida (fator V de Leiden, mutação do gene protrombina, deficiência de proteína C, S e antitrom-bina)+}
+{+--	Amamentação com <6 meses+}
+{+Tabagismo <15 cigarros/dia	Tabagista >15 cigarros/dia+}
+{+Hipertensão sem possibilidade de controle rotineiro dos níveis pressóricos	Níveis de pressão sistólica 140 a 159mmHg ou diastólica 90 a 99mmHg, ou sistólica >160 ou diastólica >100mmHg+}
+{+--	História pessoal de tromboembolismo venoso ou pulmo-nar, assim como AVE, infarto agudo do miocárdio e doença valvar complicada+}
+{+Enxaqueca sem aura	Enxaqueca com aura+}
+{+--	Câncer de mama+}
+{+--	Diabetes com lesão microvascular ou mais de 20 anos de duração+}
+{+Colestase relacionada ao AOC	Hepatite viral ativa+}
+{+Doença da vesícula biliar atual, em tratamento clínico	Cirrose+}
+{+--	Tumor hepático benigno e maligno+}
+{++}
+{+Interações medicamentosas com contraceptivos hormonais orais são decorrentes de redução da absorção ou reabsor-ção, indução enzimática (citocromo P450), inibição enzimática ou proteínas transportadoras plasmáticas. As seguintes medicações têm maior interação medicamentosa com os AOCs, reduzindo seu efeito: anticonvulsivantes, barbitúricos, carbamazepina, penicilina e derivados, tetraciclinas, griseofulvina, rifampicina e triacetiloleandomicina. +}
+{++}
+{+B - Injetáveis+}
+{+Podem ser mensais ou trimestrais. Os primeiros são combinados e compostos de estrogênios naturais e progestogê-nios. Os trimestrais são exclusivos de progestogênios – acetato de medroxiprogesterona de depósito (AMP-D).+}
+{+Tabela 10 - Contraceptivos hormonais injetáveis – riscos e benefícios+}
+{+Mecanismo de ação	É semelhante ao dos contraceptivos orais, com espessamento do muco cervical e inibi-ção da ovulação.+}
+{+Eficácia	São muito eficazes, com índices de falha en-tre 0,1 e 0,3 gestação por 100 mulheres/ano; nesses casos, o uso rotineiro aproxima-se muito do uso ideal.+}
+{+Contraindicações	Para os injetáveis mensais, são idênticas às dos contraceptivos orais, sendo ambos compostos combinados de estrogênio e progestogênio. Al-guns defendem que, pelo fato de o estrogênio injetável mensal ser natural, a tolerância seria maior. E, no caso dos injetáveis trimestrais (apenas de progesterona), é uma boa opção con-traceptiva especialmente em mulheres com epi-lepsia e anemia falciforme. Compostos, exclusi-vamente, de progestogênios, as contraindicações são quase inexistentes, sendo o método de esco-lha a pacientes com doenças graves, como reu-matológicas e cardíacas.+}
+{+Efeitos colaterais	Os mais comuns são sangramento irregular, amenorreia, ganho de peso, perda de massa óssea e depressão. Tais efeitos são encontra-dos, com maior frequência, nos injetáveis trimestrais, juntamente com o retorno mais demorado à fertilidade. Os efeitos colaterais dos casos dos contraceptivos mensais são semelhantes aos dos anticoncepcionais orais.+}
+{++}
+{+O AMP-D tem eficácia semelhante à da esterilização e melhor que os contraceptivos orais combinados. Sua maior van-tagem está no fato de poder ser usado em pacientes com contraindicações ao estrogênio, como mulheres fumantes acima dos 35 anos, hipertensas e diabéticas. Há também segurança em seu uso nos transtornos convulsivos, anemia falciforme, doença cardíaca congênita, enxaqueca com aura e história prévia de tromboembolismo. +}
+{+Drogas antiepilépticas podem aumentar a atividade das enzimas hepáticas, reduzindo a eficácia dos AOCs. Entretanto, os AMP-D apresentam níveis hormonais muito elevados, assim, mesmo com a atividade das enzimas hepáticas aumen-tada nesses pacientes, não há redução da eficácia contraceptiva dos AMP-D. Além disso, os progestogênios aumentam o limiar convulsivo em pacientes epiléticas;+}
+{+AMP-D reduz as células vermelhas falciformes e reduz a frequência e intensidade das crises falcêmicas, sendo o con-traceptivo de escolha em pacientes com anemia falciforme; +}
+{+Podem ser utilizados com segurança durante a amamentação.   +}
+{++}
+{+Tabela 11 - Indicações do uso de AMP-D+}
+{+O uso do AMP-D diminui o risco das seguintes afecções:+}
+{+- Câncer endometrial;+}
+{+- Anemia ferropriva; +}
+{+- DIP;+}
+{+- Gestação ectópica;+}
+{+- Leiomiomas uterinos.+}
+{+O uso do AMP-D pode melhorar as seguintes condições:+}
+{+- Menorragia/dismenorreia;+}
+{+- Sintomas de síndrome pré-menstrual;+}
+{+- Dor em mulheres com endometriose;+}
+{+- Convulsões refratárias e tratamentos anticonvulsivantes convencionais;+}
+{+- Hemoglobinopatias;+}
+{+- Hiperplasia endometrial;+}
+{+- Dor pélvica/dispaurenia de origem ovariana pós-histerectomia;+}
+{+- Câncer de mama metastático;+}
+{+- Câncer endometrial metastático.+}
+{+Tabela 12 - As principais contraindicações absolutas (categoria 4) e relativas (categoria 3) para o uso de AMP-D+}
+{+Contraindicações absolutas aos injetáveis contendo apenas progestogênio – categoria 4 da OMS+}
+{+Câncer de mama atual+}
+{+Contraindicações relativas ao uso dos injetáveis contendo apenas progestogênio – categoria 3 da OMS+}
+{+- <6 semanas pós-parto;+}
+{+- Múltiplos fatores de risco para doença cardiovascular arterial (tais como idade >35 anos, tabagismo, diabetes e hipertensão);+}
+{+- Níveis elevados de pressão arterial (medições feitas corretamente) sistólica >160mmHg ou diastólica >100mmHg;+}
+{+- Hipertens+}ão {+com +}do{+ença+} [-LDL-]{+vascular;+}
+{+-+} {+Trombos+}e [-d-]{+ven+}os{+a+} [-t-]{+p+}r[-ig-]{+ofunda ou embo+}li[-cé-]{+a pulmona+}r[-ide-]{+;+}
+{+- Trombo+}s[-.-]{+e+} [-D-]{+v+}e{+no+}s[-t-]a {+pro+}f{+unda +}o[-r-]{+u e+}m{+boli+}a[-,-] [-c-]{+pulm+}on[-cl-]{+ar at+}u{+a+}i[---]s{+;+}
+{+- Do+}e{+nça cardíaca+} {+is+}qu{+êmica atual ou pregr+}e{+ssa;+}
+{+-+} [-q-]{+Acidente vasc+}u{+lar cerebral;+}
+{+- Sangr+}a{+me+}nto [-m-]{+vagin+}a{+l inexpl+}i{+cável (su+}s{+peita grave)+} ant{+es da aval+}ia[-ndr-]{+çã+}o[-gê-]{+;+}
+{+- Câ+}n[-i-]c{+er de mama n+}o [-f-]{+passad+}o[-r-] {+o+}u{+ se+}m [-prog-]e[-stog-]{+vid+}ên{+c+}i[-o-]{+a+} [-m-]{+de doenç+}a[-i-]{+ p+}or {+5 an+}o{+s;+}
+{+-+} {+Diabete+}s{+:+}
+{+· Com n+}e[-u-]{+fropatia,+} r{+et+}i[-sc-]{+n+}o[- -]{+pa+}t{+ia, neu+}ro[-mb-]{+patia;+}
+{+· C+}o[-e-]m[-bólic-]{+ +}o[-.-]{+utra+} [-C-]{+d+}o{+e+}n[---]{+ça vas+}c{+u+}l{+ar o+}u{+ d+}i[--s-]{+ab+}e[-,-]{+tes+} [-p-]{+c+}o{+m du+}r[-t-]a[-nt-]{+çã+}o[-,-] [-que-]{+>20+} {+an+}o{+s.+}
+{+-+} {+He+}p[-rog-]{+atit+}e[-s-]{+ viral a+}t[-ogên-]i{+va;+}
+{+- Cirr+}o{+se+} de[- -]{+sco+}m{+p+}en[-or-]{+sada;+}
+{+-+} {+Tumo+}r[-i-]{+e+}s[-c-]{+ d+}o [-tr-]{+fígado + aden+}om{+a (+}b[-ogê-]{+e+}ni[-c-]{+gno);+}
+{+- Tum+}o{+res+} [-é-]{+do+} {+fígad+}o {++ ma+}l[-evo-]{+ig+}no[-rg-]{+ (h+}e[-s-]{+pa+}t[-rel-]{+oma)+}.[-B --]{++}
+{++}
+{+Há+} [-I-]{+a+}n[-je-]t[-áve-]i[-s-]
+[-P-]{+c+}o[-dem ser m-]{+nc+}e{+pcio+}n[-s-]ais [-ou-]{+de+} [-t-]{+p+}r[-im-]{+og+}est{+e+}r{+ona apen+}a[-i-]s[-.-]{+,+} [-O-]{+ma+}s p{+o+}r{+ v+}i[-meir-]{+a +}o[-s-]{+ral.+} [-s-]{+S+}ão [-comb-]{+ut+}i[-n-]{+liz+}ados [-e -]co{+ntinua+}m[-pos-]{+en+}t[-os d-]e e[-st-]{+ p+}ro[-gêni-]{+v+}o[-s-]{+cam+} {+ame+}n{+orrei+}a[-t-]{+ d+}ura[-i-]{+nte o u+}s{+o.+} [-e-]{+A+} progest[-ogênios, -]e[- -]{+r+}o[-s-]{+na+} {+u+}t[-r-]i[-mestra-]{+l+}i[-s, -]{+za+}d[-e-]{+a+} [-prog-]{+é d+}es[-t-]og[-ênios -]e[-xclusivo-]s[-.-]
+
+[-Tab-]{+tr+}el[-a 4-] [---]{+75µg+} {+(+}C[-ont-]{+e+}ra[-c-]{+z+}e[-p-]t{+te®, Nactal+}i[-vos-]{+®).+} [-h-]{+Sã+}o[-r-]{+ +}m[-ona-]{+u+}i[-s-]{+to+} [-inje-]{+u+}t[-áve-]i[-s – r-]{+l+}i[-sc-]{+zad+}os [-e be-]n{+aqu+}e[-fícios-]
+[-Mec-]{+l+}a[-ni-]s[-mo de-] {+p+}a[-ção	É sem-]{+ci+}e[-lha-]n{+-+}te{+s+} [-ao d-]{+c+}o[-s-]{+m+} contra[-cept-]i[-vos ora-]{+nd+}i[-s, -]c[-om espess-]a[-ment-]{+çã+}o [-d-]{+a+}o [-m-]u[-c-]{+s+}o [-c-]{+d+}e[-rvical-] e[- i-]{+strogê+}ni[-bi-çã-]o{+,+} d[-a ov-]u[-l-]{+r+}a[-ção.-]
+[-Eficáci-]{+nte +}a[-	São-] {+a+}m[-ui-]{+amen+}t{+açã+}o{+,+} e[-fic-]{+ em p+}a[-z-]{+cient+}es[-,-] com [-ín-]di[-ce-]{+agnó+}s{+tico+} de [-falha -]en{+dome-+}tr{+ios+}e[- 0,1 e 0-],[-3-] [-ge-]s[-tação por 100 mulhe--]{+índ+}r{+om+}e[-s/-]{+ pélvic+}a[-no;-] {+co+}n{+g+}es[-s-]{+tiva (variz+}es {+pélvi+}cas[-os,-]{+)+} [-o-]{+e+} [-u-]s[-o -]{+ang+}r{+ament+}o{+ u+}t[-in-]e[-i-]r{+in+}o a[-pr-]{+n+}o[-xi-]{+r+}ma[--se-]{+l+} [-muito-]{+na+} [-d-]{+perimen+}o[- -]{+pa+}us{+a p+}o{+r+} [-ide-]a{+novu+}l{+a-ção+}.{+ +}
+C[-ont-]{+ - T+}ra[-i-]n{+s+}d{+érm+}ic[-ações	Para -]os{+,+} [-i-]{+a+}n[-j-]e[-tá-]{+l +}v[-e-]{+ag+}i[-s me-]n[-s-]a[-is,-]{+l+} [-são-]{+e+} i[-dê-]{+mpla+}nt[-ica-]{+e+}
+{+O+}s [-à-]{+tran+}s[- -]d{+érmic+}os [-contr-]{+(+}a[-c-]{+d+}e[-pt-]{+s+}ivo[-s-]{+) e+} o[-rais,-] [-se-]{+a+}n[-do-]{+el+} {+v+}a[-mbo-]{+ginal +}s{+ão+} compostos [-co-]m[-b-]i[-nad-]{+st+}os de estrogênio{+s sintéticos+} e progestogênio[-.-]{+s,+} [-Alg-]{+q+}u[-ns-]{+e+} d[-e-]{+i+}fe[-nd-]{+-r+}em [-que, pelo fato -]d[-e -]o[- e-]s[-trogênio-] [-i-]{+co+}n[-j-]{+trac+}e{+p+}t[-á-]{+i+}v[-el men-]{+o+}s[-al-] [-se-]{+o+}r[- n-]a[-tu-]{+is po+}r[-al,-] {+su+}a [-tolerânc-]{+v+}ia [-s-]{+d+}e[-ria-] [-m-]a{+pl+}i[-or. E, no -]ca[-s-]{+çã+}o{+,+} [-dos-]{+que+} [-i-]n[-jetáveis-]{+ão+} t[-ri-]{+ê+}m[-estr-]{+ +}a[-is-] [-–-]{+1ª+} [-com-]p[-o-]{+a+}s[-to-]s[-,-]{+agem+} {+h+}e[-xclus-]{+pát+}i[-v-]{+c+}a{+. Tê+}m[-e-]{+ a va+}nt{+ag+}e[-, de-]{+m+} p[-r-]o[-ge-]s[-t-]o{+ló+}g[-ên-]i[-os-]{+ca+} [-–,-]{+de+} [-as-]{+1+} [-contr-]a{+pl+}i[-ndi--]caç[-ões s-]ão [-quase-]{+por+} [-inexi-]s[-t-]e{+ma+}n[-tes,-]{+a+} [-sendo-]{+para+} o [-méto-]{+a+}d{+esiv+}o [-d-]e [-e-]{+1 por mê+}s[-c-]{+ para +}o[-lh-]{+ +}a{+nel, e+} {+su+}a{+s+} [-pa-]c[-ie-]{+o+}nt{+raindicaçõ+}es [-c-]{+sã+}o[-m-] [-do-]{+as m+}e[-nç-]{+sm+}as [-g-]{+pa+}ra[-ve-]{+ o+}s[-,-] co[-mo -]{+n-t+}r[-eum-]a{+cep+}t[-ológ-]i[-ca-]{+vo+}s [-e ca-]{+o+}r[-díac-]a{+i+}s.[-E-]{+ Os e+}feitos colaterais[-	Os-] [-m-]{+t+}a[-is-]{+mbém+} co[-m-]{+st+}u[-n-]{+mam +}s{+er+} s[-ã-]{+emelhantes a+}o{+s+} {+do+}s[-a-]{+ co+}n[-g-]{+t+}ra[-m-]{+c+}e[-n-]{+p+}t{+iv+}o{+s+} [-ir-]{+o+}r[-egul-]a[-r-]{+is+}, [-am-]{+dif+}e{+ri+}n{+d+}o[-rr-]{+ ap+}e[-i-]{+-n+}a[-,-]{+s+} [-ga-]n[-ho-]{+a+} {+sensibilida+}de [-pe-]{+gá+}s[-o-]{+trica+}, [-p-]e{+m +}r{+azão +}da {+via +}de [-m-]a{+dmini+}s[-s-]{+tr+}a{+ção.+} [-ós-]{+O+}s[-ea e-] {+a+}de[-pres-]s[-ã-]{+iv+}o[-.-]{+s+} [-T-]{+tr+}a{+nsdérm+}i{+co+}s [-efei-]t{+êm diminuiçã+}o{+ da +}s{+ua+} {+ab-+}s{+orç+}ão e[-n-]{+m pa+}c[-o-]{+ie+}nt[-rado-]{+e+}s[-,-] com [-maior-]{+90kg+} [-freq-]{+o+}u[-ência,-] [-no-]{+mai+}s [-inj-]{+d+}e[-táv-]{+ p+}e[-i-]s{+o.+} [-trim-]{+N+}est[-r-]a[-i-]s[-,-] [-junt-]{+p+}a[-m-]{+ci+}ente{+s,+} [-c-]o[-m-] {+excess+}o [-r-]{+d+}e{+ +}t[-orn-]{+ecid+}o [-m-]a{+d+}i{+po+}s{+o+} {+po+}de{+ di+}m[-o-]{+inui+}r{+ +}a[-d-]{+ absor-çã+}o [-à-]{+hormonal+} [-f-]e{+ eleva+}r{+ a sua +}t[-ilid-]a{+xa +}de[-.-] {+falhas.+}
+Os [-efe-]i[---]{+mplan+}t[-o-]{+e+}s co[-la-]{+n+}t[-e-]{+êm p+}r[-a-]{+ogestogên+}i{+o exclu+}s{+ivo, que é+} {+libera+}do[-s-] {+em mi+}c[-as-]{+rod+}os{+es+} d[-o-]{+iária+}s{+. Sua ação+} {+o+}co[-nt-]r[-ac-]{+r+}e{+ +}p[-t-]{+or +}i[-v-]{+nibiçã+}o[-s-] [-mens-]{+d+}a[-is-] [-s-]{+ovulaç+}ão {+e e+}s{+p+}e{+ssa+}me[-lha-]nt[-es a-]o[-s-] do[-s-] [-anti-]{+mu+}co[-n--]{+ +}ce[-pc-]{+rv+}i[-on-]{+c+}a[-is.-]
+
+[-C-]{+l+} [---]{+com+} [-T-]{+alte+}ra[-n-]{+çõe+}s{+ en+}d[-ér-]{+o+}m{+etria+}i[-co-]s, [-a-]{+dimi+}n[-el vag-]{+u+}in{+do +}a[-l-] e[- im-]{+s+}p[-lant-]e[-O-]s[- tran-]s[-dé-]{+u+}r[-micos (-]a{+ +}des[-ivo) -]{+t+}e{+.+} {+Sã+}o a{+ltame+}n{+t+}e[-l-] [-vag-]{+ef+}i[-n-]{+c+}a[-l -]{+ze+}s[-ão-]{+,+} com[-postos-] [-mis-]t{+axa zer+}o[-s-] de {+g+}est[-rogêni-]{+açã+}o[-s-] [-si-]{+em 3 a+}n[-tétic-]os {+d+}e [-proge-]s[-to-]{+e+}g[-ên-]{+u+}i{+ment+}o[-s,-]{+.+} [-que-]{+O+} [-dif-]e[-r-]{+f+}e[-m d-]{+it+}o[-s-] co[-n-]{+la+}t{+e+}ra[-ceptivos-]{+l+} [-or-]{+m+}ais [-p-]{+c+}o[-r-]{+mum,+} [-s-]{+q+}u[-a-]{+e+} {+le+}v[-i-]a [-de-]{+à+} [-apl-]i[-ca-]{+nterrup+}ção[-, que-] [-nã-]{+d+}o [-tê-]m{+étodo,+} [-a-]{+é+} [-1ª-]{+o+} [-pas-]sa{+n+}g[-e-]{+ra+}m[- h-]e[-pá-]{+n+}t[-ica. Têm a-]{+o+} [-van-]{+u+}t[-ag-]e[-m posológ-]{+r+}i[-ca-]{+no+} [-d-]{+irr+}e[- 1 ap-]{+gu+}l[-i-c-]a[-ção po-]r{+,+} [-s-]{+qu+}e[-mana-] p[-ara -]o[- a-]de[-sivo-] {+ocorr+}e{+r+} [-1-]{+de+} [-p-]{+f+}or[- -]m[-ês-]{+a+} {+im+}p[-a-]r[-a o an-]{+evisív+}el[-,-] e{+m+} [-s-]u[-a-]s[- cont-]{+uá+}r[-aind-]i[-cações são -]as [-m-]{+d+}e[-smas-] {+im+}p{+l+}a[-ra os co-]nt[-rac-]e[-ptivos orai-]s. O{+utro+}s efeitos colaterais [-também co-]s[-tumam-]{+ão+} [-s-]{+alt+}er[- -]{+açõe+}s{+ d+}e{+ hu+}m{+or, c+}e{+fa+}l[-h-]{+ei+}a[-nt-]{+ +}e[-s-] {+diminuição d+}a[-os-] {+libi+}do[-s-]{+.+} [-c-]{+Sã+}o{+ i+}n[-tracept-]{+d+}i[-v-]{+cad+}os [-o-]{+pa+}ra[-is,-] [-dife-]{+p+}r{+at+}i{+came+}n[-d-]{+te t+}o{+das+} a[-p-]{+qu+}e[-n-]{+l+}as [-na-]{+que+} se[-nsibilid-]{+ +}a[---]d{+apt+}e{+m+} [-gástric-]a[-,-]{+o método+} e{+ tê+}m {+du+}ra[-z-]{+ç+}ão d[-a via d-]e {+3 +}a[-dmi-]n[-istraçã-]o{+s+}. [-Os-]{++}
+ {++}
+{+Figur+}a{+ 7 - (A) A+}desivo[-s-] transdérmico[-s têm-]{+;+} [-diminuição-]{+(B)+} [-d-]a{+nel+} [-su-]{+v+}a[- -]{+gin+}a[-bsorção-]{+l+} e[-m-] {+(C) im+}p{+l+}a[-cie-]nte[-s com-]{++}
+{+D+} [-90kg-]{+-+} {+C+}o[-u m-]{+ntr+}a[-is-]{+cepção+} de [-p-]e[-so. N-]{+m+}e[-st-]{+rgência+}
+{+Indicad+}a[-s-] pa[-ci-]{+ra r+}e[-nt-]{+laçõ+}es[-, o-] {+s+}ex[-ces-]{+uai+}s[-o-] de[- -]{+spro+}te[-c-]{+g+}id[-o-]{+as+} {+(falh+}a{+ +}d[-ipos-]o [-p-]{+us+}o[-de-] d[-iminuir -]a a[-bs-]{+ntic+}o[-r-]{+ncep+}ção [-horm-]o{+u ausê+}n{+ci+}a[-l-] {+d+}e{+la)+} e[-l-]{+ casos d+}e{+ +}v{+iolênci+}a[-r-] {+sexu+}a{+l,+} {+é con+}s[-u-]{+iderad+}a [-t-]{+não +}a[-x-]{+bortiv+}a [-de-]{+por não+} [-f-]a[-lh-]{+gir n+}a[-s.-]
+[-Os-] implant[-es c-]{+açã+}o[-ntêm-] [-pr-]{+d+}o[-ge-]{+ bla+}sto[-gênio ex-]c[-lus-]i[-v-]{+st+}o[-,-]{+;+} [-q-]{+at+}u[-e é-]{+a+} [-l-]{+in+}ib[-era-]{+in+}do [-em-]{+a+} [-micr-]o[-d-]{+vulaçã+}o[-ses-] [-diárias.-]{+ou+} [-S-]{+adeq+}ua{+do+} [-açã-]{+desenvolviment+}o {+d+}o{+ +}cor[-re -]po[-r-] [-inibiçã-]{+lúte+}o{+,+} d[-a ovu-laçã-]o e[- espessame-]n{+domé+}t{+rio +}o{+u+} do muco cervical{+,+} [-c-]o[-m-]{+u+} altera[-ções e-]ndo[-metri-]{+ +}a[-is,-] [-dim-]{+f+}i[-nu-]{+s+}i[-nd-]o[- a espessur-]{+logi+}a d[-e-]{+a+}s[-te. São-] [-al-]t{+ub+}a[-mente-]{+s+} {+ut+}e[-f-]{+r+}i[-c-]{+n+}a[-ze-]s[-,-] [-c-]o[-m-]{+u+} [-taxa-]{+dos+} [-z-]{+esp+}er{+mat+}o[- -]{+zoi+}de[- ge-]s[-t-]{+. Sua +}ação {+dep+}e[-m 3 a-]n[-os -]de [-segui-]{+do mo+}mento[-. O-] [-efeit-]{+d+}o c[-o-]{+ic+}l[-at-]{+o m+}e{+nst+}r{+u+}al {+e+}m[-ais comum,-] que [-lev-]a [-à i-]{+co+}nt[-e-]r[-ru-]{+ace+}pção d[-o-]{+e+} {+e+}m[-étodo,-]{+ergência+} é [-o sangr-]a{+d+}m[-ento uter-]in[-o -]i{+st+}r[-regul-]a[-r que pode ocorrer -]d{+a:+}
+{+S+}e [-form-]a [-i-]m[-p-]{+ulhe+}r{+ +}e[-vi-]s[-í-]{+ti+}ve[-l-]{+r+} [-em-]{+na+} [-usuári-]{+1ª f+}as{+e+} d[-e-]{+o+} {+c+}i[-mp-]{+c+}l{+o, +}antes[-.-] [-O-]{+da ov+}u[-tr-]{+laçã+}o[-s-]{+:+} [-efei-]{+an+}t[-o-]{+e+}s {+do pi+}co[-lat-]{+ d+}e[-rais-] [-sã-]{+LH, +}o [-al-]{+Con+}t[-e-]ra[-çõ-]{+c+}e[-s-]{+ptivo+} de [-hu-]{+E+}m[-o-]{+e+}r[-, -]{+gên+}c[-ef-]{+ia (CE) +}al{+t+}e[-i-]{+r+}a [-e-]{+o+} [-d-]{+cresc+}im[-i-]{+e+}n[-uiçã-]{+t+}o [-d-]{+folicul+}a{+r,+} [-l-]i[-b-]{+mped+}i{+n+}do[-.-] [-Sã-]o{+u+} [-in-]{+retar+}d[-ic-]a{+n+}do[-s-] [-p-]a[-r-]{+ ovul+}a{+ção+} p{+o+}r[-a-]{+ mui+}t{+os d+}i[-c-]a[-ment-]{+s; +}
+{+S+}e [-t-]o[-d-]{+correr +}a{+pó+}s a[-q-]{+ ov+}u[-e-]la{+ção na 2ª fa+}s{+e+} [-qu-]{+do ciclo: o CE alt+}e{+ra+} [-se-]{+o+} {+tr+}a[-da-]{+ns+}p{+or+}te[-m-] [-a-]{+d+}o{+s+} {+esper+}m[-é-]{+a+}to[-d-]{+z+}o[- -]{+id+}e{+s+} [-têm-]{+e+} d{+o óv+}u[-r-]{+lo pel+}a[-çã-]{+ tr+}o{+mpa+} de [-3-]{+Falópio,+} {+modific+}an{+d+}o[-s.-] {+o+} [-Fig-]{+m+}u{+co ce+}r{+vic+}a[- 6 --]{+l+} ([-A-]{+hostil+}) [-Ad-]e[-sivo-] {+in+}t{+e+}r[-ansdé-]{+fe+}r[-m-]i[-c-]{+nd+}o[-; (B)-] [-a-]n[-el-]{+a+} [-v-]{+c+}a[-g-]{+pac+}i[-n-]{+t+}a[-l e-]{+ção+} [-(C)-]{+do+} [-im-]{+es+}p[-l-]{+erm+}a[-n-]t{+ozoid+}e[-D-]{+. +}
+{+Podem+} [--	Si-]s{+er fei+}t{+os 2 esqu+}ema{+s:+} [-i-]{+co+}ntra[-ut-]{+c+}e[-r-]{+pt+}i[-n-]{+v+}o [-li-]{+com+}b[-er-]{+in+}ado[-r-] [-d-]{+ou ap+}e{+nas com+} levonorgestrel[-Trata-se-] {+isola+}d[-e um DIU-]{+o.+} {+Efi+}c[-om-]{+ácia+} si[-ste-]m[-a que l-]i[-ber-]{+l+}a{+r+} p{+a+}r{+a ambos +}o[-ge-]s{+ mé+}to[-gêni-]{+d+}o{+s, porém+} co[-ntinua-]{+m +}men[-t-]{+or+}e{+s+} [-n-]{+efeit+}o{+s+} [-ú-]{+cola+}ter{+ais n+}o [-(Fi-]{+se+}gu[-ra 7)-]{+ndo.+} [-e-] [-qu-]{++}
+{+L+}e[- a-]{+vonor+}ge[- po-]{+st+}r{+el+} [-dim-]i[-nuiçã-]{+s+}o[- -]{+la+}do{+:+} [-m-]u[-co cerv-]{+t+}i[-ca-]l[- -]{+iza-s+}e [-p-]{+1 c+}o{+mp+}r[- efe-]i[-t-]{+mid+}o[-s-] {+de l+}e{+vo+}n[-d-]o[-m-]{+rg+}e{+s+}tr[-i-]{+el (0,75mg) +}a[-is-] {+ca+}d[-i-]{+a 12 ho+}r{+as +}e{+m 2 +}to{+mada+}s {+ou 2 +}com[- su-]{+-+}pr[-essão -]{+imi+}d[-a-]{+os+} [-ca-]{+e+}m[-a-]{+ +}d[-a-]{+ose+} [-fu-]{+ú+}n[-c-]i[-on-]{+c+}a[-l.-] [-Nã-]{+(+}o [-é -]{+q+}u[-m-]{+e+} [-ant-]{+equ+}i[-o-]v[-ul-]a[-tório-]{+le a 1+},{+5mg+} [-poden-]d[-o s-]e[-r-] {+l+}e[-nc-]{+v+}on[-t-]{+o+}r[-ada-]{+ge+}s{+trel),+} o[-vul-]{+ m+}a[-çõe-]{+i+}s {+precoc+}em[- a-]{+en+}t[-é-]{+e+} [-90%-]{+possível,+} d[-as-]{+e+} [-usuá-]{+prefe+}r{+ênc+}ia[-s.-] [-Su-]{+n+}as [-tax-]{+primeir+}as [-de-]{+72+} [-fal-]h[-a sã-]o[- pequen-]{+r+}as[-,-] p[-oi-]{+ó+}s[- -]{+-c+}o[- mé-]{+i+}to[-do-]{+.+} [-nã-]{+P+}o[- depen-]de [-d-]{+s+}e[- fato-]r[-es-] associado[-s-] [-a-]o[- -]u[-so-] [-r-]{+nã+}o[-t-]{+ à +}in{+g+}e[-ir-]{+stã+}o[-.-] [-O-]{+de+} [-í-]{+a+}n[-d-]{+t+}i[-c-]e{+mético.+} {+Po+}de [-P-]{+s+}e{+r +}a{+dminist+}r[-l-]{+ado+} {+at+}é [-de-]{+o+} [-0-]{+5º+} {+di+}a [-0,2-]{+após+} a[-o-] {+rel+}a[-n-]{+çã+}o [-d-]{+sex+}u[-r-]a{+l. E+}nt{+r+}e[- os 5 -]{+t+}an{+t+}o{+, a +}s{+ua+} [-d-]e{+ficácia+} [-p-]{+é inv+}er[-m-]{+s+}a{+me+}n[-ên-]{+te propor+}ci{+on+}a{+l+} [-d-]{+a+}o [-dis-]{+tem+}po[-s-]{+ decorr+}i{+do da a+}tiv[-o.-]
+
+[- -]
+[-F-]i[-g-]{+dade sex+}u[-r-]a{+l.+} [-7-]{+Taxa+} [---]{+de+} [-Si-]{+ge+}st[-em-]a{+ção: 1,1%;+}
+ {+Reg+}i{+me co+}ntra[-ut-]{+c+}e[-r-]{+pt+}i[-n-]{+v+}o com[- li-]b[-er-]{+in+}a[-çã-]{+d+}o [-con-]{+(mé+}t[-ínua-]{+odo+} de {+YUZPE): +}levonorgestrel[-	-]
+[-O-] [-objetivo-]{+500µg+} [-do-]{+++} [-sist-]e[-ma intrau-]t[-er-]in[-o l-]i[-b-]{+l+}e{+st+}rad{+i+}o[-r de -]l[-evonor-]{+ 100µ+}g[-estrel-]{+,+} e[-ra-]{+m 2+} {+to+}ma[-nter -]{+d+}a{+s+} [-p-]{+(+}a{+ +}c[-iente-]{+ada+} [-em-]{+12+} [-amen-]{+h+}or[-rei-]a{+s)+}. [-Entretanto, os-]{+A 1ª+} [-estu--]dos{+e+} {+d+}ev[-i-]{+e ser, +}de{+ preferê+}ncia[-m que-]{+,+} [-some-]n[-te 20% d-]as [-usuá-]{+p+}ri[-as -]{+m+}e[-nt-]{+i+}ra[-m-]{+s+} [-em-]{+72+} [-amen-]{+h+}or[-rei-]a{+s+} p[-lena n-]{+ós-c+}o{+ito.+} [-1º -]{+Tax+}a[-no-] de [-uso -]{+g+}e[- 50% no-]s[- -]{+t+}a[-n-]{+çã+}o[-s-]{+:+} [-subsequ-]{+3,2%;+}
+{+Ac+}e[-n-]t{+ato d+}e[-s.-] [-A-]{+uli+}pr[-e-]{+i+}s[-en-]ta[- va-]l[-idade-]{+:+} {+mo+}d[-e 5 -]{+ul+}a[-n-]{+d+}o[-s e-]{+r+} {+d+}o re{+cep+}tor[-no-] [-à fertilida-]de [-a-]p[-ó-]{+roge+}s[- -]{+teron+}a{+.+} [-s-]{+Inibe o+}u[-a-] [-re-]{+a+}t[-i-]ra[-d-]{+s+}a [-é-]{+a+} [-q-]{+ov+}u{+l+}a[-se-]{+ção+} [-im-]e[-di-]{+ +}a{+l+}t[-o.-]
+
+[-E --]{+era+} [-C-]o{+ e+}n{+domé+}tr[-acepçã-]{+i+}o{+.+} [-de-]{+Uso+} {+pr+}e[-m-]{+f+}er[-gê-]{+e+}ncia[-Indicada-]{+l+} [-par-]a{+té 72+} {+ho+}r[-el-]a[-çõe-]s {+pó+}s[-e-]{+-coito. Ta+}x[-u-]a[-is-] de{+ ge+}s[-pro-]t[-egid-]a[-s-]{+ção:+} [-(falh-]{+1,5%. N+}a [-d-]{+Eur+}o{+pa, seu+} uso [-d-]{+é +}a{+provado por+} a[-n-]t[-ic-]{+é 120 h+}o[-nce-]{+ras +}p[-çã-]{+ós-coit+}o{+.+} {++}
+{+Imp+}o[-u-]{+rtante+} {+lembr+}a{+r:+}
+{+M+}u{+lhere+}s[-ên-]{+ +}c{+om histór+}ia de[-la)-] [-e-]{+AVE,+} [-cas-]{+tromboemb+}o{+li+}s{+mo,+} d{+iabet+}e{+s+} [-vi-]{+c+}o[-lên-]{+m +}c{+ompl+}i{+c+}a{+ções+} {+va+}s[-ex-]{+c+}u[--a-]l[-,-]{+ares+} [-é-]{+e+} [-co-]{+e+}n{+xaqueca +}s[-id-]{+ev+}era[-da-] [-nã-]{+p+}o{+dem+} {+us+}a[-bo-]r[-tiva-] [-p-]{+CE de lev+}o[-r -]n[-ã-]o[- a-]{+r+}g[-i-]{+est+}r[- na-]{+el+} i[-mp-]{+so+}la[-ntação -]do{+;+}
+{+A+} [-bl-]{+únic+}a[-sto-]{+ +}c[-ist-]o[-; a-]{+n+}t[-u-]{+r+}a[- inib-]ind[-o a ovul-]{+ic+}ação {+a+}o[-u-] [-adeq-]u[-ad-]{+s+}o de[-senvolvi-mento-] [-do-]{+CE+} co[-rpo-]{+m+} l[-út-]e{+v+}o[-, do e-]n[-d-]o[-mé-]{+rges+}tr[-io-]{+el+} {+is+}o[-u -]{+la+}do [-muco-]{+é+} [-ce-]{+g+}r{+a+}vi[-cal,-]{+dez+} {+c+}o[-u alte-]{+nfi+}r{+m+}a[-n-]d{+a;+}
+{+Nã+}o [-a-]{+há+} [-fisi-]{+c+}o[-l-]{+mpr+}o[-gi-]{+v+}a{+ção+} d[-as-]{+e+} t[-ub-]{+er+}a[-s u-]t{+og+}e[-ri-]n{+icid+}a[-s-]{+de+} {+n+}o{+ +}u{+so+} d{+e CE c+}o[-s-]{+m+} {+l+}e[-spermat-]{+v+}o[-z-]{+n+}o[-i-d-]{+rg+}es[-.-]
+[-U-]t[-i-]{+re+}l{+ +}i[-za--]s{+olado;+}
+{+Ef+}e[- 1-]{+itos+} co[-mp-]{+late+}r{+a+}i[-mido-]{+s+} d[-e-]{+o+} levonorgestrel [-(0,75 mg) a c-]{+isol+}ad[-a 12 h-]o[-ras-]{+:+} {+náus+}e[-m 2 tomad-]as [-ou-]{+(40+} [-2-]{+a+} [-compri-]{+50%), vô+}mi[-d-]{+t+}os{+,+} {+vertig+}em{+,+} [-dos-]{+cefal+}e[- ún-]i[-c-]a [-(o qu-]e [-equiv-]{+mast+}al[-e -]{+gi+}a[- 1-],[-5-] {+co+}m[-g-] [-d-]{+r+}e{+missão+} [-l-]e[-v-]{+sp+}on[-orges-]t[-r-]{+ân+}e[-l), o-]{+a+} [-m-]{+n+}a[-i-]s pr{+im+}e[-c-]{+iras 24 h+}o[-ce-]{+ras após sua ad+}m[-e-]{+i+}n{+is+}t[-e-]{+ração.+}
+{+Há+} poss[-íve-]{+ibi+}l[-.-]{+idade+} [-Po-]de {+in+}ser[- ass-]{+çã+}o[-cia-]{+ +}d[-o-]{+e+} [-ou-]{+DIU+} [-nã-]{+de c+}o{+bre+} [-à-]{+como+} [-ingest-]{+opç+}ão de [-antieméti-co-]{+CE+}.[- -]{++}
+{++}
+Pergunta{++}
+2013 - UERJ{++}
+1. Com relação ao mecanismo de ação da contracepção de emergência (levonorgestrel 1,5mg em dose única), é in{+-+}correto afirmar que: {++}
+a) na 2ª fase do ciclo menstru{+-+}al, atua modificando o muco cervical{++}
+b) na 1ª fase do ciclo menstru{+-+}al, atua impedindo ou retar{+-+}dando a ovulação{++}
+c) na 1ª fase do ciclo menstru{+-+}al, atua alterando o desenvol{+-+}vimento dos folículos{++}
+d) na 2ª fase do ciclo menstru{+-+}al, atua dificultando a implan{+-+}tação no endométrio{++}
+Resposta no final do capítulo[-O esquema alternativo de Yuzpe consiste em 2 pílulas consideradas de média dose a cada 12 horas por 1 dia ou 4 pílulas de baixa dose a cada 6 horas por 1 dia.-]{++}
+{++}
+A RU-486, ou mifepristona, inibe a ação da progesterona. Ingerida até 7 semanas a contar do 1º dia da última menstru[-a-]-{+a+}ção, impede a fixação e a manutenção do embrião no útero. A eficiência como abortivo sobe para 97% quando associ{+-+}ada à prostaglandina, substância que faz o útero contrair. Adotada como alternativa ao aborto cirúrgico nos países que autorizam a interrupção da gravidez, a RU-486 está proibida no Brasil, ao contrário do [-contraceptivo de emergência-]{+CE+} à base de levonorges[---]trel.{++}
+Tabela [-5-]{+13+} - Critérios de elegibilidade da Organização Mundial da Saúde para início e continuidade de contraceptivos hormonais combina[---]dos orais{++}
+Categorias:{++}
+1 - Condição para a qual não há restrição para o uso do método.{++}
+2 - Condição em que há vantagens se sobrepondo ao risco teórico ou comprovado do uso do método.{++}
+3 - Condição em que o risco teórico se sobrepõe às vantagens do método.{++}
+4 - Condição que representa risco à saúde inaceitável para o uso do método contraceptivo.{++}
+1	2	3	4{++}
+Pós-aborto	--	--	Gravidez{++}
+--	=6 meses pós-parto	6 semanas a 6 me{+-+}ses pós-parto	Amamentação <6 semanas pós-parto{++}
+--	Pós-parto >21 dias sem amamentação	Pós-parto sem amamenta[---]ção <21 dias	--{++}
+Idade <40 anos	Idade >40 anos	--	--{++}
+--	Idade <35 anos, fu{+-+}mante	Idade >35 anos, fu{+-+}mante (até 10 cigar{+-+}ros/dia)	Idade >35 anos, fumante (mais de 10 cigarros/dia){++}
+História de pré-eclâmpsia	Hipertensão (140 a 159x90 a 99mmHg)	Hipertensão (160 a 79x100 a 109mmHg)	Hipertensão (=180x=110mmHg){++}
+Diabetes gestacional	-	Diabetes não insuli{+-+}node[---]pendente;{++}
+-	Diabetes insulinode{+-+}pen[---]dente sem doen{+-+}ça vascu[---]lar.	Nefropa-tia/retinopatia/neuropatia diabética	Nefropa{+-+}tia/retinopatia/neuropatia diabética/diabetes com mais de 20 anos de evolução{++}
+Varizes leves – trombose superfi{+-+}cial	Tromboflebite super{+-+}ficial	--	Trombose venosa profunda{++}
+--	Cirurgia sem imobili{+-+}zação prolongada	--	Cirurgia com imobilização prolon[---]gada{++}
+--	Valvulopatia não complica[---]da	--	Doença isquêmica do mio{+-+}cár[---]dio/valvulopatia compli{+-+}cada com hipertensão pul{+-+}monar/fibrilação arteri{+-+}al/endocardite bacteriana{++}
+--	--	Hiperlipidemias	Acidente vascular cerebral{++}
+Enxaqueca leve	Enxaqueca grave	--	Enxaqueca recorrente com sintomas focais neurológicos{++}
+Doença benigna da mama/história fami[---]liar de câncer de mama	Tumor de mama sem diag[---]nóstico	Passado de câncer de mama sem evidência de recidiva há 5 anos ou mais	Câncer de mama{++}
+Câncer de ovário/câncer endome{+-+}trial	Neoplasia intraepite{+-+}lial de colo	--	--{++}
+Padrão menstrual irregular com hiper[---]menorreia ou hipermenorra{+-+}gia	Câncer cervical	Sangramento uterino de origem desconhe{+-+}cida	--{++}
+- D[-oença inflamatória pélvica-]{+IP+}:{++}
+· Passada;{++}
+· Com gestação subsequente; {++}
+· Sem gestação subsequente.{++}
+- Risco aumentado para [-doença inflama-tória pélvica-]{+DIP+}.	--	--	--{++}
+- DST:{++}
+· Atual;{++}
+· Sem gestação;{++}
+· Secreção mucopurulenta.{++}
+- Risco aumentado para DST; {++}
+- HIV positivo/AIDS.	--	--	--{++}
+Passado de hepatite viral	- Doença do trato bili{+-+}ar sintomática:[-   -]{++}
+· Ativa;[-   -]{++}
+· Passiva.{++}
+- Colestase.	Colestase pós-uso de anti[---]concepcio{+-+}nal/cirrose com[---]pen{+-+}sada	Cirrose descompensa{+-+}da/tumor benigno do fíga{+-+}do/tumor maligno do fígado{++}
+Fibrose uterina	--	--	--{++}
+Passado de gravidez ectópica	--	--	--{++}
+Obesidade	--	--	--{++}
+- Hipertireoidismo;{++}
+- Hipotireoidismo.	--	--	--{++}
+- Doença trofoblástica benigna;{++}
+- Doença trofoblástica maligna.	--	--	--{++}
+Anemia ferropriva	Talassemia	--	--{++}
+Epilepsia	--	--	--{++}
+Esquistossomose/fibrose hepática leve	--	--	--{++}
+Malária	--	--	--{++}
+Tuberculose pélvica/tuberculose não pélvica	--	--	--{++}
+Endometriose	--	--	--{++}
+Tumor benigno de ovário, inclusive cisto	--	--	--{++}
+Cirurgia pélvica anterior	--	--	--{++}
+{++}
+Pergunta{++}
+2013 - HSPE (B[-ASEADA-]{+aseada+} [-NA-]{+na+} [-PROVA-]{+prova+}){++}
+2. Considerando os critérios médicos de elegibilidade desenvolvidos pela Organiza{+-+}ção Mundial da Saúde para uso de anticoncepcionais orais (ACOs), assinale a alter{+-+}nativa correta:{++}
+a) com relação ao uso de ACO somente de progesterona, elementos como múltiplos fatores de risco para doença cardio[---]vascular (idade avançada, fumo, hipertensão e diabetes), nódulo mamário sem diagnóstico ou PA sistólica >160 ou PA diastólica >100 ou doença vascular levam a paciente a categoria 4{++}
+b) doenças como cardiopatia isquêmica, cirrose hepática descompensada e aciden{+-+}te vascular cerebral prévio enquadram a paciente na categoria 4 quando conside{+-+}rado o uso de ACO combinado de baixa dose{++}
+c) a gravidez enquadra a paciente na categoria 1 em caso de anticoncepção de emergência{++}
+d) varizes, epilepsia e endometriose levam a categoria 3 no uso de ACO combinado{++}
+e) câncer de mama em andamento leva o paciente a ser classificado na categoria 2 no uso de ACO de progesterona{++}
+Resposta no final do capítulo[-4. -]{++}
+{++}
+Resumo {++}
+{++}
+Quadro-resumo{++}
+Índice de Pearl{++}
+Número de gestações ocorridas em 100 usuárias de um método contraceptivo por ano{++}
+Classes de métodos contraceptivos {++}
+- Hormonais:{++}
+· Contraceptivos hormonais orais: contraceptivos de progestogênio exclusivo (minipílula) indicados ao período de amamentação e con[---]traceptivos orais combinados;{++}
+· Injetáveis: mensais (compostos de estrogênios naturais e progestogênios) ou trimestrais (progestogênios exclusivos); {++}
+· Transdérmicos (adesivo) e anel vaginal: compostos mistos de estrogênios sintéticos e progestogênios;{++}
+· Implantes: contêm progestogênio exclusivo liberado em microdoses diárias; {++}
+· S[-istema intrauterino liberador de levonorgestrel-]{+IU-LNG+}: liberação de progestogênio continuamente no útero;{++}
+· Contracepção de emergência: mais comumente, 1 comprimido de levonorgestrel (700mg) a cada 12 horas em 2 to{+-+}madas ou 2 com[---]primidos em dose única, o mais precocemente possível.{++}
+- Não hormonais: {++}
+· Barreira:{++}
+* Preservativo e camisinha feminina: os únicos métodos anticoncepcionais que protegem contra DST;{++}
+* Diafragma: objeto em formato de concha, colocado sobre o colo uterino, ocluindo o canal cervical;{++}
+* Espermicida (ou espermaticida): tem como ação imobilizar e destruir os espermatozoides;{++}
+* Esponja vaginal: absorção do sêmen e bloqueio da entrada dos espermatozoides no canal cervical.{++}
+· DIU: método contraceptivo alojado dentro da cavidade uterina. Atualmente, os modelos disponíveis são o DIU de co{+-+}bre ou o sistema liberador de levonorgestrel[-.-]{+;+}
+· Comportamentais:{++}
+* “Tabelinha”: abstinência periódica nos dias considerados férteis;{++}
+* Coito interrompido: ejaculação extravaginal;{++}
+* Muco cervical: observação das suas características; mais fluido e elástico no período fértil;{++}
+* Temperatura basal: em caso de elevação de cerca de 0,5°C na medida da temperatura basal, indica-se a ovulação (abster-se de re[---]lações sexuais desde a menstruação até 3 dias após a elevação da temperatura);{++}
+* Método sintotérmico: associação dos métodos do muco cervical e temperatura basal ou muco cervical e “tabeli{+-+}nha”.{++}
+· Definitivos:{++}
+* LT: as tubas podem ser cauterizadas, seccionadas, ou pode-se optar por um anel tubário ou grampo;{++}
+* Vasectomia: método contraceptivo definitivo masculino;{++}
+* Implante endotubário: outra possibilidade para contracepção definitiva feminina.{++}
+Mecanismos de ação dos métodos contraceptivos hormonais combinados de estrogênios e progestogênios {++}
+(anticoncepcionais/injetáveis mensais/transdérmicos/anel vaginal){++}
+- Espessamento do muco cervical;{++}
+- Hipotrofia endometrial;{++}
+- Alteração da motilidade tubária;{++}
+- Inibição da secreção de LH pela progesterona;{++}
+- Inibição da secreção de FSH pelos estrogênios;{++}
+- Inibição do eixo hipotalâmico-hipofisário-ovariano.{++}
+Mecanismos de ação dos contraceptivos exclusivos de progestogênios {++}
+(minipílula, implante subcutâneo, sistema intrauterino de levonorgestrel){++}
+- Espessamento do muco cervical;{++}
+- Diminuição da motilidade tubária;{++}
+- Hipotrofia endometrial.{++}
+{++}
+Respostas[-1. D-]
+[-2. B-]
+
+[-Dica-]
+[-Para fixar o que estu-]{++}
+d[-ou neste capítulo, teste seus conhecimentos resolvendo -]as questões [-referentes a-]{+d+}o [-tem-]{+c+}a[-.-]
+[-Questões: -]p[-ágina XX-]
+[-Comen-]{+í+}t[-ári-]{+ul+}o[-s:-]{++}
+{+1.+} [-página-]{+D+}
+{+2.+} [-XX-]{+B+}
