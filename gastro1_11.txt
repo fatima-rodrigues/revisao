@@ -1,75 +1,131 @@
-Câncer gástrico
-Fábio Carvalheiro / Eduardo Bertolli
-Allan Garms Marson / Yeda Mayumi Kuboki
-Rodrigo Biscuola Garcia / Lúcia C. Barcellos Kunen
 
-Resumo
-Neste capítulo, será abordado o câncer de estômago. Esse é o 2º tipo de tumor do trato digestivo mais cobrado nos concur-sos médicos, principalmente em questões sobre fatores de risco, tipos histológicos e tratamento cirúrgico. O principal tipo histológico na neoplasia gástrica é o adenocarcinoma, por representar 94% dos casos de neoplasia maligna do estômago, sendo em 1980 a principal causa de mortalidade por neoplasia; hoje, ocupa a 2ª posição. Os tipos de câncer gástrico intes-tinal e difuso, pela classificação histológica de Lauren, são 2 entidades biológicas que diferem quanto a epidemiologia, etio-logia, patogênese e comportamento. O desenvolvimento é multifatorial e envolve aspectos ambientais e genéticos . O tipo intestinal é mais comum entre homens e idosos, é mais prevalente em áreas de alto risco e provavelmente ligado a fatores do meio ambiente. Já o tipo difuso é igualmente frequente em ambos os sexos, mais comum em jovens, e de pior prognós-tico do que o intestinal. O tipo difuso é responsável, atualmente, por 30% dos casos de carcinoma gástrico. Dentre os fato-res de risco, no tipo intestinal há gastrite atrófica, metaplasia intestinal e displasia. Quanto ao quadro clínico, somente 50% dos diagnosticados com câncer gástrico têm doença confinada ao sítio locorregional, e somente metade daqueles com doença aparentemente regional podem realizar cirurgia potencialmente curativa. Cânceres cirurgicamente curáveis são geralmente assintomáticos. A endoscopia digestiva alta é o método diagnóstico de escolha, e aplica-se a classificação de Borrmann, que divide o carcinoma gástrico avançado em 4 tipos, segundo o aspecto macroscópico; e, além de fazer a análi-se, já possibilita o início do estadiamento, indicando se o tumor é precoce ou avançado, seu tamanho e sua localização. A Tomografia Computadorizada (TC) de abdome é um método muito eficaz, tanto para tumores menores como avançados. Possibilita a avaliação de metástases hepáticas, da presença de linfonodos aumentados e de invasão de estruturas adjacen-tes, fazendo estadiamento locorregional. O estadiamento abdominal final é feito no intraoperatório e segue os critérios TNM. Relativo ao tratamento, a cirurgia-padrão com intuito curativo é a gastrectomia com linfadenectomia D2, isto é, linfa-denectomia estendida determinada sempre pela localização do tumor. Portanto, uma linfadenectomia D2 de um tumor de fundo gástrico não retira os mesmos linfonodos de uma linfadenectomia D2 de um tumor de antro. Os fatores prognósticos são, em ordem de relevância, o estadio TNM, a diferenciação tumoral e o status da margem da ressecção.
+Neoplasia gástrica benigna e maligna
+Fábio Carvalheiro
+Eduardo Bertolli
+Allan Garms Marson
+Yeda Mayumi Kuboki
+Rodrigo Biscuola Garcia
+Lúcia C. Barcellos Kunen
 
-1. Epidemiologia
+
+Neste capítulo, serão abordadas as neoplasias gástricas benignas e malignas. Entre as lesões não epiteliais benignas, abordaremos lipomas, leiomiomas, schwannomas, hemangiomas, tumores de células granulares, pâncreas ectópico, cisto gástrico e duplicação cística gástrica. Os lipomas podem ocorrer em todo o trato gastrintestinal, mas são mais comuns no trato gastrintestinal baixo. No estômago são raros (<5% dos lipomas gastrointestinais). Os leimomiomas são os tumores gástricos benignos mais comuns. Originam-se da camada muscular própria ou, raramente, da muscular da mucosa. Hemangiomas intra-abdominais são raros fora do fígado, sendo o gástrico responsável por <0,05% de todas as neoplasias gastrintestinais. Há 2 tipos de hemangioma: o cavernoso, mais comum, e o capilar. Tumor de células granulares é tumor submucoso raro, com origem nas células de Schwan, podendo ocorrer em qualquer parte do trato gastrintestinal, mas a maioria ocorre no esôfago, sendo incomum no estômago. Pâncreas ectópico é definido como a presença de tecido pancreático que não possui continuidade anatômica ou vascular com o corpo do pâncreas. Ocorre usualmente no estômago (60 a 70%), na grande curvatura junto à parede posterior do antro. Schwannoma é neoplasia rara da bainha dos nervos, podendo ser lesões grandes, subepiteliais, crescendo para luz gástrica e, raramente, apresentam hemorragia digestiva. Possui marcadores positivos para proteína S-100. Cistos de duplicação são lesões congênitas rara, geralmente assintomáticos nos adultos. Na endoscopia observa-se lesão submucosa, macia, na grande curvatura. O câncer de estômago é o 2º tipo de tumor do trato digestivo mais cobrado nos concursos médicos, principalmente em questões sobre fatores de risco, tipos histológicos e tratamento cirúrgico. O principal tipo histológico na neoplasia gástrica é o adenocarcinoma, por representar 94% dos casos de neoplasia maligna do estômago, sendo em 1980 a principal causa de mortalidade por neoplasia; hoje, ocupa a 2ª posição. Os tipos de câncer gástrico intestinal e difuso, pela classificação histológica de Lauren, são 2 entidades biológicas que diferem quanto a epidemiologia, etiologia, patogênese e comportamento. O desenvolvimento é multifatorial e envolve aspectos ambientais e genéticos. O tipo intestinal é mais comum entre homens e idosos, é mais prevalente em áreas de alto risco e provavelmente ligado a fatores do meio ambiente. Já o tipo difuso é igualmente frequente em ambos os sexos, mais comum em jovens, e de pior prognóstico do que o intestinal. O tipo difuso é responsável, atualmente, por 30% dos casos de adenocarcinoma gástrico. Dentre os fatores de risco, no tipo intestinal há gastrite atrófica, metaplasia intestinal e displasia. Quanto ao quadro clínico, somente 50% dos diagnosticados com câncer gástrico têm doença confinada ao sítio locorregional, e somente metade daqueles com doença aparentemente regional podem realizar cirurgia potencialmente curativa. Cânceres cirurgicamente curáveis são geralmente assintomáticos. A endoscopia digestiva alta é o método diagnóstico de escolha, e aplica-se a classificação de Borrmann, que divide o carcinoma gástrico avançado em 4 tipos, segundo o aspecto macroscópico; e, além de fazer a análise, já possibilita o início do estadiamento, indicando se o tumor é precoce ou avançado, seu tamanho e sua localização. A Tomografia Computadorizada (TC) de abdome é um método muito eficaz, tanto para tumores menores como avançados. Possibilita a avaliação de metástases hepáticas, da presença de linfonodos aumentados e de invasão de estruturas adjacentes, fazendo estadiamento locorregional. O estadiamento abdominal final é feito no intraoperatório e segue os critérios TNM. Relativo ao tratamento, a cirurgia-padrão com intuito curativo é a gastrectomia com linfadenectomia D2, isto é, linfadenectomia estendida determinada sempre pela localização do tumor. Portanto, uma linfadenectomia D2 de um tumor de fundo gástrico não retira os mesmos linfonodos de uma linfadenectomia D2 de um tumor de antro. Os fatores prognósticos são, em ordem de relevância, o estadio TNM, a diferenciação tumoral e o status da margem da ressecção. O envolvimento extranodal dos linfomas ocorre predominantemente no trato gastrintestinal, sendo o linfoma primário raro, enquanto o secundário é relativamente comum. O estômago costuma ser o local mais acometido (68 a 75% dos casos), sendo o linfoma gástrico responsável por 3% das neoplasias gastrintestinais e 10% dos linfomas. A infecção pelo H. pylori está altamente associada com o desenvolvimento do linfoma MALT (mucosa associated lymphoid tissue). O tratamento do linfoma MALT gástrico é baseado no estadio da doença e presença do H. pylori. 
 
-Denomina-se como câncer gástrico o adenocarcinoma, por representar 94% dos casos de neoplasia maligna de estômago. Dentre as outras causas, estão linfoma, tumor estromal (GIST), outros sarcomas que não linfoma nem GIST, leiomiossarcoma, leiomioblastoma, hemangiopericitoma, rabdomiossarcoma, plasmocitoma, sarcoma granulocítico, teratoma maligno e, por último, carcinossarcoma. Em 1980, foi a principal causa de morte por neoplasia e, atualmente, ocupa a 2ª posição. No Brasil, está entre as 3 primeiras causas de morte por câncer no sexo masculino e as 5 primeiras no feminino. Acomete principalmen-te homens, à proporção de 2:1, e é mais frequente entre 50 e 70 anos, com pico por volta dos 70 anos para ambos os sexos.
+1. Neoplasia gástrica benigna
+	As lesões gástricas benignas são divididas em epiteliais (pólipos hiperplásicos, de glândulas fúndicas, hamartomas, pólipo fibroide, adenoma e carcinoide) e não epiteliais (GIST, lipomas, leiomiomas, schwannomas, hemangiomas, tumores de células granulares, pâncreas ectópico, cisto gástrico e duplicação cística gástrica). Neste capítulo, abordaremos as lesões não epiteliais, exceto o GIST.
+
+	A - Lipoma
+	Os lipomas podem ocorrer em todo o trato gastrintestinal, mas são mais comuns no trato gastrintestinal baixo. No estômago são raros (<5% dos lipomas gastrintestinais). São tumores encapsulados compostos por tecido adiposo e originam-se normalmente na camada submucosa. Costumam ser assintomáticos, mas podem ocorrer hemorragia, obstrução intestinal e dor abdominal. A maioria possui crescimento endoluminal e aspecto subpediculado, mais comuns no antro gástrico, observando-se à endoscopia lesão subepitelial com mucosa que o recobre normal, amarelada, macia ao toque da pinça e com o “sinal do travesseiro” (quando tocado pela pinça de biópsia, tende a baixar o centro e elevar as bordas). A biópsia costuma revelar mucosa normal. À ultrassonografia endoscópica, possui característica de lesão hiperecoica homogênea que se origina na camada submucosa (Figura 1). Não possui potencial de malignidade. Não há indicação de acompanhamento endoscópico, e excisão local só é indicada aos sintomáticos ou que não podem ser diferenciados de malignidade. 
 
  
-Figura 1 - Visão endoscópica de câncer gástrico de aspecto infiltrativo e estenosante
+Figura 1 - Lipoma gástrico na endoscopia
+Fonte: www.endoatlas.com.
 
-Observa-se redução progressiva na incidência mundial, principalmente nos países desenvolvidos, devido ao aumento do uso de refrigeradores, à diminuição na ingesta de defumados e ao aumento na ingesta de vitaminas, o que se deve à melhoria das condições alimentares; entretanto, apresenta alta prevalência em países da Ásia, como Japão e Coreia, além de locais como Costa Rica e Chile. O desenvolvimento é multifatorial e envolve aspectos genéticos e ambientais (Tabela 1).
+	B - Leiomioma
+	Os leiomiomas são os tumores gástricos benignos mais comuns. Originam-se da camada muscular própria ou, raramente, da muscular da mucosa. São mais frequentes em homens, entre os 20 e 59 anos. Costumam ser assintomáticos ou com sintomas inespecíficos (distensão, saciedade precoce), mas podem sangrar ou apresentar dor abdominal. Apresentam-se geralmente de forma ovalada, mas podem ser arredondados, “em ferradura” e anulares, mais na metade distal do estômago. À endoscopia, a mucosa que o recobrem costuma ser intacta e aparece como massa que protrui para o lúmen e de consistência endurecida (Figura 2). Pode haver crescimento exofítico da lesão. Microscopicamente são formados por fascículos de células fusiformes se atipia nuclear, com núcleo centralizado e oval. A ultrassonografia endoscópica é o exame diagnóstico de eleição, visualizando lesão hipoecoica e homogênea originada da camada muscular. Biópsia por agulha fina pode ser realizada se há dúvida da benignidade da lesão. Ressecção costuma ser indicada em casos sintomáticos, quando há incerteza quanto à benignidade da neoplasia, lesões >2cm ou com crescimento contínuo. Lesões pequenas e assintomáticas costumam ser acompanhadas com ultrassonografia endoscópica a cada 6 a 12 meses.
+
+ 
+Figura 2 - Leiomioma no corpo gástrico na retrovisão endoscópica 
+Fonte: Gastrolab.
+ 
+	C - Hemangioma
+	Hemangiomas intra-abdominais são raros fora do fígado, sendo o gástrico responsável por <0,05% de todas as neoplasias gastrintestinais. Há 2 tipos de hemangioma: o cavernoso, mais comum, e o capilar. Na verdade, trata-se de tecido hamartomatoso de provável origem congênita. Raramente são sintomáticos, mas pode ocorrer hemorragia digestiva. Na endoscopia apresenta aspecto vinhoso ou azulado, podendo se esvaziar quando se realiza pressão com o endoscópio (Figura 3). Biópsias nunca devem ser realizadas, pelo risco de hemorragia. A ultrassonografia endoscópica geralmente consegue determinar a origem vascular do tumor. Cirurgia é o tratamento curativo nas lesões sintomáticas, podendo ser realizada ressecção em cunha, gastrectomia parcial ou total.
+
+ 
+Figura 3 - Hemangioma cavernoso localizado no corpo gástrico à endoscopia 
+Fonte: www.jocmr.org.
+
+	D - Tumor de células granulares
+	São tumores submucosos raros, com origem nas células de Schwann, podendo ocorrer em qualquer parte do trato gastrintestinal, mas a maioria ocorre no esôfago, sendo incomum no estômago. Na imuno-histoquímica, são positivos para proteína S-100. São considerados benignos, mas malignidade é descrita naqueles com mais 4cm. Costumam ser assintomáticos, mas podem sangrar ou causar obstrução. Na endoscopia, costumam ser nódulos pequenos isolados ou polipoides, com mucosa normal e amarelada (Figura 4). À ultrassonografia endoscópica, as lesões são hipoecoicas e homogêneas originadas da mucosa/submucosa. Os assintomáticos são seguidos por ultrassonografia endoscópica a cada 1 a 2 anos. Aqueles pequenos e limitados à mucosa podem ser ressecados por endoscopia. Ablação térmica pode ser indicada. Nos sintomáticos e >4cm, a cirurgia deve ser considerada.
+
+ 
+Figura 4 - Tumor de células granulares observado na cárdia à retrovisão endoscópica 
+Fonte: www.endoatlas.com.
+
+	E - Pâncreas ectópico
+	É definido como a presença de tecido pancreático que não possui continuidade anatômica ou vascular com o corpo do pâncreas. Ocorre usualmente no estômago (60 a 70%), na grande curvatura junto à parede posterior do antro. Geralmente é lesão submucosa, firme, amarelada, com umbilicação central (Figura 5). À ultrassonografia endoscópica, aparece como lesão hipoecoica heterogênea, originada da 3ª ou 4ª camada. Histologicamente contém ductos pancreáticos excretórios e glândulas exócrinas. Costuma ser assintomático, mas pode apresentar ulceração mucosa com hemorragia e raros casos de câncer. A conduta é expectante, indicando-se cirurgia apenas aos casos sintomáticos. 
+
+ 
+Figura 5 - Pâncreas ectópico na endoscopia 
+Fonte: jemis.rivisteclueb.it.
+
+	F - Schwannoma
+	Trata-se de neoplasia rara da bainha dos nervos, podendo apresentar lesões grandes, subepiteliais, crescendo para a luz gástrica e, raramente, manifesta hemorragia digestiva. Possui marcadores positivos para proteína S-100, e o tratamento costuma ser excisão radical do tumor. 
+
+ 
+Figura 6 - Schwannoma gástrico com ulceração central (seta preta)
+Fonte: www.jultrasoundmed.org.
+
+	G - Cistos de duplicação
+	Lesão congênita rara, geralmente assintomática nos adultos. Na endoscopia, observa-se lesão submucosa, macia, na grande curvatura. A ultrassonografia endoscópica é o melhor exame diagnóstico por evidenciar massa anecoide com todas as camadas da parede gástrica. A tomografia demonstra cisto com conteúdo líquido e estreita associação com a parede gástrica. O manejo dos assintomáticos pode ser expectante, mas ressecção pode ser indicada pelo risco de complicações (dor abdominal, sangramento) e de malignidade. 
+
+ 
+Figura 7 - Lesão de margens regulares aderente à parede posterior do fundo gástrico na tomografia de abdome, compatível com cisto de duplicação 
+Fonte: iv.iiarjournals.org.
+
+	2. Adenocarcinoma gástrico 
+
+	A - Epidemiologia
+	Denomina-se como câncer gástrico o adenocarcinoma, por representar 94% dos casos de neoplasia maligna de estômago. Dentre as outras causas, estão linfoma, tumor estromal (GIST), outros sarcomas que não linfoma nem GIST, leiomiossarcoma, leiomioblastoma, hemangiopericitoma, rabdomiossarcoma, plasmocitoma, sarcoma granulocítico, teratoma maligno e, por último, carcinossarcoma. Em 1980, foi a principal causa de morte por neoplasia e, atualmente, ocupa a 2ª posição. No Brasil, está entre as 3 primeiras causas de morte por câncer no sexo masculino e as 5 primeiras no feminino. Segundo a estimativa do INCA para 2016, é a 4ª causa de câncer mais comum em homem e a 5º em mulher. Acomete principalmente homens, à proporção de 2:1, e é mais frequente entre 50 e 70 anos, com pico por volta dos 70 anos para ambos os sexos.
+
+  
+Figura 8 - Visão endoscópica de câncer gástrico de aspectos infiltrativo e estenosante
+
+	Observa-se redução progressiva na incidência mundial, principalmente nos países desenvolvidos, devido ao aumento do consumo de refrigeradores, à diminuição na ingesta de defumados e ao aumento na ingesta de vitaminas, o que se deve à melhoria das condições alimentares; entretanto, apresenta alta prevalência em países da Ásia, como Japão e Coreia, além de locais como Costa Rica e Chile. O desenvolvimento é multifatorial e envolve aspectos genéticos e ambientais (Tabela 1).
 
 Dica
-Os tipos de câncer gástrico intestinal e difuso, pela classificação de Lauren, são 2 entidades biológicas que diferem quanto a epidemiologia, etiologia, patogênese e comportamento. 
+Os tipos de câncer gástrico, intestinal e difuso, pela classificação de Lauren, são 2 entidades biológicas que diferem quanto a epidemiologia, etiologia, patogênese e comportamento.
 
-Pela classificação de Lauren, os tipos de câncer gástrico são intestinal e difuso. O tipo intestinal é mais comum entre ho-mens e idosos, mais prevalente em áreas de alto risco e provavelmente ligado a fatores do meio ambiente. Já o tipo difuso é igualmente frequente em ambos os sexos, mais comum em jovens, e de pior prognóstico do que o intestinal – responsável, atualmente, por 30% dos casos de carcinoma gástrico.
-Houve declínio na incidência mundial do tipo intestinal nas décadas recentes, paralelo ao declínio na incidência geral do câncer gástrico. Em contraste, o declínio no tipo difuso é mais gradual. 
+	Pela classificação de Lauren, os tipos de câncer gástrico são intestinal e difuso. O tipo intestinal é mais comum entre homens e idosos, mais prevalente em áreas de alto risco e provavelmente ligado a fatores do meio ambiente. Já o tipo difuso é igualmente frequente em ambos os sexos, mais comum em jovens, e de pior prognóstico do que o intestinal – responsável, atualmente, por 30% dos casos de carcinoma gástrico.
+	Houve declínio na incidência mundial do tipo intestinal nas décadas recentes, paralelo ao declínio na incidência geral do câncer gástrico. Em contraste, o declínio no tipo difuso é mais gradual. 
 
-2. Fatores de risco
-
-A - Lesões precursoras para o tipo intestinal
-A sequência molecular não é completamente esclarecida, mas um modelo descreve progressão de gastrite crônica para gastrite atrófica, metaplasia intestinal, displasia e, eventualmente, adenocarcinoma (Figura 2).
-A gastrite crônica superficial de longa data, causada por H. pylori, anemia perniciosa ou dieta rica em sal, leva, eventual-mente, a gastrite atrófica crônica e metaplasia intestinal. A atrofia gástrica é acompanhada por perda da massa de células parietais e, portanto, redução na produção ácida (hipocloridria ou acloridria), diminuição no ácido ascórbico luminal (vitamina C) e aumento compensatório na gastrina sérica, um potente indutor da proliferação epitelial gástrica. Similarmente, a ressec-ção gástrica resulta em hipocloridria ou acloridria, hipergastrinemia secundária e refluxo de bile (principalmente Billroth II). O aumento no pH gástrico permite a colonização bacteriana capaz de converter os nitratos dietéticos em potentes compostos N-nitrosos mutagênicos. A Inflamação crônica resulta em dano celular, com aumento de radicais livres, redução nos níveis de vitamina C e aumento no turnover celular.
-
- 
-Figura 2 - Fatores predisponentes 
-
-B - Gastrite atrófica 
-Trata-se de uma desordem autoimune caracterizada por progressiva atrofia do epitélio glandular com perda de células pa-rietais e principais. Ocorrem hipocloridria e consequente aumento no pH, o que permite a colonização microbiana gástrica, levando a nitrosação, que é genotóxica. Também ocorre perda de células endócrinas que secretam fatores de crescimento transformadores e epidérmicos, os quais auxiliam o estômago na regeneração do dano tecidual. O risco de câncer nessa po-pulação varia de 3 a 18 vezes.
+B - Fatores de risco
+a) Lesões precursoras para o tipo intestinal
+	A sequência molecular não é completamente esclarecida, mas um modelo descreve progressão de gastrite crônica para gastrite atrófica, metaplasia intestinal, displasia e, eventualmente, adenocarcinoma (Figura 9).
+	A gastrite crônica superficial de longa data, causada por H. pylori, anemia perniciosa ou dieta rica em sal, leva, eventualmente, a gastrite atrófica crônica e metaplasia intestinal. A atrofia gástrica é acompanhada por perda da massa de células parietais e, portanto, redução na produção ácida (hipocloridria ou acloridria), diminuição no ácido ascórbico luminal (vitamina C) e aumento compensatório na gastrina sérica, um potente indutor da proliferação epitelial gástrica. Similarmente, a ressecção gástrica resulta em hipocloridria ou acloridria, hipergastrinemia secundária e refluxo de bile (principalmente Billroth II). O aumento no pH gástrico permite a colonização bacteriana capaz de converter os nitratos dietéticos em potentes compostos N-nitrosos mutagênicos. A Inflamação crônica resulta em dano celular, com aumento de radicais livres, redução nos níveis de vitamina C e aumento no turnover celular.
 
  
-Figura 3 - Endoscopia evidenciando gastrite atrófica com perda das pregas mucosas e exacerbação da trama vascular submucosa
-Fonte: Gastrocentro. 
+Figura 9 - Fatores predisponentes e protetores ao câncer gástrico
 
-C - Metaplasia intestinal
-Metaplasia é uma alteração potencialmente reversível de um tipo celular diferenciado para outro como um processo de adaptação ao estímulo do meio ambiente. No estômago, a metaplasia intestinal é a mais comum e decorre da infecção pelo H. pylori, do refluxo de bile ou quando induzida experimentalmente por radiação. Parece ser um precursor do tipo intestinal, encontrado em até 33% em populações de alto risco para câncer gástrico (Figura 4).
+b) Gastrite atrófica 
+	Trata-se de uma desordem autoimune caracterizada por progressiva atrofia do epitélio glandular com perda de células parietais e principais. Ocorrem hipocloridria e consequente aumento no pH, o que permite a colonização microbiana gástrica, levando a nitrosação, que é genotóxica. Também ocorre perda de células endócrinas que secretam fatores de crescimento transformadores e epidérmicos, os quais auxiliam o estômago na regeneração do dano tecidual. O risco de câncer nessa população varia de 3 a 18 vezes.
 
- 
-Figura 4 - Endoscopia evidenciando placas esbranquiçadas elevadas de aspecto metaplásico na mucosa gástrica do antro 
-Fonte: Gastrocentro. 
+  
+Figura 10 - Endoscopia evidenciando gastrite atrófica com perda das pregas mucosas e exacerbação da trama vascular submucosa
+Fonte: Gastrocentro.
 
-D - Displasia
-Pacientes com displasia de alto grau na mucosa gástrica já têm ou logo desenvolverão câncer. Entre os gastrectomizados por câncer, 20 a 40% tinham displasia associada. As taxas de progressão da displasia para o câncer são de 21% na leve, 33% na moderada e 57% na severa.
+c) Metaplasia intestinal
+	Metaplasia é uma alteração potencialmente reversível de um tipo celular diferenciado para outro como um processo de adaptação ao estímulo do meio ambiente. No estômago, a metaplasia intestinal é a mais comum e decorre da infecção pelo H. pylori, do refluxo de bile ou quando induzida experimentalmente por radiação. Parece ser um precursor do tipo intestinal, encontrado em até 33% em populações de alto risco para câncer gástrico (Figura 11).
 
-a) Fatores de risco ambientais
+  
+Figura 11 - Endoscopia evidenciando placas esbranquiçadas elevadas de aspecto metaplásico na mucosa gástrica do antro 
+Fonte: Gastrocentro.
+
+d) Displasia
+	Pacientes com displasia de alto grau na mucosa gástrica já têm ou logo desenvolverão câncer. Dentre os gastrectomizados por câncer, 20 a 40% tinham displasia associada. As taxas de progressão da displasia para o câncer são de 21% na leve, 33% na moderada e 57% na severa.
+
+- Fatores de risco ambientais
 
 Tabela 1 - Fatores de risco ambientais
 Dieta rica em sal	Parece causar dano à mucosa gástrica e aumento da carcinogênese.
-Compostos nitrosos	Dieta, tabaco e endógeno (40 a 75% da exposição total) aumentam o risco de câncer gástri-co.
+Compostos nitrosos	Dieta, tabaco e endógeno (40 a 75% da exposição total) aumentam o risco de câncer gástrico.
 Frutas, vegetais e fibras	Possuem papel protetor.
 Obesidade	Provoca aumento do risco quanto maior o índice de massa corpórea.
-Tabagismo	Aumenta o risco em 1,53 vezes, sendo maior entre homens.
+Tabagismo	Aumenta o risco em 1,53 vez, sendo maior entre homens.
 Ocupacional	Carvão, lata, ferro, aço; os dados são conflitantes.
-Helicobacter pylori	Considerado pela Organização Mundial da Saúde como fator carcinógeno definitivo do grupo 1. Parece que a bactéria desencadeia inflamação da mucosa que resulta em atrofia e meta-plasia intestinal, estando associada a aumento do risco de adenocarcinoma distal à cárdia em 6 vezes. Os principais genótipos do H. pylori associados a câncer gástrico são vacAs1, vacA m1 e cagA-positivo.
+Helicobacter pylori	Considerado pela Organização Mundial da Saúde como fator carcinógeno definitivo do grupo 1. Parece que a bactéria desencadeia inflamação da mucosa que resulta em atrofia e metaplasia intestinal, associada a aumento do risco de adenocarcinoma distal à cárdia em 6 vezes. Os principais genótipos do H. pylori associados a câncer gástrico são vacAs1, vacA m1 e cagA-positivo.
 Vírus Epstein-Barr	Está associado a grande número de malignidades, com possível papel no câncer gástrico (presente em 5 a 10% dos cânceres gástricos). Predomínio em homens, câncer de cárdia ou coto gástrico pós-cirúrgico, infiltração linfocítica, baixa frequência de meta linfonodal, talvez um prognóstico mais favorável, e histologia difusa.
 Status socioeconômico baixo	Indivíduos de baixo status socioeconômico têm risco 2 vezes maior do que a população geral.
 Cirurgia gástrica	Provoca aumento do risco, principalmente após 15 a 20 anos da cirurgia (risco relativo de 1,5 a 3). A anastomose à Billroth II carrega maior risco, provavelmente pela maior regurgitação de bile alcalina e suco pancreático.
 
-b) Fatores associados ao hospedeiro
+- Fatores associados ao hospedeiro
 
 Tabela 2 - Fatores relacionados ao hospedeiro
-Grupo sanguíneo	Indivíduos no grupo A têm 20% a mais de risco de câncer gástrico do que a população geral. Também pare-ce haver risco de anemia perniciosa, e alguns dados sugerem associação ao tipo gástrico difuso de câncer.
-Predisposição familiar	A maioria dos cânceres gástricos é esporádica, mas ocorre agregação familiar em cerca de 20% dos casos. O câncer verdadeiramente hereditário ocorre em 1 a 3% dos cânceres e compreende 3 síndromes: câncer gástrico hereditário difuso, adenocarcinoma gástrico e polipose gástrica proximal, além de câncer gástrico intestinal familiar. Polipose adenomatosa familiar, câncer colorretal hereditário não polipoide, síndromes de Cowden e Peutz-Jeghers e polipose juvenil também têm incidência aumentada. Com relação à genética, a ativação dos proto-oncogenes, formando os oncogenes, e a inativação dos genes supressores tumorais podem alterar a apoptose e desencadear o aparecimento de tumores.
+Grupo sanguíneo	Indivíduos no grupo A têm 20% a mais de risco de câncer gástrico do que a população geral. Também parece haver risco de anemia perniciosa, e alguns dados sugerem associação ao tipo gástrico difuso de câncer.
+Predisposição familiar	A maioria dos cânceres gástricos é esporádica, mas ocorre agregação familiar em cerca de 10% dos casos. O câncer verdadeiramente hereditário ocorre em 1 a 3% dos cânceres e compreende 3 síndromes: câncer gástrico hereditário difuso, adenocarcinoma gástrico e polipose gástrica proximal, além de câncer gástrico intestinal familiar. Polipose adenomatosa familiar, câncer colorretal hereditário não polipoide, síndromes de Cowden e Peutz-Jeghers e polipose juvenil também têm incidência aumentada. Com relação à genética, a ativação dos proto-oncogenes, formando os oncogenes, e a inativação dos genes supressores tumorais podem alterar a apoptose e desencadear o aparecimento de tumores.
 História familiar	Parentes em 1º grau de pacientes com carcinoma gástrico têm frequência 2 a 3 vezes maior de desenvolver a doença.
-Polimorfismo genético	Polimorfismo no gene da interleucina humana beta 1 (IL-1B) tem sido associado a risco aumentado de câncer gástrico. A IL-1B afetaria o desfecho nos pacientes infectados pelo H. pylori, por ser suprarregulada pela infecção e profundamente pró-inflamatória, e o inibidor ácido mais potente.
+Polimorfismo genético	Polimorfismo no gene da interleucina humana beta 1 (IL-1B) tem sido associado a risco aumentado de câncer gástrico. A IL-1B afetaria o desfecho nos infectados pelo H. pylori, por ser suprarregulada pela infecção e profundamente pró-inflamatória, e o inibidor ácido mais potente.
 Pólipos	Vide Tabela 4.
-Gastropatia hipertrófica e síndromes de imunodefici-ência	A associação não é confirmada.
+Gastropatia hipertrófica e síndromes de imunodeficiência	A associação não é confirmada.
 
 Tabela 3 - Proto-oncogenes envolvidos
 p53
@@ -80,19 +136,19 @@ DCC
 Localiza-se no braço longo do cromossomo 18. Sua alteração está presente em 30 a 60% dos pacientes com câncer gástrico.
 
 Tabela 4 - Pólipos gástricos e potencial pré-neoplásico
-Pólipos hiperplásicos	- São os mais comuns (75%), formados por epitélio foveolar alongado, dilatado e/ou cístico que parece ser epi-télio hiper-regenerativo em resposta a estímulo inflamatório. Costumam ser pequenos (variam de 0,1 a 1,5cm), múltiplos e localizados no antro (podem ocorrer no corpo, no fundo e na cárdia);
+Pólipos hiperplásicos	- São os mais comuns (75%), formados por epitélio foveolar alongado, dilatado e/ou cístico que parece ser epitélio hiper-regenerativo em resposta a estímulo inflamatório. Costumam ser pequenos (variam de 0,1 a 1,5cm), múltiplos e localizados no antro (podem ocorrer no corpo, no fundo e na cárdia);
 	- Muito baixo risco de transformação maligna (<2%);
 	- Acompanhamento endoscópico é indicado de acordo com fatores de risco para câncer gástrico.
 Pólipos adenomatosos	- Corresponde a 6 a 10% dos pólipos gástricos. Maior risco de transformação maligna; lesões planas têm risco de 6 a 21%, e lesões polipoides, de 20 a 75%;
 	- A maioria ocorre no antro (podem ocorrer no corpo e na cárdia); podem ser planos ou polipoides, variando de milímetros a vários centímetros. Podem ser tubulares, tubulovilosos ou vilosos e são neoplásicos e formados por células colunares displásicas com bordas estriadas. Estão frequentemente associados a gastrite crônica com metaplasia intestinal;
-	- O risco de transformação maligna e carcinoma invasivo aumentam com o tamanho, a histologia vilosa e a displasia de alto grau. Estima-se que de 8 a 59% dos adenomas estão associados a carcinoma gástrico sincrô-nico;
+	- O risco de transformação maligna e carcinoma invasivo aumentam com o tamanho, a histologia vilosa e a displasia de alto grau. Estima-se que de 8 a 59% dos adenomas estão associados a carcinoma gástrico sincrônico;
 	- Devem ser ressecados, pelo risco de câncer, e nova endoscopia deve ser realizada em 1 ano.
 Pólipos hamartomatosos	- É muito raro o câncer;
 	- São pólipos que se originam de elementos teciduais normalmente encontrados no sítio, mas que crescem em uma massa desorganizada.
 Pólipos inflamatórios	Sem potencial maligno
 Pólipos heterotópicos	- É raro o câncer;
 	- Por exemplo, no tecido pancreático heterotópico no estômago.
-Pólipos de glândulas fúndicas	- São pequenos (0,1 a 0,8cm), hiperêmicos, sésseis, planos ou nodulares, com superfície lisa. Ocorrem exclusi-vamente no corpo. Compostos por epitélio gástrico tipo corpo normal, arranjado em uma configuração desor-denada e/ou microcística; 
+Pólipos de glândulas fúndicas	- São pequenos (0,1 a 0,8cm), hiperêmicos, sésseis, planos ou nodulares, com superfície lisa. Ocorrem exclusivamente no corpo e são compostos por epitélio gástrico tipo corpo normal, arranjado em uma configuração desordenada e/ou microcística; 
 	- Ausência de potencial maligno quando associados ao uso de inibidor da bomba de prótons ou esporádicos, mas podem malignizar se associados às síndromes polipoides (1% de risco na polipose adenomatosa familiar);
 	- Seguimento endoscópico não é indicado nos esporádicos.
 
@@ -105,17 +161,16 @@ c) alcoolismo
 d) síndrome de Zollinger-Ellison
 e) uso prolongado de inibidores da bomba de prótons
 Resposta no final do capítulo
+
 - Câncer gástrico difuso hereditário
-Possui herança autossômica dominante, há mutação da E-caderina (gene CDH1) em 30 a 50% dos casos. 
-Os critérios diagnósticos para realizar teste genético são:
-- 2 ou mais parentes de 1º ou 2º grau com, pelo menos, 1 diagnóstico de câncer gástrico difuso histologicamente confir-mado antes dos 50 anos; ou
-- 3 parentes de 1º ou 2º grau diagnosticados com câncer gástrico difuso histologicamente confirmado em qualquer idade.
+	Possui herança autossômica dominante, com mutação da E-caderina (gene CDH1) em 25 a 50% dos casos. 
+	Os critérios diagnósticos para realizar teste genético são:
+		- 2 ou mais parentes de 1º ou 2º grau com, pelo menos, 1 diagnóstico de câncer gástrico difuso histologicamente confirmado antes dos 50 anos; ou
+		- 3 parentes de 1º ou 2º grau diagnosticados com câncer gástrico difuso histologicamente confirmado em qualquer idade.
+	Os pacientes com o câncer gástrico tipo difuso hereditário apresentam mutação que altera a E-caderina, uma proteína de adesão celular que age inibindo o crescimento tumoral, a invasão e as metástases. Quando ela é inativada, há ausência da adesão intercelular, levando à incapacidade de formar estruturas glandulares. Consequentemente, a célula cancerosa aumenta o seu potencial de invasão e de geração de metástases. O risco cumulativo de câncer está entre 40 e 67% nos homens e entre 60 e 83% nas mulheres, geralmente com desenvolvimento ao redor dos 38 anos. Carreadores assintomáticos da mutação têm risco suficientemente alto para indicação de gastrectomia profilática, geralmente após os 20 anos e antes dos 40. Naqueles diagnosticados com a mutação antes dos 20 anos se propõe endoscopia anual. Mulheres afetadas têm alto risco de câncer de mama lobular e devem ser submetidas a screening. 
 
-Os pacientes com o câncer gástrico tipo difuso hereditário apresentam mutação que altera a E-caderina, uma proteína de adesão celular que age inibindo o crescimento tumoral, a invasão e as metástases. Quando ela é inativada, há ausência da adesão intercelular, levando à incapacidade de formar estruturas glandulares. Consequentemente, a célula cancerosa au-menta o seu potencial de invasão e de geração de metástases. O risco cumulativo de câncer está entre 40 e 67% nos homens e entre 60 e 83% nas mulheres, geralmente com desenvolvimento ao redor dos 38 anos. Carreadores assintomáticos da mu-tação possuem risco suficientemente alto para indicação de gastrectomia profilática, geralmente após os 20 anos e antes dos 40. Naqueles diagnosticados com a mutação antes dos 20 anos, se propõe endoscopia anual. Mulheres afetadas têm alto risco de câncer de mama lobular e devem ser submetidas a screening. 
-
-3. Quadro clínico 
-
-Somente 50% dos diagnosticados com câncer gástrico têm doença confinada ao sítio locorregional, e somente metade da-queles com doença aparentemente regional pode realizar cirurgia potencialmente curativa. Cânceres cirurgicamente curá-veis são geralmente assintomáticos. 
+C - Quadro clínico 
+	Somente 50% dos diagnosticados com câncer gástrico têm doença confinada ao sítio locorregional, e somente metade daqueles com doença aparentemente regional pode realizar cirurgia potencialmente curativa. Cânceres cirurgicamente curáveis são geralmente assintomáticos. 
 
 Tabela 5 - Quadro clínico
 - Precocemente não apresenta sintomas e pode ser confundido com gastrite, levando ao tratamento sintomático durante 6 a 12 meses antes de estudos diagnósticos;
@@ -123,45 +178,52 @@ Tabela 5 - Quadro clínico
 - A dor epigástrica é semelhante à causada pelas úlceras benignas e, da mesma maneira, pode simular angina, porém é constante e não se irradia nem melhora com a ingestão de alimentos;
 - A perda de peso, usualmente, resulta mais de ingestão calórica insuficiente do que de metabolismo aumentado;
 - A doença avançada pode apresentar anorexia, fadiga e vômitos;
-- Os sintomas geralmente estão associados à localização do tumor no estômago: tumores próximos à junção esofagogástrica frequen-temente causam disfagia (presente em 26% dos casos); já em regiões mais distais, pode exibir sintomas de obstrução digestiva alta, com vômitos alimentares;
-- O envolvimento difuso, como ocorre na linite plástica, leva à diminuição na distensibilidade do estômago, causando a saciedade pre-coce (18% dos casos);
+- Os sintomas geralmente estão associados à localização do tumor no estômago: tumores próximos à junção esofagogástrica frequentemente causam disfagia (presente em 26% dos casos); já em regiões mais distais, pode exibir sintomas de obstrução digestiva alta, com vômitos alimentares;
+- O envolvimento difuso, como ocorre na linite plástica, leva à diminuição na distensibilidade do estômago, causando a saciedade precoce (18% dos casos);
 - Sangramento oculto com ou sem anemia ferropriva não é incomum, mas sangramento ativo é raro (menos de 20%); tumores muito grandes podem erodir para dentro do cólon transverso com quadro de obstrução colônica;
 - Sinais clínicos que se desenvolvem tardiamente com a evolução da doença, associados a avanço ou doença metastática, são massa abdominal palpável, linfonodos supraclaviculares (de Virchow) ou periumbilicais (de Irmã Maria José), linfonodo axilar esquerdo (de Irish), metástases peritoneais palpáveis pelo toque retal (“prateleira de Blumer”) ou massa ovariana (tumor de Krukenberg);
 - Conforme a doença progride, pode haver hepatomegalia secundária a metástase, icterícia, ascite e caquexia;
 - Os sítios mais comuns de metástases são fígado, peritônio, linfonodos não regionais ou distantes. Sítios menos comuns são ovário, sistema nervoso central, osso, pulmão ou partes moles;
-- Fenômenos paraneoplásicos raros que incluem dermatite seborreica difusa (sinal de Leser-Trélat), acantose nigricans (placas pigmen-tadas escuras e aveludadas nas pregas cutâneas), anemia hemolítica microangiopática, nefropatia membranosa, estados hipercoagu-láveis (síndrome de Trousseau), e poliarterite nodosa (no câncer gástrico precoce).
+- Fenômenos paraneoplásicos raros que incluem dermatite seborreica difusa (sinal de Leser-Trélat), acantose nigricans (placas pigmentadas escuras e aveludadas nas pregas cutâneas), anemia hemolítica microangiopática, nefropatia membranosa, estados hipercoaguláveis (síndrome de Trousseau), e poliarterite nodosa (no câncer gástrico precoce).
 
-4. Classificações
+ 
+Figura 12 - Linfonodo umbilical de Irmã Maria José
 
-Existem várias classificações de câncer gástrico, divididas em endoscópicas e histológicas. 
+ 
+Figura 13 - Nódulo de Virchow
 
-A -	Classificação macroscópica endoscópica de Borrmann, 1926 – câncer gástrico avançado
-Classifica os tumores de acordo com o aspecto endoscópico da lesão. Pode ser empregada em todos os tumores do trato gastrintestinal, mas sua aplicação no câncer gástrico é a mais comum na prática clínica diária. Essa classificação é a de Borr-mann, que divide o carcinoma gástrico avançado em 4 tipos, segundo o aspecto macroscópico.
+ 
+Figura 14 - Nódulo de Irish
+
+	D - Classificações
+	Existem várias classificações de câncer gástrico, divididas em endoscópicas e histológicas. 
+a)	Classificação macroscópica endoscópica de Borrmann, 1926 - câncer gástrico avançado
+	Classifica os tumores de acordo com o aspecto endoscópico da lesão. Pode ser empregada em todos os tumores do trato gastrintestinal, mas sua aplicação no câncer gástrico é a mais comum na prática clínica diária. Essa classificação é a de Borrmann, que divide o carcinoma gástrico avançado em 4 tipos, segundo o aspecto macroscópico.
 
 Tabela 6 - Classificação macroscópica de Borrmann
 Tipos	Características	Lesões
-Borrmann I	Lesão polipoide ou vegetante, bem delimitada	 
-Borrmann II	Lesão ulcerada, bem delimitada, de bordas elevadas	 
-Borrmann III	Lesão ulcerada, infiltrativa em parte ou em todas as suas bordas	 
-Borrmann IV	Lesão difusamente infiltrativa, não se notando limite entre o tumor e a mucosa normal	 
+Borrmann I	Lesão polipoide ou vegetante, bem delimitada	  
+Borrmann II	Lesão ulcerada, bem delimitada, de bordas elevadas	  
+Borrmann III	Lesão ulcerada, infiltrativa em parte ou em todas as suas bordas	  
+Borrmann IV	Lesão difusamente infiltrativa, não se notando limite entre o tumor e a mucosa normal	  
 
- 
-Figura 5 - Classificação de Borrmann
+  
+Figura 15 - Classificação de Borrmann
 
-B - Classificação histológica de Lauren, 1965
-Pela classificação de Lauren, os tumores podem ser divididos em 2 subtipos: intestinais e difusos.
+b) Classificação histológica de Lauren, 1965
+	Pela classificação de Lauren, os tumores podem ser divididos em 2 subtipos: intestinais e difusos.
 
-a) Tipo intestinal
-Tem padrão glandular e caracteriza-se pela presença de células neoplásicas coesas formando estruturas tubulares e massa discreta. A partir do epitélio normal, ocorre instabilidade gênica, levando inicialmente ao aparecimento de metaplasia intesti-nal (substituição de epitélio gástrico por elementos histológicos que reproduzem o epitélio duodenal) e, posteriormente, de displasia (taxa de progressão de displasia de baixo grau para carcinoma invasivo de 0 a 23% e na displasia de alto grau de 60 a 85%) ou adenoma, câncer precoce, câncer avançado e metástases, sequencialmente. 
-
-Dica
-Normalmente, o tipo intestinal acomete indivíduos idosos. É bem ou moderadamente diferenciado, tem melhor prognóstico do que o tipo difuso e localiza-se mais comumente no antro e na pequena curvatura. 
-
-b) Tipo difuso
-Inicia-se em um epitélio normal (não há processo de metaplasia). Ocorre instabilidade gênica, que pode levar ao desen-volvimento de câncer precoce, câncer avançado e metástases. As células cancerosas infiltram-se difusamente na parede do estômago. É um tumor produtor de mucina, composto por células separadas ou pequenos agrupamentos de células com se-creção mucinosa, distribuída por todo o citoplasma das células ou dispersa no estroma. Quando a mucina intracelular é abun-dante, empurra o núcleo lateralmente, resultando nas chamadas células “em anel de sinete”. 
+Tipo intestinal
+	Tem padrão glandular e caracteriza-se pela presença de células neoplásicas coesas formando estruturas tubulares e massa discreta. A partir do epitélio normal, ocorre instabilidade gênica, levando inicialmente ao aparecimento de metaplasia intestinal (substituição de epitélio gástrico por elementos histológicos que reproduzem o epitélio duodenal) e, posteriormente, de displasia (taxa de progressão de displasia de baixo grau para carcinoma invasivo de 0 a 23% e na displasia de alto grau de 60 a 85%) ou adenoma, câncer precoce, câncer avançado e metástases, sequencialmente. 
 
 Dica
-O tipo difuso acomete indivíduos mais jovens, é indiferenciado e tem pior prognóstico do que o tipo intestinal. 
+Normalmente, o câncer gástrico tipo intestinal acomete indivíduos idosos. É bem ou moderadamente diferenciado, tem melhor prognóstico do que o tipo difuso e localiza-se mais comumente no antro e na pequena curvatura.
+
+Tipo difuso
+	Inicia-se em um epitélio normal (não há processo de metaplasia). Ocorre instabilidade gênica, que pode levar ao desenvolvimento de câncer precoce, câncer avançado e metástases. As células cancerosas infiltram-se difusamente na parede do estômago. É um tumor produtor de mucina, composto por células separadas ou pequenos agrupamentos de células com secreção mucinosa, distribuída por todo o citoplasma das células ou dispersa no estroma. Quando a mucina intracelular é abundante, empurra o núcleo lateralmente, resultando nas chamadas células “em anel de sinete”. 
+
+Dica
+O câncer gástrico tipo difuso acomete indivíduos mais jovens, é indiferenciado e tem pior prognóstico do que o tipo intestinal.
 
 Pergunta
 2015 - UFSC
@@ -173,92 +235,90 @@ d) normalmente é bem diferenciado, com formação de glândulas
 e) apresenta associação direta ao grupo sanguíneo O
 Resposta no final do capítulo
 
-C - Classificação histológica da Sociedade Japonesa de Pesquisa do Câncer Gástrico
+c) Classificação histológica da Sociedade Japonesa de Pesquisa do Câncer Gástrico
+Tipo comum
+		- Adenocarcinoma papilar; 
+		- Adenocarcinoma tubular (bem diferenciado/moderadamente diferenciado/pouco diferenciado); 
+		- Adenocarcinoma mucinoso; 
+		- Carcinoma de células “em anel de sinete”.
 
-a) Tipo comum
-Adenocarcinoma papilar; 
-Adenocarcinoma tubular (bem diferenciado/moderadamente diferenciado/pouco diferenciado); 
-Adenocarcinoma mucinoso; 
-Carcinoma de células “em anel de sinete”.
+Tipo específico
+		- Carcinoma adenoescamoso; 
+		- Carcinoma de células escamosas; 
+		- Tumor carcinoide; 
+		- Miscelânea.
 
-b) Tipo específico
-Carcinoma adenoescamoso; 
-Carcinoma de células escamosas; 
-Tumor carcinoide; 
-Miscelânea.
-
-D - Câncer gástrico precoce (classificação histológica)
+d) Câncer gástrico precoce (classificação histológica)
 
 Dica 
-Define-se como câncer gástrico precoce aquele que não ultrapassa a submucosa, não importando o acometimento linfono-dal. 
+Define-se como câncer gástrico precoce aquele que não ultrapassa a submucosa, não importando o acometimento linfonodal.
 
-A importância do diagnóstico de tumores nessa fase (por ecoendoscopia) está na possibilidade de cura (cerca de 95%) com procedimentos minimamente invasivos por meio de abordagem endoscópica.
-Classificação de Paris (2002) para neoplasia gástrica precoce, conforme aspecto macroscópico (Figuras 6 e 7):
-Lesões tipo 0-I são polipoides, subcategorizadas em:
-Tipo 0-Ip: pediculada;
-Tipo 0-Is: séssil.
-Lesões tipo 0-II são não polipoides subcategorizadas em:
-Tipo 0-IIa: levemente elevada;
-Tipo 0-IIb: plana;
-Tipo 0-IIc: levemente deprimida.
-Lesões tipo 0-III são escavadas.
+	A importância do diagnóstico de tumores nessa fase (por ecoendoscopia) está na possibilidade de cura (cerca de 95%) com procedimentos minimamente invasivos por meio de abordagem endoscópica.
+	Classificação de Paris (2002) para neoplasia gástrica precoce, conforme aspecto macroscópico (Figuras 16 e 17):
+		Lesões tipo 0-I são polipoides, subcategorizadas em:
+		- Tipo 0-Ip: pediculada;
+		- Tipo 0-Is: séssil.
+		Lesões tipo 0-II são não polipoides subcategorizadas em:
+		- Tipo 0-IIa: levemente elevada;
+		- Tipo 0-IIb: plana;
+		- Tipo 0-IIc: levemente deprimida;
+		- Tipo 0-III são escavadas.
 
- 
-Figura 6 - Classificação de Paris para neoplasia precoce (superficial do trato gastrintestinal)
-Fonte: UpToDate. 
 
- 
-Figura 7 - Aspecto endoscópico de lesão neoplásica precoce: (A) lesão tipo 0-I; (B) lesão tipo 0-IIa; (C) lesão tipo 0-IIb; (D) lesão tipo 0-IIc; (E) lesão tipo 0-IIa + 0-IIc e (F) lesão tipo 0-IIc + 0-III 
-Fonte: Gastrocentro. 
+  
+Figura 16 - Classificação de Paris para neoplasia precoce (superficial do trato gastrintestinal)
+Fonte: UpToDate.
+
+  
+Figura 17 - Aspecto endoscópico de lesão neoplásica precoce: (A) lesão tipo 0-I; (B) lesão tipo 0-IIa; (C) lesão tipo 0-IIb; (D) lesão tipo 0-IIc; (E) lesão tipo 0-IIa + 0-IIc e (F) lesão tipo 0-IIc + 0-III 
+Fonte: Gastrocentro.
 
 Importante
 Os fatores associados a metástase linfonodal incluem tamanho do tumor, ulceração, tipo histológico difuso (indiferenciado) ou misto (intestinal/indiferenciado), profundidade da invasão e invasão submucosa ou linfovascular.
 
-5. Diagnóstico
+E - Diagnóstico
 
 Diagnóstico
-A endoscopia digestiva alta é o método diagnóstico de escolha (Figura 8) do câncer gástrico. Além de fazer a análise, já pos-sibilita o início do estadiamento, indicando se o tumor é precoce ou avançado, seu tamanho e sua localização. 
+A endoscopia digestiva alta é o método diagnóstico de escolha (Figura 18) do câncer gástrico. Além de fazer a análise, já possibilita o início do estadiamento, indicando se o tumor é precoce ou avançado, seu tamanho e sua localização.
 
-Uma única biópsia da lesão possui sensibilidade diagnóstica de 70%, enquanto 7 biópsias da margem e base da lesão au-mentam a sensibilidade para mais de 98%.
-O diagnóstico de câncer gástrico difuso, chamado linites plásticas, pode ser endoscopicamente difícil, porque esse tumor tende a infiltrar a submucosa e a muscular própria, com biópsias superficiais falsas negativas. Técnicas de biópsia sobre bióp-sia e macrobiópsia devem ser realizadas nesse caso. A radiologia convencional contrastada praticamente não é mais utilizada nos dias atuais como método diagnóstico (falso negativo em até 50% dos casos). 
+	Uma única biópsia da lesão possui sensibilidade diagnóstica de 70%, enquanto 7 biópsias da margem e base da lesão aumentam a sensibilidade para mais de 98%.
+	O diagnóstico de câncer gástrico difuso, chamado linites plásticas, pode ser endoscopicamente difícil, porque esse tumor tende a infiltrar a submucosa e a muscular própria, com biópsias superficiais falsas negativas. Técnicas de biópsia sobre biópsia e macrobiópsia devem ser realizadas nesse caso. A radiologia convencional contrastada praticamente não é mais utilizada nos dias atuais como método diagnóstico (falso negativo em até 50% dos casos). No entanto, em caso de linite plástica, o raio x baritado pode ser superior à endoscopia.
 
- 
-Figura 8 - Endoscopia digestiva alta evidenciando lesão vegetante, ulcerada, sugestiva de câncer gástrico
+  
+Figura 18 - Endoscopia digestiva alta evidenciando lesão vegetante e ulcerada, sugestiva de câncer gástrico
 Fonte: www.medscape.com.
 
-6. Estadiamento
-
-O estadiamento dos pacientes com câncer gástrico tem início com a história clínica em busca de sinais e sintomas sugesti-vos de doença avançada ou metastática, como perda de peso, aumento do volume abdominal, icterícia, dor abdominal, vômi-tos, disfagia, hemorragia digestiva etc. Feitos anamnese e exame físico cuidadoso, devem-se solicitar exames complementa-res, de acordo com a disponibilidade de cada instituição, a fim de prosseguir com o estadiamento, que só estará completo depois das fases intraoperatória e anatomopatológica.
-A ultrassonografia (USG) de abdome pode ser um bom método para detectar metástases hepáticas, mas é ruim para avali-ar invasão locorregional do tumor gástrico. Em casos de lesões pequenas à endoscopia, a USG pode ser um bom método para o estadiamento abdominal, juntamente com a endoscopia.
+	F - Estadiamento
+	O estadiamento dos pacientes com câncer gástrico tem início com a história clínica em busca de sinais e sintomas sugestivos de doença avançada ou metastática, como perda de peso, aumento do volume abdominal, icterícia, dor abdominal, vômitos, disfagia, hemorragia digestiva etc. Feitos anamnese e exame físico cuidadoso, devem-se solicitar exames complementares, de acordo com a disponibilidade de cada instituição, a fim de prosseguir com o estadiamento, que só estará completo depois das fases intraoperatória e anatomopatológica.
+	A ultrassonografia (USG) de abdome pode ser um bom método para detectar metástases hepáticas, mas é ruim para avaliar invasão locorregional do tumor gástrico. Em casos de lesões pequenas à endoscopia, a USG pode ser um bom método para o estadiamento abdominal, juntamente com a endoscopia.
 
 Importante
-Os critérios de irressecabilidade aceitos mundialmente para o câncer gástrico são metástases a distância e invasão de estru-turas vasculares maiores como aorta, ou doença englobando ou ocluindo a artéria hepática ou artéria do eixo celía-co/esplênica proximal. 
+Os critérios de irressecabilidade aceitos mundialmente para o câncer gástrico são metástases a distância e invasão de estruturas vasculares maiores, como aorta, artéria hepática ou artéria do eixo celíaco/esplênica proximal.
 
-A Tomografia Computadorizada (TC) de abdome é um método muito eficaz, tanto para tumores menores como avançados. Possibilita a avaliação de metástases hepáticas, da presença de linfonodos aumentados e de invasão de estruturas adjacentes, fazendo estadiamento locorregional. Metástases peritoneais e hematogênicas <5mm são frequentemente perdidas pela TC; em até 20 a 30% com TC negativa, doença intraperitoneal é encontrada na exploração cirúrgica. A profundidade da invasão tumoral (T), principalmente lesões pequenas, também pode não ser corretamente avaliada pela TC (acurácia de 50 a 70%, e metástases linfonodais regionais <0,8cm). O tumor pode apresentar-se como espessamento da parede gástrica, e a TC, sugerir disseminação peritoneal quando mostra irregularidade, que pode vir acompanhada de ascite (Figura 9). A sensibilidade para metástase linfonodal regional é de 65 a 97%, e a especificidade, de 49 a 90%. A ressonância nuclear magnética de abdome tem as mesmas vantagens da tomografia. 
+	A Tomografia Computadorizada (TC) de abdome é um método muito eficaz, tanto para tumores menores como para avançados. Possibilita a avaliação de metástases hepáticas, da presença de linfonodos aumentados e de invasão de estruturas adjacentes, fazendo estadiamento locorregional. Metástases peritoneais e hematogênicas <5mm são frequentemente perdidas pela TC; em até 20 a 30% com TC negativa, doença intraperitoneal é encontrada na exploração cirúrgica. A profundidade da invasão tumoral (T), principalmente lesões pequenas, também pode não ser corretamente avaliada pela TC (acurácia de 50 a 70%, e metástases linfonodais regionais <0,8cm). O tumor pode apresentar-se como espessamento da parede gástrica, e a TC, sugerir disseminação peritoneal quando mostra irregularidade, que pode vir acompanhada de ascite (Figura 19). A sensibilidade para metástase linfonodal regional é de 65 a 97%, e a especificidade, de 49 a 90%. A ressonância nuclear magnética de abdome tem as mesmas vantagens da tomografia. 
 
- 
-Figura 9 - Câncer gástrico protruso
+  
+Figura 19 - Câncer gástrico protruso
 
 Dica 
-Mesmo com exames de imagem abdominais, como ultrassonografia, TC e ressonância magnética, o estadiamento abdominal final é feito no intraoperatório. 
+Mesmo com exames de imagem abdominais, como ultrassonografia, TC e ressonância magnética, o estadiamento abdominal final é feito no intraoperatório.
 
-O estadiamento do tórax pode ser feito com radiografia simples da região nas posições anteroposterior e perfil, e, atual-mente, dá-se preferência à TC torácica. As radiografias contrastadas podem ser úteis na avaliação da extensão do tumor para outros órgãos, como esôfago e duodeno, principalmente quando é infiltrativo e a mucosa é normal à endoscopia.
-A ecoendoscopia possibilita o melhor estadiamento locorregional do tumor. A acurácia para diferenciar o estadiamento tumoral (T1 a T4) varia de 77 a 93%, de acordo com a experiência do operador. A sensibilidade para linfonodos metastáticos é de 83%, e a especificidade, de 67%. Biópsia por agulha fina de linfonodos e áreas suspeitas aumenta a acurácia do estadia-mento linfonodal. No caso de câncer gástrico precoce, oferece ideia mais precisa da profundidade da invasão tumoral, tor-nando-se indispensável quando se pensa em tratamentos não cirúrgicos. Ainda é pouco disponível em nosso meio.
-Atualmente, vem-se utilizando, assim como no estadiamento de câncer de esôfago, métodos como o PET scan e a PET-CT para lesões suspeitas no estadiamento convencional (TC/USG).
-Não há marcador tumoral específico com benefício comprovado na utilização clínica para aqueles com câncer gástrico. En-tre os mais utilizados, destacam-se: 
+	O estadiamento do tórax pode ser feito com radiografia simples da região nas posições anteroposterior e perfil, e, atualmente, dá-se preferência à TC torácica. As radiografias contrastadas podem ser úteis na avaliação da extensão do tumor para outros órgãos, como esôfago e duodeno, principalmente quando é infiltrativo e a mucosa é normal à endoscopia.
+	A ecoendoscopia possibilita o melhor estadiamento locorregional do tumor. A acurácia para diferenciar o estadiamento tumoral (T1 a T4) varia de 77 a 93%, de acordo com a experiência do operador. A sensibilidade para linfonodos metastáticos é de 83%, e a especificidade, de 67%. Biópsia por agulha fina de linfonodos e áreas suspeitas aumenta a acurácia do estadiamento linfonodal. No caso de câncer gástrico precoce, oferece ideia mais precisa da profundidade da invasão tumoral, tornando-se indispensável quando se pensa em tratamentos não cirúrgicos. Ainda é pouco disponível em nosso meio.
+	Atualmente, vêm-se utilizando, assim como no estadiamento de câncer de esôfago, métodos como o PET scan e a PET-CT para lesões suspeitas no estadiamento convencional (TC/USG).
+	Não há marcador tumoral específico com benefício comprovado na utilização clínica para aqueles com câncer gástrico. Entre os mais utilizados, destacam-se: 
 CA-19-9: aumentado nos cânceres de pâncreas, colorretal e estômago;
 CA-72-4: presente em cerca de 50% dos pacientes com câncer gástrico, principalmente nos estadios III e IV;
 CEA: aumentado em 10 a 30% dos pacientes com câncer gástrico e associado a pior prognóstico.
+	A laparoscopia diagnóstica pode ajudar no estadiamento abdominal, principalmente na suspeita de implantes peritoneais não confirmados pela tomografia ou paracentese nos casos de ascite. Pode avaliar também a localização do tumor, a invasão da serosa gástrica, as metástases hepáticas que afloram na superfície (70 a 90%), o comprometimento linfonodal e dos epíploons, a fixação do tumor a estruturas adjacentes e, como já descrito, a disseminação peritoneal (Figura 20). Geralmente, indica-se laparoscopia para estadiamento para qualquer paciente que pareça ter lesão acima de T1 à USG endoscópica, sem confirmação histológica de estadio IV, e que não requeira gastrectomia paliativa pelos sintomas; também realizar naqueles considerados para terapia neoadjuvante.
 
-A laparoscopia diagnóstica pode ajudar no estadiamento abdominal, principalmente na suspeita de implantes peritoneais não confirmados pela tomografia ou paracentese nos casos de ascite. Pode avaliar também a localização do tumor, a invasão da serosa gástrica, as metástases hepáticas que afloram na superfície (70 a 90%), o comprometimento linfonodal e dos epí-ploons, a fixação do tumor a estruturas adjacentes e, como já descrito, a disseminação peritoneal (Figura 10). Geralmente, indica-se laparoscopia para estadiamento para qualquer paciente que pareça ter lesão acima de T1 à USG endoscópica, sem confirmação histológica de estadio IV, e que não requeira gastrectomia paliativa pelos sintomas; também realizar naqueles considerados para terapia neoadjuvante.
+  
+Figura 20 - Laparoscopia mostrando sinais de carcinomatose peritoneal: nesse caso, o tratamento curativo não pode ser realizado
 
- 
-Figura 10 - Laparoscopia mostrando sinais de carcinomatose peritoneal: nesse caso, o tratamento curativo pode ser realizado
-
-O estadiamento segue a padronização da UICC (Union for International Cancer Control), seguindo os critérios TNM (Tabela 7).
-O estadiamento T baseia-se na profundidade da invasão tumoral, e o N, no número de linfonodos.
-Linfonodos considerados regionais para lesões ao longo da grande curvatura são: linfonodos da grande curvatura, grande omento, gastroduodenais, gastroepiploicos, pré-pilóricos antrais e pancreatoduodenais. Para lesões ao longo da pequena curvatura, são: linfonodos da pequena curvatura, omento menor, gástrico esquerdo, cardioesofágico, hepático comum, celía-cos e hepatoduodenais. Lesões de ambos os lados são: linfonodos das áreas esplênica e pancreática. O envolvimento dos linfonodos de outros grupos intra-abdominais (hepatoduodenal, retropancreático, portal, mesentérico e para-aórtico) é clas-sificado como metástase a distância.
-Do ponto de vista cirúrgico, lesões originando-se na junção esofagogástrica (JEG), ou na cárdia gástrica até 5cm da JEG, que se estendem na JEG ou no esôfago (Siewert III), são estadiadas como câncer esofágico.
+	O estadiamento segue a padronização da UICC (Union for International Cancer Control), seguindo os critérios TNM (Tabela 7).
+	O estadiamento T baseia-se na profundidade da invasão tumoral, e o N, no número de linfonodos.
+	Linfonodos considerados regionais para lesões ao longo da grande curvatura são: linfonodos da grande curvatura, grande omento, gastroduodenais, gastroepiploicos, pré-pilóricos antrais e pancreatoduodenais. Para lesões ao longo da pequena curvatura, são: linfonodos da pequena curvatura, omento menor, gástrico esquerdo, cardioesofágico, hepático comum, celíacos e hepatoduodenais. Lesões de ambos os lados são: linfonodos das áreas esplênica e pancreática. O envolvimento dos linfonodos de outros grupos intra-abdominais (hepatoduodenal, retropancreático, portal, mesentérico e para-aórtico) é classificado como metástase a distância.
+	Do ponto de vista cirúrgico, lesões originando-se na junção esofagogástrica (JEG), ou na cárdia gástrica até 5cm da JEG, que se estendem na JEG ou no esôfago (Siewert III), são estadiadas como câncer esofágico.
 
 Tabela 7 - Classificação TNM (UICC, 2010)
 Tx	Não avaliado
@@ -300,44 +360,43 @@ IV	4	1, 2 e 3	0
 	1, 2 e 3	3	0
 	Qualquer	Qualquer	1
 
-7. Tratamento
-
-A cirurgia-padrão com intuito curativo é a gastrectomia com linfadenectomia D2, isto é, linfadenectomia estendida deter-minada sempre pela localização do tumor. Portanto, uma linfadenectomia D2 de um tumor de fundo gástrico não retira os mesmos linfonodos de uma linfadenectomia D2 de um tumor de antro.
-
- 
-Figura 11 - Bases linfonodais perigástricas
-
-Deve-se deixar margem cirúrgica proximal da lesão >2cm no câncer gástrico precoce, >5cm no câncer gástrico avançado bem diferenciado e >8cm no câncer gástrico avançado indiferenciado (classificação de Lauren). A margem distal sempre deve ser de 4cm do duodeno, exceto nas gastrectomias “em cunha”.
-O tipo de gastrectomia, total ou subtotal (retirada de 4/5 do estômago, devendo restar apenas 1 ou 2 vasos curtos), de-penderá da localização do tumor e da margem cirúrgica desejada. Tumor proximal, normalmente, necessita de gastrectomia total, e os distais bem diferenciados possibilitam gastrectomia subtotal, sobretudo se bem diferenciados (Figura 12). 
-Na linfadenectomia D2, a dissecção linfonodal tem, por objetivos, melhorar o estadiamento cirúrgico, aumentar o grau de cura e melhorar o prognóstico (graduação 2B). Nela, a linfadenectomia é estendida para, além dos linfonodos perigástricos (D1), os linfonodos ao longo das artérias hepática, gástrica esquerda, celíaca e esplênica, assim como aqueles no hilo esplêni-co. A experiência japonesa tem indicado aumento de sobrevida de até 5 anos após linfadenectomia radical, o que não se consegue repetir nos centros ocidentais. Trata-se da dissecção completa dos gânglios adjacentes ao estômago (linfadenecto-mia D1) associada à retirada de gânglios mais distantes. Entre esses linfonodos, destacam-se os das artérias gástrica esquerda, hepática comum e hepática própria e gânglios do hilo hepático. Não há evidência de que a linfadenectomia D3 (linfonodos para-aórticos) confira melhor sobrevida do que a D2, e estando a primeira associada a maior mortalidade, não sendo reco-mendada (graduação 1B).
+G - Tratamento
+	A cirurgia-padrão com intuito curativo é a gastrectomia com linfadenectomia D2, isto é, linfadenectomia estendida determinada sempre pela localização do tumor. Portanto, uma linfadenectomia D2 de um tumor de fundo gástrico não retira os mesmos linfonodos de uma linfadenectomia D2 de um tumor de antro.
 
  
-Figura 12 - (A) Produto de gastrectomia total com linfadenectomia D2 e (B) leito operatório após a linfadenectomia do hilo hepático e a retirada da cápsula pancreática
+Figura 21 - Bases linfonodais perigástricas
+
+	Deve-se deixar margem cirúrgica proximal da lesão >2cm no câncer gástrico precoce, >5cm no câncer gástrico avançado bem diferenciado e >8cm no câncer gástrico avançado indiferenciado (classificação de Lauren). A margem distal sempre deve ser de 4cm do duodeno, exceto nas gastrectomias “em cunha”.
+	O tipo de gastrectomia, total ou subtotal (retirada de 4/5 do estômago, devendo restar apenas 1 ou 2 vasos curtos), dependerá da localização do tumor e da margem cirúrgica desejada. Tumor proximal, normalmente, necessita de gastrectomia total, e os distais bem diferenciados possibilitam gastrectomia subtotal, sobretudo se bem diferenciados (Figura 22). 
+	Na linfadenectomia D2, a dissecção linfonodal tem, por objetivos, melhorar o estadiamento cirúrgico, aumentar o grau de cura e melhorar o prognóstico (graduação 2B). Nela, a linfadenectomia é estendida para, além dos linfonodos perigástricos (D1), os linfonodos ao longo das artérias hepática, gástrica esquerda, celíaca e esplênica, assim como aqueles no hilo esplênico. A experiência japonesa tem indicado aumento de sobrevida de até 5 anos após linfadenectomia radical, o que não se consegue repetir nos centros ocidentais. Trata-se da dissecção completa dos gânglios adjacentes ao estômago (linfadenectomia D1) associada à retirada de gânglios mais distantes. Entre esses linfonodos, destacam-se os das artérias gástrica esquerda, hepática comum e hepática própria e gânglios do hilo hepático. Não há evidência de que a linfadenectomia D3 (linfonodos para-aórticos) confira melhor sobrevida do que a D2, e estando a primeira associada a maior mortalidade, não sendo recomendada (graduação 1B).
+
+  
+Figura 22 - (A) Produto de gastrectomia total com linfadenectomia D2 e (B) leito operatório após a linfadenectomia do hilo hepático e a retirada da cápsula pancreática
 
 Pergunta
 2013 - UERJ
-3. No tratamento cirúrgico de um paciente portador de adenocarcinoma gástrico ulcerado, que se estende da incisura an-gularis do estômago até 4cm da cárdia, deve-se realizar gastrectomia do tipo:
+3. No tratamento cirúrgico de um paciente portador de adenocarcinoma gástrico ulcerado, que se estende da incisura angularis do estômago até 4cm da cárdia, deve-se realizar gastrectomia do tipo:
 a) total
 b) subtotal
 c) Billroth II
 d) proximal
 Resposta no final do capítulo
 
-A ressecção endoscópica (mucosectomia ou dissecção endoscópica da submucosa) pode ser realizada somente em tumo-res restritos à mucosa (confirmados por USG endoscópica), bem diferenciados, sem ulceração e <2cm. A laparoscopia é um bom método, principalmente para câncer gástrico precoce. Também são possíveis gastrectomia e linfadenectomia D2, contu-do é necessário cirurgião experiente, e tal método não traz grandes vantagens. Pode ser útil nas cirurgias paliativas (Figura 13).
-Na linite plástica, o prognóstico é extremamente ruim, com metade dos pacientes desenvolvendo doença metastática. O envolvimento linfonodal é frequente, e cirurgia extensa pode ser requerida para excisão completa.
-No câncer gástrico, a preferência da maioria dos serviços é a reconstrução em Y de Roux com anastomose jejunojejunal si-tuada a 60cm da anastomose gastrojejunal, para prevenção de refluxo biliopancreático, que pode levar a gastrite alcalina.
+	A ressecção endoscópica (mucosectomia ou dissecção endoscópica da submucosa) pode ser realizada em tumores precoces desde que restritos à mucosa (confirmados por USG endoscópica), bem diferenciados, sem ulceração e <2cm (tipos I, IIA e IIB). A laparoscopia é um bom método, principalmente para câncer gástrico precoce. Também são possíveis gastrectomia e linfadenectomia D2, contudo é necessário cirurgião experiente, e tal método não traz grandes vantagens. Pode ser útil nas cirurgias paliativas (Figura 23).
+	Na linite plástica, o prognóstico é extremamente ruim, com metade dos pacientes desenvolvendo doença metastática. O envolvimento linfonodal é frequente, e cirurgia extensa pode ser requerida para excisão completa.
+	No câncer gástrico, a preferência da maioria dos serviços é a reconstrução em Y de Roux com anastomose jejunojejunal situada a 60cm da anastomose gastrojejunal, para prevenção de refluxo biliopancreático, que pode levar a gastrite alcalina.
 
  
-Figura 13 - Conduta cirúrgica sugerida 
+Figura 23 - Conduta cirúrgica sugerida
+	
+A conduta-padrão, hoje, para tumores localmente avançados é quimioterapia neoadjuvante, seguida de cirurgia e nova quimioterapia adjuvante. Existe a opção de quimiorradioterapia adjuvante aos pacientes com ressecção cirúrgica potencialmente curativa. Está sendo estudado o uso de quimioterapia intraperitoneal hipertérmica em tumores com risco de disseminação peritoneal (tumores T3 ou N1). A radioterapia adjuvante acrescenta muita morbidade ao tratamento e vem caindo em desuso. Ambas as técnicas podem ser utilizadas de maneira paliativa, nos casos de dor e sangramento. 
 
-A conduta-padrão, hoje, para tumores localmente avançados é quimioterapia neoadjuvante, seguida de cirurgia e nova quimioterapia adjuvante. Existe a opção de oferecer quimiorradioterapia adjuvante aos pacientes com ressecção cirúrgica potencialmente curativa. Está sendo estudado o uso de quimioterapia intraperitoneal hipertérmica em tumores com risco de disseminação peritoneal (tumores T3 ou N1). A radioterapia adjuvante acrescenta muita morbidade ao tratamento e vem caindo em desuso. Ambas as técnicas podem ser utilizadas de maneira paliativa, nos casos de dor e sangramento. 
-
-8. Prognóstico
+H - Prognóstico
 
 Dica 
-Os fatores prognósticos são, em ordem de relevância, o estadio TNM, a diferenciação tumoral e o status da margem da res-secção. 
+Os fatores prognósticos do câncer gástrico são, em ordem de relevância, o estadio TNM, a diferenciação tumoral e o status da margem da ressecção.
 
-Marcadores tumorais pré-operatórios elevados, como CEA, CA-19-9 e CA-72-4, são indicadores independentes de prog-nóstico adverso (em muitos estudos).
+	Marcadores tumorais pré-operatórios elevados, como CEA, CA-19-9 e CA-72-4, são indicadores independentes de prognóstico adverso (em muitos estudos).
 
 Tabela 9 - Percentual de sobrevida em 5 anos 
 	Estados Unidos	Alemanha	Japão	Brasil
@@ -349,15 +408,15 @@ IIIA	20	28,6	47,9	--
 IIIB	8	17,7	28,8	--
 IV	7	8,7	11,5	--
 
-9. Acompanhamento pós-tratamento
-Recomenda-se, como acompanhamento pós-tratamento:
-- História e exame físico a cada 3 a 6 meses por 1 a 3 anos; e, então, a cada 6 meses por 4 a 5 anos; e, então, anualmente;
-- Hemograma e bioquímica, de acordo com a indicação clínica;
-- TC a cada 3 a 6 meses por, pelo menos, 2 anos e após, de acordo com a indicação clínica;
+I - Acompanhamento pós-tratamento
+	Recomendam-se, como acompanhamento pós-tratamento:
+	- História e exame físico a cada 3 a 6 meses por 1 a 3 anos; e, então, a cada 6 meses por 4 a 5 anos; e, então, anualmente;
+	- Hemograma e bioquímica, de acordo com a indicação clínica;
+	- TC a cada 3 a 6 meses por, pelo menos, 2 anos e após, de acordo com a indicação clínica;
 - Endoscopia nos pacientes com gastrectomia subtotal a cada 6 a 12 meses nos primeiros 2 anos, pois há risco aumentado de 2º câncer primário nesse período;
-- Monitorizar e tratar quando está indicada a deficiência de vitamina B12.
+	- Monitorização e tratamento quando está indicada a deficiência de vitamina B12.
 
-10. Screening e prevenção do câncer gástrico
+J - Screening e prevenção do câncer gástrico
 
 Tabela 10 - Recomendações de guideline da American Society for Gastrointestinal Endoscopy
 - Pólipos gástricos adenomatosos têm risco aumentado de transformação maligna e devem ser ressecados. Os hiperplásicos raramente sofrem malignização;
@@ -369,23 +428,75 @@ Tabela 10 - Recomendações de guideline da American Society for Gastrointestinal 
 - Deve ser considerada endoscopia aos pacientes com anemia perniciosa, mas o seguimento é controverso;
 - Não há consenso quanto ao controle pós-gastrectomia por doença ulcerosa péptica, mas, se for considerado, deve ser iniciado após 15 a 20 anos e realizadas múltiplas biópsias da anastomose e do remanescente gástrico;
 - Pacientes com polipose adenomatosa familiar e câncer colorretal hereditário não polipoide possuem risco aumentado e devem realizar exame endoscópico. O tempo de início e o seguimento não estão estabelecidos.
-11. Resumo
 
-Quadro-resumo
-- O câncer gástrico possui causa multifatorial e envolve aspectos nutricionais, ambientais e genéticos;
-- 	A maioria dos pacientes com câncer gástrico é assintomática ou apresenta sintomas inespecíficos, relacionados à localiza-ção do tumor. Com a progressão da doença, podem surgir sinais clínicos de doença avançada, como massas palpáveis, linfonodos supraclaviculares e periumbilicais;
-- Pode ser classificado macroscopicamente em 4 tipos, segundo Borrmann, e histologicamente em 2 subtipos, segundo Lauren;
+	K - Tumor carcinoide
+
+	Os tumores carcinoides neuroendócrinos constituem 2% de todos os tumores malignos do trato gastrintestinal, sendo que até 1,77% de todas as malignidades gástricas são carcinoides. Cerca de 64% dos carcinoides gástricos identificados são encontrados em mulheres, o pico de incidência ocorre entre 45-50 anos de idade variando com o subtipo do tumor. Acredita-se que a secreção de gastrina pelas células G antrais levam a liberação de histamina pelas células ECL, as quais levam as células parietais a liberarem ácido clorídrico. A gastrina possui tanto efeito secretório quanto trófico nas células ECL, portanto a hipertrofia e hiperplasia destas células se dará pelo estímulo da gastrina. Logo, existe grande preocupação que condições levem a hipergastrinemia crônica, como na gastrite crônica atrófica ou tratamento crônico com inibidores de bomba de prótons, possam levar a hiperplasia e desenvolvimento de tumores carcinoides. Contra regulando a ação da gastrina nas células ECL se encontra a somatostatina. Os carcinoides gástricos são classificados de acordo com a existência ou não de associação com a hipergastrinemia e com a ocorrência em mucosa gástrica normal ou não. Sendo proposta a seguinte classificação:
+	- Tipo I - Carcinoides associados com gastrite crônica atrófica tipo A;
+	- Tipo II - Carcinoides associados à síndrome de Zollinger-Ellison;
+	- Tipo III - Carcinoides argirófilos esporádicos.
+	O tipo I é o mais comum e o tipo III tem o maior potencial de metástase.
+	O diagnóstico é realizado com endoscopia digestiva alta com biópsias múltiplas.
+	Os níveis de cromogranina A estão elevados em pacientes com carcinoides gástricos e podem ser usados como marcador para diagnóstico e monitorização pós-operatória, estando mais elevados no subtipo III. A concentração da cromogranina A se correlaciona com o tamanho do tumor e é um preditor isolado de prognóstico. A tomografia computadorizada pode ser útil para o diagnóstico de acometimento linfonodal, das metástases hepáticas ou a distância. A cintilografia para receptores de somatostatina com octreotida marcado (OctreoScan®) pode ser útil para determinar a localização e extensão dos tumores e de suas lesões metastáticas.
+	A cirurgia é o tratamento de escolha como opção curativa. As lesões do tipo I, que cursam com hipergastrinemia, podem ser, inicialmente, abordadas por ressecção endoscópica desde que menores que 1cm, em número inferior a 5 e que não invadam a camada submucosa do órgão a USG endoscópica. As lesões do tipo II são tratadas de forma semelhante às do tipo I. As do tipo III são as mais agressivas, cerca de 64% dos pacientes apresentam lesão localmente avançada e 82%, metástases locais ou a distância. Seu tratamento se assemelha ao do adenocarcinoma gástrico, envolvendo gastrectomia subtotal ou total com linfadenectomia na doença não metastática ou citorredução na doença metastática ressecável. Submetidos a ressecção radical apresentam 75% de sobrevida em 5 anos, comparada a 1,3 meses de média nas cirurgias paliativas.
+	A síndrome carcinoide caracteriza-se por um grupo de sintomas que ocorrem como consequência de um tumor carcinoide em estágio avançado. Inclui rubor facial e torácico, cólica e diarreia e, menos frequentemente, a insuficiência cardíaca e a broncoconstrição. O tumor carcinoide causa esses sintomas quando secreta principalmente serotonina na corrente sanguínea. Na maioria dos casos, o fígado neutraliza de forma eficaz os hormônios secretados por tumores do trato gastrintestinal antes que eles tenham a chance de causar sintomas. No entanto, quando um tumor causa metástase no fígado, as substâncias não são neutralizadas antes de se espalhar pela corrente sanguínea sistêmica. A maioria das pessoas que sofrem de síndrome carcinoide tem um câncer avançado. O teste diagnóstico inicial é o de urina por 24 horas para verificação dos níveis de 5-HIAA (ácido 5-hidroxindolacético), o produto final do metabolismo da serotonina. Os pacientes com a síndrome carcinoide excretam normalmente mais do que 25 mg de 5-HIAA por dia. Para a localização de ambas as lesões primárias e metástases, o método de imagem inicial é OctreoScan®. Para alívio dos sintomas, usa-se o octreotida para diminuir a serotonina. A cirurgia para a retirada do tumor e a quimioterapia são tratamentos alternativos.
+
+	3. Linfoma gástrico
+
+	O envolvimento extranodal dos linfomas ocorre predominantemente no trato gastrintestinal, sendo o linfoma primário raro, enquanto o secundário é relativamente comum. O estômago costuma ser o local mais acometido (68 a 75% dos casos), sendo o linfoma gástrico responsável por 3% das neoplasias gastrintestinais e 10% dos linfomas. Seu pico de incidência está entre os 50 a 60 anos, com leve predominância do sexo masculino. A infecção pelo H. pylori está altamente associada com o desenvolvimento do linfoma MALT (Mucosa-Associated Lymphoid Tissue). 
+	Os sintomas mais comuns são epigastralgia (78 a 93%), anorexia (47%), perda de peso (25%), náusea e vômito (18%), sangramento oculto (19%) e saciedade precoce. Sintomas B (febre e sudorese noturna) são descritos em 12% dos pacientes. 
+	O diagnóstico é geralmente estabelecido pela biópsia endoscópica, em que se pode observar eritema da mucosa, lesão polipoide ou massa com ou sem ulceração, úlcera de aspecto benigno, nodularidade e pregas espessadas. Como costuma infiltrar a submucosa, as biópsias devem ser grandes e profundas.
+	Mais de 90% dos linfomas gástricos são divididos em 2 tipos histológicos:
+	- Linfoma extranodal das células B da zona marginal do tecido linfoide associado à mucosa (38 a 48%);
+	- Linfoma difuso de grandes células B (45 a 59%).
+	Para o estadiamento, está indicada a TC de tórax, abdome e pelve. Todos os pacientes devem ser testados para a presença de H. pylori por histologia, teste da uréase, teste respiratório, pesquisa do antígeno fecal ou sorologia na vasta maioria dos linfomas MALT (90%). Hibridização ou PCR para translocação t(11:18) também deve ser realizada.
+	O estadiamento dos linfomas gastrintestinais é realizado pelo sistema de Lugano.
+
+Tabela 11 - Estadiamento de Lugano
+Estadio I	Tumor confinado ao trato gastrintestinal. Pode ser lesão primária única ou múltipla, com lesões não contíguas
+Estadio II	O tumor se estende no abdome. É subdividido baseado na localização do envolvimento linfonodal:
+- Estadio II1: envolvimento de linfonodos locais (paragástricos para o linfoma gástrico ou paraintestinais para o linfoma intestinal);
+- Estadio II2: envolvimento de linfonodos distantes (para-aórticos, paracavais ou inguinais para a maioria dos tumores; mesentéricos nos intestinais);
+- Estadio IIE: tumor penetra a serosa e envolve órgãos ou tecidos adjacentes.
+Estadio III	Não existe neste sistema.
+Estadio IV	Observa-se envolvimento extranodal disseminado ou envolvimento linfonodal supradiafragmático concomitante.
+
+O tratamento do linfoma MALT gástrico é baseado no estadio da doença e presença do H. pylori:
+	- Estadio precoce e H. pylori positivo sem translocação y(11:18): recomenda-se erradicação do H. pylori;
+- Estadio precoce e H. pylori negativo ou com translocação t(11:18): sugere-se tratamento inicial com radioterapia local ao invés de erradicação do H. pylori, imunoterapia, quimioterapia ou gastrectomia;
+- Doença em estadio avançado: sugere-se erradicação do H. pylori se este for positivo, seguido de observação até o desenvolvimento de sintomas, quando deve ser iniciada quimioterapia;
+- Os pacientes devem ser avaliados após o tratamento para ver se houve erradicação do H. pylori e a resposta do tumor ao tratamento.
+
+Resumo
+
+
+Neoplasia gástrica benigna
+- O lipoma gástrico é raro, geralmente assintomático, apresentando-se na endoscopia como lesão subepitelial de aspecto amarelado;
+- O leiomioma é o tumor benigno gástrico mais comum, geralmente assintomático, originário da camada muscular própria ou muscular da mucosa, apresentando-se à endoscopia como lesão subepitelial com mucosa normal;
+- O hemangioma gástrico é raro, geralmente assintomático ou ocorre hemorragia digestiva, apresentando-se à endoscopia como lesão azulada ou violácea;
+- Tumor de células granulares é tumor submucoso raro, com origem nas células de Schwann, podendo ocorrer em qualquer parte do trato gastrintestinal, positivos para proteína S-100;
+- Pâncreas ectópico ocorre usualmente no estômago (60 a 70%), na grande curvatura junto à parede posterior do antro. Geralmente é lesão submucosa, firme, amarelada, com umbilicação central;
+- Schwannoma é neoplasia rara da bainha dos nervos, positivo para proteína S-100;
+- Cisto de duplicação é lesão congênita rara, geralmente assintomática nos adultos, e na ultrassonografia endoscópica se evidencia massa anecoide com todas as camadas da parede gástrica.
+Neoplasia gástrica maligna
+- O câncer gástrico (adenocarcinoma) possui causa multifatorial e envolve aspectos nutricionais, ambientais e genéticos;
+- 	A maioria dos pacientes com câncer gástrico é assintomática ou apresenta sintomas inespecíficos, relacionados à localização do tumor. Com a progressão da doença, podem surgir sinais clínicos de doença avançada, como massas palpáveis, linfonodos supraclaviculares e periumbilicais;
+- Pode ser classificado macroscopicamente em 4 tipos, segundo Borrmann, e histologicamente em 2 subtipos, segundo Lauren (intestinal e difuso);
+- O tipo intestinal acomete indivíduos idosos, é bem ou moderadamente diferenciado, tem melhor prognóstico do que o tipo difuso e localiza-se mais comumente no antro e na pequena curvatura;
+- O tipo difuso acomete indivíduos mais jovens, é indiferenciado e tem pior prognóstico do que o tipo intestinal;
 - O câncer gástrico precoce é classificado por critério endoscópico conforme a classificação de Paris (2002);
 - A endoscopia digestiva alta é o método diagnóstico de escolha e, também, possibilita seu estadiamento;
 - O câncer gástrico precoce, que não ultrapassa a submucosa, avaliado por ecoendoscopia, pode ser curado com ressecção local em até 95% dos casos; 
 - Os princípios do tratamento curativo são ressecção com margens e linfadenectomia alargada (D2).
+Linfoma gástrico
+- O envolvimento extranodal dos linfomas ocorre predominantemente no trato gastrintestinal, sendo o estômago o local mais acometido (68 a 75%);
+- São divididos em 2 tipos histológicos:
+? Linfoma extranodal das células B da zona marginal do tecido linfoide associado à mucosa (MALT) (38 a 48%);
+? Linfoma difuso de grandes células B (45 a 59%).
+- A infecção pelo H. pylori está altamente associada com o desenvolvimento do linfoma MALT;
+- O tratamento do linfoma MALT gástrico é baseado no estadio da doença e presença do H. pylori.
 
-Respostas
+Respostas das questões do capítulo
 1. B
 2. B
 3. A
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX	
