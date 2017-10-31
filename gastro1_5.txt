@@ -1,0 +1,385 @@
+Câncer de esôfago
+Fábio Carvalheiro / Eduardo Bertolli
+Allan Garms Marson / Yeda Mayumi Kuboki
+Rodrigo Biscuola Garcia / Lúcia C. Barcellos Kunen
+
+Resumo
+Neste capítulo, será discutido o câncer de esôfago. Os tipos histopatológicos mais comuns são o carcinoma espinocelular (CEC), mais prevalente no esôfago médio, e o adenocarcinoma (mais comumente detectado na porção distal do esôfago), responsáveis por mais de 95% dos casos de tumores esofágicos malignos. Os fatores de risco para o CEC são alcoolismo e tabagismo e, para o adenocarcinoma, o esôfago de Barrett, sendo o primeiro mais prevalente em homens brancos e o se-gundo em homens negros. A disfagia geralmente é referida quando o tumor acomete mais de 50% da luz do órgão (diâme-tro menor do que 13mm) e é o sintoma mais frequente nesses pacientes. Os principais diagnósticos diferenciais são este-nose por refluxo, megaesôfago e divertículo faringoesofágico. Para o diagnóstico além do quadro clínico, a endoscopia digestiva alta é o 1º exame a ser pedido e permite o diagnóstico histopatológico por biópsia. No estadiamento, a tomografia computadorizada é o principal exame a ser solicitado e utiliza-se o TNM de 2010. A cirurgia é a principal forma de tratamen-to, entretanto nem todos têm condições clínicas para suportá-la. Nesses casos, é possível a combinação de radioterapia e quimioterapia. A terapia neoadjuvante é a preferida nos tumores potencialmente ressecáveis. A epidemiologia dos princi-pais tipos histológicos e a conduta dentro do contexto multidisciplinar são os aspectos mais cobrados desse assunto nos concursos médicos. 
+
+1. Epidemiologia
+
+O câncer de esôfago é a 6ª causa de morte por câncer no mundo, acomete mais homens do que mulheres (3 a 5:1), e o pico de prevalência está entre a 5ª e a 6ª décadas de vida.
+As taxas de incidência variam internacionalmente em cerca de 16 vezes, com as taxas maiores no sul da África, na África Oriental e na Ásia Oriental, e as menores taxas no oeste e centro da África e na América Central. Países como China, Japão e Irã apresentam as maiores taxas dessa doença (principais fatores de risco podem incluir nutrição ruim, baixa ingesta de frutas e vegetais e bebidas em altas temperaturas), sendo 90% dos casos de carcinoma espinocelular (CEC). Também são altas as incidências no Chile e em algumas partes da África. No Brasil, a região Sul apresenta incidência maior do que as demais regi-ões. 
+O CEC e o adenocarcinoma são responsáveis por mais de 95% dos casos de tumores esofágicos malignos. Até há algum tempo, o carcinoma epidermoide, também conhecido como carcinoma espinocelular, era considerado o tipo mais comum, entretanto estudos têm apontado incidência semelhante entre ele e o adenocarcinoma (Figura 1), sendo este responsável por mais de 60% dos casos de câncer esofágico. Em contraste, no restante do mundo predomina o CEC. 
+Aproximadamente 50 a 60% dos pacientes com câncer esofágico têm doença localmente incurável ou metastática.
+
+ 
+Figura 1 - Incidência de adenocarcinoma e carcinoma espinocelular de esôfago ao longo das décadas
+
+Tabela 1 - Epidemiologia do câncer de esôfago nos Estados Unidos 
+	CEC	Adenocarcinoma
+Casos novos por ano	~7.000	~10.000
+Relação homem:mulher	3:1	7:1
+Relação negros:brancos	6:1	1:4
+Localização mais comum	Esôfago médio	Esôfago distal
+Fatores de risco maiores	Álcool, tabagismo	Esôfago de Barrett
+Fonte: UpToDate.
+
+2. Fatores etiológicos
+
+A - CEC
+As principais afecções predisponentes são megaesôfago, com risco 16 vezes maior do que a população geral (a estase esofágica aumenta a concentração de nitritos, decorrente da maior quantidade de bactérias redutoras de nitrito na luz do esôfago), estenose cáustica e, raramente, tilose (hiperceratose palmoplantar e papilomatose de esôfago, que constitui a única síndrome genética comprovadamente associada ao câncer de esôfago), síndrome de Plummer-Vinson e divertículos de esô-fago. Na tilose, a American Society for Gastrointestinal Endoscopy (ASGE) recomenda vigilância endoscópica a partir dos 30 anos, com intervalo de 1 a 3 anos. Estudos também evidenciam incidência aumentada naqueles com história passada ou atual de câncer de cabeça e pescoço e câncer de pulmão, gastrectomia prévia e risco 2 vezes maior em indivíduos com gastrite atrófica. Dentre os fatores agressivos e pró-carcinógenos da mucosa esofágica, destacamos o tabagismo e o etilismo. O Risco Relativo (RR) para o etilismo é de 2,4, e para o tabagismo, de 2,3; para usuários de ambos, o RR é de mais de 20. Vale destacar que os tumores de cabeça e pescoço e as neoplasias do trato respiratório sofrem igualmente os efeitos do tabagismo e estão presentes de forma sincrônica e metacrônica em até 3 a 14% dos casos de câncer de esôfago. Outros fatores de risco, como a ingestão de compostos nitrosos, sílica e alimentos contaminados por fungos, também são conhecidos, além da ingesta de alimentos muito condimentados em grande quantidade ou em temperaturas muito altas (como exemplo, no Sul do Brasil, o chimarrão). Outros fatores dietéticos citados como de risco são a ingestão de carne vermelha e baixos níveis de zinco e selê-nio.
+
+B - Adenocarcinoma
+É mais frequente em caucasianos e no sexo masculino (6:1). Dois fatores vêm sendo relacionados com o aumento da inci-dência desse tipo de câncer: a obesidade (por aumentar o risco de doença do refluxo) e a doença do refluxo gastroesofágico (a maioria se origina da região onde há Barrett). Quanto maior o tempo de doença do refluxo gastroesofágico (> 20 anos) e sintomas mais severos, maior o risco. Na obesidade, em uma meta-análise, o RR de adenocarcinoma foi de 1,71 para índice de massa corpórea entre 25 e 30kg/m2 e 2,34 para índice =30kg/m2. O esôfago de Barrett, decorrente da ação prolongada do refluxo gastroesofágico, é considerado fator predisponente (risco 30 vezes maior do que na população geral, mas risco abso-luto baixo de 0,12% ao ano). Tabagismo, obesidade, doença do refluxo gastroesofágico e baixa ingesta de frutas e vegetais estão presentes em quase 80% dos casos.
+
+Pergunta
+2015 - UNAERP
+1. O adenocarcinoma e o carcinoma epidermoide são responsáveis por cerca de 95% dos casos de neoplasia maligna de esôfago. Nas últimas décadas nos países desenvolvidos, observa-se predominância do adenocarcinoma. Assinale a alternati-va que apresenta as associações mais encontradas no adenocarcinoma:
+a) obesidade, tabagismo e consumo de álcool
+b) mulher, consumo de álcool e doença do refluxo gastroesofágico
+c) homem, tabagismo e esôfago de Barrett
+d) mulher, tabagismo e consumo de álcool
+e) consumo de álcool, tabagismo e associação a HPV
+Resposta no final do capítulo
+
+3. Anatomia patológica
+
+Quanto à localização, o principal sítio de ocorrência do CEC de esôfago é o terço médio, com mais de 50% dos casos, se-guido por esôfago inferior e, por último, esôfago cervical. É importante ressaltar que as áreas de estreitamento anatômico são especialmente suscetíveis. Originam-se de pequenos pólipos, epitélio desnudo ou placas. Essas lesões precoces podem não ser vistas à endoscopia; a cromoscopia com lugol pode facilitar o diagnóstico, pois esse composto de iodo cora o epitélio escamoso, que contém glicogênio, e essas lesões malignas não se coram, devido à ausência do glicogênio (Figura 2). Lesões mais avançadas costumam se caracterizar por massas ulceradas e infiltrativas. 
+
+ 
+Figura 2 - Carcinoma espinocelular de esôfago evidenciado por placa não corada após cromoscopia com lugol
+Fonte: UpToDate.
+
+É notório o comportamento biológico agressivo desse tumor, ao infiltrar-se localmente e acometer gânglios linfáticos adja-centes ou metastizar amplamente pela via hematogênica. A ausência de serosa favorece a disseminação local do tumor. Por contiguidade, ocorre invasão da árvore traqueobrônquica, da aorta e do pericárdio (fatores de irressecabilidade).
+
+Tabela 2 - Tipos de disseminação
+Disseminação por continuidade
+- Marcante nesse tipo de tumor;
+- Pode ocorrer pela submucosa de forma não visível macroscopicamente;
+- Nas ressecções esofágicas, não se admitem margens com menos de 10cm na cirurgia com intenção curativa.
+Disseminação linfática
+- Frequente e acontece mesmo em fases precoces, em que a invasão na parede esofágica ultrapassa a camada muscular da mucosa;
+- Invasão linfonodal precoce devido aos linfáticos no esôfago estarem localizados na lâmina própria, em contraste ao restante do trato gastrointestinal, no qual se localizam debaixo da muscular da mucosa;
+- Extensa drenagem linfática mediastinal em comunicação com as cadeias abdominais e cervicais confere ao tumor de esôfago alto poder de disseminação para esses 3 sítios, independente da localização.
+Disseminação via hematogênica
+- Mais tardia e, geralmente, indica fase final da doença;
+- Os órgãos mais acometidos são fígado (30%), pulmões e ossos.
+
+ 
+Figura 3 - Grupos ganglionares do esôfago 
+
+O adenocarcinoma, relacionado ao esôfago de Barrett, costuma aparecer em indivíduos mais jovens e com melhores con-dições nutricionais. A maioria dos tumores está localizada próximo à junção esofagogástrica (JEG), se apresentando como úlcera, nódulo ou alteração da mucosa no Barrett. Tende a comportar-se de maneira menos agressiva do que o CEC, em es-pecial no que tange à disseminação. Entretanto, devido às características anatômicas citadas, uma vez que ocorre a dissemi-nação, o adenocarcinoma pode metastizar para linfonodos e órgãos a distância. Como se localiza no esôfago distal, pode ser classificado de acordo com Siewert.
+
+- Classificação de Siewert (Figura 4)
+I: Tumores de esôfago distal, localizados entre 5 e 1cm proximais à cárdia anatômica;
+II: Tumores da região da cárdia, localizados entre 1cm proximal e 2cm distais à cárdia anatômica;
+III: Tumores subcárdicos gástricos que infiltram a JEG e o esôfago distal, localizados entre 2 e 5cm distais à cárdia anatômi-ca (tumores na JEG e 5cm proximais do estômago que se estendem na JEG ou no esôfago são considerados câncer esofá-gico pelo novo estadio TNM de 2010). 
+
+ 
+Figura 4 - Classificação de Siewert: (A) tipo I; (B) tipo II e (C) tipo III
+Fonte: UpToDate.
+
+A classificação de Siewert ajuda a diferenciar os tumores da JEG. Essas neoplasias podem tanto ser originadas no estômago e invadir o esôfago, como surgir no esôfago e invadir o estômago. A cirurgia em cada caso é diferente, pelo fato de a dissemi-nação linfonodal dos tumores também ser diferente.
+
+  
+Figura 5 - Esôfago de Barrett 
+
+  
+Figura 6 - Adenocarcinoma na junção entre esôfago e estômago
+
+Pergunta
+2012 - UFSC
+2. Considere um paciente de 55 anos, em muito bom estado geral, diagnosticado com carcinoma da cárdia (classificado como Siewert tipo I), sem evidências de metástases e julgado ressecável. Assinale a alternativa que apresenta a melhor conduta para o caso citado:
+a) laparotomia com ressecção de esôfago distal e estômago proximal
+b) laparotomia com esofagectomia distal e gastrectomia total
+c) toracotomia com esofagectomia subtotal e anastomose esofagogástrica cervical
+d) laparotomia com gastrectomia total e esofagectomia subtotal por via trans-hiatal
+e) quimioterapia neoadjuvante e radioterapia adjuvante
+Resposta no final do capítulo
+4. Quadro clínico e diagnóstico
+
+A - Quadro clínico
+A disfagia progressiva é o sintoma mais frequente, que se inicia com dificuldade para a ingestão de sólidos, evoluindo para alimentos pastosos e líquidos. 
+
+Quadro clínico
+Disfagia geralmente é referida quando o tumor de esôfago acomete mais de 50% da luz do órgão (diâmetro menor do que 13mm) e é o sintoma mais frequente nesses pacientes.
+
+Ocorrem, também, perda rápida de peso (devido a disfagia, alterações na dieta e anorexia associada ao tumor), odinofagia e regurgitação. Perda de sangue crônica é comum e pode resultar em anemia ferropriva. No entanto, sangramento digestivo agudo é raro e resulta de erosão da aorta ou artérias brônquicas ou pulmonar pelo tumor. Na fase avançada da doença, pode ocasionar sintomas decorrentes da invasão de estruturas adjacentes, como tosse e expectoração (fístula esofagobrônquica, complicação tardia com expectativa de vida menor do que 4 semanas, e/ou aspiração), dor torácica ou rouquidão (invasão dos nervos laríngeos recorrentes com paralisia da prega vocal) e síndrome de Claude Bernard-Horner (pela invasão do gân-glio estrelado). A doença espalha-se para linfonodos subjacentes e supraclaviculares, que, quando palpáveis, recebem o no-me de sinal de Troisier.
+
+B - Diagnóstico diferencial
+
+Tabela 3 - Principais diagnósticos diferenciais 
+Afecções	Características
+Estenose por refluxo	Disfagia em menos de 10% dos portadores de doença do refluxo gastroesofágico. A disfa-gia, geralmente, é lenta, progressiva e referida junto ao apêndice xifoide. 
+Megaesôfago	Disfagia com as mesmas características da estenose por refluxo. Os dados epidemiológi-cos e os achados do exame de Esôfago–Estômago–Duodeno (EED) e manometria fazem o diagnóstico.
+Divertículo 
+faringoesofágico	Pacientes de idade avançada, com disfagia alta que se acentua durante a ingestão, têm, como sintomas concomitantes, abaulamento cervical durante a refeição e regurgitação. O EED faz o diagnóstico.
+
+C - Exames diagnósticos
+O raio x contrastado de EED pode sugerir câncer esofágico, mas o diagnóstico é estabelecido com biópsia via endoscopia. 
+
+Diagnóstico diferencial
+A endoscopia digestiva alta está indicada para todos os casos suspeitos de câncer de esôfago, pois permite o diagnóstico histopatológico por biópsia. Na prática, é o 1º exame solicitado nos casos de disfagia. 
+
+Um método durante a endoscopia é a cromoscopia com lugol, que permite avaliação mais minuciosa da mucosa, identifi-cando áreas não coradas, que podem representar neoplasia, facilitando as biópsias dirigidas, ou seja, aumentando a sensibili-dade do exame. Lesões precoces aparecem à endoscopia como placas superficiais, nódulos ou ulcerações. As avançadas se apresentam como estenoses, massas ulceradas, massas circunferenciais ou extensas ulcerações. 
+ 
+ 
+Figura 7 - (A) Endoscopia com lesão infiltrativa e estenosante do esôfago e (B) endoscopia evidenciando massa ulcerada de aspecto estenosante
+Fonte: UpToDate.
+
+A biópsia confirma o diagnóstico e, quanto maior o número, maior a acurácia (1 biópsia: 93%; 4 biópsias: 95%; 7 biópsias: 98%); a associação do escovado citológico às 7 biópsias aumenta a acurácia para 100%. O EED com duplo contraste (ar + bá-rio) pode detectar tumores de até 1cm de diâmetro e comprovar eventuais fístulas traqueoesofágicas (Figura 8) ou esofa-gobrônquicas ou, ainda, esofagomediastinais. Retrações e alterações de eixo do esôfago, determinadas por fixações em estru-turas vizinhas, também podem ser observadas nesse tipo de exame.
+
+ 
+Figura 8 - Fístula traqueoesofágica (seta: comunicação com brônquio-fonte esquerdo) diagnosticada após a ingestão de contraste via oral para exame esôfago–estômago–duodeno em incidência anteroposterior
+
+5. Estadiamento
+
+Fundamental para o planejamento terapêutico, tem como objetivo avaliar a profundidade da invasão do tumor na parede esofágica, a disseminação linfonodal e a ocorrência de metástase a distância. 
+
+Diagnóstico
+Tomografia computadorizada é o principal método no estadiamento da neoplasia de esôfago. 
+
+No estadiamento da neoplasia de esôfago, a Tomografia Computadorizada (TC) é o principal método. No entanto, a TC é de valor limitado para estadiamento locorregional do tumor (em um estudo, a predição correta ocorreu em apenas 42% dos casos). O exame tomográfico deve verificar estruturas cervicais, torácicas e abdominais, sendo considerado um bom método para avaliação da invasão da árvore brônquica (suspeita de invasão se houver deslocamento ou distorção da parede posterior da traqueia ou dos brônquios). Sinais como perda do pano gorduroso triangular entre o esôfago, a aorta e a coluna vertebral ou, ainda, ângulo de contato do tumor com a aorta maior que 90° demonstram a invasão da aorta. A TC é um importante exa-me para avaliação de metástases em sítios de disseminação da doença (fígado, pulmão e suprarrenais) e para visualização de linfadenomegalia. Não há vantagens no estadiamento com ressonância em relação à TC.
+A laringobroncoscopia, para avaliar o comprometimento da árvore traqueobrônquica, deve ser realizada especialmente nos tumores proximais e médios torácicos, com o objetivo de comprovar histologicamente a invasão da árvore traqueobrôn-quica ou a fistulização. O simples abaulamento da parede da traqueia sem ulceração não significa o acometimento da região.
+A ultrassonografia endoscópica é o método mais eficaz para definir a profundidade da lesão (T), sendo muito útil para le-sões retidas. É o exame com melhor acurácia na avaliação do estadiamento locorregional do câncer invasivo, com acurácia para o tumor de 80% e para os linfonodos de 90%. A avaliação de linfonodos periesofágicos possibilita, ainda, a biópsia tran-sesofágica quando há dúvida diagnóstica.
+
+Importante
+Um problema no estadiamento do câncer de esôfago com ultrassonografia endoscópica é que esta não ultrapassa os tumo-res estenosantes (30% dos casos), podendo subestimar o tumor porque a lesão inteira não pode ser visualizada. 
+
+Hoje, utiliza-se a tomografia por emissão de pósitrons (PET-CT), ou PET scan, com o objetivo de avaliar funcionalmente le-sões suspeitas, assim como metástases a distância. Diversos estudos vêm demonstrando a acurácia desses métodos, e sua utilização no estadiamento, principalmente de metástases pequenas, encontra evidências sólidas na literatura. Entretanto, seu elevado custo impede a utilização rotineira. Lembrar que esse exame deve ser utilizado quando pode proporcionar mudança na terapêutica proposta, não devendo ser realizado de rotina. 
+A necessidade de laparoscopia diagnóstica nos pacientes com adenocarcinomas de esôfago distal ou da JEG aparentemen-te ressecáveis é controversa, e não há um consenso quanto a isso. 
+
+Tabela 4 - Classificação TNM (Union for International Cancer Control – UICC 2010)
+T	Tumor primário
+Tx	Tumor que não pode ser avaliado
+T0	Sem evidência de tumor
+Tis	Displasia de alto grau
+T1	Tumor que invade lâmina própria, muscular da mucosa ou submucosa 
+T1a	Tumor que invade a lâmina própria ou muscular da mucosa
+T1b	Tumor que invade a submucosa 
+T2	Tumor que invade até a muscular própria
+T3	Tumor que invade até a adventícia
+T4	Tumor que acomete estruturas adjacentes
+T4a	Tumor ressecável, que invade pleura, pericárdio, diafragma ou peritônio adjacente
+T4b	Tumor irressecável invadindo outras estruturas adjacentes, como aorta, corpo vertebral, traqueia etc. 
+N	Linfonodos regionais
+Nx	Sem possibilidade de avaliação dos linfonodos 
+N0	Linfonodos regionais não comprometidos
+N1	De 1 a 2 linfonodos regionais comprometidos
+N2	De 3 a 6 linfonodos regionais comprometidos
+N3	Metástase em 7 ou mais linfonodos 
+M	Metástases
+Mx	Metástases a distância que não podem ser avaliadas
+M0	Ausência de metástases a distância
+M1	Metástases a distância 
+Graduação histológica
+Gx	Grau que não pode ser avaliado
+G1	Bem diferenciado
+G2	Moderadamente diferenciado
+G3	Pouco diferenciado
+G4	Indiferenciado
+
+Tabela 5 - Estadiamento TNM de tumor espinocelular (UICC, 2010)
+Estadios	T	N	M	Graus histológicos	Localizações do tumor
+0	Tis (alto grau de displasia)	N0	M0	1, x	Qualquer
+IA	T1	N0	M0	1, x	Qualquer
+IB	T1	N0	M0	2, 3	Qualquer
+	T2, T3	N0	M0	1, x	Baixo, x
+IIA	T2, T3	N0	M0	1, x	Alto, médio
+	T2, T3	N0	M0	2, 3	Baixo, x
+IIB	T2, T3	N0	M0	2, 3	Alto, médio
+	T1, T2	N1	M0	Qualquer	Qualquer
+IIIA	T1, T2	N2	M0	Qualquer	Qualquer
+	T3	N1	M0	Qualquer	Qualquer
+	T4a	N0	M0	Qualquer	Qualquer
+IIIB	T3	N2	M0	Qualquer	Qualquer
+IIIC	T4a	N1, N2	M0	Qualquer	Qualquer
+	T4b	Qualquer	M0	Qualquer	Qualquer
+	Qualquer	N3	M0	Qualquer	Qualquer
+IV	Qualquer	Qualquer	M1	Qualquer	Qualquer
+Observações: 
+- Localização x – não foi possível definir;
+- Esôfago alto refere-se ao terço superior, esôfago médio ao terço médio e esôfago baixo ao terço inferior.
+
+Tabela 6 - Estadiamento TNM de adenocarcinoma (UICC, 2010)
+Estadios	T	N	M	Graus histológicos
+0	Tis (alto grau de displasia)	N0	M0	1, x
+IA	T1	N0	M0	1, 2, x
+IB	T1	N0	M0	3
+	T2	N0	M0	1, 2, x
+IIA	T2	N0	M0	3
+IIB	T3	N0	M0	Qualquer
+	T1, T2	N1	M0	Qualquer
+IIIA	T1, T2	N2	M0	Qualquer
+	T3	N1	M0	Qualquer
+	T4a	N0	M0	Qualquer
+IIIB	T3	N2	M0	Qualquer
+IIIC	T4a	N1, N2	M0	Qualquer
+	T4b	Qualquer	M0	Qualquer
+	Qualquer	N3	M0	Qualquer
+IV	Qualquer	Qualquer	M1	Qualquer
+
+6. Tratamento
+
+A abordagem terapêutica do câncer de esôfago deve sempre contar com múltiplas formas de tratamento, como cirurgia, radical ou paliativa, dependendo do estadiamento do tumor e do estado geral do paciente, além de quimioterapia e radiote-rapia. Nos dias de hoje, a radioterapia pré-operatória vem ganhando espaço, indicada principalmente para os tumores cha-mados localmente avançados, ou seja, que invadem estruturas adjacentes importantes e, por isso, tornam-se irressecáveis.
+
+A - Medidas pré-operatórias
+A cura só pode ser alcançada por meio de cirurgia. Antes do procedimento, é importante avaliar o estado nutricional do paciente. Perdas ponderais maiores do que 20% do peso, queda dos níveis de albumina e linfopenia são indicadores de su-porte nutricional prévio à cirurgia, que pode ser realizado por meio de sonda enteral por, no mínimo, 15 dias, reduzindo as complicações cirúrgicas. 
+Além disso, devem ser avaliadas as funções pulmonar e cardíaca antes da cirurgia, de modo a diminuir o risco de compli-cações sistêmicas do procedimento. Geralmente, os pacientes são etilistas e tabagistas, o que comumente resulta em um número maior de patologias respiratórias, cardíacas e hepáticas associadas. 
+
+Dica
+A cura do câncer de esôfago acontece pela cirurgia, porém às vezes é necessário suporte nutricional prévio para melhorar o estado nutricional, bem como os níveis de albumina e a linfopenia associada.
+
+Pergunta
+2015 - SURCE
+3. Um homem de 60 anos, com história de disfagia progressiva de sólidos para líquidos associada a perda de peso de 10kg em 3 meses, alimenta-se com dificuldade, apenas com líquidos, e refere regurgitação ocasional e tosse. Hábitos: tabagismo de 30 anos/maço. Ao exame, emagrecido (++/4+). A TC toracoabdominal mostra estreitamento do esôfago médio de aspecto neo-plásico, com plano de clivagem com vias aéreas com passagem de contraste para o estômago, sem adenomegalias detectáveis, pulmões de aspecto normal e demais órgãos sem alterações. Aguarda endoscopia para realizar biópsia e não tem intercorrên-cias clínicas. Qual é a melhor via de acesso para terapia nutricional a esse paciente? 
+a) dieta por sonda nasogástrica/enteral 
+b) dieta por gastrostomia 
+c) dieta por jejunostomia 
+d) dieta parenteral 
+Resposta no final do capítulo
+B - Critérios para ressecção	
+
+a) Esofagectomia como 1ª linha de tratamento
+Pacientes com lesões T1N0M0;
+Pacientes com lesões T2N0M0.
+
+b) Candidatos à esofagectomia após terapia neoadjuvante
+Pacientes com tumores torácicos ou da JEG com envolvimento de toda a espessura do esôfago (T3), com ou sem doença nodal;
+Selecionados pacientes T4 com invasão de estruturas locais (pericárdio, pleura, e/ou diafragma somente), que podem ser ressecadas em bloco, sem evidência de doença metastática de outros órgãos (exemplos: fígado, cólon).
+
+c) Esofagectomia após terapia neoadjuvante 
+Pacientes que toleram bem a indução e têm respostas radiográfica e endoscópica são candidatos à cirurgia em 4 a 6 se-manas após a quimioterapia ou quimiorradioterapia;
+Nos pacientes com adenocarcinoma de JEG, geralmente, prefere-se a terapia neoadjuvante, exceto nos casos em que o tumor é claramente ressecável e o paciente não tolera a terapia pré-operatória ou o estadiamento pré-operatório suge-re um tumor T1/2N0. É mais sugerida quimiorradioterapia pré-operatória do que quimioterapia perioperatória para a maioria dos pacientes que a toleram (graduação 2B). Essas recomendações seguem o National Comprehensive Cancer Network para câncer esofágico e de JEG.
+
+d) Contraindicações relativas
+Idade avançada é associada a grande morbidade pós-operatória;
+Comorbidades com risco aumentado de mortalidade e complicações pós-operatórias (deiscência, infecção).
+
+e) Indicadores de irressecabilidade
+A presença de metástases peritoneal, pulmonar, óssea, adrenal, cerebral ou hepática, ou linfonodos extrarregionais (para-aórticos, mesentéricos) contraindica a cirurgia. Metástases linfonodais celíacas e mediastinais/supraclaviculares são conside-radas regionais pelo novo escore TNM de 2010 (é o número de linfonodos envolvidos, e não a localização, que determina o N).
+
+  
+Figura 9 - Critérios para ressecção
+
+C - Ressecções radicais
+A esofagectomia é considerada cirurgia de grande porte, o que exige do paciente condição clínica favorável. As ressec-ções esofágicas são realizadas por via mista, ou seja, abdominal e torácica, abdominal e cervical sem toracotomia ou esofagec-tomia em 3 campos (Figura 10).
+
+ 
+Figura 10 - (A) Esofagectomia por laparotomia e cervicotomia (trans-hiatal) e (B) esofagectomia em 3 campos (laparotomia, toracoto-mia e cervicotomia)
+
+A cirurgia mais radical é a chamada esofagectomia em 3 campos. Nela, há a abordagem por intermédio de 1 acesso abdo-minal, 1 torácico e 1 cervical, permitindo dissecção bastante ampla do esôfago, além de contar com a ressecção dos linfono-dos das cadeias mediastinais, cervicais e abdominais. Assim, pacientes com boas condições nutricionais e respiratórias, com tumores ressecáveis do terço médio, são os principais candidatos a tal procedimento, lembrando que lesões mais precoces têm melhores resultados. Devido ao grande avanço da Medicina minimamente invasiva, utiliza-se a toracoscopia em substitui-ção ao acesso por toracotomia na região torácica, e, eventualmente, alguns grupos realizam a laparoscopia para a parte ab-dominal da cirurgia.
+Outra opção de abordagem cirúrgica é a esofagectomia transmediastinal, em que há um acesso abdominal com frenoto-mia e cervicotomia. A principal vantagem dessa técnica é a não necessidade da toracotomia com todas as suas complicações. Outras vantagens podem ser citadas, como amplas linfadenectomias abdominal e torácica (boa opção para ressecções por doenças benignas do esôfago e de neoplasias ressecáveis de terço inferior de esôfago), além de uma alternativa a ressecções de tumores de terço médio para pacientes sem condições cirúrgicas de toracotomia. A principal desvantagem é a não visuali-zação completa do tumor, inviabilizando a sua retirada total ou mesmo das estruturas adjacentes nos tumores mais proximais. 
+É consensual que, nos casos de câncer de esôfago, independente da situação, a ressecção total seja a melhor opção tera-pêutica e deve, portanto, ser sempre utilizada. O tipo preferencial de anastomose é a esofagogástrica cervical, que, apesar de apresentar fístula em até 15% dos casos, tem mortalidade quase nula. Os americanos utilizam rotineiramente anastomoses intratorácicas, que têm menores índices de fístula, porém com mortalidade alta quando presente, devido à mediastinite con-sequente.
+A reconstrução do trânsito deve ser simples e eficaz, obedecendo aos princípios da técnica operatória, como anastomo-ses sem tensão e vascularização adequada, respeito à anatomia e à manutenção da função. 
+	
+Importante
+Após a ressecção do câncer de esôfago, tanto o estômago quanto o cólon podem ser utilizados na anastomose, mas é mais utilizada a esofagogastroplastia, em virtude da facilidade técnica (Figura 11). 
+
+ 
+Figura 11 - Confecção de tubo gástrico: (A) o órgão foi levado pelo mediastino e (B) a anastomose realizada com o esôfago cervical por cervicotomia
+
+ 
+Figura 12 - Produto de esofagectomia por toracotomia
+
+Tabela 7 - Descrição das linfadenectomias
+D1	Linfonodos perigástricos
+D2	Linfonodos perigástricos, linfonodos ao longo das artérias hepática, gástrica esquerda, celíaca e esplênica, assim como aqueles no hilo esplênico
+D3	Linfadenectomia D2 + linfonodos para-aórticos
+
+D - Resumo das indicações cirúrgicas
+
+a) Câncer de esôfago cervical
+Como muitos pacientes se apresentam com doença avançada e há apenas um manejo nessa situação, muitos são tratados primariamente com quimioterapia e radioterapia. Naqueles que falham a estas, a ressecção cirúrgica usualmente requer remoção de porções da laringe, da faringe, da glândula tireoide e do esôfago proximal. Essa cirurgia requer incisões cervical, abdominal e torácica, e traqueostomia terminal permanente. A restauração com o trato gastrintestinal é realizada puxando-se o estômago para cima e anastomosando com a faringe. Se houver margens suficientes no esfíncter esofágico superior, realiza-se esofagectomia tri-incisional com anastomose manual para preservar a extensão esofágica.
+
+  
+Figura 13 - Indicação cirúrgica para câncer cervical
+
+b) Câncer de esôfago torácico
+A esofagectomia trans-hiatal, a transtorácica (Ivor-Lewis) e a tri-incisional são os procedimentos mais comuns na América do Norte, enquanto a esofagectomia e a linfadenectomia estendida são mais comuns na Ásia. Realiza-se esofagectomia toráci-ca total (risco de lesões salteadas na submucosa) com anastomose esofagogástrica cervical, dissecção linfonodal em 2 campos radicais e colocação de sonda de jejunostomia. Prefere-se uma abordagem tri-incisional, que consiste em: (1) toracotomia posterolateral direita ou toracoscopia, inicialmente; seguida por (2) laparotomia, para obter dissecção esofágica completa e mobilização do conduto gástrico, com ressecção em bloco dos linfonodos mediastinais e abdominais superiores; e (3) uma incisão cervical esquerda e anastomose cervical.
+
+  
+Figura 14 - Indicação cirúrgica para câncer torácico
+
+c) Câncer na junção esofagogástrica
+Geralmente, é realizada esofagectomia total com esofagogastrostomia cervical, com gastrectomia parcial ou extensa, de-pendendo da extensão do envolvimento gástrico. 
+Pacientes Siewert I devem ser abordados com esofagectomia transtorácica em bloco e gastrectomia parcial com linfade-nectomia em 2 campos (D2).
+Na maioria dos tumores Siewert II e III, gastrectomia total com ressecção transabdominal/trans-hiatal do esôfago distal e linfadenectomia do mediastino baixo e dos linfonodos abdominais D2 são adequadas.
+
+Importante
+Para ressecção completa (R0) do câncer na junção esofagogástrica, são necessários margem gástrica (distal) de 4cm, margem esofágica de 5cm e ressecção de, pelo menos, 15 linfonodos.
+
+  
+Figura 15 - Indicação cirúrgica para câncer na junção esofagogástrica
+
+E - Prognóstico
+A sobrevida global para os tumores de esôfago em 5 anos é de, no máximo, 25%. O estadiamento e o diagnóstico precoce da afecção selam o prognóstico e a evolução em longo prazo. O câncer de esôfago, geralmente, é diagnosticado em fases avançadas quando já representa doença sistêmica. Nos estágios mais avançados, a sobrevida chega, no máximo, a 10%. Me-lhores resultados dependem de diagnóstico precoce, seguimento dos grupos de risco, planejamento terapêutico individuali-zado e multidisciplinar (com nutrólogos e radioterapeutas). 
+
+F - Tratamento paliativo
+O planejamento terapêutico deve levar em conta o estadiamento do tumor e as condições clínicas do paciente. Conside-rando que a grande maioria dos tumores de esôfago é diagnosticada na fase tardia, muitos indivíduos não apresentam condi-ções para tratamento radical; passa-se, então, ao objetivo da restauração paliativa da capacidade de deglutição ou de nutri-ção. Deve-se levar em conta que os pacientes se encontram comumente em regular ou mau estado geral; por isso, procedi-mentos que melhorem os sintomas de forma rápida devem ser eleitos. São exemplos cirurgias que desviem o trânsito da porção do tumor (bypass) ou colocação de prótese via endoscópica (Figura 17). Com a prótese endoscópica, mesmo sendo um procedimento relativamente simples, os índices de complicações ultrapassam 20%, com mais de 10% de mortalidade. Além de não ser inócua, oferece uma paliação insatisfatória da disfagia (não tem atividade motora) e não pode ser empregada em tumores do terço proximal (até 20cm da arcada dentária superior), pois causa sensação de corpo estranho. Por outro lado, representa opção de escolha nos casos de fístulas traqueoesofágicas, com oclusão de até 70 a 100% dos casos. Reinter-venção por migração do stent, crescimento tumoral para dentro da luz, hiperplasia tecidual ou obstrução de alimentos é re-querida em 10 a 50% dos pacientes.
+A quimioterapia associada à radioterapia pode ser útil no manejo da disfagia, pois limita o crescimento e pode reduzir a massa tumoral. A complicação mais frequente é a fístula traqueoesofágica (descrita em 6% dos casos), cujo tratamento pode ser feito endoscopicamente. 
+No caso de tumores toracoabdominais, ao CEC ou adenocarcinoma de esôfago inoperáveis ou irressecáveis recomenda-se quimiorradioterapia em vez de radioterapia isolada naqueles capazes de tolerá-la com expectativa de vida estimada maior do que poucas semanas (graduação 1B).
+A grande maioria não se beneficia de esofagectomia após quimiorradioterapia. No entanto, seletos pacientes com doença inicialmente irressecável ou ressecável borderline (T4) podem atingir resposta suficiente a quimiorradioterapia pré-operatória, tornando ressecção potencialmente curativa possível. 
+Àqueles que não toleram a quimiorradioterapia ou com expectativa de vida curta, é sugerido paliação dos sintomas com terapia endoscópica ou braquiterapia (graduação 2C). Intervenções endoscópicas (dilatação, colocação de stent, laser, terapia fotodinâmica) são apropriadas em: pacientes com indicação de quimiorradioterapia, mas com disfagia severa; falha na palia-ção da disfagia; disfagia recorrente por falência locorregional; disfagia recorrente por estenoses benignas nos tratados com radioterapia; pobres candidatos a quimiorradioterapia; e disfagia associada a fístula traqueoesofágica.
+Braquiterapia é considerada alternativa a terapia endoscópica na paliação da disfagia quando a doença extraluminal é limi-tada e paliação em longo prazo é provável.
+  
+Figura 16 - Tratamento paliativo para tumores toracoabdominais
+
+Tumores cervicais: sugere-se quimiorradioterapia em vez de cirurgia nos pacientes com tumores localmente avançados do esôfago cervical (graduação 2C).
+
+  
+Figura 17 - (A) Visão da prótese localizada no esôfago e (B) radiografia de tórax em perfil mostrando prótese esofágica 
+
+Em alguns pacientes com bom status cirúrgico, pode ser realizada esofagectomia trans-hiatal paliativa, desde que se obte-nha ressecção total ou quase total do tumor na cirurgia.
+  
+Figura 18 - Tratamento paliativo de tumores cervicais
+
+Dentre as chamadas ostomias, as mais utilizadas são a gastrostomia e a jejunostomia. Porém, esse método paliativo deve ser o último cogitado, pois leva a redução da qualidade de vida por não resolver o problema de ingestão oral. 
+
+G - Radioterapia e quimioterapia 
+
+a) Neoadjuvância
+Indicada para controle de micrometástases em pacientes que têm possibilidade de ressecção cirúrgica ou para tornar um tumor localmente avançado (aderência a estruturas nobres e, portanto, irressecável) em ressecável, é realizada com radiote-rapia acompanhada de cisplatina e 5FU (fluoruracila). O regime típico de tratamento envolve 3 ciclos de cis-DDP e 5FU, com radioterapia iniciada junto a quimioterapia, com dose total de 4.000 a 4.500cGy. Proporciona downstaging (melhora do esta-diamento) na maioria dos casos. 
+A cirurgia pode ser realizada após a melhora da neutropenia associada à neoadjuvância, o que ocorre de 3 a 6 semanas após o término dos ciclos. O efeito da neoadjuvância é avaliado por meio da patologia do espécime cirúrgico, podendo ser continuada a quimioterapia por mais 2 ciclos após a cirurgia.
+
+b) Adjuvância
+A radioterapia tem papel importante no tratamento das neoplasias de esôfago de várias maneiras, aliviando, inclusive, a disfagia em 80% dos pacientes; seus resultados são superiores quando em associação a quimioterapia.
+Não se faz radioterapia em portadores de fístula traqueoesofágica (pode aumentar o tamanho da fístula) e de próteses (por diminuir o tumor, aumenta a chance de deslocamento da prótese). Há trabalhos que mostram resultados semelhantes, se comparados ao uso de cirurgia e radioterapia exclusivas no tratamento do CEC de esôfago. 
+A quimioterapia como modalidade única é a técnica menos eficaz para o tratamento e, como paliação, traz poucas e insig-nificantes melhoras. As drogas mais utilizadas são cisplatina e 5FU. 
+
+H - Resumo das terapias adjuvante e neoadjuvante para tumores ressecáveis
+
+a) Câncer de esôfago torácico
+Apesar de a quimiorradioterapia ser opção potencialmente curativa para o CEC, existe alta taxa de persistência de doença local e recorrência após quimiorradioterapia isolada; e, no adenocarcinoma, há baixa taxa de resposta patológica completa. Portanto, a inclusão de cirurgia é a preferida para câncer de esôfago ressecável, particularmente o adenocarcinoma.
+É recomendada terapia combinada, em vez de apenas cirurgia, nos pacientes com T3N0 estadio I, e todos os pacientes com estadios IIA, IIB e III, independente da histologia (graduação 1A). Sugere-se quimiorradioterapia concomitante, em rela-ção a quimioterapia isolada, para tratamento neoadjuvante (graduação 2B). O benefício nos tumores T2N0 é menos claro, mas estudos mostrando melhora na sobrevida com esse tratamento sugerem sua indicação. 
+O benefício da neoadjuvância para pacientes T1N0 esofágicos ou da JEG com adenocarcinoma, ou CEC, é menos claro; nesses pacientes é recomendada cirurgia isolada (graduação 1B).
+Para pacientes com ressecção completa de câncer de esôfago linfonodo-positivo que não receberam tratamento neoad-juvante, é sugerido terapia adjuvante pós-operatória (quimioterapia isolada ou quimiorradioterapia – graduação 2C).
+
+b) Câncer de junção esofagogástrica
+É preferido tratamento neoadjuvante para a maioria dos pacientes. No entanto, cirurgia isolada pode ser considerada se houver tumor claramente ressecável, o paciente não for tolerante ao tratamento neoadjuvante ou estadio pré-operatório sugerir um T1/2N0.
+Terapia combinada está indicada a pacientes T3 ou mais, ou adenocarcinoma linfonodo-positivo de JEG ou cárdia gástrico (graduação 1A). Sugere-se quimiorradioterapia para os pacientes que a toleram (graduação 2B).
+Quimioterapia perioperatória é aceitável para pacientes que não toleram a terapia trimodal e serão favorecidos pela alta suspeita de metástase oculta.
+O benefício da terapia neoadjuvante para os adenocarcinomas T1/2N0 de JEG é menos claro, sendo recomendada apenas cirurgia (graduação 2B).
+
+c) Câncer de esôfago proximal
+Em geral, a radioterapia combinada com quimioterapia é preferida em relação à cirurgia, porque a sobrevida parece ser a mesma e é evitada maior morbidade.
+
+7. Resumo	
+
+Quadro-resumo
+-	A incidência de adenocarcinoma de esôfago está aumentando em decorrência do crescimento de casos de esôfago de Barrett;
+-	O CEC de esôfago tem maior potencial de disseminação linfática e a distância;
+- O principal exame diagnóstico é a endoscopia digestiva alta com biópsia;
+- O estadiamento TNM de 2010 é o utilizado para decisão do tratamento dos pacientes com câncer de esôfago; o tipo de tratamento cirúr-gico dos pacientes com câncer de JEG é direcionado pela classificação de Siewert;
+-	A cirurgia é a principal forma de tratamento, entretanto nem todos os pacientes têm condições clínicas para suportá-la. Nesses casos, é possível a combinação de radioterapia e quimioterapia. A terapia neoadjuvante é a preferida nos tumores potencialmente ressecáveis.
+
+Respostas 
+1. C 
+2. C 
+3. A
+
+Dica
+Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
+Questões: página XX
+Comentários: página XX

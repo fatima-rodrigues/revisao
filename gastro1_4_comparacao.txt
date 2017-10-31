@@ -1,0 +1,315 @@
+diff --git a/gastro1_4.txt b/gastro1_4.txt
+index c8cc075..15d1972 100644
+--- a/gastro1_4.txt
++++ b/gastro1_4.txt
+@@ -1,32 +1,34 @@
+Afecções mecânicas do esôfago
+Fábio Carvalheiro[- / -]
+Eduardo Bertolli
+Allan Garms Marson[- / -]
+Yeda Mayumi Kuboki
+Rodrigo Biscuola Garcia[- / -]
+Lúcia C. Barcellos Kunen
+
+[-Resumo-]Neste capítulo, serão discutidas as chamadas afecções mecânicas ou obstrutivas do esôfago, bem como os anéis e as membranas esofágicas, os divertículos, a síndrome de Mallory-Weiss, a estenose cáustica e a esofagite eosinofílica. Os anéis e as membranas esofágicas são frágeis e finas estruturas que comprometem a luz esofágica parcial ou completa{+-+}mente. Os anéis esofágicos, por sua vez, são mais bem visualizados pelo Esôfago–Estômago–Duodeno (EED) e divididos em A (mais frequentes em crianças) e B (de Schatzki – mais frequentes em adultos). Quando sintomáticos, causam disfagia, e nesses casos o tratamento preferencial é obtido por dilatação endoscópica, recomendando-se inibidores da bomba de prótons. As membranas localizadas no esôfago cervical são mais frequentes e fazem parte da síndrome de Plummer-Vinson ou Patterson[---]{+­+}Kelly. Acometem mais mulheres brancas entre a 4ª e a 7ª décadas de vida e se caracte{+-+}rizam pela presença de uma tríade composta por membrana esofágica, disfagia e anemia ferropriva. O tratamento clínico baseia-se na correção da anemia (ou doença de base) e, nos casos de disfagia, na dilatação endoscópica. Os divertículos são dilatações da parede do esôfago e [-são -]classificados em verdadeiros, falsos ou intramurais, a depender de sua localização, com tratamentos e prognósticos específicos. A síndrome de Mallory-Weiss caracteriza-se por lacera{+-+}ções longitudinais da mucosa no esôfago distal e no estômago proximal, usualmente associada a ânsia de vômito força{+-+}da e vômito. O exame para investigação é a endoscopia, e, no tratamento para sangramento ativo, pode ser realizada a terapia endoscópica com injeção de adrenalina ou esclerosantes (Ethamolin®) como monoterapia, ou associadas ao tratamento térmico. Quanto à estenose cáustica, relaciona-se mais frequentemente a acidentes com crianças e tenta{+-+}tivas de suicídio, e a substância cáustica leva a lesão esofágica em diferentes graus. As lesões podem ser classificadas em superficiais e profundas, e o quadro é de sialorreia[-,-]{+ e+} odinofagia[- e ingestão de alimento corrosivo-]. O tratamento agudo é sistemático, e a endoscopia digestiva alta é de extrema importância quando o paciente tem estabilidade. Já a esofagite eosinofílica está relacionada à presença de eosinófilos no esôfago. Os critérios diagnósticos são embasados em história clínica (disfagia, impactação alimentar), achados endoscópicos (esôfago “em traqueia”) e histologia (=15 eosinófilos/campo de grande aumento). Todas essas situações são comumente cobradas em concursos médicos no que tange ao diagnóstico diferencial entre elas e, logo, as condutas adequadas em cada situação. 
+
+1.[- -]{+	+}Anéis esofágicos
+
+{+	+}Os anéis e as membranas esofágicos são frágeis e finas estruturas que comprometem a luz esofágica parcial ou completamente. Os anéis esofágicos são mais bem visualizados pelo exame de Esôfago–Estômago–Duodeno (EED) e são divididos em anéis A e anéis B.
+{+	+}Os anéis A, também conhecidos como [-anéis -]musculares, são raros, usualmente vistos em crianças, a 2cm da junção es{+-+}camocolunar e caracterizados por musculatura hipertrófica no corpo esofágico (corresponde à região mais forte do esfíncter esofágico inferior). O calibre varia durante a peristalse, distinguindo-os das estenoses pépticas ou do anel mucoso. Já os anéis B foram descritos por Schatzki como estruturas mucosas na transição anatômica esofagogástrica e que são macias, finas (<4mm na extensão axial) e cobertas por mucosa escamosa acima e epitélio colunar abaixo. Aco{+-+}metem mais adultos e idosos, e a etiologia não está totalmente definida, mas a causa mais provável seria a agressão repetida que o epitélio sofre durante a doença do refluxo gastroesofágico (DRGE). Também está presente em jovens usuários de drogas. Em um estudo, hérnia hiatal estava presente em 97% dos casos.
+
+A - Quadro clínico
+{+	+}Geralmente são assintomáticos, sendo o anel B um achado de exame em 6 a 14% dos EEDs de rotina, sem neces{+-+}sidade de tratamento clínico ou cirúrgico. Os anéis sintomáticos correspondem somente a 0,5% de todos os exames, mas são responsáveis por 15 a 26% dos casos de disfagia esofágica. 
+{+	+}
+Dica
+O anel de Schatzki costuma ser sintomático quando o diâmetro interno do anel é inferior a 13mm.[- -]
+
+A disfagia é um sintoma importante, podendo variar de sólidos a líquidos, mas principalmente a sólidos. Dor em quei{+-+}mação é outra queixa devida à provável associação a DRGE, além da impactação de alimentos sólidos no local do anel.
+
+B - Patogênese
+{+	+}A patogênese dos anéis é controversa; DRGE ou origem congênita têm sido propostas. Também é descrita asso{+-+}ciação a esofagite eosinofílica, apesar de nesta ser mais comum a presença de múltiplos anéis.
+
+C - Diagnóstico
+{+	+}Os estudos radiológicos e endoscópicos (Figura 1) são preferenciais no esclarecimento do diagnóstico comple{+-+}mentar dos anéis. 
+
+Diagnóstico
+Uma técnica adequada do exame EED detecta os anéis esofágicos em 100% dos casos (Figura 2).[- -]
+
+Em muitos casos, a endoscopia pode não identificar o anel, devendo ser sempre solicitado o exame contrastado. Outra observação é que, eventualmente, o paciente refere melhora da disfagia após o exame endoscópico.
+
+@@ -34,16 +36,16 @@ Em muitos casos, a endoscopia pode n
+Figura 1 - Anel de Schatzki suficientemente apertado para causar disfagia 
+Fonte: UpToDate.
+
+ [- -]
+Figura 2 - Exame de esôfago–estômago–duodeno evidenciando anel de Schatzki
+Fonte: Arquivos Brasileiros de Cirurgia.
+
+D - Tratamento
+Nos casos de disfagia, o tratamento preferencial é obtido por meio de dilatação endoscópica com sondas termoplás{+-+}ticas de grande calibre (=50Fr), e, devido à associação a DRGE, recomendam-se inibidores da bomba de prótons (dimi{+-+}nuem o risco de recorrência{+, mesmo em pacientes sem sintomas de refluxo+}). Excepcionalmente, é necessária ressec{+-+}ção cirúrgica da estenose, porém a cirurgia para DRGE, como a fundoplicatura, pode{+rá+} ser considerada se a causa prin{+-+}cipal for o refluxo.
+
+Pergunta
+2015 - UFRJ
+1. Um homem de 50 anos apresenta dificuldade de engolir alguns alimentos há cerca de 1 ano. Nega perda de peso, azia ou outros sintomas, mas relata que nos últimos meses tem preferido ingerir carne moída ou picada, o que facili{+-+}ta a deglutição desse alimento. O diagnóstico provável é:
+a) divertículo de Zenker
+b) carcinoma de esôfago
+c) anel de Schatzki	
+@@ -52,27 +54,27 @@ Resposta no final do cap
+
+2. Membranas esofágicas 
+
+As membranas localizadas no esôfago cervical são mais frequentes e fazem parte da síndrome de Plummer-Vinson ou Patterson-Kelly{+, sendo fatores de risco para o desenvolvimento de carcinoma de células escamosas de esôfago ou faringe+}. Acometem mais mulheres brancas entre a 4ª e a 7ª décadas de vida e se caracterizam pela presença de uma tríade composta por membrana esofágica, disfagia e anemia ferropriva.
+
+Dica
+As membranas esofágicas são finas dobras da mucosa do esôfago que protruem no lúmen e são cobertas por epitélio escamoso, estando localizadas principalmente no esôfago superior acima do arco aórtico.[- -]
+
+A - Quadro clínico
+{+	+}Compreende disfagia alta pela obstrução da luz esofágica, mas sem progressão da doença, embora alguns refiram piora da disfagia no final do dia em razão da fadiga. Predominantemente, observam-se anemia, glossite e disfagia. Ou{+-+}tras alterações da mucosa e da pele podem aparecer, como leucoplasia oral, acloridria gástrica, diminuição da saliva{+-+}ção, glossite de aspecto liso e brilhante com papilas gustativas tróficas, perda da elasticidade da pele, cabelos secos e unhas quebradiças por onicodistrofia (Figura 3).
+ 
+Figura 3 - Onicodistrofia
+
+B - Patogênese
+{+	+}Membranas cervicais podem ser adquiridas como manifestações extracutâneas de desordens sistêmicas e inclu{+-+}em:
+{+- +}Anemia ferropriva (Plummer-Vinson);
+{+- +}Doenças dermatológicas bolhosas, como epidermólise bolhosa (membranas em mais de 14% dos casos);
+{+- +}Penfigoide bolhoso (membrana em 1/3 dos pacientes);
+{+- +}Pênfigo vulgar, no qual lesões mucosas orais estão presentes em 90 a 100% dos adultos jovens;
+{+- +}Doença enxerto contra hospedeiro;
+{+- +}Associação à doença celíaca vem sendo descrita.
+
+C - Diagnóstico
+{+	+}É difícil, devido ao caráter intermitente e à evolução lenta. O hemograma pronuncia anemia permanente, e na endoscopia o diagnóstico é difícil, exceto nos casos em que há impactação de alimentos na luz do esôfago. Radiologi{+-+}camente, o EED pode ser feito de 3 maneiras: radiografia sem duplo contraste, videofluoroscopia faringoesofágica e deglutograma. Com Endoscopia Digestiva Alta (EDA) (Figura 5) e estudos radiológicos, é possível esclarecer quase todos os casos.
+
+ 
+Figura 4 - Exame de esôfago–estômago–duodeno evidenciando membrana no esôfago proximal (seta) 
+@@ -83,11 +85,12 @@ Figura 5 - Endoscopia digestiva alta com visualiza
+Fonte: Gastrolab.
+
+D - Tratamento
+{+	+}O tratamento clínico de membranas esofágicas baseia-se na correção da anemia (ou doença de base) e, nos casos de disfagia, na dilatação endoscópica.
+
+3. Divertículos de esôfago[- -]
+
+[-Sã-]{+Imp+}o{+rtante+}
+{+Na presença de+} di{+vertícu+}l{+os de esôf+}a{+go, deve-se +}t{+er o cuidado ao introduzir tubos (como as sondas nasogástricas/entéricas), pois estes podem penetrá-los em vez de seguir pela luz esofágica verdadeira, podendo resultar em perfur+}aç{+ão para o medias-tino, visto que as paredes são compostas, na maioria dos casos, por apenas mucosa e submucosa. São protrus+}ões da parede do esôfago.
+
+A - Classificação de acordo com a espessura da parede 
+
+@@ -99,34 +102,33 @@ Divert
+B - Classificação por mecanismo de formação
+
+a) Divertículos de pulsão
+{+	+}Ocorrem em função da pressão intraluminal elevada e da fraqueza da parede, que provocam herniações da mucosa e da submucosa através da muscular, ou seja, divertículos falsos que envolvem somente a mucosa e a submu{+-+}cosa (como divertículos de Zenker e epifrênicos). Parecem ser causados por anormalidades motoras do esôfago.
+
+b) Divertículos por tração
+{+	+}Resultam da retração de processos inflamatórios de linfonodos mediastinais (por exemplo, tuberculose) que “pu{+-+}xam” o esôfago durante o processo, resultando em divertículos verdadeiros. Geralmente os pacientes tiveram tubercu{+-+}lose de 20 a 30 anos antes. Evidências mais recentes têm demonstrado que muitos divertículos de esôfago médio tam{+-+}bém estão associados a anormalidades motoras do esôfago, incluindo espasmo, acalasia, EEI hipertensivo ou anormali{+-+}dades inespecíficas. 
+
+C - Classificação de acordo com a localização
+
+a) Divertículo faringoesofágico
+{+	+}É o mais comum do esôfago. Acomete idosos na 7ª década de vida e é mais comum entre homens (60%), consis{+-+}tindo em pseudodivertículo de localização posterior, uma área de fraqueza acima do músculo cricofaríngeo (trígono de Killian – área muscular entre as fibras transversas do cricofaríngeo e as fibras oblíquas do constritor faríngeo inferior) por incoordenação entre a contração faríngea e o relaxamento cricofaríngeo. 
+{+	+}Dica[- -]
+O divertículo de Zenker é um falso divertículo.[- -]
+
+A disfagia intermitente pode ser sintoma precoce. Quando o divertículo se torna grande o bastante para reter alimen{+-+}tos e muco, podem ocorrer pneumonia aspirativa, halitose, aparência de massa no pescoço ou regurgitação de alimen{+-+}tos para a boca.
+{+	+}A complicação mais séria é a pneumonia por aspiração, além do abscesso pulmonar, que, no idoso, pode ser mór{+-+}bido e até fatal. Outras complicações são carcinoma no divertículo e úlcera e/ou sangramento por retenção de medi{+-+}camentos. A investigação é feita com EDA ou EED, com visualização do divertículo (Figuras 6 e 7). O tratamento de esco{+-+}lha é feito com reparo cirúrgico (ressecção, fixação do divertículo e miotomia nos músculos tireofaríngeo e cricofarín{+-+}geo), com excelentes taxas de resposta em 80 a 100%. O maior medo em relação à diverticulectomia é o potencial de causar mediastinite. Naqueles com risco cirúrgico alto, miotomia cricofaríngea e diverticulopexia têm se tornado o método de escolha. As complicações dos procedimentos cirúrgicos incluem: mediastinite, paralisia da corda vocal, fístula faringocutânea, estenose esofágica e recorrência ou persistência do Zenker (taxa de risco inferior a 10%). Uma variação da cirurgia é o método assistido por grampeador (endoscopic staple-assisted esophagodiverticulostomy), com dados sugerindo técnica segura e custo-efetiva em curto prazo, com redução significativa no tempo de hospitalização e convalescença. A necessidade de hiperextensão do pescoço, injúrias dentárias, perfurações e paralisia do nervo larín{+-+}geo recorrente são preocupações com relação à técnica.
+Diverticulotomia endoscópica (rígida ou flexível) é opção terapêutica àqueles com contraindicação à cirurgia. A técnica endoscópica consiste no corte/coagulação do septo entre o esôfago e o divertículo (por meio do uso de coagulação com plasma de argônio ou needle-knife), objetivando criar esvaziamento do divertículo para o esôfago{+, formando um canal comum entre a luz esofágica e o interior do divertículo (procedimento de Dohlman)+}. A complicação mais grave é a perfuração, que pode ser tratada de maneira conservadora (jejum, antibióticos de largo espectro) ou cirúrgica.
+
+ 
+Figura 6 - Divertículo faringoesofágico em exame de esôfago–estômago–duodeno (setas)[-  -]
+Fonte: UpToDate.
+
+ [- -]
+Figura 7 - Visão endoscópica do Zenker 
+Fonte: UpToDate.
+
+b) Divertículos do esôfago médio (parabrônquicos)
+{+	+}Resultado do processo de retração dos linfonodos mediastinais inflamados, geralmente devido a processos infec{+-+}ciosos de doenças como tuberculose e histoplasmose, que tracionam a parede do esôfago, formando divertículos ver{+-+}dadeiros. A maioria dos pacientes é assintomática. São achados de exames em indivíduos com sintomas como tosse crônica, com risco para fístula broncoesofágica. O diagnóstico é feito pelo esofagograma baritado (Figura 8). A EDA é importante para avaliação da mucosa e ao auxílio no diagnóstico de presença de fístula. Outro exame a ser solicitado é a manometria para identificar distúrbio motor primário. 
+{+	+}Para o tratamento, é importante investigar a causa, no caso de tuberculose ou de histoplasmose, e tratar a infec{+-+}ção; se o divertículo for menor do que 2cm, a observação clínica estará indicada; nos casos de divertículo maior do que 2cm e presença de sintoma, recomenda-se intervenção cirúrgica.
+
+ 
+Figura 8 - Exame de esôfago–estômago–duodeno com divertículo de tração de esôfago médio 
+@@ -136,15 +138,15 @@ Figura 9 - Vis
+Fonte: Gastrolab.
+
+c) Divertículos epifrênicos
+{+	+}Encontram-se no terço distal do esôfago até 10cm da junção esofagogástrica. São divertículos de pulsão relacio{+-+}nados ao espessamento da musculatura esofágica distal e aumento da pressão intraluminal. Em 50% dos casos, associ{+-+}am-se a distúrbios motores primários, como a acalasia e o espasmo esofágico difuso; outras causas congênitas devem ser consideradas, como a síndrome de Ehlers-Danlos e síndromes traumáticas. Podem ocorrer sintomas como disfagia e dor torácica, indicando distúrbio da motilidade, e outros sintomas, como regurgitação, dor epigástrica, anorexia, perda de peso, tosse crônica e halitose, que são sinais de grau avançado de dismotilidade e apresentam, na maioria dos casos, um divertículo mensurável. O diagnóstico pode ser por EED (Figura 10) ou EDA (Figura 11). O tratamento é parecido com o dos divertículos de esôfago médio, ou seja, quando menores do que 2cm, deve ser feita observação clínica; se maiores do que 2cm e com sintomas, indica-se intervenção cirúrgica.
+
+ [- -]
+Figura 10 - Exame de esôfago–estômago–duodeno visualizando divertículo epifrênico (setas) 
+Fonte: [-www.e-]{+E+}lsevier.[-com.-]
+
+ [- -]
+Figura 11 - Visão endoscópica dos divertículos epifrênicos 
+Fonte: [-www.m-]{+M+}edicina[-net.com.br-]{+NET+}.
+
+Pergunta
+2015 - UNICAMP
+@@ -156,54 +158,57 @@ d) h
+Resposta no final do capítulo
+
+4. Síndrome de Mallory-Weiss
+
+[-  -]
+[- -]{+	+}Síndrome caracterizada por lacerações longitudinais da mucosa no esôfago distal e estômago proximal, usual{+-+}mente associada [-a-]{+à+} ânsia de vômito forçada e vômito. Frequentemente há sangramento oriundo das artérias submuco{+-+}sas, sendo a sua prevalência de 5% na hemorragia digestiva alta. Raramente ocorre perfuração.
+
+A - Patogênese
+{+	+}A síndrome parece ser secundária ao rápido aumento da pressão intra-abdominal, como ocorre no vômito, tos{+-+}se, massagem cardíaca, trauma abdominal fechado, convulsões e gastroscopia.[- -]
+[-		-]
+[-Dica-]
+[-História de alcoolismo e vômitos é relatada em 40 a 80% dos casos de síndrome de Mallory-Weiss. -]
+
+{+Dica+}
+{+História de alcoolismo e vômitos é relatada em 40 a 80% dos casos de síndrome de Mallory-Weiss.+}
+{+	+}
+{+	+}Hérnia hiatal é encontrada em 40 a 100% dos casos e, para alguns, parece necessária para a ocorrência da sín{+-+}drome. Idade elevada também parece ser fator predisponente.
+
+B - Quadro clínico
+{+	+}A principal manifestação é a hematêmese, mas o sangramento costuma ser pequeno e autolimitado. 
+
+C - Diagnóstico
+{+	+}EDA é o exame de escolha, onde se observa laceração avermelhada, geralmente única e longitudinal, na [-JEG-]{+junção esofagogástrica+}, que se estende para a cárdia e, às vezes, para o esôfago (Figura 12). A laceração pode apresentar coá{+-+}gulo aderido ou sangramento ativo. 
+
+ 
+Figura 12 - Laceração de Mallory-Weiss que se estende até a muscular da mucosa
+Fonte: UpToDate.[- -]
+
+D - Tratamento
+[-A-]{+	Na+} maioria dos pacientes[- cessa-]{+,+} o sangramento {+cessa +}espontaneamente e tem a laceração cicatrizada. Naqueles com sangramento ativo, pode ser realizada terapia endoscópica com injeção de adrenalina ou esclerosantes (Ethamolin®) como monoterapia ou associados ao tratamento térmico. 
+
+5. Estenose cáustica
+
+{+Importante+}
+{+As lesões induzidas por álcalis provocam necrose de liquefação que se estende rapidamente através da mucosa e da parede do esôfago, enquanto a lesão causada por ácido produz necrose de coagulação com trombose dos vasos sanguíneos da mu-cosa e consolidação do tecido conjuntivo, formando uma barreira de proteção, causando menor dano quando comparado aos álcalis.+}
+
+{+	+}A ingestão cáustica pode causar injúria severa no esôfago e no estômago. A extensão e a severidade do dano dependem dos seguintes fatores: propriedades corrosivas da substância; quantidade, concentração e forma física (lí{+-+}quida ou sólida); e duração do contato com a mucosa. A maioria ocorre em crianças, e o restante, em psicóticos, suici{+-+}das e alcoólatras. 
+
+A - Epidemiologia 
+{+	+}Entre crianças (abaixo dos 5 anos), geralmente envolve um acidente casual, por meio da ingesta de conteúdo de restos deixados ao acaso em latas ou garrafas coloridas.
+{+	+}Entre os adultos, principalmente no sexo feminino, a ingesta de substâncias cáusticas está relacionada à tentativa de suicídio. São geralmente indivíduos jovens com distúrbios psiquiátricos. Não é incomum a ingesta de álcalis aciden{+-+}talmente por indivíduos embriagados.
+{+	+}O mais comum são álcalis fortes (hidróxidos de potássio e de sódio) contidos em produtos de limpeza, baterias e pilhas. Ingestão de ácidos (hidroclorídrico, sulfúrico) é menos frequente.
+
+Dica 
+Baterias locadas no esôfago causam queimaduras com 4 horas e perfuração com 6 horas, sendo indicada endoscopia de urgência.[- -]
+
+B - Fisiopatologia 
+{+	+}As substâncias mais ingeridas são álcalis fortes, como soda cáustica, que causam dano maior ao esôfago do que ao estômago (neutralização pelo ácido gástrico). Injúria duodenal é bem menos comum (30%) em comparação ao esô{+-+}fago (100%) e ao estômago (94%). Algumas soluções ácidas, como as utilizadas em baterias de carros, podem causar lesão, assim como preparadoras de superfície metálica para soldagem artesanal e limpadores de concreto. Ácidos cau{+-+}sam injúria gástrica mais severa. Estudo comparando desfechos da ingestão de ácido ou álcali encontrou pior desfecho na ingestão do primeiro. Estes pacientes apresentavam injúria mucosa mais severa, foram mais hospitalizados em uni{+-+}dades intensivas e tiveram mais complicações sistêmicas ou perfuração e maior mortalidade.
+{+	+}Os agentes alcalinos causam lesões graves por produzirem injúria penetrante chamada de necrose de liquefa{+-+}ção, morte celular imediata e saponificação de gordura e proteínas celulares. O processo de necrose dura de 3 a 4 dias e [-é-]{+se+} associa[-do-] a trombose vascular e inflamação mucosa, resultando em descamação e ulceração focal ou extensa. Agu{+-+}damente, pode ocorrer necrose de toda a espessura do esôfago, com perfuração e consequente mediastinite. Reepite{+-+}lização ocorre em 1 a 3 meses. Cronicamente, ocorre, ainda, estenose do esôfago por fibrose extensa.
+
+C - Alterações anatomopatológicas
+{+	+}As lesões podem ser classificadas em superficiais e profundas. As primeiras manifestam-se por edema, eritema, formação de bolhas ou pequenas úlceras isoladas, e as últimas compreendem as ulcerações circunferenciais, podendo envolver toda a espessura da parede, configurando uma perfuração. As alterações costumam seguir uma cronologia bem estabelecida. Cerca de 24 a 48 horas após a ingesta, a submucosa torna-se infiltrada de células inflamatórias, com trombose das suas artérias e veias e consequente gangrena da mucosa. Dez dias após, o tecido de granulação começa a repor o tecido necrótico{+,+} e, na 3ª semana, o processo de proliferação de fibroblastos inicia o processo de estenose esofágica.
+{+	+}Os locais mais suscetíveis à lesão (em virtude da relativa demora do trânsito) incluem o esôfago superior na altu{+-+}ra do cricofaríngeo, o esôfago médio na impressão broncoaórtica e o esôfago distal imediatamente proximal ao EEI. Dependendo da profundidade da lesão, podem ocorrer, na fase aguda, perfuração esofágica ou reações periesofágicas que determinam retrações e aderência de órgãos adjacentes.
+
+D - Diagnóstico 
+{+	+}As crianças com ingesta acidental chegam rapidamente ao hospital, enquanto indivíduos suicidas chegam tarde, geralmente por sialorreia (impedimento da deglutição de saliva).
+{+	+}Quando se ingere sólido, os sinais relacionam-se com boca, faringe e esôfago cervical. No caso dos líquidos, as lesões são mais extensas. Os principais sintomas são sensação de queimadura, edema nos lábios, na boca e na faringe, odinofagia, disfagia, sialorreia, vômitos e hematêmese. No caso de queimadura das vias aéreas, pode haver rouquidão, estridor e dispneia.
+{+	+}Durante a fase aguda, deve ser realizada EDA para diagnóstico dentro das primeiras 24 horas. É contraindicada a pacientes hemodinamicamente instáveis, com evidência de perfuração ou insuficiência respiratória. A [-TC-]{+tomografia+} de tórax é útil na avaliação de perfurações.
+
+Tabela 2 - Graduação endoscópica quanto à injúria esofágica
+Grau 0	Normal
+@@ -213,11 +218,14 @@ Grau 2B	
+Grau 3A	Necrose focal
+Grau 3B	Necrose extensa
+
+
+
+
+ 
+Figura 13 - Endoscopia: (A) esôfago proximal com úlceras superficiais, sangramento e exsudato (grau 2A); (B) esôfago distal com úlceras e exsudatos circunferenciais (grau 2B); (C) gastrite de antro com necrose extensa e ulceração (grau 3B) e (D) duodeno com edema e hipe{+-+}remia (grau 1)
+Fonte: UpToDate.
+
+ [- -]
+Figura 14 - (A) Ulcerações circunferenciais e exsudato em esôfago (grau 2B); (B) estômago com ulceração profunda, hemorragia e exsudato (grau 2B) e (C) duodeno com edema e eritema (grau 1)
+Fonte: UpToDate.
+
+@@ -229,57 +237,56 @@ Grau 3B	Com 65% de chance de morte precoce e necessidade de ressec
+E - Complicações 
+
+a) Precoces (menos do que 6 semanas) 
+{+	+}Envolvem a via aérea por aspiração ou sangramento e perfuração do esôfago, com choque e morte. Secundari{+-+}amente, podem ocorrer pneumonias bacterianas por lesões dos cílios. A mortalidade é de 1 a 4%; mais rara em crian{+-+}ças, em que é praticamente nula.
+
+b) Tardias
+{+	+}A complicação mais frequente é a estenose esofágica (Figura 15) ou, mais raramente, a gástrica (antropilórica). Outra complicação tardia é o carcinoma esofágico, cerca de 1.000 vezes mais frequente do que na população normal, com aparecimento até 40 anos após a ingesta. 
+ 
+Figura 15 - Exame de esôfago–estômago–duodeno com estenose tardia por ingestão cáustica 
+Fonte: UpToDate.
+
+F - Tratamento 
+{+	+}A sondagem nasogástrica para a remoção da substância do estômago também não deve ser utilizada, pois pode ocasionar vômitos e evoluir com perfuração do esôfago/estômago, enfraquecidos pela lesão corrosiva. 
+{+	+}O tratamento agudo depende da profundidade da lesão. Jejum e raio x de tórax e abdome seriados devem ser realizados. Em pacientes com lesões superficiais, pode ser iniciada ingestão líquida, evoluindo para alimentação normal após 24 a 48 horas. Naqueles com lesões ulceradas maiores ou necrose, deve-se introduzir dieta enteral por sonda nasoentérica, após 24 horas do acidente, associada a suporte clínico. Nos casos de necrose, devem-se observar possí{+-+}veis sinais de perfuração por, no mínimo, 1 semana. Corticoides estão contraindicados. Supressão ácida gástrica com inibidor da bomba de prótons é frequentemente usada para prevenir úlceras de estresse no estômago; alívio adequa{+-+}do da dor com narcóticos deve ser mantido até {+a +}melhora. Antibióticos de largo espectro são indicados nas lesões grau 3 ou alta suspeita de perfuração.
+Importante
+O uso de substâncias eméticas no tratamento de ingestão cáustica é contraindicado, pois pode levar o esôfago e a faringe a nova exposição às substâncias corrosivas. Agentes neutralizantes não devem ser administrados, porque o dano é instantâneo (a neutralização libera calor que adiciona injúria térmica à destruição tecidual química). 
+
+Tabela 4 - Etapas do atendimento na ingesta cáustica
+- Acesso venoso calibroso, reposição hidroeletrolítica agressiva;
+- T[-C-]{+omografia+} de tórax e EDA, assim que houver estabilidade suficiente;
+- Perfuração contida, pequena – antibioticoterapia, jejum, dieta enteral ou parenteral;
+- Perfuração livre (choque séptico) – cirurgia, eventualmente considerando-se esofagectomia na urgência.
+
+{+- +}Estenose
+[-: -]{+	+}O pico de incidência da estenose é de 2 meses após a ingestão, mas pode ser tão precoce quanto 2 semanas ou tardio após anos.
+
+Diagnóstico
+O exame de EED é útil na avaliação da estenose: única ou múltiplas em extensão variável, pseudodivertículo intra{+-+}mural e presença de carcinoma. 
+
+{+	+}Se identificada estenose, deve ser iniciada dilatação progressivamente{+,+} pelo risco de perfuração. Dilatação pre{+-+}coce não é recomendada, devendo ser esperadas de 3 a 6 semanas após a ingestão inicial. A dilatação é feita por en{+-+}doscopia com sondas termoplásticas, objetivando-se diâmetro do lúmen de 15mm (Figura 16). Perfuração ocorre em 0,5% dos procedimentos.
+
+ [- -]
+Figura 16 - Dilatação endoscópica com sondas termoplásticas de Savary[-  -]
+Fonte: www.progastrojoinville.com.br.
+
+{+	+}Nos casos de estenose tardia ou encurtamento do esôfago, pode ser necessária a esofagectomia. O órgão de subs{+-+}tituição é preferencialmente o cólon, pois normalmente o estômago tem lesões decorrentes da ingesta cáustica, não devendo ser utilizado. Os fatores mais importantes para garantir um desfecho favorável [-é-]{+são+} um bom suprimento vascu{+-+}lar e ausência de tensão na anastomose.
+
+Tabela 5 - Recomendação da American Society for Gastrointestinal Endoscopy para seguimento endoscópico
+- Deve ser iniciado {+de +}15 a 20 anos após a ingestão;
+- O intervalo não está estabelecido, mas pode ser conduzido a cada 1 a 3 anos.
+
+6. Esofagite eosinofílica
+
+{+	+}Como o esôfago é normalmente desprovido de eosinófilos, quando estes se encontram no esôfago estando as{+-+}sociados a sintomas característicos e excluídas outras causas de eosinofilia, denomina-se esofagite eosinofílica. Parece ser uma doença imunomediada (IgE mediada e resposta Th2 retardada) e com predisposição genética (associação em membros da mesma família). 
+{+	+}Casos vêm sido descritos nas Américas do Norte e Sul, Europa, Ásia e Austrália, mas não há relatos na África. Também parece ser mais frequente em áreas urbanas e em homens nos seus 20 a 30 anos. 
+{+	O diagnóstico diferencial mais comum é a DRGE, já que grande número de eosinófilos pode ser visto em associa-ção com DRGE. A associação da DRGE com a esofagite eosinofílica é incerta podendo mimetizá-la, coexistir ou contribuir com a doença. Devido a isto, biópsias para esofagite eosinofílica devem ser realizadas 2 meses após tratamento com IBP ou após estudo de pHmetria ter excluído refluxo. +}
+
+A - Quadro clínico
+{+		+}É variável de acordo com a idade, mas nos adultos são descritos: disfagia (sintoma mais comum), impactação alimentar (mais de 54% dos casos), dor torácica não responsiva aos antiácidos, sintomas como [-doença do refluxo gastroesofágico-]{+DRGE+} e dor abdominal. Estenose esofágica pode ser vista em 31% dos casos; síndrome de Boerhaave e perfuração durante a endoscopia tam{+-+}bém podem ocorrer[-;-]{+.+}
+{+	+}De 28 a 86% dos pacientes adultos apresentam história de alergias alimentares e ao meio ambiente, asma e dermatite atópica. Associação a doença celíaca também é reportada.
+
+B - Diagnóstico
+{+		+}Baseia-se em história clínica, achados endoscópicos e histologia. A EDA com biópsia é o 1º exame realizado.
+
+Tabela 6 - Critérios diagnósticos pelo guideline da American Gastroenterological Association (2013)
+- Sintomas relacionados à disfunção esofágica;
+@@ -298,33 +305,30 @@ Em uma meta-an
+ 
+Figura 17 - Endoscopia digestiva alta com esôfago “em traqueia” (múltiplos anéis) e pápulas esbranquiçadas
+Fonte: UpToDate.
+{+	+}
+Na EDA, biópsias (2 a 4 fragmentos) devem ser realizadas no esôfago em suas porções distal, média e proximal. Não há um marcador laboratorial, mas IgE aumentada é vista em 50 a 60% dos pacientes e eosinofilia periférica leve em 40 a 50%. Os pacientes também devem ser encaminhados a um imunologista, pela associação aumentada com alergias.
+
+C - Tratamento
+{+	+}Informações quanto à cronicidade da doença e risco de recidiva após término do tratamento devem ser [-da-]{+forneci-+}das aos pacientes. 
+{+	+}Dieta com retirada dos alérgenos conhecidos pode ser recomendada como terapia de 1ª linha. O corticoide tópico (fluticasona, budesonida) diminui a contagem de eosinófilos na maioria dos pacientes, ao passo que uma melho{+-+}ra da disfagia não foi comprovada por trials clínicos randomizados. A fluticasona é usada com um inalador medidor de dose, sem o espaçador. A medicação deve ser borrifada na boca e deglutida. Não é indicado comer ou beber até 30 minutos após a medicação, e a dose recomendada é de 220µg, 2 sprays, 2x/d. A resposta costuma ocorrer em 1 sema{+-+}na, e nesse caso se mantém o tratamento por 8 semanas. Efeitos colaterais citados são: esofagite por cândida e herpes. Os não respondedores podem ser tratados com budesonida oral. Tratamento de manutenção com a dose mais baixa que mantém o paciente sem sintomas é indicado nos casos de disfagia severa ou impactação alimentar, estenose de alto grau e rápida recidiva após o tratamento.
+
+Tratamento
+Dilatação endoscópica só é recomendada aos casos de esofagite eosinofílica que não respondem ao tratamento ou apre{+-+}sentam estenose importante, com cuidado devido ao risco de lacerações e perfuração. 
+
+[-7. -]Resumo	
+
+Quadro-resumo
+- A síndrome de Mallory-Weiss é caracterizada por laceração mucosa na [-JEG-]{+junção esofagogástrica+} geralmente após vômitos, associada a hematêmese; 
+- Os anéis e as membranas esofágicos são frágeis e finas estruturas que comprometem a luz esofágica parcial ou comple{+-+}tamente. Os anéis são divididos em A e B (Schatzki). As membranas são finas dobras da mucosa do esôfago que protru{+-+}em no lúmen e são cobertas por epitélio escamoso, localizadas principalmente no esôfago superior acima do arco aórtico; frequentemente fazem parte da síndrome de Plummer-Vinson;
+- Divertículos esofágicos são [-dila-]{+pro+}t[-aç-]{+rus+}ões da parede do órgão geralmente localizadas em 3 regiões diferentes:
+· Faringoesofágico: junção faringoesofágica imediatamente acima do esfíncter esofágico superior (divertículo de Zenker – de pulsão);
+· Parabrônquicos: divertículos de esôfago médio (de tração);
+· Epifrênicos: região distal do esôfago (supradiafragmáticos – de pulsão)[-;-]{+.+}
+- O quadro clínico da estenose cáustica envolve dor, sialorreia, odinofagia e caracterização da ingestão de substância corro{+-+}siva. A EDA é o melhor exame para verificar a magnitude da lesão e deve ser feita nas primeiras 24 horas. O tratamento da estenose cáustica do esôfago divide-se em medidas para as fases aguda e crônica;
+- A esofagite eosinofílica é caracterizada por quadro de disfagia e/ou impactação alimentar, sendo os critérios diagnósticos embasados na história clínica (disfagia, impactação alimentar), achados endoscópicos (esôfago “em traqueia”) e histolo{+-+}gia (=15 eosinófilos/campo de grande aumento).
+
+Respostas{+ das questões do capítulo+}
+1. C 
+2. B
+
+[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX-]
