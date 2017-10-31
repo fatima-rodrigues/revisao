@@ -1,8 +1,4 @@
-diff --git a/epidemio3_6.txt b/epidemio3_6.txt
-index bb40c3b..bcf78ba 100644
---- a/epidemio3_6.txt
-+++ b/epidemio3_6.txt
-@@ -1,40 +1,37 @@
+
 Vigilância em saúde com ênfase em vigilância epidemiológica[- -]
 Marília Louvison
 Thaís Minett

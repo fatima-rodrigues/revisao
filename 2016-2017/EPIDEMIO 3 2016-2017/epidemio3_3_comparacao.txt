@@ -1,9 +1,4 @@
-diff --git a/epidemio3_3.txt b/epidemio3_3.txt
-new file mode 100644
-index 0000000..35bf745
---- /dev/null
-+++ b/epidemio3_3.txt
-@@ -0,0 +1,222 @@
+
 {+Medidas de frequência I: morbidade+}
 {+Alex Jones F. Cassenote+}
 {+Marina Gemma+}

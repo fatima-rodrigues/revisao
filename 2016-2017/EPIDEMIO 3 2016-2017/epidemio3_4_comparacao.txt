@@ -1,8 +1,4 @@
-diff --git a/epidemio3_4.txt b/epidemio3_4.txt
-index 4ff2f38..7f4f087 100644
---- a/epidemio3_4.txt
-+++ b/epidemio3_4.txt
-@@ -1,58 +1,54 @@
+
 Medidas de frequência II:{+ +}mortalidade e ou{+-+}tros indicadores
 Marília Louvison
 Thaís Minett

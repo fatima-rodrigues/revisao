@@ -1,8 +1,4 @@
-diff --git a/epidemio3_5.txt b/epidemio3_5.txt
-index 67715b4..93745cf 100644
---- a/epidemio3_5.txt
-+++ b/epidemio3_5.txt
-@@ -1,21 +1,19 @@
+
 Dinâmica de transmissão e distribuição de doenças
 Alex Jones F. Cassenote
 Marina Gemma

@@ -1,8 +1,4 @@
-diff --git a/epidemio3_1.txt b/epidemio3_1.txt
-index 4e49c06..44989c4 100644
---- a/epidemio3_1.txt
-+++ b/epidemio3_1.txt
-@@ -4,106 +4,105 @@ Tha
+Tha
 Alex Jones F. Cassenote
 Marina Gemma
 
