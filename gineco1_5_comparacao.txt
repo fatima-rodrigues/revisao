@@ -1,0 +1,671 @@
+diff --git a/gineco1_5.txt b/gineco1_5.txt
+index 72cee80..a1e0d66 100644
+--- a/gineco1_5.txt
++++ b/gineco1_5.txt
+@@ -1,41 +1,38 @@
+{+Flávia Fairbanks Lima de Oliveira Marino+}
+Transtornos menstruais
+Flávia Fairbanks Lima de Oliveira Marino
+
+[-Resumo-]Neste capítulo, serão abordados os principais distúrbios menstruais. Serão discutidos assun{+-+}tos importantes, como sangra[---]mento uterino anormal, sangramento uterino disfuncional, hiperandrogenismo, síndrome dos ovários policísticos e hiper[---]prolactinemia. Será abordado ainda, em cada distúrbio menstrual, o passo a passo diagnóstico com quadro clínico, exa{+-+}mes laboratoriais e de imagem dos transtornos descritos, tema de significativa importân{+-+}cia, pois permite a diferenciação entre um distúrbio e outro, por meio de exames de labora{+-+}tório com dosagens de FSH/LH, cortisol, glicemia de jejum, TSH/T4 livre, prolactina e exa{+-+}mes de imagem, como ultrassonografia, tomografia computadorizada e ressonância mag{+-+}nética, a fim de afas[---]tar causas tumorais. Os assuntos tratados no capítulo são de grande importância na prática médica, abordados em 9,1% das questões de Ginecologia das provas de Residência Médica.
+
+1. Introdução
+Transtornos menstruais, como a hemorragia uterina disfuncional, o hiperandrogenismo, a [-s-]{+S+}índrome dos [-o-]{+O+}vários [-p-]{+P+}olicís{+-+}ticos {+(SOP) +}e a hiperprolactinemia, constituem causas frequentes de procura aos serviços de Ginecologia. Para o seu total entendimento, apresentaremos os conceitos de normalidade do ciclo menstrual e os seus respectivos desvios.
+
+Tabela 1 - Conceitos de normalidade da menstruação
+Duração do ciclo	Média de 28 dias (de 21 a 35 dias){+; para algumas literaturas, de 24 a 38 dias+}
+Duração do fluxo	[-2-]{+4+} a 8 dias{+; >8+} d[-e-]{+ias,+} {+con+}s{+ider+}a{+do prolo+}ng[-r-]a[-m-]{+do; <4 dias, r+}e[-nt-]{+duzid+}o
+Volume de sangramento a cada menstruação	[-20-]{+5+} a [-6-]{+8+}0mL
+
+Tabela 2 - Nomenclatura dos distúrbios menstruais
+Hipomenorreia	Diminuição da duração (<2 dias)
+Hipermenorreia	Aumento da duração (>8 dias){+ ou perda sanguínea >80mL+}
+Polimenorreia	Ciclos muito curtos (<21 dias){+; na literatura, <24 dias+}
+Oligomenorreia	Ciclos muito longos (>35 dias)
+Menorragia	Aumento da quantidade (volume) menstru[---]al ou aumento da duração (>8 dias) (obser-var que o conceito de menorragia engloba o conceito de hipermenorreia. A distinção entre menorragia e hipermenorreia é con[---]troversa na literatura; alguns autores colo-cam o conceito de menorragia como mais amplo [-(-]{+– +}aumento do volume menstrual ou do tempo de duração[-)-]{+ –+}, enquanto outros consideram que menorragia e hipermenor-reia são sinônimos)
+Metrorragia	Sangramento fora do período habitual da menstruação
+Menostase	Suspensão brusca do ciclo (condição rara)
+
+
+2. Sangramento uterino anormal
+[-	-]Todo e qualquer tipo de alteração do padrão usual do ciclo menstrual recebe o nome de Sangramento Uterino Anor{+-+}mal (SUA). Cada transtorno recebe uma classificação semiológica{+,+} de acordo com o tipo de alteração. As alterações da ciclicidade e do tempo de sangramento são definidas na anamnese de acordo com o relato da paciente. As alterações de fluxo são mais bem qualificadas pelo número de absorventes trocados diariamente[- pela paciente-]. Apesar de cada alteração repre{+-+}sentar uma variação de padrão, existem algumas divergências de acordo com a bibliografia científica utilizada pela insti{+-+}tuição que elabora a prova. Todavia, essas diferenças são conceituais, e a grande maioria das questões não se fixa nes{+-+}ses detalhes, visto que o intuito é entender qual é o padrão de ciclo menstrual que o termo semiológico representa. A Figura 1 demonstra as principais alterações relevantes para a resolução das questões.
+
+ 
+Figura 1 - Termos semiológicos que classificam os tipos de sangramento uterino anormal
+
+Como já foi comentado, existem pequenas diferenças na literatura quanto a alguns números, mas o padrão patológico da alteração é o mesmo. Por exemplo, alguns autores consideram a polimenorreia como sendo ciclos curtos, com me{+-+}nos de 24 dias de duração, mas a maioria dos autores {+a +}considera[--a-] como ciclos menores de 21 dias. Apesar de os núme{+-+}ros divergirem, a ideia central é a de ciclos curtos, [-e isso é -]o que realmente importa para a resolução das questões das provas.
+A maioria dos autores considera a hipermenorreia como aumento no tempo de sangramento, enquanto outros também o aplicam para o aumento no fluxo menstrual. Esses autores{+,+} que atribuem à hipermenorreia um conceito mais amplo{+,+} definem que ela seria um sinônimo da menorragia. Entretanto, a ideia central do conceito semiológico é o mesmo: aumento do san[---]gramento (em fluxo ou tempo) no período usual de menstruação da paciente. Se o sangramento ocor{+-+}rer fora do período usual de sangramento da paciente, o termo correto [-é-]{+será+} {+“+}metrorragia{+”+}. Já nos casos em que a paci{+-+}ente relatar aumento do tempo de menstruação e/ou do fluxo e, também, sangramentos fora do período usual de menstruação, atribui-se o termo {+“+}menome[---]trorragia{+”+}.
+
+Pergunta
+2012 - HC-ICC
+1. A melhor definição para irregularidades menstruais em que o sangramento acon{+-+}tece em períodos regulares e de quan[---]tidade diminuída é a:
+a) oligomenorreia
+b) menorragia
+c) menometrorragia
+@@ -43,122 +40,234 @@ d) hipomenorreia
+e) metrorragia
+Resposta no final do capítulo
+
+{+A etiopatogenia do sangramento uterino anormal varia muito, de acordo com a faixa etária da paciente. De modo geral, observamos:+}
+{+Infância: o SUA à menarca é anormal. Nessa faixa etária, a vagina é a principal fonte de sangramento, e não o útero. As vulvovaginites são as causas mais frequentes de sangramento pélvico. Podem-se, ainda, considerar condições derma-tológicas, crescimento neoplásico, trauma por acidente, abuso sexual e corpo estranho; +}
+{+Adolescência: o SUA resulta de anovulação ou defeitos na coagulação sanguínea. Gestação, Doenças Sexualmente Transmissíveis (DSTs) e abuso sexual devem ser avaliados; +}
+{+Idade reprodutiva: há aumento na taxa de sangramento uterino disfuncional por gravidez e DSTs, assim como leiomio-matose e pólipos endometriais;+}
+{+Perimenopausa: geralmente, o sangramento uterino disfuncional nessa fase é causado por ciclos anovulatórios, porém é preciso avaliar a possibilidade de neoplasias benignas e malignas;+}
+{+Menopausa: a maioria dos casos de sangramento é atrofia do endométrio e vagina por ausência de estrogênio. Entre-tanto, pode ser decorrente de pólipos endometriais, carcinoma endometrial (mais frequente nessa faixa etária), tu-mor ovariano produtor de estrogênio e neoplasias ulcerativas vulvar, vaginal e cervical;+}
+{+    +}
+{+Tabela 3 - Principais doenças associadas ao sangramento uterino anormal+}
+{+- Gravidez;+}
+{+- Hiperplasia endometrial;+}
+{+- Pólipos endometriais;+}
+{+- Pólipos endocervicais;+}
+{+- Miomatose uterina;+}
+{+- Adenomiose;+}
+{+- Endometrite crônica;+}
+{+- Malformações arteriovenosas;+}
+{+- Dispositivo intrauterino (DIU);+}
+{+- Contracepção hormonal;+}
+{+- Doença renal e hepática;+}
+{+- Coagulopatias;+}
+{+- Doença tireoidiana;+}
+{+- Sangramento uterino disfuncional (quando as causas citadas são descartadas).+}
+
+{+ Gravidez: sangramento anormal no início da gestação é encontrado em 15 a 20% das gestações. Na maioria das vezes, não há identificação de qualquer problema associado. Entretanto, deve-se estar atento às possibilidades de aborta-mento, gestação ectópica, mola hidatiforme, eversão do colo uterino ou pólipos; +}
+{+Hiperplasia endometrial: resulta da estimulação estrogênica crônica do endométrio sem a oposição da progesterona. Portanto, é comum em ciclos anovulatórios crônicos. Pode ser simples ou complexa; com ou sem atipias. O diagnósti-co pode ser realizado por ultrassonografia (USG) transvaginal com espessamento endometrial ou histeroscopia. A bi-ópsia de endométrio pode ser realizada por curetagem ou histeroscopia;  +}
+{+Hiperplasia simples: glândulas dilatadas sem ramificações, ou ramificações ocasionais;+}
+{+Hiperplasia complexa: glândulas endometriais mais próximas entre si, com menos estroma interposto, com ramifica-ções; suas células podem ou não exibir mitoses;+}
+{+Lesões sem atipia: formas excessivas de endométrio proliferativo; regridem espontaneamente, após curetagem ou uso de progestogênios. Há baixo risco de progressão para adenocarcinoma (de 1 a 3%). Independentemente de se-rem simples ou complexas, o tratamento consiste em progestogênios – acetato de medroxiprogesterona 5 ou 10mg/d por 14 dias por mês por 3 a 6 meses ou noretindrona 5mg no mesmo esquema. Uma opção é o DIU com li-beração de levonorgestrel (Mirena®); +}
+{+Lesões atípicas: geralmente não regridem espontaneamente e podem ser bastante resistentes a curetagens repetidas ou aos progestogênios. Oferecem elevado risco de progressão para adenocarcinoma (de 10 a 30%), sendo conside-radas lesões pré-malignas. O tratamento preferencial é a histerectomia. Nas mulheres que desejam manter a fertili-dade, pode-se tentar progestogênio em altas doses – acetato de megestrol 80mg, 2x/d, por 6 a 9 meses, e com se-quenciais biópsias de endométrio para monitorizar a resposta ao tratamento. Pode-se tentar a inserção do DIU com a liberação de levonorgestrel (Mirena). A recorrência é comum, e as pacientes que não respondem bem ao tratamen-to clínico têm indicação de histerectomia; +}
+{+Pólipos endometriais: podem causar SUA devido a fragilidade vascular, inflamação crônica e erosões na superfície. São diagnosticados por USG transvaginal, histerossonografia, histeroscopia. A histeroscopia cirúrgica fornece tratamento simples e altamente efetivo. Fatores de risco são idade avançada, obesidade e uso de tamoxifeno. Na maioria das ve-zes, os pólipos são benignos, mas há transformação pré-maligna ou maligna em 4 a 5% dos casos. Assim, recomenda-se a polipectomia histeroscópica às pacientes:+}
+{+Sintomáticas;+}
+{+Assintomáticas com fator de risco para transformação maligna, sendo eles:+}
+{+	* Pós-menopausa;+}
+{+	* >60 anos;+}
+{+	* Pólipo =1,5cm;+}
+{+	* Uso de tamoxifeno.+}
+{+O tamoxifeno é um modulador seletivo do receptor de estrogênio, utilizado para tratamento de câncer de mama, visto que reduz a ação do estrogênio no tecido mamário, mas estimula a proliferação endometrial, causando hiperplasia endometrial, pólipos endometriais, carcinoma endometrial e sarcoma uterino;+}
+{+Pólipos endocervicais: também denominados de pólipos cervicais, são, geralmente, diagnosticados no exame especular. São assintomáticos, mas podem causar hemorragia, sangramento pós-coito e leucorreia vaginal sintomática. São, em sua maioria, benignos e podem malignizar em menos de 1% dos casos. Entretanto, o câncer de colo de útero pode se apresentar na forma de massa polipoide, assim pode haver confusão entre ambos. Por isso, faz-se a retirada do pólipo cervical (pinça fórceps “em anel” ou extratora de pólipos – o pólipo é pinçado e torcido junto à sua base para estran-gular seus vasos superiores) no consultório seguida da avaliação histológica do material. A recorrência está entre 6 e 15%; +}
+{+Miomatose uterina (leiomioma uterino): é extremamente comum, e o SUA é a sua principal manifestação clínica. En-tretanto, a maioria das pacientes com miomatose uterina não apresenta SUA. Assim, os miomas não podem ser consi-derados a causa de sangramento anormal antes que outras possibilidades tenham sido excluídas, especialmente quando não invadem ou deslocam a cavidade uterina. Os que causam SUA são aqueles com componente submucoso, miomas submucosos e intramurais grandes que esticam o endométrio adjacente. Não é qualquer mioma que provoca sangramento; a compressão inferior e o trauma pela fricção intracavitária na superfície epitelial causam inflamação crônica focal ou ulceração, resultando em sangramento. Pode, ainda, haver erosão e ruptura de vasos superficiais. O diagnóstico é feito por USG transvaginal (tamanho, número e localização dos miomas) e histerossonografia, e o trata-mento é composto de contraceptivos combinados que reduzem o volume e a duração do sangramento, embora sejam menos efetivos em miomas submucosos. Anti-Inflamatórios Não Esteroides (AINEs) podem participar do tratamento, enquanto os agonistas de GnRH formam outra linha terapêutica. Tratamentos cirúrgicos são geralmente reservados para sintomáticos:+}
+{+Miomas submucosos únicos: miomectomia histeroscópica. Preservam a fertilidade;+}
+{+Miomas submucosos múltiplos e grandes: miomectomia histeroscópica. Requerem maior experiência técnica e po-dem evoluir com sinéquias intrauterinas que causem infertilidade;+}
+{+Miomatose intramural: miomectomia histeroscópica subtotal, miomectomia abdominal ou histerectomia. São indica-ções de histerectomia: SUA + miomas grandes + múltiplos + ausência de interesse em gravidez.+}
+{+Adenomiose: observa-se infiltração das glândulas e estroma endometriais no miométrio. Algumas mulheres desenvol-vem lesões nodulares focais, que correspondem a proliferação miometrial excessiva em torno de focos do endomé-trio ectópico – adenomiomas. A doença pode desenvolver-se a partir da invaginação endomiometrial do endométrio ou se desenvolver de restos müllerianos. Quanto ao diagnóstico, a USG transvaginal apresenta cistos miometriais. A ressonância magnética de pelve, por sua vez, é o melhor exame de imagem, e o tratamento é composto de:+}
+{+Uso contínuo de progestogênio;+}
+{+Agonista de GnRH;+}
+{+Inibidores da aromatase;+}
+{+DIU com liberação de levonorgestrel – Mirena®;+}
+{+Embolização da artéria uterina. +}
+{+Endometrite crônica: a condição pode resultar de infecções (clamídia, tuberculose, micoplasma), corpos estranhos (DIU) ou tumores intrauterinos (mioma submucoso) e exposição à radiação. Entretanto, em 1/3 das pacientes, não é possível identificar o fator causal. As pacientes podem apresentar-se assintomáticas (maioria) ou sintomáticas: dor à mobilização do colo uterino (sintoma mais comum), SUA (sangramento intermenstrual ou pós-coito ou menorragia) e dor pélvica vaga do tipo cólica. Geralmente, a endometrite crônica não é a causa direta do sangramento uterino anormal, mas é a causa indireta ou contribuinte dele; +}
+{+Malformações arteriovenosas: mistura de canais arteriais, venosos e capilares com ligações fistulosas. Podem ser con-gênitas ou adquiridas. Quando adquiridas, são formadas por vasos únicos de grande calibre que se formam após trauma de cesárea ou associado a câncer de colo de útero ou endométrio, doença trofoblástica gestacional, uso de DIU. São raras e acometem mais o corpo uterino, mas também podem ser encontradas no colo. Manifestação clínica é menorragia ou menometrorragia após abortamento, curetagem ou outra cirurgia uterina intracavitária. Há sangra-mento uterino intenso não associado a trauma, podendo se instalar lenta ou subitamente com sangramento potenci-almente fatal. A USG transvaginal revela estruturas tubulares hipoecoicas dentro do miométrio, e, ao Doppler, notam-se vasos de grande calibre e reversão do fluxo sanguíneo (cores “em mosaico”). A confirmação diagnóstica se dá por angiografia, e o tratamento consiste em embolização arterial ou coagulação cirúrgica dos vasos arteriais nutridos da malformação arteriovenosa; +}
+{+DIU: com ele, pode haver desequilíbrio entre as prostaglandinas e tromboxano. Há, ainda, aumento na vascularização endometrial, congestão e degeneração no tecido endometrial de usuárias de DIU. Esses fatores corroboram para o sangramento. A conduta envolve descartar infecção, gravidez, doença estrutural e rotação, perfuração ou fixação do DIU. Iniciam-se AINEs;+}
+{+Contracepção hormonal e terapia de reposição hormonal: sangramento uterino normal pode ocorrer com métodos contraceptivos de progesterona apenas, além de sangramentos de escape irregulares e leves. Na contracepção hor-monal combinada, também é comum sangramento de escape, principalmente no 1º mês de uso da medicação (de 30 a 50% das pacientes), sendo atribuído à atrofia endometrial. A terapia de reposição hormonal, especialmente àquelas que usam esquema contínuo, provocam sangramento uterino irregular. Entretanto, quando esse sangramento persis-te por mais de 6 meses após seu início, deve-se descartar patologia uterina que o justifique; +}
+{+Doenças renal e hepática: a doença renal pode ser acompanhada de hipoestrogenismo, amenorreia e infertilidade, possivelmente devido à desregulação hipotalâmica da secreção de GnRH. Há, ainda, a piora da anemia dessas pacien-tes com o fluxo menstrual. Nesses casos, a 1ª opção é a progesterona contínua ou intramuscular a cada 3 meses. Ou-tra opção é o DIU com liberação de levonorgestrel (Mirena®). As pacientes com doença hepática apresentam níveis altos de estrogênio circulante (devido à redução na depuração do hormônio), levando a níveis baixos de LH e FSH, acarretando alteração no eixo hipotalâmico–hipofisário–ovariano, ciclos anovulatórios e SUA. Além disso, essas paci-entes apresentam alteração na hemostasia. Como proceder com hepatopatas, então?+}
+{+Hepatite viral crônica ou cirrose leve compensada: contraceptivos hormonais;+}
+{+Hepatite viral ativa ou agudização de doença viral crônica: apenas contraceptivo de progesterona;+}
+{+Cirrose grave descompensada: evitar qualquer tipo de contracepção hormonal.   +}
+{+Coagulopatias: alterações na coagulação provocam SUA. A doença de von Willebrand é a anormalidade hematológica que mais afeta as mulheres. O tratamento em pacientes com doença de von Willebrand e sangramento menstrual in-tenso envolve desmopressina, terapia antifibrinolítica, ácido tranexâmico, contraceptivos com estrogênio e progeste-rona ou DIU com liberação de levonorgestrel (Mirena®);+}
+{+Doença tireoidiana: no hipertireoidismo, hipomenorreia e amenorreia em 5% das pacientes. No hipotireoidismo, ob-servam-se anovulação, amenorreia e defeito de hemostasia por redução em fatores da coagulação. O tratamento consiste em reverter o quadro de hipo ou hipertireoidismo.  +}
+{+ +}
+{+Figura 2 - Causas usuais de sangramento anormal por idade+}
+{+Fonte: Endocrinologia ginecológica clínica e infertilidade, Speroff, 8ª edição. +}
+
+3. Sangramento uterino disfuncional
+
+A - Definição
+[-O sangramento uterino disfuncional (SUD) ou hemorragia disfuncional é o sangramento vaginal devido às alterações nos mecanismos neuroendócrinos que controlam o ciclo menstrual. Os sangramentos excessivos provocados por alterações ana-tômicas não fazem parte do conceito de SUD. É, portanto, um diagnóstico de exclusão, sendo firmado somente quando todas as causas orgânicas forem afastadas. Pode apresentar-se por hipermenorreia, menorragia, metrorragia e/ou menometrorra-gia.-]
+[-O SUD geralmente é originário de ciclos ovulatórios ou anovulatórios e acomete qualquer período da vida da mulher, sen-do mais frequente na adolescência e no climatério.-]
+[-Os ciclos anovulatórios (90%) são comuns nos extremos reprodutivos: imaturidade do eixo hipotalâmico-hipofisário-ovariano na adolescência e falência ovariana no climatério. O SUD, devido a ciclos ovulatórios, acontece por produção inade-quada de estrogênio e progesterona.-]
+
+[-B - Etiopatogenia-]
+
+[-a) Distúrbios no eixo hipotalâmico-hipofisário-ovariano -]
+[-São alterações nas proporções relativas de estrogênios e de progesterona. Podem ser ocasionadas por:-]
+[-Excesso de estrogênios: levam à proliferação do endométrio imaturo. Exemplos: insuficiência lútea, síndrome dos ovários policísticos, insuficiência hepática;-]
+[-Falta de estrogênios: não há reepitelização adequada após a descamação endometrial. O endométrio se torna atrófico, ocasionando sangramento por exposição vascular. Exemplo: falência ovariana.-]
+
+[-b) Distúrbios locais -]
+[-Compreendem aumento das prostaglandinas e das suas inter-relações, com tendência ao sangramento – aumento da rela-ção PGE2–PGF2 e da relação PGI2–TxA2. Tais prostaglandinas proporcionalmente mais elevadas têm ação anticoagulante e favorecem o sangramento uterino ou não o estancam no momento adequado.-]
+
+[-c) Distúrbios de outros órgãos-]
+[-Fígado: insuficiência hepática/cirrose – determina o aumento do metabolismo estrogênico com hiperestrogenismo relati-vo;-]
+[-Tireoide:-]
+[-Hipertireoidismo: determina o aumento da conversão periférica dos androgênios em estrogênios;-]
+[-Hipotireoidismo: dá preferência para a formação de estrogênios menos potentes, o que inibe a retroalimentação negati-va na hipófise, levando a aumento do FSH com hiperestrogenismo.-]
+
+[-d)-]{+O+} [-Alte-]{+Sang+}ra[-çõ-]{+m+}e[-s-]{+nto+} [-p-]{+Uterino Disfunci+}on[-d-]{+al (SUD), ou h+}e{+mor+}ra{+g+}i[-s-]{+a+} [-exces-]{+di+}s{+func+}i{+onal, é o sangramento +}va{+ginal devido à+}s[-A-]{+ a+}ltera[-m-]{+ções+} {+n+}o{+s+} [-t-]{+m+}ec{+an+}i[-d-]{+sm+}o{+s+} [-go-]{+neu+}r{+oen+}d[-u-]{+óc+}r{+in+}os[-o,-] que [-é depósi-]{+con+}t{+r+}o{+lam+} [-de-]{+o ciclo+} {+m+}e{+n+}str[-o-]{+ual. Os san+}g[-ê-]{+rame+}n{+tos excess+}i{+v+}os[-.-]
+
+[-C-] {+provocados por alte+}-{+rações+} [-F-]{+anatôm+}i{+ca+}s[-i-]{+ nã+}o{+ fazem +}pa{+rte do concei+}to[-l-]{+ de SUD. É, p+}o[-g-]{+rtanto, um d+}ia{+gnóstico de exclusão, sendo firmado so-mente quando todas as causas orgânicas citadas são afastadas. Pode apresentar-se por hipermenorreia, menorragia, metrorragia e/ou menometrorragia, além de ser, geralmente, originário de ciclos ovulatórios ou anovulatórios e aco-mete qualquer período da vida da mulher, sendo mais frequente na adolescência e no climatério.+}
+{+O SUD com ciclos anovulatórios corresponde a 90% das pacientes com SUD. São comuns nos extremos reprodutivos: imaturidade do eixo hipotalâmico-hipofisário-ovariano na adolescência e falência ovariana no climatério. Manifesta-se por irregularidade menstrual, amenorreia, metrorragia e menorragia. Muitas mulheres com anovulação apresentam amenorreia de semanas a meses, seguida de sangramento intenso, irregular e prolongado, devido ao estímulo endome-trial pelo estrogênio sem ação da progesterona (intensa proliferação endometrial). Nesse caso, há alteração no eixo hipotalâmico-hipofisário-ovariano. Vale lembrar que alterações ponderais excessivas aumentam o tecido gorduroso, que é depósito de estrogênios e provoca resistência a insulina, ambos relacionados com anovulação.+}
+{+O SUD, devido a ciclos ovulatórios, acontece com ciclos normais, e a menorragia origina-se em falhas nos mecanismos de controle do sangramento menstrual. Vasos que nutrem o endométrio apresentam menor tônus vascular e, conse-quentemente, maiores vasodilatação e perda sanguínea. Acredita-se que as prostaglandinas intrauterinas estão forte-mente envolvidas nesse processo. Compreendem aumento das prostaglandinas e das suas inter-relações, com tendên-cia ao sangramento – aumento da relação PGE2–PGF2 e da relação PGI2–TxA2. Tais prostaglandinas proporcionalmente mais elevadas têm ação anticoagulante e favorecem o sangramento uterino ou não o estancam no momento adequado. Em resumo:+}
+O SUD tem mecanismos fisiopatológicos diferentes, de acordo com a etapa da vida da mulher. São eles:
+Na adolescência: ciclos anovulatórios por imaturidade do eixo hipotalâmico-hipofisário-ovariano;
+Na menacma: SUA por causas anovulatórias e ovulatórias:
+Anovulatórias: [-síndrome dos ovários policísticos-]{+SOP+}, hiperprolactinemia, insuficiência ovariana e estresse;
+Ovulatórias: [-insuficiênci-]a[- -]l[-ú-]te{+r+}a[- -]{+çõ+}e{+s+} [-me-]n[-o-]{+a p+}r{+odução de p+}r{+ost+}ag[-i-]{+l+}a[- esse-]n[-c-]{+d+}i{+n+}a[-l-]{+s+}.
+No climatério: inicialmente, insuficiência lútea (ovulatória) e, posteriormente, insuficiência ovariana (anovulatória). [-A-]{+Lembrando que a+} atro[---]fia endometrial por falência ovariana é a principal causa de sangramento pós-menopausa.
+
+Dica
+A anovulação é a prin{+-+}cipal causa de san{+-+}gramento uterino dis{+-+}funcional nos extre{+-+}mos da vida reprodu{+-+}tiva (adolescência e climatério).
+
+[-D-]{+B+} - Apresentação clínica
+
+O SUD pode ter diversas intensidades, desde leve e insidiosa até severa e emergencial. Comumente[-,-] leva à instalação de um quadro anêmico agudo ou crônico.
+Quando a hemorragia é severa, a paciente apresenta alterações hemodinâmicas, como hipotensão, taquicardia, vaso{+-+}cons[---]trição periférica e palidez cutâneo-mucosa. Nesse caso, a conduta emergencial é restabelecer a homeostase. Quando o SUD tem longa duração e menor intensidade, instala-se a anemia ferropriva.
+Quando a causa provável é ovulatória, o SUD apresenta-se com ciclicidade de sangramento, podendo haver dismenor{+-+}reia e alterações comportamentais relacionadas ao ciclo. Nas formas anovulatórias, o sangramento profuso costuma ser precedido de períodos de amenorreia e/ou oligomenorreia.
+Quando a causa é um distúrbio de outra glândula, outros sinais podem estar presentes, como galactorreia na hiperpro{+-+}lac[---]tinemia; hirsutismo, acne e obesidade, na [-síndrome dos ovários policísticos-]{+SOP+}; e sinais de hipoestrogenismo, na insuficiência ovariana.[-E-] {+Deve+}-{+se+} [-Di-]{+est+}a[-g-]{+r ate+}n[-ós-]t[-ic-]o [-e-]{+à+} [-diag-]n[-ósti-]{+e+}c[-o-]{+es+}s{+idade+} d[-if-]e[-r-]{+ d+}e{+scartar as pri+}nci{+p+}ais[-É-] [-fun-]d[-am-]{+o+}en[-t-]{+ç+}a[-l-]{+s+} {+q+}u[-m bom-]{+e+} c[-onh-]{+aus+}e[-ci-]m[-e-]{+ SUA a+}nt[-o-]{+es+} d[-o-]{+e+} [-c-]{+d+}i[-clo me-]{+ag+}n{+o+}st[-rual. O -]i[-de-]{+c+}a[-l-]{+r+} [-é-]{+SUD+} {+(di+}a{+g+}n[-o-]{+ós+}t[-á-l-]{+ic+}o {+d+}e[-m um-] {+ex+}c[-a-]l[-endá-]{+usão), po+}r{+ me+}io [-m-]{+d+}e{+ a+}n{+amne+}s[-tru-]{+e, ex+}a[-l.-]
+[-É-]{+me+} [-di-]fí[-c-]{+s+}i[-l cara-]c[-t-]{+o +}e[-rizar-] [-p-]e[-rd-]{+x+}a{+mes+} [-p-]{+c+}o[-r sangramento superior a 80mL. O método ideal é corar a hematina (produto de conversão da hemoglobina), porém é muito trabalhoso e pouco prático. No dia a dia, caracteriza-se como perda de coágulos e sangra-mento intenso vermelho-vivo. A paciente quantifica o fluxo por meio do número diário de absorventes trocados.-]
+[-Conforme expressa a definição, o diagnóstico de certeza de SUD exige afastar quaisquer doenças orgânicas por -]m{+pl+}e[-io d-]{+m+}e[- a-]n{+t+}a[-mn-]{+r+}es[-e,-]{+.+} [-ex-]{+T+}a[-me fís-]i[-co e-]{+s+} {+do+}e[-x-]{+nç+}a[-me-]s {+en+}co[-mpleme-]nt[-a-]r[-es. Deve-]{+am+}-se [-semp-]re[- pens-]{+l+}a[-r n-]{+ci+}o[-s -]{+na+}d[-i-]a[-gnóstico-]s [-difere-]n[-ci-]a[-is-] [-que são af-]{+T+}a[-st-]{+bel+}a[-dos:-]{+ 3.+}
+Gravidez/abortamento: caracteriza{+m+} atraso menstrual{+,+} e solicita[-r-]{+-se+} beta-HCG. Trata-se do principal diagnóstico dife{+-+}rencial [-a ser feito -]nos casos de sangramentos excessivos;
+Moléstia inflamatória pélvica aguda: corrimento vaginal po[-d-]{+ssiv+}e[- -]{+lm+}e[-s-]{+n+}t[-ar-]{+e+} presente ou ausente + dor abdominal + dor à mobiliza[---]ção do colo uterino e à palpação dos anexos;
+Mioma uterino: afastado pelo exame físico + USG + exame da cavidade endometrial (histeroscopia ou histerossalpingo{+-+}gra[---]fia) na suspeita de mioma submucoso;
+
+{+Importante+}
+{+O exame padrão-ouro para avaliação da cavidade intrauterina é a histeroscopia.+}
+
+Câncer de colo uterino: afastado pela colpocitologia oncótica e colposcopia com biópsia (se necessário);
+Câncer de endométrio: afastado por obtenção de amostra endometrial, biópsia aspirativa, dilatação e curetagem ou histe[---]roscopia com biópsia;
+Coagulopatia: afastada por provas laboratoriais de avaliação da coagulação;
+Hipotireoidismo: afastado pela dosagem de TSH e T4 livre;
+Doença hepática: afastada pela clínica e por provas laboratoriais de função hepática;
+Sangramentos de tratos digestivo e urinário: necessitam de avaliações próprias com colonoscopia, exames de urina e do trato urinário;
+Corpos estranhos: geralmente provocam sangramento e leucorreia purulenta;
+Pólipos endometriais e cervicais: mesmos exames para o diferencial de miomas;[-D-]{+ o exame complementar +}i[-s-]{+deal +}p{+ara diagn+}os[-i-]ti[-vo-]{+car+} {+pól+}i{+pos e+}n{+dome+}tr{+i+}a[-u-]{+is é a his+}ter[-in-]o{+scopia. +}
+{+DIU+};
+Uso de medicamentos, como anticoagulantes.
+
+{+Poderia ser reforçado que o exame padrão-ouro para avaliação da cavidade uterina é a histeroscopia (FEBRASGO, 2015). É fundamental um bom conhecimento do ciclo menstrual; o ideal é anotá-lo em um calendário menstrual.+}
+{+É difícil caracterizar perda por sangramento superior a 80mL. O método ideal é corar a hematina (produto de con-versão da hemoglobina), porém é algo muito trabalhoso e pouco prático. No dia a dia, caracteriza-se como perda de coágulos >2,5cm, sangramento intenso vermelho-vivo, troca de absorvente ou tampão a cada 3 horas (ou em menor período), >20 absorventes durante a menstruação, duração >7 dias ou anemia.+}
+
+{+C - Conduta+}
+
+{+Anamnese e exame físico;+}
+{+Avaliação de doença sistêmica subjacente (renal, hepática, hematopoética e tireoide) e uso de medicações (hormonais, anticoagulantes, outras medicações que possam alterar o eixo hipotalâmico-hipofisário-ovariano);  +}
+{+Laboratório: beta-HCG e hemograma completo (avaliar anemia e trombocitopenia);+}
+{+A paciente está ovulando?  +}
+{+Sangramento menstrual infrequente, irregular imprevisível e variação no fluxo e duração + sem síndrome pré-menstrual importante + sem anormalidade visível ou palpável no trato genital: sangramento anovulatório;+}
+{+Sangramentos mensais regulares, intensos e/ou prolongados: sangramento por lesão anatômica ou por disfunção he-morrágica; +}
+{+Sangramento intermenstrual (no meio do ciclo): doença intrauterina ? USG transvaginal e/ou histeroscopia; +}
+{+Se, pelo padrão de sangramento, não for possível definir ciclos ovulatórios ou anovulatórios, deve-se dosar a proges-terona na fase lútea do ciclo (do 22º ao 24º dia do ciclo). Se >3ng/mL, ovulação.+}
+{+ Para pacientes anovulatórias:+}
+{+TSH;+}
+{+Tratamento empírico das pacientes com anovulação.+}
+{+USG transvaginal – quando solicitar?+}
+{+Ciclos menstruais regulares com aumento no volume e duração do sangramento;+}
+{+Ciclos menstruais regulares complicados por sangramento intermenstrual, na ausência de lesão vaginal ou cervical;+}
+{+Sangramento anormal, apesar de evidências de ovulação: dosagem da progesterona (>3ng/mL) ou amostragem en-dometrial (endométrio secretor);+}
+{+Falha no tratamento clínico empírico para anovulação.+}
+{+Quando fazer histeroscopia com biópsia endometrial (descartar hiperplasia endometrial, pólipo de endométrio e cân-cer endometrial)?+}
+{+Pacientes com sangramento anormal >35 ou 40 anos + endométrio normal (5 a 12mm à USG transvaginal);+}
+{+Pacientes com sangramento anormal + exposição em longo prazo ao estrogênio sem oposição da progesterona (ciclos anovulatórios crônicos) + endométrio normal (5 a 12mm à USG transvaginal);+}
+{+Pacientes com endométrio >12mm à USG transvaginal;+}
+{+Se endométrio <5mm à USG transvaginal, isso significa que o endométrio está atrófico ou hipotrófico, dispensando essa avaliação por histeroscopia. Não realizar biópsia endometrial por histeroscopia. +}
+{+Atenção: a histeroscopia é o método definitivo para diagnóstico e tratamento (retira a lesão) da doença intrauterina sintomática. +}
+{+Já a ressonância magnética de pelve apresenta boa acurácia para avaliar a anatomia uterina, distinguir adenomiose de miomatose uterina e avaliar as proximidades dos miomas da cavidade uterina;+}
+{+Geralmente, é solicitada quando há necessidade de complementar a avaliação realizada pela USG transvaginal ou quan-do esta não pode ser realizada.  +}
+{+Se vaginite ou cervicite: pesquisar clamídia, gonococo e tricomoníase;+}
+{+Se houver doença conhecida ou forte suspeita: funções hepática e renal;+}
+{+Quando solicitar coagulograma?+}
+{+Adolescentes, mulheres com história pessoal ou familiar de sintomas de sangramento (ferimentos fáceis, gengivorra-gia, epistaxe) e mulheres com menorragia não explicada;+}
+{+Solicitar: contagem de plaquetas, tempo de sangramento ou analisador da função plaquetária, tempo de atividade da protrombina, PTT, fator de von Willebrand (nos primeiros dias do ciclo), atividade do cofator da ristocetina (atividade do fator de von Willebrand), fator VIII e tipagem sanguínea;+}
+{+Pacientes com tipagem sanguínea tipo O apresentam fator de Von Willebrand e fator VIII mais baixo (25%).  +}
+
+{+Tabela 4 - Exames laboratoriais+}
+{+- Cultura cervical;+}
+{+- Tempo de tromboplastina parcial;+}
+{+- Contagem de plaquetas;+}
+{+- Tempo de protrombina;+}
+{+- Tempo de sangramento;+}
+{+- Cofator da ristocetina – von Willebrand;+}
+{+- Hemograma completo;+}
+{+- HCG;+}
+{+- Prolactina;+}
+{+- Teste de função tireoidiana;+}
+{+- Função hepática.+}
+{+.+}
+ 
+Figura [-2-]{+3+} - Investigação para sangramento uterino disfuncional
+
+{+D - Tratamento +}
+
+[-F - Tratamento -]
+Dependendo da gravidade do caso, pode ser clínico ou cirúrgico.
+
+a) Clínico
+Diversas classes de medicamentos podem ser empregadas:
+Anti-inflamatórios não hormonais: inibem a síntese de prostaglandinas, sendo mais eficazes na menorragia (mioma, [-dispo-sitivo intrauterino-]{+DIU+}) do que nos sangramentos anovulatórios;
+Progestogênios: decidualizam e diminuem a espessura endometrial; podem ser usados isolados em sangramentos ano{+-+}vula[---]tórios, mas não são eficazes na menorragia{+. Quando utilizados para o tratamento de ciclo anovulatórios, são usa-dos por duas semanas ao mês. O uso cíclico de progesterona oral leva a sangramento após a sua interrupção (cureta-gem clínica ou química). Seu uso contínuo provoca amenorreia+};{+    +}
+Danazol: derivado da testosterona, tem ações antiestrogênica e antigonadotrófica e deve ser usado por curto período, pa[---]ra não aumentar os riscos de osteopenia/osteoporose; 
+Anticoncepcionais hormonais combinados: atrofiam o endométrio, sendo eficazes nos sangramentos anovulatórios e em alguns casos de miomatose. Introduz[-ir-]{+-se+} 1 comprimido, 2 a 3x/d, por 7 dias. O sangramento (curetagem química) ocorre[-rá-] após 2 a 5 dias da suspensão. Reintroduz[-ir-]{+-se+} 1x/d, no 5º dia de fluxo, por 21 dias, com pausa de 7 dias, e man{+-+}t{+ém-s+}e[-r-] por, no mínimo, 3 meses;
+Análogos de GnRH: para bloqueio do eixo hipotalâmico-hipofisário-ovariano, devem ser usados por curto período, para não aumentarem os riscos de osteopenia/osteoporose (exemplos: leuprolida 1mg, SC/dia, e goserelina 3,6mg, SC/mês, nafarrelina, spray nasal). Apresentam uma taxa considerável de efeitos adversos, como fogachos e sintomas urogenitais de atrofia;{+ são utilizados antes do procedimento cirúrgico para redução do volume uterino e controle prévio da anemia;+}
+Sistema intrauterino (SIU) medicado com progesterona: 96% das usuárias apresentam redução do fluxo, e cerca de 40% entram em amenorreia. A eficácia é semelhante à da histerectomia.
+
+b) Cirúrgico
+{+São indicações do tratamento cirúrgico:+}
+{+Causas estruturais e neoplasias;+}
+{+Falha no tratamento clínico;+}
+{+Miomas grandes >3cm, submucosos, distorção da cavidade endometrial: embolização da artéria uterina, miomectomia por histeroscopia ou abdominal, ou histerectomia.  +}
+Ablação endometrial (Figura [-3-]{+4+}): remoção do endométrio em toda a sua espessura e extensão por meio de histerosco{+-+}pia, ou não. Nesse caso, pode ser feita por meio de balão térmico, crioablação, micro-ondas ou outros menos utiliza{+-+}dos;{+ promove redução do fluxo semelhante ao obtido pelo DIU liberador de levonorgestrel (Mirena®);+}
+
+{+Tabela 5 - Contraindicações absolutas à ablação endometrial+}
+{+- Malignidade do trato genital;+}
+{+- Mulheres que desejam preservar a fertilidade;+}
+{+- Gestantes;+}
+{+- Infecção pélvica aguda;+}
+{+- Cirurgia uterina prévia.+}
+
+Curetagem uterina: raspagem da camada interna do útero por meio de cureta;
+Histerectomia: retirada cirúrgica do útero. Pode ser realizada pelas vias abdominal, vaginal ou laparoscópica.
+
+ 
+Figura [-3-]{+4+} - Ablação endometrial
+
+c) Na Emergência 
+
+Reposição volêmica:
+Repouso;
+Estrogenoterapia intensiva: estrogênios conjugados 2,5mg VO{+ a cada 4 horas+}, [-8/8h-]{+até cessar o sangramento ou até 3 do-ses. Em situações de menor sangramento, pode ser prescrito 1,25mg de estrogênio conjugado por 7 a 10 dias. A te-rapia estrogênica deve ser seguida de progesterona. Pode ser associado a terapia antifibrinolítica por curto período de tempo;+}
+{+Em hemodinamicamente instáveis+}, {+pode-se optar por estrogênio equin+}o{+ conj+}u{+gado+} 2[-0-]{+5+}mg [-IV-]{+a cada 4 horas+}, [-12/1-]{+até o san-gramento desaparecer, por até +}2{+4 +}h[-,-]{+oras.+} {+Realiza-s+}e terapia hormonal {+com progesterona +}posterior. O estrogênio in{+-+}travenoso provoca proliferação endometrial, ocasionando a sua estabilização. Consequentemente, a paciente inter{+-+}rompe o sangramento;
+[-C-]{+O tratamento com altas doses de estrogênio aumenta notavelmente o risco de tromboembolismo;+}
+{+A c+}uretagem uterina[-:-]{+ é utilizada,+} se necessário, para estancar a hemorragia. Deve-se sempre solicitar exame anatomo{+-+}patológico do produto obtido para diagnóstico etiológico;
+Tratamento hormonal de manutenção com progestogênio na 2ª fase.
+
+Tabela [-3-]{+6+} - Sangramento uterino disfuncional ou hemorragia disfuncional
+- O SUD pode ser causado por distúrbios do eixo hipotalâmico-hipofisário-ovariano, aumento das prostaglandinas, distúrbios hepáticos e tireóideos e alterações ponderais excessivas;
+- Os distúrbios do eixo hipotalâmico-hipofisário-ovariano podem expressar SUD com ciclos anovulatórios ou ovulatórios, dependendo de sua fisiopato{+-+}logia durante a menacma: ovulatórios – insuficiência lútea e hipermenor{+-+}ragia essencial – e anovulatórios – [-síndrome dos ovários policísticos-]{+SOP+}, hiperprolactinemia, insuficiência ovariana e estresse;
+- Os sangramentos disfuncionais ovulatórios apresentam-se geralmente cí{+-+}clicos, com dismenorreia e dor do meio do ciclo. Já nos anovulatórios, há sangramento geralmente precedido de amenorreia;
+- Sintomas como galactorreia (hiperprolactinemia), hirsutismo, acne, obesi{+-+}dade ([-síndrome dos ovários policísticos-]{+SOP+}), fogachos, secura vaginal e insônia (falência ovariana) podem auxiliar no diagnóstico fisiopatológico;
+- Abortamento, moléstia inflamatória pélvica aguda, miomas e pólipos en{+-+}dometriais, câncer de colo ou endométrio, coagulopatia, corpo estranho e hipotireoidismo são os principais diagnósticos diferenciais de SUD;
+- O tratamento cirúrgico é indicado a casos de sangramento abrupto refra{+-+}tário à medicação, anemias importantes e instabilidade hemodinâmica.
+
+4. Hiperandrogenismo
+
+A - Definição
+[-O hiperandrogenismo é o excesso da concentração ou da ação dos androgênios na mulher, produzidos a partir do coleste-rol pelas glândulas suprarrenais e pelos ovários, e está, em grande parte (80%), ligado à Sex Hormone-Binding Globulin (SHBG) ou à albumina (19%), restando pequena fração livre no plasma (1%), responsável pelas manifestações do hiperandrogenismo.-]
+
+[-Tab-]{+O hip+}e[-l-]{+r+}a{+ndrogenismo+} [-4-]{+é+} [---]{+o+} [-Pri-]{+excesso da co+}nc[-ip-]{+entr+}a[-i-]{+ção ou da ação do+}s androgênios na mulher{+,+} [-And-]{+p+}ro[-stene-]d{+uz+}i{+d+}o[-n-]{+s +}a[-	50%-] p{+a+}r[-oduz-]{+t+}i{+r +}do{+ colesterol pela+}s {+glâ+}n{+dul+}as suprarrenais e [-50% n-]{+pel+}os ovários[-T-]{+, e +}est{+á, em grande parte (80%), ligado à Sex Hormone-Binding Gl+}o{+bulin (SHBG) ou à albumina (19%), re+}st{+ando p+}e{+quena f+}r{+açã+}o{+ livre +}n{+o pl+}a[-	25-]{+sma (1+}%{+),+} [-p-]r{+esp+}o{+nsável pelas manifestações +}d[-uz-]{+o h+}i{+peran+}d{+r+}o{+genismo.+}
+
+{+Tabela 7 - Principai+}s {+a+}n{+drogêni+}os {+na mulher +}
+
+{+Androgênios	Pr+}o{+dução+}
+{+Testosterona (T)	O+}vário[-s,-] [-25%-]{+++} {+suprarre+}na{+l+}
+{+Andro+}s{+tenediona	Ovário ++} suprarrena{+l+}
+{+D+}i[-s -]{+idrot+}e[- 50% p-]{+st+}o{+ste+}r{+ona+} [-c-]{+(DHT)	C+}onversão periférica
+[-, princ-]{+De+}i{+droe+}p{+i+}a[-lmente -]n{+dr+}o[- -]{+s+}te[-cid-]{+r+}o[- -]{+n+}a[-d-]{+ (DHEA)	Ovár+}i[-p-]o[---]{+ + +}s[-o-]{+uprarrenal (90%)+}
+Sulfato de deidroe[---]piandrosterona[-	95% ou mais produzidos nas-] [-s-]{+(DHEAS)	S+}uprarrena[-is-]{+l (100%)+}
+
+A quantidade de SHBG é um fator importante, pois determina a fração ligada e a fração livre dos hormônios. Além disso, ela aumenta com estrogênios (anticoncepcionais orais, por exemplo) e com a administração de hormônio tireoidiano (por exemplo, no controle do hipotireoidismo) e diminui na obesidade, nos estados hiperinsulinêmicos (como [-síndrome dos ová-rios policísticos-]{+SOP+}) e com a administração de androgênios.
+O androgênio mais potente é a diidrotestosterona, resultado da conversão periférica da testosterona pela enzima 5-alfarredutase.
+
+B - Etiopatogenia
+
+Diversos fatores podem levar ao hiperandrogenismo. Os mais importantes são:
+Aumento da produção de androgênios ovarianos (por exemplo, tumores de ovário, [-síndrome-]{+SOP+} [-dos ovários policísticos =-]{+–+} hi[---]perandrogenismo funcio{+-+}nal) e suprarrenal (como síndrome de Cushing);
+Uso de substâncias androgênicas (anabolizantes; progestogênios derivados da 19-nortestosterona);
+Diminuição da SHBG com aumento das taxas livres de androgênios circulantes. Exemplos: obesidade, hiperinsulinemia;
+Diminuição do catabolismo e depuração dos androgênios;
+@@ -166,52 +275,103 @@ Aumento da resposta do tecido-alvo.
+
+C - Apresentação clínica
+
+- Aspectos fenotípicos relacionados ao hiperandrogenismo ({+“+}maçã{+”+}) e mulher normal ({+“+}pera{+”+})
+
+O hiperandrogenismo leva tanto à redução dos caracteres essencialmente femininos (desfeminilização) quanto à virili{+-+}za[---]ção. Os principais sinais são:
+Alopecia androgenética;
+Aumento da massa muscular;
+Aumento da gravidade da voz;
+Aumento do clitóris;
+Alterações menstruais: de ciclos oligomenorreicos a amenorreia[-;-]{+ – ciclos anovulatórios.+}
+Esterilidade por fator ovulatório;
+Abortamentos de 1º trimestre por insuficiência lútea;
+Hirsutismo[- (Figura 4)-];
+Acne;
+Obesidade centrípeta;
+Acantose nigricans{+ – marcador de resistência a insulina+}.{+  +}	
+ 
+Figura [-4-]{+5+} - Escala de Ferriman-Gallwey para hirsutismo. Interpretação da escala de Ferriman: abaixo de cada figura, de acordo com a porcentagem de pelos, atribui-se nota de 1 a 4 e somam-se os pontos (total <8 = normal, 8 a 16 = hirsutismo leve, 17 a 25 = hir{+-+}sutismo moderado, >25 = hirsutismo grave)
+Fonte: Ferriman, DG & Gallwey, JD – Clinical assessment of body hair growth in women. J. Clin. Metab. 1961; 21:1440-8.
+
+{+No entanto, deve-se observar que a virilização é marcada por aumento da massa muscular, redução das mamas, en-grossamento da voz e clitoromegalia. O clitóris normal tem de 1 a 1,5cm de comprimento e 0,5cm de largura. Quando ocorre virilização, deve-se pensar em tumores produtores de androgênios ovariano ou de suprarrenal. E, na síndrome do ovário policístico, é comum haver hirsutismo, acne e alopecia androgênica. +}
+
+{+D - Principais causas de hiperandrogenismo+}
+
+{+Síndrome do ovário policístico (mais comum): será mais bem descrita a seguir;+}
+{+Hiperplasia de suprarrenal congênita de início tardio (não clássica): trata-se de uma doença congênita marcada por deficiência parcial ou total da 21-hidroxilase (mais comum) ou 11-hidroxilase. Na forma tardia da doença, ocorre defi-ciência apenas do cortisol, com consequente aumento no ACTH, que é capaz de normalizar a produção de cortisol e provoca hiperplasia de suprarrenal com aumento de androgênios. Há aumento nas taxas de testosterona, androste-nediona e sulfato de deidroepiandrosterona. Nessa forma tardia da doença, também chamada não clássica, não há alteração no cortisol e aldosterona séricos;+}
+
+{+  +}
+{+Figura 6 - Mecanismo de hiperandrogenismo na hiperplasia de suprarrenal congênita+}
+
+{+O diagnóstico presuntivo é realizado pela dosagem da 17-hidroxiprogesterona sérica >200ng/dL e confirmado pelo teste de estimulação com ACTH. +}
+
+{+ +}
+{+Figura 7 - Diagnóstico pela dosagem de 17-hidroxiprogesterona 60 minutos após estimulação com ACTH+}
+
+{+a) Tumor ovariano e de suprarrenal secretor de androgênio+}
+
+{+Como mencionado, sinais de virilização são indicativos clínicos de produção tumoral de androgênios. +}D{+evem-se, nesses casos, dosar os androgênios séricos;+}
+{+A dosagem de testosterona total sérica é utilizada para excluir tumores ovarianos. Testosterona total sérica >200ng/mL sugere neoplasia ovariana, devendo-se evoluir com exames de imagem para elucidação diagnóstica; +}
+{+Sulfato de deidroepiandrosterona >700µg/dL sugere a presença de neoplasia suprarrenal, devendo ser realizada To-mografia Computadorizada (TC) ou Ressonância Nuclear Magnética (RNM) para esses pacientes. +}
+
+{+b) Síndrome de Cushing+}
+
+{+Trata-se do resultado da exposição prolongada a níveis elevados de glicocorticoides exógenos ou endógenos. São mani-festações clínicas: disfunção menstrual, acne, hirsutismo, obesidade centrípeta, dislipidemia, intolerância a glicose, faces “em lua cheia”, estrias abdominais, gordura com distribuição central, perda da força muscular nos músculos proximais, facilidade para desenvolver hematomas;+}
+{+Em pacientes com essas características, é mandatória a dosagem de cortisol livre na urina de 24 horas: <90µg+} {+– nor+}-{+mais;+} [-D-]{+>300µg – síndrome de Cushing. Uma opção diagnóst+}i{+ca é o teste de supressão com dexametason+}a{+.  +}
+
+{+c) Andro+}g{+ê+}n{+ios ex+}ó{+geno+}s{+ +}
+
+{+Pacien+}t{+es que fazem uso exógeno de androgênios podem evolu+}i{+r +}co{+m sinais e sintomas de hiperandrogeni+}s{+mo. +}
+
+{+E - Diagnóstico+} clínico e laboratorial
+
+O diagnóstico do hiperandrogenismo deve ser feito por avaliação clínica e laboratorial:
+Clínica: na anamnese, questiona-se sobre oleosidade de pele e cabelos, alteração da libido, irregularidade menstrual, acne, hirsutismo etc. No exame físico, verificam-se hirsutismo, clitoromegalia, timbre da voz, distribuição da gordura corpórea;
+Exames laboratoriais: dosagens séricas dos androgênios (androstenediona, sulfato de deidroepiandrosterona, testoste{+-+}ro[---]na total e livre), PRL, hormônios tireoidianos, FSH e LH para avaliar [-síndrome dos ovários policísticos-]{+SOP+}; exames de imagem para avaliar ovários e suprarrenais (USG/TC/RNM), a fim de excluir as neoplasias.
+
+5. Síndrome dos ovários policísticos
+
+A - Definição
+
+Compreende uma forma de hiperandrogenismo acompanhada por anovulação crônica. É conhecida também como sín[---]drome de Stein-Leventhal, por causa dos 2 autores que a descreveram, em 1935, notando a associação entre ame{+-+}norreia, hirsutismo, obesidade e ovários policísticos.{+ Cursa com aumento do risco de diabetes e doença cardiovascular.+}
+
+B - Etiopatogenia
+
+Sua etiopatogenia exata não está definida, mas é aceitável uma desordem no processo normal de maturação folicu{+-+}lar e ovulação[-.-]
+[-O-]{+,+} [-LH-]{+passando+} {+p+}e[-nc-]{+l+}o{+s segui+}nt[-ra--]{+e+}s{+ proc+}e{+ssos+} {+basic+}a[-u-]ment[-ado -]e[-m rela-]{+:+}
+{+Disfun+}ção {+n+}a[-o FSH-] [-(-]{+p+}r[-ela-]{+odu+}ção [->2:1).-]{+de+} [-O-]{+androgênio+}s[- -]{+;+}
+{+A+}n[-í-]{+o+}v{+ulação;+}
+{+Hip+}e{+r+}i{+n+}s[- re-]{+u+}l[-at-]i[-vame-]n[-t-]e[- ba-]{+m+}i[-xo-]{+a;+}
+{+Obe+}s[- -]{+ida+}de[- FS-]{+.+}
+H{+á+} [-inibe-]{+u+}m[- -]a [-mat-]{+disf+}u[-ra-]{+n+}ção [-fol-]{+pr+}i[-cula-]{+má+}r{+ia+} {+n+}a[-d-]{+ +}e[-quad-]{+nzim+}a {+CYP17 +}e {+n+}o [-fenô-]{+citocromo, co+}m{+ alt+}e{+ração +}n{+a produçã+}o de {+an+}d{+r+}o[-mi-]{+gê+}n[-â-]{+ios, leva+}n[-c-]{+do a atres+}ia folicular[-,-] p[-e-]r[-sis-]{+ema+}t[-indo-]{+ura+} [-f-]{+e an+}o[-líc-]{+v+}ul{+ação. Portanto, nã+}o[-s-] {+há pico na taxa d+}e[-m-] {+prog+}est[-ági-]{+er+}o[-s-]{+na+} [-i-]n[-ici-]a[-i-]{+ fa+}s{+e+} [-d-]{+lúte+}a{+, e há+} ma[-t-]{+n+}u[-r-]{+tenção n+}a{+ produ+}ção e{+strogênica+} [-f-]o[-lí-]{+variana, +}cul{+minand+}o[-s-]{+ com+} a{+l+}t{+e+}r[-ésico-]{+açõe+}s[-,-] [-o-]{+na+} [-q-]{+prod+}u{+ção d+}e [-for-]{+GnRH e au+}m{+ento n+}a {+produçã+}o {+de LH. O LH encontr+}a{+-+}s[-p-]e[-c-]{+ aumen+}t{+ad+}o [-p-]{+em relação a+}o{+ FSH (re+}l[-icístic-]{+açã+}o{+ >2:1)+}. Há aumento da produção androgênica pela hiperplasia das células tecais sob estímulo do LH.[-Com-] [-o-]{+Os níveis relativamente baixos de FSH inibem a maturação folicular adequada e o fenômeno de dominância folicular, persistindo folículos em estágios iniciais da maturação e folículos atrésicos, o que forma o aspecto policístico. +}
+{+Com o+} estado hiperandrogênico, há diminuição da SHBG e aumento dos esteroides sexuais livres. O estrogênio livre au[---]mentado age na hipófise, estimulando a secreção ainda maior de LH, perpetuando o ciclo vicioso. A produção exces{+-+}siva de androgênios e a sua conversão em estrogênios constituem o substrato fisiopatológico da anovulação crônica.[-Vários mecanismos têm sido propostos para explicar esse desequilíbrio funcional. Atualmente, uma hipótese bastante de-fendida e aceita é a de hiperinsulinemia (por aumento da produção pancreática, diminuição da depuração hepática ou, prin-cipalmente, resistência dos tecidos periféricos à sua ação). No caso da síndrome, parece que a resistência periférica à ação da insulina – causada por diminuição dos receptores para insulina ou mecanismo defeituoso pós-receptor – é a hipótese mais provável.-]
+
+ 
+Figura [-5-]{+8 - Fisiopatologia da síndrome dos ovários policísticos+}
+
+{+ +}
+{+Figura 9+} - (A) Desenvolvimento folicular normal e (B) anovulação proposta em paciente devido à insulinemia
+
+{+O hirsutismo ocorre em 70% das pacientes com SOP. Sua manifestação depende da atividade cutânea da 5-alfarredutase. O diagnóstico pode ocorrer pela presença de sinais clínicos ou aumento androgênico em exames labora-toriais. O aumento anormal de androgênios leva a pelos na face, região cervical, tórax e abdome inferior, e a acne é intensamente causada pela DHT (diidrotestosterona). A distribuição de pelos é tipicamente masculina, com índice de Ferriman-Gallwey =8. De 15 a 30% das mulheres com hirsutismo leve a moderado não apresentam alterações laborato-riais, sendo essa manifestação devida a hiperatividade da 5-alfarredutase na pele (transforma a testosterona e diidro-testosterona, que é androgênio mais potente). Também se observam mulheres com sinais de hirsutismo e dosagens hormonais normais, podendo ser decorrentes da redução da SHBG com consequente aumento da fração livre de an-drogênio ou de aumento na sensibilidade do receptor. A redução na SHBG, por sua vez, aumenta a fração livre do an-drogênio e a sua bioatividade nos receptores.+}
+
+{+?Atividade de 5-alfarredutase na pele + ? SHBG = hirsutismo sem aumento androgênios totais séricos+}
+
+{+Vários mecanismos têm sido propostos para explicar esse desequilíbrio funcional. Atualmente, uma hipótese bastante defendida e aceita é a de hiperinsulinemia (por aumento da produção pancreática, diminuição da depuração hepática ou, principalmente, resistência dos tecidos periféricos à sua ação). No caso da síndrome, parece que a resistência peri-férica à ação da insulina – causada por diminuição dos receptores para insulina ou mecanismo defeituoso pós-receptor – é a hipótese mais provável.+}
+
+C - Hiperinsulinemia 
+
+A hiperinsulinemia determina o estado anovulatório por ação direta e sinérgica com o LH nos ovários e por diminuição da produção hepática da SHBG.{+ +}Pacientes com hiperinsulinemia apresentam maior risco [-para-]{+de+} doenças cardiovasculares (por alteração do metabolismo li[---]pídico – aumento do colesterol LDL e triglicérides) e [-para -]doenças tromboembólicas por estímulo à coagulação.
+
+ 
+Figura [-6-]{+10+} - Insulinemia 
+
+{+  +}
+{+Figura 11 - Resumo da ação da hiperinsulinemia e aumento na produção de androgênios+}
+
+{+Observam-se ainda, na obesidade, aumento na aromatização periférica, aumento na produção de insulina e redução na SHBG, culminando com elevada produção androgênica e maior fração de androgênios livres/biodisponíveis.+}
+
+D - Quadro clínico e diagnóstico
+
+Tabela [-5-]{+8+} - Características clínicas 
+- Oligomenorreia ou amenorreia (83%);
+- Infertilidade;
+- Obesidade;
+@@ -220,57 +380,122 @@ Tabela 5 - Caracter
+- Acantose nigricans;
+- Alopecia androgênica.
+
+A síndrome é a principal causa de infertilidade endócrina, responsável por cerca de 25% dos casos de infertilidade femi[---]nina. Além disso, é a principal doença endócrina da mulher na menacma, com prevalência de cerca de 8% nessa população.
+Em 2004, o Conselho de Rotterdam estabeleceu critérios para definir a doença, normatizando condutas e determinan{+-+}do a necessidade de controlar as pacientes com a síndrome, visando à regularização das funções menstrual e ovulató{+-+}ria, ao contro[---]le do hirsutismo e de outros aspectos do hiperandrogenismo e à reversão da infertilidade. Além disso, esse controle permitia a diminuição da resistência a insulina e seus riscos associados, como diabetes mellitus tipo 2, dislipidemias e doenças cardio[---]vasculares.
+
+Tabela [-6-]{+9+} - Critérios do consenso de Rotterdam (2004) 
+A presença de[-,-] pelo menos[-,-] 2 dos critérios a seguir já define o diagnóstico, afastadas outras causas de anovulação hiperandrogênica
+- Disfunção menstrual anovulatória (geralmente ciclos oligomenorreicos e/ou amenorreia);
+- Sinais clínicos e/ou laboratoriais de hiperandrogenismo; 
+- U[-ltrassonografia (U-]SG[-)-] pélvica transvaginal evidenciando 12 ou mais folículos de 2 a 9mm em cada ovário e/ou aumento do volume ovariano superior a 10cm3.[-	-]
+[-Importante-]
+[-A ultrassonografia transvaginal comprovando o aspecto polimicrocístico do ovário não é mais imprescindível para o diagnós-tico como no passado. Se a paciente apresentar oligomenorreia e sinais de hirsutismo, já preenche 2 dos 3 critérios diagnós-ticos da síndrome, e a comprovação ultrassonográfica será desnecessária. Atentar para esses detalhes nas questões de pro-vas de Residência Médica.-]
+
+[-Exa-]{+I+}m[-es lab-]{+p+}or{+t+}a{+n+}t[-or-]{+e+}
+{+O d+}ia[-i-]{+gnó+}s[-LH, FSH-]{+tico+} {+d+}e [-PRL;-]
+[-Hipera-]{+sí+}ndro[-gene-]m[-ia: t-]e[-st-]{+ d+}os[-te-]{+ ová+}r{+i+}o[-na-]{+s+} {+po+}li[-vre-]{+císticos é+} {+d+}e [-tota-]{+exc+}l{+usão+}, [-a-]{+deve+}nd[-r-]o{+ +}s[-ten-]e{+r afasta+}d[-i-]{+as +}o[-n-]{+utr+}a[-,-]{+s+} {+cau+}s[-índ-]{+as f+}r[-om-]e[- d-]{+qu+}e{+ntes+} de{+ h+}i[-droe-]p[-i-]{+er+}andro[-st-]{+g+}e[-ro-]n[-a-]{+ismo+}, [-17-h-]{+já expl+}i{+ca+}d[-rox-]{+as: h+}ip[-rogest-]er[-on-]{+pl+}a[-;-]
+[-Te-]s[-t-]{+ia suprarr+}e{+nal+} de [-tolerâ-]{+i+}n{+í+}ci[-a -]o[-ral-] {+t+}a{+rdio,+} [-g-]{+neop+}l{+as+}i[-c-]{+a +}o[-se;-]
+[-Cur-]va[- -]{+r+}i{+a+}n{+a e de +}su[-lí-]{+prarre+}n[-ic-]a{+l produtoras de androgênios, síndrome de Cushing e uso de androgênio exó-geno. Associa-se, ainda, a necessidade de exclusão de hiperprolactinemia e hipotireoidismo também associados a anovulação. +}
+
+{+Importan-te+}
+{+A ultrassonografia transvaginal compro-vando o aspecto po-limicrocístico do ová-rio não é mais impres-cindível para o diag-nóstico. Se a paciente apresentar oligome-norreia e sinais de hir-sutismo, já preenche-rá 2 dos 3 critérios di-agnósticos da síndro-me, e a comprovação ultrassonográfica será desnecessária. Con-vém atentar-se para esses detalhes nas questões de provas de Residência Médi-ca.+}
+
+{+- Exames laboratoriais+}
+
+{+Avaliação de hiperandrogenismo:+}
+{+Testosterona total e DHEAS:+}
+{+	* Tumor secretor androgênio DHEAS >700µg/dL: tumor suprarrenal;+}
+{+	* Testosterona >200ng/dL: tumor ovariano.+}
+{+SHBG: pode estar baixa na SOP.+}
+{+Exclusão de outras causas de hiperandrogenismo:+}
+{+TSH;+}
+{+Prolactina;+}
+{+17-hidroxiprogesterona;+}
+{+Avaliar estigmas de Cushing – cortisol urinário de 24 horas.+}
+{+Gonadotrofinas:+}
+{+FSH;+}
+{+LH;+}
+{+Relação LH–FSH.+}
+{+Exclusão de diabetes e pré-diabetes:+}
+{+Razão glicose–insulina de jejum <4,5: resistência a insulina;+}
+{+Glicemia de jejum/HbA1c/Teste de Tolerância a Glicose Oral (TTGO) de 75g.+}
+
+{+Tabela 10 - Teste de intolerância a glicose oral e de diabetes mellitus+}
+{+Alteração glicêmica	Normal	Intolerância a glicose	Diabetes mellitus+}
+{+Jejum	=100mg/dL	100 a 125mg/dL	=126mg/dL+}
+{+TTOG de 2 horas	=140mg/dL	140 a 199mg/dL	=200mg/dL+}
+
+{+HbA1c de 5,7 a 6,4%: intolerância a glicose; =6,5%: diabetes;+}
+{+Grande associação de SOP a resistência a insulina e diabetes.  +}
+{+Lipidograma completo e triglicérides:+}
+{+Perfil lipídico, devido à associação de SOP a síndrome metabólica e dislipidemia.+}
+{+Ultrassonografia transvaginal/pélvica: +}
+{+12 ou mais folículos de 2 a 9mm em cada ovário e/ou aumento do volume ovariano superior a 10cm3+}.
+
+ 
+Figura [-7-]{+12+} - Ovários policísticos à ultrassonografia
+
+{+Tabela 11 - Critérios de síndrome metabólica+}
+{+Qualquer conjunto de 3 a 5 critérios constitui diagnóstico de síndrome metabólica	Pontos de corte definidos+}
+{+Circunferência abdominal aumentada*	- =102cm para homens;+}
+{+- =88cm para mulheres.+}
+{+Níveis de triglicérides elevados	=150mg/dL ou farmacoterapia para níveis de triglicérides elevados**+}
+{+Níveis de HDL reduzidos	- <40mg/dL para homens;+}
+{+- <50mg/dL para mulheres+}
+{+ou farmacoterapia para hipertensão.+}
+{+PA elevada	=130mmHg PA sistólica, =85mmHg PA diastólica ou+}
+{+farmacoterapia para hipertensão+}
+{+Níveis de glicose em jejum elevados	=100mg/dL ou farmacoterapia para níveis de glicose elevados+}
+{+* As diretrizes para circunferência abdominal variam entre as populações e países específicos devem ser utilizados. Os valores aqui apresentados referem-se aos dos Estados Unidos.+}
+{+** Fibratos e ácido nicotínico são os fármacos mais empregados para triglicérides elevados e HDL reduzido. Presume-se que os pacientes tratados com esses agentes tenham níveis de triglicérides elevados e HDL baixo.+}
+{+PA: Pressão Arterial; HDL: lipoproteína de alta densidade.+}
+{+Fonte: Ginecologia Williams, página 22, 8ª edição. +}
+
+Vídeo
+Síndrome dos ová{+-+}rios policísticos
+  
+
+
+E - Tratamento das síndromes hiperandrogênicas
+
+[-S-]{+Deve-se s+}empre orientar perda de peso para aumentar SHBG, melhorando a resistência a insulina e diminuindo a con{+-+}versão peri[---]férica dos androgênios;
+[-A-]{+Utilizam-se a+}nticoncepcionais orais para supressão da função ovariana. Dá-se preferência àqueles com progestogênios com ação anti[---]androgênica, como acetato de ciproterona e drospirenona;
+[-D-]{+São d+}rogas antiandrogênicas: acetato de ciproterona, espironolactona, flutamida e finasterida;
+[-I-]{+São i+}ndutores da ovulação: citrato de clomifeno ou gonadotrofinas a pacientes que desejem engravidar;
+[-Cirúrgi-]{+Re+}co[-:-]{+rre-se a+} cauterização laparoscópica dos ovários (microperfurações) e ressecção “em cunha” dos ovários (cirurgia de Tha[---]ler); 
+Tratamento estético para hirsutismo com diversas técnicas de depilação (além dos tratamentos mencionados das cau{+-+}sas);
+Tratamento estético para acne e acompanhamento dermatológico[-.-]{+;+}
+
+Dica
+A metformina é usada para diminuição da resistência a insulina com restauração de ciclos ovulatórios; es{+-+}se medica[---]mento é considerado [-um -]excelen{+-+}te tratamento para pacientes com sín{+-+}drome dos ovários policísticos.
+
+É importante lembrar que as pacientes apresentam incidência aumentada de hipertensão, dislipidemia, diabetes e doenças cardiovasculares, o que aponta para a importância de um acompanhamento multiprofissional. Além disso, entre as paci[---]entes sem tratamento, os estímulos estrogênico e hiperandrogênico sem oposição da progesterona au{+-+}mentam os riscos de câncer de endométrio, mama e ovário.
+
+{+- Complicações da síndrome dos ovários policísticos+}
+
+{+ +}
+{+Figura 13 - Complicações relacionadas à síndrome dos ovários policísticos+}
+
+{+Seguem respostas rápidas:+}
+{+Hormônio responsável pela hiperplasia de células do estroma ovariano com produção androgênica na teca: LH;+}
+{+Enzima transformadora de androgênio em estrogênio: aromatase;+}
+{+Enzima relacionada ao hirsutismo na SOP: 5-alfarredutase;+}
+{+Hormônios que participam da regulação da síntese de androgênios: LH, ACTH, IGF e inibina;+}
+{+Disfunção específica na produção de androgênios: citocromo p450c17 e enzima CYP17;+}
+{+Androgênio geralmente não elevado na SOP: DHEAS; DHEA – pouco elevado;+}
+{+Alterações típicas na hiperinsulinemia: ? SHBG, ? LH, ? resposta ao LH;+}
+{+Papel obesidade SOP: hiperinsulinemia, ? SHBG, ? aromatização periférica;+}
+{+Relação LH–FSH: elevada 2:1, FSH normal ou diminuído, LH elevado;+}
+{+Estrogênio na SOP: elevado, principalmente estrona;+}
+{+Prolactina na SOP: pode estar levemente elevada;+}
+{+SHBG na SOP: reduzida;+}
+{+Progesterona na SOP: baixa, compatível com a 1ª fase do ciclo;+}
+{+Diagnóstico da SOP: ciclos menstruais irregulares/hiperandrogenemia/ovários policísticos; =2 critérios;+}
+{+Diagnóstico de ovário policístico: USG 1 ou 2 ovários: =12 folículos com 2 a 9mm diâmetro ou volume ovariano >10cm3; diagnóstico: 1 achado em 1 dos ovários.+}
+
+6. Hiperprolactinemia
+
+A - Definição
+
+A {+prolactina (+}PRL{+)+} é um hormônio polipeptídio secretado pela adeno-hipófise. Sua secreção é controlada por meio da constante inibi[---]ção exercida pela dopamina. Há um fator estimulador da secreção de PRL, que é o TRH (fator liberador do hormônio tireotró[---]fico).{+ +}A ação da PRL difere na gestante e na não gestante. Durante a gestação, seus níveis crescem constantemente até o termo, mas não ocorre lactação, devido à inibição exercida pelos estrogênios nos receptores mamários de PRL. Quando ocorre a dequitação (saída da placenta), há a liberação da ação da PRL na mama, permitindo a lactação.
+Na não gestante, a PRL está diretamente relacionada aos ovários, atuando no crescimento folicular e na dominância folicu[---]lar com papel sinérgico às gonadotrofinas. Se a PRL está elevada, determina um bloqueio da ação da aromatase, um bloqueio da ação do FSH em seus receptores e, ainda, atresia folicular por bloqueio da maturação. Além da ação direta nos ovários, a hiperprolactinemia pode inibir a secreção pulsátil do GnRH. Todos os mecanismos descritos alte{+-+}ram a função ovariana.
+
+B - Apresentação clínica
+
+Os sinais e os sintomas da hiperprolactinemia são:
+Galactorreia: ação direta do aumento de PRL na mama;
+Amenorreia: alteração da função ovulatória;
+@@ -285,6 +510,7 @@ Diminui
+C - Etiologia
+
+a) Uso de medicamentos
+
+Psicotrópicos;
+Antidopaminérgicos (clorpromazina, haloperidol, metoclopramida, veraliprida, alfametildopa, reserpina);
+Estrogênios;
+@@ -294,79 +520,114 @@ Opi
+TRH;
+Cocaína.
+
+{+Tabela 12 - Medicamentos e fitoterápicos associados a hiperprolactinemia+}
+{+- Antidepressivos ansiolíticos:+}
+{+  · Alprazolam;+}
+{+  · Buspirona;+}
+{+  · Inibidores da monoaminoxidase;+}
+{+  · Inibidores da receptação da serotonina.+}
+
+
+
+
+{+- Antidepressivos tricíclicos;+}
+{+- Metoclopramida;+}
+{+- Octreotida;+}
+{+- Sumatriptano.+}
+{+- Anti-hipertensivos:+}
+{+  · Atenolol;+}
+{+  · Metildopa;+}
+{+  · Verapamil.+}
+{+- Ranitidina;+}
+{+- Hormonais:+}
+{+  · Estrogênio+ medroxiprogesterona;+}
+{+  · Medroxiprogesterona injetável;+}
+{+  · Contraceptivo hormonal combinado.+}
+{+- Alguns fitoterápicos;+}
+{+- Antipsicóticos;+}
+{+- Clorpromazina;+}
+{+- Ciclobenzaprina;+}
+{+- Danazol;+}
+{+- Domperidona;+}
+{+- Isoniazida;+}
+{+- Ácido valproico;+}
+{+- Opioide.+}
+
+b) Tumores
+
+Adenoma de hipófise (prolactinoma): os microadenomas são tumores hipofisários menores de 1cm, e os macroade{+-+}nomas são tumores de 1cm ou mais. Ambos podem ser secretores de prolactina{+. Suspeita-se de adenomas quando a dosagem de prolactina está acima de 100ng/dL+};
+Outros sítios: carcinoma broncogênico e hipernefroma.
+
+c) Alterações fisiológicas
+
+Alterações fisiológicas do sono e do exercício físico, gravidez, lactação, situações de estresse, coito e manipulação ma{+-+}má[---]ria.
+
+d) Doenças endócrinas
+
+Hipotireoidismo;
+Hiperplasia adrenal;
+Insuficiência hepática.
+
+e) Alterações da parede torácica
+
+Mastectomia, herpes-zóster, mastoplastia e traumas, principalmente queimaduras.
+
+D - Diagnóstico
+
+A hipótese de hiperprolactinemia deve ser investigada sempre que a paciente apresenta queixa de alteração menstru{+-+}al, principalmente se tende a oligomenorreia ou mesmo amenorreia e, também, galactorreia e esterilidade.{+ +}Inicia-se com anamnese completa, afastando-se outras possibilidades, como o uso de medicações e gestação atual. Devem-se, também, pesquisar doenças que possam explicar as manifestações apresentadas, como hipotireoidismo, alterações hepáti[---]cas etc.
+Roteiro diagnóstico: dosagem {+de +}PRL + dosagem de TSH para afastar hipotireoidismo.
+Se PRL <25mg/mL: normal;
+Se PRL >100mg/mL: provável etiologia tumoral que deverá ser investigada mais profundamente com radiografia de sela túrcica, TC de crânio, RNM (melhor exame) e avaliação de campo visual;
+Se PRL entre 25 e 100mg/mL: procurar causas diversas, desde uso de medicamentos a outras doenças endócrinas e do[---]enças da parede torácica.
+
+E - Tratamento
+[-O tratamento está indicado para sintomáticas ou pacientes com tumor de hipófise de grande extensão (macroadenoma hi-pofisário). Já as pacientes com microadenomas de hipófise assintomáticos não têm indicação de tratamento. Quando há indi-cação, o tratamento pode ser clínico, cirúrgico ou radioterápico:-]
+[-Clínico: o mais indicado inicialmente, com boa resposta terapêutica na maioria dos casos. As drogas mais utilizadas são a bromocriptina, com posologia diária e efeitos colaterais como tontura, cefaleia, náuseas, depressão, alucinações, hipo-tensão ortostática, e a cabergolina, com posologia semanal e menor incidência de efeitos colaterais;-]
+[-Cirúrgico: ressecção transesfenoidal seletiva, reservada aos casos de tumor de hipófise extenso (macroadenoma) refratá-rio ao tratamento clínico, ou a pacientes com intolerância à medicação. Pode trazer complicações como meningite, dia-betes insipidus, fístulas liquóricas e pan-hipopituitarismo;-]
+[-Radioterapia: reservada aos casos de recidiva de tumores após ressecção cirúrgica, para tentar reduzir tumores irressecá-veis refratários à medicação e para os casos de tumores mistos. Seus resultados são menos eficientes do que o tratamen-to cirúrgico, com resposta lenta e insatisfatória na maioria dos casos.-]
+
+{+O tratamento está indicado para sintomáticas ou pacientes com tumor de hipófise de grande extensão (macroadenoma hipofisário). Já as pacientes com microadenomas de hipófise assintomáticos não têm indicação de tratamento. Quando há indicação, o tratamento pode ser clínico, cirúrgico ou radioterápico:+}
+{+Clínico: o mais indicado inicialmente, com boa resposta terapêutica na maioria dos casos. As drogas mais utilizadas são a bromocriptina, com posologia diária e efeitos colaterais como tontura, cefaleia, náuseas, depressão, alucinações, hi-potensão ortostática, e a cabergolina, com posologia semanal e menor incidência de efeitos colaterais;+}
+{+Cirúrgico: ressecção transesfenoidal seletiva, reservada aos casos de tumor de hipófise extenso (macroadenoma) refra-tário ao tratamento clínico, ou a pacientes com intolerância à medicação. Pode trazer complicações como meningite, diabetes insipidus, fístulas liquóricas e pan-hipopituitarismo;+}
+{+Radioterapia: reservada aos casos de recidiva de tumores após ressecção cirúrgica, para tentar reduzir tumores irres-secáveis refratários à medicação e para os casos de tumores mistos. Seus resultados são menos eficientes do que o tratamento cirúrgico, com resposta lenta e insatisfatória na maioria dos casos.+}
+
+Tabela [-7-]{+13+} - Comparação para o diagnóstico dos diversos transtornos menstruais e diagnósticos diferenciais 
+Hipotireoidismo	Dosar TSH.
+Hiperprolactinemia	Dosar PRL e pesquisar macroprolactinoma.
+H[-AC-]{+iperplasia adrenal congênita+} de início tardio	Dosar 17-hidroxiprogesterona.
+Tumor ovariano/hipertecose	Dosar testosterona total.
+Tumor de adrenal	Dosar sulfato de deidroepiandrosterona.
+Síndrome de Cushing	Dosar fração livre do cortisol urinário e teste da supressão do cortisol.
+
+[-7. -]Resumo
+
+Quadro-resumo
+SUA
+- [-Sangramento uterino que não obedece à função menstrual normal, devendo-se excluir qualquer causa orgânica;-]
+[-- -]Origem: possivelmente, ciclos ovulatórios ou anovulatórios. Estes últimos (90%) são comuns nos extremos reproduti{+-+}vos: imaturidade do eixo hipotalâmico-hipofisário-ovariano na adolescência e falência ovariana no climatério. O SUA, devido a ciclos ovulatórios, acon[---]tece por produção inadequada de estrogênio e progesterona;
+- Etiopatogenia: distúrbios no eixo hipotalâmico-hipofisário-ovariano, excesso de ou falta de estrogênios, aumento das prostaglandi[---]nas, distúrbios de outros órgãos, insuficiência hepática/cirrose, hipertireoidismo, hipotireoidismo;
+- Apresentação clínica: hipermenorreia, polimenorreia, menorragia, entre outros;
+- Diagnóstico: afastar quaisquer patologias orgânicas por meio de anamnese/exame físico e exames complementares;
+- Tratamento: clínico (anti-inflamatórios não hormonais – progestogênios: danazol; anticoncepcionais hormonais com{+-+}binados – análo[---]gos de GnRH: sistema intrauterino medicado com progesterona); cirúrgico (ablação endometrial, cure{+-+}tagem uterina, histerectomia).
+Hiperandrogenismo
+- Trata-se do excesso da concentração ou da ação dos androgênios na mulher, produzidos a partir do colesterol pelas glândulas suprar[---]renais e pelos ovários, em grande parte (80%) ligado à SHBG ou albumina (19%), restando pequena fração livre no plasma (1%);
+- Diversos fatores podem levar ao hiperandrogenismo. Os mais importantes são aumento da produção de androgênios ovarianos e suprarrenal; uso de substâncias androgênicas; diminuição da SHBG com aumento das taxas livres de an{+-+}drogênios circulantes;
+- Apresentação clínica: alopecia androgenética, aumento da massa muscular, engrossamento da voz, aumento do clitó{+-+}ris, alterações menstruais: de ciclos oligomenorreicos a amenorreia, esterilidade por fator ovulatório, abortamentos de 1º trimestre por insuficiência lútea, hirsutismo, acne, obesidade centrípeta, acantose nigricans;
+- Diagnóstico clínico: anamnese e exame físico;
+- Laboratório: dosagens séricas dos androgênios (androstenediona, sulfato de deidroepiandrosterona, testosteronas to{+-+}tal e livre), PRL, hormônios tireoidianos, FSH e LH para avaliar [-síndrome dos ovários policísticos-]{+SOP+}; exames de imagem para avaliar ovários e suprar{+-+}re[---]nais (USG/TC/RNM), a fim de excluir as neoplasias.
+Síndrome dos ovários policísticos
+- Corresponde ao hiperandrogenismo acompanhado por anovulação crônica com etiopatogenia ainda não definida, o que oferece o aspecto policístico aos ovários;
+- Há aumento na produção androgênica, devido a hiperplasia das células tecais sob estímulo do LH que está aumentado em relação ao FSH (relação LH–FSH >2:1). Os níveis relativamente baixos de FSH inibem a maturação folicular ade{+-+}quada e o fenômeno de domi[---]nância folicular, persistindo folículos em estágios iniciais da maturação e em atresia, o que oferece o aspecto policístico aos ovários;
+- O quadro clínico é composto por ciclos menstruais irregulares (espaniomenorreia ou amenorreia, hirsutismo, acne, alopecia, obesi[---]dade e ovários aumentados com múltiplos cistos);
+- O tratamento envolve perda de peso, drogas antiandrogênicas (o acetato de ciproterona é o mais utilizado), metfor{+-+}mina (quando houver resistência periférica a insulina) e citrato de clomifeno (indutor da ovulação) nas pacientes que desejem engravidar.
+Hiperprolactinemia
+- A PRL é secretada pela adeno-hipófise. Sua secreção é controlada por meio da constante inibição exercida pela dopa{+-+}mina. Há um fator estimulador da secreção de PRL, que é o TRH;
+- A PRL atua no crescimento e na dominância folicular com papel sinérgico às gonadotrofinas. Se a PRL estiver elevada, determinam-se bloqueio da ação da aromatase, bloqueio da ação do FSH em seus receptores e atresia folicular por bloqueio da maturação. Além da ação direta nos ovários, a hiperprolactinemia pode inibir a secreção pulsátil do GnRH, alterando a função ovariana, indiretamente;
+- Os sinais e os sintomas são galactorreia (ação direta do aumento de PRL na mama), amenorreia, esterilidade, acne, hirsutismo, distúrbios visuais, sinais de hipoestrogenismo, outros distúrbios menstruais (espaniomenorreia, oligome{+-+}norreia, insuficiência lútea) e redução da libido;
+- A etiologia envolve o uso de medicamentos (psicotrópicos, antidopaminérgicos, estrogênios, progestogênios, antide{+-+}pressivos tricícli[---]cos), tumores, doenças endócrinas (hipotireoidismo, hiperplasia adrenal, insuficiência hepática);
+- O roteiro diagnóstico compreende dosagem de PRL + dosagem de TSH para afastar hipotireoidismo:
+[-  -]· Se PRL <25mg/mL: normal;[-  -]
+· Se PRL >100mg/mL: provável etiologia tumoral que deverá ser investigada mais profundamente com radiografia de sela túrcica, TC de crânio, RNM (melhor exame) e avaliação de campo visual;[-  -]
+· Se PRL entre 25 e 100mg/mL: procurar causas diversas, desde uso de medicamentos, outras doenças endócrinas e doenças da parede torácica.
+- No tratamento clínico, a droga mais utilizada é a bromocriptina. O tratamento cirúrgico consiste na ressecção transes{+-+}fenoidal seleti[---]va, reservada aos casos de tumor de hipófise extenso (macroadenoma) refratário ao tratamento clínico, ou a pacientes com intolerân[---]cia à medicação;
+- A radioterapia está reservada aos casos de recidiva de tumores após ressecção cirúrgica, para tentar reduzir tumores irressecáveis refratários à medicação e para os casos de tumores mistos.
+
+[-Resposta-]
+[-1. D -]
+
+[-Dica-]
+[-Para fixar o que estudou n-]{+R+}es[-te ca-]p[-ítul-]o[-, te-]st[-e seus conhecimentos resolven-]{+a+}
+d[-o -]a[-s-] quest[-ões referentes-]{+ão+} [-a-]{+d+}o [-tem-]{+c+}a[-.-]
+[-Questões: -]p[-ágina XX-]
+[-Comen-]{+í+}t[-ári-]{+ul+}o
+[-s:-]{+1.+} [-página-]{+D+} [-XX-]
