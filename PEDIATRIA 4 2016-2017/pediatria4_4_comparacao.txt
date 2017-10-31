@@ -1,8 +1,3 @@
-diff --git a/pediatria4_4.txt b/pediatria4_4.txt
-index a022c21..cde73b4 100644
---- a/pediatria4_4.txt
-+++ b/pediatria4_4.txt
-@@ -1,285 +1,323 @@
 Normas para comunicantes de doenças infecciosas[- -]{++}
 Adriana Prado Lombardi[- / -]{++}
 José Roberto Vasconcelos de Araújo [-/ -]{++}

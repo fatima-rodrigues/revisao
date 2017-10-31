@@ -1,8 +1,4 @@
-diff --git a/pediatria4_5.txt b/pediatria4_5.txt
-index e8e1a17..25b065a 100644
---- a/pediatria4_5.txt
-+++ b/pediatria4_5.txt
-@@ -1,206 +1,378 @@
+
 [-Acidentes na infância e na adolescência-]Eva Fabiana Angelo Sendin[- / -]
 Liane Guidi Okamoto [-/ -]
 Adriana Prado Lombardi[- -]

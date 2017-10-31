@@ -1,8 +1,4 @@
-diff --git a/pediatria4_3.txt b/pediatria4_3.txt
-index dea5f28..168bb74 100644
---- a/pediatria4_3.txt
-+++ b/pediatria4_3.txt
-@@ -1,33 +1,44 @@
+
 Meningites e meningoencefalites
 Adriana Prado Lombardi[- / -]
 José Roberto Vasconcelos de Araújo[- / -]

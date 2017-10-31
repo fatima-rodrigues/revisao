@@ -1,8 +1,4 @@
-diff --git a/pediatria4_2.txt b/pediatria4_2.txt
-index 99b3c26..c5d8a8c 100644
---- a/pediatria4_2.txt
-+++ b/pediatria4_2.txt
-@@ -1,42 +1,45 @@
+
 Convulsão febril
 Kátia Tomie Kozu[- / -]
 Marcelo Higa

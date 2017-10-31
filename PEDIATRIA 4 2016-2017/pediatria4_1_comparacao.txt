@@ -1,8 +1,4 @@
-diff --git a/pediatria4_1.txt b/pediatria4_1.txt
-index 130e9d3..4a3db87 100644
---- a/pediatria4_1.txt
-+++ b/pediatria4_1.txt
-@@ -1,71 +1,77 @@
+
 Imunizações
 Adriana Prado Lombardi[- / -]
 José Roberto Vasconcelos de Araújo
