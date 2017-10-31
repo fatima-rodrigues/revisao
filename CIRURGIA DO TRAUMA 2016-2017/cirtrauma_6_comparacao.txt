@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_6.txt b/cirtrauma_6.txt
-index 3eeaf17..1be2f0f 100644
---- a/cirtrauma_6.txt
-+++ b/cirtrauma_6.txt
-@@ -1,8 +1,7 @@
+
 Trauma cranioencefálico
 Eduardo Bertolli
 

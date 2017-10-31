@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_1.txt b/cirtrauma_1.txt
-index 0af8d0a..0478d7f 100644
---- a/cirtrauma_1.txt
-+++ b/cirtrauma_1.txt
-@@ -1,9 +1,7 @@
+
 Atendimento inicial ao politraumatizado
 José Américo Bacchi Hora 
 [-Eduardo Bertolli-]

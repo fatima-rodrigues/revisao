@@ -1,8 +1,3 @@
-diff --git a/cirtrauma_3.txt b/cirtrauma_3.txt
-index 1bb7065..e4869c3 100644
---- a/cirtrauma_3.txt
-+++ b/cirtrauma_3.txt
-@@ -1,14 +1,13 @@
 [-Eduardo Bertolli-]
 Trauma torácico
 {+Eduardo Bertolli+}

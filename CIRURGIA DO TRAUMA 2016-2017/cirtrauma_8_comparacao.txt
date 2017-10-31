@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_8.txt b/cirtrauma_8.txt
-index 11bcf43..72d460a 100644
---- a/cirtrauma_8.txt
-+++ b/cirtrauma_8.txt
-@@ -1,8 +1,7 @@
+
 Trauma musculoesquelético
 Eduardo Bertolli
 

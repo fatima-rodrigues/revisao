@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_11.txt b/cirtrauma_11.txt
-index f69638c..dff219e 100644
---- a/cirtrauma_11.txt
-+++ b/cirtrauma_11.txt
-@@ -1,8 +1,7 @@
+
 Lesões cervicais
 Eduardo Bertolli
 

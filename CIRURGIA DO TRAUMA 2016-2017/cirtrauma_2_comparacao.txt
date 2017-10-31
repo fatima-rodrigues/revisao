@@ -1,8 +1,4 @@
-diff --git a/cirtrauma_2.txt b/cirtrauma_2.txt
-index 53f2c9c..fe03f02 100644
---- a/cirtrauma_2.txt
-+++ b/cirtrauma_2.txt
-@@ -1,8 +1,7 @@
+
 Vias aéreas
 Eduardo Bertolli
 

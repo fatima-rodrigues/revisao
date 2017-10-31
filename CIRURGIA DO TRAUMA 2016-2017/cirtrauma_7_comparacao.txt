@@ -1,9 +1,4 @@
-diff --git a/cirtrauma_7.txt b/cirtrauma_7.txt
-new file mode 100644
-index 0000000..322a873
---- /dev/null
-+++ b/cirtrauma_7.txt
-@@ -0,0 +1,217 @@
+
 {+Trauma raquimedular+}
 {+Eduardo Bertolli+}
 
