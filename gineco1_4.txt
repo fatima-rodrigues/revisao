@@ -1,153 +1,364 @@
 Amenorreia
 Flávia Fairbanks Lima de Oliveira Marino
 
-Resumo
-Neste capítulo, será abordada uma das causas de distúrbio menstrual, a amenorreia. Caracteriza-se pela ausência de mens-truação por 6 meses ou mais ou por 3 ciclos consecutivos. Suas principais etiologias incluem gestação, hímen imperfurado, síndrome de Rokitansky, síndrome de Asherman, causas ovarianas (falência do ovário), causas hipofisárias (prolactinoma) e outras, como o uso de antipsicóticos. Na investigação da amenorreia, devem-se solicitar beta-HCG, TSH e prolactina sérica, além de exames de imagem como ultrassonografias pélvica e transvaginal para a avaliação de volumes uterino e ovariano e presença de cistos.
-
-
+Neste capítulo, será abordada uma das causas de dis-túrbio menstrual, a amenorreia. Caracteriza-se pela ausência de menstruação por 6 meses ou mais ou por 3 ciclos consecutivos. Suas principais etiologias incluem gestação, hímen imperfurado, síndrome de Rokitansky, síndrome de Asherman, causas ovarianas (falência do ovário), causas hipofisárias (prolactinoma) e outras, como o uso de antipsicóticos. Na investigação da ame-norreia, devem-se solicitar beta-HCG, TSH e prolactina sérica, além de exames de imagem como ultrassono-grafias pélvica e transvaginal para a avaliação de volu-mes uterino e ovariano e presença de cistos.
 1. Introdução
-
 Amenorreia é um dos assuntos mais frequentes nas questões das provas de concursos médicos.
-
 Quadro clínico
-Amenorreia é a ausência de menstruação por 6 meses ou pelo tempo correspondente a 3 ciclos consecutivos da paciente (necessário avaliar, na anamnese, como era o padrão habitual da paciente).
-	
-A definição de amenorreia de acordo com os 3 ciclos consecutivos deve ser individualizada em cada paciente. Portanto, pacientes que costumavam menstruar de 24 em 24 dias, por exemplo, apresentam amenorreia quando a menstruação faltar por 2 meses e 12 dias. Se a ausência da menstruação não preencher nenhum dos 2 critérios definidores de amenorreia, ca-racteriza-se o quadro clínico como atraso menstrual.
-Trata-se de um sintoma que pode ser proveniente de diversas causas no eixo hipotalâmico-hipofisário-ovariano-uterino. Pode ser dividida em primária (quando a mulher nunca menstruou) e secundária (quando há a interrupção temporária dos ciclos menstruais). 
+Amenorreia é a ausência de menstruação por 6 meses ou pelo tempo cor-respondente a 3 ciclos consecutivos da paciente (necessário avaliar, na anamnese, como era o pa-drão habitual da pacien-te).
 
+Amenorreia é a ausência de menstruação por 6 meses ou pelo tempo correspondente a 3 ciclos consecutivos da paciente. A definição de amenorreia de acordo com os 3 ciclos consecutivos deve ser individualizada em cada paciente. Exemplo:
+ Pacientes que costumam menstruar de 24 em 24 dias apresentam amenorreia quando a menstruação faltar por 2 meses e 12 dias ou se estiver sem menstruar há 6 meses;
+Se a ausência da menstruação não preencher os 2 critérios definidores de amenorreia, caracteriza-se o quadro clínico como atraso menstrual.
+Trata-se de um sintoma que pode ser proveniente de diversas causas no eixo hipotalâmico-hipofisário-ovariano-uterino. Pode ser dividida em primária (quando a mulher nunca menstruou) e secundária (quando há a interrup-ção temporária dos ciclos menstruais). 
 2. Classificação
-
 Semiologicamente, a amenorreia é dividida em primária e secundária.
-
 A - Primária
-Ausência de menarca e de caracteres sexuais secundários aos 14 anos, ou ausência de menarca aos 16 anos (mesmo com desenvolvimento normal dos caracteres sexuais secundários). A prevalência é baixa: cerca de 0,4% das mulheres púberes.
-
+Ausência de menarca e de caracteres sexuais secundários aos 14 anos, ou ausência de menarca aos 16 anos, mesmo com desenvolvimento normal dos caracteres sexuais secundários.
+ A prevalência é baixa: cerca de 0,4% das mulheres púberes.
 B - Secundária
-Ausência de menstruação por 3 ciclos consecutivos ou por 180 dias (6 meses). A prevalência é de cerca de 5% das mulhe-res púberes.
-
+Ausência de menstruação por 3 ciclos consecutivos ou por 180 dias (6 meses). A prevalência é de cerca de 5% das mulheres púberes.
 3. Etiologia
+Primeiramente, precisamos compreender que a amenorreia pode advir de alterações em um dos seguintes pon-tos:
+Distúrbio do sistema genital (útero, endométrio) ou na saída do fluxo menstrual (hímen imperfurado);
+Distúrbios ovarianos;
+Distúrbios da hipófise anterior;
+Distúrbios hipotalâmicos ou do Sistema Nervoso Central (SNC).
+Além dessa avaliação, podemos ainda avaliar se a amenorreia apresenta cunho hormonal ou anatômico. E, na-quelas que apresentam alteração hormonal, devemos definir se são hipogonadotróficas, eugonadotróficas ou hipergonadotróficas, a fim de definir a localização no eixo hipotalâmico-hipofisário-ovariano.
+Tabela 1 - Categorias de amenorreia com base nos níveis de gonadotrofinas e estrogênio
+Tipo de Hipogonadismo	LH/FSH	Estrogênio	Defeito primário
+Hipergonadotrófico	Alto	Baixo	Ovário
+Hipogonadotrófico	Baixo	Baixo	Hipotálamo/hipófise
+Eugonadotrófico	Normal	Normal	Vários
+Fonte: Ginecologia de Williams, Hoffman, 2ª edição, página 442. 
+
+  
+Figura 1 - Exigências básicas para a função menstrual normal
+Fonte: Endocrinologia Ginecológica Clínica E Infertilidade, Speroff, 8ª edição página 447.
+Etiologias da amenorreia primária:
+Hipogonadismo hipergonadotrófico:
+45 X e variantes;
+46,XX;
+46,XY.
+Eugonadismo:
+Agenesia mülleriana;
+Septo vaginal;
+Hímen imperfurado;
+Síndrome da insensibilidade androgênica;
+Síndrome dos Ovários Policísticos (SOP);
+Hiperplasia de suprarrenal congênita;
+Doença de Cushing; 
+Doença tireoidiana.
+Níveis baixos de FSH sem o desenvolvimento das mamas:
+Atraso constitucional;
+Deficiência de GnRH;
+Outras doenças do SNC;
+Doença hipofisária;
+Transtornos alimentares, estresse, excesso de exercícios.
+Etiologia de amenorreia secundária:
+Níveis baixos ou normais de FSH:
+Transtornos alimentares, estresse, excesso de exercícios;
+Distúrbios hipotalâmicos inespecíficos;
+Anovulação crônica, incluindo síndrome do ovário policístico;
+Hipotireoidismo;
+Síndrome de Cushing;
+Tumor hipofisário/sela vazia;
+Síndrome de Sheehan.
+Níveis elevados de FSH: insuficiência gonadal:
+46,XX;
+Cariótipo anormal.
+Níveis elevados de prolactina;
+Anatômica:
+Síndrome de Asherman.
+Estados hiperandrogênicos:
+Hiperplasia de suprarrenal congênita de início tardia (não clássica);
+Tumor ovariano;
+Sem diagnóstico.
+E, finalmente, a classificação etiológica que vamos seguir, por uma questão didática: 
+Tabela 2 - Classificação etiológica: anatômicas x hormonais
+Anatômicas
+Herdadas	Adquiridas
+- Agenesia mülleriana (parcial ou total);	- Sinéquias intrauterinas (síndrome de Asherman);
+- Septo vaginal;	- Estenose do colo uterino;
+- Atresia cervical;	- Síndrome de Youssef-Machado.
+- Hímen imperfurado;	
+- Fusão labial.	
+Hormonais
+Hipogonadismo hipergonadotrófico	Hipogonadismo        hipogonadotrófico hipotalâmico	Hipogonadismo             hipogonadotrófico hipofisário	Amenorreia         eugonadotrófica
+Herdadas
+- Cromossômicas (disge-nesia gonadal);
+	- Síndrome de Kallmann;
+	Hipoplasia da hipófise
+	- SOP; 
+			- Tumores ovaria-nos;
+- Distúrbios de genes isolados.	- Idiopático.		- Hiperplasia de suprarrenal congê-nita tardia.
+Adquiridas
+- Infecção;
+	- Transtornos alimentares;	- Adenoma – prolactino-ma;	- Hiperprolactinemia;
+
+
+	- Exercício em excesso;	- Macroadenoma;	
+- Autoimune;	- Estresse;	- Metástase;	
+	- Tumor;	- Radiação;	
+- Doença tireoidiana;
+
+- Iatrogênica;	- Radiação;	- Trauma;	
+	- Trauma;	- Síndrome de Sheehan;	
+- Ambiental;	- Infecção;	- Doença infiltrativa;	- Síndrome de Cus-hing;
+	- Doença infiltrativa;	- Doenças crônicas: renal, hepática, AIDS, malignida-de e síndrome da má absorção.	
+- Idiopática.	- Pseudociese.		- Acromegalia.
+Fonte: Ginecologia de Williams, Hoffman, 2ª edição, página 442. 
 
 A - Gestação
 A principal suspeita diagnóstica em pacientes na menacma que apresentam amenorreia é gestação.
-
 Dica
 A principal causa de amenorreia secundária é gestação.
 
 Diagnóstico
-A solicitação da fração beta da gonadotrofina coriônica humana (beta-HCG) é o exame mandatório inicial na investigação da amenorreia secundária.
+A solicitação da fração beta da gonadotrofina co-riônica humana (beta-HCG) é o exame mandató-rio inicial na investiga-ção da amenorreia se-cundária.
 
-B - Imaturidade do eixo hipotalâmico-hipofisário-ovariano
-Após a menarca, é comum um período de irregularidade menstrual por imaturidade do eixo; a normalização dos ciclos le-va, em média, 2 anos. Os folículos ovarianos ainda são imaturos para produzir quantidades crescentes de estradiol e provocar o pico desse hormônio no final da fase folicular do ciclo menstrual. Consequentemente, não ocorre o pico de LH na metade do ciclo, o que impede a ocorrência de ovulação. A anovulação inibe a ação da progesterona no endométrio, o que impede a finalização do ciclo menstrual, com consequente amenorreia. De fato, é comum que haja longos períodos de amenorreia após a menarca.
+a) Causas anatômicas 
+Herdadas:
+Geralmente, são causas canaliculares, ou seja, alterações anatômicas do útero que cursam com obstrução da via de saída da menstruação e as agenesias uterinas congênitas. E, nesse grupo, encontram-se as anormalidades müllerianas;
 
-C - Causas canaliculares
-Definem-se por causas canaliculares as alterações anatômicas do útero que cursam com obstrução da via de saída da menstruação e as agenesias uterinas congênitas.
-São anormalidades müllerianas:
-Hímen imperfurado: pacientes com hímen imperfurado apresentam amenorreia primária. As pacientes poderão apre-sentar sintomas compatíveis com o período menstrual (dismenorreia e eventuais sintomas de síndrome pré-menstrual), mas não ocorre a exteriorização do fluxo. Esse quadro clínico denomina-se criptomenorreia (o prefixo cripto vem do grego e significa “escondido”);
+Importante
+Ductos müllerianos são responsáveis pela formação da genitália interna feminina (útero, trompas e 2/3 superiores da vagina); a genitália externa feminina desenvolve-se na ausência de androgênios. Logo, na presença de androgê-nios, há formação de genitália externa masculina. O desenvolvimento dos Ductos de Wolff são responsáveis pela formação da genitália interna masculina. O desenvolvimento das mamas é um indicador confiável da produção de estrogênio ou reposição exógena do mesmo. Logo, se há desenvolvimento da mama e não há menarca, possivelmente, o distúrbio é do sistema genital. O crescimento de pelos pubianos reflete produção de androgênios ou exposição exógena. Considere, ainda: o desenvolvimento mamário e de pelos deve ser proporcional, em mesmo estágio. Logo, se há desenvolvimento das mamas, com pelos pubianos reduzidos ou escassos, possivelmente há síndrome da in-sensibilidade androgênica.
+Hímen imperfurado: pacientes com hímen imperfurado apresentam amenorreia primária, cariótipo normal 46,XX e função ovariana e desenvolvimento dos caracteres sexuais secundários também normais. O sangra-mento menstrual não se exterioriza (criptomenorreia: o prefixo cripto vem do grego e significa “escondido”). O sangramento menstrual acumula-se na vagina (hematocolpo), no útero (hematométrio), nas tubas uterinas (hematossalpinge), e pode derramar no peritônio (hematoperitônio). Acarreta dor abdominal que se acentua ci-clicamente, amenorreia primária, sintomas compatíveis com o período menstrual (dismenorreia e eventuais sin-tomas de síndrome pré-menstrual), e desenvolvimento dos caracteres sexuais secundários normais. Ao exame físico, pode ser observado abaulamento da membrana himenal imperfurada. Pode complicar com endometriose. Não pode ser inserida agulha com objetivo diagnóstico pelo risco de converter hematocolpo em piocolpo (infec-ção);
 Septo vaginal transverso: a presença de septo transverso obstrui a saída da menstruação na topografia da vagina. O quadro clínico também será de amenorreia primária. As pacientes apresentam ciclicamente sintomas de menstruação, mas também não ocorre a exteriorização do fluxo (criptomenorreia);
-Síndrome de Rokitansky: é uma anomalia congênita em que não ocorre o desenvolvimento dos ductos de Müller. A pa-ciente apresenta agenesia/atresia dos 2/3 superiores da vagina, agenesia/atresia uterina (útero rudimentar, geral-mente sólido e bipartido), ovários normais e presença de pelos axilares e pudendos. Nesses casos, não há sintomas uterinos relacionados ao ciclo menstrual. A amenorreia será primária;
-
+Septo vaginal vertical: falha na fusão dos ductos müllerianos; na maioria, causa dispareunia e obstrução no canal do parto;
+Síndrome de Rokitansky-Küster-Hauser ou agenesia uterina: é uma anomalia congênita em que não ocorre o desenvolvimento dos ductos de Müller, logo não há desenvolvimento da genitália interna feminina. A paciente apresenta agenesia/atresia dos 2/3 superiores da vagina e agenesia/atresia uterina (útero rudimen-tar, geralmente sólido e bipartido). Como os ovários são normais, há desenvolvimento dos caracteres sexuais secundários (mamas) e presença de pelos axilares e pudendos normais. Nesses casos, não há sintomas uterinos relacionados ao ciclo menstrual. A amenorreia, nesse caso, é primária. É a segunda causa de amenorreia primá-ria;
  
-Figura 1 - Ressonância magnética de paciente com a síndrome de Rokitansky (notar a ausência de útero e tubas uterinas)
+Figura 2 - Ressonância magnética de paciente com a síndrome de Rokitansky (notar a ausência de útero e tubas uterinas)
 
-Estenose cervical: o estreitamento congênito ou iatrogênico do colo uterino também pode provocar criptomenorreia. Nessas situações, a amenorreia será primária se o estreitamento for congênito ou secundária se for iatrogênico;
-Insensibilidade androgênica (distúrbio do desenvolvimento sexual XY): síndrome de Morris – agenesia mülleriana com-pleta, com pelos ausentes e gônadas representadas por testículos; a amenorreia será primária, por agenesia completa do útero;
+Insensibilidade androgênica completa (distúrbio do desenvolvimento sexual XY): síndrome de Morris – cariótipo 46,XY, com formação de gônadas testiculares. Entretanto, há resistência completa aos androgênios, assim a formação da genitália externa é feminina. Não há desenvolvimento da genitália interna feminina e nem mascu-lina (produção testicular do fator antimülleriano e ausência de resposta nos ductos de Wolff aos androgênios). Pelos ausentes e gônadas representadas por testículos; a amenorreia será primária, por agenesia completa do útero;
  
-Figura 2 - Síndrome de Morris
+Figura 3 - Síndrome de Morris
 Fonte: scielo.sld.cu.
+As síndromes relacionadas às malformações de trato genital são mais bem explicadas no capitulo Anatomia, em-briologia e malformações do trato reprodutivo feminino.
+A síndrome de Rokitansky-Küster-Hauser e a síndrome da insensibilidade completa ao androgênio (SIA) são im-portantes diagnósticos diferenciais entre si. Ambas cursam com genitália externa feminina, ausência de genitália interna feminina e desenvolvimento mamário presente. Entretanto, na SIA, há redução ou ausência de pelos pu-bianos e axilares (caractere sexual secundário androgênio dependente) e apresenta cariótipo 46,XY, com presen-ça de gônadas testiculares.  
+Distúrbio do desenvolvimento sexual ovotesticular: o antigo hermafroditismo verdadeiro. A ausência do útero leva a amenorreia primária. Mais bem explicado no capítulo Anatomia, embriologia e malformações do trato reprodutivo feminino;
+Estenose cervical (atresia cervical): o estreitamento congênito ou iatrogênico do colo uterino também pode provocar criptomenorreia. Nessas situações, a amenorreia será primária se o estreitamento for congênito, ou secundária se for iatrogênico;
+Fusão labial: embora estruturalmente normais, os lábios vaginais de algumas meninas podem apresentar-se fortemente aderidos, levando à obstrução e amenorreia. O tratamento é realizado com creme de estrogênio tópico associado ou não à separação manual.     
 
-Distúrbio do desenvolvimento sexual ovotesticular: o antigo hermafroditismo verdadeiro. A ausência do útero levará a amenorreia primária;
-Síndrome de Asherman: sinéquias intrauterinas após curetagem, cesárea e extração manual da placenta. A síndrome de Asherman é a causa canalicular mais comum de amenorreia secundária. A realização de procedimentos cirúrgicos po-de levar à ocorrência de aderências endometriais, com consequente colabamento do útero (Figura 3). O procedimen-to que mais provoca a síndrome de Asherman é a curetagem uterina. A utilização da cureta de forma intempestiva pode levar à destruição da lâmina basal do endométrio, com geração de aderências intrauterinas;
+Adquiridas
+Síndrome de Asherman: sinéquias intrauterinas após curetagem, cesárea, extração manual da placenta ou en-dometrite e Doença Inflamatória Pélvica (DIP). A realização de procedimentos cirúrgicos pode levar à ocorrên-cia de aderências endometriais, com consequente colabamento do útero (Figura 3). A destruição do endomé-trio basal impede que haja espessamento endometrial em resposta aos esteroides ovarianos. A síndrome de Asherman é a causa canalicular mais comum de amenorreia secundária. O procedimento que mais provoca a síndrome de Asherman é a curetagem uterina. A utilização da cureta de forma intempestiva pode levar à des-truição da lâmina basal do endométrio, com geração de aderências intrauterinas; Além da amenorreia, essas pacientes podem se apresentar com dismenorreia, hipomenorreia, infertilidade ou abortamento recorrente. Na realização do teste do estrogênio (estrogênio exógeno 1,25mg/d por 21 dias, seguido de medroxiprogeste-rona 10mg/d por 5 a 7 dias) há sangramento menstrual escasso ou ausente, refletindo a resposta endometrial ausente ou reduzida ao estímulo hormonal. O diagnóstico é realizado pela histerossalpingografia e firmado por histeroscopia. A histeroscopia cirúrgica é o tratamento primário, seguido da inserção de cateter intrauterino em balão por 7-10 dias para evitar recorrência das sinéquias. Observa-se, ainda, que a lesão endometrial final do órgão e as sinéquias podem resultar de infecções intrauterinas, como lesão bacteriana da camada funcional do endométrio, tuberculose intrauterina e esquistossomose intrauterina O diagnóstico de tuberculose genital é realizado por biópsia endometrial (histopatológico ou cultura) ou PCR em aspiração endometrial, e o diagnósti-co de esquistossomose é realizado por detecção de ovos do parasita na urina, fezes, raspagem retal, conteúdo menstrual ou no endométrio;    
+ 
+Figura 4 - Representação das sinéquias uterinas
+Dica
+Deve-se estar atento às questões que descre-vem pacientes com amenorreia submeti-das a procedimentos cirúrgicos pélvicos, como curetagem, parto cesárea e extração ma-nual da placenta, além de cicatrizes/sequelas de doença inflamatória pélvica aguda. O racio-cínio deve ser direcio-nado para a síndrome de Asherman caso o quadro clínico seja compatível.
 
+Síndrome de Youssef-Machado: amenorreia iatrogênica pós-cirúrgica com formação de fístula vesicouterina. Nessas situações, ocorre um trajeto fistuloso entre o útero e a bexiga, e a paciente apresenta hematúria todas as vezes que fica menstruada;
+Estenose cervical (atresia cervical): o estreitamento congênito ou iatrogênico do colo uterino também pode pro-vocar criptomenorreia. Nessas situações, a amenorreia será primária se o estreitamento for congênito ou se-cundária se for iatrogênico.
+
+b) Causas hormonais 
+Hipogonadismo hipergonadotrófico: os distúrbios ovarianos são as causas mais comuns de amenorreia, e podem levar a amenorreia primária ou secundária. Os distúrbios ovarianos que cursam com hipogonadismo hi-pergonadotrófico decorrem, geralmente, de falência ovariana (folículos ovarianos em pequena quantidade ou ausentes), pois há baixo nível de esteroides, levando a redução no feedback  negativo e consequente aumento nos níveis do hormônio folículo-estimulante (FSH) e do hormônio luteinizante (LH). O hipogonadismo hipergona-dotrófico, geralmente, é disfunção primária ao nível ovariano – menopausa, menopausa precoce ou Insuficiên-cia Ovariana Prematura (IOP), sendo, portanto, o principal diagnóstico etiológico. Entretanto, a falência ovariana precoce possui inúmeras causas, podendo ser congênitas ou adquiridas. A relação entre os níveis elevados de gonadotrofinas e ausência de folículo ovariano devido à atresia folicular é muito confiável, mas não totalmente. Durante o período do climatério (perimenopausa), é normal o FSH subir antes de parar a menstruação. É prema-tura entre <25 a 35 anos. Esse aumento de FSH é associado à redução da inibina por menor competência dos folículos ovarianos e porque há menor quantidade de folículos. Atenção porque o período de elevação do FSH pode ser seguido por gestação. FSH elevado não é um indicador absoluto de infertilidade. A menopausa precoce acontece quando a paciente tem menos de 40 anos e FSH >20 na 1ª fase do ciclo menstrual (2 dosagens com intervalo =1 mês). Alguns autores colocam como FSH >40. 
+ 
+Figura 5 - Fisiologia do hipogonadismo hipergonadotrófico
+O hipogonadismo hipergonadotrófico, geralmente, é causado por falência ovariana, entretanto há exceções que são mencionadas abaixo. E muitas vezes há também causas específicas para a falência ovariana precoce. Assim, por questões meramente didáticas, vamos avaliar o hipogonadismo hipergonadotrófico e etiologia: herda-da/congênita (disgenesia gonadal e distúrbios de genes isolados) ou adquiridas (infecção, autoimune, iatrogêni-cas, ambiental ou idiopática).
+Herdadas:
+Disgenesia gonadal (síndrome de Turner – 45, X0): forma mais comum de insuficiência gonadal primá-ria e é a causa mais frequente de IOP. Alguns estigmas, como baixa estatura, pescoço alado, tórax “em escu-do”, cúbito valgo, metacarpos curtos, implantação baixa dos cabelos e palato curvo e alto são encontrados em 50% dessas pacientes. Também podem estar presentes malformações cardiovasculares (coarctação da aorta), ausência de desenvolvimento das mamas, hipertelorismo, anomalias renais, distúrbios autoimunes, ti-reoidite autoimune e diabetes mellitus. Geralmente nunca menstruam. Cerca de 10% possuem folículos resi-duais suficientes para menstruar, mas raramente ficam grávidas, e possuem vida menstrual e reprodutiva curta;
+Mosaicismo cromossômico: cariótipo 45,X0 ou 46,XX. Apresenta baixa estatura. Pode haver anormalida-des somáticas e corpo eunucoide (pernas e braços longos em relação ao corpo);
+Disgenesia gonadal pura (46, XX ou 46,XY): fenótipo feminino, infantilismo sexual, ausência de anorma-lidades cromossômicas. Exemplo: síndrome de Swyer – mutações no SRY que resultam em mulheres XY com disgenesia gonadal (um tipo de distúrbio do desenvolvimento sexual XY). Melhor explicado no capítulo de Anatomia, embriologia e malformações do trato reprodutivo feminino;
+Disgenesia gonadal mista (maioria XY): com genitália ambígua, gônada em estria de um lado e testículo mal-formado do outro;
+Deleção parcial do cromossomo X: fenótipo variável;
+Síndrome do X frágil: pode levar a IOP. Mutação com sequência tripla repetida no gene FMR1 ligado ao X (>200 repetições CGG) + deficiência mental + autismo. Se mulheres, apresentam de 13 a 26% mais chances de evolu-ir para IOP. 
+Deficiências enzimáticas: 
+¤ Hiperplasia suprarrenal lipoide congênita: herança autossômica recessiva, com incapacidade de converter colesterol em pregnenolona;
+¤ Deficiência de 17-alfa-hidroxilase e de 17,20-desmolase: hipertensão, hipocalemia, hiperna-tremia, diminuição do cortisol e aumento do ACTH; mutação no gene CYP17: diminuição da ativi-dade da 17-alfa-hidroxilase ? diminuição do cortisol + diminuição de androgênios + diminuição de estrogênio ? aumento do ACTH ? aumento de mineralocorticoide ? hipopotassemia + hiper-tensão. Infantilismo sexual + amenorreia primária + hipertensão + hipopotassemia. Não há de-senvolvimento dos caracteres sexuais secundários;
+¤ Deficiência de 21-hidroxilase: cerca de 90% dos casos de Hiperplasia Adrenal Congênita (HAC);
+¤ Deficiência de aromatase: herança autossômica recessiva, com virilização materna durante a gravidez (a placenta não pode converter os androgênios fetais em estrogênios), ausência de te-larca na puberdade, virilização acentuada, atraso na idade óssea, ausência de estirão de cresci-mento, ovários multicísticos, altos níveis de testosterona e sulfato de deidroepiandrosterona e estradiol indetectável; 
+¤ Mutação no receptor de FSH/LH: acarreta síndrome do ovário resistente (síndrome de Savage). 
+O aumento no nível de FSH ou LH e um nível basal ou baixo da outra gonadotrofina pode ocorrer em rara condição devido a mutações homozigóticas no gene da gonadotrofina. Heterozigotos apresentam problemas de infertilidade relativa. Tratamento com gonadotrofina exógena permiti-rá gestação nessas pacientes em raros casos.
+	§Síndrome do ovário resistente ou insensível: amenorreia + crescimento e desenvolvi-mento normal + aumento de gonadotrofinas + presença de folículos ovarianos. Ausência ou de-feito nos receptores gonadotróficos nos folículos ou defeito no sinalizador pós-receptor. Casos ra-ros de pontos de mutações. Isso também pode ocorrer em uma subforma de falência ovariana autoimune, sendo muito rara.
+¤ Galactosemia: muito rara, é uma doença autossômica recessiva. A alteração no gene GALT leva a deficiência da galactose- 1-fosfato-uridil-transferase. Seus metabólitos têm efeitos tóxicos dire-tos sobre as células germinativas. Pode resultar em morte neonatal, ataxia cerebelar, incapacida-de cognitiva e catarata;
+¤ Síndrome de Perrault: autossômica recessiva, com falência ovariana precoce e perda auditiva.
+
+Adquiridas:
+Tumores produtores de gonadotrofinas: geralmente associado com câncer de pulmão. Muito infrequen-te, logo, na presença de exame físico e história normal, não é necessário raio x de tórax em pacientes com amenorreia hipergonadotrófica;
+Infecções: raro. Pode ocorrer por ooforite por caxumba;
+Doenças autoimunes: 
+¤ 40% dos casos de IOP;
+¤ Insuficiência poliglandular autoimune da hipófise, acompanhada de hipotireoidismo e insuficiência su-prarrenal;
+¤ Miastenia gravis;
+¤ Púrpura trombocitopênica trombótica;
+¤ Artrite reumatoide;
+¤ Vitiligo;
+¤ Anemia hemolítica autoimune. Assim, na ausência de diagnóstico firmado, todas as mulheres com IOP devem ser investigadas para doenças autoimunes.
+Insuficiência ovariana iatrogênica: remoção cirúrgica dos ovários, endometriose, DIP, radioterapia e quimioterapia (ciclofosfamida). Agonista ou antagonista do GNRH simultaneamente ou antes da quimiotera-pia reduzem as lesões ovarianas provocadas por esta;
+Adenomas hipofisários: o principal é o prolactinoma;
+Síndrome de Sheehan: cefaleia súbita, náuseas, déficit visual e disfunção hormonal, causados por hemorra-gia ou infarto da hipófise. Anovulação e amenorreia. Deficiência na produção de prolactina é o mais comum, seguido da perda das gonadotrofinas e de GH, ACTH. Mais raramente, ocorre redução TSH;
+Aumento do FSH + LH normal ou baixo + massa pituitária = adenoma gonadotrófico: não há sin-tomas complexos associados com hipersecreção de gonadotrofinas. Assim, são geralmente diagnosticados devido ao seu crescimento, que resulta em dor de cabeça e distúrbios visuais. Geralmente, são produtores de FSH e raramente LH. Esses tumores secretam altos níveis da subunidade alfa do hormônio glicopeptídio e, às vezes, somente a subunidade alfa. Logo, pacientes com tumor hipofisário de natureza incerta devem ter os níveis de gonadotrofina e subunidade alfa mensurados;
+Tabagismo.
+
+B - Hipogonadismo hipogonadotrófico hipotalâmico e hipofisário
+O Hipogonadismo Hipogonadotrófico (HH) é caracterizado por estradiol <20pg/mL ou 0,02ng/mL + FSH <5IU/L e/ou LH <5 e, geralmente, advém de alterações centrais (hipotalâmicas ou hipofisárias) que podem ter as seguin-tes etiologias:
+Fisiológico: puberdade e lactação;
+Congênito: geralmente, não há outras alterações de pituitária;
+Adquirido: pode cursar com outras alterações hormonais de pituitária, como alterações de tireoide, prolactina e cortisol. Causas:
+Obesidade ou desnutrição;
+Exercício;
+Estresse;
+Medicações;
+Tumores;
+Doenças infiltrativas;
+Infecção;
+Trauma;
+Radiação.
+O HH geralmente ocorre com doenças de pituitária devido a tumores e acidente vascular encefálico, assim como outras desordens inflamatórias e autoimunes. 
+Tabela 3 - Causas de hipogonadismo hipogonadotrófico
+Hipogonadismo
+Hipogonadotrófico hipotalâmico	Hipogonadotrófico hipofisário
+Herdadas	Herdadas
+- Síndrome de Kallmann;	Hipoplasia da hipófise
+- Idiopático.	
+Adquiridas	Adquiridas
+- Transtornos alimentares;	- Adenoma – prolactinoma;
+- Exercício em excesso.	- Alterações tireoidianas.
+
+As manifestações clínicas:
+Pode haver fenótipo eunucoide clássico: segmento corporal inferior >2cm do segmento corporal superior;
+Desenvolvimento mamário moderado;
+Amenorreia primária ou secundária;
+O grau de desenvolvimento folicular depende da duração da deficiência de gonadotrofinas: se congênito, poucos folículos além do estágio primordial podem ser observados.
+
+Avaliação das principais etiologias adquiridas associadas ao HH:
+Lactação: A lactação eleva a produção de prolactina, que inibe a secreção pulsátil de GnRH e mantém o FSH e LH dentro dos limites inferiores da normalidade. Os baixos níveis de gonadotrofina não permitem que o ovário apresente desenvolvimento folicular e secrete estrogênio. Pode haver secura vaginal e dispareunia. Somente as mulheres em amenorreia que amamentam exclusivamente no seio materno a intervalos regulares, incluindo horários noturnos, durante os primeiros 6 meses após o parto, apresentam proteção contraceptiva com a lacta-ção, com 98% eficácia; 
+Antes da puberdade: os níveis de gonadotrofina encontram-se baixos (níveis pré-púberes), não configurando HH fisiológico;
+Atraso fisiológico ou puberdade tardia constitucional: reativação tardia do gerador de pulsos do hormônio libera-dor de gonadotrofina (GnRH), geralmente com história familiar prévia;
+Hipotireoidismo: é uma das causas mais frequentes de amenorreia secundária. A escassez dos hormônios T3 e T4 leva ao aumento do TSH. A elevação do TSH é acompanhada de aumento do seu hormônio liberador no hipotá-lamo (TRH). O excesso do TRH leva a uma diminuição na pulsatilidade do GnRH, levando ao HH;
+Hiperprolactinemia: a hiperprolactinemia é uma das causas mais comuns de amenorreia secundária, podendo resultar em atraso na puberdade e amenorreia primária quando surge antes da menarca. O aumento de prolac-tina altera ou inibe o ritmo pulsátil normal do GnRH, levando a níveis baixos de gonadotrofinas (FSH e LH), com consequente anovulação e amenorreia. Dosagens <15 a 20ng/mL excluem a hiperprolactinemia (na maioria dos laboratórios). Caso haja prolactina na faixa de 20 a 40ng/mL, o exame deve ser repetido e confirmado. 
+Hiperprolactinemia leve: prolactina sérica entre 20 a 50ng/mL. Pode causar fase lútea curta;
+Hiperprolactinemia moderada: prolactina 50 a 100ng/mL. Pode causar oligomenorreia ou amenorreia;
+Hiperprolactinemia alta: prolactina >100ng/mL resulta em franco hipogonadismo, com baixos níveis de es-trogênio e suas consequências clínicas (ressecamento/atrofia vaginal e osteopenia).
+Adenomas hipofisários: os adenomas hipofisários podem ser funcionantes (produtores de hormônios hipofisá-rios) ou não-funcionantes (não produtores de hormônios). Os adenomas funcionantes podem ser produtores de TSH (adenomas tireotrofos funcionais), GH (adenomas somatotrofos), ACTH (corticotrofos), e são raros em mu-lheres com amenorreia. A maioria dos adenomas gonadotrofos (produtores de gonadotrofinas) não é funcional e 80 a 90% de todos os adenomas hipofisários não funcionais derivam de gonadotrofos, apesar de não produzi-rem quantidades significativas de FSH e LH. Atenção: tumores hipofisários produtores de FSH são raros e cau-sam anovulação, amenorreia e múltiplos e grandes cistos ovarianos por hiperestimulação ovariana. Os adeno-mas podem ser grandes (macroadenomas >10mm) ou pequenos (microadenomas <10mm). Quando macroade-nomas, podem comprimir a haste hipofisária e interferir no transporte dos fatores liberadores ou inibidores hi-potalâmicos, ou comprimindo as células circulantes ? deficiências hormonais hipofisárias (gonadotrofinas, TSH, ACTH e GH). A deficiência de gonadotrofinas pode causar HH. Deficiências moderadas de TSH, GH e ACTH ge-ralmente causam pouco ou nenhum sintoma. Portanto, macroadenomas hipofisários podem cursar com HH.
+Os adenomas lactotrofos (prolactinomas) são comuns e representam 40% de todos os adenomas hipofisários reconhecidos clinicamente. Geralmente, os macroprolactinomas (>10mm) são produtores de prolactina em ní-veis maiores que 200ng/mL. A hiperprolactinemia geralmente resulta em distúrbios menstruais e é causa de amenorreia secundária em até 30% das mulheres. Como citado acima, a hiperprolactinemia altera a produção de GnRH (hipotalâmica), reduzindo a produção de gonadotrofinas hipofisárias, com consequente anovulação e amenorreia com HH. Aproximadamente 10% dos adenomas produtores de prolactina produzem GH também. Assim, deve-se dosar IGF-1 em todas as mulheres com prolactinoma, mesmo naquelas com microprolactinoma;   
+Síndrome da sela vazia: a sela turca é aumentada e parece vazia ao exame de imagem porque contém líquido cerebrospinal. O tecido hipofisário é achatado pelo líquido cerebrospinal contra o assoalho selar, podendo ser “destruído”. Geralmente, resulta da remoção prévia ou destruição de um adenoma hipofisário por cirurgia, radi-ação ou infarto. Pode, eventualmente, ser decorrente de defeito primário congênito no diafragma selar (sela vazia primária). Na maioria das vezes, a condição é benigna e não progride até a falha hipofisária. Pode ainda coexistir com adenoma hipofisário, e, menos comumente, com deficiência na secreção hormonal da glândula;   
+Síndrome de Sheehan: decorre do infarto agudo ou necrose isquêmica hipofisária após hemorragia pós-parto ou de hipotensão hipovolêmica. É uma das causas mais comuns de hipopituitarismo. Ocorre falha na lactação após o parto e os demais sintomas variam de acordo com a gravidade da lesão hipofisária. As deficiências de GH, pro-lactina e gonadotrofinas (HH) são mais comuns. A maioria apresenta, ainda, deficiência de ACTH e TSH. Um ter-ço das pacientes pode apresentar hiponatremia. Sela parcialmente ou completamente vazia é um achado tardio comum; 
+Lesões infiltrativas hipofisárias: hemocromatose e hipofisite linfocítica;
+Tumores e processos inflamatórios ou degenerativos na porção anterior do hipotálamo (lesões na porção poste-rior levam a puberdade precoce): sendo o craniofaringioma o tumor mais comum; 
+Transtornos alimentares: geralmente associado a perda ponderal importante, com anorexia nervosa e bulimia nervosa. As anormalidades metabólicas associadas à anorexia nervosa refletem a regulação hipotalâmica do apetite, sede, temperatura, sono, equilíbrio autonômico e secreção endócrina. Há baixas concentrações séricas de FSH, LH estradiol, IGF-1 e leptina, assim como níveis elevados de cortisol. Dessa forma, pode-se observar o desenvolvimento de HH nessas pacientes. Com o ganho ponderal, todas as anormalidades endocrinológicas se resolvem, mas 1/3 dessas pacientes permanece em amenorreia por disfunção hipotalâmica persistente;
+Estresse e exercícios físicos muito intensos: as catecolaminas e as endorfinas liberadas nessas situações interfe-rem na pulsatilidade do GnRH; o estresse aumenta o CRH (hormônio liberador da corticotrofina), que inibe dire-tamente o GnRH, assim como eleva endorfina e ACTH. A endorfina elevada inibe o padrão de secreção do GnRH. O ACTH elevado aumenta a produção de cortisol pela suprarrenal, que também inibe a secreção de GnRH;
+Iatrogênica: por medicamentos e drogas (metoclopramida, haloperidol, clozapina, antidepressivos tricíclicos, blo-queadores dos canais de cálcio, metildopa, digitálicos, maconha etc.);
+Doenças crônicas terminais: câncer, AIDS e insuficiência renal crônica. O organismo poupa-se da perda sanguínea menstrual, armazenando energia para outros fins;
+Doenças sistêmicas: obesidade, síndrome de Cushing, diabetes descompensado, doença de Addison, insuficiência renal crônica e insuficiência hepática crônica;
+Pseudociese: são pacientes que acreditam estar grávidas e apresentam sinais e sintomas de gestação incluindo amenorreia, mas não se encontram realmente gestantes. É um exemplo da capacidade da mente em controlar processos fisiológicos. Há alterações na frequência de pulsos de LH associado à elevação nos níveis séricos de androgênios, levando à amenorreia. Algumas pacientes podem apresentar aumento de prolactina. Há uma liga-ção entre essas pacientes e o histórico de sofrimento obstétrico. 
+Tabela 4 - Causas de amenorreia
+Amenorreia hipotalâmica	Amenorreia hipofisária
+- Lactação;	- Síndrome de Sheehan;
+- Atraso fisiológico ou puberdade tardia constitucional;	- Lesões infiltrativas hipofisárias;
+- Hipotireoidismo;	- Adenomas hipofisários.
+- Hiperprolactinemia;	
+- Transtornos alimentares;	
+- Estresse e exercícios físicos muito intensos;	
+- Tumores e processos inflamatórios ou degenerativos na porção anterior do hipotálamo.	
+
+
+- Avaliação das principais etiologias herdadas/congênitas associadas ao HH:
+O HH Congênito (HHC) hipofisário geralmente é decorrente de hipoplasia hipofisária. As causas hipotalâmicas são as de maior repercussão e decorrem, geralmente do desenvolvimento anormal dos neurônios GnRH. Os neurô-nios olfatórios têm uma embriologia similar às células produtoras de GnRH. O HHC com anosmia é causa rara de HH e acomete 1/50.000 mulheres.
+Portanto, há 2 categorias de HHC: com anosmia (alteração olfativa), denominado síndrome de Kallmann; e sem anosmia, denominado idiopática. 
+Com anosmia – síndrome de Kallmann: a maioria dos casos de síndrome de Kallmann são esporádicos e não podem ser passados por herança familiar. Associação com os seguintes genes: 
+KAL-1: migração neuronal GnRH incompleta. Herança ligada ao X;
+A expressão do KAL-1 também ocorre nos seguintes tecidos: tubo mesonéfrico, broto uretral e trato corticos-pinal, com 7 semanas de gestação ? agenesia renal unilateral (31%) + sincinesia (movimentos involuntários da musculatura quando realizado movimentos rápidos ou de repetição – 85%) + defeitos da linha média facial, como fenda palatina; 
+Essas pacientes geralmente não apresentam puberdade, mas desenvolvem algum grau de desenvolvimento mamário, pois a deficiência de GnRH não é completa; 
+Ocorre em 3 a 15% nos casos de HH com anosmia. 
+KAL-2: associado a defeitos de face medial. Autossômica dominante;
+De 7 a 10% das pacientes com síndrome de Kallmann;
+Pode não haver anosmia;
+Uma minoria das pacientes pode apresentar puberdade precoce ou função reprodutiva normal; 
+Pode ter fenótipo reprodutivo normal; 
+HH é menos grave em pacientes com KAL-2 do que com KAL-1. Níveis LH são menores em KAL-1 do que em KAL-2.  
+¤ Síndrome CHARGE: HH + coloboma + doença cardíaca congênita + atresia coanal + retardo de cresci-mento + hipoplasia genital + malformações ouvido e surdez. Pode ocorrer anosmia.
+Sem anosmia – HH Idiopático:
+Metade dos pacientes com HH não tem anosmia: 
+Somente HH: genes LH beta E FSH beta. Autossômicas recessivas. São associadas a puberdade tardia. Apenas a subunidade beta (comum ao LH, FSH, TSH e HCG) tem mutação;
+HH + obesidade: gene da leptina. Herança autossômica recessiva. Acometimento hipotalâmico. Obesidade + HH + diminuição do cortisol (aumento pró-opiomelanocortina) + diminuição da insulina (aumento de pró-insulina);
+Hipoplasia congênita de adrenal – HH + insuficiência de adrenal: gene AHC. Herança ligada ao X. Mutação em DAX1: anormalidades hipotalâmicas, adrenal e pituitária;
+HH + atrofia óptica (hipoplasia do nervo óptico e hipoplasia glandular de pituitária) + anormalidade na linha média do SNC. Displasia óptico-selar. Gene HESX1;
+Combinação de deficiências hormonais com HH + baixa estatura + hipotireoidismo: gene PROP1. Autossômico recessivo;
+HH com hipogonadismo severo: deficiência isolada de GnRH é rara. Gene GnRH1 que codifica o pré-hormônio do GnRH;
+GNRH-R: corresponde à ausência de resposta do receptor de GnRH (GnRH-R) ao hormônio (GnRH) devido a mu-tações no receptor. É uma doença autossômica recessiva. Os heterozigotos não são afetados. Assim, há HH, com atraso da puberdade ou ausência completa no desenvolvimento dos caracteres sexuais secundários. Apresenta-se com amenorreia primária, telarca incompleta e puberdade tardia. Apresenta secreção de LH e FSH sob GnRH exógeno, pois as altas taxas de GnRH superam alterações no receptor. O tratamento é por te-rapia hormonal e indução da ovulação com gonadotrofinas exógenas;
+GPR54: alteração hipotalâmica. Autossômica recessiva; 
+Receptor GnRH normal: 2 a 5% dos HH sem anosmia. Deficiência de GPR54 leva ao HH + abertura vaginal tar-dia + maturação folicular tardia. Ótima resposta ao GnRH exógeno, com ovulação;
+Mutação TAC3: níveis basais de LH muito baixos. Normaliza com a administração de GnRH pulsátil;  
+Mutação homozigótica na LHX3 – HH de ambos FSH e LH.
+
+Em resumo:
 
  
-Figura 3 - Representação das sinéquias uterinas
+Figura 6 - Manejo do hipogonadismo hipogonadotrófico
 
-Dica
-Deve-se estar atento para as questões que descrevem pacientes submetidas a procedimentos cirúrgicos pélvicos, como curetagem, parto cesárea, extração manual da placenta, além de cicatrizes/sequelas de doença inflamatória pélvica aguda. O raciocínio deve ser direcionado para a síndrome de Asherman caso o quadro clínico seja compatível.
-	
-Síndrome de Youssef-Machado: amenorreia iatrogênica pós-cirúrgica com formação de fístula vesicouterina. Nessas si-tuações, ocorre um trajeto fistuloso entre o útero e a bexiga, e a paciente apresenta hematúria todas as vezes que fica menstruada;
-Refratariedade endometrial: lesão bacteriana da camada funcional do endométrio. A tuberculose pélvica pode provo-car esse tipo de alteração. A infecção uterina pelo bacilo de Koch leva a perda da responsividade do endométrio aos estímulos do estrogênio e da progesterona.
 
-D - Causas ovarianas
-Hipogonadismo hipergonadotrófico – insuficiência gonadal primária, com baixo nível de esteroides, levando a redução no feedback negativo e consequente aumento nos níveis do hormônio folículo-estimulante (FSH) e do hormônio luteinizante (LH):
-Disgenesia gonadal: síndrome de Turner (45, X0) – forma mais comum de insuficiência gonadal primária, com alguns es-tigmas, como baixa estatura, pescoço alado, tórax “em escudo”, cúbito valgo, metacarpos curtos, implantação baixa dos cabelos, palato curvo e alto;
-Disgenesia gonadal pura (46, XX ou 46, XY): fenótipo feminino, infantilismo sexual, ausência de anormalidades cromos-sômicas. Exemplo: síndrome de Swyer – mutações no SRY que resultam em mulheres XY com disgenesia gonadal (um tipo de distúrbio do desenvolvimento sexual XY);
-Disgenesia gonadal mista (maioria XY): com genitália ambígua, gônada em estria de um lado e testículo malformado do outro;
-Mosaicismo de cromossomos sexuais: forma mais comum = 45, X0/46, XX;
-Deleção parcial do cromossomo X: fenótipo variável;
-Deficiências enzimáticas: 
-Hiperplasia suprarrenal lipoide congênita: herança autossômica recessiva, com incapacidade de converter colesterol em pregnenolona;
-Deficiência de 17-alfa-hidroxilase e de 17,20-desmolase: hipertensão, hipocalemia, hipernatremia, diminuição do cor-tisol e aumento do ACTH;
-Deficiência de 21-hidroxilase (cerca de 90% dos casos de Hiperplasia Adrenal Congênita – HAC);
-Deficiência de aromatase: herança autossômica recessiva, com virilização materna durante a gravidez (a placenta não pode converter os androgênios fetais em estrogênios), ausência de telarca na puberdade, virilização acentuada, atraso na idade óssea, ausência de estirão de crescimento, ovários multicísticos, altos níveis de testosterona e sulfa-to de deidroepiandrosterona e estradiol indetectável; 
-Mutação no receptor de FSH/LH;
-Galactosemia.
-Falência ovariana:
-Etiologia cromossômica: deleção do X, síndrome do X frágil;
-Infecções;
-Doenças autoimunes: síndrome autoimune poliglandular;
-Síndrome de Savage: síndrome dos ovários resistentes a gonadotrofinas, com ovários morfologicamente normais, folícu-los normais e elevação de FSH e LH;
-Síndrome de Perrault: autossômica recessiva, com falência ovariana precoce e perda auditiva;
-Galactosemia: gera metabólitos que têm efeitos tóxicos nos folículos ovarianos;
-Tabagismo;
-Iatrogênica: irradiação e quimioterapia (ciclofosfamida).
+C - Amenorreia eugonadotrófica
+A amenorreia eugonadotrófica corresponde às pacientes que mantêm a função ovariana e hipotalâmica preser-vadas e, portanto, apresentam secreção de estrogênio. A maioria dos casos é marcada por anovulação crônica com estrogênio presente. As principais causas de amenorreia eugonadotrófica são: 
+SOP;
+Tumores ovarianos;
+Hiperplasia congênita de suprarrenal tardia;
+Hiperprolactinemia;
+Doença tireoidiana;
+Síndrome de Cushing;
+Acromegalia.
 
-Dica
-Falência ovariana prematura (ou precoce) é aquela que ocorre antes dos 40 anos.
+SOP: é a causa mais comum de anovulação crônica com estrogênio presente. Como a mulher não ovula, não há formação de corpo lúteo, e, portanto, não há aumento importante na produção de progesterona. Assim, não ocorre a queda importante nas taxas de progesterona necessária ao fluxo menstrual e a mulher evolui com amenorreia. Ocorre, ainda, hiperestímulo do endométrio pelo estrogênio (proliferação endometrial), com espes-samento endometrial, podendo ocorrer episódios de colapso estromal com descolamento, levando a sangra-mento irregular e, muitas vezes, aumentado. Essas pacientes também apresentam androgênio elevado que atrofiam endométrio, corroborando para a amenorreia. Vale ressaltar que, eventualmente, essas pacientes apresentam ciclos ovulatórios com sangramento menstrual normal. De modo geral, os sintomas são decorren-tes de hiperandrogenismo e anovulação. Esse tema será mais bem abordado no capitulo de hiperandrogenismo;
+Hiperplasia de suprarrenal congênita com início na vida adulta: há mutação no gene CYP21, que codifica a enzima 21-hidroxilase, levando à deficiência enzimática (principalmente da 21-hidroxilase), com acúmulo de 17-hidroxiprogesterona. Nessa situação, a esteroidogênese da suprarrenal é extremamente alterada, bem como a ovariana. O quadro clínico é semelhante ao da SOP (hiperandrogenismo e anovulação). Esse tema será mais bem abordado no capítulo de hiperandrogenismo;
+Deficiência de 5-alfarredutase (enzima que converte a testosterona em sua forma mais potente – diidrotestos-terona): pseudo-hermafroditismo masculino, genótipo XY, gônadas = testículos, ausência de estruturas mülleri-anas (genitália interna masculina). Não há útero, logo, há amenorreia. Estão presentes desenvolvimento mamá-rio, genitália externa feminina (pois não há ação da diidrotestosterona, fundamental na virilização) e desenvol-vimento masculino da massa muscular e do padrão masculino da voz (dependentes de testosterona); 
+Tumor ovariano: Tumores ovarianos produtores de estrogênio e androgênios (tumores das células da granulo-sa, tumores das células da teca e teratomas císticos maduros) podem cursar com anovulação crônica;
+Hiperprolactinemia: é uma causa de HH, entretanto, algumas pacientes apresentam níveis gonadotróficos relativamente normais e níveis de estrogênio discretamente reduzidos. Geralmente, a hiperprolactinemia é provocada por medicações ou adenomas hipofisários funcionais. Os medicamentos antipsicóticos são os mais associados à hiperprolactinemia. Quando a hiperprolactinemia é provocada por medicamentos, costuma ser baixa/leve. Abaixo, encontra-se tabela com as principais medicações associadas à hiperprolactinemia. 
+Tabela 5 - Medicamentos que causam hiperprolactinemia
+Medicamentos e fitoterápicos associados à hiperprolactinemia
+- Antidepressivos ansiolíticos:
+  · Alprazolam;
+  · Buspirona;
+  · Inibidores da monoaminoxidase;
+  · Inibidores da receptação da serotonina.
+- Antidepressivos tricíclicos;
+- Metoclopramida;
+- Octreotida;
+- Sumatriptano;
+- Anti-hipertensivos:
+  · Atenolol;
+  · Metildopa;
+  · Verapamil.
+- Ranitidina;
+- Hormonais:
+  · Estrogênio+ medroxiprogesterona;
+  · Medroxiprogesterona injetável;
+  · Contraceptivo hormonal combinado.
+- Alguns fitoterápicos;
+- Antipsicóticos;
+- Clorpromazina;
+- Ciclobenzaprina;
+- Danazol;
+- Domperidona;
+- Isoniazida;
+- Ácido valproico;
+- Opioide.
 
-E - Causas hipofisárias
-Tumores hipofisários (adenomas, craniofaringiomas): manifestações neurológicas (perda de visão, cefaleia) e endócrinas (amenorreia, galactorreia, hipotireoidismo, acromegalia, síndrome de Cushing);
-Hiperprolactinemia (patológica/farmacológica): a prolactina (PRL) alta interfere diretamente na esteroidogênese ovariana e no processo ovulatório;
-Doença de Sheehan (necrose hipofisária pós-parto) e outras causas de hipopituitarismo: diabetes (vasculite diabética), in-fecção, anemia falciforme;
-Síndrome da sela túrcica vazia: herniação do espaço subaracnoide para o interior da sela túrcica, geralmente entre mulhe-res obesas com mais de 40 anos;
-Lesões iatrogênicas.
-
-F - Causas hipotalâmicas
-Hipogonadismo hipogonadotrófico:
-Hipotireoidismo: é uma das causas mais frequentes de amenorreia secundária. A escassez dos hormônios T3 e T4 leva ao aumento do TSH. A elevação do TSH é acompanhada de aumento do seu hormônio liberador no hipotálamo (TRH). O excesso do TRH leva a uma diminuição na pulsatilidade do GnRH, levando ao hipogonadismo hipogonadotrófico;
-Atraso fisiológico ou puberdade tardia constitucional: reativação tardia do gerador de pulsos do hormônio liberador de gonadotrofina (GnRH), geralmente com história familiar prévia;
-Síndrome de Kallmann: dominante autossômica ou ligada ao X, caracterizada por um atraso puberal devido a deficiência de GnRH (hipogonadismo hipogonadotrófico) com associação de anosmia; outros achados podem ser cegueira para cores, fendas labial e palatina, ataxia cerebelar;
-Síndrome de Prader-Labhart-Willi: obesidade, baixa estatura, acromicria (mãos e pés pequenos), clinodactilia, retardo mental, micrognatia e ausência de cartilagem auricular;
-Síndrome de Laurence-Moon-Bardet-Biedl: autossômica recessiva, obesidade, polidactilia, retardo mental, retinite pig-mentosa;
-Tumores e processos inflamatórios ou degenerativos na porção anterior do hipotálamo (lesões na porção posterior le-vam a puberdade precoce), sendo o craniofaringioma o tumor mais comum;
-Deficiência de 5-alfarredutase (enzima que converte a testosterona em sua forma mais potente – diidrotestosterona): pseudo-hermafroditismo masculino, genótipo XY, gônadas = testículos, ausência de estruturas müllerianas, ausência de desenvolvimento mamário, ausência de desenvolvimento da genitália externa (dependente de diidrotestosterona), desenvolvimento normal da genitália interna, da massa muscular e do padrão masculino da voz (dependentes de tes-tosterona);
-Mutação no receptor de GnRH; 
-Deficiência de FSH. 
-	Disfunções hipotalâmicas:
-Alterações ponderais (desnutrição, má absorção, emagrecimento, anorexia nervosa): o tecido adiposo funciona como depósito de esteroides sexuais, e sua alteração influi diretamente na ovulação; 
-Estresse e exercícios físicos muito intensos: as catecolaminas e as endorfinas liberadas nessas situações interferem na pulsatilidade do GnRH; 
-Iatrogênica: por medicamentos e drogas (metoclopramida, haloperidol, clozapina, antidepressivos tricíclicos, bloquea-dores dos canais de cálcio, metildopa, digitálicos, maconha etc.);
-HAC: a deficiência enzimática (principalmente da 21-hidroxilase) leva ao acúmulo de 17-hidroxiprogesterona. Nessa si-tuação, a esteroidogênese da suprarrenal é extremamente alterada, bem como a ovariana;
-Doenças crônicas terminais: câncer, AIDS, insuficiência renal crônica – o organismo poupa-se da perda sanguínea mens-trual, armazenando energia para outros fins;
-Doenças sistêmicas: obesidade, síndrome de Cushing, diabetes descompensado, doença de Addison, insuficiência renal crônica, insuficiência hepática crônica; 
-Síndrome dos ovários policísticos;
-Pseudociese.
-
-G - Outras
-Tumores funcionantes do ovário: raros, geralmente unilaterais (exemplos: tumor de células tecagranulosas, tumores virili-zantes);
-Uso prévio de anticoncepcionais: amenorreia pós-pílula; 
-Traumas ou irradiação no sistema nervoso central;
-Doenças granulomatosas;
+Hipotireoidismo: o hipotireoidismo eleva a produção do TRH hipotalâmico, que se liga aos lactotrofos hipofisá-rios, aumentando a secreção de prolactina. A hiperprolactinemia secundária ao hipotireoidismo é <100ng/mL, geralmente. Assim, a partir do aumento de prolactina, desenvolvem-se ciclos anovulatórios no hipotireoidismo;
+Imaturidade do eixo hipotalâmico-hipofisário-ovariano: após a menarca, é comum um período de irregu-laridade menstrual por imaturidade do eixo; a normalização dos ciclos leva, em média, 2 anos. Os folículos ovari-anos ainda são imaturos para produzir quantidades crescentes de estradiol e provocar o pico desse hormônio no final da fase folicular do ciclo menstrual. Consequentemente, não ocorre o pico de LH na metade do ciclo, o que impede a ocorrência de ovulação. A anovulação inibe a ação da progesterona no endométrio, o que impede a finalização do ciclo menstrual, com consequente amenorreia. De fato, é comum que haja longos períodos de amenorreia após a menarca;
+Uso prévio de anticoncepcionais: amenorreia pós-pílula. Na maioria das vezes, há normalização do ciclo em até 6 meses após a suspensão do anticoncepcional;
 Uso crônico de corticosteroide.
 
+Dica
+Falência ovariana pre-matura (ou precoce) é aquela que ocorre antes dos 40 anos.
+
 4. Diagnóstico
-São necessários, para o diagnóstico de amenorreia, anamnese completa exame físico, questionando e avaliando:
+São necessários, para o diagnóstico de amenorreia, anamnese completa e exame físico, questionando e avalian-do:
 Idade de início da telarca/pubarca;
 Desenvolvimento ponderal e estatural;
-Sinais de acometimento do sistema nervoso central: transtornos visuais no caso de tumores, alterações olfatórias (hipo ou anosmia), cefaleia persistente;
+Sinais de acometimento do SNC: transtornos visuais no caso de tumores, alterações olfatórias (hipo ou anosmia), cefaleia persistente;
 Antecedentes familiares;
 Sinais de virilização;
 Galactorreia;
 Desenvolvimento de mamas e pelos sexuais, de acordo com os estágios de Tanner;
 Introito vaginal e avaliação hímen–clitóris, malformações.
 
-Exames complementares 
+- Exames complementares 
 Os exames que fazem parte da investigação da amenorreia dividem-se em laboratoriais e imagem:
 Laboratoriais: 
-Gonadotrofinas séricas (FSH/LH): estão elevadas nos hipogonadismos hipergonadotróficos e baixas nos hipogonadotró-ficos;
+Gonadotrofinas séricas (FSH/LH): estão elevadas nos hipogonadismos hipergonadotróficos e baixas nos hipogo-nadotróficos;
 Estradiol sérico: está baixo nos hipogonadismos;
 Hormônios da tireoide (TSH/T4 livre): para afastar hipotireoidismo, causa comum de transtorno menstrual;
-Sulfato de deidroepiandrosterona (S-DHEA): está elevado nas doenças da suprarrenal, visto que é praticamente produ-zido nessa glândula;
+Sulfato de deidroepiandrosterona (S-DHEA): está elevado nas doenças da suprarrenal, visto que é praticamente produzido nessa glândula;
 Androstenediona: eleva-se tanto em doenças ovarianas como nas da suprarrenal;
 Testosterona: eleva-se em doenças ovarianas produtoras desse hormônio;
 Cortisol;
@@ -159,22 +370,51 @@ Ultrassonografia (USG) pélvica: verificar a presença e o aspecto dos órgãos geni
 Tomografia Computadorizada (TC): complementar a USG em casos difíceis ou naqueles em que a USG não foi suficiente para a elucidação diagnóstica;
 Ressonância Nuclear Magnética (RNM): complementar a TC e/ou a USG;
 Raio x de sela túrcica: avaliar a sela túrcica e inferir sobre o tamanho da hipófise;
-Raio x de mãos e punhos: avaliar a idade óssea, que será discordante da idade cronológica em uma série de doenças. A idade óssea geralmente é compatível com o grau de maturidade do eixo. Se a idade óssea está adiantada, significa de-senvolvimento puberal verdadeiro de causa central;
+Raio x de mãos e punhos: avaliar a idade óssea, que será discordante da idade cronológica em uma série de do-enças. A idade óssea geralmente é compatível com o grau de maturidade do eixo. Se a idade óssea está adian-tada, significa desenvolvimento puberal verdadeiro de causa central;
 Histerossalpingografia ou histeroscopia para causas uterinas: exames que permitem a visualização da cavidade uterina.
-
-Como os exames são indicados em situações específicas, o ideal é o seguimento de um roteiro básico para investigação.
-
+Como os exames são indicados em situações específicas, o ideal é o seguimento de um roteiro básico para inves-tigação.
 5. Roteiro básico para investigação
-A investigação da amenorreia segue uma sequência básica que obedece a lógica do ciclo menstrual e a prevalência das al-terações. Na abordagem inicial da amenorreia secundária, o primeiro passo da investigação é descartar as causas mais preva-lentes de amenorreia secundária: gestação, hipotireoidismo e hiperprolactinemia.
+A investigação da amenorreia segue uma sequência básica que obedece a lógica do ciclo menstrual e a prevalên-cia das alterações. Na abordagem inicial da amenorreia secundária, o primeiro passo da investigação é descartar as causas mais prevalentes de amenorreia secundária: gestação, hipotireoidismo e hiperprolactinemia.
+Realizar exame físico pélvico: verificar alterações anatômicas; 
+
+ 
+Figura 7 - Investigação inicial da amenorreia
+Descartadas as alterações anatômicas, deve-se solicitar o 1º exame laboratorial: beta-HCG;
+Caso a mulher não esteja grávida (beta-HCG negativo), devem-se solicitar os seguintes exames laboratoriais: prolactina e TSH, pois há suspeita de anovulação:
+TSH aumentado, inicia-se reposição com levotiroxina;
+Prolactina aumentada: opta-se por avaliação da sela túrcica com ressonância magnética com contraste;
+Prolactina e TSH normais: segue-se para o próximo passo.
+Realização do teste da progesterona: indicar o teste da progesterona oral – administram-se de 5 a 10mg de acetato de medroxiprogesterona oral, durante 5 dias:
+Após a suspensão do medicamento, verifica-se a presença ou a ausência de sangramento vaginal. Quando pre-sente, significa nível estrogênico normal e provável distúrbio ovulatório; quando ausente, interpreta-se como deficiência estrogênica. Se a paciente menstruar cerca de 2 a 7 dias após a pausa da progesterona oral, o teste é considerado positivo. Significa que a paciente está produzindo estrogênio endógeno (portanto, não há hipo-gonadismo) e está faltando progesterona. Lembre-se que a progesterona é produzida na 2ª fase do ciclo menstrual pelo corpo lúteo. Desta forma, a conclusão é que não está ocorrendo ovulação. A anovulação é mui-to frequente nos extremos da vida reprodutiva (na puberdade, pela imaturidade do eixo, e no climatério, pelo esgotamento folicular). A causa patológica mais frequente de anovulação é a SOP, que será discutida mais adiante neste capítulo; 
+Caso a paciente não menstrue, o teste da progesterona será considerado negativo. Nessa situação, o raciocínio que deverá ser realizado é de que a paciente não está produzindo estrogênio ou há algum fator obstrutivo na saída da menstruação. O próximo passo no roteiro da investigação é a prescrição do teste do estrogênio + pro-gesterona (Tabela 2).
+Teste positivo – presença de estrogênio: anovulação sem alteração hipofisária/hipotalâmica. Principal causa: SOP;
+Teste negativo – ausência de estrogênio ou endométrio não responsivo aos hormônios: realizar o teste do es-trogênio.
+Teste da progesterona normal (positivo) ? há suspeita de SOP: solicitar testosterona e sulfato de deidroepiandrosterona (SDHEA) e 17-hidroxiprogesterona:
+Testosterona aumentada ? solicitar USG transvaginal ou pélvica (em pacientes virgens): avaliar presença de tumor ovariano ou de ovários policísticos;
+Testosterona normal a normal elevado: USG pélvica ou transvaginal para avaliar ovário policístico;
+SDHEA aumentado: ressonância magnética de suprarrenal para descartar tumor. Lembrando que esse hormô-nio é produzido quase que 100% pela suprarrenal;
+17-hidroxiprogesterona aumentada: sugere hiperplasia congênita de suprarrenal. Melhor descrita no capítulo de hiperandrogenismo;
+Critério diagnóstico para SOP: =2;
+Hiperandrogenismo (manifestações clínicas de hirsutismo ou acne com ou sem aumento laboratorial de andro-gênios);
+Oligo ou amenorreia (anovulação);
+Ovário micropolicístico à USG (=12 folículos de 2 a 9mm de diâmetro ou volume ovariano >10cm3.
+Teste progesterona negativo ? o teste do estrogênio + progesterona oral: administram-se estrogê-nios conjugados 0,625mg/d ou 1,25mg/d, por 21 dias, seguidos por acetato de medroxiprogesterona 10mg/d, por 5 dias. Na realidade, esse teste é um mimetismo do ciclo menstrual fisiológico. Após a suspensão dos medica-mentos, verifica-se a presença ou a ausência de sangramento vaginal. Quando presente, significa que os ová-rios da paciente não estão produzindo estrogênios (a paciente está hipogonádica); quando ausente, significa que há alguma obstrução anatômica no trato genital que está impedindo a saída da menstruação;
+Teste positivo (houve sangramento após a realização do teste): o ovário não está produzindo estrogê-nio ? hipogonadismo ? solicitar FSH (hipogonadotrófico ou hipergonadotrófico?). Frente a um teste positivo, ou seja, a administração oral de estrogênio e progesterona determinou a ocorrência de menstruação, tem-se que a paciente apresenta um quadro de hipogonadismo. O próximo passo é a dosagem de FSH e LH. 
+ 
+Figura 8 - Investigação de hipogonadismo
+Pacientes com FSH e LH altos apresentam quadro laboratorial de hipogonadismo hipergonadotrófico. Nessa situação, o diagnóstico é falência ovariana. A principal causa de falência ovariana é genética, e o exame indi-cado é o cariótipo. Dentre as causas genéticas que cursam com falência ovariana prematura, a principal pa-tologia envolvida é a síndrome de Turner;
+Já nas situações em que o FSH e o LH estiverem baixos, tem-se o HH. Nestas situações, a causa da amenor-reia é hipofisária ou hipotalâmica. Para o diagnóstico diferencial, deve-se indicar o teste do GnRH. Deve-se coletar uma amostra de sangue periférico para avaliação dos níveis de FSH e LH. Após, administra-se 100mg de GnRH por via intravenosa. Logo após, coleta-se nova dosagem de FSH e LH. Se há aumento de, no mínimo, 200% dos valores basais, o teste é considerado positivo. Nessa situação, conclui-se que a causa da amenor-reia é hipotalâmica, uma vez que a hipófise respondeu ao estímulo com GnRH endógeno. Se não ocorrer au-mento dos níveis de FSH e LH, o teste é negativo e conclui-se que a causa da amenorreia é hipofisária.
+Teste de estrogênio + progesterona negativo: tem-se a certeza de que a causa da amenorreia é canalicular (o endométrio não está respondendo ao estímulo hormonal ou há alguma obstrução ao fluxo menstrual). A princi-pal suspeita é a síndrome de Asherman. Nessa situação, a paciente deverá ser encaminhada para histerosco-pia.
+
 
 Diagnóstico
-Para o diagnóstico de amenorreia, devem-se solicitar beta-HCG, TSH ultrassensível e prolactina sérica.
+Para o diagnóstico de amenorreia, devem-se solicitar beta-HCG, TSH ultrassensível e prolacti-na sérica.
 
-Se o beta-HCG for positivo, a paciente deverá ser encaminhada para o pré-natal. Se o TSH ultrassensível for compatível com hipotireoidismo, o seu tratamento deverá ser instituído. Os casos de hiperprolactinemia serão abordados no final deste capítulo. Caso os exames estejam normais, a investigação deverá ser iniciada pelo teste da progesterona.
 
 Pergunta
 2015 - UFES 
-1. Uma paciente de 28 anos sempre teve ciclos menstruais regulares, vida sexual ativa e ausência de galactorreia, mas vem apresentando amenorreia há 5 meses. Quais são os 3 principais exames laboratoriais que devem ser solicitados antes do teste da progesterona?
+1. Uma paciente de 28 anos sempre teve ciclos menstruais regulares, vida sexual ativa e ausência de galactorreia, mas vem apresentando amenorreia há 5 meses. Quais são os 3 principais exames laboratori-ais que devem ser solicitados antes do teste da progesterona?
+
 a) FHS, LH, estradiol
 b) beta-HCG, TSH, FSH
 c) beta-HCG, TSH, prolactina
@@ -182,36 +422,53 @@ d) beta-HCG, FSH, prolactina
 e) FSH, TSH, estradiol
 Resposta no final do capítulo
 
-Tabela 1 - Roteiro para investigação da amenorreia
-Beta-HCG negati-vo
-TSH normal
-Prolactina normal	- Indicar o teste da progesterona oral: administram-se de 5 a 10mg de acetato de medroxiprogesterona oral, duran-te 5 dias;
-	- Após a suspensão do medicamento, verifica-se a presença ou a ausência de sangramento vaginal. Quando presen-te, significa nível estrogênico normal e provável distúrbio ovulatório; quando ausente, interpreta-se como defici-ência estrogênica.
-	
-Se a paciente menstruar cerca de 2 a 7 dias após a pausa da progesterona oral, o teste é considerado positivo. Significa que a paciente está produzindo estrogênio endógeno (portanto, não há hipogonadismo) e está faltando progesterona. Lem-bre-se que a progesterona é produzida na 2ª fase do ciclo menstrual pelo corpo lúteo. Desta forma, a conclusão é que não está ocorrendo ovulação. A anovulação é muito frequente nos extremos da vida reprodutiva (na puberdade, pela imaturidade do eixo, e no climatério, pelo esgotamento folicular). A causa patológica mais frequente de anovulação é a síndrome dos ová-rios policísticos (SOP), que será discutida mais adiante neste capítulo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabela 6 - Roteiro para investigação da amenorreia
+Beta-HCG negativo,
+TSH e prolactina normais	- Indicar o teste da progesterona oral: administram-se de 5 a 10mg de acetato de medroxiprogesterona oral, durante 5 dias;
+	- Após a suspensão do medicamento, verifica-se a presença ou a ausência de sangramento vaginal. Quando presente, significa nível estrogênico nor-mal e provável distúrbio ovulatório; quando au-sente, interpreta-se como deficiência estrogênica.
+
 
 Diagnóstico diferencial
-Para as causas de anovulação, devem-se considerar extremos da menacma (puberdade e climatério) e síndrome dos ovários policísticos.
+Para as causas de anovu-lação, devem-se consi-derar extremos da mena-cma (puberdade e clima-tério) e síndrome dos ovários policísticos.
 
-Caso a paciente não menstrue, o teste da progesterona será considerado negativo. Nessa situação, o raciocínio que deverá ser realizado é de que a paciente não está produzindo estrogênio ou há algum fator obstrutivo na saída da menstruação. O próximo passo no roteiro da investigação é a prescrição do teste do estrogênio + progesterona (Tabela 2).
+Tabela 7 - Roteiro para investigação da amenorreia
+Teste da progesterona negativo	- Indicar o teste do estrogênio + progesterona oral: administram-se estrogênios conjugados 0,625mg/d ou 1,25mg/d, por 21 dias, seguidos por acetato de medroxiprogesterona 10mg/d, por 5 dias;
+	- Na realidade, esse teste é um mimetismo do ciclo menstrual fisiológico. Após a suspensão dos medi-camentos, verifica-se a presença ou a ausência de sangramento vaginal. Quando presente, significa que os ovários da paciente não estão produzindo estrogênios (a paciente está hipogonádica); quan-do ausente, significa que há alguma obstrução anatômica no trato genital que está impedindo a saída da menstruação.
 
-Tabela 2 - Roteiro para investigação da amenorreia
-Teste da progeste-rona negativo	- Indicar o teste do estrogênio + progesterona oral: administram-se estrogênios conjugados 0,625mg/d ou 1,25mg/d, por 21 dias, seguidos por acetato de medroxiprogesterona 10 mg/dia, por 5 dias;
-	- Na realidade, esse teste é um mimetismo do ciclo menstrual fisiológico. Após a suspensão dos medicamentos, verifica-se a presença ou a ausência de sangramento vaginal. Quando presente, significa que os ovários da paci-ente não estão produzindo estrogênios (a paciente está hipogonádica); quando ausente, significa que há alguma obstrução anatômica no trato genital que está impedindo a saída da menstruação.
-	
-Se o teste é negativo, tem-se a certeza de que a causa da amenorreia é canalicular. A principal suspeita é a síndrome de Asherman. Nessa situação, a paciente deverá ser encaminhada para histeroscopia.
 
 Dica
-Em caso de teste do estrogênio + progesterona negativo, deve-se encaminhar a paciente para histeroscopia.
-	
-Frente a um teste positivo, ou seja, a administração oral de estrogênio e progesterona determinou a ocorrência de mens-truação, tem-se que a paciente apresenta um quadro de hipogonadismo. O próximo passo é a dosagem de FSH e LH. Pacientes com FSH e LH altos apresentam quadro laboratorial de hipogonadismo hipergonadotrófico. Nessa situação, o diagnóstico é falência ovariana. A principal causa de falência ovariana é genética, e o exame indicado é o cariótipo. Dentre as causas genéti-cas que cursam com falência ovariana prematura, a principal patologia envolvida é a síndrome de Turner. 
+Em caso de teste do es-trogênio + progesterona negativo, deve-se enca-minhar a paciente para histeroscopia.
+
 
 Importante
-Em caso de hipogonadismo hipergonadotrófico tendo a falência ovariana como causa da amenorreia, deve-se solicitar carió-tipo.
+Em caso de hipogona-dismo hipergonadotrófi-co tendo a falência ovari-ana como causa da ame-norreia, deve-se solicitar cariótipo.
 
 Pergunta
 2015 - HCV
-2. Uma paciente de 30 anos queixa-se de amenorreia há 12 meses. O teste da progesterona mostrou-se negativo, e a avaliação laboratorial demonstrou 2 dosagens de FSH = 40 e 42mUI/mL (valores de referência: até 20mUI/mL) e TSH = 2,5mUI/mL. A 1ª hipótese é: 
+2. Uma paciente de 30 anos queixa-se de amenorreia há 12 meses. O teste da progesterona mostrou-se negativo, e a avaliação laboratorial demonstrou 2 dosagens de FSH = 40 e 42mUI/mL (valores de referên-cia: até 20mUI/mL) e TSH = 2,5mUI/mL. A 1ª hipótese é: 
+
 a) síndrome hiperandrogênica
 b) ciclos anovulatórios
 c) síndrome dos ovários policísticos
@@ -219,70 +476,58 @@ d) hipotireoidismo
 e) falência ovariana precoce
 Resposta no final do capítulo
 
-Já nas situações em que o FSH e o LH estiverem baixos, tem-se o hipogonadismo hipogonadotrófico. Nestas situações, a causa da amenorreia é hipofisária ou hipotalâmica. Para o diagnóstico diferencial, deve-se indicar o teste do GnRH. Deve-se coletar uma amostra de sangue periférico para avaliação dos níveis de FSH e LH. Após, administra-se 100mg de GnRH por via intravenosa. Logo após, coleta-se nova dosagem de FSH e LH. Se há aumento de, no mínimo, 200% dos valores basais, o teste é considerado positivo. Nessa situação, conclui-se que a causa da amenorreia é hipotalâmica, uma vez que a hipófise respondeu ao estímulo com GnRH endógeno. Se não ocorrer aumento dos níveis de FSH e LH, o teste é negativo e conclui-se que a causa da amenorreia é hipofisária.
 
 Importante
-Em caso de hipogonadismo hipogonadotrófico tendo como central (hipofisária ou hipotalâmica) a causa da amenorreia, está indicado o teste do GnRH.
+O teste do GnRH está in-dicado para avaliar hipo-gonadismo hipergonado-trófico diante de um qua-dro de amenorreia.
 
  
-Figura 4 - Roteiro para diagnóstico topográfico 
-
+Figura 9 - Roteiro para diagnóstico topográfico 
  
-Figura 5 - Diagnóstico etiológico 
-
+Figura 10 - Diagnóstico etiológico 
 6. Tratamento
 Sempre que possível, deve ser dirigido à causa-base. De acordo com a etiologia, o tratamento geral constitui-se em:
-
 A - Hipogonadismo hipergonadotrófico
 Reposição hormonal para manter os caracteres sexuais secundários e prevenir osteoporose e doenças cardíacas;
 Se houver cromossomo Y, retirar gônadas, pelo risco de malignização, visto que estas se encontram na cavidade abdominal e as altas temperaturas locais favorecem a transformação maligna (gonadoblastoma);
 Hormônio do crescimento, se necessário.
-
 Tratamento
-Pacientes com hipogonadismo hipergonadotrófico cujo cariótipo demonstra a presença de cromossomo Y devem ser submetidas a gonadectomia.
+Pacientes com hipogona-dismo hipergonadotrófi-co cujo cariótipo de-monstra a presença de cromossomo Y devem ser submetidas a gonadec-tomia.
 
 B - Hipogonadismo hipogonadotrófico
 Quando a causa-base é a deficiência do GnRH, o tratamento consiste em administrar GnRH; se é a deficiência de FSH/LH, devem-se administrar gonadotrofinas exógenas.
-
 C - Amenorreia primária com hiperandrogenismo
-Cirurgia para exérese de gônadas; corticoides na HAC; anticoncepcional hormonal oral ou acetato de medroxiprogestero-na na 2ª fase do ciclo menstrual para tratamento da síndrome dos ovários policísticos; e perda de peso.
-
+Cirurgia para exérese de gônadas; corticoides na HAC; anticoncepcional hormonal oral ou acetato de medroxipro-gesterona na 2ª fase do ciclo menstrual para tratamento da SOP; e perda de peso.
 D - Situações específicas
 Criptomenorreia: tratamento cirúrgico, com remoção do obstáculo à menstruação;
 Síndrome de Asherman: lise das aderências por histeroscopia + colocação de dispositivo intrauterino (mantido por, pelo menos, 3 meses);
-Tumores do sistema nervoso central: tratamento com neurocirurgião;
+Tumores do SNC: tratamento com neurocirurgião;
 Hiperprolactinemia: agonistas da dopamina (bromocriptina ou cabergolina);
 Síndrome de Sheehan e tireoidopatias: acompanhamento e tratamento clínico com endocrinologista;
-Atraso fisiológico: baixas doses de estrogênio até o sangramento; posteriormente, terapêutica cíclica com estrogênios e progestogênios;
+Atraso fisiológico: baixas doses de estrogênio até o sangramento; posteriormente, terapêutica cíclica com estro-gênios e progestogênios;
 Síndrome de Kallmann: ciclos de estrogênios e progestogênios; gonadotrofinas e GnRH para induzir ovulações;
 Amenorreia pós-pílula: dispositivo intrauterino ou citrato de clomifeno.
+Resumo
 
-7. Resumo
-  
 Quadro-resumo
 Classificação da amenorreia
 - Primária: ausência de menarca e de caracteres sexuais secundários aos 14 anos ou ausência de menarca aos 16 anos (mesmo com desenvolvimento normal dos caracteres sexuais secundários). A prevalência é baixa: cerca de 0,4% das mulheres púberes;
-- Secundária: ausência de menstruação por 3 ciclos consecutivos ou por 180 dias (6 meses). A prevalência é de cerca de 5%.
+- Secundária: ausência de menstruação por 3 ciclos consecutivos ou por 180 dias (6 meses). A prevalência é de cer-ca de 5%.
 Investigação básica para qualquer disfunção menstrual
 - Anamnese + exame físico: completos;
 - Exames laboratoriais:
-  · FSH/LH para avaliação da função hipofisária: se FSH/LH aumentados (>15UI/mL), ovários resistentes à ação das gonadotrofinas ? pensar em menopausa precoce/menopausa fisiológica. Se FSH/LH normais (até 10UI/mL), dosar estradiol para verificar se a função ovariana está preservada. Se estradiol normal, o problema não é hormonal, e sim provavelmente uterino, que deve ser inves-tigado. Se o estradiol estiver muito baixo, investigar outras glândulas (tireoide ou suprarrenal);
-  · Sulfato de deidroepiandrosterona para avaliar defeito próprio da suprarrenal: por ser um hormônio quase exclusivo da suprarrenal, quando houver aumento a glândula deverá ser bem investigada por exames de imagem, na busca de eventuais tumorações ou de outros transtornos endócrinos próprios da mesma;
-  · Androstenediona/testosterona livre e total: são androgênios gerais produzidos tanto pelos ovários quanto pelas suprarrenais, logo são inespecíficos, mas seu aumento é indicativo de hiperandrogenismo;
-  · Glicemia de jejum/insulina basal: quando a relação entre glicemia e insulina for inferior a 4,5, temos o diagnóstico de hiperinsuli-nemia, causa comum de síndrome dos ovários policísticos que deve ser tratada com metformina;
-  · SHBG: é a proteína carreadora dos hormônios sexuais; quanto maior seu nível no plasma, menor a quantidade de esteroides sexu-ais livres (justamente aqueles com valor de atividade biológica). Aumenta nos estados hiperestrogênicos e com hormônios da tireoi-de (hipertireoidismo) e diminui nos estados hiperinsulinêmicos (exemplo: síndrome dos ovários policísticos com hiperinsulinemia), no hiperandrogenismo e no hipotireoidismo. 
+· FSH/LH para avaliação da função hipofisária: se FSH/LH aumentados (>15UI/mL), ovários resistentes à ação das gonadotrofinas ? pensar em menopausa precoce/menopausa fisiológica. Se FSH/LH normais (até 10UI/mL), do-sar estradiol para verificar se a função ovariana está preservada. Se estradiol normal, o problema não é hormo-nal, e sim provavelmente uterino, que deve ser investigado. Se o estradiol estiver muito baixo, investigar outras glândulas (tireoide ou suprarrenal);
+· Sulfato de deidroepiandrosterona para avaliar defeito próprio da suprarrenal: por ser um hormônio quase ex-clusivo da suprarrenal, quando houver aumento a glândula deverá ser bem investigada por exames de imagem, na busca de eventuais tumorações ou de outros transtornos endócrinos próprios da mesma;
+· Androstenediona/testosterona livre e total: são androgênios gerais produzidos tanto pelos ovários quanto pelas suprarrenais, logo são inespecíficos, mas seu aumento é indicativo de hiperandrogenismo;
+· Glicemia de jejum/insulina basal: quando a relação entre glicemia e insulina for inferior a 4,5, temos o diagnósti-co de hiperinsulinemia, causa comum de SOP que deve ser tratada com metformina;
+· SHBG: é a proteína carreadora dos hormônios sexuais; quanto maior seu nível no plasma, menor a quantidade de esteroides sexuais livres (justamente aqueles com valor de atividade biológica). Aumenta nos estados hipe-restrogênicos e com hormônios da tireoide (hipertireoidismo) e diminui nos estados hiperinsulinêmicos (exem-plo: SOP com hiperinsulinemia), no hiperandrogenismo e no hipotireoidismo. 
 - Cortisol: demonstra problemas intrínsecos da suprarrenal;
-- 17-hidroxiprogesterona: é um metabólito precursor dos esteroides sexuais, acumulado quando falta a enzima 21-hidroxilase, que o converteria em deidroepiandrosterona ? androstenediona ? testosterona nesta sequência, na cascata delta 5 da suprarrenal. Desta forma, quando o metabólito está aumentado, fazemos o diagnóstico de HAC forma não clássica ou de início tardio, que cursa com hiperandrogenismo e distúrbios menstruais tipo espaniomenorreia;
+- 17-hidroxiprogesterona: é um metabólito precursor dos esteroides sexuais, acumulado quando falta a enzima 21-hidroxilase, que o converteria em deidroepiandrosterona ? androstenediona ? testosterona, nesta sequência, na cascata delta 5 da suprarrenal. Desta forma, quando o metabólito está aumentado, fazemos o diagnóstico de HAC forma não clássica ou de início tardio, que cursa com hiperandrogenismo e distúrbios menstruais tipo espanio-menorreia;
 - TSH/T4 livre: para descartar ou confirmar tireoidopatias;
-- PRL: deve ser colhida em repouso, após 30 minutos da venóclise. O normal é de até 20 a 25ng/mL; valores superiores indicam hiperprolactinemia e devem ser investigados. Quando os valores estão entre 25 e 50ng/mL, as causas farmacológicas são as mais comuns, entre 50 e 100ng/mL há variedade de fatores, e acima de 100ng/mL se indica adenoma de hipófise.
+- PRL: deve ser colhida em repouso, após 30 minutos da venóclise. O normal é de até 20 a 25ng/mL; valores superi-ores indicam hiperprolactinemia e devem ser investigados. Quando os valores estão entre 25 e 50ng/mL, as cau-sas farmacológicas são as mais comuns, entre 50 e 100ng/mL há variedade de fatores, e acima de 100ng/mL indica adenoma de hipófise.
 Exames de imagem
-Devem ser adequados a cada caso, mas sempre se deve solicitar USG pélvica e transvaginal para avaliação de volume uterino e ovariano, presença de cistos etc., que pode ser complementada com TC de pelve ou RNM de pelve para melhor acurácia em casos duvidosos e também se há a necessidade de avaliar as suprarrenais com a suspeita de tumores. 
+Devem ser adequados a cada caso, mas sempre se deve solicitar USG pélvica e transvaginal para avaliação de vo-lume uterino e ovariano, presença de cistos etc., que pode ser complementada com TC de pelve ou RNM de pelve para melhor acurácia em casos duvidosos e também se há a necessidade de avaliar as suprarrenais com a suspeita de tumores. 
 
 Respostas
+das questões do capítulo
 1. C
 2. E 
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
