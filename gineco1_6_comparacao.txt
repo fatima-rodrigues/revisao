@@ -1,0 +1,632 @@
+diff --git a/gineco1_6.txt b/gineco1_6.txt
+index b30f7ba..3884e2f 100644
+--- a/gineco1_6.txt
++++ b/gineco1_6.txt
+@@ -1,21 +1,44 @@
+Climatério
+Flávia Fairbanks Lima de Oliveira Marino
+
+[-Resumo-]Este capítulo trata do climatério, período em que há declínio da função ovariana, iniciando-se geralmente após os 40 anos, levando a sintomas como fogachos e alterações urogenitais. O climatério inclui a ocorrência da menopausa, que é a última menstruação espontânea, associada a um período de amenorreia de 12 meses consecutivos. Nessa fase, são necessários ras{+-+}treios para obesidade, hipertensão, diabetes, dislipidemia, doença cardiovascular, disfunção tireoidiana, rastreamento para câncer de mama, ovário, colo do útero, endométrio e cólon, além de ser necessário fazer avaliação do risco para osteo[---]poro{+-+}se. O diagnóstico de climatério é eminentemente clínico, e o tratamento se baseia na prevenção de doenças associadas a essa faixa etária, como algumas neoplasias e osteoporose, além do emprego da terapia de reposição hormonal, quando esta é indicada.
+
+1. Introdução
+
+O climatério pode ser compreendido como o período da vida da mulher em que há um declínio acentuado e progressivo da função ovariana, tendendo ao fim do patrimônio folicular e, com isso, da sua capacidade reprodutiva. Representa a passa-gem do período reprodutivo (menacma) ao não reprodutivo (senilidade).
+A síndrome do climatério corresponde ao conjunto de sinais e sintomas que podem acompanhar essa fase e que estão re-lacionados à queda da função ovariana, mas que nem sempre se manifestam. 
+
+{+ +}
+{+Figura 1 - O climatério+}
+
+Tabela 1 - Alterações fisiológicas a serem consideradas para melhor compreensão dos eventos 
+- Redução, por atresia, do pool de folículos ovarianos durante toda a vida da mulher;
+- N[-úm-]{+o p+}er{+íod+}o [-m-]{+d+}e{+ tra+}n{+siçã+}o[-r-] [-d-]{+m+}e{+nopáusica, há os+} folículos[-,-] {+ova+}r[-eduz-]i{+a+}n[-d-]o{+s+} [-a capa-]{+envelhe+}cid[-ad-]{+os/r+}e{+duzidos+} {+qu+}e {+m+}a{+ntêm+} [-qualid-]a[-de,-] [-sec-]{+p+}r[-etan-]{+o+}d{+uçã+}o [-m-]{+d+}e[-nos-] estradiol{+,+} [-(daí os sinto-]mas [-progr-]{+qu+}e[-ssivos-] [-de-]{+não+} [-hi-]p[-o-est-]ro[-g-]{+duz+}e[-nis-]m[-o) e-] inibina [-(o -]{+ade+}qu{+adament+}e{+,+} [-pro-]{+ha+}v{+end+}o[-ca-] [-a-]{+um+} {+aum+}e{+nto +}lev[-ação-]{+e+} d[-o-]{+e+} [-hormônio-]{+FSH.+} 
+[-f-]{+? F+}olículo[--e-]s[-timulante (FSH),-] [-p-]o{+var+}i[-s -]{+a+}n[-ã-]o{+s;+} 
+[-há-]{+?+} [-mai-]{+E+}s[- re-]tro[-co-]{+gê+}n[-tr-]{+i+}o{+ normal + ? inibina; +}
+{+? FSH. +}
+{+- No final da transição menopáusica, há número menor de folículos, reduzindo a capacidade e a qualidade, secretando:+}
+{+  · Menos estradiol, daí os sintomas progressivos de hipoestrogenismo;+}
+{+  · Menos inibina, o que provoca a elevação maior do hormônio folículo-estimulante (FSH), pois não há mais retrocontrole negativo na hipófise.+}
+{+- Na menopausa e na pós-menopausa, não há mais reserva folicular ovariana, levando à ausência de liberação de esteroides ovari-anos, e, consequentemente, não há mais feedback negativo com hipotálamo e hipófise. Assim, há aumento das gonadotrofinas (FSH – 10 a 20 X – e LH - 3X) quando em comparação com a fase reprodutiva. Após 1 a 3 anos de menopausa, há declínio gradual e suave das gonadotrofinas devido ao envelhecimento das células hipofisárias secretoras de gonadotrofinas;+}
+{+- Importante: o hormônio antimülleriano (AMH) é produzido pelas células da granulosa dos folículos secundários e pré-antrais, es-tando intimamente relacionados com o número de folículos antrais precoces. Ao longo da transição menopáusica, o AMH cai acen-tuada e progressivamente, sendo marcador de reserva ovariana; +}
+{+- Quanto ao comportamento da suprarrenal, esta mantém praticamente sozinha a produção dos hormônios sexuais femininos após a menopausa. Entretanto, observa-se, com o avanço da idade, queda progressiva nas taxas de sulfato de deidroepiandrosterona (SDHEA – produzido quase totalmente pelas suprarrenais), androstenediona e pregnenolona; +}
+{+- A SHBG (globulina de ligação do hormônio sexual) tem sua produção hepática reduzida, havendo aumento das frações li-vre/biodisponível de estrogênio e testosterona; +}
+{+- Os ovários após a menopausa secretam androstenediona e testosterona. De modo geral, há redução nos androgênios e estrogê-nios após a menopausa. +}
+
+
+{+Tabela 2 - Comportamento hormonal pós-menopausa+}
+{+Hormônios	Comportamento pós-menopausa+}
+{+Androstenediona 	Redução em aproximadamente 50 a 60%, a maior parte produzida pela suprarrenal e, em pequena quan-tidade, pelos ovários pós-menopausa +}
+{+SDHEA	Declínio marcante após a menopausa, em cerca de 70%+}
+{+DHEA	Declínio marcante após a menopausa, em cerca de 70%+}
+{+Testosterona tota+}l{+	Redução, porém pequena, variando d+}e ne[-g-]{+nhuma alteração +}a{+ 15% +}
+{+Tes+}t{+osterona li-vre/b+}i{+odisponí+}v{+el	Reduçã+}o na [-hi-]{+SHBG, com +}p[-ófi-]{+o+}s{+sív+}e[-);-]
+[---]{+l+} [-A-]{+a+}umento [-re-]l[-ati-]{+e+}v[-o da-]{+e+} [-fu-]n[-çã-]o{+s+} {+an+}d{+rogêni+}o{+s+} {+livr+}es{+ +}
+{+Es+}tro[-ma ov-]{+n+}a{+	P+}ri{+ncip+}a{+l estrogê+}n{+i+}o [-q-]{+prod+}u{+zido após a m+}e{+nopausa+}, {+originário da conver+}s{+ã+}o[-b-] {+per+}i[-n-]f[-luênc-]{+ér+}i{+c+}a [-c-]{+de androgêni+}o{+s (a+}n{+-dros+}t[-í-]{+enedio+}n[-u-]a{+) –+} {+pro+}d{+uçã+}o [-h-]{+extraglandular (c+}o[-r-]m[-ôni-]o [-lut-]e[-iniz-]{+ss+}a{+ co+}n[-t-]{+v+}e{+rsão+} [-(LH),-]{+é+} pro[-duz-]{+eminente+} [-a-]n[-dr-]o[-gên-]{+ tec+}i{+d+}o[-s. Em-] a[-lguma-]{+dipo+}s{+o,+} mulhe{+-+}res[-,-] [-surg-]{+d+}e[-m-] [-car-]{+m+}a[-cte-]{+io+}r{+ +}í[-st-]{+nd+}ic{+e de m+}as{+sa+} [-vi-]{+co+}r[-iliz-]{+póre+}a[-n-]{+ +}t[-es-]{+êm+} [-n-]{+maior+}es[-sa-] [-f-]{+tax+}as{+ d+}e [-(p-]e[-lo-]s[- n-]{+tr+}o{+na+} [-me-]{+circula+}nt[-o-]{+e+} e{+,+} [-n-]{+c+}o[- b-]{+nseq+}u[-ço, -]en[-grossa-]{+te+}ment[-o-]{+e,+} [-d-]{+m+}a[- voz);-]
+[-- C-]{+i+}o[-nve-]r[-são-] [-perifé-]ri{+s+}c[-a d-]o[-s-] [-an-]d[-rogênios em -]e[-strogênios,-] [-pri-]{+câ+}nc[-ipalm-]e[-nt-]{+r d+}e {+e+}n{+d+}o[- -]{+mé+}t[-ec-]{+r+}i[-d-]o[- -]{+)+}
+{+Estr+}adi[-pos-]o[-, in-]{+l	Re+}du[-zida-]{+ção+} {+im+}p[-ela ar-]o[-ma-]{+r+}ta[-se prese-]nte n[-es-]{+a +}s[-e-]{+ua+} t[-ecido.-]{+axa+} [-Res-]s{+éric+}a[-lte-se-]{+,+} [-a-]{+com+} conversão [-d-]{+p+}e[- -]{+riféric+}a{+, em me+}n[-d-]{+o+}r{+ grau, de test+}oste[-nedi-]{+r+}ona em estr[-on-]a{+diol+} (pr[-i-]{+odução extragla+}n[-cip-]{+dul+}a{+r)+}
+{+Re+}l{+ação+} {+androgê-nio–+}estrogênio[- -]{+	Eleva+}da [-fas-]{+d+}e{+vido+} [-pós-m-]{+ao d+}e{+clí+}n{+i+}o[-p-]{+ m+}a[-u-]{+i+}s[-a)-] {+marcant+}e de [-t-]est[-oste-]ro{+gê+}n[-a em estrad-]io[-l (em-]{+,+} [-m-]{+pod+}en{+d+}o[-res-] [-c-]o[-n-]c[-ent-]{+or+}r[-açõ-]e{+r hir+}s[-).-]{+utismo leve +}
+
+Tabela [-2-]{+3+} - Níveis hormonais pré e pós-menopausa
+Hormônios	Pré-menopausa	Pós-menopausa
+Estradiol	40 a 400pg/mL	10 a 20pg/mL
+Estrona	30 a 200pg/mL	30 a 70pg/mL
+@@ -28,19 +51,20 @@ Androstenediona	60 a 300ng/dL	30 a 150ng/dL
+2. Definições pertinentes
+
+A - Menopausa
+
+Trata-se da última menstruação espontânea da mulher, associada [-a-]{+à+} amenorreia por 12 meses consecutivos. Em geral, ocorre por volta dos 5[-0-]{+1,5+} anos, sendo precoce antes dos 40 e tardia após os 52.
+
+B - Pré-menopausa
+[-P-]{+Trata-se do p+}eríodo que se inicia por volta dos 40 anos e se estende até as primeiras irregularidades menstruais e/ou os primeiros sintomas da síndrome do climatério.
+
+C - Perimenopausa ou transição menopausal[-P-]{+ ou climatério+}
+{+É o p+}eríodo que se inicia com o surgimento das primeiras irregularidades menstruais e/ou dos primeiros sintomas da sín{+-+}dro[---]me do climatério e se estende até 1 ano após a última menstruação.{+ Em geral, no final dos 40 anos e início dos 50 anos e dura de 4 a 7 anos, aproximadamente. +}
+
+D - Pós-menopausa
+[-Perí-]{+C+}o[-do -]{+rr+}e{+spo+}n[-tr-]{+d+}e a{+os+} [-me-]{+a+}no[-pau-]s[-a-] {+qu+}e [-o-]s{+e seguem+} [-65-]{+à+} [-a-]{+me+}no{+pau+}s{+a+}. 
+
+E - Falência ovariana precoce
+Acontece quando a menopausa ocorre antes dos 40 anos. Sua suspeita é indicação de dosagem de FSH{+ alta+}.
+
+F - Senilidade 
+Período que se inicia a partir dos 65 anos. 
+@@ -49,103 +73,295 @@ Per
+
+Pergunta
+2015 - UNAERP 
+1. L.S.M., de 51 anos, comparece à Unidade Básica de Saúde para atualização de rotina ginecológica. Apresentou meno{+-+}pau[---]sa há 1 ano e nega sangramento após a cessação do fluxo menstrual. Refere fogachos diários, que atrapalham sua qua{+-+}lidade de vida, e está em uso de captopril 50mg a cada 8 horas. Ao exame físico, apresenta PA = 120x80mmHg e IMC = 33kg/m2. Demais avaliações sem alterações. Assinale a alternativa que contenha os exames da propedêutica para a paci{+-+}ente:
+a) lipidograma, glicemia, sangue oculto nas fezes, hormônio tireoestimulante, colpocitologia, densitometria óssea, mamo{+-+}gra[---]fia
+b) lipidograma, glicemia, sangue oculto nas fezes, hormônio tireoestimulante, colpocitologia, mamografia
+c) lipidograma, glicemia, ultrassonografia transvaginal, hormônio tireoestimulante, colpocitologia, densitometria óssea, ma[---]mografia
+d) lipidograma, ultrassonografia transvaginal, hemograma, hormônio tireoestimulante, colpocitologia, densitometria óssea, mamografia
+e) lipidograma, ultrassonografia transvaginal, ultrassonografia de abdome total, colpocitologia, densitometria óssea, mamo-grafia
+Resposta no final do capítulo
+
+Não há necessidade de dosagem de FSH, LH e estrogênios a pacientes com idade considerada própria do climatério e com anamnese sugestiva, já que o resultado não traz informações relevantes diante do que já foi obtido. Só há indicação se há uma dúvida diagnóstica (primordialmente entre pacientes com idade muito próxima dos 40 anos{+ ou aquelas histerectomizadas+}).{+ +}Segundo o Ministério da Saúde, a propedêutica nessa fase engloba 4 etapas:
+1 - Avaliação da síndrome climatérica.
+2 - Identificação e rastreamento de doenças crônicas: obesidade, hipertensão, diabetes, dislipidemia, doença cardiovascu-lar e disfunção tireoidiana. 
+3 - Rastreamento de câncer: mama, ovário, colo do útero, endométrio e cólon.
+4 - Avaliação do risco para osteoporose.
+
+A - [-Avali-]{+F+}a[-çã-]{+t+}o[- da -]{+re+}s[-ín-]{+ +}d[-rom-]e [-climaté-]ri[-ca-]
+[-O-]s{+co+} [-sin-]{+par+}a[-is-] {+m+}e[- si-]n[-t-]o[-m-]{+p+}a{+u+}s{+a+} [-devem se-]{+p+}r[- qu-]e[-stionad-]{+c+}o[-s -]{+c+}e
+[-m uma-]{+-+} {+T+}a[-n-]{+b+}a[-mne-]{+gi+}s[-e c-]{+m+}o{+;+}
+{+- Qui+}m[-ple-]{+io+}t[-a -]e[- procu-]ra{+pia;+}
+{+- Ra+}d{+i+}o[-s em um -]{+t+}e[-x-]{+rapi+}a[-me-] [-fís-]{+pélv+}ic[-o-]{+a;+}
+{+-+} [-m-]{+C+}i[-n-]{+r+}u[-c-]{+rg+}i[-o-]{+a+}s[-o,-] [-p-]o{+var+}i[-s -]{+a+}n[-em-]{+as;+}
+{+-+} {+Hi+}s{+t+}e[-mp-]re[- a pa-]c[-ien-]t[-e s-]{+omi+}a[-be que-]{+.+}
+
+{+B+} [-as-]{+-+} {+Av+}al[-ter-]{+i+}aç[-ões s-]{+ã+}o[-fri-]{+ +}da[-s-] s[-ão relacio-]{+í+}n[-a-]d[-as a-]{+r+}o{+me+} climatéri{+ca+}
+{+N+}o[-.-] [-Os s-]in[-t-]{+íci+}o[-mas-] [-po-]d[-em-]{+a+} [-se-]{+t+}r[- divid-]{+ans+}i[-d-]{+çã+}o[-s-] [-e-]m[-:-]
+[-Agud-]{+en+}o{+páu+}s[-: v-]{+ic+}a{+, o+}s{+ cicl+}o{+s +}m[-o-]{+ens+}t[-o-]r[-e-]{+uai+}s [-(fog-]{+perm+}a{+ne+}c[-ho-]{+em regulare+}s, [-sud-]{+p+}or[-e-]{+ém o+}s[-e-] {+int+}e[- c-]{+rv+}al[-afri-]os[-);-] [-Crô-]{+e+}n{+tre os c+}ic{+l+}os {+p+}o[-u tar-]{+-+}d[-io-]{+em +}s[-:-]{+er+} a{+l+}t{+e+}r[-ofi-]a{+dos+} [-cutân-]e[-a-]{+m+} [-(q-]{+7 o+}u[-ed-]{+ m+}a{+is+} d{+ias, +}e{+m+} [-p-]{+g+}e{+ra+}l[-os-]{+,+} [-e-]{+com+} c[-abe-]{+ic+}los[-)-] [-e-]{+mais+} {+c+}ur[-ogeni-]t[-al-]{+os,+} [-(-]{+ma+}r[-esse-]ca[-me-]n[-t-]{+do +}o [-vag-]in[-al,-]{+ício+} d[-ispar-]e{+ alg+}un[-ia,-]{+s+} [-prur-]{+c+}i[-d-]{+cl+}o{+s+} {+ano+}vul[-v-]a{+tó+}r[-, polac-]i[-ú-]{+os. En-t+}r[-i-]{+et+}a[-,-]{+nto,+} [-disúria-]{+há+}, [-urgênci-]a[- micc-]i[-o-]n{+d+}a[-l-], [-i-]{+algu+}n{+s +}c[-ont-]i[-nên-]c[-ia-]{+los+} {+ov+}u{+lató+}ri[-nária)-]{+os+}, [-d-]{+p+}o{+d+}en[-ça -]d[-e-]{+o+} [-Alzheim-]{+ocorr+}er[-,-] {+a c+}o[-st-]{+nc+}e[-o-]p{+çã+}o[-r-]{+. N+}o{+ final des+}se {+p+}e[- -]{+río+}do[-e-]{+, com o ava+}nç{+o d+}a {+f+}a[-te-rosc-]l[-e-]{+ência ova+}r[-ót-]i[-c-]a[-.-]{+na,+} {+há+} [-Pela-]{+2+} [-q-]{+o+}u[-ed-]{+ m+}a{+is+} {+f+}a[-brupt-]{+lh+}a[- do-]{+s+} n[-ível-]{+a+} {+m+}e{+n+}str{+uaçã+}o[-gêni-]{+, +}co[-,-]{+m+} [-t-]{+p+}e[-m-]{+l+}o[-s-] {+men+}os [-s-]{+1 +}int[-omas -]{+er+}va[-s-]{+l+}o{+ inter+}m[-o-]{+ens+}t[-o-]r{+ual d+}e{+ 60 dia+}s [-c-]o{+u +}m{+ais devid+}o {+a perío-d+}os mais [-característic-]{+l+}o[-s e -]{+ng+}os [-qu-]{+d+}e [-m-]a[-is le--]{+no+}v{+ul+}a[-m-]{+ção.+} 
+[-a-]{+Os+} [-que-]{+s+}i[-x-]{+n+}a{+i+}s[-.-] [-O-]{+e+} [-f-]{+sint+}o[-g-]{+m+}a[-cho-]{+s+} [-é-]{+do+} [-u-]{+cli+}ma{+tério,+} [-s-]{+m+}en[-saçã-]o[- -]{+pau+}s[-úbit-]a e [-tra-]{+pós-me+}n{+opau+}s[-itóri-]a de{+vem+} [-calo-]{+se+}r[-,-] que[- -]s[-e inic-]{+t+}i[-a -]{+o+}na{+dos+} [-r-]e[-gião-]{+m+} [-d-]{+um+}a [-ci-]{+a+}n[-tur-]a[- -]{+mn+}e[- -]se [-es-]{+com+}p[-a-]l[-ha p-]e[-lo -]t[-ór-]a[-x,-] [-p-]e[-sc-]{+ pr+}o[-ç-]{+curad+}o{+s+} e{+m+} [-face-]{+um+} [-(c-]{+ex+}a[-rát-]{+m+}e[-r-] [-a-]{+fí+}s{+i+}c[-ende-]{+o mi+}n[-te)-]{+ucioso+}, [-g-]{+pois n+}e[-ral-]m{+ s+}e[-nt-]{+mpr+}e [-m-]a[-is-] {+pac+}i{+e+}nte[-n-]{+ +}sa[- -]{+b+}e [-fre-]que[-nte-] [-à-]{+as+} [-noi-]{+al+}te[-,-]{+rações+} [-p-]{+s+}o{+fri+}d{+as +}e[-nd-]{+stã+}o [-se-]r[- -]{+el+}ac{+i+}o[-mpa-]n[-h-]ada{+s+} [-p-]{+c+}o[-r-]{+m+} [-sud-]o[-rese. O-] [-me-]c[-an-]{+l+}i[-s-]m[-o fisiop-]at[-ológ-]{+ér+}i[-c-]o{+.+} [-bá-]{+O+}s[-ico-] [-envolv-]{+s+}i[-do -]n{+tom+}as {+p+}o[-n-]d[-a-]{+em +}s{+er+} d{+ivididos +}e{+m:+}
+{+-+} [-cal-]{+Agud+}o[-r-]{+s:+} [-p-]{+v+}a[-rece e-]s{+omo+}t[-ar -]{+o+}re[-l-]{+s (fog+}ac[-i-]{+h+}o[-na-]{+s, su+}do{+rese+} [-com-]{+e+} {+c+}a[- -]l[-iber-]a[-ção pulsát-]{+fr+}i[-l d-]o[- LH-]{+s)+}; 
+[-algu-]{+- Crô+}n{+ico+}s [-a-]{+o+}u{+ +}t[-o-]{+a+}r[-es defen-]d[-em-]{+ios:+} a[- -]t[-eo-]r{+of+}ia [-d-]{+cutân+}e{+a+} {+(+}que[- ca-]da [-on-]d[-a-]{+e pelos+} [-d-]e ca{+be+}lo[-r-]{+s)+} [-corr-]e[-sp-]{+ ur+}o[-nd-]{+g+}e[-r-]{+n+}i[-a a um pulso de LH, -]{+t+}al[-ém-] [-d-]{+(r+}e[- -]s[-er pr-]{+s+}ec[-edida por -]a[-u-]mento [-de -]{+vagi+}n[-or-]a{+l, +}d{+ispa+}re{+u+}n[-al-]i[-n-]a{+,+} [-n-]{+prurid+}o [-hi-]{+vulvar, +}po[-tá-]la[-mo-]{+ciúria+}, d[-ete-]{+isú+}r[-m-]i[-n-]a[-ndo-]{+,+} [-alte-]{+u+}r[-ações -]{+gê+}n{+ci+}a [-ter-]m{+icci+}o[-rregul-]{+n+}a[-ção-]{+l,+} {+in+}co[-m -]{+n+}t[-e-]{+i+}n[-d-]ência [-a hipe-]{+u+}r[-te-]{+iná+}r[-m-]ia[-. Outros-]{+),+} [-aut-]{+d+}o[-r-]e[-s-]{+nça+} [-sug-]{+d+}e[-r-]{+ Alzh+}e{+i+}m[- qu-]e{+r,+} o[- hipoe-]st[-rog-]e[-nism-]o[- -]p[-r-]o[-v-]{+r+}o[-ca va-]s[-o-]e[-spasmos o-] [-qu-]e [-po-]d{+o+}e[-ri-]{+nç+}a a[-l-]te{+-+}r[-ar o eix-]o[- t-]{+scl+}er[-morregul-]{+ótic+}a[-dor.-]{+;+}
+{+- +}Outros sintomas comuns[- são-]{+:+} palpitação, cefaleia, tontura, insônia, parestesia, diminuição da memória, humor depressivo, ir{+-+}ritabilidade, diminuição da libido, mastalgia, {+d+}o{+r ós+}s[-t-]ea[-lgia-], artralgia, mialgia e irregularidade menstrual.[-A irregul-]
+
+a[-r-]{+) S+}i[-d-]{+ntom+}a[-de-]{+s+} [-men-]{+va+}s{+omo+}t{+o+}r[-ua-]{+es+}
+{+Pe+}l{+a+} [-pod-]{+qu+}e{+da+} a[-p-]{+b+}r[-esen-]{+up+}ta[-r-se-] [-i-]{+do +}n[-icia-]{+íve+}l[-m-]{+ +}e[-n-]{+s+}t[-e com-]{+r+}o[- tend-]{+g+}ên[-c-]i[-a ao en-]c[-urtament-]o{+,+} [-grada-]t[-iv-]{+em+}o{+s+} [-d-]o{+s+} {+s+}int[-ervalo (ci-cl-]o{+ma+}s [-p-]{+vas+}o[-li-]m[-en-]o[-r-]{+to+}re[-ico-]s[-),-] [-devid-]{+c+}o[- à -]m[-aturaçã-]o [-f-]o[-l-]{+s ma+}i{+s +}c[-ul-]ar[- -]ac[-el-]{+t+}er[-ada (al-]{+ís+}t{+ic+}os [-nív-]e[-i-]{+ o+}s [-d-]{+qu+}e [-FSH)-]{+mais+} {+l+}e{+-vam+} [-à-]{+a+} [-conse-]que[-nte-]{+ixas.+} {+O f+}o[-vul-]{+g+}a[-ção pre-]c{+h+}o[-ce-] [-(enc-]{+é +}u[-r-ta-]m{+a s+}en[-t-]{+saçã+}o [-d-]{+súbit+}a [-f-]{+e tr+}a{+n+}s{+itória d+}e [-foli-]c[-ul-]a{+lo+}r[-). Após-]{+,+} [-a-]{+que+} [-fa-]se inicia[-l,-] [-pass-]{+n+}a[-m-] {+região d+}a [-o-]c[-or-]{+intu+}r{+a +}e[-r-] [-ciclo-]s{+e+} {+esp+}a[-novu-]l{+h+}a{+ pelo +}tór[-ios-]{+ax+}, {+pes+}co[-m-]{+ço e+} {+fa+}c[-i-]{+e (+}c[-los-]{+aráter+} [-oligom-]{+asc+}en[-orr-]{+d+}e[-icos-]{+nte)+}, {+g+}e[-m -]ra[-zão d-]{+lm+}e[- p-]{+nt+}e[-rs-]{+ ma+}is{+ in+}t[-ê-]{+e+}n[-ci-]{+s+}a {+e +}f[-olicula-]r[- lo-]{+eque+}n[-ga.-]{+te+} [-A-]{+à+} [-produçã-]{+n+}o[- -]i[-rr-]{+t+}e[-gular-]{+,+} {+po+}de[- estrogê-]n[-i-]{+d+}o{+ +}s[-,-]{+er+} a[-sso-]c[-i-]{+ompanh+}ada [-à-]{+por+} {+su+}d[-i-]{+orese e ver+}m{+elh+}i[-nuiç-]{+d+}ão da p[-rog-]e[-st-]{+l+}e[-rona-] na [-f-]{+c+}a[-se lút-]{+b+}e{+ç+}a, [-p-]{+n+}o[-de-] p[-r-]{+esc+}o[-v-]{+ç+}o[-car-] [-aum-]e{+ +}n[-t-]o [-da du-]{+tó+}ra[-ção-]{+x.+} [-e-]{+O+} [-d-]{+mec+}a{+nismo+} {+f+}i[-nten-]si[-d-]{+op+}a[-de d-]{+t+}o[- f-]l[-ux-]{+ógic+}o [-men-]{+bá+}s[-trual-]{+ico+} [-(m-]en{+v+}o[-rrag-]{+lv+}i{+do n+}a[-).-]
+[-A-]s [-d-]o[-e-]n[-ç-]{+d+}as {+de +}ca{+lo+}r[-dí-]{+ p+}a{+re+}c[-as-]{+e+} {+e+}s[-ão -]{+t+}a{+r+} [-p-]r[-in-]{+ela+}ci[-p-]{+on+}a[-l-]{+do+} c[-aus-]{+om +}a [-d-]{+lib+}e[- mo-]r[-te -]a{+ção +}p[-ó-]{+ul+}s{+átil+} [-a men-]{+d+}o[-p-]{+ LH; +}a{+lg+}u{+n+}s[-a-] [-en-]{+au+}t{+o+}re[- a-]s [-mulh-]{+d+}e[-r-]{+f+}e[-s -]n[-o-]{+dem+} [-Br-]a[-sil-] {+t+}e[- n-]o[-s Estados Unidos. O est-]r[-ogên-]i[-o-]{+a+} [-proteg-]{+d+}e [-os vasos sang-]{+q+}u[-ín-]e[-os-] {+ca+}da [-f-]o[-rm-]{+nd+}a[-ção-] de [-pla-]ca[-s ate-]{+lo+}r{+ c+}o{+rre+}s[-cl-]{+pond+}er[-ót-]i[-c-]a{+ a um pul+}s{+o de LH+}, além de {+ser +}pr[-omov-]e{+cedida po+}r {+au+}me[-lh-]{+nt+}o[-ra-] d[-o p-]e{+ no+}r[-fi-]{+adrena+}l{+ina+} [-l-]{+no h+}ip[-ídi-c-]o{+tálamo,+} {+d+}e[- -]ter[- efe-]{+m+}i[-t-]{+nand+}o [-v-]a[-sodi-]l[-a-]t[-ado-]{+e+}r[-. O -]{+açõ+}es{+ na +}t{+e+}r{+m+}o{+rre+}g[-êni-]{+ulaçã+}o [-també-]{+co+}m te[-m-]{+ndência+} a[-ção-] [-r-]{+hip+}e[-du-]{+r+}t[-o-]{+e+}r{+mi+}a{+.+} [-n-]{+Outr+}os [-nív-]{+autor+}e[-i-]s [-d-]{+sug+}e[- -]re[-nina,-]{+m+} {+qu+}e[-nzima-] [-c-]o[-nv-]{+ hipo+}e{+st+}r{+ogeni+}s{+m+}o{+ p+}r{+ovoc+}a [-de -]{+v+}a[-ngi-]{+s+}o[-ten-]-{+e+}s[-in-]{+p+}a{+smos+}, [-P-s-]{+o qu+}e[-l-]{+ pod+}e[-ct-]{+r+}i[-n-]a {+alt+}e{+rar+} [-hom-]o[-c-]{+ e+}i[-s-]{+xo +}te[-ín-]{+rmorregul+}a[-. P-]{+d+}or{+.+} 
+[-t-]{+A duraçã+}o{+ média +}dos [-es-]s[-e-]{+intoma+}s [-f-]{+v+}a{+somo+}tores[-,-]{+ é+} de[-ve--]{+ 5,2 ano+}s[-e-] [-d-]{+p+}ar{+a+} {+mulh+}e[-sp-]{+r+}e[-cial-]{+s+} [-ate-]n[-ç-]ão {+usuári+}a{+s+} [-alt-]{+de T+}era[-çõ-]{+pia de R+}e{+po+}s{+ição+} [-ca-]{+Ho+}r[-di-]{+m+}o[-v-]{+n+}a[-scu-]l[-ar-]{+ (TRH) +}e{+ de 5,5 ano+}s na{+quelas+} {+sub+}me{+tidas à TRH. Deve+}-{+se ai+}n[-op-]{+d+}a[-u-]{+ e+}s{+t+}a{+r atento às demais causas de flash de calor, como feocro-mocitoma, tumor carcinoide, leucemias, tumores pancreáticos e anomalias da tireoide. Assim, mulheres na pré-menopausa que apresentam ondas de calor devem ser investigadas para doença tireoidiana e outras doenças.    +}
+
+{+b) Irregularidade menstrual+}
+{+O sangramento uterino anormal é comum durante a fase de transição menopáusica, podendo ocorrer em mais de 50% das mulheres. A irregularidade menstrual pode apresentar-se inicialmente como tendência ao encurtamento gradativo do intervalo (ciclos polimenorreicos), devido a maturação folicular acelerada (altos níveis de FSH) e consequente ovulação pre-coce (encurtamento da fase folicular). Após a fase inicial, passam a ocorrer ciclos anovulatórios, com ciclos oligomenorreicos, em razão de persistência folicular longa. A produção irregular de estrogênios, associada à diminuição da progesterona na fase lútea, pode provocar o aumento da duração e da intensidade do fluxo menstrual (menorragia).+}
+{+E o endométrio? Como o endométrio é responsivo às alterações hormonais, sofre alterações de acordo com a fase repro-dutiva da mulher:+}
+{+- Fase inicial da transição menopáusica: o endométrio reflete ciclos ovulatórios;+}
+{+- Fase final da transição menopáusica: o endométrio reflete ciclos anovulatórios, com alterações proliferativas endometri-ais, como hiperplasias e pólipos endometriais;+}
+{+- Menopausa e pós-menopausa: endométrio atrófico (endométrio <5mm).+}
+{+Essas mudanças no perfil endometrial são fundamentais para definir as causas prováveis de sangramento uterino anormal e a conduta.+}
+
+{+c) Alterações cardiovasculares+}
+{+As doenças cardiovasculares são a principal causa de morte após a menopausa entre as mulheres no Brasil e nos Estados Unidos. O estrogênio protege os vasos sanguíneos da formação de placas ateroscleróticas, além de promover melhora do perfil lipídico e ter efeito vasodilatador. O estrogênio também tem ação redutora nos níveis de renina, enzima conversora de angiotensina, P-selectina e homocisteína. Por todos esses fatores, deve-se dar especial atenção a alterações cardiovasculares na menopausa. +}
+{+O preditor mais forte de doença coronariana em mulheres é o HDL baixo (<50mg/dL). Além disso, o aumento na obesida-de centrípeta e na síndrome metabólica é outro fator de risco para doença coronariana e está relacionado ao aumento na relação androgênio–estrogênio que ocorre nas mulheres em transição menopáusica. Entretanto, o ganho de peso na meno-pausa não é um efeito das alterações hormonais, e sim da dieta, do exercício e do envelhecimento. E, por fim, as mulheres com falha ovariana prematura estão sob risco aumentado de doença cardiovascular. +}
+{+São fatores que contribuem para o risco dessa doença: +}
+{+- Idade >45 anos;+}
+{+- Dislipidemia;+}
+{+- Hipertensão arterial sistêmica;+}
+{+- Diabetes mellitus;+}
+{+- Tabagismo.+}
+
+{+Tabela 4 - Fatores agravantes do risco cardiovascular+}
+{+- História familiar de doença coronariana prematura (parente de 1º grau masculino <55 anos ou feminino <65 anos);+}
+{+- Síndrome metabólica;+}
+{+- Micro ou macroalbuminúria;+}
+{+- Insuficiência renal crônica;+}
+{+- Exame complementar com evidência de doença aterosclerótica subclínica;+}
+{+- Proteína C reativa >3mg/dL (na ausência de etiologia não aterosclerótica); +}
+{+- Exame complementar com evidência de doença aterosclerótica subclínica (escore de cálcio >100 ou percentil 75 para idade ou sexo, espessamento da carótida máximo >1mm, índice de tornozelo–braço <1,9).+}
+{+Fonte: Manual de Ginecologia e Obstetrícia SOGIMIG 2012, 5ª edição, página 450+}.{+ +}
+
+{+d) Osteopenia e osteoporose+}
+A osteoporose deve ser avaliada com frequência nessa fase, assim como os fatores de risco e as medidas preventivas. 
+Recentemente[-,-] foi provado que a diminuição dos estrogênios tem efeito significativo sobre o sistema nervoso central, co{+-+}mo dificuldade de concentração, diminuição da cognição e perda de memória recente. {+Pela+} [- -]
+[-Figu-]{+p+}r{+iv+}a{+ção+} [-1 - P-]{+est+}r[-i-]{+ogê+}n[-c-]i[-p-]{+c+}a[-is-]{+,+} [-s-]{+há o favo-rec+}i{+me+}nto[-mas-] da [-m-]{+r+}e[-nop-]a[-u-]{+bsorção ó+}s{+se+}a[-B-] [---]{+em+} [-I-]de[-n-]t{+r+}i{+mento da +}f[-ic-]{+orm+}ação{+, já+} {+qu+}e [-ra-]{+os e+}str[-e-]{+ogênios sabid+}ament[-o d-]e [-doe-]{+i+}n[-ç-]{+ibem t+}a[-s-]{+l+} [-c-]r[-ônic-]{+e+}a{+b+}s[-As p-]or[-t-]{+ção qu+}a{+n-+}do[-ras-] [-d-]e{+m+} [-insuficiê-]n[-c-]{+íve+}i[-a-]{+s+} [-c-]{+n+}or[-on-]{+m+}a[-r-]i[-ana-]{+s.+} [-prévi-]{+N+}a[-,-] [-hi-]p[-ert-]{+ós-m+}en[-sã-]o[- -]{+p+}a[-rteri-]{+us+}a[-l-], [-diabe-]{+no+}t[-e-]{+am-+}s{+e+} [-m-]el[-litus, tab-]{+ev+}a[-gism-]{+çã+}o[-,-] [-obesida-]d[-e, -]o[-u-] c{+álci+}o[-m-] [-ante-]{+séri+}c[-edente-]{+o+} [-d-]e d[-oenç-]a [-cerebrova-]s[-c-]u[-l-]a[-r ou-] [-vas-]{+ex+}c[-ula-]r[- p-]e{+ção u+}ri[-fé-]{+ná+}ri[-c-]a, a[-pr-]{+lém d+}e[-s-]{+ aum+}ent{+o d+}a[-m-] [-ris-]co{+ncentração+} p[-o-]{+lasmá+}t[-enc-]i{+c+}a[-l-] de [-de-]{+fó+}s{+foro +}e[-nv-]{+ hidroxipr+}ol[-v-]i{+na, que refletem o au+}mento {+d+}o{+ t+}u{+rnover+} de [-pior-]{+m+}a[- d-]{+ss+}a [-do-]{+óss+}e[-nç-]a{+.+} [-cardiova-]{+I+}s{+so +}cul{+min+}a[-r.-] [-A-]{+com+} p[-r-]e{+rda ó+}ss[-ão -]{+e+}a{+ p+}r[-te-]{+og+}r{+ess+}i{+v+}a[-l-]{+,+} {+qu+}e [-o -]p[-es-]o[- -]de[-vem-] ser [-af-]{+p+}er{+ceb+}id[-os em-]{+a+} [-t-]{+c+}o[-das-]{+m+} a[-s -]co{+mpa+}n[-sult-]{+h+}a[-s.-]
+[-Os-]{+mento+} p{+o+}r[-i-]{+ de+}n[-c-]{+s+}i[-pa-]{+tometr+}i{+a+}s {+óss+}e[-x-]a[-me-]s {+su+}c[-omplem-]e[-nt-]{+ssiv+}a[-re-]{+s. A+}s {+fratur+}a{+s+} {+mai+}s[-ere-]{+ co+}m{+uns+} {+ne+}s{+sa ép+}o[-li-]c[-it-]a{+ são +}dos {+corpos vertebrai+}s[-ã-]{+, d+}o [-gl-]{+rád+}i[-cem-]{+o d+}i{+st+}a{+l+} [-d-]e [-j-]{+do colo f+}e[-ju-]m[-,-]{+oral.+}
+{+A+} {+os+}te{+oporo+}s[-t-]e [-d-]{+é conh+}e{+cida+} [-t-]{+como d+}o{+ença si+}le[-râ-]nci{+os+}a{+,+} {+p+}o[-r-]{+is +}a[-l-]{+s+} {+primeir+}a{+s+} [-gl-]{+man+}i{+festações o+}co[-s-]{+rr+}e{+m+} [-(75g)-]{+após 30 a 40%+} {+d+}e [-li-]p[-i-]{+er+}d[-og-]{+a ós-sea. As fratu+}ra{+s +}ma{+is+} [-(-]co[-le-]{+mun+}s[-t-]{+ d+}e[-r-]{+c+}o[-l-]{+rrentes são quadril, punho, corpos vertebrais e fêmur. O médico que vem acompanhando a paciente nessa fase da vida deve identificar o risco e prevenir ou diminuir os efeitos deletérios do hipoestrogenismo sobre a massa óssea. +}
+
+{+Tabela 5 - Fatores de risco para osteoporose+}
+{+- Idade;+}
+{+- História familiar;+}
+{+- Tamanho dos ossos;+}
+{+- Raça branca;+}
+{+- Dieta;+}
+{+- Atividade física;+}
+{+- Álcool;+}
+{+- Tabagismo;+}
+{+- Algumas neoplasias;+}
+{+- IMC baixo e anorexia nervosa;+}
+{+- Sedentarismo.+}
+{+Observação: algumas doenças são fatores de risco para osteoporose, como mieloma múltiplo, hiperparatireoidismo, osteomalácia, doenças reumatológicas, gastrectomia, anemia perniciosa.+}
+
+{+Tabela 6 - Medicamentos que podem causar osteoporose+}
+{+Medicamentos com risco bem definido+}
+{+- Corticoide;+}
+{+- Anticonvulsivante (principalmente a fenitoína e o fenobarbital);+}
+{+- Heparina (principalmente a heparina não fracionada);+}
+{+- Micofenolato;+}
+{+- Tacrolimo;+}
+{+- Ciclosporina;+}
+{+- Tiroxina;+}
+{+- Medroxiprogesterona de depósito;+}
+{+- Tamoxifeno;+}
+{+- Inibidores da aromatase nas mulheres na pós-menopausa;+}
+{+- Agonista de GnRH;+}
+{+- Pioglitazona e rosiglitazona.+}
+{+Medicamentos com risco possível+}
+{+- Lítio;+}
+{+- Antipsicótico;+}
+{+- Inibidores seletivos da receptação de serotonina;+}
+{+- Topiramato;+}
+{+- Inibidores da bomba de prótons.+}
+
+
+{+ +}
+{+Figura 2 - Principais sintomas da menopausa+}
+
+{+C - Identificação e rastreamento de doenças crônicas+}
+{+As portadoras de insuficiência+} [-t-]{+c+}o[-t-]{+ron+}a[-l e f-]r{+ian+}a[-ções,-] [-t-]{+p+}r{+év+}i[-gl-]{+a, h+}i[-cé-]{+pe+}r[-id-]{+t+}e{+n+}s[-).-]{+ão+} [-P-]ar{+teri+}a{+l,+} [-o r-]{+di+}a[-s-]{+be+}t[-r-]e[-a-]{+s +}me[-n-]{+lli+}t[-o-]{+us+}, {+t+}a[- per-]{+bag+}i{+sm+}o[-dic-]{+, obes+}idade{+,+} [-é an-]{+o+}u[-al. Em-] c[-as-]o{+m+} {+antece+}de[- al-]{+n+}te[-raçõ-]{+ d+}e[-s,-] {+doenç+}a [-p-]{+cer+}e{+brova+}s[-q-]{+c+}u[-isa -]la[-bo-]r[-at-]{+ +}o[-ri-]{+u v+}a{+scu+}l{+ar+} {+perif+}é{+rica,+} {+ap+}re[-p-]{+s+}e{+n+}t[-id-]a[- co-]m [-ma-]{+r+}i{+sc+}o[-r-] [-fr-]{+pot+}e[-quê-]ncia{+l+} [-para-]{+de+} [-a-]{+desen+}v[-a-]{+o+}l{+v+}i[-ar-]{+mento+} [-a-]{+ou+} [-r-]{+d+}e[-s-]{+ +}p{+i+}o[-st-]{+r+}a [-às medi-]da[-s-] [-t-]{+do+}e[-rapêutic-]{+nç+}a[-s-] {+c+}a{+r+}d{+i+}o[-tad-]{+v+}as{+cular+}.{+ +}O [-Minist-]{+m+}é[-r-]{+d+}i{+c+}o d{+eve est+}a{+r+} [-S-]a[-úd-]{+t+}e{+nto+} [-rec-]{+às d+}o[-m-]en[-d-]{+ç+}a{+s+} [-t-]{+c+}a[-mbém pesqu-]{+rd+}i{+ova+}s{+cul+}a[- d-]{+r+}e{+s,+} di{+abete+}s[-fu-]{+, doe+}nç[-ão-]{+a+} tireoidiana[-,-] {+e osteo+}po{+-+}r[- mei-]o{+se. A+} {+prope+}d{+êutic+}a d[-o-]{+e exame+}s{+ +}a[-g-]{+ ser+}em [-r-]{+s+}o[-t-]{+l+}i[-ne-]{+c+}i[-r-]{+t+}a{+dos+} de [-h-]{+ac+}or{+do co+}m[-ô-ni-]{+ +}o [-est-]{+M+}i[-mula-]n{+is+}t[-e-]{+ério+} da [-tireoi-]{+Saú+}de [-(TSH).-]
+[-Sã-]{+enc+}o[- fu-]n[-d-]{+tr+}am{+-s+}e[-nt-]{+ +}a[-i-]{+ +}s{+eguir. +} 
+
+a[-s-]{+)+} [-or-]{+Aval+}i[-ent-]aç[-ões-]{+ão+} d{+o r+}i[-etética-]s[- e -]co[-m-] {+pa+}r[-el-]a[-ção-] [-a-]os[- hábi-]t{+eopor+}os[- d-]e[- vida.-]
+
+{+Importante+}
+{+Têm maior risco de osteoporose pacientes com baixa estatura, menor peso e etnia ocidental, antecedente familiar de osteoporose, ingestão excessiva de álcool ou de cafeína, hábito tabagista, sedentarismo, uso de medicação anticonvulsivante e antiácida e de hormônios tireoidianos, além de portarem outros agravos sistêmicos, como insuficiência renal crônica, diabetes, síndrome de má absorção intestinal, hiperparatireoidismo, hipertireoidismo, gastrectomia e anastomoses intestinais.+}
+
+{+O melhor método diagnóstico de osteoporose é a densitometria óssea de coluna vertebral e fêmur. Os resultados são comparados com a curva de distribuição da população normal de mesma idade e de adultos jovens e expressos em escore T (desvio-padrão em que a massa óssea medida em um determinado indivíduo difere da média da massa óssea de um indivíduo jovem).  +}
+
+{+Tabela 7 - Diagnóstico de osteoporose/osteopenia na densitometria óssea+}
+{+Valores de escore T	Diagnóstico+}
+{+> -1	Normal+}
+{+Entre -1 e -2,5	Osteopenia+}
+{+= -2,5	Osteoporose+}
+{+= -2,5 e fratura atraumática	Osteoporose estabelecida+}
+
+{+O raio x simples da coluna dorsal e lombar pode detectar osteoporose na fase tardia, com perda de 30 a 40% de massa ós-sea. Os principais sinais radiológicos são redução da densidade óssea, acentuação das corticais dos corpos vertebrais e altera-ções das formas dos corpos vertebrais. +}
+
+{+Tabela 8 - Quem deve fazer densitometria óssea?  +}
+{+I	Mulheres =65 anos+}
+{+II	Homens =70 anos+}
+{+III	- Na presença de fatores de risco:+}
+{+  · Mulheres na pós-menopausa;+}
+{+  · Homens com idade entre 50 e 69 anos.+}
+{+IV	Mulheres na perimenopausa, em caso de fatores de risco específicos associados a risco aumentado de fratura, como baixo peso corpóreo, fratura prévia por pequeno trauma ou uso de medicamento(s) de risco bem definido+}
+{+V	Adultos que sofrem fratura após os 50 anos+}
+{+VI	Indivíduos com anormalidades vertebrais radiológicas+}
+{+VII	Adultos com condições associadas a baixa massa óssea ou perda óssea, como artrite reumatoide ou uso de glicocorti-coides na dose de prednisona 5mg/d ou equivalente por período igual ou superior a 3 meses+}
+
+{+Tabela 9 - Quem deve fazer densitometria óssea pela SOGIMIG/FEBRASGO+}
+{+- Fratura com trauma de baixo impacto;+}
+{+- IMC <21kg/m2;+}
+{+- História familiar de osteoporose;+}
+{+- Tabagista;+}
+{+- Doenças que prejudicam a mineralização ou aumentam a perda de massa óssea: amenorreia secundária, anorexia ou bulimia, excesso de exercício físico, síndrome de má absorção, hiperparatireoidismo primário, insuficiência renal crônica;  +}
+{+- Terapia crônica com drogas que sabidamente causem perda de massa óssea: corticosteroide, ciclosporina, heparina, tiroxina, ago-nista de GnRH. +}
+
+{+Tabela 10 - Indicação de pesquisa de osteoporose segundo a North American Menopause Society, 2014+}
+{+- Mulheres >65 anos;+}
+{+- Mulheres com pós-menopausa <65 anos: +}
+{+· Com fratura prévia por trauma mínimo (por exemplo, queda da própria altura);+}
+{+· Fator de risco para fraturas;+}
+{+· Baixo IMC;+}
+{+· História familiar de osteoporose;+}
+{+· Tabagismo;+}
+{+· Excesso de álcool;+}
+{+· Uso de medicações que causem osteoporose. +}
+
+{+b) Avaliação de tireoidopatia+}
+
+C{+aso o TSH realizado de rotina esteja alterado, deve-se seguir a propedêutica com a solicitação de T4 livre e T3. Deve-se estar atento ao hipotireoidismo após 50 anos, devido à elevada prevalência da doença nessa faixa etária. Na ocorrência de menopausa precoce, devido à associação de tireoidites com amenorreia, deve-se solicitar investigação mais detalhada, inclu-indo anti-TPO e antitireoglobulina (anti-TG). O Ministério da Saúde não preconiza TSH de rotina no acompanhamento das pacientes no climatério/menopausa.+}
+
+{+D+} - Rastreamento de câncer
+Os sítios dos principais tumores malignos que acometem essa faixa etária são mama, colo e corpo do útero, ovários e có-lon. 
+
+a) Mama
+Realiza-se rastreamento por meio de mamografia (MMG) periódica, que deve ser solicitada a cada 2 anos entre 50 e 69 anos, segundo as diretrizes recentes do Ministério da Saúde{+ 2016+}. 
+
+[-P-]{+Tabela 11 - Fatores de risco para câncer de mama +}
+{+- Envelhecimento (idade >50 anos);+}
+{+- 1ª gravidez >30 anos;+}
+{+- Tabaco;+}
+{+- Exposição a radiação ionizante;+}
+{+- Menopausa tardia (>55 anos);+}
+{+- Menarca precoce (<12 anos);+}
+{+- História pregressa de câncer de mama;+}
+{+- Excesso de peso;+}
+{+- TRH (estrogênio-progesterona);+}
+{+- Nuliparidade;+}
+{+- História familiar de câncer de mama (parente de 1º grau);+}
+{+- Sedentarismo;+}
+{+- Uso de álcool.+}
+
+{+A ultrassonografia (USG) de mama é realizada de forma complementar à MMG em situações específicas, como mamas dens+}a{+s e diferen+}ci{+ação +}ent{+re lesões císticas +}e{+ sólidas, não +}s{+endo utilizada+} com{+o método de+} {+r+}a[-l-]{+s+}t{+rei+}o {+de cânce+}r{+ de mama. O Min+}is[-c-]{+téri+}o [-p-]{+d+}a[-r-]{+ S+}a{+úde+} {+d+}es[-sa n-]e{+nc+}o[-pl-]{+r+}a[-si-]{+j+}a [-p-]o{+ ensino +}d{+o auto+}e{+xa+}m{+e+} [-inici-]{+de mam+}a[-r-] {+n+}o rastreamento{+;+} [-c-]{+pel+}o[-m-] M[-MG-]{+inistério+} {+d+}a [-p-]{+S+}a{+úde 2004, o +}r{+as-+}t{+re+}i{+o e+}r{+a+} {+realiza+}do[-s 40-] an[-os.-]{+ualmente+} [-São-]{+para+} [-c-]{+t+}o[-nsi-]d{+as as mulh+}er[-ado-]{+e+}s [-f-]a{+ par+}t[-o-]{+i+}r[-es-] de {+35 +}a[-lt-]{+n+}o{+s+} {+po+}r{+ me+}i[-sc-]o[-:-]
+[-L-]{+ d+}e[-são-] [-m-]{+ex+}am[-ária-]{+e+} [-pro-]{+c+}l{+ín+}i[-ferativa -]co[-m-] [-atipi-]{+d+}a [-(co-]m[-prov-]a[-d-]{+m+}a {+e +}por [-biópsia);-]
+[-Par-]{+MMG +}ent{+r+}e [-d-]{+50 +}e [-1º-]{+69+} [-gr-]a[-u (mãe-]{+nos+}, [-ir-]{+co+}m[-ã-] o[-u-] [-f-]{+máx+}i[-lha) co-]m[- câncer-]{+o+} de [-mama-]{+2+} an{+os en+}t{+r+}e[-s-] [-d-]os [-50 -]{+ex+}a[-no-]{+me+}s[-;-]
+[-P-]{+. O ex+}a[-r-]{+m+}e{+ clí+}n[-te-]{+ico+} [-d-]e [-1º-]{+a MMG+} [-gr-]a{+n+}u{+al+} [-c-]{+sã+}o[-m câncer-] de[- ovár-]{+st+}i{+nad+}o{+s+} [-ou-]{+a+} {+to+}d[-e m-]a[-m-]{+s +}a{+s+} [-bi-]{+mu-+}l[-at-]{+h+}er[-al;-]
+[-Hi-]{+e+}s[-tória-] [-fa-]{+co+}m{+ r+}i{+sco e+}l[-i-]{+ev+}a[-r-]{+do+} de câncer de mama[- masculino-].{+  +}
+
+Dica
+ O Ministério da Saúde alterou as diretrizes para o rastreamento do câncer de mama em 201[-4-]{+5 e o manteve no protocolo de Atenção Básica à Saúde da Mulher 2016+}: a recomendação oficial é iniciar aos 50 anos com um exame a cada 2 anos até os 69 anos.
+
+b) Colo do útero
+Promove-se rastreamento pelo exame citopatológico do colo uterino periódico, que pode ser complementad[-a-]{+o+} por col-poscopia com biópsia dirigida quando necessário. Em caso de atrofia importante, deve-se utilizar estrogenoterapia tópica previamente à coleta, para evitar desconforto excessivo e comprometimento da qualidade do exame. 
+[-A id-]{+Qu+}a[-de -]l{+ é o +}i[-mi-]{+n+}te[- pa-]r{+v+}a{+lo de+} coleta d[-a-]{+o+} colpocito[-l-]{+pat+}o{+ló+}gi{+co?+}
+{+- Os 2 primeiros exames devem ser realiz+}a{+dos+} {+c+}o{+m i+}n[-có-]t[-ic-]{+erv+}a{+lo anual,+} {+e,+} se[-g-]{+ ambos os res+}u[-n-]{+lta+}do{+s forem+} {+neg+}a{+tivos, o+}s [-d-]{+próx+}i{+-mos deve+}r{+ão s+}e[-t-]r{+ real+}iz[-e-]{+ado+}s {+a ca+}d{+a 3 an+}o{+s;  +}
+{+- O+} [-M-]in[-is-]t[-é-]{+e+}r[-i-]{+val+}o [-d-]{+entre +}a{+s+} [-S-]{+colet+}a[-ú-]{+s varia +}de [-é-]{+acordo+} [-64-]{+com o risco+} {+da p+}a{+cie+}n[-o-]{+te em de+}s[-.-]{+envolver o câncer de colo de útero.+}
+{+Qual é a idade de avaliar a suspensão da coleta do colpocitopatológico?+}
+{+- Segundo as diretrizes do Ministério da Saúde, a idade é de 64 anos.+}
+{+Quando se deve suspender o colpocitopatológico em mulheres acima de 64 anos, de acordo com o Ministério da Saúde 2016? +}
+{+- Para mulheres sem história prévia de doença neoplásica pré-invasiva + 2 exames ou mais negativos consecutivos nos úl-timos 5 anos; +}
+{+- Mulheres com mais de 64 anos e que nunca se submeteram ao exame citopatológico devem fazer 2 exames com inter-valo de 1 a 3 anos. Caso ambos os exames sejam negativos, essas mulheres podem ser dispensadas de exames adicionais. +}
+
+c) Corpo uterino
+A pesquisa pode ser realizada por [-ultrassonografia-]{+USG+} transvaginal (USG[- -]TV) e colpocitologia oncótica periódicas (não [-se -]deve [-t-]{+hav+}er a pre{+-+}sença de células endometriais na citologia; quando presentes, sugerem descamação de um endométrio ativo, o que não é esperado nessa faixa etária). Na USG[- -]TV, utiliza-se a medida do eco endometrial, <4mm na pós-menopausa e <8mm em caso de terapia hormonal. Valores maiores indicam prosseguimento da investigação, geralmente por meio de histeroscopia. O rastre{+-+}amento não tem eficácia na redução da mortalidade. [-Dessa forma, o-]{+O+} Ministério da Saúde [-não -]recomenda USG[- -]TV {+em caso +}de {+sang+}r{+ament+}o{+ u+}t{+e-r+}in{+o anorm+}a{+l+} para [-este-]{+a+} [-f-]{+aval+}i[-m.-]{+ação+} [-A-]{+de lesõe+}s [-pri-]{+e+}n[-c-]{+dometr+}i[-p-]ais{+/corpo+} {+uter+}in[-dic-]{+o. +}
+
+{+T+}a[-çõ-]{+b+}e[-s p-]{+l+}a{+ 12 - Ult+}ra[- pesqui-]s[-a -]s[-ã-]o[- -]{+n+}o[-s-]{+grafia+} [-s-]{+tr+}an{+sva+}g[-r-]{+in+}a{+l, +}m[-en-]{+é+}to[-s-]{+do+} [-irr-]{+d+}e[-gul-]{+ im+}a[-r-]{+gem de +}es{+colha+} [-(-]par{+a inves+}ti[-cul-]{+g+}a[-rme-]{+ção diag+}n{+ós+}t[-e-]{+ica+} [-o-]{+de+} sangramento [-pós-m-]{+ut+}e{+ri+}no[-p-]{+ +}a[-u-]{+normal+}
+{+Estagio reprodutivo da mulher	Resultado da USG transvaginal	Consulta+}
+{+Pós-menopausa 	Endométrio <5mm sem TRH	Sem biópsia de endométrio+}
+{+	Endométrio =5mm sem TRH	Biópsia de endométrio +}
+{+	Endométrio >8mm com TRH	Biópsia de endométrio+}
+{+Perimenopausa	Endométrio <5mm 	Sem biópsia de endométrio+}
+{+	Endométrio 5 a 12mm	Sem biópsia de endométrio+}
+{+	Endométrio 5 a 12mm + exposição de longa duração a estrogênio sem oposi-ção da progesterona (anovulação)	Biópsia de endométrio +}
+{+	Endométrio >12mm	Biópsia de endométrio +}
+
+{+A biópsia de endométrio pode ser feita por histeroscopia, curetagem diagnóstica (sucção ou cureta) ou trocarte plástico de Pipelle. O sangramento pós-menopáusico sempre deve ser cuidadosamente avaliado. A principal causa de sangramento uterino anormal na transição menopáusica e na pós-menopausa são anovulação e atrofia de endométrio, respectivamente. A hiperplasia endometrial e o carcinoma de endométrio são mais comuns na fase de transição menopáusica por ciclos anovula-tórios. +}
+
+{+Tabela 13 - Outras causas de sangramento uterino anormal na transição menopáusica e na pós-menopausa+}
+{+Transição menopáusica	Pós-menopausa+}
+{+Anovulação (mais comum)	Atrofia de endométrio (mais comum)+}
+{+Gestação	Atrofia vaginal+}
+{+Pólipo endometrial	Hiperplasia de endométrio (15%)+}
+{+Hiperplasia endometrial 	Pólipo endometrial (3%)+}
+{+Câncer de endométrio	TRH+}
+{+Miomatose uterina (volumosa ou submuco+}sa){+	Infecções+}
+{+Infecções	Lesões+} {+d+}e [-a-]{+colo+}
+{+Lesões de colo		Câncer+} {+de endométrio+}
+{+Al+}tera[-p-]{+ções de tireo+}i{+de	--+}
+{+Sangramento de esc+}a{+pe com o uso de+} horm{+ôni+}o{+s exóge+}n{+os	--+}
+
+{+Lembr+}a[-l -]{+nd+}o[-u-] qu[-alqu-]e[-r-] [-me-]{+to+}d{+o pól+}i[-caçã-]{+p+}o [-c-]{+end+}om{+etrial+} {+d+}e[-f-]{+ve ser r+}e[-i-]t{+irad+}o{+.+} {+O m+}e[-st-]{+lho+}r{+ mét+}o{+do dia+}g[-ê-]n{+óst+}ico [-(USG-]{+para+} [-TV-]{+lesões de+} {+c+}a[-n-]{+vidade +}u{+terina é a histeroscopi+}a[-l)-]. {+ +}
+
+d) Ovários
+O rastreamento também não é recomendado pelo Ministério da Saúde. O volume médio dos ovários reduz de 8 a 9cm3, na menacma, para 2 a 3cm3 alguns anos após a menopausa. Alguns autores defendem a USG[- -]TV periódica avaliando os anexos, {+enquanto +}outros aconselham seguir também com marcadores tumorais (CA-125, antígeno carcinoembrionário, alfafetoprote{+-+}ína). Po[---]rém, tais métodos não são eficazes e apresentam pouco impacto na prevenção secundária. Por isso, não está indicada USG[- -]TV de rotina para rastreamento de câncer de ovário em mulheres assintomáticas.
+
+e) Cólon
+Não se trata de um tumor ginecológico, mas, por sua alta prevalência, também deve ser objeto de rastreamento. Sugere-se a Pesquisa de Sangue Oculto (PSO) nas fezes anualmente a partir dos 50 anos e, em casos positivos, colonoscopia. Alguns recomendam associar PSO anual [-com-]{+a+} colonoscopia a cada 5 anos, pela sua maior sensibilidade.
+
+[-D - Avaliação do risco para osteoporose-]
+[-Pela-]{+4.+} [-privaçã-]{+R+}o[- es-]t[-rogênica, há o favorec-]i[-me-]n[-to d-]a {+p+}r[-eabsorçã-]o[- óssea em detrim-]{+p+}e[-nto -]d[-a formação, já que os estrog-]ê[-nios sa-bidamente inibem tal reabsorção quando em níveis normais. Na pós-menopa-]u[-sa, no-]t[-am-se elevação do cálcio sér-]ic[-o e da su-]a [-excreção urin-]{+b+}á[-ria, além de aumento da concentração pla-]s[-mát-]ica[- de fósforo e hidroxiprolina, que refletem o aumento do turnover de massa óssea. Isso culmina com perda óssea progressiva, que pode ser percebida com acompanhamento por den-sitometrias ósseas sucessivas. As fraturas mais comuns nessa época são dos corpos vertebrais, do rádio distal e do colo femo-ral.-]
+[-O médico que vem acompanhando a paciente nessa fase da vida deve identificar o risco e prevenir ou diminuir os efeitos deletérios do hipoestrogenismo sobre a massa óssea. -]
+
+[-Im-]{+A +}p[-o-]r[-tant-]e[-Têm-]{+ssão+} [-m-]a[-io-]r[- -]{+te+}ri[-sco-]{+al+} [-d-]e o[-steoporose-] p[-acient-]es[- c-]o[-m baixa-] {+dev+}e[-statura, -]m{+ s+}e[-no-]r [-p-]{+af+}e[-s-]{+rid+}o{+s+} e{+m+} [-e-]t[-ni-]{+od+}a{+s as+} [-o-]c[-ide-]{+o+}n{+sul+}ta[-l,-]{+s.+} {+Ex+}a[-ntec-]{+m+}e{+ +}de[-nte-] [-f-]{+m+}am[-ili-]a[-r-] [-de-]{+na 1ª+} {+c+}o{+n+}s{+ul+}t[-e-op-]{+a é +}o{+b+}r[-ose, -]i[-n-]g[-es-]{+a+}t[-ã-]{+óri+}o{+.+} 
+[-e-]{+E+}x[-cessiv-]a[- d-]{+m+}e{+s+} [-á-]l[-cool ou de c-]a[-feína, há-]b[-it-]o[- t-]{+r+}a[-b-]{+tori+}a[-g-]is[-ta,-] [-sede-]n[-tarism-]{+ã+}o[-,-] [-u-]s[-o de medicaç-]ão {+obrig+}a[-n-]t{+ór+}i[-c-]o[-nvul-]s[-ivante e-]{+,+} {+m+}a[-ntiácida-]{+s+} {+d+}e{+vem+} [-d-]{+s+}e{+r+} [-h-]{+c+}o[-rmô-]n[-io-]s[- tireo-]id[-i-]{+er+}a[-n-]{+d+}os[-, além-] [-d-]e{+m+} p[-ort-]a[-r-]{+ci+}e[-m ou-]{+n+}t[-ros agravo-]{+e+}s [-sistêmi-]co[-s,-]{+m+} como[- insuficiência -]r[-enal crôn-]{+b+}i[-ca, -]d[-i-]a[-be-t-]{+d+}es[-,-] [-sí-]{+e qua+}nd[-r-]o[-m-]{+ s+}e de[- má ab-]{+-+}s[-orção int-]e[-stin-]{+j+}a[-l,-] [-hip-]e[-rparatireoidi-]s[-m-]{+c+}o[-, -]{+l+}h[-ip-]er[-tireoidismo,-] [-g-]a[-strectom-]{+ v+}ia {+d+}e a[-nasto-]{+d+}m[-oses -]in[-te-]{+i+}st[-in-]{+r+}a[-is-]{+ção da TRH+}. 
+
+[-O diagnóstico de osteoporose pode ser feito por densitometria óssea com raio x de dupla energia fotônica. Na análise, considera-se o Desvio-Padrão (DP), sendo até -1DP, normal; entre -1 e -2,5DP, osteopenia; e maior que -2,5DP, osteoporose. Toma-se como referência a densidade mineral óssea média do pico de massa óssea em adultos jovens (escore T).-]
+[- -]
+[-Tabela 3 - Indicação de pesquisa de osteoporose segundo a North American Menopause Society-]
+[-- Mulheres >65 anos;-]
+[-- Mulheres na pós-menopausa, independente da idade, com fratura prévia por trauma mínimo (por exemplo, queda da própria altura) ou com causas de perda óssea;-]
+[-- Mulheres >50 anos e na pós-menopausa, com fatores de risco:-]
+[-· Fratura pós-menopausa – exceto de crânio, ossos da face, tornozelo e dedos; -]
+[-· Peso <57,7kg ou IMC <21kg/m2; -]
+[-· História familiar de fratura de quadril; -]
+[-· Tabagismo atual; -]
+[-· Artrite reumatoide; -]
+[-· Ingestão alcoólica >2 doses/dia (1 dose equivale a 360mL de cerveja, 120mL de vinho ou 30mL de licor).-]
+
+[-Tabela 4 - Recomendação da densitometria óssea pela diretriz sobre diagnóstico e tratamento da osteoporose (2011) do Institute for Clinical Systems Improvement-]
+[-- Fratura prévia por trauma mínimo (por exemplo, queda da própria altura);-]
+[-- Uso prolongado (=3 meses) de corticoides (dose equivalente a >5mg/d de prednisona);-]
+[-- Evidências radiológicas de osteopenia ou de fraturas vertebrais;-]
+[-- Mulheres >65 anos;-]
+[-- Mulheres na pós-menopausa <65 anos, com fatores de risco associados ou cuja menopausa (natural ou cirúrgica) ocorreu antes dos 45 anos;-]
+[-- Mulheres na pré-menopausa com amenorreia hipoestrogênica por mais de 1 ano;-]
+[-- Imobilidade prolongada (>1 ano);-]
+[-- Cirurgia bariátrica;-]
+[-- Doenças crônicas associadas a perda óssea, como síndrome de Cushing, hipogonadismo, hiperprolactinemia, hipertireoidismo, hiper-paratireoidismo primário, acromegalia, diabetes tipo 1, espondilite anquilosante, artrite juvenil, artrite reumatoide, lúpus eritematoso sistêmico, cirrose biliar primária, doença celíaca, doença inflamatória intestinal (particularmente Crohn), gastrectomia, bypass ou res-secção intestinal, anemia perniciosa, insuficiência renal, deficiência de vitamina D, abuso de álcool, anorexia nervosa, bulimia, doença de Parkinson, doença pulmonar obstrutiva crônica, tratamento de endometriose, epidermólise bolhosa, hemofilia, hemocromatose, dieta vegana, intolerância a lactose;-]
+[-- Medicações associadas a perda óssea, como anticonvulsivantes (fenitoína, fenob-]{+T+}a[-r-]b[-ital), uso pro-]{+e+}l[-ong-]a[-do de-] [-glicocorticoides,-]{+14+} [-heparina-]{+-+} [-intr-]{+Ex+}a[-v-]{+m+}e[-no-]s[-a,-] [-u-]s[-o prolongado de varfarina, -]u{+b+}s[-o crôn-]i[-co -]d[-e ant-]iá[-c-]{+r+}i[-d-]os [-à b-]{+n+}a[-se de-] a{+va+}l[-umínio, in-]i[-bidores d-]a[- b-]{+çã+}o[-mba-] d[-e prótons, metotrex-]a[-to,-] {+p+}ac[-etato de medrox-]i[-prog-]e[-s-]{+n+}te[-rona,-] [-a-]n[-ál-]o[-gos de GnRH,-] {+cl+}i[-nib-]{+matér+}i[-d-]o
+[-res-]{+-+} [-se-]{+G+}l{+ic+}e[-t-]{+m+}i[-vos-]{+a+} de [-r-]{+j+}e[-ca-]{+jum;+}
+{+- Li+}p[-t-]{+idogram+}a{+;+}
+{+- Fun+}ção [-da se-]r[-otoni-]{+e+}na{+l+};
+- [-Pa-]{+Colpo+}ci[-en-]t[-es <65 an-]o[-s, c-]{+pat+}o[-m r-]{+lóg+}i[-s-]co [-de f-]{+(ob+}r{+ig+}at[-u-]{+ó+}r[-a-]{+io);+}
+{+-+} {+H+}em[- 10 -]{+ogram+}a{+;+}
+{+- Fu+}n{+çã+}o[-s >9,3%,-] {+hepáti+}ca[-l-]{+;+}
+{+- MMG a +}c[-ul-]ad[-o-]{+a+} [-sem-]{+2+} {+an+}o{+s+} [-val-]{+(+}o{+b+}r[- d-]{+igatóri+}a{+);+}
+{+-+} [-de-]{+USG tra+}ns[-id-]{+v+}a[-de m-]{+g+}in[-er-]al{+,+} [-ó-]s[-sea p-]e[-lo FRAX® tool-] [-(-]{+h+}o[- cálc-]u[-lo pode s-]{+v+}er [-realizado ne-]s[-te e-]{+a+}n[-de-]{+g+}r{+am+}e[-ç-]{+nt+}o[-:-] [-www.shef.ac.-]u[-k/FRAX/tool.jsp?loca-]t{+er+}i{+n+}o{+ a+}n[-V-]{+orm+}al[-ue=2)-].
+
+[-4-]{+São fundamentais as orientações dietéticas e com relação aos hábitos de vida.+}
+
+{+Tabela 15 - Indicação dos exames subsidiários na rotina básica de atendimento à paciente no climatério de acordo com o Ministério da Saúde e FEBRASGO+}
+{+	Ministério da Saúde – 2016	SOGIMIG (FEBRASGO)+}
+{+MMG	Sim, a cada 2 anos	Sim +}
+{+Colpocitopatológico	Sim	Sim+}
+{+USG transvaginal	Em caso de sangramento	Sim – vigilância endometrial e de lesão ovariana+}
+{+Densitometria óssea	Sim, de acordo com as indicações a seguir	Sim, de acordo com as indicações a seguir+}
+{+Hemograma	Avaliação	Avaliação+}
+{+Lipidograma	Avaliação	Sim; se alterado, repetição em 3 a 6 meses para avaliação de tratamento+}
+{+Glicemia de jejum	Avaliação	Sim+}
+{+Função renal	Avaliação	Avaliação+}
+{+Função hepática	Avaliação	Avaliação+}
+{+TSH	Não	Sim; avaliação de doença tireoidiana+}
+
+{+Tabela 16 - Lipidograma normal/desejável+}
+{+Colesterol total	<200mg/dL+}
+{+Colesterol HDL	>50mg/dL+}
+{+Colesterol LDL	<100mg/dL+}
+{+Colesterol VLDL	<30mg/dL+}
+{+Triglicérides	<150mg/dL+}
+
+{+Tabela 17 - Intervalo das consultas, pelo Ministério da Saúde+}
+{+Avaliação inicial	- História clínica e exame físico;+}
+{+- Atenção às comorbidades;+}
+{+- Exame de mama;+}
+{+- Pressão arterial;+}
+{+- MMG se último exame há mais de 1 ano;+}
+{+- Citopatológico do colo uterino;+}
+{+- USG transvaginal, em caso de sangramento uterino anormal;+}
+{+- Avaliação de hemograma, glicemia, lipidograma e funções hepática e renal. +}
+{+De 2 a 3 meses	- Reavaliação da adesão ao tratamento e os efeitos adversos;+}
+{+- Observação de padrão de sangramento menstrual;+}
+{+- Aferição da pressão arterial e do peso+}.
+{+6 meses	- Reavaliação da adesão ao tratamento e os efeitos adversos;+}
+{+- Observação do padrão de sangramento menstrual;+}
+{+- Aferição da pressão arterial e do peso;+}
+{+- Repetição dos exames+} [-R-]{+lab+}o{+ra+}t{+oria+}i{+s, conforme a +}n{+ecessidade d+}a p{+aciente.+}
+{+Anual	- Obse+}r{+vaçã+}o{+ do +}p[-e-]{+adrão +}d[-ê-]{+e sangramento menstr+}u{+al;+}
+{+- Aferição da pressão arterial e do peso;+}
+{+- Repe+}ti[-c-]{+ção dos ex+}a{+mes+} {+la+}b[-á-]{+oratoriais, conforme a necessidade da paciente;+}
+{+- Exame de mama;+}
+{+- MMG anual, enquanto a mulher estiver em u+}s{+o de terap+}i{+a hormonal; se não houver TRH, fazer a +}ca{+da 2 anos. +}
+
+[-Anamnese e exame físico completo (incluindo avaliação de peso e pressão arterial);-]
+[-Exames laboratoriais: glicemia de jejum, teste de tolerância oral a glicose (75g), colesterol total e frações, triglicérides e TSH;-]
+[-Exames complementares: MMG, CP, USG TV, PSO, colonoscopia.-]
+No caso de alterações nos exames solicitados, a investigação deve ser complementada.
+
+5. Tratamento 
+@@ -153,11 +369,12 @@ No caso de altera
+O tratamento visa à remissão dos principais sintomas referidos, além da prevenção de eventos mórbidos e da melhora da qualidade de vida.
+
+A - Orientações dietéticas
+A cada década ocorre redução em cerca de 25% das necessidades energéticas. Além disso, na pós-menopausa, as altera-ções hormonais levam a perda de massa muscular e óssea. Com tudo isso, aumenta o risco de obesidade e de doenças associ-adas, como dislipidemia, diabetes e doenças cardiovasculares. Assim, o controle de peso faz parte da rotina de atendimento no climatério, assim como as orientações dietéticas e com relação aos hábitos de vida. 
+Deve-se estimular o consumo de vege[---]tais verdes, frutas, leite desnatado, queijos brancos, carnes mais magras e aves sem pele{+. Ainda nesse sentido+}, {+deve-se incentivar +}a{+ exposição so+}l[-é-]{+ar, se+}m {+fotoproteção, por pelo menos 15 minutos, +}d{+iariam+}e[-:-]
+[-C-]{+nte, antes das 10 ou após as 16 horas. A suplementação de c+}álcio[-:-] [-1.000-]{+e vitamina D só estará recomendada se não houver+} a{+porte die-tético e/ou exposição solar:+}
+{+Cálcio:+} 1.[-5-]{+2+}00mg/d. Fontes: derivados d[-o-]{+e+} leite, folhas verdes, sardinha. Evitar alimentos que diminuam a sua absor[---]ção, co{+-+}mo cafeína, bebidas alcoólicas, refrigerantes, excesso de proteínas, fibras e sódio. Os suplementos de cálcio de[---]vem ser administrados após as refeições, sendo náusea, dispepsia e constipação intestinal os principais efeitos colaterais;
+Vitamina D: [-ingestão -]de [-4-]{+8+}00 a [-8-]{+1.0+}00[-UI-]{+mg+}/d. Fontes: derivados do leite, margarinas, óleos de peixe. Pode ser de origem vegetal (D2 – ergocalciferol) ou animal (D3 – colecalciferol). Seu papel na forma biologicamente ativa, após a 1ª conversão hepá[---]tica em 25-hidroxivitamina D e a 2ª conversão renal em 1,25-diidroxivitamina D, é incrementar a absorção intestinal de cálcio en{+-+}tre 30 e 40%, e a de fósforo, em 80%.
+
+Tabela [-5-]{+18+} - Condições da concentração sérica de vitamina D
+Condições	Concentração de 25-hidroxivitamina D
+Desejável	No mínimo, 30ng/mL
+Insuficiente	Entre 20 e 30ng/mL
+@@ -166,23 +383,27 @@ Deficiente	<20ng/mL
+B - Orientações com relação aos hábitos de vida
+Bebidas alcoólicas (fator de risco para osteoporose): diminuir o consumo e evitar o abuso;
+Tabagismo (fator de risco para infarto, por aumento do colesterol LDL e da agregação plaquetária, e para osteoporose): diminuir ou, preferencialmente, cessar;
+Atividade física: reduz o risco de doenças crônicas, câncer de cólon e osteoporose. Além disso, o fortalecimento da massa muscular melhora a coordenação, o equilíbrio e a resistência, reduzindo o risco de quedas e fraturas. As mais indicadas são caminhadas, natação e hidroginástica: as primeiras devem ser de, no mínimo, 30 a 45 minutos, sem interrupções, de 5 a 7 vezes por semana. É importante lembrar que alguns estudos sugerem que as caminhadas não estimulam a minerali[---]za{+-+}ção óssea, sendo os exercícios com resistência (musculação) mais eficazes nesse quesito.
+
+C - Terapia hormonal
+[-De 1940 até 2002, foram desenvolvidas várias pesquisas e uma série de medicamentos contendo estrogênios com ou sem progesterona para a reposição dos hormônios faltantes. Diversos estudos foram feitos avaliando riscos e benefícios da Tera-pêutica de Reposição Hormonal (TRH). Até então, acreditava-se que a TRH promovia proteção contra doenças cardiovascula-res (por melhorar o perfil lipídico) e prevenia a osteoporose e o desenvolvimento de doenças neurológicas, como Alzheimer. -]
+Em 2002, realizou-se grande estudo prospectivo nos Estados Unidos, o WHI (Women’s Health Initiative), que apontou au-mento da incidência de câncer de mama nas usuárias de TRH e aumento dos eventos cardiovasculares. Há uma série de vie-ses, principalmente a faixa etária avaliada (média superior a 60 anos), o tempo de início da TRH pós-menopausa e característi-cas próprias prévias, como índice de massa corpórea, pressão arterial etc. Mesmo assim, após a publicação do estudo, ocor-reu uma mudança nas indicações do tratamento, que ficaram restritas ao dos sintomas vasomotores, com o objetivo de me-lhorar a qualidade de vida. A diretriz atual da Federação Brasileira das Associações de Ginecologia e Obstetrícia e da Associa-ção Médica Brasileira é bastante clara: “a TRH é eficaz no tratamento dos sintomas neurovegetativos, neuroendócrinos e urogenitais. Assim, define-se que, quando houver sintomas, haverá indicação para o uso de TRH, pelo menos por curto perío-do; no entanto, esta não deverá ser prescrita na existência de alguma contraindicação ou se a paciente, apesar de adequa-damente informada, optar por não usá-la. Assim, a TRH será individualizada, com base em comum acordo entre o médico e a paciente, em conformidade com os riscos e benefícios particulares da mulher”.
+{+De acordo com o Consenso Brasileiro da FEBRASGO 2014, as indicações para TRH sistêmica são:+}
+{+- O tratamento com TRH deve ser feito apenas em mulheres com menos de 60 anos com menos de 10 anos de menopau-sa. Deve-se optar pela menor dose efetiva e pelo menor período de tempo necessário. Sempre avaliar se há contraindica-ções à realização de TRH. E o tratamento deve ser individualizado;+}
+{+- O tratamento dos sintomas vasomotores intensos e moderados permanece como indicação primária da TRH, sendo o mais efetivo para esse sintoma;   +}
+{+- A TRH ou o estrogênio local podem melhorar a satisfação sexual devido à redução da dispareunia e ao aumento da lubri-ficação vaginal. A terapia hormonal com tibolona ou com estrogênio associado a metiltestosterona sistêmico apresenta melhora na função sexual (desejo e orgasmo); +}
+{+- A TRH é eficaz na prevenção de perda óssea associada à menopausa. Com a descontinuação do tratamento, o efeito pro-tetor regride rapidamente. A TRH é efetiva e apropriada para prevenir fraturas osteoporóticas em mulheres na pós-menopausa;+}
+{+- A TRH melhora a qualidade de vida da paciente sintomática, visto que alivia sintomas de desordem do sono, humor e função sexual;+}
+{+- Os sintomas urogenitais respondem à TRH sistêmica. Entretanto, se o objetivo for tratar apenas esses sintomas, deve-se optar pelo estrogênio vaginal (ajuda na falta de lubrificação e dispareunia), cursando com menos efeitos colaterais. O es-trogênio vaginal pode, ainda, apresentar benefícios sobre os sintomas de urgência urinária, bexiga hiperativa e redução de infecção de trato urinário. +}
+Para o tratamento das demais condições, devem ser usadas medicações específicas, como as estatinas para hipercoleste-rolemia, alendronato[-s-] ou risedronato[-s-] para osteoporose e antidepressivos para transtornos do humor.{+ +}Conforme discutido, há diversos benefícios na melhoria da qualidade de vida da mulher. 
+
+Tratamento
+Algumas condições são consideradas indicações de terapia de reposição hormonal, como síndrome do climatério com sin[---]tomas pronunciados, prevenção e manutenção da saúde sexual e mental (doença de Alzheimer), da atrofia urogenital e tegumentar, da osteoporose e, discutivelmente, prevenção primária dos distúrbios coronarianos.[- -]
+
+[-Obviamente, também conforme já mencionado na discussão do estudo WHI, algumas das indicações clássicas são, atual-mente, motivo de grande controvérsia e dependem da análise cuidadosa do caso.-]
+Os esquemas de TRH podem ser cíclicos ou contínuos. Nos primeiros, a paciente continua a menstruar. Esse esquema é preferido na pré-menopausa quando há irregularidade menstrual. Os esquemas contínuos são indicados principalmente após a menopausa, ou em mulheres que tenham miomas, endometriose, ou não desejam menstruar.
+A via de administração pode ser oral, transdérmica, intramuscular, intrauterina, intranasal e vaginal. Dá-se sempre prefe-rência aos estrogênios naturais, com menor potencial de desencadear fenômenos tromboembólicos e de alterar o perfil lipídico (estrogênios equinos conjugados, 17-betaestradiol, estrona, valerato de estradiol e benzoato de estradiol); e é o tra-tamento de escolha para sintomas vegetativos.
+A via vaginal está indicada para a melhora dos sintomas da atrofia urogenital e tem a vantagem de ter muito pouco ou ne-nhum efeito sistêmico.
+
+Tabela [-6-]{+19+} - Principais estrogênios utilizados na terapia hormonal
+Valerato de estradiol	1 a 2mg/d
+Estradiol micronizado	1 a 2mg/d
+Estrogênios conjugados	0,3 a 0,625mg/d
+@@ -192,13 +413,13 @@ Estrog
+Estriol creme vaginal	1 a 2mg/d (2 a 3x/sem)
+Promestrieno	10mg/d (2 a 3x/sem)
+
+Tema {+frequente +}de prova
+A indicação de progestogênios na terapia hormonal é um tema frequente nas provas de Residência Médica.
+
+Quando a paciente apresenta útero funcionante, é fundamental a associação de progestogênios em esquema contínuo ou intermitente para a proteção endometrial. 
+Para histerectomizadas, preconiza-se TRH com estrogênios exclusivos. A função da progesterona nos esquemas de TRH é[-,-] exclusivamente[-,-] evitar a hiperplasia ou mesmo o câncer do endométrio. Pode ser ofertada de maneira contínua ou cíclica ({+de +}10 a 14 dias por mês).
+
+Tabela [-7-]{+20+} - Principais progestogênios utilizados na terapia hormonal
+Acetato de medroxiprogesterona	2,5 a 10mg/d (dependendo do esquema)
+Acetato de noretisterona	1 a 2,5mg/d
+Acetato de ciproterona	1 a 2mg/d
+@@ -207,9 +428,35 @@ Acetato de noretisterona adesivo	0,15 a 0,25mg/d
+Levonorgestrel	0,25mg/d cíclico
+Progesterona gel	20 a 90mg/d
+
+[-As-]{+Tabela+} [-c-]{+21 - C+}ontraindicações {+à terapia de reposição hormonal +}
+{+Ministério da S+}a{+úde – 2016+}
+{+A+}bsolutas
+{+- Câncer+} {+d+}e[-s-]{+ mama;+}
+{+- Câncer de endométrio;+}
+{+- Doença hepática grave;+}
+{+- Sangramento geni+}t{+al n+}ão {+esc+}l{+arecido;+}
+{+- H+}ist{+ória de tromboembolismo +}a{+gu+}d{+o e recorrente;+}
+{+- Porfiria.+}
+{+Relativ+}as
+{+-+} {+Hiperte+}n[-a-]s{+ão+} [-T-]a[-b-]{+rt+}e{+rial não contro+}la{+da;+}
+{+- Diabetes mellitu+}s [-8-]{+não controlado;+}
+{+- Endometriose;+}
+{+-+} {+Miomatos+}e [-9-]{+uterina.+}
+{+FEBRASGO – 2014+}
+{+Absolutas+}
+{+- Lesão precursora de câncer de mama;+}
+{+- Câncer de mama;+}
+{+- Câncer de endométrio;+}
+{+- Doença hepática descompensada;+}
+{+- Sangramento vaginal de causa desconhecida;+}
+{+- Doença tromboembólica e trombótica;+}
+{+- Porfiria.+}
+{+Relativas+}
+{+- Doença coronariana e cerebrovascular;+}
+{+- Lúpus eritematoso sistêmico;+}
+{+- Meningioma – apenas para o progestogênio+}.
+
+Tabela [-8-]{+22+} - Contraindicações absolutas à terapia hormonal, segundo a European Menopause and Andropause Society
+- Sangramento vaginal de origem desconhecida;
+- Doença hepática aguda ou crônica;
+- Trombose venosa profunda aguda;
+@@ -220,21 +467,27 @@ Tabela 8 - Contraindica
+- Doença isquêmica cerebral ou cardíaca recente;
+- Hipertensão arterial grave sem controle.
+
+[-Tabela 9 - Contraindicações absolutas à terapia hormonal, segundo o Ministério da Saúde-]
+[-- Câncer de mama;-]
+[-- Câncer de endométrio;-]
+[-- Doença hepática grave;-]
+[-- Sangramento vaginal não diagnosticado;-]
+[-- História de eventos tromboembólicos;-]
+[-- Porfiria.-]
+
+Dica 
+Devem-se fixar as contraindicações formais à terapia hormonal de acordo com as novas diretrizes do Ministério da Saúde, atentando-se para a{+s outras+} Tabela[- 9-]{+s+}.
+
+[-Doenç-]{+Qu+}a[- coro-]n{+to +}a{+os +}ri[-ana,-]{+scos+} [-hip-]e[-rt-]{+ b+}en[-sã-]{+efíci+}o{+s da+} a[-r-]{+dminis+}t[-e-]r[-i-]a[-l,-]{+ção+} d[-i-]a{+ TRH:+}
+{+- So+}b[-ete-]{+ o ri+}s[-,-]{+co+} ca[-l-]{+rdiovas+}cul{+ar: +}o{+bservam-+}se b{+enefíc+}i[-liar,-]{+os+} [-mi-]{+quand+}o[-m-]{+ +}a [-e-]{+TRH+} [-e-]{+é i+}n{+icia+}d{+a prec+}o{+ce+}me{+n+}t[-rios-]e{+, na+} {+tran+}s{+iç+}ão [-c-]{+menopausal +}o{+u +}n{+o+}s{+ pr+}i[-d-]{+m+}e{+i+}r[-ad-]os [-com-]{+an+}o{+s+} [-con-]{+de pós+}-[-trai-]{+me+}n[-dic-]{+op+}a[-çõe-]{+u+}s{+a+} [-r-]{+(jan+}ela{+ de opor+}t{+un+}i[-v-]{+d+}a[-s-]{+de)+}. [-Qu-]{+Há +}a{+ume+}nto [-a-]{+d+}o[-s-] risco[-s da-] {+c+}a{+r+}d[-m-]i[-n-]{+ovascular em mulheres com muitos anos de menopausa. Não se deve administrar TRH em mulheres saudáveis e assintomáticas a fim de reduzir o risco cardiovascular. A TRH realizada em pacientes com doença cardiovascular prévia aumentou o risco de novos eventos car-diovasculares no 1º ano de uso;  +}
+{+- Colesterol: os estrogênios administrados por via oral ou não oral parecem reduzir os níveis de colesterol total e coleste-rol LDL; +}
+{+- Hipertensão: estrogênios endógenos e exógenos podem estimular a síntese hepática de angiotensina, com aumento da aldosterona e consequente retenção de sódio e água, seguidos de aumento pressórico em mulheres com predisposição a hipertensão arterial. A didrogesterona e a drospirenona têm efeito antimineralocorticoide, antagonizando o efeito de re-tenção de sódio promovido por estrogênios, especialmente em hipertensas. Quando administrados por via não oral, os es-trogênios não aparecem ter os mesmos efeitos sobre a ativação da renina–angiotensina–aldosterona, sendo mais reco-mendáveis a pacientes hipertensas; +}
+{+- Diabetes mellitus tipo 2: o TRH reduz o risco de novos casos. Há, também, redução da obesidade abdominal, resistência a insulina, redução de lipídios e lipoproteínas;   +}
+{+- Síndrome metabólica: deve-se ter cautela na administração de TRH em pacientes com síndrome metabólica e dar prefe-rência à via transdérmica; +}
+{+- Tromboembolismo venoso: seu risco eleva-se em usuárias de TRH, particularmente entre aquelas que utilizam estrogê-nio pela via oral; +}
+{+- Câncer: +}
+{+· O risco de câncer de mama associado à TRH é pequeno (1/1.000 mulheres). O tipo de progesterona utilizada na TRH, provavelmente, tem associação ao desenvolvimento de câncer. Há aumento no risco após 5 anos de TRH. A terapia com apenas estrogênio, combinada ou por tibolona está contraindicada àquelas com antecedentes pessoais de câncer de mama, e a segurança do esquema terapêutico está diretamente relacionada à dose de hormôn+}i{+os empregada, ressaltan-do que deve ser sempre a menor neces+}s{+ária para o con+}tr{+ole d+}a[-çã-]{+ sintomatologia; +}
+{+· Há aumento de risc+}o d{+e meningiom+}a{+s em mulheres em+} TRH{+ combinada+}, [-já-]{+devido ao+} e[-x-]{+fe+}i{+to da proge+}ste{+rona;+}
+{+· A TRH combinada contínua reduz o risco de câncer de endo+}m{+étrio, e a terapia+} co{+mbi+}n{+ada +}se{+quencial +}n[-s-]{+ã+}o[-s.-] [-Estuda-s-]e{+leva+} o risco{+.+} {+Entret+}a[-ss-]{+nt+}o{+, a TRH é +}c{+ontraind+}i{+c+}ad[-o-]{+a+} {+àquel+}a[-o-]{+s+} c[-ân-ce-]{+om histó+}r{+ia+} de [-mama, -]câncer de [-út-]e{+ndomét+}r{+i+}o{+;+} 
+[-e-]{+·+} [-ganho-]{+A+} [-de-]{+TRH+} [-pes-]{+nã+}o[-.-]
+[-Após-] {+a+}um{+ent+}a [-sé-]{+o +}ri[-e-]{+sco+} de {+cânc+}e[-stu-]{+r +}d[-os-]{+e+} o[-bser-]v[-ac-]{+ár+}io[-nais-], {+ex+}c[-oncluiu-s-]e{+to+} [-q-]{+o s+}u[-e,-]{+btipo+} e{+ndo+}m[- t-]e{+t+}r[-m-]{+i+}o[-s -]{+i+}de{+;+}
+{+·+} [-risc-]{+A TRH nã+}o [-p-]a{+lte+}ra [-o-]{+a incidência de+} câncer de [-mama,  o-]co[-rre-]{+lo+} [-aum-]{+d+}e[-n-]{+ ú+}t{+er+}o{+;+} [-após-] 
+[-o-]{+·+} [-uso-]{+A TRH+} co[-nsecutivo -]{+mbina+}d[-e-]{+a+} [-TRH-]{+tem+} [-p-]{+efeit+}o[-r-] p[-e-]r[-í-]o[-d-]{+tet+}o{+r+} s[-uperi-]o{+b+}r{+e+} a [-5 a-]{+i+}n[-os. A segura-]{+cidê+}n[-ç-]{+ci+}a d[-o esqu-]e[-ma-] [-t-]{+cânc+}er[-apêuti-]{+ +}co[- está di-]{+lor+}reta[-mente-]{+l; +}
+{+· A TRH é+} relaci[---]onada [-à d-]{+a+}o[-s-]{+ cânc+}e{+r+} de [-h-]{+mama e a+}o[-r-]{+s +}m[-ô-]{+e+}ni{+ngi+}o{+ma+}s [-e-]{+(co+}m[-preg-]{+bin+}ada[-,-]{+);+} 
+{+· Os cânce+}res[-sal-]{+ que con+}t{+r+}a{+i+}nd{+icam +}o [-q-]u[-e-]{+so+} de[-ve-] [-ser-]{+TRH+} s[-empre a men-]{+ã+}o[-r-] [-d-]os[-e-] [-nec-]{+d+}e[-ssária-] [-p-]{+m+}a[-r-]{+m+}a{+,+} [-o co-]{+e+}n{+domé+}tr{+i+}o[-le-] [-da-]{+e+} [-s-]{+men+}in[-t-]{+gi+}o[---]ma[-tol-]{+s (se TRH c+}o[-g-]{+mb+}i{+n+}a{+da)+}.{+  +}
+Consegue-se prevenir o câncer de endométrio com a adição de progesterona ao esquema de TRH, conforme já foi discu-tido. A adição de progestogênios na forma contínua está indicada àquelas com antecedente de endometriose, adenomiose, miomatose ou àquelas que não desejam mais o sangramento cíclico.
+Por fim, com relação ao ganho de peso, houve muita polêmica sem nenhuma conclusão. Pelas próprias alterações meta-bólicas do climatério, há favorecimento ao ganho de peso; a comparação entre o ganho de peso de usuárias de TRH e não usuárias não mostrou diferenças estatisticamente significa[-n-]t[-e-]{+iva+}s. Logo, não se deve atribuir o aumento ponderal à TRH.
+
+D - Moduladores seletivos dos receptores estrogênicos
+Compreendem o raloxifeno e o tamoxifeno. Dependendo do tecido, sua ação é estrogênica ou antiestrogênica. Não têm ação sobre os sintomas vasomotores.
+@@ -251,20 +504,24 @@ Todas as medidas que visem a um h
+A - Fitoestrogênios
+Quanto ao emprego dos fitoestrogênios (estrogênios derivados de plantas), diversos esforços têm sido realizados para a avaliação de sua real importância na pós-menopausa e de seus benefícios. Sabe-se que têm a capacidade de agir como anties-trogênios na pré-menopausa (por competição com os altos níveis de estrogênios endógenos) e como estrogênios na pós-menopausa, porém com atividade mais fraca que os endógenos. Dada a sua potência farmacológica inferior à de compostos com estrogênios de TRH clássica, as doses necessárias para o controle dos sintomas da síndrome do climatério com os fitoes-trogênios são elevadas, o que torna difícil seu emprego quando a sintomatologia é muito intensa. As pesquisas com tal classe de fitoterápicos são recentes, e muitos outros estudos são necessários para que haja uma conclusão definitiva.
+Alguns exemplos são:
+{+- +}Isoflavonas de soja (grão de soja){+: reduz fogachos, perda de massa óssea, colesterol total. A ação é estrogênica-símile+};{+ +}
+{+- +}C[-o-]{+imicif+}u{+ga: +}me{+lhora fogachos, distúrbios do +}s{+ono, cefaleia, al+}t{+erações do humor n+}a{+ perime+}no{+pau+}s{+a;+}
+{+-+} [-(b-]{+T+}r{+ev+}o{+ vermelho: a ação é es+}t{+r+}o{+gênica-símile;+}
+{+-+} {+Hipérico: está indicado a casos leves a mo+}de{+rados+} {+de depre+}s{+sã+}o[-j-]{+ não endógen+}a[-)-];
+[-L-]{+- Valer+}i[-gn-]an{+a: tem efeit+}o[-s-] [-(-]se{+dativo, co+}m{+ alívio da ansiedade e insônia; +}
+{+- Melissa: apres+}ent{+a alívio de ansiedade, insônia e algumas desord+}e{+ns+} d{+ig+}e{+stivas, como+} {+có+}li{+cas intesti+}n[-h-]a[-ç-]{+is, flatulência, dis-pepsi+}a[-)-].{+    +}
+Após a ingesta, ocorrem conversões enzimáticas e metabólicas complexas no trato digestivo, resultando em fenóis hete-rocíclicos com grande similaridade com a estrutura dos estrogênios.
+A potência biológica é variável. Embora os fitoestrogênios exerçam menor efeito {+do +}que o estradiol nos receptores estro{+-+}gê[---]nicos, alguns são capazes de gerar respostas estrogênicas da mesma magnitude que as concentrações fisiológicas de estra{+-+}diol, sem os efeitos mitogênicos na mama e no endométrio[- (Clair, 1998)-].{+ +}
+Os fitoestrogênios nos vasos teriam ações semelhantes [-a-]{+às d+}os estrogênios naturais: melhorariam o perfil lipoproteico e teri[---]am diversos efeitos favoráveis nos vasos[- (Fonseca e colaboradores, 1999)-].{+ +}
+
+Importante
+[-Até o momento, todos -]{+N+}os e{+n+}s[-tud-]{+ai+}os [-dup-]{+c+}l[-o--]{+íni+}c[-eg-]o{+s+} randomizados [-bem conduzidos -]com [-os -]fitoestrogênios{+, em que as+} {+pacie+}n[-ã-]{+tes f+}o{+ram+} {+cega+}d{+as, não houv+}e{+ +}m{+elh+}o[-n-]{+ra e+}st[-r-]a[-r-]{+tisti-c+}am{+ente+} [-su-]{+com+}p[-e-]r[-i-]o[-rid-]{+v+}ad[-e-]{+a+} em relação ao placebo{+.+} {+Porta+}n{+t+}o[-s-]{+,+} [-si-]n[-t-]{+ã+}o[-mas-] {+há evidên+}c[-l-]i[-m-]a{+ cien+}t[-ér-]{+íf+}ic{+a que justifique +}o{+ +}s{+eu uso+}.
+
+B - Tratamento dos sintomas vasomotores e psíquicos
+Para mulheres com contraindicação ou intolerância a terapia hormonal, ou para as que não desejam tratamento hormo-nal, pode-se prescrever uma série de drogas, como dopaminérgicos, antidepressivos, sedativos, vasomotores ou substâncias com ação no eixo hipotalâmico-hipofisário, a fim de aliviar esses sintomas. {+A principal terapia farmacológica não hormonal para sintomas vasomotores são inibidores seletivos da recaptação de serotonina, norepinefrina e gabapentina. Paroxetina e fluoxetina não devem ser utilizadas em usuárias de tamoxifeno, pela possibilidade de interferirem negativamente em seu efeito no tratamento do câncer de mama. Outras medicações com ação vasoativa são cinarizina, clonidina e propranolol. +}
+Os sintomas depressivos, em especial, não consti[---]tuem por si só indicação de terapia hormonal, e, nesse caso, podem-se utilizar as medicações antidepressivas.{+ Antidopaminérgicos, como sulpirida, domperidona e veraliprida melhoram os sintomas de alteração de humor.  +}
+
+Tabela [-10-]{+23+} - Principais compostos utilizados para {+o +}tratamento de sintomas vasomotores
+Fármacos	Classes de medicamentos	Doses
+Sulpirida	Antidopaminérgico	100mg/d
+Propranolol	Vasoativo	80 a 120mg/d
+@@ -277,10 +534,13 @@ Gabapentina	Anticonvulsivante	900mg/d
+Ciclofenila	Atuação direta no eixo hipotalâmico-hipofisário	400mg/d
+
+C - Tratamento da osteoporose
+{+- Para pacientes com risco de desenvolver osteoporose: medidas de intervenção para prevenção;+}
+{+- Para pacientes com osteopenia: tratamento para prevenção de perda óssea;+}
+{+- Para pacientes com osteoporose: medidas não medicamentosas e medicamentosas;+}
+
+Pergunta
+2015 - UNAERP
+2. Uma mulher de 50 anos, histerectomizada há 1 ano, apresenta sintomas como fogachos, déficit de memória e adina[---]mia. Sua mãe, de 70 anos, fraturou recentemente o quadril, e uma prima de 2º grau tem câncer de mama. A paciente está preocupada com osteoporose e pergunta de que forma esta pode ser evitada. Uma densitometria óssea realizada há 3 anos, quando ainda menstruava, mostrava valores abaixo da faixa etária esperada. Qual destas medidas será mais útil à paciente?
+a) iniciar programa de exercício com atividade de impacto
+b) orientar a ingestão de cálcio para 1.500mg/d e de vitamina D 800UI/d, além de sol e exercício físico
+c) orientar a ingestão de cálcio para 1.500mg/d e vitamina D 400UI/d e monitorizar por meio de densitometria óssea para iniciar droga antirreabsortiva se necessário 
+@@ -288,14 +548,24 @@ d) orientar a ingest
+e) orientar a ingestão de cálcio para 1.000mg/d e vitamina D para 200UI/d e associar droga antirreabsortiva
+Resposta no final do capítulo
+
+[-Pode-]{+-+} {+E+}s{+tímulo a di+}e[-r-]{+ta+} {+a+}de{+quada;+}
+{+-+} {+Ex+}p[-r-]o[-f-]{+s+}i{+ção so+}la[-xia primá-]r[-i-]{+ d+}a [-(s-]{+fac+}e[-m-]{+,+} [-os-]t[-eopo-]ro[-se) -]{+nc+}o[-u-] [-s-]e[-cundária-] [-(p-]{+b+}r[-even-]{+a+}ç[-ã-]o{+s+} [-de fr-]a{+n+}t[-ur-]{+es d+}as {+10 +}e[-m-] {+a+}p{+ós +}a[-ciente-]s [-com-]{+16+} {+h+}o{+ra+}s[-teo-]{+ +}por[-ose).-]
+[-Em-] {+15 minu+}to[-da-]s [-as-]{+ou+} [-p-]{+m+}a[-c-]i[-ente-]s, de{+ 2 a 4 +}ve[-m-se -]{+z+}es[-timula-]{+ po+}r [-di-]{+s+}e[-t-]{+-m+}a[-, -]{+n+}a{+;+}
+{+- A+}tividade física{+;+}
+{+-+} [-e s-]{+S+}uspensão do tabagismo[-.-] [-Prin-]{+e ál+}c[-ipa-]{+oo+}l[-mente-]{+;+}
+{+-+} {+M+}e[-ntre -]{+did+}as pa[-ci--]{+ra prev+}en[-t-]{+ir qu+}e{+da+}s [-com-]{+e+} [-ost-]{+m+}e[-op-]{+lh+}or[-ose,-]{+a+} [-de-]{+para a visão;+}
+{+- Cálcio de 1.200 a 1.500mg/d VO; +}
+{+- Vitamina D 800 a 1.000UI/d para adultos com 50 anos ou mais. A reposição de vitamina D, quando em níveis insuficiente (<30ng/mL) ou deficiente (<20ng/mL), é fundamental, pois garante a absorção intestinal do cálcio.+}
+{+Quanto ao tratamento para osteoporose:+}
+{+- Medidas supracitadas;+}
+{+- Bisfosfonatos orais – 1ª linha (único), alendronato de sódio (10mg/d ou de 70mg/sem) ou risedronato (5mg/d ou 150mg em dose única mensal). Para evitar o risco de ulceração de esôfago, o indivíduo de+}ve[-m--]{+ permanecer +}se[- -]{+nt+}ado[-tar-] [-m-]{+ou +}e[-didas-]{+m+} p[-ara-]{+é+} p[-reveni-]{+o+}r [-qued-]a[-s-]{+té+} [-e-]{+30+} m[-elh-]{+inut+}o[-ra-]{+s+} [-par-]a{+pós+} a [-v-]i{+nge+}s{+t+}ão[-.-]{+ do medicamento;+}
+{+- +}Na ausência de contraindicações, sabe-se que a prescrição de terapia hormonal tem alto impacto na prevenção da oste[-o-]-{+o+}porose, assim como o uso de tibolona. [-Em-]{+A+} [-cas-]{+d+}os{+e é+} {+individualiza+}d{+a p+}e{+lo+} {+men+}o[-s-]{+r +}te[-o-]{+m+}po[-r-]{+ p+}os{+sível +}e {+é adm+}in{+i+}st[-al-]{+r+}ada[-, a-] [-1ª-]{+em+} {+mulhe-r+}es{+ +}co[-lha-]{+m+} s[-ão -]{+int+}o{+ma+}s [-bi-]{+va+}s[-f-]o[-sf-]{+m+}o[-na-]to{+re+}s[-.-] [-Exi-]{+e o+}ste[-m vá-]{+opo+}r[-i-]os{+e+} {+co+}n{+c+}o[- -]m[-erc-]{+it+}a[-do-]{+nte+}. [-O al-]{+M+}e[-n-]d[-ron-]{+ic+}a[-t-]{+çã+}o de [-sódio,-]{+2ª+} {+li+}n{+h+}a{+;+}
+{+-+} [-d-]{+Ral+}o[-s-]{+xif+}e{+no+} {+– modula+}d{+or sel+}e{+tivo+} [-10mg/-]d{+o+} {+recept+}o[-u-]{+r+} de [-70mg/s-]e[-m, é -]{+str+}o[- ma-]{+gên+}i[-s-]{+o,+} utilizado[-.-] [-O-]{+para+} {+o t+}r[-is-]{+atam+}e[-dro-]n[-a-]to[-,-] [-na-]{+de+} [-p-]os{+te+}o[-l-]{+p+}o[-gia d-]{+ros+}e [-5mg/d-]{+na+} {+pós-men+}o{+pa+}u{+sa.+} [-150-]{+Au+}m[-g -]e[-m-]{+nta+} [-d-]o[-se-] [-ún-]{+r+}i{+s+}c[-a-]{+o+} [-m-]{+d+}e[-nsal,-] t[-a-]{+ro+}mb[-ém p-]o[-d-]e[- -]{+mboli+}s{+mo +}e[-r-] [-admi-]{+co+}n[-i-]st[-rado.-]
+[-A-]{+itui+} [-ad-]m{+ed+}i[-nistr-]{+c+}ação {+de 2ª l+}i[-s-]{+nha n+}o[-l-]{+ tr+}a[-d-]{+t+}a{+mento+} d{+a osteoporos+}e{+;+}
+{+- A+} c[-á-]{+a+}lci{+t+}o{+nina,+} [-(1.000 -]{+n+}a [-1.500mg/-]d[-) -]o[-u-]{+se+} de [-vitamina D (4-]{+1+}00 a [-8-]{+2+}00UI/d[-)-]{+, nasal+} [-nã-]o{+u+} {+subcu+}t{+ân+}e[-m-]{+a,+} [-ef-]i[-các-]{+n+}i{+be +}a [-c-]{+reabs+}o[-mp-]r{+çã+}o[-vada-] [-n-]{+ósse+}a [-pr-]e[-v-]{+ t+}e[-nção-]{+m+} {+efeit+}o[-u-] no [-tratame-]{+co+}nt{+r+}o[-,-]{+le+} [-m-]{+d+}a[-s-] {+dor ós+}se{+a. A+} {+d+}r[-e-]{+oga +}co[-m-]{+nstitui alt+}e{+r+}n[-d-]a[- -]{+tiv+}a [-su-]a p[-r-]{+acient+}es{+ com +}c{+ont+}r{+aind+}i{+ca+}ção [-n-]a[- men-]o[-pau-]s[-a. A-] [-rep-]{+bif+}os[-içã-]{+f+}o[- de vitami-]na[- D, quand-]{+t+}o{+s,+} [-em-]{+TRH+} [-ní-v-]e[-is-] {+ralox+}i[-nsu-]f[-ici-]en[-te-]{+o,+} [-(<30ng/-]{+alé+}m[-L) ou-] de[-fici-]{+ s+}e[-nt-]{+r d+}e [-(<-]2[-0ng/mL), é-]{+ª+} [-fundame-]{+li+}n[-t-]{+h+}a[-l,-]{+;+}
+{+- O+} p[-ois g-]ara[-n-]t[-e a abs-]or[-ção i-]{+mô+}n[-test-]i[-nal d-]o{+,+} [-cálci-]o[-.-]
+[-A-]{+u+} [-calc-]{+ter+}i{+para+}t[-on-]i[-n-]{+d+}a, na dose [-100 a-]{+de+} 20[-0UI-]{+mg+}/d[-, nasal-] [-ou-]{+SC,+} {+e+}s[-ubcu-]t[-ânea, in-]i[-be -]{+mul+}a [-re-]a[-bs-]{+ f+}or{+ma+}ção óssea{+,+} [-e-]{+além+} [-t-]{+d+}e[-m-] {+s+}e[-f-]{+r d+}e{+ 2ª l+}i{+nha.+}
+{+- Ou+}t{+ras +}o{+pções+} [-n-]{+sã+}o {+á+}c{+id+}o[-ntr-]{+ z+}ole[- da -]d[-o-]r{+ônico,+} [-ós-s-]{+ran+}e{+l+}a[-. O PTH -]{+t+}o[-u-] [-t-]{+de +}e{+st+}r{+ônc+}i[-p-]{+o, ib+}a{+nd+}r{+on+}at[-ida,-]{+o e+} {+de+}n{+osum+}a{+be –+} {+to+}dos[-e-] de 2[-0mg/d,-]{+ª+} [-subcutâ-]{+li+}n[-eo,-]{+ha.+} 
+
+{+R+}es[-tim-]u[-la a for-]m[-açã-]o[- óssea.-]
+
+[-7. Resumo-]
+[-	-]
+Quadro-resumo
+Climatério	É a transição da fase reprodutiva (menacma) para a não reprodutiva, que pode iniciar-se aos 35 anos e durar até os 65 anos.
+Menopausa	É a última menstruação.
+@@ -310,27 +580,22 @@ Sintomas tardios	- Relacionados ao hipoestrogenismo:
+	- Doença cardiovascular;
+	- Alterações cognitivas;
+	- Osteoporose.
+Exames indicados na avaliação inicial 	- C[-P-]{+olpocitopatológico+};
+	- MMG;
+	- USG[- -]TV;
+	- Glicemia de jejum;
+	- Colesterol total e frações;
+	- Triglicérides;
+	- TSH{+; não recomendado pelo Ministério da Saúde como rotina+}.
+Exames a cada 2 a 5 anos	[-Re-]{+Av+}ali[-z-]a[-m--]{+r a neces+}s{+idade d+}e densitometria [-óss-]{+(vide indicaçõ+}e{+s +}a{+nteriores)+} e colonoscopia.
+Exames complementares para diagnóstico (não obrigatórios) 	- USG mamária;
+	- Ressonância magnética das mamas;
+	- Colposcopia.
+Tratamento da síndrome clima[---]térica	- Medicamentoso (hormonal/fitoterápico/não hormonal);
+	- Medidas higienodietéticas (controle de peso, exercícios físicos etc.);
+	- Tratamento de sintomas vasomotores ou psíquicos;
+	- Tratamento da osteoporose.
+
+Respostas{+ das questões do capítulo+}
+1. B
+2. D[-Dica-]
+[-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.-]
+[-Questões: página XX-]
+[-Comentários: página XX -]
