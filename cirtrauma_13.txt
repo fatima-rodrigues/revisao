@@ -1,107 +1,767 @@
 Trauma de face
-André Oliveira Paggiaro 
+	André Oliveira Paggiaro
+Fábio Del Claro
+Ivan Dunshee de Abranches Oliveira Santos Filho
 Eduardo Bertolli
 
-Resumo
-Neste capítulo, serão abordados aspectos relacionados ao trauma de face, envolvendo as principais lesões e suas repercus-sões, como fraturas de órbita e fraturas de nariz, que apresentam risco de formação de hematoma septal e abscesso, fratu-ras de maxila associadas a via aérea precoce e fraturas de mandíbula. O assunto completa-se com o capítulo de vias aéreas, uma vez que o trauma de face se associa, na grande maioria dos casos, à necessidade de via aérea precoce. 
+Neste capítulo, será abordado o trauma de face. Ainda que esse assunto já esteja presente no material de Cirurgia do Trauma, aqui ele é abordado com um enfoque maior na anatomia e em condutas mais específicas, que acabam sendo co-bradas em diversos concursos médicos. Deve-se lembrar sempre que qualquer politraumatizado deve ser atendido segun-do os preceitos do ATLS® (Advanced Trauma Life Support – ABCDE) e que o tratamento das lesões da face, na maioria dos casos, pode ser postergado até a estabilização do quadro clínico do paciente (até 24 horas não compromete o resultado final). As lesões podem ser divididas em fechadas (contusão, distensão muscular e fratura) e abertas (abrasão, laceração, avulsão e ferimentos incisivos). O tratamento dos pacientes com trauma facial envolve manutenção de vias aéreas, identifi-cação de lesões ocultas (traumas oculares, cranioencefálicos e de coluna cervical) e sangramentos. Nas fraturas de órbita, a síndrome da fissura orbital superior tem grande chance de estar presente nas questões de prova e envolve oftalmoplegia, dormência e lesão do III par craniano (oculomotor).
 
-1. Introdução 
+1. Introdução
 
-A face é um segmento corpóreo de grande importância por representar a identidade e a individualidade das pessoas. Tra-ta-se da principal unidade estética do corpo, e a sua localização é bastante suscetível a traumas.
-O trauma de face tem incidência elevada, e a sua principal etiologia são os acidentes automobilísticos, que podem repre-sentar até 80% dos casos. Requer uma abordagem multidisciplinar e especializada para garantir um atendimento adequado e minimizar as sequelas funcionais e estéticas.
+O trauma de face é um problema multidisciplinar que exige a cooperação entre o cirurgião do trauma, o neurocirurgião, o oftalmologista, o anestesista e o cirurgião plástico para que sejam alcançados os melhores resultados possíveis. Apesar de as lesões faciais parecerem impressionantes, raramente causam risco imediato à vida. Desta forma, os traumas abdominais, torácicos e neurológicos têm prioridade (ABCDE). 
 
-2. Avaliação inicial
+2. Anatomia da face
+ 
+A - Ossos
 
-O atendimento segue a padronização do Advanced Trauma Life Support (ATLS®). Muitas vezes, a via aérea pode estar comprometida por sangramento, corpos estranhos ou fraturas. A intubação traqueal pode ser difícil nesses casos, e, por ve-zes, a via aérea definitiva só é obtida por meio de cricotireoidostomia. A proteção à coluna cervical é indispensável, pelo risco de lesão associada.
+ 
+Figura 1 - Ossos da face
 
-Quadro clínico
-A avaliação da face pode sugerir lesões neurológicas. Lesões de grande impacto, com exposição ou crepitação da calota craniana, devem, obrigatoriamente, ser avaliadas por neurocirurgião. Equimose periorbital, equimose do mastoide e saída de sangue ou liquor pelo ouvido indicam trauma da base do crânio. Durante o exame secundário, toda a face e o couro ca-beludo devem ser examinados, à procura de lesões de partes moles, fraturas e lesões combinadas. Sempre que possível, o cirurgião plástico deve avaliar os pacientes após as estabilizações respiratória e hemodinâmica.
+a) Fronte
+O osso frontal forma o esqueleto da fronte. Inferiormente e de cada lado do plano mediano, articula-se com os ossos nasais. A intersecção do frontal com os 2 ossos nasais chama-se násio; e a região acima do násio, entre os supercílios, denomina-se glabela.
+
+b) Órbitas
+A borda superior ou supraorbital é formada pelo osso frontal. Em sua porção medial, está a incisura supraorbital (ou forame, em alguns crânios), que aloja o nervo e vasos supraorbitais. Medialmente à incisura, a borda é cruzada pelo nervo e pelos vasos supratrocleares. Lateralmente, a borda termina no processo zigomático do osso frontal; este último forma a maior parte do teto da órbita correspondente.
+A borda lateral é formada pelos ossos zigomático e frontal. A borda inferior é composta pela maxila e pelo zigomático; a borda medial, por maxilas, ossos lacrimal e frontal. 
 
 Dica
-Em pacientes com trauma de face, deve-se considerar precocemente a indicação de via aérea cirúrgica.
+Os ossos que formam a órbita são frontal, maxilar, palatino, zigomático, etmoide, esfenoide e lacrimal.
 
-3. Exames de imagem
+c) Proeminência da face
+Formada pelo osso zigomático (malar), situado na borda inferior e lateral da órbita e que repousa sobre a maxila. Apresenta superfície lateral na face (superfície orbital), que contribui para a parede lateral da órbita, e superfície temporal, localizada na fossa temporal.
+Possui 2 processos: frontal (articula-se com o processo zigomático do osso frontal) e temporal (articula-se com o processo zigomático do osso temporal). Na face lateral do osso zigomático, encontra-se o forame zigomatofacial, por onde passa o nervo de mesmo nome.
+
+ 
+Figura 2 - Proeminência da face
+
+d) Nariz ósseo
+A parte óssea do nariz é formada pelos ossos nasais e pelas maxilas e termina anteriormente pela abertura piriforme. Através da abertura, a cavidade nasal pode ser vista/dividida pelo septo nasal em direita e esquerda.
+A porção anterior do septo é composta de cartilagem, e a parte posterior, de osso (etmoide e vômer). Cada parede lateral da cavidade nasal apresenta 3 ou 4 placas curvas de ossos – as conchas (ou turbinados); os espaços abaixo de cada uma são denominados meatos. No plano mediano ao da borda inferior da abertura piriforme, apresenta espinha nasal anterior e esporão ósseo agudo formado pela junção das 2 maxilas.
+Os ossos nasais localizam-se entre os processos frontais das maxilas e encontram-se um com o outro medialmente. Superiormente, articulam-se com o osso frontal, e, inferiormente, suas bordas prendem-se às cartilagens nasais.
+
+ 
+Figura 3 - Nariz ósseo
+Fonte: http://www.rinoplastia.com.br. 
+
+e) Maxilas
+O maxilar é composto de 2 maxilas unidas no plano mediano pela sutura intermaxilar. Cada uma consiste de corpo (que contém o seio maxilar), processo zigomático (que se estende lateralmente e se articula com o osso zigomático), processo frontal (que se articula superiormente com o osso frontal), processo palatino (que se estende horizontalmente para se encontrar com o do lado oposto e formar a grande parte do esqueleto do palato) e processo alveolar (que contém os dentes superiores).
+O corpo da maxila é piramidal e apresenta face nasal ou base (contribui para a parede lateral da cavidade nasal), face orbital (forma a maior parte do assoalho da órbita), face infratemporal e face anterior, coberta pelos músculos faciais. Cerca de 1cm abaixo da borda infraorbital está o forame infraorbital, que dá passagem à artéria e aos nervos infraorbitais.
+
+ 
+Figura 4 - Maxila
+Fonte: http://www.guiadeanatomia.com.
+
+f) Mandíbula
+Também chamada de maxilar inferior, apresenta corpo e um par de ramos. Sua maior proeminência está dirigida lateralmente e denomina-se gônio. O corpo possui forma de “U” e contém a sínfise do mento na sua região mediana (linha de fusão das 2 metades da mandíbula fetal). Aproximadamente abaixo do 2º pré-molar, apresenta o forame mental, que dá passagem ao nervo e vasos mentais. A borda superior do corpo denomina-se parte alveolar e contém os dentes inferiores.
+O ramo da mandíbula é uma lâmina óssea quadrilátera; sua superfície lateral dá inserção ao masseter. A superfície medial contém o forame mandibular, por onde passam os nervos e os vasos alveolares inferiores. Mais inferiormente, existe o sulco milo-hióideo, que contém o nervo e os vasos milo-hióideos; atrás desse sulco, a superfície medial torna-se irregular e dá inserção ao músculo pterigóideo medial.
+Na borda superior do ramo, está o processo coronoide, no qual se insere o músculo temporal. O processo condilar compreende a cabeça e o colo mandibulares; a cabeça (côndilo), coberta com fibrocartilagem, articula-se diretamente com o osso temporal (juntura temporomandibular). O colo dá inserção ao músculo pterigóideo lateral.
+
+ 
+Figura 5 - Mandíbula
+Fonte: http://www.auladeanatomia.com. 
+
+B - Músculos
+
+a) Introdução
+Os músculos estriados da face são estruturas particulares, pois se prendem em ossos e na porção profunda da derme; desta forma, não são músculos cutâneos, tampouco músculos estriados esqueléticos verdadeiros. A contração e a descontração deles promovem saliências e depressões, determinando a expressão facial. Todos os músculos superficiais desenvolvem-se a partir do 2º arco faríngeo e são inervados pelo facial.
+
+Dica
+No sistema musculoaponeurótico superficial, a fáscia é formada por tecido conjuntivo denso, com embebição gordurosa, que recobre os músculos superficiais da face; o nome correto é fáscia superficial da face.
+
+b) Músculos superficiais da expressão facial
+
+Tabela 1 - Músculos da expressão facial
+Músculos do epicrânio e da orelha	Músculo occipitofron-tal	O ventre frontal origina-se na gálea aponeurótica e insere-se nos músculos da raiz do nariz e ao longo do supercílio; elevam o supercílio. O ventre occipital origina-se na linha nucal suprema e insere-se na gálea aponeurótica; fornece suporte ao músculo frontal, e a ação alternada entre eles move o couro cabeludo para frente e para trás.
+	Músculos da orelha	Dos músculos intrínsecos da orelha, somente 3 se conectam à fáscia lateral do crânio – auricula-res anterior, superior e posterior.
+Músculos da pálpebra e em torno do ádito da órbita	Músculo orbicular dos olhos	É um músculo separado, diferentemente do orbicular do lábio, formado por feixes de uma série de músculos. Possui 3 partes: orbital (prende-se à borda medial da órbita – ossos frontal e maxilar – e ao ligamento palpebral medial); palpebral (suas fibras originam-se do ligamento palpebral medial; as fibras pré-társicas formam um tendão comum – ligamento palpebral lateral – que se insere no tubérculo orbital do osso zigomático); e lacrimal (localiza-se atrás do saco lacrimal).
+	Músculo prócero	Origina-se no dorso do nariz e insere-se na pele da fronte, entre os supercílios. Encontra-se entre os orbiculares; enruga a pele da região intersupraciliar.
+	Músculo corrugador do supercílio	Origina-se na parte nasal do osso frontal e insere-se na pele do supercílio; encontra-se abaixo dos orbiculares. É um músculo oblíquo que auxilia a aproximar ambos os supercílios.
+Músculos do nariz	Músculo nasal	Com origem na maxila, está no dorso do nariz; é um músculo delgado em forma de “V” voltado para baixo. Possui a parte transversa (origem acima dos dentes caninos) e a parte alar (origem acima dos incisivos laterais), a qual auxilia na abertura das narinas.
+	Músculo depressor do septo nasal	Em forma de “V”, origina-se na maxila, acima dos incisivos mediais; insere-se na parte cartilagi-nosa do septo.
+Músculos da boca	Músculo elevador da asa do nariz e do lábio superior	Corre ao longo da parede lateral do nariz; origina-se no processo frontal da maxila e insere-se na cartilagem alar e na pele do nariz, bem como no lábio superior.
+	Músculo elevador do lábio superior	Corre lateralmente ao anterior; origina-se na porção infraorbital da maxila e insere-se no lábio superior.
+	Músculo elevador do ângulo da boca	Origina-se na fossa craniana da maxila e insere-se na musculatura do lábio superior e no ângulo da boca.
+	Músculos zigomáticos menor e maior	Por cima do músculo anterior; o menor é inconstante; já o maior sempre existe. Originam-se na face lateral do osso zigomático e prendem-se ao ângulo da boca.
+	Músculo risório	Origina-se na fáscia massetérica e insere-se no ângulo da boca.
+	Músculo depressor do ângulo da boca	Com formato triangular, origina-se na base da mandíbula e prende-se ao ângulo da boca e do lábio inferior.
+	Músculo depressor do lábio inferior	Origina-se na base da mandíbula e insere-se no lábio inferior.
+	Músculo bucinador	É um músculo inconstante; situa-se entre o osso maxilar e a mandíbula, entre as arcadas dentá-rias superior e inferior. Está coberto pela fáscia bucofaríngea e é perfurado pelo ducto de Stenon; sua superfície profunda está revestida pela membrana mucosa da boca. Tem função de contenção do alimento e de dar forma constante à bochecha, evitando sua lesão pelos dentes; atua no asso-bio/sopro e no riso (repuxa os ângulos da boca). Estende-se posteriormente e continua com o músculo constritor da faringe.
+	Músculo platisma	Origina-se no ramo e no corpo mandibulares. Desce recobrindo a face anterolateral do pescoço e a região anterior do tórax; encontra-se em processo de atrofia.
+	Músculo mental ou mentual 
+
+Importante
+O músculo orbicular da boca é um esfíncter complexo, que contém fibras de músculos faciais (as mais profundas derivam do bucinador e as mais superficiais, do elevador e do depressor do ângulo da boca) e fibras próprias dos lábios.
+
+3. Músculos profundos da mastigação 
+
+Tabela 2 - Músculos da mastigação
+Músculo masseter	Músculo quadrilátero, espesso, que se origina na borda inferior do arco zigomático e se insere no ramo ao ângulo da mandíbula. A glândula parótida repousa sobre ele; é inervado pelo nervo massetérico, ramo do mandibular. Quando se contrai, eleva a mandíbula.
+Músculo temporal	Músculo em forma de leque, que repousa sobre a fossa temporal, abaixo do osso zigomático. Origina-se do assoa-lho da fossa e insere-se no processo coronoide e no ramo da mandíbula. É inervado pelos ramos temporais profun-dos do nervo mandibular. Mantém a postura mandibular em repouso e faz sua elevação durante o fechamento da boca.
+Músculo pterigói-deo medial	Localiza-se na face medial do ramo mandibular. Possui 2 cabeças de origem: a mais profunda origina-se do proces-so pterigoide (base do crânio), e a mais superficial, do tubérculo da maxila. As 2 cabeças unem-se e prendem-se no ângulo interno da mandíbula. É inervado pelo ramo pterigóideo medial do nervo mandibular. Junto com o masseter, eleva a mandíbula e, junto com o pterigóideo lateral, faz sua protrusão.
+Músculo pterigói-deo lateral	Ocupa a fossa infratemporal. Também possui 2 cabeças de origem: a mais superficial origina-se da asa maior do esfenoide, e a mais inferior, do processo pterigoide. Unem-se e inserem-se no disco articular da articulação tempo-romandibular e do colo mandibular. É inervado pelo ramo pterigóideo lateral do nervo mandibular, sendo o princi-pal músculo responsável pela protrusão.
+
+Tabela 3 - Movimentos da mandíbula
+Depressão	Pterigóideo lateral, digástrico e gravidade
+Elevação	Temporal, masseter e pterigóideo medial
+Protrusão	Pterigóideos lateral e medial, masseter
+Retração	Temporal
+Movimento lateral e circundução	Temporal e masseter (ipsilateral), pterigóideos (contralateral)
+
+Tema frequente de prova
+Uma pergunta frequente em provas de Residência Médica é sobre quais músculos são responsáveis pela abertura da boca e quais são responsáveis pelo seu fechamento: abertura – milo-hióideo, gênio-hióideo, genioglosso e digástrico; fechamento: masseter, temporal, pterigóideos medial e lateral.
+
+4. Irrigação e inervação
+
+A - Irrigação
+São ramos da carótida externa que irrigam a face:
+
+a) Artéria lingual
+Origina-se da parte anterior da carótida externa, ao nível do osso hioide. Durante seu trajeto, emite os ramos:
+Artéria supra-hióidea;
+Ramos dorsais para o dorso da língua;
+Artéria sublingual para a glândula sublingual.
+
+b) Artéria facial
+Inicialmente, é denominada artéria maxilar externa e origina-se da carótida externa, normalmente junto com a artéria lingual, com o tronco linguofacial. A parte cervical da artéria dá origem aos ramos:
+Artéria palatina ascendente: irriga o palato mole e parte da faringe;
+Artéria tonsilar;
+Ramos glandulares para a glândula submandibular;
+Artéria submental.
+Após um trajeto curto no pescoço, ela passa pelas bordas inferiores da mandíbula e anteriores do masseter e ascende na face, até o ângulo medial do olho, onde se anastomosa com ramos da artéria oftálmica. Irriga os lábios e o nariz externo por meio de seus ramos:
+
+Tabela 4 - Ramos da artéria facial
+Artéria labial inferior	Penetra no orbicular da boca, irrigando pele, músculos e membrana mucosa do lábio inferior, e anastomosa-se com a do lado oposto.
+Artéria labial superior	Mesmo comportamento que a anterior, só que no lábio superior e com trajeto maior e mais tortuoso; fornece ramos septais e alares para o nariz.
+Ramo nasal lateral	Irriga a asa e o dorso do nariz.
+Artéria angular	É a terminação da facial. No ângulo medial do olho, ela se anastomosa com os ramos dorsal, nasal e palpebral da artéria oftálmica e, dessa maneira, estabelece comunicação entre as artérias carótidas externa e interna.
+
+c) Artéria occipital
+Origina-se da parte posterior da carótida externa e, durante seu trajeto, ao perfurar o músculo trapézio, divide-se em ramos para o couro cabeludo.
+
+d) Artéria auricular posterior
+Origina-se do dorso da artéria carótida externa, imediatamente acima do ventre posterior do digástrico. Ascende, coberta pela glândula parótida, até o processo mastoide, onde se divide em ramos auricular e occipital, que irrigam as regiões acima e atrás da orelha e o couro cabeludo.
+
+e) Artéria temporal superficial
+Menor ramo terminal da carótida externa, origina-se na glândula parótida. No seu trajeto, é acompanhada pelo nervo auriculotemporal e, ao cruzar o osso zigomático, divide-se nos ramos terminais frontal e parietal. Seus ramos irrigam a glândula parótida, orelha, fossa temporal e couro cabeludo.
+Artéria transversa da face: irriga a glândula e o ducto e o músculo masseter e anastomosa-se com ramos da artéria facial;
+Artéria frontal: irriga os músculos da região frontal, anastomosando-se com os ramos da artéria oftálmica;
+Artéria parietal: irriga pele e músculos auriculares.
+
+f) Artéria maxilar
+Maior ramo terminal da carótida externa, distribui-se às maxilas e à mandíbula, aos músculos da mastigação, ao palato e ao nariz. Seu trajeto pode ser considerado em 3 partes: mandibular, pterigóidea (ambas acompanham os ramos do nervo mandibular) e pterigopalatina (acompanha os ramos do nervo maxilar).
+Porção mandibular: irriga principalmente a membrana do tímpano, a dura-máter, o crânio e os dentes inferiores. Ramos:
+Artéria auricular profunda e artéria timpânica anterior: irrigam a membrana do tímpano;
+Artéria meníngea média: entra na cavidade craniana através do forame espinhoso do esfenoide;
+Artéria alveolar inferior: irriga a membrana mucosa da bochecha, o mento e os dentes inferiores.
+Porção pterigóidea: os ramos irrigam principalmente os músculos da mastigação e são denominados de acordo com eles: temporal profundo anterior e posterior, pterigóideo, massetérico e bucal;
+Porção pterigopalatina: distribuição extensa que inclui dentes superiores, porções da face e da órbita, palato e cavidade nasal. Ramos:
+Artéria alveolar superior posterior: irriga dentes molares e pré-molares;
+Artérias alveolares superior anterior e média: caninos e dentes incisivos;
+Artéria infraorbital: irriga órbita, pálpebra inferior, saco lacrimal, lábio superior e bochecha;
+Artéria palatina descendente: divide-se em maior e menor e irriga o palato;
+Artéria do canal pterigóideo;
+Ramo faríngeo: para o teto do nariz e a faringe;
+Artéria esfenopalatina: considerada como terminação da artéria maxilar; irriga o septo e as conchas nasais, os meatos e seios paranasais.
+
+g) Artéria oftálmica
+Principal vaso da órbita, é ramo da parte cerebral da carótida interna. Seus ramos, que contribuem para a irrigação da face, são:
+
+Tabela 5 - Ramos da artéria oftálmica
+Artéria lacrimal	Irrigação da glândula lacrimal e das pálpebras (através dos ramos palpebrais laterais)
+Artéria supraorbital	Para pálpebras superiores e couro cabeludo
+Artéria etmoidal anterior	Cavidade nasal e nariz externo
+Artérias palpebrais mediais	Arcos palpebrais superior e inferior
+Artéria supratroclear	Fronte e couro cabeludo
+Artéria dorsal do nariz	Raiz do nariz e saco lacrimal; anastomose com ramos da artéria facial
+
+B - Inervação
+
+a) Nervo facial
+Seu núcleo encontra-se no assoalho do 4º ventrículo, ao nível da ponte. No seu trajeto, atravessa a fossa cranial posterior, penetra no meato acústico interno, passa pelo canal facial do osso temporal (orelha média) e entra em contato com os ossículos; emerge do crânio pelo forame estilomastóideo e se posiciona dentro da glândula parótida.
+Imediatamente abaixo da base do crânio, dá origem ao nervo auricular posterior; este acompanha a artéria auricular posterior e inerva a maior parte dos músculos da orelha, juntamente com o occipital. Também envia fibras sensitivas para a orelha.
+Na glândula, o nervo frequentemente se divide em 2 troncos principais – temporofacial (mais calibroso e direcionado horizontalmente) e cervicofacial (mais delgado e direcionado verticalmente), cujos ramos se anastomosam entre si para formar o plexo parotídeo. A partir daí, emergem os ramos terminais, que se irradiam na face, com inúmeras conexões entre eles e outros ramos e com grande variedade de distribuição:
+
+ 
+Figura 6 - Ramos do nervo facial
+Fonte: http://www.sistemanervoso.com.
+
+Tabela 6 - Ramos do nervo facial
+Ramos temporais	Distribuem-se para o músculo auricular anterior e para os pequenos músculos do pavilhão auditivo; também inervam o ventre frontal do músculo occipitofrontal.
+Ramos zigomáticos	Distribuem-se pelo orbicular dos olhos e pelo corrugador; comunicam-se com ramos que se dirigem para as pál-pebras e com os bucais, formando um plexo infraorbitário, que inerva os músculos zigomáticos, elevador do lábio superior, da asa do nariz, do lábio superior, do nasal e do depressor do septo.
+Ramos bucais	São os maiores da divisão temporofacial, com inúmeras conexões com os ramos zigomáticos; inervam os múscu-los peribucais, orbicular do lábio e bucinador.
+Ramos marginais da mandíbula	Passam abaixo do músculo platisma e do depressor do ângulo da boca, suprindo os músculos do lábio inferior e mento.
+Ramos cervicais	Correm abaixo do platisma e suprem a porção cervical lateral e a região supra-hióidea.
+
+Os ramos terminais do nervo facial contêm tanto fibras aferentes quanto fibras motoras. Acredita-se que as fibras aferentes sejam proprioceptivas a partir dos músculos da expressão facial e/ou relacionadas com a dor profunda da pele, do músculo e dos ossos da face.
+
+b) Nervo trigêmeo
+A inervação sensitiva da face é feita totalmente por meio de ramos do nervo trigêmeo, que é sensitivo para face, metade anterior do couro cabeludo, dentes, boca, cavidade nasal e seios paranasais, sendo motor para os músculos da mastigação. Prende-se na ponte por 1 raiz motora e 1 sensitiva; a sensitiva expande-se ao gânglio trigeminal, que origina 3 grandes divisões: oftálmica, maxilar e mandibular. A raiz motora junta-se à divisão mandibular.
+Divisão oftálmica: divide-se em lacrimal, frontal e nasociliar na dura-máter do seio cavernoso e penetra na órbita pela fissura orbital superior:
+Nervo lacrimal: glândula lacrimal, conjuntiva e pele da pálpebra superior;
+Nervo nasociliar: nervo sensitivo para o olho;
+Nervo frontal: num ponto extremamente variável, divide-se em ramos supraorbital (deixa a órbita pelo forame supraorbital e inerva fronte, couro cabeludo, pálpebra superior e seio frontal) e supratroclear (inerva fronte e pálpebra superior).
+Divisão maxilar: passa pelo forame redondo e entra na fossa pterigopalatina; a partir daí, como o nervo infraorbital, chega à órbita pela fissura orbital inferior e termina na face, emergindo pelo forame infraorbital. Ramos:
+Nervos alveolares superior e posterior: inervam seio maxilar, bochechas, gengivas e dentes molares e pré-molares;
+Nervo zigomático: inerva a pele da região zigomatotemporal;
+Nervo infraorbital: considerado como a continuação do maxilar, possui os ramos palpebral inferior, nasal, labial superior, alveolar superior médio e alveolar superior.
+Divisão mandibular: juntamente com a raiz motora, passa para a fossa infratemporal pelo forame oval, de onde se divide em ramos classificados em divisão anterior e posterior.
+
+ 
+Figura 7 - Nervo trigêmeo 
+Fonte: http://www.medicinageriatrica.com.br. 
+
+5. Avaliação 
+
+A - Anamnese 
+É importante avaliar o mecanismo de trauma (impacto no queixo sugere fratura nos côndilos bilaterais da mandíbula), tempo de exposição do ferimento (se o tempo é prolongado, o risco de infecção é maior, embora a face seja bastante irrigada). 
+
+B - Exame clínico 
+Inclui inspeção de toda a face, palpação de estruturas ósseas, procura por crepitações, avaliação de sangramentos, limpeza de crostas, teste neurológico de todos os pares cranianos (motricidade e sensibilidade facial), avaliação da movimentação ocular, da resposta pupilar e da distância entre os ângulos dos olhos (telecanto), exame otológico, do nariz e do septo nasal (especular), avaliação da cavidade oral, dos dentes e da articulação temporomandibular e avaliação da mordida do paciente e da relação da maxila com os terços médio e superior da face (se há mobilidade ao fixar a mandíbula, trata-se de provável LeFort).
+
+C - Radiologia 
 
 A avaliação radiológica é necessária para o diagnóstico de fraturas dos ossos da face. 
-
 Diagnóstico
-As principais incidências a serem realizadas no trauma de face são posteroanterior axial (incidência de Caldwell), perfil axial, submento-vértice (incidência de Hirtz), anteroposterior de mandíbula (incidência de Towne), parietoacantial (incidência de Waters), além da panorâmica de mandíbula para avaliar a arcada dentária (Figura 1). Para realizar esses exames, é preciso excluir lesões de coluna cervical, já que devem ser realizados sem colar cervical.
+As principais incidências a serem realizadas no trauma de face são posteroanterior axial (incidência de Caldwell), perfil axial, submento-vértice (inci-dência de Hirtz), anteroposte-rior de mandíbula (incidência de Towne), parietoacantial (incidência de Waters), além da panorâmica de mandíbula para avaliar a arcada dentária. Para realizar esses exames, é preci-so excluir lesões de coluna cervical, já que devem ser rea-lizados sem colar cervical.
 
  
-Figura 1 - Radiografias de face: (A) posteroanterior axial; (B) perfil axial; (C) submento-vértice; (D) anteroposterior axial da mandíbula; (E) parietoacantial e (F) panorâmica de mandíbula
+Figura 8 - Radiografias de face: (A) posteroanterior axial; (B) perfil axial; (C) submento-vértice; (D) anteropos-terior axial da mandíbula; (E) parietoacantial e (F) panorâmica de mandíbula
+A realização dessas radiografias exige radiologistas habituados, e elas podem ser de difícil interpretação. O exame considerado padrão-ouro na avaliação do trauma de face é a Tomografia Computadorizada (TC) em incidências coronal e axial (Figura 9 - A e B). Sempre que possível, a reconstrução tridimensional (Figura 9 - C) deve ser feita, principalmen-te no planejamento terapêutico das fraturas faciais. 
+É importante ressaltar que a TC só deve ser realizada em pacientes estáveis hemodinamicamente sem retardar a transferência caso o serviço não disponha de condições para o tratamento definitivo.
+ 
+Figura 9 - Tomografia de face: (A) incidência coronal; (B) incidência axial e (C) reconstrução tridimensional
 
-A realização dessas radiografias exige radiologistas habituados, e elas podem ser de difícil interpretação. O exame consi-derado padrão-ouro na avaliação do trauma de face é a Tomografia Computadorizada (TC) em incidências coronal e axial (Fi-gura 2 - A e B). Sempre que possível, a reconstrução tridimensional (Figura 2 - C) deve ser feita, principalmente no planeja-mento terapêutico das fraturas faciais. 
-É importante ressaltar que a TC só deve ser realizada em pacientes estáveis hemodinamicamente sem retardar a transfe-rência caso o serviço não disponha de condições para o tratamento definitivo.
+6. Lesões de partes moles na face
+
+Deve-se lembrar sempre que qualquer politraumatizado deve ser atendido segundo os preceitos do ATLS® (Advanced Trauma Life Support – ABCDE) e que o tratamento das lesões da face, na maioria dos casos, pode ser postergado até a estabilização (exceções: sangramento incoercível da face ou obstrução de via aérea por fratura de maxila ou mandíbula, ou por alguma lesão importante na cavidade oral que provoque risco de aspiração). 
+
+Tratamento
+Se necessário, o tratamento de lesões de partes moles pode ser postergado até 24 horas sem comprometer o resultado final. Neste caso, usa-se antibioticoterapia sistêmica.
+
+Devem-se fotografar as lesões.
+
+7. Diagnóstico de lesões faciais
+
+Podem ser divididas em 2 grupos: 
+Lesões fechadas:
+Contusão (com ou sem hematomas); 
+Distensão muscular;
+Fratura.
+Lesões abertas:
+Abrasão;
+Tatuagem acidental;
+Retenção de corpo estranho; 
+Laceração; 
+Avulsão; 
+Retalho de avulsão;
+Ferimentos incisivos;
+Esmagamentos.
+
+A - Contusão (com ou sem hematoma)
+Lesão causada por trauma fechado;
+Conduta: em geral, limpeza e observação;
+Hematomas pequenos em geral são reabsorvidos; nos maiores e encapsulados, o melhor é realizar drenagem cirúrgica (incisão ou punção).
 
  
-Figura 2 - Tomografia de face: (A) incidência coronal; (B) incidência axial e (C) reconstrução tridimensional
+Figura 10 - Hematoma facial
+Fonte: http://www2.aofoundation.org. 
 
-4. Principais lesões
+B - Abrasão
+Limpeza e degermação com sabão suave;
+Tratamento: curativos oclusivos úmidos parecem acelerar a epitelização.
 
-A - Fraturas de órbita
-As fraturas de órbita podem ser intra, supra ou infraorbitárias, além das zigomáticas. 
+C - Tatuagem acidental
+Pequenas partículas embebidas na derme devem ser retiradas prontamente antes de se tornarem fixas (o que ocorre em 12 horas);
+São retiradas pela escovação com sabão suave;
+Quando a lesão está suja de óleo ou graxa, é possível, se necessário, o uso de pequenas quantidades de éter, acetona ou xilol;
+Uma vez fixadas, são tratadas por abrasão cirúrgica para retirada.
+
+D - Corpos estranhos
+Partículas maiores que as de tatuagem acidental;
+Devem ser rotineiramente removidos, com exceção de projéteis de arma de fogo, que promovem, em geral, mínima reação tecidual local. 
+
+E - Laceração simples 
+Forma mais comum de lesão facial;
+O intervalo de tempo entre a lesão e o reparo é importante, pelo risco de infecção;
+Com exceção de ferimento por arma de fogo, mordedura de animais e tatuagem acidental, lesões limpas e adequadamente ocluídas podem aguardar o reparo definitivo até 24 horas, sem o risco de infecção;
+Tratamento primário: limpeza e debridamento de tecidos desvitalizados e de corpo estranho;
+Zetaplastias raramente são usadas nesta fase;
+Suturas por planos, a fim de diminuir o espaço morto:
+Músculo e derme: fios absorvíveis sem corantes 4-0 e 5-0;
+Pele: fios 5-0 ou 6-0.
+Remoção de suturas:
+Pálpebras: de 3 a 4 dias;
+Restante da face: de 4 a 6 dias;
+Orelhas: de 10 a 14 dias.
+
+F - Retalho de avulsão
+Laceração tipo alçapão, tangencial na derme ou no tecido celular subcutâneo; 
+Ingurgitamento venoso e linfedema edemaciam o retalho e, juntamente com a retração cicatricial, contribuem para o resultado estético pobre;
+Quando o retalho é pequeno, o tratamento consiste em excisão total;  
+Quando a avulsão é maior, adota-se tratamento conservador, sendo importante desengordurar a pele e usar curativos compressivos.
+
+  
+Figura 11 - Trauma de face 
+
+8. Condutas em suturas de locais especiais 
+
+A - Região frontal e sobrancelha
+Atenção ao alinhamento da sobrancelha;
+Aproximação de planos musculares, visando evitar depressões.
+
+B - Pálpebras
+Pesquisar possíveis lesões do globo ocular;
 
 Quadro clínico
-Clinicamente, as fraturas de órbita podem manifestar-se com hematoma ou edema periorbitário, hemorragia subconjuntival, irregularidades no rebordo orbitário, obliquidade da fenda palpebral, anestesia regional e dificuldade de abrir a boca.
+Lesões que penetrem na profundidade da órbita por meio da pálpebra devem ser consideradas potencialmente intracrani-anas, pois o teto da órbita é fino e frágil.
 
-As fraturas da região zigomática podem ser tratadas imediatamente ou após a diminuição do edema, cerca de 14 dias após o trauma. Quanto às fraturas intraorbitárias (Figura 3), o tratamento pode ser conservador nas falhas menores do que 0,5cm e nos pacientes assintomáticos. O tratamento dessas lesões exige a reconstrução do assoalho da órbita.
+As lesões são divididas em:
+Superficiais
+Paralelas à margem da pálpebra: sutura simples;
+Perpendiculares: sutura por planos, quando necessário.
+Profundas
+Após limpeza cuidadosa, pesquisar lesões em estruturas nobres (músculo levantador da pálpebra, aponeurose, músculo reto superior). Essas lesões exigem maior cuidado: 
+¤	O reparo da margem palpebral deve ser feito prontamente. Se postergado por 7 a 10 dias, as fibras do orbicular fibrosam, e ocorrem retração e espessamento da placa tarsal, tornando difícil a aproximação de margens da ferida; 
+¤	Pequenas lacerações da conjuntiva cicatrizam sem suturas; quando muito extensas, utiliza-se categute 6-0 oftálmico;
+¤	Cuidado especial na aproximação do tarso e da margem ciliar, que orientarão o resto da sutura;
+¤	Lesões do sistema lacrimal: se houver suspeita de lesão das vias lacrimais, deve ser realizada a canulação com cateter de polietileno ou nylon 3-0 para orientar a sutura microcirúrgica da lesão. Nas lesões parciais, a simples aproximação é suficiente. Lesão apenas do canalículo superior raramente resulta em epífora (excesso de lágrima por obstrução do ducto lacrimal).
+Dacriocistorrinostomia
+Cirurgia reparadora secundária do sistema lacrimal, meses após a cicatrização da lesão naso-orbital original;
+Indicada aos casos de epífora e dacriocistite obstrutiva secundária;
+Existem muitas técnicas, e todas têm como objetivo principal restabelecer o fluxo lacrimal do saco conjuntival para o nariz;
+Melhores resultados quando realizada dentro de 1 a 2 dias após a lesão;
+Nas perdas de substância da pálpebra inferior, pode ser realizado retalho de pele da pálpebra superior ou enxertia de pele total da mesma área ou de pele pós-auricular. 
+
+  
+Figura 12 - Ferimento na pálpebra com lesão da borda ciliar
+
+C - Orelhas 
+O reparo primário é importante, devido ao melhor resultado estético;
+Princípios: debridamento conservador e reconstrução anatômica dos segmentos lesados, tentando manter a cartilagem coberta. 
+
+Tratamento
+Hematomas de orelha são considerados urgência e necessitam de drenagem para evitar destruição de cartilagem ou fibrose.
+
+D - Nariz 
+
+Tratamento
+Os hematomas de septo são considerados urgência e devem ser prontamente drenados, para evitar condromalácia e perda ou espessamento da cartilagem septal, levando à obstrução da via aérea.
+
+Segue os mesmos princípios da reconstrução de orelha;
+Nas lesões totais, iniciar a reconstrução pela sutura da mucosa (categute 4-0). As cartilagens, em geral, conseguem boa aproximação, em virtude do alinhamento mucocutâneo;
+Às vezes, é necessário o uso de tampões para manter o posicionamento das cartilagens, apenas nos casos instáveis. 
 
  
-Figura 3 - Tomografia de face evidenciando fratura de assoalho da órbita esquerda
+Figura 13 - Hematoma de septo nasal
+Fonte: http://sfghed.ucsf.edu. 
 
-B - Fraturas de nariz
-O nariz é a principal sede de lesões da face. A avaliação compreende tanto a parte óssea quanto a cartilaginosa. 
+E - Ramos do nervo facial
+Em lesões fechadas, a exploração não é necessária para determinar se houve lesão nervosa, pois a clínica é soberana. Nas lesões abertas com sintomas clínicos, é necessária a exploração cirúrgica imediata para evitar graves sequelas;
+O déficit funcional mais severo ocorre na lesão da divisão temporal, que origina paralisia da pálpebra com exposição de córnea;
+Ramos anteriores (mais terminais) à região do ducto parotídeo (medial à linha pupilar média) usualmente não resultam em perda permanente da função muscular, pois os músculos faciais são inervados na sua porção posterior. O reparo é desnecessário;
+Nos casos de secção completa da porção posterior dos ramos do nervo facial, a bainha nervosa é cuidadosamente aproximada em unidades fasciculares com fios apropriados;
+Nos casos de lesões extensas, é realizado o debridamento das extremidades nervosas, com recuperação pobre da função. O uso de enxertos nervosos, em geral, é reservado à reconstrução secundária. 
 
-Dica
-É importante o diagnóstico de hematoma septal, que caracteriza quadro de urgência, devendo ser drenado precocemente em centro cirúrgico, seguido de antibioticoterapia para se evitar a formação de abscesso no local.
-
-O tratamento das demais lesões deve ser, sempre que possível, imediato. Quando não houver equipe capacitada disponí-vel, aceita-se intervenção precoce (até 14 dias) ou tardia, para reparo de cicatrização errônea.
+F - Glândula parótida e ducto de Stenon
+Sinais sugestivos: drenagem de líquido claro pela lesão, queda de metade do lábio superior (os ramos bucais correm paralelos e obliquamente ao ducto parotídeo);
+O ducto parotídeo cursa ao longo de uma linha imaginária entre o tragus e a porção média do lábio superior;
+A glândula não precisa ser suturada, porém a patência do ducto deve ser determinada antes do fechamento da lesão;
+A fístula da parótida usualmente fecha espontaneamente após alguns dias e quase sempre dentro de 3 a 4 semanas;
+A canulação do ducto parotídeo pode ser feita de modo retrógrado (pela lesão) ou por meio do óstio localizado ao nível do 2º molar superior (cateter de polietileno número 2 ou fio de nylon 0);
+Uma vez cateterizado, as extremidades distais são aproximadas com sutura de nylon 6-0 ou 7-0. Se a lesão for parcial e houver pouca lesão adjacente associada, o cateter poderá ser removido logo após o reparo. Nos casos de lesão total ou complexa, o cateter é mantido por 5 a 7 dias ou até que o edema seja reabsorvido;
+Nos casos de lesão extensa proximal ao ducto, esta deve ser suturada em um novo óstio na mucosa oral, mantendo a função da glândula;
+O ducto pode ser ligado simplesmente, o que leva à atrofia da parótida;
+Em caso de fístula persistente sem condições de tratamento cirúrgico, pode-se realizar a irradiação da glândula para coibir sua função. 
 
 Pergunta
-2015 - UNICAMP
-1. Um homem, de 24 anos, chega ao pronto-socorro após acidente automobilístico em que foi arremessado contra o volan-te do automóvel com consequente trauma da face. Ao exame físico, dor à palpação na região do nariz com alargamento da porção superior e hematoma; radiografia da face: fratura dos ossos nasais. O tempo para o tratamento da fratura e a justi-ficativa para esse intervalo são:
-a) 1 semana; desaparecimento do edema
-b) 3 dias; avaliação adequada de outras lesões
-c) o mais rapidamente possível; evitar deformidades permanentes
-d) imediatamente; preservar a via aérea pérvia
+2004 - SUS-BA
+1. Um operário, de 21 anos, é atendido na unidade de emergência do Hospital Roberto Santos, vítima de queda, quando quebrou porta de vidro violentamente e sofreu grave ferimento, que se estende do couro cabeludo temporal ao ângulo da mandíbula, em frente ao ouvido. Sangra vigorosamente. Diante desse caso, é correto afirmar que: 
+a) deve ser prontamente interrompida a hemorragia com uso de pinças hemostáticas
+b) pode ocorrer drenagem salivar pelo ferimento
+c) o ducto parotídeo deve ser reparado
+d) os resultados do reparo da lesão do nervo radial nesse nível são deficientes
+e) um reparo secundário do nervo radial deverá ser praticado oportunamente
 Resposta no final do capítulo
 
-C - Fraturas de maxila
-As fraturas de maxila estão associadas a traumas de alto impacto e, normalmente, estão presentes entre politraumatizados graves. Nesses casos, a via aérea cirúrgica deve ser precoce. 
-A classificação das lesões de maxila segue a classificação proposta por Le Fort (Tabela 1).
- 
-Tabela 1 - Classificação de Le Fort para as fraturas de maxila
-Le Fort I	Ocorrem transversalmente por meio da maxila, acima do ápice dos dentes.	 
-Le Fort II, ou pira-midais	Passam lateralmente pelos ossos lacrimais, por intermédio do rebordo infraorbitário e assoalho da órbita.	 
-Le Fort III	Nelas ocorre a disjunção craniofacial.	 
-
-O tratamento das fraturas de maxila é complexo e exige equipe especializada em cirurgia craniofacial. A necessidade de desimpactação e o reposicionamento de estruturas são frequentes, e, muitas vezes, os pacientes necessitam de diversos procedimentos para uma recuperação funcional adequada.
-
-D - Fraturas de mandíbula
+G - Lábios 
+Alinhamento cuidadoso do vermelhão;
+Musculatura aproximada com categute 3-0 ou 4-0;
+Mucosa aproximada com Vicryl® 3-0 ou 4-0.
 
 Dica
-As fraturas de mandíbula mais frequentes ocorrem no côndilo (36%), seguido do corpo (21%) e do ângulo da mandíbula (20%).
+Nunca se devem aplicar pontos na transição cutâneo-mucosa dos lábios, pois podemos com isso ter apagamento do contorno labial e resultado estético desagradável. Assim, os pontos devem ser feitos separados na mucosa e depois na pele.
 
-Nas fraturas de côndilo, observa-se desvio da mordida para o lado contralateral à lesão, além de dor e edema na articula-ção temporomandibular.
-Desvios menores do que 45° podem ser tratados conservadoramente. Demais casos podem ser tratados com redução cruenta e fixação com miniplacas. A odontossíntese é comum nesses casos, reforçando a necessidade da abordagem multi-disciplinar.
+H - Lesões intraorais
+Debridamento e aproximação das lesões sempre que possível;
+Antibióticos sistêmicos e higiene oral nas lesões mais extensas. 
 
-5. Resumo
+9. Fraturas de face
+
+Fases de tratamento:
+Emergência; 
+Tratamento definitivo da fratura.
+
+A - Tratamento de emergência em pacientes com fraturas de face
+
+Importante
+Deve ser seguido sempre o algoritmo de atendimento de politraumatizados (Advanced Trauma Life Support – ATLS®) em pacientes com fraturas de face.
+
+a) Particularidades importantes: 
+Manutenção de vias aéreas: em fraturas da face, principalmente nas de mandíbula, é comum a obstrução das vias aéreas por queda da língua. As fraturas de maxila e mandíbula podem culminar na perda da estrutura de sustentação da cavidade oral. A intubação pode ser bastante difícil, exigindo traqueostomia de urgência; 
+Risco de aspiração: há grande risco de aspiração de secreções, como sangue e vômitos, ou de dentes, que podem estar fraturados; 
+Identificação de lesões ocultas: em geral, as fraturas de face são lesões provocadas por traumas de grande impacto e costumam estar associadas a traumas oculares, cranioencefálicos e de coluna cervical;  
+Sangramentos: geralmente as lesões profusas são mais comuns nas lesões maxilofaciais, como as fraturas de LeFort e as nasoetmoidais. 
+
+b) O sangramento profuso pode ser controlado por:
+Tamponamentos nasais anterior e posterior e redução manual (em geral, suficiente);
+Curativo facial compressivo;
+Redução manual e bloqueio intermaxilar;
+Angiografia e embolização do ponto de sangramento;
+Ligadura bilateral da carótida externa e temporal superficial (raríssimo);
+Reposição de fatores de coagulação. 
+
+B - Conceitos gerais sobre o diagnóstico e o tratamento
+Diagnóstico completo das fraturas existentes: história, exame clínico e radiológico; 
+Planejamento cirúrgico com base nos dados de exames clínico e radiológico (importante auxílio de tomografia da face): avaliar previamente traços de fratura, vias de acesso, formas de redução;
+Exposição adequada dos traços de fratura;
+Redução tridimensional;
+Imobilização: bloqueios intermaxilares, fixação semirrígida (fios de aço, microplacas e parafuso), fixação rígida (miniplacas e parafusos):
+Bloqueio intermaxilar (BIM):
+*	Técnica de imobilização simples que permite a estabilização envolvendo a maxila e a mandíbula;
+* 	Colocação de barras em arco (Erich) junto ao colo do dente. As barras são conectadas entre si com elásticos ou fios de aço;
+* 	O tempo de BIM varia em relação ao tipo e ao local de fratura. Por exemplo, em fraturas subcondilares, permanece de 4 a 6 semanas; nas de LeFort, de 6 a 8 semanas;
+* 	Se for realizada fixação rígida, o paciente poderá ser liberado do BIM;
+* 	Deve ser prescrita dieta pastosa durante a cicatrização;
+* 	Liberação precoce do BIM (por fixação rígida) melhora a função, diminui a perda ponderal e permite melhor higiene oral. 
+
+Tabela 7 - Quadro clínico geral 
+- Dor ou sensibilidade; 
+- Crepitação óssea; 
+- Ausência de função nervosa (motora ou sensitiva);
+- Má oclusão;
+- Sangramento nasofaríngeo;
+- Obstrução da inspiração;
+- Lacerações intraorais;
+- Assimetria facial;
+- Visão dupla ou diminuída.
+
+a) Fratura nasal
+Anatomia nasal 
+Ossos nasais propriamente ditos;
+Processo frontal da maxila;
+Cartilagens nasais;
+Septo nasal (cartilagem quadrangular + lâmina perpendicular do etmoide + vômer).
+ 
+ 
+Figura 14 - Anatomia nasal 
+
+É a fratura de face mais comum e de maior incidência. As fraturas nasais geralmente são lateral ou posteriormente deslocadas.
+Quadro clínico
+Edema na região nasal e na órbita; 
+Dor; 
+Obstrução respiratória;
+Crepitação;
+Deformidade nasal; 
+Desvio do septo;
+Ausência de epistaxe torna o diagnóstico questionável;
+Pode haver lacerações na mucosa e hematoma de septo, que deve ser drenado. 
+Diagnóstico
+Na maioria dos casos, a clínica é suficiente, e o raio x simples apenas confirma o diagnóstico. A tomografia da face costuma ser utilizada em casos duvidosos ou na suspeita de lesões nasoetmoidais. 
+Tratamento
+Deve ser realizado apenas nos casos de deslocamento nasal. Se a fratura não apresenta deformidade e encontra-se estável, não há necessidade de redução; esta pode ser realizada sob anestesia local ou geral. Há 2 condutas possíveis: redução imediata ou tardia, esperando-se 4 a 7 dias até que ocorra redução do edema.
+Deve-se fazer a redução da pirâmide nasal e do septo. Este é reduzido com o auxílio de uma pinça de Asch, e a pirâmide, por meio de uma out fracture com cabo de bisturi. Procede-se ao tamponamento nasal e aplica-se gesso ou split por 7 dias. 
+
+  
+Figura 15 - Deformidade nasal por fratura
+
+b) Fratura de zigomático
+Anatomia
+O zigoma forma as porções lateral e inferior da órbita;
+Articula com o osso esfenoide na órbita lateral, com o frontal superiormente, com a maxila medialmente e com o temporal inferiormente (forma o arco zigomático);
+Assim como o nariz, sua projeção proeminente na face torna-o suscetível aos traumas, configurando o 2º tipo mais comum de fratura; 
+Com exceção das fraturas puras de arco zigomático, todas incluem componentes da órbita lateral e/ou do assoalho da órbita. Essas lesões podem ser lineares ou mais severas, com porções da órbita deslocadas para dentro ou para fora; 
+A articulação mais forte do zigoma é a sutura zigomatofrontal. As demais são fracas e, normalmente, apresentam fraturas completas;
+Muitas fraturas de zigomático são pouco deslocadas, não necessitando de redução cirúrgica. Todas aquelas que apresentam deslocamento na sutura zigomática frontal necessitam de redução aberta. 
+
+  
+Figura 16 - Anatomia do osso zigomático
+
+Quadro clínico 
+Movimentação mandibular limitada; 
+Hematoma periorbital e subconjuntival;
+Hipoestesia do lado fraturado;
+Epistaxe ipsilateral;
+Hematoma intraoral;
+Ausência de proeminência malar, podendo ser percebida se o edema não for acentuado;
+Pode haver deslocamento da órbita inferiormente e enoftalmo, bem como deslocamento da fissura orbital inferior. 
+Diagnóstico 
+Avaliação radiológica: Waters, Caldwell e submentovértice (Hirtz); 
+Escolha: tomografia de face (essencial).
+Tratamento
+Em situações de deslocamento do zigoma, são necessárias a redução e a fixação com fios de aço ou miniplacas.
+As incisões para acesso podem ser: 
+Sobre a sutura zigomatofrontal;
+Infraciliar;
+Caldwell-Luc (por dentro da boca, na gengiva da região maxilar);
+Combinação (associação de mais de 1 tipo);
+Nas fraturas puras de arco zigomático, realiza-se pela incisão na região temporal, dentro do cabelo, com dissecção pela fáscia temporal (abre a fáscia), abaixo do arco, e elevação do mesmo com movimento de alavanca; 
+Fraturas com grandes deslocamentos laterais necessitam de incisões coronais para a redução do arco. Em geral, a redução de 3 das articulações do zigoma é suficiente para a redução da fratura. 
+
+c) Fratura de órbita
+Anatomia
+A órbita é uma pirâmide modificada. Suas paredes são formadas por 7 ossos principais: asas do esfenoide, etmoide, frontal, zigoma, maxila, lacrimal e palatino. As margens são formadas por ossos grossos, que afinam em direção ao ápice, onde se localizam a fissura orbital superior (por onde passam os nervos III, IV, VI e ramos do V) e o forame óptico (por onde passa o nervo óptico). O nervo infraorbital atravessa o assoalho da órbita em seu terço medial anterior e lateralmente e entra posteriormente na fissura orbital. Ramos do nervo vão para a bochecha, o lábio superior e os dentes maxilares anteriores ipsilaterais. O ramo alveolar atravessa a parede anterior do seio maxilar, sendo normalmente lesado nas fraturas orbitozigomáticas. 
+
+  
+Figura 17 - Anatomia da órbita
+
+As fraturas internas da órbita podem acometer as paredes medial e lateral, o assoalho ou o teto da órbita. A mais frequente é a fratura tipo blow-out, normalmente na porção medial do assoalho (medialmente ao nervo infraorbital) e na porção inferior da parede medial da órbita (lâmina papirácea). Essas 2 áreas são as mais fracas da órbita e funcionam como mecanismo de defesa do olho nos traumas que poderiam levar à ruptura dele, caso não houvesse fratura concomitantemente em tal região. 
+As fraturas tipo blow-out podem ser puras, quando isoladas; ou impuras, quando associadas a fraturas da margem orbital. O encarceramento de estruturas nas fraturas do assoalho normalmente ocorre por mecanismo de alçapão, em que o osso fraturado retorna mais rapidamente que o tecido afundado, prendendo-o. O encarceramento é mais frequente nas fraturas pequenas, e o tecido usualmente encarcerado é a gordura extraocular, raramente o músculo. Nessas situações, há urgência no tratamento da fratura. 
+Quadro clínico 
+Hematoma palpebral; 
+Diplopia;
+Movimentação ocular limitada;
+Hipoestesia na região infraorbital.
+Diplopia
+Pode ser causada por encarceramento da gordura, edema de tecido mole, contusão muscular ou lesão do nervo oculomotor. Isoladamente, não é indicação cirúrgica. Geralmente ocorre quando se olha para cima e para baixo. 
+Deve-se pesquisar a acuidade visual, pois fratura de órbita tem de 10 a 25% de incidência de lesões oculares associadas.
+Deve-se realizar o teste da ducção forçada para diagnosticar o encarceramento dos músculos extraoculares.
+Enoftalmo
+Envolve o alargamento da cavidade orbital, por meio da descida do tecido mole para o seio maxilar e/ou da atrofia da gordura orbital. Na maioria dos casos, desenvolve-se com a melhora do edema e com hemorragia. O globo é deslocado lateral e inferiormente. Quando o enoftalmo desloca o globo em menos que 3mm, não causa deformidades cosméticas. Não há relação entre enoftalmo e diplopia, e a correção do primeiro não implica melhora do segundo. 
+Diagnóstico
+Tomografia da face da órbita em cortes coronais e axiais, da janela óssea e de partes moles; 
+Raio x simples tem pouca importância.
+
+ 
+Figura 18 - Tomografia de fratura de órbita
+Fonte: http://www.bancodeimagensorl.com.br. 
+
+Tratamento
+Tem 2 indicações básicas: 
+Encarceramento muscular (confirmado pela tomografia e por teste da ducção forçada);
+Aumento do volume da órbita em mais de 2cm3 e deslocamento maior que 3mm, o que implicará enoftalmo e distopia. 
+Via de acesso 
+Subciliar, com retalho musculocutâneo e deslocamento subperiostal. A via de Caldwell-Luc não deve ser usada isoladamente, pois a redução do conteúdo encarcerado “às cegas” pode levar a complicações, como lesão do nervo óptico. 
+Após a redução do conteúdo, faz-se a reconstrução do assoalho com enxerto ósseo ou de cartilagem, ou ainda implantes aloplásicos. 
+Complicações
+Pode ocorrer diplopia por lesão muscular durante a cirurgia;
+Hematomas (podem comprometer a acuidade visual);
+Ectrópio ou escleral show;
+10 a 20% dos pacientes precisarão de 2ª cirurgia para correções das posições da pálpebra ou do olho;
+Lesão do sistema lacrimal;
+Hipoestesia ou anestesia do infraorbital; 
+Escleral show: complicação frequente em razão da retração palpebral, em que a esclera fica mais aparente. Muitas podem melhorar com o tempo, mas algumas requerem correção com enxerto de pele. Ectrópio persistente pode levar a irritação da córnea e olho seco.
+
+Tema frequente de prova
+A síndrome da fissura orbital superior é sempre cobrada em questões de Residência Médica, assim como as suas caracterís-ticas.
+
+Características clínicas
+Oftalmoplegia traumática total;
+Dormência;
+Oftalmoplegia interna (midríase);
+Trauma envolvendo a órbita, com comprometimento do forame orbital superior;
+Lesão do III par craniano (oculomotor), com paralisia de: 
+Levantador da pálpebra;
+Reto superior;
+Reto inferior;
+Reto medial;
+Oblíquo inferior.
+IV par craniano (troclear), com paralisia do oblíquo superior;
+VI par craniano (abducente), com paralisia do reto lateral;
+Ramo oftálmico do trigêmeo (V), com dormência de: 
+Lábio superior;
+Fronte ipsilateral;
+Sobrancelha;
+Região medial do nariz.
+Ramo parassimpático, que segue com o III par e cursa com paralisia do músculo ciliar, levando a oftalmoplegia interna (midríase);
+Se o nervo óptico (passa através do forame orbital) também estiver envolvido, ocorrerá a síndrome do ápice orbital: 
+Oftalmoplegia externa;
+Dormência;
+Oftalmoplegia interna não fotorreagente;
+Cegueira.
+
+d) Fratura de maxila
+A maxila compõe o chamado terço médio da face, formando os pilares de sustentação vertical. Esses pilares são Processo Frontal (PF), Processo Zigomático (PZ) e Processo Palatino (PP).
+
+  
+Figura 19 - Maxila: pilares de sustentação da face
+
+As fraturas de maxila podem ocorrer de diversas maneiras. LeFort estudou os traços de fratura de milhares de crânios, quando arremessados ao chão, e observou que a maxila apresentava 3 diferentes padrões básicos de traços de fratura. 
+Classificação de LeFort 
+LeFort I: fratura transversa separando os alvéolos maxilares do restante da face superior (também conhecida como fratura de Guérin);
+LeFort II: fratura piramidal, separando um fragmento central em forma de pirâmide (contendo a dentição da maxila) do restante da face;
+LeFort III: disjunção craniofacial, separa a maxila ao nível da porção superior do zigomático, do assoalho da órbita e da região nasoetmoidal do esqueleto da face. 
+ 
+ 
+Figura 20 - Fraturas de LeFort: (A) I; (B) II e (C) III
+
+As fraturas tipo LeFort I e III são usualmente cominutivas e consistem em fragmentos das fraturas descritas por LeFort, que são bastante raras. Cerca de 10% das fraturas maxilares são acompanhadas de abertura sagital do palato, normalmente com laceração do lábio e/ou do palato. Apresentam movimento lateral excessivo dos alvéolos maxilares. 
+
+Tabela 8 - Quadro clínico e tratamento
+Quadro clínico	- Hematoma periorbital;
+	- Sangramento nasofaríngeo profuso; 
+	- Dor;
+	- Má oclusão;
+	- Lacerações intraorais;
+	- Sintomas de fraturas zigomáticas, orbitais, nasoetmoidais, dependendo do local;
+	- O sinal mais importante é a mobilidade do arco dentário maxilar;
+	- Os alvéolos maxilares usualmente estão retraídos, com contato prematuro (mordida aberta);
+	- Rinorreia e pneumoencéfalo podem acompanhar as fraturas LeFort I e II em até 25% dos casos.
+Tratamento	- Princípio: estabilização da oclusão, com reconstrução dos pilares;
+	- Geralmente restauram-se 2 dos pilares e se consegue estruturar a face;
+	- Fixação semirrígida acompanhada de bloqueios;
+	- Fixação rígida com mini ou microplaca.
+
+Pergunta
+2012 - SANTA CASA-GO
+2. O tipo de fratura que se apresenta transversalmente na maxila, logo acima do nível dos dentes, é denominado:
+a) Guérin
+b) Natvig
+c) Le Fort II
+d) Caldwell-Luc
+e) Howard-Killey
+Resposta no final do capítulo
+
+e) Fraturas frontobasilares
+As fraturas frontais, do seio frontal e em regiões supraorbitais são menos frequentes que as demais; 
+São frequentemente acompanhadas por injúria cerebral ou fístula dural, que se manifesta por rinorreia e/ou pneumoencéfalo; 
+Requerem tratamento com neurocirurgia;
+Fraturas supraorbitais: envolvem o osso frontal e a margem superior da órbita. Pode ser uma simples fratura da margem ou envolver todo o osso frontal. Lesões mais extensas são, em geral, acompanhadas de lesão cerebral;
+Quadro clínico: hematomas e lacerações periorbitais e depressão óssea ou da órbita. Ptose está presente com frequência pelo dano do músculo elevador da pálpebra. Pode haver síndrome da fissura orbital superior caso a lesão se estenda até o teto da órbita. 
+
+f) Fratura do seio frontal 
+O seio frontal ocupa a porção central do osso frontal;
+Forma 2 cavidades irregulares divididas por um septo, que drenam para o meato nasal por meio do ducto nasofrontal pelo assoalho do seio de cada lado; 
+Seu desenvolvimento inicia-se entre os 5 e 10 anos;
+Poucos sintomas agudos são característicos desse tipo de fratura;
+Frequentemente estão associados às fraturas nasoetmoidal, supraorbital e da fossa cranial anterior;
+Diagnóstico: tomografia da face;
+Fístula liquórica é frequente quando a parede anterior está fraturada;
+Tratamento: depende do número de paredes envolvidas:
+Parede anterior: observação se não houver deslocamento. Se houver, realizar elevação por incisão coronal;
+Lesão envolvendo o ducto nasofrontal: monitorização com tomografia para observar opacificação do seio. Se estiver envolvido, a mucosa do seio é removida; 
+Parede posterior: cranialização do seio (craniotomia frontal com exposição da dura e da base cranial anterior). A parede posterior é removida, e o ducto, obliterado. Retalho pericranial no assoalho e reconstrução da parede anterior. 
+
+g) Fratura de mandíbula
+3º osso mais fraturado na face. 
+
+Classificação
+I - Quanto à localização
+Sínfise, parassínfise, ramo, ângulo e côndilo (mais comum).  
+
+  
+Figura 21 - Regiões da mandíbula
+
+II - Favorável/desfavorável (se houver traço de fratura, separa-se ou se aproxima pela ação da musculatura)
+A mandíbula tem inserções musculares fortes que influenciam o seu deslocamento após a fratura. A ação desses músculos pode afastar (desfavoráveis) ou aproximar (favoráveis). 
+
+Tabela 9 - Músculos da mastigação
+Músculos que elevam a mandíbula	- Masseter;
+	- Pterigóideo medial;
+	- Temporal.
+Músculo protrusor da mandíbula	Pterigóideo lateral
+Músculo depressor da mandíbula	- Gênio-hióideo;
+	- Digástricos.
+
+III - Direção (oblíqua/transversa/cominutiva/“em galho verde”) 
+Quadro clínico
+Dor; 
+Edema; 
+Sensibilidade;
+Má oclusão;
+Dentes fraturados;
+Gaps e discrepâncias no nível da dentição;
+Assimetrias no arco dentário;
+Perda de dentes; 
+Crepitação;
+Hipoestesia do nervo mentual;
+Deformidade em mordida aberta;
+Trismo;
+Laceração do canal auditivo (côndilo).
+Diagnóstico
+Tomografia da face;
+Panorâmica da mandíbula.
+Tratamento
+Fraturas subcondilares, de ângulo, corpo e sínfise poderão ser tratadas por BIM somente se não há deslocamento significativo. Se há deslocamento, proceder à redução aberta;
+Na mandíbula edentada, as fraturas sem deslocamento podem ser tratadas por dieta pastosa. A maior parte, porém, necessita de redução aberta e fixação com placas e parafusos.
+Complicações
+Infecção;
+Não união; 
+Má oclusão; 
+Hipoestesia.
+
+h) Fratura nasoetmoido-orbital
+Lesão de 1 ou de ambos os processos frontais da maxila e do nariz;
+O processo frontal da maxila contém a inserção do ligamento cantomedial, que pode estar deslocado, causando telecanto;
+50% das fraturas nasoetmoidais são unilaterais;
+50% são isoladas; 
+Com frequência, acompanha fratura LeFort ou frontal; 
+Têm o maior potencial, entre todas as fraturas de face, de produzir deformidade. São acompanhadas, com frequência, de lesões da dura-máter ou de estruturas craniais anteriores;
+Quadro clínico: sangramento nasal, fratura nasal cominutiva, deprimida, com nariz encurtado, sensibilidade sobre o processo frontal da maxila, crepitação sobre o ligamento cantomedial; 
+Tratamento: redução aberta e fixação rígida. É importante reduzir o nariz por via transnasal, para manter a distância intercantal. A via de acesso pode ser coronal ou por incisão local vertical no canto da órbita.
+
+Resumo
 
 Quadro-resumo
-- O atendimento aos pacientes segue a padronização do ATLS®. A necessidade de via aérea cirúrgica é comum nesses pacientes;
-- A TC com cortes axiais e coronais é o padrão-ouro para o diagnóstico;
-- As principais lesões são fraturas de órbita, fraturas de nariz, fraturas de maxila e fraturas de mandíbula;
-- O hematoma septal é considerado urgência e deve ser tratado precocemente com drenagem e antibioticoterapia.
+Anatomia da face
+Ossos	- Fronte: 
+· 2 regiões násio (frontal);
+· Glabela (entre supercílios).
+	- Órbitas: 
+· Osso frontal (borda superior);
+· Ossos zigomático e frontal (borda lateral);
+· Maxilas, ossos lacrimal e frontal (borda medial);
+· Incisura supraorbital ou forame (porção medial);
+· Maxila e zigomático (borda inferior).  
+	- Proeminência da face: com 2 processos, frontal e temporal;  
+	- Nariz ósseo: ossos nasais e maxila; 
+	- Maxilas: formam o maxilar, são unidas pela sutura intermaxilar; 
+	- Mandíbula: apresenta 1 corpo e 1 par de ramos.
+Músculos 	- Superficiais da expressão facial:
+  · Occipitofrontal; 
+  · Da orelha; 
+  · Orbicular dos olhos;
+  · Prócero; 
+  · Corrugador do supercílio; 
+  · Nasal; 
+  · Depressor do septo nasal; 
+  · Elevador da asa do nariz e do lábio superior; 
+  · Elevador do lábio superior; 
+  · Elevador do ângulo da boca; 
+  · Zigomáticos menor e maior; 
+  · Risório; 
+  · Depressor do ângulo da boca; 
+  · Depressor do lábio inferior; 
+  · Bucinador; 
+  · Mental; 
+  · Platisma.
+	- Profundos da mastigação: 
+  · Masseter; 
+  · Temporal;
+  · Pterigóideo medial;
+  · Pterigóideo lateral.
+Irrigação	- Realizada por:
+  · Artéria lingual e seus ramos; 
+  · Facial e seus ramos; 
+  · Occipital;
+  · Auricular posterior;
+  · Temporal superficial e seus ramos; 
+  · Maxilar e seus ramos e oftálmica.  
+Inervação 	- Realizada por:
+  · Nervo facial e seus ramos; 
+  · Nervo trigêmeo e seus ramos.
+Avaliação 	- Realizada por:
+· Anamnese (mecanismo do trauma e tempo de exposição); 
+· Exame clínico;  
+· Exames de imagem (raio x e tomografia de face). 
+	- Divisão das lesões:
+   · Fechadas;
+   · Abertas;
+   · Partes moles.
+	- Não esquecer: há condutas específicas para cada local lesado;
+	- Nas fraturas da face, 2 fases de tratamento: 
+· De emergência;
+· Definitivo da fratura.
 
-Resposta
-1. C
-
-Mapa mental  
- 
-
-Dica
-Para fixar o que estudou neste capítulo, teste seus conhecimentos resolvendo as questões referentes ao tema.
-Questões: página XX
-Comentários: página XX
-
-
+Respostas das perguntas do capítulo
+1. B
+2. A
